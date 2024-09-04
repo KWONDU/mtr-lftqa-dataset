@@ -7,7 +7,7 @@ class Dataset():
     def __init__(self):
         self.path = None
         self.tables = None
-        self.dataset = None
+        self.full = None
         self.train = None
         self.validation = None
         self.test = None
@@ -20,6 +20,7 @@ class TabFactDataset(Dataset):
     def __init__(self):
         self.path = 'source_data/tabfact'
         self.tables = self.__load_tables(f'{self.path}/tables')
+        self.full = self.__load_data(self.path, 'full')
         self.train = self.__load_data(self.path, 'train')
         self.validation = self.__load_data(self.path, 'validation')
         self.test = self.__load_data(self.path, 'test')
@@ -40,8 +41,11 @@ class TabFactDataset(Dataset):
             data_dic = json.load(file)
             for table_id, data in data_dic.items():
                 self.tables[table_id]['title'] = data[2]
-                self_data['data'][table_id] = [statement for statement, label in zip(data[0], data[1]) if label]
-        with open(f'{src_file_path}/{split}_table_ids.json', 'r', encoding='utf-8') as file:
-            id_list = json.load(file)
-            self_data['tables'] = {table_id: self.tables[table_id] for table_id in id_list}
+                self_data['data'][table_id] = [statement for statement, label in zip(data[0], data[1]) if label == 1]
+        if split == 'full':
+            self_data['tables'] = self.tables
+        else:
+            with open(f'{src_file_path}/{split}_table_ids.json', 'r', encoding='utf-8') as file:
+                id_list = json.load(file)
+                self_data['tables'] = {table_id: self.tables[table_id] for table_id in id_list}
         return self_data

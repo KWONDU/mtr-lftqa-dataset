@@ -1,0 +1,289 @@
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: list of longest - serving soap opera actors
+headers of each table:
+table 1 header: actor | character | soap opera | years | duration
+table 2 header: actor | character | soap opera | years | duration
+table 3 header: actor | character | soap opera | years | duration
+table 4 header: actor | character | soap opera | years | duration
+table 5 header: rank | actor | character | soap opera | years | duration
+table 6 header: actor | character | soap opera | years | duration
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	norman paint play the character phil archer in the archer for 59 year
+2.	pauline seville play the character mr perkins in the archer for 39 year
+3.	mollie harris play the character martha woodford in the archer
+4.	margot boyd play the character marjorie antrobus
+5.	un posto al sole have the top 13 longest serve actor , with 5 actor serve 18 year
+6.	all actor on the list work on the soap opera un posto al sole except for 3 who work on centovetrine and 1 from incantesimo
+7.	giulia and angela poggi , play by marina tagliaferri and claudia ruffo repectively , be the only actor to leave the show and return year later
+8.	delia boccardo , who play tilly nardi on incantesimo , be the only actor on the list who be no longer still act 1 the show
+9.	all longest - serve actor from centovetrine start in 2001
+10.	seamus moran and rebecca smith be both from the soap opera fair city
+11.	mich nolan sorcha furlong have the same year of 2001 -
+12.	seamus moran and rebecca smith be in soap opera for a duration of 12 year
+13.	grace barry be in soap opera for 1 year longer than gemma doorly
+14.	pat leavy be in opera for 1 year longer than rebecca smith
+15.	angela bloomfield play rachel mckenna
+16.	angela bloomfield be on shortland street from 1993 - 1999 , 2001 - 2003 , 2007 , and 2009 to present
+17.	elin sogn be on hotel cæsar from 2000 - 2004 and 2005 - present
+18.	svein krogstad be a character on hotel cæsar for 11 year
+19.	elin be on the soap opera hotel cæsar
+20.	among soap opera actor , lesley saweard have be act the longest
+21.	actor from the soap opera the archer appear more than any other soap opera
+22.	william roache have be a soap opera actor longer than any actor from as the world turn
+23.	don hastings have not be a soap opera actor for longer than june spencer
+24.	patricia greene have be a soap opera actor for 5 year longer than helen wagner
+25.	laura malmivaara be in kotikatu for the least amount of time
+26.	aake kalliala be in kotikatu longer than risto autio
+27.	eeva litmanen be in kotikatu longer than laura malmivaara
+28.	esko kovero be in salatut elämät the longest
+29.	anu palevaara be in salatut elämät for the least amount of time
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+Norman Painting portrayed the character of Phil Archer in "The Archers" for a remarkable duration of 59 years, while Pauline Seville depicted Mr. Perkins for 39 years, and Margot Boyd brought life to Marjorie Antrobus; furthermore, "Un Posto al Sole" boasts the top 13 longest-serving actors, with 5 actors accumulating 18 years, with all actors on the list primarily featuring in "Un Posto al Sole," except for 3 from "Centovetrine" and 1 from "Incantesimo," among whom Giulia and Angela Poggi, played by Marina Tagliaferri and Claudia Ruffo respectively, stood out as the only actors to depart the show and later return, while Delia Boccardo, known for portraying Tilly Nardi in "Incantesimo," stands as the only actor on the list who is no longer actively involved in the show; notable actors from "Centovetrine" commenced their roles in 2001, and Seamus Moran and Rebecca Smith share a connection through the soap opera "Fair City," both having a duration of 12 years, while Grace Barry surpasses Gemma Doorly by 1 year in soap opera appearances, as does Pat Leavy compared to Rebecca Smith; Angela Bloomfield's portrayal of Rachel McKenna continues to resonate, notably in "Shortland Street" over various periods since 1993, whereas Elin Sogn has displayed continuity in "Hotel Cæsar" since 2000, with Svein Krogstad's character tenure lasting 11 years on the same show; it is evident that Lesley Saweard has amassed the longest career among soap opera actors, "The Archers" characters have appeared more than those from any other soap opera, and William Roache's enduring presence surpasses that of actors from "As the World Turns," as does Patricia Greene when compared to Helen Wagner; the Finnish soap opera "Kotikatu" saw Laura Malmivaara's brief appearance, contrasting with Aake Kalliala's longer tenure and Eeva Litmanen's extended involvement, while Esko Kovero stood out for the most extended stint in "Salatut Elämät," in contrast to Anu Palevaara's shorter duration in the same show.
+
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: swimming at the 2008 summer olympics - men 's 200 metre individual medley
+headers of each table:
+table 1 header: rank | lane | name | nationality | time
+table 2 header: heat | lane | name | nationality | time
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	the player who rank 5th be takuro fujii
+2.	the nationality of the player rank 4th be barbados
+3.	spain , in lane 1 , have a time of 2:03.08
+4.	miguel molina have 2 heat
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+At the 2008 Summer Olympics in the Men's 200 metre individual medley, Takuro Fujii from Japan ranked 5th, the player from Barbados ranked 4th, Spain's Miguel Molina competed in heat 2 in lane 1, finishing with a time of 2:03.08.
+
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: bob bryan career statistics
+headers of each table:
+table 1 header: outcome | year | championship | surface | partner | opponents | score
+table 2 header: outcome | year | championship | surface | partner | opponent | score
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	katarina srebotnik be the partner who play 2 time on a hard surface
+2.	both of the partner during the french open , victoria azarenka and liezel huber , play on a clay surface
+3.	the championship at wimbledon be play on a grass surface
+4.	both the first wimbledon and 1 of the us open be in 2006
+5.	vera zvonareva and venus williams play at the us open and wimbledon , respectively
+6.	there be 1 championship where the score be 4 - 6 , 7 - 6 (7 - 5) , and it be not play on clay
+7.	the surface be hard the year the score be 6 - 1 , 4 - 6
+8.	there be only 1 6 - 4 , 3 - 6 , (11 - 13) score
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+In Bob Bryan's career statistics, Katarina Srebotnik was the partner with whom he competed twice on a hard surface, while during the French Open, both Victoria Azarenka and Liezel Huber were partners who played on a clay surface; the Wimbledon championship was played on grass, with the first Wimbledon and one US Open occurring in 2006, where Vera Zvonareva and Venus Williams played at the US Open and Wimbledon respectively, having a particular match with a 4-6, 7-6 (7-5) score not on clay; additionally, a hard surface was in play during a match with a 6-1, 4-6 score, and there was only one instance of a 6-4, 3-6, (11-13) score.
+
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: vcu rams men 's basketball
+headers of each table:
+table 1 header: season | coach | overall | conference | standing | postseason
+table 2 header: year | record | seed | region | results
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	the 2009 - 10 season be the only 1 in which the ram didn' make the ncaa tournament
+2.	the ram lose 4 conference game in both the 2008 - 09 and 2012 - 13 season
+3.	the ram average 27.75 overall win under shaka smart
+4.	the ram average 9.25 loss under shaka smart
+5.	the ram win at least 24 game in each season
+6.	in 1996 , the southeast region have a record of 24 - 9
+7.	2012 set the record for the year with the highest score of 29 - 7. 2013 follow with 27 - 9
+8.	in 2011 , the southwest region win a total of 5 game and lose 1 game create a record of 28 - 12
+9.	in 1980 , the east region result be a loss of 72 - 86 from a seed 12 plus the year be smaller than 1996
+10.	the earliest year with a record of 18 - 12 be the year 1980
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+Throughout the history of VCU Rams men's basketball, under Coach Shaka Smart, the team consistently achieved high levels of success by averaging 27.75 overall wins and experiencing only one season where they did not make the NCAA tournament in 2009-10, while also maintaining a record of at least 24 wins each season, with notable conference losses in the 2008-09 and 2012-13 seasons, and setting regional records such as the Southeast region's 24-9 in 1996, the Southwest region's 28-12 in 2011, and the East region's 72-86 loss from a seed 12 in 1980, the earliest year with a record of 18-12.
+
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: charlotte county , new brunswick
+headers of each table:
+table 1 header: official name | status | area km 2 | population | census ranking
+table 2 header: official name | status | area km 2 | population | census ranking
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	the official name of the community with an area kilometer square of 1613 be st george
+2.	the saint james parish have the highest area for charlotte county
+3.	the clarendon parish have the smallest population of only 72
+4.	of the 2 parish with a population of 824 , the lepreau parish have a larger area
+5.	pennfield 's parish have a poplution of 219 more than saint stephen 's parish
+6.	grand menon have an area of 6.20 , while clarendon have an area of 492.84
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+In Charlotte County, New Brunswick, St. George is officially recognized as the community spanning 1613 square kilometers, with Saint James Parish boasting the largest area, while Clarendon Parish holds the smallest population of 72 residents; among the parishes with a population of 824, Lepreau Parish covers a larger area, Pennfield Parish exceeds Saint Stephen Parish by 219 inhabitants, and Grand Manan occupies 6.20 square kilometers compared to Clarendon's 492.84 square kilometers.
+
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: wru division two west
+headers of each table:
+table 1 header: club | played | drawn | lost | points for | points against | tries for | tries against | try bonus | losing bonus | points
+table 2 header: club | played | drawn | lost | points for | points against | tries for | tries against | try bonus | losing bonus | points
+table 3 header: club | played | drawn | lost | points for | points against | tries for | tries against | try bonus | losing bonus | points
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	as of may 26 , 2012 , tondu rfc lost 5 game out of 22 game
+2.	there be 60 tries for when there be 38 tries against
+3.	there be 413 point against when tries against be 51 and point be 52 , when play be 22
+4.	the be 603 point against cwmllynfell rfc
+5.	there be 60 tries for when the tries against be 38
+6.	there be 413 point against when the tries against be 51 and the point be 52 when play be 22
+7.	cwmllynfell rfc have 603 point against
+8.	the losing bonus be 10 for the pencoed rfc club
+9.	when there be 34 tries for for pencoed rfc , there be zero draw
+10.	there be 67 tries against with 520 point against for pontyberem rfc
+11.	loughor rfc have 47 tries for and 479 point against
+12.	when there be 479 point against , loughor rfc have 11 loss
+13.	when there be 58 point for the try bonus be 4 for club ammanford rfc
+14.	there be no match draw by ammanford rfc
+15.	kidwelly rfc have 22 match with 386 point against , 45 tries against , and a losing bonus of 3
+16.	cwmavon rfc have 332 point and a try bonus of 3
+17.	lougher rfc have a try bonus of 9 and 43 tries against
+18.	builth well rfc have 22 match and have 473 point for
+19.	there be no match draw by ammanford rfc with 447 point
+20.	386 be the number of point against team with 22 match play , a losing bonus of 3 , and 45 tries against
+21.	there be 3 try bonus for the team with 332 point for
+22.	loughor rfc club have a try bonus of 9 and 43 tries against in addition to 64 point total
+23.	the team that play 22 match have 473 point for be builth well rfc
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+In the WRU Division Two West league as of May 26, 2012, various rugby clubs displayed their performances with Tondu RFC losing 5 out of 22 games, scoring 60 tries and facing 38 tries against, while Cwmllynfell RFC conceded 603 points, and Loughor RFC showcased 47 tries for and 479 points against, also achieving 11 losses throughout the season, with additional notable performances like Pencoed RFC securing a losing bonus of 10, Ammanford RFC not having any drawn matches, Kidwelly RFC accumulating 386 points with 45 tries against and a losing bonus of 3, Cwmavon RFC scoring 332 points and earning a try bonus of 3, Builth Wells RFC tallying 473 points over 22 matches, Pontyberem RFC facing 67 tries against with 520 points conceded, and Loughor RFC and Ammanford RFC each attaining 43 and 4 try bonuses respectively, illustrating a detailed overview of the clubs' successes and challenges in the league.
+
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: 2005 nascar nextel cup series
+headers of each table:
+table 1 header: team | car (s) | - | driver (s) | primary sponsor (s) | listed owner (s) | crew chief
+table 2 header: team | car (s) | driver (s) | primary sponsor (s) | crew chief
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	jeremy mayfield drive for ray evernham 's team
+2.	fedex be jason leffler 's primary sponsor
+3.	pfizer / viagara be the primary sponsor of mark martin
+4.	the crew chief of joe gibbs racing team be dave rogers , which have a chevrolet monte carlo and fedex as the primary sponsor
+5.	the team with crew chief derrick finley have driver scott wimmer
+6.	jimmy elledge be the crew chief of team chip ganassi racing with felix sabates , which have casey mears as the driver
+7.	peak fitness racing be the team that have peak fitness as the primary sponsor
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+In the 2005 NASCAR Nextel Cup Series, Jeremy Mayfield drove for Ray Evernham's team, with FedEx as Jason Leffler's primary sponsor, Pfizer/Viagara sponsoring Mark Martin, Joe Gibbs Racing team's crew chief being Dave Rogers overseeing a Chevrolet Monte Carlo with FedEx as the primary sponsor, Derrick Finley being the crew chief for the team with driver Scott Wimmer, Jimmy Elledge serving as the crew chief for Team Chip Ganassi Racing with Felix Sabates, where Casey Mears was the driver, and Peak Fitness Racing being the team sponsored by Peak Fitness.
+
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: 1988 indycar season
+headers of each table:
+table 1 header: rnd | race name | circuit | city / location | date | pole position | winning driver | winning team | report
+table 2 header: race name | circuit | city / location | date | pole position | winning driver | winning team | report
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	there be a race on october 16
+2.	newman / haas racing be the win team of the checker 200 race
+3.	meadowland sport complex be locate in east rutherford , new jersey
+4.	rick mears be both the pole position and winning driver for team penske in speedway , indiana
+5.	the budweiser / g i joe 's 200 take place at the portland international raceway in portland , oregon
+6.	for the meadowlands grand prix in east rutherford , new jersey , emerson fittipaldi start in the pole position
+7.	the circuit be in new jersey at the meadowlands sport complex on july 24
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+The 1988 IndyCar season featured races at various locations including the Meadowlands Sport Complex in East Rutherford, New Jersey where Emerson Fittipaldi secured the pole position, while Newman/Haas Racing triumphed at the Checker 200 race, Rick Mears achieved both the pole position and victory for Team Penske at Speedway, Indiana, and the Budweiser/G.I. Joe's 200 event took place at the Portland International Raceway in Portland, Oregon; with the season concluding on October 16th and including a race at the Meadowlands Sport Complex on July 24th.
+
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: 1993 giro d'italia
+headers of each table:
+table 1 header: stage | winner | general classification | points classification | mountains classification | young rider classification | intergiro classification | trofeo fast team
+table 2 header: stage | winner | general classification | points classification | mountains classification | young rider classification | intergiro classification | trofeo fast team
+table 3 header: date | course | distance | type | winner
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	in 1993 giro d'italia , francesco casagrande be the first mountains classification
+2.	in general classification moreno argentin have the average of 10 more than than bruno leali
+3.	carrera jean - tassoni have higher fast team - ballan
+4.	claudio chiappucci have lower mountain classification than mariano piccoli
+5.	there be 3 winner who have win 1993 giro d'italia 2 time
+6.	moreno argentin , adriano baffi , fabio baldato , dimitri konyshev , and miguel indurain be each winner in more than 1 stage
+7.	eddy seigneur be the only person with the young rider classification just 1 time
+8.	adriano baffi be the only winner 2 time after the 10th stage
+9.	adriano baffi have more point classification than do francesco casagrande for mountain classification
+10.	pavel tonkov have the young rider classification 11 time , but be not 1 time the winner
+11.	plain stage type have a course of grosseto to rieti
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+In the 1993 Giro d'Italia, Francesco Casagrande became the first winner of the mountains classification, while Moreno Argentin had an average of 10 more points than Bruno Leali in the general classification, with Carrera Jean-Tassoni having a higher Trofeo Fast Team placement than Ballan, Claudio Chiappucci ranking lower in the mountains classification than Mariano Piccoli, and three winners achieving victories twice throughout the competition, including Moreno Argentin, Adriano Baffi, Fabio Baldato, Dimitri Konyshev, and Miguel Indurain, with Eddy Seigneur being the sole recipient of the young rider classification once; furthermore, Adriano Baffi emerged as the only double winner after the 10th stage, having more points in the classification than Francesco Casagrande for the mountain category, Pavel Tonkov securing the young rider classification eleven times without clinching a single victory, and plain stage types featuring a course from Grosseto to Rieti.
+
+### System Prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: azeotrope (data)
+headers of each table:
+table 1 header: 2nd component | bp 2nd comp (˚c) | 3rd component | bp 3rd comp (˚c) | bp azeo (˚c)
+table 2 header: 2nd component | bp 2nd comp (˚c) | 3rd component | bp 3rd comp (˚c) | bp azeo (˚c) | % wt 1st | % wt 2nd | % wt 3rd
+table 3 header: component 1 | bp comp 1 (˚c) | component 2 | bp comp 2 (˚c) | bp azeo (˚c) | % wt comp 1 | % wt comp 2
+### User Prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	the 2nd component , ethanol , have a bp 2nd comp (˚c) of 78.4 and the 3rd component , ethyl acetate , have a bp 3rd comp (˚c) of 77.1
+2.	the 3rd component be cyclohexane and have a bp 3rd comp (˚c) of 80.8
+3.	there be 5 azeotropes with a carbon disulfide component 1 , while only 2 have a cyclohexane component
+4.	there be 3 more azeotropes with a carbon disulfide component 1 than with a chloroform component
+5.	the azeotropes with the most of 1 component 1 be 5 , which be carbon disulfide
+6.	there be 3 azeotropes with the component 1 of propylene glycol
+7.	there be 2 azeotropes with the component 1 of tetrahydrofuran
+
+Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+### Long-form statement ###
+The data reveals a total of 5 azeotropes containing component 1, carbon disulfide, while only 2 azeotropes include cyclohexane; further analysis shows that there are 3 more azeotropes with carbon disulfide than with chloroform, the highest number of azeotropes (5) contain carbon disulfide as component 1, with 3 azeotropes featuring propylene glycol and 2 azeotropes containing tetrahydrofuran as component 1, demonstrating the distribution and prevalence of different components within the azeotropes.
+

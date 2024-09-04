@@ -2,27 +2,30 @@ import logging
 from openai import OpenAI
 
 
-def generate_long_form_answer(table, short_form_answers, llm='gpt-3.5'):
-    enum_short_form_answers = ''.join(f"{i+1}.\t{short_form_answers[i]}\n" for i in range(len(short_form_answers)))
-    template = (
-        "Given a table metadata and a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.\n\n"
-        f"Here are table metadata:\n"
-        f"table_title:\t{None if table['title'] == '' else table['title']}\n"
-        f"table_header:\t{' | '.join(table['cell'][0])}\n\n"
-        f"Here are the short-form statements:\n{enum_short_form_answers}"
-        "\nPlease generate a well-structured, long-form statement based on these table and short-form statements. Note that generated long-form statement should be a single sentence."
-    )
+def load_prompt_template(role):
+    with open(f'prompt/{role}_prompt_template.txt', 'r') as file:
+        return file.read()
+
+
+def generate_long_form_answer(page_title, data, llm='gpt-3.5'):
+    total_headers = [each_table['header'] for each_table in data]
+    enum_total_headers = '\n'.join(f"table {i+1} header: {' | '.join(total_headers[i])}" for i in range(len(total_headers)))
+    total_statements = [each_statement for each_table in data for each_statement in each_table['statements']]
+    enum_total_statements = '\n'.join(f"{i+1}.\t{total_statements[i]}" for i in range(len(total_statements)))
+
+    system_prompt = load_prompt_template('system').format(title=page_title, headers=enum_total_headers)
+    user_prompt = load_prompt_template('user').format(statements=enum_total_statements)
 
     if llm == 'gpt-3.5':
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": "You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that you are an expert in this field."},
-                {"role": "user", "content": template}
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
             ]
         )
     
-    return response.choices[0].message.content
+    return system_prompt, user_prompt, response.choices[0].message.content
 
 
 if __name__ == 'util_llm':
