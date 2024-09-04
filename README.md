@@ -7,3 +7,7 @@
 ## 2. Run
 
     python3 main.py -d TabFact
+
+## 3. Result file
+
+    tabfact-lf-answer.txt
