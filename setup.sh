@@ -11,5 +11,6 @@ do
 done
 
 pip install nltk numpy torch openai tqdm transformers
+tar -zxvf source_data/tabfact/tables.tar.gz
 
 echo "INFO: setup done."
