@@ -1,6 +1,6 @@
 #!/bin/bash
 
-required_files=("dataset.py" "main.py" "util.py" "source_data/spider/tables.json")
+required_files=("dataset.py" "main.py" "util_llm.py" "util_manip.py" "util.py")
 for files in "${required_files[@]}"
 do
     do
@@ -10,6 +10,6 @@ do
     fi
 done
 
-pip install datasets nltk numpy torch openai tqdm transformers
+pip install nltk numpy torch openai tqdm transformers
 
 echo "INFO: setup done."

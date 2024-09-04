@@ -9,14 +9,12 @@ def load_dataset(dataset_name):
         dataset_class = getattr(module, f'{dataset_name}Dataset')()
     except Exception as e:
         logger.critical(e)
-
     return dataset_class
 
 
 def parser():
     parser = argparse.ArgumentParser()
     parser.add_argument('-d', type=str, default='', help="dataset name")
-
     return parser
 
 
