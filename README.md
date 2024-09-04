@@ -3,3 +3,7 @@
 ## 1. Setup
 
     ./setup.sh
+
+## 2. Run
+
+    python3 main.py -d TabFact

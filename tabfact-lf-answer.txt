@@ -1,289 +1,382 @@
-### System Prompt ###
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: list of longest - serving soap opera actors
+Wikipedia page title: 1972 nhl amateur draft
 headers of each table:
-table 1 header: actor | character | soap opera | years | duration
-table 2 header: actor | character | soap opera | years | duration
-table 3 header: actor | character | soap opera | years | duration
-table 4 header: actor | character | soap opera | years | duration
-table 5 header: rank | actor | character | soap opera | years | duration
-table 6 header: actor | character | soap opera | years | duration
-### User Prompt ###
+table 1 header: pick | player | position | nationality | nhl team | college / junior / club team
+table 2 header: pick | player | position | nationality | nhl team | college / junior / club team
+table 3 header: pick | player | position | nationality | nhl team | college / junior / club team
+table 4 header: pick | player | position | nationality | nhl team | college / junior / club team
+table 5 header: pick | player | position | nationality | nhl team | college / junior / club team
+table 6 header: pick | player | position | nationality | nhl team | college / junior / club team
+table 7 header: pick | player | position | nationality | nhl team | college / junior / club team
+table 8 header: pick | player | position | nationality | nhl team | college / junior / club team
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	norman paint play the character phil archer in the archer for 59 year
-2.	pauline seville play the character mr perkins in the archer for 39 year
-3.	mollie harris play the character martha woodford in the archer
-4.	margot boyd play the character marjorie antrobus
-5.	un posto al sole have the top 13 longest serve actor , with 5 actor serve 18 year
-6.	all actor on the list work on the soap opera un posto al sole except for 3 who work on centovetrine and 1 from incantesimo
-7.	giulia and angela poggi , play by marina tagliaferri and claudia ruffo repectively , be the only actor to leave the show and return year later
-8.	delia boccardo , who play tilly nardi on incantesimo , be the only actor on the list who be no longer still act 1 the show
-9.	all longest - serve actor from centovetrine start in 2001
-10.	seamus moran and rebecca smith be both from the soap opera fair city
-11.	mich nolan sorcha furlong have the same year of 2001 -
-12.	seamus moran and rebecca smith be in soap opera for a duration of 12 year
-13.	grace barry be in soap opera for 1 year longer than gemma doorly
-14.	pat leavy be in opera for 1 year longer than rebecca smith
-15.	angela bloomfield play rachel mckenna
-16.	angela bloomfield be on shortland street from 1993 - 1999 , 2001 - 2003 , 2007 , and 2009 to present
-17.	elin sogn be on hotel cæsar from 2000 - 2004 and 2005 - present
-18.	svein krogstad be a character on hotel cæsar for 11 year
-19.	elin be on the soap opera hotel cæsar
-20.	among soap opera actor , lesley saweard have be act the longest
-21.	actor from the soap opera the archer appear more than any other soap opera
-22.	william roache have be a soap opera actor longer than any actor from as the world turn
-23.	don hastings have not be a soap opera actor for longer than june spencer
-24.	patricia greene have be a soap opera actor for 5 year longer than helen wagner
-25.	laura malmivaara be in kotikatu for the least amount of time
-26.	aake kalliala be in kotikatu longer than risto autio
-27.	eeva litmanen be in kotikatu longer than laura malmivaara
-28.	esko kovero be in salatut elämät the longest
-29.	anu palevaara be in salatut elämät for the least amount of time
+1.	during the 1972 nhl draft , mike bloom be pick 1 spot worse than bob macmillan
+2.	during the 1972 nhl draft , both phil russell and john van boxmeer play same position
+3.	during the 1972 nhl draft , all 16 of the draft pick be from canada
+4.	during the 1972 nhl draft , john van boxmeer and dave gardner be from the montreal canadiens
+5.	during the 1972 nhl draft , billy harris have a better draft pick than george ferguson
+6.	the minnesota north star have the brandon wheat king as their junior club team
+7.	the 132nd pick of the nhl draft be jean lamarre
+8.	there 's just 1 player from the vancouver canucks in this table
+9.	the position of ray boutin be that of a goaltender
+10.	player denis meloche be from the junior team drummondville ranger
+11.	the st louis blue have the 89th pick
+12.	dave mclelland play goaltender for the vancouver canuck
+13.	the st louis blue be the team that have a pick of 89
+14.	dave mclelland be the goaltender for the vancouver canuck
+15.	stan weir play centre for california golden seal
+16.	dwight bialowas play defence for atlanta flame team
+17.	lorne henning be the lowest pick of 17.0
+18.	jack lynch play for the oshawa general (omjhl) before play for pittsburgh penguin
+19.	rene villemure play left wing
+20.	stan weir be the 28th pick for the medicine hat tiger
+21.	2 player from the calgary centennial be select
+22.	only 1 player from the united state be select
+23.	terry ryan be select after denis deslauriers
+24.	only 2 goaltender be select
+25.	3 player from the wchl be select
+26.	rene lambert play right wing and be draft with the 146th pick
+27.	a canadian be the 20 pick for the right wing position
+28.	college / junior / club team kitchener ranger (omjhl) make the 22 pick for the centre position
+29.	the nhl team with pick number 32 be the boston bruin
+30.	college / junior / club team edmonton oil king (wchl) have the 23 pick for defence
+31.	pick 31 , be rene villemure a nhl new york ranger
+32.	the name of team for college / junior club for philadelphia flyer be charlottetown royal (majhl)
+33.	the position for ron lalonde be centre
+34.	the calgary centennial (wchl) be the college / junior / club team for pick number 63
+35.	charlottetown royal (majhl) be the name of team for college / junior club for philadelphia flyer
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-### Long-form statement ###
-Norman Painting portrayed the character of Phil Archer in "The Archers" for a remarkable duration of 59 years, while Pauline Seville depicted Mr. Perkins for 39 years, and Margot Boyd brought life to Marjorie Antrobus; furthermore, "Un Posto al Sole" boasts the top 13 longest-serving actors, with 5 actors accumulating 18 years, with all actors on the list primarily featuring in "Un Posto al Sole," except for 3 from "Centovetrine" and 1 from "Incantesimo," among whom Giulia and Angela Poggi, played by Marina Tagliaferri and Claudia Ruffo respectively, stood out as the only actors to depart the show and later return, while Delia Boccardo, known for portraying Tilly Nardi in "Incantesimo," stands as the only actor on the list who is no longer actively involved in the show; notable actors from "Centovetrine" commenced their roles in 2001, and Seamus Moran and Rebecca Smith share a connection through the soap opera "Fair City," both having a duration of 12 years, while Grace Barry surpasses Gemma Doorly by 1 year in soap opera appearances, as does Pat Leavy compared to Rebecca Smith; Angela Bloomfield's portrayal of Rachel McKenna continues to resonate, notably in "Shortland Street" over various periods since 1993, whereas Elin Sogn has displayed continuity in "Hotel Cæsar" since 2000, with Svein Krogstad's character tenure lasting 11 years on the same show; it is evident that Lesley Saweard has amassed the longest career among soap opera actors, "The Archers" characters have appeared more than those from any other soap opera, and William Roache's enduring presence surpasses that of actors from "As the World Turns," as does Patricia Greene when compared to Helen Wagner; the Finnish soap opera "Kotikatu" saw Laura Malmivaara's brief appearance, contrasting with Aake Kalliala's longer tenure and Eeva Litmanen's extended involvement, while Esko Kovero stood out for the most extended stint in "Salatut Elämät," in contrast to Anu Palevaara's shorter duration in the same show.
 
-### System Prompt ###
+### Long-form statement ###
+During the 1972 NHL draft, which saw all 16 draft picks being from Canada, Mike Bloom was chosen one spot lower than Bob MacMillan, while Phil Russell and John Van Boxmeer both played the same position, with John Van Boxmeer and Dave Gardner being selected by the Montreal Canadiens, Billy Harris achieving a higher draft pick than George Ferguson, and the only player from the Vancouver Canucks in this draft being Dave McLelland, who was also a goaltender; meanwhile, the Minnesota North Stars selected players from the Brandon Wheat Kings as their junior club team, the 132nd pick was Jean Lamarre, Ray Boutin was a goaltender, Denis Meloche hailed from the Drummondville Rangers junior team, the St. Louis Blues held the 89th pick, Stan Weir played center for the California Golden Seals, Dwight Bialowas played defense for the Atlanta Flames, Lorne Henning was the lowest pick at 17.0, Jack Lynch transitioned from the Oshawa Generals to the Pittsburgh Penguins, and Rene Villemure played left wing, Stan Weir was the 28th pick from the Medicine Hat Tigers, two players from the Calgary Centennials were selected, with only one player from the United States being chosen, Terry Ryan was picked after Denis Deslauriers, and only two goaltenders were selected overall; three players from the WCHL were chosen, Rene Lambert played right wing and was drafted 146th, a Canadian was the 20th pick for the right wing position, Kitchener Rangers (OMJHL) made the 22nd pick for center, the 32nd pick was the Boston Bruins, Edmonton Oil Kings (WCHL) acquired the 23rd pick for defense, Rene Villemure went to the New York Rangers at pick 31, and Ron Lalonde played center, while the Charlottetown Royals (MAJHL) were connected to the Philadelphia Flyers as their college/junior/club team, with the Calgary Centennials (WCHL) also serving as the college/junior/club team for the 63rd pick.
+
+===
+
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: swimming at the 2008 summer olympics - men 's 200 metre individual medley
+Wikipedia page title: black diamond conference
 headers of each table:
-table 1 header: rank | lane | name | nationality | time
-table 2 header: heat | lane | name | nationality | time
-### User Prompt ###
+table 1 header: team name | schools | sports | host | nickname (s) | colors | enrollment (2013 / 14)
+table 2 header: team name | schools | sports | host | nickname (s) | colors | enrollment (2013 / 14)
+table 3 header: school | location | nickname (s) | colors | years member
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	the player who rank 5th be takuro fujii
-2.	the nationality of the player rank 4th be barbados
-3.	spain , in lane 1 , have a time of 2:03.08
-4.	miguel molina have 2 heat
+1.	the nickname of the team whose 2013 / enrollment be 436 be the falcon
+2.	elverado - trico be the name of the team from the elcerado trico school in football
+3.	football be the most common sport in the black diamond conference
+4.	the highest enrollment of the 2013 season in the black diamond conference be 549
+5.	sesser - valler have the lowest enrollment of the 2013 season in the black diamond conference with only 309
+6.	there be 2 out of 7 team total whose mascot be the eagle
+7.	there be only 1 wrestling team in the black diamond conference for 2013
+8.	carterville high school be the most recent school to be a member of the black diamond conference
+9.	elkville high school and zeigler high school both join in 1949 and leave in 1963
+10.	carterville high school and sesser high school do not have any color in common
+11.	cairo high school and carterville each have different nickname for the boy and girl team
+12.	carbondale university high school leave the conference prior to cairo join
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-### Long-form statement ###
-At the 2008 Summer Olympics in the Men's 200 metre individual medley, Takuro Fujii from Japan ranked 5th, the player from Barbados ranked 4th, Spain's Miguel Molina competed in heat 2 in lane 1, finishing with a time of 2:03.08.
 
-### System Prompt ###
+### Long-form statement ###
+The Black Diamond Conference, known for football being its most common sport and having a total of seven teams with diverse mascots and colors, saw teams with varying enrollments ranging from Elverado-Trico having 436 students to Sesser-Valier having the lowest at 309 in the 2013 season, while witnessing Carterville High School as the most recent member, Cairo High School joining after Carbondale University High School left, and Elkville High School and Zeigler High School being both members from 1949 to 1963.
+
+===
+
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: bob bryan career statistics
+Wikipedia page title: iaaf road race label events
 headers of each table:
-table 1 header: outcome | year | championship | surface | partner | opponents | score
-table 2 header: outcome | year | championship | surface | partner | opponent | score
-### User Prompt ###
+table 1 header: road race | distance | location | country | month held
+table 2 header: road race | distance | location | country | month held
+table 3 header: road race | distance | location | country | month held
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	katarina srebotnik be the partner who play 2 time on a hard surface
-2.	both of the partner during the french open , victoria azarenka and liezel huber , play on a clay surface
-3.	the championship at wimbledon be play on a grass surface
-4.	both the first wimbledon and 1 of the us open be in 2006
-5.	vera zvonareva and venus williams play at the us open and wimbledon , respectively
-6.	there be 1 championship where the score be 4 - 6 , 7 - 6 (7 - 5) , and it be not play on clay
-7.	the surface be hard the year the score be 6 - 1 , 4 - 6
-8.	there be only 1 6 - 4 , 3 - 6 , (11 - 13) score
+1.	just and august be the only month that didn't have an event
+2.	there be more 10 km event than there be 12 km event
+3.	there be more marathon than any other distance type
+4.	japan 's event in march be the only back - to - back event to take pace in the same country
+5.	japan host more event than any other country do
+6.	locate in Ōita , japan , the beppu - Ōita marathon be a marathon that be typically hold in february
+7.	the paris 20k road race be hold in october
+8.	the road race hold in omsk , russia , be know as the siberian international marathon
+9.	in the month of may the hannover marathon be hold in germany
+10.	the brighton marathon be hold 1 time a year in april
+11.	the paris 20k marathon be hold in october
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-### Long-form statement ###
-In Bob Bryan's career statistics, Katarina Srebotnik was the partner with whom he competed twice on a hard surface, while during the French Open, both Victoria Azarenka and Liezel Huber were partners who played on a clay surface; the Wimbledon championship was played on grass, with the first Wimbledon and one US Open occurring in 2006, where Vera Zvonareva and Venus Williams played at the US Open and Wimbledon respectively, having a particular match with a 4-6, 7-6 (7-5) score not on clay; additionally, a hard surface was in play during a match with a 6-1, 4-6 score, and there was only one instance of a 6-4, 3-6, (11-13) score.
 
-### System Prompt ###
+### Long-form statement ###
+The IAAF road race label events feature a diverse range of distances and locations across different countries, highlighting the prominence of marathons, particularly in Japan with multiple events, such as the back-to-back races in March, whereas August and January are the only months without events, showcasing variations like the Paris 20k Road Race in October and the Beppu-Ōita Marathon in February in Ōita, Japan, alongside races like the Siberian International Marathon in Omsk, Russia, and annual events like the Hannover Marathon in Germany in May and the Brighton Marathon in April.
+
+===
+
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: vcu rams men 's basketball
+Wikipedia page title: katrina adams
 headers of each table:
-table 1 header: season | coach | overall | conference | standing | postseason
-table 2 header: year | record | seed | region | results
-### User Prompt ###
+table 1 header: tournament | 1986 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 | 1999
+table 2 header: tournament | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997
+table 3 header: outcome | date | tournament | surface | partner | opponents in the final | score in the final
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	the 2009 - 10 season be the only 1 in which the ram didn' make the ncaa tournament
-2.	the ram lose 4 conference game in both the 2008 - 09 and 2012 - 13 season
-3.	the ram average 27.75 overall win under shaka smart
-4.	the ram average 9.25 loss under shaka smart
-5.	the ram win at least 24 game in each season
-6.	in 1996 , the southeast region have a record of 24 - 9
-7.	2012 set the record for the year with the highest score of 29 - 7. 2013 follow with 27 - 9
-8.	in 2011 , the southwest region win a total of 5 game and lose 1 game create a record of 28 - 12
-9.	in 1980 , the east region result be a loss of 72 - 86 from a seed 12 plus the year be smaller than 1996
-10.	the earliest year with a record of 18 - 12 be the year 1980
+1.	the us open have the same result in the year 1986 and 1999
+2.	wimbledon have only 1 a result during the year 1986 to 1999
+3.	the australian open have 3 a result and wimbledon have only 1
+4.	the result in 1996 be different for australian open and french open
+5.	the us open have the different result in the year 1990 and 1999
+6.	a be the 1996 grand slam tournament when 1994 be lq and 1992 be 3r
+7.	there be grand slam tournament in 1993 as well as 1994
+8.	the grand slam tournament in 1995 be an a , and the 1990 tournament be a lq
+9.	there be grand slam tournament be hold in 1995 and 1996
+10.	both 1987 and 1989 be grand slam tournament
+11.	the final score on march 22 , 1993 be 6 - 3 , 5 - 7 , and 7 - 6 (7)
+12.	the outcome for the tournament that take place on june 9 , 1997 be 'winner'
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-### Long-form statement ###
-Throughout the history of VCU Rams men's basketball, under Coach Shaka Smart, the team consistently achieved high levels of success by averaging 27.75 overall wins and experiencing only one season where they did not make the NCAA tournament in 2009-10, while also maintaining a record of at least 24 wins each season, with notable conference losses in the 2008-09 and 2012-13 seasons, and setting regional records such as the Southeast region's 24-9 in 1996, the Southwest region's 28-12 in 2011, and the East region's 72-86 loss from a seed 12 in 1980, the earliest year with a record of 18-12.
 
-### System Prompt ###
+### Long-form statement ###
+During the years 1986 to 1999, significant variations in outcomes were observed across various grand slam tournaments, with the US Open having consistent results in 1986 and 1999, Wimbledon displaying a single result throughout the period, the Australian Open showing three different outcomes while Wimbledon had only one, unique results seen in 1996 for both the Australian and French Opens, distinct outcomes for the US Open in 1990 and 1999, the 1996 Grand Slam event being won by a particular player amidst varied performances in previous years, consecutively held grand slam tournaments in 1993 and 1994, the 1995 Grand Slam being successful for a particular player compared to a less successful one in 1990, grand slam tournaments being held in 1995 and 1996, both 1987 and 1989 hosting grand slam events, a closely contested final with a score of 6-3, 5-7, 7-6(7) on March 22, 1993, and a tournament outcome on June 9, 1997, resulting in a player being declared the 'winner'.
+
+===
+
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: charlotte county , new brunswick
+Wikipedia page title: wayne ferreira
 headers of each table:
-table 1 header: official name | status | area km 2 | population | census ranking
-table 2 header: official name | status | area km 2 | population | census ranking
-### User Prompt ###
+table 1 header: outcome | date | tournament | surface | partner | opponents | score
+table 2 header: outcome | year | tournament | surface | partner | opponents | score
+table 3 header: outcome | date | championship | surface | opponent | score
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	the official name of the community with an area kilometer square of 1613 be st george
-2.	the saint james parish have the highest area for charlotte county
-3.	the clarendon parish have the smallest population of only 72
-4.	of the 2 parish with a population of 824 , the lepreau parish have a larger area
-5.	pennfield 's parish have a poplution of 219 more than saint stephen 's parish
-6.	grand menon have an area of 6.20 , while clarendon have an area of 492.84
+1.	the april 24 , 2000 match be win and the opponent be paul haarhuis and sandon stolle
+2.	the match with goran ivanišević brian macphie be win while partner with byron black
+3.	the los angeles tournament be hold on august 9 1993
+4.	on may 14 , 2001 a tournament include opponent daniel nestor and sandon stolle be play on a clay surface
+5.	on april 6 , 1992 , the tournament be hold in johannesburg , south africa
+6.	clay be the surface of the court in the match with a score of 4 - 6 , 6 - 4 , 3 - 6
+7.	the outcome for wayne ferreira be winner for all game in 1995
+8.	from 1993 to 1995 , wayne ferreira play michael stich at least 1 time each year
+9.	every time wayne ferreira play lleyton hewitt , the outcome for ferreira be winner
+10.	wayne ferreira play in dubai , uae before he play in tokyo , japan
+11.	the surface that appear the most frequently for wayne ferreira 's championship game be hard
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-### Long-form statement ###
-In Charlotte County, New Brunswick, St. George is officially recognized as the community spanning 1613 square kilometers, with Saint James Parish boasting the largest area, while Clarendon Parish holds the smallest population of 72 residents; among the parishes with a population of 824, Lepreau Parish covers a larger area, Pennfield Parish exceeds Saint Stephen Parish by 219 inhabitants, and Grand Manan occupies 6.20 square kilometers compared to Clarendon's 492.84 square kilometers.
 
-### System Prompt ###
+### Long-form statement ###
+Wayne Ferreira achieved victories in various tennis matches from different tournaments, partnering with players like Byron Black, encountering opponents such as Goran Ivanišević, Paul Haarhuis, and Sandon Stolle, on courts with surfaces ranging from clay to hard, consistently demonstrating his competitive edge by prevailing over opponents like Michael Stich and Lleyton Hewitt, ultimately showcasing his prowess and versatility in international tournaments across locations including Dubai, UAE and Tokyo, Japan.
+
+===
+
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: wru division two west
+Wikipedia page title: 2007 - 08 new jersey devils season
 headers of each table:
-table 1 header: club | played | drawn | lost | points for | points against | tries for | tries against | try bonus | losing bonus | points
-table 2 header: club | played | drawn | lost | points for | points against | tries for | tries against | try bonus | losing bonus | points
-table 3 header: club | played | drawn | lost | points for | points against | tries for | tries against | try bonus | losing bonus | points
-### User Prompt ###
+table 1 header: date | visitor | score | home | decision | attendance | record
+table 2 header: date | visitor | score | home | decision | attendance | record
+table 3 header: date | visitor | score | home | decision | attendance | record
+table 4 header: date | visitor | score | home | decision | attendance | record
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	as of may 26 , 2012 , tondu rfc lost 5 game out of 22 game
-2.	there be 60 tries for when there be 38 tries against
-3.	there be 413 point against when tries against be 51 and point be 52 , when play be 22
-4.	the be 603 point against cwmllynfell rfc
-5.	there be 60 tries for when the tries against be 38
-6.	there be 413 point against when the tries against be 51 and the point be 52 when play be 22
-7.	cwmllynfell rfc have 603 point against
-8.	the losing bonus be 10 for the pencoed rfc club
-9.	when there be 34 tries for for pencoed rfc , there be zero draw
-10.	there be 67 tries against with 520 point against for pontyberem rfc
-11.	loughor rfc have 47 tries for and 479 point against
-12.	when there be 479 point against , loughor rfc have 11 loss
-13.	when there be 58 point for the try bonus be 4 for club ammanford rfc
-14.	there be no match draw by ammanford rfc
-15.	kidwelly rfc have 22 match with 386 point against , 45 tries against , and a losing bonus of 3
-16.	cwmavon rfc have 332 point and a try bonus of 3
-17.	lougher rfc have a try bonus of 9 and 43 tries against
-18.	builth well rfc have 22 match and have 473 point for
-19.	there be no match draw by ammanford rfc with 447 point
-20.	386 be the number of point against team with 22 match play , a losing bonus of 3 , and 45 tries against
-21.	there be 3 try bonus for the team with 332 point for
-22.	loughor rfc club have a try bonus of 9 and 43 tries against in addition to 64 point total
-23.	the team that play 22 match have 473 point for be builth well rfc
+1.	the philadelphia flyer visit the new jersey devil and lose 0 - 3
+2.	the game play on march 1 and march 11 have the exact same attendance
+3.	the new jersey devil win 3 out of the 4 game that they score 4 goal in
+4.	the new jersey devil win both game they play against toronto
+5.	the new jersey devil record begin to rapidly decrease after april 15
+6.	the new jersey devil lose 5 out of 13 game play in march
+7.	the highest attended game in the new jersey devils'07 - 08 season be against philadelphia
+8.	on november 17 , new jersey play philadelphia for a crowd of 19621
+9.	the lowest attended game in the new jersey devil 's 07 - 08 season have an attendance of 13665
+10.	the new jersey devil play at home 7 time during the 07 - 08 season
+11.	in their 07 - 08 season , the new jersey devil never finish a game without score
+12.	the largest attendance for a new jersey away game in december be against calgary
+13.	the lowest attendance for a new jersey home game in december be against boston
+14.	the largest attendance for a new jersey home game in december be against buffalo
+15.	the lowest attendance for a new jersey away game in december be against washington
+16.	new jersey play washington 2 time in 4 day in december
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-### Long-form statement ###
-In the WRU Division Two West league as of May 26, 2012, various rugby clubs displayed their performances with Tondu RFC losing 5 out of 22 games, scoring 60 tries and facing 38 tries against, while Cwmllynfell RFC conceded 603 points, and Loughor RFC showcased 47 tries for and 479 points against, also achieving 11 losses throughout the season, with additional notable performances like Pencoed RFC securing a losing bonus of 10, Ammanford RFC not having any drawn matches, Kidwelly RFC accumulating 386 points with 45 tries against and a losing bonus of 3, Cwmavon RFC scoring 332 points and earning a try bonus of 3, Builth Wells RFC tallying 473 points over 22 matches, Pontyberem RFC facing 67 tries against with 520 points conceded, and Loughor RFC and Ammanford RFC each attaining 43 and 4 try bonuses respectively, illustrating a detailed overview of the clubs' successes and challenges in the league.
 
-### System Prompt ###
+### Long-form statement ###
+During the 2007-08 season, the New Jersey Devils exhibited prowess on home ice by winning all games against Toronto, with their record showing a consistent scoring pattern of winning three out of four games where they scored four goals, while also hosting seven games overall and never finishing a game without scoring; however, their attendance varied greatly, from the peak seen against Philadelphia, to the lowest against Boston, alongside fluctuations in their record and attendance as the season progressed, including a notable decline after April 15, with a particular slump in March where they lost five out of thirteen games, yet intriguingly seeing identical attendance on both March 1st and 11th - culminating in a packed match against Philadelphia on November 17th with 19621 attendees, and a contrasting lowest attendance of 13665 during the season. Moreover, their December games saw varying attendance figures with the highest at home against Buffalo, and the lowest at home against Boston, as they faced Washington twice within a span of four days, showcasing a mix of results and audience engagement throughout a dynamic season.
+
+===
+
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: 2005 nascar nextel cup series
+Wikipedia page title: bmw 3 series compact
 headers of each table:
-table 1 header: team | car (s) | - | driver (s) | primary sponsor (s) | listed owner (s) | crew chief
-table 2 header: team | car (s) | driver (s) | primary sponsor (s) | crew chief
-### User Prompt ###
+table 1 header: name | power | torque | size | engine code | 0 - 100 km / h , s | top speed | years
+table 2 header: model | years | engine code | power | torque
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	jeremy mayfield drive for ray evernham 's team
-2.	fedex be jason leffler 's primary sponsor
-3.	pfizer / viagara be the primary sponsor of mark martin
-4.	the crew chief of joe gibbs racing team be dave rogers , which have a chevrolet monte carlo and fedex as the primary sponsor
-5.	the team with crew chief derrick finley have driver scott wimmer
-6.	jimmy elledge be the crew chief of team chip ganassi racing with felix sabates , which have casey mears as the driver
-7.	peak fitness racing be the team that have peak fitness as the primary sponsor
+1.	the bmw 3 series compact 316i have engine code m43b16 while the 318ti have engine code m42b18
+2.	the 318ti have a top speed of 9.9 km / h , s while the 323ti have a top speed of 7.8 km / h , s
+3.	no engine have a size larger than 2500cc and the smallest engine size be 1596cc
+4.	the 318tds (diesel) be manufacture from 1995 - 2001 and the 323ti be make from 1997 - 2001
+5.	the car with engine code m44b19 be the 318ti bmw 3 series compact car
+6.	the model 318td (diesel) with engine code m47d20 be manufacture in 2003 - 2004
+7.	engine code m54b25 be manufacture between 2001 - 2004 for model 325ti
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-### Long-form statement ###
-In the 2005 NASCAR Nextel Cup Series, Jeremy Mayfield drove for Ray Evernham's team, with FedEx as Jason Leffler's primary sponsor, Pfizer/Viagara sponsoring Mark Martin, Joe Gibbs Racing team's crew chief being Dave Rogers overseeing a Chevrolet Monte Carlo with FedEx as the primary sponsor, Derrick Finley being the crew chief for the team with driver Scott Wimmer, Jimmy Elledge serving as the crew chief for Team Chip Ganassi Racing with Felix Sabates, where Casey Mears was the driver, and Peak Fitness Racing being the team sponsored by Peak Fitness.
 
-### System Prompt ###
+### Long-form statement ###
+The BMW 3 Series Compact models, such as the 316i and 318ti, were equipped with engine codes like M43B16 and M42B18 respectively, while featuring top speeds ranging from 7.8 km/h to 9.9 km/h, with engines not exceeding 2500cc in size and the smallest being 1596cc; additionally, the 318tds was produced from 1995 to 2001, the 323ti from 1997 to 2001, the 318ti was powered by the M44B19 engine, and the 318td diesel variant with engine code M47D20 was manufactured between 2003 to 2004, alongside the M54B25 engine being produced from 2001 to 2004 for the 325ti model.
+
+===
+
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: 1988 indycar season
+Wikipedia page title: 2008 in video gaming
 headers of each table:
-table 1 header: rnd | race name | circuit | city / location | date | pole position | winning driver | winning team | report
-table 2 header: race name | circuit | city / location | date | pole position | winning driver | winning team | report
-### User Prompt ###
+table 1 header: place | title | units sold in japan | units sold in the uk | units sold in the us | total units sold
+table 2 header: place | title | platform | publisher | units sold
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	there be a race on october 16
-2.	newman / haas racing be the win team of the checker 200 race
-3.	meadowland sport complex be locate in east rutherford , new jersey
-4.	rick mears be both the pole position and winning driver for team penske in speedway , indiana
-5.	the budweiser / g i joe 's 200 take place at the portland international raceway in portland , oregon
-6.	for the meadowlands grand prix in east rutherford , new jersey , emerson fittipaldi start in the pole position
-7.	the circuit be in new jersey at the meadowlands sport complex on july 24
+1.	the third place title sell 321000 unit in the uk
+2.	the game which sell 1283000 unit in the us sold 346000 unit in japan
+3.	the wii platform offer more title than any other platform in 2008
+4.	monster hunter portable 2nd g , sell the highest amount of unit with 2452111
+5.	nintendo publish more game in 2008 than every other publisher combine
+6.	wii sport sell the lowest amount of unit in 2008 with 841736
+7.	the psp platform only offer 1 title in 2008 the lowest of any platform
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-### Long-form statement ###
-The 1988 IndyCar season featured races at various locations including the Meadowlands Sport Complex in East Rutherford, New Jersey where Emerson Fittipaldi secured the pole position, while Newman/Haas Racing triumphed at the Checker 200 race, Rick Mears achieved both the pole position and victory for Team Penske at Speedway, Indiana, and the Budweiser/G.I. Joe's 200 event took place at the Portland International Raceway in Portland, Oregon; with the season concluding on October 16th and including a race at the Meadowlands Sport Complex on July 24th.
 
-### System Prompt ###
+### Long-form statement ###
+In 2008, Monster Hunter Portable 2nd G secured the top spot by selling the highest number of units globally with 2,452,111, while Wii Sports garnered the lowest sales with 841,736 units; the Wii platform, known for offering a wide selection of titles, dominated the gaming landscape, with Nintendo emerging as the leading publisher by releasing more games than all other publishers combined, and the PSP platform lagged behind by only offering one title for the year, as specific sales figures in the US, UK, and Japan contributed to the dynamics of the gaming market in different regions.
+
+===
+
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: 1993 giro d'italia
+Wikipedia page title: 2008 indiana fever season
 headers of each table:
-table 1 header: stage | winner | general classification | points classification | mountains classification | young rider classification | intergiro classification | trofeo fast team
-table 2 header: stage | winner | general classification | points classification | mountains classification | young rider classification | intergiro classification | trofeo fast team
-table 3 header: date | course | distance | type | winner
-### User Prompt ###
+table 1 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
+table 2 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
+table 3 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
+table 4 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
+table 5 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
+table 6 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	in 1993 giro d'italia , francesco casagrande be the first mountains classification
-2.	in general classification moreno argentin have the average of 10 more than than bruno leali
-3.	carrera jean - tassoni have higher fast team - ballan
-4.	claudio chiappucci have lower mountain classification than mariano piccoli
-5.	there be 3 winner who have win 1993 giro d'italia 2 time
-6.	moreno argentin , adriano baffi , fabio baldato , dimitri konyshev , and miguel indurain be each winner in more than 1 stage
-7.	eddy seigneur be the only person with the young rider classification just 1 time
-8.	adriano baffi be the only winner 2 time after the 10th stage
-9.	adriano baffi have more point classification than do francesco casagrande for mountain classification
-10.	pavel tonkov have the young rider classification 11 time , but be not 1 time the winner
-11.	plain stage type have a course of grosseto to rieti
+1.	the highest - attend game be against detroit at the palace of auburn hill
+2.	the average attendance of each game between game 29 and 33 during the 2008 indiana fever season be 7601
+3.	between game 29 and 33 of the 2008 indiana fever season , the fever win 3 game
+4.	catchings have the highest number of rebound in a game more often than any other player between game 29 and 33 during the 2008 indiana fever season
+5.	the indiana fever beat new york by 11 point more than they beat atlanta by
+6.	the highest - attend game be against los angeles at the staple center
+7.	the average attendance of each game between game 6 and 14 of the 2008 indiana fever season be 7471.25
+8.	hoffman have the high rebound in a game more often than any other player
+9.	the indiana fever win 4 game between game 6 and 14 of the 2008 season
+10.	the indiana fever score 24 more point against new york on june 26 than against sacramento on june 24
+11.	white be the high scorer on september 9 against minnesota
+12.	the team be only 1 game under 500 (16 - 17) before the last game
+13.	on september 2 , their record be 14 - 15
+14.	sutton - brown have phoenix 's high point total with 26
+15.	the record be 17 - 17 for september 14
+16.	hoffman lead the team in rebound for 4 of the 5 game list
+17.	the highest attendance figure for a game be 10533
+18.	detroit defeat the fever 2 time during this stretch in may
+19.	douglas lead the team in point more time than anybody else
+20.	the least amount of total point score by a team in 1 game be 46
+21.	on july 8 the score be a loss if 50 - 48
+22.	they lose the game at chicago 68 - 60
+23.	the fever have a 5 - 6 record during the month of july
+24.	the lowest attendance figure for 1 game be 3035
+25.	the most point score by any team in a game be 84
+26.	catching lead the team in assist for the most total game
+27.	the most point score in a game by a fever player be 25
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-### Long-form statement ###
-In the 1993 Giro d'Italia, Francesco Casagrande became the first winner of the mountains classification, while Moreno Argentin had an average of 10 more points than Bruno Leali in the general classification, with Carrera Jean-Tassoni having a higher Trofeo Fast Team placement than Ballan, Claudio Chiappucci ranking lower in the mountains classification than Mariano Piccoli, and three winners achieving victories twice throughout the competition, including Moreno Argentin, Adriano Baffi, Fabio Baldato, Dimitri Konyshev, and Miguel Indurain, with Eddy Seigneur being the sole recipient of the young rider classification once; furthermore, Adriano Baffi emerged as the only double winner after the 10th stage, having more points in the classification than Francesco Casagrande for the mountain category, Pavel Tonkov securing the young rider classification eleven times without clinching a single victory, and plain stage types featuring a course from Grosseto to Rieti.
 
-### System Prompt ###
+### Long-form statement ###
+During the 2008 Indiana Fever season, the team experienced varying levels of success and attendance, with notable highlights including their highest-attended games at the Palace of Auburn Hills against Detroit and at the Staples Center against Los Angeles, an average attendance of 7601 between games 29 and 33, a series of victories between game 29 and 33, the team being one game under 500 before the last game, winning four games between game 6 and 14, recording a 5-6 record in July, and finishing with a final record of 17-17, while also showcasing individual accomplishments such as Tammy Sutton-Brown scoring 26 points for Phoenix, Katie Douglas leading in points multiple times, Tamika Catchings leading in assists for most games, and Ebony Hoffman excelling in rebounds.
+
+===
+
+### System prompt ###
 You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: azeotrope (data)
+Wikipedia page title: 2007 - 08 premier league
 headers of each table:
-table 1 header: 2nd component | bp 2nd comp (˚c) | 3rd component | bp 3rd comp (˚c) | bp azeo (˚c)
-table 2 header: 2nd component | bp 2nd comp (˚c) | 3rd component | bp 3rd comp (˚c) | bp azeo (˚c) | % wt 1st | % wt 2nd | % wt 3rd
-table 3 header: component 1 | bp comp 1 (˚c) | component 2 | bp comp 2 (˚c) | bp azeo (˚c) | % wt comp 1 | % wt comp 2
-### User Prompt ###
+table 1 header: team | manager | captain | kit maker | shirt sponsor
+table 2 header: team | outgoing manager | manner of departure | date of vacancy | replaced by | date of appointment | position in table
+table 3 header: team | outgoing manager | manner of departure | date of vacancy | replaced by | date of appointment | position in table
+
+### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	the 2nd component , ethanol , have a bp 2nd comp (˚c) of 78.4 and the 3rd component , ethyl acetate , have a bp 3rd comp (˚c) of 77.1
-2.	the 3rd component be cyclohexane and have a bp 3rd comp (˚c) of 80.8
-3.	there be 5 azeotropes with a carbon disulfide component 1 , while only 2 have a cyclohexane component
-4.	there be 3 more azeotropes with a carbon disulfide component 1 than with a chloroform component
-5.	the azeotropes with the most of 1 component 1 be 5 , which be carbon disulfide
-6.	there be 3 azeotropes with the component 1 of propylene glycol
-7.	there be 2 azeotropes with the component 1 of tetrahydrofuran
+1.	the team bet 24 sponsor have mark hughes as manager
+2.	nike be the kit maker that aston villa us
+3.	sol campbell captain portsmouth
+4.	harry redknapp be the manager when sol campbell be the captain
+5.	there be the same umber of contract terminate as there be mutual consent departure with 5 each
+6.	there be 4 more date of vacancy in 2007 than there be in 2008
+7.	sven - göran eriksson be the only manger to be replace during the preseason
+8.	manchester city be the only team to replace their manager 2 time on the list
+9.	in total there be 3 manger who be replace during the post season
+10.	on 28 november 2007 alex mcleish fill the vacancy create when steve bruce leave on 19 november 2007
+11.	when the date of vacancy be december 21 , 2007 , then the next appointment date will be december 30 , 2007
+12.	manchester city bring in mark hughes on june 4 , 2008
+13.	the date of vacancy when the date of appointment be 28 november 2007 and the outgoing manager be replace by alex mcleish be 19 november 2007
+14.	lawrie sanchez vacate his position on 21 december 2007 , and be replace on 30 december 2007
+15.	wigan athletic replace their manager chris hutchings with steve bruce
+16.	roy hodgson replace the previous manager on 30 december 2007
+17.	manchester city bring on a new manager in the pre - season , sven - göran eriksson
 
 Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+
 ### Long-form statement ###
-The data reveals a total of 5 azeotropes containing component 1, carbon disulfide, while only 2 azeotropes include cyclohexane; further analysis shows that there are 3 more azeotropes with carbon disulfide than with chloroform, the highest number of azeotropes (5) contain carbon disulfide as component 1, with 3 azeotropes featuring propylene glycol and 2 azeotropes containing tetrahydrofuran as component 1, demonstrating the distribution and prevalence of different components within the azeotropes.
+During the 2007-08 Premier League season, there were several managerial changes and team transitions, such as Mark Hughes being appointed as the manager of the team sponsored by Bet 24, Nike serving as the kit maker for Aston Villa, and Sol Campbell captaining Portsmouth under Harry Redknapp's management, with a total of three managers being replaced during the post-season, including Lawrie Sanchez who left on December 21, 2007, only to be replaced by another manager on December 30, while Manchester City notably made two managerial changes with the appointment of Sven-Göran Eriksson in the pre-season and Mark Hughes on June 4, 2008, demonstrating significant managerial movements and team adjustments throughout the season.
+
+===
 

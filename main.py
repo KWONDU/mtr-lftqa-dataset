@@ -35,7 +35,7 @@ def main(dataset_name):
             usr_pmt +
             "\n### Long-form statement ###\n" +
             ans +
-            "\n\n===\n"
+            "\n\n===\n\n"
         )
     
     with open(f'{dataset_name.lower()}-lf-answer.txt', 'w') as file:
