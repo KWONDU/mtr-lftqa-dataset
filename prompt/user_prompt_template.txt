@@ -3,4 +3,5 @@ Given a list of short-form statements which are related to the given table, gene
 Here are the short-form statements:
 {statements}
 
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.

@@ -1,268 +1,7 @@
 ### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
-
-Here are information about tables as mentioned earlier:
-Wikipedia page title: 1972 nhl amateur draft
-headers of each table:
-table 1 header: pick | player | position | nationality | nhl team | college / junior / club team
-table 2 header: pick | player | position | nationality | nhl team | college / junior / club team
-table 3 header: pick | player | position | nationality | nhl team | college / junior / club team
-table 4 header: pick | player | position | nationality | nhl team | college / junior / club team
-table 5 header: pick | player | position | nationality | nhl team | college / junior / club team
-table 6 header: pick | player | position | nationality | nhl team | college / junior / club team
-table 7 header: pick | player | position | nationality | nhl team | college / junior / club team
-table 8 header: pick | player | position | nationality | nhl team | college / junior / club team
-
-### User prompt ###
-Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
-
-Here are the short-form statements:
-1.	during the 1972 nhl draft , mike bloom be pick 1 spot worse than bob macmillan
-2.	during the 1972 nhl draft , both phil russell and john van boxmeer play same position
-3.	during the 1972 nhl draft , all 16 of the draft pick be from canada
-4.	during the 1972 nhl draft , john van boxmeer and dave gardner be from the montreal canadiens
-5.	during the 1972 nhl draft , billy harris have a better draft pick than george ferguson
-6.	the minnesota north star have the brandon wheat king as their junior club team
-7.	the 132nd pick of the nhl draft be jean lamarre
-8.	there 's just 1 player from the vancouver canucks in this table
-9.	the position of ray boutin be that of a goaltender
-10.	player denis meloche be from the junior team drummondville ranger
-11.	the st louis blue have the 89th pick
-12.	dave mclelland play goaltender for the vancouver canuck
-13.	the st louis blue be the team that have a pick of 89
-14.	dave mclelland be the goaltender for the vancouver canuck
-15.	stan weir play centre for california golden seal
-16.	dwight bialowas play defence for atlanta flame team
-17.	lorne henning be the lowest pick of 17.0
-18.	jack lynch play for the oshawa general (omjhl) before play for pittsburgh penguin
-19.	rene villemure play left wing
-20.	stan weir be the 28th pick for the medicine hat tiger
-21.	2 player from the calgary centennial be select
-22.	only 1 player from the united state be select
-23.	terry ryan be select after denis deslauriers
-24.	only 2 goaltender be select
-25.	3 player from the wchl be select
-26.	rene lambert play right wing and be draft with the 146th pick
-27.	a canadian be the 20 pick for the right wing position
-28.	college / junior / club team kitchener ranger (omjhl) make the 22 pick for the centre position
-29.	the nhl team with pick number 32 be the boston bruin
-30.	college / junior / club team edmonton oil king (wchl) have the 23 pick for defence
-31.	pick 31 , be rene villemure a nhl new york ranger
-32.	the name of team for college / junior club for philadelphia flyer be charlottetown royal (majhl)
-33.	the position for ron lalonde be centre
-34.	the calgary centennial (wchl) be the college / junior / club team for pick number 63
-35.	charlottetown royal (majhl) be the name of team for college / junior club for philadelphia flyer
-
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-
-### Long-form statement ###
-During the 1972 NHL draft, which saw all 16 draft picks being from Canada, Mike Bloom was chosen one spot lower than Bob MacMillan, while Phil Russell and John Van Boxmeer both played the same position, with John Van Boxmeer and Dave Gardner being selected by the Montreal Canadiens, Billy Harris achieving a higher draft pick than George Ferguson, and the only player from the Vancouver Canucks in this draft being Dave McLelland, who was also a goaltender; meanwhile, the Minnesota North Stars selected players from the Brandon Wheat Kings as their junior club team, the 132nd pick was Jean Lamarre, Ray Boutin was a goaltender, Denis Meloche hailed from the Drummondville Rangers junior team, the St. Louis Blues held the 89th pick, Stan Weir played center for the California Golden Seals, Dwight Bialowas played defense for the Atlanta Flames, Lorne Henning was the lowest pick at 17.0, Jack Lynch transitioned from the Oshawa Generals to the Pittsburgh Penguins, and Rene Villemure played left wing, Stan Weir was the 28th pick from the Medicine Hat Tigers, two players from the Calgary Centennials were selected, with only one player from the United States being chosen, Terry Ryan was picked after Denis Deslauriers, and only two goaltenders were selected overall; three players from the WCHL were chosen, Rene Lambert played right wing and was drafted 146th, a Canadian was the 20th pick for the right wing position, Kitchener Rangers (OMJHL) made the 22nd pick for center, the 32nd pick was the Boston Bruins, Edmonton Oil Kings (WCHL) acquired the 23rd pick for defense, Rene Villemure went to the New York Rangers at pick 31, and Ron Lalonde played center, while the Charlottetown Royals (MAJHL) were connected to the Philadelphia Flyers as their college/junior/club team, with the Calgary Centennials (WCHL) also serving as the college/junior/club team for the 63rd pick.
-
-===
-
-### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
-
-Here are information about tables as mentioned earlier:
-Wikipedia page title: black diamond conference
-headers of each table:
-table 1 header: team name | schools | sports | host | nickname (s) | colors | enrollment (2013 / 14)
-table 2 header: team name | schools | sports | host | nickname (s) | colors | enrollment (2013 / 14)
-table 3 header: school | location | nickname (s) | colors | years member
-
-### User prompt ###
-Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
-
-Here are the short-form statements:
-1.	the nickname of the team whose 2013 / enrollment be 436 be the falcon
-2.	elverado - trico be the name of the team from the elcerado trico school in football
-3.	football be the most common sport in the black diamond conference
-4.	the highest enrollment of the 2013 season in the black diamond conference be 549
-5.	sesser - valler have the lowest enrollment of the 2013 season in the black diamond conference with only 309
-6.	there be 2 out of 7 team total whose mascot be the eagle
-7.	there be only 1 wrestling team in the black diamond conference for 2013
-8.	carterville high school be the most recent school to be a member of the black diamond conference
-9.	elkville high school and zeigler high school both join in 1949 and leave in 1963
-10.	carterville high school and sesser high school do not have any color in common
-11.	cairo high school and carterville each have different nickname for the boy and girl team
-12.	carbondale university high school leave the conference prior to cairo join
-
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-
-### Long-form statement ###
-The Black Diamond Conference, known for football being its most common sport and having a total of seven teams with diverse mascots and colors, saw teams with varying enrollments ranging from Elverado-Trico having 436 students to Sesser-Valier having the lowest at 309 in the 2013 season, while witnessing Carterville High School as the most recent member, Cairo High School joining after Carbondale University High School left, and Elkville High School and Zeigler High School being both members from 1949 to 1963.
-
-===
-
-### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
-
-Here are information about tables as mentioned earlier:
-Wikipedia page title: iaaf road race label events
-headers of each table:
-table 1 header: road race | distance | location | country | month held
-table 2 header: road race | distance | location | country | month held
-table 3 header: road race | distance | location | country | month held
-
-### User prompt ###
-Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
-
-Here are the short-form statements:
-1.	just and august be the only month that didn't have an event
-2.	there be more 10 km event than there be 12 km event
-3.	there be more marathon than any other distance type
-4.	japan 's event in march be the only back - to - back event to take pace in the same country
-5.	japan host more event than any other country do
-6.	locate in Ōita , japan , the beppu - Ōita marathon be a marathon that be typically hold in february
-7.	the paris 20k road race be hold in october
-8.	the road race hold in omsk , russia , be know as the siberian international marathon
-9.	in the month of may the hannover marathon be hold in germany
-10.	the brighton marathon be hold 1 time a year in april
-11.	the paris 20k marathon be hold in october
-
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-
-### Long-form statement ###
-The IAAF road race label events feature a diverse range of distances and locations across different countries, highlighting the prominence of marathons, particularly in Japan with multiple events, such as the back-to-back races in March, whereas August and January are the only months without events, showcasing variations like the Paris 20k Road Race in October and the Beppu-Ōita Marathon in February in Ōita, Japan, alongside races like the Siberian International Marathon in Omsk, Russia, and annual events like the Hannover Marathon in Germany in May and the Brighton Marathon in April.
-
-===
-
-### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
-
-Here are information about tables as mentioned earlier:
-Wikipedia page title: katrina adams
-headers of each table:
-table 1 header: tournament | 1986 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 | 1999
-table 2 header: tournament | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997
-table 3 header: outcome | date | tournament | surface | partner | opponents in the final | score in the final
-
-### User prompt ###
-Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
-
-Here are the short-form statements:
-1.	the us open have the same result in the year 1986 and 1999
-2.	wimbledon have only 1 a result during the year 1986 to 1999
-3.	the australian open have 3 a result and wimbledon have only 1
-4.	the result in 1996 be different for australian open and french open
-5.	the us open have the different result in the year 1990 and 1999
-6.	a be the 1996 grand slam tournament when 1994 be lq and 1992 be 3r
-7.	there be grand slam tournament in 1993 as well as 1994
-8.	the grand slam tournament in 1995 be an a , and the 1990 tournament be a lq
-9.	there be grand slam tournament be hold in 1995 and 1996
-10.	both 1987 and 1989 be grand slam tournament
-11.	the final score on march 22 , 1993 be 6 - 3 , 5 - 7 , and 7 - 6 (7)
-12.	the outcome for the tournament that take place on june 9 , 1997 be 'winner'
-
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-
-### Long-form statement ###
-During the years 1986 to 1999, significant variations in outcomes were observed across various grand slam tournaments, with the US Open having consistent results in 1986 and 1999, Wimbledon displaying a single result throughout the period, the Australian Open showing three different outcomes while Wimbledon had only one, unique results seen in 1996 for both the Australian and French Opens, distinct outcomes for the US Open in 1990 and 1999, the 1996 Grand Slam event being won by a particular player amidst varied performances in previous years, consecutively held grand slam tournaments in 1993 and 1994, the 1995 Grand Slam being successful for a particular player compared to a less successful one in 1990, grand slam tournaments being held in 1995 and 1996, both 1987 and 1989 hosting grand slam events, a closely contested final with a score of 6-3, 5-7, 7-6(7) on March 22, 1993, and a tournament outcome on June 9, 1997, resulting in a player being declared the 'winner'.
-
-===
-
-### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
-
-Here are information about tables as mentioned earlier:
-Wikipedia page title: wayne ferreira
-headers of each table:
-table 1 header: outcome | date | tournament | surface | partner | opponents | score
-table 2 header: outcome | year | tournament | surface | partner | opponents | score
-table 3 header: outcome | date | championship | surface | opponent | score
-
-### User prompt ###
-Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
-
-Here are the short-form statements:
-1.	the april 24 , 2000 match be win and the opponent be paul haarhuis and sandon stolle
-2.	the match with goran ivanišević brian macphie be win while partner with byron black
-3.	the los angeles tournament be hold on august 9 1993
-4.	on may 14 , 2001 a tournament include opponent daniel nestor and sandon stolle be play on a clay surface
-5.	on april 6 , 1992 , the tournament be hold in johannesburg , south africa
-6.	clay be the surface of the court in the match with a score of 4 - 6 , 6 - 4 , 3 - 6
-7.	the outcome for wayne ferreira be winner for all game in 1995
-8.	from 1993 to 1995 , wayne ferreira play michael stich at least 1 time each year
-9.	every time wayne ferreira play lleyton hewitt , the outcome for ferreira be winner
-10.	wayne ferreira play in dubai , uae before he play in tokyo , japan
-11.	the surface that appear the most frequently for wayne ferreira 's championship game be hard
-
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-
-### Long-form statement ###
-Wayne Ferreira achieved victories in various tennis matches from different tournaments, partnering with players like Byron Black, encountering opponents such as Goran Ivanišević, Paul Haarhuis, and Sandon Stolle, on courts with surfaces ranging from clay to hard, consistently demonstrating his competitive edge by prevailing over opponents like Michael Stich and Lleyton Hewitt, ultimately showcasing his prowess and versatility in international tournaments across locations including Dubai, UAE and Tokyo, Japan.
-
-===
-
-### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
-
-Here are information about tables as mentioned earlier:
-Wikipedia page title: 2007 - 08 new jersey devils season
-headers of each table:
-table 1 header: date | visitor | score | home | decision | attendance | record
-table 2 header: date | visitor | score | home | decision | attendance | record
-table 3 header: date | visitor | score | home | decision | attendance | record
-table 4 header: date | visitor | score | home | decision | attendance | record
-
-### User prompt ###
-Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
-
-Here are the short-form statements:
-1.	the philadelphia flyer visit the new jersey devil and lose 0 - 3
-2.	the game play on march 1 and march 11 have the exact same attendance
-3.	the new jersey devil win 3 out of the 4 game that they score 4 goal in
-4.	the new jersey devil win both game they play against toronto
-5.	the new jersey devil record begin to rapidly decrease after april 15
-6.	the new jersey devil lose 5 out of 13 game play in march
-7.	the highest attended game in the new jersey devils'07 - 08 season be against philadelphia
-8.	on november 17 , new jersey play philadelphia for a crowd of 19621
-9.	the lowest attended game in the new jersey devil 's 07 - 08 season have an attendance of 13665
-10.	the new jersey devil play at home 7 time during the 07 - 08 season
-11.	in their 07 - 08 season , the new jersey devil never finish a game without score
-12.	the largest attendance for a new jersey away game in december be against calgary
-13.	the lowest attendance for a new jersey home game in december be against boston
-14.	the largest attendance for a new jersey home game in december be against buffalo
-15.	the lowest attendance for a new jersey away game in december be against washington
-16.	new jersey play washington 2 time in 4 day in december
-
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-
-### Long-form statement ###
-During the 2007-08 season, the New Jersey Devils exhibited prowess on home ice by winning all games against Toronto, with their record showing a consistent scoring pattern of winning three out of four games where they scored four goals, while also hosting seven games overall and never finishing a game without scoring; however, their attendance varied greatly, from the peak seen against Philadelphia, to the lowest against Boston, alongside fluctuations in their record and attendance as the season progressed, including a notable decline after April 15, with a particular slump in March where they lost five out of thirteen games, yet intriguingly seeing identical attendance on both March 1st and 11th - culminating in a packed match against Philadelphia on November 17th with 19621 attendees, and a contrasting lowest attendance of 13665 during the season. Moreover, their December games saw varying attendance figures with the highest at home against Buffalo, and the lowest at home against Boston, as they faced Washington twice within a span of four days, showcasing a mix of results and audience engagement throughout a dynamic season.
-
-===
-
-### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
-
-Here are information about tables as mentioned earlier:
-Wikipedia page title: bmw 3 series compact
-headers of each table:
-table 1 header: name | power | torque | size | engine code | 0 - 100 km / h , s | top speed | years
-table 2 header: model | years | engine code | power | torque
-
-### User prompt ###
-Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
-
-Here are the short-form statements:
-1.	the bmw 3 series compact 316i have engine code m43b16 while the 318ti have engine code m42b18
-2.	the 318ti have a top speed of 9.9 km / h , s while the 323ti have a top speed of 7.8 km / h , s
-3.	no engine have a size larger than 2500cc and the smallest engine size be 1596cc
-4.	the 318tds (diesel) be manufacture from 1995 - 2001 and the 323ti be make from 1997 - 2001
-5.	the car with engine code m44b19 be the 318ti bmw 3 series compact car
-6.	the model 318td (diesel) with engine code m47d20 be manufacture in 2003 - 2004
-7.	engine code m54b25 be manufacture between 2001 - 2004 for model 325ti
-
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
-
-### Long-form statement ###
-The BMW 3 Series Compact models, such as the 316i and 318ti, were equipped with engine codes like M43B16 and M42B18 respectively, while featuring top speeds ranging from 7.8 km/h to 9.9 km/h, with engines not exceeding 2500cc in size and the smallest being 1596cc; additionally, the 318tds was produced from 1995 to 2001, the 323ti from 1997 to 2001, the 318ti was powered by the M44B19 engine, and the 318td diesel variant with engine code M47D20 was manufactured between 2003 to 2004, alongside the M54B25 engine being produced from 2001 to 2004 for the 325ti model.
-
-===
-
-### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
 Wikipedia page title: 2008 in video gaming
@@ -282,101 +21,398 @@ Here are the short-form statements:
 6.	wii sport sell the lowest amount of unit in 2008 with 841736
 7.	the psp platform only offer 1 title in 2008 the lowest of any platform
 
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
 
 ### Long-form statement ###
-In 2008, Monster Hunter Portable 2nd G secured the top spot by selling the highest number of units globally with 2,452,111, while Wii Sports garnered the lowest sales with 841,736 units; the Wii platform, known for offering a wide selection of titles, dominated the gaming landscape, with Nintendo emerging as the leading publisher by releasing more games than all other publishers combined, and the PSP platform lagged behind by only offering one title for the year, as specific sales figures in the US, UK, and Japan contributed to the dynamics of the gaming market in different regions.
+In 2008, the game "Monster Hunter Portable 2nd G" topped the charts by selling an impressive 2,452,111 units worldwide, with Nintendo emerging as the leading publisher by releasing more titles than all other publishers combined; the Wii platform boasted the highest number of titles, while selling the least number of units with "Wii Sport" at 841,736, followed by a noteworthy 1 title offering from the PSP platform; additionally, the third-ranking title achieved sales of 321,000 units in the UK, while the game that sold 1,283,000 units in the US also managed to sell 346,000 units in Japan.
 
 ===
 
 ### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: 2008 indiana fever season
+Wikipedia page title: united states house of representatives elections , 1984
 headers of each table:
-table 1 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
-table 2 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
-table 3 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
-table 4 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
-table 5 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
-table 6 header: game | date | opponent | score | high points | high rebounds | high assists | location / attendance | record
+table 1 header: district | incumbent | party | first elected | result | candidates
+table 2 header: district | incumbent | party | first elected | result | candidates
+table 3 header: district | incumbent | party | first elected | result | candidates
+table 4 header: district | incumbent | party | first elected | result | candidates
+table 5 header: district | incumbent | party | first elected | result | candidates
+table 6 header: district | incumbent | party | first elected | result | candidates
 
 ### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	the highest - attend game be against detroit at the palace of auburn hill
-2.	the average attendance of each game between game 29 and 33 during the 2008 indiana fever season be 7601
-3.	between game 29 and 33 of the 2008 indiana fever season , the fever win 3 game
-4.	catchings have the highest number of rebound in a game more often than any other player between game 29 and 33 during the 2008 indiana fever season
-5.	the indiana fever beat new york by 11 point more than they beat atlanta by
-6.	the highest - attend game be against los angeles at the staple center
-7.	the average attendance of each game between game 6 and 14 of the 2008 indiana fever season be 7471.25
-8.	hoffman have the high rebound in a game more often than any other player
-9.	the indiana fever win 4 game between game 6 and 14 of the 2008 season
-10.	the indiana fever score 24 more point against new york on june 26 than against sacramento on june 24
-11.	white be the high scorer on september 9 against minnesota
-12.	the team be only 1 game under 500 (16 - 17) before the last game
-13.	on september 2 , their record be 14 - 15
-14.	sutton - brown have phoenix 's high point total with 26
-15.	the record be 17 - 17 for september 14
-16.	hoffman lead the team in rebound for 4 of the 5 game list
-17.	the highest attendance figure for a game be 10533
-18.	detroit defeat the fever 2 time during this stretch in may
-19.	douglas lead the team in point more time than anybody else
-20.	the least amount of total point score by a team in 1 game be 46
-21.	on july 8 the score be a loss if 50 - 48
-22.	they lose the game at chicago 68 - 60
-23.	the fever have a 5 - 6 record during the month of july
-24.	the lowest attendance figure for 1 game be 3035
-25.	the most point score by any team in a game be 84
-26.	catching lead the team in assist for the most total game
-27.	the most point score in a game by a fever player be 25
+1.	15 candidate in all be re - elect
+2.	tom loeffler be not unopposed
+3.	charles stenholm be first elect earlier than jack field
+4.	only 1 of the republican candidate first elect in 1978 be re - elect
+5.	doug williams win a lower proportion of the vote in his constituency than tom vandergriff do in his
+6.	the party for district georgia 9 be democratic
+7.	the district first elect in 1980 be georgia 2
+8.	the incumbent wyche fowler be a part of the democratic party
+9.	bud shuster be fist elected 2 year before robert w edgar
+10.	bud shuster and joseph m mcdade be both of the republican party
+11.	joseph m mcdade be the earliest elect among all other incumbent
+12.	gene basalyga have the lowest vote percentage of all oppose candidate
+13.	the race between robert edgar and curt weldon be the cloest among all election from 1962 - 1982
+14.	florida 9 be the district of the incumbent michael bilirakis
+15.	bill mccollum (r) unopposed be the candidate in the election where the incumbent be first elect in 1980
+16.	the incumbent charles edward bennett be a part of the democratic party
+17.	florida 16 district have the incumbent lawrence j smith
+18.	incumbent del latta be from district ohio 5
+19.	district ohio 11 be represent by democratic party
+20.	bob mcewen (r) bob smith (d) be the candidate for district ohio 6
+21.	in the illinois 19 district , dan crane be the incumbent candidate
 
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
 
 ### Long-form statement ###
-During the 2008 Indiana Fever season, the team experienced varying levels of success and attendance, with notable highlights including their highest-attended games at the Palace of Auburn Hills against Detroit and at the Staples Center against Los Angeles, an average attendance of 7601 between games 29 and 33, a series of victories between game 29 and 33, the team being one game under 500 before the last game, winning four games between game 6 and 14, recording a 5-6 record in July, and finishing with a final record of 17-17, while also showcasing individual accomplishments such as Tammy Sutton-Brown scoring 26 points for Phoenix, Katie Douglas leading in points multiple times, Tamika Catchings leading in assists for most games, and Ebony Hoffman excelling in rebounds.
+In the United States House of Representatives elections of 1984, 15 candidates were re-elected, including Tom Loeffler who was not unopposed, whereas Charles Stenholm was first elected earlier than Jack Field, with only one Republican candidate first elected in 1978 being re-elected; in addition, Doug Williams won a lower proportion of the vote in his constituency compared to Tom Vandergriff, with Georgia 9 represented by a Democratic party member, while Georgia 2 was first elected in 1980 and represented by a Democratic incumbent, Wyche Fowler; Bud Shuster was first elected two years before Robert W. Edgar, both being Republicans, and Joseph M. McDade was the earliest elect among all other incumbents, as Gene Basalyga had the lowest vote percentage of all opposing candidates, and the race between Robert Edgar and Curt Weldon was the closest among all elections from 1962 to 1982, with Florida 9 being represented by incumbent Michael Bilirakis, and Bill McCollum (R) being unopposed as a candidate in the election where the incumbent was first elected in 1980, whereas incumbent Charles Edward Bennett was part of the Democratic party; Lawrence J. Smith represented Florida 16 district, Del Latta was the incumbent from Ohio 5 district, Ohio 11 was represented by the Democratic party, Bob McEwen (R) and Bob Smith (D) were candidates for Ohio 6 district, and Dan Crane was the incumbent candidate in Illinois 19 district.
 
 ===
 
 ### System prompt ###
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive answer. Ensure that the given statements are generated based on the following tables.
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
 
 Here are information about tables as mentioned earlier:
-Wikipedia page title: 2007 - 08 premier league
+Wikipedia page title: major league soccer records and statistics
 headers of each table:
-table 1 header: team | manager | captain | kit maker | shirt sponsor
-table 2 header: team | outgoing manager | manner of departure | date of vacancy | replaced by | date of appointment | position in table
-table 3 header: team | outgoing manager | manner of departure | date of vacancy | replaced by | date of appointment | position in table
+table 1 header: season | mls cup winner | mls cup runner - up | mls supporters shield winner | mls supporters shield runner - up
+table 2 header: pts rank | club | appearances vs seasons | appearances percetages | ppg rank
 
 ### User prompt ###
 Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
 
 Here are the short-form statements:
-1.	the team bet 24 sponsor have mark hughes as manager
-2.	nike be the kit maker that aston villa us
-3.	sol campbell captain portsmouth
-4.	harry redknapp be the manager when sol campbell be the captain
-5.	there be the same umber of contract terminate as there be mutual consent departure with 5 each
-6.	there be 4 more date of vacancy in 2007 than there be in 2008
-7.	sven - göran eriksson be the only manger to be replace during the preseason
-8.	manchester city be the only team to replace their manager 2 time on the list
-9.	in total there be 3 manger who be replace during the post season
-10.	on 28 november 2007 alex mcleish fill the vacancy create when steve bruce leave on 19 november 2007
-11.	when the date of vacancy be december 21 , 2007 , then the next appointment date will be december 30 , 2007
-12.	manchester city bring in mark hughes on june 4 , 2008
-13.	the date of vacancy when the date of appointment be 28 november 2007 and the outgoing manager be replace by alex mcleish be 19 november 2007
-14.	lawrie sanchez vacate his position on 21 december 2007 , and be replace on 30 december 2007
-15.	wigan athletic replace their manager chris hutchings with steve bruce
-16.	roy hodgson replace the previous manager on 30 december 2007
-17.	manchester city bring on a new manager in the pre - season , sven - göran eriksson
+1.	dc unite be consecutive mls cup winner
+2.	houston dynamo be consecutive mls cup winner
+3.	los angeles galaxy be consecutive mls cup winner
+4.	new england revolution be 3 time mls cup runner ups
+5.	houston dynamo be consecutive mls cup runner ups
+6.	seattle sounder be the team with the greatest appearance percentage
+7.	chicago fire have a ppg rank 3 place lower than columbus crew have
+8.	toronto fc do not make any appearance in any of its season
+9.	portland timber and vancouver whitecap fc be the 2 team that be tie at a pts rank of 19
+10.	there be 4 team that have an appearance percentage of 0.00%
 
-Please generate a well-structured, long-form statement based on the short-form statements. Note that generated long-form statement should be a single sentence.
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
 
 ### Long-form statement ###
-During the 2007-08 Premier League season, there were several managerial changes and team transitions, such as Mark Hughes being appointed as the manager of the team sponsored by Bet 24, Nike serving as the kit maker for Aston Villa, and Sol Campbell captaining Portsmouth under Harry Redknapp's management, with a total of three managers being replaced during the post-season, including Lawrie Sanchez who left on December 21, 2007, only to be replaced by another manager on December 30, while Manchester City notably made two managerial changes with the appointment of Sven-Göran Eriksson in the pre-season and Mark Hughes on June 4, 2008, demonstrating significant managerial movements and team adjustments throughout the season.
+D.C. United, Houston Dynamo, and Los Angeles Galaxy have each consecutively won the MLS Cup, while New England Revolution has been the runner-up three times; Houston Dynamo has also consecutively been the runner-up, Seattle Sounders boast the highest appearance percentage, Chicago Fire ranks three places lower in PPG than Columbus Crew, Toronto FC has never made an appearance, Portland Timbers and Vancouver Whitecaps FC are tied at a points rank of 19, and there are four teams with an appearance percentage of 0.00%.
+
+===
+
+### System prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: million dollar password
+headers of each table:
+table 1 header: airdate | celebrities | rating | share | 1849 | viewers (millions) | weekly rank | prod code
+table 2 header: airdate | celebrities | rating | share | 1849 | viewers (millions) | weekly rank | prod code
+
+### User prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	the episode on sunday , january 4 , 2009 have the highest viewership of any episode
+2.	the episode on sunday , june 14 , 2009 have the lowest viewership of any episode with 6.69 million
+3.	the episode on sunday , december 28 , 2008 have the lowest weekly rank of any episode on the list
+4.	of all of the episode of million dollar password no 2 episode feature recur celebrities
+5.	the episode with jeff garlin chelsea handler have the lowest rating of any episode with 4.4
+6.	neil patrick harris rachael ray have the most viewer and highest ranking
+7.	the june 1 episode and the july 6 episode both have a weekly rank of 3
+8.	susie essman betty white be the celebrities on the only episode that air on a thursday
+9.	the june 22 episode with the production code of 105 have the lowest weekly rank
+10.	the highest rated episode have over a million more viewer than the next closest episode
+
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
+
+### Long-form statement ###
+Among the episodes of Million Dollar Password, the Sunday episode aired on January 4, 2009, stands out with the highest viewership, while the one from Sunday, June 14, 2009, attains the lowest viewership at 6.69 million; additionally, the episode broadcasted on Sunday, December 28, 2008, holds the lowest weekly rank, with episode two being the only one not featuring recurring celebrities, and the episode featuring Jeff Garlin and Chelsea Handler displaying the lowest rating at 4.4, whereas the episode starring Neil Patrick Harris and Rachael Ray garners the most viewers and the highest ranking; both the June 1 and July 6 episodes achieve a weekly rank of 3, and the single Thursday-aired episode features Susie Essman and Betty White; finally, the June 22 episode carrying the production code 105 records the lowest weekly rank, with the highest-rated episode surpassing the next closest episode by over a million viewers.
+
+===
+
+### System prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: memphis grizzlies all - time roster
+headers of each table:
+table 1 header: player | nationality | position | years for grizzlies | school / club team
+table 2 header: player | nationality | position | years for grizzlies | school / club team
+table 3 header: player | nationality | position | years for grizzlies | school / club team
+table 4 header: player | no | nationality | position | years for grizzlies | school / club team
+table 5 header: player | nationality | position | years for grizzlies | school / club team
+table 6 header: player | no | nationality | position | years for grizzlies | school / club team
+table 7 header: player | nationality | position | years for grizzlies | school / club team
+table 8 header: player | no | nationality | position | years for grizzlies | school / club team
+table 9 header: player | nationality | position | years for grizzlies | school / club team
+table 10 header: player | no | nationality | position | years for grizzlies | school / club team
+table 11 header: player | nationality | position | years for grizzlies | school / club team
+table 12 header: player | nationality | position | years for grizzlies | school / club team
+table 13 header: player | nationality | position | years for grizzlies | school / club team
+table 14 header: player | no | nationality | position | years for grizzlies | school / club team
+
+### User prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	grant long play small forward for the grizzly from 1999 until 2002
+2.	felipe lopez play shoot guard for the grizzly from 1998 until 2000
+3.	the school / club team villanova hold the title for 2006 - 2009 year for grizzlies
+4.	felipe lopez from the dominican republic play shoot guard for the grizzly from 1998 - 2000
+5.	robert archibald from scotland play in the forward / center position
+6.	mahmoud abdul - rauf play in the point guard position for the grizzly in 2000 - 2001
+7.	lawrence robert attend mississippi state
+8.	chris robinson go to western kentucky
+9.	chris robinson be a shooting guard at western kentukcy
+10.	chris robinson play for western kentucky
+11.	most of the player be american
+12.	5 player only play 2 year for memphis
+13.	3 player come from illinois
+14.	all of the player either be american or study in america
+15.	tony allen come after isaac austin leave
+16.	tayshaun prince , a forward from kentucky , be from the united state
+17.	the player from duke have nationality from united state
+18.	during 1999 - 2001 , the point guard from oklahoma have nationality from united state
+19.	tayshaun prince play the forward position
+20.	only 1 player from the united state go to depaul
+21.	tony wroten , a player from washington , have a position of a shoot guard
+22.	gerald wilkins be a player from chattanooga
+23.	tony wroten , the player who play shoot guard be from the washington club team
+24.	gerald wilkins , the player who play guard - forward be from the chattanooga club team
+25.	between 2001 - 2005 the grizzly have a point guard who attend the school / club team in florida
+26.	between 2002 - 2005 the grizzly have a player who attend ucla
+27.	the grizzle have a player who attend vilanova between the year of 1998 - 2001
+28.	all player list be us national
+29.	pete chilcutt join the grizzly the earliest of any player list
+30.	rodney carney join the grizzly most recently of the player list
+31.	5 player list be still serve
+32.	conley and conroy be the longest - serving player
+33.	the small forward be from the united state
+34.	rich man play the forward / center position for the 1995 - 1997 grizzly
+35.	darko miličić of serbia be in the center position with the 2007 - 2009 grizzly
+36.	terry dehere from seton hall play the guard position
+37.	the player who be with the grizzly in 1999 wear the number 24
+38.	terry dehere play guard for seton hall
+39.	bowl green 's antonio daniel play point guard
+40.	no 2 player on the memphis grizzlies all time roster be from the same college
+41.	mike conley , jr be the only player to still be presently play for the grizzly
+42.	there be only 2 point guard include on the memphis grizzlies all time roster
+43.	there be 5 forward include on the all time roster , more than any other position
+44.	the player that play furthest away from the present to be include on the all time roster be antoine carr
+45.	michael smith played small forward for the grizzly from 1997 - 1999
+46.	stromile swift be from the united state and play power forward
+47.	michael smith play for the grizzly from 1997 - 1999 , and go to school at providence
+48.	the most popular j last name on the grizzlies be jones
+49.	all the player come from different college within the united state
+50.	the most common position among these player be forward
+51.	the player with the longest service on this list be dahntay jones , with 4 year
+52.	all the player be citizen of the united state
+53.	there be 1 player who play the position of guard
+54.	the athlete casey jacobsen have 1 nationality
+55.	casey jacobsen attend stanford
+56.	during the 2005 - 2006 year , bobby play guard position in minnesota
+
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
+
+### Long-form statement ###
+The Memphis Grizzlies all-time roster includes players such as Grant Long, a small forward, who played for the team from 1999 to 2002; Felipe Lopez, a shooting guard from the Dominican Republic who was with the Grizzlies from 1998 to 2000 and attended St. John's University; Mahmoud Abdul-Rauf, a point guard who played during 2000-2001; Lawrence Roberts, who attended Mississippi State; Chris Robinson, a shooting guard from Western Kentucky; Tony Allen, who joined after Isaac Austin left; and Tayshaun Prince, a forward from Kentucky who represented the United States. Meanwhile, players like Pete Chilcutt joined the team earliest, Rodney Carney most recently, and Mike Conley, Jr. remains the only player presently playing for the Grizzlies, with notable players like Dahntay Jones serving the longest and Casey Jacobsen attending Stanford as they all contribute their unique backgrounds and positions to the rich tapestry of the team's history.
+
+===
+
+### System prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: 1894 - 95 fa cup
+headers of each table:
+table 1 header: tie no | home team | score | away team | date
+table 2 header: tie no | home team | score | away team | date
+
+### User prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	the everton and sheffield united game result in the exact same final score
+2.	only 2 of the featured game do not take place on 16 february 1895
+3.	the aston villa versus newcastle united feature the highest single team score of every game on the list
+4.	4 team feature on the chart have game where they score zero point
+5.	aston villa and sheffield wednesday both win game against an opponent that only score 1 point
+6.	stoke be away to newton heath
+7.	newton heath be the home team in tie number 11
+8.	3 - 1 be the score when sheffield unite be the home team
+
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
+
+### Long-form statement ###
+In the 1894-95 FA Cup matches, the Everton and Sheffield United game concluded with the same final score, Aston Villa versus Newcastle United featured the highest single team score across all games, with 4 teams on the chart recording matches where they scored zero points; only 2 games did not occur on 16th February 1895, Aston Villa and Sheffield Wednesday both secured victories against opponents who only scored 1 point, Stoke played away against Newton Heath who were the home team in tie number 11, with Sheffield United securing a 3-1 victory as the home team.
+
+===
+
+### System prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: 2006 - 07 acb season
+headers of each table:
+table 1 header: rank | name | team | games | points
+table 2 header: rank | name | team | games | assists
+table 3 header: rank | name | team | games | rebounds
+
+### User prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	tau cerámica be the team who score 4920 point in 32 game
+2.	luis scola be the player who be in the rank of 2 and have 29 game
+3.	luis scola score 4928 point for tau cerámica in 29 game
+4.	luis scola play 29 game
+5.	although prigioni have more total assist than sánchez in the 2006 acb season , he also play more game hence his average and rank be slightly lower
+6.	lópez and prigioni have the closest assist average of the 2006 acb season
+7.	the total average between the top 5 player assist in the 2006 acb season come within 1 assist
+8.	gianella have the least assist of the top 5 rank player that year , but play fewer game boost him just above salgado 's rank
+9.	there be a difference of 39 assist between the highest and lowest assist
+10.	curtis borchardt be rank higher than bud eley in record for rebound
+11.	curtis borchardt play 8 game less than the majority of those ranked
+12.	despite achieve more rebound than the number 1 in the 2006 - 07 season , bud eley only rank third
+13.	on average , the top 5 player play thirty - 2 game
+14.	all of the player come from unique team over the season
+
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
+
+### Long-form statement ###
+In the 2006 - 07 ACB season, Tau Cerámica emerged as the team scoring the highest points, with 4920 points in 32 games, led by player Luis Scola, who despite playing 29 games and scoring 4928 points, achieved the 2nd rank; furthermore, in the realm of assists, players like Prigioni and Sánchez showcased notable performances, with Prigioni outranking Sánchez, albeit having a lower average due to playing more games, while the top 5 players' assist averages were closely matched, with Gianella ranking just above Salgado by playing fewer games and the overall highest to lowest assist difference being 39; shifting focus to rebounds, Curtis Borchardt ranked higher than Bud Eley despite playing fewer games compared to other top-ranked players, and Bud Eley impressively claimed the third spot by exceeding the top-ranked player in rebounds, and all players, each hailing from unique teams, showed remarkable consistency by averaging 32 games each throughout the season.
+
+===
+
+### System prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: 2008 - 09 charlotte bobcats season
+headers of each table:
+table 1 header: game | date | team | score | high points | high rebounds | high assists | location attendance | record
+table 2 header: game | date | team | score | high points | high rebounds | high assists | location attendance | record
+table 3 header: game | date | team | score | high points | high rebounds | high assists | location attendance | record
+table 4 header: game | date | team | score | high points | high rebounds | high assists | location attendance | record
+table 5 header: game | date | team | score | high points | high rebounds | high assists | location attendance | record
+table 6 header: game | date | team | score | high points | high rebounds | high assists | location attendance | record
+
+### User prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	indiana win 115 - 108 (ot) in game 15
+2.	raymond felton have the most assist in the game against miami
+3.	milwaukee be the team 2 day in a row
+4.	raymond felton have the high assist more often than any other player
+5.	raymond felton be not the only player to have the high assist and high point in a game
+6.	time warner cable arena 's highest attendance be on january 23
+7.	gerald wallace have the highest point out of all game
+8.	during the game on april 1 , in which raymond felton (12) have the high assist , gerald wallace , emeka okafor (10) have the high rebound
+9.	the team be philadelphia on april 7
+10.	emeka okafor (14) have the high rebound for the high assist of d j augustin (8)
+11.	when gerald wallace (14) have the high rebound , the score be l 81 - 84 (ot)
+12.	time warner cable arena have an attendance of 19244 for the 55th game of the year
+13.	for game 70 , gerald wallace and raymond felton tie for the highest number of assist
+14.	the bobcat have a record of 6 - 10 in december
+15.	the most point score by a bobcat player in 1 game be 32
+16.	the highest attendance figure for 1 game be 19736
+17.	raymond felton lead the team in assist in more game than any other player
+18.	emeka okafor lead the team in rebound for 14 of the 16 game
+
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
+
+### Long-form statement ###
+Throughout the 2008-09 Charlotte Bobcats season, the team faced notable victories such as Indiana's win in game 15, Raymond Felton consistently leading in assists and not being the sole player achieving high assists and points in a game, Milwaukee defeating the team two days consecutively, with high points scored by Gerald Wallace, who also tied for highest assists with Raymond Felton in game 70; additionally, Emeka Okafor excelled in rebounds, notably achieving the highest rebound when D.J. Augustin had high assists and during the game where Gerald Wallace had a game-high rebound, leading to an overtime score of 81-84, while the attendance peaked on January 23 at Time Warner Cable Arena with 19,236 attendees for the highest attendance figure, and game 55 saw an attendance of 19,244.
+
+===
+
+### System prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: list of ben 10: alien force episodes
+headers of each table:
+table 1 header: no in series | no in season | title | directed by | written by | original airdate | production code
+table 2 header: no in series | no in season | title | directed by | written by | original airdate | production code
+
+### User prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	bird of a feather be associate with production code 210
+2.	only 1 title have a production code of 211
+3.	only 1 season have a production code of 204
+4.	the episode with production code 303 be number 29 in the series
+5.	the 15th episode in the third season have production code 315
+6.	episode 12 of season 3 be direct by rick morale
+
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
+
+### Long-form statement ###
+The episode titled "Birds of a Feather" is associated with production code 210, while the only one titled "Grounded" has a production code of 211, with the singular season featuring a production code of 204 and the episode numbered 29 in the series carrying the production code 303, as the 15th episode in the third season bears the code 315, and episode 12 of season 3 is directed by Rick Morales.
+
+===
+
+### System prompt ###
+You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
+Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
+Ensure that the given statements are generated based on the following tables.
+
+Here are information about tables as mentioned earlier:
+Wikipedia page title: 2008 asp world tour
+headers of each table:
+table 1 header: date | location | country | event | winner | runner - up
+table 2 header: date | location | country | event | winner | runner - up
+
+### User prompt ###
+Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
+
+Here are the short-form statements:
+1.	bruce iron (haw) be the won the rip curl pro search tournament
+2.	the tournament in indonesia be hold from july 30 august 10
+3.	australia have the most winning athlete of any of the country represent
+4.	stephanie gilmore win 5 event , more than any of the other competitor
+5.	silvana lima come in as runner up 3 time , come in behind stephanie gilmore 2 time
+6.	melanie bartels place 2 time , win 1 competition and come it as runner - up in another
+7.	the 2008 asp world tour begin in australia and end in hawaii
+
+Please generate a well-structured, long-form statement based on the short-form statements.
+Note that generated long-form statement should be a single sentence, with no more than three commas.
+
+### Long-form statement ###
+In the 2008 ASP World Tour, Bruce Irons from Hawaii emerged as the winner of the Rip Curl Pro Search tournament held in Indonesia from July 30 to August 10, marking the start of a tour that saw Australia producing the most victorious athletes among all represented countries, with Stephanie Gilmore clinching victory in five events, the highest among competitors, while Silvana Lima finished as the runner-up three times, twice behind Gilmore, and Melanie Bartels achieved second place twice, claimed a win in one competition, and secured runner-up in another, culminating in a tour that commenced in Australia and concluded in Hawaii.
 
 ===
 
