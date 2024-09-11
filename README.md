@@ -3,20 +3,24 @@
 ## File construction
 
     [folder] dataset
-        [folder] dump # source dataset checkpoints, *.pkl
-        [folder] source # source dataset files, only local (too big size)
+        [folder] dump # source dataset checkpoints, *.pkl\
         [file] dataset_stats.csv # dataset statistics
         [file] dataset_stats.py
-        [file] huggingface_access_token.yaml # only local
         [file] load_{dataset_name}.py # dataset loader (no need to use directly)
     [folder] prompt
         [file] system_prompt_template.txt
         [file] user_prompt_template.txt
-    [file] .gitignore # not upload
     [file] main.py
     [file] requirements.txt # setup file
     [file] util_dill.py
     [file] util.py
+
+## .gitignore
+
+    .gitignore
+    *__pycache__
+    dataset/source
+    dataset/huggingface_access_token.yaml
 
 ## 1. Setup
 
