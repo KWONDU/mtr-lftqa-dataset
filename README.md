@@ -3,7 +3,8 @@
 ## File construction
 
     [folder] dataset
-        [folder] dump # source dataset checkpoints, *.pkl\
+        [folder] dump
+            [file] {dataset_name}*.pkl  # source dataset checkpoints
         [file] dataset_stats.csv # dataset statistics
         [file] dataset_stats.py
         [file] load_{dataset_name}.py # dataset loader (no need to use directly)
