@@ -68,7 +68,7 @@ if __name__ == '__main__':
         print(f"Complete {dataset_name} dataset statistics calculation!")
     
     # save to csv file
-    with open('dataset_stats.csv', mode='w', newline='', encoding='utf-8') as file:
+    with open('../results/dataset_statistics.csv', mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(dataset_stats_list_header)
         writer.writerows(dataset_stats_list)
