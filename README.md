@@ -5,12 +5,13 @@
     [folder] dataset
         [folder] dump
             [file] {dataset_name}*.pkl  # source dataset checkpoints
-        [file] dataset_stats.csv # dataset statistics
         [file] dataset_stats.py
         [file] load_{dataset_name}.py # dataset loader (no need to use directly)
     [folder] prompt
         [file] system_prompt_template.txt
         [file] user_prompt_template.txt
+    [folder] results
+        [file] dataset_statistics.csv
     [file] main.py
     [file] requirements.txt # setup file
     [file] util_dill.py
