@@ -1,0 +1,8 @@
+datasets
+dill
+huggingface_hub
+huggingface_hub[cli]
+jsonlines
+openai
+PyYAML
+tqdm

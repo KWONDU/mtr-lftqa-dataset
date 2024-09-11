@@ -1,16 +1,20 @@
 import argparse
+import dill
 import importlib
 import logging
 
-
+"""
 def load_dataset(dataset_name):
     try:
-        module = importlib.import_module('dataset')
-        dataset_class = getattr(module, f'{dataset_name}Dataset')()
+        processed_dataset_name = dataset_name.replace('-', '')
+        with open(f'dataset/dump/{processed_dataset_name.lower()}.dill', 'rb') as file:
+            __coarse_module = importlib.import_module('dataset.dataset_template')
+            __fine_module = importlib.import_module(f'dataset.load_{processed_dataset_name.lower()}')
+            dataset = dill.load(file)
     except Exception as e:
         logger.critical(e)
-    return dataset_class
-
+    return dataset
+"""
 
 def parser():
     parser = argparse.ArgumentParser()
