@@ -1,20 +1,21 @@
 import argparse
-import dill
-import importlib
+import glob
 import logging
+from util_dill import load_large_object
 
-"""
+
 def load_dataset(dataset_name):
     try:
         processed_dataset_name = dataset_name.replace('-', '')
-        with open(f'dataset/dump/{processed_dataset_name.lower()}.dill', 'rb') as file:
-            __coarse_module = importlib.import_module('dataset.dataset_template')
-            __fine_module = importlib.import_module(f'dataset.load_{processed_dataset_name.lower()}')
-            dataset = dill.load(file)
+        dataset = load_large_object(
+            glob.glob(f'dataset/dump/{processed_dataset_name.lower()}*.pkl'),
+            'dataset',
+            f'load_{processed_dataset_name.lower()}'
+            )
     except Exception as e:
         logger.critical(e)
     return dataset
-"""
+
 
 def parser():
     parser = argparse.ArgumentParser()

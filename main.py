@@ -5,6 +5,7 @@ from util import load_dataset, parser
 
 def main(dataset_name):
     dataset = load_dataset(dataset_name=dataset_name)
+    print(dataset)
 
 
 if __name__ == '__main__':

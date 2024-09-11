@@ -1,7 +1,8 @@
 import csv
-import dill
+import glob
 import importlib
 import os
+import sys
 
 
 if __name__ == '__main__':
@@ -30,29 +31,19 @@ if __name__ == '__main__':
         ]
     dataset_stats_list = []
 
-    Flag, target_dataset_name = False, 'MultiTabQA'
-    if Flag:
-        dataset_list = [dataset for dataset in dataset_list if dataset[0] == target_dataset_name]
-
     for dataset_name, dataset_type, source_data in dataset_list:
-        processed_dataset_name = dataset_name.replace('-', '')
-        if Flag:
-            module = importlib.import_module(f'dataset.load_{processed_dataset_name.lower()}')
-            dataset = getattr(module, f'{processed_dataset_name}Dataset')()
-            print(dataset_name)
-            print(dataset.tables[0])
-            print(dataset[0])
-            exit()
+        processed_dataset_name = dataset_name.replace('-', '') # remove '-'
 
         try:
-            if os.path.exists(f'{os.getcwd()}/dump/{processed_dataset_name.lower()}.dill'):
-                with open(f'dump/{processed_dataset_name.lower()}.dill', 'rb') as file:
-                    dataset = dill.load(file)
+            sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            import util_dill
+            dill_files = glob.glob(f'dump/{processed_dataset_name.lower()}*.pkl')
+            if dill_files:
+                dataset = util_dill.load_large_object(dill_files, '', f'load_{processed_dataset_name.lower()}')
             else:
                 module = importlib.import_module(f'load_{processed_dataset_name.lower()}')
                 dataset = getattr(module, f'{processed_dataset_name}Dataset')()
-                with open(f'dump/{processed_dataset_name.lower()}.dill', 'wb') as file:
-                    dill.dump(dataset, file)
+                util_dill.save_large_object(dataset, f'dump/{processed_dataset_name.lower()}')
         except:
             print(f"{dataset_name} dataset class doesn't exist!")
             continue
