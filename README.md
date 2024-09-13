@@ -28,8 +28,43 @@
 
     pip install -r requirements.txt
 
-## 2. Load dataset
+## 2. About dataset
+
+# 2.1 Load dataset
 
     from util import load_dataset
 
     dataset = load_dataset({dataset_name})
+
+# 2.2 Dataset configuration
+
+    dataset
+        download_type # [str] huggingface or local
+        tables
+            [
+                {
+                    'metadata': [str] each table's metadata
+                    'metadata_info': [str] metadata configuration process
+                    'header': [list] each table's header
+                    'cell': [2d list] each table's cells
+                },
+                . . .
+            ]
+        dataset.train # about train set
+            [
+                {
+                    'gold_tables': [list] gold table indices at table lake
+                    'question': [str] each data's annotated question
+                    'answer': [str] each data's annotated answer # can be tuple
+                    'answer_type': [str] sentence or table or word or SQL or T/F # can be tuple
+                },
+                . . .
+            ]
+        dataset.validation # about validation set
+            # DITTO
+        dataset.test    # about test set
+            # DITTO
+
+    print(dataset) # return dataset name
+    print(dataset[i]) # return i'th data; train, validation, test set in order
+    print(len(dataset)) # return total dataset size
