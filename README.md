@@ -44,7 +44,7 @@
             [
                 {
                     'metadata': [str] each table's metadata
-                    'metadata_info': [str] metadata configuration process
+                    'metadata_info': [str] metadata configuration process (w/ extra information)
                     'header': [list] each table's header
                     'cell': [2d list] each table's cells
                 },
