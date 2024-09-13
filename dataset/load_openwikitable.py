@@ -107,7 +107,7 @@ class OpenWikiTableDataset():
     def __str__(self):
         return '<Open-WikiTable dataset>'
     
-    def __getitem__(self, idx):
+    def _get_single_item(self, idx):
         if idx < self._train_len:
             return self._train[idx]
         elif idx - self._train_len < self._validation_len:
@@ -116,3 +116,16 @@ class OpenWikiTableDataset():
             return self._test[idx - self._train_len - self._validation_len]
         else:
             return None
+    
+    def __getitem__(self, key):
+        if isinstance(key, slice):
+            items = []
+            for idx in range(key.start or 0, key.stop or len(self), key.step or 1):
+                item = self._get_single_item(idx)
+                if item:
+                    items.append(item)
+                else:
+                    return items
+            return items
+        else:
+            return self._get_single_item(key)

@@ -31,8 +31,6 @@ if __name__ == '__main__':
         ]
     dataset_stats_list = []
 
-    dataset_list = [('Spider', 'text-to-SQL', 'Online, DB, WikiSQL')]
-
     for dataset_name, dataset_type, source_data in dataset_list:
         processed_dataset_name = dataset_name.replace('-', '') # remove '-'
 

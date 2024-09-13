@@ -25,11 +25,11 @@ class MultiTabQADataset():
     def __load_data(self, dataset):
         return [
             {
-                'gold_tables': [
+                'gold_tables': sorted([
                     idx for table_name in data['table_names_list']
                     for idx, table in enumerate(self._tables)
                     if table_name == table['temp_key']
-                ],
+                ]),
                 'question': data['question'],
                 'answer': (data['query'], data['sub_table']),
                 'answer_type': ('SQL', 'table')
@@ -140,12 +140,11 @@ class MultiTabQADataset():
     
     def __getitem__(self, key):
         if isinstance(key, slice):
-            start, stop, step = key.start, key.stop, key.step
             items = []
-            for idx in range(start, stop, step):
+            for idx in range(key.start or 0, key.stop or len(self), key.step or 1):
                 item = self._get_single_item(idx)
                 if item:
-                    items.append()
+                    items.append(item)
                 else:
                     return items
             return items

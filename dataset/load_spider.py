@@ -118,12 +118,11 @@ class SpiderDataset():
     
     def __getitem__(self, key):
         if isinstance(key, slice):
-            start, stop, step = key.start, key.stop, key.step
             items = []
-            for idx in range(start, stop, step):
+            for idx in range(key.start or 0, key.stop or len(self), key.step or 1):
                 item = self._get_single_item(idx)
                 if item:
-                    items.append()
+                    items.append(item)
                 else:
                     return items
             return items
