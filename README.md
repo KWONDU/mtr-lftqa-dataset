@@ -30,13 +30,13 @@
 
 ## 2. About dataset
 
-# 2.1 Load dataset
+### 2.1 Load dataset
 
     from util import load_dataset
 
     dataset = load_dataset({dataset_name})
 
-# 2.2 Dataset configuration
+### 2.2 Dataset configuration
 
     dataset
         download_type # [str] huggingface or local
