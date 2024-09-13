@@ -31,6 +31,8 @@ if __name__ == '__main__':
         ]
     dataset_stats_list = []
 
+    dataset_list = [('Spider', 'text-to-SQL', 'Online, DB, WikiSQL')]
+
     for dataset_name, dataset_type, source_data in dataset_list:
         processed_dataset_name = dataset_name.replace('-', '') # remove '-'
 
@@ -44,8 +46,8 @@ if __name__ == '__main__':
                 module = importlib.import_module(f'load_{processed_dataset_name.lower()}')
                 dataset = getattr(module, f'{processed_dataset_name}Dataset')()
                 util_dill.save_large_object(dataset, f'dump/{processed_dataset_name.lower()}')
-        except:
-            print(f"{dataset_name} dataset class doesn't exist!")
+        except Exception as e:
+            print(f"[{dataset_name} dataset] {e}")
             continue
         
         dataset_size = len(dataset)

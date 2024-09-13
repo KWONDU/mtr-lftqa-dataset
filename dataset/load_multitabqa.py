@@ -128,7 +128,7 @@ class MultiTabQADataset():
     def __str__(self):
         return '<MultiTabQA dataset>'
     
-    def __getitem__(self, idx):
+    def _get_single_item(self, idx):
         if idx < self._train_len:
             return self._train[idx]
         elif idx - self._train_len < self._validation_len:
@@ -137,3 +137,17 @@ class MultiTabQADataset():
             return self._test[idx - self._train_len - self._validation_len]
         else:
             return None
+    
+    def __getitem__(self, key):
+        if isinstance(key, slice):
+            start, stop, step = key.start, key.stop, key.step
+            items = []
+            for idx in range(start, stop, step):
+                item = self._get_single_item(idx)
+                if item:
+                    items.append()
+                else:
+                    return items
+            return items
+        else:
+            return self._get_single_item(key)
