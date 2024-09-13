@@ -63,7 +63,7 @@ class MultiTabQADataset():
                 tables = tables + [
                     {
                         'metadata': data['table_names'],
-                        'metadata_info': 'Table name.',
+                        'metadata_info': f'Table name. (w/ {source_dataset_name} dataset)',
                         'header': tables_header_cell_list[i][j]['columns'],
                         'cell': tables_header_cell_list[i][j]['data'],
                         'temp_key': f'{source_dataset_name}-{table_name}'
