@@ -13,6 +13,7 @@
     [folder] results
         [file] dataset_statistics.csv
     [file] main.py
+    [file] text_to_sql.py
     [file] requirements.txt # setup file
     [file] util_dill.py
     [file] util.py
@@ -43,17 +44,19 @@
         tables
             [
                 {
+                    'id': [str] each table's ID
                     'metadata': [str] each table's metadata
-                    'metadata_info': [str] metadata configuration process (w/ extra information)
+                    'metadata_info': [str] metadata configuration process
                     'header': [list] each table's header
                     'cell': [2d list] each table's cells
+                    'source': [str] each table's source (None in case not specified)
                 },
                 . . .
             ]
         dataset.train # about train set
             [
                 {
-                    'gold_tables': [list] gold table indices at table lake
+                    'gold_tables': [list] gold table IDs
                     'question': [str] each data's annotated question
                     'answer': [str] each data's annotated answer # can be tuple
                     'answer_type': [str] sentence or table or word or SQL or T/F # can be tuple

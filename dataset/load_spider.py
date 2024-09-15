@@ -1,3 +1,4 @@
+import hashlib
 import json
 
 
@@ -29,9 +30,12 @@ class SpiderDataset():
             try:
                 processed_data = {
                     'gold_tables': sorted([
-                        idx for idx, table in enumerate(self._tables)
+                        table['id'] for table in self._tables
                         for gold_table_name_original in gold_tables_name_original_list
-                        if table['metadata'] == f'{gold_db_id} | {table_name_original_match_dict[gold_table_name_original.lower()]}'
+                        if hashlib.sha256(
+                            f'{gold_db_id} | {table_name_original_match_dict[gold_table_name_original.lower()]}'
+                            .encode()
+                            ).hexdigest() == table['id']
                         ]),
                     'question': data['question'],
                     'answer': data['query'],
@@ -57,10 +61,12 @@ class SpiderDataset():
 
             for i, table_name in enumerate(table_names):
                 table = {
+                    'id': hashlib.sha256(f'{db_id} | {table_name}'.encode()).hexdigest(),
                     'metadata': f'{db_id} | {table_name}',
                     'metadata_info': "Concatenation of database ID and each table name.",
                     'header': [column_name[1] for column_name in column_names if column_name[0] == i],
-                    'cell': None
+                    'cell': None,
+                    'source': None
                 }
                 table_name_original = table_names_original[i]
                 table_name_original_match_dict[table_name_original.lower()] = table_name

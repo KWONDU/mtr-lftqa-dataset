@@ -1,4 +1,5 @@
 import csv
+import hashlib
 import json
 import os
 
@@ -8,12 +9,12 @@ class TabFactDataset():
         super().__init__()
         self._path = 'source/tabfact'
         self._download_type = 'local'
-        self._tables, table_id_idx_match_dict = self.__load_tables()
-        self._train = self.__load_data('train', table_id_idx_match_dict)
-        self._validation = self.__load_data('validation', table_id_idx_match_dict)
-        self._test = self.__load_data('test', table_id_idx_match_dict)
+        self._tables = self.__load_tables()
+        self._train = self.__load_data('train')
+        self._validation = self.__load_data('validation')
+        self._test = self.__load_data('test')
     
-    def __load_data(self, split, table_id_idx_match_dict):
+    def __load_data(self, split):
         processed_dataset = []
         
         with open(f'{self._path}/{split}.json', 'r') as file:
@@ -21,12 +22,14 @@ class TabFactDataset():
 
             for gold_table_id, data in data_dict.items():
                 statements_list, labels_list, page_title = data[0], data[1], data[2]
-                gold_table_idx = table_id_idx_match_dict[gold_table_id]
-                self._tables[gold_table_idx]['metadata'] = page_title
+                hash_table_id = hashlib.sha256(gold_table_id.encode()).hexdigest()
+                for idx, table in enumerate(self._tables):
+                    if hash_table_id == table['id']:
+                        self._tables[idx]['metadata'] = page_title
 
                 for statement, label in zip(statements_list, labels_list):
                     processed_data = {
-                        'gold_tables': [gold_table_idx],
+                        'gold_tables': [hash_table_id],
                         'question': None,
                         'answer': (statement, bool(label)),
                         'answer_type': ('sentence', 'T/F')
@@ -37,10 +40,8 @@ class TabFactDataset():
     
     def __load_tables(self):
         tables = []
-        table_id_idx_match_dict = {}
 
-        for idx, table_id in enumerate(os.listdir(f'{self._path}/tables')):
-            table_id_idx_match_dict[table_id] = idx
+        for table_id in os.listdir(f'{self._path}/tables'):
             with open(f'{self._path}/tables/{table_id}', 'r', encoding='utf-8') as file:
                 reader = csv.reader(file, delimiter='#')
 
@@ -54,14 +55,16 @@ class TabFactDataset():
                         table_cell.append(row)
 
             table = {
+                'id': hashlib.sha256(table_id.encode()).hexdigest(),
                 'metadata': None, # Will be filled at __load_data method
                 'metadata_info': "Page title.",
                 'header': table_header,
-                'cell': table_cell
+                'cell': table_cell,
+                'source': None
             }
             tables.append(table)
         
-        return tables, table_id_idx_match_dict
+        return tables
 
     @property
     def download_type(self):

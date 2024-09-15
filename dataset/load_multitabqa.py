@@ -1,3 +1,4 @@
+import hashlib
 import json
 from datasets import load_dataset
 
@@ -15,21 +16,11 @@ class MultiTabQADataset():
         self._train = self.__load_data(dataset['train'])
         self._validation = self.__load_data(dataset['validation'])
         self._test = self.__load_data(dataset['test'])
-        self.__delete_temp_key_from_tables()
-        
-    def __delete_temp_key_from_tables(self):
-        for table in self._tables:
-            if 'temp_key' in table:
-                del table['temp_key']
     
     def __load_data(self, dataset):
         return [
             {
-                'gold_tables': sorted([
-                    idx for table_name in data['table_names_list']
-                    for idx, table in enumerate(self._tables)
-                    if table_name == table['temp_key']
-                ]),
+                'gold_tables': sorted(data['gold_tables']),
                 'question': data['question'],
                 'answer': (data['query'], data['sub_table']),
                 'answer_type': ('SQL', 'table')
@@ -62,11 +53,12 @@ class MultiTabQADataset():
             
                 tables = tables + [
                     {
-                        'metadata': data['table_names'],
-                        'metadata_info': f'Table name. (w/ {source_dataset_name} dataset)',
+                        'id': hashlib.sha256(f'{source_dataset_name}-{table_name}'.encode()).hexdigest(),
+                        'metadata': table_name,
+                        'metadata_info': 'Table name.',
                         'header': tables_header_cell_list[i][j]['columns'],
                         'cell': tables_header_cell_list[i][j]['data'],
-                        'temp_key': f'{source_dataset_name}-{table_name}'
+                        'source': source_dataset_name
                     }
                     for i, data in enumerate(sub_dataset)
                     for j, table_name in enumerate(data['table_names'])
@@ -80,13 +72,16 @@ class MultiTabQADataset():
                             'header': json.loads(data['answer'])['columns'], # Transform sub-table string to dictionary
                             'cell': json.loads(data['answer'])['data'] # Transform sub-table string to dictionary
                         },
-                        'table_names_list': [f'{source_dataset_name}-{table_name}' for table_name in data['table_names']],
+                        'gold_tables': [
+                            hashlib.sha256(f'{source_dataset_name}-{table_name}'.encode()).hexdigest()
+                            for table_name in data['table_names']
+                            ]
                     }
                     for data in sub_dataset
                 ]
             
         # Deduplication tables
-        unique_tables = list({table['temp_key']: table for table in tables}.values())
+        unique_tables = list({table['id']: table for table in tables}.values())
 
         return unique_tables, processed_dataset
     

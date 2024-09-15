@@ -1,3 +1,4 @@
+import hashlib
 import yaml
 from datasets import concatenate_datasets, load_dataset
 from huggingface_hub import login
@@ -14,19 +15,13 @@ class QTSummDataset():
         self._train = self.__load_data(dataset['train'])
         self._validation = self.__load_data(dataset['validation'])
         self._test = self.__load_data(dataset['test'])
-        self.__delete_temp_key_from_tables()
-        
-    def __delete_temp_key_from_tables(self):
-        for table in self._tables:
-            if 'temp_key' in table:
-                del table['temp_key']
     
     def __load_data(self, dataset):
         return [
             {
                 'gold_tables': [
-                    idx for idx, table in enumerate(self._tables)
-                    if data['table']['table_id'] == table['temp_key']
+                    table['id'] for table in self._tables
+                    if hashlib.sha256(data['table']['table_id'].encode()).hexdigest() == table['id']
                     ],
                 'question': data['query'],
                 'answer': data['summary'],
@@ -43,15 +38,16 @@ class QTSummDataset():
 
         for data in concatenate_datasets([dataset['train'], dataset['validation'], dataset['test']]):
             table = {
+                'id': hashlib.sha256(data['table']['table_id'].encode()).hexdigest(),
                 'metadata': f"{data['table']['title']}",
                 'metadata_info': 'Table title.',
                 'header': data['table']['header'],
                 'cell': data['table']['rows'],
-                'temp_key': data['table']['table_id']
+                'source': None
             }
             tables.append(table)
         # Deduplication tables
-        unique_tables = list({table['temp_key']: table for table in tables}.values())
+        unique_tables = list({table['id']: table for table in tables}.values())
         
         return unique_tables, dataset
 

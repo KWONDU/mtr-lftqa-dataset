@@ -1,3 +1,4 @@
+import hashlib
 import json
 
 
@@ -10,12 +11,6 @@ class OpenWikiTableDataset():
         self._train = self.__load_data('train')
         self._validation = self.__load_data('validation')
         self._test = self.__load_data('test')
-        self.__delete_temp_key_from_tables()
-        
-    def __delete_temp_key_from_tables(self):
-        for table in self._tables:
-            if 'temp_key' in table:
-                del table['temp_key']
     
     def __load_data(self, split):
         with open(f'{self._path}/{split}.json', 'r') as file:
@@ -34,8 +29,8 @@ class OpenWikiTableDataset():
         return [
             {
                 'gold_tables': [
-                    idx for idx, table in enumerate(self._tables)
-                    if data['original_table_id'] == table['temp_key']
+                    table['id'] for table in self._tables
+                    if hashlib.sha256(data['original_table_id'].encode()).hexdigest() == table['id']
                     ],
                 'question': data['question'],
                 'answer': (data['answer'], data['sql']),
@@ -60,11 +55,12 @@ class OpenWikiTableDataset():
         
         return [
             {
-                'metadata': f"{table['page_title']} | {table['section_title']}",
-                'metadata_info': 'Concatenation of page title and section title.',
+                'id': hashlib.sha256(table['original_table_id'].encode()).hexdigest(),
+                'metadata': f"{table['page_title']} | {table['section_title']} | {table['caption']}",
+                'metadata_info': 'Concatenation of page title, section title and table caption.',
                 'header': table['header'],
                 'cell': table['rows'],
-                'temp_key': table['original_table_id']
+                'source': table['dataset']
             }
             for table in tables_list
         ]
