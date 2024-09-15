@@ -67,6 +67,18 @@ if __name__ == '__main__':
         )
         print(f"Complete {dataset_name} dataset statistics calculation!")
     
+    dataset_stats_list.append(
+        [
+            'Our dataset',
+            'open-domain table QA',
+            '...',
+            '...',
+            '> 2',
+            'sentence',
+            'MultiTabQA, ...'
+        ]
+    )
+    
     # save to csv file
     with open('../results/dataset_statistics.csv', mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)

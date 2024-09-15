@@ -6,3 +6,4 @@ FeTaQA,table QA,10330,10330,1.00,sentence,ToTTo
 QTSumm,table QA,7111,2934,1.00,sentence,"LogicNLG, ToTTo"
 Open-WikiTable,open-domain table QA,67023,24680,1.00,"('word', 'SQL')","WikiSQL, WikiTableQuestions"
 TabFact,table-based fact verification,117854,16573,1.00,"('sentence', 'T/F')",Wikipedia
+Our dataset,open-domain table QA,...,...,> 2,sentence,"MultiTabQA, ..."
