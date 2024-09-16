@@ -153,11 +153,11 @@ if __name__ == '__main__':
             response=step3_response
         ))
     
-    with open('step0_data_info.txt', 'w') as file:
+    with open('results/step0_data_info.txt', 'w') as file:
         file.writelines(step0_data_info_list)
-    with open('step1_response.txt', 'w') as file:
+    with open('results/step1_response.txt', 'w') as file:
         file.writelines(step1_response_text_list)
-    with open('step2_response.txt', 'w') as file:
+    with open('results/step2_response.txt', 'w') as file:
         file.writelines(step2_response_text_list)
-    with open('step3_response.txt', 'w') as file:
+    with open('results/step3_response.txt', 'w') as file:
         file.writelines(step3_response_text_list)

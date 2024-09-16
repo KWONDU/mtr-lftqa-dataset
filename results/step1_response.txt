@@ -6,7 +6,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -44,10 +44,11 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. Based on user reviews, how can we identify users who have not left any reviews?
-2. Which user has the highest number of reviews and what is their name?
-3. How do the average ratings given by each user compare to one another?
-4. What are the names of users who have written the most reviews, and how many reviews have they each written?
+
+1. How can we identify users who have not left any reviews, and what information can we gather about them from the database?
+2. Is it possible to determine which user has given the most reviews, and what is their name?
+3. Can we analyze the trend of review ratings provided by each user and their corresponding average ratings? 
+4. How do we calculate and display the total number of reviews written by each user along with their names?
 5. Who is the user with the highest rating, and what is their name?
 
 ==
@@ -60,7 +61,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -89,11 +90,10 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. What are the characteristics of employees without certificates in terms of their IDs?
-2. How can we identify employees who do not possess certificates based on their IDs?
-3. Who is the top-certified employee in terms of aircraft certificates and what are their salary and name?
-4. How can we determine the employee with the highest number of aircraft certificates and retrieve their salary and name?
-5. What are the similarities and differences in finding employees with the most certifications for flying planes and for aircraft certificates in terms of SQL queries?
+1. **Comparative Analysis**: What are the patterns in employee certifications, and how do they differ from non-certified employees?
+2. **Identifying Employee Details**: How do the salaries and names of employees without certificates vary?
+3. **Top Performers Recognition**: Who among the employees excels in obtaining aircraft certificates, and what are their associated salary levels and names?
+4. **Expertise Recognition**: Which employee holds the most aircraft certifications and what are their name and salary details?
 
 ==
 
@@ -105,7 +105,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -128,11 +128,11 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. How does the number of medications prescribed vary across different brands?
-2. What is the distribution of medications prescribed among different brands?
-3. What insights can be gathered by analyzing the count of medications prescribed for each brand?
-4. How can the relationship between medication count and brand be utilized for decision-making processes?
-5. What patterns can be identified by examining the prescription counts for each medication brand?
+1. What is the distribution of prescribed medications across different brands?
+2. How does the number of medications prescribed vary for each brand?
+3. Can we identify brands with a higher prescription rate of medications?
+4. In which brand do we see the highest and lowest number of medications being prescribed?
+5. Is there a correlation between the popularity of a brand and the number of medications prescribed for it?
 
 ==
 
@@ -144,7 +144,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -167,12 +167,11 @@ Output should follow the next template.
 
 [Response]
 ## Output
-
-1. What are the criteria for determining the manager who won the most manager awards, and how are they reflected in the corresponding SQL query?
-2. Can we identify any specific patterns or trends in the distribution of manager awards among different managers based on the SQL query provided?
-3. How does the SQL query leverage the relationship between player and manager_award tables to retrieve information about the most awarded manager?
-4. In what ways does the SQL query prioritize the retrieval of the manager's first name, last name, and ID who has won the most manager awards?
-5. What insights can be gained from analyzing the SQL query in terms of understanding the performance and accomplishments of managers in the dataset?
+1. Can we identify the manager with the most manager awards and retrieve their first name, last name, and ID?
+2. What is the query to find the manager who has won the highest number of manager awards, and how can we display their personal details along with the award count?
+3. How can we determine the manager who has the highest count of manager awards and present their relevant information in a single query?
+4. Is there a way to extract the details of the manager who achieved the maximum manager awards count, including their first name, last name, and ID?
+5. What SQL query will help us discover the manager that received the most manager awards and obtain their complete profile?
 
 ==
 
@@ -184,7 +183,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -219,11 +218,11 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. Identify students who achieved a specific grade in any class and retrieve their first names.
-2. Retrieve the first names of all students who obtained a grade of C in any class.
-3. Find the names of students who took courses and received either an A or C grade.
-4. Explore the names of students currently enrolled in a course and who were graded with an A or C.
-5. Determine the last name of a student who attained a grade of A in a particular class identified by its code.
+1. Can you provide a list of students who received a specific grade in any class and their first names?
+2. How can we obtain the first names of students who achieved a certain grade in a particular class?
+3. Is it possible to find the full names of students who enrolled in courses and obtained specific grades?
+4. What is the approach to identifying students taking courses and attaining specific grades along with their names?
+5. Could you retrieve the last names of students who excelled in a particular class by receiving a specific grade?
 
 ==
 
@@ -235,7 +234,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -261,11 +260,11 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. How can pilot names and the number of records they have be displayed in a single query?
-2. What is the query to show the names of pilots who have more than one record in the database?
-3. How can the names of pilots who do not have any record in the database be listed efficiently?
-4. What SQL query can be used to retrieve the names of pilots along with the count of their records and filter out those with more than one record?
-5. Is there a way to list the names of pilots who do not have any associated record in a single query rather than using subqueries?
+1. How can we retrieve the names of pilots and the total number of records they have?
+2. In what way can we identify the names of pilots with more than one record in the database?
+3. How can we determine the names of pilots who do not have any records stored in the system?
+4. What methods can be used to group pilots based on their names and the count of records they possess?
+5. How can we filter and display only the names of pilots who have more than one record in the database?
 
 ==
 
@@ -277,7 +276,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -301,11 +300,11 @@ Output should follow the next template.
 [Response]
 ## Output
 
-1. What are the characteristics of the invoice with the highest number of transactions, such as its number and date?
-2. How do the invoice number and date of the invoice with the most transactions relate to the financial transactions table?
-3. What insights can be gained from analyzing the invoice data for invoices with the greatest number of transactions in terms of financial transactions?
-4. In what ways does the count of transactions for each invoice impact the retrieval of invoice numbers and dates from the database?
-5. How can understanding the relationship between invoice numbers, dates, and transaction counts contribute to better financial analysis and decision-making?
+1. How do the number of transactions for each invoice in the dataset vary, and what is the distribution of these transactions across invoices?
+2. What factors contribute to an invoice having the highest number of transactions in the financial transactions table, and how can this be leveraged for decision-making?
+3. In what ways can the relationship between invoice numbers and transaction counts be utilized to identify trends or anomalies in the financial transactions data?
+4. What insights can be gained by comparing the invoice numbers and dates of the top transactions in the dataset, and how can this information be beneficial for financial analysis?
+5. How can the SQL query be optimized or modified to provide additional details or metrics regarding the invoices with the most transactions, and what implications could this have on the analysis of financial data?
 
 ==
 
@@ -317,7 +316,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -358,11 +357,11 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. What is the role of instructors in advising students in different departments and how does their salary vary based on their advisory responsibilities?
-2. How can we identify instructors advising students in specific departments and what are their names and salaries in those cases?
-3. How does the advisory role of instructors differ across departments, particularly focusing on the Math department, and what are the associated salary details?
-4. In what ways can we sort and filter the list of instructors who are advisors of students in specific departments based on student attributes such as total credit?
-5. Who is the instructor amongst all advisors that advises the student with the highest total credits, and what is their name and role in the advisory process?
+1. How can we identify instructors who advise students from a specific department and retrieve their names and salaries?
+2. What is the process to extract the names and salaries of instructors advising students in a particular department?
+3. In what way can we find instructors who are advisors to students from a specific department and list their names along with their salaries?
+4. How can we determine the instructors advising students in a particular department and showcase their names and salaries?
+5. How can we discover the instructor who advises the student with the highest total credits and retrieve their name?
 
 ==
 
@@ -374,7 +373,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -409,11 +408,11 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. What contact channel has been utilized by the customer named "Tillman Ernser", and what is the active timeframe associated with it?
-2. Among the contact channels used by the customer "Tillman Ernser", which one was the latest and what was its active date range?
-3. How can we determine the most recent active date of the contact channel utilized by "Tillman Ernser"?
-4. For customers who communicate via email, what are their names and the dates when they started using this contact channel?
-5. Which customers have email as their contact channel and what are their corresponding active dates?
+1. How can we determine the preferred contact channel for a specific customer like "Tillman Ernser"?
+2. What is the latest contact channel code used by the customer named "Tillman Ernser"?
+3. What is the significance of the "active to date" related to the contact channel used by "Tillman Ernser"?
+4. How does the "active to date" of the latest contact channel used by "Tillman Ernser" impact customer engagement?
+5. How can we identify customers who use email as their primary contact channel, including their names and active dates?
 
 ==
 
@@ -425,7 +424,7 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
 
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
@@ -466,11 +465,11 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. What are the top 5 genres by number of tracks and the total count per genre?
-2. How many tracks does each genre have and what are the names of the top 5 genres?
-3. Which tracks have the genre "Rock" associated with them?
-4. What are the names of all tracks that belong to the genre "Rock"?
-5. Can you list the names of tracks that belong to either the "Rock" or "Jazz" genres?
+1. What are the most popular genres based on the number of tracks and what is the total count for each of the top 5 genres?
+2. How many tracks does each genre have and what are the names of the top 5 genres based on the track count?
+3. Can you provide the names of all tracks that are classified under the genre "Rock"?
+4. Which tracks are categorized under the genre "Rock", and can you list all of their names?
+5. Which tracks belong to either the "Rock" or "Jazz" genres, and what are their names?
 
 ==
 

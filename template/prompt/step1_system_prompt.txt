@@ -5,4 +5,4 @@ For given question-SQL query pairs, follow these steps:
 2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
 3. Generate five high-level questions by properly combining high-level topics.
 
-Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions. Please sure that a high-level question don't include 5Ws(Who, What, When, Where, Which).
