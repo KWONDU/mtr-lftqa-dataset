@@ -1,0 +1,166 @@
+### Data information ###
+[Table information]
+1th table information
+metadata: useracct
+u_id | name 
+------------
+1    | Helen
+2    | Mark 
+3    | Terry
+4    | Nancy
+5    | Rosie
+6    | Roxi 
+7    | Emily
+
+2th table information
+metadata: review
+a_id | u_id | i_id | rating | rank
+----------------------------------
+1    | 1    | 1    | 10     | 1   
+2    | 2    | 1    | 5      | 2   
+3    | 1    | 4    | 7      | 3   
+4    | 2    | 7    | 10     | 7   
+5    | 2    | 5    | 7      | 4   
+6    | 1    | 3    | 5      | 5   
+7    | 2    | 7    | 6      | 6   
+
+[Data information]
+1th data information
+question: Find the names of users who did not leave any review.
+SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+SQL extraction
+name 
+-----
+Terry
+Nancy
+Rosie
+Roxi 
+Emily
+
+2th data information
+question: Find the name of the user who gives the most reviews.
+SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id ORDER BY count(*) DESC LIMIT 1
+SQL extraction
+name
+----
+Mark
+
+3th data information
+question: For each user, return the name and the average rating of reviews given by them.
+SQL query: SELECT T1.name ,  avg(T2.rating) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
+SQL extraction
+name  | avg(T2.rating)
+----------------------
+Helen | 7.3333333333  
+Mark  | 7.0           
+
+4th data information
+question: For each user, find their name and the number of reviews written by them.
+SQL query: SELECT T1.name ,  count(*) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
+SQL extraction
+name  | count(*)
+----------------
+Helen | 3       
+Mark  | 4       
+
+5th data information
+question: Find the name of the user who gave the highest rating.
+SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id ORDER BY T2.rating DESC LIMIT 1
+SQL extraction
+name 
+-----
+Helen
+
+6th data information
+question: Find the names of users who did not leave any review.
+SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+SQL extraction
+name 
+-----
+Terry
+Nancy
+Rosie
+Roxi 
+Emily
+
+7th data information
+question: Find the number of users who did not write any review.
+SQL query: SELECT count(*) FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+SQL extraction
+count(*)
+--------
+5       
+
+
+###      Step 1      ###
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
+
+## Input
+1th pair
+question: Find the names of users who did not leave any review.
+SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+2th pair
+question: Find the name of the user who gives the most reviews.
+SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id ORDER BY count(*) DESC LIMIT 1
+3th pair
+question: For each user, return the name and the average rating of reviews given by them.
+SQL query: SELECT T1.name ,  avg(T2.rating) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
+4th pair
+question: For each user, find their name and the number of reviews written by them.
+SQL query: SELECT T1.name ,  count(*) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
+5th pair
+question: Find the name of the user who gave the highest rating.
+SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id ORDER BY T2.rating DESC LIMIT 1
+6th pair
+question: Find the names of users who did not leave any review.
+SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+7th pair
+question: Find the number of users who did not write any review.
+SQL query: SELECT count(*) FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. How can we identify users who have not provided any reviews, and what are their names?
+2. Which user has given the highest number of reviews, and what is their name?
+3. How can we determine the average rating of reviews given by each user along with their names?
+4. What is the count of reviews written by each user, and what are their respective names?
+5. Who is the user with the highest rating, and what is their name?
+
+###      Step 2      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?
+
+###      Step 3      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?

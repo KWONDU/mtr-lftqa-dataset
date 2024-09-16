@@ -1,4 +1,4 @@
-Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
 
 ## Input
 {question_sql_pairs}

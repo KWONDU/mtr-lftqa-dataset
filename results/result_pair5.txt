@@ -1,0 +1,152 @@
+### Data information ###
+[Table information]
+1th table information
+metadata: ENROLL
+CLASS_CODE | STU_NUM | ENROLL_GRADE
+-----------------------------------
+10014      | 321452  | C           
+10014      | 324257  | B           
+10018      | 321452  | A           
+10018      | 324257  | B           
+10021      | 321452  | C           
+10021      | 324257  | C           
+
+2th table information
+metadata: STUDENT
+STU_NUM | STU_LNAME | STU_FNAME | STU_INIT | STU_DOB    | STU_HRS | STU_CLASS | STU_GPA | STU_TRANSFER | DEPT_CODE | STU_PHONE | PROF_NUM
+-----------------------------------------------------------------------------------------------------------------------------------------
+321452  | Bowser    | William   | C        | 1975-2-12  | 42      | So        | 2.84    | 0            | BIOL      | 2134      | 205     
+324257  | Smithson  | Anne      | K        | 1981-11-15 | 81      | Jr        | 3.27    | 1            | CIS       | 2256      | 222     
+324258  | Brewer    | Juliette  |          | 1969-8-23  | 36      | So        | 2.26    | 1            | ACCT      | 2256      | 228     
+324269  | Oblonski  | Walter    | H        | 1976-9-16  | 66      | Jr        | 3.09    | 0            | CIS       | 2114      | 222     
+324273  | Smith     | John      | D        | 1958-12-30 | 102     | Sr        | 2.11    | 1            | ENGL      | 2231      | 199     
+324274  | Katinga   | Raphael   | P        | 1979-10-21 | 114     | Sr        | 3.15    | 0            | ACCT      | 2267      | 228     
+324291  | Robertson | Gerald    | T        | 1973-4-8   | 120     | Sr        | 3.87    | 0            | EDU       | 2267      | 311     
+324299  | Smith     | John      | B        | 1986-11-30 | 15      | Fr        | 2.92    | 0            | ACCT      | 2315      | 230     
+
+[Data information]
+1th data information
+question: What is the first name of students who got grade C in any class?
+SQL query: SELECT DISTINCT stu_fname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE enroll_grade  =  'C'
+SQL extraction
+STU_FNAME
+---------
+William  
+Anne     
+
+2th data information
+question: What are the first names of all students who got a grade C in a class?
+SQL query: SELECT DISTINCT stu_fname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE enroll_grade  =  'C'
+SQL extraction
+STU_FNAME
+---------
+William  
+Anne     
+
+3th data information
+question: Find names of all students who took some course and got A or C.
+SQL query: SELECT T1.stu_fname ,  T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'C' OR T2.enroll_grade  =  'A'
+SQL extraction
+STU_FNAME | STU_LNAME
+---------------------
+William   | Bowser   
+William   | Bowser   
+William   | Bowser   
+Anne      | Smithson 
+
+4th data information
+question: What are the names of all students taking a course who received an A or C?
+SQL query: SELECT T1.stu_fname ,  T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'C' OR T2.enroll_grade  =  'A'
+SQL extraction
+STU_FNAME | STU_LNAME
+---------------------
+William   | Bowser   
+William   | Bowser   
+William   | Bowser   
+Anne      | Smithson 
+
+5th data information
+question: What is the last name of the student who got a grade A in the class with code 10018.
+SQL query: SELECT T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'A' AND T2.class_code  =  10018
+SQL extraction
+STU_LNAME
+---------
+Bowser   
+
+6th data information
+question: What is the last name of the student who received an A in the class with the code 10018?
+SQL query: SELECT T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'A' AND T2.class_code  =  10018
+SQL extraction
+STU_LNAME
+---------
+Bowser   
+
+
+###      Step 1      ###
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
+
+## Input
+1th pair
+question: What is the first name of students who got grade C in any class?
+SQL query: SELECT DISTINCT stu_fname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE enroll_grade  =  'C'
+2th pair
+question: What are the first names of all students who got a grade C in a class?
+SQL query: SELECT DISTINCT stu_fname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE enroll_grade  =  'C'
+3th pair
+question: Find names of all students who took some course and got A or C.
+SQL query: SELECT T1.stu_fname ,  T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'C' OR T2.enroll_grade  =  'A'
+4th pair
+question: What are the names of all students taking a course who received an A or C?
+SQL query: SELECT T1.stu_fname ,  T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'C' OR T2.enroll_grade  =  'A'
+5th pair
+question: What is the last name of the student who got a grade A in the class with code 10018.
+SQL query: SELECT T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'A' AND T2.class_code  =  10018
+6th pair
+question: What is the last name of the student who received an A in the class with the code 10018?
+SQL query: SELECT T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'A' AND T2.class_code  =  10018
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+1. Which students achieved a grade of C in any class and what are their first names?
+2. Can you provide a list of students who received a grade C in any class along with their first names?
+3. How many students took courses where they earned grades of A or C, and who are these students?
+4. Who are the students enrolled in a course where they obtained grades of A or C, and what are their names?
+5. What is the last name of the student who attained a grade A in the class with code 10018, and can you provide additional details about this student?
+
+###      Step 2      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?
+
+###      Step 3      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?

@@ -5,37 +5,6 @@ from util_llm import load_prompt, get_openai_response
 from util import load_dataset
 
 
-def table_format(header, cell):
-    col_widths = [max(len(str(item)) for item in col) for col in zip(*([header] + cell))]
-
-    vis_header = " | ".join(f"{header[i]:<{col_widths[i]}}" for i in range(len(header)))
-    sep_token = "-" * len(vis_header)
-
-    vis_cell = ""
-    for row in cell:
-        row_str = " | ".join(f"{'' if row[i] is None else row[i]:<{col_widths[i]}}" for i in range(len(row)))
-        vis_cell = vis_cell + row_str + "\n"
-    
-    return vis_header, vis_cell, sep_token
-
-
-def print_data(i, question, sql, sub_table):
-    vis_header, vis_cell, sep_token = table_format(sub_table['header'], sub_table['cell'])
-    with open('template/print/data.txt', 'r') as file:
-        return file.read().format(i=i+1, question=question, sql=sql, header=vis_header, sep_token=sep_token, cell=vis_cell)
-
-
-def print_llm_response(system_prompt, user_prompt, response):
-    with open('template/print/llm_response.txt', 'r') as file:
-        return file.read().format(system_prompt=system_prompt, user_prompt=user_prompt, response=response)
-
-
-def print_table(i, metadata, header, cell):
-    vis_header, vis_cell, sep_token = table_format(header, cell)
-    with open('template/print/table.txt', 'r') as file:
-        return file.read().format(i=i+1, metadata=metadata, header=vis_header, sep_token=sep_token, cell=vis_cell)
-
-
 def dataset_preprocessing(dataset_name):
     origin_dataset = load_dataset(dataset_name)
 
@@ -84,6 +53,37 @@ def dataset_preprocessing(dataset_name):
     return table_dict, data_dict
 
 
+def table_format(header, cell):
+    col_widths = [max(len(str(item)) for item in col) for col in zip(*([header] + cell))]
+
+    vis_header = " | ".join(f"{header[i]:<{col_widths[i]}}" for i in range(len(header)))
+    sep_token = "-" * len(vis_header)
+
+    vis_cell = ""
+    for row in cell:
+        row_str = " | ".join(f"{'' if row[i] is None else row[i]:<{col_widths[i]}}" for i in range(len(row)))
+        vis_cell = vis_cell + row_str + "\n"
+    
+    return vis_header, vis_cell, sep_token
+
+
+def print_data(i, question, sql, sub_table):
+    vis_header, vis_cell, sep_token = table_format(sub_table['header'], sub_table['cell'])
+    with open('template/print/data.txt', 'r') as file:
+        return file.read().format(i=i+1, question=question, sql=sql, header=vis_header, sep_token=sep_token, cell=vis_cell)
+
+
+def print_llm_response(system_prompt, user_prompt, response):
+    with open('template/print/llm_response.txt', 'r') as file:
+        return file.read().format(system_prompt=system_prompt, user_prompt=user_prompt, response=response)
+
+
+def print_table(i, metadata, header, cell):
+    vis_header, vis_cell, sep_token = table_format(header, cell)
+    with open('template/print/table.txt', 'r') as file:
+        return file.read().format(i=i+1, metadata=metadata, header=vis_header, sep_token=sep_token, cell=vis_cell)
+
+
 if __name__ == '__main__':
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
@@ -92,29 +92,31 @@ if __name__ == '__main__':
     table_dict, data_dict = dataset_preprocessing('MultiTabQA')
 
     random.seed(42)
-    sample_ten_data_dict = dict(random.sample(list(data_dict.items()), 10))
+    sample_n = 10
+    sample_ten_data_dict = dict(random.sample(list(data_dict.items()), sample_n))
 
-    step0_data_info_list = []
-    step1_response_text_list = []
-    step2_response_text_list = []
-    step3_response_text_list = []
-    for gold_table_ids, data_list in tqdm(sample_ten_data_dict.items(), desc="randomly sampled data"):
+    for ith, (gold_table_ids, data_list) in tqdm(enumerate(sample_ten_data_dict.items()), desc="randomly sampled data", total=sample_n):
+        data_info = "### Data information ###\n"
+        step1_res = "###      Step 1      ###\n"
+        step2_res = "###      Step 2      ###\n"
+        step3_res = "###      Step 3      ###\n"
+
         # 0. Information of each data
-        step0_data_info_list.append("[Table information]\n")
-        step0_data_info_list.append("".join(print_table(
+        data_info = data_info + "[Table information]\n"
+        data_info = data_info + "".join(print_table(
             i=i,
             metadata=table_dict[gold_table_id]['metadata'],
             header=table_dict[gold_table_id]['header'],
             cell=table_dict[gold_table_id]['cell']
-        ) for i, gold_table_id in enumerate(gold_table_ids)))
-        step0_data_info_list.append("[Data information]\n")
-        step0_data_info_list.append("".join(print_data(
+        ) for i, gold_table_id in enumerate(gold_table_ids))
+
+        data_info = data_info + "[Data information]\n"
+        data_info = data_info + "".join(print_data(
             i=i,
             question=data['question'],
             sql=data['answer'][0],
             sub_table=data['answer'][1]
-        ) for i, data in enumerate(data_list)))
-        step0_data_info_list.append("==\n\n")
+        ) for i, data in enumerate(data_list))
         
         # 1. Generate high-level question templates from MultiTabQA question - SQL extraction pairs
         step1_system_prompt, step1_user_prompt, step1_response = get_openai_response(
@@ -125,39 +127,40 @@ if __name__ == '__main__':
                 for i, data in enumerate(data_list)])
             )
         )
-        step1_response_text_list.append(print_llm_response(
+
+        step1_res = step1_res + print_llm_response(
             system_prompt=step1_system_prompt,
             user_prompt=step1_user_prompt,
             response=step1_response
-        ))
+        )
         
         # 2. Give feedback & verify about generated high-level question templates using table metadata and header
         step2_system_prompt, step2_user_prompt, step2_response = get_openai_response(
             system_prompt = load_prompt('step2', 'system'),
             user_prompt=load_prompt('step2', 'user')
         )
-        step2_response_text_list.append(print_llm_response(
+
+        step2_res = step2_res + print_llm_response(
             system_prompt=step2_system_prompt,
             user_prompt=step2_user_prompt,
             response=step2_response
-        ))
+        )
 
         # 3. Generate answer for each high-level question using full table (including table celss)
         step3_system_prompt, step3_user_prompt, step3_response = get_openai_response(
             system_prompt = load_prompt('step3', 'system'),
             user_prompt=load_prompt('step3', 'user')
         )
-        step3_response_text_list.append(print_llm_response(
+
+        step3_res = step3_res + print_llm_response(
             system_prompt=step3_system_prompt,
             user_prompt=step3_user_prompt,
             response=step3_response
-        ))
-    
-    with open('results/step0_data_info.txt', 'w') as file:
-        file.writelines(step0_data_info_list)
-    with open('results/step1_response.txt', 'w') as file:
-        file.writelines(step1_response_text_list)
-    with open('results/step2_response.txt', 'w') as file:
-        file.writelines(step2_response_text_list)
-    with open('results/step3_response.txt', 'w') as file:
-        file.writelines(step3_response_text_list)
+        )
+
+        # Save to file
+        with open(f'results/result_pair{ith + 1}.txt', 'w') as file:
+            file.write(data_info + "\n")
+            file.write(step1_res + "\n")
+            file.write(step2_res + "\n")
+            file.write(step3_res)

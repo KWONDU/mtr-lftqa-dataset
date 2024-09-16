@@ -1,0 +1,97 @@
+### Data information ###
+[Table information]
+1th table information
+metadata: Medication
+Code | Name         | Brand                 | Description
+---------------------------------------------------------
+1    | Procrastin-X | X                     | N/A        
+2    | Thesisin     | Foo Labs              | N/A        
+3    | Awakin       | Bar Laboratories      | N/A        
+4    | Crescavitin  | Baz Industries        | N/A        
+5    | Melioraurin  | Snafu Pharmaceuticals | N/A        
+
+2th table information
+metadata: Prescribes
+Physician | Patient   | Medication | Date             | Appointment | Dose
+--------------------------------------------------------------------------
+1         | 100000001 | 1          | 2008-04-24 10:47 | 13216584.0  | 5   
+9         | 100000004 | 2          | 2008-04-27 10:53 | 86213939.0  | 10  
+9         | 100000004 | 2          | 2008-04-30 16:53 |             | 5   
+
+[Data information]
+1th data information
+question: Find the number of medications prescribed for each brand.
+SQL query: SELECT count(*) ,  T1.name FROM medication AS T1 JOIN prescribes AS T2 ON T1.code = T2.medication GROUP BY T1.brand
+SQL extraction
+count(*) | Name        
+-----------------------
+2        | Thesisin    
+1        | Procrastin-X
+
+2th data information
+question: How many medications are prescribed for each brand?
+SQL query: SELECT count(*) ,  T1.name FROM medication AS T1 JOIN prescribes AS T2 ON T1.code = T2.medication GROUP BY T1.brand
+SQL extraction
+count(*) | Name        
+-----------------------
+2        | Thesisin    
+1        | Procrastin-X
+
+
+###      Step 1      ###
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
+
+## Input
+1th pair
+question: Find the number of medications prescribed for each brand.
+SQL query: SELECT count(*) ,  T1.name FROM medication AS T1 JOIN prescribes AS T2 ON T1.code = T2.medication GROUP BY T1.brand
+2th pair
+question: How many medications are prescribed for each brand?
+SQL query: SELECT count(*) ,  T1.name FROM medication AS T1 JOIN prescribes AS T2 ON T1.code = T2.medication GROUP BY T1.brand
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. How does the number of medications prescribed correlate with each brand in the dataset?
+2. What is the overall distribution of medications prescribed across different brands?
+3. How does the frequency of medication prescriptions vary among different brands?
+4. Can we identify any patterns or outliers in the number of medications prescribed for each brand?
+5. How does the brand influence the prescription patterns of medications in the dataset?
+
+###      Step 2      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?
+
+###      Step 3      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?

@@ -1,0 +1,119 @@
+### Data information ###
+[Table information]
+1th table information
+metadata: pilot
+Pilot_Id | Name                      | Age
+------------------------------------------
+1        | Prof. Zackery Collins     | 23 
+2        | Katheryn Gorczany IV      | 20 
+3        | Mr. Cristian Halvorson II | 23 
+4        | Ayana Spencer             | 25 
+5        | Ellen Ledner III          | 31 
+6        | Elisha Hickle V           | 37 
+7        | Dr. Jade Bradtke V        | 26 
+8        | Winnifred Boyle           | 30 
+9        | Della Lindgren            | 29 
+10       | Maxwell Graham            | 26 
+11       | Blaise Muller             | 33 
+12       | Baylee Steuber            | 30 
+
+2th table information
+metadata: pilot_record
+Record_ID | Pilot_ID | Aircraft_ID | Date      
+-----------------------------------------------
+1         | 1        | 1           | 2003/01/04
+2         | 2        | 1           | 2004/01/04
+3         | 1        | 4           | 2005/01/04
+4         | 3        | 6           | 2006/01/04
+5         | 4        | 2           | 2007/01/04
+6         | 1        | 5           | 2008/01/04
+
+[Data information]
+1th data information
+question: Show the names of pilots and the number of records they have.
+SQL query: SELECT T2.Pilot_name ,  COUNT(*) FROM pilot_record AS T1 JOIN pilot AS T2 ON T1.pilot_ID  =  T2.pilot_ID GROUP BY T2.Pilot_name
+SQL extraction
+Pilot_name       | COUNT(*)
+---------------------------
+Charles Oakley   | 1       
+Dan O'Sullivan   | 1       
+Jermaine O'Neal  | 1       
+Patrick O'Bryant | 3       
+
+2th data information
+question: Show names of pilots that have more than one record.
+SQL query: SELECT T2.Pilot_name ,  COUNT(*) FROM pilot_record AS T1 JOIN pilot AS T2 ON T1.pilot_ID  =  T2.pilot_ID GROUP BY T2.Pilot_name HAVING COUNT(*)  >  1
+SQL extraction
+Pilot_name       | COUNT(*)
+---------------------------
+Patrick O'Bryant | 3       
+
+3th data information
+question: List the names of pilots that do not have any record.
+SQL query: SELECT Pilot_name FROM pilot WHERE Pilot_ID NOT IN (SELECT Pilot_ID FROM pilot_record)
+SQL extraction
+Pilot_name     
+---------------
+Hakeem Olajuwon
+
+
+###      Step 1      ###
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
+
+## Input
+1th pair
+question: Show the names of pilots and the number of records they have.
+SQL query: SELECT T2.Pilot_name ,  COUNT(*) FROM pilot_record AS T1 JOIN pilot AS T2 ON T1.pilot_ID  =  T2.pilot_ID GROUP BY T2.Pilot_name
+2th pair
+question: Show names of pilots that have more than one record.
+SQL query: SELECT T2.Pilot_name ,  COUNT(*) FROM pilot_record AS T1 JOIN pilot AS T2 ON T1.pilot_ID  =  T2.pilot_ID GROUP BY T2.Pilot_name HAVING COUNT(*)  >  1
+3th pair
+question: List the names of pilots that do not have any record.
+SQL query: SELECT Pilot_name FROM pilot WHERE Pilot_ID NOT IN (SELECT Pilot_ID FROM pilot_record)
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. How can we gather the names of pilots along with the count of records for each pilot in the database?
+2. What is the process to retrieve the names of pilots who have more than one record logged in the system?
+3. Can we identify the pilots who do not have any records stored in the database?
+4. What are the different ways to extract information about the activity levels of pilots based on the number of records they have?
+5. How can we analyze the engagement levels of pilots by examining their record-keeping behavior in the system?
+
+###      Step 2      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?
+
+###      Step 3      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?

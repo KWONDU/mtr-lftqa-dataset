@@ -1,0 +1,118 @@
+### Data information ###
+[Table information]
+1th table information
+metadata: Financial_Transactions
+transaction_id | account_id | invoice_number | transaction_type | transaction_date    | transaction_amount | transaction_comment | other_transaction_details
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+1              | 13         | 12             | Payment          | 2018-03-15 21:13:57 | 613.96             |                     |                          
+2              | 9          | 1              | Payment          | 2018-03-13 13:27:46 | 368.46             |                     |                          
+3              | 6          | 1              | Refund           | 2018-03-03 01:50:25 | 1598.25            |                     |                          
+4              | 9          | 12             | Payment          | 2018-03-10 13:46:48 | 540.73             |                     |                          
+5              | 9          | 2              | Payment          | 2018-03-23 04:56:12 | 1214.22            |                     |                          
+6              | 12         | 3              | Refund           | 2018-03-22 21:58:37 | 1903.41            |                     |                          
+7              | 13         | 14             | Payment          | 2018-03-12 03:06:52 | 1585.03            |                     |                          
+8              | 14         | 15             | Payment          | 2018-03-11 21:57:47 | 1425.41            |                     |                          
+9              | 8          | 12             | Payment          | 2018-03-07 04:32:54 | 1517.77            |                     |                          
+10             | 6          | 15             | Payment          | 2018-03-14 19:09:07 | 1477.57            |                     |                          
+11             | 6          | 13             | Refund           | 2018-03-12 22:51:05 | 1567.64            |                     |                          
+12             | 9          | 6              | Refund           | 2018-03-05 19:55:23 | 1781.24            |                     |                          
+13             | 13         | 12             | Refund           | 2018-03-24 12:05:11 | 899.87             |                     |                          
+14             | 11         | 5              | Refund           | 2018-03-13 03:51:59 | 1462.62            |                     |                          
+15             | 4          | 14             | Refund           | 2018-02-27 14:58:30 | 1979.66            |                     |                          
+
+2th table information
+metadata: Invoices
+invoice_number | invoice_date        | invoice_details
+------------------------------------------------------
+1              | 1989-09-03 16:03:05 | vitae          
+2              | 1989-12-11 16:40:57 | magnam         
+3              | 1995-10-07 14:13:05 | et             
+4              | 1985-04-27 08:38:49 | tempore        
+5              | 1971-02-12 00:29:57 | labore         
+6              | 2007-12-25 15:49:37 | optio          
+7              | 1991-01-05 16:44:25 | reiciendis     
+8              | 2012-06-12 07:34:17 | doloremque     
+9              | 1974-07-27 16:18:49 | quo            
+10             | 2005-02-27 19:53:13 | eveniet        
+11             | 1972-08-12 05:48:49 | earum          
+12             | 1987-11-15 15:41:40 | ea             
+13             | 1981-03-28 20:01:44 | voluptatem     
+14             | 1998-07-30 15:39:12 | repellat       
+15             | 2012-12-08 02:21:54 | voluptatem     
+
+[Data information]
+1th data information
+question: What is the invoice number and invoice date for the invoice with most number of transactions?
+SQL query: SELECT T2.invoice_number ,  T2.invoice_date FROM Financial_transactions AS T1 JOIN Invoices AS T2 ON T1.invoice_number  =  T2.invoice_number GROUP BY T1.invoice_number ORDER BY count(*) DESC LIMIT 1
+SQL extraction
+invoice_number | invoice_date       
+------------------------------------
+12             | 2018-03-15 21:24:13
+
+2th data information
+question: What is the invoice number and invoice date corresponding to the invoice with the greatest number of transactions?
+SQL query: SELECT T2.invoice_number ,  T2.invoice_date FROM Financial_transactions AS T1 JOIN Invoices AS T2 ON T1.invoice_number  =  T2.invoice_number GROUP BY T1.invoice_number ORDER BY count(*) DESC LIMIT 1
+SQL extraction
+invoice_number | invoice_date       
+------------------------------------
+12             | 2018-03-15 21:24:13
+
+
+###      Step 1      ###
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
+
+## Input
+1th pair
+question: What is the invoice number and invoice date for the invoice with most number of transactions?
+SQL query: SELECT T2.invoice_number ,  T2.invoice_date FROM Financial_transactions AS T1 JOIN Invoices AS T2 ON T1.invoice_number  =  T2.invoice_number GROUP BY T1.invoice_number ORDER BY count(*) DESC LIMIT 1
+2th pair
+question: What is the invoice number and invoice date corresponding to the invoice with the greatest number of transactions?
+SQL query: SELECT T2.invoice_number ,  T2.invoice_date FROM Financial_transactions AS T1 JOIN Invoices AS T2 ON T1.invoice_number  =  T2.invoice_number GROUP BY T1.invoice_number ORDER BY count(*) DESC LIMIT 1
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+
+1. How can we determine the invoice number and invoice date of the invoice that has the highest number of transactions in the financial transactions data?
+2. What SQL query can be used to find the invoice number and date corresponding to the invoice that has the greatest number of transactions recorded in the database?
+3. In what way does the SQL query utilize a JOIN operation to connect the financial transactions and invoices tables in order to identify the invoice with the most transactions?
+4. How does the SQL query GROUP BY the invoice number and sort the results in descending order of count to retrieve the invoice information with the highest number of transactions?
+5. What specific SQL function is being applied to limit the output to only the invoice number and invoice date of the top transaction record in the dataset?
+
+###      Step 2      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?
+
+###      Step 3      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?

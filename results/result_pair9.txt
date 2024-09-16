@@ -1,0 +1,176 @@
+### Data information ###
+[Table information]
+1th table information
+metadata: Customers
+customer_id | customer_name | customer_details
+----------------------------------------------
+1           | Savannah      | rerum           
+2           | George        | est             
+3           | Alberto       | deleniti        
+4           | Leilani       | sequi           
+5           | Hadley        | corrupti        
+6           | Chaz          | nostrum         
+7           | Violet        | consectetur     
+8           | Parker        | rerum           
+9           | Devan         | doloribus       
+10          | Beulah        | commodi         
+11          | Hershel       | vel             
+12          | Conrad        | eligendi        
+13          | Samson        | dicta           
+14          | Mabelle       | quidem          
+15          | Jeramie       | officia         
+
+2th table information
+metadata: Customer_Contact_Channels
+customer_id | channel_code | active_from_date    | active_to_date      | contact_number      
+---------------------------------------------------------------------------------------------
+9           | Email        | 2017-12-07 18:18:15 | 2018-03-23 13:37:14 | 940.035.6435x0225   
+2           | Email        | 2017-04-07 04:51:41 | 2018-03-23 01:30:52 | 189.449.8326x7607   
+9           | Email        | 2017-05-25 16:08:45 | 2018-03-13 07:32:25 | 958-653-2640        
+2           | Email        | 2018-01-05 21:42:56 | 2018-03-15 14:58:13 | 1-968-863-4947x96956
+4           | Cell         | 2017-08-07 08:07:10 | 2018-03-02 17:44:49 | (165)527-5756x2419  
+2           | Cell         | 2017-09-21 12:41:56 | 2018-03-08 19:28:16 | 1-077-864-0102      
+3           | Handheld     | 2017-05-11 12:32:16 | 2018-03-20 14:35:34 | 06068550461         
+14          | Handheld     | 2017-05-23 15:20:20 | 2018-03-15 02:34:01 | 542.983.0224        
+13          | Handheld     | 2017-08-26 15:16:44 | 2018-03-16 14:00:15 | (379)834-0867x267   
+6           | Handheld     | 2017-07-01 17:59:48 | 2018-02-25 22:20:55 | (620)266-6990x8590  
+10          | Fax          | 2017-06-21 06:41:19 | 2018-03-15 06:00:34 | (068)656-5276x84466 
+13          | Fax          | 2017-10-29 04:16:39 | 2018-03-08 17:19:29 | 496-074-8589x5477   
+15          | Handheld     | 2017-09-08 14:00:01 | 2018-03-04 13:35:57 | 1-687-190-8968x63811
+2           | Handheld     | 2018-03-01 10:17:18 | 2018-03-20 14:01:12 | 118.523.6764x57405  
+5           | Handheld     | 2017-11-14 16:16:02 | 2018-03-02 03:22:26 | 445.924.9417        
+9           | Mobile       | 2017-05-25 20:36:21 | 2018-02-24 00:57:39 | (155)830-6182       
+3           | Handheld     | 2017-09-11 05:05:47 | 2018-03-14 14:56:28 | 1-453-027-1291      
+9           | Handheld     | 2018-01-02 18:37:48 | 2018-03-10 05:10:35 | 026.019.5981x72518  
+10          | Cell         | 2017-12-06 15:25:33 | 2018-03-19 06:34:34 | 495-168-9662        
+14          | Cell         | 2017-10-17 11:46:37 | 2018-03-08 20:07:20 | 846.043.4809x0426   
+
+[Data information]
+1th data information
+question: Which contact channel has been used by the customer with name "Tillman Ernser"?
+SQL query: SELECT DISTINCT channel_code FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+SQL extraction
+channel_code
+------------
+Email       
+Cell        
+Handheld    
+
+2th data information
+question: Find the contact channel code that was used by the customer named "Tillman Ernser".
+SQL query: SELECT DISTINCT channel_code FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+SQL extraction
+channel_code
+------------
+Email       
+Cell        
+Handheld    
+
+3th data information
+question: What is the "active to date" of the latest contact channel used by "Tillman Ernser"?
+SQL query: SELECT max(t2.active_to_date) FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+SQL extraction
+max(t2.active_to_date)
+----------------------
+2018-03-23 01:30:52   
+
+4th data information
+question: Return the the "active to date" of the latest contact channel used by the customer named "Tillman Ernser".
+SQL query: SELECT max(t2.active_to_date) FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+SQL extraction
+max(t2.active_to_date)
+----------------------
+2018-03-23 01:30:52   
+
+5th data information
+question: Find the name and active date of the customer that use email as the contact channel.
+SQL query: SELECT t1.customer_name ,  t2.active_from_date FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t2.channel_code  =  'Email'
+SQL extraction
+customer_name  | active_from_date   
+------------------------------------
+Devin Mills    | 2017-12-07 18:18:15
+Tillman Ernser | 2017-04-07 04:51:41
+Devin Mills    | 2017-05-25 16:08:45
+Tillman Ernser | 2018-01-05 21:42:56
+
+6th data information
+question: What are the name and active date of the customers whose contact channel code is email?
+SQL query: SELECT t1.customer_name ,  t2.active_from_date FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t2.channel_code  =  'Email'
+SQL extraction
+customer_name  | active_from_date   
+------------------------------------
+Devin Mills    | 2017-12-07 18:18:15
+Tillman Ernser | 2017-04-07 04:51:41
+Devin Mills    | 2017-05-25 16:08:45
+Tillman Ernser | 2018-01-05 21:42:56
+
+
+###      Step 1      ###
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
+
+## Input
+1th pair
+question: Which contact channel has been used by the customer with name "Tillman Ernser"?
+SQL query: SELECT DISTINCT channel_code FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+2th pair
+question: Find the contact channel code that was used by the customer named "Tillman Ernser".
+SQL query: SELECT DISTINCT channel_code FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+3th pair
+question: What is the "active to date" of the latest contact channel used by "Tillman Ernser"?
+SQL query: SELECT max(t2.active_to_date) FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+4th pair
+question: Return the the "active to date" of the latest contact channel used by the customer named "Tillman Ernser".
+SQL query: SELECT max(t2.active_to_date) FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+5th pair
+question: Find the name and active date of the customer that use email as the contact channel.
+SQL query: SELECT t1.customer_name ,  t2.active_from_date FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t2.channel_code  =  'Email'
+6th pair
+question: What are the name and active date of the customers whose contact channel code is email?
+SQL query: SELECT t1.customer_name ,  t2.active_from_date FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t2.channel_code  =  'Email'
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. What contact channel has "Tillman Ernser" used and when was it active?
+2. Can you determine the contact channel code used by "Tillman Ernser" from the available data?
+3. When was the latest contact channel used by "Tillman Ernser" active till, based on the provided information?
+4. What is the active date of the last contact channel utilized by the customer named "Tillman Ernser"?
+5. Which customers use email as their contact channel, and what are their names and active dates?
+
+###      Step 2      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?
+
+###      Step 3      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?

@@ -1,0 +1,218 @@
+### Data information ###
+[Table information]
+1th table information
+metadata: employee
+Employee_ID | Name            | Age | City     
+-----------------------------------------------
+1           | George Chuter   | 23  | Bristol  
+2           | Lee Mears       | 29  | Bath     
+3           | Mark Regan      | 43  | Bristol  
+4           | Jason Hobson    | 30  | Bristol  
+5           | Tim Payne       | 29  | Wasps    
+6           | Andrew Sheridan | 28  | Sale     
+7           | Matt Stevens    | 29  | Bath     
+8           | Phil Vickery    | 40  | Wasps    
+9           | Steve Borthwick | 32  | Bath     
+10          | Louis Deacon    | 36  | Leicester
+
+2th table information
+metadata: certificate
+eid       | aid
+---------------
+11564812  | 2  
+11564812  | 10 
+90873519  | 6  
+141582651 | 2  
+141582651 | 10 
+141582651 | 12 
+142519864 | 1  
+142519864 | 2  
+142519864 | 3  
+142519864 | 7  
+142519864 | 10 
+142519864 | 11 
+142519864 | 12 
+142519864 | 13 
+159542516 | 5  
+159542516 | 7  
+242518965 | 2  
+242518965 | 10 
+269734834 | 1  
+269734834 | 2  
+269734834 | 3  
+269734834 | 4  
+269734834 | 5  
+269734834 | 6  
+269734834 | 7  
+269734834 | 8  
+269734834 | 9  
+269734834 | 10 
+269734834 | 11 
+269734834 | 12 
+269734834 | 13 
+269734834 | 14 
+269734834 | 15 
+274878974 | 10 
+274878974 | 12 
+310454876 | 8  
+310454876 | 9  
+355548984 | 8  
+355548984 | 9  
+356187925 | 6  
+390487451 | 3  
+390487451 | 13 
+390487451 | 14 
+548977562 | 7  
+550156548 | 1  
+550156548 | 12 
+552455318 | 2  
+552455318 | 7  
+552455318 | 14 
+556784565 | 2  
+556784565 | 3  
+556784565 | 5  
+567354612 | 1  
+567354612 | 2  
+567354612 | 3  
+567354612 | 4  
+567354612 | 5  
+567354612 | 7  
+567354612 | 9  
+567354612 | 10 
+567354612 | 11 
+567354612 | 12 
+567354612 | 15 
+573284895 | 3  
+573284895 | 4  
+573284895 | 5  
+574489456 | 6  
+574489456 | 8  
+574489457 | 7  
+
+[Data information]
+1th data information
+question: Show ids for all employees who don't have a certificate.
+SQL query: SELECT eid FROM Employee EXCEPT SELECT eid FROM Certificate
+SQL extraction
+eid      
+---------
+15645489 
+248965255
+254099823
+287321212
+310454877
+348121549
+486512566
+489221823
+489456522
+552455348
+619023588
+
+2th data information
+question: What are the ids of all employees that don't have certificates?
+SQL query: SELECT eid FROM Employee EXCEPT SELECT eid FROM Certificate
+SQL extraction
+eid      
+---------
+15645489 
+248965255
+254099823
+287321212
+310454877
+348121549
+486512566
+489221823
+489456522
+552455348
+619023588
+
+3th data information
+question: what is the salary and name of the employee who has the most number of aircraft certificates?
+SQL query: SELECT T1.name ,  T1.salary FROM Employee AS T1 JOIN Certificate AS T2 ON T1.eid  =  T2.eid GROUP BY T1.eid ORDER BY count(*) DESC LIMIT 1
+SQL extraction
+name          | salary
+----------------------
+George Wright | 289950
+
+4th data information
+question: What is the salaray and name of the employee that is certified to fly the most planes?
+SQL query: SELECT T1.name ,  T1.salary FROM Employee AS T1 JOIN Certificate AS T2 ON T1.eid  =  T2.eid GROUP BY T1.eid ORDER BY count(*) DESC LIMIT 1
+SQL extraction
+name          | salary
+----------------------
+George Wright | 289950
+
+
+###      Step 1      ###
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
+
+## Input
+1th pair
+question: Show ids for all employees who don't have a certificate.
+SQL query: SELECT eid FROM Employee EXCEPT SELECT eid FROM Certificate
+2th pair
+question: What are the ids of all employees that don't have certificates?
+SQL query: SELECT eid FROM Employee EXCEPT SELECT eid FROM Certificate
+3th pair
+question: what is the salary and name of the employee who has the most number of aircraft certificates?
+SQL query: SELECT T1.name ,  T1.salary FROM Employee AS T1 JOIN Certificate AS T2 ON T1.eid  =  T2.eid GROUP BY T1.eid ORDER BY count(*) DESC LIMIT 1
+4th pair
+question: What is the salaray and name of the employee that is certified to fly the most planes?
+SQL query: SELECT T1.name ,  T1.salary FROM Employee AS T1 JOIN Certificate AS T2 ON T1.eid  =  T2.eid GROUP BY T1.eid ORDER BY count(*) DESC LIMIT 1
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+
+1. **Understanding Employee Certifications:**
+   Which employees do not have any certificates, and what are their corresponding IDs?
+   
+2. **Identification of Employees without Certifications:**
+   How can we list the IDs of employees who are not certified to perform any tasks, based on the database information?
+   
+3. **Top Employee in Aircraft Certifications:**
+   Who is the employee with the highest number of aircraft certificates, and what is their name and salary?
+   
+4. **Employee with Most Aircraft Certifications:**
+   Can we determine the employee who is certified to fly the highest number of planes, along with their name and salary information?
+   
+5. **Overall Employee Certification Analysis:**
+   When considering all types of certifications, which employee stands out with the most certifications and what are their salary and name details?
+
+###      Step 2      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?
+
+###      Step 3      ###
+[System prompt]
+
+
+[User prompt]
+
+
+[Response]
+Hello! How can I assist you today?
