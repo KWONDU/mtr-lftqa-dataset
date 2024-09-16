@@ -7,9 +7,14 @@
             [file] {dataset_name}*.pkl  # source dataset checkpoints
         [file] dataset_stats.py
         [file] load_{dataset_name}.py # dataset loader (no need to use directly)
-    [folder] prompt
-        [file] system_prompt_template.txt
-        [file] user_prompt_template.txt
+    [folder] template
+        [folder] print # visualization template
+            [file] data.txt
+            [file] llm_response.txt
+            [file] table.txt
+        [folder] prompt
+            [file] step{ith}_system_prompt.txt
+            [file] step{ith}_user_prompt.txt
     [folder] results
         [file] dataset_statistics.csv
     [file] main.py

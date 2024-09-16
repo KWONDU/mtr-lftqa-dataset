@@ -44,13 +44,13 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. How can we identify users who have not left any reviews, based on the user accounts and reviews present in the dataset?
-2. How can we determine the user who is the most prolific reviewer in terms of the number of reviews provided?
-3. How can we obtain the average rating given by each user by analyzing their respective reviews?
-4. In what way can we retrieve the total number of reviews written by each user, along with their names, from the available data?
-5. How can we pinpoint the user who has given the highest rating among all users in the dataset?
+1. Based on user reviews, how can we identify users who have not left any reviews?
+2. Which user has the highest number of reviews and what is their name?
+3. How do the average ratings given by each user compare to one another?
+4. What are the names of users who have written the most reviews, and how many reviews have they each written?
+5. Who is the user with the highest rating, and what is their name?
 
-=
+==
 
 [System prompt]
 You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
@@ -89,13 +89,13 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. How can we identify employees who do not possess any certificates based on their ids?
-2. What is the relationship between employee ids and the possession of certificates in the database?
-3. Among employees with aircraft certificates, which one has the highest salary and what is their name?
-4. How does the number of aircraft certificates held by an employee relate to their name and salary?
-5. In what way do an employee's name and salary correlate with their certifications to operate the most number of planes?
+1. What are the characteristics of employees without certificates in terms of their IDs?
+2. How can we identify employees who do not possess certificates based on their IDs?
+3. Who is the top-certified employee in terms of aircraft certificates and what are their salary and name?
+4. How can we determine the employee with the highest number of aircraft certificates and retrieve their salary and name?
+5. What are the similarities and differences in finding employees with the most certifications for flying planes and for aircraft certificates in terms of SQL queries?
 
-=
+==
 
 [System prompt]
 You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
@@ -128,13 +128,13 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. What is the distribution of prescribed medications across different brands?
-2. How does the number of prescribed medications vary by brand?
-3. Can we identify the most prescribed medication brand based on the given data?
-4. What insights can be gained by analyzing the relationship between medication count and brand in prescriptions?
-5. Are there any trends or patterns in medication prescription numbers among different brands?
+1. How does the number of medications prescribed vary across different brands?
+2. What is the distribution of medications prescribed among different brands?
+3. What insights can be gathered by analyzing the count of medications prescribed for each brand?
+4. How can the relationship between medication count and brand be utilized for decision-making processes?
+5. What patterns can be identified by examining the prescription counts for each medication brand?
 
-=
+==
 
 [System prompt]
 You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
@@ -167,13 +167,14 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. How can we determine the manager who won the most awards by analyzing the player and manager_award tables and what is the relationship between player_id and manager_id in these tables?
-2. What are the characteristics of the manager who holds the top spot in terms of award count, and how can we retrieve their first name, last name, and player ID by utilizing a SQL query that involves the player and manager_award tables?
-3. In what way can we identify the most successful manager in terms of awards received by joining the player and manager_award tables, grouping by player_id, and ordering by award count in descending order?
-4. What SQL query can be used to find the manager with the highest number of awards by joining the player and manager_award tables, grouping by player_id, and limiting the result to only the top entry?
-5. How can the SQL query involving the player and manager_award tables provide insights into the manager who has received the most awards and details like first name, last name, and player ID of that individual?
 
-=
+1. What are the criteria for determining the manager who won the most manager awards, and how are they reflected in the corresponding SQL query?
+2. Can we identify any specific patterns or trends in the distribution of manager awards among different managers based on the SQL query provided?
+3. How does the SQL query leverage the relationship between player and manager_award tables to retrieve information about the most awarded manager?
+4. In what ways does the SQL query prioritize the retrieval of the manager's first name, last name, and ID who has won the most manager awards?
+5. What insights can be gained from analyzing the SQL query in terms of understanding the performance and accomplishments of managers in the dataset?
+
+==
 
 [System prompt]
 You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
@@ -218,14 +219,13 @@ Output should follow the next template.
 
 [Response]
 ## Output
+1. Identify students who achieved a specific grade in any class and retrieve their first names.
+2. Retrieve the first names of all students who obtained a grade of C in any class.
+3. Find the names of students who took courses and received either an A or C grade.
+4. Explore the names of students currently enrolled in a course and who were graded with an A or C.
+5. Determine the last name of a student who attained a grade of A in a particular class identified by its code.
 
-1. What are the names of students who achieved grade C in any class and what is their corresponding last name?
-2. How can we retrieve the full names of students who have received a grade C in a particular class?
-3. Can we identify the students who have taken a course and earned either an A or a C, and display their names with their corresponding last names?
-4. Is it possible to list the full names of students currently enrolled in a course, while highlighting those who have obtained either an A or a C grade?
-5. Who is the student with the last name who received a grade A in the class with the code 10018, and what is their first name?
-
-=
+==
 
 [System prompt]
 You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
@@ -261,13 +261,13 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. How can we analyze the distribution of records among pilots based on the number of records they have?
-2. What criteria can we use to identify pilots who have more than one record in the dataset?
-3. How can we identify the pilots who have not been involved in any recorded activities?
-4. What are the different ways of aggregating and summarizing pilot records based on their names?
-5. How can we compare the level of activity among different pilots by examining their record counts?
+1. How can pilot names and the number of records they have be displayed in a single query?
+2. What is the query to show the names of pilots who have more than one record in the database?
+3. How can the names of pilots who do not have any record in the database be listed efficiently?
+4. What SQL query can be used to retrieve the names of pilots along with the count of their records and filter out those with more than one record?
+5. Is there a way to list the names of pilots who do not have any associated record in a single query rather than using subqueries?
 
-=
+==
 
 [System prompt]
 You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
@@ -301,13 +301,13 @@ Output should follow the next template.
 [Response]
 ## Output
 
-1. What are the characteristics and details of the invoice with the highest number of transactions in the financial database?
-2. Can we identify the invoice number and date associated with the most frequently occurring transaction in the financial records?
-3. How does the number of transactions impact the identification of the invoice with the highest activity level in the database?
-4. What insights can be gained from analyzing the relationship between invoices and financial transactions, especially in terms of transaction frequency?
-5. How does the frequency of transactions contribute to determining the most active invoice in the financial dataset?
+1. What are the characteristics of the invoice with the highest number of transactions, such as its number and date?
+2. How do the invoice number and date of the invoice with the most transactions relate to the financial transactions table?
+3. What insights can be gained from analyzing the invoice data for invoices with the greatest number of transactions in terms of financial transactions?
+4. In what ways does the count of transactions for each invoice impact the retrieval of invoice numbers and dates from the database?
+5. How can understanding the relationship between invoice numbers, dates, and transaction counts contribute to better financial analysis and decision-making?
 
-=
+==
 
 [System prompt]
 You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
@@ -358,13 +358,13 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. How do instructors' salaries vary based on their advisory roles for students from different departments?
-2. What is the relationship between instructors' names and salaries in advising students from the History department?
-3. In what ways does the department of the students impact the names and salaries of instructors acting as advisors?
-4. How does the total credit of students influence the selection and ordering of instructors who advise students from the Math department?
-5. What insights can be gained by identifying the instructor who advises the student with the highest number of total credits in the database?
+1. What is the role of instructors in advising students in different departments and how does their salary vary based on their advisory responsibilities?
+2. How can we identify instructors advising students in specific departments and what are their names and salaries in those cases?
+3. How does the advisory role of instructors differ across departments, particularly focusing on the Math department, and what are the associated salary details?
+4. In what ways can we sort and filter the list of instructors who are advisors of students in specific departments based on student attributes such as total credit?
+5. Who is the instructor amongst all advisors that advises the student with the highest total credits, and what is their name and role in the advisory process?
 
-=
+==
 
 [System prompt]
 You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
@@ -409,13 +409,13 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. What are the different contact channels used by the customer named "Tillman Ernser"?
-2. Which contact channel code is associated with "Tillman Ernser"?
-3. When was the latest contact channel used by "Tillman Ernser" active up to?
-4. What is the active till date of the most recent contact channel used by the customer "Tillman Ernser"?
-5. Who are the customers that utilize email as their contact channel and when did they start using it?
+1. What contact channel has been utilized by the customer named "Tillman Ernser", and what is the active timeframe associated with it?
+2. Among the contact channels used by the customer "Tillman Ernser", which one was the latest and what was its active date range?
+3. How can we determine the most recent active date of the contact channel utilized by "Tillman Ernser"?
+4. For customers who communicate via email, what are their names and the dates when they started using this contact channel?
+5. Which customers have email as their contact channel and what are their corresponding active dates?
 
-=
+==
 
 [System prompt]
 You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
@@ -466,11 +466,11 @@ Output should follow the next template.
 
 [Response]
 ## Output
-1. What are the top genres based on the number of tracks available, and how many tracks does each of these top genres have?
-2. Can you provide a list of tracks under the genre "Rock" along with their names?
-3. How can we retrieve the names of all tracks within the Rock genre?
-4. Provide a list of track names that belong to either the Rock genre or the Jazz genre.
-5. How can we determine the total number of tracks available in each genre?
+1. What are the top 5 genres by number of tracks and the total count per genre?
+2. How many tracks does each genre have and what are the names of the top 5 genres?
+3. Which tracks have the genre "Rock" associated with them?
+4. What are the names of all tracks that belong to the genre "Rock"?
+5. Can you list the names of tracks that belong to either the "Rock" or "Jazz" genres?
 
-=
+==
 

@@ -3,7 +3,7 @@ from openai import OpenAI
 
 
 def load_prompt(task, role):
-    with open(f'prompt/{task}/{role}_prompt_template.txt', 'r') as file:
+    with open(f'template/prompt/{task}_{role}_prompt.txt', 'r') as file:
         return file.read()
 
 
