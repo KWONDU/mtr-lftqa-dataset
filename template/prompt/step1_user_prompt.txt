@@ -1,12 +1,11 @@
 Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
 
-## Input
+## Question and SQL query pairs
 {question_sql_pairs}
 
-Output should follow the next template.
-## Output template
-1. [high-level question 1]
-2. [high-level question 2]
-3. [high-level question 3]
-4. [high-level question 4]
-5. [high-level question 5]
+Output "must" follow the next template.
+1. [1st plausible high-level question]
+2. [2nd plausible high-level question]
+3. [3rd plausible high-level question]
+4. [4th plausible high-level question]
+5. [5th plausible high-level question]

@@ -118,13 +118,16 @@ if __name__ == '__main__':
             sub_table=data['answer'][1]
         ) for i, data in enumerate(data_list))
         
-        # 1. Generate high-level question templates from MultiTabQA question - SQL extraction pairs
+        # 1. Generate high-level questions from MultiTabQA question - SQL query pairs
+        question_sql_pairs = "\n".join([
+            f"{i + 1}th pair\nquestion: {data['question']}\nSQL query: {data['answer'][0]}"
+            for i, data in enumerate(data_list)
+        ])
+
         step1_system_prompt, step1_user_prompt, step1_response = get_openai_response(
             system_prompt=load_prompt('step1', 'system'),
             user_prompt=load_prompt('step1', 'user').format(
-                question_sql_pairs="\n".join([
-                    f"{i + 1}th pair\nquestion: {data['question']}\nSQL query: {data['answer'][0]}"
-                for i, data in enumerate(data_list)])
+                question_sql_pairs=question_sql_pairs
             )
         )
 
@@ -134,29 +137,54 @@ if __name__ == '__main__':
             response=step1_response
         )
         
-        # 2. Give feedback & verify about generated high-level question templates using table metadata and header
-        step2_system_prompt, step2_user_prompt, step2_response = get_openai_response(
-            system_prompt = load_prompt('step2', 'system'),
-            user_prompt=load_prompt('step2', 'user')
-        )
+        # 2. Give modify & verify about generated high-level questions using table metadata and header
+        tables_metadata_header_info = "\n".join([
+            f"{i + 1}th table information\nmetadata: {table_dict[gold_table_id]['metadata']}\nheader: {' | '.join(table_dict[gold_table_id]['header'])}"
+            for i, gold_table_id in enumerate(gold_table_ids)
+        ])
+        generated_questions = step1_response
 
-        step2_res = step2_res + print_llm_response(
-            system_prompt=step2_system_prompt,
-            user_prompt=step2_user_prompt,
-            response=step2_response
-        )
+        for q_idx, generated_question in enumerate(generated_questions.split("\n")):
+            if generated_question == "":
+                continue
 
-        # 3. Generate answer for each high-level question using full table (including table celss)
-        step3_system_prompt, step3_user_prompt, step3_response = get_openai_response(
-            system_prompt = load_prompt('step3', 'system'),
-            user_prompt=load_prompt('step3', 'user')
-        )
+            step2_system_prompt, step2_user_prompt, step2_response = get_openai_response(
+                system_prompt = load_prompt('step2', 'system'),
+                user_prompt=load_prompt('step2', 'user').format(
+                    tables_metadata_header_info=tables_metadata_header_info,
+                    generated_question=generated_question.split(". ")[1] # remove numbering
+                )
+            )
 
-        step3_res = step3_res + print_llm_response(
-            system_prompt=step3_system_prompt,
-            user_prompt=step3_user_prompt,
-            response=step3_response
-        )
+            step2_res = step2_res + f">> About {q_idx + 1}th question\n" + print_llm_response(
+                system_prompt=step2_system_prompt,
+                user_prompt=step2_user_prompt,
+                response=step2_response
+            ) + "\n"
+
+        # 3. Generate answer for each high-level question using full table (including table cells)
+            try:
+                step3_system_prompt, step3_user_prompt, step3_response = get_openai_response(
+                    system_prompt = load_prompt('step3', 'system'),
+                    user_prompt=load_prompt('step3', 'user').format(
+                        tables_info="".join(print_table(
+                            i=i,
+                            metadata=table_dict[gold_table_id]['metadata'],
+                            header=table_dict[gold_table_id]['header'],
+                            cell=table_dict[gold_table_id]['cell']
+                        ) for i, gold_table_id in enumerate(gold_table_ids)),
+                        high_level_question=step2_response[step2_response.find("Final question: ") + 1:]
+                    )
+                )
+            except Exception as e:
+                print(f"{ith}-{q_idx} Error: {e}")
+                continue
+
+            step3_res = step3_res + f">> About {q_idx + 1}th question\n" + print_llm_response(
+                system_prompt=step3_system_prompt,
+                user_prompt=step3_user_prompt,
+                response=step3_response
+            )
 
         # Save to file
         with open(f'results/result_pair{ith + 1}.txt', 'w') as file:

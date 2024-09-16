@@ -1,0 +1,12 @@
+You are provided with a multi-table dataset and a high-level question. Your task is to analyze the tables and generate a fluent, coherent, faithful, and comprehensive sentence-level answer that addresses the high-level question.
+
+### Gold table set information
+{tables_info}
+
+### High-level Question:
+{high_level_question}
+
+### Instructions:
+- Generate a sentence-level answer that is fluent, coherent, faithful to the data, and comprehensive.
+- Your answer should provide a clear and accurate summary of the information needed to answer the question.
+- If there is insufficient information to fully answer the question, make reasonable assumptions and explain them.

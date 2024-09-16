@@ -4737,7 +4737,7 @@ Please sure that the generated question stop at simply listing a number of simpl
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
 
-## Input
+## Question and SQL query pairs
 1th pair
 question: Find the name and salary of the instructors who are advisors of any student from History department?
 SQL query: SELECT T2.name ,  T2.salary FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id WHERE T3.dept_name  =  'History'
@@ -4763,38 +4763,218 @@ SQL query: SELECT T2.name FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =
 question: What is the name of the instructor who advises the student with the greatest number of total credits?
 SQL query: SELECT T2.name FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id ORDER BY T3.tot_cred DESC LIMIT 1
 
-Output should follow the next template.
-## Output template
-1. [high-level question 1]
-2. [high-level question 2]
-3. [high-level question 3]
-4. [high-level question 4]
-5. [high-level question 5]
+Output "must" follow the next template.
+1. [1st plausible high-level question]
+2. [2nd plausible high-level question]
+3. [3rd plausible high-level question]
+4. [4th plausible high-level question]
+5. [5th plausible high-level question]
 
 [Response]
-## Output
-1. What are the names and salaries of instructors who advise students in specific departments, such as History and Math?
-2. How can the names of instructors advising students in particular departments, like History and Math, be retrieved and sorted by students' total credits?
-3. Which instructors serve as advisors to students with the highest number of total credits across all departments?
-4. How can the instructor who advises the student with the greatest number of total credits be identified and displayed?
-5. Can the details of instructors who advise students in specific departments, sorted by students' total credits, be obtained efficiently?
+1. What are the names and salaries of instructors who advise students in specific departments, such as History or Math?
+2. Can we identify instructors who are advisors of students in particular departments, and sort them based on students' total credits?
+3. Which instructor serves as the advisor to the student with the highest number of total credits across all departments?
+4. How can we determine the instructor advising the student with the most credits, and rank them by their advised students' total credits?
+5. Is it possible to find the instructor advising the student with the greatest number of total credits and sort them by department and student total credits?
 
 ###      Step 2      ###
+>> About 1th question
 [System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
 
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
 
 [User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
 
+## Gold table set information
+1th table information
+metadata: student
+header: ID | name | dept_name | tot_cred
+2th table information
+metadata: advisor
+header: s_ID | i_ID
+3th table information
+metadata: instructor
+header: ID | name | dept_name | salary
+
+## Generated high-level question
+What are the names and salaries of instructors who advise students in specific departments, such as History or Math?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
 
 [Response]
-Hello! How can I assist you today?
+The metadata provided contains information about students, advisors, and instructors. We can link instructors who advise students through the advisor table. However, the department information of students is not directly available in the metadata. Therefore, we cannot directly determine the specific departments for which instructors advise students.
+
+Revised question: 
+What are the names and salaries of instructors who advise students?
+
+>> About 2th question
+[System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
+
+[User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
+
+## Gold table set information
+1th table information
+metadata: student
+header: ID | name | dept_name | tot_cred
+2th table information
+metadata: advisor
+header: s_ID | i_ID
+3th table information
+metadata: instructor
+header: ID | name | dept_name | salary
+
+## Generated high-level question
+Can we identify instructors who are advisors of students in particular departments, and sort them based on students' total credits?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
+
+[Response]
+The metadata provided includes information about students, advisors, and instructors. The tables contain details such as student ID, advisor ID, instructor ID, names, departments, total credits, and salaries. To answer the generated high-level question, we can join the student, advisor, and instructor tables on common fields to identify instructors who are advisors of students in particular departments and then sort them based on students' total credits.
+
+Final question: Which instructors, who are also advisors, are assigned to students in specific departments, and how can they be sorted based on the total credits of the students they advise?
+
+>> About 3th question
+[System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
+
+[User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
+
+## Gold table set information
+1th table information
+metadata: student
+header: ID | name | dept_name | tot_cred
+2th table information
+metadata: advisor
+header: s_ID | i_ID
+3th table information
+metadata: instructor
+header: ID | name | dept_name | salary
+
+## Generated high-level question
+Which instructor serves as the advisor to the student with the highest number of total credits across all departments?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
+
+[Response]
+The metadata and headers provided are insufficient to directly answer the question as it stands. To revise the question using the available metadata:
+
+We can modify the question to find the instructor who serves as the advisor to the student with the highest number of total credits in a specific department. This adjustment aligns with the available tables and information.
+
+Final question: Which instructor serves as the advisor to the student with the highest number of total credits in the 'dept_name' department?
+
+>> About 4th question
+[System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
+
+[User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
+
+## Gold table set information
+1th table information
+metadata: student
+header: ID | name | dept_name | tot_cred
+2th table information
+metadata: advisor
+header: s_ID | i_ID
+3th table information
+metadata: instructor
+header: ID | name | dept_name | salary
+
+## Generated high-level question
+How can we determine the instructor advising the student with the most credits, and rank them by their advised students' total credits?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
+
+[Response]
+The metadata and headers provided are not sufficient to directly answer the question as it requires information on which instructor advises each student. Hence, we can modify the question as follows:
+
+Revised question: Which instructor advises the student with the most credits, and how many students does each instructor advise?
+
+>> About 5th question
+[System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
+
+[User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
+
+## Gold table set information
+1th table information
+metadata: student
+header: ID | name | dept_name | tot_cred
+2th table information
+metadata: advisor
+header: s_ID | i_ID
+3th table information
+metadata: instructor
+header: ID | name | dept_name | salary
+
+## Generated high-level question
+Is it possible to find the instructor advising the student with the greatest number of total credits and sort them by department and student total credits?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
+
+[Response]
+The metadata and headers provided are not sufficient to directly answer the question as it involves finding the instructor advising the student with the greatest number of total credits and sorting by department and student total credits. To achieve this, we need to connect the student, advisor, and instructor tables based on the relationship between students, advisors, and instructors.
+
+To answer the question:
+1. We can join the student table with the advisor table on the student ID (s_ID) to find out which advisor is assigned to each student.
+2. Then, we can join the advisor table with the instructor table on the instructor ID (i_ID) to determine the instructor advising each student.
+3. Finally, we can aggregate the total credits for each student, identify the student with the highest total credits, associate the advisor and instructor for that student, and sort the results by department and student total credits.
+
+Revised question: Can you find the instructor who advises the student with the highest total credits and sort them by department and student total credits?
+
 
 ###      Step 3      ###
-[System prompt]
-
-
-[User prompt]
-
-
-[Response]
-Hello! How can I assist you today?

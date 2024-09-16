@@ -9118,7 +9118,7 @@ Please sure that the generated question stop at simply listing a number of simpl
 [User prompt]
 Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
 
-## Input
+## Question and SQL query pairs
 1th pair
 question: List the top 5 genres by number of tracks. List genres name and total tracks.
 SQL query: SELECT T1.name ,  COUNT(*) FROM genres AS T1 JOIN tracks AS T2 ON T2.genre_id  =  T1.id GROUP BY T1.id ORDER BY count(*) DESC LIMIT 5;
@@ -9144,39 +9144,195 @@ SQL query: SELECT count(*) ,  T1.name FROM genres AS T1 JOIN tracks AS T2 ON T1.
 question: How many tracks are in each genre?
 SQL query: SELECT count(*) ,  T1.name FROM genres AS T1 JOIN tracks AS T2 ON T1.id = T2.genre_id GROUP BY T1.name;
 
-Output should follow the next template.
-## Output template
-1. [high-level question 1]
-2. [high-level question 2]
-3. [high-level question 3]
-4. [high-level question 4]
-5. [high-level question 5]
+Output "must" follow the next template.
+1. [1st plausible high-level question]
+2. [2nd plausible high-level question]
+3. [3rd plausible high-level question]
+4. [4th plausible high-level question]
+5. [5th plausible high-level question]
 
 [Response]
-## Output
-
-1. **Inquire about the distribution of tracks among different genres**: How do the number of tracks vary across genres, and what are the top 5 genres by track count?
-2. **Explore the track count per genre and identify the top genres**: Which genres have the highest number of tracks, and how many tracks does each of the top 5 genres contain?
-3. **Investigate the specific tracks within a particular genre**: What are the names of the tracks categorized under the genre "Rock"?
-4. **Examine tracks within a single genre**: Can you provide a list of all tracks that fall under the genre "Rock"?
-5. **Analyze tracks across multiple genres**: Which tracks belong to either the "Rock" genre or the "Jazz" genre, and what are their names?
+1. What are the most popular genres based on the number of tracks available, and how many tracks does each of these genres have?
+2. Can you provide a list of tracks that belong to the Rock genre?
+3. How can we identify and list tracks that fall under either the Rock or Jazz genres?
+4. How many tracks are there in each genre, and can you provide a breakdown of the track count per genre?
+5. Which genres have the highest number of tracks, and what are the names of the top 5 genres in terms of track count?
 
 ###      Step 2      ###
+>> About 1th question
 [System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
 
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
 
 [User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
 
+## Gold table set information
+1th table information
+metadata: genres
+header: id | name
+2th table information
+metadata: tracks
+header: id | name | album_id | media_type_id | genre_id | composer | milliseconds | bytes | unit_price
+
+## Generated high-level question
+What are the most popular genres based on the number of tracks available, and how many tracks does each of these genres have?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
 
 [Response]
-Hello! How can I assist you today?
+The metadata provided is sufficient to answer the generated high-level question.
+
+Final question: What are the most popular genres based on the number of tracks available, and how many tracks does each of these genres have?
+
+>> About 2th question
+[System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
+
+[User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
+
+## Gold table set information
+1th table information
+metadata: genres
+header: id | name
+2th table information
+metadata: tracks
+header: id | name | album_id | media_type_id | genre_id | composer | milliseconds | bytes | unit_price
+
+## Generated high-level question
+Can you provide a list of tracks that belong to the Rock genre?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
+
+[Response]
+The metadata provided includes information on genres in the "1th table" and tracks in the "2th table." The tracks table includes a column "genre_id" that references the genre associated with each track. The genre_id can be used to link tracks to their respective genres.
+
+Final question: What are the tracks that belong to the Rock genre?
+
+>> About 3th question
+[System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
+
+[User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
+
+## Gold table set information
+1th table information
+metadata: genres
+header: id | name
+2th table information
+metadata: tracks
+header: id | name | album_id | media_type_id | genre_id | composer | milliseconds | bytes | unit_price
+
+## Generated high-level question
+How can we identify and list tracks that fall under either the Rock or Jazz genres?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
+
+[Response]
+The provided metadata and headers are sufficient to answer the generated question.
+
+Final question: How can we identify and list tracks that fall under either the Rock or Jazz genres?
+
+>> About 4th question
+[System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
+
+[User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
+
+## Gold table set information
+1th table information
+metadata: genres
+header: id | name
+2th table information
+metadata: tracks
+header: id | name | album_id | media_type_id | genre_id | composer | milliseconds | bytes | unit_price
+
+## Generated high-level question
+How many tracks are there in each genre, and can you provide a breakdown of the track count per genre?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
+
+[Response]
+The metadata provided is sufficient to answer the generated high-level question.
+
+Final question: How many tracks are there in each genre, and can you provide a breakdown of the track count per genre?
+
+>> About 5th question
+[System prompt]
+You are an expert in database management and natural language processing. Your task is to verify if the generated high-level questions can be answered using the provided multi-table metadata and header information. If the provided metadata and headers are insufficient to answer the question, you must adjust or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the table metadata and headers to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata.
+
+[User prompt]
+Here is a list of generated high-level questions, along with the metadata and headers of the corresponding tables. For each question, please verify if the metadata and headers provide sufficient information to answer it. If not, adjust the question accordingly.
+
+## Gold table set information
+1th table information
+metadata: genres
+header: id | name
+2th table information
+metadata: tracks
+header: id | name | album_id | media_type_id | genre_id | composer | milliseconds | bytes | unit_price
+
+## Generated high-level question
+Which genres have the highest number of tracks, and what are the names of the top 5 genres in terms of track count?
+
+For each question, verify if the metadata and headers are sufficient to answer it. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]
+
+[Response]
+The provided metadata and headers contain the necessary information to answer the generated high-level question without any modifications.
+
+Final question: Which genres have the highest number of tracks, and what are the names of the top 5 genres in terms of track count?
+
 
 ###      Step 3      ###
-[System prompt]
-
-
-[User prompt]
-
-
-[Response]
-Hello! How can I assist you today?
