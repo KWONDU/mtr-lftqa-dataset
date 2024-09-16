@@ -17,6 +17,7 @@
             [file] step{ith}_user_prompt.txt
     [folder] results
         [file] dataset_statistics.csv
+        [file] step{ith_result}.txt
     [file] main.py
     [file] text_to_sql.py
     [file] requirements.txt # setup file
