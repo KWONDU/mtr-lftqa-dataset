@@ -1,0 +1,476 @@
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: Find the names of users who did not leave any review.
+SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+2th pair
+question: Find the name of the user who gives the most reviews.
+SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id ORDER BY count(*) DESC LIMIT 1
+3th pair
+question: For each user, return the name and the average rating of reviews given by them.
+SQL query: SELECT T1.name ,  avg(T2.rating) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
+4th pair
+question: For each user, find their name and the number of reviews written by them.
+SQL query: SELECT T1.name ,  count(*) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
+5th pair
+question: Find the name of the user who gave the highest rating.
+SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id ORDER BY T2.rating DESC LIMIT 1
+6th pair
+question: Find the names of users who did not leave any review.
+SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+7th pair
+question: Find the number of users who did not write any review.
+SQL query: SELECT count(*) FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. How can we identify users who have not left any reviews, based on the user accounts and reviews present in the dataset?
+2. How can we determine the user who is the most prolific reviewer in terms of the number of reviews provided?
+3. How can we obtain the average rating given by each user by analyzing their respective reviews?
+4. In what way can we retrieve the total number of reviews written by each user, along with their names, from the available data?
+5. How can we pinpoint the user who has given the highest rating among all users in the dataset?
+
+=
+
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: Show ids for all employees who don't have a certificate.
+SQL query: SELECT eid FROM Employee EXCEPT SELECT eid FROM Certificate
+2th pair
+question: What are the ids of all employees that don't have certificates?
+SQL query: SELECT eid FROM Employee EXCEPT SELECT eid FROM Certificate
+3th pair
+question: what is the salary and name of the employee who has the most number of aircraft certificates?
+SQL query: SELECT T1.name ,  T1.salary FROM Employee AS T1 JOIN Certificate AS T2 ON T1.eid  =  T2.eid GROUP BY T1.eid ORDER BY count(*) DESC LIMIT 1
+4th pair
+question: What is the salaray and name of the employee that is certified to fly the most planes?
+SQL query: SELECT T1.name ,  T1.salary FROM Employee AS T1 JOIN Certificate AS T2 ON T1.eid  =  T2.eid GROUP BY T1.eid ORDER BY count(*) DESC LIMIT 1
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. How can we identify employees who do not possess any certificates based on their ids?
+2. What is the relationship between employee ids and the possession of certificates in the database?
+3. Among employees with aircraft certificates, which one has the highest salary and what is their name?
+4. How does the number of aircraft certificates held by an employee relate to their name and salary?
+5. In what way do an employee's name and salary correlate with their certifications to operate the most number of planes?
+
+=
+
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: Find the number of medications prescribed for each brand.
+SQL query: SELECT count(*) ,  T1.name FROM medication AS T1 JOIN prescribes AS T2 ON T1.code = T2.medication GROUP BY T1.brand
+2th pair
+question: How many medications are prescribed for each brand?
+SQL query: SELECT count(*) ,  T1.name FROM medication AS T1 JOIN prescribes AS T2 ON T1.code = T2.medication GROUP BY T1.brand
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. What is the distribution of prescribed medications across different brands?
+2. How does the number of prescribed medications vary by brand?
+3. Can we identify the most prescribed medication brand based on the given data?
+4. What insights can be gained by analyzing the relationship between medication count and brand in prescriptions?
+5. Are there any trends or patterns in medication prescription numbers among different brands?
+
+=
+
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: What are the manager's first name, last name and id who won the most manager award?
+SQL query: SELECT T1.name_first ,  T1.name_last ,  T2.player_id FROM player AS T1 JOIN manager_award AS T2 ON T1.player_id  =  T2.player_id GROUP BY T2.player_id ORDER BY count(*) DESC LIMIT 1;
+2th pair
+question: Which manager won the most manager award? Give me the manager's first name, last name and id.
+SQL query: SELECT T1.name_first ,  T1.name_last ,  T2.player_id FROM player AS T1 JOIN manager_award AS T2 ON T1.player_id  =  T2.player_id GROUP BY T2.player_id ORDER BY count(*) DESC LIMIT 1;
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. How can we determine the manager who won the most awards by analyzing the player and manager_award tables and what is the relationship between player_id and manager_id in these tables?
+2. What are the characteristics of the manager who holds the top spot in terms of award count, and how can we retrieve their first name, last name, and player ID by utilizing a SQL query that involves the player and manager_award tables?
+3. In what way can we identify the most successful manager in terms of awards received by joining the player and manager_award tables, grouping by player_id, and ordering by award count in descending order?
+4. What SQL query can be used to find the manager with the highest number of awards by joining the player and manager_award tables, grouping by player_id, and limiting the result to only the top entry?
+5. How can the SQL query involving the player and manager_award tables provide insights into the manager who has received the most awards and details like first name, last name, and player ID of that individual?
+
+=
+
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: What is the first name of students who got grade C in any class?
+SQL query: SELECT DISTINCT stu_fname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE enroll_grade  =  'C'
+2th pair
+question: What are the first names of all students who got a grade C in a class?
+SQL query: SELECT DISTINCT stu_fname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE enroll_grade  =  'C'
+3th pair
+question: Find names of all students who took some course and got A or C.
+SQL query: SELECT T1.stu_fname ,  T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'C' OR T2.enroll_grade  =  'A'
+4th pair
+question: What are the names of all students taking a course who received an A or C?
+SQL query: SELECT T1.stu_fname ,  T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'C' OR T2.enroll_grade  =  'A'
+5th pair
+question: What is the last name of the student who got a grade A in the class with code 10018.
+SQL query: SELECT T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'A' AND T2.class_code  =  10018
+6th pair
+question: What is the last name of the student who received an A in the class with the code 10018?
+SQL query: SELECT T1.stu_lname FROM student AS T1 JOIN enroll AS T2 ON T1.stu_num  =  T2.stu_num WHERE T2.enroll_grade  =  'A' AND T2.class_code  =  10018
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+
+1. What are the names of students who achieved grade C in any class and what is their corresponding last name?
+2. How can we retrieve the full names of students who have received a grade C in a particular class?
+3. Can we identify the students who have taken a course and earned either an A or a C, and display their names with their corresponding last names?
+4. Is it possible to list the full names of students currently enrolled in a course, while highlighting those who have obtained either an A or a C grade?
+5. Who is the student with the last name who received a grade A in the class with the code 10018, and what is their first name?
+
+=
+
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: Show the names of pilots and the number of records they have.
+SQL query: SELECT T2.Pilot_name ,  COUNT(*) FROM pilot_record AS T1 JOIN pilot AS T2 ON T1.pilot_ID  =  T2.pilot_ID GROUP BY T2.Pilot_name
+2th pair
+question: Show names of pilots that have more than one record.
+SQL query: SELECT T2.Pilot_name ,  COUNT(*) FROM pilot_record AS T1 JOIN pilot AS T2 ON T1.pilot_ID  =  T2.pilot_ID GROUP BY T2.Pilot_name HAVING COUNT(*)  >  1
+3th pair
+question: List the names of pilots that do not have any record.
+SQL query: SELECT Pilot_name FROM pilot WHERE Pilot_ID NOT IN (SELECT Pilot_ID FROM pilot_record)
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. How can we analyze the distribution of records among pilots based on the number of records they have?
+2. What criteria can we use to identify pilots who have more than one record in the dataset?
+3. How can we identify the pilots who have not been involved in any recorded activities?
+4. What are the different ways of aggregating and summarizing pilot records based on their names?
+5. How can we compare the level of activity among different pilots by examining their record counts?
+
+=
+
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: What is the invoice number and invoice date for the invoice with most number of transactions?
+SQL query: SELECT T2.invoice_number ,  T2.invoice_date FROM Financial_transactions AS T1 JOIN Invoices AS T2 ON T1.invoice_number  =  T2.invoice_number GROUP BY T1.invoice_number ORDER BY count(*) DESC LIMIT 1
+2th pair
+question: What is the invoice number and invoice date corresponding to the invoice with the greatest number of transactions?
+SQL query: SELECT T2.invoice_number ,  T2.invoice_date FROM Financial_transactions AS T1 JOIN Invoices AS T2 ON T1.invoice_number  =  T2.invoice_number GROUP BY T1.invoice_number ORDER BY count(*) DESC LIMIT 1
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+
+1. What are the characteristics and details of the invoice with the highest number of transactions in the financial database?
+2. Can we identify the invoice number and date associated with the most frequently occurring transaction in the financial records?
+3. How does the number of transactions impact the identification of the invoice with the highest activity level in the database?
+4. What insights can be gained from analyzing the relationship between invoices and financial transactions, especially in terms of transaction frequency?
+5. How does the frequency of transactions contribute to determining the most active invoice in the financial dataset?
+
+=
+
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: Find the name and salary of the instructors who are advisors of any student from History department?
+SQL query: SELECT T2.name ,  T2.salary FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id WHERE T3.dept_name  =  'History'
+2th pair
+question: What are the names and salaries of instructors who advises students in the History department?
+SQL query: SELECT T2.name ,  T2.salary FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id WHERE T3.dept_name  =  'History'
+3th pair
+question: Find the name and salary of instructors who are advisors of the students from the Math department.
+SQL query: SELECT T2.name ,  T2.salary FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id WHERE T3.dept_name  =  'Math'
+4th pair
+question: What are the names and salaries of instructors who advise students in the Math department?
+SQL query: SELECT T2.name ,  T2.salary FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id WHERE T3.dept_name  =  'Math'
+5th pair
+question: Find the name of instructors who are advisors of the students from the Math department, and sort the results by students' total credit.
+SQL query: SELECT T2.name FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id WHERE T3.dept_name  =  'Math' ORDER BY T3.tot_cred
+6th pair
+question: What are the names of all instructors who advise students in the math depart sorted by total credits of the student.
+SQL query: SELECT T2.name FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id WHERE T3.dept_name  =  'Math' ORDER BY T3.tot_cred
+7th pair
+question: Find the name of instructor who is the advisor of the student who has the highest number of total credits.
+SQL query: SELECT T2.name FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id ORDER BY T3.tot_cred DESC LIMIT 1
+8th pair
+question: What is the name of the instructor who advises the student with the greatest number of total credits?
+SQL query: SELECT T2.name FROM advisor AS T1 JOIN instructor AS T2 ON T1.i_id  =  T2.id JOIN student AS T3 ON T1.s_id  =  T3.id ORDER BY T3.tot_cred DESC LIMIT 1
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. How do instructors' salaries vary based on their advisory roles for students from different departments?
+2. What is the relationship between instructors' names and salaries in advising students from the History department?
+3. In what ways does the department of the students impact the names and salaries of instructors acting as advisors?
+4. How does the total credit of students influence the selection and ordering of instructors who advise students from the Math department?
+5. What insights can be gained by identifying the instructor who advises the student with the highest number of total credits in the database?
+
+=
+
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: Which contact channel has been used by the customer with name "Tillman Ernser"?
+SQL query: SELECT DISTINCT channel_code FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+2th pair
+question: Find the contact channel code that was used by the customer named "Tillman Ernser".
+SQL query: SELECT DISTINCT channel_code FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+3th pair
+question: What is the "active to date" of the latest contact channel used by "Tillman Ernser"?
+SQL query: SELECT max(t2.active_to_date) FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+4th pair
+question: Return the the "active to date" of the latest contact channel used by the customer named "Tillman Ernser".
+SQL query: SELECT max(t2.active_to_date) FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t1.customer_name  =  "Tillman Ernser"
+5th pair
+question: Find the name and active date of the customer that use email as the contact channel.
+SQL query: SELECT t1.customer_name ,  t2.active_from_date FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t2.channel_code  =  'Email'
+6th pair
+question: What are the name and active date of the customers whose contact channel code is email?
+SQL query: SELECT t1.customer_name ,  t2.active_from_date FROM customers AS t1 JOIN customer_contact_channels AS t2 ON t1.customer_id  =  t2.customer_id WHERE t2.channel_code  =  'Email'
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. What are the different contact channels used by the customer named "Tillman Ernser"?
+2. Which contact channel code is associated with "Tillman Ernser"?
+3. When was the latest contact channel used by "Tillman Ernser" active up to?
+4. What is the active till date of the most recent contact channel used by the customer "Tillman Ernser"?
+5. Who are the customers that utilize email as their contact channel and when did they start using it?
+
+=
+
+[System prompt]
+You are an expert at analyzing text-to-SQL dataset. For given question and corresponding SQL query pairs, Your task is to generate five high-level questions that can cover various aspects of gold tables set. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of high-level questions.
+
+## Input
+1th pair
+question: List the top 5 genres by number of tracks. List genres name and total tracks.
+SQL query: SELECT T1.name ,  COUNT(*) FROM genres AS T1 JOIN tracks AS T2 ON T2.genre_id  =  T1.id GROUP BY T1.id ORDER BY count(*) DESC LIMIT 5;
+2th pair
+question: How many tracks does each genre have and what are the names of the top 5?
+SQL query: SELECT T1.name ,  COUNT(*) FROM genres AS T1 JOIN tracks AS T2 ON T2.genre_id  =  T1.id GROUP BY T1.id ORDER BY count(*) DESC LIMIT 5;
+3th pair
+question: What is the name of tracks whose genre is Rock?
+SQL query: SELECT T2.name FROM genres AS T1 JOIN tracks AS T2 ON T1.id = T2.genre_id WHERE T1.name = "Rock";
+4th pair
+question: What is the name of all tracks in the Rock genre?
+SQL query: SELECT T2.name FROM genres AS T1 JOIN tracks AS T2 ON T1.id = T2.genre_id WHERE T1.name = "Rock";
+5th pair
+question: List the name of tracks belongs to genre Rock or genre Jazz.
+SQL query: SELECT T2.name FROM genres AS T1 JOIN tracks AS T2 ON T1.id = T2.genre_id WHERE T1.name = "Rock" OR T1.name = "Jazz"
+6th pair
+question: What are the names of the tracks that are Rock or Jazz songs?
+SQL query: SELECT T2.name FROM genres AS T1 JOIN tracks AS T2 ON T1.id = T2.genre_id WHERE T1.name = "Rock" OR T1.name = "Jazz"
+7th pair
+question: Find number of tracks in each genre?
+SQL query: SELECT count(*) ,  T1.name FROM genres AS T1 JOIN tracks AS T2 ON T1.id = T2.genre_id GROUP BY T1.name;
+8th pair
+question: How many tracks are in each genre?
+SQL query: SELECT count(*) ,  T1.name FROM genres AS T1 JOIN tracks AS T2 ON T1.id = T2.genre_id GROUP BY T1.name;
+
+Output should follow the next template.
+## Output template
+1. [high-level question 1]
+2. [high-level question 2]
+3. [high-level question 3]
+4. [high-level question 4]
+5. [high-level question 5]
+
+[Response]
+## Output
+1. What are the top genres based on the number of tracks available, and how many tracks does each of these top genres have?
+2. Can you provide a list of tracks under the genre "Rock" along with their names?
+3. How can we retrieve the names of all tracks within the Rock genre?
+4. Provide a list of track names that belong to either the Rock genre or the Jazz genre.
+5. How can we determine the total number of tracks available in each genre?
+
+=
+

@@ -1,7 +1,0 @@
-Given a list of short-form statements which are related to the given table, generate a long-form statement that encompassing the overall flow of the given statements in a coherent, fluent, faithful and comprehensive manner.
-
-Here are the short-form statements:
-{statements}
-
-Please generate a well-structured, long-form statement based on the short-form statements.
-Note that generated long-form statement should be a single sentence, with no more than three commas.

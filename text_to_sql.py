@@ -1,6 +1,7 @@
 import logging
 import random
 from tqdm import tqdm
+from util_llm import load_prompt, get_openai_response
 from util import load_dataset
 
 
@@ -62,10 +63,37 @@ if __name__ == '__main__':
     random.seed(42)
     sample_ten_data_dict = dict(random.sample(list(data_dict.items()), 10))
 
-    for gold_table_ids, data_list in tqdm(sample_ten_data_dict.items()):
+    step1_response_text_list = []
+    step2_response_text_list = []
+    step3_response_text_list = []
+    for gold_table_ids, data_list in tqdm(sample_ten_data_dict.items(), desc="randomly sampled data"):
         # 1. Generate high-level question templates from MultiTabQA question - SQL extraction pairs
+        step1_system_prompt, step1_user_prompt, step1_response = get_openai_response(
+            system_prompt=load_prompt('step1', 'system'),
+            user_prompt=load_prompt('step1', 'user').format(
+                question_sql_pairs='\n'.join([
+                    f"{i+1}th pair\nquestion: {data['question']}\nSQL query: {data['answer'][0]}"
+                for i, data in enumerate(data_list)])
+            )
+        )
+        step1_response_text_list.append(
+            "[System prompt]" + "\n" +
+            step1_system_prompt + "\n\n" +
+            "[User prompt]" + "\n" +
+            step1_user_prompt + "\n\n" +
+            "[Response]" + "\n" +
+            step1_response + "\n\n=\n\n"
+        )
+        
+        # 2. Give feedback & verify about generated high-level question templates using table metadata and header
         None
-        # 2. Give feedback & verify about generated high-level question templates
+
+        # 3. Generate answer for each high-level question using full table (including table celss)
         None
-        # 3. Generate answer for each high-level question
-        None
+    
+    with open('step1_response.txt', 'w') as file:
+        file.writelines(step1_response_text_list)
+    with open('step2_response.txt', 'w') as file:
+        file.writelines(step2_response_text_list)
+    with open('step3_response.txt', 'w') as file:
+        file.writelines(step3_response_text_list)

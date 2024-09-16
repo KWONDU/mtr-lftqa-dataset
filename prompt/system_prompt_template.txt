@@ -1,8 +1,0 @@
-You are tasked with identifying the overall flow of the given statements and grouping them under a common theme. Once you have recognized this theme, your goal is to generate a long-form statement that encompasses and unifies all the provided statements into a coherent, fluent, faithful and comprehensive manner.
-Please note that you are not merely listing the given statements, but are required to engage in deeper reasoning.​
-Ensure that the given statements are generated based on the following tables.
-
-Here are information about tables as mentioned earlier:
-Wikipedia page title: {title}
-headers of each table:
-{headers}
