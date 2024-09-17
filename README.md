@@ -7,21 +7,22 @@
             [file] {dataset_name}*.pkl  # source dataset checkpoints
         [file] dataset_stats.py
         [file] load_{dataset_name}.py # dataset loader (no need to use directly)
-    [folder] template
-        [folder] print # visualization template
-            [file] data.txt
-            [file] llm_response.txt
-            [file] table.txt
-        [folder] prompt
-            [file] step{ith}_system_prompt.txt
-            [file] step{ith}_user_prompt.txt
+    [folder] prompt
+        [folder] system
+            [file] generate_high_level_answer.txt # step 3 system promt
+            [file] generate_high_level_questions.txt # step 1 system prompt
+            [file] verify_and_modify_generated_question.txt # step 2 system prompt
+        [folder] user
+            [file] generate_high_level_answer.txt # step 3 user prompt
+            [file] generate_high_level_questions.txt # step 1 user prompt
+            [file] verify_and_modify_generated_question.txt # step 2 user prompt
     [folder] results
         [file] dataset_statistics.csv
-        [file] result_pair{ith}.txt
     [file] main.py
-    [file] text_to_sql.py
     [file] requirements.txt # setup file
     [file] util_dill.py
+    [file] util_format.py
+    [file] util_llm.py
     [file] util.py
 
 ## .gitignore

@@ -19,7 +19,8 @@ def load_dataset(dataset_name):
 
 def parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-d', type=str, default='', help="dataset name")
+    parser.add_argument('-d', type=str, default='MultiTabQA', help='dataset name')
+    parser.add_argument('-n', type=int, default=10, help="# of sampled data")
     return parser
 
 

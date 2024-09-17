@@ -1,0 +1,13 @@
+Here is a generated high-level question, along with the metadata and headers of the corresponding tables. Please verify if the metadata and headers provide sufficient information to answer the question. If not, adjust the question accordingly.
+
+## Gold table set information
+{tables_metadata_header_info}
+
+## Generated high-level question
+{generated_question}
+
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the next template.
+[complex reasoning]
+Final question: [revised high-level question]

@@ -1,7 +1,0 @@
-{i}th data information
-question: {question}
-SQL query: {sql}
-SQL extraction
-{header}
-{sep_token}
-{cell}
