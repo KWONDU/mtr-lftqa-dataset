@@ -48,7 +48,7 @@ def main(dataset_name, sample_n):
     for idx, (gold_table_set, data_list) in tqdm(enumerate(sampled_data_dict.items()), desc="sampled data", total=sample_n):
         # For each pair,
         # 1. Display information of gold table set and data list
-        display_info = "1. Display information of gold table set and data list.\n"
+        display_info = ">> Display information of gold table set and data list.\n"
 
         display_info += "[Gold table set information]\n"
         display_info += "".join(table_format(
@@ -66,13 +66,13 @@ def main(dataset_name, sample_n):
             sub_table=data['answer'][1]
         ) for data_idx, data in enumerate(data_list))
 
-        logger.info("[Done] Display information of gold table set and data list.")
+        tqdm.write(f"[Done #{idx + 1}] Display information of gold table set and data list.")
 
         # Initialize LLM response buffer
         llm_response_buffer = defaultdict(list)
 
         # 2. Generate high-level questions using data['question'] and data['answer']['SQL']
-        generate_high_level_questions_result = "2. Generate high-level questions using data['question'] and data['answer']['SQL'].\n"
+        generate_high_level_questions_result = ">> Generate high-level questions using data['question'] and data['answer']['SQL'].\n"
 
         question_sql_pairs = "".join(data_format(
             data_num=data_idx+1,
@@ -93,7 +93,7 @@ def main(dataset_name, sample_n):
         llm_response_buffer['user_prompt'].append(user_prompt)
         llm_response_buffer['response'].append(response)
 
-        logger.info("[Done] Generate high-level questions using data['question'] and data['answer']['SQL'].")
+        tqdm.write(f"[Done #{idx + 1}] Generate high-level questions using data['question'] and data['answer']['SQL'].")
 
         # For each generated question,
         annotate_questions_and_answers_result = ""
@@ -114,7 +114,7 @@ def main(dataset_name, sample_n):
         generated_questions = [question.split(". ")[1] for question in response.split("\n")]
         for jdx, generated_question in tqdm(enumerate(generated_questions), desc="generated questions", total=len(generated_questions)):
             # 3. Verify and modify generated question using table['metadata'] and table['header']
-            verify_and_modify_generated_each_question_result = "3. Verify and modify generated question using table['metadata'] and table['header'].\n"
+            verify_and_modify_generated_each_question_result = "\n>> Verify and modify generated question using table['metadata'] and table['header'].\n"
 
             system_prompt, user_prompt, response = get_openai_response(
                 system_prompt=load_prompt(task='verify_and_modify_generated_question', role='system'),
@@ -124,15 +124,15 @@ def main(dataset_name, sample_n):
                     )
             )
 
-            verify_and_modify_generated_each_question_result += f"[Response]\n{response}\n"
+            verify_and_modify_generated_each_question_result += f"[Verification and Modification]\n{response}\n"
             llm_response_buffer['system_prompt'].append(system_prompt)
             llm_response_buffer['user_prompt'].append(user_prompt)
             llm_response_buffer['response'].append(response)
 
-            logger.info("[Done] Verify and modify generated question using table['metadata'] and table['header'].")
+            tqdm.write(f"[Done #{idx + 1}-{jdx + 1}] Verify and modify generated question using table['metadata'] and table['header'].")
 
             # 4. Generate high-level answer using modifed question and gold table set information
-            generate_each_high_level_answer_result = "4. Generate high-level answer using modifed question and gold table set information.\n"
+            generate_each_high_level_answer_result = "\n>> Generate high-level answer using modifed question and gold table set information.\n"
 
             high_level_question = response[response.find("Final question: ")+1:-1]
 
@@ -145,22 +145,24 @@ def main(dataset_name, sample_n):
                         )
                 )
             except Exception as e:
-                logger.warning(f"[{idx}-{jdx}] {e}")
+                logger.warning(f"[Error #{idx + 1}-{jdx + 1}] {e}")
                 continue
             
-            generate_each_high_level_answer_result += f"[Response]\n{response}\n"
+            generate_each_high_level_answer_result += f"[Answer annotation]\n{response}\n"
             llm_response_buffer['system_prompt'].append(system_prompt)
             llm_response_buffer['user_prompt'].append(user_prompt)
             llm_response_buffer['response'].append(response)
 
-            logger.info("[Done] Generate high-level answer using modifed question and gold table set information.")
+            tqdm.write(f"[Done #{idx + 1}-{jdx + 1}] Generate high-level answer using modifed question and gold table set information.")
 
-            annotate_questions_and_answers_result += f"About generated question {jdx + 1}# . . .\ngenerated question: {generated_question}\n"
+            annotate_questions_and_answers_result += "\n==\n\n"
+            annotate_questions_and_answers_result += f"> About generated question #{jdx + 1} . . .\n[Generated question]\n{generated_question}\n"
             annotate_questions_and_answers_result += verify_and_modify_generated_each_question_result
             annotate_questions_and_answers_result += generate_each_high_level_answer_result
 
-        with open('pair.txt', 'w') as file:
+        with open(f'result-{idx + 1}.txt', 'w') as file:
             file.write(display_info)
+            file.write("==\n\n")
             file.write(generate_high_level_questions_result)
             file.write(annotate_questions_and_answers_result)
 
