@@ -88,7 +88,7 @@ def main(dataset_name, sample_n):
                 )
         )
 
-        generate_high_level_questions_result += f"[Response]\n{response}\n"
+        generate_high_level_questions_result += f"[Generated high-level questions]\n{response}\n"
         llm_response_buffer['system_prompt'].append(system_prompt)
         llm_response_buffer['user_prompt'].append(user_prompt)
         llm_response_buffer['response'].append(response)
@@ -124,7 +124,7 @@ def main(dataset_name, sample_n):
                     )
             )
 
-            verify_and_modify_generated_each_question_result += f"[Verification and Modification]\n{response}\n"
+            verify_and_modify_generated_each_question_result += f"[Annotated question]\n{response}\n"
             llm_response_buffer['system_prompt'].append(system_prompt)
             llm_response_buffer['user_prompt'].append(user_prompt)
             llm_response_buffer['response'].append(response)
@@ -148,7 +148,7 @@ def main(dataset_name, sample_n):
                 logger.warning(f"[Error #{idx + 1}-{jdx + 1}] {e}")
                 continue
             
-            generate_each_high_level_answer_result += f"[Answer annotation]\n{response}\n"
+            generate_each_high_level_answer_result += f"[Annotated answer]\n{response}\n"
             llm_response_buffer['system_prompt'].append(system_prompt)
             llm_response_buffer['user_prompt'].append(user_prompt)
             llm_response_buffer['response'].append(response)
@@ -160,7 +160,7 @@ def main(dataset_name, sample_n):
             annotate_questions_and_answers_result += verify_and_modify_generated_each_question_result
             annotate_questions_and_answers_result += generate_each_high_level_answer_result
 
-        with open(f'result-{idx + 1}.txt', 'w') as file:
+        with open(f'annotation_result_{idx + 1}.txt', 'w') as file:
             file.write(display_info)
             file.write("==\n\n")
             file.write(generate_high_level_questions_result)
