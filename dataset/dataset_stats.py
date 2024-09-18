@@ -11,12 +11,9 @@ if __name__ == '__main__':
         ('Spider', 'text-to-SQL', 'Online, DB, WikiSQL'),
         ('WikiSQL', 'text-to-SQL', 'Wikipedia'),
         ('MultiTabQA', 'table QA', 'Spider, GEOquery, ATIS'),
-        ('WikiTableQuestions', 'table QA', 'Wikipedia'),
         ('FeTaQA', 'table QA', 'ToTTo'),
         ('QTSumm', 'table QA', 'LogicNLG, ToTTo'),
-        ('TableBench', 'table QA', 'WikiTableQuestions, TabFact, FeTaQA, ...'),
         ('Open-WikiTable', 'open-domain table QA', 'WikiSQL, WikiTableQuestions'),
-        ('NQ-Tables', 'open-domain table QA', 'Natural Questions'),
         ('TabFact', 'table-based fact verification', 'Wikipedia')
         ]
 

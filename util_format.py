@@ -20,6 +20,7 @@ def data_format(data_num, question, sql, sub_table):
     elif sub_header != [] and sub_cell == [[]]:
         display_data += f"header: {serialize_header}\n"
     else:
+        display_data += "SQL extraction:\n"
         display_data += (f"{serialize_header}\n" if serialize_header else "")
         display_data += (f"{sep_token}\n" if sep_token else "")
         display_data += f"{serialize_cell}"
@@ -49,6 +50,7 @@ def table_format(table_num, metadata, header, cell):
     elif header != [] and cell == [[]]:
         display_table += f"header: {serialize_header}\n"
     else:
+        display_table += "full table:\n"
         display_table += (f"{serialize_header}\n" if serialize_header else "")
         display_table += (f"{sep_token}\n" if sep_token else "")
         display_table += f"{serialize_cell}"

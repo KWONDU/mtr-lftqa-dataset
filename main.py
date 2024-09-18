@@ -62,8 +62,8 @@ def main(dataset_name, sample_n):
         display_info += "".join(data_format(
             data_num=data_idx+1,
             question=data['question'],
-            sql=data['answer'][0],
-            sub_table=data['answer'][1]
+            sql=next(answer for answer, answer_type in zip(data['answer'], data['answer_type']) if answer_type=='SQL'),
+            sub_table=next(answer for answer, answer_type in zip(data['answer'], data['answer_type']) if answer_type=='table')
         ) for data_idx, data in enumerate(data_list))
 
         tqdm.write(f"[Done #{idx + 1}] Display information of gold table set and data list.")
@@ -77,7 +77,7 @@ def main(dataset_name, sample_n):
         question_sql_pairs = "".join(data_format(
             data_num=data_idx+1,
             question=data['question'],
-            sql=data['answer'][0],
+            sql=next(answer for answer, answer_type in zip(data['answer'], data['answer_type']) if answer_type=='SQL'),
             sub_table=None
         ) for data_idx, data in enumerate(data_list))
 
@@ -160,7 +160,7 @@ def main(dataset_name, sample_n):
             annotate_questions_and_answers_result += verify_and_modify_generated_each_question_result
             annotate_questions_and_answers_result += generate_each_high_level_answer_result
 
-        with open(f'annotation_result_{idx + 1}.txt', 'w') as file:
+        with open(f'results/annotation_result_{idx + 1}.txt', 'w') as file:
             file.write(display_info)
             file.write("==\n\n")
             file.write(generate_high_level_questions_result)
