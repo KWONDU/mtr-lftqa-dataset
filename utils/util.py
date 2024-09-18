@@ -1,7 +1,7 @@
 import argparse
 import glob
 import logging
-from util_dill import load_large_object
+from utils.util_dill import load_large_object
 
 
 def load_dataset(dataset_name):
@@ -24,7 +24,7 @@ def parser():
     return parser
 
 
-if __name__ == 'util':
+if __name__ == 'utils.util':
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.WARNING)
     logger.addHandler(logging.StreamHandler())

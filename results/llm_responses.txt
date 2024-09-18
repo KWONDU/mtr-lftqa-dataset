@@ -1,0 +1,512 @@
+[Idx]: 1-generate_high_level_questions
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to generate five high-level questions that can cover various aspects of gold tables set with given question and corresponding SQL query pairs. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.
+
+[User prompt]
+Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
+
+## Question and SQL query pairs
+Data #1 information
+question: Find the names of users who did not leave any review.
+SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+
+Data #2 information
+question: Find the name of the user who gives the most reviews.
+SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id ORDER BY count(*) DESC LIMIT 1
+
+Data #3 information
+question: For each user, return the name and the average rating of reviews given by them.
+SQL query: SELECT T1.name ,  avg(T2.rating) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
+
+Data #4 information
+question: For each user, find their name and the number of reviews written by them.
+SQL query: SELECT T1.name ,  count(*) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
+
+Data #5 information
+question: Find the name of the user who gave the highest rating.
+SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id ORDER BY T2.rating DESC LIMIT 1
+
+Data #6 information
+question: Find the names of users who did not leave any review.
+SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+
+Data #7 information
+question: Find the number of users who did not write any review.
+SQL query: SELECT count(*) FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+
+Output "must" follow the following template:
+1. [1st plausible high-level question]
+2. [2nd plausible high-level question]
+3. [3rd plausible high-level question]
+4. [4th plausible high-level question]
+5. [5th plausible high-level question]
+
+[Response]
+1. Combining user interaction data with review activity, how can we extract insights on user behavior and engagement in the platform?
+2. How can we identify the most active users in terms of giving reviews and the ones who are not actively engaging with the review feature?
+3. In what ways can we analyze user satisfaction levels by examining the average ratings provided by each user and their review frequency?
+4. What methods can we employ to determine the user who has provided the highest rating and the overall distribution of ratings among users?
+5. How can we explore the user base by understanding the proportion of users who have not contributed any reviews, and what their impact is on the overall data set?
+
+==
+
+[Idx]: 1-1-verify_and_modify_generated_question
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to verify if the high-level question can be answered using the metadata and header information of provided gold multi-table set. If the gold table set information are insufficient to answer the question, you must modify or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+
+[User prompt]
+Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
+
+## Gold table set information
+Table #1 information
+metadata: useracct
+header: u_id | name
+
+Table #2 information
+metadata: review
+header: a_id | u_id | i_id | rating | rank
+
+## high-level question
+Combining user interaction data with review activity, how can we extract insights on user behavior and engagement in the platform?
+
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the following template:
+Verification: [True if sufficient, else False]
+Final question: [revised question]
+
+[Response]
+Verification: True
+
+Final question: How does user behavior and engagement on the platform correlate with the ratings and rankings they provide in reviews?
+
+==
+
+[Idx]: 1-1-generate_high_level_answer
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to generate a high-level, sentence-level answer to the provided question by analyzing the given gold multi-table set.
+
+The answer should be:
+1. Fluent: The answer should be written in natural and grammatically correct language.
+2. Coherent: The answer should be logically structured and easy to follow.
+3. Faithful: The answer should be factually correct and directly derived from the provided tables without containing information not present in the gold table set.
+4. Comprehensive: The answer should fully provide information to answer the question, while avoiding details that are consistent with tabular data yet irrelevant to the given question.
+
+Your goal is to:
+1. Analyze the gold multi-table set and integrate the relevant information to answer the given question.
+2. Use the integrated information to generate a concise and coherent sentence-level answer to the high-level question.
+3. Ensure that your answer is fluent, accurate, and provides a complete response based on the information in the tables.
+
+[User prompt]
+You are provided with a gold multi-table set and a high-level question. Your task is to analyze the tables and generate a fluent, coherent, faithful, and comprehensive sentence-level answer that addresses the given high-level question.
+
+### Gold table set information
+Table #1 information
+metadata: useracct
+full table:
+u_id | name 
+------------
+1    | Helen
+2    | Mark 
+3    | Terry
+4    | Nancy
+5    | Rosie
+6    | Roxi 
+7    | Emily
+Table #2 information
+metadata: review
+full table:
+a_id | u_id | i_id | rating | rank
+----------------------------------
+1    | 1    | 1    | 10     | 1   
+2    | 2    | 1    | 5      | 2   
+3    | 1    | 4    | 7      | 3   
+4    | 2    | 7    | 10     | 7   
+5    | 2    | 5    | 7      | 4   
+6    | 1    | 3    | 5      | 5   
+7    | 2    | 7    | 6      | 6   
+
+### High-level Question:
+How does user behavior and engagement on the platform correlate with the ratings and rankings they provide in reviews
+
+[Response]
+User behavior and engagement on the platform can be correlated with the ratings and rankings they provide in reviews based on the provided data. For instance, users Helen and Mark have interacted with multiple items and given ratings where Helen provided a rating of 10 for item 1 and ranked it at 1, while Mark gave a 5-star rating to item 1 but ranked it at 2. This suggests that the users' engagement and behavior might influence their ratings and rankings in reviews on the platform.
+
+==
+
+[Idx]: 1-2-verify_and_modify_generated_question
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to verify if the high-level question can be answered using the metadata and header information of provided gold multi-table set. If the gold table set information are insufficient to answer the question, you must modify or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+
+[User prompt]
+Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
+
+## Gold table set information
+Table #1 information
+metadata: useracct
+header: u_id | name
+
+Table #2 information
+metadata: review
+header: a_id | u_id | i_id | rating | rank
+
+## high-level question
+How can we identify the most active users in terms of giving reviews and the ones who are not actively engaging with the review feature?
+
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the following template:
+Verification: [True if sufficient, else False]
+Final question: [revised question]
+
+[Response]
+Verification: True
+
+Final question: How can we identify the most active users in terms of giving reviews and the ones who are not actively engaging with the review feature based on the data in the provided tables?
+
+==
+
+[Idx]: 1-2-generate_high_level_answer
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to generate a high-level, sentence-level answer to the provided question by analyzing the given gold multi-table set.
+
+The answer should be:
+1. Fluent: The answer should be written in natural and grammatically correct language.
+2. Coherent: The answer should be logically structured and easy to follow.
+3. Faithful: The answer should be factually correct and directly derived from the provided tables without containing information not present in the gold table set.
+4. Comprehensive: The answer should fully provide information to answer the question, while avoiding details that are consistent with tabular data yet irrelevant to the given question.
+
+Your goal is to:
+1. Analyze the gold multi-table set and integrate the relevant information to answer the given question.
+2. Use the integrated information to generate a concise and coherent sentence-level answer to the high-level question.
+3. Ensure that your answer is fluent, accurate, and provides a complete response based on the information in the tables.
+
+[User prompt]
+You are provided with a gold multi-table set and a high-level question. Your task is to analyze the tables and generate a fluent, coherent, faithful, and comprehensive sentence-level answer that addresses the given high-level question.
+
+### Gold table set information
+Table #1 information
+metadata: useracct
+full table:
+u_id | name 
+------------
+1    | Helen
+2    | Mark 
+3    | Terry
+4    | Nancy
+5    | Rosie
+6    | Roxi 
+7    | Emily
+Table #2 information
+metadata: review
+full table:
+a_id | u_id | i_id | rating | rank
+----------------------------------
+1    | 1    | 1    | 10     | 1   
+2    | 2    | 1    | 5      | 2   
+3    | 1    | 4    | 7      | 3   
+4    | 2    | 7    | 10     | 7   
+5    | 2    | 5    | 7      | 4   
+6    | 1    | 3    | 5      | 5   
+7    | 2    | 7    | 6      | 6   
+
+### High-level Question:
+How can we identify the most active users in terms of giving reviews and the ones who are not actively engaging with the review feature based on the data in the provided tables
+
+[Response]
+Based on the data in the provided tables, we can identify the most active users in terms of giving reviews by looking at the frequency of their interactions in the "review" table. For instance, user Helen (u_id: 1) stands out as an active reviewer since she has provided reviews for items with a_ids 1, 4, and 3. On the other hand, users like Mark (u_id: 2) have also actively engaged with the review feature by giving ratings for items. Conversely, users like Roxi (u_id: 6) and Nancy (u_id: 4) have not participated in reviewing items based on the available data.
+
+==
+
+[Idx]: 1-3-verify_and_modify_generated_question
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to verify if the high-level question can be answered using the metadata and header information of provided gold multi-table set. If the gold table set information are insufficient to answer the question, you must modify or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+
+[User prompt]
+Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
+
+## Gold table set information
+Table #1 information
+metadata: useracct
+header: u_id | name
+
+Table #2 information
+metadata: review
+header: a_id | u_id | i_id | rating | rank
+
+## high-level question
+In what ways can we analyze user satisfaction levels by examining the average ratings provided by each user and their review frequency?
+
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the following template:
+Verification: [True if sufficient, else False]
+Final question: [revised question]
+
+[Response]
+Verification: True
+
+Final question: How can we analyze user satisfaction levels by calculating the average ratings provided by each user in the provided reviews data?
+
+==
+
+[Idx]: 1-3-generate_high_level_answer
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to generate a high-level, sentence-level answer to the provided question by analyzing the given gold multi-table set.
+
+The answer should be:
+1. Fluent: The answer should be written in natural and grammatically correct language.
+2. Coherent: The answer should be logically structured and easy to follow.
+3. Faithful: The answer should be factually correct and directly derived from the provided tables without containing information not present in the gold table set.
+4. Comprehensive: The answer should fully provide information to answer the question, while avoiding details that are consistent with tabular data yet irrelevant to the given question.
+
+Your goal is to:
+1. Analyze the gold multi-table set and integrate the relevant information to answer the given question.
+2. Use the integrated information to generate a concise and coherent sentence-level answer to the high-level question.
+3. Ensure that your answer is fluent, accurate, and provides a complete response based on the information in the tables.
+
+[User prompt]
+You are provided with a gold multi-table set and a high-level question. Your task is to analyze the tables and generate a fluent, coherent, faithful, and comprehensive sentence-level answer that addresses the given high-level question.
+
+### Gold table set information
+Table #1 information
+metadata: useracct
+full table:
+u_id | name 
+------------
+1    | Helen
+2    | Mark 
+3    | Terry
+4    | Nancy
+5    | Rosie
+6    | Roxi 
+7    | Emily
+Table #2 information
+metadata: review
+full table:
+a_id | u_id | i_id | rating | rank
+----------------------------------
+1    | 1    | 1    | 10     | 1   
+2    | 2    | 1    | 5      | 2   
+3    | 1    | 4    | 7      | 3   
+4    | 2    | 7    | 10     | 7   
+5    | 2    | 5    | 7      | 4   
+6    | 1    | 3    | 5      | 5   
+7    | 2    | 7    | 6      | 6   
+
+### High-level Question:
+How can we analyze user satisfaction levels by calculating the average ratings provided by each user in the provided reviews data
+
+[Response]
+To analyze user satisfaction levels based on the provided reviews data, we can calculate the average ratings given by each user. By looking at the "review" table, we see that user Helen (u_id: 1) gave ratings of 10, 7, and 5 for different items, user Mark (u_id: 2) gave ratings ranging from 5 to 10, and the other users did not provide reviews. To calculate the average ratings for each user, we can sum up the ratings provided by each user and divide by the total number of reviews they gave.
+
+==
+
+[Idx]: 1-4-verify_and_modify_generated_question
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to verify if the high-level question can be answered using the metadata and header information of provided gold multi-table set. If the gold table set information are insufficient to answer the question, you must modify or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+
+[User prompt]
+Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
+
+## Gold table set information
+Table #1 information
+metadata: useracct
+header: u_id | name
+
+Table #2 information
+metadata: review
+header: a_id | u_id | i_id | rating | rank
+
+## high-level question
+What methods can we employ to determine the user who has provided the highest rating and the overall distribution of ratings among users?
+
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the following template:
+Verification: [True if sufficient, else False]
+Final question: [revised question]
+
+[Response]
+Verification: True
+
+Final question: What methods can we employ to determine the user who has provided the highest rating and the overall distribution of ratings among users using the 'review' table?
+
+==
+
+[Idx]: 1-4-generate_high_level_answer
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to generate a high-level, sentence-level answer to the provided question by analyzing the given gold multi-table set.
+
+The answer should be:
+1. Fluent: The answer should be written in natural and grammatically correct language.
+2. Coherent: The answer should be logically structured and easy to follow.
+3. Faithful: The answer should be factually correct and directly derived from the provided tables without containing information not present in the gold table set.
+4. Comprehensive: The answer should fully provide information to answer the question, while avoiding details that are consistent with tabular data yet irrelevant to the given question.
+
+Your goal is to:
+1. Analyze the gold multi-table set and integrate the relevant information to answer the given question.
+2. Use the integrated information to generate a concise and coherent sentence-level answer to the high-level question.
+3. Ensure that your answer is fluent, accurate, and provides a complete response based on the information in the tables.
+
+[User prompt]
+You are provided with a gold multi-table set and a high-level question. Your task is to analyze the tables and generate a fluent, coherent, faithful, and comprehensive sentence-level answer that addresses the given high-level question.
+
+### Gold table set information
+Table #1 information
+metadata: useracct
+full table:
+u_id | name 
+------------
+1    | Helen
+2    | Mark 
+3    | Terry
+4    | Nancy
+5    | Rosie
+6    | Roxi 
+7    | Emily
+Table #2 information
+metadata: review
+full table:
+a_id | u_id | i_id | rating | rank
+----------------------------------
+1    | 1    | 1    | 10     | 1   
+2    | 2    | 1    | 5      | 2   
+3    | 1    | 4    | 7      | 3   
+4    | 2    | 7    | 10     | 7   
+5    | 2    | 5    | 7      | 4   
+6    | 1    | 3    | 5      | 5   
+7    | 2    | 7    | 6      | 6   
+
+### High-level Question:
+What methods can we employ to determine the user who has provided the highest rating and the overall distribution of ratings among users using the 'review' table
+
+[Response]
+To determine the user who has provided the highest rating and the overall distribution of ratings among users using the 'review' table, we can employ the following methods:
+
+1. Calculate the maximum rating given by each user in the 'review' table and identify the user with the highest rating.
+2. Analyze the distribution of ratings among users by aggregating and summarizing the ratings provided by each user to understand the overall distribution of ratings across all users in the table.
+
+==
+
+[Idx]: 1-5-verify_and_modify_generated_question
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to verify if the high-level question can be answered using the metadata and header information of provided gold multi-table set. If the gold table set information are insufficient to answer the question, you must modify or enhance the question to ensure it can be answered using the available metadata.
+
+For each question:
+1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
+2. If the metadata is sufficient, confirm that the question can be answered as-is.
+3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
+4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+
+[User prompt]
+Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
+
+## Gold table set information
+Table #1 information
+metadata: useracct
+header: u_id | name
+
+Table #2 information
+metadata: review
+header: a_id | u_id | i_id | rating | rank
+
+## high-level question
+How can we explore the user base by understanding the proportion of users who have not contributed any reviews, and what their impact is on the overall data set?
+
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+
+Output "must" follow the following template:
+Verification: [True if sufficient, else False]
+Final question: [revised question]
+
+[Response]
+Verification: True
+
+Final question: What is the proportion of users who have not contributed any reviews in the user base described in the provided tables?
+
+==
+
+[Idx]: 1-5-generate_high_level_answer
+[System prompt]
+You are an expert in tabluar data analysis and natural language processing. Your task is to generate a high-level, sentence-level answer to the provided question by analyzing the given gold multi-table set.
+
+The answer should be:
+1. Fluent: The answer should be written in natural and grammatically correct language.
+2. Coherent: The answer should be logically structured and easy to follow.
+3. Faithful: The answer should be factually correct and directly derived from the provided tables without containing information not present in the gold table set.
+4. Comprehensive: The answer should fully provide information to answer the question, while avoiding details that are consistent with tabular data yet irrelevant to the given question.
+
+Your goal is to:
+1. Analyze the gold multi-table set and integrate the relevant information to answer the given question.
+2. Use the integrated information to generate a concise and coherent sentence-level answer to the high-level question.
+3. Ensure that your answer is fluent, accurate, and provides a complete response based on the information in the tables.
+
+[User prompt]
+You are provided with a gold multi-table set and a high-level question. Your task is to analyze the tables and generate a fluent, coherent, faithful, and comprehensive sentence-level answer that addresses the given high-level question.
+
+### Gold table set information
+Table #1 information
+metadata: useracct
+full table:
+u_id | name 
+------------
+1    | Helen
+2    | Mark 
+3    | Terry
+4    | Nancy
+5    | Rosie
+6    | Roxi 
+7    | Emily
+Table #2 information
+metadata: review
+full table:
+a_id | u_id | i_id | rating | rank
+----------------------------------
+1    | 1    | 1    | 10     | 1   
+2    | 2    | 1    | 5      | 2   
+3    | 1    | 4    | 7      | 3   
+4    | 2    | 7    | 10     | 7   
+5    | 2    | 5    | 7      | 4   
+6    | 1    | 3    | 5      | 5   
+7    | 2    | 7    | 6      | 6   
+
+### High-level Question:
+What is the proportion of users who have not contributed any reviews in the user base described in the provided tables
+
+[Response]
+In the user base described in the provided tables, the proportion of users who have not contributed any reviews is 4 out of 7 users, which is approximately 57.14%.
+
+==
+

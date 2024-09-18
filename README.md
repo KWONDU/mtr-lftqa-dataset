@@ -17,8 +17,9 @@
             [file] generate_high_level_questions.txt # step 1 user prompt
             [file] verify_and_modify_generated_question.txt # step 2 user prompt
     [folder] results
-        [file] dataset_statistics.csv
         [file] annotation_result_{ith}.txt # QA pair annotation result
+        [file] dataset_statistics.csv
+        [file] llm_responses.txt # full prompts and responses
     [file] main.py
     [file] requirements.txt # setup file
     [file] util_dill.py

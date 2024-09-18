@@ -2,7 +2,8 @@ Here is question and its corresponding SQL query pairs. Please generate a list o
 
 ## Question and SQL query pairs
 {question_sql_pairs}
-Output "must" follow the next template.
+
+Output "must" follow the following template:
 1. [1st plausible high-level question]
 2. [2nd plausible high-level question]
 3. [3rd plausible high-level question]

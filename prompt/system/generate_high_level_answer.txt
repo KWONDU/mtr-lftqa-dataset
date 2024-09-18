@@ -1,13 +1,12 @@
-You are an expert in data analysis and natural language processing. Your task is to generate a high-level sentence-based answer to the provided question by analyzing the given multi-table dataset. The answer should be:
+You are an expert in tabluar data analysis and natural language processing. Your task is to generate a high-level, sentence-level answer to the provided question by analyzing the given gold multi-table set.
 
+The answer should be:
 1. Fluent: The answer should be written in natural and grammatically correct language.
 2. Coherent: The answer should be logically structured and easy to follow.
-3. Faithful: The answer must be factually accurate and directly derived from the provided tables without introducing information not present in the dataset.
-4. Comprehensive: The answer should fully address the question, covering all relevant aspects from the tables.
+3. Faithful: The answer should be factually correct and directly derived from the provided tables without containing information not present in the gold table set.
+4. Comprehensive: The answer should fully provide information to answer the question, while avoiding details that are consistent with tabular data yet irrelevant to the given question.
 
 Your goal is to:
-1. Analyze the multi-table data and integrate the relevant information.
-2. Use the data to generate a concise and coherent sentence-level answer to the high-level question.
+1. Analyze the gold multi-table set and integrate the relevant information to answer the given question.
+2. Use the integrated information to generate a concise and coherent sentence-level answer to the high-level question.
 3. Ensure that your answer is fluent, accurate, and provides a complete response based on the information in the tables.
-
-If there is insufficient data to fully answer the question, state what assumptions you are making, and provide the best possible answer based on the available information.
