@@ -161,13 +161,13 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-d', type=str, default='MultiTabQA', help='dataset name')
     parser.add_argument('-n', type=int, default=1, help='number of sampled data')
-    parser.add_argument('-k', type=bool, default=True, help='whether add api key')
+    parser.add_argument('-k', type=bool, default=True, help='whether add openai api key')
 
     args, _ = parser.parse_known_args()
     logger.info(args)
 
     if not args.k:
-        your_api_key = ''
+        your_api_key = 'insert_your_openai_api_key'
         from utils.openai import add_openai_api_key
         add_openai_api_key(api_key=your_api_key)
 

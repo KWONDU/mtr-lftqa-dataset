@@ -47,11 +47,16 @@
 
 ## .gitignore
 
+### .gitignore
+
     .gitignore
     *__pycache__
     *.yaml
-    utils/dataset/_class/source
-    utils/openai/_prompt
+
+### utils/.gitignore
+
+    dataset/_class/source
+    openai/_prompt
 
 ## 1. Setup
 
