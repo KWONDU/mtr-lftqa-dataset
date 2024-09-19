@@ -1,56 +1,91 @@
 # Multi-table retrieval + Long-form table QA dataset
 
+## utils package
+
+    utils
+        .dataset
+            .AbstractDataset
+            .add_huggingface_access_token(token) -> token
+            .load_dataset(dataset_name) -> dataset
+            .save_dataset(dataset, dataset_name) -> [pkl_file_list]
+        .format
+            .data_format(data_num, question, sql, sub_table) -> data_visualization
+            .table_format(table_num, metadata, header, cell) -> table_visualization
+        .openai
+            .add_openai_api_key(api_key) -> api_key
+            .get_openai_response(system_prompt, user_prompt, llm='gpt-3.5') -> system_prompt, user_prompt, response
+            .load_prompt(role, task) -> prompt
+            .remove_prompt(role, task) -> bool
+            .save_prompt(file_path, role, task) -> {role: task}
+            .view_prompt_list() -> {role: [task_list], ...}
+
 ## File construction
 
-    [folder] dataset
-        [folder] dump
-            [file] {dataset_name}*.pkl  # source dataset checkpoints
-        [file] dataset_stats.py
-        [file] load_{dataset_name}.py # dataset loader (no need to use directly)
+    [folder] plans
+        [file] step0.py
+        [file] step1.py
+        [file] step2.py
+        [file] step3.py
     [folder] prompt
         [folder] system
-            [file] generate_high_level_answer.txt # step 3 system promt
-            [file] generate_high_level_questions.txt # step 1 system prompt
-            [file] verify_and_modify_generated_question.txt # step 2 system prompt
+            [file] generate_high_level_answer.txt
+            [file] generate_high_level_questions.txt
+            [file] verify_and_modify_generated_question.txt
         [folder] user
-            [file] generate_high_level_answer.txt # step 3 user prompt
-            [file] generate_high_level_questions.txt # step 1 user prompt
-            [file] verify_and_modify_generated_question.txt # step 2 user prompt
+            [file] generate_high_level_answer.txt
+            [file] generate_high_level_questions.txt
+            [file] verify_and_modify_generated_question.txt
     [folder] results
-        [file] annotation_result_{ith}.txt # QA pair annotation result
+        [file] annotation_result_{ith}.txt
         [file] dataset_statistics.csv
-        [file] llm_responses.txt # full prompts and responses
+        [file] llm_responses.txt
+    [package] utils
+    [file] dataset_stats.py
     [file] main.py
-    [file] requirements.txt # setup file
-    [file] util_dill.py
-    [file] util_format.py
-    [file] util_llm.py
-    [file] util.py
+    [file] README.md
+    [file] requirements.txt
 
 ## .gitignore
 
     .gitignore
     *__pycache__
-    dataset/source
-    dataset/huggingface_access_token.yaml
+    *.yaml
+    utils/dataset/_class/source
+    utils/openai/_prompt
 
 ## 1. Setup
 
     pip install -r requirements.txt
 
+### 1.1 Set token/key
+
+    from utils.dataset import add_huggingface_access_token
+    from utils.openai import add_openai_api_key
+
+    add_huggingface_access_token(token=token)
+    add_openai_api_key(api_key=api_key)
+
+### 1.2 Set prompt
+
+    from utils.openai import save_prompt
+
+    for role in ['system', 'user']:
+        for task in ['generate_high_level_questions', 'verify_and_modify_generated_question', 'generate_high_level_answer']:
+            save_prompt(f'prompt/{role}/{task}.txt', role, task)
+
 ## 2. About dataset
 
 ### 2.1 Load dataset
 
-    from util import load_dataset
+    from utils.dataset import load_dataset
 
-    dataset = load_dataset({dataset_name})
+    dataset = load_dataset(dataset_name=dataset_name)
 
 ### 2.2 Dataset configuration
 
     dataset
-        download_type # [str] huggingface or local
-        tables
+        .download_type # [str] huggingface or local
+        .tables
             [
                 {
                     'id': [str] each table's ID
@@ -62,7 +97,7 @@
                 },
                 . . .
             ]
-        dataset.train # about train set
+        .train # about train set
             [
                 {
                     'gold_tables': [list] gold table IDs
@@ -72,9 +107,9 @@
                 },
                 . . .
             ]
-        dataset.validation # about validation set
+        .validation # about validation set
             # DITTO
-        dataset.test    # about test set
+        .test    # about test set
             # DITTO
 
     print(dataset) # return dataset name

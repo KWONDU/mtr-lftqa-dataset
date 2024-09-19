@@ -1,13 +1,15 @@
+import argparse
 import logging
 import random
 from collections import defaultdict
 from tqdm import tqdm
-from utils.util import load_dataset, parser
+from utils.dataset import load_dataset
+from utils.openai import save_prompt
 
-from steps.step1 import display_data, display_table
-from steps.step2 import generate_high_level_questions
-from steps.step3 import verify_and_modify_generated_question
-from steps.step4 import generate_high_level_answer
+from plans.step0 import display_data, display_table
+from plans.step1 import generate_high_level_questions
+from plans.step2 import verify_and_modify_generated_question
+from plans.step3 import generate_high_level_answer
 
 
 def extract_multi_table_data_pairs(table_lake, dataset):
@@ -46,6 +48,11 @@ def main(dataset_name, sample_n):
 
     # Initialize LLM response buffer
     llm_response_buffer = defaultdict(list)
+
+    # save prompt
+    for role in ['system', 'user']:
+        for task in ['generate_high_level_questions', 'verify_and_modify_generated_question', 'generate_high_level_answer']:
+            save_prompt(f'prompt/{role}/{task}.txt', role, task)
 
     # Sample data
     random.seed(42) # fix sampled data
@@ -147,17 +154,22 @@ def main(dataset_name, sample_n):
 
 
 if __name__ == '__main__':
-    import os
-    import sys
-    sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
     logger.addHandler(logging.StreamHandler())
 
-    parser = parser()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-d', type=str, default='MultiTabQA', help='dataset name')
+    parser.add_argument('-n', type=int, default=1, help='number of sampled data')
+    parser.add_argument('-k', type=bool, default=True, help='whether add api key')
+
     args, _ = parser.parse_known_args()
     logger.info(args)
+
+    if not args.k:
+        your_api_key = ''
+        from utils.openai import add_openai_api_key
+        add_openai_api_key(api_key=your_api_key)
 
     main(
         dataset_name = args.d,
