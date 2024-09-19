@@ -6,7 +6,7 @@ Here is a high-level question, along with the metadata and headers of the gold t
 ## high-level question
 {generated_question}
 
-Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers. Eusure that the revised question "must" be in the imperative form.
 
 Output "must" follow the following template:
 Verification: [True if sufficient, else False]

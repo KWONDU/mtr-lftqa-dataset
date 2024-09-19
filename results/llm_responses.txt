@@ -49,11 +49,11 @@ Output "must" follow the following template:
 5. [5th plausible high-level question]
 
 [Response]
-1. How can user engagement be analyzed based on the frequency and quality of reviews left by each user in the dataset?
-2. What insights can be gained by examining the behavior of users who have not contributed any reviews within the given data set?
-3. In what ways can the top contributors in terms of review volume and average rating be identified and recognized within the user community?
-4. How can the user participation and feedback distribution be visualized and compared across different user segments using the provided user and review data?
-5. What patterns and trends can be uncovered by exploring the distribution of ratings and reviews among users in the dataset, particularly focusing on extreme cases of high or low engagement?
+1. How can we obtain insights into user engagement by identifying those users who have not submitted any reviews?
+2. What methodology can we apply to identify the user who has contributed the most reviews in the dataset?
+3. Is it possible to analyze and compare user performance based on the average ratings they have given in their reviews?
+4. How can we understand user activity by examining the count of reviews each user has written?
+5. By analyzing user behavior, how can we determine which user has given the highest rating in the dataset?
 
 ==
 
@@ -65,7 +65,9 @@ For each question:
 1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
 2. If the metadata is sufficient, confirm that the question can be answered as-is.
 3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
-4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+4. Ensure that the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+5. Eusure that the revised question must be in the imperative form.
+6. Ensure that the revised question must contain asking analysis or reason.
 
 [User prompt]
 Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
@@ -80,17 +82,18 @@ metadata: review
 header: a_id | u_id | i_id | rating | rank
 
 ## high-level question
-How can user engagement be analyzed based on the frequency and quality of reviews left by each user in the dataset?
+How can we obtain insights into user engagement by identifying those users who have not submitted any reviews?
 
-Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers. Eusure that the revised question "must" be in the imperative form.
 
 Output "must" follow the following template:
 Verification: [True if sufficient, else False]
 Final question: [revised question]
 
 [Response]
-Verification: False
-Final question: What is the frequency and average rating of reviews left by each user in the dataset?
+Verification: True
+
+Final question: Identify the users who have not submitted any reviews.
 
 ==
 
@@ -139,17 +142,12 @@ a_id | u_id | i_id | rating | rank
 7    | 2    | 7    | 6      | 6   
 
 ### High-level Question:
-What is the frequency and average rating of reviews left by each user in the dataset
+Identify the users who have not submitted any reviews
+
+Output "must" be natural language sentence(s).
 
 [Response]
-The frequency and average rating of reviews left by each user in the dataset are as follows:
-- Helen (u_id 1) has left 3 reviews with an average rating of 7.3.
-- Mark (u_id 2) has left 4 reviews with an average rating of 7.
-- Terry (u_id 3) has left 1 review with a rating of 5.
-- Nancy (u_id 4) has left 1 review with a rating of 7.
-- Rosie (u_id 5) has left 1 review with a rating of 7.
-- Roxi (u_id 6) has not left any reviews.
-- Emily (u_id 7) has left 2 reviews with an average rating of 8.
+The users who have not submitted any reviews are Terry, Rosie, Roxi, and Emily.
 
 ==
 
@@ -161,7 +159,9 @@ For each question:
 1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
 2. If the metadata is sufficient, confirm that the question can be answered as-is.
 3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
-4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+4. Ensure that the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+5. Eusure that the revised question must be in the imperative form.
+6. Ensure that the revised question must contain asking analysis or reason.
 
 [User prompt]
 Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
@@ -176,17 +176,18 @@ metadata: review
 header: a_id | u_id | i_id | rating | rank
 
 ## high-level question
-What insights can be gained by examining the behavior of users who have not contributed any reviews within the given data set?
+What methodology can we apply to identify the user who has contributed the most reviews in the dataset?
 
-Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers. Eusure that the revised question "must" be in the imperative form.
 
 Output "must" follow the following template:
 Verification: [True if sufficient, else False]
 Final question: [revised question]
 
 [Response]
-Verification: False
-Final question: What are the names of users who have not contributed any reviews within the given data set?
+Verification: True
+
+Final question: Identify the user who has contributed the most reviews in the dataset.
 
 ==
 
@@ -235,10 +236,12 @@ a_id | u_id | i_id | rating | rank
 7    | 2    | 7    | 6      | 6   
 
 ### High-level Question:
-What are the names of users who have not contributed any reviews within the given data set
+Identify the user who has contributed the most reviews in the dataset
+
+Output "must" be natural language sentence(s).
 
 [Response]
-The users who have not contributed any reviews within the given data set are Terry, Nancy, Rosie, and Emily.
+Helen is the user who has contributed the most reviews in the dataset, with a total of three reviews submitted.
 
 ==
 
@@ -250,7 +253,9 @@ For each question:
 1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
 2. If the metadata is sufficient, confirm that the question can be answered as-is.
 3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
-4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+4. Ensure that the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+5. Eusure that the revised question must be in the imperative form.
+6. Ensure that the revised question must contain asking analysis or reason.
 
 [User prompt]
 Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
@@ -265,9 +270,9 @@ metadata: review
 header: a_id | u_id | i_id | rating | rank
 
 ## high-level question
-In what ways can the top contributors in terms of review volume and average rating be identified and recognized within the user community?
+Is it possible to analyze and compare user performance based on the average ratings they have given in their reviews?
 
-Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers. Eusure that the revised question "must" be in the imperative form.
 
 Output "must" follow the following template:
 Verification: [True if sufficient, else False]
@@ -275,7 +280,7 @@ Final question: [revised question]
 
 [Response]
 Verification: False
-Final question: Among the users in the community, how can we identify the top contributors based on the number of reviews they have provided and their average rating given?
+Final question: Calculate the average rating given by each user in the reviews table and compare their performance based on these average ratings.
 
 ==
 
@@ -324,10 +329,12 @@ a_id | u_id | i_id | rating | rank
 7    | 2    | 7    | 6      | 6   
 
 ### High-level Question:
-Among the users in the community, how can we identify the top contributors based on the number of reviews they have provided and their average rating given
+Calculate the average rating given by each user in the reviews table and compare their performance based on these average ratings
+
+Output "must" be natural language sentence(s).
 
 [Response]
-To identify the top contributors in the community based on the number of reviews they have provided and their average rating given, we can analyze the "review" table. The top contributors can be determined by looking at the total number of reviews each user has given and calculating the average rating they provided. This information can help in identifying users who actively contribute with a high average rating across their reviews.
+Helen's average rating based on her reviews is 7.33, while Mark's average rating is 6.00. By comparing their performance through these average ratings, Helen appears to have a higher average rating compared to Mark in the reviews table.
 
 ==
 
@@ -339,7 +346,9 @@ For each question:
 1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
 2. If the metadata is sufficient, confirm that the question can be answered as-is.
 3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
-4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+4. Ensure that the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+5. Eusure that the revised question must be in the imperative form.
+6. Ensure that the revised question must contain asking analysis or reason.
 
 [User prompt]
 Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
@@ -354,17 +363,18 @@ metadata: review
 header: a_id | u_id | i_id | rating | rank
 
 ## high-level question
-How can the user participation and feedback distribution be visualized and compared across different user segments using the provided user and review data?
+How can we understand user activity by examining the count of reviews each user has written?
 
-Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers. Eusure that the revised question "must" be in the imperative form.
 
 Output "must" follow the following template:
 Verification: [True if sufficient, else False]
 Final question: [revised question]
 
 [Response]
-Verification: False
-Final question: What is the distribution of ratings given by users across different items (i_id) based on the review data available in the tables?
+Verification: True
+
+Final question: Calculate the count of reviews each user has written based on the provided tables.
 
 ==
 
@@ -413,10 +423,12 @@ a_id | u_id | i_id | rating | rank
 7    | 2    | 7    | 6      | 6   
 
 ### High-level Question:
-What is the distribution of ratings given by users across different items (i_id) based on the review data available in the tables
+Calculate the count of reviews each user has written based on the provided tables
+
+Output "must" be natural language sentence(s).
 
 [Response]
-The distribution of ratings given by users across different items (i_id) based on the review data available in the tables shows that for item 1, user Helen gave a rating of 10 and user Mark gave a rating of 5; for item 4, Helen rated it as 7; for item 7, Mark rated it 6 and user Nancy was ranked 7.
+Helen has written 3 reviews, Mark has written 3 reviews, and Emily has written 1 review based on the information from the tables provided.
 
 ==
 
@@ -428,7 +440,9 @@ For each question:
 1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
 2. If the metadata is sufficient, confirm that the question can be answered as-is.
 3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
-4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+4. Ensure that the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+5. Eusure that the revised question must be in the imperative form.
+6. Ensure that the revised question must contain asking analysis or reason.
 
 [User prompt]
 Here is a high-level question, along with the metadata and headers of the gold table set. Please verify if the metadata and headers provide sufficient information to answer the question. If not, modify the question accordingly.
@@ -443,9 +457,9 @@ metadata: review
 header: a_id | u_id | i_id | rating | rank
 
 ## high-level question
-What patterns and trends can be uncovered by exploring the distribution of ratings and reviews among users in the dataset, particularly focusing on extreme cases of high or low engagement?
+By analyzing user behavior, how can we determine which user has given the highest rating in the dataset?
 
-Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers.
+Verify if the metadata and headers are sufficient to answer the question. If the metadata is insufficient, provide a revised question that can be answered using the available table metadata and headers. Eusure that the revised question "must" be in the imperative form.
 
 Output "must" follow the following template:
 Verification: [True if sufficient, else False]
@@ -454,7 +468,7 @@ Final question: [revised question]
 [Response]
 Verification: True
 
-Final question: What are the distributions of ratings and reviews among users in the dataset, focusing on extreme cases of high and low engagement?
+Final question: Identify the user who has given the highest rating in the dataset.
 
 ==
 
@@ -503,10 +517,12 @@ a_id | u_id | i_id | rating | rank
 7    | 2    | 7    | 6      | 6   
 
 ### High-level Question:
-What are the distributions of ratings and reviews among users in the dataset, focusing on extreme cases of high and low engagement
+Identify the user who has given the highest rating in the dataset
+
+Output "must" be natural language sentence(s).
 
 [Response]
-The distribution of ratings and reviews among users in the dataset shows that some users exhibit high engagement while others show low engagement. For high engagement, user Helen stands out with a top rating of 10 for item 1 and a ranking of 1, indicating high satisfaction. On the other hand, for low engagement, user Mark gave a rating of 5 for item 2 and a ranking of 2, suggesting moderate satisfaction.
+Helen is the user who has given the highest rating in the dataset, with a rating of 10 for item 1.
 
 ==
 

@@ -4,4 +4,6 @@ For each question:
 1. Analyze the metadata and headers of gold table set to determine if they contain sufficient information to answer the question.
 2. If the metadata is sufficient, confirm that the question can be answered as-is.
 3. If the metadata is insufficient, modify the question to match the available table metadata and headers, ensuring the revised question is relevant and answerable with the provided tabular data.
-4. Ensure the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+4. Ensure that the revised question maintains the intent of the original but is adjusted based on the available metadata and headers.
+5. Eusure that the revised question must be in the imperative form.
+6. Ensure that the revised question must contain asking analysis or reason.
