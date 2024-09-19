@@ -8,9 +8,9 @@ if __name__ == '__main__':
     dataset_list = [
         ('Spider', 'text-to-SQL', 'Online, DB, WikiSQL'),
         ('WikiSQL', 'text-to-SQL', 'Wikipedia'),
+        ('QTSumm', 'table-to-text', 'LogicNLG, ToTTo'),
         ('MultiTabQA', 'table QA', 'Spider, GEOquery, ATIS'),
         ('FeTaQA', 'table QA', 'ToTTo'),
-        ('QTSumm', 'table QA', 'LogicNLG, ToTTo'),
         ('Open-WikiTable', 'open-domain table QA', 'WikiSQL, WikiTableQuestions'),
         ('TabFact', 'table-based fact verification', 'Wikipedia')
         ]

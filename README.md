@@ -1,6 +1,6 @@
 # Multi-table retrieval + Long-form table QA dataset
 
-## utils package
+## Package 'utils'
 
     utils
         .dataset
@@ -62,7 +62,7 @@
 
     pip install -r requirements.txt
 
-### 1.1 Set token/key
+### 1.1 Setup token/key
 
     from utils.dataset import add_huggingface_access_token
     from utils.openai import add_openai_api_key
@@ -70,7 +70,7 @@
     add_huggingface_access_token(token=token)
     add_openai_api_key(api_key=api_key)
 
-### 1.2 Set prompt
+### 1.2 Setup prompt
 
     from utils.openai import save_prompt
 
@@ -120,3 +120,10 @@
     print(dataset) # return dataset name
     print(dataset[i]) # return i'th data; train, validation, test set in order
     print(len(dataset)) # return total dataset size
+
+## 3. python3 main.py
+
+    python3 main.py \
+        -d {dataset_name, default: MultiTabQA}
+        -n {number_of_sampled_data, default: 1}
+        -k {whether add openai api key, default: True}

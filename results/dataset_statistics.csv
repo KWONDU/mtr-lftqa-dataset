@@ -1,9 +1,9 @@
 dataset name,dataset type,dataset size,# of unique tables,# of table per data,answer type,source data
 Spider,text-to-SQL,8033,876,1.54,SQL,"Online, DB, WikiSQL"
 WikiSQL,text-to-SQL,80654,26531,1.00,SQL,Wikipedia
+QTSumm,table-to-text,7111,2934,1.00,sentence,"LogicNLG, ToTTo"
 MultiTabQA,table QA,9047,589,1.53,"('SQL', 'table')","Spider, GEOquery, ATIS"
 FeTaQA,table QA,10330,10330,1.00,sentence,ToTTo
-QTSumm,table QA,7111,2934,1.00,sentence,"LogicNLG, ToTTo"
 Open-WikiTable,open-domain table QA,67023,24680,1.00,"('word', 'SQL')","WikiSQL, WikiTableQuestions"
 TabFact,table-based fact verification,117854,16573,1.00,"('sentence', 'T/F')",Wikipedia
 Our dataset,open-domain table QA,...,...,> 2,sentence,"MultiTabQA, ..."
