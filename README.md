@@ -121,7 +121,7 @@
     print(dataset[i]) # return i'th data; train, validation, test set in order
     print(len(dataset)) # return total dataset size
 
-## 3. Run main
+## 3. Run 'main'
 
     python3 main.py \
         -d {dataset_name, default: MultiTabQA}
@@ -130,5 +130,6 @@
 
 ### 3.1 Results
 
-    annotation_result_{ith}.txt
-    llm_responses.txt
+    results
+        annotation_result_{ith}.txt
+        llm_responses.txt
