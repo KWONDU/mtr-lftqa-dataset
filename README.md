@@ -22,10 +22,10 @@
 ## File construction
 
     [folder] plans
-        [file] step0.py
-        [file] step1.py
-        [file] step2.py
-        [file] step3.py
+        [file] step0.py # display tables and dataset information
+        [file] step1.py # generate high-level questions
+        [file] step2.py # verify and modify each generated question
+        [file] step3.py # generate high-level answer
     [folder] prompt
         [folder] system
             [file] generate_high_level_answer.txt
@@ -46,8 +46,6 @@
     [file] requirements.txt
 
 ## .gitignore
-
-### .gitignore
 
     .gitignore
     *__pycache__
