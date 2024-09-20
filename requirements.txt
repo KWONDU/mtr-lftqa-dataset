@@ -1,8 +1,11 @@
+asyncio
 datasets
 dill
 huggingface_hub
 huggingface_hub[cli]
 jsonlines
+langchain
+langchain-openai
 openai
 PyYAML
 tqdm

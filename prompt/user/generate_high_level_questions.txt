@@ -1,7 +1,7 @@
 Here is question and its corresponding SQL query pairs. Please generate a list of most plausible high-level questions.
 
 ## Question and SQL query pairs
-{question_sql_pairs}
+{question_sql_extension_pairs}
 
 Output "must" follow the following template:
 1. [1st plausible high-level question]

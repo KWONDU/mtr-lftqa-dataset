@@ -13,7 +13,15 @@
             .table_format(table_num, metadata, header, cell) -> table_visualization
         .openai
             .add_openai_api_key(api_key) -> api_key
-            .get_openai_response(system_prompt, user_prompt, llm='gpt-3.5') -> system_prompt, user_prompt, response
+            .get_async_openai_response(system_prompt, user_prompt, model_name)
+                -> Dict(
+                    'system_prompt',
+                    'user_prompt',
+                    'response',
+                    'input_tokens_cost',
+                    'output_tokens_cost'
+                )
+            .load_llm(model_name) -> llm
             .load_prompt(role, task) -> prompt
             .remove_prompt(role, task) -> bool
             .save_prompt(file_path, role, task) -> {role: task}
@@ -36,9 +44,10 @@
             [file] generate_high_level_questions.txt
             [file] verify_and_modify_generated_question.txt
     [folder] results
-        [file] annotation_result_{ith}.txt
+        [folder] annotation
+            [file] {gold_table_set_idx}-{qa_pair_idx}.txt
         [file] dataset_statistics.csv
-        [file] llm_responses.txt
+        [file] llm.json
     [package] utils
     [file] dataset_stats.py
     [file] main.py
@@ -124,10 +133,9 @@
     python3 main.py \
         -d {dataset_name, default: MultiTabQA}
         -n {number_of_sampled_data, default: 1}
-        -k {whether add openai api key, default: True}
 
 ### 3.1 Results
 
     results
-        annotation_result_{ith}.txt
-        llm_responses.txt
+        annotation
+            {gold_table_set_idx}-{qa_pair_idx}.txt

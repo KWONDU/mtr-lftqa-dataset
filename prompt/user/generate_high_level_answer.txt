@@ -6,4 +6,4 @@ You are provided with a gold multi-table set and a high-level question. Your tas
 ### High-level Question:
 {high_level_question}
 
-Output "must" be natural language sentence(s).
+Output "must" be natural language sentence(s). Let's think step by step.

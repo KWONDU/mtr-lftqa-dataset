@@ -1,4 +1,5 @@
 import os
 
 
-current_dir = os.path.dirname(os.path.abspath(__file__))
+if __name__ == 'utils.dataset._dir':
+    current_dir = os.path.dirname(os.path.abspath(__file__))

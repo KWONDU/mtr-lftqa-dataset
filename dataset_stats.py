@@ -8,9 +8,12 @@ if __name__ == '__main__':
     dataset_list = [
         ('Spider', 'text-to-SQL', 'Online, DB, WikiSQL'),
         ('WikiSQL', 'text-to-SQL', 'Wikipedia'),
+        ('ToTTo', 'table-to-text', 'Wikipedia'),
         ('QTSumm', 'table-to-text', 'LogicNLG, ToTTo'),
         ('MultiTabQA', 'table QA', 'Spider, GEOquery, ATIS'),
+        ('WikiTableQuestions', 'table QA', 'Wikipedia'),
         ('FeTaQA', 'table QA', 'ToTTo'),
+        ('NQ-tables', 'open-domain table QA', 'Wikipedia'),
         ('Open-WikiTable', 'open-domain table QA', 'WikiSQL, WikiTableQuestions'),
         ('TabFact', 'table-based fact verification', 'Wikipedia')
         ]
@@ -30,6 +33,7 @@ if __name__ == '__main__':
         try:
             dataset = load_dataset(dataset_name=dataset_name)
             if not dataset:
+                # Forced access to private data
                 module = importlib.import_module('utils.dataset._class')
                 dataset_class = getattr(module, f"{dataset_name.replace('-', '')}Dataset") # remove '-'
                 dataset = dataset_class()

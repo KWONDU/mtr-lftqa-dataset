@@ -1,28 +1,47 @@
+from tqdm.asyncio import tqdm_asyncio
 from utils.format import table_format
-from utils.openai import load_prompt, get_openai_response
+from utils.openai import load_prompt, get_async_openai_response
 
 
-def generate_high_level_answer(idx, jdx, table_dict, gold_table_set, high_level_question, llm_response_buffer):
-    tables_info = "\n".join((table_format(
-        table_num=table_idx+1,
-        metadata=table_dict[gold_table_id]['metadata'],
-        header=table_dict[gold_table_id]['header'],
-        cell=table_dict[gold_table_id]['cell']
-    )) for table_idx, gold_table_id in enumerate(gold_table_set))
+async def generate_high_level_answer(model_input, model_name):
+    tasks = [
+        get_async_openai_response(
+            system_prompt=load_prompt(role='system', task='generate_high_level_answer'),
+            user_prompt=load_prompt(
+                role='user',
+                task='generate_high_level_answer'
+            ).format(
+                tables_info="\n".join(table_format(
+                    table_num=idx+1,
+                    metadata=table_info['metadata'],
+                        header=table_info['header'],
+                        cell=table_info['cell'],
+                        serialize=True
+                        ) for table_info in input_data['tables_info']
+                    ),
+                high_level_question=input_data['high_level_question']
+            ),
+            model_name=model_name
+        ) for idx, input_data in enumerate(model_input)
+    ]
 
-    system_prompt, user_prompt, response = get_openai_response(
-        system_prompt=load_prompt(task='generate_high_level_answer', role='system'),
-        user_prompt=load_prompt(task='generate_high_level_answer', role='user').format(
-            tables_info=tables_info,
-            high_level_question=high_level_question
-            )
-    )
+    model_output_list = await tqdm_asyncio.gather(*tasks)
 
-    high_level_answer = response.strip()
+    generate_high_level_answer_task_output = {
+        'system_prompt': [model_output['system_prompt'] for model_output in model_output_list],
+        'user_prompt': [model_output['user_prompt'] for model_output in model_output_list],
+        'response': [model_output['response'] for model_output in model_output_list],
+    }
+
+    generated_answer_list = [
+        model_output['response'].strip()
+        for model_output in model_output_list
+    ]
+
+    cost = sum(
+            [model_output['input_tokens_cost'] for model_output in model_output_list]
+        ) + sum(
+            [model_output['output_tokens_cost'] for model_output in model_output_list]
+        )
     
-    llm_response_buffer['idx'].append(f"{idx+1}-{jdx+1}-generate_high_level_answer\n")
-    llm_response_buffer['system_prompt'].append(system_prompt)
-    llm_response_buffer['user_prompt'].append(user_prompt)
-    llm_response_buffer['response'].append(response)
-
-    return high_level_answer, llm_response_buffer
+    return generate_high_level_answer_task_output, generated_answer_list, cost
