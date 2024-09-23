@@ -1,11 +1,11 @@
 import os
-from .add_openai_api_key import add_openai_api_key
-from .get_async_openai_response import get_async_openai_response
-from .load_llm import load_llm
-from .load_prompt import load_prompt
-from .remove_prompt import remove_prompt
-from .save_prompt import save_prompt
-from .view_prompt_list import view_prompt_list
+from ._add_openai_api_key import add_openai_api_key
+from ._get_async_openai_response import get_async_openai_response
+from ._load_llm import load_llm
+from ._load_prompt import load_prompt
+from ._remove_prompt import remove_prompt
+from ._save_prompt import save_prompt
+from ._view_prompt_list import view_prompt_list
 
 
 if __name__ == 'utils.openai.__init__':

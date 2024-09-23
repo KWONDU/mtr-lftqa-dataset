@@ -1,102 +1,61 @@
 [Gold table set information]
 Table #1 information
-metadata: useracct
+metadata: wedding | people
 full table:
-u_id | name 
-------------
-1    | Helen
-2    | Mark 
-3    | Terry
-4    | Nancy
-5    | Rosie
-6    | Roxi 
-7    | Emily
+People_ID | Name            | Country          | Is_Male | Age
+--------------------------------------------------------------
+1         | Mike Weir       | Canada           | T       | 34 
+2         | Juli Hanson     | Sweden           | F       | 32 
+3         | Ricky Barnes    | United States    | T       | 30 
+4         | Summer Duval    | United States    | F       | 30 
+5         | Todd Hamilton   | United States    | T       | 27 
+6         | Annie Mediate   | United States    | F       | 26 
+7         | Lucas Glover    | United States    | T       | 31 
+8         | Joe O'Hair      | United States    | F       | 31 
+9         | Graeme McDowell | Northern Ireland | T       | 34 
+10        | Jamie Mickelson | United States    | F       | 36 
+11        | Adam Scott      | Australia        | T       | 26 
+12        | Danny Toms      | United States    | F       | 25 
 
 Table #2 information
-metadata: review
+metadata: wedding | wedding
 full table:
-a_id | u_id | i_id | rating | rank
-----------------------------------
-1    | 1    | 1    | 10     | 1   
-2    | 2    | 1    | 5      | 2   
-3    | 1    | 4    | 7      | 3   
-4    | 2    | 7    | 10     | 7   
-5    | 2    | 5    | 7      | 4   
-6    | 1    | 3    | 5      | 5   
-7    | 2    | 7    | 6      | 6   
+Church_ID | Male_ID | Female_ID | Year
+--------------------------------------
+1         | 1       | 2         | 2014
+3         | 3       | 4         | 2015
+5         | 5       | 6         | 2016
+4         | 7       | 8         | 2016
+
+Table #3 information
+metadata: wedding | church
+full table:
+Church_ID | Name                                               | Organized_by     | Open_Date | Continuation_of                            
+-------------------------------------------------------------------------------------------------------------------------------------------
+1         | Pure Church of Christ                              | Wycam Clark      | 1831      | Church of Christ                           
+2         | Independent Church                                 | â Hoton        | 1832      | Church of Christ                           
+3         | Church of Christ                                   | Ezra Booth       | 1836      | Church of the Latter Day Saints            
+4         | Church of Christ (Parrishite)                      | Warren Parrish   | 1837      | Church of the Latter Day Saints            
+5         | Alston Church                                      | Isaac Russell    | 1839      | Church of Jesus Christ of Latter Day Saints
+6         | Church of Christ                                   | William Chubby   | 1830      | Church of Jesus Christ of Latter Day Saints
+7         | Church of Jesus Christ, the Bride, the Lamb's Wife | George M. Hinkle | 1840      | Church of Jesus Christ of Latter Day Saints
+8         | Church of Christ                                   | Hiram Page       | 1842      | Church of Jesus Christ of Latter Day Saints
+9         | True Church of Jesus Christ of Latter Day Saints   | William Law      | 1844      | Church of Jesus Christ of Latter Day Saints
 
 [Data set information]
 Data #1 information
-question: Find the names of users who did not leave any review.
-SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
+SQL query: SELECT T4.name FROM wedding AS T1 JOIN people AS T2 ON T1.male_id  =  T2.people_id JOIN people AS T3 ON T1.female_id  =  T3.people_id JOIN church AS T4 ON T4.church_id  =  T1.church_id WHERE T2.age  >  30 OR T3.age  >  30
 SQL extraction:
-name 
------
-Terry
-Nancy
-Rosie
-Roxi 
-Emily
-
-Data #2 information
-question: Find the name of the user who gives the most reviews.
-SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id ORDER BY count(*) DESC LIMIT 1
-SQL extraction:
-name
-----
-Mark
-
-Data #3 information
-question: For each user, return the name and the average rating of reviews given by them.
-SQL query: SELECT T1.name ,  avg(T2.rating) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
-SQL extraction:
-name  | avg(T2.rating)
-----------------------
-Helen | 7.3333333333  
-Mark  | 7.0           
-
-Data #4 information
-question: For each user, find their name and the number of reviews written by them.
-SQL query: SELECT T1.name ,  count(*) FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id GROUP BY T2.u_id
-SQL extraction:
-name  | count(*)
-----------------
-Helen | 3       
-Mark  | 4       
-
-Data #5 information
-question: Find the name of the user who gave the highest rating.
-SQL query: SELECT T1.name FROM useracct AS T1 JOIN review AS T2 ON T1.u_id  =  T2.u_id ORDER BY T2.rating DESC LIMIT 1
-SQL extraction:
-name 
------
-Helen
-
-Data #6 information
-question: Find the names of users who did not leave any review.
-SQL query: SELECT name FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
-SQL extraction:
-name 
------
-Terry
-Nancy
-Rosie
-Roxi 
-Emily
-
-Data #7 information
-question: Find the number of users who did not write any review.
-SQL query: SELECT count(*) FROM useracct WHERE u_id NOT IN (SELECT u_id FROM review)
-SQL extraction:
-count(*)
---------
-5       
+Name                         
+-----------------------------
+Pure Church of Christ        
+Church of Christ (Parrishite)
 
 [Generated question]
-How can we retrieve the average rating of reviews given by each user along with their names?
+Can we identify any patterns in the selection of churches for weddings based on the age of the individuals getting married?
 
-[Verification / Modified question]
-[True] Calculate the average rating of reviews given by each user and include their names in the output.
+[Verification / Filtered question]
+[True] Can we identify any patterns in the selection of churches for weddings based on the age of the individuals getting married?
 
 [Generated answer]
-The average rating of reviews given by each user is as follows: Helen has an average rating of 7.3, Mark has an average rating of 6, Terry has an average rating of 5, Nancy has an average rating of 7, and Emily has an average rating of 6.5.
+Based on the provided tables, we can identify a pattern in the selection of courses taught by teachers based on their ages. Younger teachers, such as Vicente Carretero at 26 years old and Gustaaf Deloor at 29 years old, tend to teach higher grade courses like Grade 3 and Grade 5, while older teachers like Kearsley Brown at 45 years old teach lower grade courses such as Grade 1 and Grade 7. This pattern suggests a correlation between teacher age and the grade level of courses they teach, which could be indicative of experience and expertise influencing course assignments.

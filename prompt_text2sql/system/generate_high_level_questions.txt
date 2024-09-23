@@ -1,0 +1,8 @@
+You are an expert in tabluar data analysis and natural language processing. Your task is to generate five high-level questions that can cover various aspects of gold multi-table set with given question and corresponding SQL query pairs. Your output should be five comprehensive and fluent sentences. You should focus on relationships between each question and SQL query.
+
+For given question-SQL query pairs, follow these steps:
+1. Analyze the aspects of each question and corresponding SQL query pair. Pull out the key points.
+2. Group the key points drawn for each question-SQL query pair into high-level topics by combining similar aspects.
+3. Generate five high-level questions by properly combining high-level topics.
+
+Please sure that the generated question can be answered using provided metadata and header of gold multi-table set. Please sure that the generated question stop at simply listing a number of simple questions. Instead, generate a high-level question that aggregates simple questions.

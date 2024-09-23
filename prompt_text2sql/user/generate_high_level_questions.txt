@@ -1,0 +1,14 @@
+You are provided with a gold multi-table metadata, header set and corresponding question-SQL query(extension) pairs. Your task is to generate a list of most plausible high-level, comprehensive, and fluent questions.
+
+### Gold multi-table set information
+{tables_metadata_header_info}
+
+### Question-SQL query(extension) pairs
+{question_sql_query_extension_pairs}
+
+Output "must" follow the following template:
+1. [1st plausible high-level question]
+2. [2nd plausible high-level question]
+3. [3rd plausible high-level question]
+4. [4th plausible high-level question]
+5. [5th plausible high-level question]

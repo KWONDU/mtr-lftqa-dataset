@@ -9,8 +9,8 @@
             .load_dataset(dataset_name) -> dataset
             .save_dataset(dataset, dataset_name) -> [pkl_file_list]
         .format
-            .data_format(data_num, question, sql, sub_table) -> data_visualization
-            .table_format(table_num, metadata, header, cell) -> table_visualization
+            .data_format(data_num, question, sql, sub_table, serialize=False) -> data_visualization (data_serialization)
+            .table_format(table_num, metadata, header, cell, serialize=False) -> table_visualization (table_serialization)
         .openai
             .add_openai_api_key(api_key) -> api_key
             .get_async_openai_response(system_prompt, user_prompt, model_name)
@@ -31,21 +31,21 @@
 
     [folder] plans
         [file] step0.py # display tables and dataset information
-        [file] step1.py # generate high-level questions
-        [file] step2.py # verify and modify each generated question
-        [file] step3.py # generate high-level answer
-    [folder] prompt
+        [file] step1_text2sql.py # generate high-level questions
+        [file] step2_text2sql.py # filter each generated question
+        [file] step3_text2sql.py # generate high-level answer
+    [folder] prompt_text2sql
         [folder] system
+            [file] filter_each_generated_question.txt
             [file] generate_high_level_answer.txt
             [file] generate_high_level_questions.txt
-            [file] verify_and_modify_generated_question.txt
         [folder] user
+            [file] filter_each_generated_question.txt
             [file] generate_high_level_answer.txt
             [file] generate_high_level_questions.txt
-            [file] verify_and_modify_generated_question.txt
     [folder] results
         [folder] annotation
-            [file] {gold_table_set_idx}-{qa_pair_idx}.txt
+            [file] {gold_table_set_index}-{qa_pair_index}.txt
         [file] dataset_statistics.csv
         [file] llm.json
     [package] utils
@@ -82,7 +82,7 @@
     from utils.openai import save_prompt
 
     for role in ['system', 'user']:
-        for task in ['generate_high_level_questions', 'verify_and_modify_generated_question', 'generate_high_level_answer']:
+        for task in ['generate_high_level_questions', 'filter_each_generated_question', 'generate_high_level_answer']:
             save_prompt(f'prompt/{role}/{task}.txt', role, task)
 
 ## 2. About dataset
@@ -93,9 +93,49 @@
 
     dataset = load_dataset(dataset_name=dataset_name)
 
-### 2.2 Dataset configuration
+### 2.3 Source dataset configuration
 
-    dataset
+    source_dataset
+        .tables
+            [
+                {
+                    'id': [str] each table's ID
+                    'metadata': [str] each table's metadata
+                    'metadata_info': [str] metadata configuration process
+                    'header': [list] each table's header
+                    'cell': [2d list] each table's cells
+                },
+                . . .
+            ]
+        .train # about train set
+            [
+                {
+                    'gold_table_id_set': [list] gold table IDs
+                    'data_list': [
+                        {
+                            question': [str] text2sql
+                            'sql_query': [str] text2sql
+                            'sql_extraction': [2d list] text2sql
+                            'sentence': [str] table2text
+                        },
+                        . . .
+                    ]
+                },
+                . . .
+            ]
+        .validation # about validation set
+            # DITTO
+        .test    # about test set
+            # DITTO
+    
+    print(source_dataset) # return source dataset name
+    print(source_dataset[i / i:j]) # return i'th / (i ~ j-1)'th data; train, validation, test set in order
+    print(len(source_dataset)) # return total source dataset size
+
+
+### 2.3 Original dataset configuration (Don't need to use)
+
+    original_dataset
         .download_type # [str] huggingface or local
         .tables
             [
@@ -124,18 +164,18 @@
         .test    # about test set
             # DITTO
 
-    print(dataset) # return dataset name
-    print(dataset[i]) # return i'th data; train, validation, test set in order
-    print(len(dataset)) # return total dataset size
+    print(original_dataset) # return original dataset name
+    print(original_dataset[i / i:j]) # return i'th / (i ~ j-1)'th data; train, validation, test set in order
+    print(len(original_dataset)) # return total original dataset size
 
 ## 3. Run 'main'
 
     python3 main.py \
-        -d {dataset_name, default: MultiTabQA}
-        -n {number_of_sampled_data, default: 1}
+        -d {source_dataset_name, SourceText2SQL or SourceTable2Text}
+        -n {number_of_sampled_data}
 
 ### 3.1 Results
 
     results
         annotation
-            {gold_table_set_idx}-{qa_pair_idx}.txt
+            {gold_table_set_index}-{qa_pair_index}.txt

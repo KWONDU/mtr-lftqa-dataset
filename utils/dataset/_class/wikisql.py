@@ -1,6 +1,6 @@
 import jsonlines
 from ._dir import current_dir
-from ..abstract_dataset import AbstractDataset
+from .._abstract_dataset import AbstractDataset
 
 
 class WikiSQLDataset(AbstractDataset):

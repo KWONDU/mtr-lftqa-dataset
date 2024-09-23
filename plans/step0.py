@@ -13,9 +13,7 @@ def display_info(type, data):
     elif type == 'data':
         return "\n\n".join(data_format(
             data_num=idx+1,
-            question=datum['question'],
-            sql=next(answer for answer, answer_type in zip(datum['answer'], datum['answer_type']) if answer_type=='SQL'),
-            sub_table=next(answer for answer, answer_type in zip(datum['answer'], datum['answer_type']) if answer_type=='table'),
+            info_dict=datum,
             serialize=False
         ) for idx, datum in enumerate(data))
     else:

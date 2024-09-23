@@ -2,7 +2,7 @@ import csv
 import json
 import os
 from ._dir import current_dir
-from ..abstract_dataset import AbstractDataset
+from .._abstract_dataset import AbstractDataset
 
 
 class TabFactDataset(AbstractDataset):
@@ -58,7 +58,7 @@ class TabFactDataset(AbstractDataset):
             table = {
                 'id': self._hash_id(table_id),
                 'metadata': None, # Will be filled at _load_data method
-                'metadata_info': "Page title.",
+                'metadata_info': 'Page title.',
                 'header': table_header,
                 'cell': table_cell,
                 'source': None

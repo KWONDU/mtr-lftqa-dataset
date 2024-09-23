@@ -1,5 +1,5 @@
 from datasets import concatenate_datasets, load_dataset
-from ..abstract_dataset import AbstractDataset
+from .._abstract_dataset import AbstractDataset
 
 
 class FeTaQADataset(AbstractDataset):
