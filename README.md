@@ -32,15 +32,12 @@
     [folder] plans
         [file] step0.py # display tables and dataset information
         [file] step1_text2sql.py # generate high-level questions
-        [file] step2_text2sql.py # filter each generated question
-        [file] step3_text2sql.py # generate high-level answer
+        [file] step2_text2sql.py # generate high-level answer
     [folder] prompt_text2sql
         [folder] system
-            [file] filter_each_generated_question.txt
             [file] generate_high_level_answer.txt
             [file] generate_high_level_questions.txt
         [folder] user
-            [file] filter_each_generated_question.txt
             [file] generate_high_level_answer.txt
             [file] generate_high_level_questions.txt
     [folder] results

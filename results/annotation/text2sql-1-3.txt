@@ -1,0 +1,119 @@
+[Gold table set information]
+Table #1 information
+metadata: flight_1 | flight
+full table:
+flno | origin      | destination     | distance | departure_date   | arrival_date     | price  | aid
+----------------------------------------------------------------------------------------------------
+99   | Los Angeles | Washington D.C. | 2308     | 04/12/2005 09:30 | 04/12/2005 09:40 | 235.98 | 1  
+13   | Los Angeles | Chicago         | 1749     | 04/12/2005 08:45 | 04/12/2005 08:45 | 220.98 | 3  
+346  | Los Angeles | Dallas          | 1251     | 04/12/2005 11:50 | 04/12/2005 07:05 | 182.0  | 2  
+387  | Los Angeles | Boston          | 2606     | 04/12/2005 07:03 | 04/12/2005 05:03 | 261.56 | 6  
+7    | Los Angeles | Sydney          | 7487     | 04/12/2005 05:30 | 04/12/2005 11:10 | 278.56 | 3  
+2    | Los Angeles | Tokyo           | 5478     | 04/12/2005 06:30 | 04/12/2005 03:55 | 780.99 | 9  
+33   | Los Angeles | Honolulu        | 2551     | 04/12/2005 09:15 | 04/12/2005 11:15 | 375.23 | 7  
+34   | Los Angeles | Honolulu        | 2551     | 04/12/2005 12:45 | 04/12/2005 03:18 | 425.98 | 5  
+76   | Chicago     | Los Angeles     | 1749     | 04/12/2005 08:32 | 04/12/2005 10:03 | 220.98 | 9  
+68   | Chicago     | New York        | 802      | 04/12/2005 09:00 | 04/12/2005 12:02 | 202.45 | 10 
+
+Table #2 information
+metadata: flight_1 | aircraft
+full table:
+aid | name                           | distance
+-----------------------------------------------
+1   | Boeing 747-400                 | 8430    
+2   | Boeing 737-800                 | 3383    
+3   | Airbus A340-300                | 7120    
+4   | British Aerospace Jetstream 41 | 1502    
+5   | Embraer ERJ-145                | 1530    
+6   | SAAB 340                       | 2128    
+7   | Piper Archer III               | 520     
+8   | Tupolev 154                    | 4103    
+16  | Schwitzer 2-33                 | 30      
+9   | Lockheed L1011                 | 6900    
+10  | Boeing 757-300                 | 4010    
+11  | Boeing 777-300                 | 6441    
+12  | Boeing 767-400ER               | 6475    
+13  | Airbus A320                    | 2605    
+14  | Airbus A319                    | 1805    
+15  | Boeing 727                     | 1504    
+
+[Data set information]
+Data #1 information
+SQL query: SELECT T2.name FROM Flight AS T1 JOIN Aircraft AS T2 ON T1.aid  =  T2.aid WHERE T1.flno  =  99
+SQL extraction:
+name          
+--------------
+Boeing 747-400
+
+Data #2 information
+SQL query: SELECT T2.name FROM Flight AS T1 JOIN Aircraft AS T2 ON T1.aid  =  T2.aid WHERE T1.flno  =  99
+SQL extraction:
+name          
+--------------
+Boeing 747-400
+
+Data #3 information
+SQL query: SELECT T1.flno FROM Flight AS T1 JOIN Aircraft AS T2 ON T1.aid  =  T2.aid WHERE T2.name  =  "Airbus A340-300"
+SQL extraction:
+flno
+----
+13  
+7   
+
+Data #4 information
+SQL query: SELECT T1.flno FROM Flight AS T1 JOIN Aircraft AS T2 ON T1.aid  =  T2.aid WHERE T2.name  =  "Airbus A340-300"
+SQL extraction:
+flno
+----
+13  
+7   
+
+Data #5 information
+SQL query: SELECT T2.name ,  count(*) FROM Flight AS T1 JOIN Aircraft AS T2 ON T1.aid  =  T2.aid GROUP BY T1.aid
+SQL extraction:
+name             | count(*)
+---------------------------
+Boeing 747-400   | 1       
+Boeing 737-800   | 1       
+Airbus A340-300  | 2       
+Embraer ERJ-145  | 1       
+SAAB 340         | 1       
+Piper Archer III | 1       
+Lockheed L1011   | 2       
+Boeing 757-300   | 1       
+
+Data #6 information
+SQL query: SELECT T2.name ,  count(*) FROM Flight AS T1 JOIN Aircraft AS T2 ON T1.aid  =  T2.aid GROUP BY T1.aid
+SQL extraction:
+name             | count(*)
+---------------------------
+Boeing 747-400   | 1       
+Boeing 737-800   | 1       
+Airbus A340-300  | 2       
+Embraer ERJ-145  | 1       
+SAAB 340         | 1       
+Piper Archer III | 1       
+Lockheed L1011   | 2       
+Boeing 757-300   | 1       
+
+Data #7 information
+SQL query: SELECT T2.name FROM Flight AS T1 JOIN Aircraft AS T2 ON T1.aid  =  T2.aid GROUP BY T1.aid HAVING count(*)  >= 2
+SQL extraction:
+name           
+---------------
+Airbus A340-300
+Lockheed L1011 
+
+Data #8 information
+SQL query: SELECT T2.name FROM Flight AS T1 JOIN Aircraft AS T2 ON T1.aid  =  T2.aid GROUP BY T1.aid HAVING count(*)  >= 2
+SQL extraction:
+name           
+---------------
+Airbus A340-300
+Lockheed L1011 
+
+[Generated question]
+How does the relationship between flights and aircraft types influence the pricing strategy, considering the variety in aircraft models and their respective capacities?
+
+[Generated answer]
+The relationship between courses and teachers influences the grading strategy, with different teachers assigned to various courses such as Math, Science, and Sports, impacting the overall academic performance and student outcomes.
