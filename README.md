@@ -9,7 +9,7 @@
             .load_dataset(dataset_name) -> dataset
             .save_dataset(dataset, dataset_name) -> [pkl_file_list]
         .format
-            .data_format(data_num, question, sql, sub_table, serialize=False) -> data_visualization (data_serialization)
+            .data_format(data_num, info_dict, serialize=False) -> data_visualization (data_serialization)
             .table_format(table_num, metadata, header, cell, serialize=False) -> table_visualization (table_serialization)
         .openai
             .add_openai_api_key(api_key) -> api_key
@@ -31,20 +31,18 @@
 
     [folder] plans
         [file] step0.py # display tables and dataset information
-        [file] step1_text2sql.py # generate high-level questions
-        [file] step2_text2sql.py # generate high-level answer
-    [folder] prompt_text2sql
+        [file] step1_{source_type}.py
+        [file] step2_{source_type}.py
+    [folder] prompt_{source_type}
         [folder] system
-            [file] generate_high_level_answer.txt
-            [file] generate_high_level_questions.txt
+            . . .
         [folder] user
-            [file] generate_high_level_answer.txt
-            [file] generate_high_level_questions.txt
+            . . .
     [folder] results
         [folder] annotation
-            [file] {gold_table_set_index}-{qa_pair_index}.txt
+            [file] {source_type}-{gold_table_set_index}-{qa_pair_index}.txt
         [file] dataset_statistics.csv
-        [file] llm.json
+        [file] {source_type}-llm.json
     [package] utils
     [file] dataset_stats.py
     [file] main.py
@@ -90,7 +88,7 @@
 
     dataset = load_dataset(dataset_name=dataset_name)
 
-### 2.3 Source dataset configuration
+### 2.2 Source dataset configuration
 
     source_dataset
         .tables
@@ -128,7 +126,6 @@
     print(source_dataset) # return source dataset name
     print(source_dataset[i / i:j]) # return i'th / (i ~ j-1)'th data; train, validation, test set in order
     print(len(source_dataset)) # return total source dataset size
-
 
 ### 2.3 Original dataset configuration (Don't need to use)
 
