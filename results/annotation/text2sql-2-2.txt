@@ -77,7 +77,7 @@ STU_LNAME
 Bowser   
 
 [Generated question]
-Can we identify any patterns in the first and last names of students who received grades 'C' or 'A' in their enrolled classes, and how do these patterns reflect their academic performance?
+What is the relationship between student enrollment grades and their last names for a specific class code in the college dataset?
 
 [Generated answer]
-Students who received grades 'C' or 'A' in their enrolled classes include Kearsley Brown and Anne Walker. These students show a pattern of having different first and last names, indicating that academic performance may not be directly correlated with the structure of their names.
+The relationship between student enrollment grades and their last names for a specific class code in the college dataset can be determined by looking at the teacher assigned to each course. By examining the tables, we can see that each course is associated with a teacher through the Teacher_ID. Therefore, to establish this relationship, we need to analyze the Course_ID, Teacher_ID, and Grade columns in the tables to link students' grades to their respective teachers, who can then be identified by their last names.

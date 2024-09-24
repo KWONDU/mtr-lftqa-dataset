@@ -52,7 +52,7 @@ Pure Church of Christ
 Church of Christ (Parrishite)
 
 [Generated question]
-What are the names of the churches where weddings took place involving individuals over the age of 30?
+What are the names of churches where weddings took place involving individuals over the age of 30?
 
 [Generated answer]
-To find the names of the courses where weddings took place involving individuals over the age of 30, we first need to identify the teachers who are over 30 years old. From the provided tables, we can see that Joseph Huts is 32 years old, John Deloor is 33 years old, and Kearsley Brown is 45 years old. Next, we can match the Teacher_ID of these teachers with the Course_ID in the course_arrange table to determine the courses they are teaching. By doing so, we can identify the courses where weddings took place involving individuals over the age of 30.
+Weddings involving individuals over the age of 30 took place at churches where the teachers Joseph Huts and John Deloor were involved.

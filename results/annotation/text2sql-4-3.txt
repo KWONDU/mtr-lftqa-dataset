@@ -16675,7 +16675,7 @@ first_name | last_name | customer_id
 CAROLINE   | BOWMAN    | 248        
 
 [Generated question]
-How do the first name, last name, and customer ID of the customer with the lowest total payment amount relate to their overall payment history?
+How does the SQL query help in finding the customer with the lowest total payment by joining the customer and payment tables based on customer_id?
 
 [Generated answer]
-The teacher with the lowest total payment amount is Vicente Carretero with Teacher_ID 3.
+To find the customer with the lowest total payment by joining the customer and payment tables based on customer_id, the SQL query would involve joining the tables on the customer_id column, grouping the results by customer_id, and then using the SUM function to calculate the total payment for each customer. Finally, the query would include an ORDER BY clause to sort the results in ascending order of total payment and limit the output to the first row to identify the customer with the lowest total payment.

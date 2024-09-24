@@ -8,10 +8,6 @@ from collections import defaultdict
 from utils.dataset import load_source_dataset
 from utils.openai import save_prompt
 
-from plans.step0 import display_info
-from plans.step1_text2sql import generate_high_level_questions
-from plans.step2_text2sql import generate_high_level_answer
-
 
 MODEL_NAME='gpt-3.5-turbo'
 QA_SET_LEN = 5
@@ -57,7 +53,7 @@ def main(dataset_name, sample_n):
      table_lake = {table['id']: table for table in dataset.tables}
      data_dict = {tuple(data['gold_table_id_set']): data['data_list'] for data in dataset[:]}
 
-     """
+     """ # Dataset statistics
      print(f"# of unique tables: {len(table_lake)}")
      print(f"# of dataset: {len(data_dict)}")
      print(f"Avg. # of gold tables per data: {sum([len(_) for _ in data_dict.keys()]) / len(data_dict):.2f}")
@@ -79,6 +75,7 @@ def main(dataset_name, sample_n):
      total_cost = defaultdict()
 
      # 0. Display information of gold table set and data set
+     from plans.step0 import display_info
      for idx, (gold_table_id_set, data_list) in enumerate(sampled_data_dict.items()):
           display_table = display_info(
                type='table',
@@ -104,7 +101,10 @@ def main(dataset_name, sample_n):
 
      # SourceText2SQL
      if source_type == 'text2sql':
-          # 1. Generate high-level questions using table metadata/header set and corresponding question-SQL query pairs
+          from plans.step1_text2sql import generate_high_level_questions
+          from plans.step2_text2sql import generate_high_level_answer
+
+          # 1. Generate high-level questions using gold table metadata/header set and corresponding question-SQL query pairs
           generate_high_level_questions_task_input = [
                {
                     'gold_table_set': [table_lake[gold_table_id] for gold_table_id in gold_table_id_set],
@@ -140,7 +140,7 @@ def main(dataset_name, sample_n):
           total_cost['Generate high-level questions'] = cost
           ### BUFFER ###
 
-          logger.info("[Done] Generate high-level questions using table metadata/header set and corresponding question-SQL query pairs.")
+          logger.info("[Done] Generate high-level questions using gold table metadata/header set and corresponding question-SQL query pairs.")
 
           ###
 
@@ -148,7 +148,7 @@ def main(dataset_name, sample_n):
 
           ###
 
-          # 2. Generate high-level answer using modified question and gold full-table set
+          # 2. Generate high-level answer using generated question and gold full-table set
           generate_high_level_answer_task_input = [
                {
                     'high_level_question': generated_question,
@@ -186,7 +186,7 @@ def main(dataset_name, sample_n):
           total_cost['Generate high-level answer'] = cost
           ### BUFFER ###
 
-          logger.info("[Done] Generate high-level answer using modified question and gold full-table set.")
+          logger.info("[Done] Generate high-level answer using generated question and gold full-table set.")
 
           ###
 
@@ -202,7 +202,104 @@ def main(dataset_name, sample_n):
      
      # SourceTable2Text
      elif source_type == 'table2text':
-          None
+          from plans.step1_table2text import generate_high_level_answers
+          from plans.step2_table2text import generate_high_level_question
+
+          # 1. Generate high-level answers using gold table metadata/header set and entailed statements
+          generate_high_level_answers_task_input = [
+               {
+                    'gold_table_set': [table_lake[gold_table_id] for gold_table_id in gold_table_id_set],
+                    'data_list': data_list
+               } for gold_table_id_set, data_list in sampled_data_dict.items()
+          ]
+
+          generate_high_level_answers_task_output, generated_answers_list, cost = asyncio.run(generate_high_level_answers(
+               model_input=generate_high_level_answers_task_input,
+               model_name=MODEL_NAME
+          ))
+
+          for idx, generated_answers in enumerate(generated_answers_list):
+               for jdx, generated_answer in enumerate(generated_answers):
+                    result_buffer[idx * QA_SET_LEN + jdx].append(generated_answer)
+
+          ### BUFFER ###
+          for idx, (system_prompt, user_prompt, response) in enumerate(zip(generate_high_level_answers_task_output['system_prompt'],
+                                                                           generate_high_level_answers_task_output['user_prompt'],
+                                                                           generate_high_level_answers_task_output['response']
+                                                                           )):
+               for num in range(idx * QA_SET_LEN, (idx + 1) * QA_SET_LEN):
+                    llm_buffer.append(
+                         {
+                              'num': num,
+                              'task': 'generate high-level answers',
+                              'system_prompt': system_prompt,
+                              'user_prompt': user_prompt,
+                              'response': response
+                         }
+                    )
+
+          total_cost['Generate high-level answers'] = cost
+          ### BUFFER ###
+
+          logger.info("[Done] Generate high-level answers using gold table metadata/header set and entailed statements.")
+
+          ###
+
+          generated_each_answer_list = [__ for _ in generated_answers_list for __ in _]
+
+          ###
+
+          # 2. Generate high-level question using generated answer and gold full-table set
+          generate_high_level_question_task_input = [
+               {
+                    'high_level_answer': generated_answer,
+                    'tables_info': [
+                         {'metadata': table_lake[gold_table_id]['metadata'], 'header': table_lake[gold_table_id]['header'], 'cell': table_lake[gold_table_id]['cell']}
+                         for gold_table_id in gold_table_id_set
+                    ]
+               }
+               for generated_answer in generated_each_answer_list
+          ]
+
+          generate_high_level_question_task_output, generated_question_list, cost = asyncio.run(generate_high_level_question(
+               model_input=generate_high_level_question_task_input,
+               model_name=MODEL_NAME
+          ))
+
+          for num, generated_question in enumerate(generated_question_list):
+               result_buffer[num].append(generated_question)
+
+          ### BUFFER ###
+          for num, (system_prompt, user_prompt, response) in enumerate(zip(generate_high_level_question_task_output['system_prompt'],
+                                                                           generate_high_level_question_task_output['user_prompt'],
+                                                                           generate_high_level_question_task_output['response']
+                                                                           )):
+               llm_buffer.append(
+                    {
+                         'num': num,
+                         'task': 'generate high-level question',
+                         'system_prompt': system_prompt,
+                         'user_prompt': user_prompt,
+                         'response': response
+                    }
+               )
+
+          total_cost['Generate high-level question'] = cost
+          ### BUFFER ###
+
+          logger.info("[Done] Generate high-level question using generated answer and gold full-table set.")
+
+          ###
+
+          for num, result in result_buffer.items():
+               idx, jdx = num // QA_SET_LEN, num % QA_SET_LEN
+               with open(f'results/annotation/{source_type}-{idx}-{jdx}.txt', 'w') as file:
+                    file.write(result_buffer_format[source_type].format(
+                         display_table=result[0]['gold_table_set'],
+                         display_data=result[0]['data_list'],
+                         generated_question=result[1],
+                         generated_answer=result[2]
+                    ))
      
      else:
           exit()

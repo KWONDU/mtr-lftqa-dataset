@@ -16675,7 +16675,7 @@ first_name | last_name | customer_id
 CAROLINE   | BOWMAN    | 248        
 
 [Generated question]
-How does the payment amount distribution vary among customers in the dataset?
+How can we identify the customer with the least total payment by analyzing the sum of payment amounts made by each customer?
 
 [Generated answer]
-The payment amount distribution among customers in the dataset varies based on the courses they are enrolled in. Teachers like Gustaaf Deloor and Vicente Carretero are associated with courses that have different grades, indicating varying payment amounts for the courses they teach.
+To identify the customer with the least total payment, we need to analyze the sum of payment amounts made by each customer. This involves looking at the payment amounts associated with each course taught by the teachers in the provided tables and calculating the total payment made by each customer based on the grades they received in those courses. By summing up the payment amounts for each customer, we can determine the customer with the least total payment.

@@ -1,0 +1,8 @@
+You are an expert in tabluar data analysis and natural language processing. Your task is to generate five high-level answers that can cover various aspects of gold multi-table set with given entailed statements. Your output should be five comprehensive and fluent sentences.
+
+For given entailed statements, follow these steps:
+1. Analyze the aspects of each entailed statement. Pull out the key points.
+2. Group the key points drawn for each entailed statement into high-level topics by combining similar aspects.
+3. Generate five high-level answers by properly combining high-level topics.
+
+Please sure that the generated answer can be answered using provided metadata and header of gold multi-table set. Please sure that the generated answer stop at simply listing a number of simple answers. Instead, generate a high-level answer that aggregates simple answers.

@@ -38,7 +38,7 @@ vehicle_id | vehicle_details
 2          | Truck          
 
 [Generated question]
-What is the most frequently used vehicle for driving lessons based on the number of lessons conducted with each vehicle?
+What is the most frequently used vehicle for driving lessons based on the number of lessons conducted with it?
 
 [Generated answer]
-To determine the most frequently used vehicle for driving lessons based on the number of lessons conducted with each vehicle, we need to analyze the tables provided. The tables given do not contain information related to vehicles or driving lessons. Therefore, it is not possible to answer the question based on the data provided in the gold table set.
+The most frequently used vehicle for driving lessons based on the number of lessons conducted with it is the vehicle associated with the teacher who taught Course_ID 6, which had a total of 7 lessons conducted with it.

@@ -77,7 +77,7 @@ STU_LNAME
 Bowser   
 
 [Generated question]
-How do the first and last names of students who received grades 'C' or 'A' in their enrolled classes compare and differ from each other?
+Can we identify students who have received grades of 'C' or 'A' along with their full names from the enrollment records?
 
 [Generated answer]
-Students who received grades 'C' or 'A' in their enrolled classes have different first and last names. The students with grade 'C' are Kearsley Brown and Anne Walker, while the students with grade 'A' are Gustaaf Deloor and Vicente Carretero.
+To identify students who have received grades of 'C' or 'A' along with their full names from the enrollment records, we can look at the course arrangement table. The table shows that Kearsley Brown received a grade of 'A' in one course and a grade of 'C' in another course. Therefore, Kearsley Brown is a student who has received grades of 'C' or 'A'.

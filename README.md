@@ -29,10 +29,13 @@
 
 ## File construction
 
+    [folder] construct_source_datasets
+        [file] category_set_embedding_per_each_page.json
+        [file] construct_source_datasets.py
+        [file] extract_wikipedia_categories.py
+        [file wikipedia_categories_for_each_table.json]
     [folder] plans
-        [file] step0.py # display tables and dataset information
-        [file] step1_{source_type}.py
-        [file] step2_{source_type}.py
+        . . .
     [folder] prompt_{source_type}
         [folder] system
             . . .
@@ -46,7 +49,6 @@
     [package] utils
     [file] dataset_stats.py
     [file] main.py
-    [file] README.md
     [file] requirements.txt
 
 ## .gitignore
@@ -99,6 +101,8 @@
                     'metadata_info': [str] metadata configuration process
                     'header': [list] each table's header
                     'cell': [2d list] each table's cells
+                    # only table2text
+                    'categories': [list]
                 },
                 . . .
             ]
@@ -108,10 +112,12 @@
                     'gold_table_id_set': [list] gold table IDs
                     'data_list': [
                         {
-                            question': [str] text2sql
-                            'sql_query': [str] text2sql
-                            'sql_extraction': [2d list] text2sql
-                            'sentence': [str] table2text
+                            # only text2sql
+                            question': [str]
+                            'sql_query': [str]
+                            'sql_extraction': [2d list]
+                            # only table2text
+                            'statement': [str]
                         },
                         . . .
                     ]

@@ -2,12 +2,12 @@ def data_format(data_num, info_dict, serialize=False):
     display_data = f"Data #{data_num} information"
 
     for key, value in info_dict.items():
-        # sql_query, sql_extraction, sentence
+        # sql_query, sql_extraction, statement
         if key == 'sql_query':
             display_data = "\n".join([display_data, f"SQL query: {value}"])
         
-        elif key == 'sentence':
-            display_data = "\n".join([display_data, f"Entailed sentence: {value}"])
+        elif key == 'statement':
+            display_data = "\n".join([display_data, f"Entailed statement: {value}"])
 
         elif key == 'sql_extraction':
             sub_table = value or {'header': [], 'cell': [[]]}

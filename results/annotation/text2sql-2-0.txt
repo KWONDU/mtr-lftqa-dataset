@@ -77,7 +77,7 @@ STU_LNAME
 Bowser   
 
 [Generated question]
-What is the distribution of student first names who received a grade of 'C' in their enrolled classes, and how does it vary across different students?
+How do student enrollment grades correlate with their first names in the college database?
 
 [Generated answer]
-The distribution of student first names who received a grade of 'C' in their enrolled classes shows that Kearsley and Vicente received a grade of 'C', with Kearsley receiving it in Sports and Vicente in Science.
+Student enrollment grades in the college database correlate with their first names based on the courses they are enrolled in and the teachers assigned to those courses. The grades are linked to specific courses, each taught by a different teacher, and the teachers are associated with unique names. This correlation allows for tracking student grades based on the courses they take and the teachers who instruct them, indirectly connecting their enrollment grades to the teachers' first names in the database.

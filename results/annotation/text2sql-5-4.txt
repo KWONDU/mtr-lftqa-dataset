@@ -54,7 +54,7 @@ Mount Callan | The Case of the Bermuda Triangle | 20 May  | 9.99
 Oriel        | The Case of the Mystery Weekend  | 19 May  | 15.99
 
 [Generated question]
-Is there a relationship between the opening year of cinemas, their capacities, and the films being shown along with their prices?
+How do the cinema capacities, film titles, show dates, and prices correlate in the movie schedule dataset?
 
 [Generated answer]
-The provided tables do not contain information about the opening year of cinemas, their capacities, films being shown, or prices. Therefore, based on the data available, there is no direct relationship between the opening year of cinemas, their capacities, and the films being shown along with their prices.
+The movie schedule dataset does not contain information on cinema capacities, film titles, show dates, or prices.

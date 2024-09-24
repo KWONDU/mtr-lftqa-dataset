@@ -77,7 +77,7 @@ STU_LNAME
 Bowser   
 
 [Generated question]
-What insights can be gained by comparing the last names of students who received a grade of 'A' in class code 10018, and how do these insights contribute to understanding student performance in that specific class?
+How does student enrollment grade 'A' in a specific class code relate to their last names in the college dataset?
 
 [Generated answer]
-By comparing the last names of students who received a grade of 'A' in class code 10018, we can gain insights into the performance of students in that specific class. However, the provided tables do not contain information related to class code 10018 or grades of 'A', making it impossible to draw specific insights regarding student performance in that particular class.
+Student enrollment grade 'A' in a specific class code can be related to their last names in the college dataset by first identifying the Teacher_ID associated with the specific class code where the grade is 'A'. Then, we can match this Teacher_ID with the corresponding teacher's last name in the dataset to establish the connection between the student's grade and the teacher's last name.

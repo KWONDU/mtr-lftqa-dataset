@@ -38,7 +38,7 @@ vehicle_id | vehicle_details
 2          | Truck          
 
 [Generated question]
-Is there a correlation between the type of vehicle used for driving lessons and the satisfaction levels of customers based on the lesson status codes?
+Is there a correlation between the type of vehicle used in driving lessons and the success rate of students passing their driving tests?
 
 [Generated answer]
-The correlation between the type of course and the satisfaction levels of students can be determined by analyzing the course arrangements table, which links course IDs with teacher IDs and grades. By examining the course table, which provides information on the courses offered, their starting dates, and subjects, we can infer how different courses may impact student satisfaction levels based on the grades assigned in the course arrangements table.
+The provided tables do not contain information about the type of vehicle used in driving lessons or the success rate of students passing their driving tests. The tables mainly focus on teachers, courses, and their arrangements. Therefore, based on the available data, we cannot determine any correlation between the type of vehicle used in driving lessons and the success rate of students passing their driving tests.

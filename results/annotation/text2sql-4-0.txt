@@ -16675,7 +16675,7 @@ first_name | last_name | customer_id
 CAROLINE   | BOWMAN    | 248        
 
 [Generated question]
-What are the characteristics of the customer with the lowest total payment amount in the dataset?
+What are the characteristics of the customer who made the lowest total payment amount in the dataset?
 
 [Generated answer]
-The customer with the lowest total payment amount in the dataset is associated with the teacher Vicente Carretero, who is 26 years old, from Farnworth Municipal Borough, and teaches the course "Science" starting on 7th May.
+The customer who made the lowest total payment amount in the dataset is associated with the teacher Vicente Carretero, who is 26 years old, from Farnworth Municipal Borough. Vicente Carretero taught the course Science, which started on 7th May.

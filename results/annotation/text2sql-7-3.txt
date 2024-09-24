@@ -38,7 +38,7 @@ vehicle_id | vehicle_details
 2          | Truck          
 
 [Generated question]
-How does the distribution of lesson bookings across different vehicles impact the overall efficiency of the driving school operations?
+How does the distribution of lessons among different vehicles impact the overall efficiency and effectiveness of the driving school?
 
 [Generated answer]
-The distribution of lesson bookings across different teachers impacts the overall efficiency of the driving school operations. By assigning teachers to courses based on their availability and expertise, the school can ensure a balanced workload and optimal utilization of resources. Teachers like Joseph Huts, Gustaaf Deloor, and Vicente Carretero are assigned to various courses such as Math, Science, and Geography, contributing to a diverse and well-rounded curriculum. This strategic allocation of teachers to courses helps maintain a smooth operation and enhances the overall effectiveness of the driving school.
+The distribution of lessons among different teachers impacts the overall efficiency and effectiveness of the driving school. Each teacher is assigned to teach specific courses, with varying grades associated with each course. For example, Teacher ID 5 teaches a mix of courses such as Math, Bible, and Geography, with grades ranging from 1 to 7. This distribution ensures that teachers specialize in certain subjects, potentially enhancing the quality of education provided by the driving school.

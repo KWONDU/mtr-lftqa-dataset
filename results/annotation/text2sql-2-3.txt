@@ -77,7 +77,7 @@ STU_LNAME
 Bowser   
 
 [Generated question]
-How does the last name of students who received a grade of 'A' in a specific class (class code 10018) differ from those who received other grades in the same class?
+Is there a pattern in the enrollment grades of students with the last name 'Bowser' for a particular class code in the database?
 
 [Generated answer]
-The last names of students who received a grade of 'A' in a specific class (class code 10018) differ from those who received other grades in the same class based on the teacher assigned to the course.
+The enrollment grades of students with the last name 'Bowser' do not show a pattern for a particular class code in the database, as there is no mention of any student with the last name 'Bowser' in the provided tables.
