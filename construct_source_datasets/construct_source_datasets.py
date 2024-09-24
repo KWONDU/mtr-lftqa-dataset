@@ -6,6 +6,7 @@ import sys
 from collections import defaultdict
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import AgglomerativeClustering
+from sklearn.neighbors import NearestNeighbors
 from tqdm import tqdm
 
 parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -292,6 +293,9 @@ if __name__ == '__main__':
             source_validation_dataset = []
             source_test_dataset = []
 
+            # Pre-trained Sentence BERT model
+            model = SentenceTransformer('paraphrase-MiniLM-L12-v2')
+
             original_table_dict = {table['id']: table for table in original_tables}
 
             # For each set (train, validation, test)
@@ -320,13 +324,12 @@ if __name__ == '__main__':
                 page_title_list = list(page_title_categories_dict.keys())
                 category_set_list = list(page_title_categories_dict.values())
 
+                page_title_categories_reverse_dict = {tuple(v): k for k, v in page_title_categories_dict.items()}
+
                 try: # embedding json file
                     with open('category_set_embedding_per_each_page.json', 'rb') as file:
                         category_set_embedding_list = [np.array(_) for _ in json.loads(file.read().decode('utf-8'))]
                 except:
-                    # Pre-trained Sentence BERT model
-                    model = SentenceTransformer('paraphrase-MiniLM-L12-v2')
-
                     category_set_embedding_list = [
                         np.mean(model.encode(category_set), axis=0)
                         for category_set in tqdm(category_set_list)
@@ -334,7 +337,27 @@ if __name__ == '__main__':
                     with open('category_set_embedding_per_each_page.json', 'wb') as file:
                         file.write(json.dumps([_.tolist() for _ in category_set_embedding_list]).encode('utf-8'))
                 
-                agg_clustering = AgglomerativeClustering().fit(category_set_embedding_list)
+                wikipedia_category_topics = [['Research', 'Library science'], ['Culture', 'The arts'], ['Geography', 'Places'], ['Health', 'Self-care', 'Health care occupations'], ['History', 'Events'], ['Human activities'], ['Mathematics and logic'], ['Science', 'Natural sciences', 'Nature'], ['People', 'Personal life', 'Self', 'Surnames'], ['Philosophy', 'Thought'], ['Religion', 'Belief'], ['Society', 'Social Sciences'], ['Technology', 'Applied sciences']]
+
+                nearsest_neighbors = NearestNeighbors(n_neighbors=1)
+                nearsest_neighbors.fit([np.mean(model.encode(topic_set), axis=0) for topic_set in wikipedia_category_topics])
+
+                distances, indices = nearsest_neighbors.kneighbors(category_set_embedding_list)
+                assigned_clusters = indices.flatten()
+
+                knn_json = {tuple(topic): [] for topic in wikipedia_category_topics}
+                for page_idx, topic_idx in enumerate(assigned_clusters):
+                    topic = wikipedia_category_topics[topic_idx]
+                    knn_json[tuple(topic)].append(category_set_list[page_idx])
+                with open('knn_each_page_with_wikipedia_topic.txt', 'w') as file:
+                    for k, v_list in knn_json.items():
+                        file.write(f'###\t{str(k)}\t### ({len(v_list)})\n')
+                        for v in v_list:
+                            file.write(f'>\t{page_title_categories_reverse_dict[tuple(v)]}\n')
+                        file.write('\n')
+                exit()
+                
+                agg_clustering = AgglomerativeClustering(n_clusters=1000, linkage='average').fit(category_set_embedding_list)
                 labels = agg_clustering.labels_
 
                 split_clusters = [[] for _ in range(len(set(labels)))]
