@@ -30,10 +30,9 @@
 ## File construction
 
     [folder] construct_source_datasets
-        [file] category_set_embedding_per_each_page.json
         [file] construct_source_datasets.py
         [file] extract_wikipedia_categories.py
-        [file wikipedia_categories_for_each_table.json]
+        [file wikipedia_categories_for_each_table.json
     [folder] plans
         . . .
     [folder] prompt_{source_type}
@@ -56,6 +55,7 @@
     .gitignore
     *__pycache__
     *.yaml
+    construct_source_datasets/category_set_embedding_per_each_page.json
 
 ### utils/.gitignore
 
