@@ -30,22 +30,55 @@
 ## File construction
 
     [folder] construct_source_datasets
-        [file] construct_source_datasets.py
-        [file] extract_wikipedia_categories.py
-        [file wikipedia_categories_for_each_table.json
+        [folder] prompt_construct_source_table2text_dataset
+            [folder] system
+                [file] generate_coarse_grained_topic_set_using_llm.txt
+                [file] generate_document_using_llm.txt
+                [file] generate_fine_grained_topic_set_using_llm.txt
+            
+            [folder] user
+                [file] generate_coarse_grained_topic_set_using_llm.txt
+                [file] generate_document_using_llm.txt
+                [file] generate_fine_grained_topic_set_using_llm.txt
+        
+        [folder] storage
+            [file] generated_coarse_grained_topic_set_for_each_page.json
+            [file] generated_document_for_each_table.json
+            [file] generated_fine_grained_topic_set_for_each_table.json
+
+            [file] page_clusters_with_high_level_topic_set.json
+            [file] page_clusters_with_low_level_topic_set.json
+            [file] page_clusters_with_middle_level_topic_set.json
+            
+            [file] wikipedia_category_set_for_each_table.json
+        
+        [file] construct_source_table2text_dataset.py
+        [file] construct_source_text2sql_dataset.py
+
+        [file] extract_wikipedia_category_set.py
+        [file] generate_coarse_grained_topic_set_using_llm.py
+        [file] generate_document_using_llm.py
+        [file] generate_fine_grained_topic_set_using_llm.py
+    
     [folder] plans
         . . .
+    
     [folder] prompt_{source_type}
         [folder] system
             . . .
+        
         [folder] user
             . . .
+    
     [folder] results
         [folder] annotation
             [file] {source_type}-{gold_table_set_index}-{qa_pair_index}.txt
+        
         [file] dataset_statistics.csv
         [file] {source_type}-llm.json
+    
     [package] utils
+
     [file] dataset_stats.py
     [file] main.py
     [file] requirements.txt
@@ -55,7 +88,6 @@
     .gitignore
     *__pycache__
     *.yaml
-    construct_source_datasets/category_set_embedding_per_each_page.json
 
 ### utils/.gitignore
 
@@ -84,11 +116,11 @@
 
 ## 2. About dataset
 
-### 2.1 Load dataset
+### 2.1 Load source dataset
 
-    from utils.dataset import load_dataset
+    from utils.dataset import load_source_dataset
 
-    dataset = load_dataset(dataset_name=dataset_name)
+    dataset = load_source_dataset(dataset_name=source_dataset_name)
 
 ### 2.2 Source dataset configuration
 
@@ -101,27 +133,29 @@
                     'metadata_info': [str] metadata configuration process
                     'header': [list] each table's header
                     'cell': [2d list] each table's cells
-                    # only table2text
-                    'categories': [list]
-                },
+                }
                 . . .
             ]
         .train # about train set
             [
                 {
                     'gold_table_id_set': [list] gold table IDs
-                    'data_list': [
-                        {
-                            # only text2sql
-                            question': [str]
-                            'sql_query': [str]
-                            'sql_extraction': [2d list]
-                            # only table2text
-                            'statement': [str]
-                        },
-                        . . .
-                    ]
-                },
+                    'data_list':
+                        [
+                            {
+                                # for text2sql
+                                'question': [str] each data's annotated question
+                                'sql_query': [str] each data's annotated SQL query
+                                'sql_extraction': [2d list] each data's annotated SQL extraction
+                                # for table2text
+                                'statement': [str] each data's annotated statement
+                            }
+                            . . .
+                        ]
+                    # for table2text
+                    'topic_set': [list] each cluster's topic set # for table2text
+                    . . .
+                }
                 . . .
             ]
         .validation # about validation set

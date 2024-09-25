@@ -1,0 +1,9 @@
+I have the following Wikipedia page title and its corresponding category set. Please classify them into high-level topics, middle-level topics, and low-level topics.
+
+Page title:
+{page_title}
+
+Category set:
+{category_set}
+
+Please provide the output as three distinct topic sets (high-level, middle-level, low-level) for each page.
