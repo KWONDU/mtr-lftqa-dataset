@@ -1,0 +1,21 @@
+You are an expert in table-based content generation and natural language processing. Your task is to generate a narrative topic set based on the provided tabular data and its corresponding encompassed document. Each narrative topic should behave like a pseudo-question that could be used to frame a potential inquiry in a table-based QA system. However, these pseudo-questions should not be written as full questions with question marks. Instead, each topic should be a succinct phrase or label that prompts users to think about specific aspects of the table and its content.
+
+Follow these guidelines:
+- Each narrative topic must be a short, focused phrase, not a complete sentence and without a question mark.
+- Avoid using the exact wording from the provided tabular data or encompassed document. Instead, focus on creating abstract, conceptual topics that guide users to explore the table’s content.
+- The pseudo-questions must not take the form of a complete sentence but should still clearly prompt an inquiry or investigation of the table’s data.
+- Avoid using proper nouns (such as specific people, places, or organizations). Use only common nouns to generalize the topic.
+- If there is insufficient information for meaningful topics, do not generate vague or redundant topics.
+
+The output format must be strictly followed:
+- Each narrative topic should be a short phrase.
+- The topics must be numbered sequentially, with no additional text or commentary.
+
+Output template:
+Narrative topic set:
+1. [Pseudo-question 1: concise phrase]
+2. [Pseudo-question 2: concise phrase]
+3. [Pseudo-question 3: concise phrase]
+...
+
+Failure to strictly follow these guidelines will be considered an incorrect output.

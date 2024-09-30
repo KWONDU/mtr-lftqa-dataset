@@ -1,9 +1,0 @@
-You are provided with a gold multi-table set and a high-level question. Your task is to analyze the tables and generate a fluent, coherent, faithful, and comprehensive sentence-level answer that addresses the given high-level question.
-
-### Gold table set information
-{tables_info}
-
-### High-level Question:
-{high_level_question}
-
-Output "must" be natural language sentence(s). Let's think step by step.

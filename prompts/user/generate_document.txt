@@ -1,0 +1,9 @@
+I have provided the following gold table set information and entailed sentences. Your task is to generate a document that expands the entailed sentences by incorporating relevant data from the gold table set.
+
+### Gold Table Set Information:
+{gold_table_set_info}
+
+### Entailed Sentences:
+{sentence_list}
+
+Please create a comprehensive document that weaves the entailed sentences with the additional context from the gold table set, making the narrative richer and more detailed. The resulting document should not just list the table data but integrate it meaningfully to extend the information provided by the entailed sentences.

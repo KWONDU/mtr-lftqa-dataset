@@ -7,21 +7,25 @@
             .AbstractDataset
             .add_huggingface_access_token(token) -> token
             .load_dataset(dataset_name) -> dataset
+            .load_source_dataset(dataset_name) -> source_dataset
             .save_dataset(dataset, dataset_name) -> [pkl_file_list]
+            .save_source_dataset(dataset_name) -> [pkl_file_list]
         .format
-            .data_format(data_num, info_dict, serialize=False) -> data_visualization (data_serialization)
+            .data_format(data_num, data, type) -> data_visualization
             .table_format(table_num, metadata, header, cell, serialize=False) -> table_visualization (table_serialization)
         .openai
             .add_openai_api_key(api_key) -> api_key
-            .get_async_openai_response(system_prompt, user_prompt, model_name)
+            .get_async_openai_response(semaphore, system_prompt, user_prompt, model_name, key)
                 -> Dict(
                     'system_prompt',
                     'user_prompt',
                     'response',
                     'input_tokens_cost',
-                    'output_tokens_cost'
+                    'output_tokens_cost',
+                    'key'
                 )
             .load_llm(model_name) -> llm
+            .load_openai_api_key() -> openai_api_key
             .load_prompt(role, task) -> prompt
             .remove_prompt(role, task) -> bool
             .save_prompt(file_path, role, task) -> {role: task}
@@ -30,40 +34,11 @@
 ## File construction
 
     [folder] construct_source_datasets
-        [folder] prompt_construct_source_table2text_dataset
-            [folder] system
-                [file] generate_coarse_grained_topic_set_using_llm.txt
-                [file] generate_document_using_llm.txt
-                [file] generate_fine_grained_topic_set_using_llm.txt
-            
-            [folder] user
-                [file] generate_coarse_grained_topic_set_using_llm.txt
-                [file] generate_document_using_llm.txt
-                [file] generate_fine_grained_topic_set_using_llm.txt
-        
-        [folder] storage
-            [file] generated_coarse_grained_topic_set_for_each_page.json
-            [file] generated_document_for_each_table.json
-            [file] generated_fine_grained_topic_set_for_each_table.json
-
-            [file] page_clusters_with_high_level_topic_set.json
-            [file] page_clusters_with_low_level_topic_set.json
-            [file] page_clusters_with_middle_level_topic_set.json
-            
-            [file] wikipedia_category_set_for_each_table.json
-        
-        [file] construct_source_table2text_dataset.py
-        [file] construct_source_text2sql_dataset.py
-
-        [file] extract_wikipedia_category_set.py
-        [file] generate_coarse_grained_topic_set_using_llm.py
-        [file] generate_document_using_llm.py
-        [file] generate_fine_grained_topic_set_using_llm.py
+        [folder] prompts
+        [file] table2text_ . . . .py
+        [file] text2sql_ . . . .py
     
-    [folder] plans
-        . . .
-    
-    [folder] prompt_{source_type}
+    [folder] prompts
         [folder] system
             . . .
         
@@ -72,15 +47,16 @@
     
     [folder] results
         [folder] annotation
-            [file] {source_type}-{gold_table_set_index}-{qa_pair_index}.txt
+            . . .
         
         [file] dataset_statistics.csv
-        [file] {source_type}-llm.json
+        . . .
     
     [package] utils
 
     [file] dataset_stats.py
     [file] main.py
+    [file] plans.py
     [file] requirements.txt
 
 ## .gitignore
@@ -88,6 +64,9 @@
     .gitignore
     *__pycache__
     *.yaml
+    *temp*
+    *buffer
+    *storage
 
 ### utils/.gitignore
 
@@ -111,8 +90,8 @@
     from utils.openai import save_prompt
 
     for role in ['system', 'user']:
-        for task in ['generate_high_level_questions', 'filter_each_generated_question', 'generate_high_level_answer']:
-            save_prompt(f'prompt/{role}/{task}.txt', role, task)
+        for task in [. . .]:
+            save_prompt(file_path=f'prompt/{role}/{task}.txt', role, task)
 
 ## 2. About dataset
 
@@ -140,21 +119,7 @@
             [
                 {
                     'gold_table_id_set': [list] gold table IDs
-                    'data_list':
-                        [
-                            {
-                                # for text2sql
-                                'question': [str] each data's annotated question
-                                'sql_query': [str] each data's annotated SQL query
-                                'sql_extraction': [2d list] each data's annotated SQL extraction
-                                # for table2text
-                                'statement': [str] each data's annotated statement
-                            }
-                            . . .
-                        ]
-                    # for table2text
-                    'topic_set': [list] each cluster's topic set # for table2text
-                    . . .
+                    'data_list': [list] sentences
                 }
                 . . .
             ]
@@ -207,9 +172,3 @@
     python3 main.py \
         -d {source_dataset_name, SourceText2SQL or SourceTable2Text}
         -n {number_of_sampled_data}
-
-### 3.1 Results
-
-    results
-        annotation
-            {gold_table_set_index}-{qa_pair_index}.txt

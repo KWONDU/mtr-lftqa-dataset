@@ -1,0 +1,12 @@
+I have the following NL query and its corresponding SQL query. Please provide a concise answer based on the expected SQL query result.
+
+NL query:
+{nl_query}
+
+SQL query:
+{sql_query}
+
+SQL query result:
+{sql_query_result}
+
+Please generate the answer based on the SQL results.

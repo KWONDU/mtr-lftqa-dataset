@@ -1,0 +1,60 @@
+[Gold table set information]
+Table #1 information
+metadata: wedding | people
+full table:
+People_ID | Name            | Country          | Is_Male | Age
+--------------------------------------------------------------
+1         | Mike Weir       | Canada           | T       | 34 
+2         | Juli Hanson     | Sweden           | F       | 32 
+3         | Ricky Barnes    | United States    | T       | 30 
+4         | Summer Duval    | United States    | F       | 30 
+5         | Todd Hamilton   | United States    | T       | 27 
+6         | Annie Mediate   | United States    | F       | 26 
+7         | Lucas Glover    | United States    | T       | 31 
+8         | Joe O'Hair      | United States    | F       | 31 
+9         | Graeme McDowell | Northern Ireland | T       | 34 
+10        | Jamie Mickelson | United States    | F       | 36 
+11        | Adam Scott      | Australia        | T       | 26 
+12        | Danny Toms      | United States    | F       | 25 
+
+Table #2 information
+metadata: wedding | wedding
+full table:
+Church_ID | Male_ID | Female_ID | Year
+--------------------------------------
+1         | 1       | 2         | 2014
+3         | 3       | 4         | 2015
+5         | 5       | 6         | 2016
+4         | 7       | 8         | 2016
+
+Table #3 information
+metadata: wedding | church
+full table:
+Church_ID | Name                                               | Organized_by     | Open_Date | Continuation_of                            
+-------------------------------------------------------------------------------------------------------------------------------------------
+1         | Pure Church of Christ                              | Wycam Clark      | 1831      | Church of Christ                           
+2         | Independent Church                                 | â Hoton        | 1832      | Church of Christ                           
+3         | Church of Christ                                   | Ezra Booth       | 1836      | Church of the Latter Day Saints            
+4         | Church of Christ (Parrishite)                      | Warren Parrish   | 1837      | Church of the Latter Day Saints            
+5         | Alston Church                                      | Isaac Russell    | 1839      | Church of Jesus Christ of Latter Day Saints
+6         | Church of Christ                                   | William Chubby   | 1830      | Church of Jesus Christ of Latter Day Saints
+7         | Church of Jesus Christ, the Bride, the Lamb's Wife | George M. Hinkle | 1840      | Church of Jesus Christ of Latter Day Saints
+8         | Church of Christ                                   | Hiram Page       | 1842      | Church of Jesus Christ of Latter Day Saints
+9         | True Church of Jesus Christ of Latter Day Saints   | William Law      | 1844      | Church of Jesus Christ of Latter Day Saints
+
+[Data set information]
+Sentence #1:
+The church names for the weddings of people older than 30 are "Pure Church of Christ" and "Church of Christ (Parrishite)".
+
+[Document generation]
+The weddings of people older than 30 are held at specific churches, namely the "Pure Church of Christ" and the "Church of Christ (Parrishite)." These churches have a historical significance and are part of a lineage of religious institutions that date back to the early 19th century. The "Pure Church of Christ," organized by Wycam Clark in 1831, is known for its adherence to traditional Christian beliefs. On the other hand, the "Church of Christ (Parrishite)," established by Warren Parrish in 1837, has its roots in the Church of the Latter Day Saints, indicating a connection to the Latter Day Saint movement.
+
+The choice of these particular churches for weddings reflects a preference for venues with deep historical and religious roots. The "Pure Church of Christ," founded in 1831, stands out for its long-standing presence and adherence to traditional Christian teachings. In contrast, the "Church of Christ (Parrishite)" has a more recent establishment in 1837 but is linked to the Church of the Latter Day Saints, showcasing a connection to a broader religious movement.
+
+These weddings signify a blend of personal milestones and historical continuity, as individuals older than 30 exchange vows in settings that carry a legacy of faith and tradition. The selection of the "Pure Church of Christ" and the "Church of Christ (Parrishite)" as venues for these weddings underscores a deliberate choice to celebrate significant life events in spaces imbued with historical and spiritual significance.
+
+[Answer annotation]
+
+
+[Question annotation]
+

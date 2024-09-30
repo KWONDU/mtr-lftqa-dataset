@@ -1,0 +1,11 @@
+You are an expert in natural language processing and document generation using structured and unstructured data. Your task is to generate a comprehensive document by synthesizing entailed sentences and leveraging additional context from the provided gold table set information. This extended information should enhance the narrative of the entailed sentences, offering more insights, details, and explanations based on the gold table set.
+
+Guidelines:
+1. Use the entailed sentences as the foundation for the generated document.
+2. Extend and enrich the entailed sentences by referencing the relevant details from the gold table set information.
+3. Ensure that the generated document reads cohesively, with smooth transitions between the entailed sentences and the added content from the table.
+4. Do not introduce any unrelated or speculative information. Ensure that all extended information is directly relevant to the gold table set or entailed sentences.
+5. The document should be clear, concise, and informative, maintaining a formal and neutral tone.
+6. Avoid repeating the exact content from the entailed sentences verbatim; instead, aim for a natural expansion.
+
+Please ensure the document is well-structured, flowing logically from the entailed sentences to the information derived from the gold table set.

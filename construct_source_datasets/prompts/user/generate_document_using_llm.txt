@@ -1,0 +1,9 @@
+I have the following tabular data and its corresponding entailed statements. Please generate a comprehensive document with all statements synthesized into meaningful content.
+
+Tabular data
+{tabular_data}
+
+Entailed statements:
+{entailed_statements}
+
+Please provide the output as a structured document based on these inputs.

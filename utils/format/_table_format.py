@@ -1,7 +1,7 @@
 def table_format(table_num, metadata, header, cell, serialize=False):
-    display_table = f"Table #{table_num} information"
+    display_table = f"Table #{table_num} information" if table_num >= 0 else ""
 
-    display_table = "\n".join([display_table, f"metadata: {metadata}" if metadata else ""])
+    display_table = "\n".join([display_table, f"metadata: {metadata}"]) if metadata else ""
 
     header = header or []
     cell = cell or [['' for _ in range(len(header))]]

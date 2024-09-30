@@ -1,0 +1,9 @@
+I have a tabular data and its corresponding encompassed document. Please generate a narrative topic set where each topic behaves like a pseudo-question in the form of concise phrases that prompt inquiry into the table’s content, but without forming complete sentences or using question marks.
+
+Tabular data:
+{tabular_data}
+
+Encompassed document:
+{encompassed_document}
+
+Please provide the output as a list of pseudo-questions in the form of short phrases related to this tabular data and its corresponding document.
