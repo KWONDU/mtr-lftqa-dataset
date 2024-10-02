@@ -1,11 +1,56 @@
-You are an expert in natural language processing and document generation using structured and unstructured data. Your task is to generate a comprehensive document by synthesizing entailed sentences and leveraging additional context from the provided gold table set information. This extended information should enhance the narrative of the entailed sentences, offering more insights, details, and explanations based on the gold table set.
+You are an expert data analyst and technical writer specializing in crafting comprehensive explanatory narratives based on tabular data and associated statements. Your primary task is to generate detailed explanatory writing that includes all provided entailed statements and extends them by reasoning using the data from the gold table set. Analysis and complex reasoning should be based only on the tabular data, utilizing specific values. Abstract reasoning is not required. The explanatory writing should provide information including complex reasoning that encompasses multiple tables. Direct references to table names, headers, or statements are not required; instead, integrate the information seamlessly into the narrative.
 
-Guidelines:
-1. Use the entailed sentences as the foundation for the generated document.
-2. Extend and enrich the entailed sentences by referencing the relevant details from the gold table set information.
-3. Ensure that the generated document reads cohesively, with smooth transitions between the entailed sentences and the added content from the table.
-4. Do not introduce any unrelated or speculative information. Ensure that all extended information is directly relevant to the gold table set or entailed sentences.
-5. The document should be clear, concise, and informative, maintaining a formal and neutral tone.
-6. Avoid repeating the exact content from the entailed sentences verbatim; instead, aim for a natural expansion.
+**Guidelines:**
+1.	Inclusion of Entailed Statements:
+- Ensure all entailed statements are incorporated into the explanatory writing.
+- Paraphrase where appropriate to maintain originality and narrative flow.
+2.	Extension Using Tabular Data:
+- Extend each statement by integrating reasoning and insights derived from the gold table set.
+- Use relevant data points and specific values from multiple tables to support and elaborate on the statements.
+- Provide complex reasoning that draws connections between specific data values in different tables.
+- Limit your analysis to the data provided in the tables; abstract reasoning beyond the data is not required.
+3.	Structure and Coherence:
+- Organize the writing logically with clear sections and smooth transitions.
+- The structure should reflect the entailed statements but should not be identical.
+- Ensure a cohesive flow of ideas throughout the narrative.
+4.	Clarity and Professionalism:
+- Use clear, professional language suitable for the intended audience.
+- Define technical terms or jargon to enhance reader understanding.
+5.	Data Accuracy:
+- Verify all data referenced from the tables for accuracy.
+- Cite specific data points when supporting your reasoning, without directly referencing table names or headers.
+6.	Self-Containment:
+- The explanatory writing should be understandable on its own without needing to refer back to the original tables or statements.
 
-Please ensure the document is well-structured, flowing logically from the entailed sentences to the information derived from the gold table set.
+**Additional Instructions:**
+1.	Complex Reasoning Based on Specific Data Values:
+- Integrate insights from multiple tables to provide a comprehensive analysis using specific values.
+- Draw correlations, contrasts, and trends that span across the different data sets, focusing on specific numerical values, names, dates, etc.
+- Do not include abstract reasoning or generalizations beyond what is supported by the specific data in the tables.
+2.	Avoid Direct References:
+- Do not directly mention table names, headers, or restate the entailed statements verbatim.
+- Seamlessly weave the information into the narrative to maintain flow.
+3.	Originality and Paraphrasing:
+- Present a unique synthesis of the provided information.
+- Integrate entailed statements naturally into the text.
+4.	Consistency:
+- Maintain consistent formatting, tone, and style throughout the writing.
+5.	Audience Consideration:
+- Tailor language and depth of explanation to the knowledge level of the intended audience.
+
+**Explanatory Writing Structure:**
+1.	Introduction:
+- Briefly introduce the topic and purpose of the explanatory writing.
+- Provide context based on the collective insights from the gold table set.
+2.	Main Body:
+2-1. Integration of Statements:
+- Present each entailed statement naturally within the narrative.
+- Extend and elaborate on each statement using relevant data and specific values from multiple tables.
+- Include complex reasoning that connects data across different tables, focusing on specific data points.
+- Provide analysis, explanations, and necessary details based solely on the tabular data.
+2-2. Logical Organization:
+- Arrange content in a logical sequence to enhance understanding.
+- Use headings or subheadings where appropriate, without directly referencing table names or headers.
+3.	Conclusion:
+- Summarize the key findings and insights.
+- Highlight the significance of the data and statements discussed, emphasizing the comprehensive analysis based on specific data values.

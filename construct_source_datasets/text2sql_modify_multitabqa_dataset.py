@@ -112,7 +112,7 @@ if __name__ == '__main__':
 
     # 2. Save to storage
 
-    with open('buffer/modified_multitabqa_tables.json', 'w') as file:
+    with open('storage/modified_multitabqa_tables.json', 'w') as file:
         json.dump(unique_tables, file, indent=4)
 
     for split, buffer_split_set in [('train', buffer_train_set),
@@ -135,5 +135,5 @@ if __name__ == '__main__':
             for gold_table_id_set, data_list in modified_split_set_dict.items()
         ]
 
-        with open(f'buffer/modified_multitabqa_{split}_set.json', 'w') as file:
+        with open(f'storage/modified_multitabqa_{split}_set.json', 'w') as file:
             json.dump(modified_split_set, file, indent=4)

@@ -3,6 +3,7 @@ import asyncio
 import json
 import logging
 import random
+import re
 import time
 from collections import defaultdict
 from utils.dataset import load_source_dataset
@@ -12,20 +13,20 @@ from utils.openai import save_prompt
 MODEL_NAME='gpt-3.5-turbo'
 
 result_buffer_format = \
-"""[Gold table set information]
+"""[Gold table set]
 {display_table}
 
-[Data set information]
+[Entailed statements]
 {display_data}
 
 [Document generation]
-{generate_document}
+{generated_document}
 
 [Answer annotation]
-{annotate_answer}
+{annotated_answer}
 
 [Question annotation]
-{annotate_question}
+{annotated_question}
 """
 
 
@@ -62,25 +63,20 @@ def main(dataset_name, sample_n):
      total_cost = defaultdict()
 
      # 0. Display information of gold table set and data set
-     from utils.format import data_format, table_format
+     from utils.display import table_visualization
      for num, (gold_table_id_set, data_list) in enumerate(sampled_data_dict.items()):
-          display_table = "\n\n".join([
-               table_format(
+          display_table = "\n".join([
+               table_visualization(
                     table_num=idx+1,
                     metadata=table_lake[gold_table_id]['metadata'],
                     header=table_lake[gold_table_id]['header'],
-                    cell=table_lake[gold_table_id]['cell'],
-                    serialize=False
+                    cell=table_lake[gold_table_id]['cell']
                ) for idx, gold_table_id in enumerate(gold_table_id_set)
           ])
 
-          display_data = "\n\n".join([
-               data_format(
-                    data_num=idx+1,
-                    data=data,
-                    type='sentence'
-               )
-               for idx, data in enumerate(data_list)
+          display_data = "\n".join([
+               data
+               for _, data in enumerate(data_list)
           ])
 
           result_buffer[num].update({
@@ -96,13 +92,13 @@ def main(dataset_name, sample_n):
      # type: SourceTable2Text, SourceText2SQL
      # tables: {table_id, metadata, header, cell}
      # split set: {gold_table_id_set, data_list}
-     #                                data_list: list of entailed sentences
+     #                                data_list: list of entailed statements
 
      for role in ['system', 'user']:
-          for task in ['generate_document', 'annotate_high_level_question', 'annotate_high_level_answer']:
+          for task in ['generate_document', 'annotate_answer', 'annotate_question']:
                save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
      
-     # 1. Generate document using entailed sentences and gold table set information
+     # 1. Generate document using entailed statements and gold table set information
      from plans import generate_document
 
      step1_task_input = [
@@ -111,12 +107,12 @@ def main(dataset_name, sample_n):
                     table_lake[gold_table_id]
                     for gold_table_id in gold_table_id_set
                ],
-               'sentence_list': data_list
+               'statement_list': data_list
           }
           for gold_table_id_set, data_list in sampled_data_dict.items()
      ]
 
-     semaphore=asyncio.Semaphore(100)
+     semaphore = asyncio.Semaphore(100)
      step1_task_output, cost = asyncio.run(generate_document(
           semaphore=semaphore,
           model_input=step1_task_input,
@@ -125,9 +121,9 @@ def main(dataset_name, sample_n):
 
      generated_document_list = [model_output['response'] for model_output in step1_task_output]
 
-     for num, model_output in enumerate(step1_task_output):
+     for num, generated_document in enumerate(generated_document_list):
           result_buffer[num].update({
-               'generate_document': model_output['response']
+               'doc': generated_document
           })
      
      ### BUFFER ###
@@ -136,17 +132,36 @@ def main(dataset_name, sample_n):
      total_cost['Generate document'] = cost
      ### BUFFER ###
 
-     logger.info("[Done] Generate document using entailed sentences and gold table set information.")
+     logger.info("[Done] Generate document using entailed statements and gold table set information.")
 
      # 2. Annotate high-level answer using generated document
      from plans import annotate_answer
 
-     for _, __ in result_buffer.items():
-          result_buffer[_].update({
-               'annotate_answer': ""
-          })
-     
-     step2_task_output = []
+     step2_task_input = [
+          {
+               'document': generated_document
+          }
+          for generated_document in generated_document_list
+     ]
+
+     semaphore = asyncio.Semaphore(100)
+     step2_task_output, cost = asyncio.run(annotate_answer(
+          semaphore=semaphore,
+          model_input=step2_task_input,
+          model_name=MODEL_NAME
+     ))
+
+     annotated_answers_list = []
+     for model_output in step2_task_output:
+          annotated_answers_list.append(
+               [line for line in re.sub(r'^\d+\.\s*', '', model_output['response'], flags=re.MULTILINE).splitlines() if line.strip()]
+          )
+
+     for num, annotated_answers in enumerate(annotated_answers_list):
+          result_buffer[num]['annotation'] = {
+               f'ans_{idx}': annot_ans
+               for idx, annot_ans in enumerate(annotated_answers)
+          }
 
      ### BUFFER ###
      llm_buffer.append(step2_task_output)
@@ -157,12 +172,35 @@ def main(dataset_name, sample_n):
      # 3. Annotate high-level question using annotated high-level answer and gold table set information
      from plans import annotate_question
 
-     for _, __ in result_buffer.items():
-          result_buffer[_].update({
-               'annotate_question': ""
+     step3_task_input = [
+          {
+               'gold_table_set': [
+                    table_lake[gold_table_id]
+                    for gold_table_id in gold_table_id_set
+               ],
+               'answer': annotated_answer,
+               'key': (num, idx)
+          }
+          for num, (gold_table_id_set, annotated_answers) in enumerate(zip(sampled_data_dict.keys(), annotated_answers_list))
+          for idx, annotated_answer in enumerate(annotated_answers)
+     ]
+
+     semaphore = asyncio.Semaphore(100)
+     step3_task_output, cost = asyncio.run(annotate_question(
+          semaphore=semaphore,
+          model_input=step3_task_input,
+          model_name=MODEL_NAME
+     ))
+
+     annotated_questions_list = [[] for _ in range(len(annotated_answers_list))]
+     for model_output in step3_task_output:
+          annotated_questions_list[model_output['key'][0]].append(model_output['response'])
+
+     for num, annotated_questions in enumerate(annotated_questions_list):
+          result_buffer[num]['annotation'].update({
+               f'qn_{idx}': annot_qn
+               for idx, annot_qn in enumerate(annotated_questions)
           })
-     
-     step3_task_output = []
 
      ### BUFFER ###
      llm_buffer.append(step3_task_output)
@@ -172,16 +210,17 @@ def main(dataset_name, sample_n):
 
      # 4. Save to file - temp
      for num, result in result_buffer.items():
-          with open(f'results/annotation/{source_type}_{num}.txt', 'w') as file:
-               file.write(result_buffer_format.format(
-                    display_table=result['display_table'],
-                    display_data=result['display_data'],
-                    generate_document=result['generate_document'],
-                    annotate_answer=result['annotate_answer'],
-                    annotate_question=result['annotate_question']
-               ))
+          for idx in range(len(result['annotation']) // 2):
+               with open(f'results/storage/{source_type}_{num}_{idx}.txt', 'w') as file:
+                    file.write(result_buffer_format.format(
+                         display_table=result['display_table'],
+                         display_data=result['display_data'],
+                         generated_document=result['doc'],
+                         annotated_answer=result['annotation'][f'ans_{idx}'],
+                         annotated_question=result['annotation'][f'qn_{idx}']
+                    ))
 
-     with open(f'results/{source_type}_llm_buffer.json', 'w') as file:
+     with open(f'results/buffer/{source_type}_llm.json', 'w') as file:
           json.dump(llm_buffer, file, indent=4)
     
      logger.info(time.strftime("%Y/%m/%d %H:%M:%S", time.localtime()))

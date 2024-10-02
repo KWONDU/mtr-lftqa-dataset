@@ -9,6 +9,8 @@ async def get_async_openai_response(semaphore, system_prompt, user_prompt, model
 
     if model_name == 'gpt-3.5-turbo':
         input_tokens_price, output_tokens_price = 1.50/1e6, 2.00/1e6
+    elif model_name == 'gpt-4-turbo':
+        input_tokens_price, output_tokens_price = 10/1e6, 30/1e6
 
     is_16k = False
 

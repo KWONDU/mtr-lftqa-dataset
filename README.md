@@ -10,9 +10,9 @@
             .load_source_dataset(dataset_name) -> source_dataset
             .save_dataset(dataset, dataset_name) -> [pkl_file_list]
             .save_source_dataset(dataset_name) -> [pkl_file_list]
-        .format
-            .data_format(data_num, data, type) -> data_visualization
-            .table_format(table_num, metadata, header, cell, serialize=False) -> table_visualization (table_serialization)
+        .display
+            .table_serialization(table_num, metadata, header, cell) -> table_serialization
+            .table_visualization(table_num, metadata, header, cell) -> table_visualization
         .openai
             .add_openai_api_key(api_key) -> api_key
             .get_async_openai_response(semaphore, system_prompt, user_prompt, model_name, key)
@@ -46,9 +46,7 @@
             . . .
     
     [folder] results
-        [folder] annotation
-            . . .
-        
+        . . .
         [file] dataset_statistics.csv
         . . .
     
@@ -119,7 +117,7 @@
             [
                 {
                     'gold_table_id_set': [list] gold table IDs
-                    'data_list': [list] sentences
+                    'data_list': [list] entailed statements
                 }
                 . . .
             ]

@@ -1,9 +1,36 @@
-I have provided the following gold table set information and entailed sentences. Your task is to generate a document that expands the entailed sentences by incorporating relevant data from the gold table set.
+Please generate comprehensive explanatory writing based on the following inputs:
 
-### Gold Table Set Information:
+Gold Table Set:
 {gold_table_set_info}
 
-### Entailed Sentences:
-{sentence_list}
+Entailed Statements:
+{statement_list}
 
-Please create a comprehensive document that weaves the entailed sentences with the additional context from the gold table set, making the narrative richer and more detailed. The resulting document should not just list the table data but integrate it meaningfully to extend the information provided by the entailed sentences.
+**Conditions:**
+- Reference to table names, headers, or statements directly is not required. Integrate the information seamlessly into the narrative without direct mentions.
+- The explanatory writing should provide information including complex reasoning that encompasses multiple tables.
+- Analysis and complex reasoning should be based only on the tabular data, utilizing specific values. Abstract reasoning is not required.
+
+**Steps for Completion:**
+1.	Review the Inputs:
+- Carefully read the entailed statements.
+- Examine the gold table set data to understand all relevant details and how the tables interrelate.
+2.	Plan the Structure:
+- Decide on a logical organization for the explanatory writing.
+- Ensure the structure reflects the entailed statements but varies appropriately.
+- Identify points where data from multiple tables can be integrated for complex reasoning based on specific values.
+3.	Write the Introduction:
+- Introduce the topic and explain the purpose of the writing.
+- Provide necessary context based on the overarching themes from the gold table set.
+4.	Develop the Main Body:
+- Integrate each entailed statement into the narrative without directly quoting them.
+- Extend and elaborate on them using data and reasoning from multiple tables, focusing on specific values.
+- Draw connections between different data sets to support complex reasoning based solely on tabular data.
+- Provide analysis, explanations, and any necessary details, avoiding direct references to table names or headers.
+- Limit your analysis to the data provided in the tables; abstract reasoning beyond the data is not required.
+5.	Conclude the Writing:
+- Summarize the main points and their broader implications based on the specific data analyzed.
+- Emphasize the significance of the findings derived from the integrated data.
+6.	Finalize the Document:
+- Review for clarity, coherence, and accuracy.
+- Ensure the writing is self-contained and adheres to all guidelines, especially the conditions regarding references and complex reasoning based on specific data values.
