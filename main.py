@@ -190,11 +190,11 @@ def main(dataset_name, sample_n):
           ]
      )
 
-     ### BUFFER ###
      annotated_questions_list = [[] for _ in range(len(annotated_answers_list))]
      for model_output in plan_output_list:
-          annotated_questions_list[model_output['key'][0]].append(model_output['response'])
+          annotated_questions_list[model_output['key'][0]].append(model_output['response']) # idx
 
+     ### BUFFER ###
      for num, annotated_questions in enumerate(annotated_questions_list):
           result_buffer[num]['annotation'].update({
                f'qn_{idx}': annot_qn
