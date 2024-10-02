@@ -19,15 +19,26 @@ result_buffer_format = \
 [Entailed statements]
 {display_data}
 
-[Document generation]
+[Step 1. document generation]
 {generated_document}
 
-[Answer annotation]
+[Step 2. answer annotation]
 {annotated_answer}
 
-[Question annotation]
+[Step 3. question annotation]
 {annotated_question}
 """
+
+
+def run_plan(plan, plan_input):
+     semaphore = asyncio.Semaphore(100)
+     plan_output_list, cost = asyncio.run(plan(
+          semaphore=semaphore,
+          model_input=plan_input,
+          model_name=MODEL_NAME
+     ))
+
+     return plan_output_list, cost
 
 
 def main(dataset_name, sample_n):
@@ -99,35 +110,30 @@ def main(dataset_name, sample_n):
                save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
      
      # 1. Generate document using entailed statements and gold table set information
-     from plans import generate_document
+     from plans import generate_document_task
+     plan_output_list, cost = run_plan(
+          plan=generate_document_task,
+          plan_input=[
+               {
+                    'gold_table_set': [
+                         table_lake[gold_table_id]
+                         for gold_table_id in gold_table_id_set
+                    ],
+                    'statement_list': data_list
+               }
+               for gold_table_id_set, data_list in sampled_data_dict.items()
+          ]
+     )
 
-     step1_task_input = [
-          {
-               'gold_table_set': [
-                    table_lake[gold_table_id]
-                    for gold_table_id in gold_table_id_set
-               ],
-               'statement_list': data_list
-          }
-          for gold_table_id_set, data_list in sampled_data_dict.items()
-     ]
+     generated_document_list = [plan_output['response'] for plan_output in plan_output_list]
 
-     semaphore = asyncio.Semaphore(100)
-     step1_task_output, cost = asyncio.run(generate_document(
-          semaphore=semaphore,
-          model_input=step1_task_input,
-          model_name=MODEL_NAME
-     ))
-
-     generated_document_list = [model_output['response'] for model_output in step1_task_output]
-
+     ### BUFFER ###
      for num, generated_document in enumerate(generated_document_list):
           result_buffer[num].update({
                'doc': generated_document
           })
      
-     ### BUFFER ###
-     llm_buffer.append(step1_task_output)
+     llm_buffer.append(plan_output_list)
 
      total_cost['Generate document'] = cost
      ### BUFFER ###
@@ -135,65 +141,58 @@ def main(dataset_name, sample_n):
      logger.info("[Done] Generate document using entailed statements and gold table set information.")
 
      # 2. Annotate high-level answer using generated document
-     from plans import annotate_answer
-
-     step2_task_input = [
-          {
-               'document': generated_document
-          }
-          for generated_document in generated_document_list
-     ]
-
-     semaphore = asyncio.Semaphore(100)
-     step2_task_output, cost = asyncio.run(annotate_answer(
-          semaphore=semaphore,
-          model_input=step2_task_input,
-          model_name=MODEL_NAME
-     ))
+     from plans import annotate_answer_task
+     plan_output_list, cost = run_plan(
+          plan=annotate_answer_task,
+          plan_input=[
+               {
+                    'document': generated_document
+               }
+               for generated_document in generated_document_list
+          ]
+     )
 
      annotated_answers_list = []
-     for model_output in step2_task_output:
+     for model_output in plan_output_list:
           annotated_answers_list.append(
                [line for line in re.sub(r'^\d+\.\s*', '', model_output['response'], flags=re.MULTILINE).splitlines() if line.strip()]
           )
 
+     ### BUFFER ###
      for num, annotated_answers in enumerate(annotated_answers_list):
           result_buffer[num]['annotation'] = {
                f'ans_{idx}': annot_ans
                for idx, annot_ans in enumerate(annotated_answers)
           }
 
-     ### BUFFER ###
-     llm_buffer.append(step2_task_output)
-     
-     logger.info("[Done] Annotate high-level answer using generated document.")
+     llm_buffer.append(plan_output_list)
+
+     total_cost['Annotate answer'] = cost
      ### BUFFER
 
+     logger.info("[Done] Annotate high-level answer using generated document.")
+
      # 3. Annotate high-level question using annotated high-level answer and gold table set information
-     from plans import annotate_question
+     from plans import annotate_question_task
+     plan_output_list, cost = run_plan(
+          plan=annotate_question_task,
+          plan_input=[
+               {
+                    'gold_table_set': [
+                         table_lake[gold_table_id]
+                         for gold_table_id in gold_table_id_set
+                    ],
+                    'answer': annotated_answer,
+                    'key': (num, idx)
+               }
+               for num, (gold_table_id_set, annotated_answers) in enumerate(zip(sampled_data_dict.keys(), annotated_answers_list))
+               for idx, annotated_answer in enumerate(annotated_answers)
+          ]
+     )
 
-     step3_task_input = [
-          {
-               'gold_table_set': [
-                    table_lake[gold_table_id]
-                    for gold_table_id in gold_table_id_set
-               ],
-               'answer': annotated_answer,
-               'key': (num, idx)
-          }
-          for num, (gold_table_id_set, annotated_answers) in enumerate(zip(sampled_data_dict.keys(), annotated_answers_list))
-          for idx, annotated_answer in enumerate(annotated_answers)
-     ]
-
-     semaphore = asyncio.Semaphore(100)
-     step3_task_output, cost = asyncio.run(annotate_question(
-          semaphore=semaphore,
-          model_input=step3_task_input,
-          model_name=MODEL_NAME
-     ))
-
+     ### BUFFER ###
      annotated_questions_list = [[] for _ in range(len(annotated_answers_list))]
-     for model_output in step3_task_output:
+     for model_output in plan_output_list:
           annotated_questions_list[model_output['key'][0]].append(model_output['response'])
 
      for num, annotated_questions in enumerate(annotated_questions_list):
@@ -202,11 +201,12 @@ def main(dataset_name, sample_n):
                for idx, annot_qn in enumerate(annotated_questions)
           })
 
-     ### BUFFER ###
-     llm_buffer.append(step3_task_output)
-     
-     logger.info("[Done] Annotate high-level question using annotated high-level answer and gold table set information.")
+     llm_buffer.append(plan_output_list)
+
+     total_cost['Annotate question'] = cost
      ### BUFFER
+
+     logger.info("[Done] Annotate high-level question using annotated high-level answer and gold table set information.")
 
      # 4. Save to file - temp
      for num, result in result_buffer.items():
