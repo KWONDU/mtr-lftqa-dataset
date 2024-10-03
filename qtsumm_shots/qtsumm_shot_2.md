@@ -99,17 +99,17 @@
 
 **QA pair 1 - Entailed statement 1**
 
-Q.  Summarize the couples who participated in the sixth episode of the show.
-A.  The sixth episode of Take Me Out featured three couples - Jonathan and Helen, Nathan and Shakira, and Darren and Josephine. Jonathan and Helen were the first couple to appear, followed by Nathan and Shakira. Finally, Darren and Josephine rounded out the trio of couples. The episode was watched by 5.42 million viewers and ranked 19th in ITV1's weekly list of most-watched program.
----
-S.  dd
+    Q.  Summarize the couples who participated in the sixth episode of the show.
+    A.  The sixth episode of Take Me Out featured three couples - Jonathan and Helen, Nathan and Shakira, and Darren and Josephine. Jonathan and Helen were the first couple to appear, followed by Nathan and Shakira. Finally, Darren and Josephine rounded out the trio of couples. The episode was watched by 5.42 million viewers and ranked 19th in ITV1's weekly list of most-watched program.
+    ---
+    S.  dd
 
 **QA pair 2 - Entailed statement 2**
 
-Q.  What are the names of the couples who participated in the third episode of the show? Summarize the basic information of these couples.
-A.  The third episode of Take Me Out (Uk Game Show) aired on January 16th, 2010 and featured four couples. The first couple was Adam and Nicola, the second couple was David and Georgee, the third couple was Oliver and June, and the fourth couple was Tony and Jamie. The number of viewers for this episode were 4.74 million and it was ranked 18th out of all the ITV1 shows that week.
----
-S.  dd
+    Q.  What are the names of the couples who participated in the third episode of the show? Summarize the basic information of these couples.
+    A.  The third episode of Take Me Out (Uk Game Show) aired on January 16th, 2010 and featured four couples. The first couple was Adam and Nicola, the second couple was David and Georgee, the third couple was Oliver and June, and the fourth couple was Tony and Jamie. The number of viewers for this episode were 4.74 million and it was ranked 18th out of all the ITV1 shows that week.
+    ---
+    S.  dd
 
 ## Annotation
 
