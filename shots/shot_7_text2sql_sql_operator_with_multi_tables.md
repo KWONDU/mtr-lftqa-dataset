@@ -1,4 +1,4 @@
-# Shot 8
+# Shot 7
 
 ## Gold table set
 
@@ -7,7 +7,7 @@
 **Visualization**
 
     Table id: None
-    metadata (page title): None
+    metadata (None): None
     None
 
 **Serialization**

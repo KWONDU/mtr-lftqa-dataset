@@ -71,7 +71,9 @@ if __name__ == '__main__':
 
         if gold_table_1_id == gold_table_2_id:
             continue
-        elif gold_table_1['metadata'] == gold_table_2['metadata'] and str(gold_table_1['cell']) != str(gold_table_2['cell']):
+        elif gold_table_1['metadata'] == gold_table_2['metadata']:
+            continue
+        else:
             print(f"Rank {rank+1}:\nPage title 1: {gold_table_1['metadata']}\nPage title 2: {gold_table_2['metadata']}\nQuery 1: {sim_query_list[query_1_idx]}\nQuery 2: {sim_query_list[query_2_idx]}\nSim: {sim}\n")
             cnt += 1
 

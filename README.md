@@ -55,7 +55,6 @@
     
     [package] utils
 
-    [file] construct_qtsumm_shots.py
     [file] dataset_stats.py
     [file] main.py
     [file] plans.py
