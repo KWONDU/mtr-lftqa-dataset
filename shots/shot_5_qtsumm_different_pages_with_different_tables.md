@@ -7,7 +7,7 @@
 **Visualization**
 
     Table id: None
-    metadata (page title): None
+    metadata: None
     None
 
 **Serialization**

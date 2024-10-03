@@ -7,7 +7,7 @@
 **Visualization**
 
     Table id: 1c00154ea98616c443a4866325582a956471b170c45f987c05b8a774aa30f62a
-    metadata (page title): 2008 in Strikeforce - Events list
+    metadata: 2008 in Strikeforce - Events list
     #  | Event Title                       | Date               | Arena                     | Location                  | Attendance | Broadcast
     --------------------------------------------------------------------------------------------------------------------------------------------
     16 | Strikeforce: Destruction          | November 21, 2008  | HP Pavilion at San Jose   | San Jose, California      | 8,152      | HDNet    
@@ -28,7 +28,7 @@
 **Visualization**
 
     Table id: 4e6411ade16794eb39bfbdfe0631f8a430cb43c4f798f7c7324fcffbe4d7b6f5
-    metadata (page title): 2009 in Strikeforce - Events list
+    metadata: 2009 in Strikeforce - Events list
     #  | Event Title                                     | Date               | Arena                   | Location                  | Attendance | Broadcast
     --------------------------------------------------------------------------------------------------------------------------------------------------------
     26 | Strikeforce: Evolution                          | December 19, 2009  | HP Pavilion at San Jose | San Jose, California      | 14,749     | Showtime 

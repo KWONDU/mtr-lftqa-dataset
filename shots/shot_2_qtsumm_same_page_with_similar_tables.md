@@ -7,7 +7,7 @@
 **Visualization**
 
     Table id: e5ed2d8005238f50b689f239d335411f70cded82553581295f4874f58a85e915
-    metadata (page title): List Of The Busiest Airports In The United States
+    metadata: List Of The Busiest Airports In The United States
     Rank | Airport Name                                | Location                 | Iata Code | Tonnes   | % Chg 2010 / 11
     ----------------------------------------------------------------------------------------------------------------------
     1    | Memphis International Airport               | Memphis , Tennessee      | Mem       | 3916410  | 0 0.0%         
@@ -29,7 +29,7 @@
 **Visualization**
 
     Table id: de8eafd6529310457cbb967e43024449e0185103fd276fe08864facc3c1e552f
-    metadata (page title): List Of The Busiest Airports In The United States
+    metadata: List Of The Busiest Airports In The United States
     Rank | Airport Name                                       | Location                      | Iata Code | Passengers | % Chg 2009 / 10
     ------------------------------------------------------------------------------------------------------------------------------------
     1    | John F Kennedy International Airport               | Queens , New York             | Jfk       | 22702882   | 5.8%           

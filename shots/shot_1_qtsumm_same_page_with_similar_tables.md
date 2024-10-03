@@ -7,7 +7,7 @@
 **Visualization**
 
     Table id: ed3e1377926e4fe35168a9148327fbe27bcd8314b2afa60604c77ff08d7ca527
-    metadata (page title): 2007 Kentucky Wildcats Football Team
+    metadata: 2007 Kentucky Wildcats Football Team
     Position | Number | Name              | Height | Weight | Class | Hometown                   | Games
     ----------------------------------------------------------------------------------------------------
     Qb       | 3      | Andre Woodson     | 6'5    | 230Lb  | Sr    | Radcliff , Kentucky        | 13   
@@ -31,7 +31,7 @@
 **Visualization**
 
     Table id: 5bd669d1d21d05c76035b9f46f7209ad44d8f1cef5fbf7f1a3d85978b9d5e2c7
-    metadata (page title): 2007 Kentucky Wildcats Football Team
+    metadata: 2007 Kentucky Wildcats Football Team
     Position | Number | Name             | Height | Weight | Class | Hometown                  | Games
     --------------------------------------------------------------------------------------------------
     Le       | 99     | Jeremy Jarmon    | 6'3    | 277Lb  | So    | Collierville , Tennessee  | 13   
