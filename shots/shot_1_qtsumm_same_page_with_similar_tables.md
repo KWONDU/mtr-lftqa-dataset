@@ -1,4 +1,4 @@
-# Shot 1 : same page, different tables
+# Shot 1 : same page, similar tables
 
 ## Gold table set
 

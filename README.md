@@ -45,12 +45,12 @@
         [folder] user
             . . .
     
-    [folder] qtsumm_shots
-        . . .
-    
     [folder] results
         . . .
         [file] dataset_statistics.csv
+        . . .
+    
+    [folder] shots
         . . .
     
     [package] utils
