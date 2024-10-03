@@ -79,6 +79,7 @@ async def generate_short_form_answer(model_input, model_name, semaphore, table_s
                 nl_query=input_data['nl_query'],
                 sql_query=input_data['sql_query'],
                 sql_query_result=table_serialization(
+                    table_num=-1,
                     metadata=None,
                     header=input_data['sql_query_result']['header'],
                     cell=input_data['sql_query_result']['cell']

@@ -24,7 +24,7 @@ def table_visualization(table_num, metadata, header, cell):
     elif header != [] and cell == [['' for _ in range(len(header))]]:
         visualization = "\n".join([visualization, f"header: {serialize_header}"])
     else:
-        visualization =  "\n".join([visualization, "full table:"])
+        visualization =  "\n".join([visualization, "full table:"]) if visualization != "" else ""
         visualization = "\n".join([visualization, serialize_header if serialize_header else ""])
         visualization = "\n".join([visualization, serialize_cell])
     
