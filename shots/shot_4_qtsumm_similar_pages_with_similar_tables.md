@@ -138,17 +138,37 @@
 
 ## Annotation
 
-**QA pair 1 : Relationship between tables**
+**QA pair 1 : Relationship between tables & Additional reasoning**
 
-    Q.  None
+    Q.  # -> 어떤 게 제일 어려운가
     A.  None
 
 **QA pair 2 : Reference from statements**
 
-    Q.  None
+    Q.  # 각 경기별 top3 정보
     A.  None
 
-**QA pair 3 : Additional Reasoning**
+**QA pair 3 : Reference from statements**
 
-    Q.  None
+    Q.  # 각 lane 1, 2별 등수
+    A.  None
+
+**QA pair 4 : Reference from statements**
+
+    Q.  # 시간 분포 통틀어서
+    A.  None
+
+**QA pair 5 : Reference from statements**
+
+    Q.  # 가장 빠른 사람들이 누군지랑 세운 기록들
+    A.  None
+
+**QA pair 6 : Reference from statements**
+
+    Q.  # 미국 사람들 기록
+    A.  None
+
+**QA pair 7 : Additional Reasoning**
+
+    Q.  # 지역, 국가별 기록 세운 사람들 정보
     A.  None
