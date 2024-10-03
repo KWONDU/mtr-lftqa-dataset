@@ -55,21 +55,21 @@
     Q.  Provide a comparison of attendance between Strikeforce events held at HP Pavilion at San Jose and San Jose Civic Auditorium in 2008.
     A.  In 2008, Strikeforce have organized total five events at HP Pavilion at San Jose and San Jose Civic Auditorium. Out of five events, three happen at HP Pavilion at San Jose, and two happen at the San Jose Civic Auditorium. The average number of attendance in HP Pavilion at San Jose was much higher, about 10,590 attendees, compare to San Jose Civic Auditorium, which had an average attendance of 5,289. The highest attendance record in 2008 for any Strikeforce event was at HP Pavilion at San Jose, with 16,326 attendees at Strikeforce: Shamrock vs. Le event on March 29, 2008. Based on this information, it clear that Strikeforce events held at HP Pavilion at San Jose attract many more audience than those held at the San Jose Civic Auditorium in 2008.
     ---
-    S.  None
+    S.  In 2008, Strikeforce have organized total five events at HP Pavilion at San Jose and San Jose Civic Auditorium. Out of five events, three happen at HP Pavilion at San Jose, and two happen at the San Jose Civic Auditorium. The average number of attendance in HP Pavilion at San Jose was much higher, about 10,590 attendees, compare to San Jose Civic Auditorium, which had an average attendance of 5,289. The highest attendance record in 2008 for any Strikeforce event was at HP Pavilion at San Jose, with 16,326 attendees at Strikeforce: Shamrock vs. Le event on March 29, 2008. Based on this information, it clear that Strikeforce events held at HP Pavilion at San Jose attract many more audience than those held at the San Jose Civic Auditorium in 2008.
 
 **QA pair 2 - Entailed statement 2**
 
     Q.  What was the highest attended Strikeforce event in 2008 and where was it held?
     A.  The most high attended Strikeforce event in 2008 be Strikeforce: Shamrock vs. Le. This event happen on March 29, 2008, at HP Pavilion at San Jose in San Jose, California. The attending for this event achieve 16,326 peoples.
     ---
-    S.  None
+    S.  The most high attended Strikeforce event in 2008 be Strikeforce: Shamrock vs. Le. This event happen on March 29, 2008, at HP Pavilion at San Jose in San Jose, California. The attending for this event achieve 16,326 peoples.
 
 **QA pair 3 - Entailed statement 3**
 
     Q.  How many Strikeforce events in 2008 were broadcasted by HDNet?
     A.  In 2008, total four Strikeforce event was broadcasted by HDNet. These event include Strikeforce: Destruction, Strikeforce: Payback, Strikeforce: Melendez vs. Thomson, and Strikeforce: At The Dome.
     ---
-    S.  None
+    S.  In 2008, total four Strikeforce event was broadcasted by HDNet. These event include Strikeforce: Destruction, Strikeforce: Payback, Strikeforce: Melendez vs. Thomson, and Strikeforce: At The Dome.
 
 ### About table 2
 
@@ -78,35 +78,50 @@
     Q.  Which broadcasting network aired the majority of Strikeforce events in 2009 according to the provided data?
     A.  From data giving, most Strikeforce events in 2009 was showing on Showtime broadcast network. In 10 events that listed, Showtime show 9 events and CBS only show 1 event.
     ---
-    S.  None
+    S.  Most Strikeforce events in 2009 was showing on Showtime broadcast network. In 10 events that listed, Showtime show 9 events and CBS only show 1 event.
 
 **QA pair 2 - Entailed statement 2**
 
     Q.  What was the event with the highest attendance in 2009, and where was it held?
     A.  In 2009, the event with most people coming was Strikeforce: Shamrock vs. Diaz. It happening on April 11, 2009. The place it held was HP Pavilion at San Jose, in San Jose, California. The number of people attending is 15,211.
     ---
-    S.  None
+    S.  In 2009, the event with most people coming was Strikeforce: Shamrock vs. Diaz. It happening on April 11, 2009. The place it held was HP Pavilion at San Jose, in San Jose, California. The number of people attending is 15,211.
 
 **QA pair 3 - Entailed statement 3**
 
     Q.  How many events did Strikeforce hold in San Jose, California throughout the year of 2009, and what were the attendance numbers for these events?
     A.  In 2009, Strikeforce had total three events in San Jose, California. These events were Strikeforce: Evolution on December 19 with people 14,749, Strikeforce: Carano vs. Cyborg on August 15 with people 13,976, and Strikeforce: Shamrock vs. Diaz on April 11 with people 15,211. This add to a total people of 43,936 across all three events in San Jose in that year.
     ---
-    S.  None
+    S.  In 2009, Strikeforce had total three events in San Jose, California. These events were Strikeforce: Evolution on December 19 with people 14,749, Strikeforce: Carano vs. Cyborg on August 15 with people 13,976, and Strikeforce: Shamrock vs. Diaz on April 11 with people 15,211. This add to a total people of 43,936 across all three events in San Jose in that year.
 
 ## Annotation
 
-**QA pair 1 : Relationship between tables**
+**QA pair 1 : Reference from statements**
 
-    Q.  None
-    A.  None
+    Q.  How many Strikeforce events were broadcasted by Showtime in 2008 and 2009?
+    A.  In 2008 and 2009, a total of 10 Strikeforce events were broadcasted by Showtime. These events include Strikeforce: Shamrock vs. Le in 2008, and in 2009, Strikeforce: Evolution, Strikeforce Challengers: Woodley vs. Bears, Strikeforce Challengers: Gurgel vs. Evangelista, Strikeforce Challengers: Kennedy vs. Cummings, Strikeforce: Carano vs. Cyborg, Strikeforce Challengers: Villasenor vs. Cyborg, Strikeforce: Lawler vs. Shields, Strikeforce Challengers: Evangelista vs. Aina, and Strikeforce: Shamrock vs. Diaz.
 
 **QA pair 2 : Reference from statements**
 
-    Q.  None
-    A.  None
+    Q.  How many events did Strikeforce hold in San Jose, California in 2008 and 2009, and what were the attendance numbers for these events?
+    A.  In 2008 and 2009, Strikeforce held a total of 8 events in San Jose, California. In 2008, these events were Strikeforce: Destruction on November 21 with people 8,152, Strikeforce: Young Guns III on September 13 with people 4,789, Strikeforce: Melendez vs. Thomson on June 27 with people 7,288, Strikeforce: Shamrock vs. Le on March 29 with people 16,326, and Strikeforce: Young Guns II on February 1 with people 5,789. In 2009, hese events were Strikeforce: Evolution on December 19 with people 14,749, Strikeforce: Carano vs. Cyborg on August 15 with people 13,976, and Strikeforce: Shamrock vs. Diaz on April 11 with people 15,211. This add to a total people of 86,280 across all events in San Jose over the years 2008 and 2009.
 
-**QA pair 3 : Additional Reasoning**
+**QA pair 3 : Reference from statements**
 
-    Q.  None
-    A.  None
+    Q.  What was the highest attended Strikeforce event in 2008-09 and where was it held?
+    A.  The highest attended Strikeforce event in 2008-09 was Strikeforce: Shamrock vs. Le, held on March 29, 2008, at HP Pavilion at San Jose in San Jose, California, with an attendance of 16,326 attendees.
+
+**QA pair 4 : Reference from statements & Additional reasoning**
+
+    Q.  How did the broadcasting network for Strikeforce events change between 2008 and 2009?
+    A.  In 2008, most Strikeforce events were showing on HDNet broadcast network, with 4 out of 5 events being aired on that network. However, in 2009, there was a notable shift in broadcasting, with Showtime taking over as the primary broadcaster. In that year, of the 10 listed events, Showtime show 9 events and CBS only show 1 event. This marks a significant transition in broadcasting dominance from HDNet in 2008 to Showtime in 2009.
+
+**QA pair 5 : Reference from statements & Additional reasoning**
+
+    Q.  Provide a comparison of attendance between Strikeforce events held at HP Pavilion at San Jose and San Jose Civic Auditorium through 2008 and 09.
+    A.  Through 2008 and 2009, Strikeforce organized a total of eight events at HP Pavilion at San Jose and San Jose Civic Auditorium. Out of these, six events were held at HP Pavilion at San Jose, while two events took place at San Jose Civic Auditorium. The average attendance at HP Pavilion at San Jose was significantly higher, at 12,617 attendees, compared to San Jose Civic Auditorium, which had an average attendance of 5,289 attendees. The highest attendance recorded was at HP Pavilion at San Jose for the Strikeforce: Shamrock vs. Le event on March 29, 2008, with 16,326 attendees. Based on this data, it is clear that Strikeforce events held at HP Pavilion at San Jose consistently attracted much larger audiences than those held at San Jose Civic Auditorium during this period.
+
+**QA pair 6 : Additional Reasoning**
+
+    Q.  How did Strikeforce’s number of events and average viewership change between 2008 and 2009, and what does this indicate about the organization’s growth?
+    A.  Between 2008 and 2009, Strikeforce saw growth both in the number of events and in average viewership. In 2008, Strikeforce held 8 events, with an average viewership of about 6,900. By 2009, the number of events increased to 10, and the average viewership also rose to approximately 7,085. This indicates a positive trend, with Strikeforce not only expanding its event count but also attracting a larger audience on average, reflecting the organization’s growing popularity and reach during this period.
