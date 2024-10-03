@@ -112,5 +112,5 @@
 
 **QA pair 6 : Additional reasoning**
 
-    Q6.  Who were the tallest and shortest players on the 2007 Kentucky Wildcats Football Team? Summarize the baisc information of these players.
+    Q6.  Who were the tallest and shortest players on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.
     A6.  The tallest player on the 2007 Kentucky Wildcats Football Team was Justin Jeffries, a right tackle, standing at 6’6 and weighing 300 lbs. He was a sophomore from Louisville, Kentucky, and played in 13 games. The shortest players were Rafael Little, a halfback, and Paul Warford, a left cornerback, both standing at 5’10. Rafael Little was a senior from Anderson, South Carolina, weighing 210 lbs, and played in 10 games, while Paul Warford was a sophomore from Richmond, Kentucky, weighing 200 lbs, and played in 10 games.
