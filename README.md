@@ -1,5 +1,7 @@
 # Multi-table retrieval + Long-form table QA dataset
 
+![Main](results/main.png)
+
 ## Package 'utils'
 
     utils
@@ -174,5 +176,3 @@
     python3 main.py \
         -d {source_dataset_name, SourceText2SQL or SourceTable2Text}
         -n {number_of_sampled_data}
-
-![Main](results/main.png)

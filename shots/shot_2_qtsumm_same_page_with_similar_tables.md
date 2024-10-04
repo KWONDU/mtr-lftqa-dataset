@@ -109,12 +109,12 @@
     Q.  Summarize the airports located in New York and California in the list of the busiest airports in the United States.
     A.  The airports located in New York and California include John F. Kennedy International Airport in Queens, New York, and Los Angeles International Airport and San Francisco International Airport in California. John F. Kennedy International Airport (JFK) is ranked 6th among the busiest cargo throughput airports in the United States, handling 1,348,992 tonnes of cargo in 2010/11 with a 0.5% increase from the previous year. It is also ranked 1st in terms of passenger traffic, serving 22,702,882 passengers in 2009/10, with a 5.8% increase. Los Angeles International Airport (LAX) is ranked 5th in cargo throughput, handling 1,681,611 tonnes in 2010/11 with a 3.8% increase. It is ranked 3rd in passenger traffic, serving 15,505,566 passengers in 2009/10 with a 4.7% increase. San Francisco International Airport (SFO) is ranked 7th in passenger traffic, serving 8,476,172 passengers in 2009/10 with a 7.4% increase.
 
-**QA pair 5 : Reference from statements & Additional Reasoning**
+**QA pair 5 : Reference from statements & Additional reasoning**
 
     Q.  Summarize the basic information of the airports located in Alaska and Virginia in the list of the busiest airports in the United States.
     A.  The airports located in Alaska and Virginia include Ted Stevens Anchorage International Airport in Anchorage, Alaska, and Washington Dulles International Airport in Dulles, Virginia. Ted Stevens Anchorage International Airport (ANC) is ranked 2nd among the busiest cargo throughput airports in the United States, handling 2,543,105 tonnes of cargo in 2010/11, with a 3.9% increase from the previous year. Washington Dulles International Airport (IAD) is ranked 9th in terms of passenger traffic, serving 6,167,501 passengers in 2009/10, with a 9.5% increase from the previous year.
 
-**QA pair 6 : Reference from statements & Additional Reasoning**
+**QA pair 6 : Reference from statements & Additional reasoning**
 
     Q.  Considering the two tables as a whole, which airport may be the largest in the United States, and why?
     A.  The largest airport, considering both cargo throughput and passenger traffic, may be John F. Kennedy International Airport (JFK) in Queens, New York. In terms of passenger traffic, John F. Kennedy International Airport is ranked 1st in the United States, handling 22,702,882 passengers in 2009/10, with a 5.8% increase from the previous year. For cargo throughput, JFK is ranked 6th, managing 1,348,992 tonnes of cargo in 2010/11, with a 0.5% increase. This strong performance in both passenger and cargo handling suggests that JFK could be considered the largest airport overall.

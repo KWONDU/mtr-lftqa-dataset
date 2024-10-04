@@ -121,7 +121,7 @@
     Q.  Provide a comparison of attendance between Strikeforce events held at HP Pavilion at San Jose and San Jose Civic Auditorium through 2008 and 09.
     A.  Through 2008 and 2009, Strikeforce organized a total of eight events at HP Pavilion at San Jose and San Jose Civic Auditorium. Out of these, six events were held at HP Pavilion at San Jose, while two events took place at San Jose Civic Auditorium. The average attendance at HP Pavilion at San Jose was significantly higher, at 12,617 attendees, compared to San Jose Civic Auditorium, which had an average attendance of 5,289 attendees. The highest attendance recorded was at HP Pavilion at San Jose for the Strikeforce: Shamrock vs. Le event on March 29, 2008, with 16,326 attendees. Based on this data, it is clear that Strikeforce events held at HP Pavilion at San Jose consistently attracted much larger audiences than those held at San Jose Civic Auditorium during this period.
 
-**QA pair 6 : Additional Reasoning**
+**QA pair 6 : Additional reasoning**
 
     Q.  How did Strikeforce’s number of events and average viewership change between 2008 and 2009, and what does this indicate about the organization’s growth?
     A.  Between 2008 and 2009, Strikeforce saw growth both in the number of events and in average viewership. In 2008, Strikeforce held 8 events, with an average viewership of about 6,900. By 2009, the number of events increased to 10, and the average viewership also rose to approximately 7,085. This indicates a positive trend, with Strikeforce not only expanding its event count but also attracting a larger audience on average, reflecting the organization’s growing popularity and reach during this period.

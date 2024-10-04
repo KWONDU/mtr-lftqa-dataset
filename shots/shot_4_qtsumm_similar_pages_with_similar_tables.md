@@ -140,8 +140,8 @@
 
 **QA pair 1 : Relationship between tables & Additional reasoning**
 
-    Q.  # -> 어떤 게 제일 어려운가
-    A.  None
+    Q.  Which swimming stroke appeared to be the most challenging in the Men's 100 metre finals at the 2016 Summer Olympics?
+    A.  Based on the times from the Men’s 100 metre finals at the 2016 Summer Olympics, the 100 metre breaststroke seems to be the most difficult event. The fastest time in the breaststroke final was 57.13 seconds by Adam Peaty, which is slower compared to the fastest times in the other two finals. For instance, Ryan Murphy won the backstroke final with 51.97 seconds, and Kyle Chalmers won the freestyle final with 47.58 seconds. The comparatively slower times in the breaststroke suggest that this stroke may require more effort or technical skill, making it more challenging.
 
 **QA pair 2 : Reference from statements**
 
@@ -155,20 +155,15 @@
 
 **QA pair 4 : Reference from statements**
 
-    Q.  # 시간 분포 통틀어서
-    A.  None
+    Q.  Who secured the fastest time in the Men's 100 metre finals at the 2016 Summer Olympics and did they set any record?
+    A.  In the Men’s 100 metre breaststroke final at the 2016 Summer Olympics, Adam Peaty from Great Britain secured the fastest time with a time of 57.13 seconds, setting a world record (WR). Ryan Murphy from the United States secured the fastest time in the Mean's 100 metre backstroke final at the 2016 Summer Olympics with a time of 51.97 seconds. He set a new olympic record (OR). Kyle Chalmers from Australia secured the fastest time in the Men's 100 metre freestyle final at the 2016 Summer Olympics, clocking in at 47.58 seconds. He achieved a world junior record (WJR) in this event.
 
-**QA pair 5 : Reference from statements**
+**QA pair 5 : Additional reasoning**
 
-    Q.  # 가장 빠른 사람들이 누군지랑 세운 기록들
-    A.  None
+    Q.  How many swimmers did each country have in the Men’s 100 metre breaststroke, backstroke, and freestyle finals at the 2016 Summer Olympics?
+    A.  In the Men’s 100 metre breaststroke, backstroke, and freestyle finals at the 2016 Summer Olympics, the United States had the most swimmers, with a total of six, including two in each of the breaststroke, backstroke, and freestyle events. Brazil had three swimmers, with two in the breaststroke and one in the freestyle. Great Britain had two swimmers, one in the breaststroke and one in the freestyle. Japan also had two swimmers, one in the breaststroke and one in the backstroke, while Australia had two as well, with one in the backstroke and two in the freestyle. China, South Africa, Kazakhstan, Belgium, France, Russia, Romania, and Canada each had one swimmer in the finals.
 
-**QA pair 6 : Reference from statements**
+**QA pair 6 : Additional reasoning**
 
-    Q.  # 미국 사람들 기록
-    A.  None
-
-**QA pair 7 : Additional Reasoning**
-
-    Q.  # 지역, 국가별 기록 세운 사람들 정보
-    A.  None
+    Q.  Which country had the most successful performance in the Men’s 100 metre finals at the 2016 Summer Olympics, and why?
+    A.  The United States was the most successful country in the Men’s 100 metre finals at the 2016 Summer Olympics based on the number of swimmers who won medals. The United States won a total of 4 medals across the events. Ryan Murphy won gold in the backstroke, David Plummer won bronze in the backstroke, Cody Miller won bronze in the breaststroke, and Nathan Adrian won bronze in the freestyle. This strong performance, with the highest number of medal-winning swimmers, makes the United States the top-performing country in these events.

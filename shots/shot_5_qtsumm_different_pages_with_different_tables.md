@@ -37,7 +37,7 @@
     Q.  None
     A.  None
 
-**QA pair 3 : Additional Reasoning**
+**QA pair 3 : Additional reasoning**
 
     Q.  None
     A.  None
