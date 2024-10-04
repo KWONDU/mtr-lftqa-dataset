@@ -48,6 +48,7 @@
     [folder] results
         . . .
         [file] dataset_statistics.csv
+        [file] main.png
         . . .
     
     [folder] shots
@@ -173,3 +174,5 @@
     python3 main.py \
         -d {source_dataset_name, SourceText2SQL or SourceTable2Text}
         -n {number_of_sampled_data}
+
+![Main](results/main.png)

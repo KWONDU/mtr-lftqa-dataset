@@ -145,13 +145,13 @@
 
 **QA pair 2 : Reference from statements**
 
-    Q.  # 각 경기별 top3 정보
-    A.  None
+    Q.  Who were the top three swimmers in each of the Men’s 100 metre breaststroke, backstroke, and freestyle finals at the 2016 Summer Olympics?
+    A.  The top treee swimmers in the Men's 100 metre breaststroke final at the 2016 Summer Olympics were Adam Peaty (57.13 seconds), Cameron van der Burgh (58,69 seconds), and Cody Miller (58.87 seconds), securing first, second, and third places, respectively. The top three swimmers in the Men’s 100 metre backstroke final at the 2016 Summer Olympics were Ryan Murphy (51.97 seconds), Xu Jiayu (52.31 seconds), and David Plummer (52.40 seconds), securing first, second, and third places, respectively. In the Men's 100 metre freestyle final, Kyle Chalmers won with a time of 47.58 seconds. Pieter Timmers finished second with a time of 47.80 seconds, and Nathan Adrian came in third with a time of 47.85 seconds.
 
 **QA pair 3 : Reference from statements**
 
-    Q.  # 각 lane 1, 2별 등수
-    A.  None
+    Q.  Who swam in lanes 1 and 2 during each of the Men’s 100 metre breaststroke, backstroke, and freestyle finals at the 2016 Summer Olympics?
+    A.  In the Men’s 100 metre breaststroke final at the 2016 Summer Olympics, João Gomes Júnior from Brazil swam in lane 1, finishing with a time of 59.31 seconds, and Kevin Cordes from the United States swam in lane 2, finishing with a time of 59.22 seconds. In the Men’s 100 metre backstroke final, Ryosuke Irie from Japan swam in lane 1, finishing with a time of 53.42 seconds, and Xu Jiayu from China swam in lane 2, finishing with a time of 52.31 seconds, setting a new national record. In the Men’s 100 metre freestyle final, Duncan Scott from Great Britain swam in lane 1, finishing with a time of 48.01 seconds, setting a new national record, and Caeleb Dressel from the United States swam in lane 2, finishing with a time of 48.02 seconds.
 
 **QA pair 4 : Reference from statements**
 
