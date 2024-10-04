@@ -6,20 +6,23 @@
 
 **Visualization**
 
-    Table id: d58e626b77a78be925a1bd13d3134a1efcda7245fd4ff8c0ba9beded6d12bf56
-    metadata: East Coast Conference
-    Institution                               | Nickname    | Location                    | Founded | Type    | Enrollment | Joined | Left | Current Conference      
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-    Adelphi University                        | Panthers    | Garden City , New York      | 1896    | Private | 7859       | 1989   | 2009 | Northeast - 10 (Ne - 10)
-    Concordia College                         | Clippers    | Bronxville , New York       | 1881    | Private | 2431       | 1989   | 2009 | Cacc                    
-    University Of New Haven                   | Chargers    | West Haven , Connecticut    | 1920    | Private | 6400       | 2002   | 2008 | Northeast - 10 (Ne - 10)
-    New Jersey Institute Of Technology (Njit) | Highlanders | Newark , New Jersey         | 1881    | Public  | 9944       | 1997   | 2000 | Ncaa D - I Independent  
-    Pace University                           | Setters     | New York City , New York    | 1906    | Private | 14177      | 1989   | 1997 | Northeast - 10 (Ne - 10)
-    Philadelphia University                   | Rams        | Philadelphia , Pennsylvania | 1884    | Private | 3374       | 1991   | 2005 | Cacc                    
+    Table id: e56b77ea8a020e3fdaccfbd4e8c6a2bd81dd6e97b1c160d2ac07f7a9a7007f8f
+    metadata: Kansas Collegiate Athletic Conference
+    Institution                | Location              | Founded | Type    | Enrollment | Nickname      | Joined
+    ------------------------------------------------------------------------------------------------------------
+    Bethany College            | Lindsborg , Kansas    | 1881    | Private | 500        | Swedes        | 1902  
+    Bethel College             | North Newton , Kansas | 1887    | Private | 500        | Threshers     | 1902 1
+    Friends University         | Wichita , Kansas      | 1898    | Private | 3000       | Falcons       | 1902 2
+    Kansas Wesleyan University | Salina , Kansas       | 1886    | Private | 1000       | Coyotes       | 1902  
+    Mcpherson College          | Mcpherson , Kansas    | 1887    | Private | 600        | Bulldogs      | 1902  
+    Ottawa University          | Ottawa , Kansas       | 1865    | Private | 726        | Braves        | 1902 3
+    University Of Saint Mary   | Leavenworth , Kansas  | 1859    | Private | 750        | Spires        | 1999  
+    Southwestern College       | Winfield , Kansas     | 1885    | Private | 1650       | Moundbuilders | 1902 4
+    Sterling College           | Sterling , Kansas     | 1887    | Private | 750        | Warriors      | 1902 5
 
 **Serialization**
 
-    Table 1 [metadata]: East Coast Conference [header]: Institution | Nickname | Location | Founded | Type | Enrollment | Joined | Left | Current Conference [row 1]: Adelphi University | Panthers | Garden City , New York | 1896 | Private | 7859 | 1989 | 2009 | Northeast - 10 (Ne - 10) [row 2]: Concordia College | Clippers | Bronxville , New York | 1881 | Private | 2431 | 1989 | 2009 | Cacc [row 3]: University Of New Haven | Chargers | West Haven , Connecticut | 1920 | Private | 6400 | 2002 | 2008 | Northeast - 10 (Ne - 10) [row 4]: New Jersey Institute Of Technology (Njit) | Highlanders | Newark , New Jersey | 1881 | Public | 9944 | 1997 | 2000 | Ncaa D - I Independent [row 5]: Pace University | Setters | New York City , New York | 1906 | Private | 14177 | 1989 | 1997 | Northeast - 10 (Ne - 10) [row 6]: Philadelphia University | Rams | Philadelphia , Pennsylvania | 1884 | Private | 3374 | 1991 | 2005 | Cacc
+    Table 1 [metadata]: Kansas Collegiate Athletic Conference [header]: Institution | Location | Founded | Type | Enrollment | Nickname | Joined [row 1]: Bethany College | Lindsborg , Kansas | 1881 | Private | 500 | Swedes | 1902 [row 2]: Bethel College | North Newton , Kansas | 1887 | Private | 500 | Threshers | 1902 1 [row 3]: Friends University | Wichita , Kansas | 1898 | Private | 3000 | Falcons | 1902 2 [row 4]: Kansas Wesleyan University | Salina , Kansas | 1886 | Private | 1000 | Coyotes | 1902 [row 5]: Mcpherson College | Mcpherson , Kansas | 1887 | Private | 600 | Bulldogs | 1902 [row 6]: Ottawa University | Ottawa , Kansas | 1865 | Private | 726 | Braves | 1902 3 [row 7]: University Of Saint Mary | Leavenworth , Kansas | 1859 | Private | 750 | Spires | 1999 [row 8]: Southwestern College | Winfield , Kansas | 1885 | Private | 1650 | Moundbuilders | 1902 4 [row 9]: Sterling College | Sterling , Kansas | 1887 | Private | 750 | Warriors | 1902 5
 
 ### Table 2
 
@@ -47,26 +50,31 @@
 
 **Visualization**
 
-    Table id: 72c3571158604c75cd7a4e8e438f99ba513a773a0f1a53ba6c15838b3ebb01c9
-    metadata: Lone Star Alliance
-    Institution                          | Location                | Founded | Affiliation                   | Enrollment | Team Nickname | Primary Conference     
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-    Baylor University                    | Waco , Texas            | 1845    | Private , Baptist             | 14769      | Bears         | Big 12 ( Division I )  
-    University Of Louisiana At Lafayette | Lafayette , Louisiana   | 1898    | Public                        | 16361      | Ragin' Cajuns | Sunbelt ( Division I ) 
-    Louisiana State University           | Baton Rouge , Louisiana | 1860    | Public                        | 25215      | Tigers        | Sec ( Division I )     
-    University Of North Texas            | Denton , Texas          | 1890    | Public                        | 36206      | Mean Green    | C - Usa ( Division I ) 
-    University Of Oklahoma               | Norman , Oklahoma       | 1890    | Public                        | 29931      | Sooners       | Big 12 ( Division I )  
-    Rice University                      | Houston , Texas         | 1891    | Private / Non - Sectarian     | 6799       | Owls          | C - Usa ( Division I ) 
-    Southern Methodist University        | University Park , Texas | 1911    | Private / Methodist           | 10693      | Mustangs      | American ( Division I )
-    Texas A&M University                 | College Station , Texas | 1871    | Public                        | 48702      | Aggies        | Sec ( Division I )     
-    Texas Christian University           | Fort Worth , Texas      | 1873    | Private / Disciples Of Christ | 8696       | Horned Frogs  | Big 12 ( Division I )  
-    Texas State Universitysan Marcos     | San Marcos , Texas      | 1899    | Public                        | 32586      | Bobcats       | Sunbelt ( Division I ) 
-    Texas Tech University                | Lubbock , Texas         | 1923    | Public                        | 30049      | Red Raiders   | Big 12 ( Division I )  
-    University Of Texas At Austin        | Austin , Texas          | 1883    | Public                        | 50995      | Longhorns     | Big 12 ( Division I )  
+    Table id: dd588c1b2e99a9c608efc248c1e05bcd314b359854fc981632fa67b6cdeb3281
+    metadata: Pennsylvania State Athletic Conference - Current members
+    Institution                                 | Location (Pennsylvania) | Founded | Enrollment | Nickname       | Colors | Joined
+    -------------------------------------------------------------------------------------------------------------------------------
+    Bloomsburg University of Pennsylvania       | Bloomsburg              | 1839    | 9,512      | Huskies        |        | 1951  
+    California University of Pennsylvania       | California              | 1852    | 9,017      | Vulcans        |        | 1951  
+    Clarion University of Pennsylvania          | Clarion                 | 1867    | 7,346      | Golden Eagles  |        | 1951  
+    East Stroudsburg University of Pennsylvania | East Stroudsburg        | 1893    | 7,576      | Warriors       |        | 1951  
+    Edinboro University of Pennsylvania         | Edinboro                | 1857    | 8,286      | Fighting Scots |        | 1951  
+    Gannon University                           | Erie                    | 1925    | 4,238      | Golden Knights |        | 2008  
+    Indiana University of Pennsylvania          | Indiana                 | 1875    | 14,638     | Crimson Hawks  |        | 1951  
+    Kutztown University of Pennsylvania         | Kutztown                | 1866    | 10,634     | Golden Bears   |        | 1951  
+    Lock Haven University of Pennsylvania       | Lock Haven              | 1870    | 5,329      | Bald Eagles    |        | 1951  
+    Mansfield University of Pennsylvania        | Mansfield               | 1857    | 3,569      | Mountaineers   |        | 1951  
+    Mercyhurst University                       | Erie                    | 1926    | 3,217      | Lakers         |        | 2008  
+    Millersville University of Pennsylvania     | Millersville            | 1855    | 8,427      | Marauders      |        | 1951  
+    University of Pittsburgh at Johnstown       | Johnstown               | 1927    | 3,032      | Mountain Cats  |        | 2013  
+    Seton Hill University                       | Greensburg              | 1883    | 2,014      | Griffins       |        | 2013  
+    Shippensburg University of Pennsylvania     | Shippensburg            | 1871    | 8,253      | Raiders        |        | 1951  
+    Slippery Rock University of Pennsylvania    | Slippery Rock           | 1889    | 8,648      | The Rock       |        | 1951  
+    West Chester University of Pennsylvania     | West Chester            | 1871    | 16,426     | Golden Rams    |        | 1951  
 
 **Serialization**
 
-    Table 3 [metadata]: Lone Star Alliance [header]: Institution | Location | Founded | Affiliation | Enrollment | Team Nickname | Primary Conference [row 1]: Baylor University | Waco , Texas | 1845 | Private , Baptist | 14769 | Bears | Big 12 ( Division I ) [row 2]: University Of Louisiana At Lafayette | Lafayette , Louisiana | 1898 | Public | 16361 | Ragin' Cajuns | Sunbelt ( Division I ) [row 3]: Louisiana State University | Baton Rouge , Louisiana | 1860 | Public | 25215 | Tigers | Sec ( Division I ) [row 4]: University Of North Texas | Denton , Texas | 1890 | Public | 36206 | Mean Green | C - Usa ( Division I ) [row 5]: University Of Oklahoma | Norman , Oklahoma | 1890 | Public | 29931 | Sooners | Big 12 ( Division I ) [row 6]: Rice University | Houston , Texas | 1891 | Private / Non - Sectarian | 6799 | Owls | C - Usa ( Division I ) [row 7]: Southern Methodist University | University Park , Texas | 1911 | Private / Methodist | 10693 | Mustangs | American ( Division I ) [row 8]: Texas A&M University | College Station , Texas | 1871 | Public | 48702 | Aggies | Sec ( Division I ) [row 9]: Texas Christian University | Fort Worth , Texas | 1873 | Private / Disciples Of Christ | 8696 | Horned Frogs | Big 12 ( Division I ) [row 10]: Texas State Universitysan Marcos | San Marcos , Texas | 1899 | Public | 32586 | Bobcats | Sunbelt ( Division I ) [row 11]: Texas Tech University | Lubbock , Texas | 1923 | Public | 30049 | Red Raiders | Big 12 ( Division I ) [row 12]: University Of Texas At Austin | Austin , Texas | 1883 | Public | 50995 | Longhorns | Big 12 ( Division I )
+    Table 3 [metadata]: Pennsylvania State Athletic Conference - Current members [header]: Institution | Location (Pennsylvania) | Founded | Enrollment | Nickname | Colors | Joined [row 1]: Bloomsburg University of Pennsylvania | Bloomsburg | 1839 | 9,512 | Huskies |  | 1951 [row 2]: California University of Pennsylvania | California | 1852 | 9,017 | Vulcans |  | 1951 [row 3]: Clarion University of Pennsylvania | Clarion | 1867 | 7,346 | Golden Eagles |  | 1951 [row 4]: East Stroudsburg University of Pennsylvania | East Stroudsburg | 1893 | 7,576 | Warriors |  | 1951 [row 5]: Edinboro University of Pennsylvania | Edinboro | 1857 | 8,286 | Fighting Scots |  | 1951 [row 6]: Gannon University | Erie | 1925 | 4,238 | Golden Knights |  | 2008 [row 7]: Indiana University of Pennsylvania | Indiana | 1875 | 14,638 | Crimson Hawks |  | 1951 [row 8]: Kutztown University of Pennsylvania | Kutztown | 1866 | 10,634 | Golden Bears |  | 1951 [row 9]: Lock Haven University of Pennsylvania | Lock Haven | 1870 | 5,329 | Bald Eagles |  | 1951 [row 10]: Mansfield University of Pennsylvania | Mansfield | 1857 | 3,569 | Mountaineers |  | 1951 [row 11]: Mercyhurst University | Erie | 1926 | 3,217 | Lakers |  | 2008 [row 12]: Millersville University of Pennsylvania | Millersville | 1855 | 8,427 | Marauders |  | 1951 [row 13]: University of Pittsburgh at Johnstown | Johnstown | 1927 | 3,032 | Mountain Cats |  | 2013 [row 14]: Seton Hill University | Greensburg | 1883 | 2,014 | Griffins |  | 2013 [row 15]: Shippensburg University of Pennsylvania | Shippensburg | 1871 | 8,253 | Raiders |  | 1951 [row 16]: Slippery Rock University of Pennsylvania | Slippery Rock | 1889 | 8,648 | The Rock |  | 1951 [row 17]: West Chester University of Pennsylvania | West Chester | 1871 | 16,426 | Golden Rams |  | 1951
 
 ## QA pairs - Entailed statements
 
@@ -74,24 +82,10 @@
 
 **QA pair 1 - Entailed statement 1**
 
-    Q.  Summarize the basic information of the institutions that are currently in the Northeast-10 Conference.
-    A.  The three institutions currently in the Northeast-10 Conference are Adelphi University, the University of New Haven, and Pace University. Adelphi University was founded in 1896 and is located in Garden City, New York. It is a private university with an enrollment of 7859 students. The University of New Haven was founded in 1920 and is located in West Haven, Connecticut. It is also a private university with an enrollment of 6400 students. Pace University, located in New York City, was founded in 1906 and has an enrollment of 14177 students.
+    Q.  Summarize the basic information of the oldest institution in the Kansas Collegiate Athletic Conference.
+    A.  The oldest institution in the Kansas Collegiate Athletic Conference is University Of Saint Mary. It is located in Leavenworth, Kansas and was founded in 1859. It is a private institution with an enrollment of 750 students and its nickname is the Spires. The University Of Saint Mary joined the conference in 1999.
     ---
-    S.  The three institutions currently in the Northeast-10 Conference are Adelphi University, the University of New Haven, and Pace University. Adelphi University was founded in 1896 and is located in Garden City, New York. It is a private university with an enrollment of 7859 students. The University of New Haven was founded in 1920 and is located in West Haven, Connecticut. It is also a private university with an enrollment of 6400 students. Pace University, located in New York City, was founded in 1906 and has an enrollment of 14177 students.
-
-**QA pair 2 - Entailed statement 2**
-
-    Q.  Which institution may be the largest and why？
-    A.  Pace University appears to be the largest institution, with an enrollment of 14,177. This is significantly larger than any of the other institutions listed in the table.
-    ---
-    S.  Pace University appears to be the largest institution, with an enrollment of 14,177. This is significantly larger than any of the other institutions listed in the table.
-
-**QA pair 3 - Entailed statement 3**
-
-    Q.  How many institutions are currently in the CACC? Summarize the basic information of these institutions.
-    A.  There are currently two institutions in the CACC: Concordia College and Philadelphia University. Concordia is a private college located in Bronxville, New York and was founded in 1881. It has an enrollment of 2431 students and joined the CACC in 1989. Philadelphia University is a private university located in Philadelphia, Pennsylvania and was founded in 1884. It has an enrollment of 3374 students and joined the CACC in 1991.
-    ---
-    S.  There are currently two institutions in the CACC: Concordia College and Philadelphia University. Concordia is a private college located in Bronxville, New York and was founded in 1881. It has an enrollment of 2431 students and joined the CACC in 1989. Philadelphia University is a private university located in Philadelphia, Pennsylvania and was founded in 1884. It has an enrollment of 3374 students and joined the CACC in 1991.
+    S.  The oldest institution in the Kansas Collegiate Athletic Conference is the University of Saint Mary, located in Leavenworth, Kansas. Founded in 1859, it is a private institution with an enrollment of 750 students, and its team nickname is the Spires. The university joined the Kansas Collegiate Athletic Conference in 1999.
 
 ### About table 2
 
@@ -113,17 +107,17 @@
 
 **QA pair 1 - Entailed statement 1**
 
-    Q.  What are the institutions part of the Lone Star Alliance that are affiliated with the Sunbelt Conference? Summarize the basic information of these institutions.
-    A.  The Lone Star Alliance includes two schools affiliated with the Sunbelt Conference, the University of Louisiana at Lafayette and Texas State University-San Marcos. The University of Louisiana at Lafayette is a public school founded in 1898 with an enrollment of 16,361 students. The school's team nickname is the Ragin' Cajuns. Texas State University-San Marcos is a public school founded in 1899 with an enrollment of 32,586 students. The school's team nickname is the Bobcats.
+    Q.  What similarities and differences can be observed in the nicknames of these institutions?
+    A.  The Pennsylvania State Athletic Conference member schools have many different nicknames that show their unique history and character. Some same things in the nicknames are using animals, like Huskies, Golden Bears, and Bald Eagles, which show strength and power in sports games. Also, some schools choose nicknames that have the word "Golden," like Golden Eagles, Golden Knights, and Golden Rams, which maybe means luck and success. But, there also some big differences in these schools\' nicknames, as some schools choose more special and not typical names. For example, the Fighting Scots, Vulcans, and Griffins are different and maybe mean the culture history or area link of the schools.
     ---
-    S.  The Lone Star Alliance includes two schools affiliated with the Sunbelt Conference: the University of Louisiana at Lafayette and Texas State University-San Marcos. The University of Louisiana at Lafayette is a public institution founded in 1898 with an enrollment of 16,361 students. Its team nickname is the Ragin’ Cajuns. Texas State University-San Marcos, founded in 1899, has an enrollment of 32,586 students, and its team nickname is the Bobcats.
+    S.  The Pennsylvania State Athletic Conference institutions have diverse nicknames that reflect their history and values. Many schools have animal-based nicknames, such as Huskies, Golden Bears, and Bald Eagles, symbolizing strength and power in sports. Several schools use “Golden” in their nicknames, like the Golden Eagles, Golden Knights, and Golden Rams, which could signify luck and success. However, some institutions stand out with more unique names, such as the Fighting Scots, Vulcans, and Griffins, which may represent cultural or regional connections.
 
 **QA pair 2 - Entailed statement 2**
 
-    Q.  How many institutions are part of the Lone Star Alliance? Summarize the basic information of these institutions.
-    A.  The Lone Star Alliance is made up of twelve institutions. These institutions include Baylor University, University of Louisiana at Lafayette, Louisiana State University, University of North Texas, University of Oklahoma, Rice University, Southern Methodist University, Texas A&M University, Texas Christian University, Texas State University-San Marcos, Texas Tech University, and University of Texas at Austin. All twelve institutions are located in the south-central United States, with the majority of them in Texas. The institutions have varied founding dates, ranging from 1845 to 1923. All of the institutions are either public or private.
+    Q.  Which universities were founded earliest and how does their enrollment compare to those that were established later?
+    A.  Bloomsburg University of Pennsylvania, which start in 1839, and California University of Pennsylvania, which start in 1852, are very old universities of the Pennsylvania State Athletic Conference members. Both schools have many students, with 9,512 students at Bloomsburg University and 9,017 students at California University of Pennsylvania. But these numbers not the most big in the schools on the list, because universities start later like Indiana University of Pennsylvania and West Chester University of Pennsylvania have more students, with 14,638 and 16,426 students.
     ---
-    S.  The Lone Star Alliance consists of twelve institutions: Baylor University, the University of Louisiana at Lafayette, Louisiana State University, the University of North Texas, the University of Oklahoma, Rice University, Southern Methodist University, Texas A&M University, Texas Christian University, Texas State University-San Marcos, Texas Tech University, and the University of Texas at Austin. These institutions are all located in the south-central United States, mostly in Texas, and have varied founding dates from 1845 to 1923. All of the institutions are either public or private.
+    S.  The earliest founded universities in the Pennsylvania State Athletic Conference are Bloomsburg University of Pennsylvania (1839) and California University of Pennsylvania (1852). Despite their early establishment, their enrollment figures—9,512 and 9,017 students, respectively—are surpassed by later-founded institutions such as Indiana University of Pennsylvania and West Chester University of Pennsylvania, which have larger student populations of 14,638 and 16,426.
 
 ## Annotation
 
@@ -156,3 +150,12 @@
 
     Q.  None
     A.  None
+
+**TEMP**
+
+    # 가장 오래된 것
+    # 년도 이후에 들어온
+    # 특정 닉네임 가진 애들
+    # 닉네임 사이의 경향성
+    # 가장 먼저 설립된 애들이랑 등록 숫자 관계
+
