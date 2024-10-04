@@ -90,17 +90,32 @@
 
 ## Annotation
 
-**QA pair 1 : Relationship between tables**
+**QA pair 1 : Reference from statements & Addition reasoning**
 
-    Q.  None
-    A.  None
+    Q.  Who were the directors with the most episodes in One Tree Hill Season 5 and Hot In Cleveland Season 1, and what episodes did they direct?
+    A.  In One Tree Hill Season 5, the director with the most episodes is Greg Prange, who directed four episodes: “4 Years, 6 Months, 2 Days” (aired on January 8, 2008), “In Da Club” (aired on February 12, 2008), “Echoes, Silence, Patience, and Grace” (aired on April 14, 2008), and “Cryin’ Won’t Help You Now” (aired on May 5, 2008). In Hot In Cleveland Season 1, both Andy Cadiff and David Trainer directed three episodes each. Andy Cadiff directed “Who’s Your Mama” (aired on June 23, 2010), “Birthdates” (aired on June 30, 2010), and “Meet The Parents” (aired on July 21, 2010). David Trainer directed “The Sex That Got Away” (aired on July 7, 2010), “Good Neighbors” (aired on July 14, 2010), and “It’s Not That Complicated” (aired on July 28, 2010).
 
-**QA pair 2 : Reference from statements**
+**QA pair 2 : Reference from statements & Addition reasoning**
 
-    Q.  None
-    A.  None
+    Q.  What were the start dates of airing in One Tree Hill Season 5 and Hot in Cleveland Season 1? Summarize the basic information of those episodes.
+    A.  The fifth season of One Tree Hill began airing on January 8, 2008, with the episode titled "4 Years, 6 Months, 2 Days," directed by Greg Prange and written by Mark Schwahn. It had 3.36 million viewers. On the same day, the second episode, "Racing Like A Pro," also aired, directed by Paul Johansson and written by Mark Schwahn, with 3.57 million viewers. The first season of Hot in Cleveland premiered on June 16, 2010, with the episode titled "Pilot," directed by Michael Lembeck and written by Suzanne Martin. This episode had a viewership of 4.75 million.
 
-**QA pair 3 : Additional reasoning**
+**QA pair 3 : Addition reasoning**
 
-    Q.  None
-    A.  None
+    Q.  Who were the writters with the most episodes in One Tree Hill Season 5 and Hot In Cleveland Season 1, and what episodes did they write?
+    A.  In One Tree Hill Season 5, the writter with the most episodes is Mark Schwahn, who wrote eight episodes: "4 Years, 6 Months, 2 Days" (aired on January 8, 2008), “Racing Like A Pro” (aired on January 8, 2008), “Don't Dream It's Over” (aired on February 5, 2008), “For Tonight You’re Only Here to Know” (aired on February 26, 2008), “Hundred” (aired on March 18, 2008), “Echoes, Silence, Patience, And Grace” (aired on April 14, 2008), “What Do You Go Home To” (aired on April 21, 2008), and “Hate Is Safer Than Love” (aired on May 12, 2008). In Hot in Cleveland Season 1, Suzanne Martin wrote the most episodes: "Pilot" (aired on June 16, 2010), "Who's Your Mama" (aired on June 23, 2010), and "Good Luck Faking The Goiter" (aired on August 11, 2010), contributing to three episodes.
+
+**QA pair 4 : Addition reasoning**
+
+    Q.  Which program had a longer airing period, One Tree Hill Season 5 or Hot In Cleveland Season 1?
+    A.  One Tree Hill Season 5 aired from January 8, 2008, to May 12, 2008, while Hot In Cleveland Season 1 aired from June 16, 2010, to August 11, 2010. Therefore, One Tree Hill Season 5 had a longer airing period, spanning approximately 4 months, compared to Hot In Cleveland Season 1, which spanned about 2 months.
+
+**QA pair 5 : Addition reasoning**
+
+    Q.  What were the highest and lowest viewership numbers for One Tree Hill Season 5 and Hot In Cleveland Season 1, and which episodes achieved these ratings?
+    A.  In One Tree Hill Season 5, the highest viewership was for the episode “Racing Like A Pro,” which aired on January 8, 2008, and attracted 3.57 million viewers. The lowest viewership was for the episode “Cryin’ Won’t Help You Now,” which aired on May 5, 2008, and had 2.29 million viewers. In Hot In Cleveland Season 1, the highest viewership was for the “Pilot” episode, which aired on June 16, 2010, and had 4.75 million viewers. The lowest viewership was for the episode “Meet The Parents,” which aired on July 21, 2010, with 2.44 million viewers.
+
+**QA pair 6 : Addition reasoning**
+
+    Q.  Which program was more popular based on the viewership numbers, One Tree Hill Season 5 and Hot In Cleveland Season 1?
+    A.  Based on the viewership numbers, Hot In Cleveland Season 1 seems to have been more popular than One Tree Hill Season 5. The highest viewership for Hot In Cleveland Season 1 was 4.75 million viewers for the episode "Pilot", while One Tree Hill Season 5’s highest was 3.57 million for the episode “Racing Like A Pro”. Hot In Cleveland Season 1 also had a higher average viewership, with most episodes hovering around 3.1 million viewers, whereas One Tree Hill Season 5 averaged closer to 2.9 million viewers. The lowest viewership for Hot In Cleveland Season 1 was 2.44 million for “Meet The Parents,” which was still higher than One Tree Hill Season 5‘s lowest, which was 2.29 million for the episode “Cryin’ Won’t Help You Now". Overall, Hot In Cleveland Season 1 maintained a larger audience throughout its run, indicating its higher popularity compared to One Tree Hill Season 5.
