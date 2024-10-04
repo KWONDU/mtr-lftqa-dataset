@@ -27,7 +27,7 @@
 
 ## Annotation
 
-**QA pair 1 : Relationship between tables**
+**QA pair 1 : Reference from statements**
 
     Q.  None
     A.  None
@@ -38,6 +38,21 @@
     A.  None
 
 **QA pair 3 : Additional reasoning**
+
+    Q.  None
+    A.  None
+
+**QA pair 4 : Additional reasoning**
+
+    Q.  None
+    A.  None
+
+**QA pair 5 : Additional reasoning**
+
+    Q.  None
+    A.  None
+
+**QA pair 6 : Additional reasoning**
 
     Q.  None
     A.  None
