@@ -1,4 +1,4 @@
-# Shot 6 : different pages, different pages
+# Shot 6 : different pages, different tables
 
 ## Gold table set
 
