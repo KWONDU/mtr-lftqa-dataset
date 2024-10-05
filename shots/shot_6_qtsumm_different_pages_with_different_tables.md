@@ -121,41 +121,32 @@
 
 ## Annotation
 
-**QA pair 1 : Reference from statements**
+**QA pair 1 : Relationship between tables & Additional reasoning**
 
-    Q.  None
-    A.  None
+    Q.  Based on enrollment data from the Kansas Collegiate, Mid-West, and Pennsylvania State Athletic Conferences, how can the population rankings of Kansas, Illinois, and Pennsylvania be estimated?
+    A.  The Kansas Collegiate Athletic Conference has a minimum enrollment of 500, a maximum enrollment of 3,000, and an average enrollment of approximately 1,053. This suggests that Kansas likely has a smaller overall population compared to the other regions. The Mid-West Athletic Conference has a minimum enrollment of 650, a maximum enrollment of 6,245, and an average enrollment of approximately 3,517. This indicates that Illinois probably has a larger population than Kansas but smaller than Pennsylvania. The Pennsylvania State Athletic Conference has a minimum enrollment of 2,014, a maximum enrollment of 16,426, and an average enrollment of approximately 7,657. This reflects that Pennsylvania likely has the largest population among the three states, supporting larger institutions with broader student bodies. In summary, based on enrollment data, the population size ranking from largest to smallest is estimated to be Pennsylvania, Illinois, and then Kansas.
 
-**QA pair 2 : Reference from statements**
+**QA pair 2 : Relationship between tables & Additional reasoning**
 
-    Q.  None
-    A.  None
+    Q.  What can the distribution of nicknames in each Kansas Collegiate, Mid-West, and Pennsylvania State Athletic Conferences tell us about the characteristics of each state?
+    A.  The nicknames of the institutions provide some insight into the characteristics of each state. In Kansas, many nicknames reflect the state’s cultural heritage and agricultural roots. For example, Bethany College’s “Swedes” highlights the Swedish heritage of the town of Lindsborg, while Bethel College’s “Threshers” refers to farming practices. Southwestern College’s “Moundbuilders” connects to the Native American history in the region. Kansas institutions also use traditional animal mascots like “Falcons,” “Coyotes,” and “Bulldogs,” which emphasize strength and agility, common themes in sports. In Illinois, many institutions in the Mid-West Athletic Conference use animal mascots like “Jaguars,” “Lynx,” “Cobras,” and “Hawks,” symbolizing power, speed, and sharpness. These reflect qualities often associated with competitive sports. Additionally, nicknames like “Trail Blazers” and “Trailblazers” emphasize the pioneering spirit and historical significance of the Midwest as a region of exploration and industry. In Pennsylvania, the institutions in the Pennsylvania State Athletic Conference showcase a mix of traditional animal mascots and mythological references. Schools like Bloomsburg University with “Huskies” and Clarion University with “Golden Eagles” emphasize the state’s rich wildlife. The use of “Golden” in nicknames like “Golden Rams” and “Golden Bears” suggests a focus on excellence and achievement. Mythological figures like “Griffins” and “Vulcans” reflect Pennsylvania’s deep cultural and historical heritage, adding a sense of tradition and strength to their identities.
 
-**QA pair 3 : Additional reasoning**
+**QA pair 3 : Reference from statements & Additional reasoning**
 
-    Q.  None
-    A.  None
+    Q.  Summarize the basic information of the oldest institution for each Kansas Collegiate, Mid - West, and Pennsylvania State Athletic Conference's current members.
+    A.  The oldest institution in the Kansas Collegiate Athletic Conference is the University of Saint Mary. Located in Leavenworth, Kansas, it was founded in 1859. This private institution has an enrollment of 750 students and is nicknamed the Spires. The University of Saint Mary joined the conference in 1999. The oldest institution in the Mid-West Athletic Conference is Lincoln College. It is located in Lincoln, Illinois, and was founded in 1853. Lincoln College is a private institution with an enrollment of 700 students, and its nickname is the Lynx. The college joined the conference in 1990. The oldest institution in the Pennsylvania State Athletic Conference is Bloomsburg University of Pennsylvania. Founded in 1839, it is located in Bloomsburg, Pennsylvania. The university has an enrollment of 9,512 students and its nickname is the Huskies. Bloomsburg University joined the conference in 1951.
 
-**QA pair 4 : Additional reasoning**
+**QA pair 4 : Reference from statements & Additional reasoning**
 
-    Q.  None
-    A.  None
+    Q.  Summarize the basic information of the institution that joined most recently for each Kansas Collegiate, Mid - West, and Pennsylvania State Athletic Conference.
+    A.  The institution that joined the latest in the Kansas Collegiate Athletic Conference is the University of Saint Mary, which joined in 1999. It was founded in 1859 and is located in Leavenworth, Kansas. This private institution enrolls 750 students and is nicknamed the Spires. The latest institution to join the Mid-West Athletic Conference is Heartland Community College, which joined in 2006. Located in Normal, Illinois, it was founded in 1991. The college has an enrollment of 4,500 students and its nickname is the Hawks. The institutions that joined the latest in the Pennsylvania State Athletic Conference are the University of Pittsburgh at Johnstown and Seton Hill University, both of which joined in 2013. The University of Pittsburgh at Johnstown, founded in 1927, is located in Johnstown, Pennsylvania, has an enrollment of 3,032 students, and its nickname is the Mountain Cats. Seton Hill University, founded in 1883, is located in Greensburg, Pennsylvania, enrolls 2,014 students, and is nicknamed the Griffins.
 
-**QA pair 5 : Additional reasoning**
+**QA pair 5 : Reference from statements & Additional reasoning**
 
-    Q.  None
-    A.  None
+    Q.  For each of the Kansas Collegiate, Mid-West, and Pennsylvania State Athletic Conferences, how many institutions have animal nicknames, and what are the names of these institutions along with their nicknames?
+    A.  In the Kansas Collegiate Athletic Conference, there are three institutions with animal nicknames: Friends University (nickname: Falcons), Kansas Wesleyan University (nickname: Coyotes), and McPherson College (nickname: Bulldogs). In the Mid-West Athletic Conference, there are five institutions with animal nicknames. Danville Area Community College (nickname: Jaguars), Lincoln College (nickname: Lynx), Parkland College (nickname: Cobras), Illinois Central College (nickname: Cougars), and Heartland Community College (nickname: Hawks). In the Pennsylvania State Athletic Conference, there are eight institutions with animal nicknames. Bloomsburg University of Pennsylvania (nickname: Huskies), Clarion University of Pennsylvania (nickname: Golden Eagles), Indiana University of Pennsylvania (nickname: Crimson Hawks), Kutztown University of Pennsylvania (nickname: Golden Bears), Lock Haven University of Pennsylvania (nickname: Bald Eagles), Seton Hill University (nickname: Griffins), the University of Pittsburgh at Johnstown (nickname: Mountain Cats), and West Chester University of Pennsylvania (nickname: Golden Rams).
 
 **QA pair 6 : Additional reasoning**
 
-    Q.  None
-    A.  None
-
-**TEMP**
-
-    # 가장 오래된 것
-    # 년도 이후에 들어온
-    # 특정 닉네임 가진 애들
-    # 닉네임 사이의 경향성
-    # 가장 먼저 설립된 애들이랑 등록 숫자 관계
-
+    Q.  For each of the Kansas Collegiate, Mid-West, and Pennsylvania State Athletic Conferences, when did the most institutions join, and which institutions joined during that year?
+    A.  The year when the most institutions joined the Kansas Collegiate Athletic Conference was 1902, with eight institutions joining. These institutions are Bethany College, Bethel College, Friends University, Kansas Wesleyan University, McPherson College, Ottawa University, Southwestern College, and Sterling College. In 1990, the Mid-West Athletic Conference saw the most institutions join, with four colleges becoming members. These institutions are Danville Area Community College, Lincoln College, Spoon River College, and Lewis & Clark Community College. The year 1951 had the highest number of institutions joining the Pennsylvania State Athletic Conference, with thirteen universities becoming members. These institutions include Bloomsburg University of Pennsylvania, California University of Pennsylvania, Clarion University of Pennsylvania, East Stroudsburg University of Pennsylvania, Edinboro University of Pennsylvania, Indiana University of Pennsylvania, Kutztown University of Pennsylvania, Lock Haven University of Pennsylvania, Mansfield University of Pennsylvania, Millersville University of Pennsylvania, Shippensburg University of Pennsylvania, Slippery Rock University of Pennsylvania, and West Chester University of Pennsylvania.
