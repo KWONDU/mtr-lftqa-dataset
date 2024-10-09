@@ -123,7 +123,13 @@
             [
                 {
                     'gold_table_id_set': [list] gold table IDs
-                    'data_list': [list] entailed statements
+                    'data_list': [
+                        {
+                            'entailed_table_id_set': [list] entailed table IDs,
+                            'statement': [str] statement
+                        },
+                        . . .
+                    ]
                 }
                 . . .
             ]
@@ -137,6 +143,8 @@
     print(len(source_dataset)) # return total source dataset size
 
 ### 2.3 Original dataset configuration (Don't need to use)
+
+![Dataset_statistics] (results/dataset_statistics.png)
 
     original_dataset
         .download_type # [str] huggingface or local

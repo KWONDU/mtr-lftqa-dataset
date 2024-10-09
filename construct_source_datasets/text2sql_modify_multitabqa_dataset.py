@@ -5,6 +5,18 @@ import sys
 from collections import defaultdict
 
 
+def remove_duplicate_rows(table):
+    seen = set()
+    unique_table = []
+    for row in table:
+        row_tuple = tuple(str(cell).strip().lower() for cell in row)
+        if row_tuple not in seen:
+            seen.add(row_tuple)
+            unique_table.append(row)
+    
+    return unique_table
+
+
 def import_utils():
     parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     sys.path.insert(0, parent_dir)
@@ -31,7 +43,10 @@ if __name__ == '__main__':
 
     # 1. Modify table_id (table_name > db_id + table_name)
     
-    multitabqa_spider_subset_tables = [table for table in multitabqa_tables if table['source'] == 'Spider']
+    multitabqa_spider_subset_tables = [
+        table for table in multitabqa_tables
+        if table['source'] == 'Spider' and sum(len(row) for row in table['cell']) + len(table['header']) < 1000 # Table filtering
+        ]
 
     spider = load_dataset(dataset_name='Spider')
     spider_tables = spider.tables
@@ -121,8 +136,10 @@ if __name__ == '__main__':
         modified_split_set_dict = defaultdict(list)
 
         for modified_data in buffer_split_set:
+            """ # single table entailed statements can use as additional statements about given gold multi-table set (like TabFact)
             if len(modified_data['gold_table_id_set']) < 2:
                 continue
+            """
 
             modified_split_set_dict[tuple(modified_data['gold_table_id_set'])].append({
                 'nl_query': modified_data['nl_query'],
@@ -131,7 +148,20 @@ if __name__ == '__main__':
             })
         
         modified_split_set = [
-            {'gold_table_id_set': list(gold_table_id_set), 'data_list': data_list}
+            {
+                'gold_table_id_set': list(gold_table_id_set),
+                'data_list': [
+                    {
+                        'nl_query': data['nl_query'],
+                        'sql_query': data['sql_query'],
+                        'sql_query_result': {
+                            'header': data['sql_query_result']['header'],
+                            'cell': remove_duplicate_rows(data['sql_query_result']['cell'])
+                        }
+                    }
+                    for data in data_list
+                ]
+            }
             for gold_table_id_set, data_list in modified_split_set_dict.items()
         ]
 

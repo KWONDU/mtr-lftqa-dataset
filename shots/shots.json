@@ -1,11 +1,24 @@
 [
     {
-        "info": "qtsumm_same_page_with_similar_tables",
-        "annotate_answer": [
-            ""
+        "id": "shot_1_qtsumm_same_page_with_similar_tables",
+        "gold_table_set": [
+            {
+
+                "id": "",
+                "metadata": "",
+                "header": [],
+                "cell": [[]],
+                "serialization": ""
+            }
         ],
-        "annotate_question": [
-            ""
+        "statements": {
+            "##ID##": []
+        },
+        "annotation": [
+            {
+                "question": "",
+                "answer": ""
+            }
         ]
     },
     {

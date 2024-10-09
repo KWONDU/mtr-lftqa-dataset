@@ -1,8 +1,7 @@
-import asyncio
 import json
-import sys
 import os
-from tqdm.asyncio import tqdm_asyncio
+import sys
+from collections import defaultdict
 
 
 class SourceText2SQLDataset():
@@ -70,137 +69,73 @@ class SourceText2SQLDataset():
         return '<SourceText2SQL Dataset>'
 
 
-async def generate_short_form_answer(model_input, model_name, semaphore, table_serialization, get_async_openai_response):
-    tasks = [
-        get_async_openai_response(
-            semaphore=semaphore,
-            system_prompt=load_prompt(role='system', task='generate_short_form_answer'),
-            user_prompt=load_prompt(role='user', task='generate_short_form_answer').format(
-                nl_query=input_data['nl_query'],
-                sql_query=input_data['sql_query'],
-                sql_query_result=table_serialization(
-                    table_num=-1,
-                    metadata=None,
-                    header=input_data['sql_query_result']['header'],
-                    cell=input_data['sql_query_result']['cell']
-                )
-            ),
-            model_name=model_name,
-            key=input_data['key']
-        ) for input_data in model_input
-    ]
-
-    model_output_list = []
-
-    for task in tqdm_asyncio.as_completed(tasks):
-        try:
-            model_output = await task
-            model_output_list.append(model_output)
-        except Exception as e:
-            print(e)
-
-    cost = sum(
-            [model_output['input_tokens_cost'] for model_output in model_output_list]
-        ) + sum(
-            [model_output['output_tokens_cost'] for model_output in model_output_list]
-        )
-
-    return sorted(model_output_list, key=lambda x: x['key']), cost
-
-
 def import_utils():
     parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     sys.path.insert(0, parent_dir)
     from utils.dataset import save_source_dataset
     from utils.display import table_serialization
-    from utils.openai import load_prompt, save_prompt, get_async_openai_response
-    return save_source_dataset, table_serialization, load_prompt, save_prompt, get_async_openai_response
+    return save_source_dataset, table_serialization
 
 
 if __name__ == '__main__':
-    save_source_dataset, table_serialization, load_prompt, save_prompt, get_async_openai_response = import_utils()
+    save_source_dataset, table_serialization = import_utils()
 
-    source_dataset = SourceText2SQLDataset()
+    with open('storage/data_set_with_generated_statement.json', 'r') as file:
+            data_set_with_generated_statement = json.load(file)
 
-    with open('storage/modified_multitabqa_tables.json', 'r') as file:
-        unique_tables = json.load(file)
-    source_dataset._tables = unique_tables
-
-    match_query_short_form_answer_dict = dict()
-
-    for split in ['train', 'validation']:
-        with open(f'storage/modified_multitabqa_{split}_set.json', 'r') as file:
-            split_set = json.load(file)
-        
-        for role in ['system', 'user']:
-            save_prompt(file_path=f'prompts/{role}/generate_short_form_answers.txt', role=role, task='generate_short_form_answers')
-        
-        # Generate short-form answer from each NL-SQL query pair and SQL query result
-
-        model_name = 'gpt-3.5-turbo'
-
-        task_input = [
-            {
-                'nl_query': data['nl_query'],
-                'sql_query': data['sql_query'],
-                'sql_query_result': data['sql_query_result'],
-                'key': (idx, jdx)
-            }
-            for idx, instance in enumerate(split_set)
-            for jdx, data in enumerate(instance['data_list'])
-        ]
-
-        try:
-            with open(f'buffer/generate_short_form_answer_{split}_set_llm.json', 'r') as file:
-                task_output_list = json.load(file)
-        except:
-            semaphore = asyncio.Semaphore(100)
-            task_output_list, cost = asyncio.run(generate_short_form_answer(
-                model_input=task_input,
-                model_name=model_name,
-                semaphore=semaphore,
-                table_serialization=table_serialization,
-                get_async_openai_response=get_async_openai_response
-            ))
-
-            print(f'Total {split} set cost: ${cost:.2f}')
-
-            with open(f'buffer/generate_short_form_answer_{split}_set_llm.json', 'w') as file:
-                json.dump(task_output_list, file, indent=4)
-
-        task_response_list = [
-            sorted_task_output['response']
-            for sorted_task_output in sorted(task_output_list, key=lambda x: x['key'])
-        ]
-
-        source_split_set = []
-        pos = 0
-
-        for idx, instance in enumerate(split_set):
-            data_list = []
-            for jdx, data in enumerate(instance['data_list']):
-                data_list.append(task_response_list[pos])
-                match_query_short_form_answer_dict[(split, idx, jdx)] = {
-                    'nl_query': data['nl_query'],
-                    'sql_query': data['sql_query'],
-                    'sql_query_result': data['sql_query_result'],
-                    'short_form_answer': task_response_list[pos]
-                }
-                pos += 1
-            source_split_set.append({
-                'gold_table_id_set': instance['gold_table_id_set'],
-                'data_list': data_list
-            })
-
-        if split == 'train':
-            source_dataset._train = source_split_set
-        elif split == 'validation':
-            source_dataset._validation = source_split_set
-        else:
-            exit()
+    with open('storage/modified_statement_set_with_human_annotation.json', 'r') as file:
+        modified_statement_set = json.load(file)
     
-    save_source_dataset(dataset=source_dataset, dataset_name='sourcetext2sql')
+    # Reflect modificated statements
+    for key, statement in modified_statement_set.items():
+        idx, jdx = tuple(key.split('-'))
+        data_set_with_generated_statement[idx]['data_list'][jdx]['statement'] = statement # modifiy statement
+    
+    # Save source dataset
+    source_text2sql_dataset = SourceText2SQLDataset()
 
-    match_query_short_form_answer_dict = {str(key): value for key, value in match_query_short_form_answer_dict.items()}
-    with open('storage/matched_query_short_form_answer.json', 'w') as file:
-        json.dump(match_query_short_form_answer_dict, file, indent=4)
+    with open('modified_multitabqa_tables.json', 'r') as file:
+        unique_tables = json.load(file)
+    
+    source_text2sql_dataset._tables = unique_tables
+
+    data_set = defaultdict(list)
+
+    # Single table (entailed table), multi-table (gold table set)
+    sorted_data_set_with_generated_statement = sorted(data_set_with_generated_statement, key=lambda x: len(x['gold_table_id_set']), reverse=True)
+
+    for instance in sorted_data_set_with_generated_statement:
+        for data in instance['data_list']:
+            
+            if len(instance['gold_table_id_set']) > 1: # multi-table
+                data_set[(data['split'], tuple(instance['gold_table_id_set']))].append(
+                    {
+                        'entailed_table_id_set': instance['gold_table_id_set'],
+                        'statement': data['statement']
+                    }
+                )
+            
+            else: # single table
+                entailed_table_id = next(table_id for table_id in instance['gold_table_id_set'])
+                for (split, gold_table_id_tuple), _ in data_set.items():
+                    if entailed_table_id in gold_table_id_tuple:
+                        data_set[(split, gold_table_id_tuple)].append(
+                            {
+                                'entailed_table_id_set': [entailed_table_id],
+                                'statement': data['statement']
+                            }
+                        )
+
+    source_text2sql_dataset._train = [
+        {'gold_table_id_set': list(gold_table_id_set), 'data_list': data_list}
+        for (split, gold_table_id_set), data_list in data_set.items()
+        if split == 'train'
+    ]
+
+    source_text2sql_dataset._train = [
+        {'gold_table_id_set': list(gold_table_id_set), 'data_list': data_list}
+        for (split, gold_table_id_set), data_list in data_set.items()
+        if split == 'validation'
+    ]
+
+    save_source_dataset(dataset=source_text2sql_dataset, dataset_name="SourceText2SQL")

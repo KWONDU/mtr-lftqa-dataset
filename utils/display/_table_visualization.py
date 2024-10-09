@@ -11,12 +11,12 @@ def table_visualization(table_num, metadata, header, cell):
         for i in range(len(header)):
             col_widths[i] = max(col_widths[i], len(str(row[i])))
 
-    serialize_header = " | ".join(f"{header[i]:<{col_widths[i]}}" for i in range(len(header)))
+    serialize_header = " | ".join(f"{str(header[i]):<{col_widths[i]}}" for i in range(len(header)))
     sep_token = "-" * len(serialize_header)
 
     serialize_cell = sep_token
     for _, row in enumerate(cell):
-        serialize_row = " | ".join(f"{'' if row[i] is None else row[i]:<{col_widths[i]}}" for i in range(len(row)))
+        serialize_row = " | ".join(f"{'' if row[i] is None else str(row[i]):<{col_widths[i]}}" for i in range(len(row)))
         serialize_cell = "\n".join([serialize_cell, serialize_row])
     
     if header == [] and cell == [['' for _ in range(len(header))]]:
