@@ -144,7 +144,7 @@
 
 ### 2.3 Original dataset configuration (Don't need to use)
 
-![Dataset_statistics] (results/dataset_statistics.png)
+![Stats](results/dataset_statistics.png)
 
     original_dataset
         .download_type # [str] huggingface or local
