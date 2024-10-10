@@ -86,15 +86,15 @@ if __name__ == '__main__':
     with open('storage/modified_statement_set_with_human_annotation.json', 'r') as file:
         modified_statement_set = json.load(file)
     
-    # Reflect modificated statements
+    # Replace modified statements
     for key, statement in modified_statement_set.items():
         idx, jdx = tuple(key.split('-'))
-        data_set_with_generated_statement[idx]['data_list'][jdx]['statement'] = statement # modifiy statement
+        data_set_with_generated_statement[int(idx)]['data_list'][int(jdx)]['statement'] = statement # modified statement
     
     # Save source dataset
     source_text2sql_dataset = SourceText2SQLDataset()
 
-    with open('modified_multitabqa_tables.json', 'r') as file:
+    with open('storage/modified_multitabqa_tables.json', 'r') as file:
         unique_tables = json.load(file)
     
     source_text2sql_dataset._tables = unique_tables
@@ -132,7 +132,7 @@ if __name__ == '__main__':
         if split == 'train'
     ]
 
-    source_text2sql_dataset._train = [
+    source_text2sql_dataset._validation = [
         {'gold_table_id_set': list(gold_table_id_set), 'data_list': data_list}
         for (split, gold_table_id_set), data_list in data_set.items()
         if split == 'validation'

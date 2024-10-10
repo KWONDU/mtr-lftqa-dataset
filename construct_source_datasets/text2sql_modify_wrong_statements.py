@@ -12,7 +12,7 @@ def clear_screen():
 
 def get_verification():
     while True:
-        user_input = input("Input (T or F): ").strip()
+        user_input = input("\nInput (T or F): ").strip()
         if user_input in ['T', 'F', 'PASS']:
             return user_input
         else:
@@ -20,7 +20,7 @@ def get_verification():
 
 
 def get_modified_statement():
-    user_input = input("Modified statement: ").strip()
+    user_input = input("\nModified statement: ").strip()
     return user_input
 
 
