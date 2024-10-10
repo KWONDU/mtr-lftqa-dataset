@@ -55,12 +55,12 @@
 
 **QA pair 1 - Entailed statement 1**
 
-    <pre style="white-space: pre-wrap;">
+<pre style="white-space: pre-wrap;">
     Q.  How many players in the Kentucky Wildcats Football Team are from Georgia? Summarize the basic information of these players.
     A.  There is only one player in the Kentucky Wildcats Football Team from Georgia, and his name is Eric Scott. He is a senior from Woodstock, Georgia, and he stands at 6'5 with a weight of 291Lbs. Eric Scott plays in the center position and played a total of thirteen games during this 2007 season.
     ---
     S.  Eric Scott is the only player from Georgia on the 2007 Kentucky Wildcats Football Team. He is a senior from Woodstock, Georgia, standing 6’5 tall and weighing 291 pounds. Eric Scott played in the center position and appeared in 13 games during the 2007 season.
-    </pre>
+</pre>
 
 **QA pair 2 - Entailed statement 2**
 
