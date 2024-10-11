@@ -48,6 +48,7 @@
     openai/_prompt/assistant/*
     openai/_prompt/system/*
     openai/_prompt/user/*
+    !.gitignore
     !*/.gitkeep
 
 ## 1. Setup
