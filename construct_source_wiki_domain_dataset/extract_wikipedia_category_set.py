@@ -28,6 +28,14 @@ def get_category_set(page_title):
 if __name__ == '__main__':
     with open('storage/matched_wikipedia_page_title.json', 'r') as file:
         matched_page_title_dict = json.load(file)
+    
+    # Modify wrong page titles
+    with open('storage/modified_page_title_set_with_human_annotation.json', 'r') as file:
+        modified_page_title_set_with_human_annotation = json.load(file)
+    
+    for page_title, modified_page_title in modified_page_title_set_with_human_annotation.items():
+        matched_page_title_dict[page_title] = modified_page_title
+    # Finish reflect modifications
 
     category_set_per_page_title = dict()
     for page_title, wiki_page_title in tqdm(matched_page_title_dict.items(), total=len(matched_page_title_dict)):

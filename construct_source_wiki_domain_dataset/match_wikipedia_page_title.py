@@ -46,8 +46,8 @@ def import_utils():
 async def main():
     load_dataset = import_utils()
 
-    tabfact = load_dataset(dataset_name='Open-WikiTable')
-    page_title_list = list(set(table['metadata'] for table in tabfact.tables))
+    openwikitable = load_dataset(dataset_name='Open-WikiTable')
+    page_title_list = list(set(table['metadata'].split(' | ')[0] for table in openwikitable.tables))
 
     matched_page_title_dict = dict()
 
@@ -69,6 +69,13 @@ async def main():
             page_title, wiki_page_title = await task
             if wiki_page_title:
                 matched_page_title_dict[page_title] = wiki_page_title
+
+    """
+    Removed page titles:
+    Scott Rupp Award (PIHA)
+    List of Wii drivechips
+    Elissa Sursara
+    """
 
     with open('storage/matched_wikipedia_page_title.json', 'w') as file:
         json.dump(dict(sorted(matched_page_title_dict.items())), file, indent=4)
