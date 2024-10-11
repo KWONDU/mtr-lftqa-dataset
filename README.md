@@ -44,8 +44,10 @@
 
 ### utils/.gitignore
 
-    dataset/_class/source
-    openai/_prompt
+    dataset/_class/source/*
+    openai/_prompt/assistant/*
+    openai/_prompt/system/*
+    openai/_prompt/user/*
     !*/.gitkeep
 
 ## 1. Setup
