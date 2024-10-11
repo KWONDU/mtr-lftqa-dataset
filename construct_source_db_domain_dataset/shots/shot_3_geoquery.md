@@ -1,0 +1,17 @@
+# Shot 3 : GEOquery subset
+
+## NL query
+
+    What are the major cities in the United States?
+
+## SQL query
+
+    SELECT city.city_name FROM city WHERE city.population>150000;
+
+## SQL query result (serialization)
+
+    [header]: city_name [row 1]: birmingham [row 2]: mobile [row 3]: montgomery [row 4]: anchorage [row 5]: phoenix [row 6]: tucson [row 7]: mesa [row 8]: little rock [row 9]: los angeles [row 10]: san diego [row 11]: san francisco [row 12]: san jose [row 13]: long beach [row 14]: oakland [row 15]: sacramento [row 16]: anaheim [row 17]: fresno [row 18]: santa ana [row 19]: riverside [row 20]: huntington beach [row 21]: denver [row 22]: colorado springs [row 23]: aurora [row 24]: washington [row 25]: jacksonville [row 26]: miami [row 27]: tampa [row 28]: st. petersburg [row 29]: fort lauderdale [row 30]: atlanta [row 31]: columbus [row 32]: honolulu [row 33]: ewa [row 34]: chicago [row 35]: indianapolis [row 36]: fort wayne [row 37]: gary [row 38]: des moines [row 39]: wichita [row 40]: kansas city [row 41]: louisville [row 42]: lexington [row 43]: new orleans [row 44]: baton rouge [row 45]: shreveport [row 46]: metairie [row 47]: baltimore [row 48]: boston [row 49]: worcester [row 50]: springfield [row 51]: detroit [row 52]: grand rapids [row 53]: warren [row 54]: flint [row 55]: minneapolis [row 56]: st. paul [row 57]: jackson [row 58]: st. louis [row 59]: omaha [row 60]: lincoln [row 61]: las vegas [row 62]: newark [row 63]: jersey city [row 64]: albuquerque [row 65]: new york [row 66]: buffalo [row 67]: rochester [row 68]: yonkers [row 69]: syracuse [row 70]: charlotte [row 71]: greensboro [row 72]: cleveland [row 73]: cincinnati [row 74]: toledo [row 75]: akron [row 76]: dayton [row 77]: oklahoma city [row 78]: tulsa [row 79]: portland [row 80]: philadelphia [row 81]: pittsburgh [row 82]: providence [row 83]: memphis [row 84]: nashville [row 85]: knoxville [row 86]: chattanooga [row 87]: houston [row 88]: dallas [row 89]: san antonio [row 90]: el paso [row 91]: fort worth [row 92]: austin [row 93]: corpus christi [row 94]: lubbock [row 95]: arlington [row 96]: salt lake city [row 97]: norfolk [row 98]: virginia beach [row 99]: richmond [row 100]: seattle [row 101]: spokane [row 102]: tacoma [row 103]: milwaukee [row 104]: madison
+
+## Statement
+
+    The major cities in the United States are Birmingham, Mobile, Montgomery, Anchorage, Phoenix, Tucson, Mesa, Little rock, Los angeles, San diego, San francisco, San jose, Long beach, Oakland, Sacramento, Anaheim, Fresno, Santa ana, Riverside, Huntington beach, Denver, Colorado springs, Aurora, Washington, Jacksonville, Miami, Tampa, St. petersburg, Fort lauderdale, Atlanta, Columbus, Honolulu, Ewa, Chicago, Indianapolis, Fort wayne, Gary, Des moines, Wichita, Kansas city, Louisville, Lexington, New orleans, Baton rouge, Shreveport, Metairie, Baltimore, Boston, Worcester, Springfield, Detroit, Grand rapids, Warren, Flint, Minneapolis, St. paul, Jackson, St. louis, Omaha, Lincoln, Las vegas, Newark, Jersey city, Albuquerque, New york, Buffalo, Rochester, Yonkers, Syracuse, Charlotte, Greensboro, Cleveland, Cincinnati, Toledo, Akron, Dayton, Oklahoma city, Tulsa, Portland, Philadelphia, Pittsburgh, Providence, Memphis, Nashville, Knoxville, Chattanooga, Houston, Dallas, San antonio, El paso, Fort worth, Austin, Corpus christi, Lubbock, Arlington, Salt lake city, Norfolk, Virginia beach, Richmond, Seattle, Spokane, Tacoma, Milwaukee, and Madison.

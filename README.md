@@ -1,4 +1,4 @@
-# Multi-table retrieval + Long-form table QA dataset
+# README
 
 ![Main](results/main.png)
 
@@ -33,36 +33,6 @@
             .save_prompt(file_path, role, task) -> {role: task}
             .view_prompt_list() -> {role: [task_list], ...}
 
-## File construction
-
-    [folder] construct_source_datasets
-        [folder] prompts
-        [file] table2text_ . . . .py
-        [file] text2sql_ . . . .py
-    
-    [folder] prompts
-        [folder] system
-            . . .
-        
-        [folder] user
-            . . .
-    
-    [folder] results
-        . . .
-        [file] dataset_statistics.csv
-        [file] main.png
-        . . .
-    
-    [folder] shots
-        . . .
-    
-    [package] utils
-
-    [file] dataset_stats.py
-    [file] main.py
-    [file] plans.py
-    [file] requirements.txt
-
 ## .gitignore
 
     .gitignore
@@ -70,12 +40,13 @@
     *.yaml
     *temp*
     *buffer
-    *storage
+    !*/.gitkeep
 
 ### utils/.gitignore
 
     dataset/_class/source
     openai/_prompt
+    !*/.gitkeep
 
 ## 1. Setup
 
@@ -93,7 +64,7 @@
 
     from utils.openai import save_prompt
 
-    for role in ['system', 'user']:
+    for role in [. . .]: # assistant, system, user
         for task in [. . .]:
             save_prompt(file_path=f'prompt/{role}/{task}.txt', role, task)
 
@@ -182,5 +153,5 @@
 ## 3. Run 'main'
 
     python3 main.py \
-        -d {source_dataset_name, SourceText2SQL or SourceTable2Text}
+        -d {source_dataset_name, SourceDB or SourceWikipeida}
         -n {number_of_sampled_data}

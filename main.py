@@ -100,7 +100,7 @@ def main(dataset_name, sample_n):
      ###
 
      # Dataset structure
-     # type: SourceTable2Text, SourceText2SQL
+     # type: SourceDB, SourceWikipedia
      # tables: {table_id, metadata, header, cell}
      # split set: {gold_table_id_set, data_list}
      #                                data_list: list of entailed statements
@@ -234,7 +234,7 @@ if __name__ == '__main__':
     logger.addHandler(logging.StreamHandler())
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('-d', type=str, required=True, choices=['SourceText2SQL', 'SourceTable2Text'], help='dataset name')
+    parser.add_argument('-d', type=str, required=True, choices=["SourceDB", "SourceWikipedia"], help='dataset name')
     parser.add_argument('-n', type=int, required=True, help='number of sampled data')
 
     args, _ = parser.parse_known_args()

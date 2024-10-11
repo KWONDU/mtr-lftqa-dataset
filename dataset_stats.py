@@ -10,12 +10,14 @@ if __name__ == '__main__':
     args, _ = parser.parse_known_args()
 
     if args.t == 'original':
-        for source_type in ["SourceText2SQL", "SourceTable2Text"]:
+        for source_type in ["SourceDB", "SourceWikipedia"]:
             dataset = load_source_dataset(dataset_name=source_type)
             tables = dataset._tables
             train_set = dataset._train or []
             validation_set = dataset._validation or []
             test_set = dataset._test or []
+
+            print(f"About {source_type} dataset . . .")
 
             print(f"Instance # of train set: {len(train_set)}")
             print(f"Instance # of validation set: {len(validation_set)}")
@@ -31,8 +33,6 @@ if __name__ == '__main__':
             print(f"Avg. # of statements per instance: {sum(_ for _ in data_list_len) / len(data_list_len):.2f}")
             print(f"Med. # of statements per instance: {data_list_len[len(data_list_len) // 2]}")
             print(f"Total # of statements: {sum(_ for _ in data_list_len)}")
-
-            exit()
     
     elif args.t == 'source':
         dataset_list_header = ['dataset name', 'dataset type', 'source data']
