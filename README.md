@@ -39,7 +39,7 @@
     *__pycache__
     *.yaml
     *temp*
-    *buffer
+    *buffer/*
     !*/.gitkeep
 
 ### utils/.gitignore
