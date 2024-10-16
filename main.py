@@ -16,16 +16,16 @@ result_buffer_format = \
 """# Gold table set information
 {display_table}
 
-# Statement list
+# NL query list
 {display_data}
 
-# Step 1. answer annotation
-Answer: {annotated_answer}
-Difficulty: {answer_difficulty}
-Reference: {answer_reference}
+# Step 1. question annotation
+Question: {annotated_question}
+Difficulty: {question_difficulty}
+Reference: {question_reference}
 
-[Step 2. question annotation]
-{annotated_question}
+[Step 2. answer annotation]
+{annotated_answer}
 
 [Step 3. verification]
 {verification}
@@ -91,13 +91,13 @@ def main(dataset_name, sample_n):
           
           display_data = "\n".join([
                (
-                    f"Statement {str(ddx + 1)}. [Entail to table "
+                    f"Query {str(ddx + 1)} [Entail to table "
                     + ", ".join([
                          str(tdx + 1)
                          for tdx, gold_table_id in enumerate(gold_table_id_set)
                          if gold_table_id in data['entailed_table_id_set']
                     ])
-                    + f"] {data['statement']}"
+                    + f"] {data['nl_query']}"
                )
                for ddx, data in enumerate(data_list)
           ])
@@ -115,18 +115,18 @@ def main(dataset_name, sample_n):
      # type: SourceDB, SourceWikipedia
      # tables: {table_id, metadata, header, cell}
      # split set: {gold_table_id_set, data_list}
-     #                                data_list: {entailed_table_id_set, statement}
+     #                                data_list: {entailed_table_id_set, nl_query, statement}
 
      for role in ['system', 'user']:
-          for task in ['annotate_answers']:
+          for task in ['annotate_questions']:
                save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
      
-     # 1. Annotate answers using entailed statements and gold table set information
-     from plans import annotate_answers_task
-     from get_shots import get_annotate_answer_task_shots
+     # 1. Annotate questions using gold table set metadata and entailed nl queries
+     from plans import annotate_questions_task
+     from get_shots import get_annotate_questions_task_shots
 
      plan_output_list, cost = run_plan(
-          plan=annotate_answers_task,
+          plan=annotate_questions_task,
           plan_input=[
                {
                     'gold_table_set': [
@@ -134,37 +134,37 @@ def main(dataset_name, sample_n):
                          for gold_table_id in gold_table_id_set
                     ],
                     'data_list': data_list,
-                    'shots': get_annotate_answer_task_shots()
+                    'shots': get_annotate_questions_task_shots()
                }
                for gold_table_id_set, data_list in sampled_data_dict.items()
           ]
      )
 
      for num, plan_output in enumerate(plan_output_list):
-          indices = re.findall(r"Annotated document (\d+):", plan_output['response'])
-          answers = re.findall(r"Document: (.+?)(?=Difficulty:)", plan_output['response'], re.DOTALL)
+          indices = re.findall(r"Annotated question (\d+):", plan_output['response'])
+          questions = re.findall(r"Question: (.+?)(?=Difficulty:)", plan_output['response'], re.DOTALL)
           difficulties = re.findall(r"Difficulty: (\w+)", plan_output['response'])
           references = re.findall(r"Reference: \[(.+?)\]", plan_output['response'])
 
-          answers = [answer.strip() for answer in answers]
+          questions = [question.strip() for question in questions]
           references = [[int(ref) for ref in ref_list.split(", ")] for ref_list in references]
 
           result_buffer[num].update({
                'llm_output': {
                     int(adx) - 1: {
-                         'annotated_answer': answer,
-                         'answer_difficulty': diff,
-                         'answer_reference': ref
+                         'annotated_question': question,
+                         'question_difficulty': diff,
+                         'question_reference': ref
                     }
-                    for adx, answer, diff, ref in zip(indices, answers, difficulties, references)
+                    for adx, question, diff, ref in zip(indices, questions, difficulties, references)
                }
           })
      
      llm_buffer.append(plan_output_list)
-     total_cost['Annotate answers'] = cost
+     total_cost['Annotate questions'] = cost
      ### BUFFER ###
 
-     logger.info("[Done] Annotate answers using entailed statements and gold table set information.")
+     logger.info("[Done] Annotate questions using gold table set metadata and entailed nl queries.")
 
      # 4. Save to file - temp
      for num, annotation_set in result_buffer.items():
@@ -173,10 +173,10 @@ def main(dataset_name, sample_n):
                     file.write(result_buffer_format.format(
                          display_table=annotation_set['display_table'],
                          display_data=annotation_set['display_data'],
-                         annotated_answer=annotation['annotated_answer'],
-                         answer_difficulty=annotation['answer_difficulty'],
-                         answer_reference=str(annotation['answer_reference']),
-                         annotated_question=None,
+                         annotated_question=annotation['annotated_question'],
+                         question_difficulty=annotation['question_difficulty'],
+                         question_reference=str(annotation['question_reference']),
+                         annotated_answer=None,
                          verification=None
                     ))
 

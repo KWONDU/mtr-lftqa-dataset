@@ -100,7 +100,8 @@
                     'data_list': [
                         {
                             'entailed_table_id_set': [list] entailed table IDs,
-                            'statement': [str] statement
+                            'nl_query': [str] natural language query
+                            'statement': [str] entailed statement
                         },
                         . . .
                     ]

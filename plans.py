@@ -1,28 +1,27 @@
-import json
 from tqdm.asyncio import tqdm_asyncio
 from utils.display import table_serialization
 from utils.openai import load_prompt, get_async_openai_response
 
 
-async def annotate_answers_task(semaphore, model_input, model_name):
+async def annotate_questions_task(semaphore, model_input, model_name):
     tasks = [
         get_async_openai_response(
             semaphore=semaphore,
-            system_prompt=load_prompt(role='system', task='annotate_answers'),
-            user_prompt=load_prompt(role='user', task='annotate_answers').format(
+            system_prompt=load_prompt(role='system', task='annotate_questions'),
+            user_prompt=load_prompt(role='user', task='annotate_questions').format(
                 shots=input_data['shots'],
-                gold_table_set_information="\n".join([
+                gold_table_set_metadata="\n".join([
                     table_serialization(
                         table_num = tdx + 1,
                         metadata = gold_table['metadata'],
                         header = gold_table['header'],
-                        cell = gold_table['cell']
+                        cell = []
                     )
                     for tdx, gold_table in enumerate(input_data['gold_table_set'])
                 ]),
-                statement_list="\n".join([
+                nl_query_list="\n".join([
                     (
-                        f"Statement {ddx + 1}. [Entail to table "
+                        f"Query {ddx + 1} [Entail to table "
                         + ", ".join(
                             [
                                 str(idx + 1)
@@ -30,7 +29,7 @@ async def annotate_answers_task(semaphore, model_input, model_name):
                                 if gold_table['id'] in data['entailed_table_id_set']
                             ]
                         )
-                        + f"] {data['statement']}"
+                        + f"] {data['nl_query']}"
                     )
                     for ddx, data in enumerate(input_data['data_list'])
                 ])
@@ -54,6 +53,3 @@ async def annotate_answers_task(semaphore, model_input, model_name):
         )
 
     return sorted(model_output_list, key=lambda x: x['key']), cost
-
-async def annotate_question_task(semaphore, model_input, model_name):
-    None

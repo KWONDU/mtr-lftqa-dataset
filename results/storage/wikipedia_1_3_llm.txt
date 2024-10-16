@@ -43,23 +43,23 @@ R  | Player               | Position_ | League | Champions_League | Copa_del_Rey
 13 | Pepe                 | CB        | 1      | 0                | 0            | 1    
 13 | Ruud van Nistelrooy  | CF        | 1      | 0                | 0            | 1    
 
-# Statement list
-Statement 1. [Entail to table 1] If the total is 6, the maximum R for Real Madrid CF in the 2009/10 season in assists stats is 6.
-Statement 2. [Entail to table 1] The minimum R for Real Madrid CF assists in the 2009-10 season for Marcelo is 2.
-Statement 3. [Entail to table 1] For Real Madrid CF season 2009-10, in the Copa Del Rey final, the number of assists for a player in the position of FB is 0.
-Statement 4. [Entail to table 1] The position of Real Madrid CF assists in the 2009/10 season for the player Marcelo is LB.
-Statement 5. [Entail to table 1] Real Madrid CF's total number of assists for the 2009-10 season with the position as AM and the league greater than 7.0 is 1.
-Statement 6. [Entail to table 1] The maximum possible Copa Del Rey for Real Madrid CF's 2009-10 season assistants is 0.
-Statement 7. [Entail to table 2] The fewest goals scored by Sergio Ramos in Real Madrid CF in the 2009/10 season was 4.
-Statement 8. [Entail to table 2] The fewest goals and opponents in the Copa del Rey for Real Madrid CF in the 2009/10 season are 0.
-Statement 9. [Entail to table 2] In the 2009/10 season, the number of goals scored by Karim Benzema for Real Madrid CF in the Copa del Rey was 0.
+# NL query list
+Query 1 [Entail to table 1] If the total is 6, what is the maximum R for Real Madrid CF 2009/10 season in assists stats?
+Query 2 [Entail to table 1] If the player is Marcelo, what is the minimum R for Real Madrid CF assists in 2009-10 season?
+Query 3 [Entail to table 1] If position is FB what is Copa Del Rey final for Real Madrid CF season 2009-10 assists?
+Query 4 [Entail to table 1] If the player is Marcelo what is the position of Real Madrid CF assists in 2009/10 season?
+Query 5 [Entail to table 1] If the position is AM and the league is greater than 7.0, what is Real Madrid CF's total number of assists for the 2009-10 season?
+Query 6 [Entail to table 1] What is the maximum possible Copa Del Rey for Real Madrid CF's 2009-10 season assistants?
+Query 7 [Entail to table 2] What are the fewest goals scored by Sergio Ramos in Real Madrid CF in the 2009/10 season?
+Query 8 [Entail to table 2] What are the fewest goals and opponents in the Copa del Rey in Real Madrid CF in the 2009/10 season?
+Query 9 [Entail to table 2] In 2009/10 season was the name of Real Madrid CF goals most Copa del Rey for Karim Benzema?
 
-# Step 1. answer annotation
-Answer: The player with the most assists for Real Madrid CF in the 2009–10 season was Guti, an attacking midfielder, with 10 assists. Marcelo, a left-back, and Kaká, an attacking midfielder, followed with 9 and 8 assists, respectively. Cristiano Ronaldo, a winger-forward, and Rafael van der Vaart, another attacking midfielder, both contributed 7 assists each. The team's assists were primarily driven by players in midfield and attacking roles.
+# Step 1. question annotation
+Question: What was the minimum number of goals scored by a player in the 2009–10 Real Madrid C.F. season, and in which tournament did they achieve this?
 Difficulty: hard
-Reference: [3]
+Reference: [2]
 
-[Step 2. question annotation]
+[Step 2. answer annotation]
 None
 
 [Step 3. verification]
