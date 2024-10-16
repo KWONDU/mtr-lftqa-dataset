@@ -7,7 +7,7 @@
 **Visualization**
 
     Table id: e5ed2d8005238f50b689f239d335411f70cded82553581295f4874f58a85e915
-    metadata: List Of The Busiest Airports In The United States
+    metadata: List Of The Busiest Airports In The United States - Ranking by the amount of cargo # modified
     Rank | Airport Name                                | Location                 | Iata Code | Tonnes   | % Chg 2010 / 11
     ----------------------------------------------------------------------------------------------------------------------
     1    | Memphis International Airport               | Memphis , Tennessee      | Mem       | 3916410  | 0 0.0%         
@@ -22,14 +22,14 @@
 
 **Serialization**
 
-    Table 1 [metadata]: List Of The Busiest Airports In The United States [header]: Rank | Airport Name | Location | Iata Code | Tonnes | % Chg 2010 / 11 [row 1]: 1 | Memphis International Airport | Memphis , Tennessee | Mem | 3916410 | 0 0.0% [row 2]: 2 | Ted Stevens Anchorage International Airport | Anchorage , Alaska | Anc | 2543105 | 0 3.9% [row 3]: 3 | Louisville International Airport | Louisville , Kentucky | Sdf | 2188422 | 0 1.0% [row 4]: 4 | Miami International Airport | Miami , Florida | Mia | 1841929 | 0 0.3% [row 5]: 5 | Los Angeles International Airport | Los Angeles , California | Lax | 1681611 | 0 3.8% [row 6]: 6 | John F Kennedy International Airport | Queens , New York | Jfk | 1348992 | 0 0.5% [row 7]: 7 | O'Hare International Airport | Chicago , Illinois | Ord | 1311622 | 0 4.7% [row 8]: 8 | Indianapolis International Airport | Indianapolis | Ind | 0 971664 | 0 4.0% [row 9]: 9 | Newark Liberty International Airport | Newark , New Jersey | Ewr | 0 813209 | 0 5.0%
+    Table 1 [metadata]: List Of The Busiest Airports In The United States - Ranking by the amount of cargo [header]: Rank | Airport Name | Location | Iata Code | Tonnes | % Chg 2010 / 11 [row 1]: 1 | Memphis International Airport | Memphis , Tennessee | Mem | 3916410 | 0 0.0% [row 2]: 2 | Ted Stevens Anchorage International Airport | Anchorage , Alaska | Anc | 2543105 | 0 3.9% [row 3]: 3 | Louisville International Airport | Louisville , Kentucky | Sdf | 2188422 | 0 1.0% [row 4]: 4 | Miami International Airport | Miami , Florida | Mia | 1841929 | 0 0.3% [row 5]: 5 | Los Angeles International Airport | Los Angeles , California | Lax | 1681611 | 0 3.8% [row 6]: 6 | John F Kennedy International Airport | Queens , New York | Jfk | 1348992 | 0 0.5% [row 7]: 7 | O'Hare International Airport | Chicago , Illinois | Ord | 1311622 | 0 4.7% [row 8]: 8 | Indianapolis International Airport | Indianapolis | Ind | 0 971664 | 0 4.0% [row 9]: 9 | Newark Liberty International Airport | Newark , New Jersey | Ewr | 0 813209 | 0 5.0%
 
 ### Table 2
 
 **Visualization**
 
     Table id: de8eafd6529310457cbb967e43024449e0185103fd276fe08864facc3c1e552f
-    metadata: List Of The Busiest Airports In The United States
+    metadata: List Of The Busiest Airports In The United States - Ranking by the number of passengers # modified
     Rank | Airport Name                                       | Location                      | Iata Code | Passengers | % Chg 2009 / 10
     ------------------------------------------------------------------------------------------------------------------------------------
     1    | John F Kennedy International Airport               | Queens , New York             | Jfk       | 22702882   | 5.8%           
@@ -44,7 +44,7 @@
 
 **Serialization**
 
-    Table 2 [metadata]: List Of The Busiest Airports In The United States [header]: Rank | Airport Name | Location | Iata Code | Passengers | % Chg 2009 / 10 [row 1]: 1 | John F Kennedy International Airport | Queens , New York | Jfk | 22702882 | 5.8% [row 2]: 2 | Miami International Airport | Miami , Florida | Mia | 16207353 | 5.3% [row 3]: 3 | Los Angeles International Airport | Los Angeles , California | Lax | 15505566 | 4.7% [row 4]: 4 | Newark Liberty International Airport | Newark , New Jersey | Ewr | 11372186 | 6.6% [row 5]: 5 | O'Hare International Airport | Chicago , Illinois | Ord | 10426287 | 2.5% [row 6]: 6 | Hartsfield - Jackson Atlanta International Airport | Atlanta , Georgia | Atl | 9120974 | 4.1% [row 7]: 7 | San Francisco International Airport | San Mateo County , California | Sfo | 8476172 | 7.4% [row 8]: 8 | George Bush Intercontinental Airport | Houston , Texas | Iah | 8279513 | 9.5% [row 9]: 9 | Washington Dulles International Airport | Dulles , Virginia | Iad | 6167501 | 9.5%
+    Table 2 [metadata]: List Of The Busiest Airports In The United States  - Ranking by the number of passengers [header]: Rank | Airport Name | Location | Iata Code | Passengers | % Chg 2009 / 10 [row 1]: 1 | John F Kennedy International Airport | Queens , New York | Jfk | 22702882 | 5.8% [row 2]: 2 | Miami International Airport | Miami , Florida | Mia | 16207353 | 5.3% [row 3]: 3 | Los Angeles International Airport | Los Angeles , California | Lax | 15505566 | 4.7% [row 4]: 4 | Newark Liberty International Airport | Newark , New Jersey | Ewr | 11372186 | 6.6% [row 5]: 5 | O'Hare International Airport | Chicago , Illinois | Ord | 10426287 | 2.5% [row 6]: 6 | Hartsfield - Jackson Atlanta International Airport | Atlanta , Georgia | Atl | 9120974 | 4.1% [row 7]: 7 | San Francisco International Airport | San Mateo County , California | Sfo | 8476172 | 7.4% [row 8]: 8 | George Bush Intercontinental Airport | Houston , Texas | Iah | 8279513 | 9.5% [row 9]: 9 | Washington Dulles International Airport | Dulles , Virginia | Iad | 6167501 | 9.5%
 
 ## QA pairs - Entailed statements
 
@@ -89,32 +89,27 @@
 
 ## Annotation
 
-**QA pair 1 : Relationship between tables**
+**QA pair 1 : Easy # 1-1**
 
-    Q.  What is the difference between how airports are ranked in Table 1 and Table 2 in the list of the busiest airports in the United States?
-    A.  Table 1 ranks the busiest airports by the amount of cargo (tonnes) they handle, while the Table 2 ranks the busiest airports by the number of passengers they accommodate Additionally, the percentage change in the table 1 is based on cargo volume between 2010 and 2011, whereas in the table 2, it reflects the change in passenger numbers between 2009 and 2010.
+    Q.  What are the top three busiest U.S. airports by both cargo throughput and passenger traffic in the list of the busiest airports in the United States? Summarize the basic information of the airports.
+    A.  The top three busiest U.S. airports by cargo throughput in 2010/11 are Memphis International Airport, Ted Stevens Anchorage International Airport, and Louisville International Airport. Memphis International Airport, located in Memphis, Tennessee (MEM), handled 3,916,410 tonnes of cargo with no change from the previous year. Ted Stevens Anchorage International Airport, located in Anchorage, Alaska (ANC), handled 2,543,105 tonnes of cargo with a 3.9% increase. Louisville International Airport, located in Louisville, Kentucky (SDF), handled 2,188,422 tonnes of cargo with a 1.0% increase from the previous year. For passenger traffic, the top three busiest U.S. airports in 2009/10 are John F. Kennedy International Airport, Miami International Airport, and Los Angeles International Airport. John F. Kennedy International Airport, located in Queens, New York (JFK), handled 22,702,882 passengers with a 5.8% increase. Miami International Airport, located in Miami, Florida (MIA), handled 16,207,353 passengers with a 5.3% increase. Los Angeles International Airport, located in Los Angeles, California (LAX), handled 15,505,566 passengers with a 4.7% increase.
 
-**QA pair 2 : Relationship between tables & Additional reasoning**
-
-    Q.  Summarize the basic information of the airports which appear in both tables about the busiest airports in the United States.
-    A.  The airports that appear in both tables are John F. Kennedy International Airport, Miami International Airport, Los Angeles International Airport, Newark Liberty International Airport, and O’Hare International Airport. John F. Kennedy International Airport (JFK) is located in Queens, New York. It is ranked 6th in terms of cargo handled, with 1,348,992 tonnes in 2010/11 and a 0.5% increase. For passenger traffic, it is ranked 1st, handling 22,702,882 passengers in 2009/10 with a 5.8% increase. Miami International Airport (MIA) is located in Miami, Florida. It is ranked 4th for cargo, handling 1,841,929 tonnes in 2010/11 with a 0.3% increase. For passenger traffic, it is ranked 2nd, with 16,207,353 passengers in 2009/10, showing a 5.3% increase. Los Angeles International Airport (LAX) is located in Los Angeles, California. It is ranked 5th for cargo, handling 1,681,611 tonnes in 2010/11 with a 3.8% increase. For passengers, it is ranked 3rd, with 15,505,566 passengers in 2009/10, showing a 4.7% increase. Newark Liberty International Airport (EWR) is located in Newark, New Jersey. It is ranked 9th for cargo, handling 813,209 tonnes in 2010/11 with a 5.0% increase. For passengers, it is ranked 4th, handling 11,372,186 passengers in 2009/10, with a 6.6% increase. O’Hare International Airport (ORD) is located in Chicago, Illinois. It is ranked 7th for cargo, handling 1,311,622 tonnes in 2010/11 with a 4.7% increase. For passengers, it is ranked 5th, with 10,426,287 passengers in 2009/10, showing a 2.5% increase.
-
-**QA pair 3 : Reference from statements**
-
-    Q.  What are the top three busiest U.S. airports by cargo throughput in 2010/11? Summarize the basic information of the airports.
-    A.  The top three busiest U.S. airports by cargo throughput in 2010/11 are Memphis International Airport, Ted Stevens Anchorage International Airport, and Louisville International Airport. Memphis International Airport, located in Memphis, Tennessee (MEM), handled 3,916,410 tonnes of cargo with no change from the previous year. Ted Stevens Anchorage International Airport, located in Anchorage, Alaska (ANC), handled 2,543,105 tonnes of cargo with a 3.9% increase. Louisville International Airport, located in Louisville, Kentucky (SDF), handled 2,188,422 tonnes of cargo with a 1.0% increase from the previous year.
-
-**QA pair 4 : Reference from statements**
+**QA pair 2 : Easy # 2-1**
 
     Q.  Summarize the airports located in New York and California in the list of the busiest airports in the United States.
     A.  The airports located in New York and California include John F. Kennedy International Airport in Queens, New York, and Los Angeles International Airport and San Francisco International Airport in California. John F. Kennedy International Airport (JFK) is ranked 6th among the busiest cargo throughput airports in the United States, handling 1,348,992 tonnes of cargo in 2010/11 with a 0.5% increase from the previous year. It is also ranked 1st in terms of passenger traffic, serving 22,702,882 passengers in 2009/10, with a 5.8% increase. Los Angeles International Airport (LAX) is ranked 5th in cargo throughput, handling 1,681,611 tonnes in 2010/11 with a 3.8% increase. It is ranked 3rd in passenger traffic, serving 15,505,566 passengers in 2009/10 with a 4.7% increase. San Francisco International Airport (SFO) is ranked 7th in passenger traffic, serving 8,476,172 passengers in 2009/10 with a 7.4% increase.
 
-**QA pair 5 : Reference from statements & Additional reasoning**
+**QA pair 3 : Medium # 1-2, 2-1, 2-2**
 
     Q.  Summarize the basic information of the airports located in Alaska and Virginia in the list of the busiest airports in the United States.
     A.  The airports located in Alaska and Virginia include Ted Stevens Anchorage International Airport in Anchorage, Alaska, and Washington Dulles International Airport in Dulles, Virginia. Ted Stevens Anchorage International Airport (ANC) is ranked 2nd among the busiest cargo throughput airports in the United States, handling 2,543,105 tonnes of cargo in 2010/11, with a 3.9% increase from the previous year. Washington Dulles International Airport (IAD) is ranked 9th in terms of passenger traffic, serving 6,167,501 passengers in 2009/10, with a 9.5% increase from the previous year.
 
-**QA pair 6 : Reference from statements & Additional reasoning**
+**QA pair 4 : Medium # 1-3**
 
-    Q.  Considering the two tables as a whole, which airport may be the largest in the United States, and why?
+    Q.  Considering both cargo throughput and passenger traffic, which airport may be the largest in the list of the busiest airports in the United States, and why?
     A.  The largest airport, considering both cargo throughput and passenger traffic, may be John F. Kennedy International Airport (JFK) in Queens, New York. In terms of passenger traffic, John F. Kennedy International Airport is ranked 1st in the United States, handling 22,702,882 passengers in 2009/10, with a 5.8% increase from the previous year. For cargo throughput, JFK is ranked 6th, managing 1,348,992 tonnes of cargo in 2010/11, with a 0.5% increase. This strong performance in both passenger and cargo handling suggests that JFK could be considered the largest airport overall.
+
+**QA pair 5 : Extreme**
+
+    Q.  Summarize the basic information of the airports that appear in both cargo throughput ranking and passenger traffic ranking about the busiest airports in the United States.
+    A.  The airports that appear in both tables are John F. Kennedy International Airport, Miami International Airport, Los Angeles International Airport, Newark Liberty International Airport, and O’Hare International Airport. John F. Kennedy International Airport (JFK) is located in Queens, New York. It is ranked 6th in terms of cargo handled, with 1,348,992 tonnes in 2010/11 and a 0.5% increase. For passenger traffic, it is ranked 1st, handling 22,702,882 passengers in 2009/10 with a 5.8% increase. Miami International Airport (MIA) is located in Miami, Florida. It is ranked 4th for cargo, handling 1,841,929 tonnes in 2010/11 with a 0.3% increase. For passenger traffic, it is ranked 2nd, with 16,207,353 passengers in 2009/10, showing a 5.3% increase. Los Angeles International Airport (LAX) is located in Los Angeles, California. It is ranked 5th for cargo, handling 1,681,611 tonnes in 2010/11 with a 3.8% increase. For passengers, it is ranked 3rd, with 15,505,566 passengers in 2009/10, showing a 4.7% increase. Newark Liberty International Airport (EWR) is located in Newark, New Jersey. It is ranked 9th for cargo, handling 813,209 tonnes in 2010/11 with a 5.0% increase. For passengers, it is ranked 4th, handling 11,372,186 passengers in 2009/10, with a 6.6% increase. O’Hare International Airport (ORD) is located in Chicago, Illinois. It is ranked 7th for cargo, handling 1,311,622 tonnes in 2010/11 with a 4.7% increase. For passengers, it is ranked 5th, with 10,426,287 passengers in 2009/10, showing a 2.5% increase.

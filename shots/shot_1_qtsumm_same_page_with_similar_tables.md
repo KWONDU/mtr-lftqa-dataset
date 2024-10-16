@@ -7,7 +7,7 @@
 **Visualization**
 
     Table id: ed3e1377926e4fe35168a9148327fbe27bcd8314b2afa60604c77ff08d7ca527
-    metadata: 2007 Kentucky Wildcats Football Team
+    metadata: 2007 Kentucky Wildcats Football Team - Offensive team     # modified
     Position | Number | Name              | Height | Weight | Class | Hometown                   | Games
     ----------------------------------------------------------------------------------------------------
     Qb       | 3      | Andre Woodson     | 6'5    | 230Lb  | Sr    | Radcliff , Kentucky        | 13   
@@ -24,14 +24,14 @@
 
 **Serialization**
 
-    Table 1 [metadata]: 2007 Kentucky Wildcats Football Team [header]: Position | Number | Name | Height | Weight | Class | Hometown | Games [row 1]: Qb | 3 | Andre Woodson | 6'5 | 230Lb | Sr | Radcliff , Kentucky | 13 [row 2]: Hb | 22 | Rafael Little | 5'10 | 210Lb | Sr | Anderson , South Carolina | 10 [row 3]: Fb | 38 | John Conner | 5'11 | 228 | So | West Chester , Ohio | 13 [row 4]: Wr | 19 | Keenan Burton | 6'2 | 195Lb | Sr | Louisville , Kentucky | 12 [row 5]: Wr | 13 | Steve Johnson | 6'3 | 198Lb | Sr | San Francisco , California | 10 [row 6]: Te | 18 | Jacob Tamme | 6'4 | 215Lb | Sr | Danville , Kentucky | 13 [row 7]: Lt | 79 | Garry Willians | 6'0 | 300Lb | Jr | Louisville , Kentucky | 13 [row 8]: Lg | 72 | Zipp Duncan | 6'5 | 295Lb | So | Magnolia , Kentucky | 12 [row 9]: C | 59 | Eric Scott | 6'5 | 291Lb | Sr | Woodstock , Georgia | 13 [row 10]: Rg | 78 | Christian Johnson | 6'4 | 325Lb | Jr | Fort Campbell , Kentucky | 13 [row 11]: Rt | 76 | Justin Jeffries | 6'6 | 300Lb | So | Louisville , Kentucky | 13
+    Table 1 [metadata]: 2007 Kentucky Wildcats Football Team - Offensive team [header]: Position | Number | Name | Height | Weight | Class | Hometown | Games [row 1]: Qb | 3 | Andre Woodson | 6'5 | 230Lb | Sr | Radcliff , Kentucky | 13 [row 2]: Hb | 22 | Rafael Little | 5'10 | 210Lb | Sr | Anderson , South Carolina | 10 [row 3]: Fb | 38 | John Conner | 5'11 | 228 | So | West Chester , Ohio | 13 [row 4]: Wr | 19 | Keenan Burton | 6'2 | 195Lb | Sr | Louisville , Kentucky | 12 [row 5]: Wr | 13 | Steve Johnson | 6'3 | 198Lb | Sr | San Francisco , California | 10 [row 6]: Te | 18 | Jacob Tamme | 6'4 | 215Lb | Sr | Danville , Kentucky | 13 [row 7]: Lt | 79 | Garry Willians | 6'0 | 300Lb | Jr | Louisville , Kentucky | 13 [row 8]: Lg | 72 | Zipp Duncan | 6'5 | 295Lb | So | Magnolia , Kentucky | 12 [row 9]: C | 59 | Eric Scott | 6'5 | 291Lb | Sr | Woodstock , Georgia | 13 [row 10]: Rg | 78 | Christian Johnson | 6'4 | 325Lb | Jr | Fort Campbell , Kentucky | 13 [row 11]: Rt | 76 | Justin Jeffries | 6'6 | 300Lb | So | Louisville , Kentucky | 13
 
 ### Table 2
 
 **Visualization**
 
     Table id: 5bd669d1d21d05c76035b9f46f7209ad44d8f1cef5fbf7f1a3d85978b9d5e2c7
-    metadata: 2007 Kentucky Wildcats Football Team
+    metadata: 2007 Kentucky Wildcats Football Team - Deffensive team    # modified
     Position | Number | Name             | Height | Weight | Class | Hometown                  | Games
     --------------------------------------------------------------------------------------------------
     Le       | 99     | Jeremy Jarmon    | 6'3    | 277Lb  | So    | Collierville , Tennessee  | 13   
@@ -47,7 +47,7 @@
 
 **Serialization**
 
-    Table 2 [metadata]: 2007 Kentucky Wildcats Football Team [header]: Position | Number | Name | Height | Weight | Class | Hometown | Games [row 1]: Le | 99 | Jeremy Jarmon | 6'3 | 277Lb | So | Collierville , Tennessee | 13 [row 2]: Lt | 98 | Myron Pryor | 6'1 | 310Lb | So | Louisville , Kentucky | 12 [row 3]: Rt | 91 | Corey Peters | 6'3 | 290Lb | So | Louisville , Kentucky | 13 [row 4]: Re | 95 | Ventrell Jenkins | 6'2 | 285Lb | Jr | Columbia , South Carolina | 11 [row 5]: Slb | 16 | Wesley Woodyard | 6'1 | 225Lb | Sr | Lagrange , Georgia | 13 [row 6]: Mlb | 56 | Braxton Kelley | 6'0 | 230Lb | Jr | Lagrange , Georgia | 12 [row 7]: Wlb | 51 | Johnny Williams | 6'3 | 244Lb | Jr | Jacksonville , Florida | 12 [row 8]: Rcb | 32 | Trevard Lindley | 6'0 | 175Lb | So | Hiram , Georgia | 13 [row 9]: Lcb | 34 | Paul Warford | 5'10 | 200Lb | So | Richmond , Kentucky | 10 [row 10]: Fs | 35 | Roger Williams | 6'0 | 204Lb | Sr | Rockmart , Georgia | 13
+    Table 2 [metadata]: 2007 Kentucky Wildcats Football Team - Deffensive team [header]: Position | Number | Name | Height | Weight | Class | Hometown | Games [row 1]: Le | 99 | Jeremy Jarmon | 6'3 | 277Lb | So | Collierville , Tennessee | 13 [row 2]: Lt | 98 | Myron Pryor | 6'1 | 310Lb | So | Louisville , Kentucky | 12 [row 3]: Rt | 91 | Corey Peters | 6'3 | 290Lb | So | Louisville , Kentucky | 13 [row 4]: Re | 95 | Ventrell Jenkins | 6'2 | 285Lb | Jr | Columbia , South Carolina | 11 [row 5]: Slb | 16 | Wesley Woodyard | 6'1 | 225Lb | Sr | Lagrange , Georgia | 13 [row 6]: Mlb | 56 | Braxton Kelley | 6'0 | 230Lb | Jr | Lagrange , Georgia | 12 [row 7]: Wlb | 51 | Johnny Williams | 6'3 | 244Lb | Jr | Jacksonville , Florida | 12 [row 8]: Rcb | 32 | Trevard Lindley | 6'0 | 175Lb | So | Hiram , Georgia | 13 [row 9]: Lcb | 34 | Paul Warford | 5'10 | 200Lb | So | Richmond , Kentucky | 10 [row 10]: Fs | 35 | Roger Williams | 6'0 | 204Lb | Sr | Rockmart , Georgia | 13
 
 ## QA pairs - Entailed statements
 
@@ -85,32 +85,32 @@
 
 ## Annotation
 
-**QA pair 1 : Relationship between tables**
-
-    Q.  Which table represents the offensive team and which represents the defensive team in the 2007 Kentucky Wildcats Football roster? Explain why.
-    A.  Table 1 is the offensive team because it lists positions such as Quarterback, Halfback, Wide Receiver, and various offensive linemen, all of which are responsible for advancing the ball and scoring points. In contrast, Table 2 is the defensive team because it includes positions like Defensive End, Linebacker, Cornerback, and Safety, whose roles are focused on stopping the opposing offense and preventing them from scoring.
-
-**QA pair 2 : Refernece from statements**
+**QA pair 1 : Easy # 1-1, 2-2**
 
     Q.  How many players from Georgia were on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.
     A.  The 2007 Kentucky Wildcats Football Team had five players from Georgia. Eric Scott, a senior from Woodstock, Georgia, played as a center, standing 6’5 and weighing 291 lbs, and appeared in 13 games. Wesley Woodyard, a senior from Lagrange, Georgia, played as a strong-side linebacker, standing 6’1 and weighing 225 lbs, and also played in 13 games. Braxton Kelley, a junior from Lagrange, Georgia, played as a middle linebacker, standing 6’0 and weighing 230 lbs, and appeared in 12 games. Trevard Lindley, a sophomore from Hiram, Georgia, played as a right cornerback, standing 6’0 and weighing 175 lbs, and participated in 13 games. Lastly, Roger Williams, a senior from Rockmart, Georgia, played as a free safety, standing 6’0 and weighing 204 lbs, and appeared in 13 games.
 
-**QA pair 3 : Reference from statements**
+**QA pair 2 : Easy # 2-1**
 
     Q3.  How many players from South Carolina were on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.
     A3.  The 2007 Kentucky Wildcats Football Team had two players from South Carolina. Rafael Little, a senior from Anderson, South Carolina, played as a halfback, standing 5’10 and weighing 210 lbs, and appeared in 10 games. Ventrell Jenkins, a junior from Columbia, South Carolina, played as a right end, standing 6’2 and weighing 285 lbs, and participated in 11 games.
 
-**QA pair 4 : Reference from statements**
+**QA pair 3 : Easy # 1-2**
 
     Q4.  Who were the players with the height of 6'3 on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.
     A4.  The 2007 Kentucky Wildcats Football Team had four players with a height of 6’3. Steve Johnson, a senior from San Francisco, California, played as a wide receiver, weighing 198 lbs, and appeared in 10 games. Jeremy Jarmon, a sophomore from Collierville, Tennessee, played as a left end, weighing 277 lbs, and participated in 13 games. Corey Peters, a sophomore from Louisville, Kentucky, played as a right tackle, weighing 290 lbs, and appeared in 13 games. Lastly, Johnny Williams, a junior from Jacksonville , Florida, played as a weakside linebacker, weighing 244 lbs, and appeared in 12 games.
 
-**QA pair 5 : Additional reasoning**
+**QA pair 4 : Hard # 1-1, 2-1, 2-2**
 
     Q5.  How many players from each state were on the 2007 Kentucky Wildcats Football Team, and how were they distributed between offense and defense?
     A5.  In the 2007 Kentucky Wildcats Football Team, there were 10 players from Kentucky, 7 on offense and 3 on defense. From Georgia, there were 5 players, with 1 on offense and 4 on defense. South Carolina had 2 players, one on offense and one on defense. Ohio had 1 player on offense, California had 1 player on offense, Tennessee had 1 player on defense, and Florida had 1 player on defense.
 
-**QA pair 6 : Additional reasoning**
+**QA pair 5 : Hard # 1-2**
 
     Q6.  Who were the tallest and shortest players on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.
     A6.  The tallest player on the 2007 Kentucky Wildcats Football Team was Justin Jeffries, a right tackle, standing at 6’6 and weighing 300 lbs. He was a sophomore from Louisville, Kentucky, and played in 13 games. The shortest players were Rafael Little, a halfback, and Paul Warford, a left cornerback, both standing at 5’10. Rafael Little was a senior from Anderson, South Carolina, weighing 210 lbs, and played in 10 games, while Paul Warford was a sophomore from Richmond, Kentucky, weighing 200 lbs, and played in 10 games.
+
+**QA pair 6 : Extreme**
+
+    Q.  What are the key roles and players on the offensive and defensive teams in the 2007 Kentucky Wildcats Football Team?
+    A.  In the 2007 Kentucky Wildcats Football Team, the offensive team is responsible for advancing the ball and scoring points. Key players on offense include quarterback Andre Woodson, who played all 13 games, and wide receivers Keenan Burton and Steve Johnson, both seniors, who contributed significantly to the team’s passing game. The defensive team, on the other hand, focuses on stopping the opponent’s offense and preventing scoring. Key defensive players include linebacker Wesley Woodyard, who played all 13 games, and defensive end Jeremy Jarmon, who led the defensive line. Both teams have a mix of senior leadership and underclassmen talent, contributing to the team’s overall performance.

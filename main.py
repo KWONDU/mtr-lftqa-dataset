@@ -13,20 +13,22 @@ from utils.openai import save_prompt
 MODEL_NAME='gpt-3.5-turbo'
 
 result_buffer_format = \
-"""[Gold table set]
+"""# Gold table set information
 {display_table}
 
-[Entailed statements]
+# Statement list
 {display_data}
 
-[Step 1. document generation]
-{generated_document}
+# Step 1. answer annotation
+Answer: {annotated_answer}
+Difficulty: {answer_difficulty}
+Reference: {answer_reference}
 
-[Step 2. answer annotation]
-{annotated_answer}
-
-[Step 3. question annotation]
+[Step 2. question annotation]
 {annotated_question}
+
+[Step 3. verification]
+{verification}
 """
 
 
@@ -55,11 +57,13 @@ def main(dataset_name, sample_n):
      validation_data_dict = {tuple(data['gold_table_id_set']): data['data_list'] for data in dataset.validation} if dataset.validation else dict()
      test_data_dict = {tuple(data['gold_table_id_set']): data['data_list'] for data in dataset.test} if dataset.test else dict()
 
-     """ # Dataset statistics
+     """
+     # Dataset statistics
      print(f"# of unique tables: {len(table_lake)}")
      print(f"# of dataset: {len(data_dict)}")
      print(f"# of train set: {len(train_data_dict)}")
      print(f"# of validation set: {len(validation_data_dict)}")
+     print(f"# of test set: {len(test_data_dict)}")
      print(f"Avg. # of gold tables per data: {sum([len(_) for _ in data_dict.keys()]) / len(data_dict):.2f}")
      print(f"Avg. # of data per gold table set: {sum([len(_) for _ in data_dict.values()]) / len(data_dict):.2f}")
      """
@@ -78,16 +82,24 @@ def main(dataset_name, sample_n):
      for num, (gold_table_id_set, data_list) in enumerate(sampled_data_dict.items()):
           display_table = "\n".join([
                table_visualization(
-                    table_num=idx+1,
-                    metadata=table_lake[gold_table_id]['metadata'],
-                    header=table_lake[gold_table_id]['header'],
-                    cell=table_lake[gold_table_id]['cell']
-               ) for idx, gold_table_id in enumerate(gold_table_id_set)
+                    table_num = tdx + 1,
+                    metadata = table_lake[gold_table_id]['metadata'],
+                    header = table_lake[gold_table_id]['header'],
+                    cell = table_lake[gold_table_id]['cell']
+               ) for tdx, gold_table_id in enumerate(gold_table_id_set)
           ])
-
+          
           display_data = "\n".join([
-               data
-               for _, data in enumerate(data_list)
+               (
+                    f"Statement {str(ddx + 1)}. [Entail to table "
+                    + ", ".join([
+                         str(tdx + 1)
+                         for tdx, gold_table_id in enumerate(gold_table_id_set)
+                         if gold_table_id in data['entailed_table_id_set']
+                    ])
+                    + f"] {data['statement']}"
+               )
+               for ddx, data in enumerate(data_list)
           ])
 
           result_buffer[num].update({
@@ -103,121 +115,69 @@ def main(dataset_name, sample_n):
      # type: SourceDB, SourceWikipedia
      # tables: {table_id, metadata, header, cell}
      # split set: {gold_table_id_set, data_list}
-     #                                data_list: list of entailed statements
+     #                                data_list: {entailed_table_id_set, statement}
 
      for role in ['system', 'user']:
-          for task in ['generate_document', 'annotate_answer', 'annotate_question']:
+          for task in ['annotate_answers']:
                save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
      
-     # 1. Generate document using entailed statements and gold table set information
-     from plans import generate_document_task
+     # 1. Annotate answers using entailed statements and gold table set information
+     from plans import annotate_answers_task
+     from get_shots import get_annotate_answer_task_shots
+
      plan_output_list, cost = run_plan(
-          plan=generate_document_task,
+          plan=annotate_answers_task,
           plan_input=[
                {
                     'gold_table_set': [
                          table_lake[gold_table_id]
                          for gold_table_id in gold_table_id_set
                     ],
-                    'statement_list': data_list
+                    'data_list': data_list,
+                    'shots': get_annotate_answer_task_shots()
                }
                for gold_table_id_set, data_list in sampled_data_dict.items()
           ]
      )
 
-     generated_document_list = [plan_output['response'] for plan_output in plan_output_list]
+     for num, plan_output in enumerate(plan_output_list):
+          indices = re.findall(r"Annotated document (\d+):", plan_output['response'])
+          answers = re.findall(r"Document: (.+?)(?=Difficulty:)", plan_output['response'], re.DOTALL)
+          difficulties = re.findall(r"Difficulty: (\w+)", plan_output['response'])
+          references = re.findall(r"Reference: \[(.+?)\]", plan_output['response'])
 
-     ### BUFFER ###
-     for num, generated_document in enumerate(generated_document_list):
+          answers = [answer.strip() for answer in answers]
+          references = [[int(ref) for ref in ref_list.split(", ")] for ref_list in references]
+
           result_buffer[num].update({
-               'doc': generated_document
+               'llm_output': {
+                    int(adx) - 1: {
+                         'annotated_answer': answer,
+                         'answer_difficulty': diff,
+                         'answer_reference': ref
+                    }
+                    for adx, answer, diff, ref in zip(indices, answers, difficulties, references)
+               }
           })
      
      llm_buffer.append(plan_output_list)
-
-     total_cost['Generate document'] = cost
+     total_cost['Annotate answers'] = cost
      ### BUFFER ###
 
-     logger.info("[Done] Generate document using entailed statements and gold table set information.")
-
-     # 2. Annotate high-level answer using generated document
-     from plans import annotate_answer_task
-     plan_output_list, cost = run_plan(
-          plan=annotate_answer_task,
-          plan_input=[
-               {
-                    'document': generated_document
-               }
-               for generated_document in generated_document_list
-          ]
-     )
-
-     annotated_answers_list = []
-     for model_output in plan_output_list:
-          annotated_answers_list.append(
-               [line for line in re.sub(r'^\d+\.\s*', '', model_output['response'], flags=re.MULTILINE).splitlines() if line.strip()]
-          )
-
-     ### BUFFER ###
-     for num, annotated_answers in enumerate(annotated_answers_list):
-          result_buffer[num]['annotation'] = {
-               f'ans_{idx}': annot_ans
-               for idx, annot_ans in enumerate(annotated_answers)
-          }
-
-     llm_buffer.append(plan_output_list)
-
-     total_cost['Annotate answer'] = cost
-     ### BUFFER
-
-     logger.info("[Done] Annotate high-level answer using generated document.")
-
-     # 3. Annotate high-level question using annotated high-level answer and gold table set information
-     from plans import annotate_question_task
-     plan_output_list, cost = run_plan(
-          plan=annotate_question_task,
-          plan_input=[
-               {
-                    'gold_table_set': [
-                         table_lake[gold_table_id]
-                         for gold_table_id in gold_table_id_set
-                    ],
-                    'answer': annotated_answer,
-                    'key': (num, idx)
-               }
-               for num, (gold_table_id_set, annotated_answers) in enumerate(zip(sampled_data_dict.keys(), annotated_answers_list))
-               for idx, annotated_answer in enumerate(annotated_answers)
-          ]
-     )
-
-     annotated_questions_list = [[] for _ in range(len(annotated_answers_list))]
-     for model_output in plan_output_list:
-          annotated_questions_list[model_output['key'][0]].append(model_output['response']) # idx
-
-     ### BUFFER ###
-     for num, annotated_questions in enumerate(annotated_questions_list):
-          result_buffer[num]['annotation'].update({
-               f'qn_{idx}': annot_qn
-               for idx, annot_qn in enumerate(annotated_questions)
-          })
-
-     llm_buffer.append(plan_output_list)
-
-     total_cost['Annotate question'] = cost
-     ### BUFFER
-
-     logger.info("[Done] Annotate high-level question using annotated high-level answer and gold table set information.")
+     logger.info("[Done] Annotate answers using entailed statements and gold table set information.")
 
      # 4. Save to file - temp
-     for num, result in result_buffer.items():
-          for idx in range(len(result['annotation']) // 2):
-               with open(f'results/storage/{source_type}_{num}_{idx}.txt', 'w') as file:
+     for num, annotation_set in result_buffer.items():
+          for mum, annotation in annotation_set['llm_output'].items():
+               with open(f'results/storage/{source_type}_{str(num+1)}_{str(mum+1)}_llm.txt', 'w') as file:
                     file.write(result_buffer_format.format(
-                         display_table=result['display_table'],
-                         display_data=result['display_data'],
-                         generated_document=result['doc'],
-                         annotated_answer=result['annotation'][f'ans_{idx}'],
-                         annotated_question=result['annotation'][f'qn_{idx}']
+                         display_table=annotation_set['display_table'],
+                         display_data=annotation_set['display_data'],
+                         annotated_answer=annotation['annotated_answer'],
+                         answer_difficulty=annotation['answer_difficulty'],
+                         answer_reference=str(annotation['answer_reference']),
+                         annotated_question=None,
+                         verification=None
                     ))
 
      with open(f'results/buffer/{source_type}_llm.json', 'w') as file:

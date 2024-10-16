@@ -21,7 +21,7 @@
 
 **Serialization**
 
-    Table 1 [metadata]: 2008 in Strikeforce - Events list [header]: # | Event Title | Date | Arena | Location | Attendance | Broadcast [row 1]: 16 | Strikeforce: Destruction | November 21, 2008 | HP Pavilion at San Jose | San Jose, California | 8,152 | HDNet [row 2]: 15 | Strikeforce: Payback | October 3, 2008 | Broomfield Events Center | Broomfield, Colorado | 3,286 | HDNet [row 3]: 14 | Strikeforce: At The Mansion II | September 20, 2008 | The Playboy Mansion | Beverly Hills, California | 2,478 | The Score [row 4]: 13 | Strikeforce: Young Guns III | September 13, 2008 | San Jose Civic Auditorium | San Jose, California | 4,789 |  [row 5]: 12 | Strikeforce: Melendez vs. Thomson | June 27, 2008 | HP Pavilion at San Jose | San Jose, California | 7,288 | HDNet [row 6]: 11 | Strikeforce: Shamrock vs. Le | March 29, 2008 | HP Pavilion at San Jose | San Jose, California | 16,326 | Showtime [row 7]: 10 | Strikeforce: At The Dome | February 23, 2008 | Tacoma Dome | Tacoma, Washington | 7,089 | HDNet [row 8]: 9 | Strikeforce: Young Guns II | February 1, 2008 | San Jose Civic Auditorium | San Jose, California | 5,789 |
+    [Table 1] [metadata]: 2008 in Strikeforce - Events list [header]: # | Event Title | Date | Arena | Location | Attendance | Broadcast [row 1]: 16 | Strikeforce: Destruction | November 21, 2008 | HP Pavilion at San Jose | San Jose, California | 8,152 | HDNet [row 2]: 15 | Strikeforce: Payback | October 3, 2008 | Broomfield Events Center | Broomfield, Colorado | 3,286 | HDNet [row 3]: 14 | Strikeforce: At The Mansion II | September 20, 2008 | The Playboy Mansion | Beverly Hills, California | 2,478 | The Score [row 4]: 13 | Strikeforce: Young Guns III | September 13, 2008 | San Jose Civic Auditorium | San Jose, California | 4,789 |  [row 5]: 12 | Strikeforce: Melendez vs. Thomson | June 27, 2008 | HP Pavilion at San Jose | San Jose, California | 7,288 | HDNet [row 6]: 11 | Strikeforce: Shamrock vs. Le | March 29, 2008 | HP Pavilion at San Jose | San Jose, California | 16,326 | Showtime [row 7]: 10 | Strikeforce: At The Dome | February 23, 2008 | Tacoma Dome | Tacoma, Washington | 7,089 | HDNet [row 8]: 9 | Strikeforce: Young Guns II | February 1, 2008 | San Jose Civic Auditorium | San Jose, California | 5,789 |
 
 ### Table 2
 
@@ -44,7 +44,7 @@
 
 **Serialization**
 
-    Table 2 [metadata]: 2009 in Strikeforce - Events list [header]: # | Event Title | Date | Arena | Location | Attendance | Broadcast [row 1]: 26 | Strikeforce: Evolution | December 19, 2009 | HP Pavilion at San Jose | San Jose, California | 14,749 | Showtime [row 2]: 25 | Strikeforce Challengers: Woodley vs. Bears | November 20, 2009 | Memorial Hall | Kansas City, Kansas | 2,088 | Showtime [row 3]: 24 | Strikeforce: Fedor vs. Rogers | November 7, 2009 | Sears Centre | Hoffman Estates, Illinois | 11,512 | CBS [row 4]: 23 | Strikeforce Challengers: Gurgel vs. Evangelista | November 6, 2009 | Save Mart Center | Fresno, California | 4,157 | Showtime [row 5]: 22 | Strikeforce Challengers: Kennedy vs. Cummings | September 25, 2009 | SpiritBank Event Center | Bixby, Oklahoma | 2,336 | Showtime [row 6]: 21 | Strikeforce: Carano vs. Cyborg | August 15, 2009 | HP Pavilion at San Jose | San Jose, California | 13,976 | Showtime [row 7]: 20 | Strikeforce Challengers: Villasenor vs. Cyborg | June 19, 2009 | ShoWare Center | Kent, Washington | 2,836 | Showtime [row 8]: 19 | Strikeforce: Lawler vs. Shields | June 6, 2009 | Scottrade Center | St. Louis, Missouri | 8,867 | Showtime [row 9]: 18 | Strikeforce Challengers: Evangelista vs. Aina | May 15, 2009 | Save Mart Center | Fresno, California | 2,322 | Showtime [row 10]: 17 | Strikeforce: Shamrock vs. Diaz | April 11, 2009 | HP Pavilion at San Jose | San Jose, California | 15,211 | Showtime
+    [Table 2] [metadata]: 2009 in Strikeforce - Events list [header]: # | Event Title | Date | Arena | Location | Attendance | Broadcast [row 1]: 26 | Strikeforce: Evolution | December 19, 2009 | HP Pavilion at San Jose | San Jose, California | 14,749 | Showtime [row 2]: 25 | Strikeforce Challengers: Woodley vs. Bears | November 20, 2009 | Memorial Hall | Kansas City, Kansas | 2,088 | Showtime [row 3]: 24 | Strikeforce: Fedor vs. Rogers | November 7, 2009 | Sears Centre | Hoffman Estates, Illinois | 11,512 | CBS [row 4]: 23 | Strikeforce Challengers: Gurgel vs. Evangelista | November 6, 2009 | Save Mart Center | Fresno, California | 4,157 | Showtime [row 5]: 22 | Strikeforce Challengers: Kennedy vs. Cummings | September 25, 2009 | SpiritBank Event Center | Bixby, Oklahoma | 2,336 | Showtime [row 6]: 21 | Strikeforce: Carano vs. Cyborg | August 15, 2009 | HP Pavilion at San Jose | San Jose, California | 13,976 | Showtime [row 7]: 20 | Strikeforce Challengers: Villasenor vs. Cyborg | June 19, 2009 | ShoWare Center | Kent, Washington | 2,836 | Showtime [row 8]: 19 | Strikeforce: Lawler vs. Shields | June 6, 2009 | Scottrade Center | St. Louis, Missouri | 8,867 | Showtime [row 9]: 18 | Strikeforce Challengers: Evangelista vs. Aina | May 15, 2009 | Save Mart Center | Fresno, California | 2,322 | Showtime [row 10]: 17 | Strikeforce: Shamrock vs. Diaz | April 11, 2009 | HP Pavilion at San Jose | San Jose, California | 15,211 | Showtime
 
 ## QA pairs - Entailed statements
 
@@ -96,32 +96,32 @@
 
 ## Annotation
 
-**QA pair 1 : Reference from statements**
-
-    Q.  How many Strikeforce events were broadcasted by Showtime in 2008 and 2009?
-    A.  In 2008 and 2009, a total of 10 Strikeforce events were broadcasted by Showtime. These events include Strikeforce: Shamrock vs. Le in 2008, and in 2009, Strikeforce: Evolution, Strikeforce Challengers: Woodley vs. Bears, Strikeforce Challengers: Gurgel vs. Evangelista, Strikeforce Challengers: Kennedy vs. Cummings, Strikeforce: Carano vs. Cyborg, Strikeforce Challengers: Villasenor vs. Cyborg, Strikeforce: Lawler vs. Shields, Strikeforce Challengers: Evangelista vs. Aina, and Strikeforce: Shamrock vs. Diaz.
-
-**QA pair 2 : Reference from statements**
+**QA pair 1 : Easy # 2-3**
 
     Q.  How many events did Strikeforce hold in San Jose, California in 2008 and 2009, and what were the attendance numbers for these events?
     A.  In 2008 and 2009, Strikeforce held a total of 8 events in San Jose, California. In 2008, these events were Strikeforce: Destruction on November 21 with people 8,152, Strikeforce: Young Guns III on September 13 with people 4,789, Strikeforce: Melendez vs. Thomson on June 27 with people 7,288, Strikeforce: Shamrock vs. Le on March 29 with people 16,326, and Strikeforce: Young Guns II on February 1 with people 5,789. In 2009, hese events were Strikeforce: Evolution on December 19 with people 14,749, Strikeforce: Carano vs. Cyborg on August 15 with people 13,976, and Strikeforce: Shamrock vs. Diaz on April 11 with people 15,211. This add to a total people of 86,280 across all events in San Jose over the years 2008 and 2009.
 
-**QA pair 3 : Reference from statements**
+**QA pair 2 : Easy # 1-2, 2-2**
 
     Q.  What was the highest attended Strikeforce event in 2008-09 and where was it held?
     A.  The highest attended Strikeforce event in 2008-09 was Strikeforce: Shamrock vs. Le, held on March 29, 2008, at HP Pavilion at San Jose in San Jose, California, with an attendance of 16,326 attendees.
 
-**QA pair 4 : Reference from statements & Additional reasoning**
-
-    Q.  How did the broadcasting network for Strikeforce events change between 2008 and 2009?
-    A.  In 2008, most Strikeforce events were showing on HDNet broadcast network, with 4 out of 5 events being aired on that network. However, in 2009, there was a notable shift in broadcasting, with Showtime taking over as the primary broadcaster. In that year, of the 10 listed events, Showtime show 9 events and CBS only show 1 event. This marks a significant transition in broadcasting dominance from HDNet in 2008 to Showtime in 2009.
-
-**QA pair 5 : Reference from statements & Additional reasoning**
+**QA pair 3 : Easy # 1-1**
 
     Q.  Provide a comparison of attendance between Strikeforce events held at HP Pavilion at San Jose and San Jose Civic Auditorium through 2008 and 09.
     A.  Through 2008 and 2009, Strikeforce organized a total of eight events at HP Pavilion at San Jose and San Jose Civic Auditorium. Out of these, six events were held at HP Pavilion at San Jose, while two events took place at San Jose Civic Auditorium. The average attendance at HP Pavilion at San Jose was significantly higher, at 12,617 attendees, compared to San Jose Civic Auditorium, which had an average attendance of 5,289 attendees. The highest attendance recorded was at HP Pavilion at San Jose for the Strikeforce: Shamrock vs. Le event on March 29, 2008, with 16,326 attendees. Based on this data, it is clear that Strikeforce events held at HP Pavilion at San Jose consistently attracted much larger audiences than those held at San Jose Civic Auditorium during this period.
 
-**QA pair 6 : Additional reasoning**
+**QA pair 4 : Medium # 1-3**
+
+    Q.  How many Strikeforce events were broadcasted by Showtime in 2008 and 2009?
+    A.  In 2008 and 2009, a total of 10 Strikeforce events were broadcasted by Showtime. These events include Strikeforce: Shamrock vs. Le in 2008, and in 2009, Strikeforce: Evolution, Strikeforce Challengers: Woodley vs. Bears, Strikeforce Challengers: Gurgel vs. Evangelista, Strikeforce Challengers: Kennedy vs. Cummings, Strikeforce: Carano vs. Cyborg, Strikeforce Challengers: Villasenor vs. Cyborg, Strikeforce: Lawler vs. Shields, Strikeforce Challengers: Evangelista vs. Aina, and Strikeforce: Shamrock vs. Diaz.
+
+**QA pair 5 : Hard # 2-1**
+
+    Q.  How did the broadcasting network for Strikeforce events change between 2008 and 2009?
+    A.  In 2008, most Strikeforce events were showing on HDNet broadcast network, with 4 out of 5 events being aired on that network. However, in 2009, there was a notable shift in broadcasting, with Showtime taking over as the primary broadcaster. In that year, of the 10 listed events, Showtime show 9 events and CBS only show 1 event. This marks a significant transition in broadcasting dominance from HDNet in 2008 to Showtime in 2009.
+
+**QA pair 6 : Extreme**
 
     Q.  How did Strikeforce’s number of events and average viewership change between 2008 and 2009, and what does this indicate about the organization’s growth?
     A.  Between 2008 and 2009, Strikeforce saw growth both in the number of events and in average viewership. In 2008, Strikeforce held 8 events, with an average viewership of about 6,900. By 2009, the number of events increased to 10, and the average viewership also rose to approximately 7,085. This indicates a positive trend, with Strikeforce not only expanding its event count but also attracting a larger audience on average, reflecting the organization’s growing popularity and reach during this period.

@@ -4,24 +4,1987 @@
         "gold_table_set": [
             {
 
-                "id": "",
-                "metadata": "",
-                "header": [],
-                "cell": [[]],
-                "serialization": ""
+                "id": "ed3e1377926e4fe35168a9148327fbe27bcd8314b2afa60604c77ff08d7ca527",
+                "metadata": "2007 Kentucky Wildcats Football Team - Offensive team",
+                "header": [
+                    "Position",
+                    "Number",
+                    "Name",
+                    "Height",
+                    "Weight",
+                    "Class",
+                    "Hometown",
+                    "Games"
+                ],
+                "cell": [
+                    [
+                        "Qb",
+                        "3",
+                        "Andre Woodson",
+                        "6'5",
+                        "230Lb",
+                        "Sr",
+                        "Radcliff , Kentucky",
+                        "13"
+                    ],
+                    [
+                        "Hb",
+                        "22",
+                        "Rafael Little",
+                        "5'10",
+                        "210Lb",
+                        "Sr",
+                        "Anderson , South Carolina",
+                        "10"
+                    ],
+                    [
+                        "Fb",
+                        "38",
+                        "John Conner",
+                        "5'11",
+                        "228",
+                        "So",
+                        "West Chester , Ohio",
+                        "13"
+                    ],
+                    [
+                        "Wr",
+                        "19",
+                        "Keenan Burton",
+                        "6'2",
+                        "195Lb",
+                        "Sr",
+                        "Louisville , Kentucky",
+                        "12"
+                    ],
+                    [
+                        "Wr",
+                        "13",
+                        "Steve Johnson",
+                        "6'3",
+                        "198Lb",
+                        "Sr",
+                        "San Francisco , California",
+                        "10"
+                    ],
+                    [
+                        "Te",
+                        "18",
+                        "Jacob Tamme",
+                        "6'4",
+                        "215Lb",
+                        "Sr",
+                        "Danville , Kentucky",
+                        "13"
+                    ],
+                    [
+                        "Lt",
+                        "79",
+                        "Garry Willians",
+                        "6'0",
+                        "300Lb",
+                        "Jr",
+                        "Louisville , Kentucky",
+                        "13"
+                    ],
+                    [
+                        "Lg",
+                        "72",
+                        "Zipp Duncan",
+                        "6'5",
+                        "295Lb",
+                        "So",
+                        "Magnolia , Kentucky",
+                        "12"
+                    ],
+                    [
+                        "C",
+                        "59",
+                        "Eric Scott",
+                        "6'5",
+                        "291Lb",
+                        "Sr",
+                        "Woodstock , Georgia",
+                        "13"
+                    ],
+                    [
+                        "Rg",
+                        "78",
+                        "Christian Johnson",
+                        "6'4",
+                        "325Lb",
+                        "Jr",
+                        "Fort Campbell , Kentucky",
+                        "13"
+                    ],
+                    [
+                        "Rt",
+                        "76",
+                        "Justin Jeffries",
+                        "6'6",
+                        "300Lb",
+                        "So",
+                        "Louisville , Kentucky",
+                        "13"
+                    ]
+                ]
+            },
+            {
+                "id": "5bd669d1d21d05c76035b9f46f7209ad44d8f1cef5fbf7f1a3d85978b9d5e2c7",
+                "metadata": "2007 Kentucky Wildcats Football Team - Defensive team",
+                "header": [
+                "Position",
+                "Number",
+                "Name",
+                "Height",
+                "Weight",
+                "Class",
+                "Hometown",
+                "Games"
+                ],
+                "cell": [
+                    [
+                        "Le",
+                        "99",
+                        "Jeremy Jarmon",
+                        "6'3",
+                        "277Lb",
+                        "So",
+                        "Collierville , Tennessee",
+                        "13"
+                    ],
+                    [
+                        "Lt",
+                        "98",
+                        "Myron Pryor",
+                        "6'1",
+                        "310Lb",
+                        "So",
+                        "Louisville , Kentucky",
+                        "12"
+                    ],
+                    [
+                        "Rt",
+                        "91",
+                        "Corey Peters",
+                        "6'3",
+                        "290Lb",
+                        "So",
+                        "Louisville , Kentucky",
+                        "13"
+                    ],
+                    [
+                        "Re",
+                        "95",
+                        "Ventrell Jenkins",
+                        "6'2",
+                        "285Lb",
+                        "Jr",
+                        "Columbia , South Carolina",
+                        "11"
+                    ],
+                    [
+                        "Slb",
+                        "16",
+                        "Wesley Woodyard",
+                        "6'1",
+                        "225Lb",
+                        "Sr",
+                        "Lagrange , Georgia",
+                        "13"
+                    ],
+                    [
+                        "Mlb",
+                        "56",
+                        "Braxton Kelley",
+                        "6'0",
+                        "230Lb",
+                        "Jr",
+                        "Lagrange , Georgia",
+                        "12"
+                    ],
+                    [
+                        "Wlb",
+                        "51",
+                        "Johnny Williams",
+                        "6'3",
+                        "244Lb",
+                        "Jr",
+                        "Jacksonville , Florida",
+                        "12"
+                    ],
+                    [
+                        "Rcb",
+                        "32",
+                        "Trevard Lindley",
+                        "6'0",
+                        "175Lb",
+                        "So",
+                        "Hiram , Georgia",
+                        "13"
+                    ],
+                    [
+                        "Lcb",
+                        "34",
+                        "Paul Warford",
+                        "5'10",
+                        "200Lb",
+                        "So",
+                        "Richmond , Kentucky",
+                        "10"
+                    ],
+                    [
+                        "Fs",
+                        "35",
+                        "Roger Williams",
+                        "6'0",
+                        "204Lb",
+                        "Sr",
+                        "Rockmart , Georgia",
+                        "13"
+                    ]
+                ]
             }
         ],
-        "statements": {
-            "##ID##": []
-        },
+        "data_list": [
+            {
+                "idx": 1,
+                "entailed_table_id_set": ["ed3e1377926e4fe35168a9148327fbe27bcd8314b2afa60604c77ff08d7ca527"],
+                "nl_query": "How many players in the Kentucky Wildcats Football Team are from Georgia? Summarize the basic information of these players.",
+                "statement": "Eric Scott is the only player from Georgia on the 2007 Kentucky Wildcats Football Team. He is a senior from Woodstock, Georgia, standing 6’5 tall and weighing 291 pounds. Eric Scott played in the center position and appeared in 13 games during the 2007 season."
+            },
+            {
+                "idx": 2,
+                "entailed_table_id_set": ["ed3e1377926e4fe35168a9148327fbe27bcd8314b2afa60604c77ff08d7ca527"],
+                "nl_query": "What are the players with the height of 6'3 in the Kentucky Wildcats Football Team? Summarize the basic information of these players.",
+                "statement": "Steve Johnson is the only player on the Kentucky Wildcats Football Team with a height of 6’3. He is a senior from San Francisco, California, and wore jersey number 13 as a Wide Receiver. Weighing 198 pounds, Steve Johnson played in 10 games during the 2007 season."
+            },
+            {
+                "idx": 3,
+                "entailed_table_id_set": ["5bd669d1d21d05c76035b9f46f7209ad44d8f1cef5fbf7f1a3d85978b9d5e2c7"],
+                "nl_query": "What are the players who are from South Carolina ? Summarize the basic information of these players.",
+                "statement": "Ventrell Jenkins was the only player from South Carolina on the 2007 Kentucky Wildcats Football Team. He was a junior at the time, standing 6’2 and weighing 285 pounds. He played the Re position and participated in 11 games that year."
+            },
+            {
+                "idx": 4,
+                "entailed_table_id_set": ["5bd669d1d21d05c76035b9f46f7209ad44d8f1cef5fbf7f1a3d85978b9d5e2c7"],
+                "nl_query": "Summarize the players who are from Georgia and played in the 2007 Kentucky Wildcats Football Team.",
+                "statement": "The 2007 Kentucky Wildcats Football Team had four players from Georgia. Wesley Woodyard, a senior with a height of 6’1 and weighing 225 pounds, played in all 13 games of the season as an Slb. Braxton Kelly, a junior with a height of 6’0 and a weight of 230 pounds, appeared in 12 games as an Mlb. Roger Williams, a senior standing 6’0 and weighing 204 pounds, played as an Fs in all 13 games. Trevard Lindley, a sophomore with a height of 6’0 and a weight of 175 pounds, played in 13 games as an Rcb."
+            }
+        ],
         "annotation": [
             {
-                "question": "",
-                "answer": ""
+                "question": "How many players from Georgia were on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.",
+                "answer": "The 2007 Kentucky Wildcats Football Team had five players from Georgia. Eric Scott, a senior from Woodstock, Georgia, played as a center, standing 6’5 and weighing 291 lbs, and appeared in 13 games. Wesley Woodyard, a senior from Lagrange, Georgia, played as a strong-side linebacker, standing 6’1 and weighing 225 lbs, and also played in 13 games. Braxton Kelley, a junior from Lagrange, Georgia, played as a middle linebacker, standing 6’0 and weighing 230 lbs, and appeared in 12 games. Trevard Lindley, a sophomore from Hiram, Georgia, played as a right cornerback, standing 6’0 and weighing 175 lbs, and participated in 13 games. Lastly, Roger Williams, a senior from Rockmart, Georgia, played as a free safety, standing 6’0 and weighing 204 lbs, and appeared in 13 games.",
+                "difficulty": "easy",
+                "reference": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "question": "How many players from South Carolina were on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.",
+                "answer": "The 2007 Kentucky Wildcats Football Team had two players from South Carolina. Rafael Little, a senior from Anderson, South Carolina, played as a halfback, standing 5’10 and weighing 210 lbs, and appeared in 10 games. Ventrell Jenkins, a junior from Columbia, South Carolina, played as a right end, standing 6’2 and weighing 285 lbs, and participated in 11 games.",
+                "difficulty": "easy",
+                "reference": [
+                    3
+                ]
+            },
+            {
+                "question": "Who were the players with the height of 6'3 on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.",
+                "answer": "The 2007 Kentucky Wildcats Football Team had four players with a height of 6’3. Steve Johnson, a senior from San Francisco, California, played as a wide receiver, weighing 198 lbs, and appeared in 10 games. Jeremy Jarmon, a sophomore from Collierville, Tennessee, played as a left end, weighing 277 lbs, and participated in 13 games. Corey Peters, a sophomore from Louisville, Kentucky, played as a right tackle, weighing 290 lbs, and appeared in 13 games. Lastly, Johnny Williams, a junior from Jacksonville , Florida, played as a weakside linebacker, weighing 244 lbs, and appeared in 12 games.",
+                "difficulty": "easy",
+                "reference": [
+                    2
+                ]
+            },
+            {
+                "question": "How many players from each state were on the 2007 Kentucky Wildcats Football Team, and how were they distributed between offense and defense?",
+                "answer": "In the 2007 Kentucky Wildcats Football Team, there were 10 players from Kentucky, 7 on offense and 3 on defense. From Georgia, there were 5 players, with 1 on offense and 4 on defense. South Carolina had 2 players, one on offense and one on defense. Ohio had 1 player on offense, California had 1 player on offense, Tennessee had 1 player on defense, and Florida had 1 player on defense.",
+                "difficulty": "hard",
+                "reference": [
+                    1,
+                    3,
+                    4
+                ]
+            },
+            {
+                "question": "Who were the tallest and shortest players on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.",
+                "answer": "The tallest player on the 2007 Kentucky Wildcats Football Team was Justin Jeffries, a right tackle, standing at 6’6 and weighing 300 lbs. He was a sophomore from Louisville, Kentucky, and played in 13 games. The shortest players were Rafael Little, a halfback, and Paul Warford, a left cornerback, both standing at 5’10. Rafael Little was a senior from Anderson, South Carolina, weighing 210 lbs, and played in 10 games, while Paul Warford was a sophomore from Richmond, Kentucky, weighing 200 lbs, and played in 10 games.",
+                "difficulty": "hard",
+                "reference": [
+                    2
+                ]
+            },
+            {
+                "question": "What are the key roles and players on the offensive and defensive teams in the 2007 Kentucky Wildcats Football Team?",
+                "answer": "In the 2007 Kentucky Wildcats Football Team, the offensive team is responsible for advancing the ball and scoring points. Key players on offense include quarterback Andre Woodson, who played all 13 games, and wide receivers Keenan Burton and Steve Johnson, both seniors, who contributed significantly to the team’s passing game. The defensive team, on the other hand, focuses on stopping the opponent’s offense and preventing scoring. Key defensive players include linebacker Wesley Woodyard, who played all 13 games, and defensive end Jeremy Jarmon, who led the defensive line. Both teams have a mix of senior leadership and underclassmen talent, contributing to the team’s overall performance.",
+                "difficulty": "extreme",
+                "reference": []
             }
         ]
     },
     {
-
+        "id": "shot_2_qtsumm_same_page_with_similar_tables",
+        "gold_table_set": [
+            {
+                "id": "e5ed2d8005238f50b689f239d335411f70cded82553581295f4874f58a85e915",
+                "metadata": "List Of The Busiest Airports In The United States - Ranking by the amount of cargo",
+                "header": [
+                    "Rank",
+                    "Airport Name",
+                    "Location",
+                    "Iata Code",
+                    "Tonnes",
+                    "% Chg 2010 / 11"
+                ],
+                "cell": [
+                    [
+                        "1",
+                        "Memphis International Airport",
+                        "Memphis , Tennessee",
+                        "Mem",
+                        "3916410",
+                        "0 0.0%"
+                    ],
+                    [
+                        "2",
+                        "Ted Stevens Anchorage International Airport",
+                        "Anchorage , Alaska",
+                        "Anc",
+                        "2543105",
+                        "0 3.9%"
+                    ],
+                    [
+                        "3",
+                        "Louisville International Airport",
+                        "Louisville , Kentucky",
+                        "Sdf",
+                        "2188422",
+                        "0 1.0%"
+                    ],
+                    [
+                        "4",
+                        "Miami International Airport",
+                        "Miami , Florida",
+                        "Mia",
+                        "1841929",
+                        "0 0.3%"
+                    ],
+                    [
+                        "5",
+                        "Los Angeles International Airport",
+                        "Los Angeles , California",
+                        "Lax",
+                        "1681611",
+                        "0 3.8%"
+                    ],
+                    [
+                        "6",
+                        "John F Kennedy International Airport",
+                        "Queens , New York",
+                        "Jfk",
+                        "1348992",
+                        "0 0.5%"
+                    ],
+                    [
+                        "7",
+                        "O'Hare International Airport",
+                        "Chicago , Illinois",
+                        "Ord",
+                        "1311622",
+                        "0 4.7%"
+                    ],
+                    [
+                        "8",
+                        "Indianapolis International Airport",
+                        "Indianapolis",
+                        "Ind",
+                        "0 971664",
+                        "0 4.0%"
+                    ],
+                    [
+                        "9",
+                        "Newark Liberty International Airport",
+                        "Newark , New Jersey",
+                        "Ewr",
+                        "0 813209",
+                        "0 5.0%"
+                    ]
+                ]
+            },
+            {
+                "id": "de8eafd6529310457cbb967e43024449e0185103fd276fe08864facc3c1e552f",
+                "metadata": "List Of The Busiest Airports In The United States - Ranking by the number of passengers",
+                "header": [
+                    "Rank",
+                    "Airport Name",
+                    "Location",
+                    "Iata Code",
+                    "Passengers",
+                    "% Chg 2009 / 10"
+                ],
+                "cell": [
+                    [
+                        "1",
+                        "John F Kennedy International Airport",
+                        "Queens , New York",
+                        "Jfk",
+                        "22702882",
+                        "5.8%"
+                    ],
+                    [
+                        "2",
+                        "Miami International Airport",
+                        "Miami , Florida",
+                        "Mia",
+                        "16207353",
+                        "5.3%"
+                    ],
+                    [
+                        "3",
+                        "Los Angeles International Airport",
+                        "Los Angeles , California",
+                        "Lax",
+                        "15505566",
+                        "4.7%"
+                    ],
+                    [
+                        "4",
+                        "Newark Liberty International Airport",
+                        "Newark , New Jersey",
+                        "Ewr",
+                        "11372186",
+                        "6.6%"
+                    ],
+                    [
+                        "5",
+                        "O'Hare International Airport",
+                        "Chicago , Illinois",
+                        "Ord",
+                        "10426287",
+                        "2.5%"
+                    ],
+                    [
+                        "6",
+                        "Hartsfield - Jackson Atlanta International Airport",
+                        "Atlanta , Georgia",
+                        "Atl",
+                        "9120974",
+                        "4.1%"
+                    ],
+                    [
+                        "7",
+                        "San Francisco International Airport",
+                        "San Mateo County , California",
+                        "Sfo",
+                        "8476172",
+                        "7.4%"
+                    ],
+                    [
+                        "8",
+                        "George Bush Intercontinental Airport",
+                        "Houston , Texas",
+                        "Iah",
+                        "8279513",
+                        "9.5%"
+                    ],
+                    [
+                        "9",
+                        "Washington Dulles International Airport",
+                        "Dulles , Virginia",
+                        "Iad",
+                        "6167501",
+                        "9.5%"
+                    ]
+                ]
+            }
+        ],
+        "data_list": [
+            {
+                "idx": 1,
+                "entailed_table_id_set": ["e5ed2d8005238f50b689f239d335411f70cded82553581295f4874f58a85e915"],
+                "nl_query": "What are the top three busiest airports in the United States? Summarize the basic information of these airports.",
+                "statement": "The top three busiest airports in the United States are Memphis International Airport, Ted Stevens Anchorage International Airport, and Louisville International Airport. Memphis International Airport, located in Memphis, Tennessee, with an IATA code of MEM, handled 3,916,410 tonnes of cargo in 2010/11, with no change from the previous year. Ted Stevens Anchorage International Airport, located in Anchorage, Alaska, with an IATA code of ANC, handled 2,543,105 tonnes of cargo in 2010/11, with a 3.9% increase from the previous year. Louisville International Airport, located in Louisville, Kentucky, with an IATA code of SDF, handled 2,188,422 tonnes of cargo in 2010/11, with a 1.0% increase from the previous year."
+            },
+            {
+                "idx": 2,
+                "entailed_table_id_set": ["e5ed2d8005238f50b689f239d335411f70cded82553581295f4874f58a85e915"],
+                "nl_query": "Summarize the airports located in the states of Illinois and California.",
+                "statement": "The airports located in Illinois and California include O’Hare International Airport in Chicago, Illinois, and Los Angeles International Airport in California. O’Hare International Airport is ranked 7th among the busiest airports in the United States, having moved 1,311,622 tonnes of cargo in 2010-2011, with a 4.7% increase from the previous year. Los Angeles International Airport (LAX) is ranked 5th, handling 1,681,611 tonnes of cargo during the same period, with a 3.8% increase over the previous year."
+            },
+            {
+                "idx": 3,
+                "entailed_table_id_set": ["e5ed2d8005238f50b689f239d335411f70cded82553581295f4874f58a85e915"],
+                "nl_query": "Which airport may be the largest, and why?",
+                "statement": "The largest airport in the United States may be Memphis International Airport in Tennessee. This is supported by its rank as the number one busiest airport, handling 3,916,410 tonnes of cargo, which is significantly more than any other airport on the list."
+            },
+            {
+                "idx": 4,
+                "entailed_table_id_set": ["de8eafd6529310457cbb967e43024449e0185103fd276fe08864facc3c1e552f"],
+                "nl_query": "Summarize the airports located in New York and California.",
+                "statement": "The airports located in New York and California include John F. Kennedy International Airport in Queens, New York, and Los Angeles International Airport and San Francisco International Airport in California. John F. Kennedy International Airport is ranked 1st among the busiest airports in the United States, with 22,702,882 passengers in 2010, reflecting a 5.8% increase from the previous year. Los Angeles International Airport (LAX) is ranked 3rd, handling 15,505,566 passengers in 2010, with a 4.7% increase, while San Francisco International Airport (SFO) is ranked 7th, serving 8,476,172 passengers, with a 7.4% increase from the previous year."
+            },
+            {
+                "idx": 5,
+                "entailed_table_id_set": ["de8eafd6529310457cbb967e43024449e0185103fd276fe08864facc3c1e552f"],
+                "nl_query": "Summarize the basic information of the airports located in Georgia and Virginia.",
+                "statement": "The airports located in Georgia and Virginia include Hartsfield-Jackson Atlanta International Airport in Atlanta, Georgia, and Washington Dulles International Airport in Dulles, Virginia. Hartsfield-Jackson Atlanta International Airport is ranked 6th among the busiest airports in the United States, with 9,120,974 passengers in 2009, reflecting a 4.1% increase from the previous year. Washington Dulles International Airport is ranked 9th, serving 6,167,501 passengers in 2009, with a 9.5% increase from the prior year."
+            }
+        ],
+        "annotation": [
+            {
+                "question": "What are the top three busiest U.S. airports by both cargo throughput and passenger traffic in the list of the busiest airports in the United States? Summarize the basic information of the airports.",
+                "answer": "The top three busiest U.S. airports by cargo throughput in 2010/11 are Memphis International Airport, Ted Stevens Anchorage International Airport, and Louisville International Airport. Memphis International Airport, located in Memphis, Tennessee (MEM), handled 3,916,410 tonnes of cargo with no change from the previous year. Ted Stevens Anchorage International Airport, located in Anchorage, Alaska (ANC), handled 2,543,105 tonnes of cargo with a 3.9% increase. Louisville International Airport, located in Louisville, Kentucky (SDF), handled 2,188,422 tonnes of cargo with a 1.0% increase from the previous year. For passenger traffic, the top three busiest U.S. airports in 2009/10 are John F. Kennedy International Airport, Miami International Airport, and Los Angeles International Airport. John F. Kennedy International Airport, located in Queens, New York (JFK), handled 22,702,882 passengers with a 5.8% increase. Miami International Airport, located in Miami, Florida (MIA), handled 16,207,353 passengers with a 5.3% increase. Los Angeles International Airport, located in Los Angeles, California (LAX), handled 15,505,566 passengers with a 4.7% increase.",
+                "difficulty": "easy",
+                "reference": [
+                    1
+                ]
+            },
+            {
+                "question": "Summarize the airports located in New York and California in the list of the busiest airports in the United States.",
+                "answer": "The airports located in New York and California include John F. Kennedy International Airport in Queens, New York, and Los Angeles International Airport and San Francisco International Airport in California. John F. Kennedy International Airport (JFK) is ranked 6th among the busiest cargo throughput airports in the United States, handling 1,348,992 tonnes of cargo in 2010/11 with a 0.5% increase from the previous year. It is also ranked 1st in terms of passenger traffic, serving 22,702,882 passengers in 2009/10, with a 5.8% increase. Los Angeles International Airport (LAX) is ranked 5th in cargo throughput, handling 1,681,611 tonnes in 2010/11 with a 3.8% increase. It is ranked 3rd in passenger traffic, serving 15,505,566 passengers in 2009/10 with a 4.7% increase. San Francisco International Airport (SFO) is ranked 7th in passenger traffic, serving 8,476,172 passengers in 2009/10 with a 7.4% increase.",
+                "difficulty": "easy",
+                "reference": [
+                    4
+                ]
+            },
+            {
+                "question": "Summarize the basic information of the airports located in Alaska and Virginia in the list of the busiest airports in the United States.",
+                "answer": "The airports located in Alaska and Virginia include Ted Stevens Anchorage International Airport in Anchorage, Alaska, and Washington Dulles International Airport in Dulles, Virginia. Ted Stevens Anchorage International Airport (ANC) is ranked 2nd among the busiest cargo throughput airports in the United States, handling 2,543,105 tonnes of cargo in 2010/11, with a 3.9% increase from the previous year. Washington Dulles International Airport (IAD) is ranked 9th in terms of passenger traffic, serving 6,167,501 passengers in 2009/10, with a 9.5% increase from the previous year.",
+                "difficulty": "medium",
+                "reference": [
+                    2,
+                    4,
+                    5
+                ]
+            },
+            {
+                "question": "Considering the two tables as a whole, which airport may be the largest in the United States, and why?",
+                "answer": "The largest airport, considering both cargo throughput and passenger traffic, may be John F. Kennedy International Airport (JFK) in Queens, New York. In terms of passenger traffic, John F. Kennedy International Airport is ranked 1st in the United States, handling 22,702,882 passengers in 2009/10, with a 5.8% increase from the previous year. For cargo throughput, JFK is ranked 6th, managing 1,348,992 tonnes of cargo in 2010/11, with a 0.5% increase. This strong performance in both passenger and cargo handling suggests that JFK could be considered the largest airport overall.",
+                "difficulty": "medium",
+                "reference": [
+                    3
+                ]
+            },
+            {
+                "question": "Summarize the basic information of the airports that appear in both cargo throughput ranking and passenger traffic ranking about the busiest airports in the United States.",
+                "answer": "The airports that appear in both tables are John F. Kennedy International Airport, Miami International Airport, Los Angeles International Airport, Newark Liberty International Airport, and O’Hare International Airport. John F. Kennedy International Airport (JFK) is located in Queens, New York. It is ranked 6th in terms of cargo handled, with 1,348,992 tonnes in 2010/11 and a 0.5% increase. For passenger traffic, it is ranked 1st, handling 22,702,882 passengers in 2009/10 with a 5.8% increase. Miami International Airport (MIA) is located in Miami, Florida. It is ranked 4th for cargo, handling 1,841,929 tonnes in 2010/11 with a 0.3% increase. For passenger traffic, it is ranked 2nd, with 16,207,353 passengers in 2009/10, showing a 5.3% increase. Los Angeles International Airport (LAX) is located in Los Angeles, California. It is ranked 5th for cargo, handling 1,681,611 tonnes in 2010/11 with a 3.8% increase. For passengers, it is ranked 3rd, with 15,505,566 passengers in 2009/10, showing a 4.7% increase. Newark Liberty International Airport (EWR) is located in Newark, New Jersey. It is ranked 9th for cargo, handling 813,209 tonnes in 2010/11 with a 5.0% increase. For passengers, it is ranked 4th, handling 11,372,186 passengers in 2009/10, with a 6.6% increase. O’Hare International Airport (ORD) is located in Chicago, Illinois. It is ranked 7th for cargo, handling 1,311,622 tonnes in 2010/11 with a 4.7% increase. For passengers, it is ranked 5th, with 10,426,287 passengers in 2009/10, showing a 2.5% increase.",
+                "difficulty": "extreme",
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "shot_3_qtsumm_similar_pages_with_similar_tables",
+        "gold_table_set": [
+            {
+                "id": "1c00154ea98616c443a4866325582a956471b170c45f987c05b8a774aa30f62a",
+                "metadata": "2008 in Strikeforce - Events list",
+                "header": [
+                    "#",
+                    "Event Title",
+                    "Date",
+                    "Arena",
+                    "Location",
+                    "Attendance",
+                    "Broadcast"
+                ],
+                "cell": [
+                    [
+                        "16",
+                        "Strikeforce: Destruction",
+                        "November 21, 2008",
+                        "HP Pavilion at San Jose",
+                        "San Jose, California",
+                        "8,152",
+                        "HDNet"
+                    ],
+                    [
+                        "15",
+                        "Strikeforce: Payback",
+                        "October 3, 2008",
+                        "Broomfield Events Center",
+                        "Broomfield, Colorado",
+                        "3,286",
+                        "HDNet"
+                    ],
+                    [
+                        "14",
+                        "Strikeforce: At The Mansion II",
+                        "September 20, 2008",
+                        "The Playboy Mansion",
+                        "Beverly Hills, California",
+                        "2,478",
+                        "The Score"
+                    ],
+                    [
+                        "13",
+                        "Strikeforce: Young Guns III",
+                        "September 13, 2008",
+                        "San Jose Civic Auditorium",
+                        "San Jose, California",
+                        "4,789",
+                        ""
+                    ],
+                    [
+                        "12",
+                        "Strikeforce: Melendez vs. Thomson",
+                        "June 27, 2008",
+                        "HP Pavilion at San Jose",
+                        "San Jose, California",
+                        "7,288",
+                        "HDNet"
+                    ],
+                    [
+                        "11",
+                        "Strikeforce: Shamrock vs. Le",
+                        "March 29, 2008",
+                        "HP Pavilion at San Jose",
+                        "San Jose, California",
+                        "16,326",
+                        "Showtime"
+                    ],
+                    [
+                        "10",
+                        "Strikeforce: At The Dome",
+                        "February 23, 2008",
+                        "Tacoma Dome",
+                        "Tacoma, Washington",
+                        "7,089",
+                        "HDNet"
+                    ],
+                    [
+                        "9",
+                        "Strikeforce: Young Guns II",
+                        "February 1, 2008",
+                        "San Jose Civic Auditorium",
+                        "San Jose, California",
+                        "5,789",
+                        ""
+                    ]
+                ]
+            },
+            {
+                "id": "4e6411ade16794eb39bfbdfe0631f8a430cb43c4f798f7c7324fcffbe4d7b6f5",
+                "metadata": "2009 in Strikeforce - Events list",
+                "header": [
+                    "#",
+                    "Event Title",
+                    "Date",
+                    "Arena",
+                    "Location",
+                    "Attendance",
+                    "Broadcast"
+                ],
+                "cell": [
+                    [
+                        "26",
+                        "Strikeforce: Evolution",
+                        "December 19, 2009",
+                        "HP Pavilion at San Jose",
+                        "San Jose, California",
+                        "14,749",
+                        "Showtime"
+                    ],
+                    [
+                        "25",
+                        "Strikeforce Challengers: Woodley vs. Bears",
+                        "November 20, 2009",
+                        "Memorial Hall",
+                        "Kansas City, Kansas",
+                        "2,088",
+                        "Showtime"
+                    ],
+                    [
+                        "24",
+                        "Strikeforce: Fedor vs. Rogers",
+                        "November 7, 2009",
+                        "Sears Centre",
+                        "Hoffman Estates, Illinois",
+                        "11,512",
+                        "CBS"
+                    ],
+                    [
+                        "23",
+                        "Strikeforce Challengers: Gurgel vs. Evangelista",
+                        "November 6, 2009",
+                        "Save Mart Center",
+                        "Fresno, California",
+                        "4,157",
+                        "Showtime"
+                    ],
+                    [
+                        "22",
+                        "Strikeforce Challengers: Kennedy vs. Cummings",
+                        "September 25, 2009",
+                        "SpiritBank Event Center",
+                        "Bixby, Oklahoma",
+                        "2,336",
+                        "Showtime"
+                    ],
+                    [
+                        "21",
+                        "Strikeforce: Carano vs. Cyborg",
+                        "August 15, 2009",
+                        "HP Pavilion at San Jose",
+                        "San Jose, California",
+                        "13,976",
+                        "Showtime"
+                    ],
+                    [
+                        "20",
+                        "Strikeforce Challengers: Villasenor vs. Cyborg",
+                        "June 19, 2009",
+                        "ShoWare Center",
+                        "Kent, Washington",
+                        "2,836",
+                        "Showtime"
+                    ],
+                    [
+                        "19",
+                        "Strikeforce: Lawler vs. Shields",
+                        "June 6, 2009",
+                        "Scottrade Center",
+                        "St. Louis, Missouri",
+                        "8,867",
+                        "Showtime"
+                    ],
+                    [
+                        "18",
+                        "Strikeforce Challengers: Evangelista vs. Aina",
+                        "May 15, 2009",
+                        "Save Mart Center",
+                        "Fresno, California",
+                        "2,322",
+                        "Showtime"
+                    ],
+                    [
+                        "17",
+                        "Strikeforce: Shamrock vs. Diaz",
+                        "April 11, 2009",
+                        "HP Pavilion at San Jose",
+                        "San Jose, California",
+                        "15,211",
+                        "Showtime"
+                    ]
+                ]
+            }
+        ],
+        "data_list": [
+            {
+                "idx": 1,
+                "entailed_table_id_set": ["1c00154ea98616c443a4866325582a956471b170c45f987c05b8a774aa30f62a"],
+                "nl_query": "Provide a comparison of attendance between Strikeforce events held at HP Pavilion at San Jose and San Jose Civic Auditorium in 2008.",
+                "statement": "In 2008, Strikeforce have organized total five events at HP Pavilion at San Jose and San Jose Civic Auditorium. Out of five events, three happen at HP Pavilion at San Jose, and two happen at the San Jose Civic Auditorium. The average number of attendance in HP Pavilion at San Jose was much higher, about 10,590 attendees, compare to San Jose Civic Auditorium, which had an average attendance of 5,289. The highest attendance record in 2008 for any Strikeforce event was at HP Pavilion at San Jose, with 16,326 attendees at Strikeforce: Shamrock vs. Le event on March 29, 2008. Based on this information, it clear that Strikeforce events held at HP Pavilion at San Jose attract many more audience than those held at the San Jose Civic Auditorium in 2008."
+            },
+            {
+                "idx": 2,
+                "entailed_table_id_set": ["1c00154ea98616c443a4866325582a956471b170c45f987c05b8a774aa30f62a"],
+                "nl_query": "What was the highest attended Strikeforce event in 2008 and where was it held?",
+                "statement": "The most high attended Strikeforce event in 2008 be Strikeforce: Shamrock vs. Le. This event happen on March 29, 2008, at HP Pavilion at San Jose in San Jose, California. The attending for this event achieve 16,326 peoples."
+            },
+            {
+                "idx": 3,
+                "entailed_table_id_set": ["1c00154ea98616c443a4866325582a956471b170c45f987c05b8a774aa30f62a"],
+                "nl_query": "How many Strikeforce events in 2008 were broadcasted by HDNet?",
+                "statement": "In 2008, total four Strikeforce event was broadcasted by HDNet. These event include Strikeforce: Destruction, Strikeforce: Payback, Strikeforce: Melendez vs. Thomson, and Strikeforce: At The Dome."
+            },
+            {
+                "idx": 4,
+                "entailed_table_id_set": ["4e6411ade16794eb39bfbdfe0631f8a430cb43c4f798f7c7324fcffbe4d7b6f5"],
+                "nl_query": "Which broadcasting network aired the majority of Strikeforce events in 2009 according to the provided data?",
+                "statement": "Most Strikeforce events in 2009 was showing on Showtime broadcast network. In 10 events that listed, Showtime show 9 events and CBS only show 1 event."
+            },
+            {
+                "idx": 5,
+                "entailed_table_id_set": ["4e6411ade16794eb39bfbdfe0631f8a430cb43c4f798f7c7324fcffbe4d7b6f5"],
+                "nl_query": "What was the event with the highest attendance in 2009, and where was it held?",
+                "statement": "In 2009, the event with most people coming was Strikeforce: Shamrock vs. Diaz. It happening on April 11, 2009. The place it held was HP Pavilion at San Jose, in San Jose, California. The number of people attending is 15,211."
+            },
+            {
+                "idx": 6,
+                "entailed_table_id_set": ["4e6411ade16794eb39bfbdfe0631f8a430cb43c4f798f7c7324fcffbe4d7b6f5"],
+                "nl_query": "How many events did Strikeforce hold in San Jose, California throughout the year of 2009, and what were the attendance numbers for these events?",
+                "statement": "In 2009, Strikeforce had total three events in San Jose, California. These events were Strikeforce: Evolution on December 19 with people 14,749, Strikeforce: Carano vs. Cyborg on August 15 with people 13,976, and Strikeforce: Shamrock vs. Diaz on April 11 with people 15,211. This add to a total people of 43,936 across all three events in San Jose in that year."
+            }
+        ],
+        "annotation": [
+            {
+                "question": "How many events did Strikeforce hold in San Jose, California in 2008 and 2009, and what were the attendance numbers for these events?",
+                "answer": "In 2008 and 2009, Strikeforce held a total of 8 events in San Jose, California. In 2008, these events were Strikeforce: Destruction on November 21 with people 8,152, Strikeforce: Young Guns III on September 13 with people 4,789, Strikeforce: Melendez vs. Thomson on June 27 with people 7,288, Strikeforce: Shamrock vs. Le on March 29 with people 16,326, and Strikeforce: Young Guns II on February 1 with people 5,789. In 2009, hese events were Strikeforce: Evolution on December 19 with people 14,749, Strikeforce: Carano vs. Cyborg on August 15 with people 13,976, and Strikeforce: Shamrock vs. Diaz on April 11 with people 15,211. This add to a total people of 86,280 across all events in San Jose over the years 2008 and 2009.",
+                "difficulty": "easy",
+                "reference": [
+                    6
+                ]
+            },
+            {
+                "question": "What was the highest attended Strikeforce event in 2008-09 and where was it held?",
+                "answer": "The highest attended Strikeforce event in 2008-09 was Strikeforce: Shamrock vs. Le, held on March 29, 2008, at HP Pavilion at San Jose in San Jose, California, with an attendance of 16,326 attendees.",
+                "difficulty": "easy",
+                "reference": [
+                    2,
+                    5
+                ]
+            },
+            {
+                "question": "Provide a comparison of attendance between Strikeforce events held at HP Pavilion at San Jose and San Jose Civic Auditorium through 2008 and 09.",
+                "answer": "Through 2008 and 2009, Strikeforce organized a total of eight events at HP Pavilion at San Jose and San Jose Civic Auditorium. Out of these, six events were held at HP Pavilion at San Jose, while two events took place at San Jose Civic Auditorium. The average attendance at HP Pavilion at San Jose was significantly higher, at 12,617 attendees, compared to San Jose Civic Auditorium, which had an average attendance of 5,289 attendees. The highest attendance recorded was at HP Pavilion at San Jose for the Strikeforce: Shamrock vs. Le event on March 29, 2008, with 16,326 attendees. Based on this data, it is clear that Strikeforce events held at HP Pavilion at San Jose consistently attracted much larger audiences than those held at San Jose Civic Auditorium during this period.",
+                "difficulty": "easy",
+                "reference": [
+                    1
+                ]
+            },
+            {
+                "question": "How many Strikeforce events were broadcasted by Showtime in 2008 and 2009?",
+                "answer": "In 2008 and 2009, a total of 10 Strikeforce events were broadcasted by Showtime. These events include Strikeforce: Shamrock vs. Le in 2008, and in 2009, Strikeforce: Evolution, Strikeforce Challengers: Woodley vs. Bears, Strikeforce Challengers: Gurgel vs. Evangelista, Strikeforce Challengers: Kennedy vs. Cummings, Strikeforce: Carano vs. Cyborg, Strikeforce Challengers: Villasenor vs. Cyborg, Strikeforce: Lawler vs. Shields, Strikeforce Challengers: Evangelista vs. Aina, and Strikeforce: Shamrock vs. Diaz.",
+                "difficulty": "medium",
+                "reference": [
+                    3
+                ]
+            },
+            {
+                "question": "How did the broadcasting network for Strikeforce events change between 2008 and 2009?",
+                "answer": "In 2008, most Strikeforce events were showing on HDNet broadcast network, with 4 out of 5 events being aired on that network. However, in 2009, there was a notable shift in broadcasting, with Showtime taking over as the primary broadcaster. In that year, of the 10 listed events, Showtime show 9 events and CBS only show 1 event. This marks a significant transition in broadcasting dominance from HDNet in 2008 to Showtime in 2009.",
+                "difficulty": "hard",
+                "reference": [
+                    4
+                ]
+            },
+            {
+                "question": "How did Strikeforce’s number of events and average viewership change between 2008 and 2009, and what does this indicate about the organization’s growth?",
+                "answer": "Between 2008 and 2009, Strikeforce saw growth both in the number of events and in average viewership. In 2008, Strikeforce held 8 events, with an average viewership of about 6,900. By 2009, the number of events increased to 10, and the average viewership also rose to approximately 7,085. This indicates a positive trend, with Strikeforce not only expanding its event count but also attracting a larger audience on average, reflecting the organization’s growing popularity and reach during this period.",
+                "difficulty": "extreme",
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "shot_4_qtsumm_similar_pages_with_similar_tables",
+        "gold_table_set": [
+            {
+                "id": "1be22a5afdd6a5530ed927203f52229fec83f0db708700083527379f233076c1",
+                "metadata": "Swimming at the 2016 Summer Olympics \u2013 Men's 100 metre breaststroke - Final",
+                "header": [
+                    "Rank",
+                    "Lane",
+                    "Name",
+                    "Nationality",
+                    "Time",
+                    "Notes"
+                ],
+                "cell": [
+                    [
+                        "",
+                        "4",
+                        "Adam Peaty",
+                        "Great Britain",
+                        "57.13",
+                        "WR"
+                    ],
+                    [
+                        "",
+                        "3",
+                        "Cameron van der Burgh",
+                        "South Africa",
+                        "58.69",
+                        ""
+                    ],
+                    [
+                        "",
+                        "5",
+                        "Cody Miller",
+                        "United States",
+                        "58.87",
+                        "AM"
+                    ],
+                    [
+                        "4",
+                        "2",
+                        "Kevin Cordes",
+                        "United States",
+                        "59.22",
+                        ""
+                    ],
+                    [
+                        "5",
+                        "1",
+                        "Jo\u00e3o Gomes J\u00fanior",
+                        "Brazil",
+                        "59.31",
+                        ""
+                    ],
+                    [
+                        "6",
+                        "6",
+                        "Yasuhiro Koseki",
+                        "Japan",
+                        "59.37",
+                        ""
+                    ],
+                    [
+                        "7",
+                        "7",
+                        "Felipe Fran\u00e7a Silva",
+                        "Brazil",
+                        "59.38",
+                        ""
+                    ],
+                    [
+                        "8",
+                        "8",
+                        "Dmitriy Balandin",
+                        "Kazakhstan",
+                        "59.85",
+                        ""
+                    ]
+                ]
+            },
+            {
+                "id": "f9de66d37570f37282c85c703cc58083163544b6159274c32aa28166432387a9",
+                "metadata": "Swimming at the 2016 Summer Olympics \u2013 Men's 100 metre backstroke - Final",
+                "header": [
+                    "Rank",
+                    "Lane",
+                    "Name",
+                    "Nationality",
+                    "Time",
+                    "Notes"
+                ],
+                "cell": [
+                    [
+                        "",
+                        "4",
+                        "Ryan Murphy",
+                        "United States",
+                        "51.97",
+                        "OR"
+                    ],
+                    [
+                        "",
+                        "2",
+                        "Xu Jiayu",
+                        "China",
+                        "52.31",
+                        "NR"
+                    ],
+                    [
+                        "",
+                        "5",
+                        "David Plummer",
+                        "United States",
+                        "52.40",
+                        ""
+                    ],
+                    [
+                        "4",
+                        "3",
+                        "Mitch Larkin",
+                        "Australia",
+                        "52.43",
+                        ""
+                    ],
+                    [
+                        "5",
+                        "6",
+                        "Camille Lacourt",
+                        "France",
+                        "52.70",
+                        ""
+                    ],
+                    [
+                        "6",
+                        "7",
+                        "Evgeny Rylov",
+                        "Russia",
+                        "52.74",
+                        ""
+                    ],
+                    [
+                        "7",
+                        "1",
+                        "Ryosuke Irie",
+                        "Japan",
+                        "53.42",
+                        ""
+                    ],
+                    [
+                        "8",
+                        "8",
+                        "Robert Glin\u021b\u0103",
+                        "Romania",
+                        "53.50",
+                        ""
+                    ]
+                ]
+            },
+            {
+                "id": "d24e36ce45bce9679804b034226b29937a43793a66aa710a55f146976485b81c",
+                "metadata": "Swimming at the 2016 Summer Olympics \u2013 Men's 100 metre freestyle - Final",
+                "header": [
+                    "Rank",
+                    "Lane",
+                    "Name",
+                    "Nationality",
+                    "Time",
+                    "Notes"
+                ],
+                "cell": [
+                    [
+                        "",
+                        "5",
+                        "Kyle Chalmers",
+                        "Australia",
+                        "47.58",
+                        "WJR"
+                    ],
+                    [
+                        "",
+                        "7",
+                        "Pieter Timmers",
+                        "Belgium",
+                        "47.80",
+                        "NR"
+                    ],
+                    [
+                        "",
+                        "4",
+                        "Nathan Adrian",
+                        "United States",
+                        "47.85",
+                        ""
+                    ],
+                    [
+                        "4",
+                        "6",
+                        "Santo Condorelli",
+                        "Canada",
+                        "47.88",
+                        ""
+                    ],
+                    [
+                        "5",
+                        "1",
+                        "Duncan Scott",
+                        "Great Britain",
+                        "48.01",
+                        "NR"
+                    ],
+                    [
+                        "6",
+                        "2",
+                        "Caeleb Dressel",
+                        "United States",
+                        "48.02",
+                        ""
+                    ],
+                    [
+                        "7",
+                        "3",
+                        "Cameron McEvoy",
+                        "Australia",
+                        "48.12",
+                        ""
+                    ],
+                    [
+                        "8",
+                        "8",
+                        "Marcelo Chierighini",
+                        "Brazil",
+                        "48.41",
+                        ""
+                    ]
+                ]
+            }
+        ],
+        "data_list": [
+            {
+                "idx": 1,
+                "entailed_table_id_set": ["1be22a5afdd6a5530ed927203f52229fec83f0db708700083527379f233076c1"],
+                "nl_query": "Who had the fastest time in the Men's 100 metre breaststroke final at the 2016 Summer Olympics and did they set any records?",
+                "statement": "Adam Peaty had the fastest time in the Men’s 100 metre breaststroke final at the 2016 Summer Olympics. His time of 57.13 seconds broke the world record and earned him the gold medal."
+            },
+            {
+                "idx": 2,
+                "entailed_table_id_set": ["1be22a5afdd6a5530ed927203f52229fec83f0db708700083527379f233076c1"],
+                "nl_query": "What was the range of times among competitors in the Men's 100 metre breaststroke final at the 2016 Summer Olympics?",
+                "statement": "The times of competitors in the Men’s 100 metre breaststroke final at the 2016 Summer Olympics ranged from 57.13 seconds to 59.85 seconds."
+            },
+            {
+                "idx": 3,
+                "entailed_table_id_set": ["f9de66d37570f37282c85c703cc58083163544b6159274c32aa28166432387a9"],
+                "nl_query": "Based on times outlined in the table, which three swimmers had the fastest performance in the Men's 100 metre backstroke final at the 2016 Summer Olympics?",
+                "statement": "The top three swimmers in the Men’s 100 metre backstroke final at the 2016 Summer Olympics were Ryan Murphy (51.97 seconds), Xu Jiayu (52.31 seconds), and David Plummer (52.40 seconds), securing first, second, and third places, respectively."
+            },
+            {
+                "idx": 4,
+                "entailed_table_id_set": ["f9de66d37570f37282c85c703cc58083163544b6159274c32aa28166432387a9"],
+                "nl_query": "Who swam in lanes 1 and 2 during the Men's 100 metre backstroke final at the 2016 Summer Olympics and what are their recorded times?",
+                "statement": "Ryosuke Irie from Japan swam in lane 1 with a time of 53.42 seconds, while Xu Jiayu from China swam in lane 2 with a time of 52.31 seconds, setting a new national record."
+            },
+            {
+                "idx": 5,
+                "entailed_table_id_set": ["d24e36ce45bce9679804b034226b29937a43793a66aa710a55f146976485b81c"],
+                "nl_query": "Who were the swimmers representing the United States in the Men's 100 metre freestyle at the 2016 Summer Olympics and what were their rankings and times?",
+                "statement": "Nathan Adrian and Caeleb Dressel represented the United States in the Men’s 100 metre freestyle final at the 2016 Summer Olympics. Nathan Adrian ranked third with a time of 47.85, while Caeleb Dressel ranked sixth with a time of 48.02."
+            },
+            {
+                "idx": 6,
+                "entailed_table_id_set": ["d24e36ce45bce9679804b034226b29937a43793a66aa710a55f146976485b81c"],
+                "nl_query": "Who secured the fastest time in the Men's 100 metre freestyle final at the 2016 Summer Olympics and did they set any significant record?",
+                "statement": "Kyle Chalmers from Australia secured the fastest time in the Men’s 100 metre freestyle final at the 2016 Summer Olympics with a time of 47.58 seconds, setting a World Junior Record (WJR)."
+            }
+        ],
+        "annotation": [
+            {
+                "question": "Who were the top three swimmers in each of the Men’s 100 metre breaststroke, backstroke, and freestyle finals at the 2016 Summer Olympics?",
+                "answer": "The top treee swimmers in the Men's 100 metre breaststroke final at the 2016 Summer Olympics were Adam Peaty (57.13 seconds), Cameron van der Burgh (58,69 seconds), and Cody Miller (58.87 seconds), securing first, second, and third places, respectively. The top three swimmers in the Men’s 100 metre backstroke final at the 2016 Summer Olympics were Ryan Murphy (51.97 seconds), Xu Jiayu (52.31 seconds), and David Plummer (52.40 seconds), securing first, second, and third places, respectively. In the Men's 100 metre freestyle final, Kyle Chalmers won with a time of 47.58 seconds. Pieter Timmers finished second with a time of 47.80 seconds, and Nathan Adrian came in third with a time of 47.85 seconds.",
+                "difficulty": "easy",
+                "reference": [
+                    3
+                ]
+            },
+            {
+                "question": "Who swam in lanes 1 and 2 during each of the Men’s 100 metre breaststroke, backstroke, and freestyle finals at the 2016 Summer Olympics?",
+                "answer": "In the Men’s 100 metre breaststroke final at the 2016 Summer Olympics, João Gomes Júnior from Brazil swam in lane 1, finishing with a time of 59.31 seconds, and Kevin Cordes from the United States swam in lane 2, finishing with a time of 59.22 seconds. In the Men’s 100 metre backstroke final, Ryosuke Irie from Japan swam in lane 1, finishing with a time of 53.42 seconds, and Xu Jiayu from China swam in lane 2, finishing with a time of 52.31 seconds, setting a new national record. In the Men’s 100 metre freestyle final, Duncan Scott from Great Britain swam in lane 1, finishing with a time of 48.01 seconds, setting a new national record, and Caeleb Dressel from the United States swam in lane 2, finishing with a time of 48.02 seconds.",
+                "difficulty": "easy",
+                "reference": [
+                    4
+                ]
+            },
+            {
+                "question": "Who secured the fastest time in the Men's 100 metre finals at the 2016 Summer Olympics and did they set any record?",
+                "answer": "In the Men’s 100 metre breaststroke final at the 2016 Summer Olympics, Adam Peaty from Great Britain secured the fastest time with a time of 57.13 seconds, setting a world record (WR). Ryan Murphy from the United States secured the fastest time in the Mean's 100 metre backstroke final at the 2016 Summer Olympics with a time of 51.97 seconds. He set a new olympic record (OR). Kyle Chalmers from Australia secured the fastest time in the Men's 100 metre freestyle final at the 2016 Summer Olympics, clocking in at 47.58 seconds. He achieved a world junior record (WJR) in this event.",
+                "difficulty": "easy",
+                "reference": [
+                    1,
+                    6
+                ]
+            },
+            {
+                "question": "How many swimmers did each country have in the Men’s 100 metre breaststroke, backstroke, and freestyle finals at the 2016 Summer Olympics?",
+                "answer": "In the Men’s 100 metre breaststroke, backstroke, and freestyle finals at the 2016 Summer Olympics, the United States had the most swimmers, with a total of six, including two in each of the breaststroke, backstroke, and freestyle events. Brazil had three swimmers, with two in the breaststroke and one in the freestyle. Great Britain had two swimmers, one in the breaststroke and one in the freestyle. Japan also had two swimmers, one in the breaststroke and one in the backstroke, while Australia had two as well, with one in the backstroke and two in the freestyle. China, South Africa, Kazakhstan, Belgium, France, Russia, Romania, and Canada each had one swimmer in the finals.",
+                "difficulty": "hard",
+                "reference": [
+                    5
+                ]
+            },
+            {
+                "question": "Which country had the most successful performance in the Men’s 100 metre finals at the 2016 Summer Olympics, and why?",
+                "answer": "The United States was the most successful country in the Men’s 100 metre finals at the 2016 Summer Olympics based on the number of swimmers who won medals. The United States won a total of 4 medals across the events. Ryan Murphy won gold in the backstroke, David Plummer won bronze in the backstroke, Cody Miller won bronze in the breaststroke, and Nathan Adrian won bronze in the freestyle. This strong performance, with the highest number of medal-winning swimmers, makes the United States the top-performing country in these events.",
+                "difficulty": "hard",
+                "reference": [
+                    5
+                ]
+            },
+            {
+                "question": "Which swimming stroke appeared to be the most challenging in the Men's 100 metre finals at the 2016 Summer Olympics?",
+                "answer": "Based on the times from the Men’s 100 metre finals at the 2016 Summer Olympics, the 100 metre breaststroke seems to be the most difficult event. The fastest time in the breaststroke final was 57.13 seconds by Adam Peaty, which is slower compared to the fastest times in the other two finals. For instance, Ryan Murphy won the backstroke final with 51.97 seconds, and Kyle Chalmers won the freestyle final with 47.58 seconds. The comparatively slower times in the breaststroke suggest that this stroke may require more effort or technical skill, making it more challenging.",
+                "difficulty": "hard",
+                "reference": [
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "id": "shot_5_qtsumm_different_pages_with_different_tables",
+        "gold_table_set": [
+            {
+                "id": "b159475d3f9c32ea540ef45942c1479bbd464e3af7ba3ff13176174e1e37ce8f",
+                "metadata": "One Tree Hill (Season 5)",
+                "header": [
+                    "No In Series",
+                    "No In Season",
+                    "Title",
+                    "Directed By",
+                    "Written By",
+                    "Original Air Date",
+                    "Production Code",
+                    "Us Viewers (Millions)"
+                ],
+                "cell": [
+                    [
+                        "89",
+                        "1",
+                        "4 Years , 6 Months , 2 Days",
+                        "Greg Prange",
+                        "Mark Schwahn",
+                        "January 8 , 2008",
+                        "3T6801",
+                        "3.36"
+                    ],
+                    [
+                        "90",
+                        "2",
+                        "Racing Like A Pro",
+                        "Paul Johansson",
+                        "Mark Schwahn",
+                        "January 8 , 2008",
+                        "3T6802",
+                        "3.57"
+                    ],
+                    [
+                        "91",
+                        "3",
+                        "My Way Home Is Through You",
+                        "David Jackson",
+                        "John A Norris",
+                        "January 15 , 2008",
+                        "3T6803",
+                        "2.72"
+                    ],
+                    [
+                        "92",
+                        "4",
+                        "It 'S Alright , Ma (I'M Only Bleeding)",
+                        "Janice Cooke",
+                        "Adele Lim",
+                        "January 22 , 2008",
+                        "3T6804",
+                        "3.04"
+                    ],
+                    [
+                        "93",
+                        "5",
+                        "I Forgot To Remember To Forget",
+                        "Liz Friedlander",
+                        "Terrence Coli",
+                        "January 29 , 2008",
+                        "3T6805",
+                        "2.79"
+                    ],
+                    [
+                        "94",
+                        "6",
+                        "Don'T Dream It 'S Over",
+                        "Thomas J Wright",
+                        "Mark Schwahn",
+                        "February 5 , 2008",
+                        "3T6806",
+                        "2.86"
+                    ],
+                    [
+                        "95",
+                        "7",
+                        "In Da Club",
+                        "Greg Prange",
+                        "Mike Herro And David Strauss",
+                        "February 12 , 2008",
+                        "3T6807",
+                        "3.16"
+                    ],
+                    [
+                        "96",
+                        "8",
+                        "Please Please Please Let Me Get What I Want",
+                        "Paul Johansson",
+                        "Mike Daniels",
+                        "February 19 , 2008",
+                        "3T6808",
+                        "2.85"
+                    ],
+                    [
+                        "97",
+                        "9",
+                        "For Tonight You 'Re Only Here To Know",
+                        "Joe Davola",
+                        "Mark Schwahn",
+                        "February 26 , 2008",
+                        "3T6809",
+                        "3.18"
+                    ],
+                    [
+                        "98",
+                        "10",
+                        "Running To Stand Still",
+                        "Clark Mathis",
+                        "William H Brown",
+                        "March 4 , 2008",
+                        "3T6810",
+                        "2.93"
+                    ],
+                    [
+                        "99",
+                        "11",
+                        "You 'Re Gonna Need Someone On Your Side",
+                        "Michael J Leone",
+                        "Zachary Haynes",
+                        "March 11 , 2008",
+                        "3T6811",
+                        "2.5"
+                    ],
+                    [
+                        "100",
+                        "12",
+                        "Hundred",
+                        "Les Butler",
+                        "Mark Schwahn",
+                        "March 18 , 2008",
+                        "3T6812",
+                        "3.0"
+                    ],
+                    [
+                        "101",
+                        "13",
+                        "Echoes , Silence , Patience , And Grace",
+                        "Greg Prange",
+                        "Mark Schwahn",
+                        "April 14 , 2008",
+                        "3T6813",
+                        "2.8"
+                    ],
+                    [
+                        "102",
+                        "14",
+                        "What Do You Go Home To",
+                        "Liz Friedlander",
+                        "Mark Schwahn",
+                        "April 21 , 2008",
+                        "3T6814",
+                        "2.92"
+                    ],
+                    [
+                        "103",
+                        "15",
+                        "Life Is Short",
+                        "Paul Johansson",
+                        "Eliza Delson",
+                        "April 28 , 2008",
+                        "3T6815",
+                        "2.57"
+                    ],
+                    [
+                        "104",
+                        "16",
+                        "Cryin' Won'T Help You Now",
+                        "Greg Prange",
+                        "William H Brown",
+                        "May 5 , 2008",
+                        "3T6816",
+                        "2.29"
+                    ],
+                    [
+                        "105",
+                        "17",
+                        "Hate Is Safer Than Love",
+                        "Stuart Gillard",
+                        "Mark Schwahn",
+                        "May 12 , 2008",
+                        "3T6817",
+                        "2.72"
+                    ]
+                ]
+            },
+            {
+                "id": "57747f78f0aaed8c9cc5621fdc67e908d673da65cb73a92e26c77817a695876b",
+                "metadata": "Hot In Cleveland (Season 1)",
+                "header": [
+                    "No In Series",
+                    "Title",
+                    "Directed By",
+                    "Written By",
+                    "Original Air Date",
+                    "Production Code",
+                    "Us Viewers (Million)"
+                ],
+                "cell": [
+                    [
+                        "1",
+                        "Pilot",
+                        "Michael Lembeck",
+                        "Suzanne Martin",
+                        "June 16 , 2010",
+                        "101",
+                        "4.75"
+                    ],
+                    [
+                        "2",
+                        "Who 'S Your Mama",
+                        "Andy Cadiff",
+                        "Suzanne Martin",
+                        "June 23 , 2010",
+                        "102",
+                        "3.37"
+                    ],
+                    [
+                        "3",
+                        "Birthdates",
+                        "Andy Cadiff",
+                        "Vanessa Mccarthy",
+                        "June 30 , 2010",
+                        "103",
+                        "3.07"
+                    ],
+                    [
+                        "4",
+                        "The Sex That Got Away",
+                        "David Trainer",
+                        "Anne Flett - Giordano & Chuck Ranberg",
+                        "July 7 , 2010",
+                        "105",
+                        "2.93"
+                    ],
+                    [
+                        "5",
+                        "Good Neighbors",
+                        "David Trainer",
+                        "Sam Johnson & Chris Marcil",
+                        "July 14 , 2010",
+                        "106",
+                        "2.99"
+                    ],
+                    [
+                        "6",
+                        "Meet The Parents",
+                        "Andy Cadiff",
+                        "Liz Feldman",
+                        "July 21 , 2010",
+                        "104",
+                        "2.44"
+                    ],
+                    [
+                        "7",
+                        "It 'S Not That Complicated",
+                        "David Trainer",
+                        "Anne Flett - Giordano & Chuck Ranberg",
+                        "July 28 , 2010",
+                        "107",
+                        "2.97"
+                    ],
+                    [
+                        "8",
+                        "The Play 'S The Thing",
+                        "Gil Junger",
+                        "Sam Johnson & Chris Marcil",
+                        "August 4 , 2010",
+                        "108",
+                        "2.57"
+                    ],
+                    [
+                        "9",
+                        "Good Luck Faking The Goiter",
+                        "Gil Junger",
+                        "Suzanne Martin",
+                        "August 11 , 2010",
+                        "109",
+                        "2.72"
+                    ]
+                ]
+            }
+        ],
+        "data_list": [
+            {
+                "idx": 1,
+                "entailed_table_id_set": ["b159475d3f9c32ea540ef45942c1479bbd464e3af7ba3ff13176174e1e37ce8f"],
+                "nl_query": "What are the titles of the episodes that aired on April 21, 2008? And summarize the basic information of these episodes.",
+                "statement": "In One Tree Hill Season 5, the episode titled \"What Do You Go Home To\" aired on April 21, 2008. Directed by Liz Friedlander and written by Mark Schwahn, the episode had a production code of 3T6814 and garnered 2.92 million viewers."
+            },
+            {
+                "idx": 2,
+                "entailed_table_id_set": ["b159475d3f9c32ea540ef45942c1479bbd464e3af7ba3ff13176174e1e37ce8f"],
+                "nl_query": "Summarize the basic information of the episodes that were directed by Paul Johansson.",
+                "statement": "Paul Johansson directed three episodes of One Tree Hill in Season 5: \"Racing Like A Pro\", \"Please Please Please Let Me Get What I Want\", and \"Life Is Short\". The first of these episodes, \"Racing Like A Pro\", aired on January 8, 2008, with a production code of 3T6802 and 3.57 million viewers. \"Please Please Please Let Me Get What I Want\", which aired on February 19, 2008, had 2.85 million viewers and a production code of 3T6808. The last episode he directed, \"Life Is Short\", aired on April 28, 2008, with a production code of 3T6815, earning 2.57 million viewers."
+            },
+            {
+                "idx": 3,
+                "entailed_table_id_set": ["57747f78f0aaed8c9cc5621fdc67e908d673da65cb73a92e26c77817a695876b"],
+                "nl_query": "What are the episodes aired on July 21, 2010? Summarize the basic information of that episode.",
+                "statement": "In Hot In Cleveland Season 1, the episode \"Meet The Parents\" aired on July 21, 2010. Directed by Andy Cadiff and written by Liz Feldman, it had a production code of 104 and garnered 2.44 million viewers."
+            },
+            {
+                "idx": 4,
+                "entailed_table_id_set": ["57747f78f0aaed8c9cc5621fdc67e908d673da65cb73a92e26c77817a695876b"],
+                "nl_query": "Summarize the basic information of the episodes directed by Andy Cadiff.",
+                "statement": "Andy Cadiff directed three episodes of Hot In Cleveland in Season 1: \"Who’s Your Mama\", \"Birthdates\", and \"Meet The Parents\". These episodes aired between June and July 2010, with production codes 102, 103, and 104, respectively. The viewership for these episodes ranged from 2.44 million to 3.37 million."
+            }
+        ],
+        "annotation": [
+            {
+                "question": "Who were the directors with the most episodes in One Tree Hill Season 5 and Hot In Cleveland Season 1, and what episodes did they direct?",
+                "answer": "In One Tree Hill Season 5, the director with the most episodes is Greg Prange, who directed four episodes: \"4 Years, 6 Months, 2 Days\" (aired on January 8, 2008), \"In Da Club\" (aired on February 12, 2008), \"Echoes, Silence, Patience, and Grace\" (aired on April 14, 2008), and \"Cryin’ Won’t Help You Now\" (aired on May 5, 2008). In Hot In Cleveland Season 1, both Andy Cadiff and David Trainer directed three episodes each. Andy Cadiff directed \"Who’s Your Mama\" (aired on June 23, 2010), \"Birthdates\" (aired on June 30, 2010), and \"Meet The Parents\" (aired on July 21, 2010). David Trainer directed \"The Sex That Got Away\" (aired on July 7, 2010), \"Good Neighbors\" (aired on July 14, 2010), and \"It’s Not That Complicated\" (aired on July 28, 2010).",
+                "difficulty": "hard",
+                "reference": [
+                    2,
+                    4
+                ]
+            },
+            {
+                "question": "What were the start dates of airing in One Tree Hill Season 5 and Hot in Cleveland Season 1? Summarize the basic information of those episodes.",
+                "answer": "The fifth season of One Tree Hill began airing on January 8, 2008, with the episode titled \"4 Years, 6 Months, 2 Days\", directed by Greg Prange and written by Mark Schwahn. It had 3.36 million viewers. On the same day, the second episode, \"Racing Like A Pro\", also aired, directed by Paul Johansson and written by Mark Schwahn, with 3.57 million viewers. The first season of Hot in Cleveland premiered on June 16, 2010, with the episode titled \"Pilot\", directed by Michael Lembeck and written by Suzanne Martin. This episode had a viewership of 4.75 million.",
+                "difficulty": "hard",
+                "reference": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "question": "Who were the writters with the most episodes in One Tree Hill Season 5 and Hot In Cleveland Season 1, and what episodes did they write?",
+                "answer": "In One Tree Hill Season 5, the writter with the most episodes is Mark Schwahn, who wrote eight episodes: \"4 Years, 6 Months, 2 Days\" (aired on January 8, 2008), \"Racing Like A Pro\" (aired on January 8, 2008), \"Don't Dream It's Over\" (aired on February 5, 2008), \"For Tonight You’re Only Here to Know\" (aired on February 26, 2008), \"Hundred\" (aired on March 18, 2008), \"Echoes, Silence, Patience, And Grace\" (aired on April 14, 2008), \"What Do You Go Home To\" (aired on April 21, 2008), and \"Hate Is Safer Than Love\" (aired on May 12, 2008). In Hot in Cleveland Season 1, Suzanne Martin wrote the most episodes: \"Pilot\" (aired on June 16, 2010), \"Who's Your Mama\" (aired on June 23, 2010), and \"Good Luck Faking The Goiter\" (aired on August 11, 2010), contributing to three episodes.",
+                "difficulty": "hard",
+                "reference": [
+                    2,
+                    4
+                ]
+            },
+            {
+                "question": "Which program had a longer airing period, One Tree Hill Season 5 or Hot In Cleveland Season 1?",
+                "answer": "One Tree Hill Season 5 aired from January 8, 2008, to May 12, 2008, while Hot In Cleveland Season 1 aired from June 16, 2010, to August 11, 2010. Therefore, One Tree Hill Season 5 had a longer airing period, spanning approximately 4 months, compared to Hot In Cleveland Season 1, which spanned about 2 months.",
+                "difficulty": "hard",
+                "reference": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "question": "What were the highest and lowest viewership numbers for One Tree Hill Season 5 and Hot In Cleveland Season 1, and which episodes achieved these ratings?",
+                "answer": "In One Tree Hill Season 5, the highest viewership was for the episode \"Racing Like A Pro\", which aired on January 8, 2008, and attracted 3.57 million viewers. The lowest viewership was for the episode \"Cryin' Won’t Help You Now\", which aired on May 5, 2008, and had 2.29 million viewers. In Hot In Cleveland Season 1, the highest viewership was for the \"Pilot\", episode, which aired on June 16, 2010, and had 4.75 million viewers. The lowest viewership was for the episode \"Meet The Parents\", which aired on July 21, 2010, with 2.44 million viewers.",
+                "difficulty": "extreme",
+                "reference": []
+            },
+            {
+                "question": "Which program was more popular based on the viewership numbers, One Tree Hill Season 5 and Hot In Cleveland Season 1?",
+                "answer": "Based on the viewership numbers, Hot In Cleveland Season 1 seems to have been more popular than One Tree Hill Season 5. The highest viewership for Hot In Cleveland Season 1 was 4.75 million viewers for the episode \"Pilot\", while One Tree Hill Season 5’s highest was 3.57 million for the episode \"Racing Like A Pro\". Hot In Cleveland Season 1 also had a higher average viewership, with most episodes hovering around 3.1 million viewers, whereas One Tree Hill Season 5 averaged closer to 2.9 million viewers. The lowest viewership for Hot In Cleveland Season 1 was 2.44 million for \"Meet The Parents\", which was still higher than One Tree Hill Season 5's lowest, which was 2.29 million for the episode \"Cryin' Won’t Help You Now\". Overall, Hot In Cleveland Season 1 maintained a larger audience throughout its run, indicating its higher popularity compared to One Tree Hill Season 5.",
+                "difficulty": "extreme",
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "shot_6_qtsumm_different_pages_with_different_tables",
+        "gold_table_set": [
+            {
+                "id": "e56b77ea8a020e3fdaccfbd4e8c6a2bd81dd6e97b1c160d2ac07f7a9a7007f8f",
+                "metadata": "Kansas Collegiate Athletic Conference",
+                "header": [
+                    "Institution",
+                    "Location",
+                    "Founded",
+                    "Type",
+                    "Enrollment",
+                    "Nickname",
+                    "Joined"
+                ],
+                "cell": [
+                    [
+                        "Bethany College",
+                        "Lindsborg , Kansas",
+                        "1881",
+                        "Private",
+                        "500",
+                        "Swedes",
+                        "1902"
+                    ],
+                    [
+                        "Bethel College",
+                        "North Newton , Kansas",
+                        "1887",
+                        "Private",
+                        "500",
+                        "Threshers",
+                        "1902 1"
+                    ],
+                    [
+                        "Friends University",
+                        "Wichita , Kansas",
+                        "1898",
+                        "Private",
+                        "3000",
+                        "Falcons",
+                        "1902 2"
+                    ],
+                    [
+                        "Kansas Wesleyan University",
+                        "Salina , Kansas",
+                        "1886",
+                        "Private",
+                        "1000",
+                        "Coyotes",
+                        "1902"
+                    ],
+                    [
+                        "Mcpherson College",
+                        "Mcpherson , Kansas",
+                        "1887",
+                        "Private",
+                        "600",
+                        "Bulldogs",
+                        "1902"
+                    ],
+                    [
+                        "Ottawa University",
+                        "Ottawa , Kansas",
+                        "1865",
+                        "Private",
+                        "726",
+                        "Braves",
+                        "1902 3"
+                    ],
+                    [
+                        "University Of Saint Mary",
+                        "Leavenworth , Kansas",
+                        "1859",
+                        "Private",
+                        "750",
+                        "Spires",
+                        "1999"
+                    ],
+                    [
+                        "Southwestern College",
+                        "Winfield , Kansas",
+                        "1885",
+                        "Private",
+                        "1650",
+                        "Moundbuilders",
+                        "1902 4"
+                    ],
+                    [
+                        "Sterling College",
+                        "Sterling , Kansas",
+                        "1887",
+                        "Private",
+                        "750",
+                        "Warriors",
+                        "1902 5"
+                    ]
+                ]
+            },
+            {
+                "id": "4e95655b5e15bf4fed2c6d118ee0b9b6af9e0879c4fce27d8ea24928cf2bd297",
+                "metadata": "Mid - West Athletic Conference",
+                "header": [
+                    "Institution",
+                    "Location",
+                    "Founded",
+                    "Joined Conference",
+                    "Enrollment",
+                    "Nickname"
+                ],
+                "cell": [
+                    [
+                        "Danville Area Community College",
+                        "Danville , Illinois",
+                        "1946",
+                        "1990",
+                        "5000",
+                        "Jaguars"
+                    ],
+                    [
+                        "Lincoln College",
+                        "Lincoln , Illinois",
+                        "1853",
+                        "1990",
+                        "700",
+                        "Lynx"
+                    ],
+                    [
+                        "Parkland College",
+                        "Champaign , Illinois",
+                        "1966",
+                        "1996",
+                        "6245",
+                        "Cobras"
+                    ],
+                    [
+                        "Lincoln Land Community College",
+                        "Springfield , Illinois",
+                        "1969",
+                        "1994",
+                        "4156",
+                        "Loggers"
+                    ],
+                    [
+                        "John Wood Community College",
+                        "Quincy , Illinois",
+                        "1992",
+                        "1998",
+                        "650",
+                        "Trail Blazers"
+                    ],
+                    [
+                        "Illinois Central College",
+                        "East Peoria , Illinois",
+                        "1967",
+                        "2005",
+                        "5000",
+                        "Cougars"
+                    ],
+                    [
+                        "Spoon River College",
+                        "Canton , Illinois",
+                        "1959",
+                        "1990",
+                        "4500",
+                        "Crusaders"
+                    ],
+                    [
+                        "Lewis & Clark Community College",
+                        "Godfrey , Illinois",
+                        "N / A",
+                        "1990",
+                        "900",
+                        "Trailblazers"
+                    ],
+                    [
+                        "Heartland Community College",
+                        "Normal , Illinois",
+                        "1991",
+                        "2006",
+                        "4500",
+                        "Hawks"
+                    ]
+                ]
+            },
+            {
+                "id": "dd588c1b2e99a9c608efc248c1e05bcd314b359854fc981632fa67b6cdeb3281",
+                "metadata": "Pennsylvania State Athletic Conference - Current members",
+                "header": [
+                    "Institution",
+                    "Location (Pennsylvania)",
+                    "Founded",
+                    "Enrollment",
+                    "Nickname",
+                    "Colors",
+                    "Joined"
+                ],
+                "cell": [
+                    [
+                        "Bloomsburg University of Pennsylvania",
+                        "Bloomsburg",
+                        "1839",
+                        "9,512",
+                        "Huskies",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "California University of Pennsylvania",
+                        "California",
+                        "1852",
+                        "9,017",
+                        "Vulcans",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "Clarion University of Pennsylvania",
+                        "Clarion",
+                        "1867",
+                        "7,346",
+                        "Golden Eagles",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "East Stroudsburg University of Pennsylvania",
+                        "East Stroudsburg",
+                        "1893",
+                        "7,576",
+                        "Warriors",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "Edinboro University of Pennsylvania",
+                        "Edinboro",
+                        "1857",
+                        "8,286",
+                        "Fighting Scots",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "Gannon University",
+                        "Erie",
+                        "1925",
+                        "4,238",
+                        "Golden Knights",
+                        "",
+                        "2008"
+                    ],
+                    [
+                        "Indiana University of Pennsylvania",
+                        "Indiana",
+                        "1875",
+                        "14,638",
+                        "Crimson Hawks",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "Kutztown University of Pennsylvania",
+                        "Kutztown",
+                        "1866",
+                        "10,634",
+                        "Golden Bears",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "Lock Haven University of Pennsylvania",
+                        "Lock Haven",
+                        "1870",
+                        "5,329",
+                        "Bald Eagles",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "Mansfield University of Pennsylvania",
+                        "Mansfield",
+                        "1857",
+                        "3,569",
+                        "Mountaineers",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "Mercyhurst University",
+                        "Erie",
+                        "1926",
+                        "3,217",
+                        "Lakers",
+                        "",
+                        "2008"
+                    ],
+                    [
+                        "Millersville University of Pennsylvania",
+                        "Millersville",
+                        "1855",
+                        "8,427",
+                        "Marauders",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "University of Pittsburgh at Johnstown",
+                        "Johnstown",
+                        "1927",
+                        "3,032",
+                        "Mountain Cats",
+                        "",
+                        "2013"
+                    ],
+                    [
+                        "Seton Hill University",
+                        "Greensburg",
+                        "1883",
+                        "2,014",
+                        "Griffins",
+                        "",
+                        "2013"
+                    ],
+                    [
+                        "Shippensburg University of Pennsylvania",
+                        "Shippensburg",
+                        "1871",
+                        "8,253",
+                        "Raiders",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "Slippery Rock University of Pennsylvania",
+                        "Slippery Rock",
+                        "1889",
+                        "8,648",
+                        "The Rock",
+                        "",
+                        "1951"
+                    ],
+                    [
+                        "West Chester University of Pennsylvania",
+                        "West Chester",
+                        "1871",
+                        "16,426",
+                        "Golden Rams",
+                        "",
+                        "1951"
+                    ]
+                ]
+            }
+        ],
+        "data_list": [
+            {
+                "idx": 1,
+                "entailed_table_id_set": ["e56b77ea8a020e3fdaccfbd4e8c6a2bd81dd6e97b1c160d2ac07f7a9a7007f8f"],
+                "nl_query": "Summarize the basic information of the oldest institution in the Kansas Collegiate Athletic Conference.",
+                "statement": "The oldest institution in the Kansas Collegiate Athletic Conference is the University of Saint Mary, located in Leavenworth, Kansas. Founded in 1859, it is a private institution with an enrollment of 750 students, and its team nickname is the Spires. The university joined the Kansas Collegiate Athletic Conference in 1999."
+            },
+            {
+                "idx": 2,
+                "entailed_table_id_set": ["4e95655b5e15bf4fed2c6d118ee0b9b6af9e0879c4fce27d8ea24928cf2bd297"],
+                "nl_query": "Summarize the institutions which joined the conference after 2000.",
+                "statement": "The Mid-West Athletic Conference welcomed two institutions which joined after 2000. Heartland Community College located in Normal, Illinois joined the conference in 2006. The university was founded in 1991 and has an enrollment of 4500 students. Its mascot is the Hawks. Illinois Central College located in East Peoria, Illinois joined the conference in 2005. It has an enrollment of 5000 students and its mascot is the Cougars."
+            },
+            {
+                "idx": 3,
+                "entailed_table_id_set": ["4e95655b5e15bf4fed2c6d118ee0b9b6af9e0879c4fce27d8ea24928cf2bd297"],
+                "nl_query": "How many institutions in the Mid-West Athletic Conference have the nickname of 'Trailblazers'? Summarize the basic information of these institutions.",
+                "statement": "The Mid-West Athletic Conference consists of two institutions which have the nickname of Trailblazers: John Wood Community College and Lewis & Clark Community College. John Wood Community College is located in Quincy, Illinois, was founded in 1992, and joined the conference in 1998 with an enrollment of 650. Lewis & Clark Community College is located in Godfrey, Illinois, joined the conference in 1990, with an enrollment of 900."
+            },
+            {
+                "idx": 4,
+                "entailed_table_id_set": ["dd588c1b2e99a9c608efc248c1e05bcd314b359854fc981632fa67b6cdeb3281"],
+                "nl_query": "What similarities and differences can be observed in the nicknames of these institutions?",
+                "statement": "The Pennsylvania State Athletic Conference institutions have diverse nicknames that reflect their history and values. Many schools have animal-based nicknames, such as Huskies, Golden Bears, and Bald Eagles, symbolizing strength and power in sports. Several schools use “Golden” in their nicknames, like the Golden Eagles, Golden Knights, and Golden Rams, which could signify luck and success. However, some institutions stand out with more unique names, such as the Fighting Scots, Vulcans, and Griffins, which may represent cultural or regional connections."
+            },
+            {
+                "idx": 5,
+                "entailed_table_id_set": ["dd588c1b2e99a9c608efc248c1e05bcd314b359854fc981632fa67b6cdeb3281"],
+                "nl_query": "Which universities were founded earliest and how does their enrollment compare to those that were established later?",
+                "statement": "The earliest founded universities in the Pennsylvania State Athletic Conference are Bloomsburg University of Pennsylvania (1839) and California University of Pennsylvania (1852). Despite their early establishment, their enrollment figures—9,512 and 9,017 students, respectively—are surpassed by later-founded institutions such as Indiana University of Pennsylvania and West Chester University of Pennsylvania, which have larger student populations of 14,638 and 16,426."
+            }
+        ],
+        "annotation": [
+            {
+                "question": "Summarize the basic information of the oldest institution for each Kansas Collegiate, Mid - West, and Pennsylvania State Athletic Conference's current members.",
+                "answer": "The oldest institution in the Kansas Collegiate Athletic Conference is the University of Saint Mary. Located in Leavenworth, Kansas, it was founded in 1859. This private institution has an enrollment of 750 students and is nicknamed the Spires. The University of Saint Mary joined the conference in 1999. The oldest institution in the Mid-West Athletic Conference is Lincoln College. It is located in Lincoln, Illinois, and was founded in 1853. Lincoln College is a private institution with an enrollment of 700 students, and its nickname is the Lynx. The college joined the conference in 1990. The oldest institution in the Pennsylvania State Athletic Conference is Bloomsburg University of Pennsylvania. Founded in 1839, it is located in Bloomsburg, Pennsylvania. The university has an enrollment of 9,512 students and its nickname is the Huskies. Bloomsburg University joined the conference in 1951.",
+                "difficulty": "easy",
+                "reference": [
+                    1
+                ]
+            },
+            {
+                "question": "Summarize the basic information of the institution that joined most recently for each Kansas Collegiate, Mid - West, and Pennsylvania State Athletic Conference.",
+                "answer": "The institution that joined the latest in the Kansas Collegiate Athletic Conference is the University of Saint Mary, which joined in 1999. It was founded in 1859 and is located in Leavenworth, Kansas. This private institution enrolls 750 students and is nicknamed the Spires. The latest institution to join the Mid-West Athletic Conference is Heartland Community College, which joined in 2006. Located in Normal, Illinois, it was founded in 1991. The college has an enrollment of 4,500 students and its nickname is the Hawks. The institutions that joined the latest in the Pennsylvania State Athletic Conference are the University of Pittsburgh at Johnstown and Seton Hill University, both of which joined in 2013. The University of Pittsburgh at Johnstown, founded in 1927, is located in Johnstown, Pennsylvania, has an enrollment of 3,032 students, and its nickname is the Mountain Cats. Seton Hill University, founded in 1883, is located in Greensburg, Pennsylvania, enrolls 2,014 students, and is nicknamed the Griffins.",
+                "difficulty": "medium",
+                "reference": [
+                    2
+                ]
+            },
+            {
+                "question": "For each of the Kansas Collegiate, Mid-West, and Pennsylvania State Athletic Conferences, when did the most institutions join, and which institutions joined during that year?",
+                "answer": "The year when the most institutions joined the Kansas Collegiate Athletic Conference was 1902, with eight institutions joining. These institutions are Bethany College, Bethel College, Friends University, Kansas Wesleyan University, McPherson College, Ottawa University, Southwestern College, and Sterling College. In 1990, the Mid-West Athletic Conference saw the most institutions join, with four colleges becoming members. These institutions are Danville Area Community College, Lincoln College, Spoon River College, and Lewis & Clark Community College. The year 1951 had the highest number of institutions joining the Pennsylvania State Athletic Conference, with thirteen universities becoming members. These institutions include Bloomsburg University of Pennsylvania, California University of Pennsylvania, Clarion University of Pennsylvania, East Stroudsburg University of Pennsylvania, Edinboro University of Pennsylvania, Indiana University of Pennsylvania, Kutztown University of Pennsylvania, Lock Haven University of Pennsylvania, Mansfield University of Pennsylvania, Millersville University of Pennsylvania, Shippensburg University of Pennsylvania, Slippery Rock University of Pennsylvania, and West Chester University of Pennsylvania.",
+                "difficulty": "hard",
+                "reference": [
+                    2
+                ]
+            },
+            {
+                "question": "For each of the Kansas Collegiate, Mid-West, and Pennsylvania State Athletic Conferences, how many institutions have animal nicknames, and what are the names of these institutions along with their nicknames?",
+                "answer": "In the Kansas Collegiate Athletic Conference, there are three institutions with animal nicknames: Friends University (nickname: Falcons), Kansas Wesleyan University (nickname: Coyotes), and McPherson College (nickname: Bulldogs). In the Mid-West Athletic Conference, there are five institutions with animal nicknames. Danville Area Community College (nickname: Jaguars), Lincoln College (nickname: Lynx), Parkland College (nickname: Cobras), Illinois Central College (nickname: Cougars), and Heartland Community College (nickname: Hawks). In the Pennsylvania State Athletic Conference, there are eight institutions with animal nicknames. Bloomsburg University of Pennsylvania (nickname: Huskies), Clarion University of Pennsylvania (nickname: Golden Eagles), Indiana University of Pennsylvania (nickname: Crimson Hawks), Kutztown University of Pennsylvania (nickname: Golden Bears), Lock Haven University of Pennsylvania (nickname: Bald Eagles), Seton Hill University (nickname: Griffins), the University of Pittsburgh at Johnstown (nickname: Mountain Cats), and West Chester University of Pennsylvania (nickname: Golden Rams).",
+                "difficulty": "hard",
+                "reference": [
+                    3
+                ]
+            },
+            {
+                "question": "What can the distribution of nicknames in each Kansas Collegiate, Mid-West, and Pennsylvania State Athletic Conferences tell us about the characteristics of each state?",
+                "answer": "The nicknames of the institutions provide some insight into the characteristics of each state. In Kansas, many nicknames reflect the state’s cultural heritage and agricultural roots. For example, Bethany College’s “Swedes” highlights the Swedish heritage of the town of Lindsborg, while Bethel College’s “Threshers” refers to farming practices. Southwestern College’s “Moundbuilders” connects to the Native American history in the region. Kansas institutions also use traditional animal mascots like “Falcons,” “Coyotes,” and “Bulldogs,” which emphasize strength and agility, common themes in sports. In Illinois, many institutions in the Mid-West Athletic Conference use animal mascots like “Jaguars,” “Lynx,” “Cobras,” and “Hawks,” symbolizing power, speed, and sharpness. These reflect qualities often associated with competitive sports. Additionally, nicknames like “Trail Blazers” and “Trailblazers” emphasize the pioneering spirit and historical significance of the Midwest as a region of exploration and industry. In Pennsylvania, the institutions in the Pennsylvania State Athletic Conference showcase a mix of traditional animal mascots and mythological references. Schools like Bloomsburg University with “Huskies” and Clarion University with “Golden Eagles” emphasize the state’s rich wildlife. The use of “Golden” in nicknames like “Golden Rams” and “Golden Bears” suggests a focus on excellence and achievement. Mythological figures like “Griffins” and “Vulcans” reflect Pennsylvania’s deep cultural and historical heritage, adding a sense of tradition and strength to their identities.",
+                "difficulty": "hard",
+                "reference": [
+                    4
+                ]
+            },
+            {
+                "question": "Based on enrollment data from the Kansas Collegiate, Mid-West, and Pennsylvania State Athletic Conferences, how can the population rankings of Kansas, Illinois, and Pennsylvania be estimated?",
+                "answer": "The Kansas Collegiate Athletic Conference has a minimum enrollment of 500, a maximum enrollment of 3,000, and an average enrollment of approximately 1,053. This suggests that Kansas likely has a smaller overall population compared to the other regions. The Mid-West Athletic Conference has a minimum enrollment of 650, a maximum enrollment of 6,245, and an average enrollment of approximately 3,517. This indicates that Illinois probably has a larger population than Kansas but smaller than Pennsylvania. The Pennsylvania State Athletic Conference has a minimum enrollment of 2,014, a maximum enrollment of 16,426, and an average enrollment of approximately 7,657. This reflects that Pennsylvania likely has the largest population among the three states, supporting larger institutions with broader student bodies. In summary, based on enrollment data, the population size ranking from largest to smallest is estimated to be Pennsylvania, Illinois, and then Kansas.",
+                "difficulty": "hard",
+                "reference": [
+                    5
+                ]
+            }
+        ]
     }
 ]

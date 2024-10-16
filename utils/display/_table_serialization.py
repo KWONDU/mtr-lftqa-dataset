@@ -3,9 +3,11 @@ def table_serialization(table_num, metadata, header, cell):
     
     serialization = " ".join([serialization, f"[metadata]: {metadata}"]) if metadata else ""
 
-    serialize_header = " | ".join([str(_) for _ in header])
-    serialization = " ".join([serialization, f"[header]: {serialize_header}"])
     
+    if header is not None:
+        serialize_header = " | ".join([str(_) for _ in header])
+        serialization = " ".join([serialization, f"[header]: {serialize_header}"])
+        
     for i, row in enumerate(cell):
         serialize_row = " | ".join([str(_) for _ in row])
         serialization = " ".join([serialization, f"[row {i+1}]: {serialize_row}"])

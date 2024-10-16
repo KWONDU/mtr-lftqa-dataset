@@ -1,0 +1,78 @@
+The following are a few examples of how to generate annotated documents:
+
+{shots}
+
+Based on the following guidelines:
+Each document must:
+-   Be based on the provided gold table set.
+-   Follow the format and style demonstrated in the example shots.
+-   Include a Document section written in clear, natural language sentences.
+-   Avoid line breaks within a single sentence.
+-   Multiple sentences are acceptable.
+-   Include a Difficulty level from the following options:
+    1.  Easy: Directly extend the provided information without significant changes.
+    2.  Medium: Modify the information slightly before extending it.
+    3.  Hard: Provide additional reasoning or context based on the data.
+    4.  Extreme: Deduce information directly from the table data without relying on any provided information.
+-   Include a Reference section listing the relevant information sources used, formatted as [i, j, k, ...]. If the difficulty is Extreme, the reference should be an empty list [].
+
+Additionally, each generated document must satisfy the following four elements:
+1.	Fluency: The output must be fluently constructed.
+2.	Coherence: The output must be logically consistent and well-organized.
+3.	Faithfulness: The output must be faithful to the provided tabular data.
+4.	Comprehensiveness: The output must include all relevant information from the provided tabular data.
+
+Generate documents that:
+-   Cover different aspects of the data.
+-   Collectively utilize information from all the provided tables.
+-   Include at least two documents for each difficulty level: Easy, Medium, Hard, and Extreme.
+-   Avoid referring to the order or numbering of the tables (phrases like “Table 1” or “first table” should not be used).
+-   Ensure the documents are self-contained and understandable without additional context.
+
+Now, using the gold table set information and statement list, generate documents:
+# Gold table set information:
+{gold_table_set_information}
+
+# Statement list:
+{statement_list}
+
+# Output:
+Annotated document 1:
+Document: [extreme_doc1]
+Difficulty: extreme
+Reference: []
+
+Annotated document 2:
+Document: [extreme_doc2]
+Difficulty: extreme
+Reference: []
+
+Annotated document 3:
+Document: [hard_doc1]
+Difficulty: hard
+Reference: [ref of hard_doc1]
+
+Annotated document 4:
+Document: [hard_doc2]
+Difficulty: hard
+Reference: [ref of hard_doc2]
+
+Annotated document 5:
+Document: [medium_doc1]
+Difficulty: medium
+Reference: [ref of medium_doc1]
+
+Annotated document 6:
+Document: [medium_doc2]
+Difficulty: medium
+Reference: [ref of medium_doc2]
+
+Annotated document 7:
+Document: [easy_doc1]
+Difficulty: easy
+Reference: [ref of easy_doc1]
+
+Annotated document 8:
+Document: [easy_doc2]
+Difficulty: easy
+Reference: [ref of easy_doc2]
