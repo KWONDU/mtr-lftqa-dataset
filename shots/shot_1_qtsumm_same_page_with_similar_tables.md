@@ -113,12 +113,12 @@
     Q5.  How many players from each state were on the 2007 Kentucky Wildcats Football Team, and how were they distributed between offense and defense?
     A5.  In the 2007 Kentucky Wildcats Football Team, there were 10 players from Kentucky, 7 on offense and 3 on defense. From Georgia, there were 5 players, with 1 on offense and 4 on defense. South Carolina had 2 players, one on offense and one on defense. Ohio had 1 player on offense, California had 1 player on offense, Tennessee had 1 player on defense, and Florida had 1 player on defense.
 
-**QA pair 5 : Hard # 1-2**
+**QA pair 5 : Medium # 1-2**
 
     Q6.  Who were the tallest and shortest players on the 2007 Kentucky Wildcats Football Team? Summarize the basic information of these players.
     A6.  The tallest player on the 2007 Kentucky Wildcats Football Team was Justin Jeffries, a right tackle, standing at 6’6 and weighing 300 lbs. He was a sophomore from Louisville, Kentucky, and played in 13 games. The shortest players were Rafael Little, a halfback, and Paul Warford, a left cornerback, both standing at 5’10. Rafael Little was a senior from Anderson, South Carolina, weighing 210 lbs, and played in 10 games, while Paul Warford was a sophomore from Richmond, Kentucky, weighing 200 lbs, and played in 10 games.
 
-**QA pair 6 : Extreme**
+**QA pair 6 : Hard**
 
     Q.  What are the key roles and players on the offensive and defensive teams in the 2007 Kentucky Wildcats Football Team?
     A.  In the 2007 Kentucky Wildcats Football Team, the offensive team is responsible for advancing the ball and scoring points. Key players on offense include quarterback Andre Woodson, who played all 13 games, and wide receivers Keenan Burton and Steve Johnson, both seniors, who contributed significantly to the team’s passing game. The defensive team, on the other hand, focuses on stopping the opponent’s offense and preventing scoring. Key defensive players include linebacker Wesley Woodyard, who played all 13 games, and defensive end Jeremy Jarmon, who led the defensive line. Both teams have a mix of senior leadership and underclassmen talent, contributing to the team’s overall performance.
