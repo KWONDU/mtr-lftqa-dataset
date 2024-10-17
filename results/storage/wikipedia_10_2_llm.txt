@@ -1,0 +1,58 @@
+# Gold table set information
+Table 1:
+metadata: Türk Telekom Arena | Project overview | Project overview
+full table:
+Project                                | Year_     | Location_   | Capacity | Suites                               | Architect                     | Cost                               
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Faruk Süren project                    | 1997-2001 | Mecidiyeköy | 40482    | 125+72 boxes without outside seating | BBB Architects                | $ 118.5 million ($ in 2014 dollars)
+Mehmet Cansun project                  | 2001      | Mecidiyeköy | 35000    | 132                                  | GS member Architecture group* | $ 35 million ($ in 2014 dollars)   
+Özhan Canaydın:Back to Süren`s project | 2002-2005 | Aslantepe   | 40482    | 125                                  | BBB Architects                | $ 90 million ($ in 2014 dollars)   
+Eren Talu bidding project              | 2007      | Aslantepe   | 52000    | 150                                  | Populous                      | n/a                                
+Özhan Canaydın project                 | 2007      | Aslantepe   | 52652    | 157                                  | asp Stuttgart                 | $ 250 million ($ in 2014 dollars)  
+Table 2:
+metadata: Türk Telekom Arena | 2013 FIFA U-20 World Cup | 2013 FIFA U-20 World Cup
+full table:
+Date_        | Time_CEST_ | Team_1      | Res_ | Team_2  | Round             | Attendance
+-----------------------------------------------------------------------------------------
+21 June 2013 | 18.00      | France      | 3–1  | Ghana   | Group A           | 4133      
+21 June 2013 | 21.00      | USA         | 1–4  | Spain   | Group A           | 4133      
+24 June 2013 | 18.00      | France      | 1–1  | USA     | Group A           | 4120      
+24 June 2013 | 21.00      | Spain       | 1–0  | Ghana   | Group A           | 4120      
+27 June 2013 | 20.00      | Spain       | 2–1  | France  | Group A           | 7511      
+27 June 2013 | 17.00      | South Korea | 0–1  | Nigeria | Group B           | 7511      
+2 July 2013  | 18.00      | Spain       | 2–1  | Mexico  | Round of 16       | 7211      
+2 July 2013  | 21.00      | Nigeria     | 1–2  | Uruguay | Round of 16       | 7211      
+7 July 2013  | 21.00      | Ghana       | 4–3  | Chile   | Quarterfinals     | 6632      
+13 July 2013 | 18.00      | Ghana       | 3–0  | Iraq    | Third place match | 20601     
+13 July 2013 | 18.00      | France      | 0–0  | Uruguay | Final             | 20601     
+Table 3:
+metadata: Türk Telekom Arena | Turkish National Team | Turkish National Team
+full table:
+Date_            | Time_CEST_ | Team_1 | Res_ | Team_2     | Round                | Spectators
+----------------------------------------------------------------------------------------------
+10 August 2011   | 20.30      | Turkey | 3–0  | Estonia    | Friendly             | 25000     
+2 September 2011 | 19.00      | Turkey | 2–1  | Kazakhstan | Euro 2012 qualifying | 47756     
+7 October 2011   | 20.30      | Turkey | 1–3  | Germany    | Euro 2012 qualifying | 49532     
+11 October 2011  | 19.00      | Turkey | 1–0  | Azerbaijan | Euro 2012 qualifying | 32174     
+11 November 2011 | 20.05      | Turkey | 0–3  | Croatia    | Euro 2012 qualifying | 42863     
+14 November 2012 | 20.30      | Turkey | 1–1  | Denmark    | Friendly             | 30000     
+
+# NL query list
+Query 1 [Entail to table 1] What is the average capacity for 150 suites in the Turk Telekom Arena project overview?
+Query 2 [Entail to table 1] Where is the bidding project Eren Talu in the Türk Telekom Arena project overview?
+Query 3 [Entail to table 1] Which location in the Türk Telekom Arena has a capacity of more than 52,000' Project overview?
+Query 4 [Entail to table 1] What is the highest capacity in Aslantepe in 2002-2005 for Turk Telekom Arena project overview?
+Query 5 [Entail to table 2] What made the under-18 team stand out at the FIFA U-20 World Cup 2013 at the Turk Telekom Arena?
+Query 6 [Entail to table 3] What is the number of spectators in the Türk Telekom Arena for the time after 8:05 p.m. and the No. 2 team from Estonia among the Turkish national team?
+Query 7 [Entail to table 3] Name the spectators for November 11, 2011 in the Turkish national team at Türk Telekom Arena. ?
+
+# Step 1. question annotation
+Question: How does the attendance at the Türk Telekom Arena for the FIFA U-20 World Cup 2013 compare to the Turkish National Team matches held at the same venue?
+Difficulty: hard
+Reference: []
+
+[Step 2. answer annotation]
+None
+
+[Step 3. verification]
+None

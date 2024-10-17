@@ -140,26 +140,31 @@ def main(dataset_name, sample_n):
           ]
      )
 
+     # Parsing
      for num, plan_output in enumerate(plan_output_list):
-          indices = re.findall(r"Annotated question (\d+):", plan_output['response'])
-          questions = re.findall(r"Question: (.+?)(?=Difficulty:)", plan_output['response'], re.DOTALL)
-          difficulties = re.findall(r"Difficulty: (\w+)", plan_output['response'])
-          references = re.findall(r"Reference: \[(.+?)\]", plan_output['response'])
+          try:
+               indices = re.findall(r"Annotated question (\d+):", plan_output['response'])
+               questions = re.findall(r"Question: (.+?)(?=Difficulty:)", plan_output['response'], re.DOTALL)
+               difficulties = re.findall(r"Difficulty: (\w+)", plan_output['response'])
+               references = re.findall(r"Reference: \[(.*?)\]", plan_output['response'])
 
-          questions = [question.strip() for question in questions]
-          references = [[int(ref) for ref in ref_list.split(", ")] for ref_list in references]
+               questions = [question.strip() for question in questions]
+               references = [[int(ref) for ref in ref_list.split(", ")] if ref_list != '' else [] for ref_list in references]
 
-          result_buffer[num].update({
-               'llm_output': {
-                    int(adx) - 1: {
-                         'annotated_question': question,
-                         'question_difficulty': diff,
-                         'question_reference': ref
+               result_buffer[num].update({
+                    'llm_output': {
+                         int(adx) - 1: {
+                              'annotated_question': question,
+                              'question_difficulty': diff,
+                              'question_reference': ref
+                         }
+                         for adx, question, diff, ref in zip(indices, questions, difficulties, references)
                     }
-                    for adx, question, diff, ref in zip(indices, questions, difficulties, references)
-               }
-          })
+               })
+          except:
+               print(f"[Error] Parsing error at (Annotate questions) - {str(num + 1)}th output.")
      
+     ### BUFFER ###
      llm_buffer.append(plan_output_list)
      total_cost['Annotate questions'] = cost
      ### BUFFER ###
@@ -200,11 +205,11 @@ if __name__ == '__main__':
     args, _ = parser.parse_known_args()
     logger.info(args)
 
-    
-    api_key = 'sk-proj-lR8UlnwE0T_PuhTzzGe2isP7TVt1BT8879xaUpsaPOT-AyVWP_n5P1Vggt0K5t4nT734B0NOYnT3BlbkFJO_AhySWDN2qgqFe8_OsiUOLCPTu5p_onCvhULuWqEi6vSJU_4sY9pJMPxEP7FGQoZ1U5Y_9k8As'
+    """
+    api_key = '___YOUR_OWN_API_KEY___'
     from utils.openai import add_openai_api_key
     add_openai_api_key(api_key=api_key)
-    
+    """
 
     main(
         dataset_name=args.d,

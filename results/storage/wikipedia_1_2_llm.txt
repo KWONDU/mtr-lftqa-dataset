@@ -55,9 +55,9 @@ Query 8 [Entail to table 2] What are the fewest goals and opponents in the Copa 
 Query 9 [Entail to table 2] In 2009/10 season was the name of Real Madrid CF goals most Copa del Rey for Karim Benzema?
 
 # Step 1. question annotation
-Question: What was the maximum number of assists recorded by a player in the 2009–10 Real Madrid C.F. season, and in which league did they achieve this?
+Question: What insights can be drawn from the distribution of assists and goals in the 2009-10 season of Real Madrid CF regarding the team's attacking strategies and player contributions?
 Difficulty: hard
-Reference: [7]
+Reference: []
 
 [Step 2. answer annotation]
 None

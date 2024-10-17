@@ -55,9 +55,9 @@ Query 8 [Entail to table 2] What are the fewest goals and opponents in the Copa 
 Query 9 [Entail to table 2] In 2009/10 season was the name of Real Madrid CF goals most Copa del Rey for Karim Benzema?
 
 # Step 1. question annotation
-Question: If a player's position is a forward (FW), what was the total number of goals they scored in the Copa del Rey tournament during the 2009–10 Real Madrid C.F. season?
+Question: How do the assist and goal statistics of Real Madrid CF in the 2009-10 season reflect the team's overall performance and key players' contributions?
 Difficulty: medium
-Reference: [7, 8]
+Reference: [1, 2]
 
 [Step 2. answer annotation]
 None
