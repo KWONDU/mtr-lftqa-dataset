@@ -3,18 +3,20 @@ from utils.display import table_serialization
 
 
 def get_annotate_questions_task_shots():
-    sampled_shots = SHOTS
+    global MOD_FOUR
+    sampled_shots = [SHOTS[MOD_FOUR], SHOTS[4], SHOTS[5]]
+    MOD_FOUR = (MOD_FOUR + 1) % 4
 
     return "\n".join(
         "\n".join([
             f"## Example {idx + 1}",
-            "# Gold table set metadata",
+            "# Gold table set information",
             "\n".join(
                 table_serialization(
                     table_num = tdx + 1,
                     metadata = table['metadata'],
                     header = table['header'],
-                    cell = []
+                    cell = table['cell']
                 ) # Table 1. TEXT
                 for tdx, table in enumerate(shot['gold_table_set'])
             ), # Table 1 ~ ith
@@ -54,4 +56,4 @@ if __name__ == 'get_shots':
     with open('shots/shots.json', 'r') as file:
         SHOTS = json.load(file)
     
-    IS_EVEN = True
+    MOD_FOUR = 3

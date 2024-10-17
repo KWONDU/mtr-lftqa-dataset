@@ -10,12 +10,12 @@ async def annotate_questions_task(semaphore, model_input, model_name):
             system_prompt=load_prompt(role='system', task='annotate_questions'),
             user_prompt=load_prompt(role='user', task='annotate_questions').format(
                 shots=input_data['shots'],
-                gold_table_set_metadata="\n".join([
+                gold_table_set_information="\n".join([
                     table_serialization(
                         table_num = tdx + 1,
                         metadata = gold_table['metadata'],
                         header = gold_table['header'],
-                        cell = []
+                        cell = gold_table['cell']
                     )
                     for tdx, gold_table in enumerate(input_data['gold_table_set'])
                 ]),

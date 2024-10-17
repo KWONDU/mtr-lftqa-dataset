@@ -1,7 +1,7 @@
 def table_serialization(table_num, metadata, header, cell):
     serialization = f"Table {table_num}" if table_num >= 0 else ""
     
-    serialization = " ".join([serialization, f"[name]: {metadata}"]) if metadata else ""
+    serialization = " ".join([serialization, f"[title]: {metadata}"]) if metadata else ""
 
     
     if header is not None:

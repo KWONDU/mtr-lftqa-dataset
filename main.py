@@ -200,11 +200,11 @@ if __name__ == '__main__':
     args, _ = parser.parse_known_args()
     logger.info(args)
 
-    """
-    api_key = '___YOUR_OWN_OPENAI_API_KEY___'
+    
+    api_key = 'sk-proj-lR8UlnwE0T_PuhTzzGe2isP7TVt1BT8879xaUpsaPOT-AyVWP_n5P1Vggt0K5t4nT734B0NOYnT3BlbkFJO_AhySWDN2qgqFe8_OsiUOLCPTu5p_onCvhULuWqEi6vSJU_4sY9pJMPxEP7FGQoZ1U5Y_9k8As'
     from utils.openai import add_openai_api_key
     add_openai_api_key(api_key=api_key)
-    """
+    
 
     main(
         dataset_name=args.d,
