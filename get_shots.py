@@ -53,25 +53,22 @@ def get_annotate_questions_task_shots():
     )
 
 
-def get_annotate_sub_answer_task_shots():
-    sampled_shots = SHOTS
+def get_expand_statement_task_shots():
+    sampled_shots = SHOTS[:3]
 
     return "\n".join([
         "\n".join([
-            f"## Example {idx + 1}",
-            "# Table information",
-            table_serialization(
-                table_num=-1,
-                metadata=shot['gold_table_set'][0]['metadata'],
-                header=shot['gold_table_set'][0]['header'],
-                cell=shot['gold_table_set'][0]['cell']
-            ),
+            f"**Example {idx + 1}:**",
+            "- **DataFrame Schema**:",
+            f"\t- **Caption**: {shot['gold_table_set'][0]['metadata']}",
+            f"\t- **Columns**: {' | '.join(shot['gold_table_set'][0]['header'])}",
+            f"\t- **First Row**: {' | '.join(shot['gold_table_set'][0]['cell'][0])}",
             "",
-            "# Question",
-            shot['annotation'][-1]['question'],
+            "- **Statement**:",
+            f"\t{shot['data_list'][0]['short_statement']}",
             "",
-            "# Output",
-            shot['annotation'][-1]['sub_answer'],
+            "- **Python code**:",
+            shot['data_list'][0]['python_code'],
             ""
         ])
         for idx, shot in enumerate(sampled_shots)

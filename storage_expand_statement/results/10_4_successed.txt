@@ -1,0 +1,45 @@
+# Table information
+
+metadata: Türk Telekom Arena | Project overview | Project overview
+full table:
+Project                                | Year_     | Location_   | Capacity | Suites                               | Architect                     | Cost                               
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Faruk Süren project                    | 1997-2001 | Mecidiyeköy | 40482    | 125+72 boxes without outside seating | BBB Architects                | $ 118.5 million ($ in 2014 dollars)
+Mehmet Cansun project                  | 2001      | Mecidiyeköy | 35000    | 132                                  | GS member Architecture group* | $ 35 million ($ in 2014 dollars)   
+Özhan Canaydın:Back to Süren`s project | 2002-2005 | Aslantepe   | 40482    | 125                                  | BBB Architects                | $ 90 million ($ in 2014 dollars)   
+Eren Talu bidding project              | 2007      | Aslantepe   | 52000    | 150                                  | Populous                      | n/a                                
+Özhan Canaydın project                 | 2007      | Aslantepe   | 52652    | 157                                  | asp Stuttgart                 | $ 250 million ($ in 2014 dollars)  
+
+# Statement
+The highest capacity in Aslantepe for the Turk Telekom Arena project overview in 2002-2005 is 40482.
+
+# Statement pattern
+The {comparative} capacity in {location} for the {project} project overview in {year_range} is {capacity}.
+# Expanded staetments
+The lowest capacity in Mecidiyeköy for the Faruk Süren project project overview in 1997-2001 is 40482.
+The lowest capacity in Mecidiyeköy for the Mehmet Cansun project project overview in 2001 is 35000.
+The lowest capacity in Aslantepe for the Özhan Canaydın:Back to Süren`s project project overview in 2002-2005 is 40482.
+The lowest capacity in Aslantepe for the Eren Talu bidding project project overview in 2007 is 52000.
+The highest capacity in Aslantepe for the Özhan Canaydın project project overview in 2007 is 52652.
+
+# Python code
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "The {comparative} capacity in {location} for the {project} project overview in {year_range} is {capacity}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        project = row['Project']
+        year_range = row['Year_']
+        location = row['Location_']
+        capacity = row['Capacity']
+
+        comparative = "highest" if capacity == df['Capacity'].max() else "lowest"
+
+        expanded_statement = statement_pattern.format(comparative=comparative, location=location, project=project, year_range=year_range, capacity=capacity)
+        expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```

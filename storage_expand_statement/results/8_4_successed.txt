@@ -1,0 +1,51 @@
+# Table information
+
+metadata: 1954 in Brazilian football | Brazil national team | Brazil national team
+full table:
+Date_             | Result_ | Score | Brazil_scorers                       | Competition                              
+----------------------------------------------------------------------------------------------------------------------
+February 28, 1954 | W       | 2-0   | Baltazar (2)                         | World Cup Qualifying                     
+March 7, 1954     | W       | 1-0   | Baltazar                             | World Cup Qualifying                     
+March 14, 1954    | W       | 1-0   | Baltazar                             | World Cup Qualifying                     
+March 21, 1954    | W       | 4-1   | Julinho (2), Baltazar , Maurinho     | World Cup Qualifying                     
+May 2, 1954       | W       | 4-1   | Rodrigues (2), Índio (2)             | International Friendly (unofficial match)
+May 9, 1954       | W       | 2-0   | Martinez ( own goal ), Baltazar      | International Friendly (unofficial match)
+June 16, 1954     | W       | 5-0   | Baltazar , Didi , Pinga (2), Julinho | World Cup                                
+June 19, 1954     | D       | 1-1   | Didi                                 | World Cup                                
+June 27, 1954     | L       | 2-4   | Djalma Santos , Julinho              | World Cup                                
+
+# Statement
+1954 among Brazil national team results in Brazilian football is an International Friendly (unofficial match) with a result of W, a score of 2-0, and a date of May 9, 1954.
+
+# Statement pattern
+1954 among Brazil national team results in Brazilian football is an {competition_type} with a result of {result}, a score of {score}, and a date of {date}.
+# Expanded staetments
+1954 among Brazil national team results in Brazilian football is an World Cup Qualifying with a result of W, a score of 2-0, and a date of February 28, 1954.
+1954 among Brazil national team results in Brazilian football is an World Cup Qualifying with a result of W, a score of 1-0, and a date of March 7, 1954.
+1954 among Brazil national team results in Brazilian football is an World Cup Qualifying with a result of W, a score of 1-0, and a date of March 14, 1954.
+1954 among Brazil national team results in Brazilian football is an World Cup Qualifying with a result of W, a score of 4-1, and a date of March 21, 1954.
+1954 among Brazil national team results in Brazilian football is an International Friendly (unofficial match) with a result of W, a score of 4-1, and a date of May 2, 1954.
+1954 among Brazil national team results in Brazilian football is an International Friendly (unofficial match) with a result of W, a score of 2-0, and a date of May 9, 1954.
+1954 among Brazil national team results in Brazilian football is an World Cup with a result of W, a score of 5-0, and a date of June 16, 1954.
+1954 among Brazil national team results in Brazilian football is an World Cup with a result of D, a score of 1-1, and a date of June 19, 1954.
+1954 among Brazil national team results in Brazilian football is an World Cup with a result of L, a score of 2-4, and a date of June 27, 1954.
+
+# Python code
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "1954 among Brazil national team results in Brazilian football is an {competition_type} with a result of {result}, a score of {score}, and a date of {date}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        competition_type = row['Competition']
+        result = row['Result_']
+        score = row['Score']
+        date = row['Date_']
+
+        expanded_statement = statement_pattern.format(competition_type=competition_type, result=result, score=score, date=date)
+        expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```

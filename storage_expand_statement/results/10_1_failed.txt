@@ -1,0 +1,56 @@
+# Table information
+
+metadata: Türk Telekom Arena | Project overview | Project overview
+full table:
+Project                                | Year_     | Location_   | Capacity | Suites                               | Architect                     | Cost                               
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Faruk Süren project                    | 1997-2001 | Mecidiyeköy | 40482    | 125+72 boxes without outside seating | BBB Architects                | $ 118.5 million ($ in 2014 dollars)
+Mehmet Cansun project                  | 2001      | Mecidiyeköy | 35000    | 132                                  | GS member Architecture group* | $ 35 million ($ in 2014 dollars)   
+Özhan Canaydın:Back to Süren`s project | 2002-2005 | Aslantepe   | 40482    | 125                                  | BBB Architects                | $ 90 million ($ in 2014 dollars)   
+Eren Talu bidding project              | 2007      | Aslantepe   | 52000    | 150                                  | Populous                      | n/a                                
+Özhan Canaydın project                 | 2007      | Aslantepe   | 52652    | 157                                  | asp Stuttgart                 | $ 250 million ($ in 2014 dollars)  
+
+# Statement
+The average capacity for 150 suites in the Turk Telekom Arena project overview is 52000.0.
+
+# Response
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "The average capacity for {suite_count} suites in the {project} project overview is {average_capacity}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        suite_count = 150
+        project = row['Project']
+        average_capacity = df['Capacity'].mean()
+        expanded_statement = statement_pattern.format(suite_count=suite_count, project=project, average_capacity=average_capacity)
+        expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```
+
+# Exception
+Traceback (most recent call last):
+  File "/work/go203302/mtr-lftqa-dataset/expand_statement.py", line 136, in <module>
+    statement_pattern, expanded_statement_list = expand_statement_pattern(
+  File "<string>", line 10, in expand_statement_pattern
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/series.py", line 6549, in mean
+    return NDFrame.mean(self, axis, skipna, numeric_only, **kwargs)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/generic.py", line 12420, in mean
+    return self._stat_function(
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/generic.py", line 12377, in _stat_function
+    return self._reduce(
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/series.py", line 6457, in _reduce
+    return op(delegate, skipna=skipna, **kwds)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/nanops.py", line 147, in f
+    result = alt(values, axis=axis, skipna=skipna, **kwds)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/nanops.py", line 404, in new_func
+    result = func(values, axis=axis, skipna=skipna, mask=mask, **kwargs)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/nanops.py", line 720, in nanmean
+    the_sum = _ensure_numeric(the_sum)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/nanops.py", line 1701, in _ensure_numeric
+    raise TypeError(f"Could not convert string '{x}' to numeric")
+TypeError: Could not convert string '4048235000404825200052652' to numeric
+

@@ -1,0 +1,66 @@
+# Table information
+
+metadata: 1954 in Brazilian football | Torneio Rio-São Paulo | Torneio Rio-São Paulo
+full table:
+Position_ | Team          | Points | Played | Drawn | Lost | Against | Difference
+---------------------------------------------------------------------------------
+1         | Corinthians   | 14     | 9      | 0     | 2    | 11      | 6         
+2         | Fluminense    | 13     | 9      | 1     | 2    | 8       | 10        
+3         | Palmeiras     | 12     | 9      | 2     | 2    | 11      | 4         
+4         | São Paulo     | 10     | 9      | 2     | 3    | 11      | - 1       
+5         | Vasco da Gama | 9      | 9      | 1     | 4    | 17      | - 3       
+6         | Santos        | 8      | 9      | 0     | 5    | 15      | 1         
+7         | Flamengo      | 7      | 9      | 1     | 5    | 14      | - 4       
+8         | Portuguesa    | 6      | 9      | 0     | 6    | 19      | - 2       
+9         | América       | 6      | 9      | 0     | 6    | 22      | - 4       
+10        | Botafogo      | 6      | 9      | 1     | 6    | 24      | - 7       
+
+# Statement
+In the year 1954 in Brazilian football, there were 0 matches played that had a tie of 2, a position greater than 3, and points less than 10 in the Torneio Rio-São Paulo.
+
+# Response
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "In the year {year} in Brazilian football, there were {match_count} matches played that had a tie of {tie_count}, a position greater than {position_threshold}, and points less than {points_threshold} in the {tournament_name}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        year = row['Year']
+        match_count = ((df['Drawn'] == row['Drawn']) & (df['Position_'] > row['Position_']) & (df['Points'] < row['Points'])).sum()
+        position_threshold = 3
+        points_threshold = 10
+        tie_count = 2
+        tournament_name = "Torneio Rio-São Paulo"
+
+        expanded_statement = statement_pattern.format(year=year, match_count=match_count, tie_count=tie_count, position_threshold=position_threshold, points_threshold=points_threshold, tournament_name=tournament_name)
+        expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```
+
+# Exception
+Traceback (most recent call last):
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Year'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/work/go203302/mtr-lftqa-dataset/expand_statement.py", line 136, in <module>
+    statement_pattern, expanded_statement_list = expand_statement_pattern(
+  File "<string>", line 8, in expand_statement_pattern
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/series.py", line 1121, in __getitem__
+    return self._get_value(key)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Year'
+

@@ -1,0 +1,74 @@
+# Table information
+
+metadata: 1983 NCAA Women's Division I Basketball Tournament | First round | First round
+full table:
+Region     | Host_                                    | Venue                                             | City         | State_        
+-----------------------------------------------------------------------------------------------------------------------------------------
+OR West    | Northeast Louisiana University           | Ewing Coliseum                                    | Monroe       | Louisiana     
+OR East    | Dartmouth College                        | Alumni Gymnasium                                  | Hanover      | New Hampshire 
+OR Mideast | La Salle University                      | Hayman Hall (Tom Gola Arena)                      | Philadelphia | Pennsylvania  
+OR Midwest | Jackson State University                 | Williams Assembly Center                          | Jackson      | Mississippi   
+East       | Old Dominion University                  | Old Dominion University Fieldhouse                | Norfolk      | Virginia      
+East       | University of Maryland, College Park     | Cole Field House                                  | College Park | Maryland      
+East       | Cheyney State University of Pennsylvania | Cope Hall                                         | Cheyney      | Pennsylvania  
+East       | North Carolina State University          | Reynolds Coliseum                                 | Raleigh      | North Carolina
+Mideast    | University of Tennessee                  | Stokely Athletic Center                           | Knoxville    | Tennessee     
+Mideast    | University of Kentucky                   | Memorial Coliseum                                 | Lexington    | Kentucky      
+Mideast    | University of Mississippi                | Tad Smith Coliseum                                | University   | Mississippi   
+Mideast    | University of Georgia                    | Georgia Coliseum (Stegeman Coliseum)              | Athens       | Georgia       
+Midwest    | Kansas State University                  | Ahearn Field House                                | Manhattan    | Kansas        
+Midwest    | Louisiana Tech University                | Thomas Assembly Center                            | Ruston       | Louisiana     
+Midwest    | Auburn University                        | Memorial Coliseum (Beard–Eaves–Memorial Coliseum) | Auburn       | Alabama       
+Midwest    | University of Texas at Austin            | Frank Erwin Center                                | Austin       | Texas         
+West       | California State University, Long Beach  | University Gym (Gold Mine)                        | Long Beach   | California    
+West       | Arizona State University                 | University Activity Center (Wells Fargo Arena)    | Tempe        | Arizona       
+West       | University of Southern California        | Los Angeles Memorial Sports Arena                 | Los Angeles  | California    
+West       | Oregon State University                  | Gill Coliseum                                     | Corvallis    | Oregon        
+
+# Statement
+Northeast Louisiana University is located in Monroe in the first round of the 1983 NCAA Women's Division I Basketball Tournament.
+
+# Statement pattern
+{host_name} is located in {city} in the {round_name} of the {tournament_year} {tournament_name}.
+# Expanded staetments
+Northeast Louisiana University is located in Monroe in the Ewing Coliseum of the OR West.
+Dartmouth College is located in Hanover in the Alumni Gymnasium of the OR East.
+La Salle University is located in Philadelphia in the Hayman Hall (Tom Gola Arena) of the OR Mideast.
+Jackson State University is located in Jackson in the Williams Assembly Center of the OR Midwest.
+Old Dominion University is located in Norfolk in the Old Dominion University Fieldhouse of the East .
+University of Maryland, College Park is located in College Park in the Cole Field House of the East .
+Cheyney State University of Pennsylvania is located in Cheyney in the Cope Hall of the East .
+North Carolina State University is located in Raleigh in the Reynolds Coliseum of the East .
+University of Tennessee is located in Knoxville in the Stokely Athletic Center of the Mideast .
+University of Kentucky is located in Lexington in the Memorial Coliseum of the Mideast .
+University of Mississippi is located in University in the Tad Smith Coliseum of the Mideast .
+University of Georgia is located in Athens in the Georgia Coliseum (Stegeman Coliseum) of the Mideast .
+Kansas State University is located in Manhattan in the Ahearn Field House of the Midwest .
+Louisiana Tech University is located in Ruston in the Thomas Assembly Center of the Midwest .
+Auburn University is located in Auburn in the Memorial Coliseum (Beard–Eaves–Memorial Coliseum) of the Midwest .
+University of Texas at Austin is located in Austin in the Frank Erwin Center of the Midwest .
+California State University, Long Beach is located in Long Beach in the University Gym (Gold Mine) of the West .
+Arizona State University is located in Tempe in the University Activity Center (Wells Fargo Arena) of the West .
+University of Southern California is located in Los Angeles in the Los Angeles Memorial Sports Arena of the West .
+Oregon State University is located in Corvallis in the Gill Coliseum of the West .
+
+# Python code
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "{host_name} is located in {city} in the {round_name} of the {tournament_year} {tournament_name}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        host_name = row['Host_']
+        city = row['City']
+        round_name = row['Venue']
+        tournament_year = row['Region'].split()[0]
+        tournament_name = ' '.join(row['Region'].split()[1:])
+
+        expanded_statement = statement_pattern.format(host_name=host_name, city=city, round_name=round_name, tournament_year=tournament_year, tournament_name=tournament_name)
+        expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```

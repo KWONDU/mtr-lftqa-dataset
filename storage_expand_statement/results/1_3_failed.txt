@@ -1,0 +1,67 @@
+# Table information
+
+metadata: 2009–10 Real Madrid C.F. season | Assists | Assists
+full table:
+R  | Player               | Position_ | League | Champions_League | Copa_del_Rey | Total
+----------------------------------------------------------------------------------------
+1  | Guti                 | AM        | 9      | 1                | 0            | 10   
+2  | Marcelo              | LB        | 9      | 0                | 0            | 9    
+3  | Kaká                 | AM        | 6      | 2                | 0            | 8    
+4  | Cristiano Ronaldo    | WF        | 7      | 0                | 0            | 7    
+4  | Rafael van der Vaart | AM        | 7      | 0                | 0            | 7    
+6  | Esteban Granero      | CM        | 6      | 0                | 0            | 6    
+6  | Gonzalo Higuaín      | CF        | 5      | 1                | 0            | 6    
+8  | Sergio Ramos         | RB        | 5      | 0                | 0            | 5    
+8  | Xabi Alonso          | CM        | 5      | 0                | 0            | 5    
+10 | Karim Benzema        | CF        | 3      | 1                | 0            | 4    
+11 | Ezequiel Garay       | CB        | 3      | 0                | 0            | 3    
+11 | Raúl                 | SS        | 1      | 2                | 0            | 3    
+11 | Álvaro Arbeloa       | FB        | 2      | 0                | 0            | 2    
+11 | Pepe                 | CB        | 0      | 2                | 0            | 2    
+14 | Ruud van Nistelrooy  | CF        | 1      | 0                | 0            | 1    
+14 | Lassana Diarra       | DM        | 1      | 0                | 0            | 1    
+
+# Statement
+For Real Madrid CF season 2009-10, in the Copa Del Rey final, the number of assists for a player in the position of FB is 0.
+
+# Response
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "For {season} in the {competition} final, the number of assists for a player in the position of {position} is {assists_count}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        season = df['Caption'].split(' - ')[0]
+        competition = 'Copa Del Rey'
+        position = 'FB'
+        assists_count = df.loc[(df['Position_'] == position) & (df['Copa_del_Rey'] == 0), 'Total'].values[0]
+        expanded_statement = statement_pattern.format(season=season, competition=competition, position=position, assists_count=assists_count)
+        expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```
+
+# Exception
+Traceback (most recent call last):
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Caption'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/work/go203302/mtr-lftqa-dataset/expand_statement.py", line 136, in <module>
+    statement_pattern, expanded_statement_list = expand_statement_pattern(
+  File "<string>", line 8, in expand_statement_pattern
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Caption'
+

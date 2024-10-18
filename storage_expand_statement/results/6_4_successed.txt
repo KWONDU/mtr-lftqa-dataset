@@ -1,0 +1,37 @@
+# Table information
+
+metadata: List of Intel Pentium Dual-Core microprocessors | ,   (65 nm) | ,   (65 nm)
+full table:
+Model_number            | sSpec_number                         | Frequency | L2_cache | Mult_ | Voltage      | Socket  | Release_date     | Part_numbers   | Release_price_USD_
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pentium Dual-Core E2140 | SLA3J(L2)SLA93(M0)SLALS(G0)          | 1.6 GHz   | 1 MB     | 8×    | 1.162–1.312V | LGA 775 | June 3, 2007     | HH80557PG0251M | $74               
+Pentium Dual-Core E2160 | SLA3H(L2)SLA8Z(M0)SLA9Z(G0)SLASX(G0) | 1.8 GHz   | 1 MB     | 9×    | 1.162–1.312V | LGA 775 | June 3, 2007     | HH80557PG0331M | $84               
+Pentium Dual-Core E2180 | SLA8Y(M0)                            | 2 GHz     | 1 MB     | 10×   | 0.85–1.50V   | LGA 775 | August 26, 2007  | HH80557PG0411M | $84               
+Pentium Dual-Core E2200 | SLA8X(M0)                            | 2.2 GHz   | 1 MB     | 11×   | 0.85–1.50V   | LGA 775 | December 2, 2007 | HH80557PG0491M | $84               
+Pentium Dual-Core E2220 | SLA8W(M0)                            | 2.4 GHz   | 1 MB     | 12×   | 0.85–1.50V   | LGA 775 | March 2, 2008    | HH80557PG0561M | $84               
+
+# Statement
+The L2 cache with a release date of August 26, 2007 in the Intel Pentium Dual-Core (65 nm) microprocessor list is 1 MB.
+
+# Statement pattern
+The L2 cache with a release date of {release_date} in the Intel Pentium Dual-Core (65 nm) microprocessor list is {l2_cache}.
+# Expanded staetments
+The L2 cache with a release date of August 26, 2007 in the Intel Pentium Dual-Core (65 nm) microprocessor list is 1 MB.
+
+# Python code
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "The L2 cache with a release date of {release_date} in the Intel Pentium Dual-Core (65 nm) microprocessor list is {l2_cache}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        if row['Release_date'] == 'August 26, 2007':
+            l2_cache = row['L2_cache']
+            release_date = row['Release_date']
+            expanded_statement = statement_pattern.format(release_date=release_date, l2_cache=l2_cache)
+            expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```

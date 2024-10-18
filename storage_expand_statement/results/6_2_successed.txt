@@ -1,0 +1,38 @@
+# Table information
+
+metadata: List of Intel Pentium Dual-Core microprocessors | ,   (65 nm) | ,   (65 nm)
+full table:
+Model_number            | sSpec_number                         | Frequency | L2_cache | Mult_ | Voltage      | Socket  | Release_date     | Part_numbers   | Release_price_USD_
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pentium Dual-Core E2140 | SLA3J(L2)SLA93(M0)SLALS(G0)          | 1.6 GHz   | 1 MB     | 8×    | 1.162–1.312V | LGA 775 | June 3, 2007     | HH80557PG0251M | $74               
+Pentium Dual-Core E2160 | SLA3H(L2)SLA8Z(M0)SLA9Z(G0)SLASX(G0) | 1.8 GHz   | 1 MB     | 9×    | 1.162–1.312V | LGA 775 | June 3, 2007     | HH80557PG0331M | $84               
+Pentium Dual-Core E2180 | SLA8Y(M0)                            | 2 GHz     | 1 MB     | 10×   | 0.85–1.50V   | LGA 775 | August 26, 2007  | HH80557PG0411M | $84               
+Pentium Dual-Core E2200 | SLA8X(M0)                            | 2.2 GHz   | 1 MB     | 11×   | 0.85–1.50V   | LGA 775 | December 2, 2007 | HH80557PG0491M | $84               
+Pentium Dual-Core E2220 | SLA8W(M0)                            | 2.4 GHz   | 1 MB     | 12×   | 0.85–1.50V   | LGA 775 | March 2, 2008    | HH80557PG0561M | $84               
+
+# Statement
+The part number in the Intel Pentium Dual-Core Microprocessor list with a frequency of 2.4 GHz at 65 nm is HH80557PG0561M.
+
+# Statement pattern
+The part number in the Intel Pentium Dual-Core Microprocessor list with a frequency of {frequency} at {nm} is {part_number}.
+# Expanded staetments
+
+
+# Python code
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "The part number in the Intel Pentium Dual-Core Microprocessor list with a frequency of {frequency} at {nm} is {part_number}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        if row['Frequency'] == '2.4 GHz' and '65 nm' in row['sSpec_number']:
+            frequency = row['Frequency']
+            nm = '65 nm'
+            part_number = row['Part_numbers']
+            expanded_statement = statement_pattern.format(frequency=frequency, nm=nm, part_number=part_number)
+            expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```

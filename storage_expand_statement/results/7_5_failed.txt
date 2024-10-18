@@ -1,0 +1,78 @@
+# Table information
+
+metadata: Marusagar Express | Running timetables | Northern India
+full table:
+Station_Code | Station                  | Arrival | Departure   | Kilometers
+----------------------------------------------------------------------------
+AII          | Ajmer Jn                 | Source  | 07:35       | 0         
+KSG          | Kishangarh               | 08:01   | 08:03       | 29        
+JP           | Jaipur Jn                | 09:50   | 10:05       | 135       
+SWM          | Sawai Madhopur Jn        | 12:05   | 12:20       | 266       
+KOTA         | Kota Jn                  | 13:35   | 13:45       | 374       
+NAD          | Nagda Jn                 | 16:54   | 16:56       | 599       
+RTM          | Ratlam Jn                | 17:30   | 17:50       | 640       
+BRC          | Vadodara Jn              | 22:00   | 22:10       | 902       
+ST           | Surat                    | 00:01   | 00:06       | 1031      
+VAPI         | Vapi                     | 01:16   | 01:18       | 1124      
+BSR          | Vasai Road               | 03:35   | 03:40       | 1246      
+PNVL         | Panvel                   | 05:05   | 05:10       | 1313      
+VEER         | Veer                     | 07:23   | 07:25       | 1456      
+RN           | Ratnagiri                | 09:30   | 09:35       | 1676      
+THVM         | Thivim                   | 11:48   | 11:50       | 1945      
+MAO          | Madgaon Jn               | 13:15   | 13:25       | 2010      
+KAWR         | Karwar                   | 14:16   | 14:18       | 2092      
+GOK          | Gokarna Road             | 14:48   | 14:50       | 2142      
+BTKL         | Bhatkal                  | 16:01   | 16:03       | 2246      
+KUDA         | Kundapura                | 17:06   | 17:08       | 2314      
+UD           | Udupi                    | 17:38   | 17:40       | 2359      
+MAJN         | Mangalore Jn             | 19:05   | 19:15       | 2440      
+KGQ          | Kasaragod                | 19:58   | 20:00       | 2492      
+CAN          | Cannanore (Kannur)       | 21:45   | 21:50       | 2577      
+CLT          | Kozhikode                | 23:30   | 23:35       | 2667      
+SRR          | Shoranur Jn              | 01:40   | 01:45       | 2753      
+TCR          | Thrissur Railway Station | 02:20   | 02:25       | 2785      
+ALY          | Alwaye                   | 03:20   | 03:25       | 2840      
+ERS          | Ernakulam Jn             | 04:20   | Destination | 2859      
+
+# Statement
+The list for the departure which also has a station code of CLT under Marusagar Express North India running timetables is 23:35.
+
+# Response
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "The list for the departure which also has a station code of {station_code} under {caption} {running_timetables} is {departure_time}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        station_code = row['Station_Code']
+        departure_time = df.loc[df['Station_Code'] == 'CLT', 'Departure'].values[0]
+        expanded_statement = statement_pattern.format(station_code=station_code, caption=df['Caption'][0], running_timetables=df['Running timetables'][0], departure_time=departure_time)
+        expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```
+
+# Exception
+Traceback (most recent call last):
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Caption'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/work/go203302/mtr-lftqa-dataset/expand_statement.py", line 136, in <module>
+    statement_pattern, expanded_statement_list = expand_statement_pattern(
+  File "<string>", line 10, in expand_statement_pattern
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Caption'
+

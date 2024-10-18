@@ -1,0 +1,64 @@
+# Table information
+
+metadata: 2008 San Antonio Silver Stars season | WNBA Playoffs | WNBA Playoffs
+full table:
+Date_                         | Opponent                      | Score                         | Leading_Scorer                | Attendance                    | Series                       
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Western Conference Semifinals | Western Conference Semifinals | Western Conference Semifinals | Western Conference Semifinals | Western Conference Semifinals | Western Conference Semifinals
+September 18                  | @ Sacramento                  | 85-78                         | Becky Hammon (30)             | 7740                          | SA leads 1-0                 
+September 20                  | vs. Sacramento                | 67-84                         | Becky Hammon (14)             | 7807                          | Tied 1-1                     
+September 22                  | vs. Sacramento                | 86-81 (OT)                    | Sophia Young (27)             | 4247                          | SA wins 2-1                  
+Western Conference Finals     | Western Conference Finals     | Western Conference Finals     | Western Conference Finals     | Western Conference Finals     | Western Conference Finals    
+September 25                  | @ Los Angeles                 | 70-85                         | Ann Wauters (18)              | 7,102°                        | LA leads 1-0                 
+September 27                  | vs. Los Angeles               | 67-66                         | Sophia Young (21)             | 7715                          | Tied 1-1                     
+September 28                  | vs. Los Angeles               | 76-72                         | Becky Hammon (35)             | 7111                          | SA wins 2-1                  
+WNBA Finals                   | WNBA Finals                   | WNBA Finals                   | WNBA Finals                   | WNBA Finals                   | WNBA Finals                  
+October 1                     | vs. Detroit                   | 69-77                         | Sophia Young (21)             | 9380                          | DET leads 1-0                
+October 3                     | vs. Detroit                   | 61-69                         | Becky Hammon (24)             | 16012                         | DET leads 2-0                
+October 5                     | @ Detroit                     | 60-76                         | Ann Wauters (19)              | 8,952^                        | DET wins 3-0                 
+
+# Statement
+The top scorer of the 2008 Finals Series for the San Antonio Silver Stars Season WNBA Playoffs is WNBA Finals.
+
+# Response
+```python
+import pandas as pd
+
+def expand_statement_pattern(df):
+    statement_pattern = "The top scorer of the {series} for the {caption} is {leading_scorer}."
+    expanded_statement_list = []
+
+    for index, row in df.iterrows():
+        series = row['Series']
+        caption = row['Caption']
+        leading_scorer = df[df['Series'] == series]['Leading_Scorer'].iloc[0]
+        expanded_statement = statement_pattern.format(series=series, caption=caption, leading_scorer=leading_scorer)
+        expanded_statement_list.append(expanded_statement)
+
+    return statement_pattern, expanded_statement_list
+```
+
+# Exception
+Traceback (most recent call last):
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Caption'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/work/go203302/mtr-lftqa-dataset/expand_statement.py", line 136, in <module>
+    statement_pattern, expanded_statement_list = expand_statement_pattern(
+  File "<string>", line 9, in expand_statement_pattern
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/series.py", line 1121, in __getitem__
+    return self._get_value(key)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "/home/go203302/.local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Caption'
+

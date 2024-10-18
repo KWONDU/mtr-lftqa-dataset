@@ -1,0 +1,63 @@
+# Gold table set information
+Table 1:
+metadata: 1988 African Cup of Champions Clubs | Preliminary round | Preliminary round
+full table:
+Team_1            | Agg_ | Team_2               | _1st_leg | _2nd_leg
+---------------------------------------------------------------------
+Manzini Wanderers | 6-1  | Township Rollers     | 2-0      | 4-1     
+CD Elá Nguema     | 0-5  | Etoile du Congo      | 0-1      | 0-4     
+Panthères Noires  | 2-3  | Wagad Mogadishu      | 2-2      | 0-1     
+RL Defence Force  | 2-3  | Sunrise Flacq United | 2-0      | 0-3     
+Sierra Fisheries  | 0-1  | AS Police            | 0-1      | 0-0     
+
+Table 2:
+metadata: 1988 African Cup of Champions Clubs | Second round | Second round
+full table:
+Team_1               | Agg_ | Team_2           | _1st_leg | _2nd_leg
+--------------------------------------------------------------------
+Iwuanyanwu Nationale | 4-3  | Tonnerre Yaoundé | 2-0      | 2-3     
+Africa Sports        | 4-2  | Petro Atlético   | 3-0      | 1-2     
+FAR Rabat            | 6-2  | AS Police        | 5-0      | 1-2     
+Sunrise Flacq United | 3-5  | Matchedje Maputo | 2-0      | 1-5     
+FC 105 Libreville    | 3-2  | FC Inter-Star    | 2-1      | 1-1     
+ES Sahel             | 2-3  | ES Sétif         | 2-1      | 0-2     
+Kabwe Warriors       | 1-3  | Al-Hilal         | 0-0      | 1-3     
+Nakivubo Villa SC    | 3-6  | Al-Ahly          | 2-3      | 1-3     
+
+# NL query list
+Query 1 [Entail to table 1] When the African Cup of Champions Clubs was played in 1988 what was the first leg result when Team 2 Wagad Mogadishu were in the preliminary round?
+Query 2 [Entail to table 1] What is the first leg of African Cup of Champions Clubs 1988 preliminary round if the second leg is 0-4?
+Query 3 [Entail to table 1] What is the first leg of African Cup of Champions Clubs 1988 preliminary round if the second leg is 0-4?
+Query 4 [Entail to table 2] What was the first leg result for the game in which AS Police played as Team 2 in the second round of the 1988 African Champion Clubs' Cup?
+Query 5 [Entail to table 2] Among the clubs in the 1988 Africa Cup of Nations, who was Team 2 in the second round when Team 1 was Iwuanyanwu Nationale and the first leg was 2-0?
+Query 6 [Entail to table 2] Who was the team in the match that drew 3-0 in the first leg and 2-1 in the second leg of the second round of the 1988 African Cup of Nations?
+
+# 2th annotation:
+High-level question: How did the teams in the 1988 African Cup of Champions Clubs perform in the preliminary round, and what were the aggregate scores for each match?
+Annotation difficulty: hard
+Referred statement indices: []
+
+# 3th annotation:
+High-level question: Compare the performance of the teams in the preliminary round of the 1988 African Cup of Champions Clubs based on the first leg results when the second leg was 0-4.
+Annotation difficulty: hard
+Referred statement indices: []
+
+# 4th annotation:
+High-level question: Summarize the results of the preliminary round in the 1988 African Cup of Champions Clubs when the second leg scores were 0-4.
+Annotation difficulty: hard
+Referred statement indices: []
+
+# 5th annotation:
+High-level question: How did the teams in the second round of the 1988 African Cup of Champions Clubs perform in the first leg when AS Police played as Team 2?
+Annotation difficulty: medium
+Referred statement indices: [4]
+
+# 6th annotation:
+High-level question: Analyze the match between Iwuanyanwu Nationale and Tonnerre Yaoundé in the second round of the 1988 African Cup of Champions Clubs, focusing on the first leg result of 2-0.
+Annotation difficulty: medium
+Referred statement indices: [5]
+
+# 7th annotation:
+High-level question: Who were the teams that played in the second round of the 1988 African Cup of Champions Clubs, where the first leg ended in a 3-0 draw and the second leg was 2-1?
+Annotation difficulty: medium
+Referred statement indices: [6]

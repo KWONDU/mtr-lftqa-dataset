@@ -1,0 +1,101 @@
+# Gold table set information
+Table 1:
+metadata: 2009–10 Real Madrid C.F. season | Assists | Assists
+full table:
+R  | Player               | Position_ | League | Champions_League | Copa_del_Rey | Total
+----------------------------------------------------------------------------------------
+1  | Guti                 | AM        | 9      | 1                | 0            | 10   
+2  | Marcelo              | LB        | 9      | 0                | 0            | 9    
+3  | Kaká                 | AM        | 6      | 2                | 0            | 8    
+4  | Cristiano Ronaldo    | WF        | 7      | 0                | 0            | 7    
+4  | Rafael van der Vaart | AM        | 7      | 0                | 0            | 7    
+6  | Esteban Granero      | CM        | 6      | 0                | 0            | 6    
+6  | Gonzalo Higuaín      | CF        | 5      | 1                | 0            | 6    
+8  | Sergio Ramos         | RB        | 5      | 0                | 0            | 5    
+8  | Xabi Alonso          | CM        | 5      | 0                | 0            | 5    
+10 | Karim Benzema        | CF        | 3      | 1                | 0            | 4    
+11 | Ezequiel Garay       | CB        | 3      | 0                | 0            | 3    
+11 | Raúl                 | SS        | 1      | 2                | 0            | 3    
+11 | Álvaro Arbeloa       | FB        | 2      | 0                | 0            | 2    
+11 | Pepe                 | CB        | 0      | 2                | 0            | 2    
+14 | Ruud van Nistelrooy  | CF        | 1      | 0                | 0            | 1    
+14 | Lassana Diarra       | DM        | 1      | 0                | 0            | 1    
+
+Table 2:
+metadata: 2009–10 Real Madrid C.F. season | Goals | Goals
+full table:
+R  | Player               | Position_ | League | Champions_League | Copa_del_Rey | Total
+----------------------------------------------------------------------------------------
+1  | Cristiano Ronaldo    | WF        | 26     | 7                | 0            | 33   
+2  | Gonzalo Higuaín      | CF        | 27     | 2                | 0            | 29   
+3  | Kaká                 | AM        | 8      | 1                | 0            | 9    
+3  | Karim Benzema        | CF        | 8      | 1                | 0            | 9    
+5  | Rafael van der Vaart | AM        | 6      | 0                | 1            | 7    
+5  | Raúl                 | SS        | 5      | 2                | 0            | 7    
+7  | Marcelo              | LB        | 4      | 0                | 0            | 4    
+7  | Sergio Ramos         | RB        | 4      | 0                | 0            | 4    
+9  | Guti                 | AM        | 2      | 1                | 0            | 3    
+9  | Esteban Granero      | CM        | 3      | 0                | 0            | 3    
+9  | Xabi Alonso          | CM        | 3      | 0                | 0            | 3    
+12 | Álvaro Arbeloa       | FB        | 2      | 0                | 0            | 2    
+13 | Raúl Albiol          | CB        | 0      | 1                | 0            | 1    
+13 | Ezequiel Garay       | CB        | 1      | 0                | 0            | 1    
+13 | Lassana Diarra       | DM        | 1      | 0                | 0            | 1    
+13 | Pepe                 | CB        | 1      | 0                | 0            | 1    
+13 | Ruud van Nistelrooy  | CF        | 1      | 0                | 0            | 1    
+
+# NL query list
+Query 1 [Entail to table 1] If the total is 6, what is the maximum R for Real Madrid CF 2009/10 season in assists stats?
+Query 2 [Entail to table 1] If the player is Marcelo, what is the minimum R for Real Madrid CF assists in 2009-10 season?
+Query 3 [Entail to table 1] If position is FB what is Copa Del Rey final for Real Madrid CF season 2009-10 assists?
+Query 4 [Entail to table 1] If the player is Marcelo what is the position of Real Madrid CF assists in 2009/10 season?
+Query 5 [Entail to table 1] If the position is AM and the league is greater than 7.0, what is Real Madrid CF's total number of assists for the 2009-10 season?
+Query 6 [Entail to table 1] What is the maximum possible Copa Del Rey for Real Madrid CF's 2009-10 season assistants?
+Query 7 [Entail to table 2] What are the fewest goals scored by Sergio Ramos in Real Madrid CF in the 2009/10 season?
+Query 8 [Entail to table 2] What are the fewest goals and opponents in the Copa del Rey in Real Madrid CF in the 2009/10 season?
+Query 9 [Entail to table 2] In 2009/10 season was the name of Real Madrid CF goals most Copa del Rey for Karim Benzema?
+
+# 2th annotation:
+High-level question: How do the assist and goal statistics of Real Madrid C.F. in the 2009-10 season compare in terms of player performance and position played?
+Annotation difficulty: hard
+Referred statement indices: []
+
+# 3th annotation:
+High-level question: What insights can be drawn from the distribution of assists and goals among the players of Real Madrid C.F. in the 2009-10 season?
+Annotation difficulty: hard
+Referred statement indices: []
+
+# 4th annotation:
+High-level question: Compare the performance of Real Madrid C.F. players in the 2009-10 season based on their assists and goals, and analyze the differences in positions played.
+Annotation difficulty: hard
+Referred statement indices: []
+
+# 5th annotation:
+High-level question: How did the total assists and goals vary for Real Madrid C.F. players in the 2009-10 season, and what positions were most effective in each category?
+Annotation difficulty: medium
+Referred statement indices: [1, 2]
+
+# 6th annotation:
+High-level question: Analyze the relationship between the league and position played by Real Madrid C.F. players in the 2009-10 season, focusing on the total assists and goals.
+Annotation difficulty: medium
+Referred statement indices: [5]
+
+# 7th annotation:
+High-level question: What were the highest and lowest assist and goal numbers for Real Madrid C.F. players in the 2009-10 season, and which players achieved these statistics?
+Annotation difficulty: medium
+Referred statement indices: [1, 2]
+
+# 8th annotation:
+High-level question: How did the performance of Real Madrid C.F. players in the 2009-10 season vary in terms of goals scored, and who scored the fewest goals?
+Annotation difficulty: easy
+Referred statement indices: [7]
+
+# 9th annotation:
+High-level question: What were the lowest goal numbers and the respective opponents in the Copa del Rey for Real Madrid C.F. in the 2009-10 season?
+Annotation difficulty: easy
+Referred statement indices: [8]
+
+# 10th annotation:
+High-level question: Which player scored the most goals in the Copa del Rey for Real Madrid C.F. in the 2009-10 season?
+Annotation difficulty: easy
+Referred statement indices: [9]
