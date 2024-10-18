@@ -1,4 +1,5 @@
 import json
+from itertools import product
 from utils.display import table_serialization
 
 
@@ -13,10 +14,10 @@ def get_annotate_questions_task_shots():
             "# Gold table set information",
             "\n".join(
                 table_serialization(
-                    table_num = tdx + 1,
-                    metadata = table['metadata'],
-                    header = table['header'],
-                    cell = table['cell']
+                    table_num=tdx + 1,
+                    metadata=table['metadata'],
+                    header=table['header'],
+                    cell=table['cell']
                 ) # Table 1. TEXT
                 for tdx, table in enumerate(shot['gold_table_set'])
             ), # Table 1 ~ ith
@@ -50,6 +51,31 @@ def get_annotate_questions_task_shots():
         ])
         for idx, shot in enumerate(sampled_shots)
     )
+
+
+def get_annotate_sub_answer_task_shots():
+    sampled_shots = SHOTS
+
+    return "\n".join([
+        "\n".join([
+            f"## Example {idx + 1}",
+            "# Table information",
+            table_serialization(
+                table_num=-1,
+                metadata=shot['gold_table_set'][0]['metadata'],
+                header=shot['gold_table_set'][0]['header'],
+                cell=shot['gold_table_set'][0]['cell']
+            ),
+            "",
+            "# Question",
+            shot['annotation'][-1]['question'],
+            "",
+            "# Output",
+            shot['annotation'][-1]['sub_answer'],
+            ""
+        ])
+        for idx, shot in enumerate(sampled_shots)
+    ])
 
 
 if __name__ == 'get_shots':

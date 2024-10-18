@@ -320,7 +320,8 @@
                 "question": "What are the key roles and players on the offensive and defensive teams in the 2007 Kentucky Wildcats Football Team?",
                 "answer": "In the 2007 Kentucky Wildcats Football Team, the offensive team is responsible for advancing the ball and scoring points. Key players on offense include quarterback Andre Woodson, who played all 13 games, and wide receivers Keenan Burton and Steve Johnson, both seniors, who contributed significantly to the team’s passing game. The defensive team, on the other hand, focuses on stopping the opponent’s offense and preventing scoring. Key defensive players include linebacker Wesley Woodyard, who played all 13 games, and defensive end Jeremy Jarmon, who led the defensive line. Both teams have a mix of senior leadership and underclassmen talent, contributing to the team’s overall performance.",
                 "difficulty": "hard",
-                "reference": []
+                "reference": [],
+                "sub_answer": "In the 2007 Kentucky Wildcats Football Team, the offensive team is responsible for advancing the ball and scoring points. Key players on offense include quarterback Andre Woodson, who played all 13 games, and wide receivers Keenan Burton and Steve Johnson, both seniors, who contributed significantly to the team’s passing game."
             }
         ]
     },
@@ -571,7 +572,8 @@
                 "question": "Summarize the basic information of the airports that appear in both cargo throughput ranking and passenger traffic ranking about the busiest airports in the United States.",
                 "answer": "The airports that appear in both tables are John F. Kennedy International Airport, Miami International Airport, Los Angeles International Airport, Newark Liberty International Airport, and O’Hare International Airport. John F. Kennedy International Airport (JFK) is located in Queens, New York. It is ranked 6th in terms of cargo handled, with 1,348,992 tonnes in 2010/11 and a 0.5% increase. For passenger traffic, it is ranked 1st, handling 22,702,882 passengers in 2009/10 with a 5.8% increase. Miami International Airport (MIA) is located in Miami, Florida. It is ranked 4th for cargo, handling 1,841,929 tonnes in 2010/11 with a 0.3% increase. For passenger traffic, it is ranked 2nd, with 16,207,353 passengers in 2009/10, showing a 5.3% increase. Los Angeles International Airport (LAX) is located in Los Angeles, California. It is ranked 5th for cargo, handling 1,681,611 tonnes in 2010/11 with a 3.8% increase. For passengers, it is ranked 3rd, with 15,505,566 passengers in 2009/10, showing a 4.7% increase. Newark Liberty International Airport (EWR) is located in Newark, New Jersey. It is ranked 9th for cargo, handling 813,209 tonnes in 2010/11 with a 5.0% increase. For passengers, it is ranked 4th, handling 11,372,186 passengers in 2009/10, with a 6.6% increase. O’Hare International Airport (ORD) is located in Chicago, Illinois. It is ranked 7th for cargo, handling 1,311,622 tonnes in 2010/11 with a 4.7% increase. For passengers, it is ranked 5th, with 10,426,287 passengers in 2009/10, showing a 2.5% increase.",
                 "difficulty": "hard",
-                "reference": []
+                "reference": [],
+                "sub_answer": "Memphis International Airport (MEM) is located in Memphis, Tennessee. It is ranked 1st in terms of cargo handled, with 3,916,410 tonnes in 2010/11 and no change in percentage from the previous year. Ted Stevens Anchorage International Airport (ANC) is located in Anchorage, Alaska. It is ranked 2nd with 2,543,105 tonnes of cargo handled in 2010/11, showing a 3.9% increase. Louisville International Airport (SDF) is located in Louisville, Kentucky, and ranks 3rd, handling 2,188,422 tonnes of cargo with a 1.0% increase. Miami International Airport (MIA) is located in Miami, Florida, and is ranked 4th with 1,841,929 tonnes of cargo and a 0.3% increase. Los Angeles International Airport (LAX) is located in Los Angeles, California. It ranks 5th, handling 1,681,611 tonnes of cargo with a 3.8% increase. John F. Kennedy International Airport (JFK) is located in Queens, New York. It is ranked 6th in terms of cargo handled, with 1,348,992 tonnes in 2010/11 and a 0.5% increase. For passenger traffic, it is ranked 1st, handling 22,702,882 passengers in 2009/10 with a 5.8% increase. O’Hare International Airport (ORD) is located in Chicago, Illinois, and is ranked 7th, handling 1,311,622 tonnes of cargo with a 4.7% increase. Indianapolis International Airport (IND) is ranked 8th, handling 971,664 tonnes of cargo with a 4.0% increase. Newark Liberty International Airport (EWR) is located in Newark, New Jersey. It ranks 9th with 813,209 tonnes of cargo and a 5.0% increase."
             }
         ]
     },
@@ -855,7 +857,8 @@
                 "question": "How did Strikeforce’s number of events and average viewership change between 2008 and 2009, and what does this indicate about the organization’s growth?",
                 "answer": "Between 2008 and 2009, Strikeforce saw growth both in the number of events and in average viewership. In 2008, Strikeforce held 8 events, with an average viewership of about 6,900. By 2009, the number of events increased to 10, and the average viewership also rose to approximately 7,085. This indicates a positive trend, with Strikeforce not only expanding its event count but also attracting a larger audience on average, reflecting the organization’s growing popularity and reach during this period.",
                 "difficulty": "hard",
-                "reference": []
+                "reference": [],
+                "sub_answer": "In 2008, Strikeforce held 8 events, with an average viewership of about 6,900."
             }
         ]
     },
@@ -1183,7 +1186,8 @@
                 "difficulty": "medium",
                 "reference": [
                     2
-                ]
+                ],
+                "sub_answer": "The fastest time and the slowest time in the Men's 100 metre breaststroke final at the 2016 Summer Olympics was 57.13 seconds by Adam Peaty and 59.85 seconds by Dmitriy Balandin, respectively."
             }
         ]
     },
@@ -1543,7 +1547,8 @@
                 "question": "Which program was more popular based on the viewership numbers, One Tree Hill Season 5 and Hot In Cleveland Season 1?",
                 "answer": "Based on the viewership numbers, Hot In Cleveland Season 1 seems to have been more popular than One Tree Hill Season 5. The highest viewership for Hot In Cleveland Season 1 was 4.75 million viewers for the episode \"Pilot\", while One Tree Hill Season 5’s highest was 3.57 million for the episode \"Racing Like A Pro\". Hot In Cleveland Season 1 also had a higher average viewership, with most episodes hovering around 3.1 million viewers, whereas One Tree Hill Season 5 averaged closer to 2.9 million viewers. The lowest viewership for Hot In Cleveland Season 1 was 2.44 million for \"Meet The Parents\", which was still higher than One Tree Hill Season 5's lowest, which was 2.29 million for the episode \"Cryin' Won’t Help You Now\". Overall, Hot In Cleveland Season 1 maintained a larger audience throughout its run, indicating its higher popularity compared to One Tree Hill Season 5.",
                 "difficulty": "hard",
-                "reference": []
+                "reference": [],
+                "sub_answer": "The highest viewership for One Tree Hill Season 5 was 3.57 million for the episode \"Racing Like A Pro\". One Tree Hill Season 5 had an average viewership of approximately 2.9 million viewers. The lowest viewership for One Tree Hill Season 5 was 2.29 million for the episode \"Cryin' Won’t Help You Now\"."
             }
         ]
     },
@@ -1972,7 +1977,8 @@
                 "question": "What can the distribution of nicknames in each Kansas Collegiate, Mid-West, and Pennsylvania State Athletic Conferences tell us about the characteristics of each state?",
                 "answer": "The nicknames of the institutions provide some insight into the characteristics of each state. In Kansas, many nicknames reflect the state’s cultural heritage and agricultural roots. For example, Bethany College’s “Swedes” highlights the Swedish heritage of the town of Lindsborg, while Bethel College’s “Threshers” refers to farming practices. Southwestern College’s “Moundbuilders” connects to the Native American history in the region. Kansas institutions also use traditional animal mascots like “Falcons,” “Coyotes,” and “Bulldogs,” which emphasize strength and agility, common themes in sports. In Illinois, many institutions in the Mid-West Athletic Conference use animal mascots like “Jaguars,” “Lynx,” “Cobras,” and “Hawks,” symbolizing power, speed, and sharpness. These reflect qualities often associated with competitive sports. Additionally, nicknames like “Trail Blazers” and “Trailblazers” emphasize the pioneering spirit and historical significance of the Midwest as a region of exploration and industry. In Pennsylvania, the institutions in the Pennsylvania State Athletic Conference showcase a mix of traditional animal mascots and mythological references. Schools like Bloomsburg University with “Huskies” and Clarion University with “Golden Eagles” emphasize the state’s rich wildlife. The use of “Golden” in nicknames like “Golden Rams” and “Golden Bears” suggests a focus on excellence and achievement. Mythological figures like “Griffins” and “Vulcans” reflect Pennsylvania’s deep cultural and historical heritage, adding a sense of tradition and strength to their identities.",
                 "difficulty": "hard",
-                "reference": []
+                "reference": [],
+                "sub_answer": "The nicknames of the institutions provide some insight into the characteristics of each state. In Kansas, many nicknames reflect the state’s cultural heritage and agricultural roots. For example, Bethany College’s “Swedes” highlights the Swedish heritage of the town of Lindsborg, while Bethel College’s “Threshers” refers to farming practices. Southwestern College’s “Moundbuilders” connects to the Native American history in the region. Kansas institutions also use traditional animal mascots like “Falcons,” “Coyotes,” and “Bulldogs,” which emphasize strength and agility, common themes in sports."
             }
         ]
     }
