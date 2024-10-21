@@ -1,19 +1,19 @@
 from typing import Any, List, Optional
 
 
-def table_visualization(table_num: int, title: Optional[str]=None, header: Optional[List[str]]=None, cell: Optional[List[List[Any]]]=None) -> str:
+def table_visualization(table_num: int, metadata: Optional[str]=None, header: Optional[List[str]]=None, cell: Optional[List[List[Any]]]=None) -> str:
     """Visualize table in specified format
 
     e.g.
     Table 1:
-    title: title
+    metadata: metadata
     col1  | col2  | ...
     -------------------
     cell1 | cell2 | ...
 
     [Params]
     table_num : int
-    title     : str
+    metadata     : str
     header    : List[str]
     cell      : List[List[Any]]
 
@@ -21,7 +21,7 @@ def table_visualization(table_num: int, title: Optional[str]=None, header: Optio
     visualization : str
     """
     visualization = f"Table {table_num}:" if table_num >= 0 else ""
-    visualization = "\n".join([visualization, f"title: {title}"]) if title else ""
+    visualization = "\n".join([visualization, f"metadata: {metadata}"]) if metadata else ""
 
     header = header or []
     cell = cell or [['' for _ in range(len(header))]]

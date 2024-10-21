@@ -1,5 +1,4 @@
 import json
-from itertools import product
 from utils.display import table_serialization
 
 
@@ -10,8 +9,8 @@ def get_annotate_questions_task_shots():
 
     return "\n".join(
         "\n".join([
-            f"## Example {idx + 1}",
-            "# Gold table set information",
+            f"**Example {idx + 1}**",
+            "- **Gold table set information**",
             "\n".join(
                 table_serialization(
                     table_num=tdx + 1,
@@ -22,7 +21,7 @@ def get_annotate_questions_task_shots():
                 for tdx, table in enumerate(shot['gold_table_set'])
             ), # Table 1 ~ ith
             "",
-            "# NL query list",
+            "- **NL query list**",
             "\n".join([
                 (
                     f"Query {data['idx']} [Entail to table "
@@ -31,13 +30,13 @@ def get_annotate_questions_task_shots():
                         for tdx, gold_table_id in enumerate([table['id'] for table in shot['gold_table_set']])
                         if gold_table_id in data['entailed_table_id_set']
                     ])
-                    + f"] {data['nl_query']}"
+                    + f"]: {data['nl_query']}"
 
                 ) # NL query 1 [Table 1] TEXT
                 for _, data in enumerate(shot['data_list'])
             ]), # NL query 1 ~ ith
             "",
-            "# Output",
+            "- **Output**:",
             "\n".join([
                 "\n".join([
                     f"Annotated question {ddx + 1}:",
@@ -65,7 +64,7 @@ def get_expand_statement_task_shots():
             f"\t- **First Row**: {' | '.join(shot['gold_table_set'][0]['cell'][0])}",
             "",
             "- **Statement**:",
-            f"\t{shot['data_list'][0]['short_statement']}",
+            shot['data_list'][0]['short_statement'],
             "",
             "- **Python code**:",
             shot['data_list'][0]['python_code'],

@@ -1,33 +1,30 @@
 import asyncio
 import json
-import numpy as np
-import pandas as pd
-import random
 import re
 import traceback
 from tqdm import tqdm
 from tqdm.asyncio import tqdm_asyncio
-from utils.dataset import load_source_dataset
-from utils.display import table_serialization, table_visualization
+from typing import Any, Dict, List, Tuple
+from utils.display import clear_storage, table_serialization, table_visualization
 from utils.openai import get_async_openai_response, load_prompt, save_prompt
-from get_shots import get_annotate_questions_task_shots
 
 
-def clear_storage(storage_path):
-    import glob
-    import os
+async def annotate_questions_task(
+        semaphore: asyncio.Semaphore,
+        model_input: List[Dict[str, Any]],
+        model_name: str
+    ) -> Tuple[List[Dict[str, Any]], int]:
+    """OpenAI response: annotate questions
 
-    storage_memory = glob.glob(os.path.join(storage_path, '*.txt'))
-    for memory in storage_memory:
-        try:
-            os.remove(memory)
-        except:
-            continue
-    
-    return "[Done] clear storage."
-    
+    [Params]
+    semaphore   : asyncio.Semaphore
+    model_input : List[Dict[str, Any]]
+    model_name  : str
 
-async def annotate_questions_task(semaphore, model_input, model_name):
+    [Return]
+    model_output_list : List[Dict[str, Any]]
+    cost              : int
+    """
     tasks = [
         get_async_openai_response(
             semaphore=semaphore,
@@ -50,7 +47,7 @@ async def annotate_questions_task(semaphore, model_input, model_name):
                             str(entailed_table_index + 1)
                             for entailed_table_index in entailed_table_indices
                         ])
-                        + f"] {nl_query}"
+                        + f"]: {nl_query}"
                     )
                     for ddx, (entailed_table_indices, nl_query) in enumerate(zip(input_data['entailed_table_indices_list'], input_data['nl_query_list']))
                 ])
@@ -63,7 +60,7 @@ async def annotate_questions_task(semaphore, model_input, model_name):
 
     model_output_list = []
 
-    for task in tqdm_asyncio.as_completed(tasks, desc='Get OpenAI responses...'):
+    for task in tqdm_asyncio.as_completed(tasks, desc=f"[{'OpenAI':<7}]"):
         model_output = await task
         model_output_list.append(model_output)
     
@@ -76,24 +73,41 @@ async def annotate_questions_task(semaphore, model_input, model_name):
     return sorted(model_output_list, key=lambda x: x['key']), cost
 
 
-MODEL_NAME = 'gpt-3.5-turbo'
+def annotate_questions(
+        table_lake: Dict[str, Dict[str, Any]],
+        instance_set: List[Dict[str, Any]],
+        load_shot: object,
+        model_name: str,
+        semaphore: asyncio.Semaphore
+    ) -> Tuple[List[Dict[str, Any]], int, int, int]:
+    """Task: annotate questions
 
+    [Params]
+    table_lake   : Dict[str, Dict[str, Any]]
+    instance_set : List[Dict[str, Any]]
+    load_shot    : object
+    model_name   : str
+    semaphore    : asyncio.Semaphore
 
-if __name__ == '__main__':
-    ds = load_source_dataset(dataset_name='SourceWikipedia')
-
-    table_lake = {tb['id']: tb for tb in ds.tables}
-
-    random.seed(42)
-    N = 10
-    instance_set = random.sample(ds[:], N)
-
-    high_level_question_set = [{'gold_table_id_set': instance['gold_table_id_set'], 'question_list': []} for instance in instance_set] # Output
+    [Returns]
+    high_level_question_set : List[Dict[str, Any]]
+    success_cnt             : int
+    fail_cnt                : int
+    cost                    : int
+    """
+    # Initalization and setup
+    high_level_question_set = [
+        {
+            'gold_table_id_set': instance['gold_table_id_set'], 
+            'question_list': []
+        } for instance in instance_set
+    ]
 
     for role in ['system', 'user']:
         task = 'annotate_questions'
         save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
 
+    # Main task
     model_input = []
     for idx, instance in enumerate(instance_set):
         gold_table_set = [table_lake[t_id] for t_id in instance['gold_table_id_set']]
@@ -111,22 +125,21 @@ if __name__ == '__main__':
             ],
             'nl_query_list': [data['nl_query'] for data in data_list],
             'key': idx,
-            'shots': get_annotate_questions_task_shots()
+            'shots': load_shot()
         })
     
-    semaphore = asyncio.Semaphore(100)
     task_output_list, cost = asyncio.run(annotate_questions_task(
         semaphore=semaphore,
         model_input=model_input,
-        model_name=MODEL_NAME
+        model_name=model_name
     ))
 
-    ### CLEAR STORAGE ###
-    print(clear_storage('storage_annotate_questions/results'))
-    ### CLEAR STORAGE ###
+    # Clear
+    clear_storage(storage_path='results/buffer/annotate_questions', extension='txt')
 
+    # Storage
     success_cnt, fail_cnt = 0, 0
-    for task_output in tqdm(task_output_list, desc='Get high-level questions...'):
+    for task_output in tqdm(task_output_list, desc=f"[{'Storage':<7}]"):
         idx = task_output['key']
 
         file_buffer = "# Gold table set information"
@@ -152,7 +165,7 @@ if __name__ == '__main__':
                     for table_index, table_id in enumerate(instance_set[idx]['gold_table_id_set'])
                     if table_id in data['entailed_table_id_set']
                 ])
-                + f"] {data['nl_query']}"
+                + f"]: {data['nl_query']}"
             ])
         file_buffer = "\n".join([file_buffer, ""])
 
@@ -170,7 +183,7 @@ if __name__ == '__main__':
                 file_buffer = "\n".join([
                     file_buffer,
                     "\n".join([
-                        f"# {int(qdx) + 1}th annotation:",
+                        f"# {qdx}th annotation:",
                         f"High-level question: {question}",
                         f"Annotation difficulty: {diff}",
                         f"Referred statement indices: {ref}",
@@ -179,7 +192,7 @@ if __name__ == '__main__':
                 ])
 
             success_cnt += 1
-            with open(f'storage_annotate_questions/results/{idx+1}_successed.txt', 'w') as file:
+            with open(f'results/buffer/annotate_questions/{idx+1}_successed.txt', 'w') as file:
                 file.write(file_buffer)
         
         except:
@@ -194,19 +207,11 @@ if __name__ == '__main__':
             ])
 
             fail_cnt += 1
-            with open(f'storage_annotate_questions/results/{idx+1}_failed.txt', 'w') as file:
+            with open(f'results/buffer/annotate_questions/{idx+1}_failed.txt', 'w') as file:
                 file.write(file_buffer)
-    
-    print("[Done] Annotate questions.")
 
-    with open('storage_annotate_questions/high_level_question_set.json', 'w') as file:
-        json.dump(high_level_question_set, file, indent=4)
-
-    ### BUFFER ###
-    with open('storage_annotate_questions/buffer.json', 'w') as file:
+    # Buffer
+    with open('results/buffer/annotate_questions.json', 'w') as file:
         json.dump(task_output_list, file, indent=4)
-    ### BUFFER ###
 
-    print(f"Cost: ${cost:.2f}")
-
-    print(f"Success: {success_cnt}  |   Fail: {fail_cnt}")
+    return high_level_question_set, success_cnt, fail_cnt, cost

@@ -5,33 +5,7 @@
 ## Package 'utils'
 
     utils
-        .dataset
-            .AbstractDataset
-            .add_huggingface_access_token(token) -> token
-            .load_dataset(dataset_name) -> dataset
-            .load_source_dataset(dataset_name) -> source_dataset
-            .save_dataset(dataset, dataset_name) -> [pkl_file_list]
-            .save_source_dataset(dataset_name) -> [pkl_file_list]
-        .display
-            .table_serialization(table_num, metadata, header, cell) -> table_serialization
-            .table_visualization(table_num, metadata, header, cell) -> table_visualization
-        .openai
-            .add_openai_api_key(api_key) -> api_key
-            .get_async_openai_response(semaphore, system_prompt, user_prompt, model_name, key)
-                -> Dict(
-                    'system_prompt',
-                    'user_prompt',
-                    'response',
-                    'input_tokens_cost',
-                    'output_tokens_cost',
-                    'key'
-                )
-            .load_llm(model_name) -> llm
-            .load_openai_api_key() -> openai_api_key
-            .load_prompt(role, task) -> prompt
-            .remove_prompt(role, task) -> bool
-            .save_prompt(file_path, role, task) -> {role: task}
-            .view_prompt_list() -> {role: [task_list], ...}
+        TBD
 
 ## .gitignore
 
@@ -39,8 +13,8 @@
     *__pycache__
     *.yaml
     *temp*
-    *buffer/*
-    !*/.gitkeep
+    */buffer/*.json
+    */buffer/*/*.txt
 
 ### utils/.gitignore
 
@@ -53,7 +27,7 @@
 
 ## 1. Setup
 
-    pip install -r requirements.txt
+    TBD
 
 ### 1.1 Setup token/key
 

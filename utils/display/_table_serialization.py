@@ -1,15 +1,15 @@
 from typing import Any, List, Optional
 
 
-def table_serialization(table_num: int, title: Optional[str]=None, header: Optional[List[str]]=None, cell: Optional[List[List[Any]]]=None) -> str:
+def table_serialization(table_num: int, metadata: Optional[str]=None, header: Optional[List[str]]=None, cell: Optional[List[List[Any]]]=None) -> str:
     """Serialize table in specified format
 
     e.g.
-    Table 1 [title]: title [header]: col1 | col2 ... [row1]: cell1 | cell2 ...
+    Table 1 [title]: metadata [header]: col1 | col2 ... [row1]: cell1 | cell2 ...
 
     [Params]
     table_num : int
-    title     : str
+    metadata     : str
     header    : List[str]
     cell      : List[List[Any]]
 
@@ -18,7 +18,7 @@ def table_serialization(table_num: int, title: Optional[str]=None, header: Optio
     """
     serialization = f"Table {table_num}" if table_num > 0 else ""
     
-    serialization = " ".join([serialization, f"[title]: {title}"]) if title else ""
+    serialization = " ".join([serialization, f"[title]: {metadata}"]) if metadata else ""
     
     if header is not None:
         serialize_header = " | ".join([str(_) for _ in header])

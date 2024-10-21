@@ -1,2 +1,3 @@
+from ._clear_storage import clear_storage
 from ._table_serialization import table_serialization
 from ._table_visualization import table_visualization
