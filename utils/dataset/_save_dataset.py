@@ -1,8 +1,18 @@
 import dill
+from typing import List
 from ._dir import current_dir
 
 
-def save_dataset(dataset, dataset_name):
+def save_dataset(dataset: object, dataset_name: str) -> List[str]:
+    """Save dataset
+
+    [Params]
+    dataset      : object
+    dataset_name : str
+
+    [Return]
+    file_path_list : List[str]
+    """
     chunk_size = 50_000_000
     # mb_size = chunk_size / pow(2, 30)
 

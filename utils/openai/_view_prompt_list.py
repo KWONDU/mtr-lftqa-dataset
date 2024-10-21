@@ -1,8 +1,17 @@
 import os
+from typing import Dict, List
 from ._dir import current_dir
 
 
-def view_prompt_list():
+def view_prompt_list() -> Dict[str, List[str]]:
+    """Get all stored prompt list
+
+    e.g.
+    {asssitant: [task1, task2, ...], ...}
+
+    [Return]
+    prompt_list : Dict[str, List[str]]
+    """
     prompt_list = {}
 
     for path, roles, tasks in os.walk(f'{current_dir}/_prompt'):

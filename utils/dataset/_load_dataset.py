@@ -1,9 +1,18 @@
 import dill
 import glob
+from typing import Union
 from ._dir import current_dir
 
 
-def load_dataset(dataset_name):
+def load_dataset(dataset_name: str) -> Union[object, None]:
+    """Load dataset
+
+    [Param]
+    dataset_name: str
+
+    [Return]
+    dataset : Union[object, None]
+    """
     processed_dataset_name = dataset_name.replace('-', '').lower()
 
     try:

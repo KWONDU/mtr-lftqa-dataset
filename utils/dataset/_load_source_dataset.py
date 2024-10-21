@@ -1,9 +1,18 @@
 import dill
 import glob
+from typing import Literal, Union
 from ._dir import current_dir
 
 
-def load_source_dataset(dataset_name):
+def load_source_dataset(dataset_name: Literal['SourceDB', 'SourceWikipedia']) -> Union[object, None]:
+    """Load source dataset
+
+    [Param]
+    dataset_name: Literal['SourceDB', 'SourceWikipedia']
+
+    [Return]
+    dataset : Union[object, None]
+    """
     processed_dataset_name = dataset_name.replace('-', '').lower()
     if processed_dataset_name.find('source') < 0:
         return None
