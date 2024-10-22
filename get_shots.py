@@ -74,6 +74,14 @@ def get_expand_statement_task_shots():
     ])
 
 
+def get_annotate_answer_task_shots():
+    None
+
+
+def get_validate_task_shots():
+    None
+
+
 if __name__ == 'get_shots':
     with open('shots/shots.json', 'r') as file:
         SHOTS = json.load(file)

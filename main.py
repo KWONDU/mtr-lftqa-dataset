@@ -71,10 +71,79 @@ def main(dataset_name, sample_n, logger):
     ### STEP 2.5 ###
 
     ### STEP 3 ###
+    if FLAG[3]:
+        from annotate_answer import annotate_answer
+        from get_shots import get_annotate_answer_task_shots
+
+        logger.info("> Step 3")
+        logger.info(f"[{'Start':<7}]: annotate answer.")
+        high_level_qa_pair_set, success_cnt, fail_cnt, cost = annotate_answer(
+            table_lake=table_lake,
+            load_shot=get_annotate_answer_task_shots,
+            model_name=MODEL_NAME,
+            semaphore=semaphore
+        )
+
+        with open('results/storage/high_level_qa_pair_set.json', 'w') as file:
+            json.dump(high_level_qa_pair_set, file, indent=4)
+        
+        logger.info(f"[{'Done':<7}]: annotate answer.")
+        logger.info(f"[{'Cost':<7}]: ${cost:.2f}")
+        logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
     ### STEP 3 ###
 
     ### STEP 4 ###
+    if FLAG[4]:
+        from validate import validate
+        from get_shots import get_validate_task_shots
+    
+        logger.info("> Step 4")
+        logger.info(f"[{'Start':<7}]: validate.")
+        high_level_qa_pair_set_with_score, success_cnt, fail_cnt, cost = validate(
+            table_lake=table_lake,
+            load_shot=get_validate_task_shots,
+            model_name=MODEL_NAME,
+            semaphore=semaphore
+        )
+
+        with open('results/storage/high_level_qa_pair_set_with_score.json', 'w') as file:
+            json.dump(high_level_qa_pair_set_with_score, file, indent=4)
+
+        logger.info(f"[{'Done':<7}]: validate.")
+        logger.info(f"[{'Cost':<7}]: ${cost:.2f}")
+        logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}")
     ### STEP 4 ###
+
+    ### STEP 5 ###
+    if FLAG[5]:
+        logger.info("> Step 5")
+        logger.info(f"[{'Start':<7}]: filtering.")
+
+        with open('results/storage/high_level_qa_pair_set_with_score.json', 'r') as file:
+            high_level_qa_pair_set_with_score = json.load(file)
+        
+        THRESHOLD = 3
+
+        our_dataset = [
+            {
+                'gold_table_id_set': sorted(instance['gold_table_id_set']),
+                'question': annotation['question'].strip().replace('\n', ' '),
+                'answer': annotation['answer'].strip().replace('\n', ' ')
+            }
+            for instance in high_level_qa_pair_set_with_score
+            for annotation in instance['annotation']
+            if (
+                sum(_[1] for _ in annotation['score']['gold_table_set']) / len(annotation['score']['gold_table_set']) >= THRESHOLD and
+                sum(_[1] for _ in annotation['score']['annotated_question']) / len(annotation['score']['annotated_question']) >= THRESHOLD and
+                sum(_[1] for _ in annotation['score']['annotated_answer']) / len(annotation['score']['annotated_answer']) >= THRESHOLD
+            )
+        ]
+
+        with open('results/our_dataset.json', 'w') as file:
+            json.dump(our_dataset, file, indent=4)
+        
+        logger.info(f"[{'Done':<7}]: filtering.")
+    ### STEP 5 ###
 
 
 if __name__ == '__main__':
@@ -95,7 +164,7 @@ if __name__ == '__main__':
     add_openai_api_key(api_key=api_key)
     """
 
-    FLAG = [True, False, False, True, False]
+    FLAG = [True, False, False, False, False, False]
 
     main(
         dataset_name=args.d,

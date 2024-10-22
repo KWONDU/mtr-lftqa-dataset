@@ -1,0 +1,24 @@
+Please evaluate the following data and provide the scores as per the guidelines.
+
+**Input:**
+
+- **Gold Table Set Information**:
+{gold_table_set_information}
+
+- **High-Level Question**:
+{question}
+
+- **High-Level Answer**:
+{answer}
+
+- **Output**:
+About gold table set:
+Relevance score: [relevance_score_about_gold_table_set]
+About annotated question:
+Focus score: [focus_score_about_annotated_question]
+Comprehensiveness score: [comprehensiveness_score_about_annotated_question]
+About annotated answer:
+Fluency score: [fluency_score_about_annotated_answer]
+Coherence score: [coherence_score_about_annotated_answer]
+Faithfulness score: [faithfulness_score_about_annotated_answer]
+Comprehensiveness score: [comprehensiveness_score_about_annotated_answer]

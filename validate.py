@@ -1,30 +1,31 @@
 import asyncio
 import json
+import re
 import traceback
 from tqdm import tqdm
 from tqdm.asyncio import tqdm_asyncio
 from typing import Any, List, Dict, Tuple
 from utils.display import clear_storage, table_serialization, table_visualization
 from utils.openai import get_async_openai_response, load_prompt, save_prompt
-    
 
-async def annotate_answer_task(semaphore, model_input, model_name):
+
+async def validate_task(semaphore, model_input, model_name):
     tasks = [
         get_async_openai_response(
             semaphore=semaphore,
-            system_prompt=load_prompt(role='system', task='annotate_answer'),
-            user_prompt=load_prompt(role='user', task='annotate_answer').format(
-                gold_table_document_set="\n".join([
+            system_prompt=load_prompt(role='system', task='validate'),
+            user_prompt=load_prompt(role='user', task='validate').format(
+                gold_table_set_information="\n".join([
                     table_serialization(
                         table_num=tdx + 1,
                         metadata=gold_table['metadata'],
                         header=gold_table['header'],
-                        cell=None
+                        cell=gold_table['cell']
                     )
-                    + f" [document]: {nl_document}"
-                    for tdx, (gold_table, nl_document) in enumerate(input_data['gold_table_document_set'])
+                    for tdx, gold_table in enumerate(input_data['gold_table_set'])
                 ]),
-                question=input_data['question']
+                question=input_data['question'],
+                answer=input_data['answer']
             ),
             model_name=model_name,
             key=input_data['key']
@@ -47,13 +48,13 @@ async def annotate_answer_task(semaphore, model_input, model_name):
     return sorted(model_output_list, key=lambda x: x['key']), cost
 
 
-def annotate_answer(
+def validate(
         table_lake: Dict[str, Dict[str, Any]],
         load_shot: object,
         model_name: str,
         semaphore: asyncio.Semaphore
     ) -> Tuple[List[Dict[str, Any]], int, int, int]:
-    """Task: annotate answer
+    """Task: validate
 
     [Params]
     table_lake   : Dict[str, Dict[str, Any]]
@@ -62,73 +63,70 @@ def annotate_answer(
     semaphore    : asyncio.Semaphore
 
     [Returns]
-    high_level_qa_pair_set : List[Dict[str, Any]]
+    high_level_qa_pair_set_with_score : List[Dict[str, Any]]
     success_cnt             : int
     fail_cnt                : int
     cost                    : int
     """
     # Initialization and setup
-    with open('results/storage/table_document_set.json', 'r') as file:
-        table_document_set = json.load(file)
-    
-    with open('results/storage/high_level_question_set.json', 'r') as file:
-        high_level_question_set = json.load(file)
+    with open('results/storage/high_level_qa_pair_set.json', 'r') as file:
+        high_level_qa_pair_set = json.load(file)
 
-    high_level_qa_pair_set =  [
+    high_level_qa_pair_set_with_score =  [
         {
             'gold_table_id_set': instance['gold_table_id_set'],
             'annotation': [
                 {
-                    'question': question,
-                    'answer': ""
+                    'question': qa_pair['question'],
+                    'answer': qa_pair['answer'],
+                    'score': {
+                        'description': ('type', 'score')
+                    }
                 }
-                for question in instance['question_list']
+                for qa_pair in instance['annotation']
             ]
         }
-        for instance in high_level_question_set
+        for instance in high_level_qa_pair_set
     ] # Output
 
     for role in ['system', 'user']:
-        task = 'annotate_answer'
+        task = 'validate'
         save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
 
     # Main task
     model_input = []
-    for idx, instance in enumerate(high_level_question_set):
-        gold_table_document_set = [
-            (
-                table_lake[t_id],
-                next(" ".join(tb_doc['nl_document_list']) for tb_doc in table_document_set if tb_doc['table_id'] == t_id)
-            )
+    for idx, instance in enumerate(high_level_qa_pair_set):
+        gold_table_set = [
+            table_lake[t_id]
             for t_id in instance['gold_table_id_set']
         ]
 
-        for jdx, question in enumerate(instance['question_list']):
+        for jdx, qa_pair in enumerate(instance['annotation']):
             model_input.append({
-                'gold_table_document_set': gold_table_document_set,
-                'question': question,
+                'gold_table_set': gold_table_set,
+                'question': qa_pair['question'],
+                'answer': qa_pair['answer'],
                 'key': (idx, jdx),
                 'shot': load_shot()
             })
     
     semaphore = asyncio.Semaphore(100)
-    task_output_list, cost = asyncio.run(annotate_answer_task(
+    task_output_list, cost = asyncio.run(validate_task(
         semaphore=semaphore,
         model_input=model_input,
         model_name=model_name
     ))
 
     # Clear
-    clear_storage(storage_path='results/buffer/annotate_answer', extension='txt')
+    clear_storage(storage_path='results/buffer/validate', extension='txt')
 
     # Storage
     success_cnt, fail_cnt = 0, 0
     for task_output in tqdm(task_output_list, desc=f"[{'Storage':<7}]"):
         idx, jdx = task_output['key']
-        question = high_level_question_set[idx]['question_list'][jdx]
 
-        file_buffer = "# Gold table document set"
-        for tdx, table_id in enumerate(high_level_question_set[idx]['gold_table_id_set']):
+        file_buffer = "# Gold table set"
+        for tdx, table_id in enumerate(high_level_qa_pair_set[idx]['gold_table_id_set']):
             file_buffer = "\n".join([
                 file_buffer,
                 table_visualization(
@@ -137,33 +135,57 @@ def annotate_answer(
                     header=table_lake[table_id]['header'],
                     cell=table_lake[table_id]['cell']
                 ),
-                "NL document list:",
-                "\n".join(next(
-                    tb_doc['nl_document_list']
-                    for tb_doc in table_document_set
-                    if tb_doc['table_id'] == table_id
-                )),
                 ""
             ])
         
         file_buffer = "\n".join([
             file_buffer,
-            f"# Question: {question}",
+            f"# Question: {high_level_qa_pair_set[idx]['annotation'][jdx]['question']}",
+            "",
+            f"# Answer: {high_level_qa_pair_set[idx]['annotation'][jdx]['answer']}",
             ""
         ])
 
         try:
-            answer = task_output['response']
+            scores = re.findall(r'score: (\d+)', task_output['response'])
+            if len(scores) != 7:
+                raise ValueError(f"[Error] only extract {len(scores)} scores.")
+            
+            high_level_qa_pair_set_with_score[idx]['annotation'][jdx]['score'].update({
+                'gold_table_set': [
+                    ('relevance', int(scores[0]))
+                ],
+                'annotated_question': [
+                    ('focus', int(scores[1])),
+                    ('comprehensiveness', int(scores[2]))
+                ],
+                'annotated_answer': [
+                    ('fluency', int(scores[3])),
+                    ('coherence', int(scores[4])),
+                    ('faithfulness', int(scores[5])),
+                    ('comprehensiveness', int(scores[6]))
+                ]
+            })
 
-            high_level_qa_pair_set[idx]['annotation'][jdx]['answer'] = answer
             file_buffer = "\n".join([
                 file_buffer,
-                f"# Answer: {answer}",
+                "# About gold table set",
+                f"Relevance score: {scores[0]}",
+                "",
+                "# About annotated question",
+                f"Focus score: {scores[1]}",
+                f"Comprehensiveness score: {scores[2]}",
+                "",
+                "# About annotated answer",
+                f"Fluency score: {scores[3]}",
+                f"Coherence score: {scores[4]}",
+                f"Faithfulness score: {scores[5]}",
+                f"Comprehensiveness score: {scores[6]}"
                 ""
             ])
 
             success_cnt += 1
-            with open(f'results/buffer/annotate_answer/{idx+1}_{jdx+1}_successed.txt', 'w') as file:
+            with open(f'results/buffer/validate/{idx+1}_{jdx+1}_successed.txt', 'w') as file:
                 file.write(file_buffer)
         
         except:
@@ -178,11 +200,11 @@ def annotate_answer(
             ])
 
             fail_cnt += 1
-            with open(f'results/buffer/annotate_answer/{idx+1}_{jdx+1}_failed.txt', 'w') as file:
+            with open(f'results/buffer/validate/{idx+1}_{jdx+1}_failed.txt', 'w') as file:
                 file.write(file_buffer)
 
     # Buffer
-    with open('results/buffer/annotate_answer.json', 'w') as file:
+    with open('results/buffer/validate.json', 'w') as file:
         json.dump(task_output_list, file, indent=4)
-
-    return high_level_qa_pair_set, success_cnt, fail_cnt, cost
+    
+    return high_level_qa_pair_set_with_score, success_cnt, fail_cnt, cost
