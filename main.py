@@ -6,23 +6,27 @@ import random
 from utils.dataset import load_source_dataset
 
 
-def main(dataset_name, sample_n, logger):
+def main(source_dataset_name, sample_n, type, logger):
     if not FLAG[0]:
         exit()
 
-    dataset = load_source_dataset(dataset_name=dataset_name)
+    source_dataset = load_source_dataset(dataset_name=source_dataset_name)
 
-    table_lake = {tb['id']: tb for tb in dataset.tables}
+    table_lake = {tb['id']: tb for tb in source_dataset.tables}
     random.seed(42)
-    instance_set = random.sample(dataset[:], sample_n)
+    instance_set = random.sample(source_dataset[:], sample_n)
 
     semaphore = asyncio.Semaphore(100)
     MODEL_NAME = 'gpt-3.5-turbo'
 
     ### STEP 1 ###
     if FLAG[1]:
-        from annotate_questions import annotate_questions
-        from get_shots import get_annotate_questions_task_shots
+        if type == 'low_header_sim':
+            from steps.low_header_sim.annotate_questions import annotate_questions
+            from get_shots import get_annotate_questions_task_shots_with_low_header_sim as get_annotate_questions_task_shots
+        elif type == 'high_header_sim':
+            from steps.high_header_sim.annotate_questions import annotate_questions
+            from get_shots import get_annotate_questions_task_shots_with_high_header_sim as get_annotate_questions_task_shots
 
         logger.info("> Step 1")
         logger.info(f"[{'Start':<7}]: annotate questions.")
@@ -34,7 +38,7 @@ def main(dataset_name, sample_n, logger):
             semaphore=semaphore
         )
 
-        with open('results/storage/high_level_question_set.json', 'w') as file:
+        with open(f'results/storage/{type}/high_level_question_set.json', 'w') as file:
             json.dump(high_level_question_set, file, indent=4)
         
         logger.info(f"[{'Done':<7}]: annotate questions.")
@@ -44,8 +48,12 @@ def main(dataset_name, sample_n, logger):
 
     ### STEP 2 ###
     if FLAG[2]:
-        from expand_statement import expand_statement
-        from get_shots import get_expand_statement_task_shots
+        if type == 'low_header_sim':
+            from steps.low_header_sim.expand_statement import expand_statement
+            from get_shots import get_expand_statement_task_shots_with_low_header_sim as get_expand_statement_task_shots
+        elif type == 'high_header_sim':
+            from steps.high_header_sim.expand_statement import expand_statement
+            from get_shots import get_expand_statement_task_shots_with_high_header_sim as get_expand_statement_task_shots
 
         logger.info("> Step 2")
         logger.info(f"[{'Start':<7}]: expand statement.")
@@ -57,7 +65,7 @@ def main(dataset_name, sample_n, logger):
             semaphore=semaphore
         )
 
-        with open('results/storage/table_document_set.json', 'w') as file:
+        with open(f'results/storage/{type}/table_document_set.json', 'w') as file:
             json.dump(table_document_set, file, indent=4)
         
         logger.info(f"[{'Done':<7}]: expand statement.")
@@ -65,26 +73,22 @@ def main(dataset_name, sample_n, logger):
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
     ### STEP 2 ###
 
-    ### STEP 2.5 ###
-    if FLAG[2] and dataset_name == 'SourceDB':
-        None # JOIN operator -> multi-table extand statement
-    ### STEP 2.5 ###
-
     ### STEP 3 ###
     if FLAG[3]:
-        from annotate_answer import annotate_answer
-        from get_shots import get_annotate_answer_task_shots
+        if type == 'low_header_sim':
+            from steps.low_header_sim.annotate_answer import annotate_answer
+        elif type == 'high_header_sim':
+            from steps.high_header_sim.annotate_answer import annotate_answer
 
         logger.info("> Step 3")
         logger.info(f"[{'Start':<7}]: annotate answer.")
         high_level_qa_pair_set, success_cnt, fail_cnt, cost = annotate_answer(
             table_lake=table_lake,
-            load_shot=get_annotate_answer_task_shots,
             model_name=MODEL_NAME,
             semaphore=semaphore
         )
 
-        with open('results/storage/high_level_qa_pair_set.json', 'w') as file:
+        with open(f'results/storage/{type}/high_level_qa_pair_set.json', 'w') as file:
             json.dump(high_level_qa_pair_set, file, indent=4)
         
         logger.info(f"[{'Done':<7}]: annotate answer.")
@@ -94,20 +98,19 @@ def main(dataset_name, sample_n, logger):
 
     ### STEP 4 ###
     if FLAG[4]:
-        from validate import validate
-        from get_shots import get_validate_task_shots
+        from steps.validate import validate
     
         logger.info("> Step 4")
         logger.info(f"[{'Start':<7}]: validate.")
-        high_level_qa_pair_set_with_score, success_cnt, fail_cnt, cost = validate(
+        high_level_qa_pair_set_with_validation, success_cnt, fail_cnt, cost = validate(
+            type=type,
             table_lake=table_lake,
-            load_shot=get_validate_task_shots,
             model_name=MODEL_NAME,
             semaphore=semaphore
         )
 
-        with open('results/storage/high_level_qa_pair_set_with_score.json', 'w') as file:
-            json.dump(high_level_qa_pair_set_with_score, file, indent=4)
+        with open(f'results/storage/{type}/high_level_qa_pair_set_with_validation.json', 'w') as file:
+            json.dump(high_level_qa_pair_set_with_validation, file, indent=4)
 
         logger.info(f"[{'Done':<7}]: validate.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}")
@@ -119,28 +122,28 @@ def main(dataset_name, sample_n, logger):
         logger.info("> Step 5")
         logger.info(f"[{'Start':<7}]: filtering.")
 
-        with open('results/storage/high_level_qa_pair_set_with_score.json', 'r') as file:
-            high_level_qa_pair_set_with_score = json.load(file)
-        
-        THRESHOLD = 3
+        with open(f'results/storage/{type}/high_level_qa_pair_set_with_validation.json', 'r') as file:
+            high_level_qa_pair_set_with_validation = json.load(file)
 
-        our_dataset = [
+        dataset = [
             {
                 'gold_table_id_set': sorted(instance['gold_table_id_set']),
                 'question': annotation['question'].strip().replace('\n', ' '),
                 'answer': annotation['answer'].strip().replace('\n', ' ')
             }
-            for instance in high_level_qa_pair_set_with_score
+            for instance in high_level_qa_pair_set_with_validation
             for annotation in instance['annotation']
             if (
-                sum(_[1] for _ in annotation['score']['gold_table_set']) / len(annotation['score']['gold_table_set']) >= THRESHOLD and
-                sum(_[1] for _ in annotation['score']['annotated_question']) / len(annotation['score']['annotated_question']) >= THRESHOLD and
-                sum(_[1] for _ in annotation['score']['annotated_answer']) / len(annotation['score']['annotated_answer']) >= THRESHOLD
+                annotation['validation']['gold_table_set']
+                and
+                annotation['validation']['annotated_question']
+                and
+                annotation['validation']['annotated_answer']
             )
         ]
 
-        with open('results/our_dataset.json', 'w') as file:
-            json.dump(our_dataset, file, indent=4)
+        with open(f'results/{type}_dataset.json', 'w') as file:
+            json.dump(dataset, file, indent=4)
         
         logger.info(f"[{'Done':<7}]: filtering.")
     ### STEP 5 ###
@@ -164,10 +167,16 @@ if __name__ == '__main__':
     add_openai_api_key(api_key=api_key)
     """
 
-    FLAG = [True, False, False, False, False, False]
+    FLAG = [True, False, False, False, True, True]
+
+    TYPE = {
+        'SourceMultiTabQA': 'low_header_sim',
+        'SourceOpenWikiTable': 'high_header_sim'
+    }
 
     main(
-        dataset_name=args.d,
+        source_dataset_name=args.d,
         sample_n=args.n,
+        type=TYPE[args.d],
         logger=logger
     )

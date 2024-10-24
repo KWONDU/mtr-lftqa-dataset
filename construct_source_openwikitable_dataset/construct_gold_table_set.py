@@ -73,16 +73,16 @@ if __name__ == '__main__':
     print("Step 1 done.")
     
     # 2. Cluster tables w/ overlap at least one title
-    table_cluster_with_similar_header_and_overlap_at_least_one_title = defaultdict(list)
+    table_cluster_with_similar_header_and_overlap_at_least_one_title = defaultdict(set)
     for cdx, table_cluster in enumerate(table_cluster_with_similar_header): # cdx : cluster with similar header
         for table_id in table_cluster:
             table = table_lake[table_id]
             page_title = re.sub(r'\d+', '', table['metadata'].split('|')[0].lower().strip())
             section_title = re.sub(r'\d+', '', table['metadata'].split('|')[1].lower().strip())
             table_title = re.sub(r'\d+', '', table['metadata'].split('|')[2].lower().strip())
-            table_cluster_with_similar_header_and_overlap_at_least_one_title[(cdx, -1, page_title, None, None)].append(table['id'])
-            table_cluster_with_similar_header_and_overlap_at_least_one_title[(cdx, -1, None, section_title, None)].append(table['id'])
-            table_cluster_with_similar_header_and_overlap_at_least_one_title[(cdx, -1, None, None, table_title)].append(table['id'])
+            table_cluster_with_similar_header_and_overlap_at_least_one_title[(cdx, -1, page_title, None, None)].add(table['id'])
+            table_cluster_with_similar_header_and_overlap_at_least_one_title[(cdx, -1, None, section_title, None)].add(table['id'])
+            table_cluster_with_similar_header_and_overlap_at_least_one_title[(cdx, -1, None, None, table_title)].add(table['id'])
     
     # len(table_cluster) == 1      : exclusion
     # 2 <= len(table_cluster) <= 5 : gold table set
@@ -99,7 +99,7 @@ if __name__ == '__main__':
     print("Step 2 done.")
 
     # 3. Cluster tables w/ overlap at least two titles
-    table_cluster_with_similar_header_and_overlap_at_least_two_titles = defaultdict(list)
+    table_cluster_with_similar_header_and_overlap_at_least_two_titles = defaultdict(set)
     for delimiter, table_cluster in table_cluster_with_similar_header_and_overlap_at_least_one_title.items():
         cdx = delimiter[0] # cdx : cluster with similar header
         for table_id in table_cluster:
@@ -107,9 +107,9 @@ if __name__ == '__main__':
             page_title = re.sub(r'\d+', '', table['metadata'].split('|')[0].lower().strip())
             section_title = re.sub(r'\d+', '', table['metadata'].split('|')[1].lower().strip())
             table_title = re.sub(r'\d+', '', table['metadata'].split('|')[2].lower().strip())
-            table_cluster_with_similar_header_and_overlap_at_least_two_titles[(cdx, -1, page_title, section_title, None)].append(table['id'])
-            table_cluster_with_similar_header_and_overlap_at_least_two_titles[(cdx, -1, page_title, None, table_title)].append(table['id'])
-            table_cluster_with_similar_header_and_overlap_at_least_two_titles[(cdx, -1, None, section_title, table_title)].append(table['id'])
+            table_cluster_with_similar_header_and_overlap_at_least_two_titles[(cdx, -1, page_title, section_title, None)].add(table['id'])
+            table_cluster_with_similar_header_and_overlap_at_least_two_titles[(cdx, -1, page_title, None, table_title)].add(table['id'])
+            table_cluster_with_similar_header_and_overlap_at_least_two_titles[(cdx, -1, None, section_title, table_title)].add(table['id'])
     
     # len(table_cluster) == 1      : exclusion
     # 2 <= len(table_cluster) <= 5 : gold table set
@@ -126,7 +126,7 @@ if __name__ == '__main__':
     print("Step 3 done.")
 
     # 4. Cluster tables w/ overlap three titles
-    table_cluster_with_similar_header_and_overlap_three_titles = defaultdict(list)
+    table_cluster_with_similar_header_and_overlap_three_titles = defaultdict(set)
     for delimiter, table_cluster in table_cluster_with_similar_header_and_overlap_at_least_two_titles.items():
         cdx = delimiter[0]
         for table_id in table_cluster:
@@ -134,7 +134,7 @@ if __name__ == '__main__':
             page_title = re.sub(r'\d+', '', table['metadata'].split('|')[0].lower().strip())
             section_title = re.sub(r'\d+', '', table['metadata'].split('|')[1].lower().strip())
             table_title = re.sub(r'\d+', '', table['metadata'].split('|')[2].lower().strip())
-            table_cluster_with_similar_header_and_overlap_three_titles[(cdx, -1, page_title, section_title, table_title)].append(table['id'])
+            table_cluster_with_similar_header_and_overlap_three_titles[(cdx, -1, page_title, section_title, table_title)].add(table['id'])
     
     # len(table_cluster) == 1      : exclusion
     # 2 <= len(table_cluster) <= 5 : gold table set

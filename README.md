@@ -13,8 +13,9 @@
     *__pycache__
     *.yaml
     *temp*
-    */buffer/*.json
-    */buffer/*/*.txt
+    */buffer/*.json # construct source dataset
+    buffer/high_header_sim/*.json # annotate dataset
+    buffer/high_header_sim/*/*.txt # annotate dataset
 
 ### utils/.gitignore
 
@@ -89,7 +90,7 @@
 
 ### 2.3 Original dataset configuration (Don't need to use)
 
-![Stats](results/dataset_statistics.png)
+![Stats](results/original_dataset_statistics.png)
 
     original_dataset
         .download_type # [str] huggingface or local

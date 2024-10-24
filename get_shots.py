@@ -2,7 +2,11 @@ import json
 from utils.display import table_serialization
 
 
-def get_annotate_questions_task_shots():
+def get_annotate_questions_task_shots_with_low_header_sim():
+    None
+
+
+def get_annotate_questions_task_shots_with_high_header_sim():
     global MOD_FOUR
     sampled_shots = [SHOTS[MOD_FOUR], SHOTS[4], SHOTS[5]]
     MOD_FOUR = (MOD_FOUR + 1) % 4
@@ -52,7 +56,11 @@ def get_annotate_questions_task_shots():
     )
 
 
-def get_expand_statement_task_shots():
+def get_expand_statement_task_shots_with_low_header_sim():
+    None
+
+
+def get_expand_statement_task_shots_with_high_header_sim():
     sampled_shots = SHOTS[:3]
 
     return "\n".join([
@@ -72,14 +80,6 @@ def get_expand_statement_task_shots():
         ])
         for idx, shot in enumerate(sampled_shots)
     ])
-
-
-def get_annotate_answer_task_shots():
-    None
-
-
-def get_validate_task_shots():
-    None
 
 
 if __name__ == 'get_shots':
