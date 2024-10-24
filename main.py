@@ -152,7 +152,7 @@ if __name__ == '__main__':
     logger.addHandler(logging.StreamHandler())
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('-d', type=str, required=True, choices=['SourceDB', 'SourceWikipedia'], help='dataset name')
+    parser.add_argument('-d', type=str, required=True, choices=['SourceMultiTabQA', 'SourceOpenWikiTable'], help='dataset name')
     parser.add_argument('-n', type=int, required=True, help='number of sampled data')
 
     args, _ = parser.parse_known_args()

@@ -3,12 +3,12 @@ from typing import List, Literal
 from ._dir import current_dir
 
 
-def save_source_dataset(dataset: object, dataset_name: Literal['SourceDB', 'SourceWikipedia']) -> List[str]:
+def save_source_dataset(dataset: object, dataset_name: Literal['SourceMultiTabQA', 'SourceOpenWikiTable']) -> List[str]:
     """Save source dataset
 
     [Params]
     dataset      : object
-    dataset_name : Literal['SourceDB', 'SourceWikipedia']
+    dataset_name : Literal['SourceMultiTabQA', 'SourceOpenWikiTable'])
 
     [Return]
     file_path_list : List[str]

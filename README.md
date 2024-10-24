@@ -67,7 +67,7 @@
                 }
                 . . .
             ]
-        .train # about train set
+        .instances
             [
                 {
                     'gold_table_id_set': [list] gold table IDs
@@ -82,13 +82,9 @@
                 }
                 . . .
             ]
-        .validation # about validation set
-            # DITTO
-        .test    # about test set
-            # DITTO
     
     print(source_dataset) # return source dataset name
-    print(source_dataset[i / i:j]) # return i'th / (i ~ j-1)'th data; train, validation, test set in order
+    print(source_dataset[i / i:j]) # return i'th / (i ~ j-1)'th data
     print(len(source_dataset)) # return total source dataset size
 
 ### 2.3 Original dataset configuration (Don't need to use)
@@ -131,5 +127,5 @@
 ## 3. Run 'main'
 
     python3 main.py \
-        -d {source_dataset_name, SourceDB or SourceWikipeida}
+        -d {source_dataset_name, SourceMultiTabQA or SourceOpenWikiTable}
         -n {number_of_sampled_data}

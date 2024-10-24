@@ -4,11 +4,11 @@ from typing import Literal, Union
 from ._dir import current_dir
 
 
-def load_source_dataset(dataset_name: Literal['SourceDB', 'SourceWikipedia']) -> Union[object, None]:
+def load_source_dataset(dataset_name: Literal['SourceMultiTabQA', 'SourceOpenWikiTable']) -> Union[object, None]:
     """Load source dataset
 
     [Param]
-    dataset_name: Literal['SourceDB', 'SourceWikipedia']
+    dataset_name: Literal['SourceMultiTabQA', 'SourceOpenWikiTable'])
 
     [Return]
     dataset : Union[object, None]
