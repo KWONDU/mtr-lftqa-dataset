@@ -84,8 +84,8 @@
             ]
     
     print(source_dataset) # return source dataset name
-    print(source_dataset[i / i:j]) # return i'th / (i ~ j-1)'th data
-    print(len(source_dataset)) # return total source dataset size
+    print(source_dataset[i / i:j]) # return i'th / (i ~ j-1)'th instance
+    print(len(source_dataset)) # return total instance set size
 
 ### 2.3 Original dataset configuration (Don't need to use)
 
