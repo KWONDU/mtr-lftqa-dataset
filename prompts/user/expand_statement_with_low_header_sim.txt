@@ -1,0 +1,16 @@
+Please refer to the following examples when writing your Python function:
+
+{shots}
+
+Please write the Python function following the guidelines provided:
+
+- **DataFrame schema set**:
+{df_schema_set}
+
+- **SQL query**:
+{sql_query}
+
+- **Statement**:
+{statement}
+
+- **Python code**:

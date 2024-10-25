@@ -4,10 +4,13 @@ Please refer to the following examples when writing your Python function:
 
 Please write the Python function following the guidelines provided:
 
-- **DataFrame Schema**:
+- **DataFrame schema**:
     - **Caption**: {df_caption}
     - **Columns**: {df_columns}
-    - **First Row**: {df_first_row}
+    - **First row**: {df_first_row}
+
+- **SQL query**:
+{sql_query}
 
 - **Statement**:
 {statement}

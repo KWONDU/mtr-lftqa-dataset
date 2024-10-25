@@ -34,6 +34,7 @@ async def expand_statement_task(
                 df_caption=input_data['df_caption'],
                 df_columns=" | ".join(input_data['df_columns']),
                 df_first_row=' | '.join(input_data['df_first_row']),
+                sql_query=input_data['sql_query'],
                 statement=input_data['statement']
             ),
             model_name=model_name,
@@ -98,6 +99,7 @@ def expand_statement(
                 'df_caption': silver_table['metadata'],
                 'df_columns': silver_table['header'],
                 'df_first_row': silver_table['cell'][0],
+                'sql_query': data['sql_query'],
                 'statement': data['statement'],
                 'key': (idx, jdx),
                 'shots': load_shot()
@@ -128,6 +130,9 @@ def expand_statement(
                 header=table['header'],
                 cell=table['cell']
             ),
+            "",
+            "# SQL query",
+            instance_set[idx]['data_list'][jdx]['sql_query'],
             "",
             "# Statement",
             instance_set[idx]['data_list'][jdx]['statement'],

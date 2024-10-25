@@ -76,6 +76,7 @@
                         {
                             'entailed_table_id_set': [list] entailed table IDs,
                             'nl_query': [str] natural language query
+                            'sql_query': [str] SQL query
                             'statement': [str] entailed statement
                         },
                         . . .

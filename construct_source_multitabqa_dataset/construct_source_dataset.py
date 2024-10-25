@@ -62,7 +62,19 @@ if __name__ == '__main__':
     with open('storage/modified_multitabqa_tables.json', 'r') as file:
         unique_tables = json.load(file)
     
-    source_dataset._tables = unique_tables
+    source_dataset._tables = [
+        {
+            "id": table['id'],
+            "metadata": table['metadata'],
+            "metadata_info": table['metadata_info'],
+            "header": table['header'],
+            "cell": [
+                [str(cell) for cell in row]
+                for row in table['cell']
+            ] # covert all cells to string type
+        }
+        for table in unique_tables
+    ]
 
     # Single table (entailed table), multi-table (gold table set)
     sorted_data_set_with_generated_statement = sorted(data_set_with_generated_statement, key=lambda x: len(x['gold_table_id_set']), reverse=True)
@@ -77,6 +89,7 @@ if __name__ == '__main__':
                     {
                         'entailed_table_id_set': entailed_table_id_set,
                         'nl_query': data['nl_query'],
+                        'sql_query': data['sql_query'],
                         'statement': data['statement']
                     }
                 )
@@ -91,6 +104,7 @@ if __name__ == '__main__':
                             {
                                 'entailed_table_id_set': [entailed_table_id],
                                 'nl_query': data['nl_query'],
+                                'sql_query': data['sql_query'],
                                 'statement': data['statement']
                             }
                         )

@@ -81,6 +81,7 @@ if __name__ == '__main__':
                     {
                         'entailed_table_id_set': [entailed_table_id],
                         'nl_query': data['question'],
+                        'sql_query': next(answer for answer, answer_type in zip(data['answer'], data['answer_type']) if answer_type == 'SQL'),
                         'statement': statement
                     }
                 )

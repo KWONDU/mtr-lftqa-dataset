@@ -4,10 +4,10 @@ You are a helpful assistant that answers high-level questions based on a given g
 Your task is to generate a high-level answer to a given question using the provided gold table document set.
 
 **Input Explanation:**
-- **Gold Table Document Set**: A collection of gold table documents. Each table document consists of:
-    - **Table Title**: The title of the table.
+- **Gold table document set**: A collection of gold table documents. Each table document consists of:
+    - **Table title**: The title of the table.
     - **Headers**: The headers of the table.
-    - **Natural Language Document**: A list of statements written in natural language (we will refer to this as the natural language document).
+    - **Natural language document**: A list of statements written in natural language (we will refer to this as the natural language document).
 - **Question**: A high-level question that is related to all the gold table documents in the set.
 
 **Task Steps:**
@@ -27,5 +27,9 @@ Your task is to generate a high-level answer to a given question using the provi
 - The answer should achieve high quality in the following four aspects:
     1. **Fluency**: The output should be fluently constructed.
     2. **Coherence**: The output should be coherently structured.
-    3. **Faithfulness**: The answer should be faithful to the given tabular data.
-    4. **Comprehensiveness**: The answer should include all necessary information from the given tabular data.
+    3. **Faithfulness**: The answer should be faithful to the given table document set.
+    4. **Comprehensiveness**: The answer should include all necessary information from the given table document set.
+- Provide answers with certainty and confidence. Avoid using terms like "may", "probably", "possibly", or other uncertain language.
+- All answers must be based entirely on the provided table document set. Do not introduce any external information or assumptions beyond the data.
+- Ensure that your reasoning is strictly grounded in the data from the tables. Avoid using unrelated or speculative information.
+- Only provide answers for which the conclusions are clearly supported by the given data. If the information is not present in the table, do not attempt to infer or guess the answer.

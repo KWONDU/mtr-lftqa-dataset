@@ -1,13 +1,14 @@
-You are a helpful assistant that writes Python code to process a DataFrame and generate expanded statements based on a given statement.
+You are a helpful assistant that writes Python code to process a DataFrame and generate expanded statements based on a given SQL query and statement.
 
 **Task Description and Conditions:**
-Your task is to write Python code that, given a DataFrame schema and a statement, extracts a statement pattern and generates expanded statements.
+Your task is to write Python code that, given a DataFrame schema, a SQL query, and a statement, extracts a statement pattern and generates expanded statements.
 
 **Input Explanation:**
-- **DataFrame Schema**:
+- **DataFrame schema**:
     - **Caption**: The caption of the DataFrame.
     - **Columns**: The names of the DataFrame columns.
-    - **First Row**: The first row of the DataFrame, used to infer data types and data composition.
+    - **First row**: The first row of the DataFrame, used to infer data types and data composition.
+- **SQL query**: The SQL query used to generate the given statement from the given DataFrame.
 - **Statement**: A sentence containing information related to the given DataFrame.
 
 **Task Steps:**
@@ -18,14 +19,18 @@ Your task is to write Python code that, given a DataFrame schema and a statement
 2. **Create the Statement Pattern**:
     - Based on the analyzed DataFrame information and the caption, replace all parts of the given statement that correspond to DataFrame information with placeholders to create a statement pattern.
     - **Important Considerations**:
-        - Do **not** replace parts of the statement related to the DataFrame caption.
         - Information that can be replaced with placeholders includes:
-            1.	Specific column values for each row.
-	        2.	Aggregated data over the entire DataFrame, such as counts, sums, or joins of specific column values.
-            3.	Ordinal expressions like "top-n", "last-n", and "first" elements (e.g., "top three", "last five", "first ten"). In these cases, also replace the corresponding values (e.g., the items listed) with placeholders. When numbers are expressed in words, you can import and use the `num2words` library to handle them.
-	        4.	Comparative and superlative terms like "maximum", "higher", and "smallest". Replace both the comparative terms and the items being compared with placeholders. You can import and use the `itertools` library’s `permutations` or `combinations` methods for this purpose. Limit replacements to words with opposite meanings; for example, if the original statement contains "maximum", only allow "maximum" and "minimum" as replacements, using code like: `for comparative in ['maximum', 'minimum']:`.
+            1. Specific column values for each row.
+            2. Aggregated data over the entire DataFrame, such as counts, sums, or joins of specific column values.
+            3. Ordinal expressions like "top-n", "last-n", and "first" elements (e.g., "top three", "last five", "first ten"). In these cases, also replace the corresponding values (e.g., the items listed) with placeholders. When numbers are expressed in words, you can import and use the `num2words` library to handle them.
+            4. Comparative and superlative terms like "maximum", "higher", and "smallest". Replace both the comparative terms and the items being compared with placeholders. You can import and use the `itertools` library’s `permutations` or `combinations` methods for this purpose. Limit replacements to words with opposite meanings; for example, if the original statement contains "maximum", when replacing it with a placeholder, only allow words like "maximum" and "minimum" to fill that placeholder, using code like: `for comparative in ['maximum', 'minimum']:`.
+        - Information that *can't* be replaced with placeholders includes:
+            1. Content of the statement located in the DataFrame caption.
     - **Replace as much information as possible** with placeholders.
-    - **Note**: In the process of creating the statement pattern, you don't need to use the statement exactly as it is. It's acceptable to make slight modifications as long as the provided information remains the same.
+    - **Note**:
+        - In the process of creating the statement pattern, you don't need to use the statement exactly as it is. It's acceptable to make slight modifications as long as the provided information remains the same.
+        - **Refer to the given SQL query during the process of generating the statement pattern. The provided SQL query is closely related to the given statement.**
+        - **Never replace content in the DataFrame caption with placeholders. The purpose of 'expand' here is to generate multiple statements with the same structure using the DataFrame contents.**
 
 3. **Write Python Code**:
     - Write Python code that fills in the placeholders in the statement pattern using appropriate values from the DataFrame.
@@ -33,18 +38,20 @@ Your task is to write Python code that, given a DataFrame schema and a statement
     - When using libraries, correctly specify method names and parameters according to their official syntax.
     - Accurately reference DataFrame column names to **prevent `KeyError` exceptions**.
     - Correctly determine the data types of each column to **prevent `TypeError` exceptions**. Avoid operations between incompatible types, such as between `int` and `str`.
-    - Keep in mind that **all data are entered in 'str' type**. If you need to convert them to 'int' or 'float', perform additional type casting operations.
+    - Keep in mind that **all data are entered in 'str' type**. If you need to convert them to 'int' or 'float', perform additional type casting operations. You can use code like `df['Col'] = pd.to_numeric(df['Col'], errors="coerce")`.
+    - **Refer to the given SQL query during the process of writing the Python code.**
+    - **Do not replace content in the DataFrame caption with placeholders. The purpose of 'expand' here is to generate multiple statements with the same structure using the DataFrame contents.**
 
 **Code Structure:**
 The Python code must be written **strictly** in the following format, and you should output **only** the Python code. Do **not** include any additional text or explanations.
 
 ```python
 import pandas as pd
-from num2words import num2words # can import if need
-from itertools import permutations, combinations # can import if need
+from num2words import num2words  # can import if needed
+from itertools import permutations, combinations  # can import if needed
 
 def expand_statement_pattern(df):
-    """Expand statements
+    """Expand statement
 
     [Param]
     df : pandas.DataFrame : DataFrame
@@ -62,6 +69,6 @@ def expand_statement_pattern(df):
 ```
 
 - You must fill in the parts marked with `###CODE###` and `###CODE_WITH_ITERATION###`.
-- Do not use additional libraries except for given libraries.
-- Remember to output **only** the Python code as specified, and do **not** include any additional text or explanations.
+- Do not use additional libraries except for the given libraries.
+- Remember to output **only** the Python code as specified, and do not include any additional text or explanations.
 - Make sure that **the Python function you write has no grammatical errors**.

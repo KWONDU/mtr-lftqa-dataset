@@ -1,0 +1,184 @@
+[
+    {
+        "table_id_set": [
+            "73805ca3b7e530e9609a9a281fbeb2e643ba630bd2ef1a458aa58ebc4b35e431",
+            "8374b0414dde97505ade584e0774dbceaebe3db8a44f71f132669cd4ae70d1c4",
+            "f06da14e8a44b078739c187abcdfc5cbb4602e109ad9c6cad6c02ee681a22de8"
+        ],
+        "nl_document_list": [
+            "Product names that are colored 'yellow' but do not have a unit of measurement \"Weight - pound,kilo.\" are borage.",
+            "Product names that are colored 'blue' but do not have a unit of measurement \"Handful             \" are cumin, chili, ginger, voluptatem, lotus.",
+            "Product names that are colored 'red' but do not have a unit of measurement \"Weight - pound,kilo.\" are basil, sesame, caraway.",
+            "Product names that are colored 'green' but do not have a unit of measurement \"Handful             \" are flax, cinnam.",
+            "Product names that are colored 'green' but do not have a unit of measurement \"Weight - pound,kilo.\" are flax, cinnam.",
+            "Product names that are colored 'yellow' but do not have a unit of measurement \"Handful             \" are borage.",
+            "Product names that are colored 'black' but do not have a unit of measurement \"Handful             \" are chervil.",
+            "Product names that are colored 'white' but do not have a unit of measurement \"Handful             \" are peper, catnip, laurel.",
+            "Product names that are colored 'red' but do not have a unit of measurement \"Handful             \" are basil, sesame, caraway.",
+            "Product names that are colored 'blue' but do not have a unit of measurement \"Weight - pound,kilo.\" are cumin, chili, ginger, voluptatem, lotus.",
+            "Product names that are colored 'white' but do not have a unit of measurement \"Weight - pound,kilo.\" are peper, catnip, laurel.",
+            "Product names that are colored 'white' but do not have a unit of measurement \"Handful\" are Peper, Catnip, and Laurel.",
+            "Product names that are colored 'black' but do not have a unit of measurement \"Weight - pound,kilo.\" are chervil."
+        ]
+    },
+    {
+        "table_id_set": [
+            "6453340ddf88d6c138ab5db830352b9f5dbd88e6d71730a457299d9757b4cc60",
+            "7394898455a4b15bae1fab26ba4559ccb735bfd734fd0c2bf389462dc70de3f3",
+            "d066861c87b9a19cd92c0c52c384180408c29b73a149019d2632dc1bf202043c"
+        ],
+        "nl_document_list": [
+            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Aripiprazole' is an inhibitor.",
+            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Amisulpride' is inhibitor.",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III decarboxylase' and the medicine named 'Sulpiride' is activitor.",
+            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Asenapine' is inhibitor.",
+            "The interaction type between the enzyme named 'Coproporphyrinogen III oxidase' and the medicine named 'Ziprasidone' is activitor.",
+            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Aripiprazole' is inhibitor.",
+            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Iloperidone' is activitor.",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III decarboxylase' and the medicine named 'Ziprasidone' is activitor.",
+            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Asenapine' is inhibitor.",
+            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Carpipramine' is inhibitor.",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Asenapine' is activitor.",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Melperone' is activitor.",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Paliperidone' is activitor.",
+            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Clocapramine' is inhibitor.",
+            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Clozapine' is inhibitor.",
+            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Lurasidone' is activitor.",
+            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Aripiprazole' is inhibitor.",
+            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Iloperidone' is inhibitor.",
+            "Medicine names and trade names that cannot interact with the enzyme with product 'Heme' are Amisulpride with trade name Solian, Aripiprazole with trade name Abilify, Asenapine with trade name Saphris, Blonanserin with trade name Lonasen, Carpipramine with trade name Prazinil, Clocapramine with trade name Clofekton, Clozapine with trade name Clozaril, Iloperidone with trade name Fanapt, Lurasidone with trade name Latuda, Melperone with trade name Buronil, Mosapramine with trade name Cremin, Olanzapine with trade name Zyprexa, Paliperidone with trade name Invega, Perospirone with trade name Lullan, Quetiapine with trade name Seroquel, Remoxipride with trade name Roxiam, Risperidone with trade name Risperdal, Sertindole with trade name Serdolect, Sulpiride with trade name Sulpirid, and Zotepine with trade name Nipolept.",
+            "The names of enzymes in the medicine named 'Amisulpride' that can serve as an 'inhibitor' are ALA synthase.",
+            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Aripiprazole' is inhibitor.",
+            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Blonanserin' is inhibitor."
+        ]
+    },
+    {
+        "table_id_set": [
+            "ba4186902f124f3003a8ac7f7de3f921a888cbbdda750ba7e8c6650e4b14bb95",
+            "c6f40e9322b594e79c8743f517c3764f25117771e5bf5174b5e3059ee9a91b39"
+        ],
+        "nl_document_list": [
+            "The CMI cross reference IDs related to at least one council tax entry are 101, 102, 103, 104, 105, and 106 with source system code Tax.",
+            "The CMI cross reference IDs related to at least one council tax entry are 101, 102, 103, 104, 105, 106 with source system code Tax."
+        ]
+    },
+    {
+        "table_id_set": [
+            "5a2e10a9dfd97712ae0f6c09b350705e096b5460f1917bc63131703ea7ef9ae2",
+            "648e86ff0c6ea0767644862ebcb519a52298dab3d2744209d12a0f010461fa66"
+        ],
+        "nl_document_list": [
+            "The ID and the amount of refund for the booking that incurred the most times of payments are 6 and 192.02.",
+            "The ID and the amount of refund for the booking that incurred the most times of payments are 5 and 191.31."
+        ]
+    },
+    {
+        "table_id_set": [
+            "6f0bc5bbbd37d4d1464077f6ea8f0b6e830ec55e37f5af3717290c81a9fe78ab",
+            "94a05d0d2e99c973f02d1bc2281d986687aaa7eafc79be6626c83e9f45e3126c"
+        ],
+        "nl_document_list": [
+            "2983",
+            "The theme, date, and attendance for the exhibition in the year 2004 are Santa Claus, December 2, 965, Santa Claus, December 5, 1098, and Santa Claus, December 7, 2983.",
+            "Santa Claus",
+            "December 2",
+            "965",
+            "There are 13 exhibitions with an attendance more than 100 or a ticket price below 10.",
+            "December 5",
+            "December 7",
+            "1098"
+        ]
+    },
+    {
+        "table_id_set": [
+            "2dcb5ead6c2f6a37b472409cd0d4ba02ff1ae6c7f74ac7acf0761bdd80920b98",
+            "5081f9a68d47805bdabcf122fb6dd2554d40bc20f19a44ede6f0281a5dc5259b",
+            "c2f4969f3d1908f56eafaa2c941e8dc26518b5ea4dec38071557a46e59e1a5e2"
+        ],
+        "nl_document_list": [
+            "Thirteen car models are produced in the USA.",
+            "13 car models are produced in USA.",
+            "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 1, CountryName usa, CountryId 2, CountryName germany, CountryId 4, CountryName japan, CountryId 5, CountryName italy.",
+            "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 1, CountryName USA, CountryId 2, CountryName Germany, CountryId 4, CountryName Japan, and CountryId 5, CountryName Italy."
+        ]
+    },
+    {
+        "table_id_set": [
+            "3a92e49624e82144c8636927f79c3f91235b1a1d08e45b5de271a84a6d4193a9",
+            "90a6e9ea1a0c158eb4dc5e7195709ae8a77e882fd5cdbed11b9a31c6fccbf405",
+            "93b00ff543aa312c3032889b596a7c96651856e1f54e87e8f02e69b3dfa22cdb"
+        ],
+        "nl_document_list": [
+            "The number of stores in each city are as follows: Hafizabad City has 1 store.",
+            "The city that is the headquarters of the store named \"Neguac\" is Khanewal City.",
+            "Stores in Khanewal District are Miramichi and Neguac.",
+            "The city that is the headquarters of the store named \"Blackville\" is Bhakkar City.",
+            "The city that is the headquarters of the store named \"Rogersville\" is Hafizabad City.",
+            "The number of stores in each city are as follows: Bahawalpur City has 1 store.",
+            "The city with the most number of stores is Khanewal City.",
+            "The number of stores in each city are as follows: Bhakkar City has 1 store.",
+            "The city that is the headquarters of the store named \"Miramichi\" is Khanewal City.",
+            "Stores in Hafizabad District are Rogersville.",
+            "The city that is the headquarters of the store named \"Doaktown\" is Bahawalpur City.",
+            "Stores in Bahawalpur District are Doaktown.",
+            "Stores in Bhakkar District are Blackville.",
+            "The number of stores in each city are as follows: Khanewal City has 2 stores.",
+            "Stores in Khanewal District are Miramichi, Neguac.",
+            "The number of stores in each city are as follows: Bahawalpur City has 1 store, Bhakkar City has 1 store, Hafizabad City has 1 store, and Khanewal City has 2 stores.",
+            "Districts where there are both city mall and village store type stores are Khanewal District."
+        ]
+    },
+    {
+        "table_id_set": [
+            "578ada8a2be27f787dd61e404764154540105ff8cc538b8a655ba59e9e08dca7",
+            "6bc4e83f039aa281e23d3cde4556cdd32d9166593dc382cdcf0d50898a5c5fa4"
+        ],
+        "nl_document_list": [
+            "The episodes of TV series shown on the TV Channel with the series name \"Sky Radio\" are \"A Love of a Lifetime\" and \"Keepers\".",
+            "The TV channel for the TV series with the episode \"Double Down\" is MTV Music.",
+            "The episodes of TV series shown on the TV Channel with the series name myDeejay are The Legend of Dylan McCleen, The Hanged Man.",
+            "The TV channel for the TV series with the episode \"Game Three\" is MTV Dance.",
+            "The TV channel for the TV series with the episode \"Keepers\" is Sky Radio.",
+            "The TV channel for the TV series with the episode \"A Love of a Lifetime\" is Sky Radio.",
+            "The episodes of TV series shown on the TV Channel with the series name Rock TV are Emily.",
+            "The episodes of TV series shown on the TV Channel with the series name Hip Hop TV are Blowback.",
+            "The episodes of TV series shown on the TV Channel with the series name Sky Radio are A Love of a Lifetime, Keepers.",
+            "The TV channel for the TV series with the episode \"The Year of the Rabbit\" is Radio Capital TiV\u00c3\u00b9.",
+            "The episodes of TV series shown on the TV Channel with the series name Classica are Home By Another Way.",
+            "The TV channel for the TV series with the episode \"Friendly Skies\" is Sky Music.",
+            "The TV channel for the TV series with the episode \"The Legend of Dylan McCleen\" is myDeejay.",
+            "The TV channel for the TV series with the episode \"The Hanged Man\" is myDeejay.",
+            "The TV channel for the TV series with the episode \"Home By Another Way\" is Classica.",
+            "The TV channel for the TV series with the episode \"Emily\" is Rock TV.",
+            "The episodes of TV series shown on the TV Channel with the series name MTV Dance are Game Three, Winterland.",
+            "The TV channel for the TV series with the episode \"Blowback\" is Hip Hop TV.",
+            "The episodes of TV series shown on the TV Channel with the series name Sky Music are Friendly Skies.",
+            "The TV channel for the TV series with the episode \"Winterland\" is MTV Dance.",
+            "The episodes of TV series shown on the TV Channel with the series name Radio Capital TiV\u00c3\u00b9 are The Year of the Rabbit.",
+            "The episodes of TV series shown on the TV Channel with the series name MTV Music are Double Down."
+        ]
+    },
+    {
+        "table_id_set": [
+            "13edf3d562e1c61cd1b145d108049b8064a05a871303730662f33748d0497126",
+            "15f57d670e01cf1ad3d4c7d1e191a36fa5277e1e1651e825219e363099f39aeb",
+            "fe1b50486ebfaa477746e003af27e6bc976e93f6f4df508621db4ea0d338c6ba"
+        ],
+        "nl_document_list": [
+            "The response received dates for the documents described as 'Regular' or granted with more than 100 are 1977-12-01 02:18:53, 1995-09-12 13:13:48, 1986-05-23 07:17:59, 1976-10-04 22:13:27, 1986-05-18 01:54:56, 1987-10-29 15:35:50, 1994-03-13 01:52:45, 1977-01-27 07:14:11, 1971-08-28 11:20:56, and 1999-06-01 18:41:00.",
+            "The response received dates for the documents described as 'Regular' or granted with more than 100 are 1999-06-01 18:41:00, 1987-10-29 15:35:50, 1977-12-01 02:18:53, 1971-08-28 11:20:56, 1986-05-23 07:17:59, 1986-05-18 01:54:56, 1976-10-04 22:13:27, 1977-01-27 07:14:11, 1994-03-13 01:52:45, 1995-09-12 13:13:48.",
+            "The start dates for grants with both documents described as 'Regular' and documents described as 'Initial Application' are 1979-10-29 07:44:22, 1982-04-07 00:07:43, and 2004-11-10 02:26:01."
+        ]
+    },
+    {
+        "table_id_set": [
+            "32fddcacdb65c3460e8d4d9736ed78e5e955c2bada9590bb9151ce8699c45c74",
+            "bc12e34fa1321da420f86b077979b88b43d3820a70e3bc4725fc8e697e2c6327"
+        ],
+        "nl_document_list": [
+            "Workshop groups with bookings having status code \"good\" are Amely Cafe, Veda Film, Queen Art, Hansen Print, Welch Flower, Orn News, Warino Photo.",
+            "Workshop groups with bookings having status code \"stop\" are Bednar Film, Kling Workshop, Warino Photo, and Queen Art.",
+            "Workshop groups with bookings having status code \"stop\" are Queen Art, Kling Workshop, Bednar Film, Warino Photo."
+        ]
+    }
+]

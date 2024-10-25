@@ -29,12 +29,12 @@ async def annotate_questions_task(
             system_prompt=load_prompt(role='system', task='annotate_questions_with_high_header_sim'),
             user_prompt=load_prompt(role='user', task=f'annotate_questions_with_high_header_sim').format(
                 shots=input_data['shots'],
-                gold_table_set_information="\n".join([
+                gold_table_set_schema="\n".join([
                     table_serialization(
                         table_num=tdx + 1,
                         metadata=gold_table['metadata'],
                         header=gold_table['header'],
-                        cell=gold_table['cell']
+                        cell=None
                     )
                     for tdx, gold_table in enumerate(input_data['gold_table_set'])
                 ]),
@@ -161,22 +161,19 @@ def annotate_questions(
 
         try:
             indices = re.findall(r"Annotated question (\d+):", task_output['response'])
-            questions = re.findall(r"Question: (.+?)(?=Difficulty:)", task_output['response'], re.DOTALL)
-            difficulties = re.findall(r"Difficulty: (\w+)", task_output['response'])
-            references = re.findall(r"Reference: \[(.*?)\]", task_output['response'])
+            questions = re.findall(r"Question: (.+?)(?=Type:)", task_output['response'], re.DOTALL)
+            types = re.findall(r"Type: (\w+)", task_output['response'])
 
             questions = [question.strip() for question in questions]
-            references = [[int(ref) for ref in ref_list.split(", ")] if ref_list != '' else [] for ref_list in references]
 
             high_level_question_set[idx]['question_list'].extend(questions)
-            for qdx, question, diff, ref in zip(indices, questions, difficulties, references):
+            for qdx, question, type in zip(indices, questions, types):
                 file_buffer = "\n".join([
                     file_buffer,
                     "\n".join([
                         f"# {qdx}th annotation:",
                         f"High-level question: {question}",
-                        f"Annotation difficulty: {diff}",
-                        f"Referred statement indices: {ref}",
+                        f"Question type: {type}",
                         ""
                     ])
                 ])

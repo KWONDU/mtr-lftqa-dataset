@@ -77,7 +77,11 @@ def validate(
                 {
                     'question': qa_pair['question'],
                     'answer': qa_pair['answer'],
-                    'validation': dict()
+                    'validation': {
+                        'table_and_question': None,
+                        'table_and_answer': None,
+                        'question_and_answer': None
+                    }
                 }
                 for qa_pair in instance['annotation']
             ]

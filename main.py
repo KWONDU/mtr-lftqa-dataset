@@ -6,7 +6,7 @@ import random
 from utils.dataset import load_source_dataset
 
 
-def main(source_dataset_name, sample_n, type, logger):
+def main(source_dataset_name, sample_n, classification, logger):
     if not FLAG[0]:
         exit()
 
@@ -21,10 +21,10 @@ def main(source_dataset_name, sample_n, type, logger):
 
     ### STEP 1 ###
     if FLAG[1]:
-        if type == 'low_header_sim':
+        if classification == 'low_header_sim':
             from steps.low_header_sim.annotate_questions import annotate_questions
             from get_shots import get_annotate_questions_task_shots_with_low_header_sim as get_annotate_questions_task_shots
-        elif type == 'high_header_sim':
+        elif classification == 'high_header_sim':
             from steps.high_header_sim.annotate_questions import annotate_questions
             from get_shots import get_annotate_questions_task_shots_with_high_header_sim as get_annotate_questions_task_shots
 
@@ -38,7 +38,7 @@ def main(source_dataset_name, sample_n, type, logger):
             semaphore=semaphore
         )
 
-        with open(f'results/storage/{type}/high_level_question_set.json', 'w') as file:
+        with open(f'results/storage/{classification}/high_level_question_set.json', 'w') as file:
             json.dump(high_level_question_set, file, indent=4)
         
         logger.info(f"[{'Done':<7}]: annotate questions.")
@@ -48,10 +48,10 @@ def main(source_dataset_name, sample_n, type, logger):
 
     ### STEP 2 ###
     if FLAG[2]:
-        if type == 'low_header_sim':
+        if classification == 'low_header_sim':
             from steps.low_header_sim.expand_statement import expand_statement
             from get_shots import get_expand_statement_task_shots_with_low_header_sim as get_expand_statement_task_shots
-        elif type == 'high_header_sim':
+        elif classification == 'high_header_sim':
             from steps.high_header_sim.expand_statement import expand_statement
             from get_shots import get_expand_statement_task_shots_with_high_header_sim as get_expand_statement_task_shots
 
@@ -65,7 +65,7 @@ def main(source_dataset_name, sample_n, type, logger):
             semaphore=semaphore
         )
 
-        with open(f'results/storage/{type}/table_document_set.json', 'w') as file:
+        with open(f'results/storage/{classification}/table_document_set.json', 'w') as file:
             json.dump(table_document_set, file, indent=4)
         
         logger.info(f"[{'Done':<7}]: expand statement.")
@@ -75,9 +75,9 @@ def main(source_dataset_name, sample_n, type, logger):
 
     ### STEP 3 ###
     if FLAG[3]:
-        if type == 'low_header_sim':
+        if classification == 'low_header_sim':
             from steps.low_header_sim.annotate_answer import annotate_answer
-        elif type == 'high_header_sim':
+        elif classification == 'high_header_sim':
             from steps.high_header_sim.annotate_answer import annotate_answer
 
         logger.info("> Step 3")
@@ -88,7 +88,7 @@ def main(source_dataset_name, sample_n, type, logger):
             semaphore=semaphore
         )
 
-        with open(f'results/storage/{type}/high_level_qa_pair_set.json', 'w') as file:
+        with open(f'results/storage/{classification}/high_level_qa_pair_set.json', 'w') as file:
             json.dump(high_level_qa_pair_set, file, indent=4)
         
         logger.info(f"[{'Done':<7}]: annotate answer.")
@@ -103,13 +103,13 @@ def main(source_dataset_name, sample_n, type, logger):
         logger.info("> Step 4")
         logger.info(f"[{'Start':<7}]: validate.")
         high_level_qa_pair_set_with_validation, success_cnt, fail_cnt, cost = validate(
-            type=type,
+            classification=classification,
             table_lake=table_lake,
             model_name=MODEL_NAME,
             semaphore=semaphore
         )
 
-        with open(f'results/storage/{type}/high_level_qa_pair_set_with_validation.json', 'w') as file:
+        with open(f'results/storage/{classification}/high_level_qa_pair_set_with_validation.json', 'w') as file:
             json.dump(high_level_qa_pair_set_with_validation, file, indent=4)
 
         logger.info(f"[{'Done':<7}]: validate.")
@@ -122,7 +122,7 @@ def main(source_dataset_name, sample_n, type, logger):
         logger.info("> Step 5")
         logger.info(f"[{'Start':<7}]: filtering.")
 
-        with open(f'results/storage/{type}/high_level_qa_pair_set_with_validation.json', 'r') as file:
+        with open(f'results/storage/{classification}/high_level_qa_pair_set_with_validation.json', 'r') as file:
             high_level_qa_pair_set_with_validation = json.load(file)
 
         dataset = [
@@ -134,15 +134,15 @@ def main(source_dataset_name, sample_n, type, logger):
             for instance in high_level_qa_pair_set_with_validation
             for annotation in instance['annotation']
             if (
-                annotation['validation']['gold_table_set']
+                annotation['validation']['table_and_question']
                 and
-                annotation['validation']['annotated_question']
+                annotation['validation']['table_and_answer']
                 and
-                annotation['validation']['annotated_answer']
+                annotation['validation']['question_and_answer']
             )
         ]
 
-        with open(f'results/{type}_dataset.json', 'w') as file:
+        with open(f'results/{classification}_dataset.json', 'w') as file:
             json.dump(dataset, file, indent=4)
         
         logger.info(f"[{'Done':<7}]: filtering.")
@@ -169,7 +169,7 @@ if __name__ == '__main__':
 
     FLAG = [True, False, False, False, True, True]
 
-    TYPE = {
+    CLASS = {
         'SourceMultiTabQA': 'low_header_sim',
         'SourceOpenWikiTable': 'high_header_sim'
     }
@@ -177,6 +177,6 @@ if __name__ == '__main__':
     main(
         source_dataset_name=args.d,
         sample_n=args.n,
-        type=TYPE[args.d],
+        classification=CLASS[args.d],
         logger=logger
     )
