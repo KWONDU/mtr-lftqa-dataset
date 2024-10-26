@@ -1,0 +1,95 @@
+# Gold table set
+Table 1:
+metadata: car_1 | car_makers
+full table:
+Id | Maker        | FullName               | Country
+----------------------------------------------------
+1  | amc          | American Motor Company | 1      
+2  | volkswagen   | Volkswagen             | 2      
+3  | bmw          | BMW                    | 2      
+4  | gm           | General Motors         | 1      
+5  | ford         | Ford Motor Company     | 1      
+6  | chrysler     | Chrysler               | 1      
+7  | citroen      | Citroen                | 3      
+8  | nissan       | Nissan Motors          | 4      
+9  | fiat         | Fiat                   | 5      
+11 | honda        | Honda                  | 4      
+12 | mazda        | Mazda                  | 4      
+13 | daimler benz | Daimler Benz           | 2      
+14 | opel         | Opel                   | 2      
+15 | peugeaut     | Peugeaut               | 3      
+16 | renault      | Renault                | 3      
+17 | saab         | Saab                   | 6      
+18 | subaru       | Subaru                 | 4      
+19 | toyota       | Toyota                 | 4      
+20 | triumph      | Triumph                | 7      
+21 | volvo        | Volvo                  | 6      
+22 | kia          | Kia Motors             | 8      
+23 | hyundai      | Hyundai                | 8      
+
+Table 2:
+metadata: car_1 | model_list
+full table:
+ModelId | Maker | Model        
+-------------------------------
+1       | 1     | amc          
+2       | 2     | audi         
+3       | 3     | bmw          
+4       | 4     | buick        
+5       | 4     | cadillac     
+6       | 5     | capri        
+7       | 4     | chevrolet    
+8       | 6     | chrysler     
+9       | 7     | citroen      
+10      | 8     | datsun       
+11      | 6     | dodge        
+12      | 9     | fiat         
+13      | 5     | ford         
+14      | 10    | hi           
+15      | 11    | honda        
+16      | 12    | mazda        
+17      | 13    | mercedes     
+18      | 13    | mercedes-benz
+19      | 5     | mercury      
+20      | 8     | nissan       
+21      | 4     | oldsmobile   
+22      | 14    | opel         
+23      | 15    | peugeot      
+24      | 6     | plymouth     
+25      | 4     | pontiac      
+26      | 16    | renault      
+27      | 17    | saab         
+28      | 18    | subaru       
+29      | 19    | toyota       
+30      | 20    | triumph      
+31      | 2     | volkswagen   
+32      | 21    | volvo        
+33      | 22    | kia          
+34      | 23    | hyundai      
+35      | 6     | jeep         
+36      | 19    | scion        
+
+Table 3:
+metadata: car_1 | countries
+full table:
+CountryId | CountryName | Continent
+-----------------------------------
+1         | usa         | 1        
+2         | germany     | 2        
+3         | france      | 2        
+4         | japan       | 3        
+5         | italy       | 2        
+6         | sweden      | 2        
+7         | uk          | 2        
+8         | korea       | 3        
+9         | russia      | 2        
+10        | nigeria     | 4        
+11        | australia   | 5        
+12        | new zealand | 5        
+13        | egypt       | 4        
+14        | mexico      | 1        
+15        | brazil      | 1        
+
+# Question: How does the presence of specific car makers in the USA contribute to the overall diversity of car models produced in the country, and what impact does this have on the automotive industry?
+
+Validation: No

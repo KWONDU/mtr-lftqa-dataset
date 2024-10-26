@@ -1,6 +1,5 @@
 import asyncio
 import json
-import re
 import traceback
 from tqdm import tqdm
 from tqdm.asyncio import tqdm_asyncio
@@ -11,8 +10,8 @@ async def validate_task(semaphore, model_input, model_name):
     tasks = [
         get_async_openai_response(
             semaphore=semaphore,
-            system_prompt=load_prompt(role='system', task='validate'),
-            user_prompt=load_prompt(role='user', task='validate').format(
+            system_prompt=load_prompt(role='system', task=f"validate_{input_data['task_type']}"),
+            user_prompt=load_prompt(role='user', task=f"validate_{input_data['task_type']}").format(
                 gold_table_set_information="\n".join([
                     table_serialization(
                         table_num=tdx + 1,
@@ -22,11 +21,26 @@ async def validate_task(semaphore, model_input, model_name):
                     )
                     for tdx, gold_table in enumerate(input_data['gold_table_set'])
                 ]),
+                question=input_data['question']
+            ) if input_data['task_type'] == 'table_and_question' else \
+            load_prompt(role='user', task=f"validate_{input_data['task_type']}").format(
+                gold_table_set_information="\n".join([
+                    table_serialization(
+                        table_num=tdx + 1,
+                        metadata=gold_table['metadata'],
+                        header=gold_table['header'],
+                        cell=gold_table['cell']
+                    )
+                    for tdx, gold_table in enumerate(input_data['gold_table_set'])
+                ]),
+                answer=input_data['answer']
+            ) if input_data['task_type'] == 'table_and_answer' else \
+            load_prompt(role='user', task=f"validate_{input_data['task_type']}").format(
                 question=input_data['question'],
                 answer=input_data['answer']
-            ),
+            ) if input_data['task_type'] == 'question_and_answer' else None,
             model_name=model_name,
-            key=input_data['key']
+            key=(input_data['key'][0], input_data['key'][1], input_data['task_type']) # (idx, jdx, task_type)
         )
         for input_data in model_input
     ]
@@ -47,7 +61,7 @@ async def validate_task(semaphore, model_input, model_name):
 
 
 def validate(
-        type: Literal['low_header_sim', 'high_header_sim'],
+        classification: Literal['low_header_sim', 'high_header_sim'],
         table_lake: Dict[str, Dict[str, Any]],
         model_name: str,
         semaphore: asyncio.Semaphore
@@ -55,7 +69,7 @@ def validate(
     """Task: validate
 
     [Params]
-    type         : Literal['low_header_sim', 'high_header_sim']
+    classification         : Literal['low_header_sim', 'high_header_sim']
     table_lake   : Dict[str, Dict[str, Any]]
     model_name   : str
     semaphore    : asyncio.Semaphore
@@ -67,7 +81,7 @@ def validate(
     cost                    : int
     """
     # Initialization and setup
-    with open(f'results/storage/{type}/high_level_qa_pair_set.json', 'r') as file:
+    with open(f'results/storage/{classification}/high_level_qa_pair_set.json', 'r') as file:
         high_level_qa_pair_set = json.load(file)
 
     high_level_qa_pair_set_with_validation =  [
@@ -90,8 +104,8 @@ def validate(
     ] # Output
 
     for role in ['system', 'user']:
-        task = 'validate'
-        save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
+        for task_type in ['table_and_question', 'table_and_answer', 'question_and_answer']:
+            save_prompt(file_path=f'prompts/{role}/validate_{task_type}.txt', role=role, task=f'validate_{task_type}')
 
     # Main task
     model_input = []
@@ -102,12 +116,14 @@ def validate(
         ]
 
         for jdx, qa_pair in enumerate(instance['annotation']):
-            model_input.append({
-                'gold_table_set': gold_table_set,
-                'question': qa_pair['question'],
-                'answer': qa_pair['answer'],
-                'key': (idx, jdx)
-            })
+            for task_type in ['table_and_question', 'table_and_answer', 'question_and_answer']:
+                model_input.append({
+                    'task_type': task_type,
+                    'gold_table_set': gold_table_set,
+                    'question': qa_pair['question'],
+                    'answer': qa_pair['answer'],
+                    'key': (idx, jdx)
+                })
     
     semaphore = asyncio.Semaphore(100)
     task_output_list, cost = asyncio.run(validate_task(
@@ -117,61 +133,64 @@ def validate(
     ))
 
     # Clear
-    clear_storage(storage_path=f'buffer/{type}/validate', extension='txt')
+    clear_storage(storage_path=f'buffer/{classification}/validate', extension='txt')
 
     # Storage
     success_cnt, fail_cnt = 0, 0
     for task_output in tqdm(task_output_list, desc=f"[{'Storage':<7}]"):
-        idx, jdx = task_output['key']
+        idx, jdx, task_type = task_output['key']
 
-        file_buffer = "# Gold table set"
-        for tdx, table_id in enumerate(high_level_qa_pair_set[idx]['gold_table_id_set']):
+        if 'table' in task_type:
+            file_buffer = "# Gold table set"
+            for tdx, table_id in enumerate(high_level_qa_pair_set[idx]['gold_table_id_set']):
+                file_buffer = "\n".join([
+                    file_buffer,
+                    table_visualization(
+                        table_num=tdx+1,
+                        metadata=table_lake[table_id]['metadata'],
+                        header=table_lake[table_id]['header'],
+                        cell=table_lake[table_id]['cell']
+                    ),
+                    ""
+                ])
             file_buffer = "\n".join([
                 file_buffer,
-                table_visualization(
-                    table_num=tdx+1,
-                    metadata=table_lake[table_id]['metadata'],
-                    header=table_lake[table_id]['header'],
-                    cell=table_lake[table_id]['cell']
-                ),
+                f"# Question: {high_level_qa_pair_set[idx]['annotation'][jdx]['question']}" if 'question' in task_type else \
+                f"# Answer: {high_level_qa_pair_set[idx]['annotation'][jdx]['answer']}" if 'answer' in task_type else None,
                 ""
             ])
-        
-        file_buffer = "\n".join([
-            file_buffer,
-            f"# Question: {high_level_qa_pair_set[idx]['annotation'][jdx]['question']}",
-            "",
-            f"# Answer: {high_level_qa_pair_set[idx]['annotation'][jdx]['answer']}",
-            ""
-        ])
+        else:
+            file_buffer = "\n".join([
+                f"# Question: {high_level_qa_pair_set[idx]['annotation'][jdx]['question']}",
+                "",
+                f"# Answer: {high_level_qa_pair_set[idx]['annotation'][jdx]['answer']}",
+                ""
+            ])
 
         try:
-            validations = re.findall(r'A\d+\.\s*(Yes|No)', task_output['response'], re.IGNORECASE)
-            if len(validations) != 3:
-                raise ValueError(f"[Error] only extract {len(validations)} validations.")
-            
             high_level_qa_pair_set_with_validation[idx]['annotation'][jdx]['validation'].update({
-                'gold_table_set': True if validations[0].strip().title() == 'Yes' else False if validations[0].strip().title() == 'No' else None,
-                'annotated_question': True if validations[1].strip().title() == 'Yes' else False if validations[1].strip().title() == 'No' else None,
-                'annotated_answer': True if validations[2].strip().title() == 'Yes' else False if validations[2].strip().title() == 'No' else None
+                task_type: True if task_output['response'].strip().title() == 'Yes' else \
+                    False if task_output['response'].strip().title() == 'No' else None
             })
 
             file_buffer = "\n".join([
                 file_buffer,
-                "Q1. Is the gold table set composed of sufficiently relevant tables?",
-                f"A1. {validations[0].strip().title()}."
-                "",
-                "Q2. Is the question focused on a specific topic in an organized manner, and does it include content related to all the metadata of the gold tables?",
-                f"A2. {validations[1].strip().title()}."
-                "",
-                "Q3. Is the answer sufficiently fluent and coherent, faithfully constructed with the content of the gold table set, and does it include all necessary information from the gold table set information?",
-                f"A3. {validations[2].strip().title()}."
+                f"Validation: {task_output['response']}",
                 ""
             ])
 
             success_cnt += 1
-            with open(f'buffer/{type}/validate/{idx+1}_{jdx+1}_successed.txt', 'w') as file:
-                file.write(file_buffer)
+            if task_type == 'table_and_question':
+                with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_t_and_q_successed.txt', 'w') as file:
+                    file.write(file_buffer)
+            elif task_type == 'table_and_answer':
+                with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_t_and_a_successed.txt', 'w') as file:
+                    file.write(file_buffer)
+            elif task_type == 'question_and_answer':
+                with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_q_and_a_successed.txt', 'w') as file:
+                    file.write(file_buffer)
+            else:
+                continue
         
         except:
             file_buffer = "\n".join([
@@ -185,11 +204,20 @@ def validate(
             ])
 
             fail_cnt += 1
-            with open(f'buffer/{type}/validate/{idx+1}_{jdx+1}_failed.txt', 'w') as file:
-                file.write(file_buffer)
-
+            if task_type == 'table_and_question':
+                with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_t_and_q_failed.txt', 'w') as file:
+                    file.write(file_buffer)
+            elif task_type == 'table_and_answer':
+                with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_t_and_a_failed.txt', 'w') as file:
+                    file.write(file_buffer)
+            elif task_type == 'question_and_answer':
+                with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_q_and_a_failed.txt', 'w') as file:
+                    file.write(file_buffer)
+            else:
+                continue
+    
     # Buffer
-    with open(f'buffer/{type}/validate.json', 'w') as file:
+    with open(f'buffer/{classification}/validate.json', 'w') as file:
         json.dump(task_output_list, file, indent=4)
     
     return high_level_qa_pair_set_with_validation, success_cnt, fail_cnt, cost

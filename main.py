@@ -167,7 +167,7 @@ if __name__ == '__main__':
     add_openai_api_key(api_key=api_key)
     """
 
-    FLAG = [True, False, False, False, True, True]
+    FLAG = [True, False, False, False, False, True]
 
     CLASS = {
         'SourceMultiTabQA': 'low_header_sim',

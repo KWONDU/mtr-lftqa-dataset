@@ -1,17 +1,7 @@
-Please evaluate the following data and provide the scores as per the guidelines.
-
-**Input:**
+Please validate the following based on the provided points.
 
 - **Gold Table Set Information**:
 {gold_table_set_information}
 
-- **High-Level Question**:
-{question}
-
-- **High-Level Answer**:
+- **Answer**:
 {answer}
-
-- **Output**:
-A1. [Yes or No]
-A2. [Yes or No]
-A3. [Yes or No]
