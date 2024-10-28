@@ -5,13 +5,7 @@
             "8374b0414dde97505ade584e0774dbceaebe3db8a44f71f132669cd4ae70d1c4",
             "f06da14e8a44b078739c187abcdfc5cbb4602e109ad9c6cad6c02ee681a22de8"
         ],
-        "question_list": [
-            "How do the typical buying and selling prices of products colored 'white' without the unit of measurement \"Handful\" compare across different product categories, and what factors might influence these price variations?",
-            "What impact does the color 'white' have on the product descriptions and other details of items that do not use the unit of measurement \"Handful,\" and how does this influence consumer preferences?",
-            "How does the absence of the unit of measurement \"Handful\" affect the product names and categories of items colored 'white,' and what insights can be drawn about market segmentation based on these characteristics?",
-            "What are the unique characteristics of products colored 'white' without the unit of measurement \"Handful,\" and how do these characteristics contribute to the differentiation of products in the market?",
-            "Which product names correspond to items that are colored 'white' but do not use the unit of measurement \"Handful,\" and how do these products cater to specific consumer needs or preferences?"
-        ]
+        "question_list": []
     },
     {
         "gold_table_id_set": [
@@ -20,16 +14,15 @@
             "d066861c87b9a19cd92c0c52c384180408c29b73a149019d2632dc1bf202043c"
         ],
         "question_list": [
-            "How do the interactions between enzymes and medicines, specifically focusing on inhibitors, impact the treatment process, and what role does the enzyme 'ALA synthase' play in this context?",
-            "What insights can be gained from the enzyme-product relationships in terms of potential interactions with medicines, particularly those related to 'Heme' products?",
-            "How does the FDA approval status of medicines influence their interactions with enzymes, and what implications does this have for drug development and safety?",
-            "What are the enzyme names associated with the medicine 'Amisulpride' that act as inhibitors, and how do these interactions contribute to the therapeutic effects of the medicine?",
-            "What is the specific interaction type between the enzyme 'ALA synthase' and the medicine 'Aripiprazole', and how does this interaction potentially affect the enzyme's functionality?",
-            "Which medicines and their trade names are incompatible with the enzyme having the product 'Heme', and what are the reasons behind these non-interactions?",
-            "How do the enzyme locations and OMIM numbers correlate with the types of interactions they have with different medicines, and what insights can be drawn from this relationship?",
-            "What impact does the chromosome location of enzymes have on their interactions with medicines, and how does this influence the development of enzyme-targeted therapies?",
-            "How does the presence of porphyria in enzymes affect their interactions with specific medicines, and what precautions need to be considered in such interactions?",
-            "What are the trade names of medicines that have interactions with enzymes, and how does the FDA approval status of these medicines play a role in their enzyme interactions?"
+            "How do the interactions between enzymes and medicines, specifically focusing on the enzyme 'ALA synthase' and the medicine 'Aripiprazole', vary in terms of their interaction types, and what implications does this have for drug metabolism and efficacy?",
+            "What is the significance of the location of enzymes in the context of medicine interactions, particularly examining how the location influences the potential inhibitory effects of enzymes on the medicine 'Amisulpride'?",
+            "How does the FDA approval status of medicines impact their interactions with enzymes, and what are the implications of these interactions for drug safety and efficacy?",
+            "What role does the chromosome play in the interactions between enzymes and medicines, and how does this genetic component influence the effectiveness of enzyme inhibitors in medications like 'Amisulpride'?",
+            "How do the OMIM (Online Mendelian Inheritance in Man) entries for enzymes relate to their interactions with medicines, particularly focusing on enzymes that can serve as inhibitors for drugs like 'Amisulpride'?",
+            "What are the enzyme names associated with medicines that have interactions classified as 'inhibitor', and how do these interactions contribute to the therapeutic effects of the medications?",
+            "How does the presence of porphyria in enzymes affect their interactions with medicines, and what are the implications of these interactions for patients taking medications like 'Amisulpride'?",
+            "What are the trade names of medicines that do not interact with enzymes producing the product 'Heme', and how does this lack of interaction impact the treatment options available for patients with conditions related to heme metabolism?",
+            "How do the interactions between enzymes and medicines vary based on the type of product produced by the enzyme, and what insights does this provide into potential drug interactions and side effects?"
         ]
     },
     {
@@ -38,16 +31,15 @@
             "c6f40e9322b594e79c8743f517c3764f25117771e5bf5174b5e3059ee9a91b39"
         ],
         "question_list": [
-            "How does the cmi cross reference id, which is associated with council tax entries, impact the integration of data from different source systems in local government master data management?",
-            "What is the significance of the council tax id in linking master customer information to the cmi cross reference id, and how does this linkage streamline data retrieval processes in local government MDM?",
-            "How do the source system codes in the cmi cross references table correspond to the council tax entries, and what implications does this have for data consistency and accuracy in local government MDM?",
-            "What factors influence the assignment of cmi cross reference ids to council tax entries, and how does this relationship facilitate data governance and compliance in local government MDM?",
-            "What is the role of the council tax id in maintaining data integrity within the local government MDM system, and how does it ensure accurate cross-referencing with the cmi cross reference ids?",
-            "What is the cmi cross reference id associated with council tax entries, and what is the corresponding source system code for this linkage?",
-            "Which cmi cross reference ids are linked to council tax entries, and what are the source system codes assigned to these cross references?",
-            "How many council tax entries are connected to cmi cross reference ids, and what are the source system codes for these linkages?",
-            "What are the cmi cross reference ids that have associations with council tax entries, and how do these linkages enhance data connectivity across different source systems?",
-            "What is the relationship between the council tax id and the cmi cross reference id, and how does this relationship facilitate data synchronization between various local government MDM components?"
+            "How does the cmi cross-reference ID associated with council tax entries in the local government master data management system correlate with the source system codes, and what insights can be derived from this relationship regarding data integration and management efficiency?",
+            "What is the significance of the master customer IDs linked to council tax entries in the local government MDM system, and how does this linkage impact the accuracy and consistency of customer data across different source systems?",
+            "How do the council tax IDs in the local government MDM system relate to the cmi cross-reference IDs, and what implications does this relationship have for data retrieval and cross-referencing processes within the system?",
+            "What factors influence the assignment of source system codes to cmi cross-reference IDs in the local government MDM system, and how does this impact the traceability and auditability of data across various council tax entries?",
+            "How does the presence of council tax entries affect the management of master customer IDs in the local government MDM system, and what measures are in place to ensure data accuracy and consistency within the system?",
+            "What insights can be gained from analyzing the relationship between council tax IDs and cmi cross-reference IDs in the local government MDM system, particularly in terms of data governance and information retrieval processes?",
+            "How are the council tax entries uniquely identified within the local government MDM system, and how does this identification process facilitate data integration and cross-referencing with other related records?",
+            "What are the implications of the council tax IDs being linked to cmi cross-reference IDs in the local government MDM system, and how does this linkage impact data quality and consistency in customer information management?",
+            "How do the source system codes associated with cmi cross-reference IDs in the local government MDM system vary based on the council tax entries, and what measures are in place to ensure data accuracy and lineage tracking across different systems?"
         ]
     },
     {
@@ -56,16 +48,15 @@
             "648e86ff0c6ea0767644862ebcb519a52298dab3d2744209d12a0f010461fa66"
         ],
         "question_list": [
-            "How does the number of payments made for a booking relate to the amount of refund issued for that booking, and what factors might influence this relationship in the context of products available for hire?",
-            "What impact does the frequency of payments have on the amount payable and the amount outstanding for bookings, especially in cases where the booking status indicates damage upon return?",
-            "How do the payment types chosen by customers affect the amount of discount applied to bookings, and how does this influence the overall amount paid for products for hire?",
-            "What is the significance of the payment date in determining the amount due and the amount paid for bookings, and how does this vary based on whether the full amount was paid at once?",
-            "How does the count of items hired impact the amount of refund issued for a booking, and what role does the booking start date play in determining the total amount payable for products for hire?",
-            "What is the booking ID and the amount of refund associated with the booking that had the highest number of payments made, and how does this reflect customer behavior in the context of hiring products?",
-            "How many times was payment made for the booking with the highest number of payments, and what was the total amount payable and the amount outstanding for this booking?",
-            "What payment types were used for the booking that incurred the most payments, and how did these payment types affect the amount of discount applied and the total amount paid for the products hired?",
-            "When was the payment made for the booking with the highest number of payments, and how did this payment date influence the amount due and the amount paid for the booking?",
-            "How many items were hired for the booking that received the highest number of payments, and what was the booking start date and end date for this particular booking?"
+            "How does the number of payments made for a booking relate to the amount of refund associated with that booking, and what factors might influence the frequency of payments and refund amounts in the products for hire dataset?",
+            "What is the impact of the payment type on the amount paid in full for bookings in the products for hire dataset, and how does this influence the outstanding amounts and refunds processed?",
+            "How do the booking start and end dates affect the payment schedule and the amount payable for customers in the products for hire dataset, and what trends can be observed in the payment patterns based on these dates?",
+            "What is the relationship between the booking status code and the amount of discount offered for products hired, and how does this impact the total amount payable and outstanding for customers in the dataset?",
+            "How does the count of items hired during a booking period correlate with the payment amounts and the likelihood of damages or refunds in the products for hire dataset, and what insights can be drawn from this relationship?",
+            "What factors contribute to the amount due for bookings in the products for hire dataset, and how does the payment date influence the amount paid and outstanding balances for customers?",
+            "How does the customer ID impact the payment process, including the amount paid in full and outstanding balances, for bookings in the products for hire dataset, and what trends can be observed across different customer profiles?",
+            "What is the significance of the returned damaged indicator in relation to the amount payable and refunds processed for bookings in the products for hire dataset, and how does this affect the overall payment experience for customers?",
+            "How do the amounts paid and outstanding vary based on the booking ID and customer ID in the products for hire dataset, and what insights can be gained by analyzing these payment patterns across different bookings and customers?"
         ]
     },
     {
@@ -74,16 +65,15 @@
             "94a05d0d2e99c973f02d1bc2281d986687aaa7eafc79be6626c83e9f45e3126c"
         ],
         "question_list": [
-            "How does the theme, date, and attendance of the exhibitions in the year 2004 reflect the diversity and popularity of art showcased at the gallery?",
-            "What factors contribute to the attendance levels at exhibitions with more than 100 attendees or ticket prices below 10, and how do these factors impact the overall success of the gallery?",
-            "How do the themes of the exhibitions correlate with the attendance records, and what insights can be drawn about the preferences of visitors based on this relationship?",
-            "What is the relationship between the ticket prices and attendance levels at the exhibitions, and how does this relationship vary across different themes and years?",
-            "How do the ticket prices and attendance numbers at the exhibitions in the gallery compare to industry standards, and what implications does this have for the gallery's financial sustainability and audience engagement?",
-            "What is the theme, date, and attendance for the exhibition with an Exhibition_ID of 2004?",
-            "How many exhibitions have an attendance greater than 100 or a ticket price below 10, and what are the specific details of these exhibitions?",
-            "What is the ticket price for the exhibition with the highest attendance, and how does this price compare to other exhibitions in the gallery?",
-            "How many exhibitions in the gallery have an attendance exceeding 100, and what are the corresponding dates and themes of these exhibitions?",
-            "What is the attendance record for the exhibition with the lowest ticket price, and how does this attendance compare to other exhibitions with similar pricing?"
+            "How does the theme of the exhibitions in the year 2004 correlate with their respective attendance numbers, and what insights can be drawn about the popularity of different themes during that year?",
+            "What factors contribute to the attendance levels at exhibitions with more than 100 attendees or ticket prices below $10, and how do these factors vary across different themes and years?",
+            "How does the ticket price of exhibitions impact the attendance levels, and what trends can be observed in the relationship between ticket pricing and visitor numbers over the years?",
+            "What is the significance of the themes chosen for exhibitions with high attendance numbers, and how does this reflect on the curation strategies of the gallery over different years?",
+            "How do the attendance records of exhibitions with ticket prices below $10 compare to those with higher ticket prices, and what does this reveal about visitor preferences and affordability?",
+            "What insights can be gained by analyzing the attendance figures of exhibitions with themes related to specific artists, and how does this impact the overall visitor experience and engagement?",
+            "How do the themes of exhibitions influence the attendance levels, and what role does the timing of the exhibitions play in attracting visitors throughout the year?",
+            "What patterns emerge when comparing the attendance records of exhibitions with different themes, and how do these patterns vary based on the ticket prices set for each exhibition?",
+            "How does the attendance at exhibitions vary based on the dates they are held, and what factors contribute to fluctuations in visitor numbers throughout the exhibition calendar?"
         ]
     },
     {
@@ -93,16 +83,15 @@
             "c2f4969f3d1908f56eafaa2c941e8dc26518b5ea4dec38071557a46e59e1a5e2"
         ],
         "question_list": [
-            "How does the number of car models produced in the USA compare to other countries, and what factors may contribute to this difference in production variety?",
-            "What is the relationship between the number of car makers and the production of the 'Fiat' model in countries that have more than three car makers, and how does this impact the diversity of car models available?",
-            "How do the countries with more than three car makers differ in terms of the variety of car models produced, and what factors may influence the concentration of car manufacturing in these countries?",
-            "What are the unique characteristics of the 'Fiat' model production in countries with multiple car makers, and how does this reflect the global distribution of car manufacturing?",
-            "How does the presence of specific car makers in the USA contribute to the overall diversity of car models produced in the country, and what impact does this have on the automotive industry?",
-            "How many car models are produced in the USA, and what are some examples of these models along with their respective makers?",
-            "Which countries have more than three car makers or produce the 'Fiat' model, and what are their corresponding IDs and names?",
-            "What are the countries that have more than three car makers, and how does this influence the production of the 'Fiat' model in those countries?",
-            "How many car makers are there in the countries that produce the 'Fiat' model, and what are the names of these countries?",
-            "What is the relationship between the countries that produce the 'Fiat' model and the number of car makers in those countries, and how does this impact the automotive market?"
+            "How does the diversity of car makers in the USA compare to other countries in terms of the number of car models produced, and what does this reveal about the automotive industry in different regions?",
+            "What factors contribute to the presence of more than three car makers in certain countries or their production of the 'Fiat' model, and how does this impact the global distribution of car manufacturing companies?",
+            "How do the countries with a high number of car makers differ in terms of the variety of car models they produce, and what influences the decision of car makers to operate in these regions?",
+            "What is the relationship between the countries that produce the 'Fiat' model and the number of car makers present in those countries, and how does this impact the market competition for this specific model?",
+            "How does the continent of a country influence the diversity of car models produced by different car makers, and what role does geographical location play in shaping the automotive market?",
+            "What are the unique characteristics of the countries that manufacture the 'Fiat' model, and how do these characteristics compare to countries with a high number of car makers?",
+            "How does the presence of the 'Fiat' model affect the distribution of car makers across different countries, and what implications does this have for the global automotive industry?",
+            "What is the impact of the continent on the distribution of car makers and the variety of car models produced, especially in countries with a high concentration of car manufacturing companies?",
+            "How do the countries producing the 'Fiat' model differ from those with more than three car makers in terms of their market strategies and global automotive market positioning?"
         ]
     },
     {
@@ -112,11 +101,10 @@
             "93b00ff543aa312c3032889b596a7c96651856e1f54e87e8f02e69b3dfa22cdb"
         ],
         "question_list": [
-            "How does the distribution of stores vary across different districts, specifically focusing on the number of stores in Khanewal District and their respective names?",
-            "What factors influence the choice of headquarters location for stores like \"Blackville,\" and how does this impact the city's population and area?",
-            "How does the number of stores in each city relate to the city's population and area size, and what insights can be drawn from this relationship?",
-            "What are the characteristics of the city with the highest number of stores, and how does this city compare to others in terms of store distribution and population?",
-            "How do the types of stores in districts with both city mall and village store categories differ, and what factors contribute to the presence of these specific store types in those districts?"
+            "How does the population and area size of cities where stores are located in Khanewal District influence the variety and ranking of products available in those stores, and what does this reveal about consumer behavior in different urban settings?",
+            "What factors contribute to the selection of the headquarters city for stores like \"Blackville,\" and how does the population of this city impact the types of products available in the store?",
+            "How does the area size of cities hosting stores correlate with the number of product categories offered in each store, and what insights can be drawn about the distribution of stores across different city sizes?",
+            "What is the relationship between the population of cities and the number of stores they host, and how does this influence the competition and variety of products available in the city?"
         ]
     },
     {
@@ -125,16 +113,15 @@
             "6bc4e83f039aa281e23d3cde4556cdd32d9166593dc382cdcf0d50898a5c5fa4"
         ],
         "question_list": [
-            "How does the language diversity of TV shows on channels like \"Sky Radio\" compare to those on channels offering Pay-per-View options, and what impact does this have on viewer demographics and ratings?",
-            "What factors influence the weekly ranking of TV series episodes, and how do these factors vary across different TV channels broadcasting shows like \"A Love of a Lifetime\"?",
-            "How do the pixel aspect ratios of TV shows on channels with high-definition TV compare to those without, and how does this affect the overall viewing experience and audience engagement?",
-            "What is the relationship between the content genres of TV series and the viewership numbers, particularly focusing on episodes aired on channels with different package options?",
-            "How do the ratings and shares of TV series episodes differ between channels broadcasting in different countries, and what insights can be drawn about the global popularity of these shows?",
-            "What is the episode number and air date of the TV series shown on the TV channel with the series name \"Sky Radio\"?",
-            "List the viewership numbers of TV series episodes aired on the TV channel with the highest 18-49 rating share, and how do these numbers compare to the weekly ranks of those episodes?",
-            "What is the pixel aspect ratio and resolution quality of the TV series episodes broadcast on the channel with the highest Pay-per-View options?",
-            "Which TV channels offer TV series episodes in languages other than English, and what are the ratings and shares of these episodes?",
-            "What are the package options available for TV series episodes aired on the TV channel with the highest viewership, and how do these options impact the overall popularity of the shows?"
+            "How does the viewership and rating of TV series like \"A Love of a Lifetime\" on different TV channels compare in terms of the 18-49 rating share and weekly rank, and what insights can be drawn about audience preferences and engagement?",
+            "What impact does the language and content of TV series, particularly those aired on channels like \"Sky Radio,\" have on their viewership ratings, and how does this influence the selection of package options and pay-per-view services for viewers?",
+            "How do the pixel aspect ratios and high-definition TV options offered by various TV channels affect the popularity and viewership of TV series, and what role does this play in the overall ranking and share of these series?",
+            "What is the relationship between the air dates of TV series and their viewership ratings on different channels, and how does this impact the weekly ranking and share of these series among viewers?",
+            "How do the TV channels differ in terms of the genres and themes of TV series they broadcast, and how does this diversity influence the viewership metrics such as ratings, shares, and weekly ranks of these series?",
+            "What are the factors that contribute to the success of TV series like \"A Love of a Lifetime\" in terms of viewership, ratings, and shares, and how do these factors vary across different TV channels?",
+            "How do the demographics of viewers, particularly in the 18-49 age group, impact the ratings and shares of TV series on various channels, and how does this demographic influence the selection of package options and pay-per-view services?",
+            "What insights can be gained by comparing the viewership metrics of TV series on channels offering pay-per-view services with those on channels that do not offer such services, and how does this impact the overall popularity and ranking of these series?",
+            "How do the ratings and shares of TV series on channels broadcasting in different languages compare, and what role does the language diversity play in attracting viewers and influencing the weekly ranks of these series?"
         ]
     },
     {
@@ -144,16 +131,15 @@
             "fe1b50486ebfaa477746e003af27e6bc976e93f6f4df508621db4ea0d338c6ba"
         ],
         "question_list": [
-            "How do the response received dates for documents described as 'Regular' and documents granted with amounts exceeding 100 compare, and what insights can be drawn from this comparison regarding grant tracking for research purposes?",
-            "What factors influence the start dates of grants that have both 'Regular' and 'Initial Application' documents, and how do these factors impact the research grant process?",
-            "How does the description of documents as 'Regular' or 'Initial Application' affect the response received dates, and what implications does this have for tracking research grants efficiently?",
-            "What is the relationship between the document types described as 'Regular' and the grant amounts exceeding 100, and how does this relationship impact the tracking of research grants?",
-            "How do the start dates of grants with 'Regular' documents and grants with 'Initial Application' documents differ, and what factors contribute to these variations in the research grant process?",
-            "What are the response received dates for documents described as 'Regular' or granted with amounts greater than 100?",
-            "List the start dates of grants that have both 'Regular' and 'Initial Application' documents.",
-            "What are the response received dates for documents described as 'Regular' or 'Initial Application', and what are the corresponding grant start dates for these documents?",
-            "How do the grant amounts for documents described as 'Regular' or 'Initial Application' influence the response received dates, and what are the implications for tracking research grants?",
-            "Provide the start dates of grants that have both 'Regular' and 'Initial Application' documents, and analyze how these dates align with the grant tracking process."
+            "How do the response received dates for documents described as 'Regular' compare to those granted with amounts exceeding 100, and what insights can be drawn regarding the processing times for different types of grants?",
+            "What factors influence the start dates of grants that have both 'Regular' and 'Initial Application' documents, and how do these factors impact the timeline for initiating research projects funded by these grants?",
+            "How does the description of documents, such as 'Regular' or 'Initial Application', affect the response times and processing durations for grants in the research tracking system, and what implications does this have for grant management efficiency?",
+            "What are the various document types associated with grants that have specific response received dates, and how do these document types differ in their descriptions and processing timelines?",
+            "How do the grant amounts for 'Regular' documents compare to those for 'Initial Application' documents, and how does this financial aspect influence the nature and scope of the research projects funded by these grants?",
+            "What insights can be gained by comparing the response received dates for documents described as 'Regular' to those for documents associated with grants exceeding 100 in amount, and how does this impact the overall research tracking process?",
+            "How do the start dates of grants with 'Regular' documents differ from those with 'Initial Application' documents, and what factors contribute to these variations in the commencement of research activities funded by these grants?",
+            "What are the implications of the response received dates for documents described as 'Regular' or granted with amounts greater than 100, and how do these implications affect the overall efficiency of the grant tracking system for research projects?",
+            "How does the nature of the documents, such as 'Regular' or 'Initial Application', impact the start dates of grants, and what patterns emerge in the scheduling of research activities based on these document types?"
         ]
     },
     {
@@ -161,12 +147,6 @@
             "32fddcacdb65c3460e8d4d9736ed78e5e955c2bada9590bb9151ce8699c45c74",
             "bc12e34fa1321da420f86b077979b88b43d3820a70e3bc4725fc8e697e2c6327"
         ],
-        "question_list": [
-            "How do the workshop groups with bookings having a status code of \"stop\" differ in terms of their marketing regions, store contact information, and other details, and what implications does this have on their operational efficiency?",
-            "What factors contribute to the status code \"stop\" being assigned to bookings for workshop groups, and how does this impact the overall customer experience and service delivery?",
-            "How does the currency code used for transactions vary among workshop groups with bookings marked as \"stop\", and what insights can be drawn regarding financial management within these groups?",
-            "What are the specific workshop group names associated with bookings that have a status code of \"stop\", and how does this status affect their planned and actual delivery dates?",
-            "Which workshop groups have bookings with a status code of \"stop\", and what are the other order details provided for these bookings?"
-        ]
+        "question_list": []
     }
 ]
