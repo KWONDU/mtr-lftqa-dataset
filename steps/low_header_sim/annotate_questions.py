@@ -155,19 +155,20 @@ def annotate_questions(
 
         try:
             indices = re.findall(r"Annotated question (\d+):", task_output['response'])
-            questions = re.findall(r"Question: (.+?)(?=Type:)", task_output['response'], re.DOTALL)
-            types = re.findall(r"Type: (\w+)", task_output['response'])
+            questions = re.findall(r"Question: (.+?)(?=\n|$:)", task_output['response'], re.DOTALL)
+            # types = re.findall(r"Type: (\w+)", task_output['response'])
 
             questions = [question.strip() for question in questions]
 
             high_level_question_set[idx]['question_list'].extend(questions)
-            for qdx, question, type in zip(indices, questions, types):
+            # for qdx, question, type in zip(indices, questions, types):
+            for qdx, question in zip(indices, questions):
                 file_buffer = "\n".join([
                     file_buffer,
                     "\n".join([
                         f"# {qdx}th annotation:",
                         f"High-level question: {question}",
-                        f"Question type: {type}",
+                        # f"Question type: {type}",
                         ""
                     ])
                 ])

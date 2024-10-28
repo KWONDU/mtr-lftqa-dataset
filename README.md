@@ -16,6 +16,7 @@
     */buffer/*.json # construct source dataset
     buffer/high_header_sim/*.json # annotate dataset
     buffer/high_header_sim/*/*.txt # annotate dataset
+    results/*_error_cases.json
 
 ### utils/.gitignore
 

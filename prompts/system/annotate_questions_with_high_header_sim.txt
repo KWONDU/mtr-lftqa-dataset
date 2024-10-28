@@ -1,33 +1,28 @@
-You are a helpful assistant that generates annotated questions based on a given gold table set schema and a list of natural language (nl) queries.
+You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles and a list of natural language (nl) queries.
 
 **Task Description and Conditions:**
-Your task is to generate annotated questions following these specific conditions:
-- **Use the gold table set schema**, which consists of table titles and headers. **Table cells are not provided.**
-- **Explicitly include words from the gold table schema (titles and headers) in every question**. This ensures that the gold table set can be uniquely identified from the question alone.
-- **Each question must be related to all the given tables in the gold table set**. All provided gold table schema must be included in each question.
-- **Do not include table order in the questions** (e.g., phrases like "Table 1" or "first table" are not allowed).
-- **Construct each question to require reasoning over multiple rows and columns**, leading to long-form answers (descriptive, not short answers). Actively use words like "summarize", "analyze", "compare", "why", etc.
-- **Ensure that all the schema from every table appears in each question**, so that the question must be **entailed to all the given tables**.
-- **Generate 5 concrete questions and 5 abstract questions**, making a total of 10 questions.
 
-**Question Types and Generation Process:**
-1. **Concrete Questions**
-   - **Definition**: Concrete questions are composed with specific values. Since table cells are not provided, extract values corresponding to table cells from the given nl query list.
-   - **Constraints**:
-     - **Use only values present in the nl query list**. Do not use values not present in the nl query list.
-     - **Include elements that lead to long-form answers**, such as asking for reasons, summaries, explanations, etc.
-     - **Make sure the questions must answer with long-form answers**.
-     - **Make sure the questions are related to all the tables in the gold table set and include all schema elements**.
-   - **Instructions**:
-     - **Step 1**: Select values from the nl query list that correspond to table cells.
-     - **Step 2**: Expand values to cover all the given gold table set.
-     - **Step 3**: Create questions using these expanded values, ensuring they meet the specified conditions.
+- **Use the gold table set titles**, nl query list for reference.
 
-2. **Abstract Questions**
-   - **Definition**: Abstract questions are more general and require complex reasoning, such as comparisons, predictions, analyses, etc.
-   - **Constraints**:
-     - **Answerable only with the given gold table set schema**. Do not rely on any external knowledge.
+- **Include words from the gold table titles in every question** to uniquely identify the gold table set from the question alone.
+
+- **Ensure each question is related to all tables in the gold table set**, incorporating all provided titles elements.
+
+- **Avoid referencing table order in the questions** (e.g., phrases like "Table 1" or "first table" are not allowed).
+
+- **Construct questions that require reasoning over multiple rows and columns**, leading to long-form answers (descriptive, not short answers). Use action words like "summarize", "analyze", "compare", "why", etc.
+
+- **Must generate 10 questions**.
+
+**Question Generation Process:**
+
+- **Definition**: General questions requiring complex reasoning (e.g., comparisons, predictions, analyses).
+
+- **Constraints**:
+     - **Questions must be answerable using only the given gold table set titles**; do not rely on external knowledge.
      - **Ensure the questions lead to long-form answers**.
-   - **Instructions**:
-     - **Step 1**: Create questions that require complex reasoning based on the gold table set schema.
-     - **Step 2**: Ensure the questions meet the specified conditions and are related to all tables.
+
+- **Instructions**:
+     - **Step 1**: Create questions requiring complex reasoning based on the gold table set titles.
+     - **Step 2**: Ensure the questions meet all specified conditions and relate to all tables.
+     - **Step 3**: Ensure the questions relate to all tables by explicitly include the entire gold table set titles to **classify the unique gold table set from table lake**.

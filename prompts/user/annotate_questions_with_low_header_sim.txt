@@ -7,7 +7,7 @@ Please generate annotated questions following the guidelines provided:
 - **Gold table set schema**:
 {gold_table_set_schema}
 
-- **Entailed NL query list**:
+- **NL query list**:
 {nl_query_list}
 
 - **Output**:

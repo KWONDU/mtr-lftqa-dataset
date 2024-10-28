@@ -29,18 +29,18 @@ async def annotate_questions_task(
             system_prompt=load_prompt(role='system', task='annotate_questions_with_high_header_sim'),
             user_prompt=load_prompt(role='user', task=f'annotate_questions_with_high_header_sim').format(
                 shots=input_data['shots'],
-                gold_table_set_schema="\n".join([
+                gold_table_set_titles="\n".join([
                     table_serialization(
                         table_num=tdx + 1,
                         metadata=gold_table['metadata'],
-                        header=gold_table['header'],
+                        header=None,
                         cell=None
                     )
                     for tdx, gold_table in enumerate(input_data['gold_table_set'])
                 ]),
                 nl_query_list="\n".join([
-                    f"Query {ddx + 1} [Entail to table {entailed_table_index}]: {nl_query}"
-                    for ddx, (entailed_table_index, nl_query) in enumerate(zip(input_data['entailed_table_index_list'], input_data['nl_query_list']))
+                    f"Query {ddx + 1}: {nl_query}"
+                    for ddx, nl_query in enumerate(input_data['nl_query_list'])
                 ])
             ),
             model_name=model_name,
@@ -62,6 +62,14 @@ async def annotate_questions_task(
         )
 
     return sorted(model_output_list, key=lambda x: x['key']), cost
+
+
+def query_abstraction(sentence, word_list_list):
+    modified_sentence = sentence
+    for word_list in word_list_list:
+        for word in word_list:
+            modified_sentence = modified_sentence.replace(word.lower().strip(), '')
+    return modified_sentence
 
 
 def annotate_questions(
@@ -113,7 +121,10 @@ def annotate_questions(
                 )
                 for data in data_list
             ],
-            'nl_query_list': [data['nl_query'] for data in data_list],
+            'nl_query_list': [
+                query_abstraction(data['nl_query'], [table['metadata'].split(' ') for table in gold_table_set])
+                for data in data_list
+            ],
             'key': idx,
             'shots': load_shot()
         })
@@ -149,31 +160,27 @@ def annotate_questions(
         for ddx, data in enumerate(instance_set[idx]['data_list']):
             file_buffer = "\n".join([
                 file_buffer,
-                f"Query {ddx + 1} [Entail to table "
-                + next(
-                    str(table_index + 1)
-                    for table_index, table_id in enumerate(instance_set[idx]['gold_table_id_set'])
-                    if table_id in data['entailed_table_id_set']
-                )
-                + f"]: {data['nl_query']}"
+                f"Query {ddx + 1}: {data['nl_query']}"
             ])
         file_buffer = "\n".join([file_buffer, ""])
 
         try:
             indices = re.findall(r"Annotated question (\d+):", task_output['response'])
-            questions = re.findall(r"Question: (.+?)(?=Type:)", task_output['response'], re.DOTALL)
-            types = re.findall(r"Type: (\w+)", task_output['response'])
+            questions = re.findall(r"Question: (.+?)(?=\n|$)", task_output['response'], re.DOTALL)
+            # questions = re.findall(r"Question: (.+?)(?=Type:)", task_output['response'], re.DOTALL)
+            # types = re.findall(r"Type: (\w+)", task_output['response'])
 
             questions = [question.strip() for question in questions]
 
             high_level_question_set[idx]['question_list'].extend(questions)
-            for qdx, question, type in zip(indices, questions, types):
+            # for qdx, question, type in zip(indices, questions, types):
+            for qdx, question in zip(indices, questions):
                 file_buffer = "\n".join([
                     file_buffer,
                     "\n".join([
                         f"# {qdx}th annotation:",
                         f"High-level question: {question}",
-                        f"Question type: {type}",
+                        # f"Question type: {type}",
                         ""
                     ])
                 ])

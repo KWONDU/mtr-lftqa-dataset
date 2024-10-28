@@ -4,8 +4,8 @@ Please refer to the following examples when generating your questions:
 
 Please generate annotated questions following the guidelines provided:
 
-- **Gold table set schema**:
-{gold_table_set_schema}
+- **Gold table set titles**:
+{gold_table_set_titles}
 
 - **NL query list**:
 {nl_query_list}

@@ -3,8 +3,9 @@ Please validate the following based on the given criteria.
 - **Gold Table Set Information**:
 {gold_table_set_information}
 
-- **Question**:
+- **High-level question**:
 {question}
 
-- **Validation**:
-[Yes or No]
+- **Output**:
+Validation: [Yes or No]
+Reason: [why]

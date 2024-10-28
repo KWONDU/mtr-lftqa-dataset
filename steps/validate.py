@@ -1,5 +1,6 @@
 import asyncio
 import json
+import re
 import traceback
 from tqdm import tqdm
 from tqdm.asyncio import tqdm_asyncio
@@ -93,8 +94,11 @@ def validate(
                     'answer': qa_pair['answer'],
                     'validation': {
                         'table_and_question': None,
+                        'table_and_question_reason': None,
                         'table_and_answer': None,
-                        'question_and_answer': None
+                        'table_and_answer_reason': None,
+                        'question_and_answer': None,
+                        'question_and_answer_reason': None
                     }
                 }
                 for qa_pair in instance['annotation']
@@ -187,16 +191,22 @@ def validate(
             raise ValueError("Unvalid task type.")
 
         try:
-            if task_output['response'].strip().title() == 'Yes':
+            validation = re.search(r"Validation: (Yes|No)", task_output['response']).group(1)
+            reason = re.search(r"Reason: (.+)", task_output['response'], re.DOTALL).group(1)
+
+            if validation.strip().title() == 'Yes':
                 high_level_qa_pair_set_with_validation[idx]['annotation'][jdx]['validation'][task_type] = True
-            elif task_output['response'].strip().title() == 'No':
+            elif validation == 'No':
                 high_level_qa_pair_set_with_validation[idx]['annotation'][jdx]['validation'][task_type] = False
             else:
                 raise ValueError("Unvalid response.")
+            high_level_qa_pair_set_with_validation[idx]['annotation'][jdx]['validation'][f'{task_type}_reason'] = reason
 
             file_buffer = "\n".join([
                 file_buffer,
-                f"# Validation: {task_output['response']}",
+                f"# Validation: {validation}",
+                "",
+                f"# Reason: {reason}",
                 ""
             ])
 

@@ -10,7 +10,8 @@ def main(source_dataset_name, sample_n, classification, logger):
     if not FLAG[0]:
         exit()
 
-    source_dataset = load_source_dataset(dataset_name=source_dataset_name)
+    from steps.regularize import regularize_source_dataset
+    source_dataset = regularize_source_dataset(source_dataset=load_source_dataset(dataset_name=source_dataset_name))
 
     table_lake = {tb['id']: tb for tb in source_dataset.tables}
     random.seed(42)
@@ -125,25 +126,40 @@ def main(source_dataset_name, sample_n, classification, logger):
         with open(f'results/storage/{classification}/high_level_qa_pair_set_with_validation.json', 'r') as file:
             high_level_qa_pair_set_with_validation = json.load(file)
 
-        dataset = [
-            {
-                'gold_table_id_set': sorted(instance['gold_table_id_set']),
-                'question': annotation['question'].strip().replace('\n', ' '),
-                'answer': annotation['answer'].strip().replace('\n', ' ')
-            }
-            for instance in high_level_qa_pair_set_with_validation
-            for annotation in instance['annotation']
-            if (
-                annotation['validation']['table_and_question']
-                and
-                annotation['validation']['table_and_answer']
-                and
-                annotation['validation']['question_and_answer']
-            )
-        ]
+        dataset = []
+        error_cases = []
+
+        for instance in high_level_qa_pair_set_with_validation:
+            for annotation in instance['annotation']:
+                if (
+                    annotation['validation']['table_and_question']
+                    and
+                    annotation['validation']['table_and_answer']
+                    and
+                    annotation['validation']['question_and_answer']
+                ):
+                    dataset.append(
+                        {
+                            'gold_table_id_set': sorted(instance['gold_table_id_set']),
+                            'question': annotation['question'].strip().replace('\n', ' '),
+                            'answer': annotation['answer'].strip().replace('\n', ' ')
+                        }
+                    )
+                else:
+                    error_cases.append(
+                        {
+                            'gold_table_set': [table_lake[table_id] for table_id in sorted(instance['gold_table_id_set'])],
+                            'question': annotation['question'].strip().replace('\n', ' '),
+                            'answer': annotation['answer'].strip().replace('\n', ' '),
+                            'validation': annotation['validation']
+                        }
+                    )
 
         with open(f'results/{classification}_dataset.json', 'w') as file:
             json.dump(dataset, file, indent=4)
+        
+        with open(f'results/{classification}_error_cases.json', 'w') as file:
+            json.dump(error_cases, file, indent=4)
         
         logger.info(f"[{'Done':<7}]: filtering.")
     ### STEP 5 ###
@@ -167,7 +183,7 @@ if __name__ == '__main__':
     add_openai_api_key(api_key=api_key)
     """
 
-    FLAG = [True, False, False, False, True, True]
+    FLAG = [True, False, False, False, False, True]
 
     CLASS = {
         'SourceMultiTabQA': 'low_header_sim',

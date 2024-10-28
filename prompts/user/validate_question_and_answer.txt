@@ -1,10 +1,11 @@
 Please validate the following based on the given criteria.
 
-- **Question**:
+- **High-level question**:
 {question}
 
-- **Answer**:
+- **High-level answer**:
 {answer}
 
-- **Validation**:
-[Yes or No]
+- **Output**:
+Validation: [Yes or No]
+Reason: [why]
