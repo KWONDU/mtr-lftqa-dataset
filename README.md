@@ -11,6 +11,7 @@
 
     .gitignore
     *__pycache__
+    *.html
     *.yaml
     *temp*
     */buffer/*.json # construct source dataset
