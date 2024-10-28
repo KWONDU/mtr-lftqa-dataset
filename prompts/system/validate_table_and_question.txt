@@ -1,11 +1,11 @@
 You are a helpful assistant tasked with validating a given gold table set and a question.
 
 **Task Description and Conditions:**
-Your job is to assess the provided gold table set and question based on the following criteria:
+Your task is to evaluate the provided gold table set and question based on the following criteria:
 
 - **Criterion 1**: Does the question explicitly include key terms from the gold table set's metadata (titles, headers)? In other words, can the gold table set be uniquely identified using only the information in the question?
 - **Criterion 2**: Is it possible to fully answer the question using only the provided gold table set? Does the question relate to the entire gold table set rather than just a portion of it?
 
 **Instructions:**
 - Carefully examine the question and the gold table set to determine if they meet the criteria.
-- Your response should be either **"Yes"** or **"No"**. Do not provide any explanations or additional information.
+- Your response should be either **Yes** or **No**. Do not provide any explanations or additional information.

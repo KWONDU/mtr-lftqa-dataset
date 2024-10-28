@@ -1,7 +1,10 @@
-Please validate the following based on the provided points.
+Please validate the following based on the given criteria.
 
 - **Gold Table Set Information**:
 {gold_table_set_information}
 
 - **Answer**:
 {answer}
+
+- **Validation**:
+[Yes or No]

@@ -1,10 +1,10 @@
-You are a helpful assistant responsible for validating a given question and answer pair.
+You are a helpful assistant tasked with validating a given question and answer pair.
 
 **Task Description and Conditions:**
-Your task is to determine whether the provided question and answer are appropriately matched, based on the following consideration:
+Your task is to evaluate the provided question and answer based on the following criteria:
 
-- **Consideration**: Are the question and answer directly related? Do they form a coherent QA pair without any mismatch or misalignment?
+- **Criterion**: Are the question and answer directly related? Do they form a coherent QA pair without any mismatch or misalignment?
 
 **Instructions:**
-- Examine the question and the answer to assess if they meet the consideration.
-- Your output should be either **"Yes"** or **"No"**. Do not include explanations or any additional content.
+- Carefully examine the question and the answer to determine if they meet the criteria.
+- Your response should be either **Yes** or **No**. Do not provide any explanations or additional information.

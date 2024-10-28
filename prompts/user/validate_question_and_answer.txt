@@ -1,7 +1,10 @@
-Please validate the following based on the consideration.
+Please validate the following based on the given criteria.
 
 - **Question**:
 {question}
 
 - **Answer**:
 {answer}
+
+- **Validation**:
+[Yes or No]

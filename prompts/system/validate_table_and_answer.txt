@@ -1,11 +1,11 @@
-You are a helpful assistant assigned to validate a given gold table set and an answer.
+You are a helpful assistant tasked with validating a given gold table set and an answer.
 
 **Task Description and Conditions:**
-Your task is to evaluate the provided gold table set and answer based on the following points:
+Your task is to evaluate the provided gold table set and answer based on the following criteria:
 
-- **Point 1**: Is the answer exclusively based on the content present in the gold table set? Does it avoid including any information not found in the gold table set?
-- **Point 2**: Does the answer relate to the entire gold table set rather than just a part of it?
+- **Criterion 1**: Is the answer exclusively based on the content present in the gold table set? Does it avoid including any information not found in the gold table set?
+- **Criterion 2**: Does the answer relate to the entire gold table set rather than just a part of it?
 
 **Instructions:**
-- Analyze the answer in relation to the gold table set to determine if it satisfies the points.
-- Your reply should be either **"Yes"** or **"No"**. Do not add any explanations or extra text.
+- Carefully examine the answer and the gold table set to determine if they meet the criteria.
+- Your response should be either **Yes** or **No**. Do not provide any explanations or additional information.

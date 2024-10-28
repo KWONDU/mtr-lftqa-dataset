@@ -38,7 +38,7 @@ async def validate_task(semaphore, model_input, model_name):
             load_prompt(role='user', task=f"validate_{input_data['task_type']}").format(
                 question=input_data['question'],
                 answer=input_data['answer']
-            ) if input_data['task_type'] == 'question_and_answer' else None,
+            ) if input_data['task_type'] == 'question_and_answer' else None, # Raise error
             model_name=model_name,
             key=(input_data['key'][0], input_data['key'][1], input_data['task_type']) # (idx, jdx, task_type)
         )
@@ -140,7 +140,7 @@ def validate(
     for task_output in tqdm(task_output_list, desc=f"[{'Storage':<7}]"):
         idx, jdx, task_type = task_output['key']
 
-        if 'table' in task_type:
+        if task_type == 'table_and_question':
             file_buffer = "# Gold table set"
             for tdx, table_id in enumerate(high_level_qa_pair_set[idx]['gold_table_id_set']):
                 file_buffer = "\n".join([
@@ -155,27 +155,48 @@ def validate(
                 ])
             file_buffer = "\n".join([
                 file_buffer,
-                f"# Question: {high_level_qa_pair_set[idx]['annotation'][jdx]['question']}" if 'question' in task_type else \
-                f"# Answer: {high_level_qa_pair_set[idx]['annotation'][jdx]['answer']}" if 'answer' in task_type else None,
+                f"# Question: {high_level_qa_pair_set[idx]['annotation'][jdx]['question']}",
                 ""
             ])
-        else:
+        elif task_type == 'table_and_answer':
+            file_buffer = "# Gold table set"
+            for tdx, table_id in enumerate(high_level_qa_pair_set[idx]['gold_table_id_set']):
+                file_buffer = "\n".join([
+                    file_buffer,
+                    table_visualization(
+                        table_num=tdx+1,
+                        metadata=table_lake[table_id]['metadata'],
+                        header=table_lake[table_id]['header'],
+                        cell=table_lake[table_id]['cell']
+                    ),
+                    ""
+                ])
+            file_buffer = "\n".join([
+                file_buffer,
+                f"# Answer: {high_level_qa_pair_set[idx]['annotation'][jdx]['answer']}",
+                ""
+            ])
+        elif task_type == 'question_and_answer':
             file_buffer = "\n".join([
                 f"# Question: {high_level_qa_pair_set[idx]['annotation'][jdx]['question']}",
                 "",
                 f"# Answer: {high_level_qa_pair_set[idx]['annotation'][jdx]['answer']}",
                 ""
             ])
+        else:
+            raise ValueError("Unvalid task type.")
 
         try:
-            high_level_qa_pair_set_with_validation[idx]['annotation'][jdx]['validation'].update({
-                task_type: True if task_output['response'].strip().title() == 'Yes' else \
-                    False if task_output['response'].strip().title() == 'No' else None
-            })
+            if task_output['response'].strip().title() == 'Yes':
+                high_level_qa_pair_set_with_validation[idx]['annotation'][jdx]['validation'][task_type] = True
+            elif task_output['response'].strip().title() == 'No':
+                high_level_qa_pair_set_with_validation[idx]['annotation'][jdx]['validation'][task_type] = False
+            else:
+                raise ValueError("Unvalid response.")
 
             file_buffer = "\n".join([
                 file_buffer,
-                f"Validation: {task_output['response']}",
+                f"# Validation: {task_output['response']}",
                 ""
             ])
 
@@ -190,7 +211,7 @@ def validate(
                 with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_q_and_a_successed.txt', 'w') as file:
                     file.write(file_buffer)
             else:
-                continue
+                raise ValueError("Unvalid task type.")
         
         except:
             file_buffer = "\n".join([
@@ -214,7 +235,8 @@ def validate(
                 with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_q_and_a_failed.txt', 'w') as file:
                     file.write(file_buffer)
             else:
-                continue
+                with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_unknown.txt', 'w') as file:
+                    file.write(file_buffer)
     
     # Buffer
     with open(f'buffer/{classification}/validate.json', 'w') as file:
