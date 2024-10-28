@@ -133,3 +133,8 @@
     python3 main.py \
         -d {source_dataset_name, SourceMultiTabQA or SourceOpenWikiTable}
         -n {number_of_sampled_data}
+
+## 4. Visualize dataset
+
+    python3 dataset_visualization.py \
+        -d {source_dataset_name, SourceMultiTabQA or SourceOpenWikiTable}
