@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "gold_table_id_set": [
+            "15152476dc7f40597640ad7b2175619ddff07847cfe3a8aa0971601f2d285b7f",
+            "4e246136e41bfed242ca0d97cc0924a41df5291e124459251f0f279998dda85f",
+            "d9b3852721e9721cbb665f53a02e0e01280a7e5914f7b4b7f9474fa407b1de23",
+            "fabee8e572f2c1fa96c16911b2a3a050164a2922a78f3d06f17b6d446aa3ef5c"
+        ],
+        "question": "How did the Philadelphia Flyers' points distribution evolve over the months of March, October, January, and December in the 2002\u201303 season, and what implications can be drawn regarding their consistency and competitiveness during different periods of the season?",
+        "answer": "The Philadelphia Flyers' points distribution evolved differently over the months of March, October, January, and December in the 2002\u201303 season. In March, the Flyers accumulated the highest number of points compared to the other months, indicating a strong performance towards the end of the season. This suggests that the team was able to maintain consistency and competitiveness during the crucial period leading up to the playoffs. In contrast, October and January saw a lower number of points earned by the Flyers, which may indicate some inconsistency or challenges faced by the team during these months. December showed a moderate performance in terms of points, suggesting a relatively stable period for the team. Overall, the varying points distribution across these months reflects fluctuations in the Flyers' performance, with a strong finish in March potentially signaling their readiness for the postseason and their ability to compete effectively during critical stages of the season."
+    },
+    {
+        "gold_table_id_set": [
+            "4b6ef8caaed51833e747be37d0dd8105e284f96baa8bf30eb935544db303e4c4",
+            "4ba5bdb63a0b3b3a8900ec740de0d9c2ae21199aece099ae7f577e0272fba5f5",
+            "b9aecb26de06b9ce7db2e3ddbd584ab79aaab33f98b94d1593b8379ca12d80a7",
+            "d5caca62544b753fc0b0283aaade5b1695007a5a5cb04adf222885fdcf98bd66"
+        ],
+        "question": "What are the highest total championship titles achieved by a school in women's tennis that surpass 0 tournament wins and 8 regular season wins in the Big 12 Conference, and how does this exceptional performance compare to other schools in the conference?",
+        "answer": "The highest total championship titles achieved by a school in women's tennis in the Big 12 Conference, surpassing 0 tournament wins and 8 regular season wins, is 15. This exceptional performance sets a remarkable standard within the conference. Comparatively, other schools in the Big 12 Conference have not achieved such high totals in women's tennis championships, indicating the exceptional dominance of the school with 15 titles. This school's consistent success in both tournament and regular season matches highlights their unparalleled excellence in women's tennis within the conference."
+    },
+    {
+        "gold_table_id_set": [
+            "4b6ef8caaed51833e747be37d0dd8105e284f96baa8bf30eb935544db303e4c4",
+            "4ba5bdb63a0b3b3a8900ec740de0d9c2ae21199aece099ae7f577e0272fba5f5",
+            "b9aecb26de06b9ce7db2e3ddbd584ab79aaab33f98b94d1593b8379ca12d80a7",
+            "d5caca62544b753fc0b0283aaade5b1695007a5a5cb04adf222885fdcf98bd66"
+        ],
+        "question": "How many regular season titles has the Kansas team received in baseball championships from the Big 12 Conference champions list, given they have less than 2 tournament wins and more than 0 overall titles, and what does this indicate about their consistency in the regular season performance?",
+        "answer": "The Kansas team has received 1 regular season title in baseball championships from the Big 12 Conference champions list. This indicates that despite having less than 2 tournament wins and more than 0 overall titles, Kansas has shown a consistent performance in the regular season by securing 1 regular season title."
+    },
+    {
+        "gold_table_id_set": [
+            "54fff2aeac89a90ee2bcd9c21ea04d527c4721f02ea985102dbde4577ab3b70f",
+            "69280e8ff8c514e902d2ffd16b6f5ceedb47c7509d0468913e257fefdbab8a1b"
+        ],
+        "question": "What version corresponds to the Zune HD application titled \"Alarm Clock,\" and how does this version number potentially reflect the evolution or enhancements of this specific application?",
+        "answer": "The Zune HD application titled \"Alarm Clock\" corresponds to version 1.1. This version number suggests that there has been at least one update or enhancement made to the application after its initial release. The increment in the version number from 1.0 to 1.1 indicates that modifications, improvements, or new features may have been introduced to enhance the functionality or user experience of the \"Alarm Clock\" application. This progression in version numbers typically signifies bug fixes, performance enhancements, additional functionalities, or design changes aimed at refining the application and addressing user feedback or technological advancements. Therefore, version 1.1 of the \"Alarm Clock\" Zune HD application likely represents a stage of development where adjustments or enhancements were implemented to make the alarm clock feature more efficient, user-friendly, or feature-rich compared to its previous iteration."
+    },
+    {
+        "gold_table_id_set": [
+            "7ba89088428a4cdb90c63cfa0634d4dd1aadf76e9ca2965f8dce3af3a63c9458",
+            "b57c2190cd8e9038f1b95ee73b2ec3869e4d3a85d64c8d5d1344098f0fe4bf08",
+            "d121517976d589a6bccd2ad564e75bbec69bba4cbdbacec4bda3140c1cd0a0a1"
+        ],
+        "question": "What can be inferred about the team that scored 44 points and ranked above 5th place in the 2005 ANAPROF relegation table based on their average goals scored, and how does this performance reflect their standing in the league?",
+        "answer": "The team that scored 44 points and ranked above 5th place in the 2005 ANAPROF relegation table did not have an average goals scored available in the data. This indicates that there is no specific information provided regarding the average goals scored by this team. However, based on the absence of this data point, it can be inferred that the team's average goals scored may not have been a significant factor in determining their ranking above 5th place in the league.   Therefore, the team's performance and standing in the league were likely influenced more by other factors such as their defensive capabilities, number of losses, goals conceded, and overall points accumulated rather than their average goals scored. This suggests that the team's success in securing 44 points and achieving a position above 5th place was likely driven by strong defensive performances, effective game strategy, and the ability to secure crucial wins and points throughout the season."
+    },
+    {
+        "gold_table_id_set": [
+            "7ba89088428a4cdb90c63cfa0634d4dd1aadf76e9ca2965f8dce3af3a63c9458",
+            "b57c2190cd8e9038f1b95ee73b2ec3869e4d3a85d64c8d5d1344098f0fe4bf08",
+            "d121517976d589a6bccd2ad564e75bbec69bba4cbdbacec4bda3140c1cd0a0a1"
+        ],
+        "question": "How does the lowest-ranking team in the 2005 ANAPROF relegation table, which conceded 36 goals and lost more than 6 matches, compare to other teams in terms of performance, and what factors might have contributed to their placement in the table?",
+        "answer": "The lowest-ranking team in the 2005 ANAPROF relegation table that conceded 36 goals and lost more than 6 matches faced a challenging season compared to other teams. Despite not having the lowest statistics in terms of goals conceded or matches lost, this team's performance was still below par. The team's placement at the bottom of the table can be attributed to a combination of factors. One key factor could be their inability to secure wins or draws consistently, leading to a high number of losses. Additionally, the relatively high number of goals conceded indicates defensive weaknesses that opponents may have exploited effectively. The lack of a strong offensive performance, as evidenced by the goals scored, could have also contributed to their struggles in securing points. Overall, a combination of defensive vulnerabilities, a lack of offensive prowess, and inconsistent results likely played a significant role in determining this team's final position in the relegation table."
+    },
+    {
+        "gold_table_id_set": [
+            "3502786ff70484a479d2207c8180b4449ce841212acca3a34db706b271dae06e",
+            "f3b5c52a3d4f9dcae3900692758a30a8bd1d4454b98eb16c84b8b79d8fb6107b"
+        ],
+        "question": "How does the performance outcome in doubles matches for Meghann Shaughnessy compare to that of Marta Domachowska, and what insights can be gained about their respective partnerships and success rates in these matches?",
+        "answer": "Meghann Shaughnessy has participated in a total of 33 doubles matches, with a record of 17 wins and 16 losses. On the other hand, Marta Domachowska has been involved in 5 doubles matches, achieving 1 win and 4 losses. This indicates that Meghann Shaughnessy has a significantly higher level of participation and a more balanced win-loss record compared to Marta Domachowska.  In terms of partnerships, Meghann Shaughnessy has collaborated with various players in her doubles matches. Some notable partnerships include playing with Bethanie Mattek-Sands, Nadia Petrova, and Virginia Ruano Pascual. On the other hand, Marta Domachowska's partnership primarily revolves around Roberta Vinci, as indicated in the table document.  Analyzing the success rates in these matches, Meghann Shaughnessy has experienced both victories and defeats in finals, showcasing a competitive performance history. She has secured wins with partners like Bethanie Mattek-Sands and Nadia Petrova. In contrast, Marta Domachowska's record shows a lower success rate, with only 1 win out of 5 matches, emphasizing a less successful trend in her doubles matches.  Overall, Meghann Shaughnessy's doubles performance demonstrates a more extensive involvement, a balanced win-loss ratio, and a history of competitive partnerships leading to notable successes in finals. In contrast, Marta Domachowska's performance highlights a limited participation, a lower success rate, and a consistent partnership with Roberta Vinci."
+    },
+    {
+        "gold_table_id_set": [
+            "3502786ff70484a479d2207c8180b4449ce841212acca3a34db706b271dae06e",
+            "f3b5c52a3d4f9dcae3900692758a30a8bd1d4454b98eb16c84b8b79d8fb6107b"
+        ],
+        "question": "In the 2006 Doubles: 33 (17-16) final where Meghann Shaughnessy was the runner-up, who were their opponents, and what was the final outcome of the match played on 16 April 2006?",
+        "answer": "In the 2006 Doubles: 33 (17-16) final where Meghann Shaughnessy was the runner-up, their opponents were Lisa Raymond and Samantha Stosur. The final outcome of the match played on April 16, 2006, was in favor of Lisa Raymond and Samantha Stosur, who emerged as the winners in that particular final."
+    }
+]
