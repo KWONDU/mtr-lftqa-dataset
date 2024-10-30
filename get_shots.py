@@ -1,80 +1,7 @@
 import json
-from utils.display import table_serialization
 
 
-def get_annotate_questions_task_shots_with_low_header_sim():
-    return "\n".join([
-        "\n".join([
-            f"**Example {idx + 1}**",
-            "- **Gold table set schema**",
-            "\n".join([
-                table_serialization(
-                    table_num=tdx + 1,
-                    metadata=table['metadata'],
-                    header=table['header'],
-                    cell=None
-                )
-                for tdx, table in enumerate(shot['gold_table_set'])
-            ]),
-            "",
-            "- **NL query list**",
-            "\n".join([
-                f"Query {data['idx']}: {data['nl_query']}"
-                for _, data in enumerate(shot['data_list'])
-            ]),
-            "",
-            "- **Output**:",
-            "\n".join([
-                "\n".join([
-                    f"Annotated question {ddx + 1}:",
-                    f"Question: {data['question']}",
-                    # f"Type: {data['type']}",
-                    ""
-                ])
-                for ddx, data in enumerate(reversed(shot['annotation']))
-            ])
-        ])
-        for idx, shot in enumerate(SHOTS_WITH_LOW_HEADER_SIM)
-    ])
-
-
-def get_annotate_questions_task_shots_with_high_header_sim():
-    return "\n".join([
-        "\n".join([
-            f"**Example {idx + 1}**",
-            "- **Gold table set titles**",
-            "\n".join(
-                table_serialization(
-                    table_num=tdx + 1,
-                    metadata=table['metadata'],
-                    header=None,
-                    cell=None
-                ) # Table 1. TEXT
-                for tdx, table in enumerate(shot['gold_table_set'])
-            ), # Table 1 ~ ith
-            "",
-            "- **NL query list**",
-            "\n".join([
-                f"Query {data['idx']}: {data['nl_query']}"
-                for _, data in enumerate(shot['data_list'])
-            ]), # NL query 1 ~ ith
-            "",
-            "- **Output**:",
-            "\n".join([
-                "\n".join([
-                    f"Annotated question {ddx + 1}:",
-                    f"Question: {data['question']}",
-                    # f"Type: {data['type']}",
-                    ""
-                ]) # Question 1:\n Question \n Type
-                for ddx, data in enumerate(reversed(shot['annotation']))
-            ]) # Question 1 ~ ith
-        ])
-        for idx, shot in enumerate(SHOTS_WITH_HIGH_HEADER_SIM)
-    ])
-
-
-def get_expand_statement_task_shots_with_low_header_sim():
+def get_expand_statement_with_low_header_sim_task_shots():
     return "\n".join([
         "\n".join([
             f"**Example {idx * 2 + ddx + 1}:**",
@@ -104,7 +31,7 @@ def get_expand_statement_task_shots_with_low_header_sim():
     ])
 
 
-def get_expand_statement_task_shots_with_high_header_sim():
+def get_expand_statement_with_high_header_sim_task_shots():
     return "\n".join([
         "\n".join([
             f"**Example {idx + 1}:**",

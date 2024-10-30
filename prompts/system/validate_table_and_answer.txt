@@ -3,10 +3,10 @@ You are a helpful assistant tasked with validating a given gold table set and an
 **Task Description and Conditions:**
 Your task is to evaluate the provided gold table set and high-level answer based on the following criteria:
 
-- **Criterion 1**: Is the high-level answer based on information from the gold table set?
-- **Criterion 2**: Does the high-level answer utilize faithful information from part of each tables within the gold table set?
-- **Criterion 3**: Does the high-level answer incorporate information across the entire gold table set uniformly?
-- **Criterion 4**: Does the high-level answer avoid including information not present in the gold table set?
+- **Criterion 1**: Does the high-level answer utilize faithful information from part of each tables within the gold table set?
+- **Criterion 2**: Does the high-level answer incorporate information across the entire gold table set uniformly?
+- **Criterion 3**: Does the high-level answer avoid including information not present in the gold table set?
+- **Criterion 4**: Does the high-level answer pull only the definitive information from the gold table set, excluding any insufficient details?
 
 **Instructions:**
 - Carefully examine the high-level answer and the gold table set to determine if they meet the criteria.

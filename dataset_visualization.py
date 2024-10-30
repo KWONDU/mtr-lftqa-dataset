@@ -83,7 +83,7 @@ if __name__ == '__main__':
                     metadata=table_lake[table_id]['metadata'],
                     header=table_lake[table_id]['header'],
                     cell=table_lake[table_id]['cell']
-                )
+                ).replace('\n', '<br>')
                 html_file.write(f"<div>{table_html}</div><br><br>")
             
             html_file.write(f"<h3>Question: {data['question']}</h3>")
@@ -92,4 +92,4 @@ if __name__ == '__main__':
         
         html_file.write("</body></html>")
 
-    webbrowser.open(f"file://{os.path.abspath(html_file_path)}")
+    # webbrowser.open(f"file://{os.path.abspath(html_file_path)}")

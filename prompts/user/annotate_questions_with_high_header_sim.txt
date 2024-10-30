@@ -1,13 +1,19 @@
-Please refer to the following examples when generating your questions:
-
-{shots}
-
 Please generate annotated questions following the guidelines provided:
 
 - **Gold table set titles**:
 {gold_table_set_titles}
 
-- **NL query list**:
-{nl_query_list}
+- **Statement set**:
+{statement_pattern_set}
 
 - **Output**:
+Question 1: [question]
+Question 2: [question]
+Question 3: [question]
+Question 4: [question]
+Question 5: [question]
+Question 6: [question]
+Question 7: [question]
+Question 8: [question]
+Question 9: [question]
+Question 10: [question]

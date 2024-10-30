@@ -15,9 +15,10 @@ def regularize_source_dataset(
     """
     regularized_source_dataset = copy.deepcopy(source_dataset)
 
-    # Regularization 1. transform to string type
-    # Regularization 2. replace '–' to '-'
-    # Regularization 3. strip spaces
+    # Regularization 1. sort gold table set by table metadata
+    # Regularization 2. type conversion to string
+    # Regularization 3. replace '–' (en dash) to '-' (hyphen)
+    # Regularization 4. apply strip method
 
     regularized_source_dataset._tables = [
         {
@@ -37,9 +38,14 @@ def regularize_source_dataset(
         for table in source_dataset.tables
     ]
 
+    regularized_table_lake = {table['id']: table for table in regularized_source_dataset.tables}
+
     regularized_source_dataset._instances = [
         {
-            'gold_table_id_set': instance['gold_table_id_set'],
+            'gold_table_id_set': sorted(
+                instance['gold_table_id_set'],
+                key=lambda x: regularized_table_lake[x]['metadata']
+            ),
             'data_list': [
                 {
                     'entailed_table_id_set': data['entailed_table_id_set'],

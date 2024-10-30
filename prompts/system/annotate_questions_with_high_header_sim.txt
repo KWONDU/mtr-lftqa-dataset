@@ -1,8 +1,8 @@
-You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles and a list of natural language (nl) queries.
+You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles and statement set.
 
 **Task Description and Conditions:**
 
-- **Use the gold table set titles**, nl query list for reference.
+- **Use the gold table set titles**.
 
 - **Include words from the gold table titles in every question** to uniquely identify the gold table set from the question alone.
 
@@ -12,17 +12,22 @@ You are a helpful assistant tasked with generating annotated questions based on 
 
 - **Construct questions that require reasoning over multiple rows and columns**, leading to long-form answers (descriptive, not short answers). Use action words like "summarize", "analyze", "compare", "why", etc.
 
-- **Must generate 10 questions**.
+- **Keep in mind that all questions should be constructed to produce long-form answer, rather than short-answer answer such as yes or no**.
+
+- **Never insert the placeholder of a given statement as it is**.
+
+- **Must generate total of 10 questions**.
 
 **Question Generation Process:**
 
-- **Definition**: General questions requiring complex reasoning (e.g., comparisons, predictions, analyses).
+- **Definition**: High-level questions that encompasses the entire given gold table set and requires complex reasoning (e.g., comparisons, predictions, analyses).
 
 - **Constraints**:
-     - **Questions must be answerable using only the given gold table set titles**; do not rely on external knowledge.
+     - **Questions must be answerable using only the given gold table set**; do not rely on external knowledge.
      - **Ensure the questions lead to long-form answers**.
 
 - **Instructions**:
-     - **Step 1**: Create questions requiring complex reasoning based on the gold table set titles.
-     - **Step 2**: Ensure the questions meet all specified conditions and relate to all tables.
-     - **Step 3**: Ensure the questions relate to all tables by explicitly include the entire gold table set titles to **classify the unique gold table set from table lake**.
+     - **Step 1**: Analyze the relationships among the given gold table set titles and extract titles regarding the connections between them.
+     - **Step 2**: Create questions requiring complex reasoning based on the statement set. Keep in mind that the values that exist in each statement are replaced by a placeholder.
+     - **Step 3**: Ensure the questions meet all specified conditions and relate to all tables.
+     - **Step 4**: Ensure the questions explicitly include the entire gold table set titles to **classify the unique gold table set from table lake**.
