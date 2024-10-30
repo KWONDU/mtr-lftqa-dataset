@@ -1,0 +1,12 @@
+Given the following task input, Generate a natural language statement that lists each cell from the SQL query result in response to the natural language query. The statement should only list the data without requiring any reasoning or summarization. Validate the statement using the provided Python code.
+
+{shots}
+
+Now, based on the following task input, generate a similar statement:
+
+NL query: {nl_query}
+SQL query result: {sql_query_result}
+
+This structure now includes a specific shot example in the user prompt, showing how the input (NL query and SQL result) is transformed into the natural language statement that lists the contents of each cell, without reasoning, and ensuring that all SQL query result cells are included.
+
+Statement:
