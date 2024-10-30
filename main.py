@@ -181,7 +181,7 @@ if __name__ == '__main__':
     logger.addHandler(logging.StreamHandler())
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('-d', type=str, required=True, choices=['SourceMultiTabQA', 'SourceOpenWikiTable'], help='dataset name')
+    parser.add_argument('-d', type=str, required=True, choices=['SourceOpenWikiTable', 'SourceSpiderTableQA'], help='dataset name')
     parser.add_argument('-n', type=int, required=True, help='number of sampled data')
 
     args, _ = parser.parse_known_args()
@@ -197,8 +197,8 @@ if __name__ == '__main__':
     FILTER_FLAG = True
 
     CLASS = {
-        'SourceMultiTabQA': 'low_header_sim',
-        'SourceOpenWikiTable': 'high_header_sim'
+        'SourceOpenWikiTable': 'high_header_sim',
+        'SourceSpiderTableQA': 'low_header_sim'
     }
 
     main(
