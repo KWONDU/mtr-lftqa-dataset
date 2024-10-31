@@ -152,7 +152,9 @@ def main(source_dataset_name, sample_n, classification, logger):
                     {
                         'gold_table_id_set': sorted(instance['gold_table_id_set']),
                         'question': annotation['question'].strip().replace('\n', ' '),
-                        'answer': annotation['answer'].strip().replace('\n', ' ')
+                        'answer': annotation['answer'].strip().replace('\n', ' '),
+                        'translated_question': "",
+                        'translated_answer': ""
                     }
                 )
             else:

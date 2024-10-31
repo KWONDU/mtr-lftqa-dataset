@@ -15,7 +15,7 @@ function loadData(classification) {
 
     Promise.all([
         fetch(`../results/${classification}_table_lake.json`).then(response => response.json()),
-        fetch(`../results/translated_${classification}_dataset.json`).then(response => response.json())
+        fetch(`../results/${classification}_dataset.json`).then(response => response.json())
     ])
     .then(([tableData, dataSet]) => {
         table_lake = tableData;

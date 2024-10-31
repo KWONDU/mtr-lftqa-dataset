@@ -52,5 +52,5 @@ if __name__ == '__main__':
         translated_data['translated_answer'] = translate_text(text=data['answer'], translator=translator)
         translated_dataset.append(translated_data)
     
-    with open(f'results/translated_{classification}_dataset.json', 'w') as file:
+    with open(f'results/{classification}_dataset.json', 'w') as file:
         json.dump(translated_dataset, file, indent=4)
