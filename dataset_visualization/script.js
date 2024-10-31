@@ -14,8 +14,8 @@ function loadData(classification) {
     buttons.forEach(button => button.disabled = true);
 
     Promise.all([
-        fetch(`/results/${classification}_table_lake.json`).then(response => response.json()),
-        fetch(`/results/${classification}_dataset.json`).then(response => response.json())
+        fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/${classification}_table_lake.json`).then(response => response.json()),
+        fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/${classification}_dataset.json`).then(response => response.json())
     ])
     .then(([tableData, dataSet]) => {
         table_lake = tableData;
