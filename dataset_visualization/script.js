@@ -11,8 +11,6 @@ function loadData(classify) {
     classification = classify;
 
     isLoading = true;
-    const container = document.getElementById("dataset-container");
-    container.innerHTML = "<p>Loading...</p>";
 
     const buttons = document.querySelectorAll("#load-buttons button");
     buttons.forEach(button => button.disabled = true);
@@ -32,7 +30,7 @@ function loadData(classify) {
 
 async function renderData(index) {
     const container = document.getElementById("dataset-container");
-    container.innerHTML = '';
+    container.innerHTML = "<p>Loading...</p>";
 
     if (index < 0 || index >= dataset.length) {
         container.innerHTML = "<p>No data available.</p>";
@@ -92,7 +90,6 @@ async function renderData(index) {
 
     const tableDivs = await Promise.all(tableFetchPromises);
     tableDivs.forEach(tableDiv => tableContainer.appendChild(tableDiv));
-    container.appendChild(tableContainer);
 
     const qaSection = document.createElement("div");
     qaSection.classList.add("mb-3");
@@ -105,6 +102,8 @@ async function renderData(index) {
         ${translatedAnswer ? `<h3>Translated Answer</h4><p>${translatedAnswer}</p>`: ""}
     `;
 
+    container.innerHTML = '';
+    container.appendChild(tableContainer);
     container.appendChild(qaSection);
 
     updateIndexDisplay();
