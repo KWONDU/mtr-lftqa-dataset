@@ -1,7 +1,6 @@
 let isLoading = false;
 
 let classification = "";
-let table = {};
 let dataset = [];
 
 let currentIndex = 0;
@@ -50,49 +49,49 @@ function renderData(index) {
     const tableContainer = document.createElement("div");
     tableContainer.classList.add("table-container");
 
-    goldTableIDSet.forEach((table_id, idx) => {
-        const tableDiv = document.createElement("div");
-        tableDiv.classList.add("table-responsive", "mb-4");
-
+    const tableFetchPromises = goldTableIDSet.map((table_id, idx) =>
         fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/table_lake/${classification}_table_${table_id}.json`).then(response => response.json())
-            .then((tb) => {
-                table = tb;
+            .then((table) => {
+                const tableDiv = document.createElement("div");
+                tableDiv.classList.add("table-responsive", "mb-4");
+
+                const title = document.createElement("h4");
+                title.textContent = `Table ${idx + 1}: ${table['metadata']}`;
+                tableDiv.appendChild(title);
+
+                const tableEl = document.createElement("table");
+                tableEl.classList.add("table", "table-bordered", "table-striped");
+
+                const thead = document.createElement("thead");
+                const headerRow = document.createElement("tr");
+                table['header'].forEach(header => {
+                    const th = document.createElement("th");
+                    th.textContent = header;
+                    headerRow.appendChild(th);
+                });
+                thead.appendChild(headerRow);
+                tableEl.appendChild(thead);
+
+                const tbody = document.createElement("tbody");
+                table['cell'].forEach(row => {
+                    const tr = document.createElement("tr");
+                    row.forEach(cellData => {
+                        const td = document.createElement("td");
+                        td.textContent = cellData;
+                        tr.appendChild(td);
+                    });
+                    tbody.appendChild(tr);
+                });
+                tableEl.appendChild(tbody);
+
+                tableDiv.appendChild(tableEl);
+                return tableDiv;
             })
-            .catch(error => console.error("[Error] loading table:", error));
+            .catch(error => console.error("[Error] loading table:", error))
+    );
 
-        const title = document.createElement("h4");
-        title.textContent = `Table ${idx + 1}: ${table['metadata']}`;
-        tableDiv.appendChild(title);
-
-        const tableEl = document.createElement("table");
-        tableEl.classList.add("table", "table-bordered", "table-striped");
-
-        const thead = document.createElement("thead");
-        const headerRow = document.createElement("tr");
-        table['header'].forEach(header => {
-            const th = document.createElement("th");
-            th.textContent = header;
-            headerRow.appendChild(th);
-        });
-        thead.appendChild(headerRow);
-        tableEl.appendChild(thead);
-
-        const tbody = document.createElement("tbody");
-        table['cell'].forEach(row => {
-            const tr = document.createElement("tr");
-            row.forEach(cellData => {
-                const td = document.createElement("td");
-                td.textContent = cellData;
-                tr.appendChild(td);
-            });
-            tbody.appendChild(tr);
-        });
-        tableEl.appendChild(tbody);
-
-        tableDiv.appendChild(tableEl);
-        tableContainer.appendChild(tableDiv);
-    });
-    
+    const tableDivs = Promise.all(tableFetchPromises);
+    tableDivs.forEach(tableDiv => tableContainer.appendChild(tableDiv));
     container.appendChild(tableContainer);
 
     const qaSection = document.createElement("div");
