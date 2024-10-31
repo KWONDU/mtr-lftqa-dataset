@@ -1,7 +1,9 @@
 let isLoading = false;
+
 let classification = "";
 let table = {};
 let dataset = [];
+
 let currentIndex = 0;
 
 function loadData(classify) {
@@ -17,16 +19,16 @@ function loadData(classify) {
     buttons.forEach(button => button.disabled = true);
 
     fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/${classification}_dataset.json`).then(response => response.json())
-    .then((dataSet) => {
-        dataset = dataSet;
-        currentIndex = 0;
-        renderData(currentIndex);
-    })
-    .catch(error => console.error("[Error] loading data:", error))
-    .finally(() => {
-        isLoading = false;
-        buttons.forEach(button => button.disabled = false);
-    });
+        .then((dataSet) => {
+            dataset = dataSet;
+            currentIndex = 0;
+            renderData(currentIndex);
+        })
+        .catch(error => console.error("[Error] loading data:", error))
+        .finally(() => {
+            isLoading = false;
+            buttons.forEach(button => button.disabled = false);
+        });
 }
 
 function renderData(index) {
@@ -51,11 +53,12 @@ function renderData(index) {
     goldTableIDSet.forEach((table_id, idx) => {
         const tableDiv = document.createElement("div");
         tableDiv.classList.add("table-responsive", "mb-4");
+
         fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/table_lake/${classification}_table_${table_id}.json`).then(response => response.json())
-        .then((tb) => {
-            table = tb;
-        })
-        .catch(error => console.error("[Error] loading table:", error))
+            .then((tb) => {
+                table = tb;
+            })
+            .catch(error => console.error("[Error] loading table:", error));
 
         const title = document.createElement("h4");
         title.textContent = `Table ${idx + 1}: ${table['metadata']}`;
