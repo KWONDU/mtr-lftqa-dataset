@@ -1,0 +1,70 @@
+{
+    "id": "4713e3667d1200a9cc1f0b1f3395883e5eef31231af6fa3d2b6f3ba87730c974",
+    "metadata": "1948 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "12.12 (84)",
+            "South Melbourne",
+            "14.23 (107)",
+            "Junction Oval",
+            "10000",
+            "15 May 1948"
+        ],
+        [
+            "Melbourne",
+            "14.11 (95)",
+            "North Melbourne",
+            "6.14 (50)",
+            "MCG",
+            "13000",
+            "15 May 1948"
+        ],
+        [
+            "Fitzroy",
+            "15.19 (109)",
+            "Hawthorn",
+            "6.11 (47)",
+            "Brunswick Street Oval",
+            "8500",
+            "15 May 1948"
+        ],
+        [
+            "Essendon",
+            "13.17 (95)",
+            "Richmond",
+            "14.11 (95)",
+            "Windy Hill",
+            "23000",
+            "15 May 1948"
+        ],
+        [
+            "Geelong",
+            "11.13 (79)",
+            "Footscray",
+            "8.10 (58)",
+            "Kardinia Park",
+            "17500",
+            "15 May 1948"
+        ],
+        [
+            "Collingwood",
+            "8.17 (65)",
+            "Carlton",
+            "9.9 (63)",
+            "Victoria Park",
+            "31000",
+            "15 May 1948"
+        ]
+    ]
+}

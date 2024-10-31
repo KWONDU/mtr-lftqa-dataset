@@ -1,0 +1,70 @@
+{
+    "id": "eab676d27185154e2ba2c7e2a15206978fbb4e475ac8dfe3d955c31f76d984dd",
+    "metadata": "1959 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "10.11 (71)",
+            "St Kilda",
+            "5.5 (35)",
+            "Glenferrie Oval",
+            "12000",
+            "15 August 1959"
+        ],
+        [
+            "Fitzroy",
+            "10.23 (83)",
+            "North Melbourne",
+            "7.11 (53)",
+            "Brunswick Street Oval",
+            "14774",
+            "15 August 1959"
+        ],
+        [
+            "Collingwood",
+            "17.17 (119)",
+            "Richmond",
+            "5.10 (40)",
+            "Victoria Park",
+            "23856",
+            "15 August 1959"
+        ],
+        [
+            "South Melbourne",
+            "11.10 (76)",
+            "Footscray",
+            "12.13 (85)",
+            "Lake Oval",
+            "14100",
+            "15 August 1959"
+        ],
+        [
+            "Geelong",
+            "12.9 (81)",
+            "Essendon",
+            "15.16 (106)",
+            "Kardinia Park",
+            "15076",
+            "15 August 1959"
+        ],
+        [
+            "Melbourne",
+            "13.14 (92)",
+            "Carlton",
+            "7.5 (47)",
+            "MCG",
+            "53479",
+            "15 August 1959"
+        ]
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "id": "39b5a52093339a5f917e9bb7f6a94a6ddf290aca3b88d374bdd686f52adf8cab",
+    "metadata": "North Yorkshire | Settlements by population | Settlements by population",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Town",
+        "Population",
+        "Year_",
+        "Borough",
+        "Definition"
+    ],
+    "cell": [
+        [
+            "1",
+            "Harrogate",
+            "71594",
+            "2001",
+            "Harrogate",
+            "Town"
+        ],
+        [
+            "2",
+            "Scarborough",
+            "50135",
+            "2001",
+            "Scarborough",
+            "Town"
+        ],
+        [
+            "3",
+            "Acomb",
+            "22215",
+            "2001",
+            "York",
+            "Town"
+        ],
+        [
+            "4",
+            "Ripon",
+            "15922",
+            "2001",
+            "Harrogate",
+            "Civil Parish"
+        ],
+        [
+            "5",
+            "Northallerton",
+            "15741",
+            "2001",
+            "Hambleton",
+            "Civil Parish"
+        ],
+        [
+            "6",
+            "Knaresborough",
+            "14740",
+            "2001",
+            "Harrogate",
+            "Civil Parish"
+        ],
+        [
+            "7",
+            "Skipton",
+            "14313",
+            "2001",
+            "Craven",
+            "Civil Parish"
+        ],
+        [
+            "8",
+            "Whitby",
+            "13594",
+            "2001",
+            "Scarborough",
+            "Civil Parish"
+        ],
+        [
+            "9",
+            "Selby",
+            "13012",
+            "2001",
+            "Selby",
+            "Civil Parish"
+        ],
+        [
+            "10",
+            "Richmond",
+            "8178",
+            "2001",
+            "Richmondshire",
+            "Civil Parish"
+        ],
+        [
+            "11",
+            "Tadcaster",
+            "7000",
+            "2001",
+            "Selby",
+            "Civil Parish"
+        ],
+        [
+            "12",
+            "Norton",
+            "6943",
+            "2001",
+            "Ryedale",
+            "Civil Parish"
+        ],
+        [
+            "13",
+            "Pickering",
+            "6846",
+            "2001",
+            "Ryedale",
+            "Civil Parish"
+        ],
+        [
+            "14",
+            "Filey",
+            "6819",
+            "2001",
+            "Scarborough",
+            "Civil Parish"
+        ],
+        [
+            "15",
+            "Sherburn-in-Elmet",
+            "6221",
+            "2001",
+            "Selby",
+            "Civil Parish"
+        ]
+    ]
+}

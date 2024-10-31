@@ -1,0 +1,61 @@
+{
+    "id": "2c4bf0d14cff55c9a2bb2fab1101b992c959093fb03bc561eb31bdb28721c6d6",
+    "metadata": "T\u00fcrk Telekom Arena | Project overview | Project overview",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Project",
+        "Year_",
+        "Location_",
+        "Capacity",
+        "Suites",
+        "Architect",
+        "Cost"
+    ],
+    "cell": [
+        [
+            "Faruk S\u00fcren project",
+            "1997-2001",
+            "Mecidiyek\u00f6y",
+            "40482",
+            "125+72 boxes without outside seating",
+            "BBB Architects",
+            "$ 118.5 million ($ in 2014 dollars)"
+        ],
+        [
+            "Mehmet Cansun project",
+            "2001",
+            "Mecidiyek\u00f6y",
+            "35000",
+            "132",
+            "GS member Architecture group*",
+            "$ 35 million ($ in 2014 dollars)"
+        ],
+        [
+            "\u00d6zhan Canayd\u0131n:Back to S\u00fcren`s project",
+            "2002-2005",
+            "Aslantepe",
+            "40482",
+            "125",
+            "BBB Architects",
+            "$ 90 million ($ in 2014 dollars)"
+        ],
+        [
+            "Eren Talu bidding project",
+            "2007",
+            "Aslantepe",
+            "52000",
+            "150",
+            "Populous",
+            "n/a"
+        ],
+        [
+            "\u00d6zhan Canayd\u0131n project",
+            "2007",
+            "Aslantepe",
+            "52652",
+            "157",
+            "asp Stuttgart",
+            "$ 250 million ($ in 2014 dollars)"
+        ]
+    ]
+}

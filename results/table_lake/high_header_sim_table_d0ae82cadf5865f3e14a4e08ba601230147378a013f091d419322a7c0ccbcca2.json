@@ -1,0 +1,70 @@
+{
+    "id": "d0ae82cadf5865f3e14a4e08ba601230147378a013f091d419322a7c0ccbcca2",
+    "metadata": "1966 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "17.15 (117)",
+            "Hawthorn",
+            "8.9 (57)",
+            "Kardinia Park",
+            "13941",
+            "25 June 1966"
+        ],
+        [
+            "Footscray",
+            "8.19 (67)",
+            "South Melbourne",
+            "8.7 (55)",
+            "Western Oval",
+            "11733",
+            "25 June 1966"
+        ],
+        [
+            "Essendon",
+            "14.16 (100)",
+            "Richmond",
+            "15.6 (96)",
+            "Windy Hill",
+            "20600",
+            "25 June 1966"
+        ],
+        [
+            "Collingwood",
+            "17.15 (117)",
+            "St Kilda",
+            "6.9 (45)",
+            "Victoria Park",
+            "37607",
+            "25 June 1966"
+        ],
+        [
+            "Melbourne",
+            "11.17 (83)",
+            "Fitzroy",
+            "3.7 (25)",
+            "MCG",
+            "14688",
+            "25 June 1966"
+        ],
+        [
+            "North Melbourne",
+            "8.17 (65)",
+            "Carlton",
+            "6.6 (42)",
+            "Arden Street Oval",
+            "10573",
+            "25 June 1966"
+        ]
+    ]
+}

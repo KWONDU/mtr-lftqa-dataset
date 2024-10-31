@@ -1,0 +1,55 @@
+{
+    "id": "354673b0b2e4988b1f967a8b6acc7311fe93dad4e4fb1601274d211e1ccb3348",
+    "metadata": "United States House of Representatives elections, 1974 | Maryland | Maryland",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Maryland 1",
+            "Robert Bauman",
+            "Republican",
+            "1973",
+            "Re-elected",
+            "Robert Bauman (R) 53.0% Thomas J. Hatem (D) 47.0%"
+        ],
+        [
+            "Maryland 2",
+            "Clarence Long",
+            "Democratic",
+            "1962",
+            "Re-elected",
+            "Clarence Long (D) 77.1% John M. Seney (R) 22.9%"
+        ],
+        [
+            "Maryland 4",
+            "Marjorie Holt",
+            "Republican",
+            "1972",
+            "Re-elected",
+            "Marjorie Holt (R) 58.1% Fred L. Wineland (D) 41.9%"
+        ],
+        [
+            "Maryland 6",
+            "Goodloe Byron",
+            "Democratic",
+            "1970",
+            "Re-elected",
+            "Goodloe Byron (D) 73.7% Elton R. Wampler (R) 26.3%"
+        ],
+        [
+            "Maryland 7",
+            "Parren Mitchell",
+            "Democratic",
+            "1970",
+            "Re-elected",
+            "Parren Mitchell (D) Unopposed"
+        ]
+    ]
+}

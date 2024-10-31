@@ -1,0 +1,177 @@
+{
+    "id": "fd07820fa61203fe7af6d3909449d5694d1c94a0c36f2c85984bc0d87a4138fb",
+    "metadata": "1984 Formula One season | Season review | Season review",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Race",
+        "Date_",
+        "Location_",
+        "Pole_Position",
+        "Fastest_Lap",
+        "Race_Winner",
+        "Constructor_",
+        "Report"
+    ],
+    "cell": [
+        [
+            "Brazilian Grand Prix",
+            "25 March",
+            "Jacarepagu\u00e1",
+            "Elio de Angelis",
+            "Alain Prost",
+            "Alain Prost",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "South African Grand Prix",
+            "7 April",
+            "Kyalami",
+            "Nelson Piquet",
+            "Patrick Tambay",
+            "Niki Lauda",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "Belgian Grand Prix",
+            "29 April",
+            "Zolder",
+            "Michele Alboreto",
+            "Ren\u00e9 Arnoux",
+            "Michele Alboreto",
+            "Ferrari",
+            "Report"
+        ],
+        [
+            "San Marino Grand Prix",
+            "6 May",
+            "Imola",
+            "Nelson Piquet",
+            "Nelson Piquet",
+            "Alain Prost",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "French Grand Prix",
+            "20 May",
+            "Dijon",
+            "Patrick Tambay",
+            "Alain Prost",
+            "Niki Lauda",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "Monaco Grand Prix",
+            "3 June",
+            "Monaco",
+            "Alain Prost",
+            "Ayrton Senna",
+            "Alain Prost",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "Canadian Grand Prix",
+            "17 June",
+            "Circuit Gilles Villeneuve",
+            "Nelson Piquet",
+            "Nelson Piquet",
+            "Nelson Piquet",
+            "Brabham - BMW",
+            "Report"
+        ],
+        [
+            "Detroit Grand Prix",
+            "24 June",
+            "Detroit",
+            "Nelson Piquet",
+            "Derek Warwick",
+            "Nelson Piquet",
+            "Brabham - BMW",
+            "Report"
+        ],
+        [
+            "Dallas Grand Prix",
+            "8 July",
+            "Dallas",
+            "Nigel Mansell",
+            "Niki Lauda",
+            "Keke Rosberg",
+            "Williams - Honda",
+            "Report"
+        ],
+        [
+            "British Grand Prix",
+            "22 July",
+            "Brands Hatch",
+            "Nelson Piquet",
+            "Niki Lauda",
+            "Niki Lauda",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "German Grand Prix",
+            "5 August",
+            "Hockenheimring",
+            "Alain Prost",
+            "Alain Prost",
+            "Alain Prost",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "Austrian Grand Prix",
+            "19 August",
+            "\u00d6sterreichring",
+            "Nelson Piquet",
+            "Niki Lauda",
+            "Niki Lauda",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "Dutch Grand Prix",
+            "26 August",
+            "Zandvoort",
+            "Alain Prost",
+            "Ren\u00e9 Arnoux",
+            "Alain Prost",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "Italian Grand Prix",
+            "9 September",
+            "Monza",
+            "Nelson Piquet",
+            "Niki Lauda",
+            "Niki Lauda",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "European Grand Prix",
+            "7 October",
+            "N\u00fcrburgring",
+            "Nelson Piquet",
+            "Nelson Piquet Michele Alboreto",
+            "Alain Prost",
+            "McLaren - TAG",
+            "Report"
+        ],
+        [
+            "Portuguese Grand Prix",
+            "21 October",
+            "Estoril",
+            "Nelson Piquet",
+            "Niki Lauda",
+            "Alain Prost",
+            "McLaren - TAG",
+            "Report"
+        ]
+    ]
+}

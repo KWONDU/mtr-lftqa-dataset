@@ -1,0 +1,77 @@
+{
+    "id": "360af7194bd3c9eeb546fd4a10812eac537f068afe6b8c0469dcbf08165823e0",
+    "metadata": "Convoys HX 229/SC 122 | Losses(Allied ships) | SC 122",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Name_",
+        "Flag",
+        "Tonnage_GRT",
+        "Sunk_by"
+    ],
+    "cell": [
+        [
+            "16/17 March 1943",
+            "Kingsbury",
+            "United Kingdom",
+            "4898",
+            "U-338"
+        ],
+        [
+            "16/17 March 1943",
+            "King Gruffydd",
+            "United Kingdom",
+            "5072",
+            "U-338"
+        ],
+        [
+            "16/17 March 1943",
+            "Alderamin",
+            "Netherlands",
+            "7886",
+            "U-338"
+        ],
+        [
+            "17 March 1943",
+            "Fort Cedar Lake",
+            "United Kingdom",
+            "7134",
+            "U-338 , U-665"
+        ],
+        [
+            "17 March 1943",
+            "Port Auckland",
+            "United Kingdom",
+            "8789",
+            "U-305"
+        ],
+        [
+            "18 March 1943",
+            "Zouave",
+            "United Kingdom",
+            "4256",
+            "U-305"
+        ],
+        [
+            "18 March 1943",
+            "Granville",
+            "Panama",
+            "4071",
+            "U-338"
+        ],
+        [
+            "18/19 March 1943",
+            "Carras",
+            "Greece",
+            "5234",
+            "U-333 , U-666"
+        ],
+        [
+            "19 March 1943",
+            "Clarissa Radcliffe",
+            "United Kingdom",
+            "5754",
+            "U-663"
+        ]
+    ]
+}

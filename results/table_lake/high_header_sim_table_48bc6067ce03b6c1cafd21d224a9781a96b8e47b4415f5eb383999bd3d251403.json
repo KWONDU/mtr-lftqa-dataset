@@ -1,0 +1,55 @@
+{
+    "id": "48bc6067ce03b6c1cafd21d224a9781a96b8e47b4415f5eb383999bd3d251403",
+    "metadata": "Royal Canadian Mint tokens and medallions | Five Cent Test Tokens | Five Cent Test Tokens",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_of_Issue",
+        "Description",
+        "Weight",
+        "Diameter",
+        "Thickness",
+        "Edge"
+    ],
+    "cell": [
+        [
+            "1976",
+            "Round Nickel Token, Three Maple Leaves with Beads",
+            "4.30grams",
+            "21.9mm",
+            "1.71mm",
+            "Plain"
+        ],
+        [
+            "1983",
+            "Round Stainless Steel Token",
+            "3.50grams",
+            "21.1mm",
+            "1.7mm",
+            "Plain"
+        ],
+        [
+            "1983",
+            "Nickel Bonded Steel Token",
+            "4.09grams",
+            "21.2mm",
+            "1.7mm",
+            "Plain"
+        ],
+        [
+            "1983",
+            "Steel Token",
+            "4.00grams",
+            "21.1mm",
+            "1.8mm",
+            "Plain"
+        ],
+        [
+            "1983",
+            "Nickel Token",
+            "4.07grams",
+            "21.1mm",
+            "1.8mm",
+            "Plain"
+        ]
+    ]
+}

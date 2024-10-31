@@ -1,0 +1,70 @@
+{
+    "id": "342aaf57964cae3645411f7aaf78c090aa2fd674af62f588d0577d68092dace0",
+    "metadata": "1936 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "14.23 (107)",
+            "North Melbourne",
+            "5.15 (45)",
+            "MCG",
+            "16103",
+            "22 August 1936"
+        ],
+        [
+            "Hawthorn",
+            "15.12 (102)",
+            "Richmond",
+            "14.16 (100)",
+            "Glenferrie Oval",
+            "9000",
+            "22 August 1936"
+        ],
+        [
+            "Essendon",
+            "12.16 (88)",
+            "South Melbourne",
+            "11.30 (96)",
+            "Windy Hill",
+            "9000",
+            "22 August 1936"
+        ],
+        [
+            "Carlton",
+            "12.22 (94)",
+            "Footscray",
+            "12.14 (86)",
+            "Princes Park",
+            "15000",
+            "22 August 1936"
+        ],
+        [
+            "Geelong",
+            "20.21 (141)",
+            "Fitzroy",
+            "6.8 (44)",
+            "Corio Oval",
+            "7000",
+            "22 August 1936"
+        ],
+        [
+            "St Kilda",
+            "11.11 (77)",
+            "Collingwood",
+            "14.13 (97)",
+            "Junction Oval",
+            "14300",
+            "22 August 1936"
+        ]
+    ]
+}

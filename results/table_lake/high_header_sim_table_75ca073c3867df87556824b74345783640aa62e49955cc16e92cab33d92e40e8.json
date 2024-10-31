@@ -1,0 +1,63 @@
+{
+    "id": "75ca073c3867df87556824b74345783640aa62e49955cc16e92cab33d92e40e8",
+    "metadata": "United States House of Representatives elections, 1978 | Georgia | Georgia",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Georgia 1",
+            "Ronald Bo Ginn",
+            "Democratic",
+            "1972",
+            "Re-elected",
+            "Ronald Bo Ginn (D) Unopposed"
+        ],
+        [
+            "Georgia 2",
+            "Dawson Mathis",
+            "Democratic",
+            "1970",
+            "Re-elected",
+            "Dawson Mathis (D) Unopposed"
+        ],
+        [
+            "Georgia 3",
+            "Jack Thomas Brinkley",
+            "Democratic",
+            "1966",
+            "Re-elected",
+            "Jack Thomas Brinkley (D) Unopposed"
+        ],
+        [
+            "Georgia 6",
+            "John James Flynt, Jr.",
+            "Democratic",
+            "1954",
+            "Retired Republican gain",
+            "Newt Gingrich (R) 54.4% Virginia Shapard (D) 45.6%"
+        ],
+        [
+            "Georgia 8",
+            "Billy Lee Evans",
+            "Democratic",
+            "1976",
+            "Re-elected",
+            "Billy Lee Evans (D) Unopposed"
+        ],
+        [
+            "Georgia 9",
+            "Ed Jenkins",
+            "Democratic",
+            "1976",
+            "Re-elected",
+            "Ed Jenkins (D) 76.9% David G. Ashworth (R) 23.1%"
+        ]
+    ]
+}

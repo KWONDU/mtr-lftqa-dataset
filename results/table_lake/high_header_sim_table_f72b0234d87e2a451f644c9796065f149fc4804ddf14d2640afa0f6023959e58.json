@@ -1,0 +1,77 @@
+{
+    "id": "f72b0234d87e2a451f644c9796065f149fc4804ddf14d2640afa0f6023959e58",
+    "metadata": "1971 Buffalo Bills season | NFL Draft | NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "4",
+            "J.D. Hill",
+            "Wide Receiver",
+            "Arizona State"
+        ],
+        [
+            "2",
+            "29",
+            "Jan White",
+            "Tight End",
+            "Ohio State"
+        ],
+        [
+            "3",
+            "53",
+            "Bruce Jarvis",
+            "Center",
+            "Washington State"
+        ],
+        [
+            "3",
+            "57",
+            "Jim Braxton",
+            "Fullback",
+            "West Virginia"
+        ],
+        [
+            "5",
+            "107",
+            "Donnie Green",
+            "Offensive Tackle",
+            "Purdue"
+        ],
+        [
+            "5",
+            "113",
+            "Tim Beamer",
+            "Defensive Back",
+            "Illinois"
+        ],
+        [
+            "6",
+            "145",
+            "Bill McKinley",
+            "Defensive End",
+            "Arizona"
+        ],
+        [
+            "7",
+            "160",
+            "Bob Chandler",
+            "Wide Receiver",
+            "Southern California"
+        ],
+        [
+            "8",
+            "183",
+            "Louis Ross",
+            "Defensive End",
+            "South Carolina State"
+        ]
+    ]
+}

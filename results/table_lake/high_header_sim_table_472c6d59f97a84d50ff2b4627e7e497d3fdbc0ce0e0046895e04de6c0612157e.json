@@ -1,0 +1,56 @@
+{
+    "id": "472c6d59f97a84d50ff2b4627e7e497d3fdbc0ce0e0046895e04de6c0612157e",
+    "metadata": "Consistency criterion | Second group of voters | Second group of voters",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Preferences",
+        "_1_vs_2_",
+        "_1_vs_3_",
+        "_2_vs_3_",
+        "Total"
+    ],
+    "cell": [
+        [
+            "A > B > C",
+            "8",
+            "15",
+            "7",
+            "30"
+        ],
+        [
+            "A > C > B",
+            "15",
+            "8",
+            "15",
+            "38"
+        ],
+        [
+            "B > A > C",
+            "14",
+            "7",
+            "15",
+            "36"
+        ],
+        [
+            "B > C > A",
+            "7",
+            "14",
+            "7",
+            "28"
+        ],
+        [
+            "C > A > B",
+            "7",
+            "15",
+            "8",
+            "30"
+        ],
+        [
+            "C > B > A",
+            "15",
+            "7",
+            "14",
+            "36"
+        ]
+    ]
+}

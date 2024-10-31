@@ -1,0 +1,91 @@
+{
+    "id": "f2058ca691bc51050b5816575cc53509bbee6520cf0487f63deb3a573608c8f3",
+    "metadata": "Wake Forest Demon Deacons football, 1970-79 | Schedule | 1975",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Location_",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/06/1975",
+            "SMU",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 7-14",
+            "13400"
+        ],
+        [
+            "09/13/1975*",
+            "at #15 North Carolina State",
+            "Carter Stadium \u2022 Raleigh, NC",
+            "W 30-22",
+            "36500"
+        ],
+        [
+            "09/20/1975",
+            "Appalachian State",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 17-19",
+            "24300"
+        ],
+        [
+            "09/27/1975",
+            "Kansas State",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 16-17",
+            "17700"
+        ],
+        [
+            "10/11/1975*",
+            "at Clemson",
+            "Memorial Stadium \u2022 Clemson, SC",
+            "L 14-16",
+            "45000"
+        ],
+        [
+            "10/18/1975*",
+            "#19 Maryland",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 0-27",
+            "19300"
+        ],
+        [
+            "10/25/1975*",
+            "at Virginia",
+            "Scott Stadium \u2022 Charlottesville, VA",
+            "W 66-21",
+            "20171"
+        ],
+        [
+            "11/01/1975*",
+            "at North Carolina",
+            "Kenan Memorial Stadium \u2022 Chapel Hill, NC",
+            "W 21-9",
+            "43000"
+        ],
+        [
+            "11/08/1975*",
+            "Duke",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 14-42",
+            "28900"
+        ],
+        [
+            "11/15/1975",
+            "at South Carolina",
+            "Williams-Brice Stadium \u2022 Columbia, SC",
+            "L 26-37",
+            "37656"
+        ],
+        [
+            "11/22/1975",
+            "at Virginia Tech",
+            "Lane Stadium \u2022 Blacksburg, VA",
+            "L 10-40",
+            "29000"
+        ]
+    ]
+}

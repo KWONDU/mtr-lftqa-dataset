@@ -1,0 +1,63 @@
+{
+    "id": "70918eac0ce683f2b495bd6ee271e3c72794278d409f8fdcce5329cbcf03b11d",
+    "metadata": "Man of La Mancha | Original Broadway production | Original Broadway production",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Award_Ceremony",
+        "Category",
+        "Nominee",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "1966",
+            "Tony Award",
+            "Best Musical",
+            "Best Musical",
+            "Won"
+        ],
+        [
+            "1966",
+            "Tony Award",
+            "Best Performance by a Leading Actor in a Musical",
+            "Richard Kiley",
+            "Won"
+        ],
+        [
+            "1966",
+            "Tony Award",
+            "Best Direction of a Musical",
+            "Albert Marre",
+            "Won"
+        ],
+        [
+            "1966",
+            "Tony Award",
+            "Best Original Score",
+            "Mitch Leigh and Joe Darion",
+            "Won"
+        ],
+        [
+            "1966",
+            "Tony Award",
+            "Best Choreography",
+            "Jack Cole",
+            "Nominated"
+        ],
+        [
+            "1966",
+            "Tony Award",
+            "Best Scenic Design",
+            "Howard Bay",
+            "Won"
+        ],
+        [
+            "1966",
+            "Tony Award",
+            "Best Costume Design",
+            "Howard Bay and Patton Campbell",
+            "Nominated"
+        ]
+    ]
+}

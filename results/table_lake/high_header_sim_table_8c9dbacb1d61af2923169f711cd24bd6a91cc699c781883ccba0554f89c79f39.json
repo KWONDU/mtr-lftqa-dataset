@@ -1,0 +1,63 @@
+{
+    "id": "8c9dbacb1d61af2923169f711cd24bd6a91cc699c781883ccba0554f89c79f39",
+    "metadata": "Flora, Norway | Churches | Churches in Flora",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Parish_Prestegjeld",
+        "Sub_Parish_Sokn",
+        "Church_Name",
+        "Year_Built",
+        "Location_of_the_Church"
+    ],
+    "cell": [
+        [
+            "Kinn Parish",
+            "Bru",
+            "Askrova bedehuskapell",
+            "1957",
+            "Espeset"
+        ],
+        [
+            "Kinn Parish",
+            "Bru",
+            "Stavang kyrkje",
+            "1957",
+            "Stavang"
+        ],
+        [
+            "Kinn Parish",
+            "Eikefjord",
+            "Eikefjord kyrkje",
+            "1812",
+            "Eikefjord"
+        ],
+        [
+            "Kinn Parish",
+            "Kinn",
+            "Batalden bedehuskapell",
+            "1907",
+            "Fan\u00f8ya"
+        ],
+        [
+            "Kinn Parish",
+            "Kinn",
+            "Flor\u00f8 kyrkje",
+            "1882",
+            "Flor\u00f8"
+        ],
+        [
+            "Kinn Parish",
+            "Kinn",
+            "Kinnakyrkje",
+            "12th century",
+            "Kinn"
+        ],
+        [
+            "Kinn Parish",
+            "Nordal",
+            "Nordal kyrkje",
+            "1898",
+            "Nordalen"
+        ]
+    ]
+}

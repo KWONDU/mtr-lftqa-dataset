@@ -1,0 +1,63 @@
+{
+    "id": "fbf44c3ebbb69b1f60f5143145eff4ef899178de9c61276644430941ccc8f191",
+    "metadata": "United States House of Representatives elections, 1988 | Massachusetts | Massachusetts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Massachusetts 1",
+            "Silvio Conte",
+            "Republican",
+            "1958",
+            "Re-elected",
+            "Silvio Conte (R) 82.7% John R. Arden (D) 17.3%"
+        ],
+        [
+            "Massachusetts 2",
+            "Edward Boland",
+            "Democratic",
+            "1952",
+            "Retired Democratic hold",
+            "Richard Neal (D) 80.3% Louis R. Godena (I) 19.7%"
+        ],
+        [
+            "Massachusetts 3",
+            "Joseph D. Early",
+            "Democratic",
+            "1974",
+            "Re-elected",
+            "Joseph D. Early (D) Unopposed"
+        ],
+        [
+            "Massachusetts 4",
+            "Barney Frank",
+            "Democratic",
+            "1980",
+            "Re-elected",
+            "Barney Frank (D) 70.3% Debra R. Tucker (R) 29.7%"
+        ],
+        [
+            "Massachusetts 7",
+            "Ed Markey",
+            "Democratic",
+            "1976",
+            "Re-elected",
+            "Ed Markey (D) Unopposed"
+        ],
+        [
+            "Massachusetts 9",
+            "Joe Moakley",
+            "Democratic",
+            "1972",
+            "Re-elected",
+            "Joe Moakley (D) Unopposed"
+        ]
+    ]
+}

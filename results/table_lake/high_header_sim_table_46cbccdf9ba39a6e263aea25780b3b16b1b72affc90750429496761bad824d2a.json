@@ -1,0 +1,63 @@
+{
+    "id": "46cbccdf9ba39a6e263aea25780b3b16b1b72affc90750429496761bad824d2a",
+    "metadata": "United States House of Representatives elections, 1810 | Pennsylvania | Pennsylvania",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Pennsylvania 4 Plural district with 2 seats",
+            "Robert Whitehill",
+            "Democratic-Republican",
+            "1805 (special)",
+            "Re-elected",
+            "David Bard (DR) 50.0% Robert Whitehill (DR) 50.0%"
+        ],
+        [
+            "Pennsylvania 4 Plural district with 2 seats",
+            "David Bard",
+            "Democratic-Republican",
+            "1802",
+            "Re-elected",
+            "David Bard (DR) 50.0% Robert Whitehill (DR) 50.0%"
+        ],
+        [
+            "Pennsylvania 5",
+            "George Smith",
+            "Democratic-Republican",
+            "1808",
+            "Re-elected",
+            "George Smith (DR) 100%"
+        ],
+        [
+            "Pennsylvania 6",
+            "William Crawford",
+            "Democratic-Republican",
+            "1808",
+            "Re-elected",
+            "William Crawford (DR) 56.6% David Cassat (F) 43.4%"
+        ],
+        [
+            "Pennsylvania 7",
+            "John Rea",
+            "Democratic-Republican",
+            "1802",
+            "Lost re-election Democratic-Republican hold",
+            "William Piper (DR) 58.5% John Rea (DR) 41.5%"
+        ],
+        [
+            "Pennsylvania 9",
+            "John Smilie",
+            "Democratic-Republican",
+            "1792 1798",
+            "Re-elected",
+            "John Smilie (DR) 100%"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": "8020c5cd379929c1a2ce36e62c4653fd0b4538dd97c5493e4a9187c7f45801d9",
+    "metadata": "UCI Cyclo-cross World Championships - Men's under-23 race | Medal count by country | Medal count by country",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Belgium (BEL)",
+            "7",
+            "10",
+            "3",
+            "20"
+        ],
+        [
+            "2",
+            "Netherlands (NED)",
+            "5",
+            "2",
+            "2",
+            "9"
+        ],
+        [
+            "3",
+            "Czech Republic (CZE)",
+            "2",
+            "2",
+            "6",
+            "10"
+        ],
+        [
+            "4",
+            "France (FRA)",
+            "2",
+            "1",
+            "2",
+            "5"
+        ],
+        [
+            "5",
+            "Germany (GER)",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "6",
+            "Italy (ITA)",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "7",
+            "Poland (POL)",
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        [
+            "8",
+            "Switzerland (SUI)",
+            "0",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "9",
+            "United States (USA)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

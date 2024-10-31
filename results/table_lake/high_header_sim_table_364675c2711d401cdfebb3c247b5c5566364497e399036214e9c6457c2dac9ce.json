@@ -1,0 +1,84 @@
+{
+    "id": "364675c2711d401cdfebb3c247b5c5566364497e399036214e9c6457c2dac9ce",
+    "metadata": "EN 1063 | Threat Levels | Euronorm Standard For Security Glazing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Weapon",
+        "Caliber",
+        "Type_",
+        "Weight_g",
+        "Range_m",
+        "Velocity_m_s",
+        "Impact_Energy",
+        "Shots"
+    ],
+    "cell": [
+        [
+            "BR1",
+            "Handgun/Rifle",
+            ".22 LR",
+            "LB/RN",
+            "2,6 \u00b1 0,1",
+            "10,00 \u00b1 0,5",
+            "360 \u00b1 10",
+            "170 J",
+            "3"
+        ],
+        [
+            "BR2",
+            "Handgun",
+            "9x19mm Parabellum",
+            "FJ/RN/SC",
+            "8,0 \u00b1 0,1",
+            "5,00 \u00b1 0,5",
+            "400 \u00b1 10",
+            "640 J",
+            "3"
+        ],
+        [
+            "BR3",
+            "Handgun",
+            ".357 Magnum",
+            "FJ/CB/SC",
+            "10,2 \u00b1 0,1",
+            "5,00 \u00b1 0,5",
+            "430 \u00b1 10",
+            "940 J",
+            "3"
+        ],
+        [
+            "BR4",
+            "Handgun",
+            ".44 Magnum",
+            "FJ/FN/SC",
+            "15,6 \u00b1 0,1",
+            "5,00 \u00b1 0,5",
+            "440 \u00b1 10",
+            "1510 J",
+            "3"
+        ],
+        [
+            "BR5",
+            "Rifle",
+            "5.56x45mm NATO",
+            "FJ/PB/SCP",
+            "4,0 \u00b1 0,1",
+            "10,00 \u00b1 0,5",
+            "950 \u00b1 10",
+            "1800 J",
+            "3"
+        ],
+        [
+            "BR6",
+            "Rifle",
+            "7.62x51mm NATO",
+            "FJ/PB/SC",
+            "9,5 \u00b1 0,1",
+            "10,00 \u00b1 0,5",
+            "830 \u00b1 10",
+            "3270 J",
+            "3"
+        ]
+    ]
+}

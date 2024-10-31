@@ -1,0 +1,49 @@
+{
+    "id": "eb1330361514f0b3cca8d6745446b1e10a8d9c5008649f65ae7ac4c99bf44df1",
+    "metadata": "Chesapeake and Delaware Canal | Crossings | Crossings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Crossing",
+        "Carries",
+        "Location_",
+        "Coordinates_"
+    ],
+    "cell": [
+        [
+            "Chesapeake City Bridge",
+            "MD 213",
+            "Chesapeake City, Maryland",
+            "39\u00b031\u203245\u2033N 75\u00b048\u203250\u2033W\ufeff / \ufeff39.52917\u00b0N 75.81389\u00b0W"
+        ],
+        [
+            "Summit Bridge",
+            "US 301 ,  DE 71 ,  DE 896",
+            "Summit, Delaware",
+            "39\u00b032\u203229\u2033N 75\u00b044\u203217\u2033W\ufeff / \ufeff39.54139\u00b0N 75.73806\u00b0W"
+        ],
+        [
+            "Chesapeake & Delaware Canal Lift Bridge",
+            "Norfolk Southern Railway",
+            "Kirkwood, Delaware",
+            "39\u00b032\u203236\u2033N 75\u00b042\u203211\u2033W\ufeff / \ufeff39.54333\u00b0N 75.70306\u00b0W"
+        ],
+        [
+            "Chesapeake & Delaware Canal Bridge",
+            "DE 1",
+            "St. Georges, Delaware",
+            "39\u00b033\u203200\u2033N 75\u00b039\u203223\u2033W\ufeff / \ufeff39.55000\u00b0N 75.65639\u00b0W"
+        ],
+        [
+            "St. Georges Bridge",
+            "U.S. 13",
+            "St. Georges, Delaware",
+            "39\u00b033\u203210\u2033N 75\u00b039\u203205\u2033W\ufeff / \ufeff39.55278\u00b0N 75.65139\u00b0W"
+        ],
+        [
+            "Reedy Point Bridge",
+            "DE 9",
+            "Delaware City, Delaware",
+            "39\u00b033\u203230\u2033N 75\u00b034\u203257\u2033W\ufeff / \ufeff39.55833\u00b0N 75.58250\u00b0W"
+        ]
+    ]
+}

@@ -1,0 +1,319 @@
+{
+    "id": "9a061b57966b2a23f5a43096de33c622ac599d9b20e9f31e260ed34b7c46c9f1",
+    "metadata": "1989-90 Manchester United F.C. season | First Division | First Division",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponents",
+        "H_A",
+        "Result_F_A",
+        "Attendance",
+        "League_position"
+    ],
+    "cell": [
+        [
+            "19 August 1989",
+            "Arsenal",
+            "H",
+            "4 - 1",
+            "47245",
+            "1st"
+        ],
+        [
+            "22 August 1989",
+            "Crystal Palace",
+            "A",
+            "1 - 1",
+            "22423",
+            "1st"
+        ],
+        [
+            "26 August 1989",
+            "Derby County",
+            "A",
+            "0 - 2",
+            "22175",
+            "9th"
+        ],
+        [
+            "30 August 1989",
+            "Norwich City",
+            "H",
+            "0 - 2",
+            "41610",
+            "14th"
+        ],
+        [
+            "9 September 1989",
+            "Everton",
+            "A",
+            "2 - 3",
+            "37916",
+            "16th"
+        ],
+        [
+            "16 September 1989",
+            "Millwall",
+            "H",
+            "5 - 1",
+            "42746",
+            "11th"
+        ],
+        [
+            "23 September 1989",
+            "Manchester City",
+            "A",
+            "1 - 5",
+            "43246",
+            "14th"
+        ],
+        [
+            "14 October 1989",
+            "Sheffield Wednesday",
+            "H",
+            "0 - 0",
+            "41492",
+            "17th"
+        ],
+        [
+            "21 October 1989",
+            "Coventry City",
+            "A",
+            "4 - 1",
+            "19625",
+            "14th"
+        ],
+        [
+            "28 October 1989",
+            "Southampton",
+            "H",
+            "2 - 1",
+            "37122",
+            "11th"
+        ],
+        [
+            "4 November 1989",
+            "Charlton Athletic",
+            "A",
+            "0 - 2",
+            "16065",
+            "13th"
+        ],
+        [
+            "12 November 1989",
+            "Nottingham Forest",
+            "H",
+            "1 - 0",
+            "34182",
+            "11th"
+        ],
+        [
+            "18 November 1989",
+            "Luton Town",
+            "A",
+            "3 - 1",
+            "11141",
+            "9th"
+        ],
+        [
+            "25 November 1989",
+            "Chelsea",
+            "H",
+            "0 - 0",
+            "46975",
+            "10th"
+        ],
+        [
+            "3 December 1989",
+            "Arsenal",
+            "A",
+            "0 - 1",
+            "34484",
+            "12th"
+        ],
+        [
+            "9 December 1989",
+            "Crystal Palace",
+            "H",
+            "1 - 2",
+            "33514",
+            "12th"
+        ],
+        [
+            "16 December 1989",
+            "Tottenham Hotspur",
+            "H",
+            "0 - 1",
+            "36230",
+            "13th"
+        ],
+        [
+            "23 December 1989",
+            "Liverpool",
+            "A",
+            "0 - 0",
+            "37426",
+            "12th"
+        ],
+        [
+            "26 December 1989",
+            "Aston Villa",
+            "A",
+            "0 - 3",
+            "41247",
+            "15th"
+        ],
+        [
+            "30 December 1989",
+            "Wimbledon",
+            "A",
+            "2 - 2",
+            "9622",
+            "15th"
+        ],
+        [
+            "1 January 1990",
+            "Queens Park Rangers",
+            "H",
+            "0 - 0",
+            "34824",
+            "15th"
+        ],
+        [
+            "13 January 1990",
+            "Derby County",
+            "H",
+            "1 - 2",
+            "38985",
+            "15th"
+        ],
+        [
+            "21 January 1990",
+            "Norwich City",
+            "A",
+            "0 - 2",
+            "17370",
+            "17th"
+        ],
+        [
+            "3 February 1990",
+            "Manchester City",
+            "H",
+            "1 - 1",
+            "40274",
+            "17th"
+        ],
+        [
+            "10 February 1990",
+            "Millwall",
+            "A",
+            "2 - 1",
+            "15491",
+            "15th"
+        ],
+        [
+            "24 February 1990",
+            "Chelsea",
+            "A",
+            "0 - 1",
+            "29979",
+            "16th"
+        ],
+        [
+            "4 March 1990",
+            "Luton Town",
+            "H",
+            "4 - 1",
+            "35327",
+            "16th"
+        ],
+        [
+            "14 March 1990",
+            "Everton",
+            "H",
+            "0 - 0",
+            "37398",
+            "16th"
+        ],
+        [
+            "18 March 1990",
+            "Liverpool",
+            "H",
+            "1 - 2",
+            "46629",
+            "16th"
+        ],
+        [
+            "21 March 1990",
+            "Sheffield Wednesday",
+            "A",
+            "0 - 1",
+            "33260",
+            "16th"
+        ],
+        [
+            "24 March 1990",
+            "Southampton",
+            "A",
+            "2 - 0",
+            "20510",
+            "16th"
+        ],
+        [
+            "31 March 1990",
+            "Coventry City",
+            "H",
+            "3 - 0",
+            "39172",
+            "16th"
+        ],
+        [
+            "14 April 1990",
+            "Queens Park Rangers",
+            "A",
+            "2 - 1",
+            "18997",
+            "14th"
+        ],
+        [
+            "17 April 1990",
+            "Aston Villa",
+            "H",
+            "2 - 0",
+            "44080",
+            "13th"
+        ],
+        [
+            "21 April 1990",
+            "Tottenham Hotspur",
+            "A",
+            "1 - 2",
+            "33317",
+            "14th"
+        ],
+        [
+            "30 April 1990",
+            "Wimbledon",
+            "H",
+            "0 - 0",
+            "29281",
+            "15th"
+        ],
+        [
+            "2 May 1990",
+            "Nottingham Forest",
+            "A",
+            "0 - 4",
+            "21186",
+            "16th"
+        ],
+        [
+            "5 May 1990",
+            "Charlton Athletic",
+            "H",
+            "1 - 0",
+            "35389",
+            "13th"
+        ]
+    ]
+}

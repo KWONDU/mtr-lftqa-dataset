@@ -1,0 +1,63 @@
+{
+    "id": "e7f9d9383ac31e707701e5dc67edbb4fcfa0e914d1155bc99ffc05e813c882db",
+    "metadata": "List of England national rugby union team results 1960-69 | 1963 | 1963",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Teams",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Wales",
+            "6",
+            "19/01/1963",
+            "Cardiff Arms Park , Cardiff",
+            "Five Nations"
+        ],
+        [
+            "Ireland",
+            "0",
+            "09/02/1963",
+            "Lansdowne Road , Dublin",
+            "Five Nations"
+        ],
+        [
+            "France",
+            "5",
+            "23/02/1963",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Scotland",
+            "8",
+            "16/03/1963",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "New Zealand",
+            "21",
+            "25/05/1963",
+            "Eden Park , Auckland",
+            "First Test"
+        ],
+        [
+            "New Zealand",
+            "9",
+            "01/06/1963",
+            "Lancaster Park , Christchurch",
+            "Second Test"
+        ],
+        [
+            "Australia",
+            "18",
+            "04/06/1963",
+            "Sydney Sports Ground , Sydney",
+            "Test Match"
+        ]
+    ]
+}

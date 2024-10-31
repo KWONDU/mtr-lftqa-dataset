@@ -1,0 +1,56 @@
+{
+    "id": "29d8bbb0f5eee21a31e9dfabe93a0a3dc4fa269c6357fe5087109e78a053696a",
+    "metadata": "List of European ultra prominent peaks | Scandinavia | Scandinavia",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Peak",
+        "Country",
+        "Elevation_m",
+        "Prominence_m",
+        "Col_m"
+    ],
+    "cell": [
+        [
+            "Galdh\u00f8piggen",
+            "Norway",
+            "2469",
+            "2372",
+            "97"
+        ],
+        [
+            "Kebnekaise",
+            "Sweden",
+            "2113",
+            "1754",
+            "359"
+        ],
+        [
+            "Jiehkkev\u00e1rri",
+            "Norway",
+            "1834",
+            "1741",
+            "93"
+        ],
+        [
+            "Sn\u00f8hetta",
+            "Norway",
+            "2286",
+            "1675",
+            "611"
+        ],
+        [
+            "Store Lenangstind",
+            "Norway",
+            "1624",
+            "1576",
+            "48"
+        ],
+        [
+            "Sarektj\u00e5hkk\u00e5",
+            "Sweden",
+            "2089",
+            "1519",
+            "570"
+        ]
+    ]
+}

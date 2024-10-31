@@ -1,0 +1,70 @@
+{
+    "id": "3e6d08218db0877b30d2266e38b636af7c275e0451ad5799db38ef69558f3b8c",
+    "metadata": "1969 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "14.10 (94)",
+            "St Kilda",
+            "11.14 (80)",
+            "MCG",
+            "44710",
+            "7 June 1969"
+        ],
+        [
+            "Fitzroy",
+            "12.9 (81)",
+            "Hawthorn",
+            "16.9 (105)",
+            "Princes Park",
+            "10170",
+            "7 June 1969"
+        ],
+        [
+            "Collingwood",
+            "14.22 (106)",
+            "Geelong",
+            "8.11 (59)",
+            "Victoria Park",
+            "38436",
+            "14 June 1969"
+        ],
+        [
+            "South Melbourne",
+            "15.13 (103)",
+            "Essendon",
+            "18.15 (123)",
+            "Lake Oval",
+            "18453",
+            "14 June 1969"
+        ],
+        [
+            "Melbourne",
+            "17.18 (120)",
+            "Footscray",
+            "12.23 (95)",
+            "MCG",
+            "27330",
+            "16 June 1969"
+        ],
+        [
+            "North Melbourne",
+            "7.15 (57)",
+            "Carlton",
+            "10.18 (78)",
+            "Arden Street Oval",
+            "26914",
+            "16 June 1969"
+        ]
+    ]
+}

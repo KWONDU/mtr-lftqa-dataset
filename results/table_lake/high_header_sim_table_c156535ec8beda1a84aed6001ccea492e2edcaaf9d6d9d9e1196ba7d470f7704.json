@@ -1,0 +1,77 @@
+{
+    "id": "c156535ec8beda1a84aed6001ccea492e2edcaaf9d6d9d9e1196ba7d470f7704",
+    "metadata": "AJPW Junior League | 2006 | 2006",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Block_A",
+        "Kaz_Hayashi",
+        "Ryuji_Hijikata",
+        "TAKA_Michinoku",
+        "_brother_YASSHI"
+    ],
+    "cell": [
+        [
+            "Kaz Hayashi",
+            "X",
+            "Hayashi (13:32)",
+            "Hayashi (28:05)",
+            "Hayashi (3:28)"
+        ],
+        [
+            "Ryuji Hijikata",
+            "Hayashi (13:32)",
+            "X",
+            "TAKA (13:46)",
+            "Hijikata (3:24)"
+        ],
+        [
+            "TAKA Michinoku",
+            "Hayashi (28:05)",
+            "TAKA (13:46)",
+            "X",
+            "TAKA (1:54)"
+        ],
+        [
+            "brother YASSHI",
+            "Hayashi (3:28)",
+            "Hijikata (3:24)",
+            "TAKA (1:54)",
+            "X"
+        ],
+        [
+            "Block B",
+            "MAZADA",
+            "Katsuhiko Nakajima",
+            "Katsushi Takemura",
+            "Virus"
+        ],
+        [
+            "MAZADA",
+            "X",
+            "Draw (30:00)",
+            "Takemura (13:58)",
+            "Virus (12:53)"
+        ],
+        [
+            "Katsuhiko Nakajima",
+            "Draw (30:00)",
+            "X",
+            "Nakajima (14:17)",
+            "Nakajima (11:01)"
+        ],
+        [
+            "Katsushi Takemura",
+            "Takemura (13:58)",
+            "Nakajima (14:17)",
+            "X",
+            "Takemura (10:32)"
+        ],
+        [
+            "Virus",
+            "Virus (12:53)",
+            "Nakajima (11:01)",
+            "Takemura (10:32)",
+            "X"
+        ]
+    ]
+}

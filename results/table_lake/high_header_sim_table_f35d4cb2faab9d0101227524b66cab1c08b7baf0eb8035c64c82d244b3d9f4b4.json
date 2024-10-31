@@ -1,0 +1,70 @@
+{
+    "id": "f35d4cb2faab9d0101227524b66cab1c08b7baf0eb8035c64c82d244b3d9f4b4",
+    "metadata": "Alessandro Pesenti-Rossi | Complete European Formula Two Championship results | Complete European Formula Two Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1974",
+            "Equipe Nationale",
+            "March 742",
+            "BMW",
+            "2"
+        ],
+        [
+            "1974",
+            "Vittorio Brambilla",
+            "March 732",
+            "BMW",
+            "2"
+        ],
+        [
+            "1975",
+            "Scuderia Citta del Mille",
+            "March 742",
+            "BMW",
+            "13"
+        ],
+        [
+            "1975",
+            "Alessandro Pesenti-Rossi",
+            "March 742",
+            "BMW",
+            "13"
+        ],
+        [
+            "1976",
+            "Scuderia Gulf Rondini",
+            "March 742",
+            "BMW",
+            "2"
+        ],
+        [
+            "1976",
+            "Scuderia Gulf Rondini",
+            "March 762",
+            "BMW",
+            "2"
+        ],
+        [
+            "1977",
+            "Euroracing",
+            "March 772",
+            "BMW",
+            "13"
+        ],
+        [
+            "1978",
+            "Trivellato Racing Team",
+            "Chevron B42",
+            "BMW",
+            "0"
+        ]
+    ]
+}

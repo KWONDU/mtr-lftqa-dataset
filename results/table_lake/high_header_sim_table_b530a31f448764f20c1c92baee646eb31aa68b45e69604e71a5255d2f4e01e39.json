@@ -1,0 +1,79 @@
+{
+    "id": "b530a31f448764f20c1c92baee646eb31aa68b45e69604e71a5255d2f4e01e39",
+    "metadata": "Reservation poverty | Changes in poverty rates on largest reservations | Changes in poverty rates on largest reservations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Reservation",
+        "Location_",
+        "_1969",
+        "_1979",
+        "_1989",
+        "_2000"
+    ],
+    "cell": [
+        [
+            "Navajo Indian Reservation",
+            "Arizona, New Mexico, and Utah",
+            "62.1",
+            "47.3",
+            "54.2",
+            "46.5"
+        ],
+        [
+            "Cheyenne River Indian Reservation",
+            "South Dakota",
+            "54.8",
+            "47.5",
+            "57.2",
+            "42.3"
+        ],
+        [
+            "Standing Rock Indian Reservation",
+            "South Dakota and North Dakota",
+            "58.3",
+            "44.2",
+            "54.9",
+            "41.2"
+        ],
+        [
+            "Crow Indian Reservation",
+            "Montana",
+            "40.0",
+            "29.6",
+            "45.5",
+            "31.5"
+        ],
+        [
+            "Wind River Indian Reservation",
+            "Wyoming",
+            "42.0",
+            "35.2",
+            "47.8",
+            "22.6"
+        ],
+        [
+            "Pine Ridge Indian Reservation",
+            "South Dakota",
+            "54.3",
+            "48.4",
+            "59.5",
+            "52.8"
+        ],
+        [
+            "Fort Peck Indian Reservation",
+            "Montana",
+            "46.7",
+            "26.8",
+            "42.8",
+            "38.5"
+        ],
+        [
+            "San Carlos Indian Reservation",
+            "Arizona",
+            "62.3",
+            "45.9",
+            "59.8",
+            "52.6"
+        ]
+    ]
+}

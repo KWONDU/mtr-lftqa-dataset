@@ -1,0 +1,79 @@
+{
+    "id": "0a4090fad15c22a6b1f431ef7c1a3f7be2dd35b2377d4aa25f9f9dc2790f5090",
+    "metadata": "Media in the Quad Cities | AM | AM",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Freq",
+        "Call_",
+        "City",
+        "Owner_",
+        "Start_",
+        "Day_Power_W_",
+        "Night_Power",
+        "Nickname",
+        "Format",
+        "Stereo"
+    ],
+    "cell": [
+        [
+            "860",
+            "KWPC",
+            "Muscatine",
+            "Prairie Radio Communications",
+            "1947",
+            "250",
+            "8",
+            "Voice of Muscatine",
+            "Soft Oldies",
+            "No"
+        ],
+        [
+            "960",
+            "WDLM",
+            "East Moline",
+            "Moody Bible Institute",
+            "1960",
+            "1000",
+            "102",
+            "WDLM",
+            "Christian Talk",
+            "No"
+        ],
+        [
+            "1170",
+            "KJOC",
+            "Davenport",
+            "Cumulus",
+            "1946",
+            "1000",
+            "1000",
+            "True Oldies 1170",
+            "Oldies",
+            "No"
+        ],
+        [
+            "1230",
+            "WFXN",
+            "Moline",
+            "Clear Channel",
+            "1946",
+            "1000",
+            "1000",
+            "Fox Sports 1230",
+            "Sports",
+            "No"
+        ],
+        [
+            "1270",
+            "WKBF",
+            "Rock Island",
+            "La Jefa Latino Broadcasting",
+            "1925",
+            "5000",
+            "5000",
+            "La Jefa 1270",
+            "Regional Mexican",
+            "No"
+        ]
+    ]
+}

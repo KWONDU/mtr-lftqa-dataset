@@ -1,0 +1,77 @@
+{
+    "id": "f560d05400f75488361ec11edb005a4995be0c35975ec35a8d2b62dfcd73935c",
+    "metadata": "Television in Macedonia | DVB-T | Nationwide free-to-air DVB-T television channels in Macedonia",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Owner_",
+        "Programming",
+        "Type_",
+        "Encryption"
+    ],
+    "cell": [
+        [
+            "MRT 1",
+            "Macedonian Radio-Television",
+            "General",
+            "Public broadcaster",
+            "Clear"
+        ],
+        [
+            "MRT 2",
+            "Macedonian Radio-Television",
+            "General",
+            "Public broadcaster",
+            "Clear"
+        ],
+        [
+            "MRT Sobraniski Kanal",
+            "Macedonian Radio-Television",
+            "Parlament",
+            "Public broadcaster",
+            "Clear"
+        ],
+        [
+            "MRT 1 HD",
+            "Macedonian Radio-Television",
+            "General",
+            "Public broadcaster",
+            "Clear"
+        ],
+        [
+            "Alsat-M",
+            "TV Alsat-M",
+            "General",
+            "Private channel",
+            "Clear"
+        ],
+        [
+            "Kanal 5",
+            "TV Kanal 5",
+            "General",
+            "Private channel",
+            "Clear"
+        ],
+        [
+            "Sitel TV",
+            "TV Sitel",
+            "General",
+            "Private channel",
+            "Clear"
+        ],
+        [
+            "Alfa TV",
+            "TV Alfa",
+            "General",
+            "Private channel",
+            "Clear"
+        ],
+        [
+            "Telma TV",
+            "TV Telma",
+            "General",
+            "Private channel",
+            "Clear"
+        ]
+    ]
+}

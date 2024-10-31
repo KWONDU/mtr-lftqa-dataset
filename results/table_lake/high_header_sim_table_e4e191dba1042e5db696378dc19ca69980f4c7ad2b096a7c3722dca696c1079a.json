@@ -1,0 +1,56 @@
+{
+    "id": "e4e191dba1042e5db696378dc19ca69980f4c7ad2b096a7c3722dca696c1079a",
+    "metadata": "2002-03 Manchester United F.C. season | Group stage | Group stage",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponents",
+        "Result_F_A",
+        "Attendance",
+        "Group_position"
+    ],
+    "cell": [
+        [
+            "18 September 2002",
+            "Maccabi Haifa",
+            "5-2",
+            "63439",
+            "2nd"
+        ],
+        [
+            "24 September 2002",
+            "Bayer Leverkusen",
+            "2-1",
+            "22500",
+            "1st"
+        ],
+        [
+            "1 October 2002",
+            "Olympiacos",
+            "4-0",
+            "66902",
+            "1st"
+        ],
+        [
+            "23 October 2002",
+            "Olympiacos",
+            "3-2",
+            "13220",
+            "1st"
+        ],
+        [
+            "29 October 2002",
+            "Maccabi Haifa",
+            "0-3",
+            "22000",
+            "1st"
+        ],
+        [
+            "13 November 2002",
+            "Bayer Leverkusen",
+            "2-0",
+            "66185",
+            "1st"
+        ]
+    ]
+}

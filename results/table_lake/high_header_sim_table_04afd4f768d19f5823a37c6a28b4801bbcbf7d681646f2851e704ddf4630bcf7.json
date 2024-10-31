@@ -1,0 +1,63 @@
+{
+    "id": "04afd4f768d19f5823a37c6a28b4801bbcbf7d681646f2851e704ddf4630bcf7",
+    "metadata": "Mallee Football League (Victoria) | Current | Current",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Nickname",
+        "Years_in_Competition",
+        "No_of_Premierships",
+        "Premiership_Years"
+    ],
+    "cell": [
+        [
+            "Beulah",
+            "Blues",
+            "1997-",
+            "5",
+            "2000, 2003-04-05, 2010"
+        ],
+        [
+            "Hopetoun",
+            "Devils",
+            "1997-",
+            "0",
+            "None"
+        ],
+        [
+            "Jeparit - Rainbow",
+            "Lakers",
+            "1997-",
+            "1",
+            "1997"
+        ],
+        [
+            "Ouyen United",
+            "Demons",
+            "1997-",
+            "3",
+            "1998, 2006, 2011"
+        ],
+        [
+            "Sea Lake - Nandaly",
+            "Tigers",
+            "2003-",
+            "1",
+            "2009"
+        ],
+        [
+            "Walpeup - Underbool",
+            "Kangaroos",
+            "1997-",
+            "4",
+            "2001, 2007-08, 2012"
+        ],
+        [
+            "Woomelang - Lascelles",
+            "Cats",
+            "1997-",
+            "1",
+            "2013"
+        ]
+    ]
+}

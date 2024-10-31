@@ -1,0 +1,56 @@
+{
+    "id": "69ff0eb13657d05b3b2db377907410be04b4fd0b82efdd6a40353e2d6e46be9b",
+    "metadata": "2006 UCI Cyclo-cross World Championships | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "Netherlands (NED)",
+            "2",
+            "1",
+            "1",
+            "4"
+        ],
+        [
+            "Belgium (BEL)",
+            "1",
+            "1",
+            "2",
+            "4"
+        ],
+        [
+            "Czech Republic (CZE)",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "Germany (GER)",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "Slovakia (SVK)",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "France (FRA)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

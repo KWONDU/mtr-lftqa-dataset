@@ -1,0 +1,70 @@
+{
+    "id": "99f16fdd362845edb3f27c2a3bbee47fe24afc788e7a816c45fe1cc5cfe5031a",
+    "metadata": "1956 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "7.13 (55)",
+            "North Melbourne",
+            "3.12 (30)",
+            "Glenferrie Oval",
+            "11000",
+            "9 June 1956"
+        ],
+        [
+            "Footscray",
+            "12.14 (86)",
+            "Richmond",
+            "6.8 (44)",
+            "Western Oval",
+            "24443",
+            "9 June 1956"
+        ],
+        [
+            "Carlton",
+            "11.13 (79)",
+            "Geelong",
+            "12.8 (80)",
+            "Princes Park",
+            "33254",
+            "9 June 1956"
+        ],
+        [
+            "South Melbourne",
+            "14.5 (89)",
+            "St Kilda",
+            "11.8 (74)",
+            "Lake Oval",
+            "21000",
+            "9 June 1956"
+        ],
+        [
+            "Melbourne",
+            "15.17 (107)",
+            "Essendon",
+            "4.15 (39)",
+            "MCG",
+            "32543",
+            "9 June 1956"
+        ],
+        [
+            "Fitzroy",
+            "5.7 (37)",
+            "Collingwood",
+            "12.10 (82)",
+            "Brunswick Street Oval",
+            "24000",
+            "9 June 1956"
+        ]
+    ]
+}

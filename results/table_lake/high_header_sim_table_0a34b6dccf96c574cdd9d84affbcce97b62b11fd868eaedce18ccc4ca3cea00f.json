@@ -1,0 +1,87 @@
+{
+    "id": "0a34b6dccf96c574cdd9d84affbcce97b62b11fd868eaedce18ccc4ca3cea00f",
+    "metadata": "1999 ATP Super 9 | Singles | Singles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Surface",
+        "Week",
+        "Winner_and_score",
+        "Finalist",
+        "Semifinalists"
+    ],
+    "cell": [
+        [
+            "Indian Wells",
+            "Hard",
+            "March 8",
+            "Mark Philippoussis 5-7, 6-4, 6-4, 4-6, 6-2",
+            "Carlos Moy\u00e1",
+            "Chris Woodruff Gustavo Kuerten"
+        ],
+        [
+            "Key Biscane",
+            "Hard",
+            "March 18",
+            "Richard Krajicek 4-6, 6-1, 6-2, 7-5",
+            "S\u00e9bastien Grosjean",
+            "Francisco Clavet Thomas Enqvist"
+        ],
+        [
+            "Monte Carlo",
+            "Clay",
+            "April 19",
+            "Gustavo Kuerten 6-4, 2-1 ret.",
+            "Marcelo R\u00edos",
+            "J\u00e9r\u00f4me Golmard F\u00e9lix Mantilla"
+        ],
+        [
+            "Hamburg",
+            "Clay",
+            "May 3",
+            "Marcelo R\u00edos 6-7(5), 7-5, 5-7, 7-6(5), 6-2",
+            "Mariano Zabaleta",
+            "Nicol\u00e1s Lapentti Carlos Moy\u00e1"
+        ],
+        [
+            "Rome",
+            "Clay",
+            "May 10",
+            "Gustavo Kuerten 6-4, 7-5, 7-6(6)",
+            "Patrick Rafter",
+            "\u00c0lex Corretja F\u00e9lix Mantilla"
+        ],
+        [
+            "Montr\u00e9al",
+            "Hard",
+            "August 2",
+            "Thomas Johansson 1-6, 6-3, 6-3",
+            "Yevgeny Kafelnikov",
+            "Nicolas Kiefer Andre Agassi"
+        ],
+        [
+            "Cincinnati",
+            "Hard",
+            "August 9",
+            "Pete Sampras 7-6(7), 6-3",
+            "Patrick Rafter",
+            "Andre Agassi Yevgeny Kafelnikov"
+        ],
+        [
+            "Stuttgart",
+            "Hard (i)",
+            "October 25",
+            "Thomas Enqvist 6-1, 6-4, 5-7, 7-5",
+            "Richard Krajicek",
+            "Andre Agassi Greg Rusedski"
+        ],
+        [
+            "Paris",
+            "Carpet (i)",
+            "November 1",
+            "Andre Agassi 7-6(1), 6-2, 4-6, 6-4",
+            "Marat Safin",
+            "Nicol\u00e1s Lapentti Michael Chang"
+        ]
+    ]
+}

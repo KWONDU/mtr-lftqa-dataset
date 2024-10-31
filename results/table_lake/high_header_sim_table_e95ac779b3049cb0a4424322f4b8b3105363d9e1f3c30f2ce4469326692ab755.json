@@ -1,0 +1,55 @@
+{
+    "id": "e95ac779b3049cb0a4424322f4b8b3105363d9e1f3c30f2ce4469326692ab755",
+    "metadata": "Student Switch Off | Results | Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Universities",
+        "No_of_Students_Signed_up",
+        "_electricity_reduction",
+        "Tonnes_of_CO2_Saved",
+        "_Saved"
+    ],
+    "cell": [
+        [
+            "2006-07",
+            "1",
+            "130",
+            "10%",
+            "90",
+            "\u00a319,000"
+        ],
+        [
+            "2007-08",
+            "7",
+            "2800",
+            "8.9%",
+            "550",
+            "\u00a3100,000+"
+        ],
+        [
+            "2008-09",
+            "11",
+            "4980",
+            "9.3%",
+            "1295",
+            "\u00a3218,000"
+        ],
+        [
+            "2009-10",
+            "33",
+            "12052",
+            "6.9%",
+            "2100",
+            "\u00a3337,000"
+        ],
+        [
+            "2010-11",
+            "37",
+            "15351",
+            "6.9%",
+            "1522",
+            "\u00a3232,000*"
+        ]
+    ]
+}

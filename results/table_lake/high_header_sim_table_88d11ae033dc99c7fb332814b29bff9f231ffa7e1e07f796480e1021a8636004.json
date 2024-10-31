@@ -1,0 +1,91 @@
+{
+    "id": "88d11ae033dc99c7fb332814b29bff9f231ffa7e1e07f796480e1021a8636004",
+    "metadata": "Wake Forest Demon Deacons football, 1980-89 | Schedule | 1981",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Location_",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/05/1981",
+            "South Carolina",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 6-23",
+            "29300"
+        ],
+        [
+            "09/12/1981",
+            "North Carolina State",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 23-28",
+            "29000"
+        ],
+        [
+            "09/19/1981*",
+            "at Auburn",
+            "Jordan-Hare Stadium \u2022 Auburn, AL",
+            "W 24-21",
+            "63000"
+        ],
+        [
+            "09/26/1981",
+            "at Virginia Tech",
+            "Lane Stadium \u2022 Blacksburg, VA",
+            "L 14-30",
+            "42200"
+        ],
+        [
+            "10/03/1981*",
+            "Appalachian State",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 15-14",
+            "24500"
+        ],
+        [
+            "10/10/1981*",
+            "at #5 North Carolina",
+            "Kenan Memorial Stadium \u2022 Chapel Hill, NC",
+            "L 10-48",
+            "51692"
+        ],
+        [
+            "10/17/1981*",
+            "Maryland",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 33-45",
+            "24500"
+        ],
+        [
+            "10/24/1981*",
+            "at Virginia",
+            "Scott Stadium \u2022 Charlottesville, VA",
+            "W 24-21",
+            "24222"
+        ],
+        [
+            "10/31/1981*",
+            "at #3 Clemson",
+            "Memorial Stadium \u2022 Clemson, SC",
+            "L 24-82",
+            "60383"
+        ],
+        [
+            "11/07/1981",
+            "Duke",
+            "Wallace Wade Stadium \u2022 Durham, NC",
+            "L 10-31",
+            "22000"
+        ],
+        [
+            "11/14/1981",
+            "at Richmond",
+            "UR Stadium \u2022 Richmond, VA",
+            "W 34-22",
+            "15285"
+        ]
+    ]
+}

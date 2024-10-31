@@ -1,0 +1,70 @@
+{
+    "id": "ee5997f2e7ab63ea8f3d55922ca6f9501943dda16f8308872cb9b0bf4bf2826a",
+    "metadata": "1968 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "10.10 (70)",
+            "South Melbourne",
+            "12.8 (80)",
+            "MCG",
+            "18976",
+            "20 July 1968"
+        ],
+        [
+            "Geelong",
+            "13.11 (89)",
+            "Richmond",
+            "9.16 (70)",
+            "Kardinia Park",
+            "23932",
+            "20 July 1968"
+        ],
+        [
+            "Fitzroy",
+            "13.17 (95)",
+            "North Melbourne",
+            "9.14 (68)",
+            "Princes Park",
+            "7563",
+            "20 July 1968"
+        ],
+        [
+            "Hawthorn",
+            "24.8 (152)",
+            "Footscray",
+            "10.10 (70)",
+            "Glenferrie Oval",
+            "13810",
+            "20 July 1968"
+        ],
+        [
+            "St Kilda",
+            "11.10 (76)",
+            "Collingwood",
+            "12.13 (85)",
+            "Moorabbin Oval",
+            "28246",
+            "20 July 1968"
+        ],
+        [
+            "Essendon",
+            "7.13 (55)",
+            "Carlton",
+            "6.13 (49)",
+            "Windy Hill",
+            "32000",
+            "20 July 1968"
+        ]
+    ]
+}

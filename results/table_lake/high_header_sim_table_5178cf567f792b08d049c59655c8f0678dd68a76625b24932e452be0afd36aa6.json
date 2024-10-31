@@ -1,0 +1,115 @@
+{
+    "id": "5178cf567f792b08d049c59655c8f0678dd68a76625b24932e452be0afd36aa6",
+    "metadata": "Upstate South Carolina | Counties | Counties",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "County",
+        "Year_Founded",
+        "County_Seat",
+        "_2010_Census_Population",
+        "July_1_2012_Population_Estimate_",
+        "Area_Sq_Mi_",
+        "Land_Area_Sq_Mi_"
+    ],
+    "cell": [
+        [
+            "Abbeville County",
+            "1785",
+            "Abbeville",
+            "25417",
+            "25101",
+            "511",
+            "508"
+        ],
+        [
+            "Anderson County",
+            "1826",
+            "Anderson",
+            "187126",
+            "189355",
+            "757",
+            "718"
+        ],
+        [
+            "Cherokee County",
+            "1897",
+            "Gaffney",
+            "55342",
+            "55662",
+            "397",
+            "393"
+        ],
+        [
+            "Greenville County",
+            "1786",
+            "Greenville",
+            "451225",
+            "467605",
+            "795",
+            "790"
+        ],
+        [
+            "Greenwood County",
+            "1897",
+            "Greenwood",
+            "69835",
+            "69756",
+            "463",
+            "456"
+        ],
+        [
+            "Laurens County",
+            "1785",
+            "Laurens",
+            "66537",
+            "66223",
+            "724",
+            "715"
+        ],
+        [
+            "Oconee County",
+            "1868",
+            "Walhalla",
+            "74275",
+            "74627",
+            "674",
+            "625"
+        ],
+        [
+            "Pickens County",
+            "1868",
+            "Pickens",
+            "119224",
+            "119670",
+            "512",
+            "497"
+        ],
+        [
+            "Spartanburg County",
+            "1785",
+            "Spartanburg",
+            "284307",
+            "288745",
+            "819",
+            "811"
+        ],
+        [
+            "Union County",
+            "1798",
+            "Union",
+            "28961",
+            "28252",
+            "516",
+            "514"
+        ],
+        [
+            "Total",
+            "Total",
+            "Total",
+            "1362073",
+            "1384996",
+            "6168",
+            "6027"
+        ]
+    ]
+}

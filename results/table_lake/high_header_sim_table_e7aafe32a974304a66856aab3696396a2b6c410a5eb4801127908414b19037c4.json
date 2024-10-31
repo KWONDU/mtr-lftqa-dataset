@@ -1,0 +1,70 @@
+{
+    "id": "e7aafe32a974304a66856aab3696396a2b6c410a5eb4801127908414b19037c4",
+    "metadata": "2007-08 FA Cup Qualifying Rounds | Fourth qualifying round | Replays",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "Halifax Town",
+            "2-1",
+            "Evesham United",
+            "1025"
+        ],
+        [
+            "7",
+            "Cambridge United",
+            "5-1",
+            "Stafford Rangers",
+            "1965"
+        ],
+        [
+            "9",
+            "Barrow",
+            "2-1",
+            "Farsley Celtic",
+            "1380"
+        ],
+        [
+            "16",
+            "Hitchin Town",
+            "0-1",
+            "Weymouth",
+            "504"
+        ],
+        [
+            "19",
+            "Stevenage Borough",
+            "1-0",
+            "Salisbury City",
+            "1174"
+        ],
+        [
+            "23",
+            "Aldershot Town",
+            "1-0",
+            "Crawley Town",
+            "2058"
+        ],
+        [
+            "25",
+            "Forest Green Rovers",
+            "4-1",
+            "Eastleigh",
+            "753"
+        ],
+        [
+            "29",
+            "Lewes",
+            "2-0",
+            "Grays Athletic",
+            "746"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "22e427ae4c8440d8b9194e1512e98d0c95bd936ca5cda1c590a9a9e7af910ce7",
+    "metadata": "1996-97 Heineken Cup pool stage | Pool 3 | Pool 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Tries_for",
+        "Tries_against",
+        "Try_diff",
+        "Points_for",
+        "Points_against",
+        "Points_diff"
+    ],
+    "cell": [
+        [
+            "Brive",
+            "13",
+            "8",
+            "5",
+            "106",
+            "65",
+            "41"
+        ],
+        [
+            "Harlequins",
+            "20",
+            "8",
+            "12",
+            "131",
+            "95",
+            "36"
+        ],
+        [
+            "Neath",
+            "10",
+            "16",
+            "-6",
+            "83",
+            "109",
+            "-26"
+        ],
+        [
+            "Ulster",
+            "6",
+            "10",
+            "-4",
+            "75",
+            "87",
+            "-12"
+        ],
+        [
+            "Caledonia",
+            "13",
+            "20",
+            "-7",
+            "117",
+            "156",
+            "-39"
+        ]
+    ]
+}

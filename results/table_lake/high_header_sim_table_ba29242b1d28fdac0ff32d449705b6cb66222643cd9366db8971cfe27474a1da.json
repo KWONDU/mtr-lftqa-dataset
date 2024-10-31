@@ -1,0 +1,55 @@
+{
+    "id": "ba29242b1d28fdac0ff32d449705b6cb66222643cd9366db8971cfe27474a1da",
+    "metadata": "Television in Italy | tv Services for Sky Italia costumers | tv Services for Sky Italia costumers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Television_service",
+        "Country",
+        "Language_",
+        "Content",
+        "HDTV",
+        "Package_Option"
+    ],
+    "cell": [
+        [
+            "Sky Inside",
+            "Italy",
+            "Italian",
+            "presentazione",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Sky Inside",
+            "Italy",
+            "Italian",
+            "presentazione",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Sky Inside",
+            "Italy",
+            "Italian",
+            "presentazione",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Sky Test",
+            "Italy",
+            "Italian",
+            "monoscopio",
+            "no",
+            "qualsiasi ( FTA )"
+        ],
+        [
+            "Sky Assist",
+            "Italy",
+            "Italian",
+            "assistenza",
+            "no",
+            "qualsiasi"
+        ]
+    ]
+}

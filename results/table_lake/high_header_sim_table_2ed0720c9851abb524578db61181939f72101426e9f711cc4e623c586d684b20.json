@@ -1,0 +1,70 @@
+{
+    "id": "2ed0720c9851abb524578db61181939f72101426e9f711cc4e623c586d684b20",
+    "metadata": "1972 VFL season | Round 22 | Round 22",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "15.12 (102)",
+            "St Kilda",
+            "18.13 (121)",
+            "Glenferrie Oval",
+            "22855",
+            "2 September 1972"
+        ],
+        [
+            "Geelong",
+            "20.20 (140)",
+            "North Melbourne",
+            "13.11 (89)",
+            "Kardinia Park",
+            "12267",
+            "2 September 1972"
+        ],
+        [
+            "Carlton",
+            "13.8 (86)",
+            "Footscray",
+            "11.17 (83)",
+            "Princes Park",
+            "24619",
+            "2 September 1972"
+        ],
+        [
+            "Melbourne",
+            "18.19 (127)",
+            "Fitzroy",
+            "14.11 (95)",
+            "MCG",
+            "21653",
+            "2 September 1972"
+        ],
+        [
+            "Essendon",
+            "17.15 (117)",
+            "Collingwood",
+            "17.10 (112)",
+            "Windy Hill",
+            "35030",
+            "2 September 1972"
+        ],
+        [
+            "Richmond",
+            "23.20 (158)",
+            "South Melbourne",
+            "12.10 (82)",
+            "VFL Park",
+            "16541",
+            "2 September 1972"
+        ]
+    ]
+}

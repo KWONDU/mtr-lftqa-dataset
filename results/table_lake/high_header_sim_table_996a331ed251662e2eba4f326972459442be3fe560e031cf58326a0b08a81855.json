@@ -1,0 +1,70 @@
+{
+    "id": "996a331ed251662e2eba4f326972459442be3fe560e031cf58326a0b08a81855",
+    "metadata": "2007 CFL Draft | Round one | Round one",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "1",
+            "Hamilton Tiger-Cats",
+            "Chris Bauman",
+            "WR",
+            "Regina"
+        ],
+        [
+            "2",
+            "Edmonton Eskimos",
+            "Warren Kean",
+            "K",
+            "Concordia"
+        ],
+        [
+            "3",
+            "Calgary Stampeders (via Winnipeg )",
+            "Mike Gyetvai",
+            "OL",
+            "Michigan State"
+        ],
+        [
+            "4",
+            "Hamilton Tiger-Cats (via Saskatchewan )",
+            "J.P. Bekasiak",
+            "DL",
+            "Toledo"
+        ],
+        [
+            "5",
+            "Calgary Stampeders (via Toronto )",
+            "Justin Phillips",
+            "LB",
+            "Wilfrid Laurier"
+        ],
+        [
+            "6",
+            "Calgary Stampeders",
+            "Jabari Arthur",
+            "WR",
+            "Akron"
+        ],
+        [
+            "7",
+            "Montreal Alouettes",
+            "Richard Yalowsky",
+            "OL",
+            "Calgary"
+        ],
+        [
+            "8",
+            "BC Lions",
+            "Adam Nicolson",
+            "WR",
+            "Ottawa"
+        ]
+    ]
+}

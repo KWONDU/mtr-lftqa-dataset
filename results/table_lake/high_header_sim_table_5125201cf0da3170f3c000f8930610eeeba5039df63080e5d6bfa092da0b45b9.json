@@ -1,0 +1,70 @@
+{
+    "id": "5125201cf0da3170f3c000f8930610eeeba5039df63080e5d6bfa092da0b45b9",
+    "metadata": "1927 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "8.12 (60)",
+            "South Melbourne",
+            "11.12 (78)",
+            "Arden Street Oval",
+            "5000",
+            "3 September 1927"
+        ],
+        [
+            "Collingwood",
+            "3.13 (31)",
+            "Essendon",
+            "4.6 (30)",
+            "Victoria Park",
+            "8000",
+            "3 September 1927"
+        ],
+        [
+            "Carlton",
+            "4.6 (30)",
+            "Richmond",
+            "3.5 (23)",
+            "Princes Park",
+            "30000",
+            "3 September 1927"
+        ],
+        [
+            "Melbourne",
+            "10.13 (73)",
+            "Hawthorn",
+            "3.15 (33)",
+            "MCG",
+            "5268",
+            "3 September 1927"
+        ],
+        [
+            "St Kilda",
+            "9.18 (72)",
+            "Geelong",
+            "8.22 (70)",
+            "Junction Oval",
+            "8000",
+            "3 September 1927"
+        ],
+        [
+            "Footscray",
+            "15.11 (101)",
+            "Fitzroy",
+            "9.18 (72)",
+            "Western Oval",
+            "8000",
+            "3 September 1927"
+        ]
+    ]
+}

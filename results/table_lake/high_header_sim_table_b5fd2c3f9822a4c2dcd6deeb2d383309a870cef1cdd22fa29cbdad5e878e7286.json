@@ -1,0 +1,61 @@
+{
+    "id": "b5fd2c3f9822a4c2dcd6deeb2d383309a870cef1cdd22fa29cbdad5e878e7286",
+    "metadata": "2008-09 Real Madrid C.F. season | Top assister | Top assister",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "P",
+        "Player",
+        "Position_",
+        "League",
+        "Copa_del_Rey",
+        "Champions_League",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Gonzalo Higua\u00edn",
+            "Forward",
+            "8",
+            "0",
+            "0",
+            "8"
+        ],
+        [
+            "2",
+            "Guti",
+            "Midfielder",
+            "5",
+            "1",
+            "2",
+            "8"
+        ],
+        [
+            "3",
+            "Arjen Robben",
+            "Forward",
+            "6",
+            "0",
+            "1",
+            "7"
+        ],
+        [
+            "4",
+            "Ra\u00fal",
+            "Forward",
+            "5",
+            "1",
+            "0",
+            "6"
+        ],
+        [
+            "5",
+            "Fernando Gago",
+            "Midfielder",
+            "6",
+            "0",
+            "0",
+            "6"
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "89e167e2bfa03967d38c1561ab1ef298f4ce2092a3639c024333dac9f23ee5d3",
+    "metadata": "United States House of Representatives elections, 1964 | New York | New York",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "New York 1",
+            "Otis G. Pike",
+            "Democratic",
+            "1960",
+            "Re-elected",
+            "Otis G. Pike (D) 64.9% John J. Hart, Jr. (R) 35.1%"
+        ],
+        [
+            "New York 6",
+            "Seymour Halpern",
+            "Republican",
+            "1958",
+            "Re-elected",
+            "Seymour Halpern (R) 57.1% Emil Levin (D) 42.9%"
+        ],
+        [
+            "New York 10",
+            "Emanuel Celler",
+            "Democratic",
+            "1922",
+            "Re-elected",
+            "Emanuel Celler (D) 87.5% Samuel W. Held (R) 12.5%"
+        ],
+        [
+            "New York 15",
+            "Hugh L. Carey",
+            "Democratic",
+            "1960",
+            "Re-elected",
+            "Hugh L. Carey (D) 53.6% Luigi R. Marano (R) 46.4%"
+        ],
+        [
+            "New York 16",
+            "John M. Murphy",
+            "Democratic",
+            "1962",
+            "Re-elected",
+            "John M. Murphy (D) 61.4% David D. Smith (R) 38.6%"
+        ],
+        [
+            "New York 29",
+            "Leo W. O`Brien",
+            "Democratic",
+            "1952",
+            "Re-elected",
+            "Leo W. O`Brien (D) 69.2% John D. Meader (R) 30.8%"
+        ],
+        [
+            "New York 32",
+            "Alexander Pirnie",
+            "Republican",
+            "1958",
+            "Re-elected",
+            "Alexander Pirnie (R) 53.4% Robert Castle (D) 46.6%"
+        ]
+    ]
+}

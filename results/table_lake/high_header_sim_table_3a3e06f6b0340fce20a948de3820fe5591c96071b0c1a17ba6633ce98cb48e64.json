@@ -1,0 +1,49 @@
+{
+    "id": "3a3e06f6b0340fce20a948de3820fe5591c96071b0c1a17ba6633ce98cb48e64",
+    "metadata": "Anke Feller | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournament",
+        "Venue",
+        "Result_",
+        "Extra"
+    ],
+    "cell": [
+        [
+            "1997",
+            "World Indoor Championships",
+            "Paris , France",
+            "3rd",
+            "4x400 m relay"
+        ],
+        [
+            "1997",
+            "World Championships",
+            "Athens , Greece",
+            "1st",
+            "4x400 m relay"
+        ],
+        [
+            "1998",
+            "European Championships",
+            "Budapest , Hungary",
+            "1st",
+            "4x400 m relay"
+        ],
+        [
+            "1998",
+            "World Cup",
+            "Johannesburg , South Africa",
+            "1st",
+            "4x400 m relay"
+        ],
+        [
+            "1999",
+            "World Championships",
+            "Seville , Spain",
+            "3rd",
+            "4x400 m relay"
+        ]
+    ]
+}

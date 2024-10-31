@@ -1,0 +1,71 @@
+{
+    "id": "2e917accb5a5f8c7e8b985abdc22b2745d95c4d7d932383d272e35686f58c99e",
+    "metadata": "List of National Natural Landmarks in Hawaii | List of National Natural Landmarks in Hawaii | List of National Natural Landmarks in Hawaii",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "Name_",
+        "Date_",
+        "Location_",
+        "County",
+        "Description_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Diamond Head",
+            "",
+            "Honolulu",
+            "Oahu",
+            "State Monument"
+        ],
+        [
+            "2",
+            "I`ao Valley",
+            "",
+            "Wailuku",
+            "Maui",
+            "State Monument"
+        ],
+        [
+            "3",
+            "Kanaha Pond",
+            "June 1971",
+            "Kahului",
+            "Maui",
+            "Bird Sanctuary"
+        ],
+        [
+            "4",
+            "Ko\u02bbolau Range Pali",
+            "",
+            "",
+            "Oahu",
+            ""
+        ],
+        [
+            "5",
+            "Makalawena Marsh",
+            "June 1972",
+            "North Kona",
+            "Hawai\u02bbi",
+            "Bird Sanctuary"
+        ],
+        [
+            "6",
+            "Mauna Kea",
+            "November 1972",
+            "Saddle Road",
+            "Hawai\u02bbi",
+            "U.S. state high point"
+        ],
+        [
+            "7",
+            "North Shore Cliffs",
+            "December 1972",
+            "Moloka\u02bbi",
+            "Maui",
+            ""
+        ]
+    ]
+}

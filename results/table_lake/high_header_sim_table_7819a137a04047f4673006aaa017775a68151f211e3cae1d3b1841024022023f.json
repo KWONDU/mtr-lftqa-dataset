@@ -1,0 +1,84 @@
+{
+    "id": "7819a137a04047f4673006aaa017775a68151f211e3cae1d3b1841024022023f",
+    "metadata": "Afrikaans | Afrikaans phrases | Afrikaans phrases",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Afrikaans",
+        "IPA",
+        "Dutch",
+        "English",
+        "German_"
+    ],
+    "cell": [
+        [
+            "Hallo! Hoe gaan dit?",
+            "[\u0266al\u0259u \u0266u xa\u02d1n d\u0259t]",
+            "Hallo! Hoe gaat het (met je/jou/u)? , Also used: Hallo! Hoe is het?",
+            "Hello! How is it going? (Hello! How are you?)",
+            "Hallo! Wie geht`s? (Hallo! Wie geht`s dir/Ihnen?)"
+        ],
+        [
+            "Baie goed, dankie.",
+            "[baj\u0259 xu\u02d1t da\u014bki]",
+            "Heel goed, dank je.",
+            "Very well, thank you.",
+            "Sehr gut, danke."
+        ],
+        [
+            "Praat jy Afrikaans?",
+            "[pr\u0251\u02d1t j\u0259i afrik\u0251\u0303\u02d1s]",
+            "Spreek/Praat je/jij Afrikaans?",
+            "Do you speak Afrikaans?",
+            "Sprichst du Afrikaans?"
+        ],
+        [
+            "Praat jy Engels?",
+            "[pr\u0251\u02d1t j\u0259i \u025b\u014b\u0259ls]",
+            "Spreek/Praat je/jij Engels?",
+            "Do you speak English?",
+            "Sprichst du Englisch?"
+        ],
+        [
+            "Ja.",
+            "[j\u0251\u02d1]",
+            "Ja.",
+            "Yes.",
+            "Ja."
+        ],
+        [
+            "Nee.",
+            "[ne\u02d1\u0259]",
+            "Nee.",
+            "No.",
+            "Nein."
+        ],
+        [
+            "`n Bietjie.",
+            "[\u0259 biki]",
+            "Een beetje.",
+            "A bit.",
+            "Ein bisschen."
+        ],
+        [
+            "Wat is jou naam?",
+            "[vat \u0259s j\u0259u n\u0251\u02d1m]",
+            "Hoe heet je? / Wat is jouw naam?",
+            "What is your name?",
+            "Wie hei\u00dft du? / Wie ist dein Name?"
+        ],
+        [
+            "Die kinders praat Afrikaans.",
+            "[di k\u0259n\u0259rs pr\u0251\u02d1t afrik\u0251\u0303\u02d1ns]",
+            "De kinderen spreken/praten Afrikaans.",
+            "The children speak Afrikaans.",
+            "Die Kinder sprechen Afrikaans."
+        ],
+        [
+            "Ek is lief vir jou. , Less common: Ek het jou lief.",
+            "[\u00e6k \u0259s lif v\u026fr j\u0259\u028a]",
+            "Ik hou van je/jou. , Common in Southern Dutch: Ik heb je/jou/u lief.",
+            "I love you.",
+            "Ich liebe dich. , Also: Ich habe dich lieb. (Colloquial; virtually no romantic connotation)"
+        ]
+    ]
+}

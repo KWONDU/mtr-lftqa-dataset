@@ -1,0 +1,70 @@
+{
+    "id": "cf5256ea188f891c9d798fdd36b61dd852890cfb116fa65aae40d93b168529b7",
+    "metadata": "1982 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "19.19 (133)",
+            "Melbourne",
+            "12.13 (85)",
+            "Windy Hill",
+            "22403",
+            "22 May 1982"
+        ],
+        [
+            "Collingwood",
+            "13.14 (92)",
+            "Hawthorn",
+            "17.12 (114)",
+            "Victoria Park",
+            "24904",
+            "22 May 1982"
+        ],
+        [
+            "Carlton",
+            "27.23 (185)",
+            "Swans",
+            "12.11 (83)",
+            "Princes Park",
+            "23954",
+            "22 May 1982"
+        ],
+        [
+            "Richmond",
+            "21.13 (139)",
+            "Footscray",
+            "14.14 (98)",
+            "MCG",
+            "22493",
+            "22 May 1982"
+        ],
+        [
+            "St Kilda",
+            "16.19 (115)",
+            "Fitzroy",
+            "25.12 (162)",
+            "Moorabbin Oval",
+            "15140",
+            "22 May 1982"
+        ],
+        [
+            "Geelong",
+            "15.19 (109)",
+            "North Melbourne",
+            "9.9 (63)",
+            "VFL Park",
+            "25237",
+            "22 May 1982"
+        ]
+    ]
+}

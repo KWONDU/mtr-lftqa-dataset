@@ -1,0 +1,56 @@
+{
+    "id": "1741d50f1e3cb1130d536d603e8f84331977682345cb071e341893b4dd7157b9",
+    "metadata": "Greater Richmond Region | Statistics | Statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Mall_name",
+        "Location_",
+        "Retail_space_Sq_feet_m\u00b2",
+        "Stores",
+        "Year_opened"
+    ],
+    "cell": [
+        [
+            "Short Pump Town Center",
+            "Short Pump, Virginia",
+            "square feet (m2)",
+            "140",
+            "2003"
+        ],
+        [
+            "Chesterfield Towne Center",
+            "Midlothian, Virginia",
+            "square feet (m2)",
+            "120",
+            "1975"
+        ],
+        [
+            "Regency Square",
+            "Tuckahoe, Virginia",
+            "square feet (m2)",
+            "100+",
+            "1975"
+        ],
+        [
+            "Southpark Mall",
+            "Colonial Heights, Virginia",
+            "square feet (m2)",
+            "100+",
+            "1989"
+        ],
+        [
+            "Virginia Center Commons",
+            "Glen Allen, Virginia",
+            "square feet (m2)",
+            "100",
+            "1991"
+        ],
+        [
+            "Stony Point Fashion Park",
+            "Richmond, Virginia",
+            "square feet (m2)",
+            "83",
+            "2003"
+        ]
+    ]
+}

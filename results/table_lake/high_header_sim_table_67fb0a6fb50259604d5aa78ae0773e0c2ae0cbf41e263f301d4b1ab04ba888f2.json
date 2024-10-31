@@ -1,0 +1,61 @@
+{
+    "id": "67fb0a6fb50259604d5aa78ae0773e0c2ae0cbf41e263f301d4b1ab04ba888f2",
+    "metadata": "2008 Targa Tasmania | Rookie Rallye Modern Competition | Rookie Rallye Modern Competition",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Navigator",
+        "Vehicle",
+        "Class_",
+        "Capacity",
+        "Total_Time",
+        "Margin"
+    ],
+    "cell": [
+        [
+            "Bradford",
+            "Huggins",
+            "1999 Subaru Impreza WRX STi",
+            "CM22",
+            "3400",
+            "07:00",
+            "00:00"
+        ],
+        [
+            "Nicholls",
+            "Locket",
+            "2003 Holden Commodore Ute",
+            "CM34",
+            "5700",
+            "07:45",
+            "00:45"
+        ],
+        [
+            "Waldon",
+            "Catt",
+            "1999 Subaru Impreza WRX STi R",
+            "CM42",
+            "3400",
+            "08:29",
+            "01:29"
+        ],
+        [
+            "Summers",
+            "Anesbury",
+            "2007 Porsche 911 GT3 RS",
+            "CM13",
+            "3600",
+            "09:16",
+            "02:16"
+        ],
+        [
+            "Finlayson",
+            "Ferguson",
+            "2000 Mitsubishi Lancer Evo 6.5",
+            "CM22",
+            "3396",
+            "09:40",
+            "02:40"
+        ]
+    ]
+}

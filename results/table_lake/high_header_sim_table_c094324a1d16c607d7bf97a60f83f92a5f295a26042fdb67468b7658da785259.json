@@ -1,0 +1,56 @@
+{
+    "id": "c094324a1d16c607d7bf97a60f83f92a5f295a26042fdb67468b7658da785259",
+    "metadata": "Macclesfield (UK Parliament constituency) | MPs 1832-1885: Macclesfield Parliamentary Borough | MPs 1832-1885: Macclesfield Parliamentary Borough",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "_1st_Member",
+        "_1st_Party",
+        "_2nd_Member",
+        "_2nd_Party"
+    ],
+    "cell": [
+        [
+            "1832",
+            "John Brocklehurst",
+            "Liberal",
+            "John Ryle",
+            "Conservative"
+        ],
+        [
+            "1837",
+            "John Brocklehurst",
+            "Liberal",
+            "Thomas Grimsditch",
+            "Conservative"
+        ],
+        [
+            "1847",
+            "John Brocklehurst",
+            "Liberal",
+            "John Williams",
+            "Conservative"
+        ],
+        [
+            "1852",
+            "John Brocklehurst",
+            "Liberal",
+            "Edward Christopher Egerton",
+            "Conservative"
+        ],
+        [
+            "1868",
+            "William Coare Brocklehurst",
+            "Liberal",
+            "David Chadwick",
+            "Liberal"
+        ],
+        [
+            "1880",
+            "writ suspended",
+            "writ suspended",
+            "writ suspended",
+            "writ suspended"
+        ]
+    ]
+}

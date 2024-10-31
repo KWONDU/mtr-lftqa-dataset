@@ -1,0 +1,63 @@
+{
+    "id": "17f9a78513a4bb662d694eac8a692b0b1c9b06134c4eb12fab5afda09dd576a2",
+    "metadata": "British Rail Class 104 | Preservation | Preservation",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Vehicle_Numbers",
+        "Vehicle_Types",
+        "Livery",
+        "Location_",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "M50454+M50528",
+            "DMBS+DMCL",
+            "Blue",
+            "Llangollen Railway",
+            "In service"
+        ],
+        [
+            "M50455+M50517",
+            "DMBS+DMCL",
+            "Green",
+            "Churnet Valley Railway",
+            "In service"
+        ],
+        [
+            "M50479",
+            "DMBS",
+            "Green",
+            "Telford Steam Railway",
+            "In service as coaching stock"
+        ],
+        [
+            "M50447",
+            "DMBS",
+            "Green",
+            "Llangollen Railway",
+            "Under restoration"
+        ],
+        [
+            "53437+M59137+M53494",
+            "DMBS+TCL+DMCL",
+            "NSE/Green/Blue",
+            "Churnet Valley Railway",
+            "Stored awaiting restoration"
+        ],
+        [
+            "M50531+59228+53556",
+            "DMCL+TBSL+DMCL",
+            "Green/Blue",
+            "Telford Steam Railway",
+            "Stored awaiting restoration"
+        ],
+        [
+            "ADB977554",
+            "DTCL",
+            "Blue",
+            "Churnet Valley Railway",
+            "Stored awaiting restoration"
+        ]
+    ]
+}

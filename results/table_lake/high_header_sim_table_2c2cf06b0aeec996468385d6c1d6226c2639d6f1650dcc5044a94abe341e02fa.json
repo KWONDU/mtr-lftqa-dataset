@@ -1,0 +1,70 @@
+{
+    "id": "2c2cf06b0aeec996468385d6c1d6226c2639d6f1650dcc5044a94abe341e02fa",
+    "metadata": "Pascal's calculator | Known machines | Known machines",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Location_",
+        "Country",
+        "Type_",
+        "Wheels",
+        "Configuration"
+    ],
+    "cell": [
+        [
+            "CNAM museum Paris",
+            "France",
+            "Accounting",
+            "8",
+            "6 x 10 + 20 + 12"
+        ],
+        [
+            "CNAM museum Paris",
+            "France",
+            "Scientific",
+            "6",
+            "6 x 10"
+        ],
+        [
+            "CNAM museum Paris",
+            "France",
+            "Accounting",
+            "6",
+            "4 x 10 + 20 + 12"
+        ],
+        [
+            "mus\u00e9e Henri Lecoq Clermont-Ferrand",
+            "France",
+            "Scientific",
+            "8",
+            "8 x 10"
+        ],
+        [
+            "Mus\u00e9eHenriLecoq Clermont-Ferrand",
+            "France",
+            "Accounting",
+            "5",
+            "3 x 10 + 20 + 12"
+        ],
+        [
+            "Mathematisch-Physikalischer salon, Dresden",
+            "Germany",
+            "Accounting",
+            "10",
+            "8 x 10 + 20 + 12"
+        ],
+        [
+            "L\u00e9onParc\u00e9collection",
+            "France",
+            "Surveying",
+            "8",
+            "5x10+6+12+12"
+        ],
+        [
+            "IBM collection",
+            "USA",
+            "Accounting",
+            "8",
+            "6 x 10 + 20 + 12"
+        ]
+    ]
+}

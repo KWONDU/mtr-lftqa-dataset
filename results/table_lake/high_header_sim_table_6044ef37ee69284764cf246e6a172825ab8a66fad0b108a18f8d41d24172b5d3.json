@@ -1,0 +1,63 @@
+{
+    "id": "6044ef37ee69284764cf246e6a172825ab8a66fad0b108a18f8d41d24172b5d3",
+    "metadata": "Allegheny Mountain Radio | Stations | Stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_Sign",
+        "City_of_License",
+        "Frequency",
+        "age_Watt",
+        "Coverage_Area",
+        "Founded"
+    ],
+    "cell": [
+        [
+            "WVMR",
+            "Frost, West Virginia",
+            "1370 kHz",
+            "5,000 watts day only",
+            "Pocahontas County",
+            "June 1981"
+        ],
+        [
+            "WVLS",
+            "Monterey, Virginia",
+            "89.7 MHz",
+            "360 watts",
+            "Highland County",
+            "May 1995"
+        ],
+        [
+            "WCHG",
+            "Hot Springs, Virginia",
+            "107.1 MHz",
+            "160 watts",
+            "Bath County",
+            "June 1995"
+        ],
+        [
+            "W278AL",
+            "Durbin, West Virginia",
+            "103.5 MHz",
+            "50 watts",
+            "Durbin / Bartow",
+            "July 1998"
+        ],
+        [
+            "WVMR-FM",
+            "Hillsboro, West Virginia",
+            "91.9 MHz",
+            "550 watts",
+            "Hillsboro",
+            "October 2010"
+        ],
+        [
+            "WNMP",
+            "Marlinton, West Virginia",
+            "88.5 MHz",
+            "1,000 watts",
+            "Marlinton / Huntersville",
+            "September 2011"
+        ]
+    ]
+}

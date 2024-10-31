@@ -1,0 +1,55 @@
+{
+    "id": "e4faba0de199cef04d14b45ad8093c5ffa55b97d958416394e30fd052492fc17",
+    "metadata": "2007 Tampa Bay Storm season | Wide Receivers | Wide Receivers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Rec_",
+        "Yards",
+        "Avg_",
+        "TD_s",
+        "Long_"
+    ],
+    "cell": [
+        [
+            "Lawrence Samuels",
+            "11",
+            "116",
+            "10.5",
+            "1",
+            "18"
+        ],
+        [
+            "Terrill Shaw",
+            "9",
+            "112",
+            "12.4",
+            "4",
+            "26"
+        ],
+        [
+            "Hank Edwards",
+            "3",
+            "39",
+            "13",
+            "1",
+            "17"
+        ],
+        [
+            "Karl Williams",
+            "3",
+            "39",
+            "13",
+            "0",
+            "17"
+        ],
+        [
+            "Marvin Brown",
+            "1",
+            "9",
+            "9",
+            "0",
+            "9"
+        ]
+    ]
+}

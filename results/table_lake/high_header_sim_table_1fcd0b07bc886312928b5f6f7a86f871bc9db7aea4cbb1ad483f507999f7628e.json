@@ -1,0 +1,117 @@
+{
+    "id": "1fcd0b07bc886312928b5f6f7a86f871bc9db7aea4cbb1ad483f507999f7628e",
+    "metadata": "2003 Barber Dodge Pro Series season | Race calendar and results | Race calendar and results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Circuit",
+        "Location_",
+        "Date_",
+        "Pole_position",
+        "Fastest_lap",
+        "Winning_driver",
+        "Headline_event_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Albert Whitted Airport",
+            "St. Petersburg, Florida",
+            "February 23",
+            "Leonardo Maia",
+            "Dan Di Leo",
+            "Leonardo Maia",
+            "Grand Prix of St. Petersburg"
+        ],
+        [
+            "2",
+            "Fundidora park",
+            "Monterrey",
+            "March 23",
+            "Leonardo Maia",
+            "David Mart\u00ednez",
+            "David Mart\u00ednez",
+            "Monterrey Grand Prix"
+        ],
+        [
+            "3",
+            "Milwaukee Mile",
+            "West Allis, Wisconsin",
+            "June 1",
+            "Victor Gonzalez, Jr.",
+            "Scott Poirier",
+            "Leonardo Maia",
+            "Milwaukee Mile Centennial 250"
+        ],
+        [
+            "4",
+            "Mazda Raceway Laguna Seca",
+            "Monterey, California",
+            "June 15",
+            "Memo Rojas",
+            "Leonardo Maia",
+            "Dan Di Leo",
+            "Grand Prix of Monterey"
+        ],
+        [
+            "5",
+            "Portland International Raceway",
+            "Portland, Oregon",
+            "June 22",
+            "Leonardo Maia",
+            "Leonardo Maia",
+            "Leonardo Maia",
+            "G.I. Joe`s 200"
+        ],
+        [
+            "6",
+            "Burke Lakefront Airport",
+            "Cleveland, Ohio",
+            "July 5",
+            "Leonardo Maia",
+            "Leonardo Maia",
+            "Leonardo Maia",
+            "U.S. Bank Cleveland Grand Prix"
+        ],
+        [
+            "7",
+            "Exhibition Place",
+            "Toronto",
+            "July 13",
+            "Leonardo Maia",
+            "Leonardo Maia",
+            "Memo Rojas",
+            "Molson Indy Toronto"
+        ],
+        [
+            "8",
+            "Concord Pacific Place",
+            "Vancouver",
+            "July 27",
+            "Leonardo Maia",
+            "David Mart\u00ednez",
+            "Leonardo Maia",
+            "Molson Indy Vancouver"
+        ],
+        [
+            "9",
+            "Mid-Ohio Sports Car Course",
+            "Lexington, Ohio",
+            "August 3",
+            "Leonardo Maia",
+            "Leonardo Maia",
+            "Leonardo Maia",
+            "Champ Car Grand Prix of Mid-Ohio"
+        ],
+        [
+            "10",
+            "Circuit Gilles Villeneuve",
+            "Montreal",
+            "August 24",
+            "Memo Rojas",
+            "Leonardo Maia",
+            "Memo Rojas",
+            "Molson Indy Montreal"
+        ]
+    ]
+}

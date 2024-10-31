@@ -1,0 +1,87 @@
+{
+    "id": "13a8fb6d6370018605b5edde395595369e6b72b63670d95cb7793fb2db0fa1a6",
+    "metadata": "Manitoba | Climate | Climate",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "Region",
+        "July",
+        "January",
+        "Annual_Precipitation",
+        "Plant_Hardiness_Zone"
+    ],
+    "cell": [
+        [
+            "Morden",
+            "Pembina Valley",
+            "26/14\u00b0C (79/58\u00b0F)",
+            "\u221211/\u221220\u00b0C (12/-4\u00b0F)",
+            "533mm (21.0in)",
+            "3A"
+        ],
+        [
+            "Winnipeg",
+            "Winnipeg",
+            "26/13\u00b0C (79/55\u00b0F)",
+            "\u221213/\u221223\u00b0C (9/-9\u00b0F)",
+            "514mm (20.2in)",
+            "2B"
+        ],
+        [
+            "Steinbach",
+            "Eastman",
+            "26/13\u00b0C (79/55\u00b0F)",
+            "\u221212/\u221223\u00b0C (10/-9\u00b0F)",
+            "539mm (21.2in)",
+            "2B"
+        ],
+        [
+            "Portage la Prairie",
+            "Central Plains",
+            "25/13\u00b0C (77/55\u00b0F)",
+            "\u221212/\u221223\u00b0C (10/-9\u00b0F)",
+            "515mm (20.3in)",
+            "3A"
+        ],
+        [
+            "Dauphin",
+            "Parkland",
+            "25/12\u00b0C (77/54\u00b0F)",
+            "\u221212/\u221223\u00b0C (10-9\u00b0F)",
+            "508mm (20.0in)",
+            "2B"
+        ],
+        [
+            "Brandon",
+            "Westman",
+            "25/11\u00b0C (77/52\u00b0F)",
+            "\u221213/\u221224\u00b0C (9/-11\u00b0F)",
+            "472mm (18.6in)",
+            "2B"
+        ],
+        [
+            "The Pas",
+            "Northern",
+            "23/12\u00b0C (73/54\u00b0F)",
+            "\u221216/\u221226\u00b0C (3/-15\u00b0F)",
+            "443mm (17.4in)",
+            "1B"
+        ],
+        [
+            "Thompson",
+            "Northern",
+            "23/9\u00b0C (73/48\u00b0F)",
+            "\u221219/\u221231\u00b0C (-2/-24\u00b0F)",
+            "517mm (20.4in)",
+            "0B"
+        ],
+        [
+            "Churchill",
+            "Northern",
+            "17/7\u00b0C (73/48\u00b0F)",
+            "\u221223/\u221231\u00b0C (-2/-24\u00b0F)",
+            "431mm (17.0in)",
+            "0A"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "8c77afff3a1e29cdf1cc23d80b5977526fae9180d39d7bf34407ce782fc28582",
+    "metadata": "1963 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "9.4 (58)",
+            "St Kilda",
+            "14.16 (100)",
+            "Punt Road Oval",
+            "15000",
+            "20 July 1963"
+        ],
+        [
+            "Footscray",
+            "3.6 (24)",
+            "Melbourne",
+            "10.9 (69)",
+            "Western Oval",
+            "18231",
+            "20 July 1963"
+        ],
+        [
+            "Hawthorn",
+            "9.17 (71)",
+            "Fitzroy",
+            "6.2 (38)",
+            "Glenferrie Oval",
+            "10500",
+            "20 July 1963"
+        ],
+        [
+            "South Melbourne",
+            "6.10 (46)",
+            "Essendon",
+            "12.20 (92)",
+            "Lake Oval",
+            "16000",
+            "20 July 1963"
+        ],
+        [
+            "Geelong",
+            "7.13 (55)",
+            "Collingwood",
+            "5.13 (43)",
+            "Kardinia Park",
+            "31578",
+            "20 July 1963"
+        ],
+        [
+            "North Melbourne",
+            "8.14 (62)",
+            "Carlton",
+            "5.9 (39)",
+            "Arden Street Oval",
+            "13870",
+            "20 July 1963"
+        ]
+    ]
+}

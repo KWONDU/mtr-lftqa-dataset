@@ -1,0 +1,55 @@
+{
+    "id": "c4673da109d036d5e2f22a2713172115f996979925c908adb84243a592ecec72",
+    "metadata": "Powerade Tigers all-time roster | E | E",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Position_",
+        "Number_",
+        "School_Club_Team",
+        "Season",
+        "Acquisition_via"
+    ],
+    "cell": [
+        [
+            "Edgar Echavez",
+            "Guard",
+            "12",
+            "Misamis Institute",
+            "2007",
+            "Free Agency"
+        ],
+        [
+            "Rosell Ellis",
+            "Forward",
+            "26",
+            "McNeese State",
+            "2002",
+            "Import"
+        ],
+        [
+            "Ronjay Enrile",
+            "Guard",
+            "21",
+            "Letran",
+            "2006-2012",
+            "Rookie Draft"
+        ],
+        [
+            "Dennis Espino",
+            "Center",
+            "16",
+            "Santo Tomas",
+            "2009-2011",
+            "Free Agency"
+        ],
+        [
+            "Tony Boy Espinosa",
+            "Guard",
+            "13",
+            "La Salle",
+            "2006",
+            "Free Agency"
+        ]
+    ]
+}

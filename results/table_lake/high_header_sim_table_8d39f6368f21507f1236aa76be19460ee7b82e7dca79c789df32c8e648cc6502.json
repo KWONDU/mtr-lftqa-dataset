@@ -1,0 +1,61 @@
+{
+    "id": "8d39f6368f21507f1236aa76be19460ee7b82e7dca79c789df32c8e648cc6502",
+    "metadata": "1996-97 Heineken Cup pool stage | Pool 2 | Pool 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Tries_for",
+        "Tries_against",
+        "Try_diff",
+        "Points_for",
+        "Points_against",
+        "Points_diff"
+    ],
+    "cell": [
+        [
+            "Leicester",
+            "14",
+            "3",
+            "11",
+            "114",
+            "43",
+            "71"
+        ],
+        [
+            "Llanelli",
+            "9",
+            "9",
+            "0",
+            "97",
+            "81",
+            "16"
+        ],
+        [
+            "Leinster",
+            "9",
+            "12",
+            "-3",
+            "86",
+            "109",
+            "-23"
+        ],
+        [
+            "Pau",
+            "19",
+            "10",
+            "9",
+            "137",
+            "103",
+            "34"
+        ],
+        [
+            "Scottish Borders",
+            "7",
+            "24",
+            "-17",
+            "80",
+            "178",
+            "-98"
+        ]
+    ]
+}

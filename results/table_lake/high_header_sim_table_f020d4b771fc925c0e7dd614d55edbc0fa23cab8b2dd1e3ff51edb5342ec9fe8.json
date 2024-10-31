@@ -1,0 +1,87 @@
+{
+    "id": "f020d4b771fc925c0e7dd614d55edbc0fa23cab8b2dd1e3ff51edb5342ec9fe8",
+    "metadata": "Federal Reserve Bank of Kansas City | Board of Directors | Board of Directors",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Name_",
+        "Company",
+        "Residence",
+        "Term_Expires_Dec_31",
+        "Notes_"
+    ],
+    "cell": [
+        [
+            "A",
+            "Max T. Wake",
+            "Jones National Bank & Trust Co.",
+            "Seward, Nebraska",
+            "2013",
+            ""
+        ],
+        [
+            "A",
+            "Vacancy",
+            "",
+            "",
+            "2014",
+            ""
+        ],
+        [
+            "A",
+            "David W. Brownback",
+            "Citizens State Bank & Trust Company",
+            "Ellsworth, Kansas",
+            "2015",
+            ""
+        ],
+        [
+            "B",
+            "Vacancy",
+            "",
+            "",
+            "2013",
+            ""
+        ],
+        [
+            "B",
+            "Richard K. Ratcliffe",
+            "Ratcliffe`s Inc.",
+            "Weatherford, Oklahoma",
+            "2014",
+            ""
+        ],
+        [
+            "B",
+            "John T. Stout, Jr.",
+            "Plaza Belmont Management Group LLC",
+            "Shawnee Mission, Kansas",
+            "2015",
+            ""
+        ],
+        [
+            "C",
+            "Rose Washington",
+            "OTulsa Economic Development Corporation",
+            "Tulsa, Oklahoma",
+            "2013",
+            ""
+        ],
+        [
+            "C",
+            "Barbara Mowry",
+            "GoreCreek Advisors",
+            "Greenwood Village, Colorado",
+            "2014",
+            "Chairman"
+        ],
+        [
+            "C",
+            "Steve Maestas",
+            "NAI Maestas and Ward",
+            "Albuquerque, New Mexico",
+            "2015",
+            "Deputy Chairman"
+        ]
+    ]
+}

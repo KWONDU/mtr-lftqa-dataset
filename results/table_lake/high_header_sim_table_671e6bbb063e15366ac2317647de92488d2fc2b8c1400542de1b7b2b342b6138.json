@@ -1,0 +1,63 @@
+{
+    "id": "671e6bbb063e15366ac2317647de92488d2fc2b8c1400542de1b7b2b342b6138",
+    "metadata": "1957 Team Speedway Polish Championship | Second League | Second League",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Match_",
+        "Points",
+        "Draw",
+        "Lost"
+    ],
+    "cell": [
+        [
+            "Stal Rzesz\u00f3w",
+            "12",
+            "22",
+            "0",
+            "1"
+        ],
+        [
+            "Unia Leszno",
+            "12",
+            "22",
+            "0",
+            "1"
+        ],
+        [
+            "Skra Warszawa",
+            "12",
+            "14",
+            "0",
+            "5"
+        ],
+        [
+            "Gwardia Katowice",
+            "12",
+            "8",
+            "0",
+            "8"
+        ],
+        [
+            "Stal Gorz\u00f3w Wlkp.",
+            "12",
+            "8",
+            "0",
+            "8"
+        ],
+        [
+            "Ostrovia Ostr\u00f3w Wlkp.",
+            "12",
+            "6",
+            "0",
+            "9"
+        ],
+        [
+            "LP\u017b Lublin",
+            "12",
+            "4",
+            "0",
+            "10"
+        ]
+    ]
+}

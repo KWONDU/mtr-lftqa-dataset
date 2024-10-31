@@ -1,0 +1,167 @@
+{
+    "id": "f00df15a9b1e715c223099ab3ac4191ac8569160fb3153847095cc50c547d4d5",
+    "metadata": "2003 German 500 | Race | Race",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Team",
+        "Laps",
+        "Time_Retired",
+        "Grid",
+        "Points"
+    ],
+    "cell": [
+        [
+            "S\u00e9bastien Bourdais",
+            "Newman/Haas Racing",
+            "154",
+            "1:49:22.498",
+            "1",
+            "22"
+        ],
+        [
+            "Mario Dom\u00ednguez",
+            "Herdez Competition",
+            "154",
+            "+0.084 secs",
+            "6",
+            "16"
+        ],
+        [
+            "Michel Jourdain, Jr.",
+            "Team Rahal",
+            "154",
+            "+0.245 secs",
+            "3",
+            "14"
+        ],
+        [
+            "Bruno Junqueira",
+            "Newman/Haas Racing",
+            "154",
+            "+12.042 secs",
+            "2",
+            "12"
+        ],
+        [
+            "Oriol Servi\u00e0",
+            "Patrick Racing",
+            "154",
+            "+12.055 secs",
+            "7",
+            "10"
+        ],
+        [
+            "Darren Manning",
+            "Walker Racing",
+            "154",
+            "+24.602 secs",
+            "5",
+            "8"
+        ],
+        [
+            "Patrick Carpentier",
+            "Team Player`s",
+            "153",
+            "+ 1 Lap",
+            "17",
+            "6"
+        ],
+        [
+            "Jimmy Vasser",
+            "American Spirit Team Johansson",
+            "153",
+            "+ 1 Lap",
+            "11",
+            "5"
+        ],
+        [
+            "Rodolfo Lav\u00edn",
+            "Walker Racing",
+            "153",
+            "+ 1 Lap",
+            "8",
+            "4"
+        ],
+        [
+            "Roberto Moreno",
+            "Herdez Competition",
+            "153",
+            "+ 1 Lap",
+            "12",
+            "3"
+        ],
+        [
+            "Ryan Hunter-Reay",
+            "American Spirit Team Johansson",
+            "152",
+            "+ 2 Laps",
+            "15",
+            "2"
+        ],
+        [
+            "Paul Tracy",
+            "Team Player`s",
+            "152",
+            "+ 2 Laps",
+            "16",
+            "1"
+        ],
+        [
+            "Tiago Monteiro",
+            "Fittipaldi-Dingman Racing",
+            "152",
+            "+ 2 Laps",
+            "14",
+            "0"
+        ],
+        [
+            "Mario Haberfeld",
+            "Mi-Jack Conquest Racing",
+            "152",
+            "+ 2 Laps",
+            "4",
+            "0"
+        ],
+        [
+            "Adrian Fern\u00e1ndez",
+            "Fern\u00e1ndez Racing",
+            "152",
+            "+ 2 Laps",
+            "19",
+            "0"
+        ],
+        [
+            "Jo\u00ebl Camathias",
+            "Dale Coyne Racing",
+            "152",
+            "+ 2 Laps",
+            "18",
+            "0"
+        ],
+        [
+            "Alex Yoong",
+            "Dale Coyne Racing",
+            "81",
+            "Mechanical",
+            "13",
+            "0"
+        ],
+        [
+            "Alex Tagliani",
+            "Rocketsports Racing",
+            "28",
+            "Mechanical",
+            "9",
+            "0"
+        ],
+        [
+            "Patrick Lemari\u00e9",
+            "PK Racing",
+            "25",
+            "Contact",
+            "10",
+            "0"
+        ]
+    ]
+}

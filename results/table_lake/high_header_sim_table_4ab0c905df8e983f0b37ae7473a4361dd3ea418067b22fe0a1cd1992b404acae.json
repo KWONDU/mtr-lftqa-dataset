@@ -1,0 +1,95 @@
+{
+    "id": "4ab0c905df8e983f0b37ae7473a4361dd3ea418067b22fe0a1cd1992b404acae",
+    "metadata": "1986 PGA Championship | Final leaderboard | Final leaderboard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bob Tway",
+            "United States",
+            "72-70-64-70=276",
+            "-8",
+            "140000"
+        ],
+        [
+            "2",
+            "Greg Norman",
+            "Australia",
+            "65-68-69-76=278",
+            "-6",
+            "80000"
+        ],
+        [
+            "3",
+            "Peter Jacobsen",
+            "United States",
+            "68-70-70-71=279",
+            "-5",
+            "60000"
+        ],
+        [
+            "4",
+            "D. A. Weibring",
+            "United States",
+            "71-72-68-69=280",
+            "-4",
+            "42865"
+        ],
+        [
+            "T5",
+            "Bruce Lietzke",
+            "United States",
+            "69-71-70-71=281",
+            "-3",
+            "32500"
+        ],
+        [
+            "T5",
+            "Payne Stewart",
+            "United States",
+            "70-67-72-72=281",
+            "-3",
+            "32500"
+        ],
+        [
+            "T7",
+            "David Graham",
+            "Australia",
+            "75-69-71-67=282",
+            "-2",
+            "20833"
+        ],
+        [
+            "T7",
+            "Mike Hulbert",
+            "United States",
+            "69-68-74-71=282",
+            "-2",
+            "20833"
+        ],
+        [
+            "T7",
+            "Jim Thorpe",
+            "United States",
+            "71-67-73-71=282",
+            "-2",
+            "20833"
+        ],
+        [
+            "10",
+            "Doug Tewell",
+            "United States",
+            "73-71-68-71=283",
+            "-1",
+            "15000"
+        ]
+    ]
+}

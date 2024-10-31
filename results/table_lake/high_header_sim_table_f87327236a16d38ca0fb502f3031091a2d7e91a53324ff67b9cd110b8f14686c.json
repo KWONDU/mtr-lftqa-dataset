@@ -1,0 +1,107 @@
+{
+    "id": "f87327236a16d38ca0fb502f3031091a2d7e91a53324ff67b9cd110b8f14686c",
+    "metadata": "MacBook family | Comparison table | Comparison table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Processor",
+        "Memory",
+        "Storage_",
+        "Graphics",
+        "VRAM",
+        "Display_resolution",
+        "MSRP"
+    ],
+    "cell": [
+        [
+            "MacBook Air 1.7GHz 11 in",
+            "1.7GHz (Dual Core) Core i5",
+            "4 GB 1600 MHZ",
+            "64-512 GB SSD",
+            "Intel HD Graphics 4000",
+            "256 MB Shared",
+            "1366 \u00d7 768",
+            "$999/ \u20ac999/ \u00a3814 / \u20b967900"
+        ],
+        [
+            "MacBook Air 1.8GHz 13 in",
+            "1.8GHz Core i5",
+            "4 GB 1600 MHZ",
+            "128-512 GB SSD",
+            "Intel HD Graphics 4000",
+            "384 MB Shared",
+            "1440 \u00d7 900",
+            "$1199/ \u20ac867/ \u00a31054 / \u20b981900"
+        ],
+        [
+            "MacBook Pro 2.5GHz 13 in",
+            "2.5GHz Core i5",
+            "4 GB 1600 MHZ",
+            "500 GB HDD",
+            "Intel HD Graphics 4000",
+            "384 MB Shared",
+            "1280 \u00d7 800",
+            "$1199 / \u20ac1199 / \u00a3999 / \u20b981900"
+        ],
+        [
+            "MacBook Pro 2.9GHz 13 in",
+            "2.9GHz Core i7",
+            "8 GB 1600 MHZ",
+            "750 GB HDD",
+            "Intel HD Graphics 4000",
+            "384 MB Shared",
+            "1280 \u00d7 800",
+            "$1499 / \u20ac1499 / \u00a31249 / \u20b999900"
+        ],
+        [
+            "MacBook Pro 2.5GHz 13 in",
+            "2.5GHz Core i5",
+            "8 GB 1600 MHZ",
+            "128 GB SSD",
+            "Intel HD Graphics 4000",
+            "384 MB Shared",
+            "2560 \u00d7 1600",
+            "$1499 / \u20ac1499 / \u00a31249"
+        ],
+        [
+            "MacBook Pro 2.6GHz 13 in",
+            "2.6GHz Core i5",
+            "8 GB 1600 MHZ",
+            "256 GB SSD",
+            "Intel HD Graphics 4000",
+            "384 MB Shared",
+            "2560 \u00d7 1600",
+            "$1699 / \u20ac1699 / \u00a31449"
+        ],
+        [
+            "MacBook Pro 2.3GHz 15 in",
+            "2.3GHz (Quad Core) Core i7",
+            "4 GB 1600 MHZ",
+            "500 GB HDD",
+            "Intel HD Graphics 4000 and NVIDIA GeForce GT 650M",
+            "512MB",
+            "1440 \u00d7 900",
+            "$1799 / \u20ac1799 / \u00a31499 / \u20b9122900"
+        ],
+        [
+            "MacBook Pro 2.4GHz 15 in",
+            "2.4GHz (Quad Core) Core i7",
+            "8 GB 1600 MHZ",
+            "256 GB SSD",
+            "Intel HD Graphics 4000 and NVIDIA GeForce GT 650M",
+            "1GB",
+            "2880 \u00d7 1800 (Retina Display)",
+            "$2199 / \u20ac2199 / \u00a31799 / \u20b9152900"
+        ],
+        [
+            "MacBook Pro 2.7GHz 15 in",
+            "2.7GHz (Quad Core) Core i7",
+            "8 GB 1600 MHZ",
+            "512-768 GB SSD",
+            "Intel HD Graphics and NVIDIA GeForce GT 650M",
+            "1GB",
+            "2880 \u00d7 1800 (Retina Display)",
+            "$2799 / \u20ac2799 / \u00a32299 / \u20b9192900"
+        ]
+    ]
+}

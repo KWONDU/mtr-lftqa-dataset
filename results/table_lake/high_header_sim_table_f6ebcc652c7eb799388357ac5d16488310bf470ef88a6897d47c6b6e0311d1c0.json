@@ -1,0 +1,447 @@
+{
+    "id": "f6ebcc652c7eb799388357ac5d16488310bf470ef88a6897d47c6b6e0311d1c0",
+    "metadata": "Provinces of Chile | List of provinces | List of provinces",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Province",
+        "Capital",
+        "No_of_Communes",
+        "Area",
+        "_2002_Population"
+    ],
+    "cell": [
+        [
+            "XV Arica and Parinacota",
+            "Arica",
+            "Arica",
+            "2",
+            "8726.4",
+            "186488"
+        ],
+        [
+            "XV Arica and Parinacota",
+            "Parinacota",
+            "Putre",
+            "2",
+            "8146.9",
+            "3156"
+        ],
+        [
+            "I Tarapac\u00e1",
+            "Iquique",
+            "Iquique",
+            "2",
+            "2835.3",
+            "216419"
+        ],
+        [
+            "I Tarapac\u00e1",
+            "Tamarugal",
+            "Pozo Almonte",
+            "5",
+            "39390.5",
+            "22531"
+        ],
+        [
+            "II Antofagasta",
+            "Antofagasta",
+            "Antofagasta",
+            "4",
+            "67793.5",
+            "318779"
+        ],
+        [
+            "II Antofagasta",
+            "El Loa",
+            "Calama",
+            "3",
+            "41999.6",
+            "143689"
+        ],
+        [
+            "II Antofagasta",
+            "Tocopilla",
+            "Tocopilla",
+            "2",
+            "16236",
+            "31516"
+        ],
+        [
+            "III Atacama",
+            "Copiap\u00f3",
+            "Copiap\u00f3",
+            "3",
+            "32538.5",
+            "155713"
+        ],
+        [
+            "III Atacama",
+            "Huasco",
+            "Vallenar",
+            "3",
+            "18201.5",
+            "66491"
+        ],
+        [
+            "III Atacama",
+            "Cha\u00f1aral",
+            "Cha\u00f1aral",
+            "2",
+            "24436.2",
+            "32132"
+        ],
+        [
+            "IV Coquimbo",
+            "Elqui",
+            "La Serena",
+            "6",
+            "16894.8",
+            "365371"
+        ],
+        [
+            "IV Coquimbo",
+            "Limar\u00ed",
+            "Ovalle",
+            "5",
+            "13553.2",
+            "156158"
+        ],
+        [
+            "IV Coquimbo",
+            "Choapa",
+            "Illapel",
+            "4",
+            "10131.6",
+            "81681"
+        ],
+        [
+            "V Valpara\u00edso",
+            "Isla de Pascua",
+            "Hanga Roa",
+            "1",
+            "163.6",
+            "3791"
+        ],
+        [
+            "V Valpara\u00edso",
+            "Los Andes",
+            "Los Andes",
+            "4",
+            "3217.7",
+            "95474"
+        ],
+        [
+            "V Valpara\u00edso",
+            "Marga Marga",
+            "Quilpu\u00e9",
+            "3",
+            "927.2",
+            "263420"
+        ],
+        [
+            "V Valpara\u00edso",
+            "Petorca",
+            "La Ligua",
+            "6",
+            "4736.4",
+            "71243"
+        ],
+        [
+            "V Valpara\u00edso",
+            "Quillota",
+            "Quillota",
+            "6",
+            "1344.9",
+            "190022"
+        ],
+        [
+            "V Valpara\u00edso",
+            "San Antonio",
+            "San Antonio",
+            "6",
+            "1611.6",
+            "136594"
+        ],
+        [
+            "V Valpara\u00edso",
+            "San Felipe de Aconcagua",
+            "San Felipe",
+            "6",
+            "2659.2",
+            "131911"
+        ],
+        [
+            "V Valpara\u00edso",
+            "Valpara\u00edso",
+            "Valpara\u00edso",
+            "6",
+            "1999.1",
+            "651188"
+        ],
+        [
+            "VI O`Higgins",
+            "Cachapoal",
+            "Rancagua",
+            "17",
+            "7384.2",
+            "542901"
+        ],
+        [
+            "VI O`Higgins",
+            "Colchagua",
+            "San Fernando",
+            "10",
+            "5678",
+            "196566"
+        ],
+        [
+            "VI O`Higgins",
+            "Cardenal Caro",
+            "Pichilemu",
+            "6",
+            "3324.7",
+            "41160"
+        ],
+        [
+            "VII Maule",
+            "Talca",
+            "Talca",
+            "10",
+            "9937.8",
+            "352966"
+        ],
+        [
+            "VII Maule",
+            "Linares",
+            "Linares",
+            "8",
+            "10041.2",
+            "253990"
+        ],
+        [
+            "VII Maule",
+            "Curic\u00f3",
+            "Curic\u00f3",
+            "9",
+            "7280.9",
+            "244053"
+        ],
+        [
+            "VII Maule",
+            "Cauquenes",
+            "Cauquenes",
+            "3",
+            "3027.2",
+            "57088"
+        ],
+        [
+            "VIII Biob\u00edo",
+            "Concepci\u00f3n",
+            "Concepci\u00f3n",
+            "12",
+            "3439.3",
+            "912889"
+        ],
+        [
+            "VIII Biob\u00edo",
+            "\u00d1uble",
+            "Chill\u00e1n",
+            "21",
+            "13178.5",
+            "438103"
+        ],
+        [
+            "VIII Biob\u00edo",
+            "Biob\u00edo",
+            "Los \u00c1ngeles",
+            "14",
+            "14987.9",
+            "353315"
+        ],
+        [
+            "VIII Biob\u00edo",
+            "Arauco",
+            "Lebu",
+            "7",
+            "5457.2",
+            "157255"
+        ],
+        [
+            "IX Araucan\u00eda",
+            "Cautin",
+            "Temuco",
+            "21",
+            "18409",
+            "667920"
+        ],
+        [
+            "IX Araucan\u00eda",
+            "Malleco",
+            "Angol",
+            "11",
+            "13433.3",
+            "201615"
+        ],
+        [
+            "XIV Los R\u00edos",
+            "Valdivia",
+            "Valdivia",
+            "8",
+            "10197.2",
+            "259243"
+        ],
+        [
+            "XIV Los R\u00edos",
+            "Ranco",
+            "La Uni\u00f3n",
+            "4",
+            "8232.3",
+            "97153"
+        ],
+        [
+            "X Los Lagos",
+            "Llanquihue",
+            "Puerto Montt",
+            "9",
+            "14876.4",
+            "321493"
+        ],
+        [
+            "X Los Lagos",
+            "Osorno",
+            "Osorno",
+            "7",
+            "9223.7",
+            "221509"
+        ],
+        [
+            "X Los Lagos",
+            "Chiloe",
+            "Castro",
+            "10",
+            "7165.5",
+            "142194"
+        ],
+        [
+            "X Los Lagos",
+            "Palena",
+            "Futaleuf\u00fa",
+            "4",
+            "15301.9",
+            "18971"
+        ],
+        [
+            "XI Ais\u00e9n",
+            "Coihaique",
+            "Coihaique",
+            "2",
+            "12942.5",
+            "51103"
+        ],
+        [
+            "XI Ais\u00e9n",
+            "Ais\u00e9n",
+            "Puerto Ais\u00e9n",
+            "3",
+            "46588.8",
+            "29631"
+        ],
+        [
+            "XI Ais\u00e9n",
+            "General Carrera",
+            "Chile Chico",
+            "2",
+            "11919.5",
+            "6921"
+        ],
+        [
+            "XI Ais\u00e9n",
+            "Capitan Prat",
+            "Cochrane",
+            "3",
+            "37043.6",
+            "3837"
+        ],
+        [
+            "XII Magallanes",
+            "Magallanes",
+            "Punta Arenas",
+            "4",
+            "36400.8",
+            "121675"
+        ],
+        [
+            "XII Magallanes",
+            "Ultima Esperanza",
+            "Puerto Natales",
+            "2",
+            "55443.9",
+            "19855"
+        ],
+        [
+            "XII Magallanes",
+            "Tierra del Fuego",
+            "Porvenir",
+            "3",
+            "22592.7",
+            "6904"
+        ],
+        [
+            "XII Magallanes",
+            "Antartica Chilena",
+            "Puerto Williams",
+            "2",
+            "1265853.7",
+            "2392"
+        ],
+        [
+            "RM Santiago Metropolitan",
+            "Santiago",
+            "Santiago",
+            "32",
+            "2090.3",
+            "4668473"
+        ],
+        [
+            "RM Santiago Metropolitan",
+            "Cordillera",
+            "Puente Alto",
+            "3",
+            "5528.3",
+            "522856"
+        ],
+        [
+            "RM Santiago Metropolitan",
+            "Maipo",
+            "San Bernardo",
+            "4",
+            "1120.5",
+            "378444"
+        ],
+        [
+            "RM Santiago Metropolitan",
+            "Talagante",
+            "Talagante",
+            "5",
+            "582.3",
+            "217449"
+        ],
+        [
+            "RM Santiago Metropolitan",
+            "Melipilla",
+            "Melipilla",
+            "5",
+            "4076.7",
+            "141165"
+        ],
+        [
+            "RM Santiago Metropolitan",
+            "Chacabuco",
+            "Colina",
+            "3",
+            "53873.9",
+            "132798"
+        ]
+    ]
+}

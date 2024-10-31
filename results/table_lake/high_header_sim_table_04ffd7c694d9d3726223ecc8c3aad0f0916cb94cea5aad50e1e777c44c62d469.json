@@ -1,0 +1,63 @@
+{
+    "id": "04ffd7c694d9d3726223ecc8c3aad0f0916cb94cea5aad50e1e777c44c62d469",
+    "metadata": "2008-09 Manchester United F.C. season | Final | Final",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponents",
+        "H_A",
+        "Result_F_A",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "23 September 2008",
+            "Round 3",
+            "Middlesbrough",
+            "H",
+            "3-1",
+            "53729"
+        ],
+        [
+            "11 November 2008",
+            "Round 4",
+            "Queens Park Rangers",
+            "H",
+            "1-0",
+            "62539"
+        ],
+        [
+            "3 December 2008",
+            "Round 5",
+            "Blackburn Rovers",
+            "H",
+            "5-3",
+            "53997"
+        ],
+        [
+            "7 January 2009",
+            "Semi-final First leg",
+            "Derby County",
+            "A",
+            "0-1",
+            "30194"
+        ],
+        [
+            "20 January 2009",
+            "Semi-final Second leg",
+            "Derby County",
+            "H",
+            "4-2",
+            "73374"
+        ],
+        [
+            "1 March 2009",
+            "Final",
+            "Tottenham Hotspur",
+            "N",
+            "0-0 ( a.e.t. ) (4-1 p )",
+            "88217"
+        ]
+    ]
+}

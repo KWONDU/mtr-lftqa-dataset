@@ -1,0 +1,95 @@
+{
+    "id": "5b4eefe1c66e9301206fe35f673383deabac3b1e868751a95e7cfb17e2742b91",
+    "metadata": "1956 Winter Olympics | Medal count | Medal count",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Soviet Union",
+            "*7*",
+            "3",
+            "6",
+            "16"
+        ],
+        [
+            "2",
+            "Austria",
+            "4",
+            "3",
+            "4",
+            "11"
+        ],
+        [
+            "3",
+            "Finland",
+            "3",
+            "3",
+            "1",
+            "7"
+        ],
+        [
+            "4",
+            "Switzerland",
+            "3",
+            "2",
+            "1",
+            "6"
+        ],
+        [
+            "5",
+            "Sweden",
+            "2",
+            "4",
+            "4",
+            "10"
+        ],
+        [
+            "6",
+            "United States",
+            "2",
+            "3",
+            "2",
+            "7"
+        ],
+        [
+            "7",
+            "Norway",
+            "2",
+            "1",
+            "1",
+            "4"
+        ],
+        [
+            "8",
+            "Italy",
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        [
+            "9",
+            "Germany",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "10",
+            "Canada",
+            "0",
+            "1",
+            "2",
+            "3"
+        ]
+    ]
+}

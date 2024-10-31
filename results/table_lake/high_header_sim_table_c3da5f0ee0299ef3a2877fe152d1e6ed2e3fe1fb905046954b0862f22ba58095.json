@@ -1,0 +1,55 @@
+{
+    "id": "c3da5f0ee0299ef3a2877fe152d1e6ed2e3fe1fb905046954b0862f22ba58095",
+    "metadata": "Pete Sampras career statistics | Singles: 6 (5 titles, 1 runner-up) | Singles: 6 (5 titles, 1 runner-up)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Outcome",
+        "Year_",
+        "Championship",
+        "Surface",
+        "Opponent_in_the_final",
+        "Score_in_the_final"
+    ],
+    "cell": [
+        [
+            "Winner",
+            "1991",
+            "Frankfurt",
+            "Carpet (i)",
+            "Jim Courier",
+            "3-6, 7-6 (7-5) , 6-3, 6-4"
+        ],
+        [
+            "Runner-up",
+            "1993",
+            "Frankfurt",
+            "Carpet (i)",
+            "Michael Stich",
+            "6-7 (3-7) , 6-2, 6-7 (7-9) , 2-6"
+        ],
+        [
+            "Winner",
+            "1994",
+            "Frankfurt",
+            "Carpet (i)",
+            "Boris Becker",
+            "4-6, 6-3, 7-5, 6-4"
+        ],
+        [
+            "Winner",
+            "1996",
+            "Hannover",
+            "Carpet (i)",
+            "Boris Becker",
+            "3-6, 7-6 (7-5) , 7-6 (7-4) , 6-7 (11-13) , 6-4"
+        ],
+        [
+            "Winner",
+            "1997",
+            "Hannover",
+            "Hard (i)",
+            "Yevgeny Kafelnikov",
+            "6-3, 6-2, 6-2"
+        ]
+    ]
+}

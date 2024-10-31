@@ -1,0 +1,95 @@
+{
+    "id": "c599aa33c454ab65fcb846da7b644893b31de31c326de3288a33fed7d1821ace",
+    "metadata": "2007-08 Bristol Rovers F.C. season | Fixtures and results | FA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "10 November",
+            "Leyton Orient",
+            "Away",
+            "1-1",
+            "3157"
+        ],
+        [
+            "1 (Replay)",
+            "20 November",
+            "Leyton Orient",
+            "Home",
+            "Postponed (Waterlogged pitch)",
+            "Postponed (Waterlogged pitch)"
+        ],
+        [
+            "1 (Replay)",
+            "27 November",
+            "Leyton Orient",
+            "Home",
+            "3-3",
+            "3742"
+        ],
+        [
+            "2",
+            "1 December",
+            "Rushden & Diamonds",
+            "Home",
+            "5-1",
+            "4816"
+        ],
+        [
+            "3",
+            "6 January",
+            "Fulham",
+            "Away",
+            "2-2",
+            "13634"
+        ],
+        [
+            "3 (Replay)",
+            "15 January",
+            "Fulham",
+            "Home",
+            "Postponed (Dangerous Playing Conditions)",
+            "Postponed (Dangerous Playing Conditions)"
+        ],
+        [
+            "3 (Replay)",
+            "22 January",
+            "Fulham",
+            "Home",
+            "0-0",
+            "11882"
+        ],
+        [
+            "4",
+            "26 January",
+            "Barnet",
+            "Away",
+            "1-0",
+            "5190"
+        ],
+        [
+            "5",
+            "16 February",
+            "Southampton",
+            "Home",
+            "1-0",
+            "11920"
+        ],
+        [
+            "QF",
+            "9 March",
+            "West Bromwich Albion",
+            "Home",
+            "1-5",
+            "12011"
+        ]
+    ]
+}

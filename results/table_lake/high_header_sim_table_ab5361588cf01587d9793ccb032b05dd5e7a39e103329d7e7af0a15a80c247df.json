@@ -1,0 +1,79 @@
+{
+    "id": "ab5361588cf01587d9793ccb032b05dd5e7a39e103329d7e7af0a15a80c247df",
+    "metadata": "Choi Kyung-Ju | PGA Tour wins (8) | PGA Tour wins (8)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Winning_score",
+        "To_par",
+        "Margin_of_victory",
+        "Runners_up"
+    ],
+    "cell": [
+        [
+            "5 May 2002",
+            "Compaq Classic of New Orleans",
+            "68-65-71-67=271",
+            "\u221217",
+            "4 strokes",
+            "Dudley Hart , Geoff Ogilvy"
+        ],
+        [
+            "22 Sep 2002",
+            "Tampa Bay Classic",
+            "63-68-68-68=267",
+            "\u221217",
+            "7 strokes",
+            "Glen Day"
+        ],
+        [
+            "2 Oct 2005",
+            "Chrysler Classic of Greensboro",
+            "64-69-67-66=266",
+            "\u221222",
+            "2 strokes",
+            "Shigeki Maruyama"
+        ],
+        [
+            "29 Oct 2006",
+            "Chrysler Championship",
+            "68-66-70-67=271",
+            "\u221213",
+            "4 strokes",
+            "Paul Goydos , Brett Wetterich"
+        ],
+        [
+            "3 Jun 2007",
+            "Memorial Tournament",
+            "69-70-67-65=271",
+            "\u221217",
+            "1 stroke",
+            "Ryan Moore"
+        ],
+        [
+            "8 Jul 2007",
+            "AT&T National",
+            "66-67-70-68=271",
+            "\u22129",
+            "3 strokes",
+            "Steve Stricker"
+        ],
+        [
+            "13 Jan 2008",
+            "Sony Open in Hawaii",
+            "64-65-66-71=266",
+            "\u221214",
+            "3 strokes",
+            "Rory Sabbatini"
+        ],
+        [
+            "15 May 2011",
+            "The Players Championship",
+            "70-68-67-70=275",
+            "\u221213",
+            "Playoff",
+            "David Toms"
+        ]
+    ]
+}

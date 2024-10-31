@@ -1,0 +1,77 @@
+{
+    "id": "f2bd577df288e7f0563d849268a5cdd9d7f6fc82a612d935aead183b33d4e63c",
+    "metadata": "Carel Godin de Beaufort | World Championship results | World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1957",
+            "Ecurie Maarsbergen",
+            "Porsche 550RS",
+            "Porsche Flat-4",
+            "0"
+        ],
+        [
+            "1958",
+            "Ecurie Maarsbergen",
+            "Porsche RSK",
+            "Porsche Flat-4",
+            "0"
+        ],
+        [
+            "1959",
+            "Ecurie Maarsbergen",
+            "Porsche RSK",
+            "Porsche Flat-4",
+            "0"
+        ],
+        [
+            "1959",
+            "Scuderia Ugolini",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1960",
+            "Ecurie Maarsbergen",
+            "Cooper T51",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1961",
+            "Ecurie Maarsbergen",
+            "Porsche 718",
+            "Porsche Flat-4",
+            "0"
+        ],
+        [
+            "1962",
+            "Ecurie Maarsbergen",
+            "Porsche 718",
+            "Porsche Flat-4",
+            "2"
+        ],
+        [
+            "1963",
+            "Ecurie Maarsbergen",
+            "Porsche 718",
+            "Porsche Flat-4",
+            "2"
+        ],
+        [
+            "1964",
+            "Ecurie Maarsbergen",
+            "Porsche 718",
+            "Porsche Flat-4",
+            "0"
+        ]
+    ]
+}

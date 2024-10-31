@@ -1,0 +1,106 @@
+{
+    "id": "8013a595bd088207c39f8a0c7d3edd539e7763c72bcf0ba29663a38e8a0b4dc8",
+    "metadata": "U.S. cities with teams from four major league sports | Overview by city | Overview by city",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Metropolitan_Area",
+        "Media_Market_Ranking",
+        "Hosted_4_teams_since",
+        "NFL_Teams",
+        "MLB_Teams",
+        "NBA_Teams",
+        "NHL_Teams"
+    ],
+    "cell": [
+        [
+            "Boston, Massachusetts",
+            "7",
+            "1960",
+            "Patriots ( Foxborough, MA )",
+            "Red Sox",
+            "Celtics",
+            "Bruins"
+        ],
+        [
+            "Chicago, Illinois",
+            "3",
+            "1966",
+            "Bears",
+            "Cubs White Sox",
+            "Bulls",
+            "Blackhawks"
+        ],
+        [
+            "Dallas-Fort Worth, Texas",
+            "5",
+            "1993",
+            "Cowboys ( Arlington, TX )",
+            "Rangers ( Arlington, TX )",
+            "Mavericks (Dallas)",
+            "Stars (Dallas)"
+        ],
+        [
+            "Denver, Colorado",
+            "17",
+            "1995",
+            "Broncos",
+            "Rockies",
+            "Nuggets",
+            "Avalanche"
+        ],
+        [
+            "Detroit, Michigan",
+            "11",
+            "1957",
+            "Lions",
+            "Tigers",
+            "Pistons ( Auburn Hills, MI )",
+            "Red Wings"
+        ],
+        [
+            "Miami, Florida",
+            "16",
+            "1993",
+            "Dolphins ( Miami Gardens, FL )",
+            "Marlins",
+            "Heat",
+            "Panthers ( Sunrise, FL )"
+        ],
+        [
+            "Minneapolis-St. Paul, Minnesota",
+            "15",
+            "2000",
+            "Vikings (Minneapolis)",
+            "Twins (Minneapolis)",
+            "Timberwolves (Minneapolis)",
+            "Wild (St. Paul)"
+        ],
+        [
+            "Philadelphia, Pennsylvania",
+            "4",
+            "1967",
+            "Eagles",
+            "Phillies",
+            "76ers",
+            "Flyers"
+        ],
+        [
+            "Phoenix, Arizona",
+            "13",
+            "1998",
+            "Cardinals ( Glendale, AZ )",
+            "Diamondbacks",
+            "Suns",
+            "Coyotes ( Glendale, AZ )"
+        ],
+        [
+            "San Francisco Bay Area, California",
+            "6",
+            "1991",
+            "49ers (San Francisco) Raiders (Oakland)",
+            "Giants (San Francisco) Athletics (Oakland)",
+            "Warriors (Oakland)",
+            "Sharks ( San Jose )"
+        ]
+    ]
+}

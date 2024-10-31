@@ -1,0 +1,55 @@
+{
+    "id": "d67dfa67c43b6e5d9b97e363f547574b7d36917d438d0627f0d43d117cdd94f5",
+    "metadata": "United States House of Representatives elections, 1940 | Arkansas | Arkansas",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Arkansas 1",
+            "Ezekiel C. Gathings",
+            "Democratic",
+            "1938",
+            "Re-elected",
+            "Ezekiel C. Gathings (D) Unopposed"
+        ],
+        [
+            "Arkansas 2",
+            "Wilbur Mills",
+            "Democratic",
+            "1938",
+            "Re-elected",
+            "Wilbur Mills (D) Unopposed"
+        ],
+        [
+            "Arkansas 4",
+            "William Fadjo Cravens",
+            "Democratic",
+            "1939",
+            "Re-elected",
+            "William Fadjo Cravens (D) Unopposed"
+        ],
+        [
+            "Arkansas 5",
+            "David D. Terry",
+            "Democratic",
+            "1933",
+            "Re-elected",
+            "David D. Terry (D) Unopposed"
+        ],
+        [
+            "Arkansas 6",
+            "William F. Norrell",
+            "Democratic",
+            "1938",
+            "Re-elected",
+            "William F. Norrell (D) Unopposed"
+        ]
+    ]
+}

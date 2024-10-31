@@ -1,0 +1,127 @@
+{
+    "id": "67ef0c68bb3e29f3527205aa2cf59ea5748237f84993934ec9a40a854fe4df7b",
+    "metadata": "List of gold mines in Canada | Ontario | Ontario",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Mine",
+        "Province",
+        "Coordinates",
+        "Town",
+        "Dates",
+        "Comments_"
+    ],
+    "cell": [
+        [
+            "Barton Mine*",
+            "Ontario",
+            "47\u00b007\u203208.75\u2033N 79\u00b047\u203209.58\u2033W\ufeff / \ufeff47.1190972\u00b0N 79.7859944\u00b0W",
+            "Temagami",
+            "1906-1918",
+            "Secondary products included gold, silver, copper and bismuth."
+        ],
+        [
+            "Beanland Mine",
+            "Ontario",
+            "47\u00b005\u203228.71\u2033N 79\u00b049\u203230.83\u2033W\ufeff / \ufeff47.0913083\u00b0N 79.8252306\u00b0W",
+            "Temagami",
+            "1937-1938",
+            "Also produced silver"
+        ],
+        [
+            "Big Dan Mine",
+            "Ontario",
+            "47\u00b005\u203228.53\u2033N 79\u00b046\u203228.95\u2033W\ufeff / \ufeff47.0912583\u00b0N 79.7747083\u00b0W",
+            "Temagami",
+            "1906-1907",
+            "Also produced silver and arsenic"
+        ],
+        [
+            "Copperfields Mine*",
+            "Ontario",
+            "46\u00b057\u203244.41\u2033N 80\u00b002\u203213.67\u2033W\ufeff / \ufeff46.9623361\u00b0N 80.0371306\u00b0W",
+            "Temagami",
+            "1954-1972",
+            "Secondary products included cobalt, gold, nickel, palladium, platinum and silver."
+        ],
+        [
+            "Dome Mine",
+            "Ontario",
+            "",
+            "Timmins",
+            "",
+            ""
+        ],
+        [
+            "Golden Giant Mine",
+            "Ontario",
+            "",
+            "Hemlo",
+            "1985-2006",
+            ""
+        ],
+        [
+            "Hermiston-McCauley Mine",
+            "Ontario",
+            "47\u00b005\u203254.30\u2033N 79\u00b049\u203238.18\u2033W\ufeff / \ufeff47.0984167\u00b0N 79.8272722\u00b0W",
+            "Temagami",
+            "1935-1940",
+            ""
+        ],
+        [
+            "Kanichee Mine*",
+            "Ontario",
+            "47\u00b006\u203213.07\u2033N 79\u00b050\u203238.63\u2033W\ufeff / \ufeff47.1036306\u00b0N 79.8440639\u00b0W",
+            "Temagami",
+            "1937-1948, 1948-1949, 1973-1976",
+            "Secondary products included gold, palladium, silver and platinum."
+        ],
+        [
+            "Leckie Mine",
+            "Ontario",
+            "47\u00b005\u203236.34\u2033N 79\u00b047\u203248.68\u2033W\ufeff / \ufeff47.0934278\u00b0N 79.7968556\u00b0W",
+            "Temagami",
+            "~1900-1909, 1933-1937",
+            "Also produced arsenic, copper and silver"
+        ],
+        [
+            "McIntyre Mines",
+            "Ontario",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Norrie Mine*",
+            "Ontario",
+            "47\u00b006\u203259.59\u2033N 79\u00b046\u203227.63\u2033W\ufeff / \ufeff47.1165528\u00b0N 79.7743417\u00b0W",
+            "Temagami",
+            "Prior to 1920",
+            "Secondary products included lead, gold, zinc and silver."
+        ],
+        [
+            "Northland Pyrite Mine*",
+            "Ontario",
+            "47\u00b010\u203226.24\u2033N 79\u00b044\u203234.45\u2033W\ufeff / \ufeff47.1739556\u00b0N 79.7429028\u00b0W",
+            "Temagami",
+            "1906-1911",
+            "Secondary products included cobalt, copper, zinc, gold and nickel."
+        ],
+        [
+            "Red Lake Mine",
+            "Ontario",
+            "",
+            "Red Lake",
+            "",
+            ""
+        ],
+        [
+            "Temagami-Lorrain Mine",
+            "Ontario",
+            "47\u00b006\u203239.79\u2033N 79\u00b040\u203258.2\u2033W\ufeff / \ufeff47.1110528\u00b0N 79.682833\u00b0W",
+            "Temagami",
+            "Prior to 1912",
+            "Also produced cobalt, arsenic, silver, nickel and copper"
+        ]
+    ]
+}

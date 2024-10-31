@@ -1,0 +1,70 @@
+{
+    "id": "af9d38f5233b8cfd4bc1c780b2a245726d623c9c3358c65fe4e07c8c90631fd6",
+    "metadata": "1939 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "14.18 (102)",
+            "North Melbourne",
+            "9.6 (60)",
+            "MCG",
+            "12882",
+            "5 August 1939"
+        ],
+        [
+            "Essendon",
+            "15.17 (107)",
+            "Geelong",
+            "6.11 (47)",
+            "Windy Hill",
+            "8000",
+            "5 August 1939"
+        ],
+        [
+            "Collingwood",
+            "18.8 (116)",
+            "St Kilda",
+            "13.11 (89)",
+            "Victoria Park",
+            "19000",
+            "5 August 1939"
+        ],
+        [
+            "Carlton",
+            "24.15 (159)",
+            "Footscray",
+            "9.17 (71)",
+            "Princes Park",
+            "12000",
+            "5 August 1939"
+        ],
+        [
+            "South Melbourne",
+            "12.6 (78)",
+            "Richmond",
+            "18.15 (123)",
+            "Lake Oval",
+            "10000",
+            "5 August 1939"
+        ],
+        [
+            "Hawthorn",
+            "10.20 (80)",
+            "Fitzroy",
+            "12.7 (79)",
+            "Glenferrie Oval",
+            "6000",
+            "5 August 1939"
+        ]
+    ]
+}

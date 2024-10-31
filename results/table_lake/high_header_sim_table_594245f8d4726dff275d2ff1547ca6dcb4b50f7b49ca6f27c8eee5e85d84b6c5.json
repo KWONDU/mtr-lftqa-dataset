@@ -1,0 +1,70 @@
+{
+    "id": "594245f8d4726dff275d2ff1547ca6dcb4b50f7b49ca6f27c8eee5e85d84b6c5",
+    "metadata": "1980 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "10.10 (70)",
+            "Richmond",
+            "27.18 (180)",
+            "Western Oval",
+            "16471",
+            "10 May 1980"
+        ],
+        [
+            "Essendon",
+            "13.15 (93)",
+            "Geelong",
+            "16.11 (107)",
+            "Windy Hill",
+            "23993",
+            "10 May 1980"
+        ],
+        [
+            "Carlton",
+            "14.27 (111)",
+            "Hawthorn",
+            "16.17 (113)",
+            "Princes Park",
+            "26414",
+            "10 May 1980"
+        ],
+        [
+            "St Kilda",
+            "12.20 (92)",
+            "Fitzroy",
+            "18.23 (131)",
+            "Moorabbin Oval",
+            "17557",
+            "10 May 1980"
+        ],
+        [
+            "South Melbourne",
+            "17.13 (115)",
+            "Collingwood",
+            "13.12 (90)",
+            "Lake Oval",
+            "22375",
+            "10 May 1980"
+        ],
+        [
+            "North Melbourne",
+            "24.15 (159)",
+            "Melbourne",
+            "10.12 (72)",
+            "VFL Park",
+            "18939",
+            "10 May 1980"
+        ]
+    ]
+}

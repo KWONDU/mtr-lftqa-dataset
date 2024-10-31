@@ -1,0 +1,49 @@
+{
+    "id": "63f4252411e710bb09d35481a9b4c4c12c50b0618a7ace834e93bb7106249e4f",
+    "metadata": "1939-40 New York Rangers season | Schedule and Results | March",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "March",
+        "Opponent",
+        "Score",
+        "Record"
+    ],
+    "cell": [
+        [
+            "44",
+            "2",
+            "@ Toronto Maple Leafs",
+            "1 - 1 OT",
+            "25-10-9"
+        ],
+        [
+            "45",
+            "3",
+            "@ Chicago Black Hawks",
+            "2 - 1",
+            "26-10-9"
+        ],
+        [
+            "46",
+            "10",
+            "New York Americans",
+            "4 - 2",
+            "27-10-9"
+        ],
+        [
+            "47",
+            "12",
+            "@ Boston Bruins",
+            "2 - 1",
+            "27-11-9"
+        ],
+        [
+            "48",
+            "14",
+            "Boston Bruins",
+            "0 - 0 OT",
+            "27-11-10"
+        ]
+    ]
+}

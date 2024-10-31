@@ -1,0 +1,49 @@
+{
+    "id": "8fc223391f00ec6f6074bc8c0bf541f043cf8cdfa53bea7539b8b4ac8a6c5c9e",
+    "metadata": "Ronald Vink | Wins (5) | Wins (5)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Championship",
+        "Partnering",
+        "Opponents_in_Final",
+        "Score_in_Final"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Wimbledon",
+            "Robin Ammerlaan",
+            "Shingo Kunieda Satoshi Saida",
+            "4-6, 7-5, 6-2"
+        ],
+        [
+            "2008",
+            "Wimbledon",
+            "Robin Ammerlaan",
+            "Stephane Houdet Nicolas Peifer",
+            "6-7(6), 6-1, 6-3"
+        ],
+        [
+            "2010",
+            "US Open",
+            "Maikel Scheffers",
+            "Nicolas Peifer Jon Rydberg",
+            "6-0, 6-0"
+        ],
+        [
+            "2011",
+            "Wimbledon",
+            "Maikel Scheffers",
+            "Stephane Houdet Michael Jeremiasz",
+            "7-5, 6-2"
+        ],
+        [
+            "2012",
+            "Australian Open",
+            "Robin Ammerlaan",
+            "Stephane Houdet Nicolas Peifer",
+            "6-2, 4-6, 6-1"
+        ]
+    ]
+}

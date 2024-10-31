@@ -1,0 +1,61 @@
+{
+    "id": "e9e37c2bc968c6d1efb4d7088872e56a8733a28c775d47231bbee25e8055557b",
+    "metadata": "1942 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "6.9 (45)",
+            "St Kilda",
+            "13.11 (89)",
+            "Punt Road Oval",
+            "4000",
+            "13 June 1942"
+        ],
+        [
+            "Essendon",
+            "10.17 (77)",
+            "Richmond",
+            "11.10 (76)",
+            "Windy Hill",
+            "18000",
+            "13 June 1942"
+        ],
+        [
+            "Collingwood",
+            "11.12 (78)",
+            "Footscray",
+            "11.21 (87)",
+            "Victoria Park",
+            "5500",
+            "13 June 1942"
+        ],
+        [
+            "Carlton",
+            "20.18 (138)",
+            "North Melbourne",
+            "13.13 (91)",
+            "Princes Park",
+            "7000",
+            "13 June 1942"
+        ],
+        [
+            "Fitzroy",
+            "11.17 (83)",
+            "South Melbourne",
+            "9.15 (69)",
+            "Toorak Park",
+            "10000",
+            "13 June 1942"
+        ]
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": "8b2e7f27f150d9251a3b37bba22e6df8d459dccb026e8ac73c688d1b98500d60",
+    "metadata": "Northeast Delta Dental International | Winners | Winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Dates",
+        "Champion",
+        "Country",
+        "Score",
+        "Tournament_location",
+        "Purse_",
+        "Winners_share_"
+    ],
+    "cell": [
+        [
+            "2013",
+            "Jul 19-21",
+            "P.K. Kongkraphan",
+            "Thailand",
+            "207 (\u22129)",
+            "Beaver Meadow Golf Course",
+            "100000",
+            "15000"
+        ],
+        [
+            "2012",
+            "Jul 20-22",
+            "Jenny Gleason",
+            "United States",
+            "211 (\u22125)",
+            "Beaver Meadow Golf Course",
+            "100000",
+            "15000"
+        ],
+        [
+            "2011",
+            "Jul 22-24",
+            "Jessica Shepley",
+            "Canada",
+            "203 (\u221213)",
+            "Beaver Meadow Golf Course",
+            "100000",
+            "14000"
+        ],
+        [
+            "2010",
+            "Jul 19-25",
+            "Jenny Shin",
+            "United States",
+            "205 (\u221211)",
+            "Beaver Meadow Golf Course",
+            "110000",
+            "15400"
+        ],
+        [
+            "2009",
+            "Jul 24-26",
+            "Misun Cho",
+            "South Korea",
+            "207 (\u22129)",
+            "Beaver Meadow Golf Course",
+            "90000",
+            "12600"
+        ],
+        [
+            "2008",
+            "Jul 25-27",
+            "Mo Martin",
+            "United States",
+            "204 (\u221212)",
+            "Beaver Meadow Golf Course",
+            "80000",
+            "11200"
+        ],
+        [
+            "2007",
+            "Aug 3-5",
+            "Ji Min Jeong",
+            "South Korea",
+            "209 (\u22127)",
+            "Beaver Meadow Golf Course",
+            "75000",
+            "10500"
+        ],
+        [
+            "2006",
+            "Aug 4-6",
+            "Charlotte Mayorkas",
+            "United States",
+            "207 (\u22129)",
+            "Beaver Meadow Golf Course",
+            "70000",
+            "9800"
+        ],
+        [
+            "2005",
+            "Jul 22-24",
+            "Kyeong Bae",
+            "South Korea",
+            "209 (\u22127)",
+            "Beaver Meadow Golf Course",
+            "65000",
+            "9100"
+        ]
+    ]
+}

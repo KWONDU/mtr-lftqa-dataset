@@ -1,0 +1,271 @@
+{
+    "id": "648b6d22a2f05cb82e99753835b2f1f374b745be64e20df2de090e0909a2d7f0",
+    "metadata": "European Trophy | List | List",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Division",
+        "Team",
+        "City",
+        "Home_arena_",
+        "Capacity",
+        "Joined_NT_ET"
+    ],
+    "cell": [
+        [
+            "North",
+            "Oulun K\u00e4rp\u00e4t",
+            "Oulu",
+            "Oulun Energia Areena",
+            "6614",
+            "2006"
+        ],
+        [
+            "North",
+            "Eisb\u00e4ren Berlin",
+            "Berlin",
+            "O2 World",
+            "14200",
+            "2010"
+        ],
+        [
+            "North",
+            "Red Bull Salzburg",
+            "Salzburg",
+            "Eisarena Salzburg",
+            "3600",
+            "2010"
+        ],
+        [
+            "North",
+            "Lule\u00e5 HF",
+            "Lule\u00e5",
+            "Coop Arena",
+            "6200",
+            "2011"
+        ],
+        [
+            "North",
+            "Kometa Brno",
+            "Brno",
+            "Kajot Arena",
+            "7200",
+            "2011"
+        ],
+        [
+            "North",
+            "Mountfield \u010cesk\u00e9 Bud\u011bjovice",
+            "\u010cesk\u00e9 Bud\u011bjovice",
+            "Budvar Arena",
+            "6421",
+            "2011"
+        ],
+        [
+            "North",
+            "HC Plze\u0148",
+            "Plze\u0148",
+            "\u010cEZ Ar\u00e9na",
+            "8420",
+            "2011"
+        ],
+        [
+            "North",
+            "Hamburg Freezers",
+            "Hamburg",
+            "O2 World",
+            "12947",
+            "2012"
+        ],
+        [
+            "South",
+            "Link\u00f6pings HC",
+            "Link\u00f6ping",
+            "Cloetta Center",
+            "8500",
+            "2006"
+        ],
+        [
+            "South",
+            "HV71",
+            "J\u00f6nk\u00f6ping",
+            "Kinnarps Arena",
+            "7038",
+            "2008"
+        ],
+        [
+            "South",
+            "Sparta Praha",
+            "Prague",
+            "Tipsport Arena",
+            "13150",
+            "2010"
+        ],
+        [
+            "South",
+            "Pir\u00e1ti Chomutov",
+            "Chomutov",
+            "Multifunk\u010dn\u00ed ar\u00e9na Chomutov",
+            "5250",
+            "2012"
+        ],
+        [
+            "South",
+            "KalPa",
+            "Kuopio",
+            "Kuopion J\u00e4\u00e4halli",
+            "5225",
+            "2011"
+        ],
+        [
+            "South",
+            "Slovan Bratislava",
+            "Bratislava",
+            "Slovnaft Arena",
+            "10000",
+            "2011"
+        ],
+        [
+            "South",
+            "UPC Vienna Capitals",
+            "Vienna",
+            "Albert Schultz Eishalle",
+            "7000",
+            "2011"
+        ],
+        [
+            "South",
+            "JYP",
+            "Jyv\u00e4skyl\u00e4",
+            "Synergia-areena",
+            "4628",
+            "2012"
+        ],
+        [
+            "East",
+            "TPS",
+            "Turku",
+            "HK Arena",
+            "11820",
+            "2006"
+        ],
+        [
+            "East",
+            "Tappara",
+            "Tampere",
+            "Hakamets\u00e4 Areena",
+            "7800",
+            "2006"
+        ],
+        [
+            "East",
+            "Djurg\u00e5rdens IF",
+            "Stockholm",
+            "Hovet",
+            "8094",
+            "2006"
+        ],
+        [
+            "East",
+            "SC Bern",
+            "Bern",
+            "PostFinance-Arena",
+            "17131",
+            "2010 **"
+        ],
+        [
+            "East",
+            "B\u00edl\u00ed Tyg\u0159i Liberec",
+            "Liberec",
+            "Tipsport Arena",
+            "7500",
+            "2011"
+        ],
+        [
+            "East",
+            "\u010cSOB Poji\u0161\u0165ovna Pardubice",
+            "Pardubice",
+            "\u010cEZ Ar\u00e9na",
+            "10194",
+            "2011"
+        ],
+        [
+            "East",
+            "Bryn\u00e4s IF",
+            "G\u00e4vle",
+            "L\u00e4kerol Arena",
+            "8585",
+            "2012"
+        ],
+        [
+            "East",
+            "HC Fribourg-Gott\u00e9ron",
+            "Fribourg",
+            "BCF Arena",
+            "6900",
+            "2012"
+        ],
+        [
+            "West",
+            "F\u00e4rjestad BK",
+            "Karlstad",
+            "L\u00f6fbergs Lila Arena",
+            "8647",
+            "2006"
+        ],
+        [
+            "West",
+            "Fr\u00f6lunda Indians",
+            "Gothenburg",
+            "Scandinavium",
+            "12044",
+            "2006"
+        ],
+        [
+            "West",
+            "HIFK",
+            "Helsinki",
+            "Helsinki Ice Hall",
+            "8200",
+            "2006"
+        ],
+        [
+            "West",
+            "Jokerit",
+            "Helsinki",
+            "Hartwall Areena",
+            "13349",
+            "2008"
+        ],
+        [
+            "West",
+            "ZSC Lions",
+            "Zurich",
+            "Hallenstadion",
+            "10700",
+            "2010 **"
+        ],
+        [
+            "West",
+            "Adler Mannheim",
+            "Mannheim",
+            "SAP Arena",
+            "10600",
+            "2010"
+        ],
+        [
+            "West",
+            "ERC Ingolstadt",
+            "Ingolstadt",
+            "Saturn Arena",
+            "4815",
+            "2012"
+        ],
+        [
+            "West",
+            "EV Zug",
+            "Zug",
+            "Bossard Arena",
+            "7015",
+            "2012"
+        ]
+    ]
+}

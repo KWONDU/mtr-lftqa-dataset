@@ -1,0 +1,55 @@
+{
+    "id": "375c631b757caefb9c7d73cc24645fa3c56770d315bb08d74974209dd10c8740",
+    "metadata": "Indianapolis Motor Speedway race results | Brick Track Re-Opening (1909) | Brick Track Re-Opening (1909)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Date_",
+        "Driver_Rider",
+        "Car_Motorcycle",
+        "Time_",
+        "Speed"
+    ],
+    "cell": [
+        [
+            "1909",
+            "Dec 17",
+            "Lewis Strang",
+            "Fiat",
+            "00:40.61",
+            "88.648mph"
+        ],
+        [
+            "1909",
+            "Dec 17",
+            "Fred Huyck",
+            "Indian",
+            "00:52.60",
+            "68.441mph"
+        ],
+        [
+            "1909",
+            "Dec 17",
+            "Johnny Aitken",
+            "National",
+            "16:18.41",
+            "73.589mph"
+        ],
+        [
+            "1909",
+            "Dec 18",
+            "Lewis Strang",
+            "Fiat",
+            "00:39.21",
+            "91.813mph"
+        ],
+        [
+            "1909",
+            "Dec 18",
+            "Lewis Strang",
+            "Fiat",
+            "03:17.70",
+            "91.047mph"
+        ]
+    ]
+}

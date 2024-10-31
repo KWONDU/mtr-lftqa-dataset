@@ -1,0 +1,70 @@
+{
+    "id": "fbdf498606595310df13bc55289b7260daba78c8b5f23b0d21ff7fd9d4dee263",
+    "metadata": "1971 VFL season | Round 12 | Round 12",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Carlton",
+            "16.18 (114)",
+            "North Melbourne",
+            "3.5 (23)",
+            "Princes Park",
+            "13300",
+            "19 June 1971"
+        ],
+        [
+            "St Kilda",
+            "14.15 (99)",
+            "Geelong",
+            "3.3 (21)",
+            "Moorabbin Oval",
+            "14181",
+            "19 June 1971"
+        ],
+        [
+            "Richmond",
+            "6.11 (47)",
+            "Fitzroy",
+            "8.17 (65)",
+            "MCG",
+            "24831",
+            "19 June 1971"
+        ],
+        [
+            "Hawthorn",
+            "14.20 (104)",
+            "Essendon",
+            "11.5 (71)",
+            "Glenferrie Oval",
+            "14181",
+            "19 June 1971"
+        ],
+        [
+            "Footscray",
+            "8.15 (63)",
+            "Collingwood",
+            "6.10 (46)",
+            "Western Oval",
+            "21188",
+            "19 June 1971"
+        ],
+        [
+            "Melbourne",
+            "6.13 (49)",
+            "South Melbourne",
+            "2.6 (18)",
+            "VFL Park",
+            "12528",
+            "19 June 1971"
+        ]
+    ]
+}

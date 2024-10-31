@@ -1,0 +1,55 @@
+{
+    "id": "c7bd1954f63e9f3ebf0787589fb11d9968b3a4dd2387f782d589696dbc1b6466",
+    "metadata": "List of Jesuit educational institutions in the Philippines | Tertiary institutions | Tertiary institutions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Enrollment",
+        "Athletic_nickname",
+        "School_Colors",
+        "Founded"
+    ],
+    "cell": [
+        [
+            "Ateneo de Davao University",
+            "Davao City , Davao del Sur",
+            "13676",
+            "Blue Knights",
+            "blue & white",
+            "1948"
+        ],
+        [
+            "Ateneo de Manila University",
+            "Quezon City , Metro Manila",
+            "11465",
+            "Blue Eagles",
+            "blue & white",
+            "1859"
+        ],
+        [
+            "Ateneo de Naga University",
+            "Naga , Camarines Sur",
+            "8,000 approx.",
+            "Golden Knights",
+            "blue & gold",
+            "1940"
+        ],
+        [
+            "Ateneo de Zamboanga University",
+            "Zamboanga City",
+            "9,000 approx.",
+            "Blue Eagles",
+            "blue & white",
+            "1912"
+        ],
+        [
+            "Xavier University - Ateneo de Cagayan",
+            "Cagayan de Oro , Misamis Oriental",
+            "14564",
+            "Blue Crusaders",
+            "blue & white",
+            "1933"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "69555a92cd205bb619234ce99d63e300e1be049f666c4626f8c3552326e83551",
+    "metadata": "NAPA Auto Parts 200 | Television broadcasters | Television broadcasters",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Network",
+        "Host_",
+        "Pre_race_analyst",
+        "Lap_by_lap",
+        "Color_commentators",
+        "Pit_reporters"
+    ],
+    "cell": [
+        [
+            "2012",
+            "ESPN",
+            "Shannon Spake",
+            "N/A",
+            "Marty Reid",
+            "Ricky Craven",
+            "Rick DeBruhl Jim Noble Shannon Spake"
+        ],
+        [
+            "2011",
+            "ESPN",
+            "Marty Reid",
+            "N/A",
+            "Marty Reid",
+            "Rusty Wallace Ricky Craven",
+            "Rick DeBruhl Jim Noble Shannon Spake"
+        ],
+        [
+            "2010",
+            "ESPN2",
+            "Allen Bestwick",
+            "N/A",
+            "Allen Bestwick",
+            "Andy Petree Rusty Wallace",
+            "Mike Massaro Vince Welch Shannon Spake"
+        ],
+        [
+            "2009",
+            "ESPN2",
+            "Shannon Spake",
+            "N/A",
+            "Marty Reid",
+            "Andy Petree Rusty Wallace",
+            "Dave Burns Jamie Little Shannon Spake"
+        ],
+        [
+            "2008",
+            "ESPN2",
+            "Jack Arute",
+            "N/A",
+            "Marty Reid",
+            "Randy LaJoie Rusty Wallace",
+            "Jack Arute Vince Welch Mike Massaro"
+        ]
+    ]
+}

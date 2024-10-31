@@ -1,0 +1,97 @@
+{
+    "id": "9fc51622bd078768f757ebfca9aba618715197bfcca5533c832b8fe392641d64",
+    "metadata": "2006 Formula Nippon season | Race calendar and results | Race calendar and results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Circuit",
+        "Date_",
+        "Pole_Position",
+        "Fastest_Lap",
+        "Winning_Driver",
+        "Winning_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "Fuji Speedway",
+            "2 April",
+            "Beno\u00eet Tr\u00e9luyer",
+            "Masataka Yanagida",
+            "Beno\u00eet Tr\u00e9luyer",
+            "mobilecast IMPUL"
+        ],
+        [
+            "2",
+            "Suzuka Circuit",
+            "16 April",
+            "Beno\u00eet Tr\u00e9luyer",
+            "Beno\u00eet Tr\u00e9luyer",
+            "Lo\u00efc Duval",
+            "PIAA Nakajima"
+        ],
+        [
+            "3",
+            "Twin Ring Motegi",
+            "28 May",
+            "Takashi Kogure",
+            "Tsugio Matsuda",
+            "Andr\u00e9 Lotterer",
+            "DHG TOM`S"
+        ],
+        [
+            "4",
+            "Suzuka Circuit",
+            "9 July",
+            "Beno\u00eet Tr\u00e9luyer",
+            "Beno\u00eet Tr\u00e9luyer",
+            "Beno\u00eet Tr\u00e9luyer",
+            "mobilecast IMPUL"
+        ],
+        [
+            "5",
+            "Autopolis",
+            "6 August",
+            "Takashi Kogure",
+            "Lo\u00efc Duval",
+            "Tsugio Matsuda",
+            "mobilecast IMPUL"
+        ],
+        [
+            "6",
+            "Fuji Speedway",
+            "27 August",
+            "Takashi Kogure",
+            "Satoshi Motoyama",
+            "Beno\u00eet Tr\u00e9luyer",
+            "mobilecast IMPUL"
+        ],
+        [
+            "7",
+            "Sportsland SUGO",
+            "17 September",
+            "Takashi Kogure",
+            "Hideki Mutoh",
+            "Lo\u00efc Duval",
+            "PIAA Nakajima"
+        ],
+        [
+            "8",
+            "Twin Ring Motegi",
+            "22 October",
+            "Takashi Kogure",
+            "Satoshi Motoyama",
+            "Beno\u00eet Tr\u00e9luyer",
+            "mobilecast IMPUL"
+        ],
+        [
+            "9",
+            "Suzuka Circuit",
+            "19 November",
+            "Tsugio Matsuda",
+            "Beno\u00eet Tr\u00e9luyer",
+            "Andr\u00e9 Lotterer",
+            "DHG TOM`S"
+        ]
+    ]
+}

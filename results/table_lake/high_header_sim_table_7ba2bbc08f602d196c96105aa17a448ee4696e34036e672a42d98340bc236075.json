@@ -1,0 +1,63 @@
+{
+    "id": "7ba2bbc08f602d196c96105aa17a448ee4696e34036e672a42d98340bc236075",
+    "metadata": "Bjelkemander | Electoral effect | Electoral effect",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Party",
+        "Votes_cast",
+        "Percentage",
+        "Seats_won",
+        "Percent_of_seats"
+    ],
+    "cell": [
+        [
+            "Labor",
+            "424002",
+            "46.7",
+            "33",
+            "40.2"
+        ],
+        [
+            "Liberal",
+            "201596",
+            "22.2",
+            "21",
+            "25"
+        ],
+        [
+            "Country",
+            "181404",
+            "20.0",
+            "26",
+            "31.1"
+        ],
+        [
+            "DLP",
+            "69757",
+            "7.7",
+            "0",
+            "0"
+        ],
+        [
+            "Independent",
+            "23951",
+            "2.6",
+            "0",
+            "2.4"
+        ],
+        [
+            "Other",
+            "6236",
+            "0.7",
+            "0",
+            "0"
+        ],
+        [
+            "Invalid",
+            "14817",
+            "1.6",
+            "0",
+            "0"
+        ]
+    ]
+}

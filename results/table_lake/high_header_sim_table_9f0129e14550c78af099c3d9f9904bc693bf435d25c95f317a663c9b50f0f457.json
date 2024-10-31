@@ -1,0 +1,191 @@
+{
+    "id": "9f0129e14550c78af099c3d9f9904bc693bf435d25c95f317a663c9b50f0f457",
+    "metadata": "I-35 Corridor | U.S. Census statistics | U.S. Census statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_CSA",
+        "Combined_Statistical_Area_or_Metropolitan_Statistical_Area_if_noted",
+        "States",
+        "_2007_Estimate",
+        "_2000_Population",
+        "Percent_Change_1990_2000"
+    ],
+    "cell": [
+        [
+            "4",
+            "Dallas-Fort Worth",
+            "TX",
+            "0 6,498,410",
+            "0 5,487,956",
+            "A011 +18.41%"
+        ],
+        [
+            "22",
+            "Kansas City-Overland Park-Kansas City, MO-KS CSA",
+            "MO - KS",
+            "0 2,053,928",
+            "0 1,901,070",
+            "A042 +8.04%"
+        ],
+        [
+            "(MSA 28)",
+            "San Antonio-New Braunfels, TX MSA",
+            "TX",
+            "0 1,990,675",
+            "0 1,711,721",
+            "A088 +16.30%"
+        ],
+        [
+            "(MSA 37)",
+            "Austin-Round Rock-San Marcos, TX MSA **",
+            "TX",
+            "0 1,598,161",
+            "0 1,249,748",
+            "A018 +27.88%"
+        ],
+        [
+            "34",
+            "Oklahoma City-Norman-Shawnee **",
+            "OK",
+            "0 1,262,027",
+            "0 1,160,942",
+            "A034 +8.71%"
+        ],
+        [
+            "44",
+            "Tulsa-Bartlesville, OK CSA",
+            "OK",
+            "00, 955,643",
+            "00, 908,528",
+            "A063 +5.19%"
+        ],
+        [
+            "56",
+            "Wichita-Winfield, KS CSA",
+            "KS",
+            "00, 630,703",
+            "00, 607,457",
+            "A075 +3.83%"
+        ],
+        [
+            "(MSA 131)",
+            "Killeen-Temple-Fort Hood, TX MSA",
+            "TX",
+            "00, 378,935",
+            "00, 330,714",
+            "A075 +14.58%"
+        ],
+        [
+            "(MSA 189)",
+            "Topeka, KS MSA",
+            "KS",
+            "00, 228,692",
+            "00, 224,551",
+            "A560 +1.84%"
+        ],
+        [
+            "(MSA 190)",
+            "Waco, TX MSA",
+            "TX",
+            "00, 228,123",
+            "00, 213,517",
+            "A299 +6.84%"
+        ],
+        [
+            "(MSA 271)",
+            "Wichita Falls, TX MSA",
+            "TX",
+            "00, 148,148",
+            "00, 151,524",
+            "A788 -2.23%"
+        ],
+        [
+            "(MSA 343)",
+            "Lawton, OK MSA",
+            "OK",
+            "00, 113,811",
+            "00, 114,996",
+            "A730 -1.03%"
+        ],
+        [
+            "(MSA 348)",
+            "Lawrence, KS MSA",
+            "KS",
+            "00, 113,488",
+            "99962",
+            "A117 +13.53%"
+        ],
+        [
+            "(\u03bcSA 449)",
+            "Stillwater, OK \u03bcSA",
+            "OK",
+            "79931",
+            "68190",
+            "A078 +17.22%"
+        ],
+        [
+            "(\u03bcSA 512)",
+            "Hutchinson, KS \u03bcSA",
+            "KS",
+            "63145",
+            "64790",
+            "A805 -2.54%"
+        ],
+        [
+            "(\u03bcSA 549)",
+            "Enid, OK \u03bcSA",
+            "OK",
+            "57657",
+            "57813",
+            "A691 -0.27%"
+        ],
+        [
+            "(\u03bcSA 559)",
+            "Ardmore, OK \u03bcSA",
+            "OK",
+            "56694",
+            "54452",
+            "A426 +4.12%"
+        ],
+        [
+            "(\u03bcSA 639)",
+            "Ponca City, OK \u03bcSA",
+            "OK",
+            "45638",
+            "48080",
+            "A890 -5.08%"
+        ],
+        [
+            "(\u03bcSA 642)",
+            "Tahlequah, OK \u03bcSA",
+            "OK",
+            "45393",
+            "42521",
+            "A304 +6.75%"
+        ],
+        [
+            "(\u03bcSA 662)",
+            "Duncan, OK \u03bcSA",
+            "OK",
+            "43322",
+            "43182",
+            "A645 +0.32%"
+        ],
+        [
+            "(\u03bcSA 704)",
+            "Durant, OK \u03bcSA",
+            "OK",
+            "39563",
+            "36534",
+            "A239 +8.29%"
+        ],
+        [
+            "(\u03bcSA 717)",
+            "Emporia, KS \u03bcSA",
+            "KS",
+            "38863",
+            "38965",
+            "A690 -0.26%"
+        ]
+    ]
+}

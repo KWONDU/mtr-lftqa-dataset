@@ -1,0 +1,49 @@
+{
+    "id": "898a303ee7956ff3a2d257e0003814410166376864d40c29dce0cce48e834aed",
+    "metadata": "1985 PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jack Nicklaus",
+            "United States",
+            "4686280",
+            "72"
+        ],
+        [
+            "2",
+            "Tom Watson",
+            "United States",
+            "3806940",
+            "36"
+        ],
+        [
+            "3",
+            "Lee Trevino",
+            "United States",
+            "3177975",
+            "29"
+        ],
+        [
+            "4",
+            "Raymond Floyd",
+            "United States",
+            "2868951",
+            "19"
+        ],
+        [
+            "5",
+            "Hale Irwin",
+            "United States",
+            "2751050",
+            "17"
+        ]
+    ]
+}

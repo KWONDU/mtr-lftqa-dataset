@@ -1,0 +1,91 @@
+{
+    "id": "6f26c2b7f04970c0f34ecb21b879fe59d0dbfdf2f73008d61b3454c113a0314f",
+    "metadata": "2009-10 Cardiff City F.C. season | In | In",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "N",
+        "P",
+        "Name_",
+        "EU",
+        "Country",
+        "Age",
+        "Type_",
+        "Moving_from",
+        "Transfer_window",
+        "Ends",
+        "Transfer_fee",
+        "Source_"
+    ],
+    "cell": [
+        [
+            "1",
+            "GK",
+            "Marshall",
+            "EU",
+            "SCO",
+            "24",
+            "Transfer",
+            "Norwich City",
+            "Summer",
+            "2012",
+            "\u00a3500,000",
+            "Cardiff City"
+        ],
+        [
+            "5",
+            "DF",
+            "Hudson",
+            "EU",
+            "ENG",
+            "27",
+            "Transfer",
+            "Charlton Athletic",
+            "Summer",
+            "2012",
+            "\u00a31,075,000",
+            "BBC Sport"
+        ],
+        [
+            "15",
+            "DF",
+            "Gerrard",
+            "EU",
+            "ENG",
+            "23",
+            "Transfer",
+            "Walsall",
+            "Summer",
+            "2013",
+            "\u00a3200,000",
+            "Cardiff City"
+        ],
+        [
+            "14",
+            "DF",
+            "Quinn",
+            "EU",
+            "SCO",
+            "23",
+            "Transfer",
+            "Motherwell",
+            "Summer",
+            "2012",
+            "\u00a3300,000",
+            "BBC Sport"
+        ],
+        [
+            "8",
+            "FW",
+            "Chopra",
+            "EU",
+            "ENG",
+            "25",
+            "Transfer",
+            "Sunderland",
+            "Summer",
+            "2012",
+            "\u00a33,000,000",
+            "BBC Sport"
+        ]
+    ]
+}

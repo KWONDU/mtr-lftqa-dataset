@@ -1,0 +1,49 @@
+{
+    "id": "42ba53908795b7a510d406e0a8c2ab437177dc602b90385b8617632c43994d63",
+    "metadata": "Sagarika Ghatge | Filmography | Films",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Title",
+        "Role_",
+        "Language_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Chak De! India",
+            "Preeti Sabarwal",
+            "Hindi",
+            "Supporting Role"
+        ],
+        [
+            "2009",
+            "Fox",
+            "Urvashi Mathur",
+            "Hindi",
+            "Small Role"
+        ],
+        [
+            "2011",
+            "Miley Naa Miley Hum",
+            "Kamiah",
+            "Hindi",
+            "Supporting Role"
+        ],
+        [
+            "2012",
+            "Rush",
+            "Ahana Sharma",
+            "Hindi",
+            "Released on October 24, 2012"
+        ],
+        [
+            "2013",
+            "Premachi Goshta",
+            "Sonal",
+            "Marathi",
+            "Lead Role, movie Directed by Satish Rajwade"
+        ]
+    ]
+}

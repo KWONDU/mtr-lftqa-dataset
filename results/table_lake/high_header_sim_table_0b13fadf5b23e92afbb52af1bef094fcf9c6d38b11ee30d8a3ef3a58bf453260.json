@@ -1,0 +1,106 @@
+{
+    "id": "0b13fadf5b23e92afbb52af1bef094fcf9c6d38b11ee30d8a3ef3a58bf453260",
+    "metadata": "Eastern Indiana Athletic Conference | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "City",
+        "Team_Name",
+        "Enrollment_08_09",
+        "IHSAA_Class",
+        "IHSAA_Class_Football",
+        "County",
+        "Year_Joined_Or_Joining",
+        "Previous_Conference"
+    ],
+    "cell": [
+        [
+            "Batesville",
+            "Batesville",
+            "Bulldogs",
+            "677",
+            "AAA",
+            "AAA",
+            "69 Ripley",
+            "1956",
+            "Southeastern Indiana"
+        ],
+        [
+            "Connersville",
+            "Connersville",
+            "Spartans",
+            "1337",
+            "AAAA",
+            "AAAA",
+            "21 Fayette",
+            "2013",
+            "Independents"
+        ],
+        [
+            "East Central",
+            "St. Leon",
+            "Trojans",
+            "1440",
+            "AAAA",
+            "AAAA",
+            "15 Dearborn",
+            "1973",
+            "none (new school)"
+        ],
+        [
+            "Franklin County",
+            "Brookville",
+            "Wildcats",
+            "969",
+            "AAA",
+            "AAAA",
+            "24 Franklin",
+            "1989",
+            "none (new school)"
+        ],
+        [
+            "Greensburg",
+            "Greensburg",
+            "Pirates",
+            "643",
+            "AAA",
+            "AAA",
+            "16 Decatur",
+            "1978",
+            "South Central"
+        ],
+        [
+            "Lawrenceburg",
+            "Lawrenceburg",
+            "Tigers",
+            "528",
+            "AAA",
+            "AAA",
+            "15 Dearborn",
+            "1956",
+            "Southeastern Indiana"
+        ],
+        [
+            "Rushville",
+            "Rushville",
+            "Lions",
+            "821",
+            "AAA",
+            "AAA",
+            "70 Rush",
+            "2013",
+            "Hoosier Heritage"
+        ],
+        [
+            "South Dearborn",
+            "Aurora",
+            "Knights",
+            "973",
+            "AAA",
+            "AAAA",
+            "15 Dearborn",
+            "1978",
+            "none (new school)"
+        ]
+    ]
+}

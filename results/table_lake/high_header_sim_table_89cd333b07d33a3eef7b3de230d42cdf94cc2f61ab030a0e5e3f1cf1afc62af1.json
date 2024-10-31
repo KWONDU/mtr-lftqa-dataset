@@ -1,0 +1,77 @@
+{
+    "id": "89cd333b07d33a3eef7b3de230d42cdf94cc2f61ab030a0e5e3f1cf1afc62af1",
+    "metadata": "Johnnie Parsons | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1950",
+            "Wynn`s Friction / Kurtis-Kraft",
+            "Kurtis Kraft 1000",
+            "Offenhauser L4",
+            "9"
+        ],
+        [
+            "1951",
+            "Wynn`s Friction Proofing / Walsh",
+            "Kurtis Kraft 3000",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1952",
+            "Jim Robbins",
+            "Kurtis Kraft 1000",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1953",
+            "Belond Equa-Flow",
+            "Kurtis Kraft 500B",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1954",
+            "Belond Equa-Flow / Calif. Muffler",
+            "Kurtis Kraft 500C",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1955",
+            "Trio Brass Foundry / Anderson",
+            "Kurtis Kraft 500C",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1956",
+            "J.C. Agajanian",
+            "Kuzma Indy Roadster",
+            "Offenhauser L4",
+            "3"
+        ],
+        [
+            "1957",
+            "Sumar/Chapman Root",
+            "Kurtis Kraft 500G",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1958",
+            "Fred Gerhardt",
+            "Kurtis Kraft 500G",
+            "Offenhauser L4",
+            "0"
+        ]
+    ]
+}

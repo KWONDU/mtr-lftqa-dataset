@@ -1,0 +1,56 @@
+{
+    "id": "39450e809e1e2a3b452a2aee452eda2fd7a10a6063f4005d76b58e93c0d78696",
+    "metadata": "University of Michigan basketball scandal | Vacated and forfeited games | Vacated and forfeited games",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Coach",
+        "Record_as_played",
+        "Actual_adjusted_record",
+        "Regular_season_Vacated"
+    ],
+    "cell": [
+        [
+            "1992",
+            "Steve Fisher",
+            "25-9",
+            "24-8",
+            "||1-1"
+        ],
+        [
+            "1993",
+            "Fisher",
+            "31-5",
+            "0-4",
+            "26-0"
+        ],
+        [
+            "1996",
+            "Fisher",
+            "21-11",
+            "1-10",
+            "20-0"
+        ],
+        [
+            "1997",
+            "Fisher",
+            "24-11",
+            "0-11",
+            "24-0"
+        ],
+        [
+            "1998",
+            "Brian Ellerbe",
+            "25-9",
+            "0-8",
+            "24-0"
+        ],
+        [
+            "1999",
+            "Ellerbe",
+            "12-19",
+            "0-19",
+            "12-0"
+        ]
+    ]
+}

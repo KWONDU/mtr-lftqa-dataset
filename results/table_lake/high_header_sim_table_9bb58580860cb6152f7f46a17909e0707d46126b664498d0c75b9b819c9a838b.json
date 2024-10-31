@@ -1,0 +1,84 @@
+{
+    "id": "9bb58580860cb6152f7f46a17909e0707d46126b664498d0c75b9b819c9a838b",
+    "metadata": "Sports in Indianapolis | Teams in Indianapolis | Teams in Indianapolis",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "League",
+        "Sport",
+        "Venue",
+        "Established"
+    ],
+    "cell": [
+        [
+            "Indianapolis Colts",
+            "National Football League",
+            "Football",
+            "Lucas Oil Stadium",
+            "1953"
+        ],
+        [
+            "Indiana Pacers",
+            "National Basketball Association",
+            "Basketball",
+            "Bankers Life Fieldhouse",
+            "1967"
+        ],
+        [
+            "Indiana Fever",
+            "Women`s National Basketball Association",
+            "Basketball",
+            "Bankers Life Fieldhouse",
+            "2000"
+        ],
+        [
+            "Indianapolis Indians",
+            "International League",
+            "Baseball",
+            "Victory Field",
+            "1902"
+        ],
+        [
+            "Indy Eleven",
+            "North American Soccer League",
+            "Soccer",
+            "IU Michael A. Carroll Track & Soccer Stadium",
+            "2013"
+        ],
+        [
+            "Indiana Ice",
+            "United States Hockey League",
+            "Hockey",
+            "Pepsi Coliseum / Bankers Life Fieldhouse",
+            "2004"
+        ],
+        [
+            "Indiana Speed",
+            "Women`s Football Alliance",
+            "Football",
+            "Broad Ripple High School football stadium",
+            "2002"
+        ],
+        [
+            "F.C. Indiana (NPSL)",
+            "National Premier Soccer League",
+            "Soccer",
+            "Kuntz Stadium",
+            "2007"
+        ],
+        [
+            "F.C. Indiana (WPSL)",
+            "Women`s Premier Soccer League Elite",
+            "Soccer",
+            "IU Michael A. Carroll Track & Soccer Stadium",
+            "2000"
+        ],
+        [
+            "Indianapolis Impalas",
+            "USA Rugby",
+            "Rugby",
+            "Old Central State Hospital",
+            "1980"
+        ]
+    ]
+}

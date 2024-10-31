@@ -1,0 +1,49 @@
+{
+    "id": "e4f9d309c442e3a0e2dd9ee8656304960ecaeedfd41e242066c69c11d653f205",
+    "metadata": "Royal Canadian Mint numismatic coins (2000s) | Gold Plated Proof Silver Dollars | Gold Plated Proof Silver Dollars",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Theme",
+        "Artist",
+        "Mintage",
+        "Issue_Price"
+    ],
+    "cell": [
+        [
+            "2005",
+            "40th Anniversary, Canada`s Flag",
+            "William Woodruff",
+            "N/A",
+            "$84.95"
+        ],
+        [
+            "2006",
+            "Victoria Cross",
+            "Royal Canadian Mint Staff",
+            "N/A",
+            "$84.95"
+        ],
+        [
+            "2007",
+            "Thayendanegea Joseph Brant",
+            "RCM Staff based on image by Laurie McGaw",
+            "N/A",
+            "$89.95"
+        ],
+        [
+            "2008",
+            "400th Anniversary of Quebec",
+            "Suzanne Duranceau",
+            "60000",
+            "$89.95"
+        ],
+        [
+            "2009",
+            "100th Anniversary of Flight",
+            "Jason Bouwman",
+            "55000",
+            "$99.95"
+        ]
+    ]
+}

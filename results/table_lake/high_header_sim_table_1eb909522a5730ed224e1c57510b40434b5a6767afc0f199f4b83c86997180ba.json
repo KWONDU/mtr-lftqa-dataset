@@ -1,0 +1,77 @@
+{
+    "id": "1eb909522a5730ed224e1c57510b40434b5a6767afc0f199f4b83c86997180ba",
+    "metadata": "GP2 Series | Champions | Champions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Champion",
+        "Second_",
+        "Third",
+        "Team_Champion"
+    ],
+    "cell": [
+        [
+            "2005",
+            "Nico Rosberg ( ART Grand Prix )",
+            "Heikki Kovalainen ( Arden International )",
+            "Scott Speed ( iSport International )",
+            "ART Grand Prix"
+        ],
+        [
+            "2006",
+            "Lewis Hamilton ( ART Grand Prix )",
+            "Nelson Piquet, Jr. ( Piquet Sports )",
+            "Alexandre Pr\u00e9mat ( ART Grand Prix )",
+            "ART Grand Prix"
+        ],
+        [
+            "2007",
+            "Timo Glock ( iSport International )",
+            "Lucas di Grassi ( ART Grand Prix )",
+            "Giorgio Pantano ( Campos Grand Prix )",
+            "iSport International"
+        ],
+        [
+            "2008",
+            "Giorgio Pantano ( Racing Engineering )",
+            "Bruno Senna ( iSport International )",
+            "Lucas di Grassi ( Barwa Int. Campos Team )",
+            "Barwa International Campos Team"
+        ],
+        [
+            "2009",
+            "Nico H\u00fclkenberg ( ART Grand Prix )",
+            "Vitaly Petrov ( Barwa Addax Team )",
+            "Lucas di Grassi ( Fat Burner Racing Engineering )",
+            "ART Grand Prix"
+        ],
+        [
+            "2010",
+            "Pastor Maldonado ( Rapax )",
+            "Sergio P\u00e9rez ( Barwa Addax Team )",
+            "Jules Bianchi ( ART Grand Prix )",
+            "Rapax"
+        ],
+        [
+            "2011",
+            "Romain Grosjean ( DAMS )",
+            "Luca Filippi ( Super Nova / Scuderia Coloni )",
+            "Jules Bianchi ( Lotus ART )",
+            "Barwa Addax Team"
+        ],
+        [
+            "2012",
+            "Davide Valsecchi ( DAMS )",
+            "Luiz Razia ( Arden International )",
+            "Esteban Guti\u00e9rrez ( Lotus GP )",
+            "DAMS"
+        ],
+        [
+            "2013",
+            "Fabio Leimer ( Racing Engineering )",
+            "Sam Bird ( Russian Time )",
+            "James Calado ( ART Grand Prix )",
+            "Russian Time"
+        ]
+    ]
+}

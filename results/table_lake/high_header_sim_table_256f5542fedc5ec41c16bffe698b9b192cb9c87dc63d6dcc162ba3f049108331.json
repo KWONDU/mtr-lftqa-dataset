@@ -1,0 +1,79 @@
+{
+    "id": "256f5542fedc5ec41c16bffe698b9b192cb9c87dc63d6dcc162ba3f049108331",
+    "metadata": "United States House of Representatives elections, 1814 | Kentucky | Kentucky",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Kentucky 1",
+            "James Clark",
+            "Democratic-Republican",
+            "1812",
+            "Re-elected",
+            "James Clark (DR) 100%"
+        ],
+        [
+            "Kentucky 2",
+            "Joseph H. Hawkins",
+            "Democratic-Republican",
+            "1814 ( special )",
+            "Retired Democratic-Republican hold",
+            "Henry Clay (DR)"
+        ],
+        [
+            "Kentucky 3",
+            "Richard M. Johnson",
+            "Democratic-Republican",
+            "1806",
+            "Re-elected",
+            "Richard M. Johnson (DR) 100%"
+        ],
+        [
+            "Kentucky 4",
+            "Joseph Desha",
+            "Democratic-Republican",
+            "1806",
+            "Re-elected",
+            "Joseph Desha (DR) 100%"
+        ],
+        [
+            "Kentucky 6",
+            "Solomon P. Sharp",
+            "Democratic-Republican",
+            "1812",
+            "Re-elected",
+            "Solomon P. Sharp (DR) 100%"
+        ],
+        [
+            "Kentucky 7",
+            "Samuel McKee",
+            "Democratic-Republican",
+            "1808",
+            "Re-elected",
+            "Samuel McKee (DR) 61.3% Samuel South 38.7%"
+        ],
+        [
+            "Kentucky 8",
+            "Stephen Ormsby",
+            "Democratic-Republican",
+            "1810",
+            "Re-elected",
+            "Stephen Ormsby (DR) James Moore"
+        ],
+        [
+            "Kentucky 9",
+            "Thomas Montgomery",
+            "Democratic-Republican",
+            "1812",
+            "Lost re-election Democratic-Republican hold",
+            "Micah Taul (DR) Thomas Montgomery (DR)"
+        ]
+    ]
+}

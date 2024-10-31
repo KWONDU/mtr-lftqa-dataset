@@ -1,0 +1,63 @@
+{
+    "id": "a3bd85d7a72480a13bac4867e01c529aa917b565fe7fffd1fb09253e23b5f245",
+    "metadata": "Kings XI Punjab | Overall | Performance summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Matches",
+        "Wins",
+        "Losses",
+        "No_Result",
+        "Win_"
+    ],
+    "cell": [
+        [
+            "2008",
+            "14",
+            "10",
+            "4",
+            "0",
+            "71.43%"
+        ],
+        [
+            "2009",
+            "14",
+            "7",
+            "7",
+            "0",
+            "50.00%"
+        ],
+        [
+            "2010",
+            "14",
+            "4",
+            "10",
+            "0",
+            "28.57%"
+        ],
+        [
+            "2011",
+            "14",
+            "7",
+            "7",
+            "0",
+            "50.00%"
+        ],
+        [
+            "2012",
+            "16",
+            "8",
+            "8",
+            "0",
+            "50.00%"
+        ],
+        [
+            "Total",
+            "72",
+            "36",
+            "36",
+            "0",
+            "50.00%"
+        ]
+    ]
+}

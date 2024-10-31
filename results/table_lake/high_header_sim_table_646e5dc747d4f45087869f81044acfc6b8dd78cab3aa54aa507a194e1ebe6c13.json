@@ -1,0 +1,70 @@
+{
+    "id": "646e5dc747d4f45087869f81044acfc6b8dd78cab3aa54aa507a194e1ebe6c13",
+    "metadata": "Six Sigma | Sigma levels | Sigma levels",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Sigma_level",
+        "Sigma_with_1_5\u03c3_shift",
+        "DPMO",
+        "Percent_defective",
+        "Percentage_yield",
+        "Short_term_C_pk",
+        "Long_term_C_pk"
+    ],
+    "cell": [
+        [
+            "1",
+            "-0.5",
+            "691462",
+            "69%",
+            "31%",
+            "0.33",
+            "-0.17"
+        ],
+        [
+            "2",
+            "0.5",
+            "308538",
+            "31%",
+            "69%",
+            "0.67",
+            "0.17"
+        ],
+        [
+            "3",
+            "1.5",
+            "66807",
+            "6.7%",
+            "93.3%",
+            "1.00",
+            "0.5"
+        ],
+        [
+            "4",
+            "2.5",
+            "6210",
+            "0.62%",
+            "99.38%",
+            "1.33",
+            "0.83"
+        ],
+        [
+            "5",
+            "3.5",
+            "233",
+            "0.023%",
+            "99.977%",
+            "1.67",
+            "1.17"
+        ],
+        [
+            "6",
+            "4.5",
+            "3.4",
+            "0.00034%",
+            "99.99966%",
+            "2.00",
+            "1.5"
+        ]
+    ]
+}

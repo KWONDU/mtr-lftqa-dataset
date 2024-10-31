@@ -1,0 +1,55 @@
+{
+    "id": "f46a65f077fc321c3d00d78c25895032428ba43e7e745af8ccffc0e79f59f924",
+    "metadata": "List of Fairbanks-Morse locomotives | Road Switchers | Road Switchers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Build_year",
+        "Total_produced",
+        "Wheel_arrangement",
+        "Prime_mover",
+        "Power_output"
+    ],
+    "cell": [
+        [
+            "FM H-15-44",
+            "1947-1950",
+            "35",
+            "B-B",
+            "FM 38D-8 opposed piston",
+            "hp (MW)"
+        ],
+        [
+            "FM H-16-44",
+            "1950-1963",
+            "299",
+            "B-B",
+            "FM 38D-8 opposed piston",
+            "hp (MW)"
+        ],
+        [
+            "FM H-20-44",
+            "1947-1954",
+            "96",
+            "B-B",
+            "FM 38D-10 opposed piston",
+            "hp (MW)"
+        ],
+        [
+            "FM H-16-66 (\u201cBaby Train Master\u201d)",
+            "1951-1958",
+            "59",
+            "C-C",
+            "FM 38D-8 opposed piston",
+            "hp (MW)"
+        ],
+        [
+            "FM H-24-66 (Train Master)",
+            "1951-1958",
+            "107",
+            "C-C",
+            "FM 38D-12 opposed piston",
+            "hp (MW)"
+        ]
+    ]
+}

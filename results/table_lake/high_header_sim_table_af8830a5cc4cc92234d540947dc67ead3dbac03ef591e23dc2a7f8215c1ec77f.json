@@ -1,0 +1,77 @@
+{
+    "id": "af8830a5cc4cc92234d540947dc67ead3dbac03ef591e23dc2a7f8215c1ec77f",
+    "metadata": "East Surrey (UK Parliament constituency) | MPs 1832-1885 | MPs 1832-1885",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "First_member",
+        "_1st_Party",
+        "Second_member",
+        "_2nd_Party"
+    ],
+    "cell": [
+        [
+            "1832",
+            "John Ivatt Briscoe",
+            "Liberal",
+            "Aubrey Beauclerk",
+            "Liberal"
+        ],
+        [
+            "1835",
+            "Richard Alsager",
+            "Conservative",
+            "Aubrey Beauclerk",
+            "Liberal"
+        ],
+        [
+            "1837",
+            "Richard Alsager",
+            "Conservative",
+            "Henry Kemble",
+            "Conservative"
+        ],
+        [
+            "1841 by-election",
+            "Edmund Antrobus",
+            "Conservative",
+            "Henry Kemble",
+            "Conservative"
+        ],
+        [
+            "1847",
+            "Peter John Locke King",
+            "Liberal",
+            "Thomas Alcock",
+            "Liberal"
+        ],
+        [
+            "1865",
+            "Peter John Locke King",
+            "Liberal",
+            "Charles Buxton",
+            "Liberal"
+        ],
+        [
+            "1871 by-election",
+            "Peter John Locke King",
+            "Liberal",
+            "James Watney",
+            "Conservative"
+        ],
+        [
+            "1874",
+            "William Grantham",
+            "Conservative",
+            "James Watney",
+            "Conservative"
+        ],
+        [
+            "1885",
+            "Constituency abolished",
+            "Constituency abolished",
+            "Constituency abolished",
+            "Constituency abolished"
+        ]
+    ]
+}

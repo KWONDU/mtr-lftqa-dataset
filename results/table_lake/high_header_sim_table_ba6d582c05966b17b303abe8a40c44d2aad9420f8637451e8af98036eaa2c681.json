@@ -1,0 +1,56 @@
+{
+    "id": "ba6d582c05966b17b303abe8a40c44d2aad9420f8637451e8af98036eaa2c681",
+    "metadata": "Puerto Rico Soccer League | Final Teams | Final Teams",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Home_city",
+        "Stadium",
+        "Founded",
+        "Joined_PRSL"
+    ],
+    "cell": [
+        [
+            "FC Leones de Ponce",
+            "Ponce",
+            "Francisco Paquito Montaner Stadium",
+            "2011",
+            "2011"
+        ],
+        [
+            "Hurac\u00e1n FC Caguas",
+            "Caguas",
+            "Yldefonso Sol\u00e1 Morales Stadium",
+            "1991",
+            "2008"
+        ],
+        [
+            "Mayag\u00fcez FC",
+            "Mayag\u00fcez",
+            "Mayag\u00fcez Athletics Stadium",
+            "2003",
+            "2010"
+        ],
+        [
+            "Puerto Rico United SC",
+            "Aguada",
+            "Aguada Stadium",
+            "2007",
+            "2010"
+        ],
+        [
+            "CA River Plate Fajardo",
+            "Carolina 1",
+            "Roberto Clemente Stadium 1",
+            "2007",
+            "2008"
+        ],
+        [
+            "Sevilla FC Juncos",
+            "Juncos 2",
+            "Josu\u00e9 Elevadito Gonz\u00e1lez Stadium 2",
+            "2006",
+            "2008"
+        ]
+    ]
+}

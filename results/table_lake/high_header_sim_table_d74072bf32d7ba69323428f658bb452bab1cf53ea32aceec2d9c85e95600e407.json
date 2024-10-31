@@ -1,0 +1,63 @@
+{
+    "id": "d74072bf32d7ba69323428f658bb452bab1cf53ea32aceec2d9c85e95600e407",
+    "metadata": "C\u00e9sar Cielo | Long course (50 meter pool) | Long course (50 meter pool)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Event",
+        "Time_",
+        "Venue",
+        "Date_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "50 m freestyle",
+            "20.91",
+            "S\u00e3o Paulo",
+            "December 18, 2009",
+            "WR"
+        ],
+        [
+            "100 m freestyle",
+            "46.91",
+            "Rome",
+            "July 30, 2009",
+            "WR"
+        ],
+        [
+            "50 m freestyle",
+            "21.30",
+            "Beijing",
+            "August 16, 2008",
+            "OR"
+        ],
+        [
+            "50 m butterfly",
+            "22.76",
+            "Rio de Janeiro",
+            "April 26, 2012",
+            "AM"
+        ],
+        [
+            "4\u00d750 m freestyle",
+            "1:26.12",
+            "S\u00e3o Paulo",
+            "December 19, 2009",
+            "SA"
+        ],
+        [
+            "4\u00d7100 m freestyle",
+            "3:10.80",
+            "Rome",
+            "July 26, 2009",
+            "SA"
+        ],
+        [
+            "4\u00d7100 m medley",
+            "3:29.16",
+            "Rome",
+            "August 2, 2009",
+            "SA"
+        ]
+    ]
+}

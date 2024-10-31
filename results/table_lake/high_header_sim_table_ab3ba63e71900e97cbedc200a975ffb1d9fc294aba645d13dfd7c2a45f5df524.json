@@ -1,0 +1,95 @@
+{
+    "id": "ab3ba63e71900e97cbedc200a975ffb1d9fc294aba645d13dfd7c2a45f5df524",
+    "metadata": "Long jump | All-time top 25 | Men",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Mark",
+        "Wind_",
+        "Athlete",
+        "Nationality",
+        "Venue",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "8.95m(29ft4\u00bcin)",
+            "0.3",
+            "Mike Powell",
+            "United States",
+            "Tokyo",
+            "August 30, 1991"
+        ],
+        [
+            "8.90m(29ft2\u00bcin) A",
+            "2.0",
+            "Bob Beamon",
+            "United States",
+            "Mexico City",
+            "October 18, 1968"
+        ],
+        [
+            "8.87m(29ft1in)",
+            "\u22120.2",
+            "Carl Lewis",
+            "United States",
+            "Tokyo",
+            "August 30, 1991"
+        ],
+        [
+            "8.86m(29ft0\u00bein) A",
+            "1.9",
+            "Robert Emmiyan",
+            "Soviet Union",
+            "Tsakhkadzor",
+            "May 22, 1987"
+        ],
+        [
+            "8.74m(28ft8in)",
+            "1.4",
+            "Larry Myricks",
+            "United States",
+            "Indianapolis",
+            "July 18, 1988"
+        ],
+        [
+            "8.74m(28ft8in) A",
+            "2.0",
+            "Erick Walder",
+            "United States",
+            "El Paso",
+            "April 2, 1994"
+        ],
+        [
+            "8.74m(28ft8in)",
+            "\u22121.2",
+            "Dwight Phillips",
+            "United States",
+            "Eugene",
+            "June 7, 2009"
+        ],
+        [
+            "8.73m(28ft7\u00bdin)",
+            "1.2",
+            "Irving Saladino",
+            "Panama",
+            "Hengelo",
+            "May 24, 2008"
+        ],
+        [
+            "8.71m(28ft6\u00bein)",
+            "1.9",
+            "Iv\u00e1n Pedroso",
+            "Cuba",
+            "Salamanca",
+            "July 18, 1995"
+        ],
+        [
+            "8.66m(28ft4\u00bein)",
+            "1.6",
+            "Lo\u00fais Ts\u00e1toumas",
+            "Greece",
+            "Kalam\u00e1ta",
+            "June 2, 2007"
+        ]
+    ]
+}

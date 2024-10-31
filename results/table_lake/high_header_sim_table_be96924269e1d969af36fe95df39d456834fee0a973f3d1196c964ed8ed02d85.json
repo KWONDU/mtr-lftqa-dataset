@@ -1,0 +1,56 @@
+{
+    "id": "be96924269e1d969af36fe95df39d456834fee0a973f3d1196c964ed8ed02d85",
+    "metadata": "Latin American Poker Tour | Season 3 | Season 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "City",
+        "Event",
+        "Winner",
+        "Prize"
+    ],
+    "cell": [
+        [
+            "November 19-22, 2009",
+            "Playa Conchal",
+            "LAPT Playa Conchal - Costa Rica",
+            "Amer Sulaiman",
+            "$172,095"
+        ],
+        [
+            "February 24-27, 2010",
+            "Punta del Este",
+            "LAPT Punta del Este - Uruguay",
+            "Jose Barbero",
+            "$279,330"
+        ],
+        [
+            "March 19-23, 2010",
+            "Vi\u00f1a del Mar",
+            "LAPT Vi\u00f1a del Mar - Chile",
+            "(cancelled - earthquake)",
+            "(cancelled)"
+        ],
+        [
+            "June 2-5, 2010",
+            "Lima",
+            "LAPT Lima - Peru",
+            "Jose Barbero",
+            "$250,000"
+        ],
+        [
+            "August 5-8, 2010",
+            "Florianopolis",
+            "LAPT Florianopolis - Brazil",
+            "Matthias Habernig",
+            "$248,004"
+        ],
+        [
+            "September 22-26, 2010",
+            "Rosario",
+            "LAPT Grand Final Rosario - Argentina",
+            "Martin Sansour",
+            "$322,280"
+        ]
+    ]
+}

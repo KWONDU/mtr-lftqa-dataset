@@ -1,0 +1,71 @@
+{
+    "id": "adfa37fe2954fb8f049a5649101d16147ee01480b5c4a5cf17cdcf0cdf503378",
+    "metadata": "1940 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Score",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 2",
+            "Detroit Tigers - 7, Cincinnati Reds - 2",
+            "Crosley Field",
+            "2:09",
+            "31793"
+        ],
+        [
+            "2",
+            "October 3",
+            "Detroit Tigers - 3, Cincinnati Reds - 5",
+            "Crosley Field",
+            "1:54",
+            "30640"
+        ],
+        [
+            "3",
+            "October 4",
+            "Cincinnati Reds - 4, Detroit Tigers - 7",
+            "Briggs Stadium",
+            "2:08",
+            "52877"
+        ],
+        [
+            "4",
+            "October 5",
+            "Cincinnati Reds - 5, Detroit Tigers - 2",
+            "Briggs Stadium",
+            "2:06",
+            "54093"
+        ],
+        [
+            "5",
+            "October 6",
+            "Cincinnati Reds - 0, Detroit Tigers - 8",
+            "Briggs Stadium",
+            "2:26",
+            "55189"
+        ],
+        [
+            "6",
+            "October 7",
+            "Detroit Tigers - 0, Cincinnati Reds - 4",
+            "Crosley Field",
+            "2:01",
+            "30481"
+        ],
+        [
+            "7",
+            "October 8",
+            "Detroit Tigers - 1, Cincinnati Reds - 2",
+            "Crosley Field",
+            "1:47",
+            "26854"
+        ]
+    ]
+}

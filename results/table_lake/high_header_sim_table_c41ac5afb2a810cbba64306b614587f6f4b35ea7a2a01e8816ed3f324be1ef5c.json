@@ -1,0 +1,63 @@
+{
+    "id": "c41ac5afb2a810cbba64306b614587f6f4b35ea7a2a01e8816ed3f324be1ef5c",
+    "metadata": "1980 World Figure Skating Championships | Medals table | Medals table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "East Germany",
+            "2",
+            "1",
+            "0",
+            "3"
+        ],
+        [
+            "2",
+            "Soviet Union",
+            "1",
+            "1",
+            "2",
+            "4"
+        ],
+        [
+            "3",
+            "Hungary",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "4",
+            "United Kingdom",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "4",
+            "West Germany",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "6",
+            "United States",
+            "0",
+            "0",
+            "2",
+            "2"
+        ]
+    ]
+}

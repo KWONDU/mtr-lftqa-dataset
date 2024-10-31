@@ -1,0 +1,56 @@
+{
+    "id": "278a563c79f962325b86f689ad732ec719afa63b8ba833f129fe54d9a0b1ba04",
+    "metadata": "1993-94 Portsmouth F.C. season | Anglo-Italian Cup | Anglo-Italian Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Team",
+        "Against",
+        "Date_",
+        "Venue",
+        "Round"
+    ],
+    "cell": [
+        [
+            "Bristol City",
+            "1",
+            "31 August 1993",
+            "Fratton Park , Portsmouth",
+            "Preliminary Round G4"
+        ],
+        [
+            "Oxford United",
+            "0",
+            "14 September 1993",
+            "Manor Ground , Oxford",
+            "Preliminary Round G4"
+        ],
+        [
+            "Padova",
+            "0",
+            "12 October 1993",
+            "Stadio Euganeo , Padua",
+            "Group B"
+        ],
+        [
+            "Pescara",
+            "2",
+            "9 November 1993",
+            "Stadio Adriatico , Pescara",
+            "Group B"
+        ],
+        [
+            "Cosenza",
+            "0",
+            "16 November 1993",
+            "Fratton Park , Portsmouth",
+            "Group B"
+        ],
+        [
+            "Fiorentina",
+            "3",
+            "22 December 1993",
+            "Fratton Park , Portsmouth",
+            "Group B"
+        ]
+    ]
+}

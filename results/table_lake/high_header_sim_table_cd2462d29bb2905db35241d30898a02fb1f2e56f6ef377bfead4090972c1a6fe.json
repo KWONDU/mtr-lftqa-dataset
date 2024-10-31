@@ -1,0 +1,133 @@
+{
+    "id": "cd2462d29bb2905db35241d30898a02fb1f2e56f6ef377bfead4090972c1a6fe",
+    "metadata": "Augmented seventh chord | Augmented seventh chord table | Augmented seventh chord table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Chord",
+        "Root",
+        "Major_third",
+        "Augmented_fifth",
+        "Minor_seventh"
+    ],
+    "cell": [
+        [
+            "Caug7",
+            "C",
+            "E",
+            "G \u266f",
+            "B \u266d"
+        ],
+        [
+            "C \u266f aug7",
+            "C \u266f",
+            "E \u266f (F)",
+            "G (A)",
+            "B"
+        ],
+        [
+            "D \u266d aug7",
+            "D \u266d",
+            "F",
+            "A",
+            "C \u266d (B)"
+        ],
+        [
+            "Daug7",
+            "D",
+            "F \u266f",
+            "A \u266f",
+            "C"
+        ],
+        [
+            "D \u266f aug7",
+            "D \u266f",
+            "F (G)",
+            "A (B)",
+            "C \u266f"
+        ],
+        [
+            "E \u266d aug7",
+            "E \u266d",
+            "G",
+            "B",
+            "D \u266d"
+        ],
+        [
+            "Eaug7",
+            "E",
+            "G \u266f",
+            "B \u266f (C)",
+            "D"
+        ],
+        [
+            "Faug7",
+            "F",
+            "A",
+            "C \u266f",
+            "E \u266d"
+        ],
+        [
+            "F \u266f aug7",
+            "F \u266f",
+            "A \u266f",
+            "C (D)",
+            "E"
+        ],
+        [
+            "G \u266d aug7",
+            "G \u266d",
+            "B \u266d",
+            "D",
+            "F \u266d (E)"
+        ],
+        [
+            "Gaug7",
+            "G",
+            "B",
+            "D \u266f",
+            "F"
+        ],
+        [
+            "G \u266f aug7",
+            "G \u266f",
+            "B \u266f (C)",
+            "D (E)",
+            "F \u266f"
+        ],
+        [
+            "A \u266d aug7",
+            "A \u266d",
+            "C",
+            "E",
+            "G \u266d"
+        ],
+        [
+            "Aaug7",
+            "A",
+            "C \u266f",
+            "E \u266f (F)",
+            "G"
+        ],
+        [
+            "A \u266f aug7",
+            "A \u266f",
+            "C (D)",
+            "E (F \u266f )",
+            "G \u266f"
+        ],
+        [
+            "B \u266d aug7",
+            "B \u266d",
+            "D",
+            "F \u266f",
+            "A \u266d"
+        ],
+        [
+            "Baug7",
+            "B",
+            "D \u266f",
+            "F (G)",
+            "A"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "9df0e18f071a83b4234292f03f7e7c3daddecd2f68d823575e5107f67510c6d0",
+    "metadata": "Sunday's River Valley Local Municipality | Main places | Main places",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Code",
+        "Area_km_2_",
+        "Population",
+        "Most_spoken_language"
+    ],
+    "cell": [
+        [
+            "Addo Elephant National Park",
+            "20602",
+            "1.08",
+            "90",
+            "Xhosa"
+        ],
+        [
+            "Addo",
+            "20601",
+            "3.21",
+            "1752",
+            "Afrikaans"
+        ],
+        [
+            "Barsheba",
+            "20603",
+            "0.61",
+            "517",
+            "Xhosa"
+        ],
+        [
+            "Bontrug",
+            "20604",
+            "2.33",
+            "6806",
+            "Xhosa"
+        ],
+        [
+            "Enon",
+            "20605",
+            "0.40",
+            "782",
+            "Afrikaans"
+        ],
+        [
+            "Kirkwood",
+            "20606",
+            "3.07",
+            "2749",
+            "Afrikaans"
+        ],
+        [
+            "KwaZenzele",
+            "20607",
+            "3.62",
+            "3733",
+            "Xhosa"
+        ],
+        [
+            "Nomathamsanqa",
+            "20608",
+            "1.53",
+            "9266",
+            "Xhosa"
+        ],
+        [
+            "Paterson",
+            "20609",
+            "0.22",
+            "671",
+            "Afrikaans"
+        ],
+        [
+            "Remainder of the municipality",
+            "20610",
+            "3491.83",
+            "15218",
+            "Xhosa"
+        ]
+    ]
+}

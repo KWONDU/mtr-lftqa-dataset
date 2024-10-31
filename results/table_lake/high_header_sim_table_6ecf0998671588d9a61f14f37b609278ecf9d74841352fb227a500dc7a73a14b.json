@@ -1,0 +1,55 @@
+{
+    "id": "6ecf0998671588d9a61f14f37b609278ecf9d74841352fb227a500dc7a73a14b",
+    "metadata": "1993 Senior PGA Tour | Leaders | Money List leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Dave Stockton",
+            "United States",
+            "1175944",
+            "34",
+            "5"
+        ],
+        [
+            "2",
+            "Bob Charles",
+            "New Zealand",
+            "1046823",
+            "29",
+            "3"
+        ],
+        [
+            "3",
+            "George Archer",
+            "United States",
+            "963124",
+            "32",
+            "4"
+        ],
+        [
+            "4",
+            "Lee Trevino",
+            "United States",
+            "956591",
+            "25",
+            "3"
+        ],
+        [
+            "5",
+            "Chi Chi Rodriguez",
+            "United States",
+            "798857",
+            "32",
+            "1"
+        ]
+    ]
+}

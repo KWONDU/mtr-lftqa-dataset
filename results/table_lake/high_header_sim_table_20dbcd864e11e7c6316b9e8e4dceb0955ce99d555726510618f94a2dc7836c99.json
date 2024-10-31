@@ -1,0 +1,79 @@
+{
+    "id": "20dbcd864e11e7c6316b9e8e4dceb0955ce99d555726510618f94a2dc7836c99",
+    "metadata": "United States House of Representatives elections, 1964 | Florida | Florida",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Florida 1",
+            "Robert L. F. Sikes",
+            "Democratic",
+            "1940",
+            "Re-elected",
+            "Robert L. F. Sikes (D) Unopposed"
+        ],
+        [
+            "Florida 3",
+            "Claude Pepper",
+            "Democratic",
+            "1962",
+            "Re-elected",
+            "Claude Pepper (D) 65.7% Paul J. O`Neill (R) 34.3%"
+        ],
+        [
+            "Florida 4",
+            "Dante Fascell",
+            "Democratic",
+            "1954",
+            "Re-elected",
+            "Dante Fascell (D) 63.9% Jay McGlon (R) 36.1%"
+        ],
+        [
+            "Florida 5",
+            "Albert S. Herlong, Jr.",
+            "Democratic",
+            "1948",
+            "Re-elected",
+            "Albert S. Herlong, Jr. (D) Unopposed"
+        ],
+        [
+            "Florida 6",
+            "Paul Rogers",
+            "Democratic",
+            "1954",
+            "Re-elected",
+            "Paul Rogers (D) 66.0% John D. Steele (R) 34.0%"
+        ],
+        [
+            "Florida 7",
+            "James A. Haley",
+            "Democratic",
+            "1952",
+            "Re-elected",
+            "James A. Haley (D) Unopposed"
+        ],
+        [
+            "Florida 8",
+            "Donald Ray Matthews",
+            "Democratic",
+            "1952",
+            "Re-elected",
+            "Donald Ray Matthews (D) Unopposed"
+        ],
+        [
+            "Florida 9",
+            "Don Fuqua",
+            "Democratic",
+            "1962",
+            "Re-elected",
+            "Don Fuqua (D) Unopposed"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "7dd44e374ee1271c899f83ea81aef204bb6a1ea2947a5f855f9287bb112cda19",
+    "metadata": "USA Today All-USA high school basketball team | 2011 Boys' team | Second team",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Height",
+        "School",
+        "Hometown",
+        "College"
+    ],
+    "cell": [
+        [
+            "Khem Birch",
+            "6-9",
+            "Notre Dame Prep",
+            "Montreal, QC , Canada",
+            "Pittsburgh / UNLV"
+        ],
+        [
+            "Perry Ellis \u2021",
+            "6-8",
+            "Wichita Heights High School",
+            "Wichita, KS",
+            "Kansas"
+        ],
+        [
+            "Myles Mack",
+            "5-9",
+            "St. Anthony High School",
+            "Jersey City, NJ",
+            "Rutgers"
+        ],
+        [
+            "Shabazz Muhammad \u2021",
+            "6-6",
+            "Bishop Gorman High School",
+            "Las Vegas, NV",
+            "UCLA"
+        ],
+        [
+            "Cody Zeller",
+            "6-11",
+            "Washington High School",
+            "Washington, IN",
+            "Indiana"
+        ]
+    ]
+}

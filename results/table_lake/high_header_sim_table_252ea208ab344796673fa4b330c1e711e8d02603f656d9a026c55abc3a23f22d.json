@@ -1,0 +1,84 @@
+{
+    "id": "252ea208ab344796673fa4b330c1e711e8d02603f656d9a026c55abc3a23f22d",
+    "metadata": "2008-09 Football League Trophy | Southern Section | Southern Section",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "Cheltenham Town",
+            "1 - 2",
+            "Walsall",
+            "1741"
+        ],
+        [
+            "2",
+            "Hereford United",
+            "1 - 2",
+            "Swindon Town",
+            "1458"
+        ],
+        [
+            "3",
+            "Wycombe Wanderers",
+            "0 - 7",
+            "Shrewsbury Town",
+            "1730"
+        ],
+        [
+            "4",
+            "Milton Keynes Dons",
+            "0 - 1",
+            "Bournemouth",
+            "4329"
+        ],
+        [
+            "5",
+            "Peterborough United",
+            "0 - 1",
+            "Dagenham & Redbridge",
+            "2644"
+        ],
+        [
+            "6",
+            "Brighton & Hove Albion",
+            "2 - 2",
+            "Leyton Orient",
+            "2157"
+        ],
+        [
+            "Brighton & Hove Albion won 5 - 4 on penalties",
+            "Brighton & Hove Albion won 5 - 4 on penalties",
+            "Brighton & Hove Albion won 5 - 4 on penalties",
+            "Brighton & Hove Albion won 5 - 4 on penalties",
+            "Brighton & Hove Albion won 5 - 4 on penalties"
+        ],
+        [
+            "7",
+            "Gillingham",
+            "0 - 1",
+            "Colchester United",
+            "1557"
+        ],
+        [
+            "8",
+            "Luton Town",
+            "2 - 2",
+            "Brentford",
+            "2029"
+        ],
+        [
+            "Luton Town won 4 - 3 on penalties",
+            "Luton Town won 4 - 3 on penalties",
+            "Luton Town won 4 - 3 on penalties",
+            "Luton Town won 4 - 3 on penalties",
+            "Luton Town won 4 - 3 on penalties"
+        ]
+    ]
+}

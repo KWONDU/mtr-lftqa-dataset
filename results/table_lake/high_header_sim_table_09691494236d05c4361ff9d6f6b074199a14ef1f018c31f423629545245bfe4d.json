@@ -1,0 +1,112 @@
+{
+    "id": "09691494236d05c4361ff9d6f6b074199a14ef1f018c31f423629545245bfe4d",
+    "metadata": "List of NGC objects (2001-3000) | 2001-2100 | 2001-2100",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_"
+    ],
+    "cell": [
+        [
+            "2014",
+            "Association of stars",
+            "Dorado",
+            "05h32m24s",
+            "\u00b041\u2032"
+        ],
+        [
+            "2020",
+            "Diffuse nebula",
+            "Dorado",
+            "05h33m12s",
+            "\u00b043\u2032"
+        ],
+        [
+            "2021",
+            "Association of stars",
+            "Dorado",
+            "05h33m30s",
+            "\u00b027\u2032"
+        ],
+        [
+            "2022",
+            "Planetary nebula",
+            "Orion",
+            "05h42m06.2s",
+            "\u00b005\u203211\u2033"
+        ],
+        [
+            "2023",
+            "Diffuse nebula",
+            "Orion",
+            "05h41m37.9s",
+            "\u00b015\u203252\u2033"
+        ],
+        [
+            "2024",
+            "Emission nebula",
+            "Orion",
+            "05h41m43s",
+            "\u00b051\u2032"
+        ],
+        [
+            "2025",
+            "Open cluster",
+            "Mensa",
+            "05h32m33s",
+            "\u00b043\u2032"
+        ],
+        [
+            "2043",
+            "Open cluster",
+            "Mensa",
+            "05h35m56.7s",
+            "\u00b004\u203223\u2033"
+        ],
+        [
+            "2068",
+            "Diffuse nebula",
+            "Orion",
+            "05h46m46.7s",
+            "\u00b000\u203250\u2033"
+        ],
+        [
+            "2070",
+            "Open cluster",
+            "Dorado",
+            "05h38m42s",
+            "\u00b006\u2032"
+        ],
+        [
+            "2080",
+            "Open cluster",
+            "Dorado",
+            "05h39m44s",
+            "\u00b039\u2032"
+        ],
+        [
+            "2090",
+            "Spiral galaxy",
+            "Columba",
+            "05h47m02.3s",
+            "\u00b015\u203205\u2033"
+        ],
+        [
+            "2099",
+            "Open cluster",
+            "Auriga",
+            "05h52m19s",
+            "\u00b033\u2032"
+        ],
+        [
+            "2100",
+            "Open cluster",
+            "Dorado",
+            "05h42m09s",
+            "\u00b012\u203243\u2033"
+        ]
+    ]
+}

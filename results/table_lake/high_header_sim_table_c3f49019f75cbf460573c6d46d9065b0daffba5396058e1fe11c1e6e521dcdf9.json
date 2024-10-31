@@ -1,0 +1,71 @@
+{
+    "id": "c3f49019f75cbf460573c6d46d9065b0daffba5396058e1fe11c1e6e521dcdf9",
+    "metadata": "Paul Goldsmith | Indy 500 results | Indy 500 results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Start_",
+        "Qual",
+        "Rank_",
+        "Finish",
+        "Laps"
+    ],
+    "cell": [
+        [
+            "1958",
+            "16",
+            "142.744",
+            "24",
+            "30",
+            "0"
+        ],
+        [
+            "1959",
+            "16",
+            "142.670",
+            "19",
+            "5",
+            "200"
+        ],
+        [
+            "1960",
+            "26",
+            "142.783",
+            "27",
+            "3",
+            "200"
+        ],
+        [
+            "1961",
+            "17",
+            "144.741",
+            "25",
+            "14",
+            "160"
+        ],
+        [
+            "1962",
+            "26",
+            "146.437",
+            "26",
+            "26",
+            "26"
+        ],
+        [
+            "1963",
+            "9",
+            "150.163",
+            "5",
+            "18",
+            "149"
+        ],
+        [
+            "Totals",
+            "Totals",
+            "Totals",
+            "Totals",
+            "Totals",
+            "735"
+        ]
+    ]
+}

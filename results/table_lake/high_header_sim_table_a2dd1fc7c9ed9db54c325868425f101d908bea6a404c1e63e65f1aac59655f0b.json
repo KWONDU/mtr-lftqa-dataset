@@ -1,0 +1,70 @@
+{
+    "id": "a2dd1fc7c9ed9db54c325868425f101d908bea6a404c1e63e65f1aac59655f0b",
+    "metadata": "1938 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "8.12 (60)",
+            "St Kilda",
+            "9.10 (64)",
+            "Glenferrie Oval",
+            "10000",
+            "25 June 1938"
+        ],
+        [
+            "Fitzroy",
+            "12.16 (88)",
+            "North Melbourne",
+            "6.10 (46)",
+            "Brunswick Street Oval",
+            "12000",
+            "25 June 1938"
+        ],
+        [
+            "Essendon",
+            "14.16 (100)",
+            "Footscray",
+            "17.9 (111)",
+            "Windy Hill",
+            "18000",
+            "25 June 1938"
+        ],
+        [
+            "Richmond",
+            "12.17 (89)",
+            "Melbourne",
+            "10.8 (68)",
+            "Punt Road Oval",
+            "23000",
+            "25 June 1938"
+        ],
+        [
+            "Geelong",
+            "13.12 (90)",
+            "Collingwood",
+            "13.17 (95)",
+            "Corio Oval",
+            "13000",
+            "25 June 1938"
+        ],
+        [
+            "South Melbourne",
+            "11.7 (73)",
+            "Carlton",
+            "16.13 (109)",
+            "Lake Oval",
+            "14000",
+            "25 June 1938"
+        ]
+    ]
+}

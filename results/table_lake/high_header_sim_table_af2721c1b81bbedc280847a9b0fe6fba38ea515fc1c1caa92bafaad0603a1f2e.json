@@ -1,0 +1,42 @@
+{
+    "id": "af2721c1b81bbedc280847a9b0fe6fba38ea515fc1c1caa92bafaad0603a1f2e",
+    "metadata": "Cycling at the 2004 Summer Olympics - Women's sprint | Records | Semifinals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Heat",
+        "Time_",
+        "Pos",
+        "Rider",
+        "Country_"
+    ],
+    "cell": [
+        [
+            "SF 1",
+            "2nd race: 12.101 s , 3rd race: 12.185 s",
+            "1",
+            "Lori-Ann Muenzer",
+            "Canada"
+        ],
+        [
+            "SF 1",
+            "1st race: 11.802 s",
+            "2",
+            "Anna Meares",
+            "Australia"
+        ],
+        [
+            "SF 2",
+            "2nd race: 11.965 s , 3rd race: 11.894 s",
+            "1",
+            "Tamilla Abassova",
+            "Russia"
+        ],
+        [
+            "SF 2",
+            "1st race: 11.893 s",
+            "2",
+            "Svetlana Grankovskaya",
+            "Russia"
+        ]
+    ]
+}

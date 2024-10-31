@@ -1,0 +1,77 @@
+{
+    "id": "925f64efc3ca92b209da5d464331e6d3b772c08068bfb086f1c69f9b5a294548",
+    "metadata": "German submarine U-333 | Raiding career | Ships attacked by U-333",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Ship",
+        "Tons",
+        "Nationality",
+        "Fate_and_location"
+    ],
+    "cell": [
+        [
+            "22 January 1942",
+            "Vassilios A. Polemis",
+            "3429",
+            "Greece",
+            "Sunk at"
+        ],
+        [
+            "24 January 1942",
+            "Ringstad",
+            "4765",
+            "Norway",
+            "Sunk at"
+        ],
+        [
+            "31 January 1942",
+            "Spreewald",
+            "5083",
+            "Nazi Germany",
+            "Sunk at"
+        ],
+        [
+            "6 May 1942",
+            "Amazone",
+            "1294",
+            "Netherlands",
+            "Sunk at"
+        ],
+        [
+            "6 May 1942",
+            "Halsey",
+            "7088",
+            "United States",
+            "Sunk at"
+        ],
+        [
+            "6 May 1942",
+            "Java Arrow",
+            "8327",
+            "United States",
+            "Damaged at"
+        ],
+        [
+            "10 May 1942",
+            "Clan Skene",
+            "5214",
+            "United Kingdom",
+            "Sunk at"
+        ],
+        [
+            "6 October 1942",
+            "HMSCrocus",
+            "925",
+            "United Kingdom",
+            "Damaged at"
+        ],
+        [
+            "19 March 1943",
+            "Carras",
+            "5234",
+            "Greece",
+            "Sunk at"
+        ]
+    ]
+}

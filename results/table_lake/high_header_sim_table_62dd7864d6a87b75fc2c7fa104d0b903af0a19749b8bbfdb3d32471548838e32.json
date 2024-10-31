@@ -1,0 +1,73 @@
+{
+    "id": "62dd7864d6a87b75fc2c7fa104d0b903af0a19749b8bbfdb3d32471548838e32",
+    "metadata": "Approval voting | Compliance with voting system criteria | Compliance with voting system criteria",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Non_dictatorship",
+        "Pareto_efficiency",
+        "Majority",
+        "Monotone",
+        "Consistency_Participation",
+        "Condorcet",
+        "Condorcet_loser",
+        "Clone_independence",
+        "Reversal_symmetry"
+    ],
+    "cell": [
+        [
+            "No",
+            "No",
+            "No",
+            "Yes",
+            "Yes",
+            "No",
+            "No",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Yes",
+            "Yes",
+            "No",
+            "Yes",
+            "Yes",
+            "No",
+            "No",
+            "No",
+            "Yes"
+        ],
+        [
+            "Yes",
+            "Yes",
+            "No",
+            "Yes",
+            "No",
+            "No",
+            "No",
+            "No",
+            "Yes"
+        ],
+        [
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "No",
+            "Yes",
+            "No",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "No",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+        ]
+    ]
+}

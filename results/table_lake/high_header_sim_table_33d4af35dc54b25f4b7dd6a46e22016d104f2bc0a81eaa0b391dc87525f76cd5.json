@@ -1,0 +1,84 @@
+{
+    "id": "33d4af35dc54b25f4b7dd6a46e22016d104f2bc0a81eaa0b391dc87525f76cd5",
+    "metadata": "List of corporations by market capitalization | 1999 | 1999",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Headquarters",
+        "Primary_industry",
+        "Market_value_USD_million"
+    ],
+    "cell": [
+        [
+            "1",
+            "Microsoft",
+            "United States",
+            "Software industry",
+            "271854"
+        ],
+        [
+            "2",
+            "General Electric",
+            "United States",
+            "Conglomerate",
+            "258871"
+        ],
+        [
+            "3",
+            "Exxon Mobil",
+            "United States",
+            "Oil and gas",
+            "172213"
+        ],
+        [
+            "4",
+            "Royal Dutch Shell",
+            "The Netherlands",
+            "Oil and gas",
+            "164157"
+        ],
+        [
+            "5",
+            "Merck",
+            "United States",
+            "Health care",
+            "154753"
+        ],
+        [
+            "6",
+            "Pfizer",
+            "United States",
+            "Health care",
+            "148074"
+        ],
+        [
+            "7",
+            "Intel Corporation",
+            "United States",
+            "Computer hardware",
+            "144060"
+        ],
+        [
+            "8",
+            "The Coca-Cola Company",
+            "United States",
+            "Beverage",
+            "142164"
+        ],
+        [
+            "9",
+            "Wal-Mart",
+            "United States",
+            "Retail",
+            "123062"
+        ],
+        [
+            "10",
+            "IBM",
+            "United States",
+            "Software industry, Computer hardware",
+            "121184"
+        ]
+    ]
+}

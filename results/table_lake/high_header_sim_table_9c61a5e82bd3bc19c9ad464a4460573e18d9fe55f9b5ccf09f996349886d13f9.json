@@ -1,0 +1,56 @@
+{
+    "id": "9c61a5e82bd3bc19c9ad464a4460573e18d9fe55f9b5ccf09f996349886d13f9",
+    "metadata": "Elfgard Schittenhelm | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournament",
+        "Venue",
+        "Result_",
+        "Extra"
+    ],
+    "cell": [
+        [
+            "1971",
+            "European Indoor Championships",
+            "Sofia , Bulgaria",
+            "2nd",
+            "4 x 200 m relay"
+        ],
+        [
+            "1971",
+            "European Championships",
+            "Helsinki , Finland",
+            "3rd",
+            "100 m"
+        ],
+        [
+            "1971",
+            "European Championships",
+            "Helsinki , Finland",
+            "1st",
+            "4 x 100 m relay"
+        ],
+        [
+            "1972",
+            "European Indoor Championships",
+            "Grenoble , France",
+            "1st",
+            "4 x 180 m relay"
+        ],
+        [
+            "1973",
+            "Universiade",
+            "Moscow , Soviet Union",
+            "2nd",
+            "100 m"
+        ],
+        [
+            "1974",
+            "European Championships",
+            "Rome , Italy",
+            "2nd",
+            "4 x 100 m relay"
+        ]
+    ]
+}

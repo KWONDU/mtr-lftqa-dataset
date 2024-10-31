@@ -1,0 +1,84 @@
+{
+    "id": "5d01a4e0c404273c12ad576f2c0f67844e8902af83f1ebafb5e1e29c8e8295cb",
+    "metadata": "Tourism in Norway | Most visited tourist attractions | Most visited tourist attractions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Cultural_attraction",
+        "Type_",
+        "Location_",
+        "Visitors_2007"
+    ],
+    "cell": [
+        [
+            "1",
+            "Fl\u00f8ibanen",
+            "Railway",
+            "Bergen",
+            "1131707"
+        ],
+        [
+            "2",
+            "Holmenkollbakken and Ski Museum",
+            "Ski jumping hill",
+            "Oslo",
+            "686857"
+        ],
+        [
+            "3",
+            "Bryggen",
+            "Heritage wharf",
+            "Bergen",
+            "583510"
+        ],
+        [
+            "4",
+            "Kristiansand Zoo and Amusement Park",
+            "Amusement park",
+            "Kristiansand",
+            "532044"
+        ],
+        [
+            "5",
+            "Tusenfryd",
+            "Amusement park",
+            "\u00c5s",
+            "501235"
+        ],
+        [
+            "6",
+            "Fl\u00e5m Line",
+            "Railway",
+            "Fl\u00e5m",
+            "457545"
+        ],
+        [
+            "7",
+            "Hadeland Glassverk",
+            "Glass works",
+            "Jevnaker",
+            "431400"
+        ],
+        [
+            "8",
+            "Fredrikstad Fortress , Old Town of Fredrikstad",
+            "Heritage fortress and town",
+            "Fredrikstad",
+            "372360"
+        ],
+        [
+            "9",
+            "Viking Ship Museum",
+            "Museum",
+            "Oslo",
+            "314560"
+        ],
+        [
+            "10",
+            "Hunderfossen Familiepark",
+            "Amusement park",
+            "\u00d8yer / Lillehammer",
+            "270500"
+        ]
+    ]
+}

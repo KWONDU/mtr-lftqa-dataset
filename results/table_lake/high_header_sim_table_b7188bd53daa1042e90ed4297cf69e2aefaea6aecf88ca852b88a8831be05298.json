@@ -1,0 +1,84 @@
+{
+    "id": "b7188bd53daa1042e90ed4297cf69e2aefaea6aecf88ca852b88a8831be05298",
+    "metadata": "Lic. Adolfo L\u00f3pez Mateos International Airport | Airlines and Destinations | Top destinations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "City",
+        "Passengers",
+        "Ranking",
+        "Airline_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Quintana Roo, Canc\u00fan",
+            "132046",
+            "",
+            "Aerom\u00e9xico Connect, Interjet, Volaris"
+        ],
+        [
+            "2",
+            "Nuevo Le\u00f3n, Monterrey",
+            "106513",
+            "",
+            "Aerom\u00e9xico Connect, Interjet"
+        ],
+        [
+            "3",
+            "Guerrero, Acapulco",
+            "56069",
+            "",
+            "Aerom\u00e9xico Connect, Interjet"
+        ],
+        [
+            "4",
+            "Jalisco, Guadalajara",
+            "52584",
+            "",
+            "Aerom\u00e9xico Connect, Volaris"
+        ],
+        [
+            "5",
+            "Jalisco, Puerto Vallarta",
+            "43419",
+            "1",
+            "Interjet"
+        ],
+        [
+            "6",
+            "Baja California Sur, Los Cabos",
+            "37526",
+            "1",
+            "Interjet"
+        ],
+        [
+            "7",
+            "Guerrero, Ixtapa/Zihuatanejo",
+            "35507",
+            "",
+            "Interjet"
+        ],
+        [
+            "8",
+            "Baja California, Tijuana",
+            "14906",
+            "",
+            "Interjet"
+        ],
+        [
+            "9",
+            "Tabasco, Villahermosa",
+            "6928",
+            "1",
+            "VivaAerobus"
+        ],
+        [
+            "10",
+            "Tamaulipas, Tampico",
+            "3619",
+            "1",
+            "VivaAerobus"
+        ]
+    ]
+}

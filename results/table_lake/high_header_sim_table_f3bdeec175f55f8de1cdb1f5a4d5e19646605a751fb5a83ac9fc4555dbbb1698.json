@@ -1,0 +1,63 @@
+{
+    "id": "f3bdeec175f55f8de1cdb1f5a4d5e19646605a751fb5a83ac9fc4555dbbb1698",
+    "metadata": "2001-02 Fulham F.C. season | FA Cup | FA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "R3",
+            "8 January 2002",
+            "Wycombe Wanderers",
+            "A",
+            "2-2",
+            "9921"
+        ],
+        [
+            "R3R",
+            "15 January 2002",
+            "Wycombe Wanderers",
+            "H",
+            "1-0",
+            "11894"
+        ],
+        [
+            "R4",
+            "26 January 2002",
+            "York City",
+            "A",
+            "2-0",
+            "7563"
+        ],
+        [
+            "R5",
+            "16 February 2002",
+            "Walsall",
+            "A",
+            "2-1",
+            "8766"
+        ],
+        [
+            "QF",
+            "10 March 2002",
+            "West Bromwich Albion",
+            "A",
+            "1-0",
+            "24811"
+        ],
+        [
+            "SF",
+            "14 April 2002",
+            "Chelsea",
+            "N",
+            "0-1",
+            "36147"
+        ]
+    ]
+}

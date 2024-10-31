@@ -1,0 +1,79 @@
+{
+    "id": "ff9f3b27c669cdc05443b1c1adc76dcba25c53160d33b1acd88adecc0dfe9d4e",
+    "metadata": "List of AMD mobile microprocessors | Turion X2 | \"Lion\" (65 nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Frequency",
+        "L2_Cache",
+        "HT",
+        "Mult_1",
+        "Voltage",
+        "TDP",
+        "Socket",
+        "Release_date",
+        "Order_Part_Number"
+    ],
+    "cell": [
+        [
+            "Turion X2 RM-70",
+            "2000MHz",
+            "2 \u00d7 512kB",
+            "1800MHz",
+            "10x",
+            "0.75 - 1.2V",
+            "31W",
+            "Socket S1G2",
+            "June 4, 2008",
+            "TMRM70DAM22GG"
+        ],
+        [
+            "Turion X2 RM-72",
+            "2100MHz",
+            "2 \u00d7 512kB",
+            "1800MHz",
+            "10.5x",
+            "0.75 - 1.2V",
+            "35W",
+            "Socket S1G2",
+            "Q3 2008",
+            "TMRM72DAM22GG"
+        ],
+        [
+            "Turion X2 RM-74",
+            "2200MHz",
+            "2 \u00d7 512kB",
+            "1800MHz",
+            "11.0x",
+            "0.75 - 1.2V",
+            "35W",
+            "Socket S1G2",
+            "Q4 2008",
+            "TMRM74DAM22GG"
+        ],
+        [
+            "Turion X2 RM-75",
+            "2200MHz",
+            "2 \u00d7 512kB",
+            "2000MHz",
+            "11.0x",
+            "0.75 - 1.2V",
+            "35W",
+            "Socket S1G2",
+            "Q4 2008",
+            "TMRM75DAM22GG"
+        ],
+        [
+            "Turion X2 RM-76",
+            "2300MHz",
+            "2 \u00d7 512kB",
+            "1800MHz",
+            "11.5x",
+            "0.75 - 1.2V",
+            "35W",
+            "Socket S1G2",
+            "Q4 2008",
+            "TMRM76DAM22GG"
+        ]
+    ]
+}

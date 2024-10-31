@@ -1,0 +1,49 @@
+{
+    "id": "0f4fc7c93700f6be3236e18d736453734012160c79137b9e42c76a701d62627f",
+    "metadata": "Chamber of Representatives (Belgium) | Members and elections | Members and elections",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Dutch_language_group_Electoral_district_as_of_2012",
+        "Dutch_language_group_Seats",
+        "French_language_group_Electoral_district_as_of_2012",
+        "French_language_group_Seats_"
+    ],
+    "cell": [
+        [
+            "Antwerp",
+            "24",
+            "Brussels Capital Region",
+            "13/14"
+        ],
+        [
+            "Brussels Capital Region",
+            "1/2",
+            "Hainaut",
+            "18"
+        ],
+        [
+            "East Flanders",
+            "20",
+            "Li\u00e8ge",
+            "15"
+        ],
+        [
+            "Flemish Brabant",
+            "15",
+            "Luxembourg",
+            "4"
+        ],
+        [
+            "Limburg",
+            "12",
+            "Namur",
+            "6"
+        ],
+        [
+            "West Flanders",
+            "16",
+            "Walloon Brabant",
+            "5"
+        ]
+    ]
+}

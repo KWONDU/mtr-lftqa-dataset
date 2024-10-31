@@ -1,0 +1,97 @@
+{
+    "id": "b885a1183e1140dd11ff18c6cc4b8c2eae4584494b9e182d42fa41c977328f69",
+    "metadata": "Operator Please | Singles | Singles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Song",
+        "ARIA_Singles_Chart",
+        "Triple_J_Hottest_100",
+        "UK_Indie_Singles_Chart",
+        "UK_Singles_Chart",
+        "Album"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Just a Song About Ping Pong",
+            "12",
+            "27",
+            "10",
+            "-",
+            "Yes Yes Vindictive"
+        ],
+        [
+            "2007",
+            "Get What You Want",
+            "27",
+            "77",
+            "1",
+            "121",
+            "Yes Yes Vindictive"
+        ],
+        [
+            "2007",
+            "Leave It Alone",
+            "62",
+            "-",
+            "3",
+            "133",
+            "Yes Yes Vindictive"
+        ],
+        [
+            "2008",
+            "Two for My Seconds",
+            "93",
+            "-",
+            "-",
+            "-",
+            "Yes Yes Vindictive"
+        ],
+        [
+            "2010",
+            "Logic",
+            "47",
+            "-",
+            "-",
+            "-",
+            "Gloves"
+        ],
+        [
+            "2010",
+            "Back and Forth",
+            "84",
+            "-",
+            "-",
+            "-",
+            "Gloves"
+        ],
+        [
+            "2010",
+            "Like Magic",
+            "-",
+            "-",
+            "-",
+            "-",
+            "Gloves"
+        ],
+        [
+            "2010",
+            "Volcanic",
+            "-",
+            "-",
+            "-",
+            "-",
+            "Gloves"
+        ],
+        [
+            "2011",
+            "Catapult",
+            "-",
+            "-",
+            "-",
+            "-",
+            "Gloves"
+        ]
+    ]
+}

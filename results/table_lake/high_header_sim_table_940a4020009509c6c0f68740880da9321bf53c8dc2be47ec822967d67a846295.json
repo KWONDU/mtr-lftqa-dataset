@@ -1,0 +1,49 @@
+{
+    "id": "940a4020009509c6c0f68740880da9321bf53c8dc2be47ec822967d67a846295",
+    "metadata": "Lucy Durack | Awards | Awards",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Award_ceremony",
+        "Role_",
+        "Production",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "2008",
+            "Green Room Awards",
+            "Glinda",
+            "Wicked",
+            "Nominated"
+        ],
+        [
+            "2009",
+            "Helpmann Awards",
+            "Glinda",
+            "Wicked",
+            "Nominated"
+        ],
+        [
+            "2009",
+            "Sydney Theatre Awards",
+            "Glinda",
+            "Wicked",
+            "Nominated"
+        ],
+        [
+            "2012",
+            "Sydney Theatre Awards",
+            "Elle Woods",
+            "Legally Blonde",
+            "Won"
+        ],
+        [
+            "2013",
+            "Helpmann Awards",
+            "Elle Woods",
+            "Legally Blonde",
+            "Won"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "4b7809407c205f374f0b0609d0404cccb03bc6aad817244ab810149ff28933ab",
+    "metadata": "Test matches (1991-2000) | Results | 1992",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "27,28,29,30 November, 1 December 1992",
+            "Allan Border",
+            "Richie Richardson",
+            "Brisbane Cricket Ground",
+            "DRAW"
+        ],
+        [
+            "26,27,28,29,30 December 1992",
+            "Allan Border",
+            "Richie Richardson",
+            "Melbourne Cricket Ground",
+            "AUS by 139 runs"
+        ],
+        [
+            "2,3,4,5,6 January 1993",
+            "Allan Border",
+            "Richie Richardson",
+            "Sydney Cricket Ground",
+            "DRAW"
+        ],
+        [
+            "23,24,25,26 January 1993",
+            "Allan Border",
+            "Richie Richardson",
+            "Adelaide Oval",
+            "WI by 1 run"
+        ],
+        [
+            "30,31 January, 1 February 1993",
+            "Allan Border",
+            "Richie Richardson",
+            "WACA Ground",
+            "WI by Inns&25 runs"
+        ]
+    ]
+}

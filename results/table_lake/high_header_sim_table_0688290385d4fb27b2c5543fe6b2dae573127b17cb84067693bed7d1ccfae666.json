@@ -1,0 +1,98 @@
+{
+    "id": "0688290385d4fb27b2c5543fe6b2dae573127b17cb84067693bed7d1ccfae666",
+    "metadata": "1957 Los Angeles Rams season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 29, 1957",
+            "Philadelphia Eagles",
+            "W 17-13",
+            "62506"
+        ],
+        [
+            "2",
+            "October 6, 1957",
+            "at San Francisco 49ers",
+            "L 23-20",
+            "59637"
+        ],
+        [
+            "3",
+            "October 13, 1957",
+            "at Detroit Lions",
+            "L 10-7",
+            "55914"
+        ],
+        [
+            "4",
+            "October 20, 1957",
+            "at Chicago Bears",
+            "L 34-26",
+            "47337"
+        ],
+        [
+            "5",
+            "October 27, 1957",
+            "Detroit Lions",
+            "W 35-17",
+            "77314"
+        ],
+        [
+            "6",
+            "November 3, 1957",
+            "Chicago Bears",
+            "L 16-10",
+            "80456"
+        ],
+        [
+            "7",
+            "November 10, 1957",
+            "San Francisco 49ers",
+            "W 37-24",
+            "102368"
+        ],
+        [
+            "8",
+            "November 17, 1957",
+            "at Green Bay Packers",
+            "W 31-27",
+            "19540"
+        ],
+        [
+            "9",
+            "November 24, 1957",
+            "at Cleveland Browns",
+            "L 45-31",
+            "65407"
+        ],
+        [
+            "10",
+            "December 1, 1957",
+            "at Baltimore Colts",
+            "L 31-14",
+            "52060"
+        ],
+        [
+            "11",
+            "December 8, 1957",
+            "Green Bay Packers",
+            "W 42-17",
+            "70572"
+        ],
+        [
+            "12",
+            "December 15, 1957",
+            "Baltimore Colts",
+            "W 37-21",
+            "52560"
+        ]
+    ]
+}

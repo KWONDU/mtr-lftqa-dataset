@@ -1,0 +1,133 @@
+{
+    "id": "5ff75adf673ec1226a3d73765fecbb1e7a650acd195e6fe2f68bf179c766820a",
+    "metadata": "IAAF Road Race Label Events | Bronze Label | Bronze Label",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Road_race",
+        "Distance",
+        "Location_",
+        "Country",
+        "Month_held"
+    ],
+    "cell": [
+        [
+            "Maraton de Santiago",
+            "Marathon",
+            "Santiago",
+            "Chile",
+            "April"
+        ],
+        [
+            "Pyongyang Marathon",
+            "Marathon",
+            "Pyongyang",
+            "North Korea",
+            "April"
+        ],
+        [
+            "Brighton Marathon",
+            "Marathon",
+            "Brighton",
+            "United Kingdom",
+            "April"
+        ],
+        [
+            "Nagano Marathon",
+            "Marathon",
+            "Nagano",
+            "Japan",
+            "April"
+        ],
+        [
+            "D\u00fcsseldorf Marathon",
+            "Marathon",
+            "D\u00fcsseldorf",
+            "Germany",
+            "April"
+        ],
+        [
+            "Hannover Marathon",
+            "Marathon",
+            "Hannover",
+            "Germany",
+            "May"
+        ],
+        [
+            "Riga Marathon",
+            "Marathon",
+            "Riga",
+            "Latvia",
+            "May"
+        ],
+        [
+            "Gifu Seiryu Half Marathon",
+            "Half marathon",
+            "Gifu",
+            "Japan",
+            "May"
+        ],
+        [
+            "Edinburgh Marathon",
+            "Marathon",
+            "Edinburgh",
+            "United Kingdom",
+            "May"
+        ],
+        [
+            "Corrida de Langueux",
+            "10 km",
+            "Langueux",
+            "France",
+            "June"
+        ],
+        [
+            "Vidovdan 10K",
+            "10 km",
+            "Br\u010dko",
+            "Bosnia and Herzegovina",
+            "June"
+        ],
+        [
+            "Gold Coast Marathon",
+            "Marathon",
+            "Gold Coast",
+            "Australia",
+            "July"
+        ],
+        [
+            "Siberian International Marathon",
+            "Marathon",
+            "Omsk",
+            "Russia",
+            "September"
+        ],
+        [
+            "Paris 20K",
+            "20 km",
+            "Paris",
+            "France",
+            "October"
+        ],
+        [
+            "Beirut Marathon",
+            "20 km",
+            "Beirut",
+            "Lebanon",
+            "November"
+        ],
+        [
+            "Alpes-Maritimes Marathon",
+            "Marathon",
+            "Nice",
+            "France",
+            "November"
+        ],
+        [
+            "Valencia Marathon",
+            "Marathon",
+            "Valencia",
+            "Spain",
+            "November"
+        ]
+    ]
+}

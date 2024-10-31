@@ -1,0 +1,133 @@
+{
+    "id": "8a29275a812ffdeec7771b72f4523a4d12366d9c3f36f0ac8976315bf2a0a7b3",
+    "metadata": "1967-68 Philadelphia Flyers season | Regular season | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "February 1",
+            "California",
+            "3 - 3",
+            "Philadelphia",
+            "Favell",
+            "6386",
+            "21-19-8"
+        ],
+        [
+            "February 3",
+            "Chicago",
+            "3 - 5",
+            "Philadelphia",
+            "Parent",
+            "14646",
+            "22-19-8"
+        ],
+        [
+            "February 4",
+            "Toronto",
+            "1 - 4",
+            "Philadelphia",
+            "Favell",
+            "14646",
+            "23-19-8"
+        ],
+        [
+            "February 7",
+            "Philadelphia",
+            "1 - 4",
+            "Montreal",
+            "Parent",
+            "14026",
+            "23-20-8"
+        ],
+        [
+            "February 10",
+            "Philadelphia",
+            "2 - 1",
+            "St. Louis",
+            "Favell",
+            "13112",
+            "24-20-8"
+        ],
+        [
+            "February 11",
+            "Philadelphia",
+            "3 - 2",
+            "Minnesota",
+            "Favell",
+            "15154",
+            "25-20-8"
+        ],
+        [
+            "February 14",
+            "Philadelphia",
+            "0 - 4",
+            "California",
+            "Parent",
+            "3069",
+            "25-21-8"
+        ],
+        [
+            "February 16",
+            "Philadelphia",
+            "1 - 7",
+            "Los Angeles",
+            "Parent",
+            "9867",
+            "25-22-8"
+        ],
+        [
+            "February 18",
+            "Philadelphia",
+            "1 - 3",
+            "New York",
+            "Favell",
+            "17250",
+            "25-23-8"
+        ],
+        [
+            "February 21",
+            "Philadelphia",
+            "1 - 1",
+            "Pittsburgh",
+            "Favell",
+            "9198",
+            "25-23-9"
+        ],
+        [
+            "February 22",
+            "Minnesota",
+            "3 - 7",
+            "Philadelphia",
+            "Favell",
+            "14392",
+            "26-23-9"
+        ],
+        [
+            "February 25",
+            "Pittsburgh",
+            "2 - 1",
+            "Philadelphia",
+            "Favell",
+            "14418",
+            "26-24-9"
+        ],
+        [
+            "February 29",
+            "Los Angeles",
+            "3 - 1",
+            "Philadelphia",
+            "Favell",
+            "9115",
+            "26-25-9"
+        ]
+    ]
+}

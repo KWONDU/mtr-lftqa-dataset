@@ -1,0 +1,139 @@
+{
+    "id": "936a8dabf63edab410db4693c9810d7471c7cf6fc0fdbb27399ef009c33b55ff",
+    "metadata": "Canadian Interuniversity Sport football | Teams | Ontario University Athletics \n Yates Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Team",
+        "City",
+        "Province",
+        "First_season",
+        "Head_coach",
+        "Enrollment",
+        "Football_stadium",
+        "Capacity"
+    ],
+    "cell": [
+        [
+            "University of Windsor",
+            "Lancers",
+            "Windsor",
+            "ON",
+            "1968",
+            "Joe D`Amore",
+            "13496",
+            "South Campus Stadium",
+            "2000"
+        ],
+        [
+            "University of Western Ontario",
+            "Mustangs",
+            "London",
+            "ON",
+            "1929",
+            "Greg Marshall",
+            "30000",
+            "TD Waterhouse Stadium",
+            "10000"
+        ],
+        [
+            "University of Waterloo",
+            "Warriors",
+            "Waterloo",
+            "ON",
+            "1957",
+            "Joe Paopao",
+            "27978",
+            "Warrior Field",
+            "5200"
+        ],
+        [
+            "Wilfrid Laurier University",
+            "Golden Hawks",
+            "Waterloo",
+            "ON",
+            "1961",
+            "Michael Faulds",
+            "12394",
+            "University Stadium",
+            "6000"
+        ],
+        [
+            "University of Guelph",
+            "Gryphons",
+            "Guelph",
+            "ON",
+            "1950",
+            "Stu Lang",
+            "19408",
+            "Alumni Stadium",
+            "4100"
+        ],
+        [
+            "McMaster University",
+            "Marauders",
+            "Hamilton",
+            "ON",
+            "1901",
+            "Stefan Ptaszek",
+            "25688",
+            "Ron Joyce Stadium",
+            "6000"
+        ],
+        [
+            "University of Toronto",
+            "Varsity Blues",
+            "Toronto",
+            "ON",
+            "1877",
+            "Greg Gary",
+            "73185",
+            "Varsity Stadium",
+            "5000"
+        ],
+        [
+            "York University",
+            "Lions",
+            "Toronto",
+            "ON",
+            "1969",
+            "Warren Craney",
+            "42400",
+            "York Stadium",
+            "2500"
+        ],
+        [
+            "Queen`s University",
+            "Golden Gaels",
+            "Kingston",
+            "ON",
+            "1882",
+            "Pat Sheahan",
+            "20566",
+            "Richardson Stadium",
+            "10258"
+        ],
+        [
+            "University of Ottawa",
+            "Gee-Gees",
+            "Ottawa",
+            "ON",
+            "1894",
+            "Jamie Barresi",
+            "35548",
+            "Gee-Gees Field",
+            "4152"
+        ],
+        [
+            "Carleton University",
+            "Ravens",
+            "Ottawa",
+            "ON",
+            "1945",
+            "Steve Sumarah",
+            "25890",
+            "Keith Harris Stadium",
+            "3000"
+        ]
+    ]
+}

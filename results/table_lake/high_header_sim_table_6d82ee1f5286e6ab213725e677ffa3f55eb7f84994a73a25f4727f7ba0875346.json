@@ -1,0 +1,70 @@
+{
+    "id": "6d82ee1f5286e6ab213725e677ffa3f55eb7f84994a73a25f4727f7ba0875346",
+    "metadata": "Opinion polling for the United States Senate elections, 2008 | Idaho | Idaho",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Poll_Source",
+        "Dates_administered",
+        "Democrat_Larry_LaRocco",
+        "Republican_Jim_Risch",
+        "Lead_Margin"
+    ],
+    "cell": [
+        [
+            "Research 2000/Daily Kos",
+            "September 16-September 17, 2008",
+            "33%",
+            "56%",
+            "23"
+        ],
+        [
+            "Rasmussen Reports",
+            "September 9, 2008",
+            "30%",
+            "58%",
+            "28"
+        ],
+        [
+            "Greg Smith & Associates",
+            "August 18-August 22, 2008",
+            "30%",
+            "41%",
+            "11"
+        ],
+        [
+            "Research 2000/Daily Kos",
+            "July 28-July 30, 2008",
+            "32%",
+            "42%",
+            "10"
+        ],
+        [
+            "Lake Research *",
+            "May 20-May 25, 2008",
+            "28%",
+            "43%",
+            "15"
+        ],
+        [
+            "Robinson Research *",
+            "November 26-December 12, 2007",
+            "27%",
+            "46%",
+            "19"
+        ],
+        [
+            "Myers Research *",
+            "November 13-November 19, 2007",
+            "34%",
+            "48%",
+            "14"
+        ],
+        [
+            "Survey USA",
+            "September 6-September 8, 2007",
+            "36%",
+            "52%",
+            "16"
+        ]
+    ]
+}

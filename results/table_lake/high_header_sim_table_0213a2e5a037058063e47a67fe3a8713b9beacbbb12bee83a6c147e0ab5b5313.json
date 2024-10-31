@@ -1,0 +1,143 @@
+{
+    "id": "0213a2e5a037058063e47a67fe3a8713b9beacbbb12bee83a6c147e0ab5b5313",
+    "metadata": "List of bobsleigh, luge, and skeleton tracks | Current tracks | Current tracks",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Track",
+        "Length_m",
+        "Vertical_Drop_m",
+        "Maximum_Grade_",
+        "Bobsleigh_skeleton_curves"
+    ],
+    "cell": [
+        [
+            "Austria",
+            "Igls",
+            "1220",
+            "98.10",
+            "14",
+            "14"
+        ],
+        [
+            "Canada",
+            "Calgary",
+            "1475",
+            "121.48",
+            "15",
+            "14"
+        ],
+        [
+            "Canada",
+            "Whistler",
+            "1450",
+            "152",
+            "10.5 (average)",
+            "16"
+        ],
+        [
+            "France",
+            "La Plagne",
+            "1507.5",
+            "119",
+            "8.29 (average)",
+            "19"
+        ],
+        [
+            "Germany",
+            "Altenberg",
+            "1413",
+            "122.22",
+            "15",
+            "18"
+        ],
+        [
+            "Germany",
+            "K\u00f6nigssee",
+            "1306",
+            "117",
+            "10.35",
+            "13 (bobsleigh)/ 12 (skeleton)"
+        ],
+        [
+            "Germany",
+            "Oberhof",
+            "1069.70",
+            "96.37",
+            "9.2 (average)",
+            "15"
+        ],
+        [
+            "Germany",
+            "Winterberg",
+            "1330",
+            "110",
+            "15 (9.8% average)",
+            "14"
+        ],
+        [
+            "Italy",
+            "Cortina d`Ampezzo (bobsleigh and skeleton only)",
+            "1350",
+            "120.45",
+            "15.9",
+            "13"
+        ],
+        [
+            "Japan",
+            "Nagano",
+            "1360",
+            "113",
+            "8.64 (average)",
+            "14"
+        ],
+        [
+            "Latvia",
+            "Sigulda",
+            "1200",
+            "111.5",
+            "9.3",
+            "16"
+        ],
+        [
+            "Norway",
+            "Lillehammer",
+            "1365",
+            "114.3",
+            "15",
+            "16"
+        ],
+        [
+            "Russia",
+            "Paramonovo",
+            "1600",
+            "105.0",
+            "15",
+            "19"
+        ],
+        [
+            "Switzerland",
+            "St. Moritz",
+            "1722",
+            "130",
+            "15 (8.14 average)",
+            "16"
+        ],
+        [
+            "United States",
+            "Lake Placid",
+            "1455",
+            "107",
+            "9.8 (average)",
+            "20"
+        ],
+        [
+            "United States",
+            "Park City",
+            "1340",
+            "103.9",
+            "8.1 (average)",
+            "15"
+        ]
+    ]
+}

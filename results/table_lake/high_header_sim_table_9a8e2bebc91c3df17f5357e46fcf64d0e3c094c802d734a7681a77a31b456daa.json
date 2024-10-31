@@ -1,0 +1,70 @@
+{
+    "id": "9a8e2bebc91c3df17f5357e46fcf64d0e3c094c802d734a7681a77a31b456daa",
+    "metadata": "2000 Ansett Australia Cup | Group C | Group C",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Ground",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Adelaide",
+            "17.5 (107)",
+            "Melbourne",
+            "19.11 (125)",
+            "Football Park",
+            "12239",
+            "Sunday, 30 January"
+        ],
+        [
+            "Geelong",
+            "10.14 (74)",
+            "St Kilda",
+            "11.12 (78)",
+            "Waverley Park",
+            "7394",
+            "Sunday, 30 January"
+        ],
+        [
+            "St Kilda",
+            "9.12 (66)",
+            "Melbourne",
+            "13.14 (92)",
+            "Waverley Park",
+            "10533",
+            "Saturday, 5 February"
+        ],
+        [
+            "Adelaide",
+            "19.10 (124)",
+            "Geelong",
+            "15.12 (102)",
+            "Football Park",
+            "11326",
+            "Sunday, 6 February"
+        ],
+        [
+            "Adelaide",
+            "14.11 (95)",
+            "St Kilda",
+            "15.12 (102)",
+            "Football Park",
+            "13086",
+            "Sunday, 13 February"
+        ],
+        [
+            "Geelong",
+            "17.12 (114)",
+            "Melbourne",
+            "11.16 (82)",
+            "Waverley Park",
+            "4952",
+            "Monday, 14 February"
+        ]
+    ]
+}

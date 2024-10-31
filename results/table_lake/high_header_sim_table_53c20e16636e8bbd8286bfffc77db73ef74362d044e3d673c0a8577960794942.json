@@ -1,0 +1,97 @@
+{
+    "id": "53c20e16636e8bbd8286bfffc77db73ef74362d044e3d673c0a8577960794942",
+    "metadata": "Soo Line locomotives | Class H: 4-6-2 | Class H: 4-6-2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Wheel_arrangement",
+        "Fleet_numbers",
+        "Manufacturer",
+        "Year_made",
+        "Quantity_made",
+        "Quantity_preserved"
+    ],
+    "cell": [
+        [
+            "4-6-2 \u2014 ooOOOo \u2014 Pacific",
+            "4-6-2 \u2014 ooOOOo \u2014 Pacific",
+            "4-6-2 \u2014 ooOOOo \u2014 Pacific",
+            "4-6-2 \u2014 ooOOOo \u2014 Pacific",
+            "4-6-2 \u2014 ooOOOo \u2014 Pacific",
+            "4-6-2 \u2014 ooOOOo \u2014 Pacific",
+            "4-6-2 \u2014 ooOOOo \u2014 Pacific"
+        ],
+        [
+            "H",
+            "4-6-2",
+            "700",
+            "Baldwin",
+            "1904",
+            "1",
+            "0"
+        ],
+        [
+            "H-1",
+            "4-6-2",
+            "701-722",
+            "Alco -Schenectady",
+            "1904-1907",
+            "22",
+            "0"
+        ],
+        [
+            "H-2",
+            "4-6-2",
+            "723-726",
+            "Alco -Schenectady",
+            "1910",
+            "4",
+            "0"
+        ],
+        [
+            "H-3",
+            "4-6-2",
+            "727-737",
+            "Alco -Schenectady",
+            "1911-1913",
+            "11",
+            "3"
+        ],
+        [
+            "H-20",
+            "4-6-2",
+            "2700-2703",
+            "Alco -Schenectady",
+            "1909",
+            "4",
+            "0"
+        ],
+        [
+            "H-21",
+            "4-6-2",
+            "2704-2713",
+            "Alco -Schenectady",
+            "1911-1913",
+            "10",
+            "1"
+        ],
+        [
+            "H-22",
+            "4-6-2",
+            "2714-2717",
+            "Alco -Schenectady",
+            "1914",
+            "4",
+            "1"
+        ],
+        [
+            "H-23",
+            "4-6-2",
+            "2718-2719",
+            "Alco -Schenectady",
+            "1923",
+            "6",
+            "2"
+        ]
+    ]
+}

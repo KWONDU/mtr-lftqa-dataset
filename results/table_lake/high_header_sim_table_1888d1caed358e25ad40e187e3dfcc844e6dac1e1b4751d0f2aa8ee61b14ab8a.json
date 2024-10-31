@@ -1,0 +1,61 @@
+{
+    "id": "1888d1caed358e25ad40e187e3dfcc844e6dac1e1b4751d0f2aa8ee61b14ab8a",
+    "metadata": "Viking Cruises | Ships cruising in Asia | Ships cruising in Asia",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ship_name",
+        "Year_built",
+        "Length_",
+        "Crew",
+        "Guests",
+        "Staterooms",
+        "Comments"
+    ],
+    "cell": [
+        [
+            "Viking Emerald",
+            "2011",
+            "361 feet",
+            "138",
+            "246",
+            "132",
+            "Yangtze River, China"
+        ],
+        [
+            "Viking Mandalay",
+            "2002",
+            "180 feet",
+            "28",
+            "60",
+            "30",
+            "Irrawaddy River, Myanmar (Burma)"
+        ],
+        [
+            "Viking Mekong",
+            "2012",
+            "168 feet",
+            "25",
+            "60",
+            "30",
+            "Mekong River, Vietnam & Cambodia"
+        ],
+        [
+            "Viking Sagaing",
+            "2011",
+            "168 feet",
+            "25",
+            "60",
+            "30",
+            "Irrawaddy River, Myanmar (Burma)"
+        ],
+        [
+            "RV Indochina",
+            "2008",
+            "180 feet",
+            "28",
+            "60",
+            "30",
+            "Mekong River, Vietnam & Cambodia"
+        ]
+    ]
+}

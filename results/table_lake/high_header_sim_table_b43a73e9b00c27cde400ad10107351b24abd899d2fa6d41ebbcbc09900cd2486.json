@@ -1,0 +1,728 @@
+{
+    "id": "b43a73e9b00c27cde400ad10107351b24abd899d2fa6d41ebbcbc09900cd2486",
+    "metadata": "General councils (France) | List of the Presidents of the General councils | List of the Presidents of the General councils",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Number_",
+        "D\u00e9partment_or_collectivity",
+        "Pr\u00e9sident",
+        "Party",
+        "Since"
+    ],
+    "cell": [
+        [
+            "01",
+            "Ain",
+            "Rachel Mazuir",
+            "Socialist Party",
+            "2008"
+        ],
+        [
+            "02",
+            "Aisne",
+            "Yves Daudigny",
+            "Socialist Party",
+            "2001"
+        ],
+        [
+            "03",
+            "Allier",
+            "Jean-Paul Dufregne",
+            "French Communist Party",
+            "2008"
+        ],
+        [
+            "04",
+            "Alpes-de-Haute-Provence",
+            "Jean-Louis Bianco",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "05",
+            "Hautes-Alpes",
+            "Jean-Yves Dusserre",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "06",
+            "Alpes-Maritimes",
+            "\u00c9ric Ciotti",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "07",
+            "Ard\u00e8che",
+            "Pascal Terrasse",
+            "Socialist Party",
+            "2006"
+        ],
+        [
+            "08",
+            "Ardennes",
+            "Beno\u00eet Hur\u00e9",
+            "Union for a Popular Movement",
+            "2004"
+        ],
+        [
+            "09",
+            "Ari\u00e8ge",
+            "Augustin Bonrepaux",
+            "Socialist Party",
+            "2001"
+        ],
+        [
+            "10",
+            "Aube",
+            "Philippe Adnot",
+            "Liberal and Moderate Movement",
+            "1990"
+        ],
+        [
+            "11",
+            "Aude",
+            "Marcel Rainaud",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "12",
+            "Aveyron",
+            "Jean-Claude Luche",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "13",
+            "Bouches-du-Rh\u00f4ne",
+            "Jean-No\u00ebl Gu\u00e9rini",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "14",
+            "Calvados",
+            "Anne d`Ornano",
+            "Miscellaneous Right",
+            "1991"
+        ],
+        [
+            "15",
+            "Cantal",
+            "Vincent Desc\u0153ur",
+            "Union for a Popular Movement",
+            "2001"
+        ],
+        [
+            "16",
+            "Charente",
+            "Michel Boutant",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "17",
+            "Charente-Maritime",
+            "Dominique Bussereau",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "18",
+            "Cher",
+            "Alain Rafesthain",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "19",
+            "Corr\u00e8ze",
+            "Fran\u00e7ois Hollande",
+            "Socialist Party",
+            "2008"
+        ],
+        [
+            "2A",
+            "Corse-du-Sud",
+            "Jean-Jacques Panunzi",
+            "Union for a Popular Movement",
+            "2006"
+        ],
+        [
+            "2B",
+            "Haute-Corse",
+            "Joseph Castelli",
+            "Left Radical Party",
+            "2010"
+        ],
+        [
+            "21",
+            "C\u00f4te-d`Or",
+            "Fran\u00e7ois Sauvadet",
+            "New Centre",
+            "2008"
+        ],
+        [
+            "22",
+            "C\u00f4tes-d`Armor",
+            "Claudy Lebreton",
+            "Socialist Party",
+            "1997"
+        ],
+        [
+            "23",
+            "Creuse",
+            "Jean-Jacques Lozach",
+            "Socialist Party",
+            "2001"
+        ],
+        [
+            "24",
+            "Dordogne",
+            "Bernard Cazeau",
+            "Socialist Party",
+            "1994"
+        ],
+        [
+            "25",
+            "Doubs",
+            "Claude Jeannerot",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "26",
+            "Dr\u00f4me",
+            "Didier Guillaume",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "27",
+            "Eure",
+            "Jean-Louis Destans",
+            "Socialist Party",
+            "2001"
+        ],
+        [
+            "28",
+            "Eure-et-Loir",
+            "Alb\u00e9ric de Montgolfier",
+            "Union for a Popular Movement",
+            "2001"
+        ],
+        [
+            "29",
+            "Finist\u00e8re",
+            "Pierre Maille",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "30",
+            "Gard",
+            "Damien Alary",
+            "Socialist Party",
+            "2001"
+        ],
+        [
+            "31",
+            "Haute-Garonne",
+            "Pierre Izard",
+            "Socialist Party",
+            "1988"
+        ],
+        [
+            "32",
+            "Gers",
+            "Philippe Martin",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "33",
+            "Gironde",
+            "Philippe Madrelle",
+            "Socialist Party",
+            "1988"
+        ],
+        [
+            "34",
+            "H\u00e9rault",
+            "Andr\u00e9 Vezinhet",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "35",
+            "Ille-et-Vilaine",
+            "Jean-Louis Tourenne",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "36",
+            "Indre",
+            "Louis Pinton",
+            "Union for a Popular Movement",
+            "1998"
+        ],
+        [
+            "37",
+            "Indre-et-Loire",
+            "Claude Roiron",
+            "Socialist Party",
+            "2008"
+        ],
+        [
+            "38",
+            "Is\u00e8re",
+            "Andr\u00e9 Vallini",
+            "Socialist Party",
+            "2001"
+        ],
+        [
+            "39",
+            "Jura",
+            "Jean Raquin",
+            "Miscellaneous Right",
+            "2008"
+        ],
+        [
+            "40",
+            "Landes",
+            "Henri Emmanuelli",
+            "Socialist Party",
+            "1982"
+        ],
+        [
+            "41",
+            "Loir-et-Cher",
+            "Maurice Leroy",
+            "New Centre",
+            "2004"
+        ],
+        [
+            "42",
+            "Loire",
+            "Bernard Bonne",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "43",
+            "Haute-Loire",
+            "G\u00e9rard Roche",
+            "Union for a Popular Movement",
+            "2004"
+        ],
+        [
+            "44",
+            "Loire-Atlantique",
+            "Patrick Mareschal",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "45",
+            "Loiret",
+            "\u00c9ric Dolig\u00e9",
+            "Union for a Popular Movement",
+            "1994"
+        ],
+        [
+            "46",
+            "Lot",
+            "G\u00e9rard Miquel",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "47",
+            "Lot-et-Garonne",
+            "Pierre Camani",
+            "Socialist Party",
+            "2008"
+        ],
+        [
+            "48",
+            "Loz\u00e8re",
+            "Jean-Paul Pourquier",
+            "Union for a Popular Movement",
+            "2004"
+        ],
+        [
+            "49",
+            "Maine-et-Loire",
+            "Christophe B\u00e9chu",
+            "Union for a Popular Movement",
+            "2004"
+        ],
+        [
+            "50",
+            "Manche",
+            "Jean-Fran\u00e7ois Le Grand",
+            "Union for a Popular Movement",
+            "1998"
+        ],
+        [
+            "51",
+            "Marne",
+            "Ren\u00e9-Paul Savary",
+            "Union for a Popular Movement",
+            "2003"
+        ],
+        [
+            "52",
+            "Haute-Marne",
+            "Bruno Sido",
+            "Union for a Popular Movement",
+            "1998"
+        ],
+        [
+            "53",
+            "Mayenne",
+            "Jean Arthuis",
+            "Miscellaneous Centre",
+            "1992"
+        ],
+        [
+            "54",
+            "Meurthe-et-Moselle",
+            "Michel Dinet",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "55",
+            "Meuse",
+            "Christian Namy",
+            "Miscellaneous Right",
+            "2004"
+        ],
+        [
+            "56",
+            "Morbihan",
+            "Joseph-Fran\u00e7ois Kergu\u00e9ris",
+            "Democratic Movement",
+            "2004"
+        ],
+        [
+            "57",
+            "Moselle",
+            "Philippe Leroy",
+            "Union for a Popular Movement",
+            "1992"
+        ],
+        [
+            "58",
+            "Ni\u00e8vre",
+            "Marcel Charmant",
+            "Socialist Party",
+            "2001"
+        ],
+        [
+            "59",
+            "Nord",
+            "Patrick Kanner",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "60",
+            "Oise",
+            "Yves Rome",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "61",
+            "Orne",
+            "Alain Lambert",
+            "Union for a Popular Movement",
+            "2007"
+        ],
+        [
+            "62",
+            "Pas-de-Calais",
+            "Dominique Dupilet",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "63",
+            "Puy-de-D\u00f4me",
+            "Jean-Yves Gouttebel",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "64",
+            "Pyr\u00e9n\u00e9es-Atlantiques",
+            "Jean Castaings",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "65",
+            "Hautes-Pyr\u00e9n\u00e9es",
+            "Josette Durrieu",
+            "Socialist Party",
+            "2008"
+        ],
+        [
+            "66",
+            "Pyr\u00e9n\u00e9es-Orientales",
+            "Christian Bourquin",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "67",
+            "Bas-Rhin",
+            "Guy-Dominique Kennel",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "68",
+            "Haut-Rhin",
+            "Charles Buttner",
+            "Union for a Popular Movement",
+            "2004"
+        ],
+        [
+            "69",
+            "Rh\u00f4ne",
+            "Michel Mercier",
+            "Miscellaneous Centre",
+            "1990"
+        ],
+        [
+            "70",
+            "Haute-Sa\u00f4ne",
+            "Yves Krattinger",
+            "Socialist Party",
+            "2002"
+        ],
+        [
+            "71",
+            "Sa\u00f4ne-et-Loire",
+            "Arnaud Montebourg",
+            "Socialist Party",
+            "2008"
+        ],
+        [
+            "72",
+            "Sarthe",
+            "Roland du Luart",
+            "Union for a Popular Movement",
+            "1998"
+        ],
+        [
+            "73",
+            "Savoie",
+            "Herv\u00e9 Gaymard",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "74",
+            "Haute-Savoie",
+            "Christian Monteil",
+            "Miscellaneous Right",
+            "2008"
+        ],
+        [
+            "75",
+            "Paris",
+            "Bertrand Delano\u00eb",
+            "Socialist Party",
+            "2001"
+        ],
+        [
+            "76",
+            "Seine-Maritime",
+            "Didier Marie",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "77",
+            "Seine-et-Marne",
+            "Vincent Ebl\u00e9",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "78",
+            "Yvelines",
+            "Pierre B\u00e9dier",
+            "Union for a Popular Movement",
+            "2005"
+        ],
+        [
+            "79",
+            "Deux-S\u00e8vres",
+            "\u00c9ric Gautier",
+            "Socialist Party",
+            "2008"
+        ],
+        [
+            "80",
+            "Somme",
+            "Christian Manable",
+            "Socialist Party",
+            "2008"
+        ],
+        [
+            "81",
+            "Tarn",
+            "Thierry Carcenac",
+            "Socialist Party",
+            "1991"
+        ],
+        [
+            "82",
+            "Tarn-et-Garonne",
+            "Jean-Michel Baylet",
+            "Left Radical Party",
+            "1986"
+        ],
+        [
+            "83",
+            "Var",
+            "Horace Lanfranchi",
+            "Union for a Popular Movement",
+            "2002"
+        ],
+        [
+            "84",
+            "Vaucluse",
+            "Claude Haut",
+            "Socialist Party",
+            "2001"
+        ],
+        [
+            "85",
+            "Vend\u00e9e",
+            "Philippe de Villiers",
+            "Movement for France",
+            "1988"
+        ],
+        [
+            "86",
+            "Vienne",
+            "Claude Bertaud",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "87",
+            "Haute-Vienne",
+            "Marie-Fran\u00e7oise P\u00e9rol-Dumont",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "88",
+            "Vosges",
+            "Christian Poncelet",
+            "Union for a Popular Movement",
+            "1976"
+        ],
+        [
+            "89",
+            "Yonne",
+            "Jean-Marie Rolland",
+            "Union for a Popular Movement",
+            "2008"
+        ],
+        [
+            "90",
+            "Territoire de Belfort",
+            "Yves Ackermann",
+            "Socialist Party",
+            "2004"
+        ],
+        [
+            "91",
+            "Essonne",
+            "Michel Berson",
+            "Socialist Party",
+            "1998"
+        ],
+        [
+            "92",
+            "Hauts-de-Seine",
+            "Patrick Devedjian",
+            "Union for a Popular Movement",
+            "2007"
+        ],
+        [
+            "93",
+            "Seine-Saint-Denis",
+            "Claude Bartolone",
+            "Socialist Party",
+            "2008"
+        ],
+        [
+            "94",
+            "Val-de-Marne",
+            "Christian Favier",
+            "French Communist Party",
+            "2001"
+        ],
+        [
+            "95",
+            "Val-d\u2019Oise",
+            "Arnaud Bazin",
+            "Union for a Popular Movement",
+            "2011"
+        ],
+        [
+            "971",
+            "Guadeloupe",
+            "Jacques Gillot",
+            "United Guadeloupe, Socialism and Realities",
+            "2001"
+        ],
+        [
+            "972",
+            "Martinique",
+            "Claude Lise",
+            "Martinican Democratic Rally",
+            "1992"
+        ],
+        [
+            "973",
+            "Guyane",
+            "Alain Tien-Liong",
+            "Miscellaneous Left",
+            "2008"
+        ],
+        [
+            "974",
+            "R\u00e9union",
+            "Nassimah Dindar",
+            "Union for a Popular Movement",
+            "2004"
+        ],
+        [
+            "975",
+            "Saint-Pierre-et-Miquelon (overseas collect.)",
+            "St\u00e9phane Artano",
+            "Archipelago Tomorrow",
+            "2006"
+        ],
+        [
+            "976",
+            "Mayotte (overseas collect.)",
+            "Ahmed Attoumani Douchina",
+            "Union for a Popular Movement",
+            "2008"
+        ]
+    ]
+}

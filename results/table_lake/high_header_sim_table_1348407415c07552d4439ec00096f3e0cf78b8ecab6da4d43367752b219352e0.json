@@ -1,0 +1,70 @@
+{
+    "id": "1348407415c07552d4439ec00096f3e0cf78b8ecab6da4d43367752b219352e0",
+    "metadata": "1962 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "16.8 (104)",
+            "North Melbourne",
+            "13.5 (83)",
+            "MCG",
+            "20618",
+            "19 May 1962"
+        ],
+        [
+            "Hawthorn",
+            "11.8 (74)",
+            "Richmond",
+            "9.16 (70)",
+            "Glenferrie Oval",
+            "18000",
+            "19 May 1962"
+        ],
+        [
+            "Footscray",
+            "13.12 (90)",
+            "St Kilda",
+            "9.19 (73)",
+            "Western Oval",
+            "30661",
+            "19 May 1962"
+        ],
+        [
+            "Carlton",
+            "11.7 (73)",
+            "Essendon",
+            "17.16 (118)",
+            "Princes Park",
+            "36457",
+            "19 May 1962"
+        ],
+        [
+            "South Melbourne",
+            "10.13 (73)",
+            "Fitzroy",
+            "13.16 (94)",
+            "Lake Oval",
+            "17760",
+            "19 May 1962"
+        ],
+        [
+            "Geelong",
+            "11.9 (75)",
+            "Collingwood",
+            "13.9 (87)",
+            "Kardinia Park",
+            "27788",
+            "19 May 1962"
+        ]
+    ]
+}

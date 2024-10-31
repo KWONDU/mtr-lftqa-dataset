@@ -1,0 +1,97 @@
+{
+    "id": "02bfd1dd97637c01ff02d4a35b3a0c66d9da81ea4558853cd2721feecfec1b4e",
+    "metadata": "SEAT Toledo | Third generation (Typ 5P; 2004) | Petrol engines",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "engine_name",
+        "engine_codes",
+        "engine_configuration",
+        "displacement",
+        "max_power_at_rpm",
+        "max_torque_at_rpm",
+        "production_period"
+    ],
+    "cell": [
+        [
+            "1.6SPI",
+            "1F",
+            "inline-4 SOHC 8v",
+            "1595 cc",
+            "kW ( PS ; bhp ) @ 5,200",
+            "N\u00b7m ( lbf\u00b7ft ) @ 2,750",
+            "1991-1995"
+        ],
+        [
+            "1.6SPI",
+            "1F",
+            "inline-4 SOHC 8v",
+            "1595cc",
+            "kW (PS; bhp) @ 5,500",
+            "N\u00b7m (lbf\u00b7ft) @ 2,600",
+            "1995-1999"
+        ],
+        [
+            "1.6MPI",
+            "AFT",
+            "inline-4 SOHC 8v",
+            "1595cc",
+            "kW (PS; bhp) @ 5,800",
+            "N\u00b7m (lbf\u00b7ft) @ 3,500",
+            "1996-1999"
+        ],
+        [
+            "1.8SPI",
+            "RP",
+            "inline-4 SOHC 8v",
+            "1781cc",
+            "kW (PS; bhp) @ 5,250",
+            "N\u00b7m (lbf\u00b7ft) @ 3,000",
+            "1991-1994"
+        ],
+        [
+            "1.8SPI",
+            "ABS; ADZ",
+            "inline-4 SOHC 8v",
+            "1781cc",
+            "kW (PS; bhp) @ 5,500",
+            "N\u00b7m (lbf\u00b7ft) @ 2,500",
+            "1994-1998"
+        ],
+        [
+            "1.8MPI",
+            "PL; KR",
+            "inline-4 DOHC 16v",
+            "1781cc",
+            "kW (PS; bhp) @ 6,000",
+            "N\u00b7m (lbf\u00b7ft) @ 4,500",
+            "1991-1995"
+        ],
+        [
+            "2.0MPI",
+            "2E",
+            "inline-4 SOHC 8v",
+            "1984cc",
+            "kW (PS; bhp) @ 5,400",
+            "N\u00b7m (lbf\u00b7ft) @ 3,200",
+            "1991-1996"
+        ],
+        [
+            "2.0MPI",
+            "AGG",
+            "inline-4 SOHC 8v",
+            "1984cc",
+            "kW (PS; bhp) @ 5,400",
+            "N\u00b7m (lbf\u00b7ft) @ 2,600",
+            "1996-1998"
+        ],
+        [
+            "2.0MPI",
+            "ABF",
+            "inline-4 DOHC 16v",
+            "1984cc",
+            "kW (PS; bhp) @ 6,000",
+            "N\u00b7m (lbf\u00b7ft) @ 4,800",
+            "1995-1998"
+        ]
+    ]
+}

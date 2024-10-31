@@ -1,0 +1,71 @@
+{
+    "id": "36154a8a532f05de45b895981d22fbfda0fb958b4f2bfb199583b92c78f2b167",
+    "metadata": "2006 PGA Championship | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Tiger Woods",
+            "United States",
+            "1999 , 2000",
+            "270",
+            "-18",
+            "1"
+        ],
+        [
+            "Shaun Micheel",
+            "United States",
+            "2003",
+            "275",
+            "-13",
+            "2"
+        ],
+        [
+            "Phil Mickelson",
+            "United States",
+            "2005",
+            "282",
+            "-6",
+            "T16"
+        ],
+        [
+            "David Toms",
+            "United States",
+            "2001",
+            "282",
+            "-6",
+            "T16"
+        ],
+        [
+            "Davis Love III",
+            "United States",
+            "1997",
+            "286",
+            "-2",
+            "T34"
+        ],
+        [
+            "Rich Beem",
+            "United States",
+            "2002",
+            "291",
+            "+3",
+            "T49"
+        ],
+        [
+            "Bob Tway",
+            "United States",
+            "1986",
+            "296",
+            "+8",
+            "T65"
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "228285888b626842db78e29b355b20b60123631c98883dc895ffeb49a045c669",
+    "metadata": "New York state election, 1898 | Result | 1898 state election results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Office",
+        "Republican_ticket",
+        "Democratic_ticket",
+        "Socialist_Labor_ticket",
+        "Prohibition_ticket",
+        "Independent_Citizens_ticket"
+    ],
+    "cell": [
+        [
+            "Governor",
+            "Theodore Roosevelt",
+            "Augustus Van Wyck",
+            "Benjamin Hanford",
+            "John Kline",
+            "Theodore Bacon"
+        ],
+        [
+            "Lieutenant Governor",
+            "Timothy L. Woodruff",
+            "Elliott Danforth",
+            "Leander A. Armstrong",
+            "John A. Sayles",
+            "Thomas M. Osborne"
+        ],
+        [
+            "Secretary of State",
+            "John T. McDonough",
+            "George W. Batten",
+            "Philip Jackson",
+            "Henry Wilbur",
+            "Oren E. Wilson"
+        ],
+        [
+            "Comptroller",
+            "William J. Morgan",
+            "Edward S. Atwater",
+            "Max Forker",
+            "Charles Mills",
+            "Thomas E. Kinney"
+        ],
+        [
+            "Attorney General",
+            "John C. Davies",
+            "Thomas F. Conway",
+            "Charles H. Corregan",
+            "Stephen Mead Wing",
+            "Frederick W. Hinrichs"
+        ],
+        [
+            "Treasurer",
+            "John P. Jaeckel",
+            "Elliott B. Norris",
+            "Joseph Smith",
+            "De Witt Hooker",
+            "Edmund H. Titchener"
+        ],
+        [
+            "State Engineer",
+            "Edward A. Bond",
+            "Martin Schenck",
+            "John H. Morris",
+            "Albert W. Pierson",
+            "George E. Waring, Jr."
+        ]
+    ]
+}

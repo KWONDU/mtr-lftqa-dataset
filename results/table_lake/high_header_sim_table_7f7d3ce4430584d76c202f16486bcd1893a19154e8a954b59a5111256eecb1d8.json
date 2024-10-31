@@ -1,0 +1,61 @@
+{
+    "id": "7f7d3ce4430584d76c202f16486bcd1893a19154e8a954b59a5111256eecb1d8",
+    "metadata": "1942 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "19.17 (131)",
+            "St Kilda",
+            "7.18 (60)",
+            "Yarraville Oval",
+            "6000",
+            "11 July 1942"
+        ],
+        [
+            "Carlton",
+            "13.17 (95)",
+            "Melbourne",
+            "10.7 (67)",
+            "Princes Park",
+            "5500",
+            "11 July 1942"
+        ],
+        [
+            "Fitzroy",
+            "12.10 (82)",
+            "Essendon",
+            "15.17 (107)",
+            "Brunswick Street Oval",
+            "15000",
+            "11 July 1942"
+        ],
+        [
+            "North Melbourne",
+            "17.8 (110)",
+            "Collingwood",
+            "11.16 (82)",
+            "Arden Street Oval",
+            "3500",
+            "11 July 1942"
+        ],
+        [
+            "South Melbourne",
+            "12.19 (91)",
+            "Hawthorn",
+            "13.10 (88)",
+            "Punt Road Oval",
+            "6000",
+            "11 July 1942"
+        ]
+    ]
+}

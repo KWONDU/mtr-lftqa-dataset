@@ -1,0 +1,95 @@
+{
+    "id": "07598d3290466dd8eb363c27f385ba4f8c0456505ce5ab59df724eee483bab3e",
+    "metadata": "1997 Super Tourenwagen Cup season | Race calendar and winners | Race calendar and winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Race",
+        "Circuit",
+        "Date_",
+        "Event",
+        "Winning_driver"
+    ],
+    "cell": [
+        [
+            "1",
+            "Int. ADAC-Preis Hockenheim",
+            "Hockenheimring",
+            "27 April",
+            "Sprint Race",
+            "Laurent Aiello Laurent Aiello"
+        ],
+        [
+            "2",
+            "Bergischer L\u00f6we Zolder",
+            "Zolder",
+            "11 May",
+            "Sprint Race",
+            "Joachim Winkelhock Joachim Winkelhock"
+        ],
+        [
+            "3",
+            "75. Eifelrennen",
+            "N\u00fcrburgring",
+            "25 May",
+            "Sprint Race",
+            "Laurent Aiello Laurent Aiello"
+        ],
+        [
+            "4",
+            "70. Geburstags des Sachsenringen",
+            "Sachsenring",
+            "15 June",
+            "Sprint Race",
+            "Johnny Cecotto Johnny Cecotto"
+        ],
+        [
+            "5",
+            "55. Int. ADAC Norisring Rennen",
+            "Norisring",
+            "29 June",
+            "Sprint Race",
+            "Joachim Winkelhock Joachim Winkelhock"
+        ],
+        [
+            "6",
+            "ADAC Wunstorf",
+            "Wunstorf",
+            "13 July",
+            "Sprint Race",
+            "Laurent Aiello Laurent Aiello"
+        ],
+        [
+            "7",
+            "Int. ADAC Preis von Zweibr\u00fccken",
+            "Zweibr\u00fccken",
+            "10 August",
+            "Sprint Race",
+            "Laurent Aiello Emanuele Pirro"
+        ],
+        [
+            "8",
+            "Int. ADAC Alpentroph\u00e4e",
+            "Salzburgring",
+            "24 August",
+            "Sprint Race",
+            "Laurent Aiello Laurent Aiello"
+        ],
+        [
+            "9",
+            "Int. ADAC-Preis Regio Ring Lahr",
+            "Regio-Ring",
+            "7 September",
+            "Sprint Race",
+            "Johnny Cecotto Joachim Winkelhock"
+        ],
+        [
+            "10",
+            "24. ADAC Bilstein Supersprint",
+            "N\u00fcrburgring",
+            "5 October",
+            "Sprint Race",
+            "Laurent Aiello Laurent Aiello"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "4d1d347cdd950b97383210a47ac4dfc2373b80745a7bc164e9bef4d6d124b573",
+    "metadata": "Ian Woosnam | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "1",
+            "1",
+            "1",
+            "7",
+            "25",
+            "13"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "1",
+            "2",
+            "4",
+            "10",
+            "7"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "4",
+            "5",
+            "10",
+            "23",
+            "17"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "2",
+            "3",
+            "18",
+            "9"
+        ],
+        [
+            "Totals",
+            "1",
+            "6",
+            "10",
+            "24",
+            "76",
+            "46"
+        ]
+    ]
+}

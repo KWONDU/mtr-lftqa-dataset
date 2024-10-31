@@ -1,0 +1,143 @@
+{
+    "id": "3127c22d2bafbe7d2270fe5808d9ce8462b43730be2ccaf30c62f1a7ed55d48a",
+    "metadata": "1979 New York Jets season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Game_site",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "1979-09-02",
+            "Cleveland Browns",
+            "L 25-22 ( OT )",
+            "Shea Stadium",
+            "48472"
+        ],
+        [
+            "2",
+            "1979-09-09",
+            "at New England Patriots",
+            "L 56-3",
+            "Schafer Stadium",
+            "53113"
+        ],
+        [
+            "3",
+            "1979-09-16",
+            "Detroit Lions",
+            "W 31-10",
+            "Shea Stadium",
+            "49612"
+        ],
+        [
+            "4",
+            "1979-09-23",
+            "at Buffalo Bills",
+            "L 46-31",
+            "Rich Stadium",
+            "68731"
+        ],
+        [
+            "5",
+            "1979-09-30",
+            "Miami Dolphins",
+            "W 33-27",
+            "Shea Stadium",
+            "51496"
+        ],
+        [
+            "6",
+            "1979-10-07",
+            "at Baltimore Colts",
+            "L 10-8",
+            "Memorial Stadium",
+            "32142"
+        ],
+        [
+            "7",
+            "1979-10-15",
+            "Minnesota Vikings",
+            "W 14-7",
+            "Shea Stadium",
+            "54479"
+        ],
+        [
+            "8",
+            "1979-10-21",
+            "Oakland Raiders",
+            "W 28-19",
+            "Shea Stadium",
+            "55802"
+        ],
+        [
+            "9",
+            "1979-10-28",
+            "at Houston Oilers",
+            "L 27-24 (OT)",
+            "The Astrodome",
+            "45825"
+        ],
+        [
+            "10",
+            "1979-11-04",
+            "at Green Bay Packers",
+            "W 27-22",
+            "Lambeau Field",
+            "54201"
+        ],
+        [
+            "11",
+            "1979-11-11",
+            "Buffalo Bills",
+            "L 14-12",
+            "Shea Stadium",
+            "50647"
+        ],
+        [
+            "12",
+            "1979-11-18",
+            "at Chicago Bears",
+            "L 23-13",
+            "Soldier Field",
+            "52635"
+        ],
+        [
+            "13",
+            "1979-11-26",
+            "at Seattle Seahawks",
+            "L 30-7",
+            "Kingdome",
+            "59977"
+        ],
+        [
+            "14",
+            "1979-12-02",
+            "Baltimore Colts",
+            "W 30-17",
+            "Shea Stadium",
+            "47744"
+        ],
+        [
+            "15",
+            "1979-12-09",
+            "New England Patriots",
+            "W 27-26",
+            "Shea Stadium",
+            "45131"
+        ],
+        [
+            "16",
+            "1979-12-15",
+            "at Miami Dolphins",
+            "W 27-24",
+            "Miami Orange Bowl",
+            "49915"
+        ]
+    ]
+}

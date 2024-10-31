@@ -1,0 +1,103 @@
+{
+    "id": "b120f9a44c7dd3d69797bd8f5a6b071a0ba81b9e69f9d1b4c8558379741ab64d",
+    "metadata": "Jimmy Eriksson | Career summary | Career summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Series",
+        "Team",
+        "Races",
+        "Wins",
+        "Poles",
+        "F_Laps",
+        "Podiums",
+        "Points",
+        "Position_"
+    ],
+    "cell": [
+        [
+            "2009",
+            "Formula Renault 2.0 NEC",
+            "Motopark Academy",
+            "16",
+            "1",
+            "1",
+            "1",
+            "1",
+            "113",
+            "15th"
+        ],
+        [
+            "2009",
+            "Formula Renault 2.0 NEZ",
+            "Motopark Academy",
+            "4",
+            "0",
+            "0",
+            "0",
+            "1",
+            "47",
+            "10th"
+        ],
+        [
+            "2009",
+            "Formula Renault 2.0 Sweden",
+            "Motopark Academy",
+            "4",
+            "0",
+            "0",
+            "0",
+            "1",
+            "16",
+            "9th"
+        ],
+        [
+            "2009",
+            "Eurocup Formula Renault 2.0",
+            "Motopark Academy",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "N/A",
+            "NC\u2020"
+        ],
+        [
+            "2010",
+            "German Formula Three",
+            "Motopark Academy",
+            "17",
+            "1",
+            "0",
+            "0",
+            "3",
+            "43",
+            "6th"
+        ],
+        [
+            "2010",
+            "Formula 3 Euro Series",
+            "Motopark Academy",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "N/A",
+            "NC\u2020"
+        ],
+        [
+            "2011",
+            "Formula 3 Euro Series",
+            "Motopark Academy",
+            "27",
+            "0",
+            "0",
+            "0",
+            "0",
+            "93",
+            "9th"
+        ]
+    ]
+}

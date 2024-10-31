@@ -1,0 +1,49 @@
+{
+    "id": "c31ad2df72c03875918299660235f3274f7701c2dd45f281079e5ed6d4898d7c",
+    "metadata": "New South Wales State Basketball League | 2009 Finals Weekend | 2009 Finals Weekend",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Division",
+        "Champion_Score",
+        "Runner_Up_Score",
+        "Final_MVP_Team",
+        "Defensive_Player_of_the_Final_Team"
+    ],
+    "cell": [
+        [
+            "Division 1 Men",
+            "Penrith Panthers 60 (27)",
+            "Macarthur Heat 55 (18)",
+            "Tom Dawson Penrith Panthers",
+            "Tom Dawson Penrith Panthers"
+        ],
+        [
+            "Division 1 Women",
+            "Central Coast Crusaders 63 (33)",
+            "Coffs Harbour Suns 54 (28)",
+            "Hayley Hughes Central Coast Crusaders",
+            "Tristian Black Central Coast Crusaders"
+        ],
+        [
+            "Division 2 Men",
+            "Illawarra Hawks 111 (67)",
+            "Wagga Wagga Heat 61 (19)",
+            "Brett Bonham Illawarra Hawks",
+            "Chris Jackson Illawarra Hawks"
+        ],
+        [
+            "Youth Men Division 1",
+            "Central Coast Crusaders 63 (24)",
+            "Macarthur Heat 48 (21)",
+            "Jason Taylor Central Coast Crusaders",
+            "Dane Hillman Central Coast Crusaders"
+        ],
+        [
+            "Youth Women",
+            "Manly-Warringah Sea Eagles 54 (26)",
+            "Bathurst Goldminers 51 (25)",
+            "Bianca Penning Manly-Warringah Sea Eagles",
+            "Elise Pitcher Manly-Warringah Sea Eagles"
+        ]
+    ]
+}

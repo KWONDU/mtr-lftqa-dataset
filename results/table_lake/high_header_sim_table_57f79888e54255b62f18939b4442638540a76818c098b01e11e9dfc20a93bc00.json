@@ -1,0 +1,63 @@
+{
+    "id": "57f79888e54255b62f18939b4442638540a76818c098b01e11e9dfc20a93bc00",
+    "metadata": "United States House of Representatives elections, 1918 | Alabama | Alabama",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Alabama 1",
+            "Oscar Lee Gray",
+            "Democratic",
+            "1914",
+            "Retired Democratic hold",
+            "John McDuffie (D) Unopposed"
+        ],
+        [
+            "Alabama 2",
+            "S. Hubert Dent, Jr.",
+            "Democratic",
+            "1908",
+            "Re-elected",
+            "S. Hubert Dent, Jr. (D) Unopposed"
+        ],
+        [
+            "Alabama 3",
+            "Henry B. Steagall",
+            "Democratic",
+            "1914",
+            "Re-elected",
+            "Henry B. Steagall (D) Unopposed"
+        ],
+        [
+            "Alabama 5",
+            "J. Thomas Heflin",
+            "Democratic",
+            "1904",
+            "Re-elected",
+            "J. Thomas Heflin (D) Unopposed"
+        ],
+        [
+            "Alabama 6",
+            "William B. Oliver",
+            "Democratic",
+            "1914",
+            "Re-elected",
+            "William B. Oliver (D) Unopposed"
+        ],
+        [
+            "Alabama 8",
+            "Edward B. Almon",
+            "Democratic",
+            "1914",
+            "Re-elected",
+            "Edward B. Almon (D) Unopposed"
+        ]
+    ]
+}

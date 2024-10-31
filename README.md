@@ -16,7 +16,6 @@
     */buffer/*.json # construct source dataset
     buffer/*_header_sim/*.json # annotate dataset
     buffer/*_header_sim/*.txt # annotate dataset
-    results/*_table_lake.json # annotate dataset
     results/*_error_cases.json # annotate dataset
 
 ### utils/.gitignore

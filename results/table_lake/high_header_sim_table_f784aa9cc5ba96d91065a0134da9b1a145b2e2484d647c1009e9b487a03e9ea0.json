@@ -1,0 +1,70 @@
+{
+    "id": "f784aa9cc5ba96d91065a0134da9b1a145b2e2484d647c1009e9b487a03e9ea0",
+    "metadata": "2000 Ansett Australia Cup | Group A | Group A",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Ground",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Brisbane Lions",
+            "13.6 (84)",
+            "Sydney",
+            "17.10 (112)",
+            "Bundaberg Rum Stadium",
+            "8818",
+            "Friday, 28 January"
+        ],
+        [
+            "Kangaroos",
+            "10.16 (76)",
+            "Richmond",
+            "9.11 (65)",
+            "Waverley Park",
+            "16512",
+            "Friday, 28 January"
+        ],
+        [
+            "Richmond",
+            "11.16 (82)",
+            "Brisbane Lions",
+            "15.9 (99)",
+            "North Hobart Oval",
+            "4908",
+            "Saturday, 5 February"
+        ],
+        [
+            "Sydney",
+            "13.11 (89)",
+            "Kangaroos",
+            "17.10 (112)",
+            "Manuka Oval",
+            "9854",
+            "Saturday, 5 February"
+        ],
+        [
+            "Kangaroos",
+            "11.8 (74)",
+            "Brisbane Lions",
+            "10.8 (64)",
+            "Waverley Park",
+            "6518",
+            "Friday, 11 February"
+        ],
+        [
+            "Sydney",
+            "12.14 (86)",
+            "Richmond",
+            "12.11 (83)",
+            "Manuka Oval",
+            "8714",
+            "Saturday, 12 February"
+        ]
+    ]
+}

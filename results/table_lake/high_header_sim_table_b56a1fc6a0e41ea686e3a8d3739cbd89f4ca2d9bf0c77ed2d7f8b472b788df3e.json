@@ -1,0 +1,63 @@
+{
+    "id": "b56a1fc6a0e41ea686e3a8d3739cbd89f4ca2d9bf0c77ed2d7f8b472b788df3e",
+    "metadata": "Rhapsody on a Theme of Paganini | Selected recordings | Selected recordings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Piano",
+        "Conductor",
+        "Orchestra",
+        "Record_Company",
+        "Year_of_Recording",
+        "Format"
+    ],
+    "cell": [
+        [
+            "Sergei Rachmaninoff",
+            "Leopold Stokowski",
+            "Philadelphia Orchestra",
+            "RCA Red Seal",
+            "1934",
+            "CD"
+        ],
+        [
+            "Benno Moiseiwitsch",
+            "Basil Cameron",
+            "Liverpool Philharmonic Orchestra",
+            "Naxos Records",
+            "1938",
+            "CD"
+        ],
+        [
+            "William Kapell",
+            "Fritz Reiner",
+            "Robin Hood Dell Orchestra",
+            "RCA Red Seal",
+            "1951",
+            "CD"
+        ],
+        [
+            "Arthur Rubinstein",
+            "Fritz Reiner",
+            "Chicago Symphony Orchestra",
+            "RCA Red Seal",
+            "1956",
+            "CD"
+        ],
+        [
+            "Leon Fleisher",
+            "George Szell",
+            "Cleveland Orchestra",
+            "Sony",
+            "1957",
+            "CD"
+        ],
+        [
+            "Vladimir Ashkenazy",
+            "Andr\u00e9 Previn",
+            "London Symphony Orchestra",
+            "London Records",
+            "1971",
+            "CD"
+        ]
+    ]
+}

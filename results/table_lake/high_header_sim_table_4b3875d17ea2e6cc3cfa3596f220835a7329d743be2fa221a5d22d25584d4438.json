@@ -1,0 +1,61 @@
+{
+    "id": "4b3875d17ea2e6cc3cfa3596f220835a7329d743be2fa221a5d22d25584d4438",
+    "metadata": "Mark McNulty | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "0",
+            "0",
+            "1",
+            "5",
+            "2"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "0",
+            "1",
+            "12",
+            "7"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "1",
+            "1",
+            "9",
+            "22",
+            "19"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "1",
+            "3",
+            "11",
+            "6"
+        ],
+        [
+            "Totals",
+            "0",
+            "1",
+            "2",
+            "14",
+            "50",
+            "34"
+        ]
+    ]
+}

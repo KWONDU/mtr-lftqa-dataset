@@ -1,0 +1,119 @@
+{
+    "id": "06f3d32736619a79d3c8cd736c70a7f4fe8ee9a8b59227982000aec650b8b405",
+    "metadata": "Banat Bulgarians | Demography | Historical population",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Source_",
+        "Date_",
+        "Population_Romania",
+        "Population_Serbia",
+        "Notes_"
+    ],
+    "cell": [
+        [
+            "Jozu Rill",
+            "1864",
+            "30,000-35,000",
+            "30,000-35,000",
+            ""
+        ],
+        [
+            "Hungarian statistics",
+            "1880",
+            "18298",
+            "18298",
+            ""
+        ],
+        [
+            "Hungarian statistics",
+            "1900",
+            "19944",
+            "19944",
+            ""
+        ],
+        [
+            "Hungarian statistics",
+            "1910",
+            "13536",
+            "13536",
+            "evidently underestimated"
+        ],
+        [
+            "Various authors",
+            "second half , of the 19th century",
+            "22,000-26,000",
+            "22,000-26,000",
+            "sometimes including the Krashovani"
+        ],
+        [
+            "Romanian census",
+            "1930",
+            "10012",
+            "",
+            "Romanian Banat only"
+        ],
+        [
+            "Dimo Kazasov",
+            "1936",
+            "",
+            "3200",
+            "Serbian Banat only; estimated"
+        ],
+        [
+            "Romanian census",
+            "1939",
+            "9951",
+            "",
+            "Romanian Banat only"
+        ],
+        [
+            "Karol Telbizov",
+            "1940",
+            "12000",
+            "",
+            "Romanian Banat only; estimated"
+        ],
+        [
+            "Mihail Georgiev",
+            "1942",
+            "",
+            "up to 4,500",
+            "Serbian Banat only; estimated"
+        ],
+        [
+            "Romanian census",
+            "1956",
+            "12040",
+            "",
+            "Romania only"
+        ],
+        [
+            "Yugoslav census",
+            "1971",
+            "",
+            "3745",
+            "Serbian Banat only"
+        ],
+        [
+            "Romanian census",
+            "1977",
+            "9267",
+            "",
+            "Romania only"
+        ],
+        [
+            "Romanian census",
+            "2002",
+            "6486",
+            "",
+            "Romania only"
+        ],
+        [
+            "Serbian census",
+            "2002",
+            "",
+            "1658",
+            "Serbia only"
+        ]
+    ]
+}

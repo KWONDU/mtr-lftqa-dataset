@@ -1,0 +1,70 @@
+{
+    "id": "fccc77bc408f132abcacfbeb01e11e0dd417edcdfb65afea6d9e5599ebd96c68",
+    "metadata": "2007-08 West Ham United F.C. season | In | In",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Country",
+        "Type_",
+        "Moving_from",
+        "Transfer_window"
+    ],
+    "cell": [
+        [
+            "Parker",
+            "ENG",
+            "Transferred",
+            "Newcastle United",
+            "Summer"
+        ],
+        [
+            "Faubert",
+            "FRA",
+            "Transferred",
+            "Bordeaux",
+            "Summer"
+        ],
+        [
+            "Wright",
+            "ENG",
+            "Signed",
+            "Everton",
+            "Summer"
+        ],
+        [
+            "Bellamy",
+            "WAL",
+            "Transferred",
+            "Liverpool",
+            "Summer"
+        ],
+        [
+            "Ljungberg",
+            "SWE",
+            "Transferred",
+            "Arsenal",
+            "Summer"
+        ],
+        [
+            "Dyer",
+            "ENG",
+            "Transferred",
+            "Newcastle United",
+            "Summer"
+        ],
+        [
+            "Solano",
+            "PER",
+            "Transferred",
+            "Newcastle United",
+            "Summer"
+        ],
+        [
+            "Camara",
+            "SEN",
+            "Loaned",
+            "Wigan Athletic",
+            "Summer"
+        ]
+    ]
+}

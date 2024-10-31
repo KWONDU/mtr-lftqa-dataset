@@ -1,0 +1,63 @@
+{
+    "id": "107f89f585e13f8fb36505b82698316e7dcc111bfc1a52383a4f642154a52676",
+    "metadata": "Boris Diaw | International stats | International stats",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Games_played",
+        "Points_per_game",
+        "Rebounds_per_game",
+        "Assists_per_game"
+    ],
+    "cell": [
+        [
+            "2003 EuroBasket",
+            "6",
+            "4.7",
+            "4.5",
+            "0.7"
+        ],
+        [
+            "2005 EuroBasket",
+            "7",
+            "13.7",
+            "5.3",
+            "3.4"
+        ],
+        [
+            "2007 EuroBasket",
+            "9",
+            "9.3",
+            "5.8",
+            "1.2"
+        ],
+        [
+            "2009 EuroBasket",
+            "8",
+            "7.5",
+            "4.2",
+            "3.8"
+        ],
+        [
+            "2010 FIBA World Championship",
+            "6",
+            "8.5",
+            "5.7",
+            "3.7"
+        ],
+        [
+            "2011 EuroBasket",
+            "11",
+            "8.0",
+            "4.7",
+            "2.5"
+        ],
+        [
+            "2012 Olympics",
+            "6",
+            "7.7",
+            "6.0",
+            "4.3"
+        ]
+    ]
+}

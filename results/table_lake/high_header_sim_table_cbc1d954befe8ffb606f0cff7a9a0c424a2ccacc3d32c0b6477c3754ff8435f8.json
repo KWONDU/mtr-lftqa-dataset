@@ -1,0 +1,133 @@
+{
+    "id": "cbc1d954befe8ffb606f0cff7a9a0c424a2ccacc3d32c0b6477c3754ff8435f8",
+    "metadata": "2007-08 Washington Capitals season | January | January",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "January 1",
+            "Ottawa",
+            "3 - 6",
+            "Washington",
+            "Kolzig",
+            "14547",
+            "16-19-5"
+        ],
+        [
+            "January 3",
+            "Washington",
+            "0 - 2",
+            "Boston",
+            "Kolzig",
+            "12240",
+            "16-20-5"
+        ],
+        [
+            "January 5",
+            "Washington",
+            "5 - 4",
+            "Montreal",
+            "Kolzig",
+            "21273",
+            "17-20-5"
+        ],
+        [
+            "January 9",
+            "Colorado",
+            "1 - 2",
+            "Washington",
+            "Kolzig",
+            "16168",
+            "18-20-5"
+        ],
+        [
+            "January 13",
+            "Philadelphia",
+            "6 - 4",
+            "Washington",
+            "Kolzig",
+            "17713",
+            "18-21-5"
+        ],
+        [
+            "January 15",
+            "Ottawa",
+            "2 - 4",
+            "Washington",
+            "Johnson",
+            "15261",
+            "19-21-5"
+        ],
+        [
+            "January 17",
+            "Edmonton",
+            "4 - 5",
+            "Washington",
+            "Kolzig",
+            "13399",
+            "20-21-5"
+        ],
+        [
+            "January 19",
+            "Florida",
+            "3 - 5",
+            "Washington",
+            "Johnson",
+            "16973",
+            "21-21-5"
+        ],
+        [
+            "January 21",
+            "Washington",
+            "6 - 5",
+            "Pittsburgh",
+            "Kolzig",
+            "17050",
+            "22-21-5"
+        ],
+        [
+            "January 23",
+            "Washington",
+            "2 - 3",
+            "Toronto",
+            "Kolzig",
+            "19479",
+            "22-22-5"
+        ],
+        [
+            "January 24",
+            "Toronto",
+            "1 - 2",
+            "Washington",
+            "Johnson",
+            "14094",
+            "23-22-5"
+        ],
+        [
+            "January 29",
+            "Washington",
+            "0 - 4",
+            "Montreal",
+            "Johnson",
+            "21273",
+            "23-23-5"
+        ],
+        [
+            "January 31",
+            "Montreal",
+            "4 - 5",
+            "Washington",
+            "Kolzig",
+            "14930",
+            "24-23-5"
+        ]
+    ]
+}

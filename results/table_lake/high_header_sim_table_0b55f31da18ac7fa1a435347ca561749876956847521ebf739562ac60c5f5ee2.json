@@ -1,0 +1,56 @@
+{
+    "id": "0b55f31da18ac7fa1a435347ca561749876956847521ebf739562ac60c5f5ee2",
+    "metadata": "Electricity sector in Paraguay | Demand | Demand",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Entities",
+        "Country",
+        "Supply_point",
+        "Voltage_kV",
+        "Power_MW"
+    ],
+    "cell": [
+        [
+            "FURNAS, ELECTROSUL, ELECTROBRAS",
+            "Brazil",
+            "Itaipu",
+            "500",
+            "7000"
+        ],
+        [
+            "EBISA",
+            "Argentina",
+            "Yacyret\u00e1",
+            "500",
+            "1540"
+        ],
+        [
+            "ENERSUL",
+            "Brazil",
+            "Pedro Juan Caballero",
+            "23",
+            "3"
+        ],
+        [
+            "COPEL",
+            "Brazil",
+            "Acaray",
+            "132",
+            "50"
+        ],
+        [
+            "EMSA",
+            "Argentina",
+            "C.A. L\u00f3pez",
+            "132",
+            "30"
+        ],
+        [
+            "TRANSNEA/EDEFOR",
+            "Argentina",
+            "Guarambar\u00e9",
+            "220",
+            "80"
+        ]
+    ]
+}

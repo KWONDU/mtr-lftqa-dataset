@@ -1,0 +1,126 @@
+{
+    "id": "55faa7eddb41132444a4e1d712c55b66a512ab320564810c387257e732280fb2",
+    "metadata": "1980 Miami Dolphins season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 7, 1980",
+            "at Buffalo Bills",
+            "L 17-7",
+            "79598"
+        ],
+        [
+            "2",
+            "September 14, 1980",
+            "Cincinnati Bengals",
+            "W 17-16",
+            "38322"
+        ],
+        [
+            "3",
+            "September 21, 1980",
+            "at Atlanta Falcons",
+            "W 20-17",
+            "55470"
+        ],
+        [
+            "4",
+            "September 28, 1980",
+            "New Orleans Saints",
+            "W 21-16",
+            "40946"
+        ],
+        [
+            "5",
+            "October 5, 1980",
+            "Baltimore Colts",
+            "L 30-17",
+            "50631"
+        ],
+        [
+            "6",
+            "October 12, 1980",
+            "at New England Patriots",
+            "L 34-0",
+            "60377"
+        ],
+        [
+            "7",
+            "October 19, 1980",
+            "Buffalo Bills",
+            "W 17-14",
+            "41636"
+        ],
+        [
+            "8",
+            "October 27, 1980",
+            "at New York Jets",
+            "L 17-14",
+            "53046"
+        ],
+        [
+            "9",
+            "November 2, 1980",
+            "at Oakland Raiders",
+            "L 16-10",
+            "46378"
+        ],
+        [
+            "10",
+            "November 9, 1980",
+            "at Los Angeles Rams",
+            "W 35-14",
+            "62198"
+        ],
+        [
+            "11",
+            "November 16, 1980",
+            "San Francisco 49ers",
+            "W 17-13",
+            "45135"
+        ],
+        [
+            "12",
+            "November 20, 1980",
+            "San Diego Chargers",
+            "L 27-24",
+            "63013"
+        ],
+        [
+            "13",
+            "November 30, 1980",
+            "at Pittsburgh Steelers",
+            "L 23-10",
+            "51384"
+        ],
+        [
+            "14",
+            "December 8, 1980",
+            "New England Patriots",
+            "W 16-13",
+            "63292"
+        ],
+        [
+            "15",
+            "December 14, 1980",
+            "at Baltimore Colts",
+            "W 24-14",
+            "30564"
+        ],
+        [
+            "16",
+            "December 20, 1980",
+            "New York Jets",
+            "L 24-17",
+            "41854"
+        ]
+    ]
+}

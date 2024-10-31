@@ -1,0 +1,56 @@
+{
+    "id": "2d401ab7cffad106e978cf729b96da19cdcd94f039d1a55d560e1cc4bdcdb509",
+    "metadata": "1977 Washington Redskins season | NFL Draft | NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "4",
+            "97",
+            "Duncan McColl",
+            "Defensive End",
+            "Stanford"
+        ],
+        [
+            "7",
+            "190",
+            "Reggie Haynes",
+            "Tight End",
+            "UNLV"
+        ],
+        [
+            "9",
+            "246",
+            "Mike Northington",
+            "Running Back",
+            "Purdue"
+        ],
+        [
+            "10",
+            "273",
+            "James Sykes",
+            "Running Back",
+            "Rice"
+        ],
+        [
+            "11",
+            "300",
+            "Don Harris",
+            "Defensive Back",
+            "Rutgers"
+        ],
+        [
+            "12",
+            "327",
+            "Curtis Kirkland",
+            "Defensive End",
+            "Missouri"
+        ]
+    ]
+}

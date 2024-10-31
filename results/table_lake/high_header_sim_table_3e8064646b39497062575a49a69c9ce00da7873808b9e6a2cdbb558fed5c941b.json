@@ -1,0 +1,67 @@
+{
+    "id": "3e8064646b39497062575a49a69c9ce00da7873808b9e6a2cdbb558fed5c941b",
+    "metadata": "Viking Cruises | Ships cruising in Russia | Ships cruising in Russia",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ship_name",
+        "Year_built",
+        "Last_refurbished",
+        "Length_",
+        "Crew",
+        "Guests",
+        "Staterooms",
+        "Comments"
+    ],
+    "cell": [
+        [
+            "Viking Akun",
+            "1990",
+            "2014",
+            "423 feet",
+            "115",
+            "210",
+            "106",
+            "fully refurbished with suites & veranda staterooms"
+        ],
+        [
+            "Viking Rurik",
+            "1990",
+            "2012",
+            "423 feet",
+            "105",
+            "196",
+            "98",
+            "fully refurbished with suites & veranda staterooms"
+        ],
+        [
+            "Viking Ingvar",
+            "1990",
+            "2013",
+            "423 feet",
+            "115",
+            "210",
+            "106",
+            "fully refurbished with suites & veranda staterooms"
+        ],
+        [
+            "Viking Truvor",
+            "1987",
+            "2013",
+            "423 feet",
+            "115",
+            "210",
+            "106",
+            "fully refurbished with suites & veranda staterooms"
+        ],
+        [
+            "Viking Helgi",
+            "1984",
+            "2013",
+            "423 feet",
+            "115",
+            "210",
+            "106",
+            "fully refurbished with suites & veranda staterooms"
+        ]
+    ]
+}

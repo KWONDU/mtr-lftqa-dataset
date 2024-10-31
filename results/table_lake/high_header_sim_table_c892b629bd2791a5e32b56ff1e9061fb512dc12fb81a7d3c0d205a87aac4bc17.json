@@ -1,0 +1,49 @@
+{
+    "id": "c892b629bd2791a5e32b56ff1e9061fb512dc12fb81a7d3c0d205a87aac4bc17",
+    "metadata": "1919-20 Ottawa Senators season | Stanley Cup Finals | Stanley Cup Finals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Record"
+    ],
+    "cell": [
+        [
+            "March 22",
+            "Seattle Metropolitans",
+            "2-3",
+            "Ottawa Senators",
+            "1-0"
+        ],
+        [
+            "March 24",
+            "Seattle Metropolitans",
+            "0-3",
+            "Ottawa Senators",
+            "2-0"
+        ],
+        [
+            "March 27",
+            "Seattle Metropolitans",
+            "3-1",
+            "Ottawa Senators",
+            "2-1"
+        ],
+        [
+            "March 30",
+            "Seattle Metropolitans",
+            "5-2",
+            "Ottawa Senators",
+            "2-2"
+        ],
+        [
+            "April 1",
+            "Seattle Metropolitans",
+            "1-6",
+            "Ottawa Senators",
+            "3-2"
+        ]
+    ]
+}

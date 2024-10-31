@@ -1,0 +1,55 @@
+{
+    "id": "e0aeea106d545ebbe04afcb84194acca2d15883b24433916b1a44e8cebd4560f",
+    "metadata": "2007-08 German ice hockey league season | Regular season | Regular season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Club",
+        "Games",
+        "Goals",
+        "Assists",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Robert Hock",
+            "Iserlohn Roosters",
+            "56",
+            "24",
+            "63",
+            "87"
+        ],
+        [
+            "Steve Walker",
+            "Eisb\u00e4ren Berlin",
+            "53",
+            "27",
+            "58",
+            "85"
+        ],
+        [
+            "Peter Sarno",
+            "Hamburg Freezers",
+            "56",
+            "26",
+            "48",
+            "74"
+        ],
+        [
+            "Michael Wolf",
+            "Iserlohn Roosters",
+            "56",
+            "44",
+            "27",
+            "71"
+        ],
+        [
+            "Ivan \u010ciernik",
+            "K\u00f6lner Haie",
+            "56",
+            "38",
+            "28",
+            "66"
+        ]
+    ]
+}

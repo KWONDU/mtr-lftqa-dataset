@@ -1,0 +1,71 @@
+{
+    "id": "0f0992cc15026154a5023be5b35a475e6f56739eb44f634e8143322fad059bcc",
+    "metadata": "Mauro Galv\u00e3o (fighter) | Mixed martial arts record | Mixed martial arts record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Res_",
+        "Record",
+        "Opponent",
+        "Method_",
+        "Event",
+        "Round"
+    ],
+    "cell": [
+        [
+            "Win",
+            "6-1",
+            "Kenji Osawa",
+            "Decision(majority)",
+            "Shooto - Back To Our Roots 3",
+            "1"
+        ],
+        [
+            "Win",
+            "5-1",
+            "Naoya Uematsu",
+            "Decision(unanimous)",
+            "Fury FC 1 - Fury Fighting Championship 1",
+            "1"
+        ],
+        [
+            "Win",
+            "4-1",
+            "Fredson Paix\u00e3o",
+            "Decision",
+            "JF 6 - Jungle Fight 6",
+            "3"
+        ],
+        [
+            "Loss",
+            "3-1",
+            "Akitoshi Hokazono",
+            "Decision(unanimous)",
+            "Shooto 2005 - 9/23 in Korakuen Hall",
+            "3"
+        ],
+        [
+            "Win",
+            "3-0",
+            "Jin Akimoto",
+            "Decision(unanimous)",
+            "Shooto 2004 - 9/26 in Kourakuen Hall",
+            "3"
+        ],
+        [
+            "Win",
+            "2-0",
+            "Shuichiro Katsumura",
+            "Decision (unanimous)",
+            "Shooto 2004 - 1/24 in Korakuen Hall",
+            "3"
+        ],
+        [
+            "Win",
+            "1-0",
+            "Masato Shiozawa",
+            "Decision(majority)",
+            "Shooto 2003 - 5/4 in Korakuen Hall",
+            "3"
+        ]
+    ]
+}

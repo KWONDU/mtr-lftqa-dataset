@@ -1,0 +1,56 @@
+{
+    "id": "60f66a2f149c0ba51333b66227d75a331b945659d69a2fb28e17384b6f5d5269",
+    "metadata": "Kalimantan | Administrative divisions | Provinces of Kalimantan",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Province",
+        "Area_km_2_",
+        "Total_population_2000_census",
+        "Total_population_2005_estimate",
+        "Total_population_2010_census"
+    ],
+    "cell": [
+        [
+            "West Kalimantan (Kalimantan Barat)",
+            "147307.00",
+            "4016353",
+            "4042817",
+            "4393239"
+        ],
+        [
+            "Central Kalimantan (Kalimantan Tengah)",
+            "153564.50",
+            "1801965",
+            "1913026",
+            "2202599"
+        ],
+        [
+            "South Kalimantan (Kalimantan Selatan)",
+            "38744.23",
+            "2984026",
+            "3271413",
+            "3626119"
+        ],
+        [
+            "East Kalimantan (Kalimantan Timur)",
+            "204534.34",
+            "2451895",
+            "2840874",
+            "3550586"
+        ],
+        [
+            "North Kalimantan (Kalimantan Utara)",
+            "71176.72",
+            "\u2014",
+            "473424",
+            "524526"
+        ],
+        [
+            "Total",
+            "615326.79",
+            "11254239",
+            "12541554",
+            "14297069"
+        ]
+    ]
+}

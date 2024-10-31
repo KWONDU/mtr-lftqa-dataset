@@ -1,0 +1,105 @@
+{
+    "id": "12870d2c8134b131db83d1099145948743936f593f34811fd64d05b84a7afc83",
+    "metadata": "Mercedes-Benz W220 | Engines | Engines",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Engine",
+        "Cyl_",
+        "Power_",
+        "Torque"
+    ],
+    "cell": [
+        [
+            "S280",
+            "2.8 18V",
+            "V6",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S320",
+            "3.2 18V",
+            "V6",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S350",
+            "3.7 18V",
+            "V6",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S430",
+            "4.3 24V",
+            "V8",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S500 (`00-`06)",
+            "5.0 24V",
+            "V8",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S600 (`01-`02)",
+            "5.8 36V",
+            "V12",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S600 (`02-`05)",
+            "5.5 36V Bi-Turbo",
+            "V12",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S55 AMG (`01-`02)",
+            "5.4 24V AMG",
+            "V8",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S55 AMG (`03-`06)",
+            "5.4 24V SC AMG",
+            "V8",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S63 AMG (`01)",
+            "6.3",
+            "V12",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S65 AMG (`05-`06)",
+            "6.0 36V Turbo",
+            "V12",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S320 CDI",
+            "3.2 24V CDI",
+            "I6",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ],
+        [
+            "S400 CDI",
+            "4.0 32V CDI",
+            "V8",
+            "PS (kW; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "0515982b2c727a501cd1c2fc21cddd78ffa0f9e8ceb64780bb18fe12a7d1c3e9",
+    "metadata": "North Otago in the 2008 Heartland Championship | 2008 Pool Games | 2008 Pool Games",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Home_team",
+        "Away_team",
+        "Venue"
+    ],
+    "cell": [
+        [
+            "RS",
+            "22 July",
+            "North Otago",
+            "Auckland",
+            "Oamaru"
+        ],
+        [
+            "HS",
+            "August",
+            "North Otago",
+            "Mid Canterbury",
+            "Ashburton"
+        ],
+        [
+            "1",
+            "23 August",
+            "North Otago",
+            "Horowhenua-Kapiti",
+            "Oamaru"
+        ],
+        [
+            "2",
+            "30 August",
+            "West Coast",
+            "North Otago",
+            "Greymouth"
+        ],
+        [
+            "3",
+            "06 September",
+            "North Otago",
+            "South Canterbury",
+            "Oamaru"
+        ],
+        [
+            "4",
+            "13 September",
+            "Buller",
+            "North Otago",
+            "Westport"
+        ],
+        [
+            "5",
+            "20 September",
+            "North Otago",
+            "Wairarapa Bush",
+            "Oamaru"
+        ]
+    ]
+}

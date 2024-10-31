@@ -1,0 +1,55 @@
+{
+    "id": "70b1523d779020aa52acdad76a55ace6d5333b6c6f6fae3fba91eadeb5fb00bb",
+    "metadata": "2007 Florida State Seminoles football team | Injured Players | Injured Players",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Number_",
+        "Name_",
+        "Class_",
+        "Injury_Status",
+        "Last_Update"
+    ],
+    "cell": [
+        [
+            "FB",
+            "32",
+            "Joe Surratt",
+            "Sr",
+            "Fractured Right Fibula (Out Indefintely)",
+            "August 18, 2007"
+        ],
+        [
+            "LB",
+            "55",
+            "Jamar Jackson",
+            "Fr",
+            "Torn ACL (Out for the Season)",
+            "August 30, 2007"
+        ],
+        [
+            "S",
+            "47",
+            "Mister Alexander",
+            "RS Fr",
+            "Torn ACL (Out for the Season)",
+            "September 5, 2007"
+        ],
+        [
+            "RB",
+            "33",
+            "Jamaal Edwards",
+            "Jr",
+            "Left Shoulder (Out Indefintely)",
+            "November 10, 2007"
+        ],
+        [
+            "WR",
+            "9",
+            "Richard Goodman",
+            "Jr",
+            "Lower leg fracture (Out indefinitely)",
+            "October 29, 2007"
+        ]
+    ]
+}

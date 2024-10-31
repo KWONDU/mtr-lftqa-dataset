@@ -1,0 +1,49 @@
+{
+    "id": "8c5af9f35281c0b693fc5587b44f71885d7745bd8a8ab3becb6d3ca57fed8027",
+    "metadata": "United States House of Representatives elections, 1888 | Arkansas | Arkansas",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Arkansas 1",
+            "Poindexter Dunn",
+            "Democratic",
+            "1878",
+            "Retired Democratic hold"
+        ],
+        [
+            "Arkansas 2",
+            "Clifton R. Breckinridge",
+            "Democratic",
+            "1882",
+            "Re-elected"
+        ],
+        [
+            "Arkansas 3",
+            "Thomas C. McRae",
+            "Democratic",
+            "1884",
+            "Re-elected"
+        ],
+        [
+            "Arkansas 4",
+            "John H. Rogers",
+            "Democratic",
+            "1884",
+            "Re-elected"
+        ],
+        [
+            "Arkansas 5",
+            "Samuel W. Peel",
+            "Democratic",
+            "1884",
+            "Re-elected"
+        ]
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "135dcc07c82c142cbeed7ee33db61a880be132e1cf00c729ac8bbe5230b6a191",
+    "metadata": "Video poker | Deuces Wild | Deuces Wild",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Hand",
+        "_1_credit",
+        "_2_credits",
+        "_3_credits",
+        "_4_credits",
+        "_5_credits"
+    ],
+    "cell": [
+        [
+            "Natural Royal Flush",
+            "300",
+            "600",
+            "900",
+            "1200",
+            "4000"
+        ],
+        [
+            "Four Deuces",
+            "200",
+            "400",
+            "600",
+            "800",
+            "1000"
+        ],
+        [
+            "Wild Royal Flush",
+            "25",
+            "50",
+            "75",
+            "100",
+            "125"
+        ],
+        [
+            "Five of a Kind",
+            "15",
+            "30",
+            "45",
+            "60",
+            "75"
+        ],
+        [
+            "Straight Flush",
+            "9",
+            "18",
+            "27",
+            "36",
+            "45"
+        ],
+        [
+            "Four of a Kind",
+            "5",
+            "10",
+            "15",
+            "20",
+            "25"
+        ],
+        [
+            "Full House",
+            "3",
+            "6",
+            "9",
+            "12",
+            "15"
+        ],
+        [
+            "Flush",
+            "2",
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        [
+            "Straight",
+            "2",
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        [
+            "Three of a Kind",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        [
+            "Theoretical Return",
+            "99.7%",
+            "99.7%",
+            "99.7%",
+            "99.7%",
+            "100.8%"
+        ]
+    ]
+}

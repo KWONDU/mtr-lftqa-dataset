@@ -1,0 +1,70 @@
+{
+    "id": "be49cfb1b9fdebdfa24d4ce325d6500edb29af54c0dcc5464cf20fae056d9523",
+    "metadata": "Yakushiji Ry\u014dko no Kaiki Jikenbo | Bibliography | Bibliography",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Japanese_Title",
+        "English_Title",
+        "Year_",
+        "First_publisher",
+        "ISBN"
+    ],
+    "cell": [
+        [
+            "\u9b54\u5929\u697c (Matenr\u014d)",
+            "Demon Skyscraper",
+            "1996",
+            "Kodansha Bunko",
+            "ISBN 4-06-263346-9"
+        ],
+        [
+            "\u6771\u4eac\u30ca\u30a4\u30c8\u30e1\u30a2 (Tokyo Nightmare)",
+            "Tokyo Nightmare",
+            "1999",
+            "Kodansha Novels",
+            "ISBN 4-06-182042-7"
+        ],
+        [
+            "\u5df4\u91cc\u30fb\u5996\u90fd\u5909 (Paris Y\u014dto-hen)",
+            "Paris, The Strange Attractive Capital",
+            "2000",
+            "Kobunsha Kappa Novels",
+            "ISBN 4-334-07371-9"
+        ],
+        [
+            "\u30af\u30ec\u30aa\u30d1\u30c8\u30e9\u306e\u846c\u9001 (Cleopatra no S\u014ds\u014d)",
+            "Funeral of the Cleopatra",
+            "2001",
+            "Kodansha Novels",
+            "ISBN 4-06-182197-0"
+        ],
+        [
+            "\u9ed2\u8718\u86db\u5cf6 (Black Spider Island)",
+            "Black Spider Island",
+            "2003",
+            "Kobunsha Kappa Novels",
+            "ISBN 4-334-07541-X"
+        ],
+        [
+            "\u591c\u5149\u66f2 (Yak\u014dkyoku)",
+            "Luminous Song",
+            "2005",
+            "Shodensha Non-Novels",
+            "ISBN 4-396-20793-X"
+        ],
+        [
+            "\u9727\u306e\u8a2a\u554f\u8005 (Kiri no H\u014dmonsha)",
+            "Visitor`s Fog",
+            "2006",
+            "Kodansha Novels",
+            "ISBN 4-06-182499-6"
+        ],
+        [
+            "\u6c34\u5996\u65e5\u306b\u3054\u7528\u5fc3 (Suiy\u014d-bi ni Goy\u014djin)",
+            "Be Careful on Wednesday",
+            "2007",
+            "Shodensha Non-Novels",
+            "ISBN 4-396-20840-5"
+        ]
+    ]
+}

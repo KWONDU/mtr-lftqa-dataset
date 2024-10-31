@@ -1,0 +1,49 @@
+{
+    "id": "2942d5d36b644b3789d5d34aab0613af006818913cf28513acac2fe3355812e1",
+    "metadata": "Memphis Grizzlies all-time roster | L | L",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Nationality",
+        "Position_",
+        "Years_for_Grizzlies",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "Eric Leckner",
+            "United States",
+            "Center",
+            "1996-1997",
+            "Wyoming"
+        ],
+        [
+            "Grant Long",
+            "United States",
+            "Small forward",
+            "1999-2002",
+            "Eastern Michigan"
+        ],
+        [
+            "Felipe L\u00f3pez",
+            "Dominican Republic",
+            "Shooting guard",
+            "1998-2000",
+            "St. John`s"
+        ],
+        [
+            "Kyle Lowry",
+            "United States",
+            "Point guard",
+            "2006-2009",
+            "Villanova"
+        ],
+        [
+            "George Lynch",
+            "United States",
+            "Small forward",
+            "1996-1998",
+            "North Carolina"
+        ]
+    ]
+}

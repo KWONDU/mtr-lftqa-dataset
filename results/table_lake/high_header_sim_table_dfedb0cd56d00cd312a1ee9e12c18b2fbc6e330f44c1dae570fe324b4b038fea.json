@@ -1,0 +1,79 @@
+{
+    "id": "dfedb0cd56d00cd312a1ee9e12c18b2fbc6e330f44c1dae570fe324b4b038fea",
+    "metadata": "Northeast Hoosier Conference | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "_County"
+    ],
+    "cell": [
+        [
+            "Bellmont",
+            "Decatur",
+            "Braves",
+            "927",
+            "AAA",
+            "01 Adams"
+        ],
+        [
+            "Columbia City",
+            "Columbia City",
+            "Eagles",
+            "1127",
+            "AAAA",
+            "92 Whitley"
+        ],
+        [
+            "DeKalb",
+            "Waterloo",
+            "Barons",
+            "1302",
+            "AAAA",
+            "17 DeKalb"
+        ],
+        [
+            "East Noble",
+            "Kendallville",
+            "Knights",
+            "1213",
+            "AAAA",
+            "57 Noble"
+        ],
+        [
+            "Fort Wayne Carroll",
+            "Fort Wayne",
+            "Chargers",
+            "1889",
+            "AAAAA",
+            "02 Allen"
+        ],
+        [
+            "Fort Wayne Homestead",
+            "Fort Wayne",
+            "Spartans",
+            "2141",
+            "AAAAA",
+            "02 Allen"
+        ],
+        [
+            "New Haven",
+            "New Haven",
+            "Bulldogs",
+            "985",
+            "AAAA",
+            "02 Allen"
+        ],
+        [
+            "Norwell",
+            "Ossian",
+            "Knights",
+            "876",
+            "AAAA",
+            "90 Wells"
+        ]
+    ]
+}

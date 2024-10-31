@@ -1,0 +1,55 @@
+{
+    "id": "3bb66e5dd25756ac22da6226327706bc923d01196854208c0ee0ecea10790460",
+    "metadata": "Eden College Durban | Matric academic results | Matric academic results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Pass_Rate",
+        "_A_Aggregates",
+        "_B_Aggregates",
+        "_A_or_B_Aggregates",
+        "Average_A_s_per_learner"
+    ],
+    "cell": [
+        [
+            "2007",
+            "100%",
+            "56%",
+            "28%",
+            "84%",
+            "3.28"
+        ],
+        [
+            "2008",
+            "100%",
+            "48%",
+            "25%",
+            "73%",
+            "3.37"
+        ],
+        [
+            "2009",
+            "100%",
+            "41%",
+            "34%",
+            "75%",
+            "3.8"
+        ],
+        [
+            "2010",
+            "100%",
+            "45%",
+            "25%",
+            "73%",
+            "4.07"
+        ],
+        [
+            "2011",
+            "100%",
+            "47%",
+            "34%",
+            "75%",
+            "4.2"
+        ]
+    ]
+}

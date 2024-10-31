@@ -1,0 +1,79 @@
+{
+    "id": "24bee878dbeb0198c248fbd2b7ec3b52bd738b81affd26c4551e65f695c3319d",
+    "metadata": "1996-97 European Challenge Cup | Pool 1 | Pool 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Tries_for",
+        "Tries_against",
+        "Try_diff",
+        "Points_for",
+        "Points_against",
+        "Points_diff"
+    ],
+    "cell": [
+        [
+            "Agen",
+            "20",
+            "9",
+            "+11",
+            "156",
+            "82",
+            "+74"
+        ],
+        [
+            "Montferrand",
+            "30",
+            "8",
+            "+22",
+            "211",
+            "74",
+            "+137"
+        ],
+        [
+            "Sale Sharks",
+            "18",
+            "14",
+            "+4",
+            "166",
+            "115",
+            "+51"
+        ],
+        [
+            "Newport",
+            "14",
+            "19",
+            "\u221215",
+            "98",
+            "158",
+            "\u221260"
+        ],
+        [
+            "Glasgow",
+            "15",
+            "30",
+            "\u221215",
+            "113",
+            "202",
+            "\u221289"
+        ],
+        [
+            "Newbridge",
+            "16",
+            "33",
+            "\u221217",
+            "106",
+            "219",
+            "\u2212113"
+        ],
+        [
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com"
+        ]
+    ]
+}

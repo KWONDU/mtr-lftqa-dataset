@@ -1,0 +1,224 @@
+{
+    "id": "adececf926c5ba66275f043f27e185f1ce99cd17c0c2c1068e4a77291970328d",
+    "metadata": "World's busiest airports by cargo traffic | 2012 preliminary statistics | 2012 preliminary statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Airport",
+        "Code_IATA_ICAO",
+        "Total_Cargo_Metric_Tonnes",
+        "_Change"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Hong Kong International Airport",
+            "HKG/VHHH",
+            "4062261",
+            "2.2%"
+        ],
+        [
+            "2.",
+            "Memphis International Airport",
+            "MEM/KMEM",
+            "3916535",
+            "2.5%"
+        ],
+        [
+            "3.",
+            "Shanghai Pudong International Airport",
+            "PVG/ZSPD",
+            "2939157",
+            "5.3%"
+        ],
+        [
+            "4.",
+            "Incheon International Airport",
+            "ICN/RKSI",
+            "2456724",
+            "3.3%"
+        ],
+        [
+            "5.",
+            "Ted Stevens Anchorage International Airport",
+            "ANC/PANC",
+            "2449551",
+            "3.7%"
+        ],
+        [
+            "6.",
+            "Dubai International Airport",
+            "DXB/OMDB",
+            "2267365",
+            "3.1%"
+        ],
+        [
+            "7.",
+            "Louisville International Airport",
+            "SDF/KSDF",
+            "2187766",
+            "0.9%"
+        ],
+        [
+            "8.",
+            "Paris-Charles de Gaulle Airport",
+            "CDG/LFPG",
+            "2150950",
+            "6.5%"
+        ],
+        [
+            "9.",
+            "Frankfurt Airport",
+            "FRA/EDDF",
+            "2066432",
+            "6.7%"
+        ],
+        [
+            "10.",
+            "Narita International Airport",
+            "NRT/RJAA",
+            "2006173",
+            "3.1%"
+        ],
+        [
+            "11.",
+            "Miami International Airport",
+            "MIA/KMIA",
+            "1929889",
+            "4.9%"
+        ],
+        [
+            "12.",
+            "Singapore Changi Airport",
+            "SIN/WSSS",
+            "1898850",
+            "3.0%"
+        ],
+        [
+            "13.",
+            "Beijing Capital International Airport",
+            "PEK/ZBAA",
+            "1787027",
+            "6.0%"
+        ],
+        [
+            "14.",
+            "Los Angeles International Airport",
+            "LAX/KLAX",
+            "1688351",
+            "3.7%"
+        ],
+        [
+            "15.",
+            "Taiwan Taoyuan International Airport",
+            "TPE/RCTP",
+            "1577728",
+            "3.1%"
+        ],
+        [
+            "16.",
+            "London Heathrow Airport",
+            "LHR/EGLL",
+            "1556203",
+            "0.7%"
+        ],
+        [
+            "17.",
+            "O`Hare International Airport",
+            "ORD/KORD",
+            "1512186",
+            "3.0%"
+        ],
+        [
+            "18.",
+            "Amsterdam Airport Schiphol",
+            "AMS/EHAM",
+            "1511824",
+            "2.4%"
+        ],
+        [
+            "19.",
+            "Suvarnabhumi Airport",
+            "BKK/VTBS",
+            "1345487",
+            "1.8%"
+        ],
+        [
+            "20.",
+            "John F. Kennedy International Airport",
+            "JFK/KJFK",
+            "1283663",
+            "5.5%"
+        ],
+        [
+            "21.",
+            "Guangzhou Baiyun International Airport",
+            "CAN/ZGGG",
+            "1246467",
+            "5.6%"
+        ],
+        [
+            "22.",
+            "Indianapolis International Airport",
+            "IND/KIND",
+            "932105",
+            "2.7%"
+        ],
+        [
+            "23.",
+            "Tokyo International Airport",
+            "HND/RJTT",
+            "909684",
+            "3.6%"
+        ],
+        [
+            "24.",
+            "Shenzhen Bao`an International Airport",
+            "SZX/ZGSZ",
+            "854901",
+            "3.5%"
+        ],
+        [
+            "25.",
+            "Leipzig/Halle Airport",
+            "LEJ/EDDP",
+            "846092",
+            "13.7%"
+        ],
+        [
+            "26.",
+            "Doha International Airport",
+            "DOH/OTBD",
+            "844532",
+            "4.5%"
+        ],
+        [
+            "27.",
+            "Newark Liberty International Airport",
+            "EWR/KEWR",
+            "743762",
+            "7.5%"
+        ],
+        [
+            "28.",
+            "Cologne Bonn Airport",
+            "CGN/EDDK",
+            "730054",
+            "0.5%"
+        ],
+        [
+            "29.",
+            "Kansai International Airport",
+            "KIX/RJBB",
+            "723148",
+            "2.7%"
+        ],
+        [
+            "30.",
+            "Kuala Lumpur International Airport",
+            "KUL/WMKK",
+            "702227",
+            "0.1%"
+        ]
+    ]
+}

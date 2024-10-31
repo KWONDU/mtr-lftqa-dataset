@@ -1,0 +1,49 @@
+{
+    "id": "7fd19f320d37e5955169bef34784f53f4ad4b58a9877cda6328c931bdcbf462d",
+    "metadata": "Nordic skiing | Men's 15 km | Men's 15 km",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Winner",
+        "Country",
+        "Winter_Olympics",
+        "FIS_Nordic_World_Ski_Championships",
+        "Holmenkollen"
+    ],
+    "cell": [
+        [
+            "Hallgeir Brenden",
+            "Norway",
+            "1956",
+            "1956",
+            "1956"
+        ],
+        [
+            "Eero M\u00e4ntyranta",
+            "Finland",
+            "1964",
+            "1964",
+            "1962, 1964, 1968"
+        ],
+        [
+            "Harald Gr\u00f8nningen",
+            "Norway",
+            "1968",
+            "1968",
+            "1960, 1961"
+        ],
+        [
+            "Thomas Wassberg",
+            "Sweden",
+            "1980",
+            "1980",
+            "1979, 1985"
+        ],
+        [
+            "Gunde Svan",
+            "Sweden",
+            "1984",
+            "1989",
+            "1985"
+        ]
+    ]
+}

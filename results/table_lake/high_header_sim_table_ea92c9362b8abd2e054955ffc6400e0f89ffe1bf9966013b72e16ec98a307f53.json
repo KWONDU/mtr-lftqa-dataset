@@ -1,0 +1,70 @@
+{
+    "id": "ea92c9362b8abd2e054955ffc6400e0f89ffe1bf9966013b72e16ec98a307f53",
+    "metadata": "1972 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "12.9 (81)",
+            "South Melbourne",
+            "9.10 (64)",
+            "Western Oval",
+            "15891",
+            "27 May 1972"
+        ],
+        [
+            "Fitzroy",
+            "12.25 (97)",
+            "Richmond",
+            "16.9 (105)",
+            "Junction Oval",
+            "21753",
+            "27 May 1972"
+        ],
+        [
+            "Essendon",
+            "15.17 (107)",
+            "Hawthorn",
+            "14.21 (105)",
+            "Windy Hill",
+            "28187",
+            "27 May 1972"
+        ],
+        [
+            "Collingwood",
+            "28.16 (184)",
+            "Geelong",
+            "16.13 (109)",
+            "Victoria Park",
+            "20771",
+            "27 May 1972"
+        ],
+        [
+            "Carlton",
+            "16.13 (109)",
+            "North Melbourne",
+            "6.11 (47)",
+            "Princes Park",
+            "15664",
+            "27 May 1972"
+        ],
+        [
+            "St Kilda",
+            "9.19 (73)",
+            "Melbourne",
+            "5.6 (36)",
+            "VFL Park",
+            "23507",
+            "27 May 1972"
+        ]
+    ]
+}

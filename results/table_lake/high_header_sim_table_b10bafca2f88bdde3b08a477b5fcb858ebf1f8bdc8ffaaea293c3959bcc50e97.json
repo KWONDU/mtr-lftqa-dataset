@@ -1,0 +1,63 @@
+{
+    "id": "b10bafca2f88bdde3b08a477b5fcb858ebf1f8bdc8ffaaea293c3959bcc50e97",
+    "metadata": "2007-08 Scottish First Division | Managerial changes | Managerial changes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Outgoing_manager",
+        "Manner_of_departure",
+        "Date_of_vacancy",
+        "Replaced_by",
+        "Date_of_appointment"
+    ],
+    "cell": [
+        [
+            "Clyde",
+            "Joe Miller",
+            "Mutual consent",
+            "25 May",
+            "Colin Hendry",
+            "11 June"
+        ],
+        [
+            "St. Johnstone",
+            "Owen Coyle",
+            "Mutual consent",
+            "22 November",
+            "Derek McInnes",
+            "27 November"
+        ],
+        [
+            "Dunfermline Athletic",
+            "Stephen Kenny",
+            "Sacked",
+            "4 December",
+            "Jim McIntyre",
+            "3 January"
+        ],
+        [
+            "Clyde",
+            "Colin Hendry",
+            "Resigned",
+            "18 January",
+            "John Brown",
+            "26 January"
+        ],
+        [
+            "Greenock Morton",
+            "Jim McInally",
+            "Resigned",
+            "12 February",
+            "David Irons",
+            "19 February"
+        ],
+        [
+            "Livingston",
+            "Mark Proctor",
+            "Sacked",
+            "June 3",
+            "Roberto Landi",
+            "11 June"
+        ]
+    ]
+}

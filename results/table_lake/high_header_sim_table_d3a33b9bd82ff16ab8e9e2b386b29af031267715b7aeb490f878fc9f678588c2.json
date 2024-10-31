@@ -1,0 +1,70 @@
+{
+    "id": "d3a33b9bd82ff16ab8e9e2b386b29af031267715b7aeb490f878fc9f678588c2",
+    "metadata": "1970 CFL Draft | Round seven | Round seven",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "53",
+            "Winnipeg (8)",
+            "Terry Moss",
+            "HB",
+            "Manitoba"
+        ],
+        [
+            "54",
+            "Montreal (6)",
+            "Terry Arnason",
+            "FL",
+            "St. Francis Xavier"
+        ],
+        [
+            "55",
+            "Edmonton (7)",
+            "Chris Hawkes",
+            "QB",
+            "Simon Fraser"
+        ],
+        [
+            "56",
+            "BC Lions (7)",
+            "Brian Currie",
+            "OG",
+            "Royal Military College"
+        ],
+        [
+            "57",
+            "Hamilton (8)",
+            "Peter Quinlan",
+            "QB",
+            "McMaster"
+        ],
+        [
+            "58",
+            "Calgary (8)",
+            "Craig McLeod",
+            "OG",
+            "Calgary"
+        ],
+        [
+            "59",
+            "Toronto (5)",
+            "Bill Simmons",
+            "HB",
+            "Royal Military College"
+        ],
+        [
+            "60",
+            "Saskatchewan (7)",
+            "Jim Turnbull",
+            "HB",
+            "Queen`s"
+        ]
+    ]
+}

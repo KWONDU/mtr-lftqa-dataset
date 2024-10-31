@@ -1,0 +1,84 @@
+{
+    "id": "317a4ead3c68cd4f0baad74369aa59a44888a631219da5b960e925caf372e964",
+    "metadata": "List of TVB series (2007) | Third line series | Third line series",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Airing_date",
+        "English_title_Chinese_title",
+        "Number_of_episodes",
+        "Genre",
+        "Official_website"
+    ],
+    "cell": [
+        [
+            "20 Nov 2006- 5 Jan 2007",
+            "Dicey Business \u8ced\u5834\u98a8\u96f2",
+            "35",
+            "Modern drama",
+            "Official website"
+        ],
+        [
+            "8 Jan- 9 Feb",
+            "The Brink of Law \u7a81\u570d\u884c\u52d5",
+            "25",
+            "Modern action",
+            "Official website"
+        ],
+        [
+            "12 Feb- 9 Mar",
+            "Best Bet \u8fce\u59bb\u63a5\u798f",
+            "20",
+            "Costume comedy",
+            "Official website"
+        ],
+        [
+            "12 Mar- 8 Apr",
+            "Life Art \u5beb\u610f\u4eba\u751f",
+            "20",
+            "Modern drama",
+            "Official website"
+        ],
+        [
+            "9 Apr- 1 Jun",
+            "Heart of Greed \u6e8f\u5fc3\u98a8\u66b4",
+            "40",
+            "Modern drama",
+            "Official website"
+        ],
+        [
+            "4 Jun- 13 Jul",
+            "On The First Beat \u5b78\u8b66\u51fa\u66f4",
+            "30",
+            "Modern action",
+            "Official website"
+        ],
+        [
+            "16 Jul- 5 Oct",
+            "The Drive of Life \u6b72\u6708\u98a8\u96f2",
+            "60",
+            "Modern drama",
+            "Official website"
+        ],
+        [
+            "8 Oct- 24 Nov",
+            "The Ultimate Crime Fighter \u901a\u5929\u5e79\u63a2",
+            "37",
+            "Modern action",
+            "Official website"
+        ],
+        [
+            "26 Nov- 21 Dec",
+            "Marriage of Inconvenience \u5169\u59bb\u6642\u4ee3",
+            "20",
+            "Modern drama",
+            "Official website"
+        ],
+        [
+            "24 Dec 2007- 18 Jan 2008",
+            "Survivor`s Law II \u5f8b\u653f\u65b0\u4eba\u738bII",
+            "20",
+            "Modern drama",
+            "Official website"
+        ]
+    ]
+}

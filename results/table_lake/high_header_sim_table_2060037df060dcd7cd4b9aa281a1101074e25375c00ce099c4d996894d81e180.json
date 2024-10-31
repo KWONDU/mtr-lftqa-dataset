@@ -1,0 +1,70 @@
+{
+    "id": "2060037df060dcd7cd4b9aa281a1101074e25375c00ce099c4d996894d81e180",
+    "metadata": "1937 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "14.15 (99)",
+            "St Kilda",
+            "15.22 (112)",
+            "Glenferrie Oval",
+            "16000",
+            "1 May 1937"
+        ],
+        [
+            "Fitzroy",
+            "9.11 (65)",
+            "North Melbourne",
+            "10.7 (67)",
+            "Brunswick Street Oval",
+            "16000",
+            "1 May 1937"
+        ],
+        [
+            "Essendon",
+            "13.7 (85)",
+            "Melbourne",
+            "25.20 (170)",
+            "Windy Hill",
+            "14000",
+            "1 May 1937"
+        ],
+        [
+            "Richmond",
+            "17.15 (117)",
+            "Footscray",
+            "12.11 (83)",
+            "Punt Road Oval",
+            "16000",
+            "1 May 1937"
+        ],
+        [
+            "South Melbourne",
+            "11.19 (85)",
+            "Collingwood",
+            "20.20 (140)",
+            "Lake Oval",
+            "25000",
+            "1 May 1937"
+        ],
+        [
+            "Geelong",
+            "8.12 (60)",
+            "Carlton",
+            "6.13 (49)",
+            "Corio Oval",
+            "13600",
+            "1 May 1937"
+        ]
+    ]
+}

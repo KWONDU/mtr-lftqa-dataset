@@ -1,0 +1,56 @@
+{
+    "id": "1b8bcaadb1ed92a045602f634cfb2fbbef4d270833bb71bce77e0b0f7d69d316",
+    "metadata": "1998 Buffalo Bills season | NFL Draft | NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "2",
+            "39",
+            "Sam Cowart",
+            "Middle linebacker",
+            "Florida State"
+        ],
+        [
+            "3",
+            "68",
+            "Robert Hicks",
+            "Offensive tackle",
+            "Mississippi State"
+        ],
+        [
+            "5",
+            "131",
+            "Jonathan Linton",
+            "Fullback",
+            "North Carolina"
+        ],
+        [
+            "6",
+            "160",
+            "Fred Coleman",
+            "Wide receiver",
+            "Washington"
+        ],
+        [
+            "7",
+            "198",
+            "Victor Allotey",
+            "Offensive guard",
+            "Indiana"
+        ],
+        [
+            "7",
+            "238",
+            "Kamil Loud",
+            "Wide receiver",
+            "Cal-Poly SLO"
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "3e9e404f203e9464c8908daaa55fd8bf7cfb25eb919d07b68bb4d131f59bdf00",
+    "metadata": "1938 Washington Redskins season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 11, 1938",
+            "at Philadelphia Eagles",
+            "W 26-23",
+            "20000"
+        ],
+        [
+            "2",
+            "September 18, 1938",
+            "Brooklyn Dodgers",
+            "T 16-16",
+            "23000"
+        ],
+        [
+            "3",
+            "September 25, 1938",
+            "Cleveland Rams",
+            "W 37-13",
+            "27000"
+        ],
+        [
+            "4",
+            "October 9, 1938",
+            "New York Giants",
+            "L 10-7",
+            "37500"
+        ],
+        [
+            "5",
+            "October 16, 1938",
+            "at Detroit Lions",
+            "W 7-5",
+            "42855"
+        ],
+        [
+            "6",
+            "October 23, 1938",
+            "Philadelphia Eagles",
+            "W 20-14",
+            "3000"
+        ],
+        [
+            "7",
+            "October 30, 1938",
+            "at Brooklyn Dodgers",
+            "T 6-6",
+            "29913"
+        ],
+        [
+            "8",
+            "November 6, 1938",
+            "at Pittsburgh Pirates",
+            "W 7-0",
+            "12910"
+        ],
+        [
+            "9",
+            "November 13, 1938",
+            "at Chicago Bears",
+            "L 31-7",
+            "21817"
+        ],
+        [
+            "10",
+            "November 27, 1938",
+            "Pittsburgh Pirates",
+            "W 15-0",
+            "12910"
+        ],
+        [
+            "11",
+            "December 4, 1938",
+            "at New York Giants",
+            "L 36-0",
+            "57461"
+        ]
+    ]
+}

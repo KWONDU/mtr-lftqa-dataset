@@ -1,0 +1,67 @@
+{
+    "id": "3879ebd62228bbc43a049bab3177e756168a347d2427018f11679b0bfc0f52c6",
+    "metadata": "2010 Southeastern Conference football season | Week Seven | Week Seven",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_",
+        "Visiting_team",
+        "Home_team",
+        "Site",
+        "Broadcast",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "October 16",
+            "12:21pm",
+            "Vanderbilt",
+            "Georgia",
+            "Sanford Stadium \u2022 Athens, GA",
+            "SEC Network",
+            "UGA 43-0",
+            "92746"
+        ],
+        [
+            "October 16",
+            "3:30pm",
+            "No. 12 Arkansas",
+            "No. 7 Auburn",
+            "Jordan-Hare Stadium \u2022 Auburn, AL",
+            "CBS",
+            "AUB 65-43",
+            "87451"
+        ],
+        [
+            "October 16",
+            "6:00pm",
+            "No. 10 South Carolina",
+            "Kentucky",
+            "Commonwealth Stadium \u2022 Lexington, KY",
+            "ESPN2",
+            "UK 31-28",
+            "67955"
+        ],
+        [
+            "October 16",
+            "7:00pm",
+            "Mississippi State",
+            "No. 22 Florida",
+            "Ben Hill Griffin Stadium \u2022 Gainesville, FL",
+            "ESPNU",
+            "MSST 10-7",
+            "90517"
+        ],
+        [
+            "October 16",
+            "7:00pm",
+            "McNeese State",
+            "LSU",
+            "Tiger Stadium \u2022 Baton Rouge, LA",
+            "FSN",
+            "LSU 32-10",
+            "92576"
+        ]
+    ]
+}

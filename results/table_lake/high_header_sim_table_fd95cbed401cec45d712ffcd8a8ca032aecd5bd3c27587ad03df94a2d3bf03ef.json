@@ -1,0 +1,151 @@
+{
+    "id": "fd95cbed401cec45d712ffcd8a8ca032aecd5bd3c27587ad03df94a2d3bf03ef",
+    "metadata": "2005-06 Detroit Red Wings season | March | March",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "March 1",
+            "Detroit",
+            "2 - 0",
+            "Anaheim",
+            "Osgood",
+            "16606",
+            "40-14-5"
+        ],
+        [
+            "March 4",
+            "Detroit",
+            "7 - 3",
+            "Phoenix",
+            "Legace",
+            "18619",
+            "41-14-5"
+        ],
+        [
+            "March 7",
+            "Phoenix",
+            "5 - 2",
+            "Detroit",
+            "Legace",
+            "20066",
+            "41-15-5"
+        ],
+        [
+            "March 9",
+            "Los Angeles",
+            "3 - 7",
+            "Detroit",
+            "Legace",
+            "20066",
+            "42-15-5"
+        ],
+        [
+            "March 11",
+            "Chicago",
+            "4 - 6",
+            "Detroit",
+            "Legace",
+            "20066",
+            "43-15-5"
+        ],
+        [
+            "March 12",
+            "Detroit",
+            "5 - 3",
+            "Chicago",
+            "Osgood",
+            "19136",
+            "44-15-5"
+        ],
+        [
+            "March 15",
+            "Anaheim",
+            "1 - 3",
+            "Detroit",
+            "Osgood",
+            "20066",
+            "45-15-5"
+        ],
+        [
+            "March 18",
+            "Detroit",
+            "4 - 3",
+            "Edmonton",
+            "Legace",
+            "16839",
+            "46-15-5"
+        ],
+        [
+            "March 19",
+            "Detroit",
+            "7 - 3",
+            "Vancouver",
+            "Osgood",
+            "18630",
+            "47-15-5"
+        ],
+        [
+            "March 21",
+            "Nashville",
+            "3 - 2",
+            "Detroit",
+            "Legace",
+            "20066",
+            "47-15-6"
+        ],
+        [
+            "March 23",
+            "San Jose",
+            "0 - 4",
+            "Detroit",
+            "Legace",
+            "20066",
+            "48-15-6"
+        ],
+        [
+            "March 25",
+            "Columbus",
+            "5 - 4",
+            "Detroit",
+            "Osgood",
+            "20066",
+            "48-15-7"
+        ],
+        [
+            "March 27",
+            "Detroit",
+            "4 - 1",
+            "St. Louis",
+            "Legace",
+            "12834",
+            "49-15-7"
+        ],
+        [
+            "March 30",
+            "Detroit",
+            "4 - 2",
+            "Nashville",
+            "Legace",
+            "16570",
+            "50-15-7"
+        ],
+        [
+            "March 31",
+            "Chicago",
+            "3 - 2",
+            "Detroit",
+            "Osgood",
+            "20066",
+            "50-15-8"
+        ]
+    ]
+}

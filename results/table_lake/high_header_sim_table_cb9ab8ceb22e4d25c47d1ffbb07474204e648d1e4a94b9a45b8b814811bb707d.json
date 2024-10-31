@@ -1,0 +1,63 @@
+{
+    "id": "cb9ab8ceb22e4d25c47d1ffbb07474204e648d1e4a94b9a45b8b814811bb707d",
+    "metadata": "List of actors who played President of the United States | Academy Awards - Actual Presidents | Academy Awards - Actual Presidents",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Category",
+        "President",
+        "Nominee",
+        "Film",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "1941",
+            "Best Actor",
+            "Abraham Lincoln",
+            "Raymond Massey",
+            "Abe Lincoln in Illinois",
+            "Nominated"
+        ],
+        [
+            "1976",
+            "Best Actor",
+            "Harry S. Truman",
+            "James Whitmore",
+            "Give `em Hell, Harry!",
+            "Nominated"
+        ],
+        [
+            "1996",
+            "Best Actor",
+            "Richard Nixon",
+            "Anthony Hopkins",
+            "Nixon",
+            "Nominated"
+        ],
+        [
+            "1998",
+            "Best Supporting Actor",
+            "John Quincy Adams",
+            "Anthony Hopkins",
+            "Amistad",
+            "Nominated"
+        ],
+        [
+            "2009",
+            "Best Actor",
+            "Richard Nixon",
+            "Frank Langella",
+            "Frost/Nixon",
+            "Nominated"
+        ],
+        [
+            "2013",
+            "Best Actor",
+            "Abraham Lincoln",
+            "Daniel Day-Lewis",
+            "Lincoln",
+            "Won"
+        ]
+    ]
+}

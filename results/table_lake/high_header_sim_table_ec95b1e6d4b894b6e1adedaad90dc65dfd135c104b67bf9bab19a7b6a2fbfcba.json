@@ -1,0 +1,95 @@
+{
+    "id": "ec95b1e6d4b894b6e1adedaad90dc65dfd135c104b67bf9bab19a7b6a2fbfcba",
+    "metadata": "2010-11 Phoenix Suns season | Game log | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 5",
+            "@ Sacramento",
+            "L 95-109 (OT)",
+            "Jason Richardson (17)",
+            "Robin Lopez (6)",
+            "Chucky Atkins (4)",
+            "ARCO Arena 9,485",
+            "0-1"
+        ],
+        [
+            "2",
+            "October 8",
+            "Toronto",
+            "L 78-129 (OT)",
+            "Jared Dudley (10)",
+            "Hedo T\u00fcrko\u011flu (8)",
+            "Steve Nash (7)",
+            "General Motors Place 18,123",
+            "0-2"
+        ],
+        [
+            "3",
+            "October 9",
+            "Dallas",
+            "W 98-90 (OT)",
+            "Grant Hill (16)",
+            "Robin Lopez (6)",
+            "Steve Nash (10)",
+            "Indian Wells Tennis Garden 15,617",
+            "1-2"
+        ],
+        [
+            "4",
+            "October 12",
+            "Utah",
+            "L 100-105 (OT)",
+            "Goran Dragi\u0107 (15)",
+            "Josh Childress (8)",
+            "Steve Nash (10)",
+            "US Airways Center 12,410",
+            "1-3"
+        ],
+        [
+            "5",
+            "October 14",
+            "@ Utah",
+            "L 97-108 (OT)",
+            "Hedo T\u00fcrko\u011flu (13)",
+            "Jason Richardson , Garret Siler (7)",
+            "Steve Nash (5)",
+            "EnergySolutions Arena 19,883",
+            "1-4"
+        ],
+        [
+            "6",
+            "October 17",
+            "@ Toronto",
+            "L 100-121 (OT)",
+            "Steve Nash (16)",
+            "Steve Nash (7)",
+            "Steve Nash (6)",
+            "Air Canada Centre 12,902",
+            "1-5"
+        ],
+        [
+            "7",
+            "October 19",
+            "Golden State",
+            "W 92-87 (OT)",
+            "Steve Nash (18)",
+            "Robin Lopez (10)",
+            "Steve Nash , Goran Dragi\u0107 (4)",
+            "US Airways Center 14,635",
+            "2-5"
+        ]
+    ]
+}

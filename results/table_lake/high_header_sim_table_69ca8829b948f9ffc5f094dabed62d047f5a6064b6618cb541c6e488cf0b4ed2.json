@@ -1,0 +1,63 @@
+{
+    "id": "69ca8829b948f9ffc5f094dabed62d047f5a6064b6618cb541c6e488cf0b4ed2",
+    "metadata": "DWSN | SBN Mom's Radio stations | SBN Mom's Radio stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Branding",
+        "Callsign",
+        "Frequency",
+        "Power_kW",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Mom`s Radio 97.9 Laoag",
+            "DWSN-FM",
+            "97.9MHz",
+            "5kW",
+            "Laoag"
+        ],
+        [
+            "Mom`s Radio 95.9 Naga",
+            "DZRB-FM",
+            "95.9MHz",
+            "10kW",
+            "Naga"
+        ],
+        [
+            "Mom`s Radio 90.3 Bacolod",
+            "DYCP-FM",
+            "90.3MHz",
+            "5kW",
+            "Bacolod"
+        ],
+        [
+            "Mom`s Radio 88.3 Cebu",
+            "DYAP-FM",
+            "88.3MHz",
+            "5kW",
+            "Cebu"
+        ],
+        [
+            "Mom`s Radio 101.5 Tacloban",
+            "DYJP-FM",
+            "101.5MHz",
+            "2.5kW",
+            "Tacloban"
+        ],
+        [
+            "Mom`s Radio 101.9 Zamboanga",
+            "DXJP-FM",
+            "101.9MHz",
+            "5kW",
+            "Zamboanga"
+        ],
+        [
+            "Mom`s Radio 97.9 Davao",
+            "DXSS",
+            "97.9MHz",
+            "10kW",
+            "Davao"
+        ]
+    ]
+}

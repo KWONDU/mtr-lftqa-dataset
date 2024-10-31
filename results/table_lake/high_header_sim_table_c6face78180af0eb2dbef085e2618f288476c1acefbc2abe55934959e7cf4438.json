@@ -1,0 +1,55 @@
+{
+    "id": "c6face78180af0eb2dbef085e2618f288476c1acefbc2abe55934959e7cf4438",
+    "metadata": "1998-99 Rangers F.C. season | Scottish Cup | Scottish Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "23 January 1999",
+            "R3",
+            "Stenhousemuir",
+            "H",
+            "2-0",
+            "37759"
+        ],
+        [
+            "14 February 1999",
+            "R4",
+            "Hamilton Academical",
+            "A",
+            "6-0",
+            "7339"
+        ],
+        [
+            "6 March 1999",
+            "QF",
+            "Falkirk",
+            "H",
+            "2-1",
+            "39250"
+        ],
+        [
+            "11 April 1999",
+            "SF",
+            "St. Johnstone",
+            "N",
+            "4-0",
+            "20664"
+        ],
+        [
+            "29 May 1999",
+            "F",
+            "Celtic",
+            "N",
+            "1-0",
+            "52670"
+        ]
+    ]
+}

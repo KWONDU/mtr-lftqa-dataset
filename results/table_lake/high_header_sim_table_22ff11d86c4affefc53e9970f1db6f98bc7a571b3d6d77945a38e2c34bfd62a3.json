@@ -1,0 +1,70 @@
+{
+    "id": "22ff11d86c4affefc53e9970f1db6f98bc7a571b3d6d77945a38e2c34bfd62a3",
+    "metadata": "RDRAM | Module specifications | Module specifications",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Designation",
+        "Bus_width_bits",
+        "Channels",
+        "Clock_rate_MHz",
+        "Bandwidth_MB_s"
+    ],
+    "cell": [
+        [
+            "PC600",
+            "16",
+            "Single",
+            "266",
+            "1066"
+        ],
+        [
+            "PC700",
+            "16",
+            "Single",
+            "355",
+            "1420"
+        ],
+        [
+            "PC800",
+            "16",
+            "Single",
+            "400",
+            "1600"
+        ],
+        [
+            "PC1066 (RIMM 2100)",
+            "16",
+            "Single",
+            "533",
+            "2133"
+        ],
+        [
+            "PC1200 (RIMM 2400)",
+            "16",
+            "Single",
+            "600",
+            "2400"
+        ],
+        [
+            "RIMM 3200",
+            "32",
+            "Dual",
+            "400",
+            "3200"
+        ],
+        [
+            "RIMM 4200",
+            "32",
+            "Dual",
+            "533",
+            "4200"
+        ],
+        [
+            "RIMM 4800",
+            "32",
+            "Dual",
+            "600",
+            "4800"
+        ]
+    ]
+}

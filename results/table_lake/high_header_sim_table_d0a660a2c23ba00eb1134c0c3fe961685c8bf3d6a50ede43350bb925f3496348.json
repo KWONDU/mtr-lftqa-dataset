@@ -1,0 +1,70 @@
+{
+    "id": "d0a660a2c23ba00eb1134c0c3fe961685c8bf3d6a50ede43350bb925f3496348",
+    "metadata": "2007 CFL Draft | Round two | Round two",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "9",
+            "Saskatchewan Roughriders (via Hamilton)",
+            "David McKoy",
+            "WR",
+            "Guelph"
+        ],
+        [
+            "10",
+            "Edmonton Eskimos",
+            "Jason Nedd",
+            "DB",
+            "Akron"
+        ],
+        [
+            "11",
+            "Winnipeg Blue Bombers",
+            "Corey Mace",
+            "DT",
+            "Wyoming"
+        ],
+        [
+            "12",
+            "Hamilton Tiger-Cats (via Saskatchewan)",
+            "Jordan Rempel",
+            "OL",
+            "Saskatchewan"
+        ],
+        [
+            "13",
+            "Hamilton Tiger-Cats (via Edmonton via Toronto)",
+            "Eric Ince",
+            "OL",
+            "St. Mary`s"
+        ],
+        [
+            "14",
+            "Calgary Stampeders",
+            "Kevin Challenger",
+            "WR",
+            "Boston College"
+        ],
+        [
+            "15",
+            "Montreal Alouettes",
+            "Darryl Conrad",
+            "T",
+            "Manitoba"
+        ],
+        [
+            "16",
+            "BC Lions",
+            "Josh Bean",
+            "LB",
+            "Boise State"
+        ]
+    ]
+}

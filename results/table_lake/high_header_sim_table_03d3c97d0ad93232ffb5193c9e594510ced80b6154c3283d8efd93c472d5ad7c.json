@@ -1,0 +1,49 @@
+{
+    "id": "03d3c97d0ad93232ffb5193c9e594510ced80b6154c3283d8efd93c472d5ad7c",
+    "metadata": "Lisa Brown-Miller | Coaching record | Coaching record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Wins",
+        "Losses",
+        "Ties_",
+        "Ivy_Lg_record"
+    ],
+    "cell": [
+        [
+            "1991-92",
+            "11",
+            "8",
+            "1",
+            "7-2-1"
+        ],
+        [
+            "1992-93",
+            "8",
+            "8",
+            "2",
+            "6-3-1"
+        ],
+        [
+            "1993-94",
+            "15",
+            "7",
+            "1",
+            "8-2-0"
+        ],
+        [
+            "1994-95",
+            "17",
+            "6",
+            "1",
+            "8-2-0"
+        ],
+        [
+            "1995-96",
+            "9",
+            "17",
+            "0",
+            "3-7-0"
+        ]
+    ]
+}

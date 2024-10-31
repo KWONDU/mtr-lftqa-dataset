@@ -1,0 +1,70 @@
+{
+    "id": "1f831689595e54a38c37f5c5106216ee8c204bedbd246ae80aa0f9e9349095a7",
+    "metadata": "1963 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "18.6 (114)",
+            "North Melbourne",
+            "9.10 (64)",
+            "MCG",
+            "23971",
+            "22 June 1963"
+        ],
+        [
+            "Geelong",
+            "16.13 (109)",
+            "Richmond",
+            "10.11 (71)",
+            "Kardinia Park",
+            "20681",
+            "22 June 1963"
+        ],
+        [
+            "Essendon",
+            "4.16 (40)",
+            "St Kilda",
+            "8.8 (56)",
+            "Windy Hill",
+            "24725",
+            "22 June 1963"
+        ],
+        [
+            "Collingwood",
+            "11.6 (72)",
+            "Footscray",
+            "6.4 (40)",
+            "Victoria Park",
+            "26173",
+            "22 June 1963"
+        ],
+        [
+            "South Melbourne",
+            "8.10 (58)",
+            "Fitzroy",
+            "5.9 (39)",
+            "Lake Oval",
+            "12850",
+            "22 June 1963"
+        ],
+        [
+            "Hawthorn",
+            "9.6 (60)",
+            "Carlton",
+            "7.12 (54)",
+            "Glenferrie Oval",
+            "25300",
+            "22 June 1963"
+        ]
+    ]
+}

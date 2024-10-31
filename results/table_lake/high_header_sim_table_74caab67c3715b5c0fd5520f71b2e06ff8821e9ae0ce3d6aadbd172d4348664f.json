@@ -1,0 +1,106 @@
+{
+    "id": "74caab67c3715b5c0fd5520f71b2e06ff8821e9ae0ce3d6aadbd172d4348664f",
+    "metadata": "2007-08 Golden State Warriors season | February | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Leading_scorer",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "2/1",
+            "Charlotte Bobcats",
+            "127-94",
+            "Golden State Warriors",
+            "Monta Ellis",
+            "20064",
+            "29-19"
+        ],
+        [
+            "2/7",
+            "Chicago Bulls",
+            "108-114",
+            "Golden State Warriors",
+            "Monta Ellis",
+            "19596",
+            "29-20"
+        ],
+        [
+            "2/9",
+            "Sacramento Kings",
+            "105-102",
+            "Golden State Warriors",
+            "Monta Ellis",
+            "20018",
+            "30-20"
+        ],
+        [
+            "2/11",
+            "Washington Wizards",
+            "120-117",
+            "Golden State Warriors",
+            "Stephen Jackson",
+            "19043",
+            "31-20"
+        ],
+        [
+            "2/13",
+            "Phoenix Suns",
+            "120-118",
+            "Golden State Warriors",
+            "Monta Ellis",
+            "19754",
+            "32-20"
+        ],
+        [
+            "2/19",
+            "Golden State Warriors",
+            "109-119",
+            "Utah Jazz",
+            "Al Harrington",
+            "19911",
+            "32-21"
+        ],
+        [
+            "2/20",
+            "Boston Celtics",
+            "119-117",
+            "Golden State Warriors",
+            "Baron Davis",
+            "20711",
+            "33-21"
+        ],
+        [
+            "2/22",
+            "Atlanta Hawks",
+            "110-117",
+            "Golden State Warriors",
+            "Baron Davis",
+            "19596",
+            "33-22"
+        ],
+        [
+            "2/26",
+            "Seattle SuperSonics",
+            "105-99",
+            "Golden State Warriors",
+            "Monta Ellis",
+            "19412",
+            "34-22"
+        ],
+        [
+            "2/29",
+            "Philadelphia 76ers",
+            "119-97",
+            "Golden State Warriors",
+            "Micka\u00ebl Pi\u00e9trus",
+            "19602",
+            "35-22"
+        ]
+    ]
+}

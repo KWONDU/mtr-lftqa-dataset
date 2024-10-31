@@ -1,0 +1,126 @@
+{
+    "id": "56c07104d4f63e597e127db912f385c20acfba1f59629ec2cddb774cd724e6de",
+    "metadata": "1967 Buffalo Bills season | Season schedule | Season schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 10, 1967",
+            "New York Jets",
+            "W 20-17",
+            "45748"
+        ],
+        [
+            "2",
+            "September 17, 1967",
+            "Houston Oilers",
+            "L 20-3",
+            "41384"
+        ],
+        [
+            "3",
+            "September 24, 1967",
+            "Boston Patriots",
+            "L 23-0",
+            "45748"
+        ],
+        [
+            "4",
+            "October 1, 1967",
+            "San Diego Chargers",
+            "L 37-17",
+            "39310"
+        ],
+        [
+            "5",
+            "October 8, 1967",
+            "at Denver Broncos",
+            "W 17-16",
+            "35188"
+        ],
+        [
+            "6",
+            "October 15, 1967",
+            "at Oakland Raiders",
+            "L 24-20",
+            "45758"
+        ],
+        [
+            "7",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "8",
+            "October 29, 1967",
+            "at Houston Oilers",
+            "L 10-3",
+            "30060"
+        ],
+        [
+            "9",
+            "November 5, 1967",
+            "Miami Dolphins",
+            "W 35-13",
+            "31622"
+        ],
+        [
+            "10",
+            "November 12, 1967",
+            "at New York Jets",
+            "L 20-10",
+            "62671"
+        ],
+        [
+            "11",
+            "November 19, 1967",
+            "Denver Broncos",
+            "L 21-20",
+            "30891"
+        ],
+        [
+            "12",
+            "November 26, 1967",
+            "at Miami Dolphins",
+            "L 17-14",
+            "27050"
+        ],
+        [
+            "13",
+            "December 3, 1967",
+            "at Kansas City Chiefs",
+            "L 23-13",
+            "41943"
+        ],
+        [
+            "14",
+            "December 9, 1967",
+            "at Boston Patriots",
+            "W 44-16",
+            "20627"
+        ],
+        [
+            "15",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "16",
+            "December 24, 1967",
+            "at Oakland Raiders",
+            "L 28-21",
+            "30738"
+        ]
+    ]
+}

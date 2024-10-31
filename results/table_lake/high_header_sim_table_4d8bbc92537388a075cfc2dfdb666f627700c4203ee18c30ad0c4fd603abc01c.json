@@ -1,0 +1,70 @@
+{
+    "id": "4d8bbc92537388a075cfc2dfdb666f627700c4203ee18c30ad0c4fd603abc01c",
+    "metadata": "1981 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Carlton",
+            "12.15 (87)",
+            "Collingwood",
+            "22.12 (144)",
+            "Princes Park",
+            "36506",
+            "2 May 1981"
+        ],
+        [
+            "Richmond",
+            "10.19 (79)",
+            "Hawthorn",
+            "23.16 (154)",
+            "MCG",
+            "45750",
+            "2 May 1981"
+        ],
+        [
+            "North Melbourne",
+            "27.17 (179)",
+            "Fitzroy",
+            "19.12 (126)",
+            "Arden Street Oval",
+            "16210",
+            "2 May 1981"
+        ],
+        [
+            "Footscray",
+            "13.13 (91)",
+            "Essendon",
+            "12.11 (83)",
+            "Western Oval",
+            "19264",
+            "2 May 1981"
+        ],
+        [
+            "South Melbourne",
+            "15.13 (103)",
+            "St Kilda",
+            "13.15 (93)",
+            "VFL Park",
+            "27172",
+            "2 May 1981"
+        ],
+        [
+            "Geelong",
+            "22.21 (153)",
+            "Melbourne",
+            "16.8 (104)",
+            "SCG",
+            "11077",
+            "3 May 1981"
+        ]
+    ]
+}

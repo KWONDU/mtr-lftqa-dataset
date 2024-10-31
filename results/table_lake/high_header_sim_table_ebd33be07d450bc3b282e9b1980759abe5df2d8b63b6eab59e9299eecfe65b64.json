@@ -1,0 +1,56 @@
+{
+    "id": "ebd33be07d450bc3b282e9b1980759abe5df2d8b63b6eab59e9299eecfe65b64",
+    "metadata": "Locomotives of the London and North Eastern Railway | (1893-1900) | (1893-1900)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Type_",
+        "Quantity",
+        "Date_",
+        "LNER_Class"
+    ],
+    "cell": [
+        [
+            "2A",
+            "4-4-0",
+            "6",
+            "1887-1892",
+            "D7"
+        ],
+        [
+            "5",
+            "0-6-0ST",
+            "12",
+            "1897",
+            "J62"
+        ],
+        [
+            "9G",
+            "2-4-2T",
+            "10",
+            "1896",
+            "F2"
+        ],
+        [
+            "11",
+            "4-4-0",
+            "6",
+            "1894-95",
+            "D5"
+        ],
+        [
+            "11A",
+            "4-4-0",
+            "33",
+            "1897-99",
+            "D6"
+        ],
+        [
+            "13",
+            "4-2-2",
+            "6",
+            "1900",
+            "X4"
+        ]
+    ]
+}

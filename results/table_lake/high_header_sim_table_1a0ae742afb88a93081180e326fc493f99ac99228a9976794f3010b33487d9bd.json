@@ -1,0 +1,106 @@
+{
+    "id": "1a0ae742afb88a93081180e326fc493f99ac99228a9976794f3010b33487d9bd",
+    "metadata": "Franck Lagorce | 24 Hours of Le Mans results | 24 Hours of Le Mans results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "Co_Drivers",
+        "Class_",
+        "Laps",
+        "Pos_",
+        "Class_Pos_"
+    ],
+    "cell": [
+        [
+            "1994",
+            "Courage Comp\u00e9tition",
+            "Henri Pescarolo Alain Fert\u00e9",
+            "LMP1 C90",
+            "142",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "1995",
+            "Courage Comp\u00e9tition",
+            "Henri Pescarolo \u00c9ric Bernard",
+            "WSC",
+            "26",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "1996",
+            "La Fili\u00e8re Elf",
+            "Henri Pescarolo Emmanuel Collard",
+            "LMP1",
+            "327",
+            "7th",
+            "2nd"
+        ],
+        [
+            "1997",
+            "DAMS",
+            "\u00c9ric Bernard Jean-Christophe Boullion",
+            "GT1",
+            "149",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "1998",
+            "Nissan Motorsports TWR",
+            "John Nielsen Michael Krumm",
+            "GT1",
+            "342",
+            "5th",
+            "5th"
+        ],
+        [
+            "1999",
+            "AMG-Mercedes",
+            "Bernd Schneider Pedro Lamy",
+            "LMGTP",
+            "76",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2000",
+            "Team Cadillac",
+            "Butch Leitzinger Andy Wallace",
+            "LMP900",
+            "291",
+            "21st",
+            "11th"
+        ],
+        [
+            "2001",
+            "Panoz Motorsports",
+            "David Brabham Jan Magnussen",
+            "LMP900",
+            "85",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2002",
+            "Pescarolo Sport",
+            "S\u00e9bastien Bourdais Jean-Christophe Boullion",
+            "LMP900",
+            "343",
+            "10th",
+            "9th"
+        ],
+        [
+            "2003",
+            "Pescarolo Sport",
+            "St\u00e9phane Sarrazin Jean-Christophe Boullion",
+            "LMP900",
+            "356",
+            "8th",
+            "6th"
+        ]
+    ]
+}

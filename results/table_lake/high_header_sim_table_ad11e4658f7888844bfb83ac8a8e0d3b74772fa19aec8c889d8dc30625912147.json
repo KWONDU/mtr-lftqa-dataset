@@ -1,0 +1,71 @@
+{
+    "id": "ad11e4658f7888844bfb83ac8a8e0d3b74772fa19aec8c889d8dc30625912147",
+    "metadata": "List of NGC objects (7001-7840) | 7701-7800 | 7701-7800",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_",
+        "Apparent_magnitude"
+    ],
+    "cell": [
+        [
+            "7714",
+            "Spiral galaxy",
+            "Pisces",
+            "23h36m14.1s",
+            "\u00b09\u203217\u2033",
+            "12.2"
+        ],
+        [
+            "7742",
+            "Spiral galaxy",
+            "Pegasus",
+            "23h44m15.9s",
+            "\u00b046\u203201\u2033",
+            "12.5"
+        ],
+        [
+            "7752",
+            "Irregular galaxy",
+            "Pegasus",
+            "23h46m58.5s",
+            "\u00b027\u203232\u2033",
+            "14.3"
+        ],
+        [
+            "7753",
+            "Spiral galaxy",
+            "Pegasus",
+            "23h47m05.0s",
+            "\u00b029\u203200\u2033",
+            "13.2"
+        ],
+        [
+            "7777",
+            "Lenticular galaxy",
+            "Pegasus",
+            "23h53m12.6s",
+            "\u00b016\u203259\u2033",
+            "14.5"
+        ],
+        [
+            "7789",
+            "Open cluster",
+            "Cassiopeia",
+            "23h57m24s",
+            "\u00b043\u2032",
+            "7.7"
+        ],
+        [
+            "7793",
+            "Spiral galaxy",
+            "Sculptor",
+            "23h57m49.7s",
+            "\u00b035\u203230\u2033",
+            "9.7"
+        ]
+    ]
+}

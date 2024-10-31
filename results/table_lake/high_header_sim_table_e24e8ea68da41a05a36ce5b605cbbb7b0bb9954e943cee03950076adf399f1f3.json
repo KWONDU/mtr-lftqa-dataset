@@ -1,0 +1,119 @@
+{
+    "id": "e24e8ea68da41a05a36ce5b605cbbb7b0bb9954e943cee03950076adf399f1f3",
+    "metadata": "Jaguar XJR-15 | Auction history | Auction history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Auction_House",
+        "Year_",
+        "Event",
+        "Price",
+        "GBP_Price"
+    ],
+    "cell": [
+        [
+            "Tokyo Auction",
+            "1992",
+            "Tokyo",
+            "525000",
+            "326087"
+        ],
+        [
+            "Christies",
+            "1999",
+            "Pebble Beach",
+            "178000",
+            "110559"
+        ],
+        [
+            "Brooks",
+            "2000",
+            "Hendon",
+            "129100",
+            "129100"
+        ],
+        [
+            "Christies",
+            "2001",
+            "Pebble Beach",
+            "182000",
+            "113000"
+        ],
+        [
+            "Bonhams",
+            "2002",
+            "Nurburgring",
+            "197000",
+            "160000"
+        ],
+        [
+            "Wyles Hardy",
+            "2003",
+            "TWR Liquidation",
+            "95000",
+            "95000"
+        ],
+        [
+            "RM",
+            "2003",
+            "Monterey",
+            "154000",
+            "95000"
+        ],
+        [
+            "RM",
+            "2003",
+            "Arizona",
+            "190000",
+            "118000"
+        ],
+        [
+            "Bonhams",
+            "2004",
+            "Carmel",
+            "175000",
+            "109000"
+        ],
+        [
+            "Coys",
+            "2006",
+            "Nuremberg",
+            "198000",
+            "160000"
+        ],
+        [
+            "Russo and Steele",
+            "2007",
+            "Monterey",
+            "231000",
+            "144000"
+        ],
+        [
+            "Motor Cars LV",
+            "2008",
+            "Las Vegas",
+            "225000",
+            "140000"
+        ],
+        [
+            "Coys",
+            "2010",
+            "Blenheim Palace",
+            "130000",
+            "130000"
+        ],
+        [
+            "Coys",
+            "2010",
+            "Legend et Passion",
+            "175000",
+            "160000"
+        ],
+        [
+            "RM",
+            "2011",
+            "Monterey",
+            "170000",
+            "109000"
+        ]
+    ]
+}

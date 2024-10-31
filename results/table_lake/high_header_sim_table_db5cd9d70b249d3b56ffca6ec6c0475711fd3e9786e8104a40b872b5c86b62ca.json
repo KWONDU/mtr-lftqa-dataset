@@ -1,0 +1,73 @@
+{
+    "id": "db5cd9d70b249d3b56ffca6ec6c0475711fd3e9786e8104a40b872b5c86b62ca",
+    "metadata": "2006 Tour de France | Final standings | Points classification",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Rider",
+        "Team",
+        "Points_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Robbie McEwen (AUS)",
+            "Davitamon-Lotto",
+            "288"
+        ],
+        [
+            "2",
+            "Erik Zabel (GER)",
+            "Team Milram",
+            "199"
+        ],
+        [
+            "3",
+            "Thor Hushovd (NOR)",
+            "Cr\u00e9dit Agricole",
+            "195"
+        ],
+        [
+            "4",
+            "Bernhard Eisel (AUT)",
+            "Fran\u00e7aise des Jeux",
+            "176"
+        ],
+        [
+            "5",
+            "Luca Paolini (ITA)",
+            "Liquigas",
+            "174"
+        ],
+        [
+            "6",
+            "I\u00f1aki Isasi (ESP)",
+            "Euskaltel-Euskadi",
+            "130"
+        ],
+        [
+            "7",
+            "Francisco Ventoso (ESP)",
+            "Saunier Duval-Prodir",
+            "128"
+        ],
+        [
+            "8",
+            "Cristian Moreni (ITA)",
+            "Cofidis",
+            "116"
+        ],
+        [
+            "9",
+            "Jimmy Casper (FRA)",
+            "Cofidis",
+            "98"
+        ],
+        [
+            "10",
+            "\u00d3scar Pereiro (ESP)",
+            "Caisse d`Epargne-Illes Balears",
+            "88"
+        ]
+    ]
+}

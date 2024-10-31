@@ -1,0 +1,56 @@
+{
+    "id": "554738510d9a9f317f15d767746ce7f8e77bf4573cdcf86dbf8777ba3382cf27",
+    "metadata": "Northern Lites | Accolades | Accolades",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Publication",
+        "Country",
+        "Accolade",
+        "Year_",
+        "Rank_"
+    ],
+    "cell": [
+        [
+            "Iguana Music",
+            "Spain",
+            "Songs `99",
+            "1999",
+            "7"
+        ],
+        [
+            "John Peel show, BBC Radio 1",
+            "United Kingdom",
+            "John Peel`s Festive 50",
+            "1999",
+            "24"
+        ],
+        [
+            "Melody Maker",
+            "United Kingdom",
+            "Single of the Week 15 May 1999",
+            "1999",
+            "-"
+        ],
+        [
+            "NME",
+            "United Kingdom",
+            "Single of the Week 8 May 1999",
+            "1999",
+            "-"
+        ],
+        [
+            "NME",
+            "United Kingdom",
+            "Singles of 1999",
+            "1999",
+            "3"
+        ],
+        [
+            "Select",
+            "United Kingdom",
+            "Singles of 1999",
+            "1999",
+            "22"
+        ]
+    ]
+}

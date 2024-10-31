@@ -1,0 +1,63 @@
+{
+    "id": "8986cecf0289bdf8048c851627997d12014719a286abd9748d28347e49623db6",
+    "metadata": "List of Fairbanks-Morse locomotives | C-liners | C-liners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Build_year",
+        "Total_produced",
+        "Wheel_arrangement",
+        "Prime_mover",
+        "Power_output"
+    ],
+    "cell": [
+        [
+            "FM CFA-16-4",
+            "1950-1953",
+            "36",
+            "B-B",
+            "FM 38D-8 opposed piston",
+            "hp (MW)"
+        ],
+        [
+            "FM CFB-16-4",
+            "1950-1953",
+            "18",
+            "B-B",
+            "FM 38D-8 opposed piston",
+            "hp (MW)"
+        ],
+        [
+            "FM CFA-20-4",
+            "1950-1953",
+            "12",
+            "B-B",
+            "FM 38D-10 opposed piston",
+            "hp (MW)"
+        ],
+        [
+            "FM CFB-20-4",
+            "1950-1953",
+            "3",
+            "B-B",
+            "FM 38D-10 opposed piston",
+            "hp (MW)"
+        ],
+        [
+            "FM CPA-20-5",
+            "1950-1953",
+            "8",
+            "B-A1A",
+            "FM 38D-10 opposed piston",
+            "hp (MW)"
+        ],
+        [
+            "FM CPA-24-5",
+            "1950-1953",
+            "22",
+            "B-A1A",
+            "FM 38D-12 opposed piston",
+            "hp (MW)"
+        ]
+    ]
+}

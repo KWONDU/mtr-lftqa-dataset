@@ -1,0 +1,70 @@
+{
+    "id": "0d1d39883174e221f0290ca1ee53981eb978e58eff2fc265a3f92b3de5314321",
+    "metadata": "Eastern States Collegiate Hockey League | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Founded",
+        "Affiliation",
+        "Enrollment",
+        "Nickname",
+        "Primary_conference"
+    ],
+    "cell": [
+        [
+            "University of Delaware",
+            "Newark, DE",
+            "1743",
+            "Public",
+            "19067",
+            "Fightin` Blue Hens",
+            "Colonial Athletic Association ( D-I )"
+        ],
+        [
+            "Lebanon Valley College",
+            "Annville, PA",
+            "1866",
+            "Private/Methodist",
+            "2100",
+            "Flying Dutchmen",
+            "MAC Commonwealth Conference ( D-III )"
+        ],
+        [
+            "University of Rhode Island",
+            "Kingston, RI",
+            "1892",
+            "Public",
+            "19095",
+            "Rams",
+            "Atlantic 10 Conference ( D-I )"
+        ],
+        [
+            "Rutgers University",
+            "New Brunswick, NJ",
+            "1766",
+            "Public",
+            "56868",
+            "Scarlet Knights",
+            "American Athletic Conference ( D-I )"
+        ],
+        [
+            "Stony Brook University",
+            "Stony Brook, NY",
+            "1957",
+            "Public",
+            "23997",
+            "Seawolves",
+            "America East Conference ( D-I )"
+        ],
+        [
+            "West Chester University",
+            "West Chester, PA",
+            "1871",
+            "Public",
+            "12800",
+            "Golden Rams",
+            "PSAC ( D-II )"
+        ]
+    ]
+}

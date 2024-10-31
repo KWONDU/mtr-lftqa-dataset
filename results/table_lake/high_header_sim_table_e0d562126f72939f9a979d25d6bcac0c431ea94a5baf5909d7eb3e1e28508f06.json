@@ -1,0 +1,49 @@
+{
+    "id": "e0d562126f72939f9a979d25d6bcac0c431ea94a5baf5909d7eb3e1e28508f06",
+    "metadata": "International Formula Master | Champions | Champions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Series_Name",
+        "Champion",
+        "Team_Champion",
+        "Secondary_Class_Champion"
+    ],
+    "cell": [
+        [
+            "2005",
+            "3000 Pro Series",
+            "Norbert Siedler / Max Busnelli",
+            "Draco Junior Team",
+            "Iago Rego Rosende (Master Junior Formula)"
+        ],
+        [
+            "2006",
+            "F3000 International Masters",
+            "Jan Charouz",
+            "Charouz Racing System",
+            "Daniel Campos-Hull (Master Junior Formula)"
+        ],
+        [
+            "2007",
+            "International Formula Master",
+            "J\u00e9r\u00f4me d`Ambrosio",
+            "Cram Competition",
+            "Isaac L\u00f3pez Navarro (Master Junior Formula)"
+        ],
+        [
+            "2008",
+            "International Formula Master",
+            "Chris van der Drift",
+            "JD Motorsport",
+            "Marcello Puglisi (Formula Master Italia)"
+        ],
+        [
+            "2009",
+            "International Formula Master",
+            "Fabio Leimer",
+            "JD Motorsport",
+            "Alexander Rossi (Rookie of the year)"
+        ]
+    ]
+}

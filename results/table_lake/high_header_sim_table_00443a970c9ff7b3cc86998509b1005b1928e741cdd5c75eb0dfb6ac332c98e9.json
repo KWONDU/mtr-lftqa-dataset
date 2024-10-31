@@ -1,0 +1,70 @@
+{
+    "id": "00443a970c9ff7b3cc86998509b1005b1928e741cdd5c75eb0dfb6ac332c98e9",
+    "metadata": "Sandra Post | LPGA Tour wins (8) | LPGA Tour wins (8)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Winning_score",
+        "Margin_of_victory",
+        "Runners_up"
+    ],
+    "cell": [
+        [
+            "Jun 23, 1968",
+            "LPGA Championship",
+            "+2 (72-75-74-73=294)",
+            "Playoff",
+            "Kathy Whitworth"
+        ],
+        [
+            "Apr 2, 1978",
+            "Colgate-Dinah Shore Winner`s Circle",
+            "\u22125 (65-74-72-72=283)",
+            "Playoff",
+            "Penny Pulz"
+        ],
+        [
+            "Aug 20, 1978",
+            "Lady Stroh`s Open",
+            "\u22122 (69-71-71-75=286)",
+            "Playoff",
+            "Pat Meyers , Kathy Whitworth"
+        ],
+        [
+            "Apr 8, 1979",
+            "Colgate-Dinah Shore Winner`s Circle",
+            "\u221212 (68-70-68-70=276)",
+            "1 stroke",
+            "Nancy Lopez"
+        ],
+        [
+            "May 13, 1979",
+            "Lady Michelob",
+            "\u22129 (72-69-69=210)",
+            "2 strokes",
+            "Pat Bradley"
+        ],
+        [
+            "Sep 23, 1979",
+            "ERA Real Estate Classic",
+            "\u22128 (71-73-70-70=284)",
+            "2 strokes",
+            "Donna Caponi"
+        ],
+        [
+            "Aug 3, 1980",
+            "West Virginia LPGA Classic",
+            "\u22125 (69-69-73=211)",
+            "Playoff",
+            "Donna Caponi"
+        ],
+        [
+            "Jun 7, 1981",
+            "McDonald`s Kids Classic",
+            "\u22126 (69-69-73-71=282)",
+            "2 strokes",
+            "Amy Alcott"
+        ]
+    ]
+}

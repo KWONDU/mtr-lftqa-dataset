@@ -1,0 +1,98 @@
+{
+    "id": "3faac460078be7f28b8d82b4d26a8130a41a9aba010c0248baeffa65ebb5c1a7",
+    "metadata": "2005 PGA Championship | Third round (Saturday) | Third round (Saturday)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Davis Love III",
+            "United States",
+            "68-68-68=204",
+            "-6"
+        ],
+        [
+            "T1",
+            "Phil Mickelson",
+            "United States",
+            "67-65-72=204",
+            "-6"
+        ],
+        [
+            "3",
+            "Thomas Bj\u00f8rn",
+            "Denmark",
+            "71-71-63=205",
+            "-5"
+        ],
+        [
+            "T4",
+            "Stuart Appleby",
+            "Australia",
+            "67-70-69=206",
+            "-4"
+        ],
+        [
+            "T4",
+            "Steve Elkington",
+            "Australia",
+            "68-70-68=206",
+            "-4"
+        ],
+        [
+            "T4",
+            "Pat Perez",
+            "United States",
+            "68-71-67=206",
+            "-4"
+        ],
+        [
+            "T4",
+            "Vijay Singh",
+            "Fiji",
+            "70-67-69=206",
+            "-4"
+        ],
+        [
+            "T8",
+            "Jason Bohn",
+            "United States",
+            "71-68-68=207",
+            "-3"
+        ],
+        [
+            "T8",
+            "Ben Curtis",
+            "United States",
+            "67-73-67=207",
+            "-3"
+        ],
+        [
+            "T8",
+            "Retief Goosen",
+            "South Africa",
+            "68-70-69=207",
+            "-3"
+        ],
+        [
+            "T8",
+            "Greg Owen",
+            "England",
+            "68-69-70=207",
+            "-3"
+        ],
+        [
+            "T8",
+            "Lee Westwood",
+            "England",
+            "68-68-71=207",
+            "-3"
+        ]
+    ]
+}

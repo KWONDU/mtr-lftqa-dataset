@@ -1,0 +1,84 @@
+{
+    "id": "a227093c81e4ee853fd0e7c1537660bfaa53d0488c7a29874df731f8246f32b8",
+    "metadata": "2003 MLS SuperDraft | Round Three | Round Three",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "MLS_team",
+        "Player",
+        "Position_",
+        "Affiliation"
+    ],
+    "cell": [
+        [
+            "21",
+            "Dallas Burn",
+            "David Comfort",
+            "GK",
+            "University of Virginia"
+        ],
+        [
+            "22",
+            "New England Revolution",
+            "Dimelon Westfield",
+            "F",
+            "Clemson University"
+        ],
+        [
+            "23",
+            "San Jose Earthquakes",
+            "Roger Levesque",
+            "F",
+            "Stanford University"
+        ],
+        [
+            "24",
+            "Chicago Fire",
+            "* Logan Pause",
+            "M",
+            "University of North Carolina"
+        ],
+        [
+            "25",
+            "Chicago Fire",
+            "Ryan Mack",
+            "M",
+            "Indiana University"
+        ],
+        [
+            "26",
+            "Chicago Fire",
+            "Phil Swenda",
+            "F",
+            "Seton Hall University"
+        ],
+        [
+            "27",
+            "Colorado Rapids",
+            "Jason Cole",
+            "D",
+            "St. Louis University"
+        ],
+        [
+            "28",
+            "Colorado Rapids",
+            "Alex Blake",
+            "F",
+            "Williams College"
+        ],
+        [
+            "29",
+            "New England Revolution",
+            "Kyle Singer",
+            "GK",
+            "Boston College"
+        ],
+        [
+            "30",
+            "MetroStars",
+            "Tim Glowienka",
+            "D",
+            "University of South Carolina"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "fe962ebacb3bf046a1d119fc3e30c862a0db923c8fb4830fbb47f80ac7640c40",
+    "metadata": "Opinion polling for the United States Senate elections, 2008 | Massachusetts | Massachusetts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Poll_Source",
+        "Dates_administered",
+        "Democrat_John_Kerry",
+        "Republican_Jeff_Beatty",
+        "Lead_Margin"
+    ],
+    "cell": [
+        [
+            "Survey USA",
+            "October 28, 2008",
+            "58%",
+            "34%",
+            "24"
+        ],
+        [
+            "Survey USA",
+            "October 14, 2008",
+            "59%",
+            "29%",
+            "30"
+        ],
+        [
+            "Rasmussen Reports",
+            "October 13, 2008",
+            "63%",
+            "31%",
+            "32"
+        ],
+        [
+            "Rasmussen Reports",
+            "September 23, 2008",
+            "65%",
+            "30%",
+            "35"
+        ],
+        [
+            "Survey USA",
+            "September 22-September 23, 2008",
+            "63%",
+            "25%",
+            "38"
+        ],
+        [
+            "Rasmussen Reports",
+            "August 5, 2008",
+            "59%",
+            "32%",
+            "27"
+        ],
+        [
+            "Rasmussen Reports",
+            "June 30, 2008",
+            "58%",
+            "27%",
+            "31"
+        ],
+        [
+            "Rasmussen Reports",
+            "May 28, 2008",
+            "63%",
+            "25%",
+            "38"
+        ],
+        [
+            "Rasmussen Reports",
+            "April 22, 2008",
+            "55%",
+            "30%",
+            "25"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "c62c40f9d22a5452280e4974662b767d25e28a3f615eccc805e82d58647fceb5",
+    "metadata": "D meson | List of D mesons | D mesons",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Particle_name",
+        "Particle_symbol",
+        "Antiparticle_symbol",
+        "Quark_content",
+        "Rest_mass_MeV_c_2_",
+        "J_P_C",
+        "Mean_lifetime_s_",
+        "Commonly_decays_to_5_of_decays"
+    ],
+    "cell": [
+        [
+            "D meson",
+            "D +",
+            "D \u2212",
+            "c d",
+            "1,869.62\u00b10.20",
+            "0 \u2212",
+            "1.040 \u00b1 0.007 \u00d7 10 \u221212",
+            "See D + decay modes"
+        ],
+        [
+            "D meson",
+            "D 0",
+            "D 0",
+            "c u",
+            "1,864.84\u00b10.17",
+            "0 \u2212",
+            "4.101 \u00b1 0.015 \u00d7 10 \u221213",
+            "See D 0 decay modes"
+        ],
+        [
+            "Strange D meson",
+            "D + s",
+            "D \u2212 s",
+            "c s",
+            ".47 \u00b1 .33",
+            "0 \u2212",
+            ".00 \u00b1 .07 \u00d7 10\u2212",
+            "See D + s decay modes"
+        ],
+        [
+            "D meson",
+            "D \u2217+ (2010)",
+            "D \u2217\u2212 (2010)",
+            "c d",
+            "2,010.27.62\u00b10.17",
+            "1 \u2212",
+            "6.9 \u00b1 1.9 \u00d7 10 \u221221",
+            "D 0 + \u03c0 + or D + + \u03c0 0"
+        ],
+        [
+            "D meson",
+            "D \u22170 (2007)",
+            "D \u22170 (2007)",
+            "c u",
+            "2,006.97\u00b10.19",
+            "1 \u2212",
+            ">3.1 \u00d7 10 \u221222",
+            "D 0 + \u03c0 0 or D 0 + \u03b3"
+        ]
+    ]
+}

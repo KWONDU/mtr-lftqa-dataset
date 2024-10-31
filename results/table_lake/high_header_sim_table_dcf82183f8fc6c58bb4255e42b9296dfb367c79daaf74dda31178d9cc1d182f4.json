@@ -1,0 +1,61 @@
+{
+    "id": "dcf82183f8fc6c58bb4255e42b9296dfb367c79daaf74dda31178d9cc1d182f4",
+    "metadata": "2010 NBA All-Star Game | Skills Challenge | Contestants",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos_",
+        "Player",
+        "Team",
+        "Height",
+        "Weight",
+        "First_round",
+        "Final_round"
+    ],
+    "cell": [
+        [
+            "G",
+            "Steve Nash",
+            "Phoenix Suns",
+            "6-3",
+            "195",
+            "35.0",
+            "29.9"
+        ],
+        [
+            "G",
+            "Deron Williams",
+            "Utah Jazz",
+            "6-3",
+            "207",
+            "34.1",
+            "37.9"
+        ],
+        [
+            "G",
+            "Brandon Jennings",
+            "Milwaukee Bucks",
+            "6-1",
+            "169",
+            "35.7",
+            "\u2014"
+        ],
+        [
+            "G",
+            "Russell Westbrook",
+            "Oklahoma City Thunder",
+            "6-3",
+            "187",
+            "44.1",
+            "\u2014"
+        ],
+        [
+            "G",
+            "Derrick Rose",
+            "Chicago Bulls",
+            "6-3",
+            "190",
+            "\u2014",
+            "\u2014"
+        ]
+    ]
+}

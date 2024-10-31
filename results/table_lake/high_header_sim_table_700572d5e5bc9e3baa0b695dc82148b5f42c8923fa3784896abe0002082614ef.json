@@ -1,0 +1,56 @@
+{
+    "id": "700572d5e5bc9e3baa0b695dc82148b5f42c8923fa3784896abe0002082614ef",
+    "metadata": "Stewart Cink | PGA Tour wins (6) | PGA Tour wins (6)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Winning_score",
+        "Margin_of_victory",
+        "Runners_up"
+    ],
+    "cell": [
+        [
+            "Jul 27, 1997",
+            "Canon Greater Hartford Open",
+            "\u221213 (69-67-65-66=267)",
+            "1 stroke",
+            "Tom Byrum , Brandel Chamblee , Jeff Maggert"
+        ],
+        [
+            "Apr 16, 2000",
+            "MCI Classic",
+            "\u221214 (71-68-66-65=270)",
+            "2 strokes",
+            "Tom Lehman"
+        ],
+        [
+            "Apr 18, 2004",
+            "MCI Heritage",
+            "\u221210 (72-69-69-64=274)",
+            "Playoff",
+            "Ted Purdy"
+        ],
+        [
+            "Aug 22, 2004",
+            "WGC-NEC Invitational",
+            "\u221211 (63-68-68-70=269)",
+            "4 strokes",
+            "Rory Sabbatini , Tiger Woods"
+        ],
+        [
+            "Jun 22, 2008",
+            "Travelers Championship",
+            "\u221218 (66-64-65-67=262)",
+            "1 stroke",
+            "Tommy Armour III , Hunter Mahan"
+        ],
+        [
+            "Jul 19, 2009",
+            "The Open Championship",
+            "\u22122 (66-72-71-69=278)",
+            "Playoff",
+            "Tom Watson"
+        ]
+    ]
+}

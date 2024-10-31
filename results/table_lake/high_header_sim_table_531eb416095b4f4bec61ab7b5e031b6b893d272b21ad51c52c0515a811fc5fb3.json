@@ -1,0 +1,55 @@
+{
+    "id": "531eb416095b4f4bec61ab7b5e031b6b893d272b21ad51c52c0515a811fc5fb3",
+    "metadata": "1983 PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Hal Sutton",
+            "United States",
+            "426668",
+            "30",
+            "2"
+        ],
+        [
+            "2",
+            "Fuzzy Zoeller",
+            "United States",
+            "417597",
+            "28",
+            "2"
+        ],
+        [
+            "3",
+            "Lanny Wadkins",
+            "United States",
+            "319271",
+            "25",
+            "2"
+        ],
+        [
+            "4",
+            "Calvin Peete",
+            "United States",
+            "313845",
+            "24",
+            "2"
+        ],
+        [
+            "5",
+            "Gil Morgan",
+            "United States",
+            "306133",
+            "25",
+            "2"
+        ]
+    ]
+}

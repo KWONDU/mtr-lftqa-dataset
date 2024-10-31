@@ -1,0 +1,49 @@
+{
+    "id": "bd02742ce7c5fdfe47c9e0e76017b34c7d797eba6b888937dd229ddbc513bdfe",
+    "metadata": "2008-09 Euroleague | Assists | Assists",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Team",
+        "Games",
+        "Assists"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Theo Papaloukas",
+            "Olympiacos",
+            "21",
+            "110"
+        ],
+        [
+            "2.",
+            "Omar Cook",
+            "Unicaja M\u00e1laga",
+            "16",
+            "82"
+        ],
+        [
+            "3.",
+            "Terrell McIntyre",
+            "Montepaschi Siena",
+            "19",
+            "84"
+        ],
+        [
+            "4.",
+            "Pablo Prigioni",
+            "TAU Cer\u00e1mica",
+            "21",
+            "91"
+        ],
+        [
+            "5.",
+            "Vassilis Spanoulis",
+            "Panathinaikos",
+            "18",
+            "67"
+        ]
+    ]
+}

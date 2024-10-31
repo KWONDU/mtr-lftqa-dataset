@@ -1,0 +1,61 @@
+{
+    "id": "13435b9bf1c737850d5b1e8266f2e2d85d17a2c98f1ac69fdb8c6178266af3b8",
+    "metadata": "List of airports in Queensland | Defunct airports | Defunct airports",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Community",
+        "Airport_name",
+        "Type_",
+        "Coordinates_"
+    ],
+    "cell": [
+        [
+            "Antil Plains",
+            "Antil Plains Aerodrome",
+            "Military",
+            "19\u00b026\u203236\u2033S 146\u00b049\u203229\u2033E\ufeff / \ufeff19.44333\u00b0S 146.82472\u00b0E"
+        ],
+        [
+            "Eagle Farm, Brisbane",
+            "Eagle Farm Airport",
+            "Military/Public",
+            "27\u00b025\u203230\u2033S 153\u00b005\u203203\u2033E\ufeff / \ufeff27.42500\u00b0S 153.08417\u00b0E"
+        ],
+        [
+            "Charters Towers",
+            "Breddan Aerodrome",
+            "Military",
+            "19\u00b056\u203234\u2033S 146\u00b014\u203221\u2033E\ufeff / \ufeff19.94278\u00b0S 146.23917\u00b0E"
+        ],
+        [
+            "Petrie, Brisbane",
+            "Petrie Airfield",
+            "Military",
+            "27\u00b017\u2032S 153\u00b000\u2032E\ufeff / \ufeff27.283\u00b0S 153.000\u00b0E"
+        ],
+        [
+            "Tarampa",
+            "Tarampa Airfield",
+            "Military",
+            "27\u00b027\u203219\u2033S 152\u00b028\u203256\u2033E\ufeff / \ufeff27.45528\u00b0S 152.48222\u00b0E"
+        ],
+        [
+            "Townsville",
+            "Aitkenvale Aerodrome",
+            "Military",
+            "19\u00b018\u203245\u2033S 146\u00b044\u203223\u2033E\ufeff / \ufeff19.31250\u00b0S 146.73972\u00b0E"
+        ],
+        [
+            "Townsville",
+            "Bohle River Aerodrome",
+            "Military",
+            "19\u00b016\u203258\u2033S 146\u00b041\u203257\u2033E\ufeff / \ufeff19.28278\u00b0S 146.69917\u00b0E"
+        ],
+        [
+            "Townsville",
+            "Reid River Airfield",
+            "Military",
+            "19\u00b045\u203245\u2033S 146\u00b050\u203240\u2033E\ufeff / \ufeff19.76250\u00b0S 146.84444\u00b0E"
+        ]
+    ]
+}

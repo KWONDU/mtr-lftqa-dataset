@@ -1,0 +1,609 @@
+{
+    "id": "f6802d73bbb8ebc1fa80a8281e1e21ac7471a6927df7c389a86d1223cd547ffa",
+    "metadata": "List of drainage basins by area | Basins | Basins",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Basin",
+        "Continent",
+        "Drains_to",
+        "Basin_Area_km_2",
+        "Basin_Area_mi_2"
+    ],
+    "cell": [
+        [
+            "Atlantic Ocean",
+            "multiple",
+            "n/a",
+            "69800000",
+            "26900000"
+        ],
+        [
+            "Arctic Ocean",
+            "multiple",
+            "n/a",
+            "23100000",
+            "8900000"
+        ],
+        [
+            "Pacific Ocean",
+            "multiple",
+            "n/a",
+            "20300000",
+            "7800000"
+        ],
+        [
+            "Indian Ocean",
+            "multiple",
+            "n/a",
+            "19400000",
+            "7500000"
+        ],
+        [
+            "Southern Ocean",
+            "Antarctica",
+            "n/a",
+            "14000000",
+            "5400000"
+        ],
+        [
+            "Mediterranean Sea",
+            "multiple",
+            "Atlantic Ocean",
+            "8500000",
+            "3300000"
+        ],
+        [
+            "Gulf of Mexico and Caribbean Sea",
+            "multiple",
+            "Atlantic Ocean",
+            "6200000",
+            "2400000"
+        ],
+        [
+            "Amazon River",
+            "South America",
+            "Atlantic Ocean",
+            "6144727",
+            "2372492"
+        ],
+        [
+            "R\u00edo de la Plata",
+            "South America",
+            "Atlantic Ocean",
+            "4144000",
+            "1600000"
+        ],
+        [
+            "Congo River",
+            "Africa",
+            "Atlantic Ocean",
+            "3730474",
+            "1440344"
+        ],
+        [
+            "Caspian Sea",
+            "Asia/Europe",
+            "n/a ( endorheic basin )",
+            "3626000",
+            "1400000"
+        ],
+        [
+            "Nile River",
+            "Africa",
+            "Mediterranean Sea",
+            "3254555",
+            "1256591"
+        ],
+        [
+            "Mississippi-Missouri River",
+            "North America",
+            "Gulf of Mexico",
+            "3202230",
+            "1 236 388"
+        ],
+        [
+            "Ob River",
+            "Asia",
+            "Arctic Ocean",
+            "2972497",
+            "1147688"
+        ],
+        [
+            "Paran\u00e1 River",
+            "South America",
+            "R\u00edo de la Plata",
+            "2582672",
+            "997175"
+        ],
+        [
+            "Yenisei River",
+            "Asia",
+            "Arctic Ocean",
+            "2554482",
+            "986291"
+        ],
+        [
+            "Lake Chad",
+            "Africa",
+            "n/a ( endorheic basin )",
+            "2497918",
+            "964452"
+        ],
+        [
+            "Black Sea",
+            "multiple",
+            "Mediterranean Sea",
+            "2400000",
+            "930000"
+        ],
+        [
+            "Lena River",
+            "Asia",
+            "Arctic Ocean",
+            "2306772",
+            "890650"
+        ],
+        [
+            "Niger River",
+            "Africa",
+            "Atlantic Ocean",
+            "2261763",
+            "873272"
+        ],
+        [
+            "Amur River",
+            "Asia",
+            "Pacific Ocean",
+            "1929981",
+            "745170"
+        ],
+        [
+            "Mackenzie River",
+            "North America",
+            "Arctic Ocean",
+            "1743058",
+            "672998"
+        ],
+        [
+            "Yangtze River (Chang Jiang)",
+            "Asia",
+            "Pacific Ocean",
+            "1722155",
+            "664927"
+        ],
+        [
+            "Baltic Sea",
+            "Europe",
+            "Atlantic Ocean",
+            "1700000",
+            "660000"
+        ],
+        [
+            "Irtysh River",
+            "Asia",
+            "Ob River",
+            "1673470",
+            "646130"
+        ],
+        [
+            "Ganges - Brahmaputra",
+            "Asia",
+            "Bay of Bengal",
+            "1621000",
+            "626000"
+        ],
+        [
+            "Aral Sea",
+            "Asia",
+            "n/a ( endorheic basin )",
+            "1618750",
+            "625000"
+        ],
+        [
+            "Madeira River",
+            "South America",
+            "Amazon River",
+            "1485218",
+            "573446"
+        ],
+        [
+            "Volga River",
+            "Europe",
+            "Caspian Sea",
+            "1410994",
+            "544788"
+        ],
+        [
+            "Persian Gulf",
+            "Asia",
+            "Indian Ocean",
+            "1400000",
+            "540000"
+        ],
+        [
+            "Zambezi River",
+            "Africa",
+            "Indian Ocean",
+            "1332574",
+            "514510"
+        ],
+        [
+            "Missouri River",
+            "North America",
+            "Mississippi River",
+            "1331810",
+            "514215"
+        ],
+        [
+            "Paraguay River",
+            "South America",
+            "Paran\u00e1 River",
+            "1168540",
+            "451176"
+        ],
+        [
+            "Lake Eyre Basin",
+            "Australia",
+            "n/a ( endorheic basin )",
+            "1200000",
+            "460000"
+        ],
+        [
+            "Tarim Basin",
+            "Asia",
+            "n/a ( endorheic basin )",
+            "906500",
+            "350000"
+        ],
+        [
+            "Drainage basins of Australia",
+            "multiple",
+            "Pacific / Indian Oceans",
+            "1100000",
+            "420000"
+        ],
+        [
+            "Nelson River",
+            "North America",
+            "Hudson Bay",
+            "1093442",
+            "422180"
+        ],
+        [
+            "Indus River",
+            "Asia",
+            "Arabian Sea",
+            "1081733",
+            "417659"
+        ],
+        [
+            "Murray-Darling basin",
+            "Australia",
+            "Southern Ocean",
+            "1072000",
+            "413900"
+        ],
+        [
+            "St. Lawrence River",
+            "North America",
+            "Atlantic Ocean",
+            "1049621",
+            "405261"
+        ],
+        [
+            "Ganges River",
+            "Asia",
+            "Indian Ocean",
+            "1016104",
+            "392320"
+        ],
+        [
+            "Great Slave Lake",
+            "North America",
+            "Mackenzie River",
+            "976200",
+            "376913"
+        ],
+        [
+            "Orinoco River",
+            "South America",
+            "Atlantic Ocean",
+            "953598",
+            "368186"
+        ],
+        [
+            "Huang He (Yellow River)",
+            "Asia",
+            "Pacific Ocean",
+            "945065",
+            "364892"
+        ],
+        [
+            "Orange River",
+            "Africa",
+            "Atlantic Ocean",
+            "941421",
+            "363485"
+        ],
+        [
+            "Kasai River",
+            "Africa",
+            "Congo River",
+            "925172",
+            "357211"
+        ],
+        [
+            "Yukon River",
+            "North America",
+            "Bering Sea",
+            "847642",
+            "327276"
+        ],
+        [
+            "Mekong River",
+            "Asia",
+            "Pacific Ocean",
+            "805627",
+            "311054"
+        ],
+        [
+            "Great Lakes",
+            "North America",
+            "St. Lawrence River",
+            "800114",
+            "308926"
+        ],
+        [
+            "Danube River",
+            "Europe",
+            "Black Sea",
+            "795686",
+            "307216"
+        ],
+        [
+            "Syr Darya",
+            "Asia",
+            "Aral Sea",
+            "782669",
+            "302190"
+        ],
+        [
+            "Tigris - s Euphrates River",
+            "Asia",
+            "Persian Gulf",
+            "765831",
+            "295689"
+        ],
+        [
+            "Tocantins River",
+            "South America",
+            "Atlantic Ocean",
+            "764183",
+            "295053"
+        ],
+        [
+            "Okavango River / Okavango Delta",
+            "Africa",
+            "n/a ( endorheic basin )",
+            "721277",
+            "278487"
+        ],
+        [
+            "Rio Negro",
+            "South America",
+            "Amazon River",
+            "720114",
+            "278038"
+        ],
+        [
+            "Colorado River (U.S.)",
+            "North America",
+            "Gulf of California",
+            "703132",
+            "271481"
+        ],
+        [
+            "Kolyma River",
+            "Asia",
+            "Arctic Ocean",
+            "679908",
+            "262514"
+        ],
+        [
+            "Columbia River",
+            "North America",
+            "Pacific Ocean",
+            "657490",
+            "253858"
+        ],
+        [
+            "Brahmaputra River",
+            "Asia",
+            "Indian Ocean",
+            "651334",
+            "251481"
+        ],
+        [
+            "Red Sea",
+            "multiple",
+            "Indian Ocean",
+            "620000",
+            "230000"
+        ],
+        [
+            "S\u00e3o Francisco River",
+            "South America",
+            "Atlantic Ocean",
+            "617812",
+            "238539"
+        ],
+        [
+            "Ubangi River",
+            "Africa",
+            "Congo River",
+            "613202",
+            "236759"
+        ],
+        [
+            "Rio Grande",
+            "North America",
+            "Gulf of Mexico",
+            "608023",
+            "234759"
+        ],
+        [
+            "Lake Baikal",
+            "Asia",
+            "Angara River",
+            "571000",
+            "220000"
+        ],
+        [
+            "Chari River",
+            "Africa",
+            "Lake Chad",
+            "548747",
+            "211872"
+        ],
+        [
+            "Amu Darya",
+            "Asia",
+            "Aral Sea",
+            "534764",
+            "206474"
+        ],
+        [
+            "Dnieper River",
+            "Europe",
+            "Black Sea",
+            "531817",
+            "205336"
+        ],
+        [
+            "Xingu River",
+            "South America",
+            "Amazon River",
+            "520292",
+            "200886"
+        ],
+        [
+            "Lake Balkhash",
+            "Asia",
+            "n/a ( endorheic basin )",
+            "512010",
+            "197688"
+        ],
+        [
+            "Viljuj River",
+            "Asia",
+            "Lena River",
+            "507874",
+            "196091"
+        ],
+        [
+            "Kama River",
+            "Europe",
+            "Volga River",
+            "507000",
+            "195754"
+        ],
+        [
+            "Jubba River",
+            "Africa",
+            "Indian Ocean",
+            "497655",
+            "192146"
+        ],
+        [
+            "Great Basin",
+            "North America",
+            "n/a ( endorheic basin )",
+            "492000",
+            "190000"
+        ],
+        [
+            "Ohio River",
+            "North America",
+            "Mississippi River",
+            "490603",
+            "189423"
+        ],
+        [
+            "Tapajos River",
+            "South America",
+            "Amazon River",
+            "486792",
+            "187951"
+        ],
+        [
+            "Songhua River",
+            "Asia",
+            "Amur River",
+            "459745",
+            "177509"
+        ],
+        [
+            "Don River",
+            "Europe",
+            "Black Sea",
+            "458703",
+            "177106"
+        ],
+        [
+            "Arkansas River",
+            "North America",
+            "Mississippi River",
+            "435122",
+            "168002"
+        ],
+        [
+            "Saskatchewan River",
+            "North America",
+            "Lake Winnipeg",
+            "435000",
+            "168000"
+        ],
+        [
+            "Tobol River",
+            "Asia",
+            "Irtysh River",
+            "426000",
+            "164480"
+        ],
+        [
+            "Limpopo River",
+            "Africa",
+            "Indian Ocean",
+            "421168",
+            "162614"
+        ],
+        [
+            "Senegal River",
+            "Africa",
+            "Atlantic Ocean",
+            "419659",
+            "162031"
+        ],
+        [
+            "Ayeyarwady River",
+            "Asia",
+            "Indian Ocean",
+            "413674",
+            "159720"
+        ],
+        [
+            "Pearl River",
+            "Asia",
+            "Pacific Ocean",
+            "409458",
+            "158093"
+        ],
+        [
+            "Volta River",
+            "Africa",
+            "Atlantic Ocean",
+            "407093",
+            "157179"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "id": "ed08f832fec0ebb1c7dc8d3f97c3e0b8a14dd1e8ef0226b320508dc5d093d785",
+    "metadata": "2000 Deutsche Tourenwagen Masters season | Race calendar and winners | Race calendar and winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Circuit",
+        "Date_",
+        "Fastest_lap",
+        "Winning_driver",
+        "Winning_team",
+        "Winning_manufacturer"
+    ],
+    "cell": [
+        [
+            "1",
+            "Hockenheimring",
+            "28 May",
+            "Bernd Schneider",
+            "Bernd Schneider",
+            "HWA 1",
+            "Mercedes-Benz"
+        ],
+        [
+            "2",
+            "Motorsport Arena Oschersleben",
+            "18 June",
+            "Bernd Schneider",
+            "Manuel Reuter",
+            "Opel Team Phoenix",
+            "Opel"
+        ],
+        [
+            "2",
+            "Motorsport Arena Oschersleben",
+            "18 June",
+            "Manuel Reuter",
+            "Manuel Reuter",
+            "Opel Team Phoenix",
+            "Opel"
+        ],
+        [
+            "3",
+            "Norisring",
+            "9 July",
+            "Christian Menzel",
+            "Joachim Winkelhock",
+            "Opel Team Holzer 1",
+            "Opel"
+        ],
+        [
+            "3",
+            "Norisring",
+            "9 July",
+            "Eric Helary",
+            "Bernd Schneider",
+            "HWA 1",
+            "Mercedes-Benz"
+        ],
+        [
+            "4",
+            "Sachsenring",
+            "6 August",
+            "Marcel F\u00e4ssler",
+            "Klaus Ludwig",
+            "HWA 2",
+            "Mercedes-Benz"
+        ],
+        [
+            "4",
+            "Sachsenring",
+            "6 August",
+            "Bernd Schneider",
+            "Klaus Ludwig",
+            "HWA 2",
+            "Mercedes-Benz"
+        ],
+        [
+            "5",
+            "N\u00fcrburgring",
+            "20 August",
+            "Bernd Schneider",
+            "Bernd Schneider",
+            "HWA 1",
+            "Mercedes-Benz"
+        ],
+        [
+            "6",
+            "Lausitzring",
+            "3 September",
+            "Event cancelled due to monsoon conditions",
+            "Event cancelled due to monsoon conditions",
+            "Event cancelled due to monsoon conditions",
+            "Event cancelled due to monsoon conditions"
+        ],
+        [
+            "7",
+            "Motorsport Arena Oschersleben",
+            "24 September",
+            "Bernd Schneider",
+            "Uwe Alzen",
+            "Opel Team Holzer 1",
+            "Opel"
+        ],
+        [
+            "7",
+            "Motorsport Arena Oschersleben",
+            "24 September",
+            "Bernd Schneider",
+            "Bernd Schneider",
+            "HWA 1",
+            "Mercedes-Benz"
+        ],
+        [
+            "8",
+            "N\u00fcrburgring",
+            "8 October",
+            "Uwe Alzen",
+            "Manuel Reuter",
+            "Opel Team Phoenix",
+            "Opel"
+        ],
+        [
+            "8",
+            "N\u00fcrburgring",
+            "8 October",
+            "Joachim Winkelhock",
+            "Manuel Reuter",
+            "Opel Team Phoenix",
+            "Opel"
+        ],
+        [
+            "9",
+            "Hockenheimring",
+            "29 October",
+            "Manuel Reuter",
+            "Uwe Alzen",
+            "Opel Team Holzer 1",
+            "Opel"
+        ],
+        [
+            "9",
+            "Hockenheimring",
+            "29 October",
+            "Bernd Schneider",
+            "Uwe Alzen",
+            "Opel Team Holzer 1",
+            "Opel"
+        ]
+    ]
+}

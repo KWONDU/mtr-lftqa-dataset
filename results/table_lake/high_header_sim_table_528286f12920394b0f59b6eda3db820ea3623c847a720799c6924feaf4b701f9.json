@@ -1,0 +1,61 @@
+{
+    "id": "528286f12920394b0f59b6eda3db820ea3623c847a720799c6924feaf4b701f9",
+    "metadata": "1943 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "20.16 (136)",
+            "North Melbourne",
+            "13.17 (95)",
+            "Glenferrie Oval",
+            "8000",
+            "19 June 1943"
+        ],
+        [
+            "Fitzroy",
+            "16.11 (107)",
+            "Footscray",
+            "11.7 (73)",
+            "Brunswick Street Oval",
+            "18000",
+            "19 June 1943"
+        ],
+        [
+            "South Melbourne",
+            "12.12 (84)",
+            "Richmond",
+            "17.12 (114)",
+            "Princes Park",
+            "11000",
+            "19 June 1943"
+        ],
+        [
+            "Essendon",
+            "15.13 (103)",
+            "Collingwood",
+            "8.14 (62)",
+            "Windy Hill",
+            "11000",
+            "19 June 1943"
+        ],
+        [
+            "Melbourne",
+            "13.14 (92)",
+            "Carlton",
+            "11.21 (87)",
+            "Punt Road Oval",
+            "8000",
+            "19 June 1943"
+        ]
+    ]
+}

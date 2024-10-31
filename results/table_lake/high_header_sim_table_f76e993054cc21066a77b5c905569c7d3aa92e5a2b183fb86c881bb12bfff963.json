@@ -1,0 +1,63 @@
+{
+    "id": "f76e993054cc21066a77b5c905569c7d3aa92e5a2b183fb86c881bb12bfff963",
+    "metadata": "Morningrise | Release history | Release history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Year_",
+        "Label",
+        "Format",
+        "Catalog_"
+    ],
+    "cell": [
+        [
+            "United Kingdom",
+            "1996",
+            "Candlelight Records",
+            "CD",
+            "Candle015CD"
+        ],
+        [
+            "Poland",
+            "1996",
+            "Mystic Production",
+            "cassette",
+            "034"
+        ],
+        [
+            "Japan",
+            "1996",
+            "Avalon/Marquee",
+            "CD",
+            "MICY-1022"
+        ],
+        [
+            "United States",
+            "1997",
+            "Century Black",
+            "CD",
+            "7849-2"
+        ],
+        [
+            "United Kingdom",
+            "2000",
+            "Candlelight Records",
+            "CD",
+            "Candle054CD"
+        ],
+        [
+            "Netherlands",
+            "2000",
+            "Displeased Records",
+            "double LP",
+            "D-00082"
+        ],
+        [
+            "United Kingdom",
+            "2003",
+            "Candlelight Records",
+            "CD",
+            "CANDLE054TIN"
+        ]
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "id": "2b2c22fc7963ac307bb5764ca6cb34ff730fc8023c14b3702cc12227095abe94",
+    "metadata": "Tri-River Conference (IHSAA) | Former members | Former members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "County",
+        "Year_Joined",
+        "Year_Left",
+        "Conference_Joined"
+    ],
+    "cell": [
+        [
+            "Clay City *",
+            "Clay City",
+            "Eels",
+            "11 Clay",
+            "1964",
+            "2010",
+            "SW Indiana"
+        ],
+        [
+            "Montezuma",
+            "Montezuma",
+            "Aztecs",
+            "61 Parke",
+            "1964",
+            "1986",
+            "none (consolidated into Riverton Parke )"
+        ],
+        [
+            "Rosedale",
+            "Rosedale",
+            "Hotshots",
+            "61 Parke",
+            "1964",
+            "1986",
+            "none (consolidated into Riverton Parke )"
+        ],
+        [
+            "Shakamak *",
+            "Jasonville",
+            "Lakers",
+            "28 Greene",
+            "1964",
+            "2010",
+            "SW Indiana"
+        ],
+        [
+            "Stauton",
+            "Staunton",
+            "Yellow Jackets",
+            "11 Clay",
+            "1964",
+            "1984",
+            "none (consolidated into Northview )"
+        ],
+        [
+            "Terre Haute Schulte *",
+            "Terre Haute",
+            "Golden Bears",
+            "84 Vigo",
+            "1964",
+            "1971?",
+            "Western Indiana"
+        ],
+        [
+            "Terre Haute State",
+            "Terre Haute",
+            "Little Sycamores",
+            "84 Vigo",
+            "1964",
+            "1978",
+            "none (school closed)"
+        ],
+        [
+            "Van Buren",
+            "Carbon",
+            "Blue Devils",
+            "11 Clay",
+            "1964",
+            "1984",
+            "none (consolidated into Northview )"
+        ],
+        [
+            "Union (Dugger) *",
+            "Dugger",
+            "Bulldogs",
+            "77 Sullivan",
+            "1965",
+            "2010",
+            "SW Indiana"
+        ],
+        [
+            "North Central (Farmersburg)",
+            "Farmersburg",
+            "Thunderbirds",
+            "77 Sullivan",
+            "1977",
+            "2010",
+            "SW Indiana"
+        ],
+        [
+            "Eminence",
+            "Eminence",
+            "Eels",
+            "55 Morgan",
+            "1986",
+            "2010",
+            "Independents"
+        ],
+        [
+            "Sullivan",
+            "Sullivan",
+            "Golden Arrows",
+            "77 Sullivan",
+            "1986",
+            "1999",
+            "Western Indiana"
+        ],
+        [
+            "Linton Stockton *",
+            "Linton",
+            "Miners",
+            "28 Greene",
+            "1991",
+            "2010",
+            "SW Indiana"
+        ]
+    ]
+}

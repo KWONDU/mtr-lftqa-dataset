@@ -1,0 +1,70 @@
+{
+    "id": "29c3f7b63d1aeb4e9238eec7733d7481262d37d053a81345db286b1e181e95a8",
+    "metadata": "Germanic strong verb | Classes 1 to 6 | Classes 1 to 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Part_1",
+        "Part_2",
+        "Part_3",
+        "Part_4",
+        "Verb_meaning",
+        "Usual_PIE_origin"
+    ],
+    "cell": [
+        [
+            "1",
+            "*r\u012bdan\u0105",
+            "*raid",
+            "*ridun",
+            "*ridanaz",
+            "to ride",
+            "Vowel + y/i."
+        ],
+        [
+            "2a",
+            "*freusan\u0105",
+            "*fraus",
+            "*fruzun",
+            "*fruzanaz",
+            "to freeze",
+            "Vowel + w/u."
+        ],
+        [
+            "2b",
+            "*l\u016bkan\u0105",
+            "*lauk",
+            "*lukun",
+            "*lukanaz",
+            "to close, to shut",
+            "Unknown."
+        ],
+        [
+            "3a",
+            "*bindan\u0105",
+            "*band",
+            "*bundun",
+            "*bundanaz",
+            "to bind",
+            "Vowel + m or n + another consonant."
+        ],
+        [
+            "3b",
+            "*wer\u00fean\u0105",
+            "*war\u00fe",
+            "*wurdun",
+            "*wurdanaz",
+            "to become",
+            "Vowel + l or r + another consonant."
+        ],
+        [
+            "4",
+            "*beran\u0105",
+            "*bar",
+            "*b\u0113run",
+            "*buranaz",
+            "to bear",
+            "Vowel + l, r, m or n + no other consonant."
+        ]
+    ]
+}

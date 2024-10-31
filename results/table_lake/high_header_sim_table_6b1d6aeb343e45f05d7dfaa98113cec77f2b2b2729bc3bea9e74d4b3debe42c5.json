@@ -1,0 +1,154 @@
+{
+    "id": "6b1d6aeb343e45f05d7dfaa98113cec77f2b2b2729bc3bea9e74d4b3debe42c5",
+    "metadata": "Jeju International Airport | Busiest International Routes | Busiest International Routes from Jeju (2012)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Airport",
+        "Passengers",
+        "Aircraft_Movements",
+        "Carriers"
+    ],
+    "cell": [
+        [
+            "1",
+            "Shanghai, China",
+            "192701",
+            "1465",
+            "China Eastern Airlines , Jin Air"
+        ],
+        [
+            "2",
+            "Osaka, Japan",
+            "131338",
+            "1157",
+            "Jeju Air , Korean Air"
+        ],
+        [
+            "3",
+            "Tokyo, Japan",
+            "124296",
+            "734",
+            "Korean Air"
+        ],
+        [
+            "4",
+            "Beijing, China",
+            "97055",
+            "768",
+            "China Eastern Airlines , Korean Air"
+        ],
+        [
+            "5",
+            "Taipei, Republic of China(Taiwan)",
+            "73754",
+            "585",
+            "Jin Air , TransAsia Airways"
+        ],
+        [
+            "6",
+            "Ningbo, China",
+            "44067",
+            "303",
+            "China Eastern Airlines , Eastar Jet"
+        ],
+        [
+            "7",
+            "Nagoya, Japan",
+            "41460",
+            "416",
+            "Korean Air"
+        ],
+        [
+            "8",
+            "Harbin, China",
+            "31574",
+            "201",
+            "China Southern Airlines , Jin Air"
+        ],
+        [
+            "9",
+            "Changchun, China",
+            "29129",
+            "214",
+            "China Southern Airlines"
+        ],
+        [
+            "10",
+            "Fukuoka, Japan",
+            "27592",
+            "306",
+            "Asiana Airlines"
+        ],
+        [
+            "11",
+            "Shenyang, China",
+            "26168",
+            "238",
+            "China Southern Airlines"
+        ],
+        [
+            "12",
+            "Dalian, China",
+            "25359",
+            "204",
+            "China Southern Airlines"
+        ],
+        [
+            "13",
+            "Hong Kong",
+            "24940",
+            "208",
+            "Dragonair"
+        ],
+        [
+            "14",
+            "Hangzhou, China",
+            "22191",
+            "165",
+            "China Eastern Airlines"
+        ],
+        [
+            "15",
+            "Macau",
+            "21278",
+            "178",
+            "Eastar Jet"
+        ],
+        [
+            "16",
+            "Nanning, China",
+            "17114",
+            "122",
+            "Eastar Jet"
+        ],
+        [
+            "17",
+            "Xi`an, China",
+            "15022",
+            "107",
+            "Jin Air"
+        ],
+        [
+            "18",
+            "Guangzhou, China",
+            "14983",
+            "95",
+            "Korean Air"
+        ],
+        [
+            "19",
+            "Hefei, China",
+            "14226",
+            "105",
+            "Eastar Jet"
+        ],
+        [
+            "20",
+            "Changsha, China",
+            "12947",
+            "105",
+            "Eastar Jet"
+        ]
+    ]
+}

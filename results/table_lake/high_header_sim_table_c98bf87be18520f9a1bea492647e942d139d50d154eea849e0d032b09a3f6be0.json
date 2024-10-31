@@ -1,0 +1,70 @@
+{
+    "id": "c98bf87be18520f9a1bea492647e942d139d50d154eea849e0d032b09a3f6be0",
+    "metadata": "Indiana High School Athletics Conferences: Ohio River Valley - Western Indiana | West Central Conference | West Central Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "IHSAA_Football_Class",
+        "County"
+    ],
+    "cell": [
+        [
+            "Cascade",
+            "Clayton",
+            "Cadets",
+            "533",
+            "AA",
+            "AA",
+            "33 Hendricks"
+        ],
+        [
+            "Cloverdale",
+            "Cloverdale",
+            "Clovers",
+            "399",
+            "AA",
+            "A",
+            "67 Putnam"
+        ],
+        [
+            "Greencastle",
+            "Greencastle",
+            "Tiger Cubs",
+            "601",
+            "AAA",
+            "AAA",
+            "67 Putnam"
+        ],
+        [
+            "Monrovia",
+            "Monrovia",
+            "Bulldogs",
+            "488",
+            "AA",
+            "AA",
+            "55 Morgan"
+        ],
+        [
+            "North Putnam",
+            "Roachdale",
+            "Cougars",
+            "590",
+            "AAA",
+            "AA",
+            "67 Putnam"
+        ],
+        [
+            "South Putnam",
+            "Putnamville",
+            "Eagles",
+            "436",
+            "AA",
+            "AA",
+            "67 Putnam"
+        ]
+    ]
+}

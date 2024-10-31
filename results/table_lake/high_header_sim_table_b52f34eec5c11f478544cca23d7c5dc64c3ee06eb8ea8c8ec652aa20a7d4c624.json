@@ -1,0 +1,71 @@
+{
+    "id": "b52f34eec5c11f478544cca23d7c5dc64c3ee06eb8ea8c8ec652aa20a7d4c624",
+    "metadata": "Swimming at the 1948 Summer Olympics | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "United States (USA)",
+            "8",
+            "6",
+            "1",
+            "15"
+        ],
+        [
+            "2",
+            "Denmark (DEN)",
+            "2",
+            "2",
+            "0",
+            "4"
+        ],
+        [
+            "3",
+            "Netherlands (NED)",
+            "1",
+            "0",
+            "2",
+            "3"
+        ],
+        [
+            "4",
+            "Australia (AUS)",
+            "0",
+            "2",
+            "2",
+            "4"
+        ],
+        [
+            "5",
+            "Hungary (HUN)",
+            "0",
+            "1",
+            "3",
+            "4"
+        ],
+        [
+            "6",
+            "France (FRA)",
+            "0",
+            "0",
+            "2",
+            "2"
+        ],
+        [
+            "7",
+            "Great Britain (GBR)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

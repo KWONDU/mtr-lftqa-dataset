@@ -1,0 +1,49 @@
+{
+    "id": "42f354c34683b6d0c31bca3e6c872db6eb360dc354208081cce0d6fcb979702c",
+    "metadata": "Euroleague 2007-08 Individual Statistics | Full Season | Points",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Team",
+        "Games",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Will Solomon",
+            "Fenerbah\u00e7e",
+            "21",
+            "376"
+        ],
+        [
+            "2.",
+            "Jeremiah Massey",
+            "Aris Thessaloniki",
+            "20",
+            "340"
+        ],
+        [
+            "3.",
+            "Hollis Price",
+            "Lietuvos Rytas Vilnius",
+            "20",
+            "337"
+        ],
+        [
+            "4.",
+            "Nikola Pekovi\u0107",
+            "Partizan Belgrade",
+            "23",
+            "378"
+        ],
+        [
+            "5.",
+            "Lynn Greer",
+            "Olympiacos",
+            "19",
+            "309"
+        ]
+    ]
+}

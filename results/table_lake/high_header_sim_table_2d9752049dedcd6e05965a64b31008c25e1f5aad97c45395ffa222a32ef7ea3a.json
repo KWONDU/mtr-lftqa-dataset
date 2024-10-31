@@ -1,0 +1,70 @@
+{
+    "id": "2d9752049dedcd6e05965a64b31008c25e1f5aad97c45395ffa222a32ef7ea3a",
+    "metadata": "1939 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "17.13 (115)",
+            "North Melbourne",
+            "11.11 (77)",
+            "Glenferrie Oval",
+            "11000",
+            "29 April 1939"
+        ],
+        [
+            "Fitzroy",
+            "14.18 (102)",
+            "St Kilda",
+            "20.14 (134)",
+            "Brunswick Street Oval",
+            "15000",
+            "29 April 1939"
+        ],
+        [
+            "Essendon",
+            "19.21 (135)",
+            "Melbourne",
+            "21.15 (141)",
+            "Windy Hill",
+            "20000",
+            "29 April 1939"
+        ],
+        [
+            "Richmond",
+            "20.19 (139)",
+            "Footscray",
+            "17.8 (110)",
+            "Punt Road Oval",
+            "26000",
+            "29 April 1939"
+        ],
+        [
+            "South Melbourne",
+            "15.17 (107)",
+            "Collingwood",
+            "21.20 (146)",
+            "Lake Oval",
+            "17000",
+            "29 April 1939"
+        ],
+        [
+            "Geelong",
+            "14.8 (92)",
+            "Carlton",
+            "11.13 (79)",
+            "Corio Oval",
+            "15000",
+            "29 April 1939"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "08cc942758d6e6bc084f454549b475171641b881a7775895efc79be33a94cd68",
+    "metadata": "Political groups of the European Parliament | National conservatives | National conservatives",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Group_name",
+        "English_abbr_",
+        "French_abbr_",
+        "Formal_European_Parliament_name",
+        "From_"
+    ],
+    "cell": [
+        [
+            "European Democratic Union",
+            "n/a",
+            "UDE",
+            "European Democratic Union Group",
+            "21 January 1965"
+        ],
+        [
+            "European Progressive Democrats",
+            "EPD",
+            "DEP",
+            "Group of European Progressive Democrats",
+            "16 January 1973"
+        ],
+        [
+            "European Democratic Alliance",
+            "EDA",
+            "RDE",
+            "Group of the European Democratic Alliance",
+            "24 July 1984"
+        ],
+        [
+            "Group Union for Europe",
+            "UFE",
+            "UPE",
+            "Group Union for Europe",
+            "6 July 1995"
+        ],
+        [
+            "Union for Europe of the Nations",
+            "UEN",
+            "n/a",
+            "Union for Europe of the Nations Group",
+            "20 July 1999"
+        ]
+    ]
+}

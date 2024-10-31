@@ -1,0 +1,56 @@
+{
+    "id": "9055becf1ec4d93db100e57dc9ee7d298c8605c858d3a59ccf08193c3de41b81",
+    "metadata": "B\u00ecnh Thu\u1eadn Province | Agriculture, forestry, fishing | Agriculture, forestry, fishing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Crop",
+        "Area",
+        "Output_2007",
+        "_of_national",
+        "Main_locations"
+    ],
+    "cell": [
+        [
+            "Cotton",
+            "1900 ha",
+            "2000 t",
+            "12.4%",
+            "B\u1eafc B\u00ecnh (E)"
+        ],
+        [
+            "Cashew nuts",
+            "30,971 ha",
+            "17,565 t",
+            "5.82%",
+            "\u0110\u1ee9c Linh , T\u00e1nh Linh (NW), H\u00e0m T\u00e2n , La Gi (SW)"
+        ],
+        [
+            "Pepper",
+            "2091 ha",
+            "2326 t",
+            "2.58%",
+            "\u0110\u1ee9c Linh (NW)"
+        ],
+        [
+            "Maize",
+            "19,800 ha",
+            "100,700 t",
+            "2.45%",
+            "H\u00e0m T\u00e2n (SW)"
+        ],
+        [
+            "Rubber",
+            "20,538 ha",
+            "12,332 t",
+            "2.05%",
+            "\u0110\u1ee9c Linh (NW)"
+        ],
+        [
+            "Rice",
+            "96,400 ha",
+            "434,600 t",
+            "1.21%",
+            "H\u00e0m Thu\u1eadn Nam (central)"
+        ]
+    ]
+}

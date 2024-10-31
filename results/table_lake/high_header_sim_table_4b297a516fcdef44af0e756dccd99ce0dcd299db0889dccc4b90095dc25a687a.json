@@ -1,0 +1,56 @@
+{
+    "id": "4b297a516fcdef44af0e756dccd99ce0dcd299db0889dccc4b90095dc25a687a",
+    "metadata": "United States House of Representatives elections, 2006 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "Henry Brown, Jr.",
+            "Republican",
+            "2000",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 2",
+            "Joe Wilson",
+            "Republican",
+            "2001",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 3",
+            "J. Gresham Barrett",
+            "Republican",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 4",
+            "Bob Inglis",
+            "Republican",
+            "2004",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 5",
+            "John Spratt",
+            "Democratic",
+            "1982",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 6",
+            "Jim Clyburn",
+            "Democratic",
+            "1992",
+            "Re-elected"
+        ]
+    ]
+}

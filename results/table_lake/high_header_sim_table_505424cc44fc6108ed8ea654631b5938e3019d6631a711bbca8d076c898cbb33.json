@@ -1,0 +1,49 @@
+{
+    "id": "505424cc44fc6108ed8ea654631b5938e3019d6631a711bbca8d076c898cbb33",
+    "metadata": "1961 Cleveland Browns season | Exhibition schedule | Exhibition schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "August 11, 1961",
+            "at Detroit Lions",
+            "L 35-7",
+            "25602"
+        ],
+        [
+            "2",
+            "August 20, 1961",
+            "at San Francisco 49ers",
+            "W 27-24",
+            "38759"
+        ],
+        [
+            "3",
+            "August 25, 1961",
+            "at Los Angeles Rams",
+            "W 34-17",
+            "40086"
+        ],
+        [
+            "4",
+            "September 2, 1961",
+            "vs. Pittsburgh Steelers at Akron",
+            "W 38-6",
+            "27758"
+        ],
+        [
+            "5",
+            "September 9, 1961",
+            "Detroit Lions",
+            "L 35-17",
+            "41374"
+        ]
+    ]
+}

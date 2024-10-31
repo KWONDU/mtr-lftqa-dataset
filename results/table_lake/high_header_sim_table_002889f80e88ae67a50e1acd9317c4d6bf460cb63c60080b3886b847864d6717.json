@@ -1,0 +1,55 @@
+{
+    "id": "002889f80e88ae67a50e1acd9317c4d6bf460cb63c60080b3886b847864d6717",
+    "metadata": "1996 PGA Tour | Money leaders | Money leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tom Lehman",
+            "United States",
+            "1780159",
+            "22",
+            "2"
+        ],
+        [
+            "2",
+            "Phil Mickelson",
+            "United States",
+            "1697799",
+            "21",
+            "4"
+        ],
+        [
+            "3",
+            "Mark Brooks",
+            "United States",
+            "1429396",
+            "29",
+            "3"
+        ],
+        [
+            "4",
+            "Steve Stricker",
+            "United States",
+            "1383739",
+            "22",
+            "2"
+        ],
+        [
+            "5",
+            "Mark O`Meara",
+            "United States",
+            "1255749",
+            "21",
+            "2"
+        ]
+    ]
+}

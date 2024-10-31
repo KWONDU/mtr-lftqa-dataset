@@ -1,0 +1,135 @@
+{
+    "id": "3bc9f3d3705895d6573b676c1a57a21df1e7e12358a198105a36fafa660d1858",
+    "metadata": "Windows Server 2008 R2 | Editions | Windows Server 2008 R2 edition comparison chart",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Features",
+        "Foundation",
+        "Standard",
+        "Enterprise",
+        "Datacenter",
+        "Itanium"
+    ],
+    "cell": [
+        [
+            "Maximum RAM on x86-64",
+            "8 GB",
+            "32 GB",
+            "2 TB",
+            "2 TB",
+            "2 TB"
+        ],
+        [
+            "Maximum physical s CPU",
+            "1",
+            "4",
+            "8",
+            "64",
+            "64"
+        ],
+        [
+            "Cross-file replication (DFS-R)",
+            "No",
+            "No",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Failover cluster nodes (Nodes)",
+            "No",
+            "No",
+            "16",
+            "16",
+            "8"
+        ],
+        [
+            "Fault tolerant memory sync",
+            "No",
+            "No",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Memory modules: Hot addition",
+            "No",
+            "No",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Memory modules: Hot replacement",
+            "No",
+            "No",
+            "No",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "CPUs: Hot addition",
+            "No",
+            "No",
+            "No",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "CPUs: Hot replacement",
+            "No",
+            "No",
+            "No",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Network access connections: IAS",
+            "10",
+            "50",
+            "Unlimited",
+            "Unlimited",
+            "2"
+        ],
+        [
+            "Network access connections: RRAS",
+            "50",
+            "250",
+            "Unlimited",
+            "Unlimited",
+            "No"
+        ],
+        [
+            "Remote Desktop admin connections",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+        ],
+        [
+            "Remote Desktop Services gateway",
+            "50",
+            "250",
+            "Unlimited",
+            "Unlimited",
+            "No"
+        ],
+        [
+            "Virtual image use rights",
+            "No",
+            "Host + 1 VM",
+            "Host + 4 VMs",
+            "Unlimited",
+            "Unlimited"
+        ],
+        [
+            "Features",
+            "Foundation",
+            "Standard",
+            "Enterprise",
+            "Datacenter",
+            "Itanium"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "7fec3f93f32a39be3cd0718dd293308cb0585758412ff63f0d1d06fd7c6ea7e3",
+    "metadata": "Tri-State Collegiate Hockey League | Current teams | Current teams",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Team_Nickname",
+        "Joined_TSCHL",
+        "Home_Arena",
+        "Capacity",
+        "Team_Website"
+    ],
+    "cell": [
+        [
+            "University of Akron",
+            "Akron, OH",
+            "Zips",
+            "2010",
+            "Center Ice Sports Complex",
+            "900",
+            "Zips Hockey"
+        ],
+        [
+            "University of Cincinnati",
+            "Cincinnati, OH",
+            "Bearcats",
+            "2010",
+            "Cincinnati Gardens",
+            "10208",
+            "Cincinnati Hockey"
+        ],
+        [
+            "University of Dayton",
+            "Dayton, OH",
+            "Flyers",
+            "2010",
+            "Kettering Rec Center",
+            "700",
+            "Dayton Hockey"
+        ],
+        [
+            "Indiana University of Pennsylvania",
+            "Indiana, PA",
+            "Crimson Hawks",
+            "2010",
+            "S&T Bank Arena",
+            "1000",
+            "IUP Hockey"
+        ],
+        [
+            "Ohio University",
+            "Athens, OH",
+            "Bobcats",
+            "2011",
+            "Bird Arena",
+            "2000",
+            "Ohio Hockey"
+        ],
+        [
+            "University of Toledo",
+            "Toledo, OH",
+            "Rockets",
+            "2010",
+            "Team Toledo Ice House",
+            "1100",
+            "Toledo Hockey"
+        ],
+        [
+            "University of Pittsburgh",
+            "Pittsburgh, PA",
+            "Panthers",
+            "2010",
+            "BladeRunners Harmarville",
+            "1200",
+            "Pitt Hockey"
+        ],
+        [
+            "West Virginia University",
+            "Morgantown, WV",
+            "Mountaineers",
+            "2010",
+            "Morgantown Municipal Ice Arena",
+            "500",
+            "WVU Hockey"
+        ]
+    ]
+}

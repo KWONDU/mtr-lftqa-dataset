@@ -1,0 +1,95 @@
+{
+    "id": "b57603b5bbf25b5e9fa55db41132e59d05831173e0d64faac7c4d1b5f2829ead",
+    "metadata": "2003 Tennis Masters Series | Singles | Singles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Surface",
+        "Week",
+        "Winner",
+        "Finalist",
+        "Semifinalists"
+    ],
+    "cell": [
+        [
+            "Indian Wells",
+            "Hard",
+            "March 10",
+            "Lleyton Hewitt (1) 6-1, 6-1",
+            "Gustavo Kuerten",
+            "Vincent Spadea (Q) Rainer Sch\u00fcttler (15)"
+        ],
+        [
+            "Miami",
+            "Hard",
+            "March 17",
+            "Andre Agassi (2) 6-3, 6-3",
+            "Carlos Moy\u00e1 (5)",
+            "Paradorn Srichaphan (13) Albert Costa (9)"
+        ],
+        [
+            "Monte Carlo",
+            "Clay",
+            "April 14",
+            "Juan Carlos Ferrero (1) 6-2, 6-2",
+            "Guillermo Coria",
+            "Vincent Spadea Carlos Moy\u00e1 (2)"
+        ],
+        [
+            "Rome",
+            "Clay",
+            "May 5",
+            "Felix Mantilla 7-5, 6-2, 7-6(8)",
+            "Roger Federer (4)",
+            "Yevgeny Kafelnikov Juan Carlos Ferrero (2)"
+        ],
+        [
+            "Hamburg",
+            "Clay",
+            "May 12",
+            "Guillermo Coria (12) * 6-3, 6-4, 6-4",
+            "Agust\u00edn Calleri",
+            "David Nalbandian (8) Gast\u00f3n Gaudio"
+        ],
+        [
+            "Canada (Montr\u00e9al)",
+            "Hard",
+            "August 4",
+            "Andy Roddick (6) 6-1, 6-3",
+            "David Nalbandian",
+            "Rainer Sch\u00fcttler (8) Roger Federer (3)"
+        ],
+        [
+            "Cincinnati",
+            "Hard",
+            "August 11",
+            "Andy Roddick (7) 4-6, 7-6(3), 7-6(4)",
+            "Mardy Fish",
+            "Max Mirnyi Rainer Sch\u00fcttler (8)"
+        ],
+        [
+            "Madrid",
+            "Hard (i)",
+            "October 13",
+            "Juan Carlos Ferrero (1) 6-3, 6-4, 6-3",
+            "Nicolas Mass\u00fa",
+            "Roger Federer (3) Younes El Aynaoui (15)"
+        ],
+        [
+            "Paris",
+            "Carpet (i)",
+            "October 27",
+            "Tim Henman 6-2, 7-6(6), 7-6(2)",
+            "Andrei Pavel",
+            "Ji\u0159\u00ed Nov\u00e1k (14) Andy Roddick (2)"
+        ],
+        [
+            "Houston ( TMC )",
+            "Hard",
+            "November 8",
+            "Roger Federer 6-3, 6-0, 6-4",
+            "Andre Agassi",
+            "Rainer Sch\u00fcttler Andy Roddick"
+        ]
+    ]
+}

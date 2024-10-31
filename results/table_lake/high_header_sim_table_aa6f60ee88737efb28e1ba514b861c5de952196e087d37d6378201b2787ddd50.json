@@ -1,0 +1,95 @@
+{
+    "id": "aa6f60ee88737efb28e1ba514b861c5de952196e087d37d6378201b2787ddd50",
+    "metadata": "Interleukin 1 family | Nomenclature | Nomenclature",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Family_name",
+        "Receptor",
+        "Coreceptor",
+        "Property",
+        "Chromosomal_location"
+    ],
+    "cell": [
+        [
+            "IL-1\u03b1",
+            "IL-1F1",
+            "IL-1RI",
+            "IL-1RacP",
+            "Proinflammatory",
+            "2q14"
+        ],
+        [
+            "IL-1\u03b2",
+            "IL-1F2",
+            "IL-1RI",
+            "IL-1RacP",
+            "Proinflammatory",
+            "2q14"
+        ],
+        [
+            "IL-1Ra",
+            "IL-1F3",
+            "IL-1RI",
+            "NA",
+            "Antagonist for IL-1\u03b1, IL-1\u03b2",
+            "2q14.2"
+        ],
+        [
+            "IL-18",
+            "IL-1F4",
+            "IL-18R\u03b1",
+            "IL-18R\u03b2",
+            "Proinflammatory",
+            "11q22.2-q22.3"
+        ],
+        [
+            "IL-36Ra",
+            "IL-1F5",
+            "IL-1Rrp2",
+            "NA",
+            "Antagonist for IL-36\u03b1, IL-36\u03b2, IL-36\u03b3",
+            "2q14"
+        ],
+        [
+            "IL-36\u03b1",
+            "IL-1F6",
+            "IL-1Rrp2",
+            "IL-1RAcP",
+            "Proinflammatory",
+            "2q12 - q14.1"
+        ],
+        [
+            "IL-37",
+            "IL-1F7",
+            "Unknown",
+            "Unknown",
+            "Anti-inflammatory",
+            "2q12 - q14.1"
+        ],
+        [
+            "IL-36\u03b2",
+            "IL-1F8",
+            "IL-1Rrp2",
+            "IL-1RAcP",
+            "Proinflammatory",
+            "2q14"
+        ],
+        [
+            "IL-36\u03b3",
+            "IL1-F9",
+            "IL-1Rrp2",
+            "IL-1RAcP",
+            "Proinflammatory",
+            "2q12 - q21"
+        ],
+        [
+            "IL-38",
+            "IL-1F10",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "2q13"
+        ]
+    ]
+}

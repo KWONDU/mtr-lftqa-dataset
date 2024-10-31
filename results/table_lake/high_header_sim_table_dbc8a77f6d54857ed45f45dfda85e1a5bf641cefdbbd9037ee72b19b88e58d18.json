@@ -1,0 +1,105 @@
+{
+    "id": "dbc8a77f6d54857ed45f45dfda85e1a5bf641cefdbbd9037ee72b19b88e58d18",
+    "metadata": "Virginia Beach Mariners | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "League",
+        "Reg_Season",
+        "Playoffs",
+        "Open_Cup"
+    ],
+    "cell": [
+        [
+            "1994",
+            "USISL",
+            "5th, Atlantic",
+            "Divisional Semifinals",
+            "Did not enter"
+        ],
+        [
+            "1995",
+            "USISL Pro League",
+            "5th, Atlantic",
+            "Divisional Semifinals",
+            "Did not qualify"
+        ],
+        [
+            "1996",
+            "USISL Select League",
+            "3rd, South Atlantic",
+            "Select Six",
+            "Did not qualify"
+        ],
+        [
+            "1997",
+            "On hiatus",
+            "On hiatus",
+            "On hiatus",
+            "On hiatus"
+        ],
+        [
+            "1998",
+            "USISL A-League",
+            "3rd, Atlantic",
+            "Conference Quarterfinals",
+            "3rd Round"
+        ],
+        [
+            "1999",
+            "USL A-League",
+            "6th, Atlantic",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "2000",
+            "USL A-League",
+            "4th, Atlantic",
+            "Conference Quarterfinals",
+            "3rd Round"
+        ],
+        [
+            "2001",
+            "On hiatus",
+            "On hiatus",
+            "On hiatus",
+            "On hiatus"
+        ],
+        [
+            "2002",
+            "USL A-League",
+            "5th, Southeast",
+            "Did not qualify",
+            "3rd Round"
+        ],
+        [
+            "2003",
+            "USL A-League",
+            "2nd, Southeast",
+            "Division Finals",
+            "4th Round"
+        ],
+        [
+            "2004",
+            "USL A-League",
+            "6th, Eastern",
+            "Did not qualify",
+            "3rd Round"
+        ],
+        [
+            "2005",
+            "USL First Division",
+            "11th",
+            "Did not qualify",
+            "2nd Round"
+        ],
+        [
+            "2006",
+            "USL First Division",
+            "9th",
+            "Did not qualify",
+            "3rd Round"
+        ]
+    ]
+}

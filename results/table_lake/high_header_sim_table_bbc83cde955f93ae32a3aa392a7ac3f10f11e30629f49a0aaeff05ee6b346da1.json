@@ -1,0 +1,49 @@
+{
+    "id": "bbc83cde955f93ae32a3aa392a7ac3f10f11e30629f49a0aaeff05ee6b346da1",
+    "metadata": "2006 in paleontology | Newly named pterosaurs | Newly named pterosaurs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Status_",
+        "Authors",
+        "Unit",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Cathayopterus",
+            "Valid",
+            "Wang Zhou",
+            "Yixian Formation",
+            "China"
+        ],
+        [
+            "Caviramus",
+            "Valid",
+            "Fr\u00f6bisch Fr\u00f6bisch",
+            "K\u00f6ssen Formation",
+            "Switzerland"
+        ],
+        [
+            "Longchengpterus",
+            "Valid",
+            "Wang Li Duan Cheng",
+            "Jiufotang Formation",
+            "China"
+        ],
+        [
+            "Muzquizopteryx",
+            "Valid",
+            "Frey Buchy Stinnesbeck Gonzalez Stefano",
+            "Austin Group",
+            "Mexico"
+        ],
+        [
+            "Yixianopterus",
+            "Valid",
+            "L\u00fc Ji Yuan Gao Sun Ji",
+            "Yixian Formation",
+            "China"
+        ]
+    ]
+}

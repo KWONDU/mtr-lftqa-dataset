@@ -1,0 +1,95 @@
+{
+    "id": "bfc6eaa86b9ede9c6952beba4fd92cd385b40a6439771c0d207198f90c471c83",
+    "metadata": "Don January | Professional wins (45) | PGA Tour wins (10)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "No_",
+        "Date_",
+        "Tournament",
+        "Winning_score",
+        "Margin_of_victory",
+        "Runners_up_"
+    ],
+    "cell": [
+        [
+            "1",
+            "May 27, 1956",
+            "Dallas Centennial Open",
+            "\u221212 (64-67-70-67=268)",
+            "1 stroke",
+            "Dow Finsterwald, Doug Ford"
+        ],
+        [
+            "2",
+            "Feb 21, 1960",
+            "Tucson Open Invitational",
+            "\u22129 (67-67-68-69=271)",
+            "3 strokes",
+            "Bob Harris"
+        ],
+        [
+            "3",
+            "Jul 9, 1961",
+            "St. Paul Open Invitational",
+            "\u221219 (66-71-68-64=269)",
+            "1 stroke",
+            "Buster Cupit"
+        ],
+        [
+            "4",
+            "Feb 17, 1963",
+            "Tucson Open Invitational",
+            "\u221222 (65-67-69-65=266)",
+            "11 strokes",
+            "Gene Littler, Phil Rodgers"
+        ],
+        [
+            "5",
+            "Aug 28, 1966",
+            "Philadelphia Golf Classic",
+            "\u221210 (69-69-68-71=278)",
+            "1 stroke",
+            "Jack Nicklaus"
+        ],
+        [
+            "6",
+            "Jul 24, 1967",
+            "PGA Championship",
+            "\u22127 (71-72-70-68=281)",
+            "Playoff",
+            "Don Massengale"
+        ],
+        [
+            "7",
+            "Apr 21, 1968",
+            "Tournament of Champions",
+            "\u22128 (70-68-69-69=276)",
+            "1 stroke",
+            "Julius Boros"
+        ],
+        [
+            "8",
+            "Mar 23, 1970",
+            "Greater Jacksonville Open",
+            "\u22129 (68-75-70-66=279)",
+            "Playoff",
+            "Dale Douglass"
+        ],
+        [
+            "9",
+            "Oct 19, 1975",
+            "San Antonio Texas Open",
+            "\u221213 (71-67-71-66=275)",
+            "Playoff",
+            "Larry Hinson"
+        ],
+        [
+            "10",
+            "Apr 18, 1976",
+            "MONY Tournament of Champions",
+            "\u221211 (71-68-69-69=277)",
+            "5 strokes",
+            "Hubert Green"
+        ]
+    ]
+}

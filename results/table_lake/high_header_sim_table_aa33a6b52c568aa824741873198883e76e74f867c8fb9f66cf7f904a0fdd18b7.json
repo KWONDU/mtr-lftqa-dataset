@@ -1,0 +1,126 @@
+{
+    "id": "aa33a6b52c568aa824741873198883e76e74f867c8fb9f66cf7f904a0fdd18b7",
+    "metadata": "Economy of Greece | National and regional GDP | Eurostat data for 2009",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Region",
+        "Total_GDP_bn_",
+        "_growth",
+        "Per_capita"
+    ],
+    "cell": [
+        [
+            "1",
+            "Attica",
+            "\u20ac110.546",
+            "0.8",
+            "\u20ac29,100"
+        ],
+        [
+            "2",
+            "Central Macedonia",
+            "\u20ac32.285",
+            "\u22121.3",
+            "\u20ac17,900"
+        ],
+        [
+            "3",
+            "Thessaly",
+            "\u20ac11.608",
+            "\u22121.3",
+            "\u20ac17,000"
+        ],
+        [
+            "4",
+            "Crete",
+            "\u20ac11.243",
+            "\u22121.6",
+            "\u20ac19,900"
+        ],
+        [
+            "5",
+            "West Greece",
+            "\u20ac10.659",
+            "\u22123.6",
+            "\u20ac15,500"
+        ],
+        [
+            "6",
+            "Central Greece",
+            "\u20ac10.537",
+            "\u22121.7",
+            "\u20ac20,500"
+        ],
+        [
+            "7",
+            "Peloponnese",
+            "\u20ac9.809",
+            "\u22120.7",
+            "\u20ac17,900"
+        ],
+        [
+            "8",
+            "East Macedonia and Thrace",
+            "\u20ac9.265",
+            "0.9",
+            "\u20ac16,500"
+        ],
+        [
+            "9",
+            "South Aegean",
+            "\u20ac7.646",
+            "\u22122.8",
+            "\u20ac26,800"
+        ],
+        [
+            "10",
+            "Epirus",
+            "\u20ac5.079",
+            "\u22120.2",
+            "\u20ac15,300"
+        ],
+        [
+            "11",
+            "West Macedonia",
+            "\u20ac5.506",
+            "\u22121.9",
+            "\u20ac20,300"
+        ],
+        [
+            "12",
+            "Ionian Islands",
+            "\u20ac4.130",
+            "\u22127.4",
+            "\u20ac19,100"
+        ],
+        [
+            "13",
+            "North Aegean",
+            "\u20ac3.330",
+            "\u22123.3",
+            "\u20ac17,900"
+        ],
+        [
+            "14",
+            "Mount Athos",
+            "N/A",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "-",
+            "Greece",
+            "\u20ac231.643",
+            "\u22120.5",
+            "\u20ac20,500"
+        ],
+        [
+            "-",
+            "EU",
+            "\u20ac11,745.353",
+            "\u22125.8",
+            "\u20ac23,500"
+        ]
+    ]
+}

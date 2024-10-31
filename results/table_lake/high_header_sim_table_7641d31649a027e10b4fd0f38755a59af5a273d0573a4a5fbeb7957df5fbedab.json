@@ -1,0 +1,87 @@
+{
+    "id": "7641d31649a027e10b4fd0f38755a59af5a273d0573a4a5fbeb7957df5fbedab",
+    "metadata": "2001 WTA Tier I Series | Singles | Singles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Surface",
+        "Week",
+        "Winners",
+        "Finalists",
+        "Semifinalists"
+    ],
+    "cell": [
+        [
+            "Tokyo",
+            "Carpet (i)",
+            "January 29",
+            "Lindsay Davenport 6-7(4), 6-4, 6-2",
+            "Martina Hingis",
+            "Magdalena Maleeva Anna Kournikova"
+        ],
+        [
+            "Indian Wells",
+            "Hard",
+            "March 5",
+            "Serena Williams 4-6, 6-4, 6-2",
+            "Kim Clijsters",
+            "Martina Hingis Venus Williams"
+        ],
+        [
+            "Miami",
+            "Hard",
+            "March 19",
+            "Venus Williams 4-6, 6-1, 7-6(4)",
+            "Jennifer Capriati",
+            "Martina Hingis Elena Dementieva"
+        ],
+        [
+            "Charleston",
+            "Clay",
+            "April 16",
+            "Jennifer Capriati 6-0, 4-6, 6-4",
+            "Martina Hingis",
+            "Conchita Mart\u00ednez Marlene Weing\u00e4rtner"
+        ],
+        [
+            "Berlin",
+            "Clay",
+            "May 7",
+            "Am\u00e9lie Mauresmo 6-4, 2-6, 6-3",
+            "Jennifer Capriati",
+            "Martina Hingis Justine Henin"
+        ],
+        [
+            "Rome",
+            "Clay",
+            "May 14",
+            "Jelena Doki\u0107 7-6(3), 6-1",
+            "Am\u00e9lie Mauresmo",
+            "Martina Hingis Conchita Mart\u00ednez"
+        ],
+        [
+            "Canada (Toronto)",
+            "Hard",
+            "August 13",
+            "Serena Williams 6-1, 6-7(7), 6-3",
+            "Jennifer Capriati",
+            "Anke Huber Monica Seles"
+        ],
+        [
+            "Moscow",
+            "Carpet (i)",
+            "October 1",
+            "Jelena Doki\u0107 6-3, 6-3",
+            "Elena Dementieva",
+            "Anastasia Myskina Silvia Farina Elia"
+        ],
+        [
+            "Zurich",
+            "Carpet (i)",
+            "October 15",
+            "Lindsay Davenport 6-3, 6-1",
+            "Jelena Doki\u0107",
+            "Nathalie Tauziat Jennifer Capriati"
+        ]
+    ]
+}

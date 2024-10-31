@@ -1,0 +1,126 @@
+{
+    "id": "2049c542651d580d5883b871c6f91621e42a20f6a043bb6a7ef4d925e0378be6",
+    "metadata": "1988 Atlanta Falcons season | Regular season | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance_"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 4, 1988",
+            "at Detroit Lions",
+            "L 31-17",
+            "31075"
+        ],
+        [
+            "2",
+            "September 11, 1988",
+            "New Orleans Saints",
+            "L 29-21",
+            "48901"
+        ],
+        [
+            "3",
+            "September 18, 1988",
+            "at San Francisco 49ers",
+            "W 34-17",
+            "60168"
+        ],
+        [
+            "4",
+            "September 25, 1988",
+            "at Dallas Cowboys",
+            "L 26-20",
+            "39702"
+        ],
+        [
+            "5",
+            "October 2, 1988",
+            "Seattle Seahawks",
+            "L 31-20",
+            "28619"
+        ],
+        [
+            "6",
+            "October 9, 1988",
+            "Los Angeles Rams",
+            "L 33-0",
+            "30852"
+        ],
+        [
+            "7",
+            "October 16, 1988",
+            "at Denver Broncos",
+            "L 30-14",
+            "75287"
+        ],
+        [
+            "8",
+            "October 23, 1988",
+            "New York Giants",
+            "L 23-16",
+            "45092"
+        ],
+        [
+            "9",
+            "October 30, 1988",
+            "at Philadelphia Eagles",
+            "W 27-24",
+            "60091"
+        ],
+        [
+            "10",
+            "November 6, 1988",
+            "Green Bay Packers",
+            "W 20-0",
+            "29952"
+        ],
+        [
+            "11",
+            "November 13, 1988",
+            "San Diego Chargers",
+            "L 10-7",
+            "26329"
+        ],
+        [
+            "12",
+            "November 20, 1988",
+            "at Los Angeles Raiders",
+            "W 12-6",
+            "40967"
+        ],
+        [
+            "13",
+            "November 27, 1988",
+            "Tampa Bay Buccaneers",
+            "W 17-10",
+            "14020"
+        ],
+        [
+            "14",
+            "December 4, 1988",
+            "San Francisco 49ers",
+            "L 13-3",
+            "44048"
+        ],
+        [
+            "15",
+            "December 11, 1988",
+            "at Los Angeles Rams",
+            "L 22-7",
+            "42828"
+        ],
+        [
+            "16",
+            "December 18, 1988",
+            "at New Orleans Saints",
+            "L 10-9",
+            "60566"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "336fc77c671b8b653d77d1ca916768895af9d2b37f809f277c90ae68da3b0689",
+    "metadata": "Bidayuh | Language issues | Language issues",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "English",
+        "Malay",
+        "Bukar_Sadong",
+        "Bau_Jagoi",
+        "Siburan_Padawan",
+        "Bra_ang_Pinyawa",
+        "Lundu_Salako",
+        "Kapampangan",
+        "Tagalog"
+    ],
+    "cell": [
+        [
+            "Father",
+            "Bapa",
+            "Amang",
+            "Sama",
+            "Sama",
+            "Sama`",
+            "Apak, Bapak,",
+            "Ibp\u00e2, (Bapa - Uncle)",
+            "Amang, Ama"
+        ],
+        [
+            "Mother",
+            "Ibu",
+            "And\u0115/ayang",
+            "Sino",
+            "Sendo",
+            "Sin(d)o",
+            "Inuk, Indok, Umak,",
+            "Ind\u00fb",
+            "Inang, Ina"
+        ],
+        [
+            "Food",
+            "makanan",
+            "pima-an",
+            "pinguman",
+            "pimaan",
+            "Pinguman",
+            "Pamakanan,",
+            "Pamangan",
+            "Pagkain"
+        ],
+        [
+            "Rice",
+            "nasi",
+            "songkoi/sungkoi",
+            "tubi",
+            "tubi",
+            "Tubi",
+            "nasik",
+            "nasi",
+            "kanin"
+        ],
+        [
+            "I",
+            "aku",
+            "aku",
+            "oku",
+            "\u011aku",
+            "aku",
+            "aku",
+            "aku/I-aku",
+            "ako"
+        ],
+        [
+            "You/thee",
+            "kamu/anda/engkau/kau",
+            "amu/akam",
+            "mu-u/ingan",
+            "ku-u/kaam",
+            "(K)u`u/ ka`am",
+            "kau,",
+            "ika (sing.)/ikayu (pl.)",
+            "ikaw"
+        ]
+    ]
+}

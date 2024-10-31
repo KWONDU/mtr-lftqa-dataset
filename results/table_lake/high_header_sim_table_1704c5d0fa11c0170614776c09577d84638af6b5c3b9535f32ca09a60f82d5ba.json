@@ -1,0 +1,55 @@
+{
+    "id": "1704c5d0fa11c0170614776c09577d84638af6b5c3b9535f32ca09a60f82d5ba",
+    "metadata": "2008 in Canadian music | Top 5 British albums | Top 5 British albums",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Artist",
+        "Album",
+        "Peak_position",
+        "Sales",
+        "Certification"
+    ],
+    "cell": [
+        [
+            "1",
+            "Coldplay",
+            "Viva la Vida or Death and All His Friends",
+            "1",
+            "480000",
+            "6x Platinum"
+        ],
+        [
+            "2",
+            "Adele",
+            "19",
+            "4",
+            "160000",
+            "2x Platinum"
+        ],
+        [
+            "3",
+            "Seal",
+            "Soul",
+            "11",
+            "80000",
+            "Platinum"
+        ],
+        [
+            "4",
+            "Bullet for My Valentine",
+            "Scream Aim Fire",
+            "N/A",
+            "40000",
+            "Gold"
+        ],
+        [
+            "5",
+            "Natasha Bedingfield",
+            "Pocketful of Sunshine",
+            "13",
+            "40000",
+            "Gold"
+        ]
+    ]
+}

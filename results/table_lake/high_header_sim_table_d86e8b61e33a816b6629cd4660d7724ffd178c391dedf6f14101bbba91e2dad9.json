@@ -1,0 +1,63 @@
+{
+    "id": "d86e8b61e33a816b6629cd4660d7724ffd178c391dedf6f14101bbba91e2dad9",
+    "metadata": "Turkmenistan Fed Cup team | Longest winning streaks | Longest winning streaks",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Date_",
+        "Location_",
+        "Score",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "2011",
+            "Asia/Oceania Zone, Group II, 5th-6th Play-off",
+            "5 February",
+            "Nonthaburi ( THA )",
+            "2-1",
+            "Won"
+        ],
+        [
+            "2012",
+            "Asia/Oceania Zone, Group II, Pool B",
+            "30 January",
+            "Shenzhen ( CHN )",
+            "2-1",
+            "Won"
+        ],
+        [
+            "2012",
+            "Asia/Oceania Zone, Group II, Pool B",
+            "1 February",
+            "Shenzhen ( CHN )",
+            "0-3",
+            "Lost"
+        ],
+        [
+            "2012",
+            "Asia/Oceania Zone, Group II, Pool B",
+            "3 February",
+            "Shenzhen ( CHN )",
+            "3-0",
+            "Won"
+        ],
+        [
+            "2012",
+            "Asia/Oceania Zone, Group II, 5th-6th Play-off",
+            "4 February",
+            "Shenzhen ( CHN )",
+            "3-0",
+            "Won"
+        ],
+        [
+            "2013",
+            "Asia/Oceania Zone, Group II, Pool A",
+            "4 February",
+            "Astana ( KAZ )",
+            "0-3",
+            "Lost"
+        ]
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "1b0505e1417c325ac4e7220d513be2263733ba42406f083c2fc3376cd9277389",
+    "metadata": "Sittingbourne and Kemsley Light Railway | Locomotives | Locomotives",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Builder",
+        "Wheel_arrangement",
+        "Works_Number",
+        "Built"
+    ],
+    "cell": [
+        [
+            "Alpha",
+            "W.G. Bagnall",
+            "0-6-2T",
+            "2472",
+            "1932"
+        ],
+        [
+            "Leader",
+            "Kerr Stuart",
+            "0-4-2ST",
+            "926",
+            "1905"
+        ],
+        [
+            "Melior",
+            "Kerr Stuart",
+            "0-4-2ST",
+            "4219",
+            "1924"
+        ],
+        [
+            "Premier",
+            "Kerr Stuart",
+            "0-4-2ST",
+            "886",
+            "1905"
+        ],
+        [
+            "Superb",
+            "W.G. Bagnall",
+            "0-6-2T",
+            "2624",
+            "1922"
+        ],
+        [
+            "Triumph",
+            "W.G. Bagnall",
+            "0-6-2T",
+            "2511",
+            "1934"
+        ],
+        [
+            "Unique",
+            "W.G. Bagnall",
+            "2-4-0 F",
+            "2216",
+            "1924"
+        ],
+        [
+            "Victor",
+            "Hudson Hunslet",
+            "4wDM",
+            "4182",
+            "1953"
+        ],
+        [
+            "Edward Lloyd",
+            "Ruston & Hornsby",
+            "0-4-0 DM",
+            "435403",
+            "1961"
+        ],
+        [
+            "Barton Hall",
+            "Hunslet",
+            "4wDH",
+            "6651",
+            "1965"
+        ],
+        [
+            "No 1",
+            "Andrew Barclay and Sons",
+            "0-4-0F",
+            "1876",
+            "1925"
+        ],
+        [
+            "No 3, Bear",
+            "Peckett and Sons",
+            "0-4-0ST",
+            "614",
+            "1896"
+        ]
+    ]
+}

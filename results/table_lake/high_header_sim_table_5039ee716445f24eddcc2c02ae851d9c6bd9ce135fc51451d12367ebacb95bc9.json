@@ -1,0 +1,127 @@
+{
+    "id": "5039ee716445f24eddcc2c02ae851d9c6bd9ce135fc51451d12367ebacb95bc9",
+    "metadata": "1960 Buffalo Bills season | Season schedule | Regular season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Game_site",
+        "Attendance_"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 11, 1960",
+            "at New York Titans",
+            "L 27-3",
+            "Polo Grounds",
+            "10200"
+        ],
+        [
+            "2",
+            "September 18, 1960",
+            "Denver Broncos",
+            "L 27-21",
+            "War Memorial Stadium",
+            "15229"
+        ],
+        [
+            "3",
+            "September 23, 1960",
+            "at Boston Patriots",
+            "W 13-0",
+            "Nickerson Field",
+            "20732"
+        ],
+        [
+            "4",
+            "October 2, 1960",
+            "Los Angeles Chargers",
+            "L 24-10",
+            "War Memorial Stadium",
+            "15821"
+        ],
+        [
+            "6",
+            "October 16, 1960",
+            "New York Titans",
+            "L 17-13",
+            "War Memorial Stadium",
+            "14988"
+        ],
+        [
+            "7",
+            "October 23, 1960",
+            "Oakland Raiders",
+            "W 38-9",
+            "War Memorial Stadium",
+            "8876"
+        ],
+        [
+            "8",
+            "October 30, 1960",
+            "Houston Oilers",
+            "W 25-24",
+            "War Memorial Stadium",
+            "23001"
+        ],
+        [
+            "9",
+            "November 6, 1960",
+            "Dallas Texans",
+            "L 45-28",
+            "War Memorial Stadium",
+            "19610"
+        ],
+        [
+            "10",
+            "November 13, 1960",
+            "at Oakland Raiders",
+            "L 20-7",
+            "Kezar Stadium",
+            "8800"
+        ],
+        [
+            "11",
+            "November 20, 1960",
+            "at Los Angeles Chargers",
+            "W 32-3",
+            "Los Angeles Memorial Coliseum",
+            "16161"
+        ],
+        [
+            "12",
+            "November 27, 1960",
+            "at Denver Broncos",
+            "T 38-38",
+            "Bears Stadium",
+            "7785"
+        ],
+        [
+            "13",
+            "December 4, 1960",
+            "Boston Patriots",
+            "W 38-14",
+            "War Memorial Stadium",
+            "14335"
+        ],
+        [
+            "14",
+            "December 11, 1960",
+            "at Houston Oilers",
+            "L 31-23",
+            "Jeppesen Stadium",
+            "25243"
+        ],
+        [
+            "15",
+            "December 18, 1960",
+            "at Dallas Texans",
+            "L 24-7",
+            "Cotton Bowl",
+            "18000"
+        ]
+    ]
+}

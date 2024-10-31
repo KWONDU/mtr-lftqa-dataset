@@ -1,0 +1,70 @@
+{
+    "id": "920e9e3e5940846c2b88acb6b910446200f84d609241f879d861e639263e75df",
+    "metadata": "1978 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "21.15 (141)",
+            "St Kilda",
+            "31.18 (204)",
+            "MCG",
+            "24852",
+            "6 May 1978"
+        ],
+        [
+            "Geelong",
+            "12.16 (88)",
+            "North Melbourne",
+            "16.14 (110)",
+            "Kardinia Park",
+            "23074",
+            "6 May 1978"
+        ],
+        [
+            "Essendon",
+            "22.18 (150)",
+            "Richmond",
+            "19.15 (129)",
+            "Windy Hill",
+            "21946",
+            "6 May 1978"
+        ],
+        [
+            "Carlton",
+            "19.12 (126)",
+            "Hawthorn",
+            "24.13 (157)",
+            "Princes Park",
+            "19464",
+            "6 May 1978"
+        ],
+        [
+            "Fitzroy",
+            "14.12 (96)",
+            "Collingwood",
+            "22.16 (148)",
+            "Junction Oval",
+            "25282",
+            "6 May 1978"
+        ],
+        [
+            "South Melbourne",
+            "18.15 (123)",
+            "Footscray",
+            "16.9 (105)",
+            "VFL Park",
+            "19263",
+            "6 May 1978"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "4d05fade82c846cb3e7766009f9e5f6f338bfb5fc634a893024cc5f893fa93a3",
+    "metadata": "Hydrological code | United States | United States",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Level_",
+        "Digits",
+        "Average_size_square_miles",
+        "Number_of_HUs_approximate",
+        "Example_name",
+        "Example_code_HUC"
+    ],
+    "cell": [
+        [
+            "Region",
+            "1",
+            "2",
+            "177560",
+            "21",
+            "Pacific Northwest",
+            "17"
+        ],
+        [
+            "Subregion",
+            "2",
+            "4",
+            "16800",
+            "222",
+            "Lower Snake",
+            "1706"
+        ],
+        [
+            "Basin",
+            "3",
+            "6",
+            "10596",
+            "370",
+            "Lower Snake",
+            "170601"
+        ],
+        [
+            "Subbasin",
+            "4",
+            "8",
+            "700",
+            "2200",
+            "Imnaha River",
+            "17060102"
+        ],
+        [
+            "Watershed",
+            "5",
+            "10",
+            "227 (40,000-250,000 acres)",
+            "22000",
+            "Upper Imnaha River",
+            "1706010201"
+        ],
+        [
+            "Subwatershed",
+            "6",
+            "12",
+            "40 (10,000-40,000 acres)",
+            "160000",
+            "South Fork Imnaha River",
+            "170601020101"
+        ]
+    ]
+}

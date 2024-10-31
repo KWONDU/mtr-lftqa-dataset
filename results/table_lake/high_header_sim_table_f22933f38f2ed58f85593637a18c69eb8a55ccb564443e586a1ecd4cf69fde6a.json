@@ -1,0 +1,70 @@
+{
+    "id": "f22933f38f2ed58f85593637a18c69eb8a55ccb564443e586a1ecd4cf69fde6a",
+    "metadata": "1940 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "10.19 (79)",
+            "South Melbourne",
+            "10.13 (73)",
+            "Glenferrie Oval",
+            "8000",
+            "10 August 1940"
+        ],
+        [
+            "Geelong",
+            "12.15 (87)",
+            "Richmond",
+            "16.11 (107)",
+            "Corio Oval",
+            "10000",
+            "10 August 1940"
+        ],
+        [
+            "Essendon",
+            "10.12 (72)",
+            "Fitzroy",
+            "10.15 (75)",
+            "Windy Hill",
+            "18000",
+            "10 August 1940"
+        ],
+        [
+            "Collingwood",
+            "12.21 (93)",
+            "North Melbourne",
+            "6.17 (53)",
+            "Victoria Park",
+            "6500",
+            "10 August 1940"
+        ],
+        [
+            "St Kilda",
+            "13.9 (87)",
+            "Footscray",
+            "15.22 (112)",
+            "Junction Oval",
+            "13000",
+            "10 August 1940"
+        ],
+        [
+            "Melbourne",
+            "14.12 (96)",
+            "Carlton",
+            "20.13 (133)",
+            "MCG",
+            "16500",
+            "10 August 1940"
+        ]
+    ]
+}

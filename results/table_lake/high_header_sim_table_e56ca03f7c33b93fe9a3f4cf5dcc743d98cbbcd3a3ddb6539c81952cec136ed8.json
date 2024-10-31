@@ -1,0 +1,67 @@
+{
+    "id": "e56ca03f7c33b93fe9a3f4cf5dcc743d98cbbcd3a3ddb6539c81952cec136ed8",
+    "metadata": "Athletics at the 1924 Summer Olympics - Men's pentathlon | Final standings | Final standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Athlete",
+        "Long_jump",
+        "Javelin",
+        "_200_m",
+        "Discus",
+        "_1500_m",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Eero Lehtonen ( FIN )",
+            "7",
+            "4",
+            "1",
+            "1",
+            "1",
+            "14"
+        ],
+        [
+            "2",
+            "Elem\u00e9r Somfay ( HUN )",
+            "5",
+            "2",
+            "5",
+            "2",
+            "2",
+            "16"
+        ],
+        [
+            "3",
+            "Robert LeGendre ( USA )",
+            "1",
+            "9",
+            "1",
+            "4",
+            "3",
+            "18"
+        ],
+        [
+            "4",
+            "Leo Leino ( FIN )",
+            "6",
+            "1",
+            "4",
+            "1",
+            "4",
+            "23"
+        ],
+        [
+            "5",
+            "Mort Kaer ( USA )",
+            "2",
+            "5",
+            "1",
+            "10",
+            "6",
+            "24"
+        ]
+    ]
+}

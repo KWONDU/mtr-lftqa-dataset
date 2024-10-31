@@ -1,0 +1,308 @@
+{
+    "id": "c7c667bf4bde42dc935af56d0aaf0430386f299af1e02d9a3290e2ac0779857d",
+    "metadata": "1954-55 Chelsea F.C. season | First Division | First Division",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "21 August 1954",
+            "Leicester City",
+            "A",
+            "1-1",
+            "38941"
+        ],
+        [
+            "23 August 1954",
+            "Burnley",
+            "H",
+            "1-0",
+            "30239"
+        ],
+        [
+            "28 August 1954",
+            "Bolton Wanderers",
+            "H",
+            "3-2",
+            "52756"
+        ],
+        [
+            "31 August 1954",
+            "Burnley",
+            "A",
+            "1-1",
+            "52756"
+        ],
+        [
+            "4 September 1954",
+            "Cardiff City",
+            "H",
+            "1-1",
+            "42688"
+        ],
+        [
+            "6 September 1954",
+            "Preston North End",
+            "H",
+            "0-1",
+            "36947"
+        ],
+        [
+            "11 September 1954",
+            "Manchester City",
+            "A",
+            "1-1",
+            "36230"
+        ],
+        [
+            "15 September 1954",
+            "Preston North End",
+            "A",
+            "2-1",
+            "27549"
+        ],
+        [
+            "18 September 1954",
+            "Everton",
+            "H",
+            "0-2",
+            "59199"
+        ],
+        [
+            "20 November 1954",
+            "Sheffield United",
+            "A",
+            "2-1",
+            "14137"
+        ],
+        [
+            "25 September 1954",
+            "Newcastle United",
+            "A",
+            "3-1",
+            "45659"
+        ],
+        [
+            "2 October 1954",
+            "West Bromwich Albion",
+            "H",
+            "3-3",
+            "67440"
+        ],
+        [
+            "9 October 1954",
+            "Huddersfield Town",
+            "A",
+            "0-1",
+            "29556"
+        ],
+        [
+            "16 October 1954",
+            "Manchester United",
+            "H",
+            "5-6",
+            "55966"
+        ],
+        [
+            "23 October 1954",
+            "Blackpool",
+            "A",
+            "0-1",
+            "19694"
+        ],
+        [
+            "30 October 1954",
+            "Charlton Athletic",
+            "H",
+            "1-2",
+            "54113"
+        ],
+        [
+            "6 November 1954",
+            "Sunderland",
+            "A",
+            "3-3",
+            "42416"
+        ],
+        [
+            "13 November 1954",
+            "Tottenham Hotspur",
+            "H",
+            "2-1",
+            "52961"
+        ],
+        [
+            "20 November 1954",
+            "Sheffield Wednesday",
+            "A",
+            "1-1",
+            "25913"
+        ],
+        [
+            "27 November 1954",
+            "Portsmouth",
+            "H",
+            "4-1",
+            "40358"
+        ],
+        [
+            "4 December 1954",
+            "Wolverhampton Wanderers",
+            "A",
+            "4-3",
+            "32095"
+        ],
+        [
+            "11 December 1954",
+            "Aston Villa",
+            "H",
+            "4-0",
+            "36162"
+        ],
+        [
+            "18 December 1954",
+            "Leicester City",
+            "H",
+            "3-1",
+            "33215"
+        ],
+        [
+            "25 December 1954",
+            "Arsenal",
+            "A",
+            "0-1",
+            "47178"
+        ],
+        [
+            "27 December 1954",
+            "Arsenal",
+            "H",
+            "1-1",
+            "65922"
+        ],
+        [
+            "1 January 1955",
+            "Bolton Wanderers",
+            "A",
+            "5-2",
+            "30988"
+        ],
+        [
+            "22 January 1955",
+            "Manchester City",
+            "H",
+            "0-2",
+            "34160"
+        ],
+        [
+            "5 February 1955",
+            "Everton",
+            "A",
+            "1-1",
+            "50658"
+        ],
+        [
+            "12 February 1955",
+            "Newcastle United",
+            "H",
+            "4-3",
+            "50667"
+        ],
+        [
+            "26 February 1955",
+            "Huddersfield Town",
+            "H",
+            "4-1",
+            "35786"
+        ],
+        [
+            "5 March 1955",
+            "Aston Villa",
+            "A",
+            "2-3",
+            "24822"
+        ],
+        [
+            "9 March 1955",
+            "West Bromwich Albion",
+            "A",
+            "4-2",
+            "7764"
+        ],
+        [
+            "12 March 1955",
+            "Blackpool",
+            "H",
+            "0-0",
+            "55227"
+        ],
+        [
+            "19 March 1955",
+            "Charlton Athletic",
+            "A",
+            "2-0",
+            "41415"
+        ],
+        [
+            "23 March 1955",
+            "Cardiff City",
+            "A",
+            "1-0",
+            "16649"
+        ],
+        [
+            "29 March 1955",
+            "Sunderland",
+            "H",
+            "2-1",
+            "33203"
+        ],
+        [
+            "2 April 1955",
+            "Tottenham Hotspur",
+            "A",
+            "4-2",
+            "53159"
+        ],
+        [
+            "8 April 1955",
+            "Sheffield United",
+            "H",
+            "1-1",
+            "50978"
+        ],
+        [
+            "9 April 1955",
+            "Wolverhampton Wanderers",
+            "H",
+            "1-0",
+            "75043"
+        ],
+        [
+            "16 April 1955",
+            "Portsmouth",
+            "A",
+            "0-0",
+            "40230"
+        ],
+        [
+            "23 April 1955",
+            "Sheffield Wednesday",
+            "H",
+            "3-0",
+            "51421"
+        ],
+        [
+            "30 April 1955",
+            "Manchester United",
+            "A",
+            "1-2",
+            "34933"
+        ]
+    ]
+}

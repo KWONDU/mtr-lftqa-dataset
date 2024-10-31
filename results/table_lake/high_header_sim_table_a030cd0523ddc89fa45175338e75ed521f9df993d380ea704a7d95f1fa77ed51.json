@@ -1,0 +1,71 @@
+{
+    "id": "a030cd0523ddc89fa45175338e75ed521f9df993d380ea704a7d95f1fa77ed51",
+    "metadata": "2002 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Score",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 19",
+            "San Francisco Giants - 4, Anaheim Angels - 3",
+            "Edison International Field of Anaheim",
+            "3:44",
+            "44603"
+        ],
+        [
+            "2",
+            "October 20",
+            "San Francisco Giants - 10, Anaheim Angels - 11",
+            "Edison International Field of Anaheim",
+            "3:57",
+            "44584"
+        ],
+        [
+            "3",
+            "October 22",
+            "Anaheim Angels - 10, San Francisco Giants - 4",
+            "Pacific Bell Park",
+            "3:37",
+            "42707"
+        ],
+        [
+            "4",
+            "October 23",
+            "Anaheim Angels - 3, San Francisco Giants - 4",
+            "Pacific Bell Park",
+            "3:02",
+            "42703"
+        ],
+        [
+            "5",
+            "October 24",
+            "Anaheim Angels - 4, San Francisco Giants - 16",
+            "Pacific Bell Park",
+            "3:53",
+            "42713"
+        ],
+        [
+            "6",
+            "October 26",
+            "San Francisco Giants - 5, Anaheim Angels - 6",
+            "Edison International Field of Anaheim",
+            "3:48",
+            "44506"
+        ],
+        [
+            "7",
+            "October 27",
+            "San Francisco Giants - 1, Anaheim Angels - 4",
+            "Edison International Field of Anaheim",
+            "3:16",
+            "44598"
+        ]
+    ]
+}

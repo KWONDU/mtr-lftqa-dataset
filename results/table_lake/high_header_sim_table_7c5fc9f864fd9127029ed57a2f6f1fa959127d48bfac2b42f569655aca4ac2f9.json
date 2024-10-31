@@ -1,0 +1,88 @@
+{
+    "id": "7c5fc9f864fd9127029ed57a2f6f1fa959127d48bfac2b42f569655aca4ac2f9",
+    "metadata": "Gymnastics at the 2004 Summer Olympics - Women's artistic qualification | Team all-around | Team all-around",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Team",
+        "Vault",
+        "Uneven_Bars",
+        "Balance_Beam",
+        "Floor_Exercise",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Romania (ROU)",
+            "37.925",
+            "37.750",
+            "38.599",
+            "38.162",
+            "152.436"
+        ],
+        [
+            "2",
+            "United States (USA)",
+            "37.599",
+            "38.437",
+            "38.137",
+            "37.675",
+            "151.848"
+        ],
+        [
+            "3",
+            "China (CHN)",
+            "37.199",
+            "38.500",
+            "37.849",
+            "37.537",
+            "151.085"
+        ],
+        [
+            "4",
+            "Russia (RUS)",
+            "37.786",
+            "37.612",
+            "37.298",
+            "36.724",
+            "149.420"
+        ],
+        [
+            "5",
+            "Ukraine (UKR)",
+            "37.461",
+            "36.699",
+            "36.874",
+            "37.874",
+            "148.908"
+        ],
+        [
+            "6",
+            "France (FRA)",
+            "37.262",
+            "38.049",
+            "36.424",
+            "37.024",
+            "148.759"
+        ],
+        [
+            "7",
+            "Spain (ESP)",
+            "36.899",
+            "37.925",
+            "35.486",
+            "37.611",
+            "147.921"
+        ],
+        [
+            "8",
+            "Australia (AUS)",
+            "36.574",
+            "37.461",
+            "36.948",
+            "36.436",
+            "147.419"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "439445f459dbb50d60ea5748ba3dd183cbc9fba9a8ca2d7acec497a1109ced56",
+    "metadata": "1994-95 Boston Bruins season | New Jersey Devils 4, Boston Bruins 1 | New Jersey Devils 4, Boston Bruins 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Record"
+    ],
+    "cell": [
+        [
+            "May 7",
+            "New Jersey Devils",
+            "5-0",
+            "Boston Bruins",
+            "0-1"
+        ],
+        [
+            "May 8",
+            "New Jersey Devils",
+            "3-0",
+            "Boston Bruins",
+            "0-2"
+        ],
+        [
+            "May 10",
+            "Boston Bruins",
+            "3-2",
+            "New Jersey Devils",
+            "1-2"
+        ],
+        [
+            "May 12",
+            "Boston Bruins",
+            "0-1 (OT)",
+            "New Jersey Devils",
+            "1-3"
+        ],
+        [
+            "May 14",
+            "New Jersey Devils",
+            "3-2",
+            "Boston Bruins",
+            "1-4"
+        ]
+    ]
+}

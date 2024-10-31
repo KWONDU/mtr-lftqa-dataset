@@ -1,0 +1,87 @@
+{
+    "id": "65c1309c0d14a674ba909f555cb43093cdddc3541aeaf687141a33a32e1ce450",
+    "metadata": "Administrative division of Congress Poland | 1893 | 1893",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Governorate",
+        "Name_in_Russian",
+        "Name_in_Polish",
+        "Seat",
+        "Area_in_thousands_of_km_2",
+        "Population_in_thousands_1905_"
+    ],
+    "cell": [
+        [
+            "Warsaw Governorate",
+            "\u0412\u0430\u0440\u0448\u0430\u0432\u0441\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f",
+            "Gubernia warszawska",
+            "Warszawa",
+            "176",
+            "2233"
+        ],
+        [
+            "Kalisz Governorate",
+            "\u041a\u0430\u043b\u0438\u0448\u0441\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f",
+            "Gubernia kaliska",
+            "Kalisz",
+            "113",
+            "964"
+        ],
+        [
+            "Kielce Governorate",
+            "\u041a\u0435\u043b\u0435\u0446\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f",
+            "Gubernia kielecka",
+            "Kielce",
+            "102",
+            "899"
+        ],
+        [
+            "\u0141om\u017ca Governorate",
+            "\u041b\u043e\u043c\u0436\u0438\u043d\u0441\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f",
+            "Gubernia lubelska",
+            "\u0141om\u017ca",
+            "106",
+            "645"
+        ],
+        [
+            "Lublin Governorate",
+            "\u041b\u044e\u0431\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f",
+            "Gubernia \u0142om\u017cy\u0144ska",
+            "Lublin",
+            "169",
+            "1341"
+        ],
+        [
+            "Piotrk\u00f3w Governorate",
+            "\u041f\u0435\u0442\u0440\u043e\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f",
+            "Gubernia piotrkowska",
+            "Piotrk\u00f3w",
+            "122",
+            "1640"
+        ],
+        [
+            "P\u0142ock Governorate",
+            "\u041f\u043b\u043e\u0446\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f",
+            "Gubernia p\u0142ocka",
+            "P\u0142ock",
+            "94",
+            "613"
+        ],
+        [
+            "Radom Governorate",
+            "\u0420\u0430\u0434\u043e\u043c\u0441\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f",
+            "Gubernia radomska",
+            "Radom",
+            "124",
+            "917"
+        ],
+        [
+            "Siedlce Governorate",
+            "\u0421\u0435\u0434\u043b\u0435\u0446\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f",
+            "Gubernia siedlecka",
+            "Siedlce",
+            "143",
+            "894"
+        ]
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "f6b6ba9faaa2e739e8bc9cf3644cbcafe0d4085b86a1f1bb42501fa485ce9b56",
+    "metadata": "Primera A 2008 | Clausura 2008 Standings | Clausura 2008 Standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place_Posici\u00f3n",
+        "Team_Equipo",
+        "Played_PJ",
+        "Won_PG",
+        "Draw_PE",
+        "Lost_PP",
+        "Goals_Scored_GF",
+        "Goals_Conceded_GC",
+        "_Dif_",
+        "Points_Pts_"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Ori\u00f3n",
+            "14",
+            "9",
+            "2",
+            "3",
+            "52",
+            "21",
+            "+31",
+            "29"
+        ],
+        [
+            "2.",
+            "R\u00edo Abajo F.C.",
+            "14",
+            "8",
+            "3",
+            "3",
+            "39",
+            "20",
+            "+19",
+            "27"
+        ],
+        [
+            "3.",
+            "Pan de Az\u00facar",
+            "14",
+            "7",
+            "5",
+            "2",
+            "30",
+            "15",
+            "+15",
+            "25"
+        ],
+        [
+            "4.",
+            "Chorrillito",
+            "14",
+            "6",
+            "3",
+            "5",
+            "30",
+            "26",
+            "+4",
+            "21"
+        ],
+        [
+            "5.",
+            "Para\u00edso",
+            "14",
+            "6",
+            "3",
+            "5",
+            "25",
+            "25",
+            "0",
+            "21"
+        ],
+        [
+            "6.",
+            "Atl\u00e9tico Nacional",
+            "14",
+            "4",
+            "6",
+            "4",
+            "27",
+            "19",
+            "+8",
+            "18"
+        ],
+        [
+            "7.",
+            "G\u00e9nesis",
+            "14",
+            "2",
+            "3",
+            "9",
+            "17",
+            "58",
+            "-41",
+            "9"
+        ],
+        [
+            "8.",
+            "C.A.I.",
+            "14",
+            "0",
+            "3",
+            "11",
+            "15",
+            "50",
+            "-35",
+            "3"
+        ]
+    ]
+}

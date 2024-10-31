@@ -1,0 +1,55 @@
+{
+    "id": "3fe88e773978f602d1772ae627fd340c5e0e90f7bdfcf0a8f3c24457ceeb0571",
+    "metadata": "United States House of Representatives elections in Connecticut, 2008 | Match-up summary | Match-up summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "_2008_Status",
+        "Democratic",
+        "Republican",
+        "Green"
+    ],
+    "cell": [
+        [
+            "1",
+            "John B. Larson",
+            "Re-election",
+            "John B. Larson",
+            "Joe Visconti",
+            "Stephen E. D. Fournier"
+        ],
+        [
+            "2",
+            "Joe Courtney",
+            "Re-election",
+            "Joe Courtney",
+            "Sean Sullivan",
+            "G. Scott Deshefy"
+        ],
+        [
+            "3",
+            "Rosa DeLauro",
+            "Re-election",
+            "Rosa DeLauro",
+            "Bo Itshaky",
+            "Ralph Ferrucci"
+        ],
+        [
+            "4",
+            "Christopher Shays",
+            "Re-election",
+            "Jim Himes",
+            "Christopher Shays",
+            "Richard Duffee"
+        ],
+        [
+            "5",
+            "Chris Murphy",
+            "Re-election",
+            "Chris Murphy",
+            "David Cappiello",
+            "Harold Burbank"
+        ]
+    ]
+}

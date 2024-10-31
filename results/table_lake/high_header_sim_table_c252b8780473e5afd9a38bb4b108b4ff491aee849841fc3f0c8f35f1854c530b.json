@@ -1,0 +1,63 @@
+{
+    "id": "c252b8780473e5afd9a38bb4b108b4ff491aee849841fc3f0c8f35f1854c530b",
+    "metadata": "Sherwood, Arkansas | Mayors | Mayors",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "Date_of_election",
+        "Candidates",
+        "Results",
+        "Total_votes"
+    ],
+    "cell": [
+        [
+            "Mayoral Special Election (runoff)",
+            "July 31, 2007",
+            "Interim Mayor Bill Harmon",
+            "1,465 - 35.64%",
+            "4112"
+        ],
+        [
+            "Mayoral Special Election (runoff)",
+            "July 31, 2007",
+            "City Clerk Virginia Hillman",
+            "2,646 - 64.36%",
+            "4112"
+        ],
+        [
+            "Mayoral Special Election",
+            "July 10, 2007",
+            "Doris Anderson",
+            "403 - 10.44%",
+            "3871"
+        ],
+        [
+            "Mayoral Special Election",
+            "July 10, 2007",
+            "Richard Devine",
+            "926 - 23.99%",
+            "3871"
+        ],
+        [
+            "Mayoral Special Election",
+            "July 10, 2007",
+            "Interim Mayor Bill Harmon",
+            "1,242 - 32.18%",
+            "3871"
+        ],
+        [
+            "Mayoral Special Election",
+            "July 10, 2007",
+            "City Clerk Virginia Hillman",
+            "1,252 - 32.44%",
+            "3871"
+        ],
+        [
+            "Mayoral Special Election",
+            "July 10, 2007",
+            "Victor Sierra",
+            "37 - .96%",
+            "3871"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": "f067eab9a0fc35c4e3c61d5ceaeedabba0ee45460524d5c16bff5171d1c3732c",
+    "metadata": "Sports in Patras | Main sports clubs | Main sports clubs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Leagues",
+        "Venue",
+        "Location_",
+        "Capacity",
+        "Established"
+    ],
+    "cell": [
+        [
+            "Panachaiki F.C.",
+            "Second Division - football",
+            "Kostas Davourlis Stadium",
+            "Agyia",
+            "11321",
+            "1891"
+        ],
+        [
+            "Panachaiki V.C.",
+            "First Division - volleyball",
+            "Panachaiki Indoor Arena",
+            "Agyia",
+            "500",
+            "1928"
+        ],
+        [
+            "Thyella Patras F.C.",
+            "Regional Championship - football",
+            "Fotis Aravantinos Stadium",
+            "Glafkos",
+            "3000",
+            "1930"
+        ],
+        [
+            "Apollon Patras",
+            "Basket League - basketball",
+            "Apollon Patras Indoor Hall",
+            "Perivola",
+            "3500",
+            "1926"
+        ],
+        [
+            "Olympiada Patras",
+            "B National - basketball",
+            "Olympiada Indoor Hall",
+            "Taraboura",
+            "2500",
+            "1961"
+        ],
+        [
+            "EA Patras",
+            "A1 Ethniki - volleyball",
+            "EAP Arena",
+            "Agios Dionysios",
+            "2200",
+            "1927"
+        ],
+        [
+            "NO Patras",
+            "A1 Ethniki - water polo",
+            "NOP Aquatic Centre",
+            "Akti Dymeon",
+            "3000",
+            "1929"
+        ],
+        [
+            "NE Patras",
+            "A2 Ethniki - water polo",
+            "Antonis Pepanos Aquatic Centre",
+            "Koukouli",
+            "4000",
+            "2006"
+        ],
+        [
+            "Ormi Patras",
+            "A1 Women`s - handball",
+            "Dimitris Tofalos Arena",
+            "Bozaitika",
+            "4500",
+            "2003"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "8371b494d412e0c82deb22028ba5d3c1f056d346e06bd72684d5fa2cc588325c",
+    "metadata": "2003 MLS SuperDraft | Round Five | Round Five",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "MLS_team",
+        "Player",
+        "Position_",
+        "Affiliation"
+    ],
+    "cell": [
+        [
+            "41",
+            "D.C. United",
+            "John Swann",
+            "D",
+            "Indiana University"
+        ],
+        [
+            "42",
+            "MetroStars",
+            "* Jacob LeBlanc",
+            "M",
+            "University of Virginia"
+        ],
+        [
+            "43",
+            "Kansas City Wizards",
+            "Jack Jewsbury",
+            "M",
+            "St. Louis University"
+        ],
+        [
+            "44",
+            "Chicago Fire",
+            "Chad Dombrowski",
+            "D",
+            "University of Wisconsin-Milwaukee"
+        ],
+        [
+            "45",
+            "Dallas Burn",
+            "Michael Mariscalco",
+            "M",
+            "Butler University"
+        ],
+        [
+            "46",
+            "San Jose Earthquakes",
+            "Johanes Maliza",
+            "M",
+            "Stanford University"
+        ],
+        [
+            "47",
+            "Columbus Crew",
+            "Guy Abrahamson",
+            "M",
+            "Rutgers University"
+        ],
+        [
+            "48",
+            "Colorado Rapids",
+            "Casey Schmidt",
+            "F",
+            "Boston College"
+        ],
+        [
+            "49",
+            "MetroStars",
+            "Marco V\u00e9lez",
+            "M",
+            "Barry University"
+        ],
+        [
+            "50",
+            "Los Angeles Galaxy",
+            "Jimmy Frazelle",
+            "M",
+            "UCLA"
+        ]
+    ]
+}

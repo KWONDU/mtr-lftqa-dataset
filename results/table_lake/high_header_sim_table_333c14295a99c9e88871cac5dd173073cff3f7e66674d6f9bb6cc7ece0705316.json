@@ -1,0 +1,55 @@
+{
+    "id": "333c14295a99c9e88871cac5dd173073cff3f7e66674d6f9bb6cc7ece0705316",
+    "metadata": "FIL World Luge Championships 1978 | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Soviet Union",
+            "2",
+            "1",
+            "0",
+            "3"
+        ],
+        [
+            "2",
+            "West Germany",
+            "0",
+            "2",
+            "0",
+            "2"
+        ],
+        [
+            "3",
+            "Austria",
+            "0",
+            "0",
+            "2",
+            "2"
+        ],
+        [
+            "4",
+            "Italy",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "East Germany",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

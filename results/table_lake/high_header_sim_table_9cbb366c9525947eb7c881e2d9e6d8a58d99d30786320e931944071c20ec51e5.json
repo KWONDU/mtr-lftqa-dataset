@@ -1,0 +1,55 @@
+{
+    "id": "9cbb366c9525947eb7c881e2d9e6d8a58d99d30786320e931944071c20ec51e5",
+    "metadata": "United States House of Representatives elections, 1922 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "W. Turner Logan",
+            "Democratic",
+            "1920",
+            "Re-elected",
+            "W. Turner Logan (D) 94.0% S. L. Blomgren (R) 6.0%"
+        ],
+        [
+            "South Carolina 2",
+            "James F. Byrnes",
+            "Democratic",
+            "1910",
+            "Re-elected",
+            "James F. Byrnes (D) Unopposed"
+        ],
+        [
+            "South Carolina 3",
+            "Frederick H. Dominick",
+            "Democratic",
+            "1916",
+            "Re-elected",
+            "Frederick H. Dominick (D) Unopposed"
+        ],
+        [
+            "South Carolina 4",
+            "John J. McSwain",
+            "Democratic",
+            "1920",
+            "Re-elected",
+            "John J. McSwain (D) 97.3% M. P. Norwood (R) 2.7%"
+        ],
+        [
+            "South Carolina 5",
+            "William F. Stevenson",
+            "Democratic",
+            "1917",
+            "Re-elected",
+            "William F. Stevenson (D) Unopposed"
+        ]
+    ]
+}

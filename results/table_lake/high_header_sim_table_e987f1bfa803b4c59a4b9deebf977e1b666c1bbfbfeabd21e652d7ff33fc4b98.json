@@ -1,0 +1,56 @@
+{
+    "id": "e987f1bfa803b4c59a4b9deebf977e1b666c1bbfbfeabd21e652d7ff33fc4b98",
+    "metadata": "Brandt Snedeker | PGA Tour wins (6) | PGA Tour wins (6)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Winning_score",
+        "To_par",
+        "Margin_of_victory"
+    ],
+    "cell": [
+        [
+            "Aug 19, 2007",
+            "Wyndham Championship",
+            "70-67-66-63=266",
+            "\u221220",
+            "2 strokes"
+        ],
+        [
+            "Apr 24, 2011",
+            "The Heritage",
+            "69-67-72-64=272",
+            "\u221212",
+            "Playoff"
+        ],
+        [
+            "Jan 29, 2012",
+            "Farmers Insurance Open",
+            "67-64-74-67=272",
+            "\u221216",
+            "Playoff"
+        ],
+        [
+            "Sep 23, 2012",
+            "Tour Championship",
+            "68-70-64-68=270",
+            "\u221210",
+            "3 strokes"
+        ],
+        [
+            "Feb 10, 2013",
+            "AT&T Pebble Beach National Pro-Am",
+            "66-68-68-65=267",
+            "\u221219",
+            "2 strokes"
+        ],
+        [
+            "Jul 28, 2013",
+            "RBC Canadian Open",
+            "70-69-63-70=272",
+            "\u221216",
+            "3 strokes"
+        ]
+    ]
+}

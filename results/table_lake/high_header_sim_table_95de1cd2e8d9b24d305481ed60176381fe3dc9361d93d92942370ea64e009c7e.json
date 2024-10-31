@@ -1,0 +1,55 @@
+{
+    "id": "95de1cd2e8d9b24d305481ed60176381fe3dc9361d93d92942370ea64e009c7e",
+    "metadata": "Epsilon Eridani | Planetary system | The Epsilon Eridani system",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Companion_in_order_from_star",
+        "Mass",
+        "Semimajor_axis_AU_",
+        "Orbital_period_s_day_",
+        "Eccentricity",
+        "Inclination"
+    ],
+    "cell": [
+        [
+            "Asteroid belt",
+            "3 AU",
+            "3 AU",
+            "3 AU",
+            "3 AU",
+            "\u2014"
+        ],
+        [
+            "b (unconfirmed)",
+            "1.55 \u00b1 0.24 MJ",
+            "3.38-3.50",
+            "2,502-2,630",
+            "0.25-0.702",
+            "\u2014"
+        ],
+        [
+            "Asteroid belt",
+            "20 AU",
+            "20 AU",
+            "20 AU",
+            "20 AU",
+            "\u2014"
+        ],
+        [
+            "c (unconfirmed)",
+            "0.1 MJ",
+            "40?",
+            "102270",
+            "0.3",
+            "\u2014"
+        ],
+        [
+            "Dust disk",
+            "35-100 AU",
+            "35-100 AU",
+            "35-100 AU",
+            "35-100 AU",
+            "\u2014"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "5cecdc93af58f446c067bbf38975bf6a3798ffcc04edcf6a26250f24f3b53fe5",
+    "metadata": "European Volleyball Championship of the Small Countries Division | Men | Men",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Host_",
+        "Gold",
+        "Silver",
+        "Bronze"
+    ],
+    "cell": [
+        [
+            "2001",
+            "Glasgow",
+            "Cyprus",
+            "Scotland",
+            "Luxembourg"
+        ],
+        [
+            "2003",
+            "Andorra",
+            "Cyprus",
+            "Iceland",
+            "Scotland"
+        ],
+        [
+            "2005",
+            "Luxembourg",
+            "Cyprus",
+            "Luxembourg",
+            "Faroe Islands"
+        ],
+        [
+            "2007",
+            "Limassol (CYP)",
+            "Cyprus",
+            "Andorra",
+            "Luxembourg"
+        ],
+        [
+            "2009",
+            "Luxembourg",
+            "Cyprus",
+            "Luxembourg",
+            "Iceland"
+        ],
+        [
+            "2011",
+            "Andorra",
+            "Cyprus",
+            "Luxembourg",
+            "Andorra"
+        ]
+    ]
+}

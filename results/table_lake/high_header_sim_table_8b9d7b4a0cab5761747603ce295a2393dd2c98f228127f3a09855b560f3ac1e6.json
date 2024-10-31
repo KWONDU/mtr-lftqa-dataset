@@ -1,0 +1,71 @@
+{
+    "id": "8b9d7b4a0cab5761747603ce295a2393dd2c98f228127f3a09855b560f3ac1e6",
+    "metadata": "Khmer numbers | Modern Khmer numbers | Numbers from 100 to 10,000,000 (dialects)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Value_",
+        "Khmer",
+        "Word_Form",
+        "UNGEGN",
+        "ALA_LC",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "10 000",
+            "\u17e1\u17e0\u17e0\u17e0\u17e0",
+            "( \u1798\u17bd\u1799 ) \u178a\u1794\u17cb\u1796\u17b6\u1793\u17cb",
+            "(mu\u014fy) d\u00e1b po\u0103n",
+            "(muay) \u1e6d\u00e1p b\u00e2n",
+            "Literally (one) ten thousand"
+        ],
+        [
+            "100 000",
+            "\u17e1\u17e0\u17e0\u17e0\u17e0\u17e0",
+            "( \u1798\u17bd\u1799 ) \u178a\u1794\u17cb\u1798\u17c9\u17ba\u1793",
+            "(mu\u014fy) d\u00e1b m\u0153\u016dn",
+            "(muay) \u1e6d\u00e1p mu\u0233n",
+            "Literally (one) ten ten-thousand"
+        ],
+        [
+            "100 000",
+            "\u17e1\u17e0\u17e0\u17e0\u17e0\u17e0",
+            "\u1798\u17bd\u1799\u179a\u1799\u1796\u17b6\u1793\u17cb",
+            "mu\u014fy r\u00f4y po\u0103n",
+            "muay ray b\u00e2n",
+            "Literally one hundred thousand"
+        ],
+        [
+            "1 000 000",
+            "\u17e1\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0",
+            "\u1798\u17bd\u1799\u179a\u1799\u1798\u17c9\u17ba\u1793",
+            "mu\u014fy r\u00f4y m\u0153\u016dn",
+            "muay ray mu\u0233n",
+            "Literally one hundred ten-thousand"
+        ],
+        [
+            "10 000 000",
+            "\u17e1\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0",
+            "( \u1798\u17bd\u1799 ) \u178a\u1794\u17cb\u179b\u17b6\u1793",
+            "(mu\u014fy) d\u00e1b le\u0103n",
+            "(muay) \u1e6d\u00e1p l\u00e2n",
+            "Literally (one) ten million"
+        ],
+        [
+            "100 000 000",
+            "\u17e1\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0",
+            "\u1798\u17bd\u1799\u179a\u1799\u179b\u17b6\u1793",
+            "mu\u014fy r\u00f4y le\u0103n",
+            "muay ray l\u00e2n",
+            "Literally one hundred million"
+        ],
+        [
+            "1 000 000 000",
+            "\u17e1\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0\u17e0",
+            "\u1798\u17bd\u1799\u1796\u17b6\u1793\u17cb\u179b\u17b6\u1793",
+            "mu\u014fy po\u0103n le\u0103n",
+            "muay ray b\u00e2n",
+            "Literally one thousand million"
+        ]
+    ]
+}

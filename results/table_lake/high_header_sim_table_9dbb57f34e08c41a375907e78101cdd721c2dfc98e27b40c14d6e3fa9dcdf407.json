@@ -1,0 +1,70 @@
+{
+    "id": "9dbb57f34e08c41a375907e78101cdd721c2dfc98e27b40c14d6e3fa9dcdf407",
+    "metadata": "1960 VFL season | Round 12 | Round 12",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "11.13 (79)",
+            "South Melbourne",
+            "9.3 (57)",
+            "Junction Oval",
+            "24700",
+            "16 July 1960"
+        ],
+        [
+            "North Melbourne",
+            "9.19 (73)",
+            "Melbourne",
+            "15.13 (103)",
+            "Arden Street Oval",
+            "9600",
+            "16 July 1960"
+        ],
+        [
+            "Geelong",
+            "11.13 (79)",
+            "Footscray",
+            "8.4 (52)",
+            "Kardinia Park",
+            "14388",
+            "16 July 1960"
+        ],
+        [
+            "Hawthorn",
+            "10.13 (73)",
+            "Essendon",
+            "16.11 (107)",
+            "Glenferrie Oval",
+            "23500",
+            "16 July 1960"
+        ],
+        [
+            "Fitzroy",
+            "17.10 (112)",
+            "Collingwood",
+            "13.18 (96)",
+            "Brunswick Street Oval",
+            "30080",
+            "16 July 1960"
+        ],
+        [
+            "Richmond",
+            "8.8 (56)",
+            "Carlton",
+            "15.20 (110)",
+            "Punt Road Oval",
+            "13500",
+            "16 July 1960"
+        ]
+    ]
+}

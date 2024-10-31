@@ -1,0 +1,63 @@
+{
+    "id": "c4efac78644e82974280df96db7f1d5f2d216fda4dc8d81d30ed3c4dac0b5017",
+    "metadata": "Free public transport | Brazil | Brazil",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Town_City",
+        "Population",
+        "Operator_",
+        "First_year",
+        "Duration"
+    ],
+    "cell": [
+        [
+            "Agudos , SP",
+            "36700",
+            "local government",
+            "2011",
+            "since 2011"
+        ],
+        [
+            "Ivaipor\u00e3 , PR",
+            "31812",
+            "local government",
+            "2011",
+            "since 2011"
+        ],
+        [
+            "Porto Real , RJ",
+            "16574",
+            "local government",
+            "2011",
+            "since 2011"
+        ],
+        [
+            "Potirendaba , SP",
+            "15449",
+            "local government",
+            "1998",
+            "since 1998"
+        ],
+        [
+            "Paul\u00ednia , SP",
+            "86800",
+            "local government",
+            "2013",
+            "since 2013"
+        ],
+        [
+            "Muzambinho , MG",
+            "21975",
+            "local government",
+            "2011",
+            "since 2011"
+        ],
+        [
+            "Pitanga , PR",
+            "32645",
+            "local government",
+            "2012",
+            "since 2012"
+        ]
+    ]
+}

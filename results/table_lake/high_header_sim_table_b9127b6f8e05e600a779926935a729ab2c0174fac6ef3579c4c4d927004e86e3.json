@@ -1,0 +1,79 @@
+{
+    "id": "b9127b6f8e05e600a779926935a729ab2c0174fac6ef3579c4c4d927004e86e3",
+    "metadata": "List of AMD mobile microprocessors | Athlon X2 | \"Lion\" (65 nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Frequency",
+        "L2_Cache",
+        "HT",
+        "Mult_1",
+        "Voltage",
+        "TDP",
+        "Socket",
+        "Release_date",
+        "Order_Part_Number"
+    ],
+    "cell": [
+        [
+            "Athlon X2 QL-60",
+            "1900MHz",
+            "2 \u00d7 512kB",
+            "1800MHz",
+            "0 9.5x",
+            "0.95 - 1.1V",
+            "35W",
+            "Socket S1G2",
+            "June 4, 2008",
+            "AMQL60DAM22GG"
+        ],
+        [
+            "Athlon X2 QL-62",
+            "2000MHz",
+            "2 \u00d7 512kB",
+            "1800MHz",
+            "10.0x",
+            "0.95 - 1.1V",
+            "35W",
+            "Socket S1G2",
+            "Q3 2008",
+            "AMQL62DAM22GG"
+        ],
+        [
+            "Athlon X2 QL-64",
+            "2100MHz",
+            "2 \u00d7 512kB",
+            "1800MHz",
+            "10.5x",
+            "0.95 - 1.1V",
+            "35W",
+            "Socket S1G2",
+            "Q4 2008",
+            "AMQL64DAM22GG"
+        ],
+        [
+            "Athlon X2 QL-65",
+            "2100MHz",
+            "2 \u00d7 512kB",
+            "2000MHz",
+            "10.5x",
+            "0.95 - 1.1V",
+            "35W",
+            "Socket S1G2",
+            "Q4 2008",
+            "AMQL65DAM22GG"
+        ],
+        [
+            "Athlon X2 QL-66",
+            "2200MHz",
+            "2 \u00d7 512kB",
+            "1800MHz",
+            "11.0x",
+            "0.95 - 1.1V",
+            "35W",
+            "Socket S1G2",
+            "Q4 2008",
+            "AMQL66DAM22GG"
+        ]
+    ]
+}

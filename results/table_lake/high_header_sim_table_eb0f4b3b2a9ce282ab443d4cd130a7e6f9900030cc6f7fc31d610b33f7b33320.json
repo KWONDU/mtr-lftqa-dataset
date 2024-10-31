@@ -1,0 +1,63 @@
+{
+    "id": "eb0f4b3b2a9ce282ab443d4cd130a7e6f9900030cc6f7fc31d610b33f7b33320",
+    "metadata": "Royal Canadian Mint numismatic coins (2000s) | Butterfly Collection | Butterfly Collection",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Butterfly",
+        "Artist",
+        "Mintage",
+        "Issue_Price",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "2004",
+            "Tiger Swallowtail",
+            "Jianping Yan",
+            "19910",
+            "$39.95",
+            "Hologram"
+        ],
+        [
+            "2004",
+            "Clouded Sulphur",
+            "Susan Taylor",
+            "15281",
+            "$39.95",
+            "Selective Gold Plating"
+        ],
+        [
+            "2005",
+            "Monarch",
+            "Susan Taylor",
+            "20000",
+            "$39.95",
+            "Colourized, Orange and Black"
+        ],
+        [
+            "2005",
+            "Great Spangled Fritillary",
+            "Jianping Yan",
+            "20000",
+            "$39.95",
+            "Hologram"
+        ],
+        [
+            "2006",
+            "Short-Tailed Swallowtail",
+            "Susan Taylor",
+            "20000",
+            "$39.95",
+            "Proof (with coloured butterfly)"
+        ],
+        [
+            "2006",
+            "Silvery Blue",
+            "Jianping Yan",
+            "20000",
+            "$39.95",
+            "Hologram"
+        ]
+    ]
+}

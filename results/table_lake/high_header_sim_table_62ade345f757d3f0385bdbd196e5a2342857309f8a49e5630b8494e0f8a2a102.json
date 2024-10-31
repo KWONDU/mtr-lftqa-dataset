@@ -1,0 +1,61 @@
+{
+    "id": "62ade345f757d3f0385bdbd196e5a2342857309f8a49e5630b8494e0f8a2a102",
+    "metadata": "Frank Beard (golfer) | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "1",
+            "4",
+            "8",
+            "12",
+            "11"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "2",
+            "2",
+            "6",
+            "13",
+            "9"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "0",
+            "0",
+            "1",
+            "2",
+            "1"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "3",
+            "6",
+            "12",
+            "11"
+        ],
+        [
+            "Totals",
+            "0",
+            "3",
+            "9",
+            "21",
+            "39",
+            "32"
+        ]
+    ]
+}

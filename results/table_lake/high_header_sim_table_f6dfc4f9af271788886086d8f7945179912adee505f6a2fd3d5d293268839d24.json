@@ -1,0 +1,56 @@
+{
+    "id": "f6dfc4f9af271788886086d8f7945179912adee505f6a2fd3d5d293268839d24",
+    "metadata": "Concordia-class cruise ship | Vessels of the class | Vessels of the class",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Built",
+        "Ship",
+        "Operator_",
+        "Tonnage",
+        "Flag"
+    ],
+    "cell": [
+        [
+            "2006",
+            "Costa Concordia",
+            "Costa Cruises",
+            "GT",
+            "Italy"
+        ],
+        [
+            "2007",
+            "Costa Serena",
+            "Costa Cruises",
+            "GT",
+            "Italy"
+        ],
+        [
+            "2008",
+            "Carnival Splendor",
+            "Carnival Cruise Lines",
+            "GT",
+            "Panama"
+        ],
+        [
+            "2009",
+            "Costa Pacifica",
+            "Costa Cruises",
+            "GT",
+            "Italy"
+        ],
+        [
+            "2011",
+            "Costa Favolosa",
+            "Costa Cruises",
+            "GT",
+            "Italy"
+        ],
+        [
+            "2012",
+            "Costa Fascinosa",
+            "Costa Cruises",
+            "GT",
+            "Italy"
+        ]
+    ]
+}

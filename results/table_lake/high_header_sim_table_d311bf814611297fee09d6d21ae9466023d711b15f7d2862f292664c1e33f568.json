@@ -1,0 +1,142 @@
+{
+    "id": "d311bf814611297fee09d6d21ae9466023d711b15f7d2862f292664c1e33f568",
+    "metadata": "1992-93 Vancouver Canucks season | March | March",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "March 1",
+            "Vancouver",
+            "5 - 2",
+            "Buffalo",
+            "Whitmore",
+            "17098",
+            "36-19-8"
+        ],
+        [
+            "March 2",
+            "Vancouver",
+            "3 - 3",
+            "Washington",
+            "McLean",
+            "12263",
+            "36-19-9"
+        ],
+        [
+            "March 4",
+            "Vancouver",
+            "3 - 4",
+            "Boston",
+            "Whitmore",
+            "13982",
+            "36-20-9"
+        ],
+        [
+            "March 6",
+            "Vancouver",
+            "1 - 5",
+            "Hartford",
+            "McLean",
+            "12048",
+            "36-21-9"
+        ],
+        [
+            "March 9",
+            "New Jersey",
+            "2 - 7",
+            "Vancouver",
+            "McLean",
+            "15822",
+            "37-21-9"
+        ],
+        [
+            "March 11",
+            "Minnesota",
+            "4 - 3",
+            "Vancouver",
+            "Whitmore",
+            "12006",
+            "37-22-9"
+        ],
+        [
+            "March 12",
+            "Vancouver",
+            "3 - 2",
+            "Winnipeg",
+            "McLean",
+            "15567",
+            "38-22-9"
+        ],
+        [
+            "March 14",
+            "Vancouver",
+            "2 - 3",
+            "Calgary",
+            "McLean",
+            "20214",
+            "38-23-9"
+        ],
+        [
+            "March 18",
+            "Winnipeg",
+            "5 - 2",
+            "Vancouver",
+            "McLean",
+            "16150",
+            "38-24-9"
+        ],
+        [
+            "March 20",
+            "NY Islanders",
+            "7 - 2",
+            "Vancouver",
+            "Whitmore",
+            "16150",
+            "38-25-9"
+        ],
+        [
+            "March 22",
+            "St. Louis",
+            "3 - 1",
+            "Vancouver",
+            "McLean",
+            "15871",
+            "38-26-9"
+        ],
+        [
+            "March 24",
+            "Los Angeles",
+            "2 - 6",
+            "Vancouver",
+            "McLean",
+            "16150",
+            "39-26-9"
+        ],
+        [
+            "March 26",
+            "Calgary",
+            "3 - 1",
+            "Vancouver",
+            "McLean",
+            "16150",
+            "39-27-9"
+        ],
+        [
+            "March 30",
+            "Vancouver",
+            "6 - 3",
+            "St. Louis",
+            "McLean",
+            "17573",
+            "40-27-9"
+        ]
+    ]
+}

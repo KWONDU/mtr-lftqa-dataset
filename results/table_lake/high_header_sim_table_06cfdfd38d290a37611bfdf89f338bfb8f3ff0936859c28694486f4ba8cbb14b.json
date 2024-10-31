@@ -1,0 +1,55 @@
+{
+    "id": "06cfdfd38d290a37611bfdf89f338bfb8f3ff0936859c28694486f4ba8cbb14b",
+    "metadata": "List of former NTA Film Network affiliates in the United States | Owned and operated stations of other networks | Table of network O&Os that aired NTA programs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "State_or_Territory",
+        "Station_call_sign",
+        "Network",
+        "Channel_number",
+        "Programs_Aired"
+    ],
+    "cell": [
+        [
+            "Chicago",
+            "Illinois",
+            "WBBM-TV",
+            "CBS",
+            "2",
+            "Juke Box Jury Sheriff of Cochise"
+        ],
+        [
+            "Los Angeles",
+            "California",
+            "KRCA-TV (now KNBC-TV )",
+            "NBC",
+            "4",
+            "Grand Jury"
+        ],
+        [
+            "New York City",
+            "New York",
+            "WABC-TV",
+            "ABC",
+            "7",
+            "U.S. Marshal"
+        ],
+        [
+            "New York City",
+            "New York",
+            "WCBS-TV",
+            "CBS",
+            "2",
+            "Man Without a Gun"
+        ],
+        [
+            "New York City",
+            "New York",
+            "WNBC-TV",
+            "NBC",
+            "4",
+            "Grand Jury The Third Man"
+        ]
+    ]
+}

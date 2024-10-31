@@ -1,0 +1,70 @@
+{
+    "id": "21165f64cbd53e3890a81d1d60812f0e7c04af4e80628ae0b13f3afd7e48f122",
+    "metadata": "1969 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "21.10 (136)",
+            "Melbourne",
+            "14.20 (104)",
+            "Glenferrie Oval",
+            "13186",
+            "3 May 1969"
+        ],
+        [
+            "Footscray",
+            "11.18 (84)",
+            "Geelong",
+            "22.12 (144)",
+            "Western Oval",
+            "17522",
+            "3 May 1969"
+        ],
+        [
+            "Essendon",
+            "16.17 (113)",
+            "North Melbourne",
+            "12.11 (83)",
+            "Windy Hill",
+            "23000",
+            "3 May 1969"
+        ],
+        [
+            "Carlton",
+            "20.17 (137)",
+            "South Melbourne",
+            "17.10 (112)",
+            "Princes Park",
+            "19041",
+            "3 May 1969"
+        ],
+        [
+            "Richmond",
+            "18.12 (120)",
+            "Fitzroy",
+            "6.19 (55)",
+            "MCG",
+            "22991",
+            "3 May 1969"
+        ],
+        [
+            "St Kilda",
+            "18.12 (120)",
+            "Collingwood",
+            "16.18 (114)",
+            "Moorabbin Oval",
+            "34959",
+            "3 May 1969"
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "80d91437ab53e01c15402ca1679d6f04ca59c4dcc2689710e8e7afad58824b3d",
+    "metadata": "2005-06 Real Madrid C.F. season | In | In",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Nat_",
+        "Name_",
+        "Moving_from",
+        "Type_",
+        "Transfer_window",
+        "Ends",
+        "Transfer_fee"
+    ],
+    "cell": [
+        [
+            "ESP",
+            "S. Ramos",
+            "Sevilla",
+            "Transfer",
+            "Summer",
+            "2009",
+            "\u20ac27M"
+        ],
+        [
+            "BRA",
+            "Robinho",
+            "Santos",
+            "Transfer",
+            "Summer",
+            "2008",
+            "\u20ac25M"
+        ],
+        [
+            "BRA",
+            "Baptista",
+            "Sevilla",
+            "Transfer",
+            "Summer",
+            "2010",
+            "\u20ac20M"
+        ],
+        [
+            "BRA",
+            "Cicinho",
+            "S\u00e3o Paulo",
+            "Transfer",
+            "Winter",
+            "2007",
+            "\u20ac8M"
+        ],
+        [
+            "URU",
+            "Diogo",
+            "River Plate",
+            "Transfer",
+            "Summer",
+            "2007",
+            "\u20ac6M"
+        ],
+        [
+            "ITA",
+            "Cassano",
+            "Roma",
+            "Transfer",
+            "Winter",
+            "2008",
+            "\u20ac5,5M"
+        ],
+        [
+            "URU",
+            "P. Garc\u00eda",
+            "Osasuna",
+            "Transfer",
+            "Summer",
+            "2008",
+            "\u20ac4,5M"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "0ce31033ae37e53d91e107465fffacc75630a114a94113339ae95b8739087ae3",
+    "metadata": "1955 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "14.7 (91)",
+            "North Melbourne",
+            "13.15 (93)",
+            "Glenferrie Oval",
+            "15000",
+            "14 May 1955"
+        ],
+        [
+            "Essendon",
+            "8.11 (59)",
+            "Melbourne",
+            "10.13 (73)",
+            "Windy Hill",
+            "25299",
+            "14 May 1955"
+        ],
+        [
+            "Carlton",
+            "12.17 (89)",
+            "Collingwood",
+            "17.12 (114)",
+            "Princes Park",
+            "37065",
+            "14 May 1955"
+        ],
+        [
+            "South Melbourne",
+            "25.16 (166)",
+            "St Kilda",
+            "4.8 (32)",
+            "Lake Oval",
+            "15000",
+            "14 May 1955"
+        ],
+        [
+            "Geelong",
+            "12.12 (84)",
+            "Footscray",
+            "10.12 (72)",
+            "Kardinia Park",
+            "28288",
+            "14 May 1955"
+        ],
+        [
+            "Richmond",
+            "11.11 (77)",
+            "Fitzroy",
+            "15.9 (99)",
+            "Punt Road Oval",
+            "15000",
+            "14 May 1955"
+        ]
+    ]
+}

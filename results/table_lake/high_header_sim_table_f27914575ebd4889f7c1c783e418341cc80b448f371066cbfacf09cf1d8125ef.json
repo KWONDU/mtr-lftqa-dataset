@@ -1,0 +1,79 @@
+{
+    "id": "f27914575ebd4889f7c1c783e418341cc80b448f371066cbfacf09cf1d8125ef",
+    "metadata": "Bharatiya Janata Party | In general elections | In general elections",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "General_Election",
+        "Seats_Won",
+        "Change_in_Seat",
+        "_of_votes",
+        "votes_swing"
+    ],
+    "cell": [
+        [
+            "Indian general election, 1980",
+            "7th Lok Sabha",
+            "12",
+            "12",
+            "8.75%",
+            "8.75"
+        ],
+        [
+            "Indian general election, 1984",
+            "8th Lok Sabha",
+            "2",
+            "10",
+            "7.74%",
+            "1.01"
+        ],
+        [
+            "Indian general election, 1989",
+            "9th Lok Sabha",
+            "85",
+            "83",
+            "11.36",
+            "3.62"
+        ],
+        [
+            "Indian general election, 1991",
+            "10th Lok Sabha",
+            "120",
+            "37",
+            "20.11",
+            "8.75"
+        ],
+        [
+            "Indian general election, 1996",
+            "11th Lok Sabha",
+            "161",
+            "41",
+            "20.29",
+            "0.18"
+        ],
+        [
+            "Indian general election, 1998",
+            "12th Lok Sabha",
+            "183",
+            "21",
+            "25.59%",
+            "5.30"
+        ],
+        [
+            "Indian general election, 1999",
+            "13th Lok Sabha",
+            "189",
+            "6",
+            "23.75",
+            "1.84"
+        ],
+        [
+            "Indian general election, 2004",
+            "14th Lok Sabha",
+            "144",
+            "45",
+            "22.16%",
+            "1.69"
+        ]
+    ]
+}

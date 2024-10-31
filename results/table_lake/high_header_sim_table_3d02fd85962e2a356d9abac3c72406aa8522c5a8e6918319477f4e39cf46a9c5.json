@@ -1,0 +1,63 @@
+{
+    "id": "3d02fd85962e2a356d9abac3c72406aa8522c5a8e6918319477f4e39cf46a9c5",
+    "metadata": "49ers-Rams rivalry | 2010s (49ers 3-2-1) | 2010s (49ers 3-2-1)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Date_",
+        "Home_Team",
+        "Result_",
+        "Visiting_Team",
+        "Venue"
+    ],
+    "cell": [
+        [
+            "2010",
+            "November 14",
+            "San Francisco 49ers",
+            "23-20 OT",
+            "St. Louis Rams",
+            "Candlestick Park"
+        ],
+        [
+            "2010",
+            "December 26",
+            "St. Louis Rams",
+            "25-17",
+            "San Francisco 49ers",
+            "Edward Jones Dome"
+        ],
+        [
+            "2011",
+            "December 4",
+            "San Francisco 49ers",
+            "26-0",
+            "St. Louis Rams",
+            "Candlestick Park"
+        ],
+        [
+            "2011",
+            "January 1",
+            "St Louis Rams",
+            "27-34",
+            "San Francisco 49ers",
+            "Edward Jones Dome"
+        ],
+        [
+            "2012",
+            "November 11",
+            "San Francisco 49ers",
+            "24-24 OT",
+            "St. Louis Rams",
+            "Candlestick Park"
+        ],
+        [
+            "2012",
+            "December 2",
+            "St Louis Rams",
+            "16-13 OT",
+            "San Francisco 49ers",
+            "Edward Jones Dome"
+        ]
+    ]
+}

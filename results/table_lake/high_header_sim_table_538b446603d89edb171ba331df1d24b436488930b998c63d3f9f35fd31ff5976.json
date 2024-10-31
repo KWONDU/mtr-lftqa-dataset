@@ -1,0 +1,127 @@
+{
+    "id": "538b446603d89edb171ba331df1d24b436488930b998c63d3f9f35fd31ff5976",
+    "metadata": "Family Feud | Scoring format | Group B",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "From_",
+        "Goal",
+        "Round_1",
+        "Round_2",
+        "Round_3",
+        "Round_4",
+        "Round_5",
+        "Round_6_"
+    ],
+    "cell": [
+        [
+            "1977",
+            "200",
+            "Single",
+            "Single",
+            "Double",
+            "Double",
+            "Double",
+            "Double"
+        ],
+        [
+            "1977",
+            "300",
+            "Single",
+            "Single",
+            "Single",
+            "Double",
+            "Triple",
+            "Triple"
+        ],
+        [
+            "1984",
+            "400",
+            "Single",
+            "Single",
+            "Single",
+            "Single",
+            "Double",
+            "Triple"
+        ],
+        [
+            "1988",
+            "300",
+            "Single",
+            "Single",
+            "Single",
+            "Double",
+            "Triple",
+            "Triple"
+        ],
+        [
+            "1988",
+            "300",
+            "Single",
+            "Single",
+            "Double",
+            "Triple",
+            "Triple",
+            "Triple"
+        ],
+        [
+            "1990",
+            "300",
+            "Single",
+            "Single",
+            "Single",
+            "Double",
+            "Triple",
+            "Triple"
+        ],
+        [
+            "1992",
+            "300",
+            "Single",
+            "Double",
+            "Triple",
+            "Triple",
+            "Triple",
+            "Triple"
+        ],
+        [
+            "1999",
+            "\u2014",
+            "Single",
+            "Single",
+            "Single",
+            "Triple 1",
+            "Sudden Death 2",
+            "Sudden Death 2"
+        ],
+        [
+            "2003",
+            "300",
+            "Single",
+            "Single",
+            "Double",
+            "Triple",
+            "Sudden Death",
+            "Sudden Death"
+        ],
+        [
+            "2009",
+            "300",
+            "Single",
+            "Double",
+            "Triple",
+            "Sudden Death",
+            "Sudden Death",
+            "Sudden Death"
+        ],
+        [
+            "2010",
+            "300",
+            "Single",
+            "Single",
+            "Double",
+            "Triple",
+            "Sudden Death",
+            "Sudden Death"
+        ]
+    ]
+}

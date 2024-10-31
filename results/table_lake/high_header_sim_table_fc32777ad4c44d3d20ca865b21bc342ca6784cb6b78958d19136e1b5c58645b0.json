@@ -1,0 +1,49 @@
+{
+    "id": "fc32777ad4c44d3d20ca865b21bc342ca6784cb6b78958d19136e1b5c58645b0",
+    "metadata": "Robert Garrigus | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "0",
+            "2",
+            "1"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "1",
+            "4",
+            "1"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "2",
+            "3",
+            "3"
+        ],
+        [
+            "Totals",
+            "0",
+            "3",
+            "11",
+            "4"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "dd17dd34c60e1f260130d1cb1023cb8b48a067fce9c6c0acaafb2a60c173e1a9",
+    "metadata": "Jarkko Kinnunen | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Event"
+    ],
+    "cell": [
+        [
+            "2001",
+            "World Youth Championships",
+            "Debrecen , Hungary",
+            "10th",
+            "10,000 m"
+        ],
+        [
+            "2006",
+            "European Championships",
+            "Gothenburg , Sweden",
+            "14th",
+            "50 km"
+        ],
+        [
+            "2007",
+            "World Championships",
+            "Osaka , Japan",
+            "10th",
+            "50 km"
+        ],
+        [
+            "2008",
+            "Finnish Championships",
+            "Tampere, Finland",
+            "1st",
+            "20 km"
+        ],
+        [
+            "2008",
+            "Olympic Games",
+            "Beijing , China",
+            "15th",
+            "50 km"
+        ],
+        [
+            "2009",
+            "European Race Walking Cup",
+            "Metz, France",
+            "10th",
+            "20 km"
+        ],
+        [
+            "2009",
+            "Finnish Championships",
+            "Espoo, Finland",
+            "1st",
+            "20 km"
+        ],
+        [
+            "2009",
+            "World Championships",
+            "Berlin, Germany",
+            "9th",
+            "50 km"
+        ],
+        [
+            "2010",
+            "European Championships",
+            "Barcelona , Spain",
+            "DNF",
+            "50 km"
+        ]
+    ]
+}

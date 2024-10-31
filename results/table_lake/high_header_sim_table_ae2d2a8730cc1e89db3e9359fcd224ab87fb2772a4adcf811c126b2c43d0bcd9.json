@@ -1,0 +1,112 @@
+{
+    "id": "ae2d2a8730cc1e89db3e9359fcd224ab87fb2772a4adcf811c126b2c43d0bcd9",
+    "metadata": "1967 San Diego Chargers season | Season schedule | Season schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 9, 1967",
+            "Boston Patriots",
+            "W 28-14",
+            "39337"
+        ],
+        [
+            "2",
+            "September 24, 1967",
+            "Houston Oilers",
+            "W 13-3",
+            "36032"
+        ],
+        [
+            "3",
+            "October 1, 1967",
+            "at Buffalo Bills",
+            "W 37-17",
+            "39310"
+        ],
+        [
+            "4",
+            "October 8, 1967",
+            "Boston Patriots",
+            "T 31-31",
+            "23620"
+        ],
+        [
+            "5",
+            "October 15, 1967",
+            "Kansas City Chiefs",
+            "W 45-31",
+            "45355"
+        ],
+        [
+            "6",
+            "October 22, 1967",
+            "at Denver Broncos",
+            "W 38-21",
+            "34465"
+        ],
+        [
+            "7",
+            "October 29, 1967",
+            "at Oakland Raiders",
+            "L 51-10",
+            "53474"
+        ],
+        [
+            "8",
+            "November 12, 1967",
+            "Miami Dolphins",
+            "W 24-0",
+            "34761"
+        ],
+        [
+            "9",
+            "November 19, 1967",
+            "at Kansas City Chiefs",
+            "W 17-16",
+            "46738"
+        ],
+        [
+            "10",
+            "November 23, 1967",
+            "Denver Broncos",
+            "W 24-20",
+            "34586"
+        ],
+        [
+            "11",
+            "December 3, 1967",
+            "Oakland Raiders",
+            "L 41-21",
+            "52661"
+        ],
+        [
+            "12",
+            "December 10, 1967",
+            "at Miami Dolphins",
+            "L 41-24",
+            "23007"
+        ],
+        [
+            "13",
+            "December 16, 1967",
+            "at Houston Oilers",
+            "L 24-17",
+            "19870"
+        ],
+        [
+            "14",
+            "December 24, 1967",
+            "New York Jets",
+            "L 42-31",
+            "34580"
+        ]
+    ]
+}

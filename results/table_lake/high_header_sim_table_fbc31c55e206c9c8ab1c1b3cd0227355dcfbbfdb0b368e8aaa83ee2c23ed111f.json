@@ -1,0 +1,151 @@
+{
+    "id": "fbc31c55e206c9c8ab1c1b3cd0227355dcfbbfdb0b368e8aaa83ee2c23ed111f",
+    "metadata": "2004 Miami Dolphins season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "TV_Time",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 11, 2004",
+            "Tennessee Titans",
+            "L 17-7",
+            "CBS 1:00pm",
+            "69987"
+        ],
+        [
+            "2",
+            "September 19, 2004",
+            "at Cincinnati Bengals",
+            "L 16-13",
+            "ESPN 8:30pm",
+            "65705"
+        ],
+        [
+            "3",
+            "September 26, 2004",
+            "Pittsburgh Steelers",
+            "L 13-3",
+            "CBS 1:00pm",
+            "72225"
+        ],
+        [
+            "4",
+            "October 3, 2004",
+            "New York Jets",
+            "L 17-9",
+            "CBS 4:00pm",
+            "73157"
+        ],
+        [
+            "5",
+            "October 10, 2004",
+            "at New England Patriots",
+            "L 24-10",
+            "CBS 1:00pm",
+            "68756"
+        ],
+        [
+            "6",
+            "October 17, 2004",
+            "at Buffalo Bills",
+            "L 20-13",
+            "CBS 1:00pm",
+            "72714"
+        ],
+        [
+            "7",
+            "October 24, 2004",
+            "St. Louis Rams",
+            "W 31-14",
+            "FOX 1:00pm",
+            "72945"
+        ],
+        [
+            "8",
+            "November 1, 2004",
+            "at New York Jets",
+            "L 41-14",
+            "ABC 9:00pm",
+            "78216"
+        ],
+        [
+            "9",
+            "November 7, 2004",
+            "Arizona Cardinals",
+            "L 24-23",
+            "FOX 1:00pm",
+            "72612"
+        ],
+        [
+            "10",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "11",
+            "November 21, 2004",
+            "at Seattle Seahawks",
+            "L 24-17",
+            "CBS 4:00pm",
+            "66644"
+        ],
+        [
+            "12",
+            "November 28, 2004",
+            "at San Francisco 49ers",
+            "W 24-17",
+            "CBS 4:00pm",
+            "66156"
+        ],
+        [
+            "13",
+            "December 5, 2004",
+            "Buffalo Bills",
+            "L 42-32",
+            "CBS 1:00pm",
+            "73084"
+        ],
+        [
+            "14",
+            "December 12, 2004",
+            "at Denver Broncos",
+            "L 20-17",
+            "CBS 4:00pm",
+            "75027"
+        ],
+        [
+            "15",
+            "December 20, 2004",
+            "New England Patriots",
+            "W 29-28",
+            "ABC 9:00pm",
+            "73629"
+        ],
+        [
+            "16",
+            "December 26, 2004",
+            "Cleveland Browns",
+            "W 10-7",
+            "ESPN 8:30pm",
+            "73169"
+        ],
+        [
+            "17",
+            "January 2, 2005",
+            "at Baltimore Ravens",
+            "L 30-23",
+            "CBS 1:00pm",
+            "69843"
+        ]
+    ]
+}

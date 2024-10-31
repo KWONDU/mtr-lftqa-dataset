@@ -1,0 +1,49 @@
+{
+    "id": "6097ee56f5aa094dc4315804bb7976023f555e98d4c9bd1dc019d19f9828d993",
+    "metadata": "Bill Talbert | Doubles | Loss",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Championship",
+        "Partner",
+        "Opponents_in_the_final",
+        "Score"
+    ],
+    "cell": [
+        [
+            "1943",
+            "U.S. Championships",
+            "David Freeman",
+            "Jack Kramer Frank Parker",
+            "2-6, 4-6, 4-6"
+        ],
+        [
+            "1944",
+            "U.S. Championships",
+            "Pancho Segura",
+            "Don McNeill Bob Falkenburg",
+            "5-7, 4-6, 6-3, 1-6"
+        ],
+        [
+            "1947",
+            "U.S. Championships",
+            "Bill Sidwell",
+            "Jack Kramer Ted Schroeder",
+            "4-6, 5-7, 3-6"
+        ],
+        [
+            "1950",
+            "U.S. Championships",
+            "Gardnar Mulloy",
+            "John Bromwich Frank Sedgman",
+            "5-7, 6-8, 6-3, 1-6"
+        ],
+        [
+            "1953",
+            "U.S. Championships",
+            "Gardnar Mulloy",
+            "Rex Hartwig Mervyn Rose",
+            "4-6, 6-4, 2-6, 4-6"
+        ]
+    ]
+}

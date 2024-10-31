@@ -1,0 +1,56 @@
+{
+    "id": "972fb487f22ee99b4e64fc7d7089af6f799467795202fe505a4ce4254f243d02",
+    "metadata": "Liberal Democrats | European elections | European elections",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "European_election_UK",
+        "Name_",
+        "Share_of_votes",
+        "Seats",
+        "Share_of_seats"
+    ],
+    "cell": [
+        [
+            "1984",
+            "SDP-Liberal Alliance",
+            "19%",
+            "0",
+            "0%"
+        ],
+        [
+            "1989",
+            "Social and Liberal Democrats",
+            "6%",
+            "0",
+            "0%"
+        ],
+        [
+            "1994",
+            "Liberal Democrats",
+            "16%",
+            "2",
+            "2%"
+        ],
+        [
+            "1999",
+            "Liberal Democrats",
+            "13%",
+            "10",
+            "12%"
+        ],
+        [
+            "2004",
+            "Liberal Democrats",
+            "15%",
+            "12",
+            "15%"
+        ],
+        [
+            "2009",
+            "Liberal Democrats",
+            "14%",
+            "11",
+            "15%"
+        ]
+    ]
+}

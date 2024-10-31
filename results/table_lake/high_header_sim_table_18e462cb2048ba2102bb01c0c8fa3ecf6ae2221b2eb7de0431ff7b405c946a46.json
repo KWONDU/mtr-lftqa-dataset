@@ -1,0 +1,127 @@
+{
+    "id": "18e462cb2048ba2102bb01c0c8fa3ecf6ae2221b2eb7de0431ff7b405c946a46",
+    "metadata": "2005 PGA Championship | Final round (Monday) | Final round (Monday)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Phil Mickelson",
+            "United States",
+            "67-65-72-72=276",
+            "-4",
+            "1170000"
+        ],
+        [
+            "T2",
+            "Thomas Bj\u00f8rn",
+            "Denmark",
+            "71-71-63-72=277",
+            "-3",
+            "572000"
+        ],
+        [
+            "T2",
+            "Steve Elkington",
+            "Australia",
+            "68-70-68-71=277",
+            "-3",
+            "572000"
+        ],
+        [
+            "T4",
+            "Davis Love III",
+            "United States",
+            "68-68-68-74=278",
+            "-2",
+            "286000"
+        ],
+        [
+            "T4",
+            "Tiger Woods",
+            "United States",
+            "75-69-66-68=278",
+            "-2",
+            "286000"
+        ],
+        [
+            "T6",
+            "Michael Campbell",
+            "New Zealand",
+            "73-68-69-69=279",
+            "-1",
+            "201500"
+        ],
+        [
+            "T6",
+            "Retief Goosen",
+            "South Africa",
+            "68-70-69-72=279",
+            "-1",
+            "201500"
+        ],
+        [
+            "T6",
+            "Geoff Ogilvy",
+            "Australia",
+            "69-69-72-69=279",
+            "-1",
+            "201500"
+        ],
+        [
+            "T6",
+            "Pat Perez",
+            "United States",
+            "68-71-67-73=279",
+            "-1",
+            "201500"
+        ],
+        [
+            "T10",
+            "Steve Flesch",
+            "United States",
+            "70-71-69-70=280",
+            "E",
+            "131800"
+        ],
+        [
+            "T10",
+            "Dudley Hart",
+            "United States",
+            "70-73-66-71=280",
+            "E",
+            "131800"
+        ],
+        [
+            "T10",
+            "Ted Purdy",
+            "United States",
+            "69-75-70-66=280",
+            "E",
+            "131800"
+        ],
+        [
+            "T10",
+            "Vijay Singh",
+            "Fiji",
+            "70-67-69-74=280",
+            "E",
+            "131800"
+        ],
+        [
+            "T10",
+            "David Toms",
+            "United States",
+            "71-72-69-68=280",
+            "E",
+            "131800"
+        ]
+    ]
+}

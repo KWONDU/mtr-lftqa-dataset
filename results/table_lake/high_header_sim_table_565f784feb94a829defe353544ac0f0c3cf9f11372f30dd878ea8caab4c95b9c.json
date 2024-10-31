@@ -1,0 +1,111 @@
+{
+    "id": "565f784feb94a829defe353544ac0f0c3cf9f11372f30dd878ea8caab4c95b9c",
+    "metadata": "Data exchange | Popular languages used for data exchange | Popular languages used for data exchange",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Schemas_",
+        "Flexible",
+        "Semantic_verification",
+        "Dictionary_",
+        "Information_Model",
+        "Synonyms_and_homonyms",
+        "Dialecting",
+        "Web_standard",
+        "Transformations",
+        "Lightweight",
+        "Human_readable"
+    ],
+    "cell": [
+        [
+            "Yes [1 ]",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "No"
+        ],
+        [
+            "Yes [1 ]",
+            "Yes",
+            "No",
+            "No",
+            "No",
+            "No",
+            "Yes",
+            "Yes",
+            "Yes",
+            "No",
+            "No"
+        ],
+        [
+            "Yes",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "No",
+            "Unknown",
+            "Yes",
+            "Yes",
+            "Yes",
+            "No",
+            "No"
+        ],
+        [
+            "No",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "No",
+            "Unknown",
+            "No",
+            "Yes",
+            "No",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "No [2 ]",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "No",
+            "Unknown",
+            "No",
+            "No",
+            "No [2 ]",
+            "Yes",
+            "Yes [3 ]"
+        ],
+        [
+            "Yes [6 ]",
+            "Yes",
+            "No",
+            "Yes",
+            "No",
+            "Yes",
+            "Yes",
+            "No",
+            "Yes [6 ]",
+            "Yes",
+            "Yes [4 ]"
+        ],
+        [
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes [7 ]",
+            "No",
+            "Yes",
+            "Yes",
+            "ISO",
+            "No",
+            "Yes",
+            "Partial [5 ]"
+        ]
+    ]
+}

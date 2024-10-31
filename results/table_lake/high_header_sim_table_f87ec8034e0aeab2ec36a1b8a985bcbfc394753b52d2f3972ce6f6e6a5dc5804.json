@@ -1,0 +1,79 @@
+{
+    "id": "f87ec8034e0aeab2ec36a1b8a985bcbfc394753b52d2f3972ce6f6e6a5dc5804",
+    "metadata": "Jim Clark | Indy 500 results | Indy 500 results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Car_number",
+        "Start_",
+        "Qual_speed",
+        "Speed_rank",
+        "Finish",
+        "Laps_completed",
+        "Laps_led",
+        "Race_status",
+        "Chassis"
+    ],
+    "cell": [
+        [
+            "1963",
+            "92",
+            "5",
+            "149.750",
+            "7",
+            "2",
+            "200",
+            "28",
+            "Running",
+            "Lotus-Ford 29/3"
+        ],
+        [
+            "1964",
+            "6",
+            "1",
+            "158.828",
+            "1",
+            "24",
+            "47",
+            "14",
+            "Suspension",
+            "Lotus-Ford 34/3"
+        ],
+        [
+            "1965",
+            "82",
+            "2",
+            "160.729",
+            "2",
+            "1",
+            "200",
+            "190",
+            "Running",
+            "Lotus-Ford 38/1"
+        ],
+        [
+            "1966",
+            "19",
+            "2",
+            "164.114",
+            "2",
+            "2",
+            "200",
+            "66",
+            "Running",
+            "Lotus-Ford 38/4"
+        ],
+        [
+            "1967",
+            "31",
+            "16",
+            "163.213",
+            "23",
+            "31",
+            "35",
+            "0",
+            "Piston",
+            "Lotus-Ford 38/7"
+        ]
+    ]
+}

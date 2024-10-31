@@ -1,0 +1,71 @@
+{
+    "id": "71d3b8c81aa21f53960c53d94ea19bad4646fe25200dbd31c0788607aaeb4588",
+    "metadata": "United States House of Representatives elections, 1982 | Louisiana | Louisiana",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Louisiana 1",
+            "Bob Livingston",
+            "Republican",
+            "1977",
+            "Re-elected",
+            "Bob Livingston (R) Unopposed"
+        ],
+        [
+            "Louisiana 2",
+            "Lindy Boggs",
+            "Democratic",
+            "1973",
+            "Re-elected",
+            "Lindy Boggs (D) Unopposed"
+        ],
+        [
+            "Louisiana 3",
+            "Billy Tauzin",
+            "Democratic",
+            "1980",
+            "Re-elected",
+            "Billy Tauzin (D) Unopposed"
+        ],
+        [
+            "Louisiana 4",
+            "Buddy Roemer",
+            "Democratic",
+            "1980",
+            "Re-elected",
+            "Buddy Roemer (D) Unopposed"
+        ],
+        [
+            "Louisiana 5",
+            "Jerry Huckaby",
+            "Democratic",
+            "1976",
+            "Re-elected",
+            "Jerry Huckaby (D) Unopposed"
+        ],
+        [
+            "Louisiana 6",
+            "Henson Moore",
+            "Republican",
+            "1974",
+            "Re-elected",
+            "Henson Moore (R) Unopposed"
+        ],
+        [
+            "Louisiana 7",
+            "John Breaux",
+            "Democratic",
+            "1972",
+            "Re-elected",
+            "John Breaux (D) Unopposed"
+        ]
+    ]
+}

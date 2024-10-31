@@ -1,0 +1,61 @@
+{
+    "id": "c4c00716406475bdd90cc194b2b7a8bc94dec98d683cecb0ebd4e8eb3ed79472",
+    "metadata": "Heap (data structure) | Comparison of theoretic bounds for variants | Comparison of theoretic bounds for variants",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Operation_",
+        "Binary_",
+        "Binomial",
+        "Fibonacci",
+        "Pairing",
+        "Brodal_",
+        "Strict_Fibonacci_Heap"
+    ],
+    "cell": [
+        [
+            "find-min",
+            "\u0398(1)",
+            "\u0398(1)",
+            "\u0398(1)",
+            "\u0398(1)",
+            "\u0398(1)",
+            "\u0398(1)"
+        ],
+        [
+            "delete-min",
+            "\u0398(log n)",
+            "\u0398(log n)",
+            "O(log n)*",
+            "O(log n)*",
+            "O(log n)",
+            "O(log n)"
+        ],
+        [
+            "insert",
+            "\u0398(log n)",
+            "O(log n)",
+            "\u0398(1)",
+            "\u0398(1)",
+            "\u0398(1)",
+            "\u0398(1)"
+        ],
+        [
+            "decrease-key",
+            "\u0398(log n)",
+            "\u0398(log n)",
+            "\u0398(1)*",
+            "O(log n)*",
+            "\u0398(1)",
+            "\u0398(1)"
+        ],
+        [
+            "merge",
+            "\u0398(n)",
+            "O(log n)**",
+            "\u0398(1)",
+            "\u0398(1)",
+            "\u0398(1)",
+            "\u0398(1)"
+        ]
+    ]
+}

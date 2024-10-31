@@ -1,0 +1,70 @@
+{
+    "id": "9afc690bbb655a2d872bb82d7d2b0d5ff3ac0223754d6c6237e8288b528de03f",
+    "metadata": "1941 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "14.12 (96)",
+            "South Melbourne",
+            "13.25 (103)",
+            "Kardinia Park",
+            "6000",
+            "31 May 1941"
+        ],
+        [
+            "Footscray",
+            "14.21 (105)",
+            "North Melbourne",
+            "8.8 (56)",
+            "Western Oval",
+            "12000",
+            "31 May 1941"
+        ],
+        [
+            "Collingwood",
+            "19.13 (127)",
+            "Melbourne",
+            "26.11 (167)",
+            "Victoria Park",
+            "15000",
+            "31 May 1941"
+        ],
+        [
+            "Richmond",
+            "17.18 (120)",
+            "Fitzroy",
+            "15.8 (98)",
+            "Punt Road Oval",
+            "13000",
+            "31 May 1941"
+        ],
+        [
+            "Hawthorn",
+            "8.12 (60)",
+            "Essendon",
+            "23.18 (156)",
+            "Glenferrie Oval",
+            "10000",
+            "31 May 1941"
+        ],
+        [
+            "St Kilda",
+            "13.12 (90)",
+            "Carlton",
+            "15.18 (108)",
+            "Junction Oval",
+            "15000",
+            "31 May 1941"
+        ]
+    ]
+}

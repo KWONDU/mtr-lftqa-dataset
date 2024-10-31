@@ -1,0 +1,84 @@
+{
+    "id": "d260ad357dd545ff718eb9dc38913d195ace13ab3ec09689b91c6a513f145388",
+    "metadata": "Loonie | Specimen set editions | Specimen set editions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Theme",
+        "Artist",
+        "Mintage",
+        "Issue_price"
+    ],
+    "cell": [
+        [
+            "2002",
+            "15th Anniversary Loonie",
+            "Dora de P\u00e9dery-Hunt",
+            "67672",
+            "$39.95"
+        ],
+        [
+            "2004",
+            "Jack Miner Bird Sanctuary",
+            "Susan Taylor",
+            "46493",
+            "$39.95"
+        ],
+        [
+            "2005",
+            "Tufted Puffin",
+            "N/A",
+            "39818",
+            "$39.95"
+        ],
+        [
+            "2006",
+            "Snowy Owl",
+            "Glen Loates",
+            "39935",
+            "$44.95"
+        ],
+        [
+            "2007",
+            "Trumpeter Swan",
+            "Kerri Burnett",
+            "40000",
+            "$45.95"
+        ],
+        [
+            "2008",
+            "Common Eider",
+            "Mark Hobson",
+            "40000",
+            "$47.95"
+        ],
+        [
+            "2009",
+            "Great Blue Heron",
+            "Chris Jordison",
+            "40000",
+            "$47.95"
+        ],
+        [
+            "2010",
+            "Northern Harrier",
+            "Arnold Nogy",
+            "35000",
+            "$49.95"
+        ],
+        [
+            "2011",
+            "Great Gray Owl",
+            "Arnold Nogy",
+            "35000",
+            "$49.95"
+        ],
+        [
+            "2012",
+            "25th Anniversary Loonie",
+            "Arnold Nogy",
+            "35000",
+            "$49.95"
+        ]
+    ]
+}

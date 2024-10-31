@@ -1,0 +1,619 @@
+{
+    "id": "4620d9a397d2f473515aef17e55ee2e8f1a3699aa137cbdd42cd150f45413241",
+    "metadata": "2008-09 Elitserien season | Game log | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Date_",
+        "Home",
+        "Result_",
+        "Visitor",
+        "Venue",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "7",
+            "Thursday, October 2",
+            "R\u00f6gle BK",
+            "4-1",
+            "S\u00f6dert\u00e4lje SK",
+            "Lindab Arena",
+            "4008"
+        ],
+        [
+            "7",
+            "Thursday, October 2",
+            "Link\u00f6pings HC",
+            "3-2 (OT)",
+            "Djurg\u00e5rdens IF",
+            "Cloetta Center",
+            "6778"
+        ],
+        [
+            "7",
+            "Thursday, October 2",
+            "Modo Hockey",
+            "4-3",
+            "Timr\u00e5 IK",
+            "Swedbank Arena",
+            "7410"
+        ],
+        [
+            "7",
+            "Thursday, October 2",
+            "Skellefte\u00e5 AIK",
+            "3-0",
+            "F\u00e4rjestads BK",
+            "Skellefte\u00e5 Kraft Arena",
+            "5148"
+        ],
+        [
+            "7",
+            "Thursday, October 2",
+            "Lule\u00e5 HF",
+            "2-4",
+            "Bryn\u00e4s IF",
+            "COOP Arena",
+            "3864"
+        ],
+        [
+            "8",
+            "Saturday, October 4",
+            "Bryn\u00e4s IF",
+            "2-0",
+            "Link\u00f6pings HC",
+            "L\u00e4kerol Arena",
+            "7287"
+        ],
+        [
+            "8",
+            "Saturday, October 4",
+            "Timr\u00e5 IK",
+            "4-5",
+            "R\u00f6gle BK",
+            "E.ON Arena",
+            "5306"
+        ],
+        [
+            "8",
+            "Saturday, October 4",
+            "S\u00f6dert\u00e4lje SK",
+            "4-3 (OT)",
+            "Lule\u00e5 HF",
+            "AXA Sports Center",
+            "4077"
+        ],
+        [
+            "8",
+            "Saturday, October 4",
+            "F\u00e4rjestads BK",
+            "1-3",
+            "Modo Hockey",
+            "L\u00f6fbergs Lila Arena",
+            "6131"
+        ],
+        [
+            "20",
+            "Saturday, October 4",
+            "HV71",
+            "3-2",
+            "Djurg\u00e5rdens IF",
+            "Kinnarps Arena",
+            "6908"
+        ],
+        [
+            "8",
+            "Sunday, October 5",
+            "Fr\u00f6lunda HC",
+            "2-1",
+            "Skellefte\u00e5 AIK",
+            "Scandinavium",
+            "11488"
+        ],
+        [
+            "10",
+            "Monday, October 6",
+            "Link\u00f6pings HC",
+            "4-1",
+            "Lule\u00e5 HF",
+            "Cloetta Center",
+            "5611"
+        ],
+        [
+            "2",
+            "Tuesday, October 7",
+            "Djurg\u00e5rdens IF",
+            "2-1",
+            "Timr\u00e5 IK",
+            "Hovet",
+            "5828"
+        ],
+        [
+            "9",
+            "Thursday, October 9",
+            "Lule\u00e5 HF",
+            "8-2",
+            "Fr\u00f6lunda HC",
+            "COOP Arena",
+            "4180"
+        ],
+        [
+            "9",
+            "Thursday, October 9",
+            "Skellefte\u00e5 AIK",
+            "5-2",
+            "Bryn\u00e4s IF",
+            "Skellefte\u00e5 Kraft Arena",
+            "5296"
+        ],
+        [
+            "9",
+            "Thursday, October 9",
+            "Modo Hockey",
+            "1-5",
+            "HV71",
+            "Swedbank Arena",
+            "6024"
+        ],
+        [
+            "9",
+            "Thursday, October 9",
+            "R\u00f6gle BK",
+            "3-3",
+            "Djurg\u00e5rdens IF",
+            "Lindab Arena",
+            "4973"
+        ],
+        [
+            "9",
+            "Thursday, October 9",
+            "S\u00f6dert\u00e4lje SK",
+            "5-2",
+            "Timr\u00e5 IK",
+            "AXA Sports Center",
+            "3219"
+        ],
+        [
+            "9",
+            "Thursday, October 9",
+            "F\u00e4rjestads BK",
+            "0-3",
+            "Link\u00f6pings HC",
+            "L\u00f6fbergs Lila Arena",
+            "5125"
+        ],
+        [
+            "10",
+            "Saturday, October 11",
+            "Timr\u00e5 IK",
+            "4-6",
+            "F\u00e4rjestads BK",
+            "E.ON Arena",
+            "4961"
+        ],
+        [
+            "10",
+            "Saturday, October 11",
+            "HV71",
+            "3-2 (OT)",
+            "R\u00f6gle BK",
+            "Kinnarps Arena",
+            "7038"
+        ],
+        [
+            "10",
+            "Saturday, October 11",
+            "Djurg\u00e5rdens IF",
+            "1-5",
+            "Fr\u00f6lunda HC",
+            "Hovet",
+            "6055"
+        ],
+        [
+            "10",
+            "Saturday, October 11",
+            "Bryn\u00e4s IF",
+            "1-0",
+            "S\u00f6dert\u00e4lje SK",
+            "L\u00e4kerol Arena",
+            "6578"
+        ],
+        [
+            "10",
+            "Saturday, October 11",
+            "Skellefte\u00e5 AIK",
+            "4-2",
+            "Modo Hockey",
+            "Skellefte\u00e5 Kraft Arena",
+            "5820"
+        ],
+        [
+            "11",
+            "Monday, October 13",
+            "Timr\u00e5 IK",
+            "3-2 (OT)",
+            "Skellefte\u00e5 AIK",
+            "E.ON Arena",
+            "4889"
+        ],
+        [
+            "11",
+            "Monday, October 13",
+            "S\u00f6dert\u00e4lje SK",
+            "2-4",
+            "Djurg\u00e5rdens IF",
+            "AXA Sports Center",
+            "4611"
+        ],
+        [
+            "11",
+            "Monday, October 13",
+            "Fr\u00f6lunda HC",
+            "1-1",
+            "Bryn\u00e4s IF",
+            "Scandinavium",
+            "11188"
+        ],
+        [
+            "11",
+            "Tuesday, October 14",
+            "F\u00e4rjestads BK",
+            "4-2",
+            "HV71",
+            "L\u00f6fbergs Lila Arena",
+            "6023"
+        ],
+        [
+            "11",
+            "Tuesday, October 14",
+            "R\u00f6gle BK",
+            "3-2",
+            "Link\u00f6pings HC",
+            "Lindab Arena",
+            "4764"
+        ],
+        [
+            "11",
+            "Tuesday, October 14",
+            "Modo Hockey",
+            "3-2 (OT)",
+            "Lule\u00e5 HF",
+            "Swedbank Arena",
+            "5809"
+        ],
+        [
+            "12",
+            "Thursday, October 16",
+            "HV71",
+            "2-1 (OT)",
+            "Timr\u00e5 IK",
+            "Kinnarps Arena",
+            "6849"
+        ],
+        [
+            "12",
+            "Thursday, October 16",
+            "Link\u00f6pings HC",
+            "4-0",
+            "F\u00e4rjestads BK",
+            "Cloetta Center",
+            "8040"
+        ],
+        [
+            "12",
+            "Thursday, October 16",
+            "Djurg\u00e5rdens IF",
+            "2-1 (OT)",
+            "R\u00f6gle BK",
+            "Hovet",
+            "4679"
+        ],
+        [
+            "12",
+            "Thursday, October 16",
+            "Bryn\u00e4s IF",
+            "5-1",
+            "Skellefte\u00e5 AIK",
+            "L\u00e4kerol Arena",
+            "5197"
+        ],
+        [
+            "12",
+            "Thursday, October 16",
+            "Modo Hockey",
+            "3-2",
+            "Fr\u00f6lunda HC",
+            "Swedbank Arena",
+            "5492"
+        ],
+        [
+            "12",
+            "Thursday, October 16",
+            "Lule\u00e5 HF",
+            "6-2",
+            "S\u00f6dert\u00e4lje SK",
+            "COOP Arena",
+            "5340"
+        ],
+        [
+            "13",
+            "Saturday, October 18",
+            "Skellefte\u00e5 AIK",
+            "4-1",
+            "Lule\u00e5 HF",
+            "Skellefte\u00e5 Kraft Arena",
+            "6001"
+        ],
+        [
+            "13",
+            "Saturday, October 18",
+            "Fr\u00f6lunda HC",
+            "5-3",
+            "HV71",
+            "Scandinavium",
+            "12044"
+        ],
+        [
+            "13",
+            "Saturday, October 18",
+            "F\u00e4rjestads BK",
+            "5-1",
+            "Bryn\u00e4s IF",
+            "L\u00f6fbergs Lila Arena",
+            "7144"
+        ],
+        [
+            "13",
+            "Saturday, October 18",
+            "S\u00f6dert\u00e4lje SK",
+            "2-3 (OT)",
+            "Modo Hockey",
+            "AXA Sports Center",
+            "3801"
+        ],
+        [
+            "13",
+            "Saturday, October 18",
+            "Djurg\u00e5rdens IF",
+            "3-1",
+            "Link\u00f6pings HC",
+            "Hovet",
+            "5657"
+        ],
+        [
+            "13",
+            "Saturday, October 18",
+            "R\u00f6gle BK",
+            "5-1",
+            "Timr\u00e5 IK",
+            "Lindab Arena",
+            "4837"
+        ],
+        [
+            "14",
+            "Tuesday, October 21",
+            "Fr\u00f6lunda HC",
+            "2-2",
+            "F\u00e4rjestads BK",
+            "Scandinavium",
+            "11715"
+        ],
+        [
+            "8",
+            "Tuesday, October 21",
+            "HV71",
+            "2-2",
+            "Djurg\u00e5rdens IF",
+            "Kinnarps Arena",
+            "6987"
+        ],
+        [
+            "14",
+            "Thursday, October 23",
+            "HV71",
+            "6-3",
+            "S\u00f6dert\u00e4lje SK",
+            "Kinnarps Arena",
+            "6851"
+        ],
+        [
+            "14",
+            "Thursday, October 23",
+            "R\u00f6gle BK",
+            "1-2",
+            "Skellefte\u00e5 AIK",
+            "Lindab Arena",
+            "4801"
+        ],
+        [
+            "14",
+            "Thursday, October 23",
+            "Timr\u00e5 IK",
+            "3-1",
+            "Bryn\u00e4s IF",
+            "E.ON Arena",
+            "5540"
+        ],
+        [
+            "14",
+            "Thursday, October 23",
+            "Modo Hockey",
+            "3-5",
+            "Link\u00f6pings HC",
+            "Swedbank Arena",
+            "5514"
+        ],
+        [
+            "14",
+            "Thursday, October 23",
+            "Lule\u00e5 HF",
+            "4-5 (OT)",
+            "Djurg\u00e5rdens IF",
+            "COOP Arena",
+            "5501"
+        ],
+        [
+            "15",
+            "Saturday, October 25",
+            "F\u00e4rjestads BK",
+            "2-3",
+            "R\u00f6gle BK",
+            "L\u00f6fbergs Lila Arena",
+            "6788"
+        ],
+        [
+            "15",
+            "Saturday, October 25",
+            "S\u00f6dert\u00e4lje SK",
+            "2-3",
+            "Skellefte\u00e5 AIK",
+            "AXA Sports Center",
+            "4515"
+        ],
+        [
+            "15",
+            "Saturday, October 25",
+            "HV71",
+            "2-5",
+            "Modo Hockey",
+            "Kinnarps Arena",
+            "7020"
+        ],
+        [
+            "15",
+            "Saturday, October 25",
+            "Bryn\u00e4s IF",
+            "2-4",
+            "Lule\u00e5 HF",
+            "L\u00e4kerol Arena",
+            "8180"
+        ],
+        [
+            "15",
+            "Saturday, October 25",
+            "Link\u00f6pings HC",
+            "2-3 (OT)",
+            "Fr\u00f6lunda HC",
+            "Cloetta Center",
+            "8500"
+        ],
+        [
+            "15",
+            "Saturday, October 25",
+            "Timr\u00e5 IK",
+            "3-2 (OT)",
+            "Djurg\u00e5rdens IF",
+            "E.ON Arena",
+            "5373"
+        ],
+        [
+            "16",
+            "Monday, October 27",
+            "Link\u00f6pings HC",
+            "1-2 (OT)",
+            "HV71",
+            "Cloetta Center",
+            "8500"
+        ],
+        [
+            "16",
+            "Monday, October 27",
+            "Lule\u00e5 HF",
+            "1-0",
+            "F\u00e4rjestads BK",
+            "COOP Arena",
+            "5207"
+        ],
+        [
+            "16",
+            "Monday, October 27",
+            "R\u00f6gle BK",
+            "6-3",
+            "Fr\u00f6lunda HC",
+            "Lindab Arena",
+            "5040"
+        ],
+        [
+            "16",
+            "Tuesday, October 28",
+            "Djurg\u00e5rdens IF",
+            "3-5",
+            "S\u00f6dert\u00e4lje SK",
+            "Hovet",
+            "7483"
+        ],
+        [
+            "16",
+            "Tuesday, October 28",
+            "Skellefte\u00e5 AIK",
+            "3-4 (OT)",
+            "Timr\u00e5 IK",
+            "Skellefte\u00e5 Kraft Arena",
+            "5751"
+        ],
+        [
+            "16",
+            "Tuesday, October 28",
+            "Modo Hockey",
+            "6-0",
+            "Bryn\u00e4s IF",
+            "Swedbank Arena",
+            "6506"
+        ],
+        [
+            "17",
+            "Thursday, October 30",
+            "F\u00e4rjestads BK",
+            "2-1",
+            "Djurg\u00e5rdens IF",
+            "L\u00f6fbergs Lila Arena",
+            "7652"
+        ],
+        [
+            "17",
+            "Thursday, October 30",
+            "S\u00f6dert\u00e4lje SK",
+            "4-5 (OT)",
+            "Link\u00f6pings HC",
+            "AXA Sports Center",
+            "3855"
+        ],
+        [
+            "17",
+            "Thursday, October 30",
+            "Fr\u00f6lunda HC",
+            "3-1",
+            "Lule\u00e5 HF",
+            "Scandinavium",
+            "11537"
+        ],
+        [
+            "17",
+            "Thursday, October 30",
+            "Bryn\u00e4s IF",
+            "1-2",
+            "R\u00f6gle BK",
+            "L\u00e4kerol Arena",
+            "5801"
+        ],
+        [
+            "17",
+            "Thursday, October 30",
+            "Skellefte\u00e5 AIK",
+            "5-1",
+            "HV71",
+            "Skellefte\u00e5 Kraft Arena",
+            "5665"
+        ],
+        [
+            "17",
+            "Thursday, October 30",
+            "Timr\u00e5 IK",
+            "0-4",
+            "Modo Hockey",
+            "E.ON Arena",
+            "6000"
+        ]
+    ]
+}

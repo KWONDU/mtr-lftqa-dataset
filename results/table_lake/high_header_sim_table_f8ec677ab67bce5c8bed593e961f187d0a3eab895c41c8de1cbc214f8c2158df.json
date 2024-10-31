@@ -1,0 +1,84 @@
+{
+    "id": "f8ec677ab67bce5c8bed593e961f187d0a3eab895c41c8de1cbc214f8c2158df",
+    "metadata": "Canadian Interuniversity Sport football | Teams | R\u00e9seau du sport \u00e9tudiant du Qu\u00e9bec \n  \n Dunsmore Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Team",
+        "City",
+        "Province",
+        "First_season",
+        "Head_coach",
+        "Enrollment",
+        "Football_stadium",
+        "Capacity"
+    ],
+    "cell": [
+        [
+            "Concordia University",
+            "Stingers",
+            "Montreal",
+            "QC",
+            "1974",
+            "Gerry McGrath",
+            "38809",
+            "Concordia Stadium",
+            "4000"
+        ],
+        [
+            "Universit\u00e9 de Montr\u00e9al",
+            "Carabins",
+            "Montreal",
+            "QC",
+            "2002",
+            "Danny Maciocia",
+            "55540",
+            "CEPSUM Stadium",
+            "5100"
+        ],
+        [
+            "McGill University",
+            "Redmen",
+            "Montreal",
+            "QC",
+            "1898",
+            "Clint Uttley",
+            "32514",
+            "Molson Stadium",
+            "25012"
+        ],
+        [
+            "Universit\u00e9 Laval",
+            "Rouge et Or",
+            "Quebec City",
+            "QC",
+            "1996",
+            "Glen Constantin",
+            "37591",
+            "PEPS Stadium",
+            "12257"
+        ],
+        [
+            "Universit\u00e9 de Sherbrooke",
+            "Vert et Or",
+            "Sherbrooke",
+            "QC",
+            "1971",
+            "David Lessard",
+            "35000",
+            "Universit\u00e9 de Sherbrooke Stadium",
+            "3359"
+        ],
+        [
+            "Bishop`s University",
+            "Gaiters",
+            "Sherbrooke",
+            "QC",
+            "1884",
+            "Kevin Mackey",
+            "1817",
+            "Coulter Field",
+            "2200"
+        ]
+    ]
+}

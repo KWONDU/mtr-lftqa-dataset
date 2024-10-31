@@ -1,0 +1,70 @@
+{
+    "id": "d8f60fc87c273cb3924fea7cf4e4b30b85220e10707ace2abfab1ee413f8d411",
+    "metadata": "Superbagn\u00e8res | Tour de France | Tour de France",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Stage",
+        "Start_of_stage",
+        "Distance_km",
+        "Category_of_climb",
+        "Stage_winner",
+        "Yellow_jersey"
+    ],
+    "cell": [
+        [
+            "1989",
+            "10",
+            "Cauterets",
+            "136",
+            "1",
+            "Robert Millar",
+            "Laurent Fignon"
+        ],
+        [
+            "1986",
+            "13",
+            "Pau",
+            "186",
+            "HC",
+            "Greg LeMond",
+            "Bernard Hinault"
+        ],
+        [
+            "1979",
+            "2",
+            "Bagn\u00e8res-de-Luchon",
+            "23,87 ( ITT )",
+            "1",
+            "Bernard Hinault",
+            "Bernard Hinault"
+        ],
+        [
+            "1971",
+            "15",
+            "Bagn\u00e8res-de-Luchon",
+            "19.6",
+            "1",
+            "Jos\u00e9-Manuel Fuente",
+            "Eddy Merckx"
+        ],
+        [
+            "1962",
+            "13",
+            "Bagn\u00e8res-de-Luchon",
+            "18.25 ( ITT )",
+            "1",
+            "Federico Bahamontes",
+            "Joseph Planckaert"
+        ],
+        [
+            "1961",
+            "16",
+            "Toulouse",
+            "208",
+            "1",
+            "Imerio Massignan",
+            "Jacques Anquetil"
+        ]
+    ]
+}

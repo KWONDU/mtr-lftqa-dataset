@@ -1,0 +1,70 @@
+{
+    "id": "80a905f1f1c2f1820e6cd0eece4a505f0ca35a31ae470712ac90a2dffc57f77b",
+    "metadata": "1950 VFL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "13.16 (94)",
+            "Richmond",
+            "9.10 (64)",
+            "MCG",
+            "38000",
+            "15 July 1950"
+        ],
+        [
+            "Hawthorn",
+            "10.11 (71)",
+            "St Kilda",
+            "12.12 (84)",
+            "Glenferrie Oval",
+            "9000",
+            "15 July 1950"
+        ],
+        [
+            "Footscray",
+            "11.10 (76)",
+            "Geelong",
+            "10.19 (79)",
+            "Western Oval",
+            "16000",
+            "15 July 1950"
+        ],
+        [
+            "South Melbourne",
+            "8.9 (57)",
+            "Essendon",
+            "22.17 (149)",
+            "Lake Oval",
+            "16000",
+            "15 July 1950"
+        ],
+        [
+            "Fitzroy",
+            "16.12 (108)",
+            "Collingwood",
+            "12.13 (85)",
+            "Brunswick Street Oval",
+            "17000",
+            "15 July 1950"
+        ],
+        [
+            "North Melbourne",
+            "12.18 (90)",
+            "Carlton",
+            "11.14 (80)",
+            "Arden Street Oval",
+            "25000",
+            "15 July 1950"
+        ]
+    ]
+}

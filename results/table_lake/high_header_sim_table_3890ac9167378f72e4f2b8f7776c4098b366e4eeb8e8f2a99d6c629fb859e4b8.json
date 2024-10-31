@@ -1,0 +1,49 @@
+{
+    "id": "3890ac9167378f72e4f2b8f7776c4098b366e4eeb8e8f2a99d6c629fb859e4b8",
+    "metadata": "1992 U.S. Open (golf) | Missed the cut | Missed the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "Tom Watson",
+            "United States",
+            "1982",
+            "148",
+            "+4"
+        ],
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1962 , 1967 , 1972 , 1980",
+            "151",
+            "+7"
+        ],
+        [
+            "Fuzzy Zoeller",
+            "United States",
+            "1984",
+            "152",
+            "+8"
+        ],
+        [
+            "Andy North",
+            "United States",
+            "1978 , 1985",
+            "153",
+            "+9"
+        ],
+        [
+            "Larry Nelson",
+            "United States",
+            "1983",
+            "153",
+            "+9"
+        ]
+    ]
+}

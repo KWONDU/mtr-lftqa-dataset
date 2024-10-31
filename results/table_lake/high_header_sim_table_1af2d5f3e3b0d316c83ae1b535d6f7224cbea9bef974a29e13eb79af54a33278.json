@@ -1,0 +1,63 @@
+{
+    "id": "1af2d5f3e3b0d316c83ae1b535d6f7224cbea9bef974a29e13eb79af54a33278",
+    "metadata": "Vehicle registration plates of Alberta | 1973 to 1983 | 1973 to 1983",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Issued",
+        "Type_",
+        "Design",
+        "Serial_format",
+        "Serials_issued"
+    ],
+    "cell": [
+        [
+            "1973- 1974",
+            "Passenger",
+            "yellow on blue",
+            "AB-12-34",
+            "AA-00-00 to ZZ-99-99"
+        ],
+        [
+            "1974",
+            "Passenger",
+            "yellow on blue",
+            "12-34-56",
+            "00-00-00 to unknown"
+        ],
+        [
+            "1975- 1976",
+            "Passenger",
+            "black on yellow",
+            "ABC-123",
+            "unknown"
+        ],
+        [
+            "1977- 1980",
+            "Passenger",
+            "black on yellow",
+            "ABC-123",
+            "unknown"
+        ],
+        [
+            "1981",
+            "Passenger",
+            "black on yellow",
+            "ABC-123",
+            "unknown"
+        ],
+        [
+            "1982",
+            "Passenger",
+            "black on yellow",
+            "ABC-123",
+            "unknown"
+        ],
+        [
+            "1983- 1984",
+            "Passenger",
+            "black on yellow",
+            "ABC-123",
+            "EAA-000 to EZZ-999"
+        ]
+    ]
+}

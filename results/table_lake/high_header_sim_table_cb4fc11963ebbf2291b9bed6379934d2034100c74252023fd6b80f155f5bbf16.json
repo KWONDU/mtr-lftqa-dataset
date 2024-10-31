@@ -1,0 +1,67 @@
+{
+    "id": "cb4fc11963ebbf2291b9bed6379934d2034100c74252023fd6b80f155f5bbf16",
+    "metadata": "2008-09 NBL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Venue",
+        "Crowd",
+        "Box_Score",
+        "Report"
+    ],
+    "cell": [
+        [
+            "10 December",
+            "Adelaide 36ers",
+            "100-79",
+            "Townsville Crocodiles",
+            "Distinctive Homes Dome",
+            "4208",
+            "box score",
+            "report"
+        ],
+        [
+            "13 December",
+            "Gold Coast Blaze",
+            "88-97",
+            "Cairns Taipans",
+            "Gold Coast Convention Centre",
+            "2489",
+            "box score",
+            "report"
+        ],
+        [
+            "13 December",
+            "Melbourne Tigers",
+            "98-107",
+            "South Dragons",
+            "State Netball and Hockey Centre",
+            "3500",
+            "box score",
+            "report"
+        ],
+        [
+            "13 December",
+            "Perth Wildcats",
+            "129-120",
+            "Adelaide 36ers",
+            "Challenge Stadium",
+            "4200",
+            "box score",
+            "report"
+        ],
+        [
+            "13 December",
+            "Townsville Crocodiles",
+            "104-99",
+            "Wollongong Hawks",
+            "Townsville Entertainment Centre",
+            "3913",
+            "box score",
+            "report"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "28d9f522006f85c11fe6fea414e975e9127463879c58f510855149c7c85a10e2",
+    "metadata": "People's National Convention (Ghana) | Presidential elections | Presidential elections",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "Candidate",
+        "Number_of_votes",
+        "Share_of_votes",
+        "Outcome_of_election"
+    ],
+    "cell": [
+        [
+            "2008",
+            "Edward Mahama",
+            "73494",
+            "0.9%",
+            "Minority"
+        ],
+        [
+            "2004",
+            "Edward Mahama",
+            "165375",
+            "1.9%",
+            "Minority"
+        ],
+        [
+            "2000",
+            "Edward Mahama",
+            "189659",
+            "2.5%",
+            "Minority"
+        ],
+        [
+            "1996",
+            "Edward Mahama",
+            "\u2014",
+            "3.0%",
+            "Minority"
+        ],
+        [
+            "1992",
+            "Hilla Limann",
+            "266728",
+            "6.7%",
+            "Minority"
+        ]
+    ]
+}

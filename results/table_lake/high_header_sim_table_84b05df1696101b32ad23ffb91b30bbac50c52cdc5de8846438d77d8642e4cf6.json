@@ -1,0 +1,140 @@
+{
+    "id": "84b05df1696101b32ad23ffb91b30bbac50c52cdc5de8846438d77d8642e4cf6",
+    "metadata": "Cole Motor Car Company | Cole Model Overview, 1908-1925 | Cole Model Overview, 1908-1925",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Model",
+        "Engine_Type_Cyl_",
+        "Power_bhp_kW",
+        "Wheelbase_in"
+    ],
+    "cell": [
+        [
+            "1909",
+            "Model 30",
+            "Straight 2 cyl.",
+            "bhp (kW)",
+            "90"
+        ],
+        [
+            "1910",
+            "Series 30",
+            "Straight 4 cyl.",
+            "bhp (kW)",
+            "108"
+        ],
+        [
+            "1911",
+            "Series 30",
+            "Straight 4 cyl.",
+            "bhp (kW)",
+            "118"
+        ],
+        [
+            "1912",
+            "Forty",
+            "Straight 4 cyl.",
+            "bhp (kW)",
+            "122"
+        ],
+        [
+            "1913",
+            "Forty",
+            "Straight 4 cyl.",
+            "bhp (kW)",
+            "116"
+        ],
+        [
+            "1913",
+            "Fifty",
+            "Straight 4 cyl.",
+            "bhp (kW)",
+            "122"
+        ],
+        [
+            "1913",
+            "Sixty",
+            "Straight 6 cyl.",
+            "bhp (kW)",
+            "132"
+        ],
+        [
+            "1914",
+            "Four",
+            "Straight 4 cyl.",
+            "bhp (kW)",
+            "120"
+        ],
+        [
+            "1914",
+            "Six",
+            "Straight 6 cyl.",
+            "bhp (kW)",
+            "136"
+        ],
+        [
+            "1915",
+            "Standard 4-40",
+            "Straight 4 cyl.",
+            "bhp (kW)",
+            "120"
+        ],
+        [
+            "1915",
+            "Model 6-50",
+            "Straight 6 cyl.",
+            "bhp (kW)",
+            "126"
+        ],
+        [
+            "1915",
+            "Big Six 6-60",
+            "Straight 6 cyl.",
+            "bhp (kW)",
+            "127"
+        ],
+        [
+            "1916",
+            "Model 8-50",
+            "V-8 cyl.",
+            "bhp (kW)",
+            "127"
+        ],
+        [
+            "1917",
+            "Series 860",
+            "V-8 cyl.",
+            "bhp (kW)",
+            "127"
+        ],
+        [
+            "1918-1919",
+            "Series 870",
+            "V-8 cyl.",
+            "bhp (kW)",
+            "127"
+        ],
+        [
+            "1920-1921",
+            "Aero Eight 880",
+            "V-8 cyl.",
+            "bhp (kW)",
+            "127"
+        ],
+        [
+            "1922",
+            "Aero Eight 890",
+            "V-8 cyl.",
+            "bhp (kW)",
+            "127 \u00bc"
+        ],
+        [
+            "1923-1925",
+            "Series 890",
+            "V-8 cyl.",
+            "bhp (kW)",
+            "127 \u00bc"
+        ]
+    ]
+}

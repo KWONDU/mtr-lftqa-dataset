@@ -1,0 +1,84 @@
+{
+    "id": "e6835ebae0123ed1c2376ed3b6821ee0b6c8c8651c3bd536ca3a2ab66ff06156",
+    "metadata": "Miss Teen USA 1989 | Results | Final competition scores",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "State_",
+        "Interview",
+        "Swimsuit",
+        "Evening_Gown",
+        "Average_"
+    ],
+    "cell": [
+        [
+            "Idaho",
+            "8.688",
+            "8.925",
+            "8.850",
+            "8.821"
+        ],
+        [
+            "Kentucky",
+            "8.863",
+            "9.175",
+            "9.400",
+            "9.146"
+        ],
+        [
+            "Vermont",
+            "8.425",
+            "9.013",
+            "9.300",
+            "8.913"
+        ],
+        [
+            "Texas",
+            "8.688",
+            "8.975",
+            "8.875",
+            "8.846"
+        ],
+        [
+            "North Dakota",
+            "8.800",
+            "8.975",
+            "9.175",
+            "8.983"
+        ],
+        [
+            "Washington",
+            "8.688",
+            "8.788",
+            "8.863",
+            "8.779"
+        ],
+        [
+            "Alabama",
+            "8.650",
+            "8.475",
+            "8.938",
+            "8.688"
+        ],
+        [
+            "South Dakota",
+            "8.300",
+            "8.838",
+            "8.513",
+            "8.550"
+        ],
+        [
+            "New York",
+            "8.463",
+            "8.713",
+            "8.400",
+            "8.525"
+        ],
+        [
+            "Oklahoma",
+            "8.275",
+            "8.325",
+            "8.700",
+            "8.433"
+        ]
+    ]
+}

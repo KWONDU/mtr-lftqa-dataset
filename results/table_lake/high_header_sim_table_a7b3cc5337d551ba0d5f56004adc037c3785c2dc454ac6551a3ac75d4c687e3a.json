@@ -1,0 +1,49 @@
+{
+    "id": "a7b3cc5337d551ba0d5f56004adc037c3785c2dc454ac6551a3ac75d4c687e3a",
+    "metadata": "2007 Geo Super Football League | League round | League round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Played",
+        "Drawn",
+        "Lost",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Lahore Lajpaals F.C.",
+            "8",
+            "1",
+            "1",
+            "19"
+        ],
+        [
+            "Quetta Zorawar",
+            "8",
+            "2",
+            "1",
+            "17"
+        ],
+        [
+            "Karachi Bazigar",
+            "8",
+            "2",
+            "2",
+            "14"
+        ],
+        [
+            "Islamabad United",
+            "8",
+            "2",
+            "5",
+            "5"
+        ],
+        [
+            "Tribe F.C. Peshawar",
+            "8",
+            "2",
+            "6",
+            "2"
+        ]
+    ]
+}

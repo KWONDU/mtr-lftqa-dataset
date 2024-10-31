@@ -1,0 +1,70 @@
+{
+    "id": "7e56beb618cf2dffa4cc82468e37c28e3ca8f62316828e4ae657705b3ddbf2c1",
+    "metadata": "1930 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "18.17 (125)",
+            "Hawthorn",
+            "6.7 (43)",
+            "Corio Oval",
+            "9000",
+            "23 August 1930"
+        ],
+        [
+            "Footscray",
+            "8.18 (66)",
+            "South Melbourne",
+            "11.18 (84)",
+            "Western Oval",
+            "12500",
+            "23 August 1930"
+        ],
+        [
+            "Fitzroy",
+            "11.5 (71)",
+            "Richmond",
+            "8.12 (60)",
+            "Brunswick Street Oval",
+            "14000",
+            "23 August 1930"
+        ],
+        [
+            "North Melbourne",
+            "6.12 (48)",
+            "Essendon",
+            "14.11 (95)",
+            "Arden Street Oval",
+            "8000",
+            "23 August 1930"
+        ],
+        [
+            "St Kilda",
+            "14.7 (91)",
+            "Collingwood",
+            "17.13 (115)",
+            "Junction Oval",
+            "16000",
+            "23 August 1930"
+        ],
+        [
+            "Melbourne",
+            "12.11 (83)",
+            "Carlton",
+            "11.11 (77)",
+            "MCG",
+            "31481",
+            "23 August 1930"
+        ]
+    ]
+}

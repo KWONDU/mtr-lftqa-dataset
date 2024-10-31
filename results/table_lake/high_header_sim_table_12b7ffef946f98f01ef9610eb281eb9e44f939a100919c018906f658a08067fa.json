@@ -1,0 +1,119 @@
+{
+    "id": "12b7ffef946f98f01ef9610eb281eb9e44f939a100919c018906f658a08067fa",
+    "metadata": "1977 Masters Tournament | Final leaderboard | Final leaderboard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tom Watson",
+            "United States",
+            "70-69-70-67=276",
+            "-12",
+            "40000"
+        ],
+        [
+            "2",
+            "Jack Nicklaus",
+            "United States",
+            "72-70-70-66=278",
+            "-10",
+            "30000"
+        ],
+        [
+            "T3",
+            "Tom Kite",
+            "United States",
+            "70-73-70-67=280",
+            "-8",
+            "17500"
+        ],
+        [
+            "T3",
+            "Rik Massengale",
+            "United States",
+            "70-73-67-70=280",
+            "-8",
+            "17500"
+        ],
+        [
+            "5",
+            "Hale Irwin",
+            "United States",
+            "70-74-70-68=282",
+            "-6",
+            "12500"
+        ],
+        [
+            "T6",
+            "David Graham",
+            "Australia",
+            "75-67-73-69=284",
+            "-4",
+            "10500"
+        ],
+        [
+            "T6",
+            "Lou Graham",
+            "United States",
+            "75-71-69-69=284",
+            "-4",
+            "10500"
+        ],
+        [
+            "T8",
+            "Ben Crenshaw",
+            "United States",
+            "71-69-69-76=285",
+            "-3",
+            "5667"
+        ],
+        [
+            "T8",
+            "Raymond Floyd",
+            "United States",
+            "71-72-71-71=285",
+            "-3",
+            "5667"
+        ],
+        [
+            "T8",
+            "Hubert Green",
+            "United States",
+            "67-74-72-72=285",
+            "-3",
+            "5667"
+        ],
+        [
+            "T8",
+            "Don January",
+            "United States",
+            "69-76-69-71=285",
+            "-3",
+            "5667"
+        ],
+        [
+            "T8",
+            "Gene Littler",
+            "United States",
+            "71-72-73-69=285",
+            "-3",
+            "5667"
+        ],
+        [
+            "T8",
+            "John Schlee",
+            "United States",
+            "75-73-69-68=285",
+            "-3",
+            "5667"
+        ]
+    ]
+}

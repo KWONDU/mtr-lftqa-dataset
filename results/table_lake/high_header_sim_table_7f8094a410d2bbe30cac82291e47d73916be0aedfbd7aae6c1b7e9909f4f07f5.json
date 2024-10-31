@@ -1,0 +1,49 @@
+{
+    "id": "7f8094a410d2bbe30cac82291e47d73916be0aedfbd7aae6c1b7e9909f4f07f5",
+    "metadata": "Thongchai Jaidee | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "3",
+            "2"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "1",
+            "7",
+            "4"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "7",
+            "2"
+        ],
+        [
+            "Totals",
+            "0",
+            "1",
+            "19",
+            "8"
+        ]
+    ]
+}

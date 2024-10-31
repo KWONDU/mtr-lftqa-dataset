@@ -1,0 +1,95 @@
+{
+    "id": "79dd8694e0914da1bbf7398efb3782fb41a41c501f42920412f53e76dd810e65",
+    "metadata": "I Ching | Hexagram lookup table | Hexagram lookup table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Upper_Lower_",
+        "_\u4e7e_Qi\u00e1n_Heaven",
+        "_\u9707_Zh\u00e8n_Thunder",
+        "_\u574e_K\u01cen_Water",
+        "_\u826e_G\u00e8n_Mountain",
+        "_\u5764_K\u016bn_Earth",
+        "_\u5dfd_X\u00f9n_Wind",
+        "_\u96e2_L\u00ed_Flame",
+        "_\u514c_Du\u00ec_Lake"
+    ],
+    "cell": [
+        [
+            "\u2630 \u4e7e Qi\u00e1n Heaven",
+            "01 \u4dc0",
+            "34 \u4de1",
+            "05 \u4dc4",
+            "26 \u4dd9",
+            "11 \u4dca",
+            "09 \u4dc8",
+            "14 \u4dcd",
+            "43 \u4dea"
+        ],
+        [
+            "\u2633 \u9707 Zh\u00e8n Thunder",
+            "25 \u4dd8",
+            "51 \u4df2",
+            "03 \u4dc2",
+            "27 \u4dda",
+            "24 \u4dd7",
+            "42 \u4de9",
+            "21 \u4dd4",
+            "17 \u4dd0"
+        ],
+        [
+            "\u2635 \u574e K\u01cen Water",
+            "06 \u4dc5",
+            "40 \u4de7",
+            "29 \u4ddc",
+            "04 \u4dc3",
+            "07 \u4dc6",
+            "59 \u4dfa",
+            "64 \u4dff",
+            "47 \u4dee"
+        ],
+        [
+            "\u2636 \u826e G\u00e8n Mountain",
+            "33 \u4de0",
+            "62 \u4dfd",
+            "39 \u4de6",
+            "52 \u4df3",
+            "15 \u4dce",
+            "53 \u4df4",
+            "56 \u4df7",
+            "31 \u4dde"
+        ],
+        [
+            "\u2637 \u5764 K\u016bn Earth",
+            "12 \u4dcb",
+            "16 \u4dcf",
+            "08 \u4dc7",
+            "23 \u4dd6",
+            "02 \u4dc1",
+            "20 \u4dd3",
+            "35 \u4de2",
+            "45 \u4dec"
+        ],
+        [
+            "\u2634 \u5dfd X\u00f9n Wind",
+            "44 \u4deb",
+            "32 \u4ddf",
+            "48 \u4def",
+            "18 \u4dd1",
+            "46 \u4ded",
+            "57 \u4df8",
+            "50 \u4df1",
+            "28 \u4ddb"
+        ],
+        [
+            "\u2632 \u96e2 L\u00ed Flame",
+            "13 \u4dcc",
+            "55 \u4df6",
+            "63 \u4dfe",
+            "22 \u4dd5",
+            "36 \u4de3",
+            "37 \u4de4",
+            "30 \u4ddd",
+            "49 \u4df0"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "cfe82fcf304718c947a246754a71b6f40e6b382101a77d80e1e7b2a5844f4113",
+    "metadata": "History of Test cricket from 1901 to 1914 | Australia in England 1905 | Australia in England 1905",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "29,30-31 May 1905",
+            "Honourable Stanley Jackson",
+            "Joe Darling",
+            "Trent Bridge",
+            "ENG by 213 runs"
+        ],
+        [
+            "15,16,17 Jun 1905",
+            "Honourable Stanley Jackson",
+            "Joe Darling",
+            "Lord`s",
+            "DRAW"
+        ],
+        [
+            "3,4,5 Jul 1905",
+            "Honourable Stanley Jackson",
+            "Joe Darling",
+            "Headingley",
+            "DRAW"
+        ],
+        [
+            "24,25,26 Jul 1905",
+            "Honourable Stanley Jackson",
+            "Joe Darling",
+            "Old Trafford",
+            "ENG by Inns&80 runs"
+        ],
+        [
+            "14,15,16 Aug 1905",
+            "Honourable Stanley Jackson",
+            "Joe Darling",
+            "Oval",
+            "DRAW"
+        ]
+    ]
+}

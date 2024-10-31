@@ -1,0 +1,49 @@
+{
+    "id": "8fefdba6ab56e2fdd42cdb37ab83c62137defa79cc67a52e86ca9073c0861564",
+    "metadata": "List of European ultra prominent peaks | Carpathian Mountains | Carpathian Mountains",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Peak",
+        "Country",
+        "Elevation_m",
+        "Prominence_m",
+        "Col_m"
+    ],
+    "cell": [
+        [
+            "Gerlachovsk\u00fd \u0161t\u00edt",
+            "Slovakia",
+            "2655",
+            "2355",
+            "300"
+        ],
+        [
+            "Par\u00e2ngu Mare",
+            "Romania",
+            "2519",
+            "2103",
+            "416"
+        ],
+        [
+            "Moldoveanu Peak",
+            "Romania",
+            "2544",
+            "2046",
+            "498"
+        ],
+        [
+            "Peleaga",
+            "Romania",
+            "2509",
+            "1759",
+            "750"
+        ],
+        [
+            "Pietrosul Rodnei",
+            "Romania",
+            "2303",
+            "1565",
+            "738"
+        ]
+    ]
+}

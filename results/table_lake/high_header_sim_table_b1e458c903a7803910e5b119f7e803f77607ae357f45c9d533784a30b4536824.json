@@ -1,0 +1,70 @@
+{
+    "id": "b1e458c903a7803910e5b119f7e803f77607ae357f45c9d533784a30b4536824",
+    "metadata": "1974 VFL season | Round 21 | Round 21",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "23.24 (162)",
+            "South Melbourne",
+            "17.27 (129)",
+            "MCG",
+            "32651",
+            "24 August 1974"
+        ],
+        [
+            "Geelong",
+            "15.12 (102)",
+            "Hawthorn",
+            "9.8 (62)",
+            "Kardinia Park",
+            "17844",
+            "24 August 1974"
+        ],
+        [
+            "Footscray",
+            "7.19 (61)",
+            "St Kilda",
+            "7.15 (57)",
+            "Western Oval",
+            "17675",
+            "24 August 1974"
+        ],
+        [
+            "Fitzroy",
+            "14.16 (100)",
+            "Melbourne",
+            "20.13 (133)",
+            "Junction Oval",
+            "7803",
+            "24 August 1974"
+        ],
+        [
+            "North Melbourne",
+            "25.15 (165)",
+            "Collingwood",
+            "10.14 (74)",
+            "Arden Street Oval",
+            "25757",
+            "24 August 1974"
+        ],
+        [
+            "Essendon",
+            "12.17 (89)",
+            "Carlton",
+            "12.11 (83)",
+            "VFL Park",
+            "27321",
+            "24 August 1974"
+        ]
+    ]
+}

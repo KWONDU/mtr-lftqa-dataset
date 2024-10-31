@@ -1,0 +1,87 @@
+{
+    "id": "e98f97ca8c5bf5d56714f2671f4f3c44ea9cd388550873caeb87724e6b9b49b9",
+    "metadata": "World's busiest passenger air routes | World | World",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "City_1",
+        "City_2",
+        "_2012_Passengers_in_millions",
+        "_2011_Passengers_in_millions",
+        "Distance"
+    ],
+    "cell": [
+        [
+            "1",
+            "Seoul",
+            "Jeju",
+            "10.156",
+            "9.9",
+            "450km"
+        ],
+        [
+            "2",
+            "Tokyo",
+            "Sapporo",
+            "8.211",
+            "7.5",
+            "819km"
+        ],
+        [
+            "3",
+            "S\u00e3o Paulo",
+            "Rio de Janeiro",
+            "7.716",
+            "7.6+",
+            "366km"
+        ],
+        [
+            "4",
+            "Beijing",
+            "Shanghai",
+            "7.246",
+            "6.6+",
+            "1075km"
+        ],
+        [
+            "5",
+            "Sydney",
+            "Melbourne",
+            "6.943",
+            "7.0+",
+            "706km"
+        ],
+        [
+            "6",
+            "Tokyo",
+            "Osaka",
+            "6.744",
+            "7.5",
+            "405km"
+        ],
+        [
+            "7",
+            "Tokyo",
+            "Fukuoka",
+            "6.640",
+            "6.6+",
+            "883km"
+        ],
+        [
+            "8",
+            "Hong Kong",
+            "Taipei",
+            "5.513",
+            "6.2+",
+            "780km"
+        ],
+        [
+            "9",
+            "Tokyo",
+            "Okinawa",
+            "4.584",
+            "4.1",
+            "1554km"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "651b7aa746f31f41b0315c2cd478d1fc4eb67dfcc1e66355a36ce88e7089f511",
+    "metadata": "1954 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "8.12 (60)",
+            "North Melbourne",
+            "9.15 (69)",
+            "Kardinia Park",
+            "21000",
+            "24 April 1954"
+        ],
+        [
+            "Essendon",
+            "5.18 (48)",
+            "South Melbourne",
+            "8.13 (61)",
+            "Windy Hill",
+            "23000",
+            "24 April 1954"
+        ],
+        [
+            "Collingwood",
+            "12.12 (84)",
+            "Fitzroy",
+            "5.8 (38)",
+            "Victoria Park",
+            "25000",
+            "24 April 1954"
+        ],
+        [
+            "Carlton",
+            "12.10 (82)",
+            "Melbourne",
+            "15.11 (101)",
+            "Princes Park",
+            "21000",
+            "24 April 1954"
+        ],
+        [
+            "St Kilda",
+            "5.9 (39)",
+            "Hawthorn",
+            "10.10 (70)",
+            "Junction Oval",
+            "14000",
+            "24 April 1954"
+        ],
+        [
+            "Richmond",
+            "12.19 (91)",
+            "Footscray",
+            "9.19 (73)",
+            "Punt Road Oval",
+            "23000",
+            "24 April 1954"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "4159ba160fc3b1341b6d019783a704692f259c1e4a09fe5eee80d4465845a1e9",
+    "metadata": "1998 CFL Draft | Round two | Round two",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "8",
+            "Saskatchewan",
+            "Ousame Tounkara",
+            "WR",
+            "Ottawa"
+        ],
+        [
+            "9",
+            "B.C.",
+            "Ryan Thelwell",
+            "SB",
+            "Minnesota"
+        ],
+        [
+            "10",
+            "Calgary",
+            "Andre Arlain",
+            "SB",
+            "St. Francis Xavier"
+        ],
+        [
+            "11",
+            "Edmonton",
+            "Samir Chahine",
+            "G",
+            "McGill"
+        ],
+        [
+            "12",
+            "Toronto",
+            "Roger Dunbrack",
+            "DL",
+            "Western Ontario"
+        ]
+    ]
+}

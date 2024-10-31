@@ -1,0 +1,79 @@
+{
+    "id": "d31bb6bad6e7fd5d8dc16ce6b80b6ee115f799d96c26db913c9c808d37662660",
+    "metadata": "Honda MT125R | Performance and riding the MT125R | Performance and riding the MT125R",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "RPM",
+        "Standard_HP",
+        "Standard_torque_lb_ft",
+        "Standard_speed_6th_gear",
+        "Modified_speed_6th_gear",
+        "Modified_HP",
+        "Modified_torque_lb_ft"
+    ],
+    "cell": [
+        [
+            "8500",
+            "16.67",
+            "10.3",
+            "88",
+            "88",
+            "14.16",
+            "8.75"
+        ],
+        [
+            "9000",
+            "18.21",
+            "10.3",
+            "93",
+            "93",
+            "17.03",
+            "9.94"
+        ],
+        [
+            "9500",
+            "19.9",
+            "11.0",
+            "98",
+            "98",
+            "19.54",
+            "10.80"
+        ],
+        [
+            "10000",
+            "21.95",
+            "11.53",
+            "103",
+            "103",
+            "22.37",
+            "11.75"
+        ],
+        [
+            "10500",
+            "24.39",
+            "12.20",
+            "108",
+            "108",
+            "25.01",
+            "12.51"
+        ],
+        [
+            "11000",
+            "10.05",
+            "4.80",
+            "114",
+            "114",
+            "18.64",
+            "8.90"
+        ],
+        [
+            "11250",
+            "n/a",
+            "n/a",
+            "n/a",
+            "116",
+            "17.07",
+            "6.57"
+        ]
+    ]
+}

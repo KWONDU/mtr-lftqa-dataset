@@ -1,0 +1,95 @@
+{
+    "id": "2ccab51f677684b42054e6b9c5694ca9aac1cff729a1ec68b8130e1c689a4531",
+    "metadata": "1960 Masters Tournament | Final leaderboard | Final leaderboard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_US_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Arnold Palmer",
+            "United States",
+            "67-73-72-70=282",
+            "\u22126",
+            "17500"
+        ],
+        [
+            "2",
+            "Ken Venturi",
+            "United States",
+            "73-69-71-70=283",
+            "\u22125",
+            "10500"
+        ],
+        [
+            "3",
+            "Dow Finsterwald",
+            "United States",
+            "71-70-72-71=284",
+            "\u22124",
+            "7000"
+        ],
+        [
+            "4",
+            "Billy Casper",
+            "United States",
+            "71-71-71-74=287",
+            "\u22121",
+            "5250"
+        ],
+        [
+            "5",
+            "Julius Boros",
+            "United States",
+            "72-71-70-75=288",
+            "E",
+            "4200"
+        ],
+        [
+            "T6",
+            "Walter Burkemo",
+            "United States",
+            "72-69-75-73=289",
+            "+1",
+            "2800"
+        ],
+        [
+            "T6",
+            "Ben Hogan",
+            "United States",
+            "73-68-72-76=289",
+            "+1",
+            "2800"
+        ],
+        [
+            "T6",
+            "Gary Player",
+            "South Africa",
+            "72-71-72-74=289",
+            "+1",
+            "2800"
+        ],
+        [
+            "T9",
+            "Lionel Hebert",
+            "United States",
+            "74-70-73-73=290",
+            "+2",
+            "1575"
+        ],
+        [
+            "T9",
+            "Stan Leonard",
+            "Canada",
+            "72-72-72-74=290",
+            "+2",
+            "1575"
+        ]
+    ]
+}

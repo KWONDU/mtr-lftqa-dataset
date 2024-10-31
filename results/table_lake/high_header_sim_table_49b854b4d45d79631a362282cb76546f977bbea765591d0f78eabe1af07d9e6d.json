@@ -1,0 +1,70 @@
+{
+    "id": "49b854b4d45d79631a362282cb76546f977bbea765591d0f78eabe1af07d9e6d",
+    "metadata": "1950 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "14.10 (94)",
+            "South Melbourne",
+            "16.7 (103)",
+            "Glenferrie Oval",
+            "6500",
+            "19 August 1950"
+        ],
+        [
+            "Fitzroy",
+            "7.10 (52)",
+            "Melbourne",
+            "6.11 (47)",
+            "Brunswick Street Oval",
+            "12500",
+            "19 August 1950"
+        ],
+        [
+            "Essendon",
+            "15.12 (102)",
+            "North Melbourne",
+            "13.16 (94)",
+            "Windy Hill",
+            "33500",
+            "19 August 1950"
+        ],
+        [
+            "St Kilda",
+            "8.6 (54)",
+            "Geelong",
+            "6.12 (48)",
+            "Junction Oval",
+            "12000",
+            "19 August 1950"
+        ],
+        [
+            "Richmond",
+            "15.19 (109)",
+            "Collingwood",
+            "15.10 (100)",
+            "Punt Road Oval",
+            "16000",
+            "19 August 1950"
+        ],
+        [
+            "Footscray",
+            "13.14 (92)",
+            "Carlton",
+            "12.7 (79)",
+            "Western Oval",
+            "10000",
+            "19 August 1950"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "a435212132a21d25d118de12b2a49d1384098d05de819de89f67800437be5882",
+    "metadata": "1941 VFL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "18.16 (124)",
+            "South Melbourne",
+            "10.13 (73)",
+            "MCG",
+            "23000",
+            "26 July 1941"
+        ],
+        [
+            "Collingwood",
+            "22.20 (152)",
+            "Hawthorn",
+            "12.13 (85)",
+            "Victoria Park",
+            "4000",
+            "26 July 1941"
+        ],
+        [
+            "Carlton",
+            "12.11 (83)",
+            "Richmond",
+            "11.18 (84)",
+            "Princes Park",
+            "27000",
+            "26 July 1941"
+        ],
+        [
+            "St Kilda",
+            "18.14 (122)",
+            "Geelong",
+            "11.15 (81)",
+            "Junction Oval",
+            "4000",
+            "26 July 1941"
+        ],
+        [
+            "Footscray",
+            "15.20 (110)",
+            "Fitzroy",
+            "9.4 (58)",
+            "Western Oval",
+            "10000",
+            "26 July 1941"
+        ],
+        [
+            "North Melbourne",
+            "12.14 (86)",
+            "Essendon",
+            "17.8 (110)",
+            "Arden Street Oval",
+            "10000",
+            "26 July 1941"
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "bdb9b2a646dc87b88bc2863f968ca837d1f8fccc6b4eeeec5095697ca59f1438",
+    "metadata": "German Armed Forces casualties in Afghanistan | 2008 | 2008",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Location_",
+        "Nature_of_incident",
+        "Circumstances",
+        "Casualties"
+    ],
+    "cell": [
+        [
+            "2008-03-27",
+            "Kunduz area",
+            "Hostile",
+            "IED",
+            "3 WIA"
+        ],
+        [
+            "2008-06-30",
+            "Kunduz province",
+            "Hostile",
+            "IED",
+            "3 WIA"
+        ],
+        [
+            "2008-07-06",
+            "Kunduz province",
+            "Hostile",
+            "Suicide bomber attack",
+            "3 WIA"
+        ],
+        [
+            "2008-08-06",
+            "Kunduz province",
+            "Hostile",
+            "Suicide bomber attack",
+            "1 KIA, 2 WIA"
+        ],
+        [
+            "2008-08-15",
+            "Fayzabad province",
+            "Hostile",
+            "IED",
+            "2 WIA"
+        ],
+        [
+            "2008-08-25",
+            "Termez, ISAF-base in Uzbekistan",
+            "Non-hostile",
+            "Natural cause",
+            "1 dead"
+        ],
+        [
+            "2008-08-27",
+            "Kunduz Province",
+            "Hostile",
+            "IED",
+            "1 KIA, 3 WIA"
+        ],
+        [
+            "2008-09-23",
+            "Kunduz",
+            "Hostile",
+            "Suicide bomber attack",
+            "1 WIA"
+        ],
+        [
+            "2008-10-20",
+            "Kunduz",
+            "Hostile",
+            "Suicide bomber attack",
+            "2 KIA, 2 WIA"
+        ],
+        [
+            "2008-11-15",
+            "Baghlan",
+            "Hostile",
+            "IED",
+            "2 WIA"
+        ],
+        [
+            "2008-11-17",
+            "Faizabad",
+            "Hostile",
+            "IED",
+            "4 WIA"
+        ],
+        [
+            "2008-12-15",
+            "Kunduz",
+            "Hostile",
+            "Direct fire",
+            "3 WIA"
+        ],
+        [
+            "2008-12-24",
+            "Kunduz",
+            "Hostile",
+            "Direct fire",
+            "5 WIA"
+        ]
+    ]
+}

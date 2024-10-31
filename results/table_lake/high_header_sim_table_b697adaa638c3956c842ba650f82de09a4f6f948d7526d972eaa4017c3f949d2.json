@@ -1,0 +1,56 @@
+{
+    "id": "b697adaa638c3956c842ba650f82de09a4f6f948d7526d972eaa4017c3f949d2",
+    "metadata": "Delaware Valley Collegiate Hockey Conference | National Division | National Division",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Nickname",
+        "Enrollment",
+        "Established"
+    ],
+    "cell": [
+        [
+            "Alvernia University",
+            "Reading, PA",
+            "Crusaders",
+            "2900",
+            "1958"
+        ],
+        [
+            "Bryn Athyn College",
+            "Bryn Athyn, PA",
+            "Lions",
+            "218",
+            "1877"
+        ],
+        [
+            "East Stroudsburg University",
+            "East Stroudsburg, PA",
+            "Warriors",
+            "7000",
+            "1893"
+        ],
+        [
+            "Neumann University",
+            "Aston, PA",
+            "Knights",
+            "2012",
+            "1965"
+        ],
+        [
+            "Penn State Brandywine",
+            "Media, PA",
+            "Nittany Lions",
+            "1700",
+            "1967"
+        ],
+        [
+            "Richard Stockton College",
+            "Galloway Township, NJ",
+            "Ospreys",
+            "7243",
+            "1969"
+        ]
+    ]
+}

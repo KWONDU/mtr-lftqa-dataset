@@ -1,0 +1,55 @@
+{
+    "id": "330afd777cd4e97644b3c7a2e3e4412dc19bafb6ac8d36219f9ab115ab775bf0",
+    "metadata": "United States House of Representatives elections, 1988 | Tennessee | Tennessee",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Tennessee 1",
+            "Jimmy Quillen",
+            "Republican",
+            "1962",
+            "Re-elected",
+            "Jimmy Quillen (R) 80.2% Sidney S. Smith (D) 19.8%"
+        ],
+        [
+            "Tennessee 3",
+            "Marilyn Lloyd",
+            "Democratic",
+            "1974",
+            "Re-elected",
+            "Marilyn Lloyd (D) 57.4% Harold W. Coker (R) 42.6%"
+        ],
+        [
+            "Tennessee 4",
+            "Jim Cooper",
+            "Democratic",
+            "1982",
+            "Re-elected",
+            "Jim Cooper (D) Unopposed"
+        ],
+        [
+            "Tennessee 5",
+            "Bob Clement",
+            "Democratic",
+            "1988",
+            "Re-elected",
+            "Bob Clement (D) Unopposed"
+        ],
+        [
+            "Tennessee 6",
+            "Bart Gordon",
+            "Democratic",
+            "1984",
+            "Re-elected",
+            "Bart Gordon (D) 76.5% Wallace Embry (R) 23.5%"
+        ]
+    ]
+}

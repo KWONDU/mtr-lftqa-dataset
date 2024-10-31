@@ -1,0 +1,70 @@
+{
+    "id": "976cccf7c14a36b116104087bd344fad73b5ecaee85a5c69695720502066201e",
+    "metadata": "2008-09 Adelaide United season | Season | Attendance at away games",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Date_",
+        "Home_Team",
+        "Score",
+        "Away_Team",
+        "Attendance",
+        "Stadium"
+    ],
+    "cell": [
+        [
+            "1",
+            "12 March 2008",
+            "Pohang Steelers",
+            "0 - 2 Cornthwaite 3` Djite 59`",
+            "Adelaide United",
+            "8436",
+            "Steelyard Stadium"
+        ],
+        [
+            "2",
+            "19 March 2008",
+            "Adelaide United",
+            "0 - 0",
+            "Changchun Yatai",
+            "10510",
+            "Hindmarsh Stadium"
+        ],
+        [
+            "3",
+            "9 April 2008",
+            "B\u00ecnh D\u01b0\u01a1ng",
+            "1 - 2 Diego 10` Alagich 78`",
+            "Adelaide United",
+            "15000",
+            "Go Dau Stadium"
+        ],
+        [
+            "4",
+            "23 April 2008",
+            "Adelaide United",
+            "4 - 1 Pantelis 56` Dodd 58` , 62` Diego 77`",
+            "B\u00ecnh D\u01b0\u01a1ng",
+            "13802",
+            "Hindmarsh Stadium"
+        ],
+        [
+            "5",
+            "7 May 2008",
+            "Adelaide United",
+            "1 - 0 Diego 63`",
+            "Pohang Steelers",
+            "11805",
+            "Hindmarsh Stadium"
+        ],
+        [
+            "6",
+            "22 May 2008",
+            "Changchun Yatai",
+            "0 - 0",
+            "Adelaide United",
+            "20000",
+            "Changchun City Stadium"
+        ]
+    ]
+}

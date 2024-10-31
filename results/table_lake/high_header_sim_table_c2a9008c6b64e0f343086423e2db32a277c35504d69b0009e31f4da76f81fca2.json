@@ -1,0 +1,91 @@
+{
+    "id": "c2a9008c6b64e0f343086423e2db32a277c35504d69b0009e31f4da76f81fca2",
+    "metadata": "1988 U.S. Open (golf) | First round | First round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Bob Gilder",
+            "United States",
+            "68",
+            "-3"
+        ],
+        [
+            "T1",
+            "Sandy Lyle",
+            "Scotland",
+            "68",
+            "-3"
+        ],
+        [
+            "T1",
+            "Mike Nicolette",
+            "United States",
+            "68",
+            "-3"
+        ],
+        [
+            "T4",
+            "Paul Azinger",
+            "United States",
+            "69",
+            "-2"
+        ],
+        [
+            "T4",
+            "Seve Ballesteros",
+            "Spain",
+            "69",
+            "-2"
+        ],
+        [
+            "T4",
+            "Dick Mast",
+            "United States",
+            "69",
+            "-2"
+        ],
+        [
+            "T4",
+            "Larry Mize",
+            "United States",
+            "69",
+            "-2"
+        ],
+        [
+            "T4",
+            "Scott Simpson",
+            "United States",
+            "69",
+            "-2"
+        ],
+        [
+            "T9",
+            "Craig Stadler",
+            "United States",
+            "70",
+            "-1"
+        ],
+        [
+            "T9",
+            "Curtis Strange",
+            "United States",
+            "70",
+            "-1"
+        ],
+        [
+            "T9",
+            "Lanny Wadkins",
+            "United States",
+            "70",
+            "-1"
+        ]
+    ]
+}

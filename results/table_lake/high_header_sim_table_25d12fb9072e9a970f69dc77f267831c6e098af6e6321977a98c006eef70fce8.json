@@ -1,0 +1,63 @@
+{
+    "id": "25d12fb9072e9a970f69dc77f267831c6e098af6e6321977a98c006eef70fce8",
+    "metadata": "Sk\u00e5netrafiken | Patronage/ridership | Patronage/ridership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Type_of_service",
+        "_2006",
+        "_2007",
+        "_2008",
+        "Change_06_07",
+        "Change_07_08"
+    ],
+    "cell": [
+        [
+            "Urban (city) buses",
+            "54587865",
+            "57916228",
+            "60394737",
+            "6.1%",
+            "4.2%"
+        ],
+        [
+            "Regional buses (all types)",
+            "28800485",
+            "29805811",
+            "30920784",
+            "3.5%",
+            "3.7%"
+        ],
+        [
+            "Trains",
+            "28631288",
+            "32826857",
+            "36136241",
+            "14.7%",
+            "10.1%"
+        ],
+        [
+            "Trains within Sk\u00e5ne",
+            "21118000",
+            "23331000",
+            "25600000",
+            "10.5%",
+            "9.7%"
+        ],
+        [
+            "Trains to/from Denmark",
+            "7513288",
+            "9495857",
+            "10536241",
+            "26.4%",
+            "11.0%"
+        ],
+        [
+            "Journeys total",
+            "113370585",
+            "121859553",
+            "128698604",
+            "7.5%",
+            "5.6%"
+        ]
+    ]
+}

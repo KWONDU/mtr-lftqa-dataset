@@ -1,0 +1,49 @@
+{
+    "id": "dfbd134f54644ff62c51615fe9a1bfa8904c00fcce704949faa85ba4e66664b5",
+    "metadata": "Amy Alcott | Wins (5) | Wins (5)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Championship",
+        "Winning_score",
+        "Margin",
+        "Runners_up"
+    ],
+    "cell": [
+        [
+            "1979",
+            "Peter Jackson Classic",
+            "\u22127 (75-70-70-70=285)",
+            "3 strokes",
+            "Nancy Lopez"
+        ],
+        [
+            "1980",
+            "U.S. Women`s Open",
+            "\u22124 (70-70-68-72=280)",
+            "9 strokes",
+            "Hollis Stacy"
+        ],
+        [
+            "1983",
+            "Nabisco Dinah Shore",
+            "\u22126 (70-70-70-72=282)",
+            "2 strokes",
+            "Beth Daniel , Kathy Whitworth"
+        ],
+        [
+            "1988",
+            "Nabisco Dinah Shore",
+            "\u221214 (71-66-66-71=274)",
+            "2 strokes",
+            "Colleen Walker"
+        ],
+        [
+            "1991",
+            "Nabisco Dinah Shore",
+            "\u221215 (67-70-68-68=273)",
+            "8 strokes",
+            "Dottie Mochrie"
+        ]
+    ]
+}

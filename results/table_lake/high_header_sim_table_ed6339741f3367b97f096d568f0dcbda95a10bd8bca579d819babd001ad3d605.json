@@ -1,0 +1,84 @@
+{
+    "id": "ed6339741f3367b97f096d568f0dcbda95a10bd8bca579d819babd001ad3d605",
+    "metadata": "1944 Washington Redskins season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 8, 1944",
+            "at Philadelphia Eagles",
+            "T 31-31",
+            "32549"
+        ],
+        [
+            "2",
+            "October 15, 1944",
+            "at Boston Yanks",
+            "W 21-14",
+            "17758"
+        ],
+        [
+            "3",
+            "October 22, 1944",
+            "Brooklyn Tigers",
+            "W 17-14",
+            "35000"
+        ],
+        [
+            "4",
+            "October 29, 1944",
+            "Card-Pitt",
+            "W 42-20",
+            "35540"
+        ],
+        [
+            "5",
+            "November 5, 1944",
+            "Cleveland Rams",
+            "W 14-10",
+            "35450"
+        ],
+        [
+            "6",
+            "November 12, 1944",
+            "at Brooklyn Tigers",
+            "W 10-0",
+            "20404"
+        ],
+        [
+            "7",
+            "November 19, 1944",
+            "Philadelphia Eagles",
+            "L 37-7",
+            "35540"
+        ],
+        [
+            "8",
+            "November 26, 1944",
+            "Boston Yanks",
+            "W 14-7",
+            "35540"
+        ],
+        [
+            "9",
+            "December 3, 1944",
+            "at New York Giants",
+            "L 16-13",
+            "47457"
+        ],
+        [
+            "10",
+            "December 10, 1944",
+            "New York Giants",
+            "L 31-0",
+            "35540"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "a0da4186dd37fa10da0431378b9cfdeec9861787af0cd78f1f1d3ed5ae9d7cef",
+    "metadata": "William Paul (footballer) | International goals | International goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Venue",
+        "Score",
+        "Result_",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "March 10, 1888",
+            "Hibernian Park , Edinburgh",
+            "1-0",
+            "5-1",
+            "BHC"
+        ],
+        [
+            "March 22, 1890",
+            "Underwood Park , Paisley",
+            "2-0",
+            "5-0",
+            "BHC"
+        ],
+        [
+            "March 22, 1890",
+            "Underwood Park , Paisley",
+            "3-0",
+            "5-0",
+            "BHC"
+        ],
+        [
+            "March 22, 1890",
+            "Underwood Park , Paisley",
+            "4-0",
+            "5-0",
+            "BHC"
+        ],
+        [
+            "March 22, 1890",
+            "Underwood Park , Paisley",
+            "5-0",
+            "5-0",
+            "BHC"
+        ]
+    ]
+}

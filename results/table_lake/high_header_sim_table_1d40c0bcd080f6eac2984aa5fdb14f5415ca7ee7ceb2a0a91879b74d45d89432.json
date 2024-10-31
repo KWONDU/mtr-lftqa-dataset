@@ -1,0 +1,61 @@
+{
+    "id": "1d40c0bcd080f6eac2984aa5fdb14f5415ca7ee7ceb2a0a91879b74d45d89432",
+    "metadata": "1897 AHAC season | Final Standing | Final Standing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Games_Played",
+        "Wins",
+        "Losses",
+        "Ties_",
+        "Goals_For",
+        "Goals_Against"
+    ],
+    "cell": [
+        [
+            "Montreal Victorias",
+            "8",
+            "7",
+            "1",
+            "0",
+            "48",
+            "26"
+        ],
+        [
+            "Ottawa",
+            "8",
+            "5",
+            "3",
+            "0",
+            "25",
+            "18"
+        ],
+        [
+            "Montreal",
+            "8",
+            "5",
+            "3",
+            "0",
+            "31",
+            "26"
+        ],
+        [
+            "Quebec",
+            "8",
+            "2",
+            "6",
+            "0",
+            "22",
+            "46"
+        ],
+        [
+            "Montreal Shamrocks",
+            "8",
+            "1",
+            "7",
+            "0",
+            "27",
+            "37"
+        ]
+    ]
+}

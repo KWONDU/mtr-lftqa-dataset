@@ -1,0 +1,56 @@
+{
+    "id": "84ecf909c45f57aadd21dc3bc1e2af9fd04ee9ab9bb3b84fe3e983e25f0282f0",
+    "metadata": "Gerhard Mitter | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1963",
+            "Ecurie Maarsbergen",
+            "Porsche 718",
+            "Porsche Flat-4",
+            "3"
+        ],
+        [
+            "1964",
+            "Team Lotus",
+            "Lotus 25",
+            "Climax V8",
+            "0"
+        ],
+        [
+            "1965",
+            "Team Lotus",
+            "Lotus 25",
+            "Climax V8",
+            "0"
+        ],
+        [
+            "1966",
+            "Ron Harris / Team Lotus",
+            "Lotus 44 F2",
+            "Cosworth Straight-4",
+            "0"
+        ],
+        [
+            "1967",
+            "Gerhard Mitter",
+            "Brabham BT23 F2",
+            "Cosworth Straight-4",
+            "0"
+        ],
+        [
+            "1969",
+            "BMW",
+            "BMW 269 F2",
+            "BMW Straight-4",
+            "0"
+        ]
+    ]
+}

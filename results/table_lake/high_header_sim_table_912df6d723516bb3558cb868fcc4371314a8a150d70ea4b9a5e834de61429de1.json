@@ -1,0 +1,56 @@
+{
+    "id": "912df6d723516bb3558cb868fcc4371314a8a150d70ea4b9a5e834de61429de1",
+    "metadata": "List of radio stations in Tamaulipas | Nuevo Laredo | AM",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Frequency",
+        "Callsign",
+        "Brand",
+        "City_of_License",
+        "Type_"
+    ],
+    "cell": [
+        [
+            "580",
+            "XEHP",
+            "La Mas Prendida",
+            "Ciudad Victoria",
+            "Norte\u00f1o"
+        ],
+        [
+            "640",
+            "XETAM",
+            "La Poderosa",
+            "Santa Elena",
+            "Norte\u00f1o"
+        ],
+        [
+            "970",
+            "XEBJ-AM",
+            "Radio 970",
+            "Ciudad Victoria",
+            "Contemporary"
+        ],
+        [
+            "1340",
+            "XERPV-AM",
+            "La Cotorra",
+            "Ciudad Victoria",
+            "Norte\u00f1o"
+        ],
+        [
+            "1380",
+            "XEGW",
+            "Planeta W 1380",
+            "Ciudad Victoria",
+            "Christian Pop"
+        ],
+        [
+            "1480",
+            "XEVIC",
+            "Radio Tamaulipas",
+            "Ciudad Victoria",
+            "State Government"
+        ]
+    ]
+}

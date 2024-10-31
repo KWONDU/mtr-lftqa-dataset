@@ -1,0 +1,61 @@
+{
+    "id": "b631ea4bfac756771405bb6ea6cf7f069f8318bac5354c623f7a08494bbd2153",
+    "metadata": "Australian Technology Network | Members | Member Universities",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "University",
+        "Location_",
+        "Year_of_Foundation",
+        "University_Status",
+        "THE_World_University_Rankings_2012_13",
+        "Academic_Ranking_of_World_Universities_2012",
+        "QS_World_University_Rankings_2012"
+    ],
+    "cell": [
+        [
+            "Curtin University",
+            "Perth , WA",
+            "1902",
+            "1986",
+            "Not Ranked",
+            "401-500",
+            "258"
+        ],
+        [
+            "Queensland University of Technology",
+            "Brisbane , QLD",
+            "1908",
+            "1989",
+            "251-275",
+            "Not Ranked",
+            "281"
+        ],
+        [
+            "Royal Melbourne Institute of Technology",
+            "Melbourne , Vic",
+            "1887",
+            "1992",
+            "Not Ranked",
+            "Not Ranked",
+            "246"
+        ],
+        [
+            "University of South Australia",
+            "Adelaide , SA",
+            "1856",
+            "1991",
+            "301-350",
+            "Not Ranked",
+            "293"
+        ],
+        [
+            "University of Technology, Sydney",
+            "Sydney , NSW",
+            "1843",
+            "1988",
+            "351-400",
+            "401-500",
+            "284"
+        ]
+    ]
+}

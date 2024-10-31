@@ -1,0 +1,49 @@
+{
+    "id": "052cd8d614be79347b7ca7b05c5d266013121d5787d336f5584f90f86ffe4efc",
+    "metadata": "Regions of Brazil | The five regions | The five regions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Population_2009_estimate",
+        "Largest_City",
+        "Largest_Metropolitan_Area",
+        "Number_of_States"
+    ],
+    "cell": [
+        [
+            "North",
+            "15,8 million",
+            "Manaus",
+            "Manaus metropolitan area",
+            "7"
+        ],
+        [
+            "Northeast",
+            "53,5 million",
+            "Salvador",
+            "Recife metropolitan area",
+            "9"
+        ],
+        [
+            "Central-West",
+            "13,6 million",
+            "Bras\u00edlia",
+            "Brasilia Urban Metropolitan Complex",
+            "3 + DF"
+        ],
+        [
+            "Southeast",
+            "80,7 million",
+            "S\u00e3o Paulo",
+            "S\u00e3o Paulo metropolitan area",
+            "4"
+        ],
+        [
+            "South",
+            "27,3 million",
+            "Curitiba",
+            "Porto Alegre metropolitan area",
+            "3"
+        ]
+    ]
+}

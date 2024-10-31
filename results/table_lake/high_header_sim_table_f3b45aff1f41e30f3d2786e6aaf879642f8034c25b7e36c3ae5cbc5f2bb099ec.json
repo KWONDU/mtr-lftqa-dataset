@@ -1,0 +1,70 @@
+{
+    "id": "f3b45aff1f41e30f3d2786e6aaf879642f8034c25b7e36c3ae5cbc5f2bb099ec",
+    "metadata": "Central Atlas Tamazight | Vowels | Tamazight schwa epenthesis",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Environment",
+        "Realization",
+        "Example",
+        "Pronunciation",
+        "Gloss"
+    ],
+    "cell": [
+        [
+            "#C(\u02d0)#",
+            "\u0259C(\u02d0)",
+            "/\u0261/",
+            "[\u0259\u0261]",
+            "`to be, to do`"
+        ],
+        [
+            "#LC#",
+            "\u0259LC or L\u0259C",
+            "/ns/",
+            "[\u0259ns] ~ [n\u0259s]",
+            "`to spend the night`"
+        ],
+        [
+            "#CC#",
+            "C\u0259C",
+            "/t\u02e4s\u02e4/",
+            "[t\u02e4\u0259s\u02e4]",
+            "`to laugh`"
+        ],
+        [
+            "#C\u02d0C#",
+            "\u0259C\u02d0\u0259C",
+            "/f\u02d0r/",
+            "[\u0259f\u02d0\u0259r]",
+            "`to hide`"
+        ],
+        [
+            "#CCC#",
+            "CC\u0259C / C1C2 are not {L H}",
+            "/\u03c7dm/",
+            "[\u03c7d\u0259m]",
+            "`to work`"
+        ],
+        [
+            "#CCC#",
+            "CC\u0259C / C1C2 are not {L H}",
+            "/z\u0295f/",
+            "[z\u0295\u0259f]",
+            "`to get mad`"
+        ],
+        [
+            "#CCC#",
+            "\u0259CC\u0259C or #C\u0259C\u0259C# / {C1 C3} is {L H}",
+            "/hdm/",
+            "[\u0259hd\u0259m] ~ [h\u0259d\u0259m]",
+            "`to demolish`"
+        ],
+        [
+            "#CCC#",
+            "C\u0259C\u0259C / C2C3 = {L H}",
+            "/d\u02e4mn/",
+            "[d\u02e4\u0259m\u0259n]",
+            "`to guarantee`"
+        ]
+    ]
+}

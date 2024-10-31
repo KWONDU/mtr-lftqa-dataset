@@ -1,0 +1,55 @@
+{
+    "id": "cbd03d22402205ab56f488858f916782b68a917f64c3ac82b0f7b3bf481cf116",
+    "metadata": "1984-85 Portland Trail Blazers season | NBA Draft | NBA Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "Nationality",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "2",
+            "Sam Bowie",
+            "F/C",
+            "United States",
+            "Kentucky"
+        ],
+        [
+            "1",
+            "19",
+            "Bernard Thompson",
+            "G/F",
+            "United States",
+            "Fresno State"
+        ],
+        [
+            "2",
+            "26",
+            "Victor Fleming",
+            "G",
+            "United States",
+            "Xavier"
+        ],
+        [
+            "2",
+            "33",
+            "Steve Colter",
+            "G",
+            "United States",
+            "New Mexico"
+        ],
+        [
+            "2",
+            "46",
+            "Jerome Kersey",
+            "F",
+            "United States",
+            "Longwood"
+        ]
+    ]
+}

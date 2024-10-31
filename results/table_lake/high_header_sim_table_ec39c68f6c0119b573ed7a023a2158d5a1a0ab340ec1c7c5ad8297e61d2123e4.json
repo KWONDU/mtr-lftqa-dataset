@@ -1,0 +1,55 @@
+{
+    "id": "ec39c68f6c0119b573ed7a023a2158d5a1a0ab340ec1c7c5ad8297e61d2123e4",
+    "metadata": "1988-89 Rangers F.C. season | League Cup | League Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "17 August 1988",
+            "R2",
+            "Clyde",
+            "A",
+            "3-0",
+            "14699"
+        ],
+        [
+            "24 August 1988",
+            "R3",
+            "Clydebank",
+            "H",
+            "6-0",
+            "34376"
+        ],
+        [
+            "31 August 1988",
+            "QF",
+            "Dundee",
+            "H",
+            "4-1",
+            "39667"
+        ],
+        [
+            "21 September 1988",
+            "SF",
+            "Heart of Midlothian",
+            "N",
+            "3-0",
+            "53623"
+        ],
+        [
+            "23 October 1988",
+            "F",
+            "Aberdeen",
+            "N",
+            "3-2",
+            "72122"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "0deb370231594e36b5bf4f18b391f38d0a91169e5e9063811657879fd8166f60",
+    "metadata": "Hamburg state election, 2004 | Results | Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Party",
+        "Party_List_votes",
+        "Vote_percentage",
+        "Total_Seats",
+        "Seat_percentage"
+    ],
+    "cell": [
+        [
+            "Christian Democratic Union (CDU)",
+            "389170",
+            "47.2% (+21.0)",
+            "63 (+30)",
+            "52.1%"
+        ],
+        [
+            "Social Democratic Party (SPD)",
+            "251441",
+            "30.5% (-6.0)",
+            "41 (-5)",
+            "33.9%"
+        ],
+        [
+            "Green-Alternative List (GAL)",
+            "101227",
+            "12.3% (+3.7)",
+            "17 (+6)",
+            "14.0%"
+        ],
+        [
+            "Pro Deutsche Mitte (Pro DM/Schill)",
+            "25763",
+            "3.1% (+2.9)",
+            "0 (+0)",
+            "0.0%"
+        ],
+        [
+            "Free Democratic Party (FDP)",
+            "23373",
+            "2.8% (-2.2)",
+            "0 (-6)",
+            "0.0%"
+        ],
+        [
+            "Rainbow - For a new Left (Regenbogen)",
+            "9221",
+            "1.1% (-0.6)",
+            "0 (+0)",
+            "0.0%"
+        ],
+        [
+            "Grey Panthers Party of Germany (GRAUE)",
+            "8862",
+            "1.1% (+0.8)",
+            "0 (+0)",
+            "0.0%"
+        ],
+        [
+            "Law and Order Offensive Party (Offensive)",
+            "3041",
+            "0.4% (-19.1)",
+            "0 (-25)",
+            "0.0%"
+        ],
+        [
+            "All Others",
+            "12030",
+            "1.5% (-0.5)",
+            "0",
+            "0.0%"
+        ],
+        [
+            "Totals",
+            "824128",
+            "100.0%",
+            "121",
+            "100.0%"
+        ]
+    ]
+}

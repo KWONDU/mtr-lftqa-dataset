@@ -1,0 +1,63 @@
+{
+    "id": "25fead99370a63ec1e3826e6cfeb8b1c728f1677c26f105cb46c55bae3a8c034",
+    "metadata": "2007-08 Sunderland A.F.C. season | Pre-season | Pre-season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "18 July 2007",
+            "Darlington",
+            "Away",
+            "2-0",
+            "4500"
+        ],
+        [
+            "2",
+            "21 July 2007",
+            "Scunthorpe United",
+            "Away",
+            "0-1",
+            "5388"
+        ],
+        [
+            "3",
+            "28 July 2007",
+            "Bohemian",
+            "Away",
+            "1-0",
+            "5033"
+        ],
+        [
+            "4",
+            "30 July 2007",
+            "Cork City",
+            "Away",
+            "1-1",
+            "9000"
+        ],
+        [
+            "5",
+            "1 August 2007",
+            "Galway United",
+            "Away",
+            "4-0",
+            "5000"
+        ],
+        [
+            "6",
+            "4 August 2007",
+            "Juventus",
+            "Home",
+            "1-1",
+            "25852"
+        ]
+    ]
+}

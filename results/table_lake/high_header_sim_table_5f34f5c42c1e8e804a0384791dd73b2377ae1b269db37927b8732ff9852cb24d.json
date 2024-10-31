@@ -1,0 +1,63 @@
+{
+    "id": "5f34f5c42c1e8e804a0384791dd73b2377ae1b269db37927b8732ff9852cb24d",
+    "metadata": "2010 Copa Colombia | Round of 16 | Round of 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team_1",
+        "Points",
+        "Team_2",
+        "_1st_leg",
+        "_2nd_leg"
+    ],
+    "cell": [
+        [
+            "Deportivo Pasto",
+            "0-6",
+            "Deportivo Pereira",
+            "1-2",
+            "0-3"
+        ],
+        [
+            "Boyac\u00e1 Chic\u00f3",
+            "1-4",
+            "Atl\u00e9tico Nacional",
+            "2-2",
+            "1-2"
+        ],
+        [
+            "Atl\u00e9tico La Sabana",
+            "3-3 ( gd )",
+            "C\u00facuta Deportivo",
+            "1-0",
+            "0-4"
+        ],
+        [
+            "Atl\u00e9tico Huila",
+            "3-3 ( gd )",
+            "La Equidad",
+            "2-1",
+            "0-2"
+        ],
+        [
+            "Junior",
+            "3-3 (2-4 pk )",
+            "Deportivo Cali",
+            "1-0",
+            "2-3"
+        ],
+        [
+            "Itag\u00fc\u00ed Ditaires",
+            "4-1",
+            "Deportes Tolima",
+            "1-0",
+            "2-2"
+        ],
+        [
+            "Atl\u00e9tico Bucaramanga",
+            "3-3 (1-2 pk )",
+            "Millonarios",
+            "1-2",
+            "2-1"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "27ff5236a82cbc3d594b224d93acf387cd1bb52db38f66557e20d7244e4b9acc",
+    "metadata": "List of Palatine locomotives and railbuses | Narrow Gauge Locomotives | Narrow Gauge Locomotives",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Railway_numbers",
+        "DRG_numbers",
+        "Quantity",
+        "Years_of_manufacture",
+        "Axle_arrangement_UIC_Bauart"
+    ],
+    "cell": [
+        [
+            "L 1",
+            "XI-XXII, XXVIII",
+            "99 081-99 092",
+            "13",
+            "1889-1907",
+            "C n2t"
+        ],
+        [
+            "L 2",
+            "XXIII-XXVII",
+            "99 001-99 005",
+            "5",
+            "1903-1905",
+            "B n2t"
+        ],
+        [
+            "Pts 2/2",
+            "XXX",
+            "99 011",
+            "1",
+            "1910",
+            "B h2t"
+        ],
+        [
+            "Pts 3/3 N",
+            "XXIX",
+            "99 093",
+            "1",
+            "1911",
+            "C n2t"
+        ],
+        [
+            "Pts 3/3 H",
+            "XXXI-XXXIII",
+            "99 101-99 103",
+            "3",
+            "1923",
+            "C h2t"
+        ]
+    ]
+}

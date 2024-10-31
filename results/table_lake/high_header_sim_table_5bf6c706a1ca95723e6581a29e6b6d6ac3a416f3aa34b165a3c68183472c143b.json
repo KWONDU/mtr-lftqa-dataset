@@ -1,0 +1,61 @@
+{
+    "id": "5bf6c706a1ca95723e6581a29e6b6d6ac3a416f3aa34b165a3c68183472c143b",
+    "metadata": "1943 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "10.11 (71)",
+            "South Melbourne",
+            "6.14 (50)",
+            "Western Oval",
+            "7500",
+            "26 June 1943"
+        ],
+        [
+            "Collingwood",
+            "10.21 (81)",
+            "Melbourne",
+            "13.9 (87)",
+            "Victoria Park",
+            "5000",
+            "26 June 1943"
+        ],
+        [
+            "Carlton",
+            "15.16 (106)",
+            "Fitzroy",
+            "9.13 (67)",
+            "Princes Park",
+            "12000",
+            "26 June 1943"
+        ],
+        [
+            "Richmond",
+            "15.16 (106)",
+            "Hawthorn",
+            "8.14 (62)",
+            "Punt Road Oval",
+            "16000",
+            "26 June 1943"
+        ],
+        [
+            "St Kilda",
+            "15.8 (98)",
+            "Essendon",
+            "20.19 (139)",
+            "Toorak Park",
+            "6000",
+            "26 June 1943"
+        ]
+    ]
+}

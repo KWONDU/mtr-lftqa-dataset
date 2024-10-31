@@ -1,0 +1,61 @@
+{
+    "id": "d5bcf09e9e7c0b1f231c0ab28c28b578ccb17c12ba21ef2c1730094d9db8a6c5",
+    "metadata": "Obsolete Russian units of measurement | Apothecaries' system | Apothecaries' system",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Unit",
+        "Russian",
+        "Translation_",
+        "Ratio",
+        "Metric_value",
+        "Avoirdupois_value",
+        "Ordinary_value"
+    ],
+    "cell": [
+        [
+            "gran",
+            "\u0433\u0440\u0430\u043d",
+            "grain",
+            "1",
+            "62.210 mg",
+            "0.96004 gr.",
+            "1.4 dolia"
+        ],
+        [
+            "scrupel",
+            "\u0441\u043a\u0440\u0443\u043f\u0443\u043b",
+            "scruple",
+            "20",
+            "1.2442 g",
+            "19.201 gr.",
+            "28 doila"
+        ],
+        [
+            "drachma",
+            "\u0434\u0440\u0430\u0445\u043c\u0430",
+            "dram",
+            "60",
+            "3.7326 g",
+            "57.602 gr.",
+            "\u215e zolotnik"
+        ],
+        [
+            "uncia",
+            "\u0443\u043d\u0446\u0438\u044f",
+            "ounce",
+            "480",
+            "29.861 g",
+            "1.0533 oz. or 460.82 gr.",
+            "7 zolotnik"
+        ],
+        [
+            "funt",
+            "\u0444\u0443\u043d\u0442",
+            "pound",
+            "5760",
+            "358.328 g",
+            "12.640 oz. or 5529.8 gr.",
+            "84 zolotnik"
+        ]
+    ]
+}

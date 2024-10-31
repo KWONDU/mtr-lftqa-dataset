@@ -1,0 +1,95 @@
+{
+    "id": "167697c68887361a3fa9f3e5285425a6d9773d60b2ed562564b806fa71a1a524",
+    "metadata": "IC 342/Maffei Group | Members | Members of the IC 342 Subgroup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Type_",
+        "R_A_J2000",
+        "Dec_J2000",
+        "Redshift_km_s",
+        "Apparent_Magnitude_"
+    ],
+    "cell": [
+        [
+            "Camelopardalis A",
+            "Irr",
+            "04h 26m 16.3s",
+            "+72\u00b0 48\u2032 21\u2033",
+            "-46 \u00b1 1",
+            "14.8"
+        ],
+        [
+            "Camelopardalis B",
+            "Irr",
+            "04h 53m 07.1s",
+            "+67\u00b0 05\u2032 57\u2033",
+            "77",
+            "16.1"
+        ],
+        [
+            "Cassiopeia 1",
+            "dIrr",
+            "02h 06m 02.8s",
+            "+68\u00b0 59\u2032 59\u2033",
+            "35",
+            "16.4"
+        ],
+        [
+            "IC 342",
+            "SAB(rs)cd",
+            "03h 46m 48.5s",
+            "+68\u00b0 05\u2032 46\u2033",
+            "31 \u00b1 3",
+            "9.1"
+        ],
+        [
+            "KK 35",
+            "Irr",
+            "03h 45m 12.6s",
+            "+67\u00b0 51\u2032 51\u2033",
+            "105 \u00b1 1",
+            "17.2"
+        ],
+        [
+            "NGC 1560",
+            "SA(s)d",
+            "04h 32m 49.1s",
+            "+71\u00b0 52\u2032 59\u2033",
+            "-36 \u00b1 5",
+            "12.2"
+        ],
+        [
+            "NGC 1569",
+            "Sbrst",
+            "04h 30m 49.1s",
+            "+64\u00b0 50\u2032 52,6\u2033",
+            "-104 \u00b1 4",
+            "112"
+        ],
+        [
+            "UGCA 86",
+            "Im",
+            "03h 59m 50.5s",
+            "+67\u00b0 08\u2032 37\u2033",
+            "67 \u00b1 4",
+            "13.5"
+        ],
+        [
+            "UGCA 92",
+            "Im",
+            "04h 32m 04.9s",
+            "+63\u00b0 36\u2032 49.0\u2033",
+            "-99 \u00b1 5",
+            "13.8"
+        ],
+        [
+            "UGCA 105",
+            "Im",
+            "05h 14m 15.3s",
+            "+62\u00b0 34\u2032 48\u2033",
+            "111 \u00b1 5",
+            "13.9"
+        ]
+    ]
+}

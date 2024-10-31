@@ -1,0 +1,117 @@
+{
+    "id": "7ba89088428a4cdb90c63cfa0634d4dd1aadf76e9ca2965f8dce3af3a63c9458",
+    "metadata": "2005 ANAPROF | Relegation table | Relegation table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Team",
+        "Played",
+        "Draw",
+        "Lost",
+        "Goals_Scored",
+        "Goals_Conceded",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1.",
+            "San Francisco",
+            "34",
+            "8",
+            "6",
+            "72",
+            "36",
+            "68"
+        ],
+        [
+            "2.",
+            "Tauro",
+            "34",
+            "10",
+            "5",
+            "57",
+            "29",
+            "67"
+        ],
+        [
+            "3.",
+            "\u00c1rabe Unido",
+            "34",
+            "11",
+            "8",
+            "49",
+            "31",
+            "56"
+        ],
+        [
+            "4.",
+            "Atl\u00e9tico Verag\u00fcense",
+            "34",
+            "10",
+            "12",
+            "38",
+            "45",
+            "46"
+        ],
+        [
+            "5.",
+            "El Chorrillo",
+            "34",
+            "11",
+            "12",
+            "45",
+            "42",
+            "44"
+        ],
+        [
+            "6.",
+            "Alianza",
+            "34",
+            "10",
+            "13",
+            "41",
+            "46",
+            "43"
+        ],
+        [
+            "7.",
+            "Plaza Amador",
+            "34",
+            "10",
+            "14",
+            "45",
+            "54",
+            "40"
+        ],
+        [
+            "8.",
+            "Atl\u00e9tico Chiriqu\u00ed",
+            "34",
+            "11",
+            "14",
+            "35",
+            "49",
+            "38"
+        ],
+        [
+            "9.",
+            "Sporting `89",
+            "34",
+            "11",
+            "16",
+            "30",
+            "47",
+            "32"
+        ],
+        [
+            "10.",
+            "Col\u00f3n River",
+            "18",
+            "2",
+            "15",
+            "14",
+            "47",
+            "5*"
+        ]
+    ]
+}

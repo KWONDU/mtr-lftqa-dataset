@@ -1,0 +1,56 @@
+{
+    "id": "2e8b3838abb711fba26274f3af2e0fb5ee2893b7bd3409c9aab64ba719f4ad48",
+    "metadata": "Tony Maggs | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1961",
+            "Louise Bryden-Brown",
+            "Lotus 18",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1962",
+            "Cooper Car Company",
+            "Cooper T55",
+            "Climax Straight-4",
+            "13"
+        ],
+        [
+            "1962",
+            "Cooper Car Company",
+            "Cooper T60",
+            "Climax V8",
+            "13"
+        ],
+        [
+            "1963",
+            "Cooper Car Company",
+            "Cooper T66",
+            "Climax V8",
+            "9"
+        ],
+        [
+            "1964",
+            "Scuderia Centro Sud",
+            "BRM P57",
+            "BRM V8",
+            "4"
+        ],
+        [
+            "1965",
+            "Reg Parnell Racing",
+            "Lotus 25",
+            "BRM V8",
+            "0"
+        ]
+    ]
+}

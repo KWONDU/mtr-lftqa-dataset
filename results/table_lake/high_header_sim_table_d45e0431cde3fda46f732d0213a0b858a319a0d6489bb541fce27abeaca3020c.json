@@ -1,0 +1,77 @@
+{
+    "id": "d45e0431cde3fda46f732d0213a0b858a319a0d6489bb541fce27abeaca3020c",
+    "metadata": "Archery at the Asian Games | Individual | Men",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Location_",
+        "Gold",
+        "Silver",
+        "Bronze"
+    ],
+    "cell": [
+        [
+            "1978",
+            "Bangkok",
+            "Ichiro Shimamura",
+            "Yoshiro Miyata",
+            "Izumi Sato"
+        ],
+        [
+            "1982",
+            "New Delhi",
+            "Hiroshi Yamamoto",
+            "Kim Young-Woon",
+            "Takayoshi Matsushita"
+        ],
+        [
+            "1986",
+            "Seoul",
+            "Takayoshi Matsushita",
+            "Yang Chung-Hoon",
+            "Koo Ja-Chong"
+        ],
+        [
+            "1990",
+            "Beijing",
+            "Yang Chung-Hoon",
+            "Takayoshi Matsushita",
+            "Kim Sun-Bin"
+        ],
+        [
+            "1994",
+            "Hiroshima",
+            "Park Kyung-Mo",
+            "Chung Jae-Hun",
+            "Wu Tsung-Yi"
+        ],
+        [
+            "1998",
+            "Bangkok",
+            "Han Seung-Hoon",
+            "Kim Kyung-Ho",
+            "Wataru Haraguchi"
+        ],
+        [
+            "2002",
+            "Busan",
+            "Hiroshi Yamamoto",
+            "Yuji Hamano",
+            "Im Dong-Hyun"
+        ],
+        [
+            "2006",
+            "Doha",
+            "Im Dong-Hyun",
+            "Tomokazu Wakino",
+            "Kuo Cheng-Wei"
+        ],
+        [
+            "2010",
+            "Guangzhou",
+            "Kim Woo-jin",
+            "Tarundeep Rai",
+            "Sung Chia-chun"
+        ]
+    ]
+}

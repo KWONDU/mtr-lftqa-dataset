@@ -1,0 +1,56 @@
+{
+    "id": "04f87230a2d39f3a6486b33f18fa101ef5bc8095d3aa319abc25b586fe1921e1",
+    "metadata": "2001-02 Manchester United F.C. season | Second group stage | Second group stage",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponents",
+        "Result_F_A",
+        "Attendance",
+        "Group_position"
+    ],
+    "cell": [
+        [
+            "20 November 2001",
+            "Bayern Munich",
+            "1-1",
+            "59000",
+            "2nd"
+        ],
+        [
+            "5 December 2001",
+            "Boavista",
+            "3-0",
+            "66274",
+            "1st"
+        ],
+        [
+            "20 February 2002",
+            "Nantes",
+            "1-1",
+            "38285",
+            "1st"
+        ],
+        [
+            "26 February 2002",
+            "Nantes",
+            "5-1",
+            "66492",
+            "1st"
+        ],
+        [
+            "13 March 2002",
+            "Bayern Munich",
+            "0-0",
+            "66818",
+            "1st"
+        ],
+        [
+            "19 March 2002",
+            "Boavista",
+            "3-0",
+            "13223",
+            "1st"
+        ]
+    ]
+}

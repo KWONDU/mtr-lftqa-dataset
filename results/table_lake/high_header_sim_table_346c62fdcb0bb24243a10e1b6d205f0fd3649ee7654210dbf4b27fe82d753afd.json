@@ -1,0 +1,56 @@
+{
+    "id": "346c62fdcb0bb24243a10e1b6d205f0fd3649ee7654210dbf4b27fe82d753afd",
+    "metadata": "Test matches (1991-2000) | Results | 1995",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "8,9,10,11 June 1995",
+            "Mike Atherton",
+            "Richie Richardson",
+            "Headingley",
+            "WI by 9 wkts"
+        ],
+        [
+            "22,23,24,25,26 June 1995",
+            "Mike Atherton",
+            "Richie Richardson",
+            "Lord`s",
+            "ENG by 72 runs"
+        ],
+        [
+            "6,7,8 July 1995",
+            "Mike Atherton",
+            "Richie Richardson",
+            "Edgbaston",
+            "WI by Inns&68 runs"
+        ],
+        [
+            "27,28,29,30 July 1995",
+            "Mike Atherton",
+            "Richie Richardson",
+            "Old Trafford",
+            "ENG by 6 wkts"
+        ],
+        [
+            "10,11,12,13,14 August 1995",
+            "Mike Atherton",
+            "Richie Richardson",
+            "Trent Bridge",
+            "DRAW"
+        ],
+        [
+            "24,25,26,27,28 August 1995",
+            "Mike Atherton",
+            "Richie Richardson",
+            "The Oval",
+            "DRAW"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "d49f4f66b26e01310a7288f1385f937d290e14f9c181a028bb7a6a99322ca166",
+    "metadata": "2006-07 U.S. Citt\u00e0 di Palermo season | UEFA Cup | UEFA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_and_time",
+        "Round",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "14 September 2006 - 21.00",
+            "1st round - 1st Leg",
+            "West Ham",
+            "Away",
+            "Won 1-0",
+            "32222"
+        ],
+        [
+            "28 September 2006 - 20.45",
+            "1st round - 2nd Leg",
+            "West Ham",
+            "Home",
+            "Won 3-0",
+            "19284"
+        ],
+        [
+            "19 October 2006 - 18.15",
+            "Group Stage",
+            "Eintracht Frankfurt",
+            "Away",
+            "Won 2-1",
+            "50000"
+        ],
+        [
+            "2 November 2006 - 20.45",
+            "Group Stage",
+            "Newcastle",
+            "Home",
+            "Lost 0-1",
+            "16091"
+        ],
+        [
+            "23 November 2006 - 19.00",
+            "Group Stage",
+            "Fenerbah\u00e7e",
+            "Away",
+            "Lost 0-3",
+            "39071"
+        ],
+        [
+            "13 December 2006 - 20.45",
+            "Group Stage",
+            "Celta Vigo",
+            "Home",
+            "Drew 1-1",
+            "10222"
+        ]
+    ]
+}

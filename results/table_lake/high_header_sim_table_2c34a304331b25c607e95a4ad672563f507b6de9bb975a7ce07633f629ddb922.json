@@ -1,0 +1,49 @@
+{
+    "id": "2c34a304331b25c607e95a4ad672563f507b6de9bb975a7ce07633f629ddb922",
+    "metadata": "International rankings of Taiwan | Quality of life | Quality of life",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Index_",
+        "Organization",
+        "Year_",
+        "Rank_",
+        "Out_of"
+    ],
+    "cell": [
+        [
+            "Happy Planet Index",
+            "New Economics Foundation",
+            "2006",
+            "84",
+            "178"
+        ],
+        [
+            "Human Development Index",
+            "United Nations Development Programme",
+            "2009",
+            "19\u2020",
+            "169"
+        ],
+        [
+            "Legatum Prosperity Index",
+            "Legatum Institute",
+            "2010",
+            "22",
+            "110"
+        ],
+        [
+            "Quality-of-Life Index",
+            "Economist Intelligence Unit",
+            "2005",
+            "21",
+            "111"
+        ],
+        [
+            "Satisfaction with Life Index",
+            "University of Leicester",
+            "2006",
+            "68",
+            "178"
+        ]
+    ]
+}

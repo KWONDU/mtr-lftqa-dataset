@@ -1,0 +1,70 @@
+{
+    "id": "aec5f23a4e1d97e197d5a75a12534e22f0193462478ab8b4af8eabf106ea922d",
+    "metadata": "Helmut Bradl | Motorcycle Grand Prix Results | Motorcycle Grand Prix Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Points",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1986",
+            "250cc",
+            "Honda",
+            "0",
+            "0"
+        ],
+        [
+            "1987",
+            "250cc",
+            "Honda",
+            "0",
+            "0"
+        ],
+        [
+            "1988",
+            "250cc",
+            "Honda",
+            "27",
+            "0"
+        ],
+        [
+            "1989",
+            "250cc",
+            "HB - Honda",
+            "88",
+            "0"
+        ],
+        [
+            "1990",
+            "250cc",
+            "HB - Honda",
+            "150",
+            "0"
+        ],
+        [
+            "1991",
+            "250cc",
+            "HB - Honda",
+            "220",
+            "5"
+        ],
+        [
+            "1992",
+            "250cc",
+            "HB - Honda",
+            "89",
+            "0"
+        ],
+        [
+            "1993",
+            "250cc",
+            "HB - Honda",
+            "126",
+            "0"
+        ]
+    ]
+}

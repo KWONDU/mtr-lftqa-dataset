@@ -1,0 +1,63 @@
+{
+    "id": "038ee0e3e764338f5fb3236786d325fa780239627e8b5e5e3da33c6faecbb5dd",
+    "metadata": "V-League 5th Season 1st Conference | Quarterfinals Standing | Quarterfinals Standing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Team",
+        "Loss",
+        "Sets_Won",
+        "Sets_Lost",
+        "Percentage"
+    ],
+    "cell": [
+        [
+            "1",
+            "Ateneo de Manila University",
+            "0",
+            "15",
+            "2",
+            "88%"
+        ],
+        [
+            "2",
+            "Lyceum of the Philippines University",
+            "1",
+            "12",
+            "5",
+            "71%"
+        ],
+        [
+            "3",
+            "University of Saint La Salle",
+            "3",
+            "9",
+            "10",
+            "47%"
+        ],
+        [
+            "4",
+            "University of San Jose - Recoletos",
+            "3",
+            "9",
+            "11",
+            "45%"
+        ],
+        [
+            "5",
+            "Far Eastern University",
+            "4",
+            "6",
+            "14",
+            "30%"
+        ],
+        [
+            "6",
+            "College of Saint Benilde",
+            "4",
+            "3",
+            "12",
+            "20%"
+        ]
+    ]
+}

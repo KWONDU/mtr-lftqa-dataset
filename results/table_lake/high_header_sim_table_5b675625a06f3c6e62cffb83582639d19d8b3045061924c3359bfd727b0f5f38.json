@@ -1,0 +1,95 @@
+{
+    "id": "5b675625a06f3c6e62cffb83582639d19d8b3045061924c3359bfd727b0f5f38",
+    "metadata": "1904 Summer Olympics | Medal count | Medal count",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "United States (host nation)",
+            "78",
+            "82",
+            "79",
+            "239"
+        ],
+        [
+            "2",
+            "Germany",
+            "4",
+            "4",
+            "5",
+            "13"
+        ],
+        [
+            "3",
+            "Cuba",
+            "4",
+            "2",
+            "3",
+            "9"
+        ],
+        [
+            "4",
+            "Canada",
+            "4",
+            "1",
+            "1",
+            "6"
+        ],
+        [
+            "5",
+            "Hungary",
+            "2",
+            "1",
+            "1",
+            "4"
+        ],
+        [
+            "6",
+            "Great Britain",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "6",
+            "Mixed team",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "8",
+            "Greece",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "8",
+            "Switzerland",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "10",
+            "Austria",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

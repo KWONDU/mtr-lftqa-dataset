@@ -1,0 +1,98 @@
+{
+    "id": "acfb4f971b9bf33d700db47c9405a6fa8e08f12a767c43dec216242299b6e161",
+    "metadata": "House (astrology) | The twelve houses | The twelve houses",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "House",
+        "Sign",
+        "Latin_motto",
+        "Translation_",
+        "Modern_title_of_house"
+    ],
+    "cell": [
+        [
+            "1st",
+            "Aries",
+            "Vita",
+            "Life",
+            "House of Self"
+        ],
+        [
+            "2nd",
+            "Taurus",
+            "Lucrum",
+            "Wealth",
+            "House of Value"
+        ],
+        [
+            "3rd",
+            "Gemini",
+            "Fratres",
+            "Brothers",
+            "House of Communications"
+        ],
+        [
+            "4th",
+            "Cancer",
+            "Genitor",
+            "Parent",
+            "House of Home and Family"
+        ],
+        [
+            "5th",
+            "Leo",
+            "Nati",
+            "Children",
+            "House of Pleasure"
+        ],
+        [
+            "6th",
+            "Virgo",
+            "Valetudo",
+            "Health",
+            "House of Health"
+        ],
+        [
+            "7th",
+            "Libra",
+            "Uxor",
+            "Spouse",
+            "House of Partnerships"
+        ],
+        [
+            "8th",
+            "Scorpio",
+            "Mors",
+            "Death",
+            "House of Reincarnation"
+        ],
+        [
+            "9th",
+            "Sagittarius",
+            "Iter",
+            "Journeys",
+            "House of Philosophy"
+        ],
+        [
+            "10th",
+            "Capricorn",
+            "Regnum",
+            "Kingdom",
+            "House of Social Status"
+        ],
+        [
+            "11th",
+            "Aquarius",
+            "Benefacta",
+            "Friendship",
+            "House of Friendships"
+        ],
+        [
+            "12th",
+            "Pisces",
+            "Carcer",
+            "Prison",
+            "House of Self-Undoing"
+        ]
+    ]
+}

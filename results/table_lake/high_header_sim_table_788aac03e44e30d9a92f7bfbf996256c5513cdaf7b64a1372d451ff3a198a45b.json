@@ -1,0 +1,56 @@
+{
+    "id": "788aac03e44e30d9a92f7bfbf996256c5513cdaf7b64a1372d451ff3a198a45b",
+    "metadata": "Victoria County, New Brunswick | Parishes | Parishes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Official_Name",
+        "Status_",
+        "Area_km_2",
+        "Population",
+        "Census_Ranking"
+    ],
+    "cell": [
+        [
+            "Drummond",
+            "Parish",
+            "1014.90",
+            "2250",
+            "1,231 of 5,008"
+        ],
+        [
+            "Denmark",
+            "Parish",
+            "750.51",
+            "1592",
+            "1,561 of 5,008"
+        ],
+        [
+            "Gordon",
+            "Parish",
+            "1430.98",
+            "1567",
+            "1,574 of 5,008"
+        ],
+        [
+            "Grand Falls",
+            "Parish",
+            "158.43",
+            "1172",
+            "1,871 of 5,008"
+        ],
+        [
+            "Perth",
+            "Parish",
+            "318.06",
+            "1096",
+            "1,956 of 5,008"
+        ],
+        [
+            "Andover",
+            "Parish",
+            "123.57",
+            "942",
+            "2,160 of 5,008"
+        ]
+    ]
+}

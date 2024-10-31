@@ -1,0 +1,111 @@
+{
+    "id": "4c1b5fa1e577c28d281f42b141aa4e7be321447d14a0b1735f5c4b19192d8102",
+    "metadata": "1959 San Francisco 49ers season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Record",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "September 27",
+            "Philadelphia Eagles",
+            "24-14",
+            "San Francisco 49ers",
+            "1-0-0",
+            "41697"
+        ],
+        [
+            "October 4",
+            "Los Angeles Rams",
+            "34-0",
+            "San Francisco 49ers",
+            "2-0-0",
+            "56028"
+        ],
+        [
+            "October 11",
+            "San Francisco 49ers",
+            "21-20",
+            "Green Bay Packers",
+            "2-1-0",
+            "32150"
+        ],
+        [
+            "October 18",
+            "San Francisco 49ers",
+            "34-13",
+            "Detroit Lions",
+            "3-1-0",
+            "52585"
+        ],
+        [
+            "October 25",
+            "Chicago Bears",
+            "20-17",
+            "San Francisco 49ers",
+            "4-1-0",
+            "59045"
+        ],
+        [
+            "November 1",
+            "Detroit Lions",
+            "33-7",
+            "San Francisco 49ers",
+            "5-1-0",
+            "59064"
+        ],
+        [
+            "November 8",
+            "San Francisco 49ers",
+            "24-16",
+            "Los Angeles Rams",
+            "6-1-0",
+            "94276"
+        ],
+        [
+            "November 15",
+            "San Francisco 49ers",
+            "14-3",
+            "Chicago Bears",
+            "6-2-0",
+            "42157"
+        ],
+        [
+            "November 22",
+            "San Francisco 49ers",
+            "45-14",
+            "Baltimore Colts",
+            "6-3-0",
+            "56007"
+        ],
+        [
+            "November 29",
+            "San Francisco 49ers",
+            "21-20",
+            "Cleveland Browns",
+            "7-3-0",
+            "53763"
+        ],
+        [
+            "December 5",
+            "Baltimore Colts",
+            "34-14",
+            "San Francisco 49ers",
+            "7-4-0",
+            "59075"
+        ],
+        [
+            "December 13",
+            "Green Bay Packers",
+            "36-14",
+            "San Francisco 49ers",
+            "7-5-0",
+            "55997"
+        ]
+    ]
+}

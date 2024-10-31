@@ -1,0 +1,70 @@
+{
+    "id": "e4f334479263ffeac19e278ce9d26f4bfde9a51b424ee854fd79c3dd5797f757",
+    "metadata": "1935 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "11.12 (78)",
+            "South Melbourne",
+            "18.14 (122)",
+            "MCG",
+            "19086",
+            "6 July 1935"
+        ],
+        [
+            "Footscray",
+            "15.13 (103)",
+            "Geelong",
+            "16.7 (103)",
+            "Western Oval",
+            "11000",
+            "6 July 1935"
+        ],
+        [
+            "Collingwood",
+            "17.20 (122)",
+            "Hawthorn",
+            "12.3 (75)",
+            "Victoria Park",
+            "8000",
+            "6 July 1935"
+        ],
+        [
+            "Carlton",
+            "19.21 (135)",
+            "Fitzroy",
+            "8.6 (54)",
+            "Princes Park",
+            "24000",
+            "6 July 1935"
+        ],
+        [
+            "St Kilda",
+            "10.14 (74)",
+            "Richmond",
+            "7.8 (50)",
+            "Junction Oval",
+            "20000",
+            "6 July 1935"
+        ],
+        [
+            "North Melbourne",
+            "10.13 (73)",
+            "Essendon",
+            "10.14 (74)",
+            "Arden Street Oval",
+            "8000",
+            "6 July 1935"
+        ]
+    ]
+}

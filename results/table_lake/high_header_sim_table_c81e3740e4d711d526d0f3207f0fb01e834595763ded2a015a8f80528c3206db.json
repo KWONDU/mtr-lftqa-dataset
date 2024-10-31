@@ -1,0 +1,70 @@
+{
+    "id": "c81e3740e4d711d526d0f3207f0fb01e834595763ded2a015a8f80528c3206db",
+    "metadata": "1971 VFL season | Round 21 | Round 21",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "18.14 (122)",
+            "South Melbourne",
+            "6.14 (50)",
+            "Moorabbin Oval",
+            "16205",
+            "21 August 1971"
+        ],
+        [
+            "Melbourne",
+            "15.12 (102)",
+            "Richmond",
+            "19.9 (123)",
+            "MCG",
+            "37732",
+            "21 August 1971"
+        ],
+        [
+            "Collingwood",
+            "15.15 (105)",
+            "Hawthorn",
+            "20.20 (140)",
+            "Victoria Park",
+            "41312",
+            "21 August 1971"
+        ],
+        [
+            "Geelong",
+            "18.18 (126)",
+            "Footscray",
+            "15.5 (95)",
+            "Kardinia Park",
+            "17864",
+            "21 August 1971"
+        ],
+        [
+            "North Melbourne",
+            "15.13 (103)",
+            "Essendon",
+            "10.12 (72)",
+            "Arden Street Oval",
+            "8733",
+            "21 August 1971"
+        ],
+        [
+            "Fitzroy",
+            "15.15 (105)",
+            "Carlton",
+            "11.16 (82)",
+            "Junction Oval",
+            "22413",
+            "21 August 1971"
+        ]
+    ]
+}

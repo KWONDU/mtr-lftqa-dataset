@@ -1,0 +1,63 @@
+{
+    "id": "f5823f1991ca47c2fbbedf19ac62d53d3e9a22c5737212f916133d1dc81c3cfd",
+    "metadata": "2001 Kansas State Wildcats football team | Rushing | Rushing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Gain",
+        "Loss",
+        "Long_",
+        "Avg_G"
+    ],
+    "cell": [
+        [
+            "Josh Scobey",
+            "1298",
+            "35",
+            "45",
+            "114.8"
+        ],
+        [
+            "Ell Roberson",
+            "806",
+            "163",
+            "43",
+            "64.3"
+        ],
+        [
+            "Rock Cartwright",
+            "303",
+            "11",
+            "27",
+            "26.5"
+        ],
+        [
+            "Joe Hall",
+            "253",
+            "2",
+            "61",
+            "25.1"
+        ],
+        [
+            "Darren Sproles",
+            "217",
+            "7",
+            "38",
+            "35.0"
+        ],
+        [
+            "Total",
+            "3234",
+            "399",
+            "61",
+            "257.7"
+        ],
+        [
+            "Opponents",
+            "1401",
+            "340",
+            "63",
+            "96.5"
+        ]
+    ]
+}

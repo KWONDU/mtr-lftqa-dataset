@@ -1,0 +1,61 @@
+{
+    "id": "7951db83ca5ba0f56ef9c48ac827df380a562e1c07e79b87a41119095338c5fb",
+    "metadata": "Wendy Turnbull | Mixed doubles: 6 (5 titles, 1 runner-up) | Mixed doubles: 6 (5 titles, 1 runner-up)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Outcome",
+        "Year_",
+        "Championship",
+        "Surface",
+        "Partner",
+        "Opponents",
+        "Score"
+    ],
+    "cell": [
+        [
+            "Winner",
+            "1979",
+            "French Open",
+            "Clay",
+            "Bob Hewitt",
+            "Virginia Ruzici Ion \u0162iriac",
+            "6-3, 2-6, 6-3"
+        ],
+        [
+            "Winner",
+            "1980",
+            "US Open",
+            "Hard",
+            "Marty Riessen",
+            "Betty St\u00f6ve Frew McMillan",
+            "7-5, 6-2"
+        ],
+        [
+            "Winner",
+            "1982",
+            "French Open",
+            "Clay",
+            "John Lloyd",
+            "Claudia Monteiro Cassio Motta",
+            "6-2, 7-6"
+        ],
+        [
+            "Runner-up",
+            "1982",
+            "Wimbledon",
+            "Grass",
+            "John Lloyd",
+            "Anne Smith Kevin Curren",
+            "2-6, 6-3, 7-5"
+        ],
+        [
+            "Winner",
+            "1983",
+            "Wimbledon",
+            "Grass",
+            "John Lloyd",
+            "Billie Jean King Steve Denton",
+            "6-7(5), 7-6(5), 7-5"
+        ]
+    ]
+}

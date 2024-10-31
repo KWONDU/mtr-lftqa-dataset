@@ -1,0 +1,63 @@
+{
+    "id": "496f43b89a4d9568adeb8024ee16b77d1d574478cf1c12a30a111d6514c0987a",
+    "metadata": "United States House of Representatives elections, 1930 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "Thomas S. McMillan",
+            "Democratic",
+            "1924",
+            "Re-elected",
+            "Thomas S. McMillan (D) Unopposed"
+        ],
+        [
+            "South Carolina 2",
+            "Butler B. Hare",
+            "Democratic",
+            "1924",
+            "Re-elected",
+            "Butler B. Hare (D) Unopposed"
+        ],
+        [
+            "South Carolina 3",
+            "Frederick H. Dominick",
+            "Democratic",
+            "1916",
+            "Re-elected",
+            "Frederick H. Dominick (D) Unopposed"
+        ],
+        [
+            "South Carolina 4",
+            "John J. McSwain",
+            "Democratic",
+            "1920",
+            "Re-elected",
+            "John J. McSwain (D) Unopposed"
+        ],
+        [
+            "South Carolina 5",
+            "William Francis Stevenson",
+            "Democratic",
+            "1917",
+            "Re-elected",
+            "William Francis Stevenson (D) Unopposed"
+        ],
+        [
+            "South Carolina 6",
+            "Allard H. Gasque",
+            "Democratic",
+            "1922",
+            "Re-elected",
+            "Allard H. Gasque (D) Unopposed"
+        ]
+    ]
+}

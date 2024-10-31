@@ -1,0 +1,63 @@
+{
+    "id": "2da3ab896916d1c5ceb7c6cd6cfd015638e614ee4782fcc9830c40817381c47f",
+    "metadata": "2GGO | Monday To Thursday Programing as of September 2008 | Monday To Thursday Programing as of September 2008",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Time_",
+        "Show_Name",
+        "DJ_s",
+        "Local_Networked",
+        "Ad_Freq",
+        "News_Freq"
+    ],
+    "cell": [
+        [
+            "5am-9:00am",
+            "Sarah and Dwayne For Breakfast",
+            "Sarah and Dwayne",
+            "Local",
+            "15 Minutes",
+            "30 Minutes"
+        ],
+        [
+            "9:00am-2:00pm",
+            "Widest Variety",
+            "Cameron Humphries",
+            "Local",
+            "No Traffic",
+            "30 Minutes"
+        ],
+        [
+            "2:00pm-7:00pm",
+            "Greg Clarkey Clarke",
+            "Clarkey",
+            "Local",
+            "20 Minutes",
+            "60 Minutes"
+        ],
+        [
+            "7:00pm-11:00pm",
+            "The Love Lounge",
+            "Marea Lambert-Barker",
+            "Networked",
+            "20 Minutes until 7pm",
+            "20 Minutes"
+        ],
+        [
+            "11:00pm-4:00am",
+            "Talking Back The Night",
+            "Jamie McDonald",
+            "Networked",
+            "20 Minutes",
+            "1 Hour"
+        ],
+        [
+            "4:00pm-5:00am",
+            "Best Mix Overnight",
+            "Jamie McDonald",
+            "Networked",
+            "20 Minutes",
+            "1 Hour"
+        ]
+    ]
+}

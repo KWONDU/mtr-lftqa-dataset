@@ -1,0 +1,79 @@
+{
+    "id": "b2bae1fc7e984cbc58cd24ea588502f776e244abb820fd849d815131f19ffe35",
+    "metadata": "H.262/MPEG-2 Part 2 | Video profiles and levels | MPEG-2 Profiles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Abbr_",
+        "Name_",
+        "Picture_Coding_Types",
+        "Chroma_Format",
+        "Aspect_Ratios",
+        "Scalable_modes",
+        "Intra_DC_Precision"
+    ],
+    "cell": [
+        [
+            "SP",
+            "Simple profile",
+            "I, P",
+            "4:2:0",
+            "square pixels, 4:3, or 16:9",
+            "none",
+            "8, 9, 10"
+        ],
+        [
+            "MP",
+            "Main profile",
+            "I, P, B",
+            "4:2:0",
+            "square pixels, 4:3, or 16:9",
+            "none",
+            "8, 9, 10"
+        ],
+        [
+            "SNR",
+            "SNR Scalable profile",
+            "I, P, B",
+            "4:2:0",
+            "square pixels, 4:3, or 16:9",
+            "SNR (signal-to-noise ratio) scalable",
+            "8, 9, 10"
+        ],
+        [
+            "Spatial",
+            "Spatially Scalable profile",
+            "I, P, B",
+            "4:2:0",
+            "square pixels, 4:3, or 16:9",
+            "SNR- or spatial-scalable",
+            "8, 9, 10"
+        ],
+        [
+            "HP",
+            "High profile",
+            "I, P, B",
+            "4:2:2 or 4:2:0",
+            "square pixels, 4:3, or 16:9",
+            "SNR- or spatial-scalable",
+            "8, 9, 10, 11"
+        ],
+        [
+            "422",
+            "4:2:2 profile",
+            "I, P, B",
+            "4:2:2 or 4:2:0",
+            "square pixels, 4:3, or 16:9",
+            "none",
+            "8, 9, 10, 11"
+        ],
+        [
+            "MVP",
+            "Multi-view profile",
+            "I, P, B",
+            "4:2:0",
+            "square pixels, 4:3, or 16:9",
+            "Temporal",
+            "8, 9, 10"
+        ]
+    ]
+}

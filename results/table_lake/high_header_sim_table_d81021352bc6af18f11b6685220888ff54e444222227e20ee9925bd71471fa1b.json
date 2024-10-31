@@ -1,0 +1,63 @@
+{
+    "id": "d81021352bc6af18f11b6685220888ff54e444222227e20ee9925bd71471fa1b",
+    "metadata": "Airan | Administration | List of Successive Mayors of Airan",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "From_",
+        "To_",
+        "Name_",
+        "Party",
+        "Position_"
+    ],
+    "cell": [
+        [
+            "1850",
+            "1862",
+            "M. Borgarelli d`Ison",
+            "",
+            "Colonel of Infantry E.R."
+        ],
+        [
+            "1862",
+            "1869",
+            "Jules Alfred Le Tourneur du Coudray",
+            "",
+            "First Secretary for the Minister of Finance"
+        ],
+        [
+            "1869",
+            "1903",
+            "Stanislas Le Tourneur d`Ison",
+            "",
+            "Attached to the Taxation Administration of France"
+        ],
+        [
+            "?",
+            "?",
+            "Yves le Tourneur d`Ison",
+            "",
+            "Doctor of Juridical Science"
+        ],
+        [
+            "1966",
+            "1989",
+            "Maurice Lecoq",
+            "",
+            "Market gardener"
+        ],
+        [
+            "1989",
+            "2008",
+            "Michel Deuzet",
+            "SE",
+            "Farmer"
+        ],
+        [
+            "2008",
+            "2014",
+            "Patrice Martin",
+            "SE",
+            "Bank Officer"
+        ]
+    ]
+}

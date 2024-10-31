@@ -1,0 +1,49 @@
+{
+    "id": "ccfda896f2ab31a5e94a036fff08a3d0046da3e7199a5fc0f07b1d47e0d3cc90",
+    "metadata": "Alan Brown (racing driver) | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1952",
+            "Ecurie Richmond",
+            "Cooper T20",
+            "Bristol Straight-6",
+            "2"
+        ],
+        [
+            "1953",
+            "Cooper Car Company",
+            "Cooper T20",
+            "Bristol Straight-6",
+            "0"
+        ],
+        [
+            "1953",
+            "RJ Chase",
+            "Cooper T23",
+            "Bristol Straight-6",
+            "0"
+        ],
+        [
+            "1953",
+            "Equipe Anglaise",
+            "Cooper T23",
+            "Bristol Straight-6",
+            "0"
+        ],
+        [
+            "1954",
+            "Equipe Anglaise",
+            "Cooper T23",
+            "Bristol Straight-6",
+            "0"
+        ]
+    ]
+}

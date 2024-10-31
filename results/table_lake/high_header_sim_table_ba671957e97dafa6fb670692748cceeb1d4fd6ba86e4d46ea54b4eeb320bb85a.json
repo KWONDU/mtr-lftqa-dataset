@@ -1,0 +1,63 @@
+{
+    "id": "ba671957e97dafa6fb670692748cceeb1d4fd6ba86e4d46ea54b4eeb320bb85a",
+    "metadata": "2003-04 European Challenge Cup | Round 2 | Aggregate Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Proceed_to_Quarter_final",
+        "Match_points",
+        "Aggregate_score",
+        "Points_margin",
+        "Eliminated_from_competition"
+    ],
+    "cell": [
+        [
+            "NEC Harlequins",
+            "4 - 0",
+            "89 - 25",
+            "64",
+            "Montauban"
+        ],
+        [
+            "B\u00e9ziers",
+            "4 - 0",
+            "43 - 23",
+            "20",
+            "Grenoble"
+        ],
+        [
+            "Bath",
+            "4 - 0",
+            "58 - 42",
+            "16",
+            "Colomiers"
+        ],
+        [
+            "Connacht",
+            "2 - 2",
+            "35 - 17",
+            "18",
+            "Pau"
+        ],
+        [
+            "Narbonne",
+            "2 - 2",
+            "42 - 30",
+            "12",
+            "London Irish"
+        ],
+        [
+            "Brive",
+            "2 - 2",
+            "58 - 48",
+            "10",
+            "Castres Olympique"
+        ],
+        [
+            "Montferrand",
+            "2 - 2",
+            "28 - 23",
+            "5",
+            "Newcastle Falcons"
+        ]
+    ]
+}

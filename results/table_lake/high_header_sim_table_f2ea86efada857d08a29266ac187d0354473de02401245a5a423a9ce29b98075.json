@@ -1,0 +1,143 @@
+{
+    "id": "f2ea86efada857d08a29266ac187d0354473de02401245a5a423a9ce29b98075",
+    "metadata": "Aviation in Romania | Airports in Romania | Airports in Romania",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Airport",
+        "City",
+        "Code_IATA_ICAO",
+        "_2009",
+        "_2010"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Henri Coand\u0103 International Airport",
+            "Bucharest",
+            "OTP/LROP",
+            "4480765",
+            "4802510"
+        ],
+        [
+            "2.",
+            "Traian Vuia International Airport",
+            "Timi\u0219oara",
+            "TSR/LRTR",
+            "991737",
+            "1136064"
+        ],
+        [
+            "3.",
+            "Cluj-Napoca International Airport",
+            "Cluj-Napoca",
+            "CLJ/LRCL",
+            "834400",
+            "1028907"
+        ],
+        [
+            "4.",
+            "Aurel Vlaicu International Airport",
+            "Bucharest",
+            "BBU/LROB",
+            "1974337",
+            "1881509"
+        ],
+        [
+            "5.",
+            "George Enescu International Airport",
+            "Bac\u0103u",
+            "BCM/LRBC",
+            "195772",
+            "240735"
+        ],
+        [
+            "6.",
+            "T\u00e2rgu Mure\u0219 Transilvania Airport",
+            "T\u00e2rgu Mure\u0219",
+            "TGM/LRTM",
+            "84062",
+            "74353"
+        ],
+        [
+            "7.",
+            "Sibiu International Airport",
+            "Sibiu",
+            "SBZ/LRSB",
+            "148527",
+            "198753"
+        ],
+        [
+            "8.",
+            "Ia\u0219i International Airport",
+            "Ia\u0219i",
+            "IAS/LRIA",
+            "148538",
+            "159615"
+        ],
+        [
+            "9.",
+            "Mihail Kog\u0103lniceanu International Airport",
+            "Constan\u021ba",
+            "CND/LRCK",
+            "68690",
+            "74587"
+        ],
+        [
+            "10.",
+            "Oradea Airport",
+            "Oradea",
+            "OMR/LROD",
+            "41692",
+            "36477"
+        ],
+        [
+            "11.",
+            "Craiova International Airport",
+            "Craiova",
+            "CRA/LRCV",
+            "15130",
+            "23629"
+        ],
+        [
+            "12.",
+            "Suceava \u0218tefan cel Mare Airport",
+            "Suceava",
+            "SCV/LRSV",
+            "32561",
+            "34437"
+        ],
+        [
+            "13.",
+            "Satu Mare International Airport",
+            "Satu Mare",
+            "SUJ/LRSM",
+            "11101",
+            "18859"
+        ],
+        [
+            "14.",
+            "Baia Mare Airport",
+            "Baia Mare",
+            "BAY/LRBM",
+            "23818",
+            "19020"
+        ],
+        [
+            "15.",
+            "Arad International Airport",
+            "Arad",
+            "ARW/LRAR",
+            "44743",
+            "8359"
+        ],
+        [
+            "16.",
+            "Tulcea Danube Delta Airport",
+            "Tulcea",
+            "TCE/LRTC",
+            "854",
+            "427"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "6280a085be6d168eece56c8fcee4b61a96d303b0d432f10337be8488dcbecbea",
+    "metadata": "1957 Team Speedway Polish Championship | North Group | North Group",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Match_",
+        "Points",
+        "Draw",
+        "Lost"
+    ],
+    "cell": [
+        [
+            "Start Gniezno",
+            "8",
+            "12",
+            "0",
+            "2"
+        ],
+        [
+            "Polonia Pi\u0142a",
+            "8",
+            "10",
+            "0",
+            "3"
+        ],
+        [
+            "Sparta \u015arem",
+            "8",
+            "8",
+            "0",
+            "4"
+        ],
+        [
+            "LP\u017b Gda\u0144sk",
+            "8",
+            "8",
+            "0",
+            "4"
+        ],
+        [
+            "LP\u017b Zielona G\u00f3ra",
+            "8",
+            "2",
+            "0",
+            "7"
+        ],
+        [
+            "Olimpia Pozna\u0144",
+            "DNQ",
+            "DNQ",
+            "DNQ",
+            "DNQ"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "2cd0a941a5cea22f610edde8d11216baf6f8424ddbca467c7a846a24878fbc55",
+    "metadata": "Tommy Haas | Juniors | Juniors",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "_1993",
+        "_1994",
+        "_1995",
+        "_1996"
+    ],
+    "cell": [
+        [
+            "Junior Grand Slam Tournaments",
+            "Junior Grand Slam Tournaments",
+            "Junior Grand Slam Tournaments",
+            "Junior Grand Slam Tournaments",
+            "Junior Grand Slam Tournaments"
+        ],
+        [
+            "Australian Open",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        [
+            "French Open",
+            "1R",
+            "A",
+            "2R",
+            "QF"
+        ],
+        [
+            "Wimbledon",
+            "A",
+            "A",
+            "2R",
+            "A"
+        ],
+        [
+            "US Open",
+            "A",
+            "A",
+            "A",
+            "A"
+        ]
+    ]
+}

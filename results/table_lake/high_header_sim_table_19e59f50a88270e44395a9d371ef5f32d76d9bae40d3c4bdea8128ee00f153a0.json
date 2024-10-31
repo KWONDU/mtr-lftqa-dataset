@@ -1,0 +1,49 @@
+{
+    "id": "19e59f50a88270e44395a9d371ef5f32d76d9bae40d3c4bdea8128ee00f153a0",
+    "metadata": "List of England national rugby union team results 1947-49 | 1948 | 1948",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Teams",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Australia",
+            "11",
+            "03/01/1948",
+            "Twickenham , London",
+            "Test Match"
+        ],
+        [
+            "Wales",
+            "3",
+            "17/01/1948",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Ireland",
+            "11",
+            "14/02/1948",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Scotland",
+            "6",
+            "20/03/1948",
+            "Murrayfield , Edinburgh",
+            "Five Nations"
+        ],
+        [
+            "France",
+            "15",
+            "29/03/1948",
+            "Stade Colombes , Paris",
+            "Five Nations"
+        ]
+    ]
+}

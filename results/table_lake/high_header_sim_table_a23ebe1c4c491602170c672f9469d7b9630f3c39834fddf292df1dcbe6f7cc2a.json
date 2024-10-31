@@ -1,0 +1,56 @@
+{
+    "id": "a23ebe1c4c491602170c672f9469d7b9630f3c39834fddf292df1dcbe6f7cc2a",
+    "metadata": "Bangor City F.C. | Biggest attendances | Biggest attendances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Competition",
+        "Attendance",
+        "Opponent",
+        "Season",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Welsh Premier League",
+            "2593",
+            "Prestatyn Town",
+            "2011-12",
+            "5-3"
+        ],
+        [
+            "Welsh Cup",
+            "12000",
+            "Cardiff City",
+            "1927-28",
+            "0-2"
+        ],
+        [
+            "UEFA Champions League",
+            "1189",
+            "HJK Helsinki",
+            "2011-12",
+            "0-3"
+        ],
+        [
+            "UEFA Europa League",
+            "1022",
+            "FC Zimbru",
+            "2012-13",
+            "0-0"
+        ],
+        [
+            "UEFA Cup 1",
+            "3426",
+            "\u00cdA Akranes",
+            "1994-95",
+            "1-2"
+        ],
+        [
+            "UEFA Cup Winners` Cup 2",
+            "12000",
+            "Napoli",
+            "1962-63",
+            "2-0"
+        ]
+    ]
+}

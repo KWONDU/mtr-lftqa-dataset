@@ -1,0 +1,91 @@
+{
+    "id": "8b80dab9a1615f8ce5679bc643f52ef6daeae35e6ff98c1c72837b7ef38472fe",
+    "metadata": "1990-91 FA Cup | Fifth Round Proper | Fifth Round Proper",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Liverpool",
+            "0-0",
+            "Everton",
+            "17/02/1991"
+        ],
+        [
+            "Replay",
+            "Everton",
+            "4-4",
+            "Liverpool",
+            "20/02/1991"
+        ],
+        [
+            "Replay",
+            "Everton",
+            "1-0",
+            "Liverpool",
+            "27/02/1991"
+        ],
+        [
+            "2",
+            "Southampton",
+            "1-1",
+            "Nottingham Forest",
+            "25/02/1991"
+        ],
+        [
+            "Replay",
+            "Nottingham Forest",
+            "3-1",
+            "Southampton",
+            "04/03/1991"
+        ],
+        [
+            "3",
+            "Notts County",
+            "1-0",
+            "Manchester City",
+            "16/02/1991"
+        ],
+        [
+            "4",
+            "Shrewsbury Town",
+            "0-1",
+            "Arsenal",
+            "27/02/1991"
+        ],
+        [
+            "5",
+            "Portsmouth",
+            "1-2",
+            "Tottenham Hotspur",
+            "16/02/1991"
+        ],
+        [
+            "6",
+            "West Ham United",
+            "1-0",
+            "Crewe Alexandra",
+            "16/02/1991"
+        ],
+        [
+            "7",
+            "Norwich City",
+            "2-1",
+            "Manchester United",
+            "18/02/1991"
+        ],
+        [
+            "8",
+            "Cambridge United",
+            "4-0",
+            "Sheffield Wednesday",
+            "16/02/1991"
+        ]
+    ]
+}

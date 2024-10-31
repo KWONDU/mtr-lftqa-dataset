@@ -1,0 +1,70 @@
+{
+    "id": "f92945bd1c89db07ba59e17e2dad36087d8e1390341059a16351cc6c9cd63265",
+    "metadata": "1971 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "12.12 (84)",
+            "Richmond",
+            "22.14 (146)",
+            "Arden Street Oval",
+            "13047",
+            "8 May 1971"
+        ],
+        [
+            "Footscray",
+            "18.5 (113)",
+            "Hawthorn",
+            "16.11 (107)",
+            "Western Oval",
+            "19205",
+            "8 May 1971"
+        ],
+        [
+            "St Kilda",
+            "14.25 (109)",
+            "Essendon",
+            "9.11 (65)",
+            "Moorabbin Oval",
+            "21604",
+            "8 May 1971"
+        ],
+        [
+            "Melbourne",
+            "10.12 (72)",
+            "Collingwood",
+            "18.19 (127)",
+            "MCG",
+            "80231",
+            "8 May 1971"
+        ],
+        [
+            "South Melbourne",
+            "13.14 (92)",
+            "Carlton",
+            "14.10 (94)",
+            "Lake Oval",
+            "17171",
+            "8 May 1971"
+        ],
+        [
+            "Fitzroy",
+            "20.16 (136)",
+            "Geelong",
+            "13.13 (91)",
+            "VFL Park",
+            "11432",
+            "8 May 1971"
+        ]
+    ]
+}

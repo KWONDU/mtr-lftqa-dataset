@@ -1,0 +1,154 @@
+{
+    "id": "7b33aef7341f7b82e2439cc60cb423fb850c4db6f172041cbfa14f9bf8068a82",
+    "metadata": "Cam\u00ed de Cavalls | Stages | Stages",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Stage",
+        "Start_",
+        "Arrival",
+        "Duration",
+        "Difficulty"
+    ],
+    "cell": [
+        [
+            "1",
+            "Ma\u00f3",
+            "Es Grau",
+            "3 h 30 min",
+            "Middle"
+        ],
+        [
+            "2",
+            "Es Grau",
+            "Fav\u00e0ritx",
+            "3 h 30 min",
+            "Middle"
+        ],
+        [
+            "3",
+            "Fav\u00e0ritx",
+            "Arenal d`en Castell",
+            "5 h",
+            "Middle"
+        ],
+        [
+            "4",
+            "Arenal d`en Castell",
+            "Cala Tirant",
+            "4 h",
+            "Easy"
+        ],
+        [
+            "5",
+            "Cala Tirant",
+            "Binimel\u00b7l\u00e0",
+            "4 h",
+            "Middle"
+        ],
+        [
+            "6",
+            "Binimel\u00b7l\u00e0",
+            "Els Alocs",
+            "5 h",
+            "Difficult"
+        ],
+        [
+            "7",
+            "Els Alocs",
+            "Algaiarens",
+            "4 h 30 min",
+            "Middle"
+        ],
+        [
+            "8",
+            "Algaiarens",
+            "Cala Morell",
+            "2 h 10 min",
+            "Middle"
+        ],
+        [
+            "9",
+            "Cala Morell",
+            "Punta Nati",
+            "3 h",
+            "Easy"
+        ],
+        [
+            "10",
+            "Punta Nati",
+            "Ciutadella",
+            "4 h",
+            "Easy"
+        ],
+        [
+            "11",
+            "Ciutadella",
+            "Punta d\u2019Artrutx",
+            "5 h",
+            "Difficult"
+        ],
+        [
+            "12",
+            "Punta d`Artrutx",
+            "Cala en Turqueta",
+            "5 h",
+            "Middle"
+        ],
+        [
+            "13",
+            "Cala en Turqueta",
+            "Cala Galdana",
+            "2 h 30 min",
+            "Easy"
+        ],
+        [
+            "14",
+            "Cala Galdana",
+            "Sant Tom\u00e0s",
+            "4 h 30 min",
+            "Middle"
+        ],
+        [
+            "15",
+            "Sant Tom\u00e0s",
+            "Son Bou",
+            "2 h 30 min",
+            "Easy"
+        ],
+        [
+            "16",
+            "Son Bou",
+            "Cala en Porter",
+            "3 h 30 min",
+            "Middle"
+        ],
+        [
+            "17",
+            "Cala en Porter",
+            "Binisaf\u00faller",
+            "4 h 30 min",
+            "Easy"
+        ],
+        [
+            "18",
+            "Binisaf\u00faller",
+            "Punta Prima",
+            "3 h 30 min",
+            "Easy"
+        ],
+        [
+            "19",
+            "Punta Prima",
+            "Cala de Sant Esteve",
+            "2 h 40 min",
+            "Easy"
+        ],
+        [
+            "20",
+            "Cala de Sant Esteve",
+            "Ma\u00f3",
+            "2 h 20 min",
+            "Easy"
+        ]
+    ]
+}

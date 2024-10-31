@@ -1,0 +1,49 @@
+{
+    "id": "abf1b648569def715d16a60a9283ec7b10b51b29b23776983fc049c0fb6fa981",
+    "metadata": "Southern Thai language | Tones | Tones",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tone",
+        "Standard_Thai",
+        "Phonemic",
+        "Phonetic",
+        "Example_meaning_in_English"
+    ],
+    "cell": [
+        [
+            "high",
+            "\u0e1c\u0e48\u0e32",
+            "/p\u02b0\u00e1\u02d0/",
+            "[p\u02b0a\u02d0\u02e5\u02e5]",
+            "to split"
+        ],
+        [
+            "mid rising-falling",
+            "\u0e1b\u0e25\u0e32",
+            "/pl\u00e2\u02d0/",
+            "[pla\u02d0\u02e7\u02e6\u02e7]",
+            "fish"
+        ],
+        [
+            "low-rising",
+            "\u0e16\u0e49\u0e32",
+            "/t\u02b0\u01ce\u02d0/",
+            "[t\u02b0a\u02d0\u02e9\u02e6]",
+            "landing"
+        ],
+        [
+            "mid-high",
+            "\u0e2b\u0e49\u0e32",
+            "/ha\u02d0/",
+            "[ha\u02d0\u02e6\u02e6]",
+            "five"
+        ],
+        [
+            "low",
+            "\u0e04\u0e49\u0e32",
+            "/k\u02b0\u00e0\u02d0/",
+            "[k\u02b0a\u02d0\u02e9\u02e9]",
+            "to trade"
+        ]
+    ]
+}

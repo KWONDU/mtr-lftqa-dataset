@@ -1,0 +1,49 @@
+{
+    "id": "4956f17945cfb208523a969484bb5ec82a34eaf4b13751f3e456d5dd022602ec",
+    "metadata": "English cricket team in Australia in 1907-08 | Test Matches | Test Matches",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "13,14,16,17,18,19 Dec 1907",
+            "Monty Noble",
+            "Frederick Fane",
+            "Sydney Cricket Ground",
+            "AUS by 2 wkts"
+        ],
+        [
+            "1,2,3,4,6,7 Jan 1908",
+            "Monty Noble",
+            "Frederick Fane",
+            "Melbourne Cricket Ground",
+            "ENG by 1 wkt"
+        ],
+        [
+            "10,11,13,14,15,16 Jan 1908",
+            "Monty Noble",
+            "Frederick Fane",
+            "Adelaide Oval",
+            "AUS by 245 runs"
+        ],
+        [
+            "7,8,10,11 Feb 1908",
+            "Monty Noble",
+            "Arthur Jones",
+            "Melbourne Cricket Ground",
+            "AUS by 308 runs"
+        ],
+        [
+            "21,22,24,25,26,27 Feb 1908",
+            "Monty Noble",
+            "Arthur Jones",
+            "Sydney Cricket Ground",
+            "AUS by 49 runs"
+        ]
+    ]
+}

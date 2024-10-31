@@ -1,0 +1,61 @@
+{
+    "id": "c4d8c23ec2ad8a93b9b6bcdab5ec48b4f72d798876c4082b03382076046b9bbb",
+    "metadata": "HyperTransport | Frequency specifications | Frequency specifications",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "HyperTransport_version",
+        "Year_",
+        "Max_HT_frequency",
+        "Max_link_width",
+        "Max_aggregate_bandwidth_bi_directional",
+        "Max_bandwidth_at_16_bit_unidirectional",
+        "Max_bandwidth_at_32_bit_unidirectional_"
+    ],
+    "cell": [
+        [
+            "1.0",
+            "2001",
+            "800MHz",
+            "32-bit",
+            "12.8 GB/s",
+            "3.2 GB/s",
+            "6.4 GB/s"
+        ],
+        [
+            "1.1",
+            "2002",
+            "800MHz",
+            "32-bit",
+            "12.8 GB/s",
+            "3.2 GB/s",
+            "6.4 GB/s"
+        ],
+        [
+            "2.0",
+            "2004",
+            "1.4GHz",
+            "32-bit",
+            "22.4 GB/s",
+            "5.6 GB/s",
+            "11.2 GB/s"
+        ],
+        [
+            "3.0",
+            "2006",
+            "2.6GHz",
+            "32-bit",
+            "41.6 GB/s",
+            "10.4 GB/s",
+            "20.8 GB/s"
+        ],
+        [
+            "3.1",
+            "2008",
+            "3.2GHz",
+            "32-bit",
+            "51.2 GB/s",
+            "12.8 GB/s",
+            "25.6 GB/s"
+        ]
+    ]
+}

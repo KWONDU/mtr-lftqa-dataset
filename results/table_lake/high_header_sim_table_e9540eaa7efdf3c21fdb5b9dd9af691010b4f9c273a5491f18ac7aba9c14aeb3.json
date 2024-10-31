@@ -1,0 +1,49 @@
+{
+    "id": "e9540eaa7efdf3c21fdb5b9dd9af691010b4f9c273a5491f18ac7aba9c14aeb3",
+    "metadata": "DYBT | Monster Radio Stations | Monster Radio Stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Branding",
+        "Callsign",
+        "Frequency",
+        "Power_kW",
+        "Coverage"
+    ],
+    "cell": [
+        [
+            "Monster Radio RX 93.1",
+            "DWRX",
+            "93.1MHz",
+            "25kW",
+            "Manila"
+        ],
+        [
+            "Monster Radio BT 105.9",
+            "DYBT",
+            "105.9MHz",
+            "10kW",
+            "Cebu"
+        ],
+        [
+            "Dream Radio RX 93.1",
+            "DXRX",
+            "93.1MHz",
+            "10kW",
+            "Zamboanga"
+        ],
+        [
+            "Monster Radio BT 99.5",
+            "DXBT",
+            "99.5MHz",
+            "10kW",
+            "Davao"
+        ],
+        [
+            "City of Dreams EZ 88.7",
+            "DXEZ",
+            "88.7MHz",
+            "10kW",
+            "General Santos"
+        ]
+    ]
+}

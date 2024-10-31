@@ -1,0 +1,103 @@
+{
+    "id": "eb113072d38e821819210c7c3cca884a83ceaa69be7f603514078743fc8a7de9",
+    "metadata": "Offenhauser | World Championship Indy 500 summary | World Championship Indy 500 summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Cars_Entered",
+        "Winning_Driver",
+        "Second_Driver",
+        "Third_Driver",
+        "Race_Report"
+    ],
+    "cell": [
+        [
+            "1950",
+            "31",
+            "Johnnie Parsons",
+            "Bill Holland",
+            "Mauri Rose",
+            "Report"
+        ],
+        [
+            "1951",
+            "32",
+            "Lee Wallard",
+            "Mike Nazaruk",
+            "Manny Ayulo",
+            "Report"
+        ],
+        [
+            "1952",
+            "30",
+            "Troy Ruttman",
+            "Jim Rathmann",
+            "Sam Hanks",
+            "Report"
+        ],
+        [
+            "1953",
+            "32",
+            "Bill Vukovich",
+            "Art Cross",
+            "Sam Hanks",
+            "Report"
+        ],
+        [
+            "1954",
+            "34",
+            "Bill Vukovich",
+            "Jimmy Bryan",
+            "Jack McGrath",
+            "Report"
+        ],
+        [
+            "1955",
+            "35",
+            "Bob Sweikert",
+            "Tony Bettenhausen",
+            "Jimmy Davies",
+            "Report"
+        ],
+        [
+            "1956",
+            "32",
+            "Pat Flaherty",
+            "Sam Hanks",
+            "Don Freeland",
+            "Report"
+        ],
+        [
+            "1957",
+            "31",
+            "Sam Hanks",
+            "Jim Rathmann",
+            "Jimmy Bryan",
+            "Report"
+        ],
+        [
+            "1958",
+            "31",
+            "Jimmy Bryan",
+            "George Amick",
+            "Johnny Boyd",
+            "Report"
+        ],
+        [
+            "1959",
+            "33",
+            "Rodger Ward",
+            "Jim Rathmann",
+            "Johnny Thomson",
+            "Report"
+        ],
+        [
+            "1960",
+            "33",
+            "Jim Rathmann",
+            "Rodger Ward",
+            "Paul Goldsmith",
+            "Report"
+        ]
+    ]
+}

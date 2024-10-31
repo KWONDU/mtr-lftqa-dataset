@@ -1,0 +1,77 @@
+{
+    "id": "6bcd8e5a6117906adb75408a01eb8b5d28818e878538a342112b9270a38327da",
+    "metadata": "1982 Kansas City Chiefs season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 12, 1982",
+            "at Buffalo Bills",
+            "L 14-9",
+            "76383"
+        ],
+        [
+            "2",
+            "September 19, 1982",
+            "San Diego Chargers",
+            "W 19-12",
+            "60514"
+        ],
+        [
+            "3",
+            "November 21, 1982",
+            "at New Orleans Saints",
+            "L 27-17",
+            "39341"
+        ],
+        [
+            "4",
+            "November 28, 1982",
+            "at Los Angeles Rams",
+            "L 20-14",
+            "45793"
+        ],
+        [
+            "5",
+            "December 5, 1982",
+            "at Pittsburgh Steelers",
+            "L 35-14",
+            "52090"
+        ],
+        [
+            "6",
+            "December 12, 1982",
+            "Los Angeles Raiders",
+            "L 21-16",
+            "26307"
+        ],
+        [
+            "7",
+            "December 19, 1982",
+            "at Denver Broncos",
+            "W 37-16",
+            "74192"
+        ],
+        [
+            "8",
+            "December 26, 1982",
+            "San Francisco 49ers",
+            "L 26-13",
+            "24319"
+        ],
+        [
+            "9",
+            "January 2, 1983",
+            "New York Jets",
+            "W 37-13",
+            "11902"
+        ]
+    ]
+}

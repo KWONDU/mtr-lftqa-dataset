@@ -1,0 +1,187 @@
+{
+    "id": "b6e437a0b4f6ee3e3e28e86752d354de33b67d4a875e836712966ffb21f5e73a",
+    "metadata": "Aveiro District | Municipalities | Municipalities",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Area_km\u00b2",
+        "Pop_",
+        "Pop_Area_1_km\u00b2",
+        "No_P_",
+        "No_C_No_T_",
+        "Subregion"
+    ],
+    "cell": [
+        [
+            "\u00c1gueda",
+            "335.3",
+            "47729",
+            "148",
+            "20",
+            "1/?",
+            "Baixo Vouga"
+        ],
+        [
+            "Albergaria-a-Velha",
+            "155.4",
+            "25497",
+            "164",
+            "8",
+            "0/?",
+            "Baixo Vouga"
+        ],
+        [
+            "Anadia",
+            "216.6",
+            "31671",
+            "146",
+            "15",
+            "1/?",
+            "Baixo Vouga"
+        ],
+        [
+            "Arouca",
+            "329.1",
+            "24019",
+            "73",
+            "20",
+            "0/?",
+            "Entre Douro e Vouga"
+        ],
+        [
+            "Aveiro",
+            "199.9",
+            "73626",
+            "368",
+            "14",
+            "1/?",
+            "Baixo Vouga"
+        ],
+        [
+            "Castelo de Paiva",
+            "115.0",
+            "17089",
+            "149",
+            "9",
+            "0/2",
+            "T\u00e2mega"
+        ],
+        [
+            "Espinho",
+            "21.1",
+            "31703",
+            "1503",
+            "5",
+            "1/1",
+            "Grande Porto"
+        ],
+        [
+            "Estarreja",
+            "108.4",
+            "28279",
+            "261",
+            "7",
+            "1/3",
+            "Baixo Vouga"
+        ],
+        [
+            "\u00cdlhavo",
+            "73.5",
+            "39247",
+            "534",
+            "4",
+            "2/?",
+            "Baixo Vouga"
+        ],
+        [
+            "Mealhada",
+            "110.7",
+            "20496",
+            "194",
+            "8",
+            "1/?",
+            "Baixo Vouga"
+        ],
+        [
+            "Murtosa",
+            "73.3",
+            "9657",
+            "132",
+            "4",
+            "0/1",
+            "Baixo Vouga"
+        ],
+        [
+            "Oliveira de Azem\u00e9is",
+            "163.5",
+            "71243",
+            "436",
+            "19",
+            "1/9",
+            "Entre Douro e Vouga"
+        ],
+        [
+            "Oliveira do Bairro",
+            "87.3",
+            "22365",
+            "256",
+            "6",
+            "1/?",
+            "Baixo Vouga"
+        ],
+        [
+            "Ovar",
+            "147.4",
+            "56715",
+            "385",
+            "8",
+            "2/3",
+            "Baixo Vouga"
+        ],
+        [
+            "Santa Maria da Feira",
+            "215.1",
+            "142295",
+            "662",
+            "31",
+            "3/13",
+            "Entre Douro e Vouga"
+        ],
+        [
+            "S\u00e3o Jo\u00e3o da Madeira",
+            "7.9",
+            "21538",
+            "2726",
+            "1",
+            "1/0",
+            "Entre Douro e Vouga"
+        ],
+        [
+            "Sever do Vouga",
+            "129.6",
+            "12940",
+            "100",
+            "9",
+            "0/?",
+            "Baixo Vouga"
+        ],
+        [
+            "Vagos",
+            "169.9",
+            "23205",
+            "137",
+            "11",
+            "0/2",
+            "Baixo Vouga"
+        ],
+        [
+            "Vale de Cambra",
+            "146.5",
+            "22864",
+            "169",
+            "9",
+            "1/?",
+            "Entre Douro e Vouga"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "a5e479e89996af289f703868f221154bda90d590326fc6fbada975fff7f24903",
+    "metadata": "Powerade Tigers all-time roster | T | T",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Position_",
+        "Number_",
+        "School_Club_Team",
+        "Season",
+        "Acquisition_via"
+    ],
+    "cell": [
+        [
+            "Asi Taulava",
+            "Center",
+            "88",
+            "BYU-Hawaii",
+            "2007-2010",
+            "Trade"
+        ],
+        [
+            "Mark Telan",
+            "Forward",
+            "13",
+            "De La Salle",
+            "2007-2009",
+            "Trade"
+        ],
+        [
+            "Omar Thomas",
+            "Forward",
+            "33",
+            "UTEP",
+            "2006",
+            "Import"
+        ],
+        [
+            "Chester Tolomia",
+            "Forward",
+            "20",
+            "Perpetual Help",
+            "2006-2008",
+            "Free Agency"
+        ],
+        [
+            "Lordy Tugade",
+            "Guard/Forward",
+            "15",
+            "National",
+            "2012",
+            "Trade"
+        ]
+    ]
+}

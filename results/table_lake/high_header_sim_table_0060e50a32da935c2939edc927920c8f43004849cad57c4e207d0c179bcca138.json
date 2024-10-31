@@ -1,0 +1,70 @@
+{
+    "id": "0060e50a32da935c2939edc927920c8f43004849cad57c4e207d0c179bcca138",
+    "metadata": "1962 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "18.10 (118)",
+            "Hawthorn",
+            "12.7 (79)",
+            "Kardinia Park",
+            "25819",
+            "5 May 1962"
+        ],
+        [
+            "Fitzroy",
+            "9.11 (65)",
+            "St Kilda",
+            "16.7 (103)",
+            "Brunswick Street Oval",
+            "16981",
+            "5 May 1962"
+        ],
+        [
+            "Essendon",
+            "12.22 (94)",
+            "Richmond",
+            "9.13 (67)",
+            "Windy Hill",
+            "22500",
+            "5 May 1962"
+        ],
+        [
+            "Carlton",
+            "16.14 (110)",
+            "North Melbourne",
+            "7.6 (48)",
+            "Princes Park",
+            "19933",
+            "5 May 1962"
+        ],
+        [
+            "Melbourne",
+            "14.10 (94)",
+            "Footscray",
+            "4.11 (35)",
+            "MCG",
+            "55012",
+            "5 May 1962"
+        ],
+        [
+            "South Melbourne",
+            "7.14 (56)",
+            "Collingwood",
+            "15.10 (100)",
+            "Lake Oval",
+            "29840",
+            "5 May 1962"
+        ]
+    ]
+}

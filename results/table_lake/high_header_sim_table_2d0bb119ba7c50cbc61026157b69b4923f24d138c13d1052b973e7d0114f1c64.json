@@ -1,0 +1,56 @@
+{
+    "id": "2d0bb119ba7c50cbc61026157b69b4923f24d138c13d1052b973e7d0114f1c64",
+    "metadata": "Southern League Cup (Scotland) | Tournaments | Tournaments",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Winner",
+        "Score",
+        "Runner_up",
+        "Venue"
+    ],
+    "cell": [
+        [
+            "1940-41",
+            "Rangers",
+            "4 - 2 ( rep. )",
+            "Heart of Midlothian",
+            "Hampden Park"
+        ],
+        [
+            "1941-42",
+            "Rangers",
+            "2 - 0",
+            "Morton",
+            "Hampden Park"
+        ],
+        [
+            "1942-43",
+            "Rangers",
+            "1 - 1 (11 - 3 corners )",
+            "Falkirk",
+            "Hampden Park"
+        ],
+        [
+            "1943-44",
+            "Hibernian",
+            "0 - 0 (6 - 5 corners )",
+            "Rangers",
+            "Hampden Park"
+        ],
+        [
+            "1944-45",
+            "Rangers",
+            "2 - 1",
+            "Motherwell",
+            "Hampden Park"
+        ],
+        [
+            "1945-46",
+            "Aberdeen",
+            "3 - 2",
+            "Rangers",
+            "Hampden Park"
+        ]
+    ]
+}

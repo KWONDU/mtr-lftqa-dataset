@@ -1,0 +1,88 @@
+{
+    "id": "a5f08faf49e0480e950929fcb24c0e0464ba1b2c2b389437cc27bbe74074c028",
+    "metadata": "Hawaii | Geography and environment | Geography and environment",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Island",
+        "Nickname",
+        "Area",
+        "Population_as_of_2010",
+        "Highest_point",
+        "Elevation",
+        "Age_Ma_"
+    ],
+    "cell": [
+        [
+            "Hawai \u02bb i",
+            "The Big Island",
+            "sqmi (km2)",
+            "185079",
+            "Mauna Kea",
+            "ft (m)",
+            "0.4"
+        ],
+        [
+            "Maui",
+            "The Valley Isle",
+            "sqmi (km2)",
+            "144444",
+            "Haleakal\u0101",
+            "ft (m)",
+            "1.3-0.8"
+        ],
+        [
+            "O \u02bb ahu",
+            "The Gathering Place",
+            "sqmi (km2)",
+            "953207",
+            "Mount Ka \u02bb ala",
+            "ft (m)",
+            "3.7-2.6"
+        ],
+        [
+            "Kaua \u02bb i",
+            "The Garden Isle",
+            "sqmi (km2)",
+            "66921",
+            "Kawaikini",
+            "ft (m)",
+            "5.1"
+        ],
+        [
+            "Moloka \u02bb i",
+            "The Friendly Isle",
+            "sqmi (km2)",
+            "7345",
+            "Kamakou",
+            "ft (m)",
+            "1.9-1.8"
+        ],
+        [
+            "L\u0101na \u02bb i",
+            "The Pineapple Isle",
+            "sqmi (km2)",
+            "3135",
+            "L\u0101na \u02bb ihale",
+            "ft (m)",
+            "1.3"
+        ],
+        [
+            "Ni \u02bb ihau",
+            "The Forbidden Isle",
+            "sqmi (km2)",
+            "170",
+            "Mount P\u0101n\u012b \u02bb au",
+            "ft (m)",
+            "4.9"
+        ],
+        [
+            "Kaho \u02bb olawe",
+            "The Target Isle",
+            "sqmi (km2)",
+            "0",
+            "Pu \u02bb u Moaulanui",
+            "ft (m)",
+            "1.0"
+        ]
+    ]
+}

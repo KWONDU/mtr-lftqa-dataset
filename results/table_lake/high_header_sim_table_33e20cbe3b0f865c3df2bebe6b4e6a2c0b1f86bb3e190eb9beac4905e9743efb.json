@@ -1,0 +1,56 @@
+{
+    "id": "33e20cbe3b0f865c3df2bebe6b4e6a2c0b1f86bb3e190eb9beac4905e9743efb",
+    "metadata": "Iran and weapons of mass destruction | Missiles | Iran's Nuclear Capable Missiles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_Designation",
+        "Class_",
+        "Range_varies_with_payload_weight",
+        "Payload",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Fajr-3",
+            "MRBM",
+            "2,000km",
+            "800kg",
+            "Operational"
+        ],
+        [
+            "Shahab-2",
+            "SRBM",
+            "300-2,000km",
+            "1200kg",
+            "Operational"
+        ],
+        [
+            "Shahab-3",
+            "MRBM",
+            "2,100km",
+            "990kg",
+            "Operational"
+        ],
+        [
+            "Shahab-4",
+            "MRBM",
+            "2,000km",
+            "2,000kg",
+            "Under Development"
+        ],
+        [
+            "Sejil-1",
+            "MRBM",
+            "1,930km",
+            "Unknown",
+            "Operational"
+        ],
+        [
+            "Sejil-2",
+            "MRBM",
+            "2,000km",
+            "Unknown",
+            "Operational"
+        ]
+    ]
+}

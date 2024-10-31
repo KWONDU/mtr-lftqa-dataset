@@ -1,0 +1,63 @@
+{
+    "id": "5e7d401b5d4b33511d86b1b60a7a37b5452c9c7b512e2c1981d189583c93995f",
+    "metadata": "1962 Washington Redskins season | NFL Draft | NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "Ernie Davis",
+            "Running Back",
+            "Syracuse"
+        ],
+        [
+            "2",
+            "15",
+            "Joe Hernandez",
+            "Wide Receiver",
+            "Arizona"
+        ],
+        [
+            "3",
+            "29",
+            "Bob Mitinger",
+            "Linebacker",
+            "Penn State"
+        ],
+        [
+            "4",
+            "43",
+            "Billy Neighbors",
+            "Guard",
+            "Alabama"
+        ],
+        [
+            "7",
+            "85",
+            "Bert Coan",
+            "Halfback",
+            "Kansas"
+        ],
+        [
+            "8",
+            "99",
+            "Ron Hatcher",
+            "Fullback",
+            "Michigan State"
+        ],
+        [
+            "9",
+            "113",
+            "Dave Viti",
+            "End",
+            "Boston University"
+        ]
+    ]
+}

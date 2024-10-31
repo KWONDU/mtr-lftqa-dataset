@@ -1,0 +1,70 @@
+{
+    "id": "65415c864c3e4a59a85325a9c74ba61e10a4035a74dc07cac7b8364a59f2b11d",
+    "metadata": "2008 Tour of the Basque Country | Jersey progress | Jersey progress",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Stage",
+        "Winner",
+        "General_Classification",
+        "Points_Classification",
+        "Mountains_Classification",
+        "Metas_Volantes_Classification",
+        "Team_Classification"
+    ],
+    "cell": [
+        [
+            "1",
+            "Alberto Contador",
+            "Alberto Contador",
+            "Alberto Contador",
+            "Egoi Mart\u00ednez",
+            "Iban Mayoz",
+            "Saunier Duval-Scott"
+        ],
+        [
+            "2",
+            "Kim Kirchen",
+            "Alberto Contador",
+            "David Herrero",
+            "Egoi Mart\u00ednez",
+            "Iban Mayoz",
+            "Lampre"
+        ],
+        [
+            "3",
+            "David Herrero",
+            "Alberto Contador",
+            "David Herrero",
+            "Egoi Mart\u00ednez",
+            "Iban Mayoz",
+            "Saunier Duval-Scott"
+        ],
+        [
+            "4",
+            "Kim Kirchen",
+            "Alberto Contador",
+            "David Herrero",
+            "Egoi Mart\u00ednez",
+            "Iban Mayoz",
+            "Saunier Duval-Scott"
+        ],
+        [
+            "5",
+            "Damiano Cunego",
+            "Alberto Contador",
+            "David Herrero",
+            "Egoi Mart\u00ednez",
+            "Iban Mayoz",
+            "Karpin-Galicia"
+        ],
+        [
+            "6",
+            "Alberto Contador",
+            "Alberto Contador",
+            "Damiano Cunego",
+            "Egoi Mart\u00ednez",
+            "Iban Mayoz",
+            "Rabobank"
+        ]
+    ]
+}

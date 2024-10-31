@@ -1,0 +1,70 @@
+{
+    "id": "3d249037f7a4f9f746209dce07a935f65dd0312a4b8d2b4ac859de13bb131974",
+    "metadata": "2007-08 Adelaide United season | Competitions | AFC Champions League",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Date_",
+        "Home_Team",
+        "Score",
+        "Away_Team",
+        "Attendance",
+        "Stadium"
+    ],
+    "cell": [
+        [
+            "1",
+            "12 March 2007",
+            "Adelaide United",
+            "0 - 1",
+            "Shandong Luneng Taishan",
+            "7645",
+            "Hindmarsh"
+        ],
+        [
+            "2",
+            "21 March 2007",
+            "Gach Dong Tam Long An",
+            "0 - 2",
+            "Adelaide United",
+            "10000",
+            "Long An Stadium"
+        ],
+        [
+            "3",
+            "11 April 2007",
+            "Adelaide United",
+            "2 - 2",
+            "Seongnam Ilhwa Chunma",
+            "9093",
+            "Hindmarsh Stadium"
+        ],
+        [
+            "4",
+            "25 April 2007",
+            "Seongnam Ilhwa Chunma",
+            "1 - 0",
+            "Adelaide United",
+            "2000",
+            "Seongnam 2 Stadium"
+        ],
+        [
+            "5",
+            "9 May 2007",
+            "Shandong Luneng Taishan",
+            "2 - 2",
+            "Adelaide United",
+            "30000",
+            "Shandong Stadium"
+        ],
+        [
+            "6",
+            "23 May 2007",
+            "Adelaide United",
+            "3 - 0",
+            "Gach Dong Tam Long An",
+            "6917",
+            "Hindmarsh Stadium"
+        ]
+    ]
+}

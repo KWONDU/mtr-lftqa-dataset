@@ -1,0 +1,133 @@
+{
+    "id": "df491ddebc50e5d736b96ed295157de4f813ae0fdd2092d6e7a1a101b031c4ab",
+    "metadata": "1971-72 Pittsburgh Penguins season | Game log | March",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Attendance",
+        "Record",
+        "Points"
+    ],
+    "cell": [
+        [
+            "March 2",
+            "Detroit",
+            "4-7",
+            "Pittsburgh",
+            "7670",
+            "20-35-9",
+            "49"
+        ],
+        [
+            "March 4",
+            "Minnesota",
+            "2-4",
+            "Pittsburgh",
+            "10532",
+            "21-35-9",
+            "51"
+        ],
+        [
+            "March 5",
+            "Pittsburgh",
+            "3-6",
+            "Detroit",
+            "14768",
+            "21-36-9",
+            "51"
+        ],
+        [
+            "March 8",
+            "Montreal",
+            "5-4",
+            "Pittsburgh",
+            "9598",
+            "21-37-9",
+            "51"
+        ],
+        [
+            "March 11",
+            "Boston",
+            "4-6",
+            "Pittsburgh",
+            "13050",
+            "22-37-9",
+            "53"
+        ],
+        [
+            "March 12",
+            "Pittsburgh",
+            "4-4",
+            "Boston",
+            "14995",
+            "22-37-10",
+            "54"
+        ],
+        [
+            "March 14",
+            "Pittsburgh",
+            "7-4",
+            "Vancouver",
+            "15570",
+            "23-37-10",
+            "56"
+        ],
+        [
+            "March 18",
+            "Pittsburgh",
+            "4-4",
+            "Los Angeles",
+            "7174",
+            "23-37-11",
+            "57"
+        ],
+        [
+            "March 19",
+            "Pittsburgh",
+            "3-3",
+            "California",
+            "5303",
+            "23-37-12",
+            "58"
+        ],
+        [
+            "March 22",
+            "Buffalo",
+            "4-3",
+            "Pittsburgh",
+            "11216",
+            "23-38-12",
+            "58"
+        ],
+        [
+            "March 25",
+            "Minnesota",
+            "2-3",
+            "Pittsburgh",
+            "12561",
+            "24-38-12",
+            "60"
+        ],
+        [
+            "March 26",
+            "Pittsburgh",
+            "2-2",
+            "Buffalo",
+            "15360",
+            "24-38-13",
+            "61"
+        ],
+        [
+            "March 29",
+            "California",
+            "4-5",
+            "Pittsburgh",
+            "10209",
+            "25-38-13",
+            "63"
+        ]
+    ]
+}

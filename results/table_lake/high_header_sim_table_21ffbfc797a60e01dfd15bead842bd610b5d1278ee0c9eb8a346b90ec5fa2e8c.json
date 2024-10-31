@@ -1,0 +1,107 @@
+{
+    "id": "21ffbfc797a60e01dfd15bead842bd610b5d1278ee0c9eb8a346b90ec5fa2e8c",
+    "metadata": "Greater South Shore Athletic Conference (IHSAA) | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "City",
+        "Team_Name",
+        "Enrollment_08_09",
+        "IHSAA_Class",
+        "County",
+        "Year_Joined",
+        "Previous_Counference"
+    ],
+    "cell": [
+        [
+            "Hammond Bishop Noll",
+            "Hammond",
+            "Warriors",
+            "453",
+            "2A",
+            "45 Lake",
+            "2007",
+            "Lake"
+        ],
+        [
+            "Calumet",
+            "Calumet Township",
+            "Warriors",
+            "640",
+            "3A",
+            "45 Lake",
+            "2007",
+            "Lake"
+        ],
+        [
+            "Lake Station Edison",
+            "Lake Station",
+            "Fighting Eagles",
+            "425",
+            "2A",
+            "45 Lake",
+            "2007",
+            "Lake"
+        ],
+        [
+            "Marquette Catholic",
+            "Michigan City",
+            "Blazers",
+            "161",
+            "A",
+            "46 LaPorte",
+            "2007",
+            "Independents"
+        ],
+        [
+            "North Newton",
+            "Morocco",
+            "Spartans",
+            "480",
+            "2A",
+            "56 Newton",
+            "2007",
+            "Independents"
+        ],
+        [
+            "River Forest",
+            "Lake Station",
+            "Ingots",
+            "426",
+            "2A",
+            "45 Lake",
+            "2007",
+            "Independents"
+        ],
+        [
+            "South Central (football only)",
+            "Union Mills",
+            "Satellites",
+            "297",
+            "A",
+            "46 La Porte",
+            "2007 (fb)",
+            "N/A"
+        ],
+        [
+            "Wheeler",
+            "Union Township",
+            "Bearcats",
+            "564",
+            "2A",
+            "64 Porter",
+            "2007",
+            "Lake"
+        ],
+        [
+            "Whiting",
+            "Whiting",
+            "Oilers",
+            "310",
+            "2A",
+            "45 Lake",
+            "2007",
+            "Lake"
+        ]
+    ]
+}

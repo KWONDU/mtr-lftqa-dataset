@@ -1,0 +1,140 @@
+{
+    "id": "411573266a913df8c478009f4a05fcdd3f0cb5091200a79dfae41f66f9566ab6",
+    "metadata": "2009-10 2. Bundesliga | Stadiums and locations | Stadiums and locations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Location_",
+        "Venue",
+        "Capacity",
+        "Avg_Attendance"
+    ],
+    "cell": [
+        [
+            "Alemannia Aachen",
+            "Aachen",
+            "New Tivoli",
+            "32900",
+            "23199"
+        ],
+        [
+            "Rot-Wei\u00df Ahlen",
+            "Ahlen",
+            "Wersestadion",
+            "12500",
+            "4600"
+        ],
+        [
+            "FC Augsburg",
+            "Augsburg",
+            "Impuls Arena",
+            "30660",
+            "16061"
+        ],
+        [
+            "1. FC Union Berlin",
+            "Berlin",
+            "Alte F\u00f6rsterei",
+            "18955",
+            "14534"
+        ],
+        [
+            "Arminia Bielefeld",
+            "Bielefeld",
+            "Sch\u00fcco-Arena",
+            "27300",
+            "16055"
+        ],
+        [
+            "FC Energie Cottbus",
+            "Cottbus",
+            "Stadion der Freundschaft",
+            "22528",
+            "11079"
+        ],
+        [
+            "MSV Duisburg",
+            "Duisburg",
+            "MSV-Arena",
+            "31500",
+            "14498"
+        ],
+        [
+            "Fortuna D\u00fcsseldorf",
+            "D\u00fcsseldorf",
+            "Esprit Arena",
+            "51500",
+            "28007"
+        ],
+        [
+            "FSV Frankfurt",
+            "Frankfurt am Main",
+            "Frankfurter Volksbank-Stadion",
+            "10826",
+            "5256"
+        ],
+        [
+            "SpVgg Greuther F\u00fcrth",
+            "F\u00fcrth",
+            "Playmobil-Stadion",
+            "15200",
+            "6319"
+        ],
+        [
+            "1. FC Kaiserslautern",
+            "Kaiserslautern",
+            "Fritz Walter Stadion",
+            "48500",
+            "31360"
+        ],
+        [
+            "Karlsruher SC",
+            "Karlsruhe",
+            "Wildparkstadion",
+            "29699",
+            "18178"
+        ],
+        [
+            "TuS Koblenz",
+            "Koblenz",
+            "Stadion Oberwerth",
+            "15000",
+            "7346"
+        ],
+        [
+            "TSV 1860 Munich",
+            "Munich",
+            "Allianz Arena",
+            "69000",
+            "24844"
+        ],
+        [
+            "Rot-Wei\u00df Oberhausen",
+            "Oberhausen",
+            "Niederrheinstadion",
+            "21318",
+            "6631"
+        ],
+        [
+            "SC Paderborn 07",
+            "Paderborn",
+            "Energieteam Arena",
+            "15000",
+            "9005"
+        ],
+        [
+            "F.C. Hansa Rostock",
+            "Rostock",
+            "DKB-Arena",
+            "29000",
+            "13800"
+        ],
+        [
+            "FC St. Pauli",
+            "St. Pauli , Hamburg",
+            "Millerntor-Stadion",
+            "23201",
+            "21882"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "e7dba496c73ea95efec64bc124be596744d7d1e21e6c885bf38a7d25e54c55fb",
+    "metadata": "1978 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "25.16 (166)",
+            "Richmond",
+            "14.9 (93)",
+            "Arden Street Oval",
+            "22505",
+            "8 April 1978"
+        ],
+        [
+            "Collingwood",
+            "22.23 (155)",
+            "Essendon",
+            "12.16 (88)",
+            "Victoria Park",
+            "34160",
+            "8 April 1978"
+        ],
+        [
+            "Carlton",
+            "13.17 (95)",
+            "Geelong",
+            "15.19 (109)",
+            "Princes Park",
+            "16841",
+            "8 April 1978"
+        ],
+        [
+            "South Melbourne",
+            "16.8 (104)",
+            "Hawthorn",
+            "18.24 (132)",
+            "Lake Oval",
+            "15037",
+            "8 April 1978"
+        ],
+        [
+            "St Kilda",
+            "20.17 (137)",
+            "Footscray",
+            "19.16 (130)",
+            "Moorabbin Oval",
+            "18540",
+            "8 April 1978"
+        ],
+        [
+            "Melbourne",
+            "24.23 (167)",
+            "Fitzroy",
+            "23.19 (157)",
+            "MCG",
+            "15613",
+            "8 April 1978"
+        ]
+    ]
+}

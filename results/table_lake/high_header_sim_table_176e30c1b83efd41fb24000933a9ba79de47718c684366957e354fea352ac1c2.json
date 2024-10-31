@@ -1,0 +1,70 @@
+{
+    "id": "176e30c1b83efd41fb24000933a9ba79de47718c684366957e354fea352ac1c2",
+    "metadata": "1982 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "20.14 (134)",
+            "Swans",
+            "18.25 (133)",
+            "MCG",
+            "28216",
+            "5 June 1982"
+        ],
+        [
+            "Hawthorn",
+            "26.22 (178)",
+            "Melbourne",
+            "14.15 (99)",
+            "Princes Park",
+            "14087",
+            "5 June 1982"
+        ],
+        [
+            "Collingwood",
+            "26.16 (172)",
+            "St Kilda",
+            "21.10 (136)",
+            "Victoria Park",
+            "26657",
+            "5 June 1982"
+        ],
+        [
+            "Geelong",
+            "10.11 (71)",
+            "Essendon",
+            "17.9 (111)",
+            "Kardinia Park",
+            "29884",
+            "5 June 1982"
+        ],
+        [
+            "North Melbourne",
+            "13.18 (96)",
+            "Carlton",
+            "15.15 (105)",
+            "Arden Street Oval",
+            "26206",
+            "5 June 1982"
+        ],
+        [
+            "Fitzroy",
+            "23.22 (160)",
+            "Footscray",
+            "16.12 (108)",
+            "VFL Park",
+            "13908",
+            "5 June 1982"
+        ]
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "657ce3bc1a786ac2210b41aba1d8c50bc23f383ef909dd86dd09737cb537d81b",
+    "metadata": "Sports in Charlotte, North Carolina | Present | Present",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Venue",
+        "Location_",
+        "Capacity",
+        "Owner_",
+        "Environment",
+        "Year_Built"
+    ],
+    "cell": [
+        [
+            "Bank of America Stadium",
+            "Uptown Charlotte",
+            "73778",
+            "Carolina Panthers",
+            "Open air, natural grass",
+            "1996"
+        ],
+        [
+            "Time Warner Cable Arena",
+            "Uptown Charlotte",
+            "20200",
+            "City of Charlotte",
+            "Indoor arena",
+            "2005"
+        ],
+        [
+            "American Legion Memorial Stadium",
+            "Elizabeth, Charlotte",
+            "16000",
+            "Mecklenburg Parks & Rec.",
+            "Open air, natural grass",
+            "1936"
+        ],
+        [
+            "Bojangles` Coliseum",
+            "Coliseum Drive, Charlotte",
+            "9605",
+            "City of Charlotte",
+            "Indoor arena",
+            "1955"
+        ],
+        [
+            "Jerry Richardson Stadium",
+            "University City, Charlotte",
+            "15314",
+            "UNC Charlotte",
+            "Open air, artificial turf",
+            "2012"
+        ],
+        [
+            "Charlotte Motor Speedway",
+            "Concord, NC",
+            "140,000+",
+            "Speedway Motorsports",
+            "Open air, asphalt",
+            "1960"
+        ],
+        [
+            "Dale F. Halton Arena",
+            "University City, Charlotte",
+            "9105",
+            "UNC Charlotte",
+            "Indoor arena",
+            "1996"
+        ],
+        [
+            "John M. Belk Arena",
+            "Davidson, NC",
+            "5223",
+            "Davidson College",
+            "Indoor arena",
+            "1989"
+        ],
+        [
+            "Transamerica Field",
+            "University City, Charlotte",
+            "4000",
+            "UNC Charlotte",
+            "Open air, natural grass",
+            "1996"
+        ],
+        [
+            "Richardson Stadium",
+            "Davidson, NC",
+            "6000",
+            "Davidson College",
+            "Open air, artificial turf",
+            "1923"
+        ],
+        [
+            "Irwin Belk Complex",
+            "Biddleville, Charlotte",
+            "4500",
+            "Johnson C. Smith University",
+            "Open air, natural grass",
+            "2003"
+        ],
+        [
+            "Winthrop Coliseum",
+            "Rock Hill, SC",
+            "6100",
+            "Winthrop University",
+            "Indoor arena",
+            "1982"
+        ],
+        [
+            "Knights Stadium",
+            "Fort Mill, SC",
+            "10002",
+            "York County, SC",
+            "Open air, natural grass",
+            "1990"
+        ],
+        [
+            "Concord Speedway",
+            "Midland, NC",
+            "8000",
+            "Concord Speedway",
+            "Open air, asphalt",
+            "1956?"
+        ]
+    ]
+}

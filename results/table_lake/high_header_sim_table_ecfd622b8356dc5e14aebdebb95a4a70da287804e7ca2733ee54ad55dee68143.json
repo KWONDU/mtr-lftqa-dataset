@@ -1,0 +1,70 @@
+{
+    "id": "ecfd622b8356dc5e14aebdebb95a4a70da287804e7ca2733ee54ad55dee68143",
+    "metadata": "1940 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "25.11 (161)",
+            "North Melbourne",
+            "13.11 (89)",
+            "Glenferrie Oval",
+            "14000",
+            "27 April 1940"
+        ],
+        [
+            "Fitzroy",
+            "13.13 (91)",
+            "St Kilda",
+            "10.20 (80)",
+            "Brunswick Street Oval",
+            "20000",
+            "27 April 1940"
+        ],
+        [
+            "Essendon",
+            "18.17 (125)",
+            "Melbourne",
+            "16.12 (108)",
+            "Windy Hill",
+            "23000",
+            "27 April 1940"
+        ],
+        [
+            "Richmond",
+            "14.19 (103)",
+            "Footscray",
+            "17.13 (115)",
+            "Punt Road Oval",
+            "24000",
+            "27 April 1940"
+        ],
+        [
+            "South Melbourne",
+            "11.14 (80)",
+            "Collingwood",
+            "13.14 (92)",
+            "Lake Oval",
+            "18000",
+            "27 April 1940"
+        ],
+        [
+            "Geelong",
+            "9.18 (72)",
+            "Carlton",
+            "12.27 (99)",
+            "Corio Oval",
+            "12000",
+            "27 April 1940"
+        ]
+    ]
+}

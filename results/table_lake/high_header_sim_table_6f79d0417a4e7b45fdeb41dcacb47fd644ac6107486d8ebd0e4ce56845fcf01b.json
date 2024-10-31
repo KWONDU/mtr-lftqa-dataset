@@ -1,0 +1,55 @@
+{
+    "id": "6f79d0417a4e7b45fdeb41dcacb47fd644ac6107486d8ebd0e4ce56845fcf01b",
+    "metadata": "Clare Hall Boat Club | Men | Men",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Finish_position",
+        "_1st_day",
+        "_2nd_day",
+        "_3rd_day",
+        "_4th_Day"
+    ],
+    "cell": [
+        [
+            "2008",
+            "65th",
+            "rowed-over",
+            "bumped Churchill",
+            "bumped Lady Margaret",
+            "bumped 1st & 3rd Trinity"
+        ],
+        [
+            "2009",
+            "62nd",
+            "rowed-over",
+            "bumped Jesus",
+            "bumped 1st & 3rd Trinity",
+            "bumped Trinity Hall"
+        ],
+        [
+            "2010",
+            "59th",
+            "bumped Clare",
+            "bumped St. Catharine`s",
+            "bumped Downing",
+            "rowed-over"
+        ],
+        [
+            "2011",
+            "56th",
+            "bumped Selwyn",
+            "bumped Jesus",
+            "bumped Darwin",
+            "rowed-over"
+        ],
+        [
+            "2012",
+            "57th",
+            "bumped Wolfson",
+            "rowed-over",
+            "bumped by Downing",
+            "bumped by Clare"
+        ]
+    ]
+}

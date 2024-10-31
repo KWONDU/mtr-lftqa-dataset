@@ -1,0 +1,91 @@
+{
+    "id": "d7c0c609040327a34cd6f043d2258dab40936a0ad37c14d0b972aadbdfec1699",
+    "metadata": "Politics of Friuli-Venezia Giulia | Municipalities | Municipalities",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Municipality",
+        "Inhabitants",
+        "Mayor",
+        "Party",
+        "Election"
+    ],
+    "cell": [
+        [
+            "Trieste",
+            "205535",
+            "Roberto Cosolini",
+            "Democratic Party",
+            "2011"
+        ],
+        [
+            "Udine",
+            "99627",
+            "Furio Honsell",
+            "Democratic Party",
+            "2008"
+        ],
+        [
+            "Pordenone",
+            "51723",
+            "Claudio Pedrotti",
+            "Democratic Party",
+            "2011"
+        ],
+        [
+            "Gorizia",
+            "35798",
+            "Ettore Romoli",
+            "The People of Freedom",
+            "2012"
+        ],
+        [
+            "Monfalcone",
+            "27877",
+            "Silvia Altran",
+            "Democratic Party",
+            "2011"
+        ],
+        [
+            "Sacile",
+            "20227",
+            "Roberto Ceraolo",
+            "The People of Freedom",
+            "2009"
+        ],
+        [
+            "Cordenons",
+            "18470",
+            "Mario Ongaro",
+            "Lega Friuli-VG",
+            "2011"
+        ],
+        [
+            "Codroipo",
+            "15887",
+            "Fabio Marchetti",
+            "The People of Freedom",
+            "2011"
+        ],
+        [
+            "Azzano Decimo",
+            "15601",
+            "Marco Putto",
+            "Democratic Party",
+            "2012"
+        ],
+        [
+            "Porcia",
+            "15443",
+            "Stefano Turchet",
+            "Lega Friuli-VG",
+            "2009"
+        ],
+        [
+            "San Vito al Tagliamento",
+            "15015",
+            "Antonio Di Bisceglie",
+            "Democratic Party",
+            "2011"
+        ]
+    ]
+}

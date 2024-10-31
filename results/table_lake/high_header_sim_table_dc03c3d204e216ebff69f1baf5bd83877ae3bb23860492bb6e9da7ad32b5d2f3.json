@@ -1,0 +1,77 @@
+{
+    "id": "dc03c3d204e216ebff69f1baf5bd83877ae3bb23860492bb6e9da7ad32b5d2f3",
+    "metadata": "Jak oni \u015bpiewaj\u0105 | Seasons | Seasons",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "_of_Stars",
+        "_of_Weeks",
+        "Season_Premiere_Date",
+        "Season_Finale_Date",
+        "Winner",
+        "Runner_up",
+        "Third_place"
+    ],
+    "cell": [
+        [
+            "1 - Spring 2007",
+            "13",
+            "13",
+            "March 16, 2007",
+            "June 2, 2007",
+            "Agnieszka W\u0142odarczyk",
+            "Natasza Urba\u0144ska",
+            "Robert Moskwa"
+        ],
+        [
+            "2 - Autumn 2007",
+            "13",
+            "13",
+            "September 8, 2007",
+            "December 15, 2007",
+            "Joanna Liszowska",
+            "Piotr Polk",
+            "Patricia Kazadi"
+        ],
+        [
+            "3 - Spring 2008",
+            "13",
+            "13",
+            "March 8, 2008",
+            "May 31, 2008",
+            "Krzysztof Respondek",
+            "Joanna Jab\u0142czy\u0144ska",
+            "Kacper Kuszewski"
+        ],
+        [
+            "4 - Autumn 2008",
+            "15",
+            "13",
+            "September 6, 2008",
+            "December 6, 2008",
+            "Artur Chamski",
+            "Karolina Nowakowska",
+            "Aleksandra Szwed"
+        ],
+        [
+            "5 - Spring 2009",
+            "14",
+            "12",
+            "March 7, 2009",
+            "May 23, 2009",
+            "Laura Samoj\u0142owicz",
+            "Maciej Jachowski",
+            "Robert Kudelski"
+        ],
+        [
+            "6 - Autumn 2009",
+            "11",
+            "10",
+            "September 12, 2009",
+            "November 23, 2009",
+            "Krzysztof Respondek",
+            "Agnieszka W\u0142odarczyk",
+            "Artur Chamski"
+        ]
+    ]
+}

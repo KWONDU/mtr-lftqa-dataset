@@ -1,0 +1,126 @@
+{
+    "id": "8cfda9395e0e7580896f1d50ef60cbe296f499868150d1dc3b9014213f151e1c",
+    "metadata": "1980 Los Angeles Rams season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 7, 1980",
+            "Detroit Lions",
+            "L 41-20",
+            "64892"
+        ],
+        [
+            "2",
+            "September 11, 1980",
+            "at Tampa Bay Buccaneers",
+            "L 10-9",
+            "66576"
+        ],
+        [
+            "3",
+            "September 21, 1980",
+            "Green Bay Packers",
+            "W 51-21",
+            "63850"
+        ],
+        [
+            "4",
+            "September 28, 1980",
+            "at New York Giants",
+            "W 28-7",
+            "73414"
+        ],
+        [
+            "5",
+            "October 5, 1980",
+            "San Francisco 49ers",
+            "W 48-26",
+            "62188"
+        ],
+        [
+            "6",
+            "October 12, 1980",
+            "at St. Louis Cardinals",
+            "W 21-13",
+            "50230"
+        ],
+        [
+            "7",
+            "October 19, 1980",
+            "at San Francisco 49ers",
+            "W 31-17",
+            "55360"
+        ],
+        [
+            "8",
+            "October 26, 1980",
+            "at Atlanta Falcons",
+            "L 13-10",
+            "57401"
+        ],
+        [
+            "9",
+            "November 2, 1980",
+            "New Orleans Saints",
+            "W 45-31",
+            "59909"
+        ],
+        [
+            "10",
+            "November 9, 1980",
+            "Miami Dolphins",
+            "L 35-14",
+            "62198"
+        ],
+        [
+            "11",
+            "November 16, 1980",
+            "at New England Patriots",
+            "W 17-14",
+            "60609"
+        ],
+        [
+            "12",
+            "November 24, 1980",
+            "at New Orleans Saints",
+            "W 27-7",
+            "53448"
+        ],
+        [
+            "13",
+            "November 30, 1980",
+            "New York Jets",
+            "W 38-13",
+            "59743"
+        ],
+        [
+            "14",
+            "December 7, 1980",
+            "at Buffalo Bills",
+            "L 10-7 (OT)",
+            "77133"
+        ],
+        [
+            "15",
+            "December 15, 1980",
+            "Dallas Cowboys",
+            "W 38-14",
+            "65154"
+        ],
+        [
+            "16",
+            "December 21, 1980",
+            "Atlanta Falcons",
+            "W 20-17 (OT)",
+            "62469"
+        ]
+    ]
+}

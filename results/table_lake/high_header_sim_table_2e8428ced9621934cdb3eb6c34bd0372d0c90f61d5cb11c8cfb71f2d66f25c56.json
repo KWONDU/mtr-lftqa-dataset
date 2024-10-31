@@ -1,0 +1,127 @@
+{
+    "id": "2e8428ced9621934cdb3eb6c34bd0372d0c90f61d5cb11c8cfb71f2d66f25c56",
+    "metadata": "1971 New York Jets season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Game_site",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "1971-09-19",
+            "at Baltimore Colts",
+            "L 22-0",
+            "Memorial Stadium",
+            "56458"
+        ],
+        [
+            "2",
+            "1971-09-27",
+            "at St. Louis Cardinals",
+            "L 17-10",
+            "Busch Memorial Stadium",
+            "50358"
+        ],
+        [
+            "3",
+            "1971-10-03",
+            "at Miami Dolphins",
+            "W 14-10",
+            "Miami Orange Bowl",
+            "70670"
+        ],
+        [
+            "4",
+            "1971-10-10",
+            "at New England Patriots",
+            "L 20-0",
+            "Schafer Stadium",
+            "61357"
+        ],
+        [
+            "5",
+            "1971-10-17",
+            "Buffalo Bills",
+            "W 28-17",
+            "Shea Stadium",
+            "61948"
+        ],
+        [
+            "6",
+            "1971-10-24",
+            "Miami Dolphins",
+            "L 30-14",
+            "Shea Stadium",
+            "62130"
+        ],
+        [
+            "7",
+            "1971-10-31",
+            "at San Diego Chargers",
+            "L 49-21",
+            "San Diego Stadium",
+            "44786"
+        ],
+        [
+            "8",
+            "1971-11-07",
+            "Kansas City Chiefs",
+            "W 13-10",
+            "Shea Stadium",
+            "62812"
+        ],
+        [
+            "9",
+            "1971-11-14",
+            "Baltimore Colts",
+            "L 14-13",
+            "Shea Stadium",
+            "63947"
+        ],
+        [
+            "10",
+            "1971-11-21",
+            "at Buffalo Bills",
+            "W 20-7",
+            "War Memorial Stadium",
+            "41577"
+        ],
+        [
+            "11",
+            "1971-11-28",
+            "San Francisco 49ers",
+            "L 24-21",
+            "Shea Stadium",
+            "63936"
+        ],
+        [
+            "12",
+            "1971-12-04",
+            "at Dallas Cowboys",
+            "L 52-10",
+            "Texas Stadium",
+            "66689"
+        ],
+        [
+            "13",
+            "1971-12-12",
+            "New England Patriots",
+            "W 13-6",
+            "Shea Stadium",
+            "63175"
+        ],
+        [
+            "14",
+            "1971-12-19",
+            "Cincinnati Bengals",
+            "W 35-21",
+            "Shea Stadium",
+            "63151"
+        ]
+    ]
+}

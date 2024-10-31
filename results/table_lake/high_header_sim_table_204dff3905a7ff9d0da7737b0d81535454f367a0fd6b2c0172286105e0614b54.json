@@ -1,0 +1,117 @@
+{
+    "id": "204dff3905a7ff9d0da7737b0d81535454f367a0fd6b2c0172286105e0614b54",
+    "metadata": "ANAPROF 2004 | Relegation table | Relegation table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Team",
+        "Played",
+        "Draw",
+        "Lost",
+        "Goals_Scored",
+        "Goals_Conceded",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1.",
+            "\u00c1rabe Unido",
+            "36",
+            "5",
+            "5",
+            "63",
+            "30",
+            "83"
+        ],
+        [
+            "2.",
+            "Tauro",
+            "36",
+            "6",
+            "9",
+            "61",
+            "22",
+            "73"
+        ],
+        [
+            "3.",
+            "San Francisco",
+            "36",
+            "7",
+            "9",
+            "70",
+            "31",
+            "67"
+        ],
+        [
+            "4.",
+            "El Chorrillo",
+            "36",
+            "10",
+            "7",
+            "58",
+            "51",
+            "67"
+        ],
+        [
+            "5.",
+            "Plaza Amador",
+            "35",
+            "8",
+            "9",
+            "59",
+            "33",
+            "62"
+        ],
+        [
+            "6.",
+            "Alianza",
+            "36",
+            "6",
+            "18",
+            "38",
+            "53",
+            "42"
+        ],
+        [
+            "7.",
+            "Atl\u00e9tico Verag\u00fcense",
+            "35",
+            "7",
+            "18",
+            "38",
+            "52",
+            "37"
+        ],
+        [
+            "8.",
+            "Sporting Cocl\u00e9",
+            "36",
+            "9",
+            "18",
+            "42",
+            "60",
+            "36"
+        ],
+        [
+            "9.",
+            "Col\u00f3n River",
+            "36",
+            "7",
+            "22",
+            "41",
+            "78",
+            "32"
+        ],
+        [
+            "10.",
+            "Pan de Az\u00facar",
+            "36",
+            "7",
+            "28",
+            "22",
+            "92",
+            "10"
+        ]
+    ]
+}

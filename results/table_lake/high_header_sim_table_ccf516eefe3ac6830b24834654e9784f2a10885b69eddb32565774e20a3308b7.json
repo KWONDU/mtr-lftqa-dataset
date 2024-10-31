@@ -1,0 +1,112 @@
+{
+    "id": "ccf516eefe3ac6830b24834654e9784f2a10885b69eddb32565774e20a3308b7",
+    "metadata": "1973 Kansas City Chiefs season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 16, 1973",
+            "Los Angeles Rams",
+            "L 23-13",
+            "62315"
+        ],
+        [
+            "2",
+            "September 23, 1973",
+            "at New England Patriots",
+            "W 10-7",
+            "57918"
+        ],
+        [
+            "3",
+            "September 30, 1973",
+            "Oakland Raiders",
+            "W 16-3",
+            "72631"
+        ],
+        [
+            "4",
+            "October 7, 1973",
+            "Denver Broncos",
+            "W 16-14",
+            "71414"
+        ],
+        [
+            "5",
+            "October 14, 1973",
+            "at Green Bay Packers",
+            "T 10-10",
+            "46583"
+        ],
+        [
+            "6",
+            "October 21, 1973",
+            "at Cincinnati Bengals",
+            "L 14-6",
+            "56397"
+        ],
+        [
+            "7",
+            "October 29, 1973",
+            "at Buffalo Bills",
+            "L 23-14",
+            "76071"
+        ],
+        [
+            "8",
+            "November 4, 1973",
+            "at San Diego Chargers",
+            "W 19-0",
+            "50234"
+        ],
+        [
+            "9",
+            "November 12, 1973",
+            "Chicago Bears",
+            "W 19-7",
+            "70664"
+        ],
+        [
+            "10",
+            "November 18, 1973",
+            "Houston Oilers",
+            "W 38-14",
+            "68444"
+        ],
+        [
+            "11",
+            "November 25, 1973",
+            "at Denver Broncos",
+            "L 14-10",
+            "51331"
+        ],
+        [
+            "12",
+            "December 2, 1973",
+            "Cleveland Browns",
+            "T 20-20",
+            "70296"
+        ],
+        [
+            "13",
+            "December 8, 1973",
+            "at Oakland Raiders",
+            "L 37-7",
+            "53945"
+        ],
+        [
+            "14",
+            "December 16, 1973",
+            "San Diego Chargers",
+            "W 33-6",
+            "43755"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "053e91afab17c0aa083e19e607ffceb2658524c7f3fd5827d56b4d19707c04b8",
+    "metadata": "1979 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "10.11 (71)",
+            "Footscray",
+            "6.14 (50)",
+            "Windy Hill",
+            "25240",
+            "7 July 1979"
+        ],
+        [
+            "Richmond",
+            "17.18 (120)",
+            "Melbourne",
+            "10.16 (76)",
+            "MCG",
+            "19879",
+            "7 July 1979"
+        ],
+        [
+            "South Melbourne",
+            "13.11 (89)",
+            "Hawthorn",
+            "10.14 (74)",
+            "Lake Oval",
+            "10626",
+            "7 July 1979"
+        ],
+        [
+            "North Melbourne",
+            "17.16 (118)",
+            "Geelong",
+            "14.16 (100)",
+            "Arden Street Oval",
+            "14971",
+            "7 July 1979"
+        ],
+        [
+            "St Kilda",
+            "6.16 (52)",
+            "Collingwood",
+            "15.11 (101)",
+            "Moorabbin Oval",
+            "21588",
+            "7 July 1979"
+        ],
+        [
+            "Carlton",
+            "17.14 (116)",
+            "Fitzroy",
+            "9.11 (65)",
+            "VFL Park",
+            "58736",
+            "7 July 1979"
+        ]
+    ]
+}

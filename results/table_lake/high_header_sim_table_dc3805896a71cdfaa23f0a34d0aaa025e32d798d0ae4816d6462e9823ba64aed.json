@@ -1,0 +1,70 @@
+{
+    "id": "dc3805896a71cdfaa23f0a34d0aaa025e32d798d0ae4816d6462e9823ba64aed",
+    "metadata": "FC Sion | European record | European record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Competition",
+        "Round",
+        "Opponents",
+        "_1st_leg",
+        "_2nd_leg",
+        "Aggregate_"
+    ],
+    "cell": [
+        [
+            "1980-81",
+            "UEFA Cup Winners` Cup",
+            "First round",
+            "Haugar",
+            "1-1",
+            "0-2",
+            "1-3"
+        ],
+        [
+            "1992-93",
+            "UEFA Champions League",
+            "First round",
+            "Tavriya Simferopol",
+            "4-1 (h)",
+            "3-1 (a)",
+            "7-2"
+        ],
+        [
+            "1992-93",
+            "UEFA Champions League",
+            "Second round",
+            "Porto",
+            "2-2 (h)",
+            "0-4 (a)",
+            "2-6"
+        ],
+        [
+            "2007-08",
+            "UEFA Cup",
+            "Second qualifying round",
+            "Ried",
+            "1-1",
+            "3-0",
+            "4-1"
+        ],
+        [
+            "2007-08",
+            "UEFA Cup",
+            "First round",
+            "Galatasaray",
+            "3-2",
+            "1-5",
+            "4-7"
+        ],
+        [
+            "2009-10",
+            "UEFA Europa League",
+            "Play-off round",
+            "Fenerbah\u00e7e",
+            "0-2",
+            "2-2",
+            "2-4"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "9201b0128727ec6d8fa5ad73ef9cad477159405ad1b3afeb64b1c84a0449877c",
+    "metadata": "1973 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "11.18 (84)",
+            "North Melbourne",
+            "14.20 (104)",
+            "MCG",
+            "48923",
+            "25 April 1973"
+        ],
+        [
+            "Collingwood",
+            "19.16 (130)",
+            "St Kilda",
+            "8.12 (60)",
+            "VFL Park",
+            "49552",
+            "25 April 1973"
+        ],
+        [
+            "Geelong",
+            "17.16 (118)",
+            "South Melbourne",
+            "12.14 (86)",
+            "Kardinia Park",
+            "14739",
+            "28 April 1973"
+        ],
+        [
+            "Fitzroy",
+            "13.9 (87)",
+            "Melbourne",
+            "13.16 (94)",
+            "Junction Oval",
+            "16101",
+            "28 April 1973"
+        ],
+        [
+            "Carlton",
+            "14.11 (95)",
+            "Hawthorn",
+            "12.11 (83)",
+            "Princes Park",
+            "27913",
+            "28 April 1973"
+        ],
+        [
+            "Footscray",
+            "8.19 (67)",
+            "Essendon",
+            "17.13 (115)",
+            "Western Oval",
+            "25314",
+            "28 April 1973"
+        ]
+    ]
+}

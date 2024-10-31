@@ -1,0 +1,63 @@
+{
+    "id": "e73cfa63baaeedbf38568f82db0bca0f3d2c8ddc1d956fd72162e160abf5497b",
+    "metadata": "1974 World Ice Hockey Championships | World Championship Group A (Finland) | World Championship Group A (Finland)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Games",
+        "Drawn",
+        "Lost",
+        "Points_difference",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Soviet Union",
+            "10",
+            "0",
+            "1",
+            "64 - 18",
+            "18"
+        ],
+        [
+            "Czechoslovakia",
+            "10",
+            "0",
+            "3",
+            "57 - 20",
+            "14"
+        ],
+        [
+            "Sweden",
+            "10",
+            "1",
+            "4",
+            "38 - 24",
+            "11"
+        ],
+        [
+            "Finland",
+            "10",
+            "2",
+            "4",
+            "34 - 39",
+            "10"
+        ],
+        [
+            "Poland",
+            "10",
+            "2",
+            "7",
+            "22 - 64",
+            "4"
+        ],
+        [
+            "East Germany",
+            "10",
+            "1",
+            "8",
+            "19 - 82",
+            "3"
+        ]
+    ]
+}

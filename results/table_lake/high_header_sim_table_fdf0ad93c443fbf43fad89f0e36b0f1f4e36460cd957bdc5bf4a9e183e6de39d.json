@@ -1,0 +1,61 @@
+{
+    "id": "fdf0ad93c443fbf43fad89f0e36b0f1f4e36460cd957bdc5bf4a9e183e6de39d",
+    "metadata": "2001 Ansett Australia Cup | Group 3 | Group 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Ground",
+        "Date_",
+        "Crowd"
+    ],
+    "cell": [
+        [
+            "Adelaide",
+            "10.13 (73)",
+            "Brisbane Lions",
+            "16.18 (114)",
+            "Westpac Stadium",
+            "Saturday, 17 February",
+            "8000"
+        ],
+        [
+            "Western Bulldogs",
+            "14.8 (92)",
+            "Carlton",
+            "16.10 (106)",
+            "Colonial Stadium",
+            "Saturday, 17 February",
+            "15815"
+        ],
+        [
+            "Carlton",
+            "10.12 (72)",
+            "Adelaide",
+            "9.12 (66)",
+            "Optus Oval",
+            "Saturday, 24 February",
+            "7291"
+        ],
+        [
+            "Brisbane Lions",
+            "5.15 (45)",
+            "Western Bulldogs",
+            "9.7 (61)",
+            "Bundaberg Rum Stadium",
+            "Saturday, 24 February",
+            "5800"
+        ],
+        [
+            "Adelaide",
+            "11.11 (77)",
+            "Western Bulldogs",
+            "9.5 (59)",
+            "Football Park",
+            "Friday, 2 March",
+            "20169"
+        ]
+    ]
+}

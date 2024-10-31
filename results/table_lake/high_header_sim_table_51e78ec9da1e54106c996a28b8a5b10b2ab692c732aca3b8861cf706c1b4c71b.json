@@ -1,0 +1,67 @@
+{
+    "id": "51e78ec9da1e54106c996a28b8a5b10b2ab692c732aca3b8861cf706c1b4c71b",
+    "metadata": "18 to Life | Ratings | Ratings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Order_",
+        "Episode",
+        "U_S_air_date",
+        "Rating",
+        "Share_",
+        "Rating_Share_18_49",
+        "Viewers_millions",
+        "Rank_timeslot"
+    ],
+    "cell": [
+        [
+            "1",
+            "A Modest Proposal",
+            "August 3, 2010",
+            "0.7",
+            "1",
+            "0.4/1",
+            "1.010",
+            "5"
+        ],
+        [
+            "2",
+            "No Strings Attached",
+            "August 3, 2010",
+            "0.6",
+            "1",
+            "0.3/1",
+            "0.862",
+            "5"
+        ],
+        [
+            "3",
+            "It`s My Party",
+            "August 10, 2010",
+            "0.6",
+            "1",
+            "0.3/1",
+            "0.747",
+            "5"
+        ],
+        [
+            "4",
+            "Detour",
+            "August 10, 2010",
+            "0.5",
+            "1",
+            "0.3/1",
+            "0.776",
+            "5"
+        ],
+        [
+            "5",
+            "Baby Got Bank",
+            "August 17, 2010",
+            "0.5",
+            "1",
+            "0.3/1",
+            "0.802",
+            "5"
+        ]
+    ]
+}

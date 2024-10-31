@@ -1,0 +1,70 @@
+{
+    "id": "33d74979f35e3e5d95e6f8d918b4e951459983a8d06bea4e031c2a8ee0ea3913",
+    "metadata": "1964 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "13.10 (88)",
+            "Footscray",
+            "10.13 (73)",
+            "Windy Hill",
+            "22000",
+            "13 June 1964"
+        ],
+        [
+            "Carlton",
+            "11.15 (81)",
+            "Richmond",
+            "11.12 (78)",
+            "Princes Park",
+            "24930",
+            "13 June 1964"
+        ],
+        [
+            "St Kilda",
+            "13.18 (96)",
+            "Fitzroy",
+            "6.12 (48)",
+            "Junction Oval",
+            "20900",
+            "13 June 1964"
+        ],
+        [
+            "North Melbourne",
+            "10.15 (75)",
+            "South Melbourne",
+            "7.9 (51)",
+            "Arden Street Oval",
+            "11763",
+            "15 June 1964"
+        ],
+        [
+            "Geelong",
+            "10.15 (75)",
+            "Hawthorn",
+            "3.8 (26)",
+            "Kardinia Park",
+            "39911",
+            "15 June 1964"
+        ],
+        [
+            "Melbourne",
+            "10.13 (73)",
+            "Collingwood",
+            "8.15 (63)",
+            "MCG",
+            "86660",
+            "15 June 1964"
+        ]
+    ]
+}

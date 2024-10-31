@@ -1,0 +1,61 @@
+{
+    "id": "8fb59942b96ecc70a831d27a6e847799719aea43015688ff756527cd072975d0",
+    "metadata": "Tommy Horton | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "0",
+            "0",
+            "0",
+            "4",
+            "0"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "1",
+            "4",
+            "8",
+            "20",
+            "15"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "Totals",
+            "0",
+            "1",
+            "4",
+            "8",
+            "24",
+            "15"
+        ]
+    ]
+}

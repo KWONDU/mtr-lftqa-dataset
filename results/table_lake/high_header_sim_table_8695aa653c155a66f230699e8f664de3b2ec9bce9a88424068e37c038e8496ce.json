@@ -1,0 +1,257 @@
+{
+    "id": "8695aa653c155a66f230699e8f664de3b2ec9bce9a88424068e37c038e8496ce",
+    "metadata": "2007-08 in Belgian football | European Club Results | European Club Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Team",
+        "Competition",
+        "Round",
+        "Leg",
+        "Opponent",
+        "Location_",
+        "Score_"
+    ],
+    "cell": [
+        [
+            "July 7",
+            "Gent",
+            "Intertoto Cup",
+            "Round 2",
+            "Leg 1, Home",
+            "Cliftonville",
+            "Jules Ottenstadion, Ghent",
+            "2-0"
+        ],
+        [
+            "July 14",
+            "Gent",
+            "Intertoto Cup",
+            "Round 2",
+            "Leg 2, Away",
+            "Cliftonville",
+            "Windsor Park, Belfast",
+            "4-0"
+        ],
+        [
+            "July 21",
+            "Gent",
+            "Intertoto Cup",
+            "Round 3",
+            "Leg 1, Home",
+            "Aalborg",
+            "Jules Ottenstadion, Ghent",
+            "1-1"
+        ],
+        [
+            "July 29",
+            "Gent",
+            "Intertoto Cup",
+            "Round 3",
+            "Leg 2, Away",
+            "Aalborg",
+            "Energi Nord Arena, Aalborg",
+            "1-2"
+        ],
+        [
+            "July 31",
+            "Genk",
+            "Champions League",
+            "Qual. Round 2",
+            "Leg 1, Home",
+            "Sarajevo",
+            "Cristal Arena, Genk",
+            "1-2"
+        ],
+        [
+            "August 8",
+            "Genk",
+            "Champions League",
+            "Qual. Round 2",
+            "Leg 2, Away",
+            "Sarajevo",
+            "Asim Ferhatovi\u0107 Hase Stadium, Sarajevo",
+            "1-0"
+        ],
+        [
+            "August 15",
+            "Anderlecht",
+            "Champions League",
+            "Qual. Round 3",
+            "Leg 1, Away",
+            "Fenerbah\u00e7e",
+            "\u015e\u00fckr\u00fc Saraco\u011flu Stadium, Istanbul",
+            "0-1"
+        ],
+        [
+            "August 16",
+            "Standard Li\u00e8ge",
+            "UEFA Cup",
+            "Qual. Round 2",
+            "Leg 1, Away",
+            "K\u00e4erjeng",
+            "Stade Josy Barthel, Luxembourg",
+            "3-0"
+        ],
+        [
+            "August 29",
+            "Anderlecht",
+            "Champions League",
+            "Qual. Round 3",
+            "Leg 2, Home",
+            "Fenerbah\u00e7e",
+            "Constant Vanden Stock Stadium, Anderlecht",
+            "0-2"
+        ],
+        [
+            "August 30",
+            "Standard Li\u00e8ge",
+            "UEFA Cup",
+            "Qual. Round 2",
+            "Leg 2, Home",
+            "K\u00e4erjeng",
+            "Stade Maurice Dufrasne, Li\u00e8ge",
+            "1-0"
+        ],
+        [
+            "September 20",
+            "Anderlecht",
+            "UEFA Cup",
+            "Round 1",
+            "Leg 1, Home",
+            "Rapid Wien",
+            "Constant Vanden Stock Stadium, Anderlecht",
+            "1-1"
+        ],
+        [
+            "September 20",
+            "Club Brugge",
+            "UEFA Cup",
+            "Round 1",
+            "Leg 1, Away",
+            "Brann",
+            "Brann Stadion, Bergen",
+            "1-0"
+        ],
+        [
+            "September 20",
+            "Standard Li\u00e8ge",
+            "UEFA Cup",
+            "Round 1",
+            "Leg 1, Away",
+            "Zenit St. Petersburg",
+            "Petrovsky Stadium, Saint Petersburg",
+            "0-3"
+        ],
+        [
+            "October 4",
+            "Anderlecht",
+            "UEFA Cup",
+            "Round 1",
+            "Leg 2, Away",
+            "Rapid Wien",
+            "Gerhard Hanappi Stadium, Vienna",
+            "1-0"
+        ],
+        [
+            "October 4",
+            "Club Brugge",
+            "UEFA Cup",
+            "Round 1",
+            "Leg 2, Home",
+            "Brann",
+            "Jan Breydel Stadium, Bruges",
+            "1-2"
+        ],
+        [
+            "October 4",
+            "Standard Li\u00e8ge",
+            "UEFA Cup",
+            "Round 1",
+            "Leg 2, Home",
+            "Zenit St. Petersburg",
+            "Stade Maurice Dufrasne, Li\u00e8ge",
+            "1-1"
+        ],
+        [
+            "October 25",
+            "Anderlecht",
+            "UEFA Cup",
+            "Group Stage",
+            "Match 1, Home",
+            "Hapoel Tel Aviv",
+            "Constant Vanden Stock Stadium, Anderlecht",
+            "2-0"
+        ],
+        [
+            "November 8",
+            "Anderlecht",
+            "UEFA Cup",
+            "Group Stage",
+            "Match 2, Away",
+            "Aalborg",
+            "Energi Nord Arena, Aalborg",
+            "1-1"
+        ],
+        [
+            "December 6",
+            "Anderlecht",
+            "UEFA Cup",
+            "Group Stage",
+            "Match 3, Home",
+            "Tottenham Hotspur",
+            "Constant Vanden Stock Stadium, Anderlecht",
+            "1-1"
+        ],
+        [
+            "December 19",
+            "Anderlecht",
+            "UEFA Cup",
+            "Group Stage",
+            "Match 4, Away",
+            "Getafe",
+            "Coliseum Alfonso P\u00e9rez, Getafe",
+            "1-2"
+        ],
+        [
+            "February 13",
+            "Anderlecht",
+            "UEFA Cup",
+            "Round of 32",
+            "Leg 1, Home",
+            "Bordeaux",
+            "Constant Vanden Stock Stadium, Anderlecht",
+            "2-1"
+        ],
+        [
+            "February 21",
+            "Anderlecht",
+            "UEFA Cup",
+            "Round of 32",
+            "Leg 2, Away",
+            "Bordeaux",
+            "Stade Chaban-Delmas, Bordeaux",
+            "1-1"
+        ],
+        [
+            "March 6",
+            "Anderlecht",
+            "UEFA Cup",
+            "Round of 16",
+            "Leg 1, Home",
+            "Bayern Munich",
+            "Constant Vanden Stock Stadium, Anderlecht",
+            "0-5"
+        ],
+        [
+            "March 12",
+            "Anderlecht",
+            "UEFA Cup",
+            "Round of 16",
+            "Leg 2, Away",
+            "Bayern Munich",
+            "Allianz Arena, Munich",
+            "2-1"
+        ]
+    ]
+}

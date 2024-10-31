@@ -1,0 +1,55 @@
+{
+    "id": "2fbe362a2e495ddeeade6294e437ce55e2fdba482e23db1617238b2ee1d0e455",
+    "metadata": "2000 in American television | Programs returning during 2000 | Programs returning during 2000",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Show_",
+        "Last_Aired",
+        "Previous_Network",
+        "Retitled_as_Same",
+        "New_Returning_Same_Network",
+        "Returning_"
+    ],
+    "cell": [
+        [
+            "Twenty One",
+            "1958",
+            "CBS",
+            "Same",
+            "NBC",
+            "January 9"
+        ],
+        [
+            "Shop `til You Drop",
+            "1998",
+            "The Family Channel",
+            "Same",
+            "PAX TV",
+            "April 3"
+        ],
+        [
+            "Supermarket Sweep",
+            "1995",
+            "Lifetime",
+            "Same",
+            "PAX TV",
+            "April 3"
+        ],
+        [
+            "This Week in Baseball",
+            "1998",
+            "Syndication",
+            "Same",
+            "Fox",
+            "July 12"
+        ],
+        [
+            "To Tell the Truth",
+            "1991",
+            "NBC",
+            "Same",
+            "Syndication",
+            "September 18"
+        ]
+    ]
+}

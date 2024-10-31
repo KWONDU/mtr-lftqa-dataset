@@ -1,0 +1,367 @@
+{
+    "id": "07d2e53060fdd5605b39f230e9ff814ca137e168d345a716d016f8fc33957bfe",
+    "metadata": "1974 PGA Tour | Tournament results | Tournament results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Location_",
+        "Winner",
+        "Score",
+        "_1st_prize_"
+    ],
+    "cell": [
+        [
+            "Jan 6",
+            "Bing Crosby National Pro-Am",
+            "California",
+            "Johnny Miller (4)",
+            "208 (-8)",
+            "27750"
+        ],
+        [
+            "Jan 13",
+            "Phoenix Open",
+            "Arizona",
+            "Johnny Miller (5)",
+            "271 (-13)",
+            "30000"
+        ],
+        [
+            "Jan 20",
+            "Dean Martin Tucson Open",
+            "Arizona",
+            "Johnny Miller (6)",
+            "272 (-16)",
+            "30000"
+        ],
+        [
+            "Jan 27",
+            "Andy Williams-San Diego Open Invitational",
+            "California",
+            "Bobby Nichols (10)",
+            "275 (-13)",
+            "34000"
+        ],
+        [
+            "Feb 3",
+            "Hawaiian Open",
+            "Hawaii",
+            "Jack Nicklaus (53)",
+            "271 (-17)",
+            "44000"
+        ],
+        [
+            "Feb 10",
+            "Bob Hope Desert Classic",
+            "California",
+            "Hubert Green (4)",
+            "341 (-19)",
+            "32048"
+        ],
+        [
+            "Feb 17",
+            "Glen Campbell-Los Angeles Open",
+            "California",
+            "Dave Stockton (7)",
+            "276 (-8)",
+            "30000"
+        ],
+        [
+            "Feb 24",
+            "Jackie Gleason-Inverrary Classic",
+            "Florida",
+            "Leonard Thompson (1)",
+            "278 (-10)",
+            "52000"
+        ],
+        [
+            "Mar 3",
+            "Florida Citrus Open",
+            "Florida",
+            "Jerry Heard (4)",
+            "273 (-15)",
+            "30000"
+        ],
+        [
+            "Mar 10",
+            "Doral-Eastern Open",
+            "Florida",
+            "Bud Allin (3)",
+            "272 (-16)",
+            "30000"
+        ],
+        [
+            "Mar 17",
+            "Greater Jacksonville Open",
+            "Florida",
+            "Hubert Green (5)",
+            "276 (-12)",
+            "30000"
+        ],
+        [
+            "Mar 24",
+            "Sea Pines Heritage Classic",
+            "South Carolina",
+            "Johnny Miller (7)",
+            "276 (-8)",
+            "40000"
+        ],
+        [
+            "Mar 31",
+            "Greater New Orleans Open",
+            "Louisiana",
+            "Lee Trevino (18)",
+            "267 (-21)",
+            "30000"
+        ],
+        [
+            "Apr 7",
+            "Greater Greensboro Open",
+            "North Carolina",
+            "Bob Charles (6)",
+            "270 (-14)",
+            "44066"
+        ],
+        [
+            "Apr 14",
+            "Masters Tournament",
+            "Georgia",
+            "Gary Player (19)",
+            "278 (-10)",
+            "35000"
+        ],
+        [
+            "Apr 21",
+            "Monsanto Open",
+            "Florida",
+            "Lee Elder (1)",
+            "274 (-10)",
+            "30045"
+        ],
+        [
+            "Apr 28",
+            "Tallahassee Open",
+            "Florida",
+            "Allen Miller (1)",
+            "274 (-14)",
+            "18000"
+        ],
+        [
+            "Apr 28",
+            "Tournament of Champions",
+            "California",
+            "Johnny Miller (8)",
+            "280 (-8)",
+            "40000"
+        ],
+        [
+            "May 5",
+            "Byron Nelson Golf Classic",
+            "Texas",
+            "Bud Allin (4)",
+            "269 (-15)",
+            "30045"
+        ],
+        [
+            "May 12",
+            "Houston Open",
+            "Texas",
+            "Dave Hill (11)",
+            "276 (-12)",
+            "30000"
+        ],
+        [
+            "May 19",
+            "Colonial National Invitation",
+            "Texas",
+            "Rod Curl (1)",
+            "276 (-4)",
+            "50000"
+        ],
+        [
+            "May 26",
+            "Danny Thomas Memphis Classic",
+            "Tennessee",
+            "Gary Player (20)",
+            "273 (-15)",
+            "35000"
+        ],
+        [
+            "Jun 2",
+            "Kemper Open",
+            "North Carolina",
+            "Bob Menne (1)",
+            "270 (-18)",
+            "50000"
+        ],
+        [
+            "Jun 9",
+            "IVB-Philadelphia Golf Classic",
+            "Pennsylvania",
+            "Hubert Green (6)",
+            "271 (-17)",
+            "30000"
+        ],
+        [
+            "Jun 16",
+            "U.S. Open",
+            "New York",
+            "Hale Irwin (3)",
+            "287 (+7)",
+            "35000"
+        ],
+        [
+            "Jun 23",
+            "American Golf Classic",
+            "Ohio",
+            "Jim Colbert (4)",
+            "281 (+1)",
+            "34000"
+        ],
+        [
+            "Jun 30",
+            "Western Open",
+            "Illinois",
+            "Tom Watson (1)",
+            "287 (+3)",
+            "40000"
+        ],
+        [
+            "Jul 6",
+            "Greater Milwaukee Open",
+            "Wisconsin",
+            "Ed Sneed (2)",
+            "276 (-12)",
+            "26000"
+        ],
+        [
+            "Jul 13",
+            "British Open",
+            "Scotland",
+            "Gary Player (21)",
+            "282 (-2)",
+            "13200"
+        ],
+        [
+            "Jul 14",
+            "Quad Cities Open",
+            "Iowa",
+            "Dave Stockton (8)",
+            "271 (-13)",
+            "20000"
+        ],
+        [
+            "Jul 21",
+            "B.C. Open",
+            "New York",
+            "Richie Karl (1)",
+            "273 (-11)",
+            "30000"
+        ],
+        [
+            "Jul 28",
+            "Canadian Open",
+            "Canada",
+            "Bobby Nichols (11)",
+            "270 (-10)",
+            "40000"
+        ],
+        [
+            "Aug 4",
+            "Pleasant Valley Classic",
+            "Massachusetts",
+            "Victor Regalado (1)",
+            "278 (-6)",
+            "40000"
+        ],
+        [
+            "Aug 11",
+            "PGA Championship",
+            "North Carolina",
+            "Lee Trevino (19)",
+            "276 (-4)",
+            "45000"
+        ],
+        [
+            "Aug 18",
+            "Sammy Davis Jr.-Greater Hartford Open",
+            "Connecticut",
+            "Dave Stockton (9)",
+            "268 (-12)",
+            "40000"
+        ],
+        [
+            "Aug 25",
+            "Westchester Classic",
+            "New York",
+            "Johnny Miller (9)",
+            "269 (-19)",
+            "50000"
+        ],
+        [
+            "Sep 2",
+            "Tournament Players Championship",
+            "Georgia",
+            "Jack Nicklaus (54)",
+            "272 (-16)",
+            "50000"
+        ],
+        [
+            "Sep 8",
+            "Southern Open",
+            "Georgia",
+            "Forrest Fezler (1)",
+            "271 (-9)",
+            "20000"
+        ],
+        [
+            "Sep 15",
+            "World Open Golf Championship",
+            "North Carolina",
+            "Johnny Miller (10)",
+            "281 (-3)",
+            "60000"
+        ],
+        [
+            "Sep 22",
+            "Ohio Kings Island Open",
+            "Ohio",
+            "Miller Barber (9)",
+            "277 (-7)",
+            "30000"
+        ],
+        [
+            "Sep 29",
+            "Kaiser International Open Invitational",
+            "California",
+            "Johnny Miller (11)",
+            "271 (-17)",
+            "30000"
+        ],
+        [
+            "Oct 6",
+            "Sahara Invitational",
+            "Nevada",
+            "Al Geiberger (5)",
+            "273 (-11)",
+            "27000"
+        ],
+        [
+            "Oct 20",
+            "San Antonio Texas Open",
+            "Texas",
+            "Terry Diehl (1)",
+            "269 (-19)",
+            "25000"
+        ],
+        [
+            "Nov 3",
+            "Walt Disney World National Team Championship",
+            "Florida",
+            "Hubert Green (7) Mac McLendon (1)",
+            "255 (-33)",
+            "25,000 (each)"
+        ]
+    ]
+}

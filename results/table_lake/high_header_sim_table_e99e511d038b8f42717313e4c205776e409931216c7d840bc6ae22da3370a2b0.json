@@ -1,0 +1,56 @@
+{
+    "id": "e99e511d038b8f42717313e4c205776e409931216c7d840bc6ae22da3370a2b0",
+    "metadata": "Chessington World of Adventures | Flat Rides | Flat Rides",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ride_name",
+        "Type_",
+        "Opened_in",
+        "Themed_land",
+        "Manufacturer"
+    ],
+    "cell": [
+        [
+            "Black Buccaneer",
+            "Swinging ship",
+            "1988",
+            "Pirates` Cove",
+            "Huss Rides"
+        ],
+        [
+            "SeaStorm",
+            "Sea Storm Ride",
+            "1995",
+            "Pirates` Cove",
+            "Mack Rides"
+        ],
+        [
+            "Kobra",
+            "Mega DiskO Coaster",
+            "2010",
+            "Wild Asia",
+            "Zamperla"
+        ],
+        [
+            "Monkey Swinger",
+            "Wave swinger",
+            "2000",
+            "Wild Asia",
+            "Zierer"
+        ],
+        [
+            "Peeking Heights",
+            "Ferris wheel",
+            "2005",
+            "Mystic East",
+            "Fabbri Group"
+        ],
+        [
+            "Rameses Revenge",
+            "Top Spin",
+            "1995",
+            "Forbidden Kingdom",
+            "Huss Rides"
+        ]
+    ]
+}

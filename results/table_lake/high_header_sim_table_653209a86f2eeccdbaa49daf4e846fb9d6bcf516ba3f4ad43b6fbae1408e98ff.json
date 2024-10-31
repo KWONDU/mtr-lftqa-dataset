@@ -1,0 +1,55 @@
+{
+    "id": "653209a86f2eeccdbaa49daf4e846fb9d6bcf516ba3f4ad43b6fbae1408e98ff",
+    "metadata": "Bedford (UK Parliament constituency) | Parliaments of Queen Mary I | Parliaments of Queen Mary I",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Summoned",
+        "Elected",
+        "Assembled",
+        "Dissolved",
+        "_1st_member",
+        "_2nd_member"
+    ],
+    "cell": [
+        [
+            "14 August 1553",
+            "1553",
+            "5 October 1553",
+            "5 December 1553",
+            "Edmund Mordaunt",
+            "Thomas Leigh"
+        ],
+        [
+            "17 February 1554",
+            "1554",
+            "2 April 1554",
+            "3 May 1554",
+            "Edmund Mordaunt",
+            "Thomas Leigh"
+        ],
+        [
+            "3 October 1554",
+            "1554",
+            "12 November 1554",
+            "16 January 1555",
+            "William Hall",
+            "John Williams"
+        ],
+        [
+            "3 September 1555",
+            "1555",
+            "21 October 1555",
+            "9 December 1555",
+            "unknown",
+            "unknown"
+        ],
+        [
+            "6 December 1557",
+            "1557/58",
+            "20 January 1558",
+            "17 November 1558",
+            "George Gascoigne",
+            "Thomas Leigh"
+        ]
+    ]
+}

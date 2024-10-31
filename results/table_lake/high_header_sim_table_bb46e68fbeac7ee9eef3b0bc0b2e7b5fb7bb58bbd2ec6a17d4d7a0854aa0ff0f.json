@@ -1,0 +1,187 @@
+{
+    "id": "bb46e68fbeac7ee9eef3b0bc0b2e7b5fb7bb58bbd2ec6a17d4d7a0854aa0ff0f",
+    "metadata": "1978 Tampa Bay Buccaneers season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Kickoff_a_",
+        "Game_site",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "Week",
+            "Date",
+            "Opponent",
+            "Result",
+            "Kickoff [a ]",
+            "Game site",
+            "Attendance",
+            "Record"
+        ],
+        [
+            "1",
+            "September 2, 1978",
+            "New York Giants",
+            "L 13-19",
+            "8:00",
+            "Tampa Stadium",
+            "67456",
+            "0-1"
+        ],
+        [
+            "2",
+            "September 9, 1978",
+            "Detroit Lions",
+            "L 7-15",
+            "8:00",
+            "Tampa Stadium",
+            "64443",
+            "0-2"
+        ],
+        [
+            "3",
+            "September 17, 1978",
+            "at Minnesota Vikings",
+            "W 16-10",
+            "1:00",
+            "Metropolitan Stadium",
+            "46152",
+            "1-2"
+        ],
+        [
+            "4",
+            "September 24, 1978",
+            "Atlanta Falcons",
+            "W 14-9",
+            "4:00",
+            "Tampa Stadium",
+            "58073",
+            "2-2"
+        ],
+        [
+            "5",
+            "October 1, 1978",
+            "Minnesota Vikings",
+            "L 7-24",
+            "1:00",
+            "Tampa Stadium",
+            "65972",
+            "2-3"
+        ],
+        [
+            "6",
+            "October 8, 1978",
+            "at Kansas City Chiefs",
+            "W 30-13",
+            "1:00",
+            "Arrowhead Stadium",
+            "38201",
+            "3-3"
+        ],
+        [
+            "7",
+            "October 15, 1978",
+            "at New York Giants",
+            "L 14-17",
+            "1:00",
+            "Giants Stadium",
+            "68025",
+            "3-4"
+        ],
+        [
+            "8",
+            "October 22, 1978",
+            "Chicago Bears",
+            "W 33-19",
+            "1:00",
+            "Tampa Stadium",
+            "68146",
+            "4-4"
+        ],
+        [
+            "9",
+            "October 29, 1978",
+            "at Green Bay Packers",
+            "L 7-9",
+            "1:00",
+            "Lambeau Field",
+            "55108",
+            "4-5"
+        ],
+        [
+            "10",
+            "November 5, 1978",
+            "at Los Angeles Rams",
+            "L 23-26",
+            "1:00",
+            "Los Angeles Memorial Coliseum",
+            "55182",
+            "4-6"
+        ],
+        [
+            "11",
+            "November 12, 1978",
+            "at Detroit Lions",
+            "L 23-34",
+            "2:00",
+            "Pontiac Silverdome",
+            "60320",
+            "4-7"
+        ],
+        [
+            "12",
+            "November 19, 1978",
+            "Buffalo Bills",
+            "W 31-10",
+            "1:00",
+            "Tampa Stadium",
+            "61383",
+            "5-7"
+        ],
+        [
+            "13",
+            "November 26, 1978",
+            "at Chicago Bears",
+            "L 3-14",
+            "1:00",
+            "Soldier Field",
+            "42373",
+            "5-8"
+        ],
+        [
+            "14",
+            "December 3, 1978",
+            "Green Bay Packers",
+            "L 7-17",
+            "1:00",
+            "Tampa Stadium",
+            "67754",
+            "5-9"
+        ],
+        [
+            "15",
+            "December 10, 1978",
+            "at San Francisco 49ers",
+            "L 3-6",
+            "4:00",
+            "Candlestick Park",
+            "30931",
+            "5-10"
+        ],
+        [
+            "16",
+            "December 17, 1978",
+            "New Orleans Saints",
+            "L 10-17",
+            "1:00",
+            "Tampa Stadium",
+            "51207",
+            "5-11"
+        ]
+    ]
+}

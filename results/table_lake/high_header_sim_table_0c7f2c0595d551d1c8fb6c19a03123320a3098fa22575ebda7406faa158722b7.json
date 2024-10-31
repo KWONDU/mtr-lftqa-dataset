@@ -1,0 +1,70 @@
+{
+    "id": "0c7f2c0595d551d1c8fb6c19a03123320a3098fa22575ebda7406faa158722b7",
+    "metadata": "1932 VFL season | Round 18 | Round 18",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "17.23 (125)",
+            "South Melbourne",
+            "9.15 (69)",
+            "Corio Oval",
+            "9500",
+            "3 September 1932"
+        ],
+        [
+            "Footscray",
+            "9.10 (64)",
+            "North Melbourne",
+            "12.18 (90)",
+            "Western Oval",
+            "11000",
+            "3 September 1932"
+        ],
+        [
+            "Fitzroy",
+            "10.7 (67)",
+            "Richmond",
+            "14.11 (95)",
+            "Brunswick Street Oval",
+            "14000",
+            "3 September 1932"
+        ],
+        [
+            "Essendon",
+            "11.15 (81)",
+            "Hawthorn",
+            "4.10 (34)",
+            "Windy Hill",
+            "7000",
+            "3 September 1932"
+        ],
+        [
+            "Melbourne",
+            "13.12 (90)",
+            "Collingwood",
+            "16.17 (113)",
+            "MCG",
+            "10698",
+            "3 September 1932"
+        ],
+        [
+            "St Kilda",
+            "7.12 (54)",
+            "Carlton",
+            "20.21 (141)",
+            "Junction Oval",
+            "15000",
+            "3 September 1932"
+        ]
+    ]
+}

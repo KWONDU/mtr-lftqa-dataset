@@ -1,0 +1,70 @@
+{
+    "id": "612385b58e7acacaefa1ba6c5bfb0d16d163f97eaedae184fa286a974b2d2971",
+    "metadata": "1975 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "14.20 (104)",
+            "Melbourne",
+            "14.14 (98)",
+            "Kardinia Park",
+            "13328",
+            "7 June 1975"
+        ],
+        [
+            "St Kilda",
+            "15.9 (99)",
+            "North Melbourne",
+            "17.19 (121)",
+            "Moorabbin Oval",
+            "17811",
+            "7 June 1975"
+        ],
+        [
+            "Richmond",
+            "19.14 (128)",
+            "Essendon",
+            "12.9 (81)",
+            "MCG",
+            "49469",
+            "7 June 1975"
+        ],
+        [
+            "Hawthorn",
+            "19.24 (138)",
+            "Collingwood",
+            "13.11 (89)",
+            "Princes Park",
+            "23830",
+            "7 June 1975"
+        ],
+        [
+            "Fitzroy",
+            "15.7 (97)",
+            "Carlton",
+            "16.10 (106)",
+            "Junction Oval",
+            "16249",
+            "7 June 1975"
+        ],
+        [
+            "Footscray",
+            "13.11 (89)",
+            "South Melbourne",
+            "12.15 (87)",
+            "VFL Park",
+            "14056",
+            "7 June 1975"
+        ]
+    ]
+}

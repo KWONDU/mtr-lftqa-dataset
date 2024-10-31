@@ -1,0 +1,56 @@
+{
+    "id": "4b35631bb184530db3dc89e2aedc8fbc6f697e18d9e5344c317e090e306ec78c",
+    "metadata": "2009 PGA Championship | Missed the cut | Missed the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Year_won",
+        "Total",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "Mark Brooks",
+            "United States",
+            "1996",
+            "149",
+            "+5"
+        ],
+        [
+            "Davis Love III",
+            "United States",
+            "1997",
+            "149",
+            "+5"
+        ],
+        [
+            "Steve Elkington",
+            "Australia",
+            "1995",
+            "150",
+            "+6"
+        ],
+        [
+            "Paul Azinger",
+            "United States",
+            "1993",
+            "154",
+            "+10"
+        ],
+        [
+            "Shaun Micheel",
+            "United States",
+            "2003",
+            "154",
+            "+10"
+        ],
+        [
+            "John Daly",
+            "United States",
+            "1991",
+            "78",
+            "+6"
+        ]
+    ]
+}

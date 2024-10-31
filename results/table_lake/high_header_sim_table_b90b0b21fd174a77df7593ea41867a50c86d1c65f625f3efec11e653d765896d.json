@@ -1,0 +1,70 @@
+{
+    "id": "b90b0b21fd174a77df7593ea41867a50c86d1c65f625f3efec11e653d765896d",
+    "metadata": "1951 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Fitzroy",
+            "8.21 (69)",
+            "Melbourne",
+            "6.9 (45)",
+            "Brunswick Street Oval",
+            "9000",
+            "4 August 1951"
+        ],
+        [
+            "Essendon",
+            "16.10 (106)",
+            "South Melbourne",
+            "8.12 (60)",
+            "Windy Hill",
+            "20000",
+            "4 August 1951"
+        ],
+        [
+            "St Kilda",
+            "11.8 (74)",
+            "Hawthorn",
+            "9.14 (68)",
+            "Junction Oval",
+            "6000",
+            "4 August 1951"
+        ],
+        [
+            "North Melbourne",
+            "10.10 (70)",
+            "Footscray",
+            "11.15 (81)",
+            "Arden Street Oval",
+            "14000",
+            "4 August 1951"
+        ],
+        [
+            "Geelong",
+            "3.11 (29)",
+            "Collingwood",
+            "4.7 (31)",
+            "Kardinia Park",
+            "26500",
+            "4 August 1951"
+        ],
+        [
+            "Richmond",
+            "9.12 (66)",
+            "Carlton",
+            "4.9 (33)",
+            "Punt Road Oval",
+            "17000",
+            "4 August 1951"
+        ]
+    ]
+}

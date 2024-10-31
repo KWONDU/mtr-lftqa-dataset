@@ -1,0 +1,63 @@
+{
+    "id": "9054b54d6b0a8c86a7b4a53e4085c331a6db9834caf9139477af2c7be251e943",
+    "metadata": "1948 Ashes series | Best bowling averages | Best bowling averages",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Team",
+        "Matches",
+        "Wickets",
+        "Average",
+        "Best_Bowling"
+    ],
+    "cell": [
+        [
+            "Ray Lindwall",
+            "Australia",
+            "5",
+            "27",
+            "19.62",
+            "6/20"
+        ],
+        [
+            "Norman Yardley",
+            "England",
+            "5",
+            "9",
+            "22.66",
+            "2/32"
+        ],
+        [
+            "Keith Miller",
+            "Australia",
+            "5",
+            "13",
+            "23.15",
+            "4/125"
+        ],
+        [
+            "Bill Johnston",
+            "Australia",
+            "5",
+            "27",
+            "23.33",
+            "5/36"
+        ],
+        [
+            "Ernie Toshack",
+            "Australia",
+            "4",
+            "11",
+            "33.09",
+            "5/40"
+        ],
+        [
+            "Alec Bedser",
+            "England",
+            "5",
+            "18",
+            "38.22",
+            "4/81"
+        ]
+    ]
+}

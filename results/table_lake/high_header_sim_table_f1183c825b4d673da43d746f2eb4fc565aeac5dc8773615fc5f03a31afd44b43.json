@@ -1,0 +1,49 @@
+{
+    "id": "f1183c825b4d673da43d746f2eb4fc565aeac5dc8773615fc5f03a31afd44b43",
+    "metadata": "History of Test cricket from 1901 to 1914 | England in South Africa 1913/4 | England in South Africa 1913/4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "13,15,16,17 Dec 1913",
+            "Herbie Taylor",
+            "Johnny Douglas",
+            "Lord`s, Durban",
+            "ENG by Inns&157 runs"
+        ],
+        [
+            "26,27,29,30 Dec 1913",
+            "Herbie Taylor",
+            "Johnny Douglas",
+            "Old Wanderers",
+            "ENG by Inns&12 runs"
+        ],
+        [
+            "1,2,3,5 Jan 1914",
+            "Herbie Taylor",
+            "Johnny Douglas",
+            "Old Wanderers",
+            "ENG by 91 runs"
+        ],
+        [
+            "14,16,17,17 Feb 1914",
+            "Herbie Taylor",
+            "Johnny Douglas",
+            "Lord`s, Durban",
+            "DRAW"
+        ],
+        [
+            "27,28 Feb, 2,3 Mar 1914",
+            "Herbie Taylor",
+            "Johnny Douglas",
+            "St George`s Park",
+            "ENG by 10 wkts"
+        ]
+    ]
+}

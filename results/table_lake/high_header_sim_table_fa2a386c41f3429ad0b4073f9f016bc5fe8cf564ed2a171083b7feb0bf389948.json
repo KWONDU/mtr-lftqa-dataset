@@ -1,0 +1,67 @@
+{
+    "id": "fa2a386c41f3429ad0b4073f9f016bc5fe8cf564ed2a171083b7feb0bf389948",
+    "metadata": "Metro Conference | Charter members | Charter members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Nickname",
+        "Location_",
+        "Founded",
+        "Type_",
+        "Enrollment",
+        "Joined",
+        "Left_"
+    ],
+    "cell": [
+        [
+            "University of Cincinnati **",
+            "Bearcats",
+            "Cincinnati, Ohio",
+            "1819",
+            "Public",
+            "41357",
+            "1975",
+            "1991"
+        ],
+        [
+            "Georgia Institute of Technology",
+            "Yellow Jackets",
+            "Atlanta, Georgia",
+            "1885",
+            "Public",
+            "21557",
+            "1975",
+            "1978"
+        ],
+        [
+            "University of Louisville **",
+            "Cardinals",
+            "Louisville, Kentucky",
+            "1798",
+            "Public",
+            "22249",
+            "1975",
+            "1995"
+        ],
+        [
+            "University of Memphis *, 1",
+            "Tigers",
+            "Memphis, Tennessee",
+            "1912",
+            "Public",
+            "22365",
+            "1975",
+            "1991"
+        ],
+        [
+            "Saint Louis University **",
+            "Billikens",
+            "Saint Louis, Missouri",
+            "1818",
+            "Private",
+            "13785",
+            "1975",
+            "1982"
+        ]
+    ]
+}

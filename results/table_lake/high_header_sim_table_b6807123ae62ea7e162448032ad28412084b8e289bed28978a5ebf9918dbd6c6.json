@@ -1,0 +1,70 @@
+{
+    "id": "b6807123ae62ea7e162448032ad28412084b8e289bed28978a5ebf9918dbd6c6",
+    "metadata": "1957 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "12.13 (85)",
+            "Richmond",
+            "13.14 (92)",
+            "Victoria Park",
+            "32280",
+            "15 June 1957"
+        ],
+        [
+            "St Kilda",
+            "3.12 (30)",
+            "Essendon",
+            "9.21 (75)",
+            "Junction Oval",
+            "33500",
+            "15 June 1957"
+        ],
+        [
+            "North Melbourne",
+            "7.14 (56)",
+            "Carlton",
+            "8.15 (63)",
+            "Arden Street Oval",
+            "28000",
+            "15 June 1957"
+        ],
+        [
+            "Footscray",
+            "12.15 (87)",
+            "South Melbourne",
+            "8.12 (60)",
+            "Western Oval",
+            "28450",
+            "17 June 1957"
+        ],
+        [
+            "Melbourne",
+            "23.16 (154)",
+            "Geelong",
+            "14.10 (94)",
+            "MCG",
+            "48001",
+            "17 June 1957"
+        ],
+        [
+            "Hawthorn",
+            "15.14 (104)",
+            "Fitzroy",
+            "7.14 (56)",
+            "Glenferrie Oval",
+            "23000",
+            "17 June 1957"
+        ]
+    ]
+}

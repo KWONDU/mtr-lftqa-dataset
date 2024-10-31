@@ -1,0 +1,49 @@
+{
+    "id": "7421fd0e2898078e1b1855aaacb56242d4decc98ad6ffd0f5462c8884557c165",
+    "metadata": "Euler characteristic | Polyhedra | Polyhedra",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Vertices_V",
+        "Edges_E",
+        "Faces_F",
+        "Euler_characteristic_V_E_F"
+    ],
+    "cell": [
+        [
+            "Tetrahedron",
+            "4",
+            "6",
+            "4",
+            "2"
+        ],
+        [
+            "Hexahedron or cube",
+            "8",
+            "12",
+            "6",
+            "2"
+        ],
+        [
+            "Octahedron",
+            "6",
+            "12",
+            "8",
+            "2"
+        ],
+        [
+            "Dodecahedron",
+            "20",
+            "30",
+            "12",
+            "2"
+        ],
+        [
+            "Icosahedron",
+            "12",
+            "30",
+            "20",
+            "2"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "cf3f15673fb54ca4d8452292fe6a2b9c9e7dedc68a72991ef40b1f6e6ca09f49",
+    "metadata": "2007 Formula RUS season | Race 2 | Race 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos_",
+        "Driver",
+        "Time_",
+        "Best_time",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1",
+            "Sergey Mokshantcev",
+            "21:19.329",
+            "01:44.972",
+            "21"
+        ],
+        [
+            "2",
+            "Maksim Chernev",
+            "21:24.663",
+            "01:45.270",
+            "17"
+        ],
+        [
+            "3",
+            "David Ramishvili",
+            "20:01.099",
+            "01:46.367",
+            "15"
+        ],
+        [
+            "4",
+            "Denis Komarov",
+            "20:18.966",
+            "01:48.077",
+            "13"
+        ],
+        [
+            "5",
+            "Stanislav Chemakin",
+            "20:39.171",
+            "01:46.323",
+            "11"
+        ]
+    ]
+}

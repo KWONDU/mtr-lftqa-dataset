@@ -1,0 +1,70 @@
+{
+    "id": "04a65f7794e6d601f5862a013e36dc410520cb8546a3909eedc1da7a1d00a941",
+    "metadata": "1939 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "12.18 (90)",
+            "Melbourne",
+            "15.16 (106)",
+            "Corio Oval",
+            "12000",
+            "20 May 1939"
+        ],
+        [
+            "Essendon",
+            "14.21 (105)",
+            "St Kilda",
+            "8.18 (66)",
+            "Windy Hill",
+            "18000",
+            "20 May 1939"
+        ],
+        [
+            "Richmond",
+            "16.22 (118)",
+            "North Melbourne",
+            "13.11 (89)",
+            "Punt Road Oval",
+            "11000",
+            "20 May 1939"
+        ],
+        [
+            "South Melbourne",
+            "18.12 (120)",
+            "Footscray",
+            "16.6 (102)",
+            "Lake Oval",
+            "14000",
+            "20 May 1939"
+        ],
+        [
+            "Fitzroy",
+            "11.13 (79)",
+            "Collingwood",
+            "17.14 (116)",
+            "Brunswick Street Oval",
+            "15000",
+            "20 May 1939"
+        ],
+        [
+            "Hawthorn",
+            "13.8 (86)",
+            "Carlton",
+            "11.17 (83)",
+            "Glenferrie Oval",
+            "20000",
+            "20 May 1939"
+        ]
+    ]
+}

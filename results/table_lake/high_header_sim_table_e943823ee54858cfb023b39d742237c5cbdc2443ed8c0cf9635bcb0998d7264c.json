@@ -1,0 +1,84 @@
+{
+    "id": "e943823ee54858cfb023b39d742237c5cbdc2443ed8c0cf9635bcb0998d7264c",
+    "metadata": "John Love (racing driver) | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1962",
+            "John Love",
+            "Cooper T55",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1963",
+            "John Love",
+            "Cooper T55",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1964",
+            "Cooper Car Company",
+            "Cooper T73",
+            "Climax V8",
+            "0"
+        ],
+        [
+            "1965",
+            "John Love",
+            "Cooper T55",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1967",
+            "John Love",
+            "Cooper T79",
+            "Climax Straight-4",
+            "6"
+        ],
+        [
+            "1968",
+            "Team Gunston",
+            "Brabham BT20",
+            "Repco V8",
+            "0"
+        ],
+        [
+            "1969",
+            "Team Gunston",
+            "Lotus 49",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1970",
+            "Team Gunston",
+            "Lotus 49",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1971",
+            "Team Peco/Gunston",
+            "March 701",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1972",
+            "Team Gunston",
+            "Surtees TS9",
+            "Cosworth V8",
+            "0"
+        ]
+    ]
+}

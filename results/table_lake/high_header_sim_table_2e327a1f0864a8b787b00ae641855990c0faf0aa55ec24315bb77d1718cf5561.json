@@ -1,0 +1,63 @@
+{
+    "id": "2e327a1f0864a8b787b00ae641855990c0faf0aa55ec24315bb77d1718cf5561",
+    "metadata": "Rudy Bourguignon | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournament",
+        "Venue",
+        "Result_",
+        "Extra"
+    ],
+    "cell": [
+        [
+            "1998",
+            "World Junior Championships",
+            "Annecy , France",
+            "9th",
+            "Decathlon"
+        ],
+        [
+            "2005",
+            "Mediterranean Games",
+            "Almer\u00eda , Spain",
+            "2nd",
+            "Decathlon"
+        ],
+        [
+            "2005",
+            "D\u00e9castar",
+            "Talence , France",
+            "6th",
+            "Decathlon"
+        ],
+        [
+            "2006",
+            "Hypo-Meeting",
+            "G\u00f6tzis , Austria",
+            "DNF",
+            "Decathlon"
+        ],
+        [
+            "2006",
+            "European Championships",
+            "Gothenburg, Sweden",
+            "15th",
+            "Decathlon"
+        ],
+        [
+            "2007",
+            "European Indoor Championships",
+            "Birmingham , England",
+            "7th",
+            "Heptathlon"
+        ],
+        [
+            "2007",
+            "Hypo-Meeting",
+            "G\u00f6tzis , Austria",
+            "DNF",
+            "Decathlon"
+        ]
+    ]
+}

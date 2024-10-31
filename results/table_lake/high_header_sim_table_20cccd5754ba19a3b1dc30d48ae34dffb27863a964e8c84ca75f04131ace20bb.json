@@ -1,0 +1,61 @@
+{
+    "id": "20cccd5754ba19a3b1dc30d48ae34dffb27863a964e8c84ca75f04131ace20bb",
+    "metadata": "Christian Heritage Party of Canada candidates, 2008 Canadian federal election | - 11 seats | - 106 seats",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Riding",
+        "Candidate_s_Name",
+        "Gender",
+        "Residence",
+        "Occupation",
+        "Votes",
+        "Rank_"
+    ],
+    "cell": [
+        [
+            "Central Nova",
+            "Michael Mackay",
+            "M",
+            "West River Station",
+            "Retail",
+            "427",
+            "4th"
+        ],
+        [
+            "Dartmouth\u2014Cole Harbour",
+            "George Campbell",
+            "M",
+            "Dartmouth",
+            "Minister",
+            "219",
+            "5th"
+        ],
+        [
+            "Halifax West",
+            "Trevor Ennis",
+            "M",
+            "Halifax",
+            "Swimming Pool Salesman",
+            "257",
+            "5th"
+        ],
+        [
+            "Kings\u2014Hants",
+            "Jim Hnatiuk",
+            "M",
+            "Enfield",
+            "Combat Systems Technician",
+            "528",
+            "5th"
+        ],
+        [
+            "South Shore\u2014St. Margaret`s",
+            "Joe Larkin",
+            "M",
+            "Shag Harbour",
+            "Retired",
+            "513",
+            "5th"
+        ]
+    ]
+}

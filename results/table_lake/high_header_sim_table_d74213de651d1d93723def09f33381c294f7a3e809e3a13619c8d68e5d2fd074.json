@@ -1,0 +1,77 @@
+{
+    "id": "d74213de651d1d93723def09f33381c294f7a3e809e3a13619c8d68e5d2fd074",
+    "metadata": "United States House of Representatives elections, 1860 | Illinois | Illinois",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Illinois 1",
+            "Elihu B. Washburne",
+            "Republican",
+            "1852",
+            "Re-elected"
+        ],
+        [
+            "Illinois 2",
+            "John F. Farnsworth",
+            "Republican",
+            "1856",
+            "Retired Republican Hold"
+        ],
+        [
+            "Illinois 3",
+            "Owen Lovejoy",
+            "Republican",
+            "1856",
+            "Re-elected"
+        ],
+        [
+            "Illinois 4",
+            "William Kellogg",
+            "Republican",
+            "1856",
+            "Re-elected"
+        ],
+        [
+            "Illinois 5",
+            "Isaac N. Morris",
+            "Democratic",
+            "1856",
+            "Retired Democratic Hold"
+        ],
+        [
+            "Illinois 6",
+            "John A. McClernand",
+            "Democratic",
+            "1859",
+            "Re-elected"
+        ],
+        [
+            "Illinois 7",
+            "James C. Robinson",
+            "Democratic",
+            "1858",
+            "Re-elected"
+        ],
+        [
+            "Illinois 8",
+            "Philip B. Fouke",
+            "Democratic",
+            "1858",
+            "Re-elected"
+        ],
+        [
+            "Illinois 9",
+            "John A. Logan",
+            "Democratic",
+            "1858",
+            "Re-elected"
+        ]
+    ]
+}

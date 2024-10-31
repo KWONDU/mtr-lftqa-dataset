@@ -1,0 +1,63 @@
+{
+    "id": "d48232a320018373d30800ec5d444fa92451353f66b26e9b04ac9bdd6225372b",
+    "metadata": "Circuit des Ardennes | Winners of the Circuit des Ardennes | Winners of the Circuit des Ardennes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Formula",
+        "Driver",
+        "Constructor_",
+        "Location_",
+        "Report"
+    ],
+    "cell": [
+        [
+            "1902",
+            "Grand Prix",
+            "Charles Jarrott",
+            "Panhard 70",
+            "Bastogne",
+            "Report"
+        ],
+        [
+            "1903",
+            "Grand Prix",
+            "Pierre de Crawhez",
+            "Panhard 70",
+            "Bastogne",
+            "Report"
+        ],
+        [
+            "1904",
+            "Grand Prix",
+            "George Heath",
+            "Panhard 70",
+            "Bastogne",
+            "Report"
+        ],
+        [
+            "1905",
+            "Grand Prix",
+            "Victor H\u00e9mery",
+            "Darracq",
+            "Bastogne",
+            "Report"
+        ],
+        [
+            "1906",
+            "Grand Prix",
+            "Arthur Duray",
+            "Lorraine-Dietrich",
+            "Bastogne",
+            "Report"
+        ],
+        [
+            "1907",
+            "Grand Prix",
+            "Pierre de Caters",
+            "Mercedes-Benz",
+            "Bastogne",
+            "Report"
+        ]
+    ]
+}

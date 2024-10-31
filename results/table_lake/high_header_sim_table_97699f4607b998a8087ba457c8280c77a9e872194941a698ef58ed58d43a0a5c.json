@@ -1,0 +1,63 @@
+{
+    "id": "97699f4607b998a8087ba457c8280c77a9e872194941a698ef58ed58d43a0a5c",
+    "metadata": "African immigration to France | By Country | By Country",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "_of_all_immigrants_2008",
+        "_of_all_immigrants_2007",
+        "_of_all_immigrants_2006",
+        "_of_all_immigrants_2005",
+        "_of_all_immigrants_2004"
+    ],
+    "cell": [
+        [
+            "Algeria",
+            "11.2%",
+            "12.0%",
+            "14.1%",
+            "14.0%",
+            "15.2%"
+        ],
+        [
+            "Cameroon",
+            "1.9%",
+            "1.9%",
+            "2.1%",
+            "2.1%",
+            "2.0%"
+        ],
+        [
+            "C\u00f4te d`Ivoire",
+            "1.5%",
+            "1.6%",
+            "1.8%",
+            "1.7%",
+            "1.9%"
+        ],
+        [
+            "Mali",
+            "2.1%",
+            "1.3%",
+            "1.4%",
+            "1.2%",
+            "1.2%"
+        ],
+        [
+            "Morocco",
+            "11.1%",
+            "9.5%",
+            "9.4%",
+            "10.4%",
+            "11.4%"
+        ],
+        [
+            "Senegal",
+            "1.7%",
+            "1.8%",
+            "1.7%",
+            "1.7%",
+            "1.9%"
+        ]
+    ]
+}

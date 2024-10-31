@@ -1,0 +1,56 @@
+{
+    "id": "2ba0ddcf3ceda25c99612ed12d7c58955e42607cca9c785dc1b22474408d312a",
+    "metadata": "Henlopen Conference | 2005 Regular Season Football Standings | 2005 Regular Season Football Standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Team",
+        "Division_Record",
+        "Overall_Record",
+        "Season_Outcome"
+    ],
+    "cell": [
+        [
+            "Dover",
+            "Senators",
+            "5 - 0",
+            "8 - 3",
+            "Loss in first round of Div. I playoffs"
+        ],
+        [
+            "Caesar Rodney",
+            "Riders",
+            "3 - 2",
+            "4 - 6",
+            "Failed to make playoffs"
+        ],
+        [
+            "Sussex Central",
+            "Golden Knights",
+            "2 - 3",
+            "6 - 5",
+            "Loss in first round of Div. I playoffs"
+        ],
+        [
+            "Sussex Tech",
+            "Ravens",
+            "2 - 3",
+            "5 - 5",
+            "Failed to make playoffs"
+        ],
+        [
+            "Cape Henlopen",
+            "Vikings",
+            "2 - 3",
+            "4 - 6",
+            "Failed to make playoffs"
+        ],
+        [
+            "Milford",
+            "Buccaneers",
+            "1 - 4",
+            "4 - 6",
+            "Failed to make playoffs"
+        ]
+    ]
+}

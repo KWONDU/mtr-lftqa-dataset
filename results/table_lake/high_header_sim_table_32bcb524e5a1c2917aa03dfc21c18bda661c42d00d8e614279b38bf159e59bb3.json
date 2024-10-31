@@ -1,0 +1,77 @@
+{
+    "id": "32bcb524e5a1c2917aa03dfc21c18bda661c42d00d8e614279b38bf159e59bb3",
+    "metadata": "Minnesota Golden Gophers football under Bernie Bierman | Schedule | 1933",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Site",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/30/1933",
+            "South Dakota State",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W19-6",
+            "25000"
+        ],
+        [
+            "10/07/1933",
+            "Indiana",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "T6-6",
+            "20000"
+        ],
+        [
+            "10/14/1933",
+            "Purdue",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "T7-7",
+            "26497"
+        ],
+        [
+            "10/21/1933",
+            "Pittsburgh",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W7-3",
+            "26000"
+        ],
+        [
+            "10/28/1933",
+            "Iowa",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W19-7",
+            "45000"
+        ],
+        [
+            "11/04/1933",
+            "at Northwestern",
+            "Dyche Stadium \u2022 Evanston, IL",
+            "T0-0",
+            "35000"
+        ],
+        [
+            "11/18/1933",
+            "at Michigan",
+            "Michigan Stadium \u2022 Ann Arbor, MI",
+            "T0-0",
+            "52137"
+        ],
+        [
+            "11/25/1933",
+            "Wisconsin",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W6-3",
+            "25000"
+        ],
+        [
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming."
+        ]
+    ]
+}

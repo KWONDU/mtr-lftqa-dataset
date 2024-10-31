@@ -1,0 +1,71 @@
+{
+    "id": "a59c7b874ef676b20f49adcd60a6da3054a9dbc59f6dddf52753b2496ddc71c5",
+    "metadata": "Iceland at the 2002 Winter Olympics | Alpine skiing | Men",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Athlete",
+        "Event",
+        "Race_1_Time",
+        "Race_2_Time",
+        "Total_Time",
+        "Total_Rank_"
+    ],
+    "cell": [
+        [
+            "J\u00f3hann Haraldsson",
+            "Giant Slalom",
+            "1:19.10",
+            "DNF",
+            "DNF",
+            "-"
+        ],
+        [
+            "Kristinn Magn\u00fasson",
+            "Giant Slalom",
+            "1:17.50",
+            "1:16.29",
+            "2:33.79",
+            "42"
+        ],
+        [
+            "Bj\u00f6rgvin Bj\u00f6rgvinsson",
+            "Giant Slalom",
+            "1:15.86",
+            "DNF",
+            "DNF",
+            "-"
+        ],
+        [
+            "Kristinn Magn\u00fasson",
+            "Slalom",
+            "DNF",
+            "-",
+            "DNF",
+            "-"
+        ],
+        [
+            "Bj\u00f6rgvin Bj\u00f6rgvinsson",
+            "Slalom",
+            "DNF",
+            "-",
+            "DNF",
+            "-"
+        ],
+        [
+            "J\u00f3hann Haraldsson",
+            "Slalom",
+            "56.98",
+            "1:00.19",
+            "1:57.17",
+            "28"
+        ],
+        [
+            "Kristinn Bj\u00f6rnsson",
+            "Slalom",
+            "53.05",
+            "56.76",
+            "1:49.81",
+            "21"
+        ]
+    ]
+}

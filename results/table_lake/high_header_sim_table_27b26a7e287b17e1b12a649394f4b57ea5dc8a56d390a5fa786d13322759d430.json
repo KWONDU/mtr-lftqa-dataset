@@ -1,0 +1,79 @@
+{
+    "id": "27b26a7e287b17e1b12a649394f4b57ea5dc8a56d390a5fa786d13322759d430",
+    "metadata": "List of tournament performances by Tiger Woods | Tournaments | Tournaments",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournament",
+        "Round_1",
+        "Round_2",
+        "Round_3",
+        "Round_4",
+        "Score",
+        "To_par",
+        "Place",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1998",
+            "Casio World Open",
+            "69",
+            "74",
+            "71",
+            "70",
+            "284",
+            "\u22124",
+            "T15",
+            "1602000"
+        ],
+        [
+            "2002",
+            "Dunlop Phoenix Tournament",
+            "71",
+            "68",
+            "69",
+            "67",
+            "275",
+            "\u22129",
+            "8",
+            "6100000"
+        ],
+        [
+            "2004",
+            "Dunlop Phoenix Tournament",
+            "65",
+            "67",
+            "65",
+            "67",
+            "264",
+            "\u221216",
+            "1",
+            "40000000"
+        ],
+        [
+            "2005",
+            "Dunlop Phoenix Tournament",
+            "65",
+            "67",
+            "68",
+            "72",
+            "272",
+            "\u22128",
+            "1",
+            "40000000"
+        ],
+        [
+            "2006",
+            "Dunlop Phoenix Tournament",
+            "67",
+            "65",
+            "72",
+            "67",
+            "271",
+            "\u22129",
+            "2",
+            "20000000"
+        ]
+    ]
+}

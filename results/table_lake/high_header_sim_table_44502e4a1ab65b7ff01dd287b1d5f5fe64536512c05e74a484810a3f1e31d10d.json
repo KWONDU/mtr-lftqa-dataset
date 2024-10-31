@@ -1,0 +1,84 @@
+{
+    "id": "44502e4a1ab65b7ff01dd287b1d5f5fe64536512c05e74a484810a3f1e31d10d",
+    "metadata": "List of corporations by market capitalization | 2000 | 2000",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Headquarters",
+        "Primary_industry",
+        "Market_value_USD_million"
+    ],
+    "cell": [
+        [
+            "1",
+            "Microsoft",
+            "United States",
+            "Software industry",
+            "586197"
+        ],
+        [
+            "2",
+            "General Electric",
+            "United States",
+            "Conglomerate",
+            "474956"
+        ],
+        [
+            "3",
+            "NTT DoCoMo",
+            "Japan",
+            "Telecommunications",
+            "366204"
+        ],
+        [
+            "4",
+            "Cisco Systems",
+            "United States",
+            "Networking hardware",
+            "348965"
+        ],
+        [
+            "5",
+            "Wal-Mart",
+            "United States",
+            "Retail",
+            "286153"
+        ],
+        [
+            "6",
+            "Intel Corporation",
+            "United States",
+            "Computer hardware",
+            "277096"
+        ],
+        [
+            "7",
+            "Nippon Telegraph and Telephone",
+            "Japan",
+            "Telecommunications",
+            "274905"
+        ],
+        [
+            "8",
+            "Exxon Mobil",
+            "United States",
+            "Oil and gas",
+            "265894"
+        ],
+        [
+            "9",
+            "Lucent Technologies",
+            "United States",
+            "Telecommunications",
+            "237668"
+        ],
+        [
+            "10",
+            "Deutsche Telekom",
+            "Germany",
+            "Telecommunications",
+            "209628"
+        ]
+    ]
+}

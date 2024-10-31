@@ -1,0 +1,49 @@
+{
+    "id": "14fa685d8716dc1fbff1cf51c237eb375a3ce7789e6d8de1c6b1d7a7ed10418e",
+    "metadata": "Coleen Sommer | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "1983",
+            "Pan American Games",
+            "Caracas , Venezuela",
+            "1st",
+            "High Jump"
+        ],
+        [
+            "1983",
+            "World Championships",
+            "Helsinki, Finland",
+            "4th",
+            "High Jump"
+        ],
+        [
+            "1987",
+            "Pan American Games",
+            "Indianapolis , United States",
+            "1st",
+            "High Jump"
+        ],
+        [
+            "1987",
+            "World Championships",
+            "Rome, Italy",
+            "11th",
+            "High Jump"
+        ],
+        [
+            "1988",
+            "Olympic Games",
+            "Seoul, South Korea",
+            "18th",
+            "High Jump"
+        ]
+    ]
+}

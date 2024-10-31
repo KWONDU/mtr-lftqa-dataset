@@ -1,0 +1,56 @@
+{
+    "id": "246366408000798bc630f33cf2d628b4d5bf8709b7e7e3357dc604f932440bde",
+    "metadata": "Navman | Previous models | Previous models",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Screen_size",
+        "Bluetooth",
+        "FM_transmitter",
+        "Flash"
+    ],
+    "cell": [
+        [
+            "S30",
+            "3.5",
+            "No",
+            "No",
+            "256 MB"
+        ],
+        [
+            "S35",
+            "3.5",
+            "No",
+            "No",
+            "1 GB"
+        ],
+        [
+            "S45 (Australia only)",
+            "4.3 widescreen",
+            "No",
+            "No",
+            "1 GB"
+        ],
+        [
+            "S50",
+            "4.3 widescreen",
+            "DUN + handsfree",
+            "No",
+            "512 MB"
+        ],
+        [
+            "S80 (Australia & U.K. only)",
+            "4.3 widescreen",
+            "DUN + handsfree",
+            "No",
+            "512 MB"
+        ],
+        [
+            "S90i",
+            "4.3 widescreen",
+            "DUN + handsfree",
+            "No",
+            "2 GB"
+        ]
+    ]
+}

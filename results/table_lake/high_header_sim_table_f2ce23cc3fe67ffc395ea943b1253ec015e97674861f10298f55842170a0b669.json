@@ -1,0 +1,70 @@
+{
+    "id": "f2ce23cc3fe67ffc395ea943b1253ec015e97674861f10298f55842170a0b669",
+    "metadata": "Ian Scheckter | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1974",
+            "Team Gunston",
+            "Lotus 72E",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1974",
+            "Hesketh Racing",
+            "Hesketh 308",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1975",
+            "Lexington Racing",
+            "Tyrrell 007",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1975",
+            "Frank Williams Racing Cars",
+            "Williams FW04",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1975",
+            "Frank Williams Racing Cars",
+            "Williams FW03",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1976",
+            "Lexington Racing",
+            "Tyrrell 007",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1977",
+            "Team Rothmans International",
+            "March 761B",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1977",
+            "Team Rothmans International",
+            "March 771",
+            "Cosworth V8",
+            "0"
+        ]
+    ]
+}

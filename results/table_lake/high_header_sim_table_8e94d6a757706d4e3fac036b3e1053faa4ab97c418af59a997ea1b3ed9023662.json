@@ -1,0 +1,56 @@
+{
+    "id": "8e94d6a757706d4e3fac036b3e1053faa4ab97c418af59a997ea1b3ed9023662",
+    "metadata": "DMFAS | List of DMFAS Programme Managers and Chiefs | List of DMFAS Programme Managers and Chiefs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Number_",
+        "Name_",
+        "Dates_in_office",
+        "Country_of_origin",
+        "Remarks"
+    ],
+    "cell": [
+        [
+            "1",
+            "Kenneth Ruffing",
+            "1981-1984",
+            "USA",
+            "Manager"
+        ],
+        [
+            "2",
+            "John Burley",
+            "1984-1985",
+            "U.K.",
+            "Manager"
+        ],
+        [
+            "3",
+            "Erling Nypan",
+            "1985-1988",
+            "Norway",
+            "Manager"
+        ],
+        [
+            "4",
+            "Enrique Cos\u00edo-Pascal",
+            "1989-2001",
+            "Mexico",
+            "Chief"
+        ],
+        [
+            "5",
+            "Philippe Straatman",
+            "2001-2005",
+            "Belgium",
+            "Chief"
+        ],
+        [
+            "6",
+            "Gerard Teeling",
+            "2007 - present",
+            "Ireland",
+            "Chief"
+        ]
+    ]
+}

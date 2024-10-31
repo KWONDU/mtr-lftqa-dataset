@@ -1,0 +1,70 @@
+{
+    "id": "ee2b3450ca339e6a054a4cde83fc81abab7894d4743839cbbd47769864676800",
+    "metadata": "1971 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "19.20 (134)",
+            "Fitzroy",
+            "12.9 (81)",
+            "Victoria Park",
+            "25759",
+            "24 April 1971"
+        ],
+        [
+            "South Melbourne",
+            "5.9 (39)",
+            "Richmond",
+            "20.13 (133)",
+            "Lake Oval",
+            "18895",
+            "24 April 1971"
+        ],
+        [
+            "St Kilda",
+            "10.9 (69)",
+            "Hawthorn",
+            "18.19 (127)",
+            "Moorabbin Oval",
+            "25153",
+            "24 April 1971"
+        ],
+        [
+            "North Melbourne",
+            "14.15 (99)",
+            "Footscray",
+            "13.14 (92)",
+            "Arden Street Oval",
+            "13972",
+            "24 April 1971"
+        ],
+        [
+            "Geelong",
+            "13.8 (86)",
+            "Carlton",
+            "13.21 (99)",
+            "Kardinia Park",
+            "23555",
+            "24 April 1971"
+        ],
+        [
+            "Melbourne",
+            "10.18 (78)",
+            "Essendon",
+            "6.7 (43)",
+            "VFL Park",
+            "27342",
+            "24 April 1971"
+        ]
+    ]
+}

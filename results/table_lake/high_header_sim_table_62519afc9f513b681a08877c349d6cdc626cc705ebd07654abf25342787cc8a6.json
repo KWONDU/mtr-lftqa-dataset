@@ -1,0 +1,124 @@
+{
+    "id": "62519afc9f513b681a08877c349d6cdc626cc705ebd07654abf25342787cc8a6",
+    "metadata": "2006-07 Cleveland Cavaliers season | February | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Leading_scorer",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "February 1",
+            "Cleveland",
+            "89-92",
+            "Miami",
+            "Daniel Gibson (19)",
+            "20125",
+            "26-20"
+        ],
+        [
+            "February 2",
+            "Charlotte",
+            "101-81",
+            "Cleveland",
+            "LeBron James (18)",
+            "20562",
+            "27-20"
+        ],
+        [
+            "February 4",
+            "Detroit",
+            "78-90",
+            "Cleveland",
+            "LeBron James (21)",
+            "20140",
+            "27-21"
+        ],
+        [
+            "February 7",
+            "LA Clippers",
+            "94-77",
+            "Cleveland",
+            "Zydrunas Ilgauskas (16)",
+            "20129",
+            "28-21"
+        ],
+        [
+            "February 9",
+            "Miami",
+            "103-79",
+            "Cleveland",
+            "LeBron James (29)",
+            "20562",
+            "29-21"
+        ],
+        [
+            "February 11",
+            "LA Lakers",
+            "99-90",
+            "Cleveland",
+            "Sasha Pavlovi\u0107(21)",
+            "20562",
+            "30-21"
+        ],
+        [
+            "February 14",
+            "Cleveland",
+            "98-99",
+            "Utah",
+            "Larry Hughes(33)",
+            "19911",
+            "30-22"
+        ],
+        [
+            "February 15",
+            "Cleveland",
+            "114-108",
+            "LA Lakers",
+            "LeBron James (38)",
+            "18997",
+            "31-22"
+        ],
+        [
+            "February 21",
+            "Cleveland",
+            "86-85",
+            "Toronto",
+            "LeBron James (29)",
+            "19800",
+            "32-22"
+        ],
+        [
+            "February 22",
+            "Chicago",
+            "78-84",
+            "Cleveland",
+            "LeBron James (29)",
+            "20562",
+            "32-23"
+        ],
+        [
+            "February 25",
+            "Cleveland",
+            "81-86",
+            "Miami",
+            "LeBron James (29)",
+            "20225",
+            "32-24"
+        ],
+        [
+            "February 27",
+            "NO/OK City",
+            "97-89",
+            "Cleveland",
+            "LeBron James (35)",
+            "19619",
+            "33-24"
+        ]
+    ]
+}

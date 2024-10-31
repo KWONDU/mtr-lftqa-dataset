@@ -1,0 +1,84 @@
+{
+    "id": "c266de91648c5a7a201543b2f7c73726f23d4598bc15341f3744667915bcfbdf",
+    "metadata": "Media in North Bay, Ontario | Radio | Radio",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Frequency",
+        "Call_sign",
+        "Branding",
+        "Format",
+        "Owner_"
+    ],
+    "cell": [
+        [
+            "600 AM",
+            "CKAT",
+            "Country 600",
+            "country / news / sports",
+            "Rogers Communications"
+        ],
+        [
+            "95.1 FM",
+            "CBON-FM-17",
+            "Premi\u00e8re Cha\u00eene",
+            "public news / talk",
+            "Canadian Broadcasting Corporation"
+        ],
+        [
+            "96.1 FM",
+            "CBCN-FM",
+            "CBC Radio One",
+            "public news / talk",
+            "Canadian Broadcasting Corporation"
+        ],
+        [
+            "97.1 FM",
+            "CHYQ-FM",
+            "Le Loup FM",
+            "Hot adult contemporary",
+            "Le5 Communications"
+        ],
+        [
+            "99.3 FM",
+            "CFSF-FM",
+            "Moose FM",
+            "adult contemporary",
+            "Vista Broadcast Group"
+        ],
+        [
+            "100.5 FM",
+            "CHUR-FM",
+            "Kiss 100.5",
+            "hot adult contemporary",
+            "Rogers Communications"
+        ],
+        [
+            "101.9 FM",
+            "CKFX-FM",
+            "The Fox",
+            "active rock",
+            "Rogers Communications"
+        ],
+        [
+            "103.5 FM",
+            "CJTK-FM",
+            "KFM",
+            "Christian music",
+            "Eternacom"
+        ],
+        [
+            "104.9 FM",
+            "CKTR-FM",
+            "North Bay Radio 104.9",
+            "tourist information / community radio",
+            "1311831 Ontario Limited"
+        ],
+        [
+            "106.3 FM",
+            "CFXN-FM",
+            "Moose FM",
+            "classic hits",
+            "Vista Broadcast Group"
+        ]
+    ]
+}

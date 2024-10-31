@@ -1,0 +1,133 @@
+{
+    "id": "8c7a6e5c5f1b2886afc358de044e7df1bdfbc797c0eb92beda7a98d146bcddc1",
+    "metadata": "1969-70 Pittsburgh Penguins season | Game log | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Attendance",
+        "Record",
+        "Points"
+    ],
+    "cell": [
+        [
+            "February 1",
+            "Pittsburgh",
+            "0-6",
+            "NY Rangers",
+            "17250",
+            "14-25-8",
+            "36"
+        ],
+        [
+            "February 4",
+            "Pittsburgh",
+            "7-5",
+            "Minnesota",
+            "11973",
+            "15-25-8",
+            "38"
+        ],
+        [
+            "February 7",
+            "Los Angeles",
+            "1-3",
+            "Pittsburgh",
+            "7983",
+            "16-25-8",
+            "40"
+        ],
+        [
+            "February 8",
+            "Minnesota",
+            "3-6",
+            "Pittsburgh",
+            "7954",
+            "17-25-8",
+            "42"
+        ],
+        [
+            "February 11",
+            "Pittsburgh",
+            "1-7",
+            "Chicago",
+            "16666",
+            "17-26-8",
+            "42"
+        ],
+        [
+            "February 14",
+            "Boston",
+            "3-0",
+            "Pittsburgh",
+            "12202",
+            "17-27-8",
+            "42"
+        ],
+        [
+            "February 15",
+            "Pittsburgh",
+            "4-2",
+            "Detroit",
+            "14487",
+            "18-27-8",
+            "44"
+        ],
+        [
+            "February 17",
+            "Philadelphia",
+            "2-4",
+            "Pittsburgh",
+            "7494",
+            "19-27-8",
+            "46"
+        ],
+        [
+            "February 19",
+            "Pittsburgh",
+            "6-1",
+            "Los Angeles",
+            "5298",
+            "20-27-8",
+            "48"
+        ],
+        [
+            "February 21",
+            "Pittsburgh",
+            "3-6",
+            "Oakland",
+            "6135",
+            "20-28-8",
+            "48"
+        ],
+        [
+            "February 25",
+            "Pittsburgh",
+            "2-3",
+            "Montreal",
+            "16259",
+            "20-29-8",
+            "48"
+        ],
+        [
+            "February 26",
+            "Los Angeles",
+            "0-1",
+            "Pittsburgh",
+            "4826",
+            "21-29-8",
+            "50"
+        ],
+        [
+            "February 28",
+            "Oakland",
+            "2-3",
+            "Pittsburgh",
+            "10740",
+            "22-29-8",
+            "52"
+        ]
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "e70a42ad60a022ee3784874262a1f8f4802fde2fdc7db41dae3c782c337b174d",
+    "metadata": "2008-09 Philadelphia Flyers season | Regular season | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "October 11",
+            "NY Rangers",
+            "4 - 3",
+            "Philadelphia",
+            "Biron",
+            "19623",
+            "0-1-0"
+        ],
+        [
+            "October 13",
+            "Montreal",
+            "5 - 3",
+            "Philadelphia",
+            "Biron",
+            "19323",
+            "0-2-0"
+        ],
+        [
+            "October 14",
+            "Philadelphia",
+            "2 - 3",
+            "Pittsburgh",
+            "Niittymaki",
+            "16965",
+            "0-2-1"
+        ],
+        [
+            "October 16",
+            "Philadelphia",
+            "2 - 5",
+            "Colorado",
+            "Biron",
+            "18007",
+            "0-3-1"
+        ],
+        [
+            "October 18",
+            "Philadelphia",
+            "4 - 5",
+            "San Jose",
+            "Niittymaki",
+            "17496",
+            "0-3-2"
+        ],
+        [
+            "October 22",
+            "San Jose",
+            "7 - 6",
+            "Philadelphia",
+            "Biron",
+            "19072",
+            "0-3-3"
+        ],
+        [
+            "October 24",
+            "Philadelphia",
+            "6 - 3",
+            "New Jersey",
+            "Biron",
+            "15529",
+            "1-3-3"
+        ],
+        [
+            "October 25",
+            "New Jersey",
+            "2 - 3",
+            "Philadelphia",
+            "Biron",
+            "19611",
+            "2-3-3"
+        ],
+        [
+            "October 28",
+            "Philadelphia",
+            "7 - 0",
+            "Atlanta",
+            "Niittymaki",
+            "13207",
+            "3-3-3"
+        ],
+        [
+            "October 30",
+            "NY Islanders",
+            "2 - 3",
+            "Philadelphia",
+            "Biron",
+            "18227",
+            "4-3-3"
+        ]
+    ]
+}

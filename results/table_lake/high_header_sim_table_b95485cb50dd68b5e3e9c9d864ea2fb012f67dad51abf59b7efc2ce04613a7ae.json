@@ -1,0 +1,70 @@
+{
+    "id": "b95485cb50dd68b5e3e9c9d864ea2fb012f67dad51abf59b7efc2ce04613a7ae",
+    "metadata": "1936 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "14.5 (89)",
+            "Melbourne",
+            "9.13 (67)",
+            "Victoria Park",
+            "11250",
+            "13 June 1936"
+        ],
+        [
+            "Carlton",
+            "19.14 (128)",
+            "St Kilda",
+            "11.9 (75)",
+            "Princes Park",
+            "22000",
+            "13 June 1936"
+        ],
+        [
+            "Hawthorn",
+            "12.19 (91)",
+            "Geelong",
+            "7.6 (48)",
+            "Glenferrie Oval",
+            "6000",
+            "13 June 1936"
+        ],
+        [
+            "North Melbourne",
+            "12.19 (91)",
+            "Footscray",
+            "13.7 (85)",
+            "Arden Street Oval",
+            "10000",
+            "13 June 1936"
+        ],
+        [
+            "South Melbourne",
+            "13.15 (93)",
+            "Fitzroy",
+            "7.11 (53)",
+            "Lake Oval",
+            "14000",
+            "13 June 1936"
+        ],
+        [
+            "Richmond",
+            "10.18 (78)",
+            "Essendon",
+            "10.11 (71)",
+            "Punt Road Oval",
+            "12000",
+            "13 June 1936"
+        ]
+    ]
+}

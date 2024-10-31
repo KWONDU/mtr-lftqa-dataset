@@ -1,0 +1,77 @@
+{
+    "id": "3f9cd1f36259c4066d670824fd0e46e2a83ec728face603f5234e517ec8372cd",
+    "metadata": "Trevor Taylor | Complete World Championship Formula One results | Complete World Championship Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1959",
+            "Ace Garage ( Rotherham )",
+            "Cooper T51",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1961",
+            "Team Lotus",
+            "Lotus 18",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1962",
+            "Team Lotus",
+            "Lotus 24",
+            "Climax V8",
+            "6"
+        ],
+        [
+            "1962",
+            "Team Lotus",
+            "Lotus 25",
+            "Climax V8",
+            "6"
+        ],
+        [
+            "1963",
+            "Team Lotus",
+            "Lotus 25",
+            "Climax V8",
+            "1"
+        ],
+        [
+            "1964",
+            "British Racing Partnership",
+            "BRP 1",
+            "BRM V8",
+            "1"
+        ],
+        [
+            "1964",
+            "British Racing Partnership",
+            "BRP 2",
+            "BRM V8",
+            "1"
+        ],
+        [
+            "1964",
+            "British Racing Partnership",
+            "Lotus 24",
+            "BRM V8",
+            "1"
+        ],
+        [
+            "1966",
+            "Aiden Jones / Paul Emery",
+            "Shannon",
+            "Climax V8",
+            "0"
+        ]
+    ]
+}

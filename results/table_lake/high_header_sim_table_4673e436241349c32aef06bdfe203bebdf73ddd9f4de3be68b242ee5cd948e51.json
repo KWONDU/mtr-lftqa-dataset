@@ -1,0 +1,70 @@
+{
+    "id": "4673e436241349c32aef06bdfe203bebdf73ddd9f4de3be68b242ee5cd948e51",
+    "metadata": "1967 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "7.12 (54)",
+            "Richmond",
+            "23.30 (168)",
+            "Glenferrie Oval",
+            "19441",
+            "12 August 1967"
+        ],
+        [
+            "Carlton",
+            "11.7 (73)",
+            "St Kilda",
+            "9.8 (62)",
+            "Princes Park",
+            "32912",
+            "12 August 1967"
+        ],
+        [
+            "Melbourne",
+            "7.12 (54)",
+            "Footscray",
+            "7.9 (51)",
+            "MCG",
+            "17039",
+            "12 August 1967"
+        ],
+        [
+            "North Melbourne",
+            "9.12 (66)",
+            "Fitzroy",
+            "15.15 (105)",
+            "Arden Street Oval",
+            "8509",
+            "12 August 1967"
+        ],
+        [
+            "Geelong",
+            "10.13 (73)",
+            "Essendon",
+            "4.10 (34)",
+            "Kardinya Park",
+            "25956",
+            "12 August 1967"
+        ],
+        [
+            "South Melbourne",
+            "5.6 (36)",
+            "Collingwood",
+            "16.14 (110)",
+            "Lake Oval",
+            "10034",
+            "12 August 1967"
+        ]
+    ]
+}

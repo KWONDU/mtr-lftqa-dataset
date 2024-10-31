@@ -1,0 +1,71 @@
+{
+    "id": "4399971b4afd2dfc98b0f61097797bd23b237dcaa0f9bf4834cfe4be6027ea18",
+    "metadata": "SC Freiburg | Matches | Matches",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Competition",
+        "Round",
+        "Club",
+        "Home",
+        "Away"
+    ],
+    "cell": [
+        [
+            "1995-96",
+            "UEFA Cup",
+            "First round",
+            "Slavia Prague",
+            "1-2",
+            "0-0"
+        ],
+        [
+            "2001-02",
+            "UEFA Cup",
+            "First round",
+            "Matador P\u00fachov",
+            "2-1",
+            "0-0"
+        ],
+        [
+            "2001-02",
+            "UEFA Cup",
+            "Second round",
+            "St. Gallen",
+            "0-1",
+            "4-1"
+        ],
+        [
+            "2001-02",
+            "UEFA Cup",
+            "Third round",
+            "Feyenoord",
+            "2-2",
+            "0-1"
+        ],
+        [
+            "2013-14",
+            "UEFA Europa League",
+            "Group H",
+            "Sevilla",
+            "-",
+            "0-2"
+        ],
+        [
+            "2013-14",
+            "UEFA Europa League",
+            "Group H",
+            "Estoril",
+            "-",
+            "-"
+        ],
+        [
+            "2013-14",
+            "UEFA Europa League",
+            "Group H",
+            "Slovan Liberec",
+            "2-2",
+            "-"
+        ]
+    ]
+}

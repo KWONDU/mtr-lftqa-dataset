@@ -1,0 +1,49 @@
+{
+    "id": "f3173a69682ead50d3ffeb9dd1129e2d4faf8a4d5c5b95fb2c0eaf59e44f5031",
+    "metadata": "1973 UEFA Cup Final | Liverpool | Liverpool",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Opposition",
+        "First_leg",
+        "Second_leg",
+        "Aggregate_score"
+    ],
+    "cell": [
+        [
+            "1st",
+            "Eintracht Frankfurt",
+            "2-0 (h)",
+            "0-0 (a)",
+            "2-0"
+        ],
+        [
+            "2nd",
+            "AEK Athens",
+            "3-0 (h)",
+            "3-1 (a)",
+            "6-1"
+        ],
+        [
+            "3rd",
+            "Dynamo Berlin",
+            "0-0 (a)",
+            "3-1 (h)",
+            "3-1"
+        ],
+        [
+            "Quarter-final",
+            "Dynamo Dresden",
+            "2-0 (a)",
+            "1-0 (h)",
+            "3-0"
+        ],
+        [
+            "Semi-final",
+            "Tottenham Hotspur",
+            "1-0 (h)",
+            "1-2 (a)",
+            "2-2"
+        ]
+    ]
+}

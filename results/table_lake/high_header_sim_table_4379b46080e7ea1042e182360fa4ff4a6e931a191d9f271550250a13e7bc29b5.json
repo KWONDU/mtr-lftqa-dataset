@@ -1,0 +1,61 @@
+{
+    "id": "4379b46080e7ea1042e182360fa4ff4a6e931a191d9f271550250a13e7bc29b5",
+    "metadata": "Bournemouth Borough Council | Composition | Composition",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Party",
+        "_1999_Election",
+        "_2003_Election",
+        "_2007_Election",
+        "May_2010",
+        "_2011_Election",
+        "May_2012"
+    ],
+    "cell": [
+        [
+            "Conservative",
+            "25",
+            "16",
+            "41",
+            "37",
+            "45",
+            "46"
+        ],
+        [
+            "Labour",
+            "6",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+        ],
+        [
+            "Independent",
+            "6",
+            "2",
+            "3",
+            "5",
+            "3",
+            "3"
+        ],
+        [
+            "Liberal Democrat",
+            "20",
+            "33",
+            "7",
+            "9",
+            "3",
+            "2"
+        ],
+        [
+            "Total",
+            "57",
+            "54",
+            "54",
+            "54",
+            "54",
+            "54"
+        ]
+    ]
+}

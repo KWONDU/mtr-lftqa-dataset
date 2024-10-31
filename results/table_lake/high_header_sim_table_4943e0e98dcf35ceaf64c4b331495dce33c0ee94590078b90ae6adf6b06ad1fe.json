@@ -1,0 +1,55 @@
+{
+    "id": "4943e0e98dcf35ceaf64c4b331495dce33c0ee94590078b90ae6adf6b06ad1fe",
+    "metadata": "2008 OAFL season | Round Four | Round Four",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_",
+        "Home",
+        "Away",
+        "Score",
+        "Ground"
+    ],
+    "cell": [
+        [
+            "2008-06-06",
+            "18:45",
+            "Etobicoke Kangaroos",
+            "Toronto Downtown Dingos",
+            "86-34",
+            "Humber College Lakeshore"
+        ],
+        [
+            "2008-06-07",
+            "10:00",
+            "Broadview Hawks",
+            "Toronto Eagles",
+            "42-64",
+            "Humber College North"
+        ],
+        [
+            "2008-06-07",
+            "12:00",
+            "High Park Demons",
+            "Central Blues",
+            "25-102",
+            "Humber College North"
+        ],
+        [
+            "2008-06-07",
+            "14:00",
+            "Ottawa Swans",
+            "Hamilton Wildcats",
+            "49-80",
+            "Rideau Carleton Raceway"
+        ],
+        [
+            "2008-06-07",
+            "14:00",
+            "Guelph Gargoyles",
+            "Toronto Rebels",
+            "79-42",
+            "Magaret Green Park"
+        ]
+    ]
+}

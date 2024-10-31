@@ -1,0 +1,71 @@
+{
+    "id": "25e81e13a23ebcf2a4fb375a0c8e27eed92b55f77e5b79033b6c3c220dff3c48",
+    "metadata": "Noble gas (data page) | Phase changes and critical properties | Phase changes and critical properties",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Physical_property",
+        "Helium",
+        "Neon",
+        "Argon",
+        "Krypton",
+        "Xenon"
+    ],
+    "cell": [
+        [
+            "Boiling point (\u00b0C)",
+            "\u2212268.8",
+            "\u2212245.9",
+            "\u2212185.8",
+            "\u2212151.7",
+            "\u2212106.6"
+        ],
+        [
+            "Melting point (\u00b0C)",
+            "\u2212",
+            "\u2212248.5",
+            "\u2212189.6",
+            "\u2212157.4",
+            "\u2212111.5"
+        ],
+        [
+            "Critical temperature (K)",
+            "5.25",
+            "44.5",
+            "150.85",
+            "209.35",
+            "289.74"
+        ],
+        [
+            "Critical pressure (atm)",
+            "2.26",
+            "26.9",
+            "48.3",
+            "54.3",
+            "57.64"
+        ],
+        [
+            "Critical density (g/mL)",
+            "0.0693",
+            "0.484",
+            "0.536",
+            "0.908",
+            "1.100"
+        ],
+        [
+            "Triple point temperature (K)",
+            "24.562",
+            "83.80",
+            "115.76",
+            "161.37",
+            "202"
+        ],
+        [
+            "Triple point pressure (kPa)",
+            "5.1",
+            "43.37",
+            "68.90",
+            "73.15",
+            "81.66"
+        ]
+    ]
+}

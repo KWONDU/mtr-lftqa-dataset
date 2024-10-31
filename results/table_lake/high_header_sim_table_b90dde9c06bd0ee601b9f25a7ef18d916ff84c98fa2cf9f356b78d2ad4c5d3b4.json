@@ -1,0 +1,70 @@
+{
+    "id": "b90dde9c06bd0ee601b9f25a7ef18d916ff84c98fa2cf9f356b78d2ad4c5d3b4",
+    "metadata": "1952 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "12.19 (91)",
+            "Footscray",
+            "4.5 (29)",
+            "Victoria Park",
+            "20500",
+            "31 May 1952"
+        ],
+        [
+            "Carlton",
+            "14.10 (94)",
+            "St Kilda",
+            "10.13 (73)",
+            "Princes Park",
+            "12500",
+            "31 May 1952"
+        ],
+        [
+            "North Melbourne",
+            "6.13 (49)",
+            "Melbourne",
+            "9.9 (63)",
+            "Arden Street Oval",
+            "11000",
+            "31 May 1952"
+        ],
+        [
+            "Richmond",
+            "8.7 (55)",
+            "Geelong",
+            "11.13 (79)",
+            "Punt Road Oval",
+            "25000",
+            "31 May 1952"
+        ],
+        [
+            "South Melbourne",
+            "14.12 (96)",
+            "Fitzroy",
+            "9.11 (65)",
+            "Lake Oval",
+            "15000",
+            "31 May 1952"
+        ],
+        [
+            "Hawthorn",
+            "5.14 (44)",
+            "Essendon",
+            "15.8 (98)",
+            "Glenferrie Oval",
+            "14000",
+            "31 May 1952"
+        ]
+    ]
+}

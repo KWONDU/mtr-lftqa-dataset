@@ -1,0 +1,55 @@
+{
+    "id": "ca01a7ffe1ab897e5e970e580d033d04995985101e35098a6135a1e6875f32c9",
+    "metadata": "1974 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Score",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 12",
+            "Oakland A`s - 3, Los Angeles Dodgers - 2",
+            "Dodger Stadium",
+            "2:43",
+            "55974"
+        ],
+        [
+            "2",
+            "October 13",
+            "Oakland A`s - 2, Los Angeles Dodgers - 3",
+            "Dodger Stadium",
+            "2:40",
+            "55989"
+        ],
+        [
+            "3",
+            "October 15",
+            "Los Angeles Dodgers - 2, Oakland A`s - 3",
+            "Oakland-Alameda County Coliseum",
+            "2:35",
+            "49347"
+        ],
+        [
+            "4",
+            "October 16",
+            "Los Angeles Dodgers - 2, Oakland A`s - 5",
+            "Oakland-Alameda County Coliseum",
+            "2:17",
+            "49347"
+        ],
+        [
+            "5",
+            "October 17",
+            "Los Angeles Dodgers - 2, Oakland A`s - 3",
+            "Oakland-Alameda County Coliseum",
+            "2:23",
+            "49347"
+        ]
+    ]
+}

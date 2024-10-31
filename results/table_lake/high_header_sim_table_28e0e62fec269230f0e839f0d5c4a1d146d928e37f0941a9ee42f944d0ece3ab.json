@@ -1,0 +1,84 @@
+{
+    "id": "28e0e62fec269230f0e839f0d5c4a1d146d928e37f0941a9ee42f944d0ece3ab",
+    "metadata": "Russian Basketball Super League 2007/2008 | Points | Points",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Team",
+        "Games",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Lee Nailon",
+            "Sibirtelecom Lokomotiv",
+            "12",
+            "264"
+        ],
+        [
+            "2.",
+            "Zendon Hamilton",
+            "Enisey Krasnoyarsk",
+            "17",
+            "323"
+        ],
+        [
+            "3.",
+            "Fred Warrick",
+            "Enisey Krasnoyarsk",
+            "24",
+            "419"
+        ],
+        [
+            "4.",
+            "Henry Domercant",
+            "Dynamo Moscow",
+            "22",
+            "364"
+        ],
+        [
+            "5.",
+            "J. R. Bremer",
+            "Spartak Primorje",
+            "23",
+            "372"
+        ],
+        [
+            "6.",
+            "Alex Scales",
+            "CSK VSS Samara",
+            "23",
+            "363"
+        ],
+        [
+            "7.",
+            "Andrew Wisniewski",
+            "Ural Great",
+            "23",
+            "362"
+        ],
+        [
+            "8.",
+            "Aleksandr Miloserdov",
+            "Universitet",
+            "22",
+            "326"
+        ],
+        [
+            "9",
+            "Maciej Lampe",
+            "Khimki",
+            "17",
+            "251"
+        ],
+        [
+            "10.",
+            "Brent Wright",
+            "Ural Great",
+            "22",
+            "306"
+        ]
+    ]
+}

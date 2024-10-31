@@ -1,0 +1,55 @@
+{
+    "id": "e2fd75458ec1df63cdf0e6c0d0d85e884531c3827da3f3e351f2031228fe5b20",
+    "metadata": "United States House of Representatives elections, 1958 | Mississippi | Mississippi",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Mississippi 1",
+            "Thomas Abernethy",
+            "Democratic",
+            "1942",
+            "Re-elected",
+            "Thomas Abernethy (D) Unopposed"
+        ],
+        [
+            "Mississippi 2",
+            "Jamie L. Whitten",
+            "Democratic",
+            "1941",
+            "Re-elected",
+            "Jamie L. Whitten (D) Unopposed"
+        ],
+        [
+            "Mississippi 3",
+            "Frank E. Smith",
+            "Democratic",
+            "1950",
+            "Re-elected",
+            "Frank E. Smith (D) Unopposed"
+        ],
+        [
+            "Mississippi 4",
+            "John Bell Williams",
+            "Democratic",
+            "1946",
+            "Re-elected",
+            "John Bell Williams (D) Unopposed"
+        ],
+        [
+            "Mississippi 5",
+            "W. Arthur Winstead",
+            "Democratic",
+            "1942",
+            "Re-elected",
+            "W. Arthur Winstead (D) Unopposed"
+        ]
+    ]
+}

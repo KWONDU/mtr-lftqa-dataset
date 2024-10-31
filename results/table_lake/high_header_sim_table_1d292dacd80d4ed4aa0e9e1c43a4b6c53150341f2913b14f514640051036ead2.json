@@ -1,0 +1,63 @@
+{
+    "id": "1d292dacd80d4ed4aa0e9e1c43a4b6c53150341f2913b14f514640051036ead2",
+    "metadata": "2004 National League Championship Series | St. Louis Cardinals vs. Houston Astros | St. Louis Cardinals vs. Houston Astros",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 13",
+            "Busch Stadium (II)",
+            "3:15",
+            "52323"
+        ],
+        [
+            "2",
+            "October 14",
+            "Busch Stadium (II)",
+            "3:02",
+            "52347"
+        ],
+        [
+            "3",
+            "October 16",
+            "Minute Maid Park",
+            "2:57",
+            "42896"
+        ],
+        [
+            "4",
+            "October 17",
+            "Minute Maid Park",
+            "3:01",
+            "42760"
+        ],
+        [
+            "5",
+            "October 18",
+            "Minute Maid Park",
+            "2:33",
+            "43045"
+        ],
+        [
+            "6",
+            "October 20",
+            "Busch Stadium (II)",
+            "3:54",
+            "52144"
+        ],
+        [
+            "7",
+            "October 21",
+            "Busch Stadium (II)",
+            "2:51",
+            "52140"
+        ]
+    ]
+}

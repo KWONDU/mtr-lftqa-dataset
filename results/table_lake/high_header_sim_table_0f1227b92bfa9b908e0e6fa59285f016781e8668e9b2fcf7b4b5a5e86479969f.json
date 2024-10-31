@@ -1,0 +1,56 @@
+{
+    "id": "0f1227b92bfa9b908e0e6fa59285f016781e8668e9b2fcf7b4b5a5e86479969f",
+    "metadata": "2007 Open Championship | Missed the cut | Missed the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_Won",
+        "Total",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "Paul Lawrie",
+            "Scotland",
+            "1999",
+            "147",
+            "+5"
+        ],
+        [
+            "Justin Leonard",
+            "United States",
+            "1997",
+            "147",
+            "+5"
+        ],
+        [
+            "John Daly",
+            "United States",
+            "1995",
+            "150",
+            "+8"
+        ],
+        [
+            "Nick Faldo",
+            "England",
+            "1987 , 1990 , 1992",
+            "152",
+            "+10"
+        ],
+        [
+            "Todd Hamilton",
+            "United States",
+            "2004",
+            "156",
+            "+11"
+        ],
+        [
+            "Tony Jacklin",
+            "England",
+            "1969",
+            "161",
+            "+19"
+        ]
+    ]
+}

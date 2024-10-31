@@ -1,0 +1,79 @@
+{
+    "id": "b81f384d8cc5e0ccc64e6b937d6274a05a3ba765a90290cbb206e59593173a5a",
+    "metadata": "Swimming at the 1956 Summer Olympics | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Australia (AUS)",
+            "8",
+            "4",
+            "2",
+            "14"
+        ],
+        [
+            "2",
+            "United States (USA)",
+            "2",
+            "4",
+            "5",
+            "11"
+        ],
+        [
+            "3",
+            "Japan (JPN)",
+            "1",
+            "4",
+            "0",
+            "5"
+        ],
+        [
+            "4",
+            "Great Britain (GBR)",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "4",
+            "Germany (EUA)",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "6",
+            "Hungary (HUN)",
+            "0",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "7",
+            "Soviet Union (URS)",
+            "0",
+            "0",
+            "2",
+            "2"
+        ],
+        [
+            "8",
+            "South Africa (RSA)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

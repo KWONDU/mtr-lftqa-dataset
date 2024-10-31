@@ -1,0 +1,119 @@
+{
+    "id": "bc5133f57b7bfef594afdb7a36977072e19cf6bad88e41ddc4a43c51742d679a",
+    "metadata": "List of districts of Uttarakhand | List of districts | List of districts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Code",
+        "District",
+        "Headquarters",
+        "Population_As_of_2011",
+        "Area_km\u00b2",
+        "Density_km\u00b2_"
+    ],
+    "cell": [
+        [
+            "AL",
+            "Almora",
+            "Almora",
+            "621972",
+            "3083",
+            "202"
+        ],
+        [
+            "BA",
+            "Bageshwar",
+            "Bageshwar",
+            "259840",
+            "2302",
+            "113"
+        ],
+        [
+            "CL",
+            "Chamoli",
+            "Chamoli Gopeshwar",
+            "391114",
+            "7613",
+            "51"
+        ],
+        [
+            "CP",
+            "Champawat",
+            "Champawat",
+            "259315",
+            "1781",
+            "146"
+        ],
+        [
+            "DD",
+            "Dehradun",
+            "Dehradun",
+            "1695860",
+            "3088",
+            "550"
+        ],
+        [
+            "HA",
+            "Haridwar",
+            "Haridwar",
+            "1927029",
+            "2360",
+            "817"
+        ],
+        [
+            "NA",
+            "Nainital",
+            "Nainital",
+            "955128",
+            "3860",
+            "247"
+        ],
+        [
+            "PG",
+            "Pauri Garhwal",
+            "Pauri",
+            "686572",
+            "5399",
+            "127"
+        ],
+        [
+            "PI",
+            "Pithoragarh",
+            "Pithoragarh",
+            "485993",
+            "7100",
+            "68"
+        ],
+        [
+            "RP",
+            "Rudra Prayag",
+            "Rudraprayag",
+            "236857",
+            "1890",
+            "125"
+        ],
+        [
+            "TG",
+            "Tehri Garhwal",
+            "New Tehri",
+            "616409",
+            "4080",
+            "151"
+        ],
+        [
+            "US",
+            "Udham Singh Nagar",
+            "Rudrapur",
+            "1648367",
+            "2908",
+            "567"
+        ],
+        [
+            "UT",
+            "Uttarkashi",
+            "Uttarkashi",
+            "329686",
+            "8016",
+            "41"
+        ]
+    ]
+}

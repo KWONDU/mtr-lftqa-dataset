@@ -1,0 +1,87 @@
+{
+    "id": "42cdd680db1770ca017b79d9ac31fce0354a73faeff4ab17961148d1017d4b60",
+    "metadata": "I-beam | Indian standard beams ISMB | Indian standard beams ISMB",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Type_",
+        "Beam_height_mm",
+        "Flange_width_mm",
+        "Web_thickness_mm",
+        "Flange_thickness_mm",
+        "Weight_kg_m",
+        "Cross_section_area_cm_2_",
+        "Moment_of_inertia_in_torsion_J_cm_4_"
+    ],
+    "cell": [
+        [
+            "ISMB 80",
+            "80",
+            "46",
+            "3.8",
+            "5.2",
+            "6.0",
+            "7.64",
+            "0.70"
+        ],
+        [
+            "ISMB 100",
+            "100",
+            "55",
+            "4.1",
+            "5.7",
+            "8.1",
+            "10.3",
+            "1.10"
+        ],
+        [
+            "ISMB 120",
+            "120",
+            "70",
+            "4.4",
+            "6.3",
+            "10.4",
+            "13.2",
+            "1.71"
+        ],
+        [
+            "ISMB 140",
+            "140",
+            "73",
+            "4.7",
+            "6.9",
+            "12.9",
+            "16.4",
+            "2.54"
+        ],
+        [
+            "ISMB 750 \u00d7 137",
+            "753",
+            "263",
+            "11.5",
+            "17",
+            "137",
+            "175",
+            "137.1"
+        ],
+        [
+            "ISMB 750 \u00d7 147",
+            "753",
+            "265",
+            "13.2",
+            "17",
+            "147",
+            "188",
+            "161.5"
+        ],
+        [
+            "ISMB 750 \u00d7 173",
+            "762",
+            "267",
+            "14.4",
+            "21.6",
+            "173",
+            "221",
+            "273.6"
+        ]
+    ]
+}

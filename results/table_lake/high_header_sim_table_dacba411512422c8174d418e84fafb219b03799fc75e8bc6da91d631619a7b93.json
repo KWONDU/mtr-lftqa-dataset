@@ -1,0 +1,160 @@
+{
+    "id": "dacba411512422c8174d418e84fafb219b03799fc75e8bc6da91d631619a7b93",
+    "metadata": "Comparison of top chess players throughout history | Moves played compared with computer choices | Moves played compared with computer choices",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "best_year",
+        "best_2_year_period",
+        "best_3_year_period",
+        "best_5_year_period",
+        "best_10_year_period",
+        "best_15_year_period"
+    ],
+    "cell": [
+        [
+            "1",
+            "Fischer",
+            "Fischer",
+            "Fischer",
+            "Fischer; Kasparov",
+            "Fischer; Capablanca",
+            "Capablanca"
+        ],
+        [
+            "2",
+            "Kramnik",
+            "Kramnik; Capablanca; Kasparov",
+            "Capablanca; Kasparov",
+            "Fischer; Kasparov",
+            "Fischer; Capablanca",
+            "Karpov; Kramnik"
+        ],
+        [
+            "3",
+            "Kasparov",
+            "Kramnik; Capablanca; Kasparov",
+            "Capablanca; Kasparov",
+            "Capablanca",
+            "Kramnik",
+            "Karpov; Kramnik"
+        ],
+        [
+            "4",
+            "Botvinnik",
+            "Kramnik; Capablanca; Kasparov",
+            "Smyslov",
+            "Kramnik; Botvinnik",
+            "Kasparov",
+            "Smyslov; Kasparov"
+        ],
+        [
+            "5",
+            "Capablanca",
+            "Karpov; Smyslov",
+            "Botvinnik",
+            "Kramnik; Botvinnik",
+            "Karpov; Smyslov",
+            "Smyslov; Kasparov"
+        ],
+        [
+            "6",
+            "Karpov",
+            "Karpov; Smyslov",
+            "Kramnik",
+            "Smyslov",
+            "Karpov; Smyslov",
+            "Fischer"
+        ],
+        [
+            "7",
+            "Smyslov; Tal",
+            "Botvinnik; Alekhine",
+            "Karpov",
+            "Karpov; Lasker",
+            "Botvinnik; Spassky",
+            "Botvinnik; Spassky; Petrosian"
+        ],
+        [
+            "8",
+            "Smyslov; Tal",
+            "Botvinnik; Alekhine",
+            "Spassky; Lasker",
+            "Karpov; Lasker",
+            "Botvinnik; Spassky",
+            "Botvinnik; Spassky; Petrosian"
+        ],
+        [
+            "9",
+            "Petrosian",
+            "Anand",
+            "Spassky; Lasker",
+            "Alekhine; Anand",
+            "Anand",
+            "Botvinnik; Spassky; Petrosian"
+        ],
+        [
+            "10",
+            "Euwe",
+            "Tal; Spassky",
+            "Anand",
+            "Alekhine; Anand",
+            "Lasker; Petrosian",
+            "Anand"
+        ],
+        [
+            "11",
+            "Spassky",
+            "Tal; Spassky",
+            "Petrosian",
+            "Petrosian; Spassky",
+            "Lasker; Petrosian",
+            "Tal"
+        ],
+        [
+            "12",
+            "Alekhine; Anand",
+            "Lasker; Euwe",
+            "Tal; Alekhine",
+            "Petrosian; Spassky",
+            "Tal; Alekhine",
+            "Alekhine; Lasker"
+        ],
+        [
+            "13",
+            "Alekhine; Anand",
+            "Lasker; Euwe",
+            "Tal; Alekhine",
+            "Euwe; Tal",
+            "Tal; Alekhine",
+            "Alekhine; Lasker"
+        ],
+        [
+            "14",
+            "Lasker",
+            "Petrosian",
+            "Euwe",
+            "Euwe; Tal",
+            "Euwe",
+            "Euwe"
+        ],
+        [
+            "15",
+            "Morphy",
+            "Morphy",
+            "Morphy",
+            "Steinitz",
+            "Steinitz",
+            "Steinitz"
+        ],
+        [
+            "16",
+            "Steinitz",
+            "Steinitz",
+            "Steinitz",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ]
+    ]
+}

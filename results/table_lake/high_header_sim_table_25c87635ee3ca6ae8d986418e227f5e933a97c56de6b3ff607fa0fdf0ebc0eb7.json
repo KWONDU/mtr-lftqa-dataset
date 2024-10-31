@@ -1,0 +1,63 @@
+{
+    "id": "25c87635ee3ca6ae8d986418e227f5e933a97c56de6b3ff607fa0fdf0ebc0eb7",
+    "metadata": "Agriculture in Lebanon | Crops | Crops",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Governorate",
+        "Cereals",
+        "Fruit_Trees",
+        "Olives",
+        "Industrial_crops",
+        "Vegetables"
+    ],
+    "cell": [
+        [
+            "Mount Lebanon",
+            "3140",
+            "97820",
+            "77678",
+            "1613",
+            "31100"
+        ],
+        [
+            "North",
+            "120380",
+            "135685",
+            "209628",
+            "37769",
+            "128584"
+        ],
+        [
+            "Beqaa",
+            "297737",
+            "217570",
+            "31443",
+            "153232",
+            "259743"
+        ],
+        [
+            "South",
+            "37638",
+            "123304",
+            "89340",
+            "14625",
+            "20753"
+        ],
+        [
+            "Nabatieh",
+            "59525",
+            "20768",
+            "116124",
+            "40026",
+            "12141"
+        ],
+        [
+            "Total",
+            "518420",
+            "595147",
+            "524213",
+            "247265",
+            "452321"
+        ]
+    ]
+}

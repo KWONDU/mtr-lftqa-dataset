@@ -1,0 +1,61 @@
+{
+    "id": "23eec7f0d0bc8cfd6508d12353b6fe099b9346c73b82c1f3dd3573d74e32bf1f",
+    "metadata": "1994-95 Philadelphia Flyers season | Playoffs | Eastern Conference Quarterfinals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "May 7",
+            "Buffalo",
+            "3 - 4",
+            "Philadelphia",
+            "Hextall",
+            "17380",
+            "Flyers lead 1-0"
+        ],
+        [
+            "May 8",
+            "Buffalo",
+            "1 - 3",
+            "Philadelphia",
+            "Hextall",
+            "17380",
+            "Flyers lead 2-0"
+        ],
+        [
+            "May 10",
+            "Philadelphia",
+            "1 - 3",
+            "Buffalo",
+            "Hextall",
+            "13256",
+            "Flyers lead 2-1"
+        ],
+        [
+            "May 12",
+            "Philadelphia",
+            "4 - 2",
+            "Buffalo",
+            "Hextall",
+            "16230",
+            "Flyers lead 3-1"
+        ],
+        [
+            "May 14",
+            "Buffalo",
+            "4 - 6",
+            "Philadelphia",
+            "Hextall",
+            "17380",
+            "Flyers win 4-1"
+        ]
+    ]
+}

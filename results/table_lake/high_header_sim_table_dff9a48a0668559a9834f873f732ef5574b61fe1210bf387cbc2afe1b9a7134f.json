@@ -1,0 +1,137 @@
+{
+    "id": "dff9a48a0668559a9834f873f732ef5574b61fe1210bf387cbc2afe1b9a7134f",
+    "metadata": "2008-09 Ottawa Senators season | Game log | November",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Score",
+        "Location_",
+        "Attendance",
+        "Record",
+        "Points"
+    ],
+    "cell": [
+        [
+            "11",
+            "November 1",
+            "Tampa Bay Lightning",
+            "3-2 (SO)",
+            "Tampa",
+            "16104",
+            "4-5-2",
+            "10"
+        ],
+        [
+            "12",
+            "November 4",
+            "Washington Capitals",
+            "2-1 (W)",
+            "Scotiabank Place",
+            "18485",
+            "5-5-2",
+            "12"
+        ],
+        [
+            "13",
+            "November 6",
+            "Philadelphia Flyers",
+            "4-1 (W)",
+            "Scotiabank Place",
+            "18938",
+            "6-5-2",
+            "14"
+        ],
+        [
+            "14",
+            "November 7",
+            "Carolina Hurricanes",
+            "2-1 (L)",
+            "Raleigh",
+            "15206",
+            "6-6-2",
+            "14"
+        ],
+        [
+            "15",
+            "November 11",
+            "Montreal Canadiens",
+            "4-0 (L)",
+            "Montreal",
+            "21273",
+            "6-7-2",
+            "14"
+        ],
+        [
+            "16",
+            "November 13",
+            "New York Islanders",
+            "3-1 (L)",
+            "Scotiabank Place",
+            "19061",
+            "6-8-2",
+            "14"
+        ],
+        [
+            "17",
+            "November 15",
+            "New York Islanders",
+            "3-2 (L)",
+            "New York",
+            "13722",
+            "6-9-2",
+            "14"
+        ],
+        [
+            "18",
+            "November 17",
+            "New York Rangers",
+            "2-1 (SO)",
+            "New York",
+            "18200",
+            "6-9-3",
+            "15"
+        ],
+        [
+            "19",
+            "November 20",
+            "Montreal Canadiens",
+            "3-2 (SO)",
+            "Scotiabank Place",
+            "20475",
+            "6-9-4",
+            "16"
+        ],
+        [
+            "20",
+            "November 22",
+            "New York Rangers",
+            "4-1 (W)",
+            "Scotiabank Place",
+            "19619",
+            "7-9-4",
+            "18"
+        ],
+        [
+            "21",
+            "November 27",
+            "Toronto Maple Leafs",
+            "2-1 (W)",
+            "Scotiabank Place",
+            "19703",
+            "8-9-4",
+            "20"
+        ],
+        [
+            "22",
+            "November 29",
+            "New York Islanders",
+            "4-2 (L)",
+            "New York",
+            "13108",
+            "8-10-4",
+            "20"
+        ]
+    ]
+}

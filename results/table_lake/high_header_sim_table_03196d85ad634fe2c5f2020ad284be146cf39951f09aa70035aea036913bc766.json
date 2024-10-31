@@ -1,0 +1,63 @@
+{
+    "id": "03196d85ad634fe2c5f2020ad284be146cf39951f09aa70035aea036913bc766",
+    "metadata": "KJIL | Oklahoma | Oklahoma",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "KNGM",
+            "88.9",
+            "Guymon, Oklahoma",
+            "25000",
+            "C3",
+            "FCC"
+        ],
+        [
+            "KJOV",
+            "90.7",
+            "Woodward, Oklahoma",
+            "25000",
+            "C2",
+            "FCC"
+        ],
+        [
+            "KJHL",
+            "90.9",
+            "Boise City, Oklahoma",
+            "10000",
+            "C3",
+            "FCC"
+        ],
+        [
+            "K229AV",
+            "93.7",
+            "Alva, Oklahoma",
+            "170",
+            "D",
+            "FCC"
+        ],
+        [
+            "K204FY",
+            "88.7",
+            "Fairview, Oklahoma",
+            "50",
+            "D",
+            "FCC"
+        ],
+        [
+            "K202DC",
+            "88.3",
+            "Shattuck, Oklahoma",
+            "230",
+            "D",
+            "FCC"
+        ]
+    ]
+}

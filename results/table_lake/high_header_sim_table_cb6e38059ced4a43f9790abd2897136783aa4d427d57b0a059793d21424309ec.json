@@ -1,0 +1,71 @@
+{
+    "id": "cb6e38059ced4a43f9790abd2897136783aa4d427d57b0a059793d21424309ec",
+    "metadata": "2007-08 Guildford Flames season | September | September",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "8",
+            "Romford Raiders",
+            "Home",
+            "Won 9-2",
+            "1319",
+            "League"
+        ],
+        [
+            "9",
+            "Chelmsford Chieftains",
+            "Away",
+            "Lost 1-2",
+            "465",
+            "Premier Cup"
+        ],
+        [
+            "15",
+            "Milton Keynes Lightning",
+            "Away",
+            "Lost 2-4",
+            "914",
+            "Premier Cup"
+        ],
+        [
+            "22",
+            "Slough Jets",
+            "Away",
+            "Won 8-7 (SO)",
+            "554",
+            "League"
+        ],
+        [
+            "23",
+            "Wightlink Raiders",
+            "Home",
+            "Won 9-3",
+            "1211",
+            "League"
+        ],
+        [
+            "29",
+            "Telford Tigers",
+            "Away",
+            "Lost 3-4 (OT)",
+            "280",
+            "League"
+        ],
+        [
+            "30",
+            "Swindon Wildcats",
+            "Home",
+            "Won 2-1",
+            "1248",
+            "League"
+        ]
+    ]
+}

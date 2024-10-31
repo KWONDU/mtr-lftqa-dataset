@@ -1,0 +1,79 @@
+{
+    "id": "a457a80de3536d4c471f077332c9d30a78391441082ce7a1fee30e649c5e347f",
+    "metadata": "1922 Grand Prix season | Other Grands Prix | Other Grands Prix",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Circuit",
+        "Date_",
+        "Winning_driver",
+        "Winning_constructor",
+        "Report"
+    ],
+    "cell": [
+        [
+            "Targa Florio",
+            "Madonie",
+            "2 April",
+            "Giulio Masetti",
+            "Mercedes",
+            "Report"
+        ],
+        [
+            "Sardo Circuit",
+            "Cagliari",
+            "30 May",
+            "Ernesto Ceirano",
+            "SCAT",
+            "Report"
+        ],
+        [
+            "Mugello Circuit",
+            "Mugello",
+            "18 June",
+            "Alfieri Maserati",
+            "Isotta-Fraschini",
+            "Report"
+        ],
+        [
+            "Tourist Trophy",
+            "Isle of Man",
+            "22 June",
+            "Jean Chassagne",
+            "Sunbeam",
+            "Report"
+        ],
+        [
+            "Coppa Montenero",
+            "Montenero",
+            "27 August",
+            "Carlo Masetti",
+            "Bugatti",
+            "Report"
+        ],
+        [
+            "Garda Circuit",
+            "Sal\u00f2",
+            "15 October",
+            "Guido Meregalli",
+            "Diatto",
+            "Report"
+        ],
+        [
+            "Autumn Grand Prix",
+            "Monza",
+            "22 October",
+            "Andr\u00e9 Dubonnet",
+            "Hispano-Suiza",
+            "Report"
+        ],
+        [
+            "Coppa Florio",
+            "Madonie",
+            "4 November",
+            "Andr\u00e9 Boillot",
+            "Peugeot",
+            "Report"
+        ]
+    ]
+}

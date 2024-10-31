@@ -1,0 +1,63 @@
+{
+    "id": "b385ee84e1d18fc23edb14ec55d0d3c904fc9d4386c7341a995f032225c9830b",
+    "metadata": "Mid-American Collegiate Hockey Association | West Conference | West Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Founded",
+        "Affiliation",
+        "Enrollment",
+        "Nickname"
+    ],
+    "cell": [
+        [
+            "Dordt College",
+            "Sioux Center, IA",
+            "1955",
+            "Private/Christian Reformed Church",
+            "1300",
+            "Blades"
+        ],
+        [
+            "University of Iowa",
+            "Iowa City, IA",
+            "1847",
+            "Public",
+            "30000",
+            "Hawkeyes"
+        ],
+        [
+            "Iowa State University",
+            "Ames, IA",
+            "1858",
+            "Public",
+            "29000",
+            "Cyclones"
+        ],
+        [
+            "Missouri State University",
+            "Springfield, MO",
+            "1905",
+            "Public",
+            "21059",
+            "Ice Bears"
+        ],
+        [
+            "University of Nebraska",
+            "Lincoln, NE",
+            "1869",
+            "Public",
+            "24593",
+            "Huskers"
+        ],
+        [
+            "University of Wisconsin-Platteville",
+            "Platteville, WI",
+            "1866",
+            "Public",
+            "7928",
+            "Pioneers"
+        ]
+    ]
+}

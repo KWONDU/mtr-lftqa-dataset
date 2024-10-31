@@ -1,0 +1,55 @@
+{
+    "id": "58d9856a536d5a1721e60ffe4a0c13346e0c41d4148cfffa507b15f15659aada",
+    "metadata": "Goalball at the 2000 Summer Paralympics | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Denmark (DEN)",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "1",
+            "Canada (CAN)",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "3",
+            "Spain (ESP)",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "3",
+            "Lithuania (LTU)",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Sweden (SWE)",
+            "0",
+            "0",
+            "2",
+            "2"
+        ]
+    ]
+}

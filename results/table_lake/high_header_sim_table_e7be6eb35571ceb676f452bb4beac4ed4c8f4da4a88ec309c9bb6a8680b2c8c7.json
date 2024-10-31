@@ -1,0 +1,63 @@
+{
+    "id": "e7be6eb35571ceb676f452bb4beac4ed4c8f4da4a88ec309c9bb6a8680b2c8c7",
+    "metadata": "List of sumo record holders | Most consecutive wins | Most consecutive wins",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Wins",
+        "Start_",
+        "Duration",
+        "Defeated_by"
+    ],
+    "cell": [
+        [
+            "Futabayama",
+            "69",
+            "7th day January 1936",
+            "2 years 11 months 27 days",
+            "Akinoumi"
+        ],
+        [
+            "Tanikaze",
+            "63",
+            "1st day October 1778",
+            "3 years 4 months 5 days",
+            "Onogawa"
+        ],
+        [
+            "Hakuh\u014d",
+            "63",
+            "14th day January 2010",
+            "9 months 23 days",
+            "Kisenosato"
+        ],
+        [
+            "Umegatani I",
+            "58",
+            "1st day April 1876",
+            "4 years 9 months 7 days",
+            "Wakashima"
+        ],
+        [
+            "Tachiyama",
+            "56",
+            "9th day January 1912",
+            "4 years 3 months 29 days",
+            "Tochigiyama"
+        ],
+        [
+            "Chiyonofuji",
+            "53",
+            "7th day May 1988",
+            "6 months 8 days",
+            "\u014cnokuni"
+        ],
+        [
+            "Taih\u014d",
+            "45",
+            "2nd day September 1968",
+            "6 months 0 days",
+            "Toda"
+        ]
+    ]
+}

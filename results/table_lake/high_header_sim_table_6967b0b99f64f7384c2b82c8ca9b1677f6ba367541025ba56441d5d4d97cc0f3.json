@@ -1,0 +1,63 @@
+{
+    "id": "6967b0b99f64f7384c2b82c8ca9b1677f6ba367541025ba56441d5d4d97cc0f3",
+    "metadata": "Theriruveli | Karaikudi SSA - BSNL | Karaikudi SSA - BSNL",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "SlNo",
+        "Name_of_the_City",
+        "Address",
+        "Contact_Person",
+        "Telephone_No",
+        "Facilities_Offered"
+    ],
+    "cell": [
+        [
+            "2",
+            "Paramakudi",
+            "MBM Exchange,Balan nagar, Paramakudi-2.",
+            "SDOP,Paramakudi",
+            "04564 - 223225 /223333",
+            "CAT-II"
+        ],
+        [
+            "3",
+            "Sivaganga",
+            "Telephone Exchange,Weekly Market,Sivaganga-61",
+            "SDOP,Sivaganga",
+            "04564 - 242442 /241000",
+            "CAT-II"
+        ],
+        [
+            "4",
+            "Ramanathapuram",
+            "Telephone Exchange,Govt .Hospital Road,Ramnad-1.",
+            "SDOT,Ramnad",
+            "04567 - 220570 /221244",
+            "CAT-II"
+        ],
+        [
+            "5",
+            "Devakottai",
+            "Telephone Exchange,Devakottai-2.",
+            "SDE (P), Devakottai",
+            "04561 - 279622 /261111",
+            "CAT-II"
+        ],
+        [
+            "7",
+            "Thirupattur",
+            "New Street,Lakshmi Hospital backside Thiruppattur.",
+            "SDE (P), Thiruppattur",
+            "04577 - 267900",
+            "CAT-II"
+        ],
+        [
+            "8",
+            "Rameswaram",
+            "O/O SDE (G),Telephone Exchange,Rameswaram.",
+            "SDE (Groups),Rameswaram.",
+            "04573 - 21225 /222222",
+            "CAT-II"
+        ]
+    ]
+}

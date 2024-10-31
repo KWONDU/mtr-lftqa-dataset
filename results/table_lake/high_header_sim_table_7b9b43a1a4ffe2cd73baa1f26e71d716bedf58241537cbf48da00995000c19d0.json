@@ -1,0 +1,49 @@
+{
+    "id": "7b9b43a1a4ffe2cd73baa1f26e71d716bedf58241537cbf48da00995000c19d0",
+    "metadata": "Catholic Church by country | Africa | Catholicism in Africa",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Total_Population",
+        "Catholic",
+        "_Catholic",
+        "_of_global_Catholic_pop_"
+    ],
+    "cell": [
+        [
+            "Central Africa",
+            "83121055",
+            "37353218",
+            "44.93%",
+            "3.47%"
+        ],
+        [
+            "East Africa",
+            "193741900",
+            "34872130",
+            "17.99%",
+            "3.24%"
+        ],
+        [
+            "North Africa",
+            "202151323",
+            "2369490",
+            "1.17%",
+            "0.22%"
+        ],
+        [
+            "Southern Africa",
+            "137092019",
+            "24463640",
+            "17.84%",
+            "2.27%"
+        ],
+        [
+            "West Africa",
+            "268997245",
+            "36152847",
+            "13.43%",
+            "3.36%"
+        ]
+    ]
+}

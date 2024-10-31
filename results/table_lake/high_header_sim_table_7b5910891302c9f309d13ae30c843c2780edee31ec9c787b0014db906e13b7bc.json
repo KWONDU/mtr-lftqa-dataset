@@ -1,0 +1,71 @@
+{
+    "id": "7b5910891302c9f309d13ae30c843c2780edee31ec9c787b0014db906e13b7bc",
+    "metadata": "Southeastern Collegiate Hockey Conference | Teams | Teams",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Founded",
+        "Affiliation",
+        "Enrollment",
+        "Nickname"
+    ],
+    "cell": [
+        [
+            "University of Alabama",
+            "Tuscaloosa, AL",
+            "1831",
+            "Public Flagship ( University of Alabama System )",
+            "30252",
+            "Frozen Tide"
+        ],
+        [
+            "University of Arkansas",
+            "Fayetteville, AR",
+            "1871",
+            "Public Flagship ( University of Arkansas System )",
+            "19194",
+            "Razorbacks"
+        ],
+        [
+            "Auburn University",
+            "Auburn, AL",
+            "1856",
+            "Public",
+            "24530",
+            "Tigers"
+        ],
+        [
+            "University of Georgia",
+            "Athens, GA",
+            "1785",
+            "Public Flagship ( University System of Georgia )",
+            "34885",
+            "Bulldogs"
+        ],
+        [
+            "University of Mississippi",
+            "Oxford, MS",
+            "1848",
+            "Public Flagship",
+            "17546",
+            "Rebels"
+        ],
+        [
+            "Mississippi State University",
+            "Starkville, MS",
+            "1878",
+            "Public",
+            "18601",
+            "Bulldogs"
+        ],
+        [
+            "University of Tennessee",
+            "Knoxville, TN",
+            "1794",
+            "Public Flagship ( University of Tennessee System )",
+            "27739",
+            "Ice Vols"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "292aa89fcdc7aeeec99723006c5597e456d1ff2d179b3a0b18fa281eaa76f80f",
+    "metadata": "1957 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "10.9 (69)",
+            "Richmond",
+            "14.8 (92)",
+            "Kardinia Park",
+            "18177",
+            "29 June 1957"
+        ],
+        [
+            "Essendon",
+            "11.14 (80)",
+            "North Melbourne",
+            "13.11 (89)",
+            "Windy Hill",
+            "18500",
+            "29 June 1957"
+        ],
+        [
+            "Carlton",
+            "13.14 (92)",
+            "St Kilda",
+            "7.13 (55)",
+            "Princes Park",
+            "21454",
+            "29 June 1957"
+        ],
+        [
+            "Melbourne",
+            "12.15 (87)",
+            "Footscray",
+            "7.9 (51)",
+            "MCG",
+            "49512",
+            "29 June 1957"
+        ],
+        [
+            "South Melbourne",
+            "15.19 (109)",
+            "Fitzroy",
+            "14.12 (96)",
+            "Lake Oval",
+            "16200",
+            "29 June 1957"
+        ],
+        [
+            "Hawthorn",
+            "10.14 (74)",
+            "Collingwood",
+            "13.15 (93)",
+            "Glenferrie Oval",
+            "27000",
+            "29 June 1957"
+        ]
+    ]
+}

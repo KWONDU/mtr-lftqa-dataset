@@ -1,0 +1,49 @@
+{
+    "id": "b835ef0cc73f515c7dc6167b07f57da54a42db56e5fade25860df3e943c588d8",
+    "metadata": "2006 Toronto Argonauts season | CFL Draft | CFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "5",
+            "Toronto Argonauts",
+            "Daniel Federkeil",
+            "DL",
+            "Calgary"
+        ],
+        [
+            "10",
+            "Toronto Argonauts",
+            "Leron Mitchell",
+            "DB",
+            "Western Ontario"
+        ],
+        [
+            "14",
+            "Toronto Argonauts",
+            "Aaron Wagner",
+            "LB",
+            "Brigham Young"
+        ],
+        [
+            "31",
+            "Toronto Argonauts",
+            "Obed Cetoute",
+            "WR",
+            "Central Florida"
+        ],
+        [
+            "39",
+            "Toronto Argonauts",
+            "Brian Ramsay",
+            "OL",
+            "New Mexico"
+        ]
+    ]
+}

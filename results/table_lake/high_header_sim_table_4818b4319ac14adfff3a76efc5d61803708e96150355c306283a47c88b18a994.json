@@ -1,0 +1,98 @@
+{
+    "id": "4818b4319ac14adfff3a76efc5d61803708e96150355c306283a47c88b18a994",
+    "metadata": "2008 U.S. Open (golf) | Second round | Second round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "1",
+            "Stuart Appleby",
+            "Australia",
+            "69-70=139",
+            "-3"
+        ],
+        [
+            "T2",
+            "Robert Karlsson",
+            "Sweden",
+            "70-70=140",
+            "-2"
+        ],
+        [
+            "T2",
+            "Rocco Mediate",
+            "United States",
+            "69-71=140",
+            "-2"
+        ],
+        [
+            "T2",
+            "Tiger Woods",
+            "United States",
+            "72-68=140",
+            "-2"
+        ],
+        [
+            "T5",
+            "Miguel \u00c1ngel Jim\u00e9nez",
+            "Spain",
+            "75-66=141",
+            "-1"
+        ],
+        [
+            "T5",
+            "Davis Love III",
+            "United States",
+            "72-69=141",
+            "-1"
+        ],
+        [
+            "T5",
+            "D. J. Trahan",
+            "United States",
+            "72-69=141",
+            "-1"
+        ],
+        [
+            "T5",
+            "Lee Westwood",
+            "England",
+            "70-71=141",
+            "-1"
+        ],
+        [
+            "T9",
+            "Robert Allenby",
+            "Australia",
+            "70-72=142",
+            "E"
+        ],
+        [
+            "T9",
+            "Ernie Els",
+            "South Africa",
+            "70-72=142",
+            "E"
+        ],
+        [
+            "T9",
+            "Geoff Ogilvy",
+            "Australia",
+            "69-73=142",
+            "E"
+        ],
+        [
+            "T9",
+            "Carl Pettersson",
+            "Sweden",
+            "71-71=142",
+            "E"
+        ]
+    ]
+}

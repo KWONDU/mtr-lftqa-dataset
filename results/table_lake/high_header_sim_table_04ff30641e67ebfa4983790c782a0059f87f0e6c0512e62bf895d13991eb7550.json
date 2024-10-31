@@ -1,0 +1,55 @@
+{
+    "id": "04ff30641e67ebfa4983790c782a0059f87f0e6c0512e62bf895d13991eb7550",
+    "metadata": "List of Link Light Rail stations | Stations under construction | Stations under construction",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Station",
+        "Extension",
+        "City_Neighborhood",
+        "Projected_opening",
+        "Transit_Connections",
+        "Park_and_ride"
+    ],
+    "cell": [
+        [
+            "Capitol Hill U",
+            "University Link",
+            "Capitol Hill, Seattle",
+            "2016",
+            "Metro , First Hill Streetcar",
+            "No"
+        ],
+        [
+            "University of Washington \u2020 U",
+            "University Link",
+            "University of Washington",
+            "2016",
+            "Metro , ST Express",
+            "No"
+        ],
+        [
+            "Angle Lake \u2020",
+            "South 200th Link",
+            "Seatac",
+            "2016",
+            "Metro , RapidRide",
+            "Yes"
+        ],
+        [
+            "U District U",
+            "Northgate Link",
+            "University District, Seattle",
+            "2020",
+            "Metro , ST Express , Community Transit",
+            "No"
+        ],
+        [
+            "Roosevelt U",
+            "Northgate Link",
+            "Roosevelt, Seattle",
+            "2020",
+            "Metro , ST Express",
+            "No"
+        ]
+    ]
+}

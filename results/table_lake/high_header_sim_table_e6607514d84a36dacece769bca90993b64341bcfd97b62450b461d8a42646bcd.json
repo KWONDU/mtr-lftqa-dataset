@@ -1,0 +1,95 @@
+{
+    "id": "e6607514d84a36dacece769bca90993b64341bcfd97b62450b461d8a42646bcd",
+    "metadata": "Dragons' Den (UK) | Series 4 | Series 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode",
+        "First_aired",
+        "Entrepreneurs",
+        "Company_or_product_name",
+        "Money_requested_",
+        "Investing_Dragons"
+    ],
+    "cell": [
+        [
+            "Episode 1",
+            "7 February 2007",
+            "Levi Roots",
+            "Reggae Reggae Sauce",
+            "50000",
+            "Richard Farleigh & Peter Jones"
+        ],
+        [
+            "Episode 1",
+            "7 February 2007",
+            "Anthony Coates-Smith & Alistair Turner",
+            "Igloo",
+            "160000",
+            "Duncan Bannatyne & Richard Farleigh"
+        ],
+        [
+            "Episode 2",
+            "14 February 2007",
+            "Imran Hakim",
+            "iTeddy",
+            "140000",
+            "Peter Jones & Theo Paphitis"
+        ],
+        [
+            "Episode 3",
+            "21 February 2007",
+            "Roger Hind",
+            "Rotamate",
+            "85000",
+            "Deborah Meaden & Richard Farleigh"
+        ],
+        [
+            "Episode 3",
+            "21 February 2007",
+            "Denise Hutton",
+            "Razzamataz",
+            "50000",
+            "Duncan Bannatyne"
+        ],
+        [
+            "Episode 4",
+            "28 February 2007",
+            "Christian Lane",
+            "Foldio",
+            "80000",
+            "Theo Paphitis"
+        ],
+        [
+            "Episode 4",
+            "28 February 2007",
+            "KC Jones",
+            "Foot Deodoriser",
+            "100000",
+            "Deborah Meaden & Richard Farleigh"
+        ],
+        [
+            "Episode 5",
+            "7 March 2007",
+            "Chris Haines",
+            "Safe-T-First",
+            "95000",
+            "Deborah Meaden & Theo Paphitis"
+        ],
+        [
+            "Episode 5",
+            "7 March 2007",
+            "David Pybus",
+            "Scents of Time",
+            "80000",
+            "Peter Jones & Theo Paphitis"
+        ],
+        [
+            "Episode 6",
+            "7 March 2007",
+            "Peter Ensinger and David Baker",
+            "Standby Saver",
+            "100000",
+            "All 5 for 50%"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "98b55014f47e25f3d10d77fa2bc5da8651978aac50c31a737f8b68d87728243f",
+    "metadata": "Sunghursh | Awards | Awards",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ceremony",
+        "Award",
+        "Category",
+        "Nominee",
+        "Outcome"
+    ],
+    "cell": [
+        [
+            "Filmfare Awards",
+            "16th Filmfare Awards",
+            "Best Actor",
+            "Dilip Kumar",
+            "Nominated"
+        ],
+        [
+            "Bengal Film Journalists` Association Awards",
+            "32nd Annual BFJA Awards",
+            "Fourth Best Indian Film",
+            "Harnam Singh Rawail",
+            "Won"
+        ],
+        [
+            "Bengal Film Journalists` Association Awards",
+            "32nd Annual BFJA Awards",
+            "Best Actor",
+            "Dilip Kumar",
+            "Won"
+        ],
+        [
+            "Bengal Film Journalists` Association Awards",
+            "32nd Annual BFJA Awards",
+            "Best Actress",
+            "Vyjayanthimala",
+            "Won"
+        ],
+        [
+            "Bengal Film Journalists` Association Awards",
+            "32nd Annual BFJA Awards",
+            "Best Supporting Actor",
+            "Jayant",
+            "Won"
+        ],
+        [
+            "Bengal Film Journalists` Association Awards",
+            "32nd Annual BFJA Awards",
+            "Best Dialogue",
+            "Gulzar & Abrar Alvi",
+            "Won"
+        ]
+    ]
+}

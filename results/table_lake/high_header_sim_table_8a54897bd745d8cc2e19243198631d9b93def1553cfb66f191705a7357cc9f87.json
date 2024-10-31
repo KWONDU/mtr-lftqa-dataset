@@ -1,0 +1,63 @@
+{
+    "id": "8a54897bd745d8cc2e19243198631d9b93def1553cfb66f191705a7357cc9f87",
+    "metadata": "Chinese units of measurement | Hong Kong and Macau mass units | Table of Chinese mass units in Hong Kong and Macau",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Jyutping",
+        "Character_",
+        "Portuguese",
+        "Relative_value",
+        "Metric_value",
+        "Imperial_value"
+    ],
+    "cell": [
+        [
+            "lei4",
+            "\u5398",
+            "Liz",
+            "1/1600",
+            "37.79931mg",
+            "~0.2133 dr"
+        ],
+        [
+            "fan1",
+            "\u5206",
+            "Condorim",
+            "1/1600",
+            "377.9936375mg",
+            "~0.2133 dr"
+        ],
+        [
+            "cin4",
+            "\u9322",
+            "Maz",
+            "1/160",
+            "3.779936375g",
+            "~2.1333dr"
+        ],
+        [
+            "loeng2",
+            "\u5169",
+            "Tael",
+            "1/16",
+            "37.79936375g",
+            "~1.3333oz"
+        ],
+        [
+            "gan1",
+            "\u65a4",
+            "Cate",
+            "1",
+            "604.78982g",
+            "~1.3333lb"
+        ],
+        [
+            "daam3",
+            "\u62c5 / \u64d4",
+            "Pico",
+            "100",
+            "60.478982kg",
+            "~133.3333lb"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "c8f17f6a643d72de44c64c165a219cd11eeda96f85e0b4433b852287dacd857f",
+    "metadata": "Crew of the RMS Titanic | Guarantee group | Guarantee group",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Class_",
+        "Hometown",
+        "Boarded",
+        "Position_"
+    ],
+    "cell": [
+        [
+            "Andrews, Mr. Thomas",
+            "First",
+            "Belfast , Ireland",
+            "Belfast",
+            "Shipbuilder"
+        ],
+        [
+            "Campbell, Mr. William Henry",
+            "Second",
+            "Belfast , Ireland",
+            "Belfast",
+            "Joiner"
+        ],
+        [
+            "Chisholm, Mr. Roderick Robert Crispin",
+            "First",
+            "Belfast , Ireland",
+            "Belfast",
+            "Draughtsman"
+        ],
+        [
+            "Cunningham, Mr. Alfred Fleming",
+            "Second",
+            "Belfast , Ireland",
+            "Belfast",
+            "Fitter"
+        ],
+        [
+            "Frost, Mr. Anthony Wood Artie",
+            "Second",
+            "Belfast , Ireland",
+            "Belfast",
+            "Fitter"
+        ],
+        [
+            "Knight, Mr. Robert J.",
+            "Second",
+            "Belfast , Ireland",
+            "Belfast",
+            "Fitter"
+        ],
+        [
+            "Parkes, Mr. Francis Frank",
+            "Second",
+            "Belfast , Ireland",
+            "Belfast",
+            "Plumber"
+        ],
+        [
+            "Parr, Mr. William Henry Marsh",
+            "First",
+            "Belfast , Ireland",
+            "Belfast",
+            "Electrician"
+        ],
+        [
+            "Watson, Mr. Ennis Hastings",
+            "Second",
+            "Belfast , Ireland",
+            "Belfast",
+            "Electrician`s Apprentice"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "d88df6f5a4df3558535016f48fda461976f9cd7b2fd94aa4f71a67c8b99d1c8f",
+    "metadata": "Bavarian language | Grammar | Grammar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "m\u00e5cha",
+        "indicative",
+        "imperative",
+        "subjunctive",
+        "inverse_subjunctive"
+    ],
+    "cell": [
+        [
+            "1.Sg",
+            "i m\u00e5ch",
+            "\u2014",
+            "i m\u00e5chad",
+            "m\u00e5chadi"
+        ],
+        [
+            "2.Sg (informal)",
+            "du m\u00e5chst",
+            "m\u00e5ch!",
+            "du m\u00e5chast",
+            "m\u00e5chast"
+        ],
+        [
+            "3.Sg",
+            "er m\u00e5cht",
+            "er m\u00e5ch!",
+            "er m\u00e5chad",
+            "m\u00e5chada"
+        ],
+        [
+            "1.Pl",
+            "mia m\u00e5chan*",
+            "m\u00e5chma!",
+            "mia m\u00e5chadn",
+            "m\u00e5chadma"
+        ],
+        [
+            "2.Pl",
+            "e\u00df m\u00e5chts",
+            "m\u00e5chts!",
+            "e\u00df m\u00e5chats",
+            "m\u00e5chats"
+        ],
+        [
+            "3.Pl",
+            "se m\u00e5chan(t)",
+            "\u2014",
+            "se m\u00e5chadn",
+            "m\u00e5chadns"
+        ],
+        [
+            "2.Sg (formal)",
+            "Si m\u00e5chan",
+            "m\u00e5chan\u2019S!",
+            "Si m\u00e5chadn",
+            "m\u00e5chadn\u2019S"
+        ]
+    ]
+}

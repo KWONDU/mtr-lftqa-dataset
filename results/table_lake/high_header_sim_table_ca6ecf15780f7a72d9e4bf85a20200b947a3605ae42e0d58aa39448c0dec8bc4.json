@@ -1,0 +1,77 @@
+{
+    "id": "ca6ecf15780f7a72d9e4bf85a20200b947a3605ae42e0d58aa39448c0dec8bc4",
+    "metadata": "List of herbaria in Europe | Baltic states | Herbaria in the Baltic states",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "No_Specimens",
+        "Abbr_",
+        "Country",
+        "City"
+    ],
+    "cell": [
+        [
+            "Estonian University of Life Sciences",
+            "336000",
+            "TAA",
+            "Estonia",
+            "Tartu"
+        ],
+        [
+            "University of Tartu",
+            "324000",
+            "TU",
+            "Estonia",
+            "Tartu"
+        ],
+        [
+            "Vilnius University",
+            "300000",
+            "WI",
+            "Lithuania",
+            "Vilnius"
+        ],
+        [
+            "University of Latvia , Riga",
+            "176000",
+            "RIG",
+            "Latvia",
+            "Riga"
+        ],
+        [
+            "University of Latvia , Salaspils",
+            "175000",
+            "LATV",
+            "Latvia",
+            "Salaspils"
+        ],
+        [
+            "Institute of Botany, Lithuania",
+            "130000",
+            "BILAS",
+            "Lithuania",
+            "Vilnius"
+        ],
+        [
+            "Estonian Museum of Natural History",
+            "100000",
+            "TAM",
+            "Estonia",
+            "Tallinn"
+        ],
+        [
+            "Tallinn Botanic Garden",
+            "85000",
+            "TALL",
+            "Estonia",
+            "Tallinn"
+        ],
+        [
+            "National Botanic Garden of Latvia",
+            "50000",
+            "HBA",
+            "Latvia",
+            "Salaspils"
+        ]
+    ]
+}

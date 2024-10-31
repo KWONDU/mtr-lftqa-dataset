@@ -1,0 +1,49 @@
+{
+    "id": "f21c251d83d3b63e992f05bbd7b255a3e2ae5eaee66c4b87cb8082e37268a773",
+    "metadata": "Oil tanker | Recent markets | Recent markets",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ship_size",
+        "Cargo",
+        "_2004",
+        "_2005",
+        "_2006"
+    ],
+    "cell": [
+        [
+            "Ship size",
+            "Cargo",
+            "2004",
+            "2005",
+            "2006"
+        ],
+        [
+            "VLCC",
+            "Crude",
+            "$95,250",
+            "$59,070",
+            "$51,550"
+        ],
+        [
+            "Suezmax",
+            "Crude",
+            "$64,800",
+            "$47,500",
+            "$46,000"
+        ],
+        [
+            "Aframax",
+            "Crude",
+            "$43,915",
+            "$39,000",
+            "$31,750"
+        ],
+        [
+            "All product carriers",
+            "All product carriers",
+            "$24,550",
+            "$25,240",
+            "$21,400"
+        ]
+    ]
+}

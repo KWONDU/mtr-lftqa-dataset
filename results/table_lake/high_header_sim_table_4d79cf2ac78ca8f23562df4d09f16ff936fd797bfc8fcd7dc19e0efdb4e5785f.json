@@ -1,0 +1,49 @@
+{
+    "id": "4d79cf2ac78ca8f23562df4d09f16ff936fd797bfc8fcd7dc19e0efdb4e5785f",
+    "metadata": "First Hull Trains | Past fleet | Past fleet",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Type_",
+        "Built",
+        "Number_",
+        "Withdrawn"
+    ],
+    "cell": [
+        [
+            "Class 170 Turbostar",
+            "diesel multiple unit",
+            "1999-2004",
+            "4",
+            "2005"
+        ],
+        [
+            "Class 222 Pioneer",
+            "diesel multiple unit",
+            "2005",
+            "4",
+            "2009"
+        ],
+        [
+            "Class 86",
+            "Electric locomotive",
+            "1965-1966",
+            "1",
+            "2008"
+        ],
+        [
+            "Mark 3 Carriage",
+            "Passenger Carriage",
+            "1975-1988",
+            "5",
+            "2008"
+        ],
+        [
+            "Mark 3 Carriage",
+            "Driving Van Trailer",
+            "1988",
+            "1",
+            "2008"
+        ]
+    ]
+}

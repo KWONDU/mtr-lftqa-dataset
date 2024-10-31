@@ -1,0 +1,79 @@
+{
+    "id": "70f80f312020dccaa8552f2861e79b7d14007a4ce9a38399d4c12c8def613dec",
+    "metadata": "Intel | Acquisition Table | Acquisition Table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Number_",
+        "Company",
+        "Business",
+        "Country",
+        "Price",
+        "Used_as_or_integrated_with"
+    ],
+    "cell": [
+        [
+            "1",
+            "McAfee",
+            "Security",
+            "USA",
+            "$7.6B",
+            "Software"
+        ],
+        [
+            "2",
+            "Infineon",
+            "Wireless",
+            "Germany",
+            "$1.4B",
+            "Mobile CPUs"
+        ],
+        [
+            "3",
+            "Telmap",
+            "Software",
+            "Israel",
+            "N/A",
+            "Location Services"
+        ],
+        [
+            "4",
+            "Mashery",
+            "Cloud Software",
+            "USA",
+            "$180M",
+            "Software"
+        ],
+        [
+            "5",
+            "Aepona",
+            "SDN",
+            "Ireland",
+            "N/A",
+            "Software"
+        ],
+        [
+            "6",
+            "StoneSoft",
+            "Security",
+            "Finland",
+            "$389M",
+            "Software"
+        ],
+        [
+            "7",
+            "OMEK Interactive",
+            "Gesture",
+            "Israel",
+            "N/A",
+            "Software"
+        ],
+        [
+            "7",
+            "Indysis",
+            "Natural language processing",
+            "Spain",
+            "N/A",
+            "Software"
+        ]
+    ]
+}

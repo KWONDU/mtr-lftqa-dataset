@@ -1,0 +1,71 @@
+{
+    "id": "c78036ca7e56b1e4becbeba40ab8e3e604064b858dbf152f8fbdf5b4e685d8d7",
+    "metadata": "World Cup (men's golf) | Winners | World Cup of Golf",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Country",
+        "Team",
+        "Individual",
+        "Location_",
+        "Runners_up"
+    ],
+    "cell": [
+        [
+            "1999",
+            "United States",
+            "Mark O`Meara & Tiger Woods",
+            "Tiger Woods",
+            "Kuala Lumpur, Malaysia",
+            "Santiago Luna & Miguel Angel Martin"
+        ],
+        [
+            "1998",
+            "England",
+            "David Carter & Nick Faldo",
+            "Scott Verplank",
+            "Auckland, New Zealand",
+            "Massimo Florioli & Costantino Rocca"
+        ],
+        [
+            "1997",
+            "Ireland",
+            "P\u00e1draig Harrington & Paul McGinley",
+            "Colin Montgomerie",
+            "Kiawah Island, South Carolina , USA",
+            "Colin Montgomerie & Raymond Russell"
+        ],
+        [
+            "1996",
+            "South Africa",
+            "Ernie Els & Wayne Westner",
+            "Ernie Els",
+            "Cape Town, South Africa",
+            "Steve Jones & Tom Lehman"
+        ],
+        [
+            "1995",
+            "United States",
+            "Fred Couples & Davis Love III",
+            "Davis Love III",
+            "Shenzhen, China",
+            "Robert Allenby & Steve Elkington"
+        ],
+        [
+            "1994",
+            "United States",
+            "Fred Couples & Davis Love III",
+            "Fred Couples",
+            "Dorado, Puerto Rico",
+            "Tony Johnstone & Mark McNulty"
+        ],
+        [
+            "1993",
+            "United States",
+            "Fred Couples & Davis Love III",
+            "Bernhard Langer",
+            "Orlando, Florida , USA",
+            "Mark McNulty & Nick Price"
+        ]
+    ]
+}

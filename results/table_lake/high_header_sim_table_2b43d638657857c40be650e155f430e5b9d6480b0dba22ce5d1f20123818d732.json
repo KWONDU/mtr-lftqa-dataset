@@ -1,0 +1,77 @@
+{
+    "id": "2b43d638657857c40be650e155f430e5b9d6480b0dba22ce5d1f20123818d732",
+    "metadata": "West Derbyshire (UK Parliament constituency) | Elections | Elections in the 2000s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Party",
+        "Candidate",
+        "Votes",
+        "__3",
+        "__4"
+    ],
+    "cell": [
+        [
+            "Conservative",
+            "Patrick McLoughlin",
+            "24280",
+            "48.0",
+            "+5.9"
+        ],
+        [
+            "Labour",
+            "Stephen Clamp",
+            "16910",
+            "33.4",
+            "-0.1"
+        ],
+        [
+            "Liberal Democrat",
+            "Jeremy Beckett",
+            "7922",
+            "15.7",
+            "-1.8"
+        ],
+        [
+            "UKIP",
+            "Stuart Bavester",
+            "672",
+            "1.3",
+            "+0.5"
+        ],
+        [
+            "Monster Raving Loony",
+            "The Flying Brick Delves",
+            "472",
+            "0.9",
+            "+0.4"
+        ],
+        [
+            "Independent",
+            "Robert Goodall",
+            "333",
+            "0.7",
+            "+0.5"
+        ],
+        [
+            "Majority",
+            "Majority",
+            "7370",
+            "14.6",
+            ""
+        ],
+        [
+            "Turnout",
+            "Turnout",
+            "50589",
+            "67.8",
+            "-10.5"
+        ],
+        [
+            "Conservative hold",
+            "Conservative hold",
+            "Swing",
+            "",
+            ""
+        ]
+    ]
+}

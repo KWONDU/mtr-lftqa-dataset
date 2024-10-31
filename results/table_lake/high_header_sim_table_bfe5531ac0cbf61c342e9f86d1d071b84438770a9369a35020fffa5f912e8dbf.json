@@ -1,0 +1,55 @@
+{
+    "id": "bfe5531ac0cbf61c342e9f86d1d071b84438770a9369a35020fffa5f912e8dbf",
+    "metadata": "Jeep Grand Cherokee | Fourth generation | Engines",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Years",
+        "Engine",
+        "Displacement",
+        "Power_",
+        "Torque",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "2011-",
+            "3.6L Pentastar V6",
+            "220CID (3,604cc)",
+            "hp (kW)",
+            "lb\u00b7ft (N\u00b7m)",
+            "Laredo, Laredo X, Limited, Overland, Summit"
+        ],
+        [
+            "2011-",
+            "5.7L Hemi V8",
+            "345CID (5,654cc)",
+            "hp (kW)",
+            "lb\u00b7ft (N\u00b7m)",
+            "Laredo X, Limited, Overland, Summit"
+        ],
+        [
+            "2012-",
+            "6.4L Hemi V8",
+            "392CID (6,417cc)",
+            "hp (kW)",
+            "lb\u00b7ft (N\u00b7m)",
+            "SRT8"
+        ],
+        [
+            "2011-",
+            "3.0L CRD V6",
+            "182CID (2,988cc)",
+            "kW (PS; hp)",
+            "N\u00b7m (lb\u00b7ft)",
+            "EU SPEC"
+        ],
+        [
+            "2014-",
+            "3.0L CRD V6",
+            "182CID (2,988cc)",
+            "kW (PS; hp)",
+            "N\u00b7m (lb\u00b7ft)",
+            "US SPEC Limited, Overland, Summit"
+        ]
+    ]
+}

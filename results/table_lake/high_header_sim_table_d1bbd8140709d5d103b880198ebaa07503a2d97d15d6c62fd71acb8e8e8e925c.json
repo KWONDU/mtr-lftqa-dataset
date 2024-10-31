@@ -1,0 +1,49 @@
+{
+    "id": "d1bbd8140709d5d103b880198ebaa07503a2d97d15d6c62fd71acb8e8e8e925c",
+    "metadata": "History of Test cricket from 1901 to 1914 | Australia in England 1909 | Australia in England 1909",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "27,28-29 May 1909",
+            "Archie MacLaren",
+            "Monty Noble",
+            "Edgbaston",
+            "ENG by 10 wkts"
+        ],
+        [
+            "14,15,16 Jun 1909",
+            "Archie MacLaren",
+            "Monty Noble",
+            "Lord`s",
+            "AUS by 9 wkts"
+        ],
+        [
+            "1,2,3 Jul 1909",
+            "Archie MacLaren",
+            "Monty Noble",
+            "Headingley",
+            "AUS by 126 runs"
+        ],
+        [
+            "26,27,28 Jul 1909",
+            "Archie MacLaren",
+            "Monty Noble",
+            "Old Trafford",
+            "DRAW"
+        ],
+        [
+            "9,10,11 Aug 1909",
+            "Archie MacLaren",
+            "Monty Noble",
+            "Oval",
+            "DRAW"
+        ]
+    ]
+}

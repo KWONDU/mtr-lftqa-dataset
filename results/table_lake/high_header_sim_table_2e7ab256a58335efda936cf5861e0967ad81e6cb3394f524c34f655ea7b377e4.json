@@ -1,0 +1,63 @@
+{
+    "id": "2e7ab256a58335efda936cf5861e0967ad81e6cb3394f524c34f655ea7b377e4",
+    "metadata": "Tommy Moe | World Cup results | Race podiums",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Date_",
+        "Location_",
+        "Discipline",
+        "Place_"
+    ],
+    "cell": [
+        [
+            "1993",
+            "27 Feb 1993",
+            "Whistler, BC, Canada",
+            "Downhill",
+            "2nd"
+        ],
+        [
+            "1994",
+            "12 Dec 1993",
+            "Val-d`Is\u00e8re, France",
+            "Super G",
+            "3rd"
+        ],
+        [
+            "1994",
+            "29 Dec 1993",
+            "Bormio, Italy",
+            "Downhill",
+            "3rd"
+        ],
+        [
+            "1994",
+            "12 Mar 1994",
+            "Whistler, BC, Canada",
+            "Downhill",
+            "3rd"
+        ],
+        [
+            "1994",
+            "13 Mar 1994",
+            "Whistler, BC, Canada",
+            "Super G",
+            "1st"
+        ],
+        [
+            "1994",
+            "16 Mar 1994",
+            "Vail, CO, USA",
+            "Downhill",
+            "3rd"
+        ],
+        [
+            "1995",
+            "11 Dec 1994",
+            "Tignes, France",
+            "Super G",
+            "2nd"
+        ]
+    ]
+}

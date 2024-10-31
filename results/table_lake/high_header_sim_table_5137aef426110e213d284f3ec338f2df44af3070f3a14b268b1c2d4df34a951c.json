@@ -1,0 +1,70 @@
+{
+    "id": "5137aef426110e213d284f3ec338f2df44af3070f3a14b268b1c2d4df34a951c",
+    "metadata": "Duane Carter | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1950",
+            "Murrell Belanger",
+            "Stevens",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1951",
+            "oil Mobil / Rotary Engineering",
+            "Deidt Tuffanelli Derrico",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1952",
+            "Belanger Motors",
+            "Lesovsky",
+            "Offenhauser L4",
+            "3"
+        ],
+        [
+            "1953",
+            "Bardahl / Ed Walsh",
+            "Kurtis Kraft 4000",
+            "Offenhauser L4",
+            "2"
+        ],
+        [
+            "1954",
+            "Automobile Shippers / Casaroll",
+            "Kurtis Kraft 500A",
+            "Offenhauser L4",
+            "1.5"
+        ],
+        [
+            "1955",
+            "J.C. Agajanian",
+            "Kuzma Indy Roadster",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1959",
+            "Smokey Yunick",
+            "Kurtis Kraft 500H",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1960",
+            "Thompson / Ensley & Murphy",
+            "Kuzma Indy Roadster",
+            "Offenhauser L4",
+            "0"
+        ]
+    ]
+}

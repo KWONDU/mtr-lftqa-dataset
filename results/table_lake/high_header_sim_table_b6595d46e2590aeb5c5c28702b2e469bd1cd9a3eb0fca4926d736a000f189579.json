@@ -1,0 +1,127 @@
+{
+    "id": "b6595d46e2590aeb5c5c28702b2e469bd1cd9a3eb0fca4926d736a000f189579",
+    "metadata": "1996 Frankfurt Galaxy season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Kickoff",
+        "Opponent",
+        "Results_Final_score",
+        "Results_Team_record",
+        "Game_site",
+        "Attendance_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Saturday, April 13",
+            "7:00 p.m.",
+            "at Rhein Fire",
+            "W 27-21",
+            "1-0",
+            "Rheinstadion",
+            "32092"
+        ],
+        [
+            "2",
+            "Saturday, April 20",
+            "7:00 p.m.",
+            "London Monarchs",
+            "W 37-3",
+            "2-0",
+            "Waldstadion",
+            "34186"
+        ],
+        [
+            "3",
+            "Sunday, April 28",
+            "6:00 p.m.",
+            "at Barcelona Dragons",
+            "W 33-29",
+            "3-0",
+            "Estadi Ol\u00edmpic de Montju\u00efc",
+            "17503"
+        ],
+        [
+            "4",
+            "Sunday, May 5",
+            "7:00 p.m.",
+            "Amsterdam Admirals",
+            "W 40-28",
+            "4-0",
+            "Waldstadion",
+            "28627"
+        ],
+        [
+            "5",
+            "Saturday, May 11",
+            "7:00 p.m.",
+            "Scottish Claymores",
+            "L 0-20",
+            "4-1",
+            "Waldstadion",
+            "32126"
+        ],
+        [
+            "6",
+            "Sunday, May 19",
+            "3:00 p.m.",
+            "at London Monarchs",
+            "L 7-27",
+            "4-2",
+            "White Hart Lane",
+            "10764"
+        ],
+        [
+            "7",
+            "Sunday, May 26",
+            "3:00 p.m.",
+            "at Scottish Claymores",
+            "L 17-20",
+            "4-3",
+            "Murrayfield Stadium",
+            "13116"
+        ],
+        [
+            "8",
+            "Saturday, June 1",
+            "7:00 p.m.",
+            "Rhein Fire",
+            "L 8-31",
+            "4-4",
+            "Waldstadion",
+            "38798"
+        ],
+        [
+            "9",
+            "Saturday, June 8",
+            "7:00 p.m.",
+            "Barcelona Dragons",
+            "W 24-21",
+            "5-4",
+            "Waldstadion",
+            "33115"
+        ],
+        [
+            "10",
+            "Saturday, June 15",
+            "6:30 p.m.",
+            "at Amsterdam Admirals",
+            "W 28-20",
+            "6-4",
+            "Olympisch Stadion",
+            "14062"
+        ],
+        [
+            "11",
+            "Sunday, June 23",
+            "6:00 p.m.",
+            "at Scottish Claymores",
+            "L 27-32",
+            "6-5",
+            "Murrayfield Stadium",
+            "38982"
+        ]
+    ]
+}

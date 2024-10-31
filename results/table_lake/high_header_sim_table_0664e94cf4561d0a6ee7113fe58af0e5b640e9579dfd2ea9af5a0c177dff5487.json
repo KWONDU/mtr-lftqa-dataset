@@ -1,0 +1,49 @@
+{
+    "id": "0664e94cf4561d0a6ee7113fe58af0e5b640e9579dfd2ea9af5a0c177dff5487",
+    "metadata": "Weightlifting at the 1999 Pan American Games | Super-heavyweight (+ 75 kg) | Super-heavyweight (+ 75 kg)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Bodyweight",
+        "Snatch",
+        "Clean_jerk",
+        "Total_kg"
+    ],
+    "cell": [
+        [
+            "Cheryl Haworth ( USA )",
+            "136.16",
+            "117.5",
+            "135.0",
+            "252.5"
+        ],
+        [
+            "Mar\u00eda Isabel Urrutia ( COL )",
+            "89.06",
+            "107.5",
+            "140.0",
+            "247.5"
+        ],
+        [
+            "Carmenza Delgado ( COL )",
+            "88.61",
+            "110.0",
+            "135.0",
+            "245.0"
+        ],
+        [
+            "Nelly Acosta ( PUR )",
+            "87.50",
+            "95.0",
+            "105.0",
+            "200.0"
+        ],
+        [
+            "Suzanne Dandenault ( CAN )",
+            "101.43",
+            "85.0",
+            "112.5",
+            "197.5"
+        ]
+    ]
+}

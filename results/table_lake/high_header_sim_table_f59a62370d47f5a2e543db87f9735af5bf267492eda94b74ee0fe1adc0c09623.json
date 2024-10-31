@@ -1,0 +1,91 @@
+{
+    "id": "f59a62370d47f5a2e543db87f9735af5bf267492eda94b74ee0fe1adc0c09623",
+    "metadata": "Stena Line Holland BV | Ships operated by Zeeland Steamship Company (SMZ) | Ships operated by Zeeland Steamship Company (SMZ)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ships_name",
+        "Date_entered_service",
+        "Date_withdrawn",
+        "Tonnage",
+        "Type_of_Ship"
+    ],
+    "cell": [
+        [
+            "Oranje Nassau",
+            "27 August 1945",
+            "July 1954",
+            "3053",
+            "Twin Screw Steamer"
+        ],
+        [
+            "Mecklenburg",
+            "21 November 1945",
+            "25 October 1959",
+            "2907",
+            "Twin Screw Steamer"
+        ],
+        [
+            "Koningin Emma",
+            "5 March 1948",
+            "December 1968",
+            "4353",
+            "Twin Screw Motorship"
+        ],
+        [
+            "Prinses Beatrix",
+            "31 May 1948",
+            "September 1968",
+            "4353",
+            "Twin Screw Motorship"
+        ],
+        [
+            "Koningin Wilhelmina",
+            "7 February 1960",
+            "1 July 1978",
+            "6228",
+            "Twin Screw Motorship"
+        ],
+        [
+            "Koningin Juliana",
+            "17 October 1968",
+            "8 April 1984",
+            "6682",
+            "Twin Screw Ro-Ro Motorship"
+        ],
+        [
+            "Prinses Beatrix",
+            "29 June 1978",
+            "May 1986",
+            "9356",
+            "Twin Screw Ro-Ro Motorship"
+        ],
+        [
+            "Prins Oberon",
+            "11 February 1983",
+            "11 March 1983",
+            "7993",
+            "Twin Screw Ro-Ro Motorship"
+        ],
+        [
+            "Zeeland",
+            "1 April 1984",
+            "25 March 1986",
+            "6801",
+            "Twin Screw Ro-Ro Motorship"
+        ],
+        [
+            "Armorique",
+            "25 March 1986",
+            "16 April 1986",
+            "5731",
+            "Twin Screw Ro-Ro Motorship"
+        ],
+        [
+            "Koningin Beatrix",
+            "16 April 1986",
+            "2 June 1997",
+            "31189",
+            "Twin Screw Ro-Ro Motorship"
+        ]
+    ]
+}

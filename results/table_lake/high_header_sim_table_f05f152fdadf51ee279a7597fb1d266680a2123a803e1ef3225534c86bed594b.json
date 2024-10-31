@@ -1,0 +1,67 @@
+{
+    "id": "f05f152fdadf51ee279a7597fb1d266680a2123a803e1ef3225534c86bed594b",
+    "metadata": "Climate of Ireland | Temperature | Temperature records",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "_2011",
+        "_2010",
+        "_2009",
+        "_2008",
+        "_2007",
+        "_2006",
+        "_2005"
+    ],
+    "cell": [
+        [
+            "Highest mean annual temperature",
+            "\u00b0C () Valentia Observatory",
+            "\u00b0C () Valentia Observatory",
+            "\u00b0C () Valentia Observatory",
+            "\u00b0C () Valentia Observatory",
+            "\u00b0C () Valentia Observatory",
+            "\u00b0C () Valentia Observatory and Rosslare",
+            "\u00b0C () Valentia Observatory"
+        ],
+        [
+            "Lowest mean annual temperature",
+            "\u00b0C () Knock Airport",
+            "\u00b0C () Knock Airport",
+            "\u00b0C () Knock Airport",
+            "\u00b0C () Knock Airport",
+            "\u00b0C () Knock Airport",
+            "\u00b0C () Knock Airport",
+            "\u00b0C () Knock Airport"
+        ],
+        [
+            "Highest temperature",
+            "\u00b0C () Athy 3 June and Cavan 3 June",
+            "\u00b0C () Ardfert 23 May",
+            "\u00b0C () Galway 2 June",
+            "\u00b0C () Ardtarmon 28 July and Castlederg 28 July",
+            "\u00b0C () Ballyshannon 9 June",
+            "\u00b0C () Elphin 19 July",
+            "\u00b0C () Kildalton 12 July"
+        ],
+        [
+            "Lowest temperature",
+            "\u00b0C () Katesbridge 20 January",
+            "\u00b0C () Castlederg 23 December",
+            "\u00b0C () Mullingar 25 December",
+            "\u00b0C () Katesbridge 18 February",
+            "\u00b0C () Cavan 7 February",
+            "\u00b0C () Straide 3 March",
+            "\u00b0C () Casement Aerodrome 3 March"
+        ],
+        [
+            "Source: Met \u00c9ireann / Met Office",
+            "Source: Met \u00c9ireann / Met Office",
+            "Source: Met \u00c9ireann / Met Office",
+            "Source: Met \u00c9ireann / Met Office",
+            "Source: Met \u00c9ireann / Met Office",
+            "Source: Met \u00c9ireann / Met Office",
+            "Source: Met \u00c9ireann / Met Office",
+            "Source: Met \u00c9ireann / Met Office"
+        ]
+    ]
+}

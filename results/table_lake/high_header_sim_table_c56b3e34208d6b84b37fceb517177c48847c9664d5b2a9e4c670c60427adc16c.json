@@ -1,0 +1,88 @@
+{
+    "id": "c56b3e34208d6b84b37fceb517177c48847c9664d5b2a9e4c670c60427adc16c",
+    "metadata": "1992-93 Vancouver Canucks season | April | April",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "April 1",
+            "Vancouver",
+            "5 - 3",
+            "Tampa Bay",
+            "Whitmore",
+            "10425",
+            "41-27-9"
+        ],
+        [
+            "April 3",
+            "Vancouver",
+            "1 - 5",
+            "Detroit",
+            "McLean",
+            "19875",
+            "41-28-9"
+        ],
+        [
+            "April 4",
+            "Vancouver",
+            "3 - 0",
+            "Ottawa",
+            "Whitmore",
+            "10575",
+            "42-28-9"
+        ],
+        [
+            "April 7",
+            "Edmonton",
+            "4 - 5",
+            "Vancouver",
+            "McLean",
+            "15858",
+            "43-28-9"
+        ],
+        [
+            "April 9",
+            "Vancouver",
+            "1 - 8",
+            "Calgary",
+            "McLean",
+            "20214",
+            "43-29-9"
+        ],
+        [
+            "April 11",
+            "Calgary",
+            "3 - 6",
+            "Vancouver",
+            "McLean",
+            "16150",
+            "44-29-9"
+        ],
+        [
+            "April 13",
+            "Los Angeles",
+            "4 - 7",
+            "Vancouver",
+            "Whitmore",
+            "16150",
+            "45-29-9"
+        ],
+        [
+            "April 15",
+            "Vancouver",
+            "8 - 6",
+            "Los Angeles",
+            "Whitmore",
+            "16005",
+            "46-29-9"
+        ]
+    ]
+}

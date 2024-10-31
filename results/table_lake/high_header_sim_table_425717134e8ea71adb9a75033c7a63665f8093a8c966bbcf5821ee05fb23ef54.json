@@ -1,0 +1,84 @@
+{
+    "id": "425717134e8ea71adb9a75033c7a63665f8093a8c966bbcf5821ee05fb23ef54",
+    "metadata": "Central Atlas Tamazight | Vowels | Tamazight vowel allophony",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Phoneme",
+        "Realization",
+        "Environment",
+        "Example",
+        "Gloss"
+    ],
+    "cell": [
+        [
+            "/i/",
+            "[i]",
+            "#_X",
+            "/ili/",
+            "`to exist`"
+        ],
+        [
+            "/i/",
+            "[\u0268]",
+            "#_X\u02d0 / X\u02d0_",
+            "/id\u02d0a/",
+            "`he went`"
+        ],
+        [
+            "/i/",
+            "[\u026a] [e]",
+            "_G / G_",
+            "/d\u02e4\u02d0iqs/",
+            "`to burst out`"
+        ],
+        [
+            "/i/",
+            "[\u026aj]",
+            "X_#",
+            "/is\u02d0fr\u02e4\u0127i/",
+            "`he made me happy`"
+        ],
+        [
+            "/u/",
+            "[u]",
+            "#_X / X(\u02d0)_X",
+            "/ums\u0281/",
+            "`I painted`"
+        ],
+        [
+            "/u/",
+            "[\u028a] [o]",
+            "_G / G_",
+            "/id\u02e4ur\u02e4/",
+            "`he turned`"
+        ],
+        [
+            "/u/",
+            "[\u028aw]",
+            "X(\u02d0)_#",
+            "/bdu/",
+            "`to begin`"
+        ],
+        [
+            "/a/",
+            "[\u00e6]",
+            "#_X(\u02d0) / X(\u02d0)_X",
+            "/azn/",
+            "`to send`"
+        ],
+        [
+            "/a/",
+            "[\u0250]",
+            "X(\u02d0)_#",
+            "/da/",
+            "`here`"
+        ],
+        [
+            "/a/",
+            "[\u0251]",
+            "_C\u0323 / C\u0323_",
+            "/\u0127ad\u02e4r/",
+            "`to be present`"
+        ]
+    ]
+}

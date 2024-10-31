@@ -1,0 +1,79 @@
+{
+    "id": "0e27ee8d54733974457a0cb458d38e190899ac8338feb8e9ad251d2a3a7c89a7",
+    "metadata": "Sydenham railway station (London) | Services | Services",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Platform",
+        "Frequency_per_hour",
+        "Destination",
+        "Service_Pattern",
+        "Operator_",
+        "Line"
+    ],
+    "cell": [
+        [
+            "1",
+            "4",
+            "Highbury & Islington",
+            "All stations via Shoreditch High Street",
+            "London Overground",
+            "East London"
+        ],
+        [
+            "1",
+            "4",
+            "Dalston Junction",
+            "All stations via Shoreditch High Street",
+            "London Overground",
+            "East London"
+        ],
+        [
+            "1",
+            "4",
+            "London Bridge",
+            "All stations",
+            "Southern",
+            "Metro"
+        ],
+        [
+            "2",
+            "4",
+            "Crystal Palace",
+            "Next station",
+            "London Overground",
+            "East London"
+        ],
+        [
+            "2",
+            "4",
+            "West Croydon",
+            "All stations",
+            "London Overground",
+            "East London"
+        ],
+        [
+            "2",
+            "2",
+            "London Victoria (Mon-Sat)",
+            "All stations via Clapham Junction",
+            "Southern",
+            "Metro"
+        ],
+        [
+            "2",
+            "2",
+            "Caterham (Mon-Sat)",
+            "All stations via East Croydon",
+            "Southern",
+            "Metro"
+        ],
+        [
+            "2",
+            "2",
+            "West Croydon (Peaks & Sun only)",
+            "Fast to Norwood Junction",
+            "Southern",
+            "Metro"
+        ]
+    ]
+}

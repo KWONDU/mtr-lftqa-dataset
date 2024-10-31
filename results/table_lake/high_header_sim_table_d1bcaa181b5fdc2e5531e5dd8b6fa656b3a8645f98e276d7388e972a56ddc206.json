@@ -1,0 +1,61 @@
+{
+    "id": "d1bcaa181b5fdc2e5531e5dd8b6fa656b3a8645f98e276d7388e972a56ddc206",
+    "metadata": "1942 VFL season | Round 12 | Round 12",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "19.15 (129)",
+            "Richmond",
+            "17.20 (122)",
+            "Yarraville Oval",
+            "15000",
+            "25 July 1942"
+        ],
+        [
+            "Collingwood",
+            "9.15 (69)",
+            "South Melbourne",
+            "15.21 (111)",
+            "Victoria Park",
+            "8000",
+            "25 July 1942"
+        ],
+        [
+            "North Melbourne",
+            "9.10 (64)",
+            "Hawthorn",
+            "6.16 (52)",
+            "Arden Street Oval",
+            "3000",
+            "25 July 1942"
+        ],
+        [
+            "St Kilda",
+            "10.13 (73)",
+            "Fitzroy",
+            "12.14 (86)",
+            "Toorak Park",
+            "8000",
+            "25 July 1942"
+        ],
+        [
+            "Melbourne",
+            "14.20 (104)",
+            "Essendon",
+            "12.12 (84)",
+            "Punt Road Oval",
+            "6000",
+            "25 July 1942"
+        ]
+    ]
+}

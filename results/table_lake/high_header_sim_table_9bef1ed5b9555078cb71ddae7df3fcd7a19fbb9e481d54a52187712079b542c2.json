@@ -1,0 +1,84 @@
+{
+    "id": "9bef1ed5b9555078cb71ddae7df3fcd7a19fbb9e481d54a52187712079b542c2",
+    "metadata": "Aguri Suzuki | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1988",
+            "Larrousse Calmels",
+            "Lola LC88",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1989",
+            "West Zakspeed Racing",
+            "Zakspeed 891",
+            "Yamaha V8",
+            "0"
+        ],
+        [
+            "1990",
+            "Espo Larrousse F1",
+            "Lola LC89",
+            "Lamborghini V12",
+            "6"
+        ],
+        [
+            "1990",
+            "Espo Larrousse F1",
+            "Lola 90",
+            "Lamborghini V12",
+            "6"
+        ],
+        [
+            "1991",
+            "Larrousse F1",
+            "Larrousse Lola L91",
+            "Cosworth V8",
+            "1"
+        ],
+        [
+            "1992",
+            "Footwork Mugen Honda",
+            "Footwork FA13",
+            "Mugen Honda V10",
+            "0"
+        ],
+        [
+            "1993",
+            "Footwork Mugen Honda",
+            "Footwork FA13B",
+            "Mugen Honda V10",
+            "0"
+        ],
+        [
+            "1993",
+            "Footwork Mugen Honda",
+            "Footwork FA14",
+            "Mugen Honda V10",
+            "0"
+        ],
+        [
+            "1994",
+            "Sasol Jordan",
+            "Jordan 194",
+            "Hart V10",
+            "0"
+        ],
+        [
+            "1995",
+            "Ligier Gitanes Blondes",
+            "Ligier JS41",
+            "Mugen Honda V10",
+            "1"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "f8034f91b2f0eab3d27fbd91e6e0f79244c758aa723a4b76b8175e7575ebb034",
+    "metadata": "Ford C-Max | Engines and transmissions | Engines and transmissions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Engine",
+        "Capacity",
+        "Cylinders_Valves",
+        "Power_rpm",
+        "Torque_Nm_rpm"
+    ],
+    "cell": [
+        [
+            "1.6 Duratec",
+            "1,596 cc",
+            "4/16",
+            "hp (kW; PS) @6000",
+            "N\u00b7m (lb\u00b7ft) @4000"
+        ],
+        [
+            "1.6 Duratec Ti-VCT",
+            "1,596 cc",
+            "4/16",
+            "hp (kW; PS) @6000",
+            "N\u00b7m (lb\u00b7ft) @4150"
+        ],
+        [
+            "1.8 Duratec HE",
+            "1,798 cc",
+            "4/16",
+            "hp (kW; PS) @6000",
+            "N\u00b7m (lb\u00b7ft) @4000"
+        ],
+        [
+            "2.0 Duratec HE",
+            "1,999 cc",
+            "4/16",
+            "hp (kW; PS) @6000",
+            "N\u00b7m (lb\u00b7ft) @4500"
+        ],
+        [
+            "1.6 Duratorq",
+            "1,560 cc",
+            "4/16",
+            "hp (kW; PS) @4000",
+            "N\u00b7m (lb\u00b7ft) @1750"
+        ],
+        [
+            "1.6 Duratorq",
+            "1,560 cc",
+            "4/16",
+            "hp (kW; PS) @4000",
+            "N\u00b7m (lb\u00b7ft)/*N\u00b7m (lb\u00b7ft) @1750"
+        ],
+        [
+            "1.8 Duratorq",
+            "1,753 cc",
+            "4/16",
+            "hp (kW; PS) @3700",
+            "N\u00b7m (lb\u00b7ft) /*N\u00b7m (lb\u00b7ft) @1900"
+        ]
+    ]
+}

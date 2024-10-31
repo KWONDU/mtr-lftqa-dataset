@@ -1,0 +1,49 @@
+{
+    "id": "afa42d191c2bab682654af7c6665bbdba0a25fc75bc2c1a8c94106e35b9e3188",
+    "metadata": "Approximate Bayesian computation | Example | Table 1: Example of ABC rejection algorithm",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "_theta_i",
+        "Simulated_datasets_step_2",
+        "Summary_statistic_omega_S_i_step_3",
+        "Distance_rho_omega_S_i_omega_E_step_4",
+        "Outcome_step_4"
+    ],
+    "cell": [
+        [
+            "0.08",
+            "AABAAAABAABAAABAAAAA",
+            "8",
+            "2",
+            "accepted"
+        ],
+        [
+            "0.68",
+            "AABBABABAAABBABABBAB",
+            "13",
+            "7",
+            "rejected"
+        ],
+        [
+            "0.87",
+            "BBBABBABBBBABABBBBBA",
+            "9",
+            "3",
+            "rejected"
+        ],
+        [
+            "0.43",
+            "AABAAAAABBABBBBBBBBA",
+            "6",
+            "0",
+            "accepted"
+        ],
+        [
+            "0.53",
+            "ABBBBBAABBABBABAABBB",
+            "9",
+            "3",
+            "rejected"
+        ]
+    ]
+}

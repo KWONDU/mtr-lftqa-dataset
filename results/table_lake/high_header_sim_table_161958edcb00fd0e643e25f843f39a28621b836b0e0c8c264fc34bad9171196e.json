@@ -1,0 +1,71 @@
+{
+    "id": "161958edcb00fd0e643e25f843f39a28621b836b0e0c8c264fc34bad9171196e",
+    "metadata": "Liam Tuohy (footballer) | Inter League goals | Inter League goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponents",
+        "Result_",
+        "Score",
+        "Competition",
+        "Venue"
+    ],
+    "cell": [
+        [
+            "12/02/1956",
+            "Hessenliga",
+            "W",
+            "4-1",
+            "friendly",
+            "Dalymount Park , Dublin"
+        ],
+        [
+            "17/03/1956",
+            "Irish League XI",
+            "W",
+            "1-0",
+            "friendly",
+            "Dalymount Park , Dublin"
+        ],
+        [
+            "19/09/1956",
+            "Football League XI",
+            "D",
+            "3-3",
+            "friendly",
+            "Dalymount Park , Dublin"
+        ],
+        [
+            "26/09/1956",
+            "Scottish Football League XI",
+            "L",
+            "1-3",
+            "friendly",
+            "Shawfield"
+        ],
+        [
+            "18/09/1957",
+            "Scottish Football League XI",
+            "L",
+            "1-5",
+            "friendly",
+            "Dalymount Park , Dublin"
+        ],
+        [
+            "17/03/1960",
+            "Hessenliga",
+            "W",
+            "5-2",
+            "friendly",
+            "Dalymount Park , Dublin"
+        ],
+        [
+            "23/09/1964",
+            "Scottish Football League XI",
+            "D",
+            "2-2",
+            "friendly",
+            "Dalymount Park , Dublin"
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "438d237d1e63adcde4a7995e1dc99a16def909679ceb0a014569f27dd81654b1",
+    "metadata": "1952 Formula One season | East German Championship | East German Championship",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Race_Name",
+        "Circuit",
+        "Date_",
+        "Winning_driver",
+        "Constructor_",
+        "Report"
+    ],
+    "cell": [
+        [
+            "I Rostock Osthafenkurs",
+            "Rostock",
+            "20 April",
+            "Paul Greifzu",
+            "BMW - Eigenbau",
+            "Report"
+        ],
+        [
+            "I Bernau Autobahnschleife",
+            "Bernau",
+            "4 May",
+            "Rudolf Krause",
+            "BMW - Reif",
+            "Report"
+        ],
+        [
+            "I Dessau Autobahnspinne",
+            "Dessau",
+            "11 May",
+            "Fritz Riess",
+            "Veritas-Meteor",
+            "Report"
+        ],
+        [
+            "III Leipzig Stadtparkrennen",
+            "Leipzig",
+            "2 June",
+            "Edgar Barth",
+            "IFA - Kollektiv",
+            "Report"
+        ],
+        [
+            "III Strassen-Rennen Halle-Saale-Schleife",
+            "Halle-Saale-Schleife",
+            "8 June",
+            "Edgar Barth",
+            "IFA - Kollektiv",
+            "Report"
+        ],
+        [
+            "I Strassen-rennen Leipzig",
+            "Leipzig",
+            "17 August",
+            "Hans Stuck",
+            "AFM - BMW",
+            "Report"
+        ],
+        [
+            "V DMV Grenzlandringrennen",
+            "Grenzlandring",
+            "31 August",
+            "Toni Ulmen",
+            "Veritas",
+            "Report"
+        ]
+    ]
+}

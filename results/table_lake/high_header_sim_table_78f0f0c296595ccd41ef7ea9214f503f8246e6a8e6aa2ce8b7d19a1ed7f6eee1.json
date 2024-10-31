@@ -1,0 +1,49 @@
+{
+    "id": "78f0f0c296595ccd41ef7ea9214f503f8246e6a8e6aa2ce8b7d19a1ed7f6eee1",
+    "metadata": "People's National Convention (Ghana) | Parliamentary elections | Parliamentary elections",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "Number_of_PNC_votes",
+        "Share_of_votes",
+        "Seats",
+        "Outcome_of_election"
+    ],
+    "cell": [
+        [
+            "2008",
+            "117732",
+            "1.4%",
+            "2",
+            "Minority in parliament"
+        ],
+        [
+            "2004",
+            "186226",
+            "2.1%",
+            "4",
+            "Minority in parliament"
+        ],
+        [
+            "2000",
+            "224657",
+            "3.4%",
+            "3",
+            "Minority in parliament"
+        ],
+        [
+            "1996",
+            "\u2014",
+            "\u2014",
+            "5",
+            "Minority in parliament"
+        ],
+        [
+            "1992",
+            "\u2014",
+            "\u2014",
+            "boycotted",
+            "The minority parties boycotted the election"
+        ]
+    ]
+}

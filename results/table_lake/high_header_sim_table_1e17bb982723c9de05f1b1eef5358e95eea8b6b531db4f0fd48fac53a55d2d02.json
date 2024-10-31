@@ -1,0 +1,70 @@
+{
+    "id": "1e17bb982723c9de05f1b1eef5358e95eea8b6b531db4f0fd48fac53a55d2d02",
+    "metadata": "1955 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "16.16 (112)",
+            "Richmond",
+            "12.9 (81)",
+            "Western Oval",
+            "33753",
+            "23 April 1955"
+        ],
+        [
+            "Essendon",
+            "16.24 (120)",
+            "St Kilda",
+            "8.7 (55)",
+            "Windy Hill",
+            "18000",
+            "23 April 1955"
+        ],
+        [
+            "Melbourne",
+            "16.15 (111)",
+            "Geelong",
+            "8.14 (62)",
+            "MCG",
+            "32363",
+            "23 April 1955"
+        ],
+        [
+            "South Melbourne",
+            "16.11 (107)",
+            "Fitzroy",
+            "9.15 (69)",
+            "Lake Oval",
+            "18000",
+            "23 April 1955"
+        ],
+        [
+            "North Melbourne",
+            "9.16 (70)",
+            "Collingwood",
+            "21.11 (137)",
+            "Arden Street Oval",
+            "21000",
+            "23 April 1955"
+        ],
+        [
+            "Hawthorn",
+            "12.15 (87)",
+            "Carlton",
+            "9.6 (60)",
+            "Glenferrie Oval",
+            "19000",
+            "23 April 1955"
+        ]
+    ]
+}

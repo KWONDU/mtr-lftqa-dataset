@@ -1,0 +1,70 @@
+{
+    "id": "4924c2704ccc1a670efdaea3aa06ca3c80670a6a9c12c349a94208984c840929",
+    "metadata": "1940 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "6.11 (47)",
+            "St Kilda",
+            "13.6 (84)",
+            "Arden Street Oval",
+            "4500",
+            "27 July 1940"
+        ],
+        [
+            "Footscray",
+            "12.19 (91)",
+            "Melbourne",
+            "15.20 (110)",
+            "Western Oval",
+            "12000",
+            "27 July 1940"
+        ],
+        [
+            "Fitzroy",
+            "10.27 (87)",
+            "Geelong",
+            "8.12 (60)",
+            "Brunswick Street Oval",
+            "17000",
+            "27 July 1940"
+        ],
+        [
+            "Carlton",
+            "14.18 (102)",
+            "Collingwood",
+            "13.9 (87)",
+            "Princes Park",
+            "9000",
+            "27 July 1940"
+        ],
+        [
+            "Richmond",
+            "11.13 (79)",
+            "Hawthorn",
+            "12.15 (87)",
+            "Punt Road Oval",
+            "9000",
+            "27 July 1940"
+        ],
+        [
+            "South Melbourne",
+            "9.6 (60)",
+            "Essendon",
+            "7.16 (58)",
+            "Lake Oval",
+            "10000",
+            "27 July 1940"
+        ]
+    ]
+}

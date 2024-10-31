@@ -1,0 +1,63 @@
+{
+    "id": "53bfac3c4f01fafc8112cb6668befcdb7af84a0804f3944b5220071c185eea18",
+    "metadata": "Figure skating at the Asian Winter Games | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total_"
+    ],
+    "cell": [
+        [
+            "1",
+            "China",
+            "13",
+            "9",
+            "13",
+            "35"
+        ],
+        [
+            "2",
+            "Japan",
+            "7",
+            "10",
+            "7",
+            "24"
+        ],
+        [
+            "3",
+            "Uzbekistan",
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        [
+            "4",
+            "Kazakhstan",
+            "2",
+            "2",
+            "0",
+            "4"
+        ],
+        [
+            "5",
+            "North Korea",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "6",
+            "South Korea",
+            "0",
+            "0",
+            "2",
+            "2"
+        ]
+    ]
+}

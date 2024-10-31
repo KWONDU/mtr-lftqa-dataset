@@ -1,0 +1,97 @@
+{
+    "id": "02bd078a92885df5ca7cb2177fdb858b3359a3136c58eee85bda44786260850a",
+    "metadata": "2009-10 UCI Track Cycling World Cup Classics | Overall team standings | Overall team standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Team",
+        "Round1",
+        "Round2",
+        "Round3",
+        "Round4",
+        "Total_points"
+    ],
+    "cell": [
+        [
+            "1",
+            "Germany",
+            "96",
+            "93",
+            "100",
+            "53",
+            "342"
+        ],
+        [
+            "2",
+            "Australia",
+            "86",
+            "124",
+            "16",
+            "99",
+            "325"
+        ],
+        [
+            "3",
+            "Netherlands",
+            "73",
+            "58",
+            "37",
+            "57",
+            "225"
+        ],
+        [
+            "4",
+            "Great Britain",
+            "129",
+            "70",
+            "13",
+            "11",
+            "223"
+        ],
+        [
+            "5",
+            "China",
+            "41",
+            "62",
+            "0",
+            "105",
+            "208"
+        ],
+        [
+            "6",
+            "New Zealand",
+            "1",
+            "93",
+            "6",
+            "83",
+            "183"
+        ],
+        [
+            "7",
+            "France",
+            "23",
+            "29",
+            "55",
+            "53",
+            "160"
+        ],
+        [
+            "8",
+            "Lithuania",
+            "40",
+            "5",
+            "78",
+            "17",
+            "140"
+        ],
+        [
+            "9",
+            "Ukraine",
+            "27",
+            "42",
+            "38",
+            "25",
+            "132"
+        ]
+    ]
+}

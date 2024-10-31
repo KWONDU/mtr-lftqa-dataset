@@ -1,0 +1,97 @@
+{
+    "id": "c82c186343b837a80d23e9af903f264c3dc30a2ed8fff4bbcafa860f964ac3b8",
+    "metadata": "2008-09 Cardiff City F.C. season | In | In",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Country",
+        "Type_",
+        "Moving_from",
+        "Transfer_window",
+        "Ends",
+        "Transfer_fee",
+        "Source_"
+    ],
+    "cell": [
+        [
+            "Comminges",
+            "GPE",
+            "Free Transfer",
+            "Swindon Town",
+            "Summer",
+            "2010",
+            "Free",
+            "BBC Sport"
+        ],
+        [
+            "Kennedy",
+            "IRL",
+            "Free Transfer",
+            "Crystal Palace",
+            "Summer",
+            "2010",
+            "Free",
+            "BBC Sport"
+        ],
+        [
+            "Enckelman",
+            "FIN",
+            "Free Transfer",
+            "Blackburn Rovers",
+            "Summer",
+            "2010",
+            "Free",
+            "BBC Sport"
+        ],
+        [
+            "Dennehy",
+            "IRL",
+            "Free Transfer",
+            "Everton",
+            "Summer",
+            "2010",
+            "Free",
+            "BBC Sport"
+        ],
+        [
+            "McCormack",
+            "SCO",
+            "Transfer",
+            "Motherwell",
+            "Summer",
+            "2010",
+            "\u00a3120,000",
+            "BBC Sport"
+        ],
+        [
+            "Bothroyd",
+            "ENG",
+            "Transfer",
+            "Wolverhampton Wanderers",
+            "Summer",
+            "2011",
+            "\u00a3350,000",
+            "BBC Sport"
+        ],
+        [
+            "Gyepes",
+            "HUN",
+            "Transfer",
+            "Northampton Town",
+            "Summer",
+            "2010",
+            "\u00a3200,000",
+            "BBC Sport"
+        ],
+        [
+            "Burke",
+            "SCO",
+            "Free Transfer",
+            "Rangers",
+            "Winter",
+            "2011",
+            "Free",
+            "BBC Sport"
+        ]
+    ]
+}

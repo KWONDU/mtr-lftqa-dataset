@@ -1,0 +1,111 @@
+{
+    "id": "6a603cb560fe8b0d0846c2633ca0fcfbe07fe21ca051aee8c652ec14c22e9a05",
+    "metadata": "The Hollowmen | Episode ratings | Episode ratings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode_No_",
+        "Airdate",
+        "Time_",
+        "Ratings_5_capital_cities",
+        "Timeslot_rank",
+        "Overall_nightly_rank"
+    ],
+    "cell": [
+        [
+            "Fat Chance",
+            "9 July 2008",
+            "21:30",
+            "1185000",
+            "1st",
+            "13th"
+        ],
+        [
+            "The Ambassador",
+            "16 July 2008",
+            "21:30",
+            "1040000",
+            "2nd",
+            "16th"
+        ],
+        [
+            "A Time for Talk",
+            "23 July 2008",
+            "21:30",
+            "950000",
+            "3rd",
+            "18th"
+        ],
+        [
+            "Rear Vision",
+            "30 July 2008",
+            "21:30",
+            "996000",
+            "2nd",
+            "16th"
+        ],
+        [
+            "Military Matters",
+            "6 August 2008",
+            "21:30",
+            "816000",
+            "3rd",
+            "24th"
+        ],
+        [
+            "A Housing Crisis",
+            "27 August 2008",
+            "21:00",
+            "926000",
+            "2nd",
+            "15th"
+        ],
+        [
+            "Shared Interests",
+            "3 September 2008",
+            "21:00",
+            "931000",
+            "2nd",
+            "17th"
+        ],
+        [
+            "Edifice Complex",
+            "10 September 2008",
+            "21:00",
+            "1044000",
+            "2nd",
+            "16th"
+        ],
+        [
+            "Wonder Drug",
+            "17 September 2008",
+            "21:00",
+            "941000",
+            "3rd",
+            "19th"
+        ],
+        [
+            "Vulnerable to Attack",
+            "24 September 2008",
+            "21:00",
+            "906000",
+            "3rd",
+            "15th"
+        ],
+        [
+            "A Waste of Energy",
+            "1 October 2008",
+            "21:00",
+            "877000",
+            "3rd",
+            "16th"
+        ],
+        [
+            "A Quiet January",
+            "8 October 2008",
+            "21:00",
+            "931000",
+            "3rd",
+            "16th"
+        ]
+    ]
+}

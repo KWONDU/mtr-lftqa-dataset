@@ -1,0 +1,56 @@
+{
+    "id": "035c93273a8ea00264d23ea9d3903299a62cb6b3e85cfeb278f6b9ed4935d107",
+    "metadata": "1976-77 Portland Trail Blazers season | NBA Finals | NBA Finals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Home_team",
+        "Result_",
+        "Road_team"
+    ],
+    "cell": [
+        [
+            "Game 1",
+            "May 22",
+            "Philadelphia",
+            "107-101",
+            "Portland"
+        ],
+        [
+            "Game 2",
+            "May 26",
+            "Philadelphia",
+            "107-89",
+            "Portland"
+        ],
+        [
+            "Game 3",
+            "May 29",
+            "Portland",
+            "129-107",
+            "Philadelphia"
+        ],
+        [
+            "Game 4",
+            "May 31",
+            "Portland",
+            "130-98",
+            "Philadelphia"
+        ],
+        [
+            "Game 5",
+            "June 3",
+            "Philadelphia",
+            "104-110",
+            "Portland"
+        ],
+        [
+            "Game 6",
+            "June 5",
+            "Portland",
+            "109-107",
+            "Philadelphia"
+        ]
+    ]
+}

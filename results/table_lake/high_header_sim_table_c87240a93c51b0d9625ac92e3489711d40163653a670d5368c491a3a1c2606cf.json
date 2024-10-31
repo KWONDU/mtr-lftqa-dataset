@@ -1,0 +1,84 @@
+{
+    "id": "c87240a93c51b0d9625ac92e3489711d40163653a670d5368c491a3a1c2606cf",
+    "metadata": "Phoenix Film Critics Society Award for Best Foreign Language Film | 2000s | 2000s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "English_title",
+        "Original_title",
+        "Country",
+        "Director"
+    ],
+    "cell": [
+        [
+            "2000",
+            "Crouching Tiger, Hidden Dragon",
+            "Wo hu cang long",
+            "Taiwan",
+            "Ang Lee"
+        ],
+        [
+            "2001",
+            "Am\u00e9lie",
+            "Le fabuleux destin d`Am\u00e9lie Poulain",
+            "France/Germany",
+            "Jean-Pierre Jeunet"
+        ],
+        [
+            "2002",
+            "The Fast Runner",
+            "Atanarjuat",
+            "Canada",
+            "Zacharias Kunuk"
+        ],
+        [
+            "2003",
+            "City of God",
+            "Cidade de Deus",
+            "Brazil",
+            "Fernando Meirelles"
+        ],
+        [
+            "2004",
+            "Hero",
+            "Ying xiong",
+            "China/Hong Kong",
+            "Zhang Yimou"
+        ],
+        [
+            "2005",
+            "Kung Fu Hustle",
+            "Kung fu",
+            "China/Hong Kong",
+            "Stephen Chow"
+        ],
+        [
+            "2006",
+            "Letters from Iwo Jima",
+            "Letters from Iwo Jima",
+            "USA/Japan",
+            "Clint Eastwood"
+        ],
+        [
+            "2007",
+            "The Diving Bell and the Butterfly",
+            "Le scaphandre et le papillon",
+            "France/USA",
+            "Julian Schnabel"
+        ],
+        [
+            "2008",
+            "Let the Right One In",
+            "L\u00e5t den r\u00e4tte komma in",
+            "Sweden",
+            "Tomas Alfredson"
+        ],
+        [
+            "2009",
+            "Broken Embraces",
+            "Los abrazos rotos",
+            "Spain",
+            "Pedro Almod\u00f3var"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "b45d238935f2b9e1d8cc1018e7ee1ceb963484106845412bc417e237cebfda87",
+    "metadata": "Matariki Network of Universities | Universities | Universities",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Members",
+        "Country",
+        "Year_Established",
+        "World_Rank_by_THE_WUR_2013",
+        "World_Rank_by_ARWU_2013",
+        "World_Rank_by_QS_2013"
+    ],
+    "cell": [
+        [
+            "Dartmouth College",
+            "USA",
+            "1769",
+            "126th",
+            "151-200th",
+            "113th"
+        ],
+        [
+            "Durham University",
+            "UK",
+            "1832",
+            "80th",
+            "201-300th",
+            "90th"
+        ],
+        [
+            "Queen\u2019s University",
+            "Canada",
+            "1841",
+            "226-250th",
+            "201-300th",
+            "189th"
+        ],
+        [
+            "University of Otago",
+            "New Zealand",
+            "1869",
+            "226-250th",
+            "201-300th",
+            "155th"
+        ],
+        [
+            "University of T\u00fcbingen",
+            "Germany",
+            "1477",
+            "201-225th",
+            "151-200th",
+            "144th"
+        ],
+        [
+            "University of Western Australia",
+            "Australia",
+            "1911",
+            "168th",
+            "91st",
+            "134th"
+        ]
+    ]
+}

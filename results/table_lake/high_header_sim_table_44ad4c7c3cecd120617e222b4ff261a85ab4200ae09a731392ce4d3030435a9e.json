@@ -1,0 +1,56 @@
+{
+    "id": "44ad4c7c3cecd120617e222b4ff261a85ab4200ae09a731392ce4d3030435a9e",
+    "metadata": "Reg Parnell | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1950",
+            "Alfa Romeo SpA",
+            "Alfa Romeo 158",
+            "Alfa Romeo Straight-8",
+            "4"
+        ],
+        [
+            "1950",
+            "Scuderia Ambrosiana",
+            "Maserati 4CLT/48",
+            "Maserati Straight-4",
+            "4"
+        ],
+        [
+            "1951",
+            "G.A. Vandervell",
+            "Ferrari 375 Thinwall",
+            "Ferrari V12",
+            "5"
+        ],
+        [
+            "1951",
+            "BRM Ltd.",
+            "BRM P15",
+            "BRM V16",
+            "5"
+        ],
+        [
+            "1952",
+            "A.H.M. Bryde",
+            "Cooper T20",
+            "Bristol Straight-6",
+            "0"
+        ],
+        [
+            "1954",
+            "Scuderia Ambrosiana",
+            "Ferrari 500/625",
+            "Ferrari Straight-4",
+            "0"
+        ]
+    ]
+}

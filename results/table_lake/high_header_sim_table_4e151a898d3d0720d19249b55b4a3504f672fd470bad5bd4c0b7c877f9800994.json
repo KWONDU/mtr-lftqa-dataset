@@ -1,0 +1,88 @@
+{
+    "id": "4e151a898d3d0720d19249b55b4a3504f672fd470bad5bd4c0b7c877f9800994",
+    "metadata": "Black Diamond Conference | Cooperative Programs | Cooperative Programs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team_Name",
+        "Schools",
+        "Sports",
+        "Host_",
+        "Nicknames",
+        "Colors",
+        "Enrollment_2013_14"
+    ],
+    "cell": [
+        [
+            "Christopher-Zeigler-Royalton",
+            "Christopher Zeigler-Royalton",
+            "Football, Track and Field",
+            "Christopher",
+            "Bearcats Lady Cats",
+            "Blue Orange",
+            "412"
+        ],
+        [
+            "Eldorado-Galatia",
+            "Eldorado Galatia",
+            "Cross Country, Golf, Track and Field",
+            "Eldorado",
+            "Eagles",
+            "Purple Gold",
+            "461"
+        ],
+        [
+            "Elverado-Trico",
+            "Elverado Trico",
+            "Football",
+            "Elverado",
+            "Falcons",
+            "Blue Gold",
+            "436"
+        ],
+        [
+            "Fairfield-Cisne",
+            "Cisne Fairfield",
+            "Wrestling",
+            "Fairfield",
+            "Mules Lady Mules",
+            "Red Black",
+            "549"
+        ],
+        [
+            "Sesser-Valier-Waltonville",
+            "Sesser-Valier Waltonville",
+            "Girls` Basketball, Track and Field, Volleyball",
+            "Sesser-Valier",
+            "Red Devils",
+            "Maroon White",
+            "309"
+        ],
+        [
+            "Sesser-Valier-Waltonville-Woodlawn",
+            "Sesser-Valier Waltonville Woodlawn",
+            "Football",
+            "Sesser-Valier",
+            "Red Devils",
+            "Maroon White",
+            "494"
+        ],
+        [
+            "Vienna-Goreville",
+            "Goreville Vienna",
+            "Football",
+            "Vienna",
+            "Eagles",
+            "Royal Blue Orange",
+            "503"
+        ],
+        [
+            "Zeigler-Royalton-Christopher",
+            "Christopher Zeigler-Royalton",
+            "Baseball, Girls` Basketball, Golf, Softball",
+            "Zeigler-Royalton",
+            "Tornadoes",
+            "Navy Blue White",
+            "412"
+        ]
+    ]
+}

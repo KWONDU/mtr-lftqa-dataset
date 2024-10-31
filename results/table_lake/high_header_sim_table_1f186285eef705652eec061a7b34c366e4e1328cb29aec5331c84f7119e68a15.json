@@ -1,0 +1,67 @@
+{
+    "id": "1f186285eef705652eec061a7b34c366e4e1328cb29aec5331c84f7119e68a15",
+    "metadata": "2007-08 FIS Ski Jumping World Cup | Bischofshofen (6 January) | Bischofshofen (6 January)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Nationality",
+        "_1st_m",
+        "_2nd_m",
+        "Points",
+        "Overall_FHT_points",
+        "Overall_WC_points_Rank"
+    ],
+    "cell": [
+        [
+            "1",
+            "Janne Ahonen",
+            "FIN",
+            "126.0",
+            "136.0",
+            "251.6",
+            "1085.8 (1)",
+            "615 (3)"
+        ],
+        [
+            "2",
+            "Anders Bardal",
+            "NOR",
+            "132.5",
+            "124.5",
+            "243.6",
+            "958.7 (7)",
+            "245 (13)"
+        ],
+        [
+            "3",
+            "Thomas Morgenstern",
+            "AUT",
+            "121.0",
+            "135.5",
+            "242.7",
+            "1066.0 (2)",
+            "940 (1)"
+        ],
+        [
+            "4",
+            "Martin Schmitt",
+            "GER",
+            "121.5",
+            "132.5",
+            "235.7",
+            "955.9 (8)",
+            "115 (20)"
+        ],
+        [
+            "5",
+            "Denis Kornilov",
+            "RUS",
+            "120.0",
+            "132.0",
+            "232.6",
+            "685.0 (24)",
+            "140 (18)"
+        ]
+    ]
+}

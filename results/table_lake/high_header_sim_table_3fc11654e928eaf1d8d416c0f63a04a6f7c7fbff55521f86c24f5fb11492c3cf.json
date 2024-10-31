@@ -1,0 +1,87 @@
+{
+    "id": "3fc11654e928eaf1d8d416c0f63a04a6f7c7fbff55521f86c24f5fb11492c3cf",
+    "metadata": "List of VIA Eden microprocessors | (ultra-low-voltage, 90 nm) | (ultra-low-voltage, 90 nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Frequency",
+        "L2_Cache",
+        "Front_Side_Bus",
+        "Multiplier",
+        "Voltage",
+        "Idle_Power",
+        "Socket"
+    ],
+    "cell": [
+        [
+            "Eden ULV 500",
+            "500\u2009MHz",
+            "128\u2009KiB",
+            "400\u2009MT/s",
+            "5\u00d7",
+            "0.684\u2009V",
+            "100\u2009mW",
+            "NanoBGA2"
+        ],
+        [
+            "Eden ULV 500",
+            "500\u2009MHz",
+            "128\u2009KiB",
+            "400\u2009MT/s",
+            "5\u00d7",
+            "0.6875\u2009V",
+            "mW",
+            "MobileBGA"
+        ],
+        [
+            "Eden ULV 1.0GHz",
+            "1000\u2009MHz",
+            "128\u2009KiB",
+            "400\u2009MT/s",
+            "10\u00d7",
+            "0.796\u2009V",
+            "500\u2009mW",
+            "NanoBGA2"
+        ],
+        [
+            "Eden ULV 1.0GHz",
+            "1000\u2009MHz",
+            "128\u2009KiB",
+            "400\u2009MT/s",
+            "10\u00d7",
+            "0.8000\u2009V",
+            "mW",
+            "MobileBGA"
+        ],
+        [
+            "Eden ULV 1.5GHz",
+            "1500\u2009MHz",
+            "128\u2009KiB",
+            "400\u2009MT/s",
+            "15\u00d7",
+            "0.956\u2009V",
+            "500\u2009mW",
+            "NanoBGA2"
+        ],
+        [
+            "Eden ULV 1.6GHz",
+            "1600\u2009MHz",
+            "128\u2009KiB",
+            "800\u2009MT/s",
+            "7.5\u00d7",
+            "\u22640.988\u2009V",
+            "mW",
+            "NanoBGA2"
+        ],
+        [
+            "Eden ULV 1.6GHz",
+            "1600\u2009MHz",
+            "128\u2009KiB",
+            "800\u2009MT/s",
+            "7.5\u00d7",
+            "\u22640.9875\u2009V",
+            "mW",
+            "MobileBGA"
+        ]
+    ]
+}

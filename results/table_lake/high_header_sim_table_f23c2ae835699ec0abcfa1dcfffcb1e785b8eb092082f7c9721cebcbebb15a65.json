@@ -1,0 +1,49 @@
+{
+    "id": "f23c2ae835699ec0abcfa1dcfffcb1e785b8eb092082f7c9721cebcbebb15a65",
+    "metadata": "Jamie Roberts | Overall points record | Overall points record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Games",
+        "Tries",
+        "Conversions",
+        "Total_Points"
+    ],
+    "cell": [
+        [
+            "Cardiff Blues",
+            "53",
+            "14",
+            "0",
+            "70"
+        ],
+        [
+            "Wales",
+            "30",
+            "2",
+            "0",
+            "10"
+        ],
+        [
+            "British and Irish Lions",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "British and Irish Lions Tour Matches",
+            "3",
+            "2",
+            "0",
+            "10"
+        ],
+        [
+            "Barbarians",
+            "1",
+            "0",
+            "0",
+            "0"
+        ]
+    ]
+}

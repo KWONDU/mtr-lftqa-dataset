@@ -1,0 +1,49 @@
+{
+    "id": "73576101c623d5adf55f9f81325effb2097bc822597ac7d13feadf6b9176e37d",
+    "metadata": "1964 Michigan Wolverines football team | Rushing | Rushing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Attempts",
+        "Net_yards",
+        "Yards_per_attempt",
+        "Touchdowns"
+    ],
+    "cell": [
+        [
+            "Mel Anthony",
+            "145",
+            "702",
+            "4.8",
+            "9"
+        ],
+        [
+            "Bob Timberlake",
+            "156",
+            "631",
+            "4.0",
+            "9"
+        ],
+        [
+            "Carl Ward",
+            "101",
+            "515",
+            "5.1",
+            "4"
+        ],
+        [
+            "Jim Detwiler",
+            "75",
+            "298",
+            "4.0",
+            "1"
+        ],
+        [
+            "Dave Fisher",
+            "48",
+            "205",
+            "4.3",
+            "2"
+        ]
+    ]
+}

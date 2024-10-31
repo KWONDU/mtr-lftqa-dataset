@@ -1,0 +1,91 @@
+{
+    "id": "0ce3e21248ce6d5568cc6fc8a47bc64dc2b9d7ed65e4761fafae527d91c6086a",
+    "metadata": "Wake Forest Demon Deacons football, 1980-89 | Schedule | 1986",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Location_",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/06/1986",
+            "Appalachian State",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 21-13",
+            "28700"
+        ],
+        [
+            "09/13/1986",
+            "Boston University",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 31-0",
+            "17800"
+        ],
+        [
+            "09/20/1986*",
+            "at North Carolina State",
+            "Carter-Finley Stadium \u2022 Raleigh, NC",
+            "L 38-42",
+            "37400"
+        ],
+        [
+            "09/27/1986",
+            "at Army",
+            "Michie Stadium \u2022 West Point, NY",
+            "W 49-14",
+            "40853"
+        ],
+        [
+            "10/04/1986*",
+            "Virginia",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 28-30",
+            "25400"
+        ],
+        [
+            "10/11/1986*",
+            "North Carolina",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 30-40",
+            "31350"
+        ],
+        [
+            "10/18/1986*",
+            "at Maryland",
+            "Byrd Stadium \u2022 College Park, MD",
+            "W 27-21",
+            "39650"
+        ],
+        [
+            "11/01/1986*",
+            "Clemson",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 20-28",
+            "20370"
+        ],
+        [
+            "11/08/1986*",
+            "at Duke",
+            "Wallace Wade Stadium \u2022 Durham, NC",
+            "L 36-38",
+            "36200"
+        ],
+        [
+            "11/15/1986",
+            "at South Carolina",
+            "Williams-Brice Stadium \u2022 Columbia, SC",
+            "L 21-48",
+            "64186"
+        ],
+        [
+            "11/22/1986*",
+            "Georgia Tech",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 24-21",
+            "17300"
+        ]
+    ]
+}

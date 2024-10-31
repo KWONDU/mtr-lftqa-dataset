@@ -1,0 +1,70 @@
+{
+    "id": "28591c1264b0edeb398bdc8e7150b75fa3c895908d23c8a5aad919d6a1088f0b",
+    "metadata": "1961 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "6.9 (45)",
+            "South Melbourne",
+            "12.17 (89)",
+            "Punt Road Oval",
+            "27650",
+            "25 April 1961"
+        ],
+        [
+            "Essendon",
+            "8.9 (57)",
+            "Melbourne",
+            "11.16 (82)",
+            "Windy Hill",
+            "32000",
+            "25 April 1961"
+        ],
+        [
+            "Collingwood",
+            "12.16 (88)",
+            "North Melbourne",
+            "9.8 (62)",
+            "Victoria Park",
+            "26574",
+            "29 April 1961"
+        ],
+        [
+            "Carlton",
+            "11.6 (72)",
+            "Footscray",
+            "11.15 (81)",
+            "Princes Park",
+            "34254",
+            "29 April 1961"
+        ],
+        [
+            "St Kilda",
+            "12.11 (83)",
+            "Geelong",
+            "6.14 (50)",
+            "Junction Oval",
+            "29300",
+            "29 April 1961"
+        ],
+        [
+            "Hawthorn",
+            "13.17 (95)",
+            "Fitzroy",
+            "10.9 (69)",
+            "Glenferrie Oval",
+            "21500",
+            "29 April 1961"
+        ]
+    ]
+}

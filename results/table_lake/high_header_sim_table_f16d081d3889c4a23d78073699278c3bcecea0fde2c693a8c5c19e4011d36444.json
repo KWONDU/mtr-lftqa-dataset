@@ -1,0 +1,63 @@
+{
+    "id": "f16d081d3889c4a23d78073699278c3bcecea0fde2c693a8c5c19e4011d36444",
+    "metadata": "Hy-Vee Triathlon | Women's winners | Women's winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Athlete",
+        "Nation",
+        "Time_",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Bennett, Laura Laura Bennett",
+            "United States",
+            "2:04:3",
+            "Des Moines"
+        ],
+        [
+            "2008",
+            "Snowsill, Emma Emma Snowsill",
+            "Australia",
+            "2:03:15",
+            "West Des Moines"
+        ],
+        [
+            "2009",
+            "Moffat, Emma Emma Moffatt",
+            "Australia",
+            "1:59:46",
+            "West Des Moines"
+        ],
+        [
+            "2010",
+            "Snowsill, Emma Emma Snowsill (2)",
+            "Australia",
+            "1:59.34",
+            "West Des Moines"
+        ],
+        [
+            "2011",
+            "Nord\u00e9n, Lisa Lisa Nord\u00e9n",
+            "Sweden",
+            "1:59:12",
+            "Des Moines"
+        ],
+        [
+            "2012",
+            "Nord\u00e9n, Lisa Lisa Nord\u00e9n (2)",
+            "Sweden",
+            "2:01:59",
+            "Des Moines"
+        ],
+        [
+            "2013",
+            "Moffat, Emma Emma Moffatt (2)",
+            "Australia",
+            "1:57:04",
+            "Des Moines"
+        ]
+    ]
+}

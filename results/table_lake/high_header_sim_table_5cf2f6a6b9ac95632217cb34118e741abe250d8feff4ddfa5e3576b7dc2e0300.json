@@ -1,0 +1,63 @@
+{
+    "id": "5cf2f6a6b9ac95632217cb34118e741abe250d8feff4ddfa5e3576b7dc2e0300",
+    "metadata": "1979 World Figure Skating Championships | Medals table | Medals table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Soviet Union",
+            "2",
+            "1",
+            "1",
+            "4"
+        ],
+        [
+            "2",
+            "East Germany",
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        [
+            "3",
+            "United States",
+            "1",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "4",
+            "Hungary",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "4",
+            "United Kingdom",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "6",
+            "Japan",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "9a9f12802c62e2762fe8d71840318931ee456a4dff80295f3ed45d17b0a49fc1",
+    "metadata": "1903 in paleontology | Newly named dinosaurs | Newly named dinosaurs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Novelty",
+        "Status_",
+        "Authors",
+        "Unit",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Brachiosaurus",
+            "gen et sp",
+            "Valid",
+            "Riggs",
+            "Morrison Formation , Colorado",
+            "USA"
+        ],
+        [
+            "Haplocanthosaurus",
+            "gen et sp",
+            "Valid; nomen conservandum",
+            "Hatcher",
+            "Morrison Formation , Colorado",
+            "USA"
+        ],
+        [
+            "Haplocanthus",
+            "gen et sp",
+            "Nomen oblitum",
+            "Hatcher",
+            "Morrison Formation , Colorado",
+            "USA"
+        ],
+        [
+            "Ornitholestes",
+            "gen et sp",
+            "Valid",
+            "Osborn",
+            "Morrison Formation , Wyoming",
+            "USA"
+        ],
+        [
+            "Telmatosaurus",
+            "gen",
+            "Valid",
+            "Nopcsa",
+            "S\u00e2npetru Formation , Transylvania",
+            "Romania"
+        ]
+    ]
+}

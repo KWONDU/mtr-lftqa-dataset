@@ -1,0 +1,87 @@
+{
+    "id": "c1bb6ba65547177fc9db02390f0bf3b14ffd65e951f39cd0b9d32e19c10dedf7",
+    "metadata": "Didi Benami | Performances/results | Performances/results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week_",
+        "Theme",
+        "Song_choice",
+        "Original_artist",
+        "Order_",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Audition",
+            "Auditioner`s Choice",
+            "Hey Jude",
+            "The Beatles",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Hollywood",
+            "First Solo",
+            "Terrified",
+            "Katharine McPhee",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Hollywood",
+            "Group Performance",
+            "No One",
+            "Alicia Keys",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Hollywood",
+            "Second Solo",
+            "Angel",
+            "Sarah McLachlan",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Top 24 (12 Women)",
+            "Billboard Hot 100 Hits",
+            "The Way I Am",
+            "Ingrid Michaelson",
+            "9",
+            "Safe"
+        ],
+        [
+            "Top 20 (10 Women)",
+            "Billboard Hot 100 Hits",
+            "Lean on Me",
+            "Bill Withers",
+            "5",
+            "Safe"
+        ],
+        [
+            "Top 16 (8 Women)",
+            "Billboard Hot 100 Hits",
+            "Rhiannon",
+            "Fleetwood Mac",
+            "5",
+            "Safe"
+        ],
+        [
+            "Top 12",
+            "The Rolling Stones",
+            "Play with Fire",
+            "The Rolling Stones",
+            "2",
+            "Safe"
+        ],
+        [
+            "Top 11",
+            "Billboard #1 Hits",
+            "You`re No Good",
+            "Betty Everett",
+            "10",
+            "Safe"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "16e8f25ca2eee98d44b978098f6b8d4fec16ff972a7a98f22696ffd8c7cfd0fd",
+    "metadata": "1934 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 3",
+            "Navin Field",
+            "2:13",
+            "42505"
+        ],
+        [
+            "2",
+            "October 4",
+            "Navin Field",
+            "2:49",
+            "43451"
+        ],
+        [
+            "3",
+            "October 5",
+            "Sportsman`s Park (III)",
+            "2:07",
+            "34073"
+        ],
+        [
+            "4",
+            "October 6",
+            "Sportsman`s Park (III)",
+            "2:43",
+            "37492"
+        ],
+        [
+            "5",
+            "October 7",
+            "Sportsman`s Park (III)",
+            "1:58",
+            "38536"
+        ],
+        [
+            "6",
+            "October 8",
+            "Navin Field",
+            "1:58",
+            "44551"
+        ],
+        [
+            "7",
+            "October 9",
+            "Navin Field",
+            "2:19",
+            "40902"
+        ]
+    ]
+}

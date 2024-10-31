@@ -1,0 +1,63 @@
+{
+    "id": "b5dd185173ed1712e8ab6de6204e410b89d045b271b50c94d8d52ed71ac3eab9",
+    "metadata": "High-speed rail in Europe | Bulgaria | Bulgaria",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Line",
+        "Speed",
+        "Length_",
+        "Construction_begun",
+        "Expected_start_of_revenue_services"
+    ],
+    "cell": [
+        [
+            "Svilengrad -Turkish Border",
+            "200km/h",
+            "19km",
+            "2010",
+            "2012"
+        ],
+        [
+            "Dimitrovgrad - Svilengrad",
+            "200km/h",
+            "70km",
+            "2012",
+            "2013"
+        ],
+        [
+            "Plovdiv - Burgas",
+            "200km/h",
+            "291km",
+            "2010",
+            "2013"
+        ],
+        [
+            "Sofia - Plovdiv",
+            "200km/h",
+            "156km",
+            "2010",
+            "2015"
+        ],
+        [
+            "Sofia - Radomir",
+            "200km/h",
+            "53km",
+            "2014",
+            "2017"
+        ],
+        [
+            "Sofia - Dragoman",
+            "200km/h",
+            "44km",
+            "2014",
+            "2017"
+        ],
+        [
+            "Vidin - Sofia",
+            "200km/h",
+            "222km",
+            "Unknown",
+            "2020"
+        ]
+    ]
+}

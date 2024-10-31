@@ -1,0 +1,49 @@
+{
+    "id": "3cd2159d372d1e66a4341b0ac246ff686229c6c4fbdb1bd5ecb1e243cdbc17cf",
+    "metadata": "Radiopharmacology | Iodine-123 | Iodine-123",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Investigation",
+        "Route_of_administration",
+        "In_vitro_in_vivo",
+        "Imaging_non_imaging"
+    ],
+    "cell": [
+        [
+            "I123-Iodide",
+            "Thyroid uptake",
+            "Oral or IV",
+            "In-vivo",
+            "Non-imaging"
+        ],
+        [
+            "I123-Iodide",
+            "Thyroid imaging Thyroid metastases imaging",
+            "Oral or IV",
+            "In-vivo",
+            "Imaging"
+        ],
+        [
+            "I123-o-Iodohippurate",
+            "Renal imaging",
+            "IV",
+            "In-vivo",
+            "Imaging"
+        ],
+        [
+            "I123-MIBG (m-iodobenzylguanidine)",
+            "Neuroectodermal tumour imaging",
+            "IV",
+            "In-vivo",
+            "Imaging"
+        ],
+        [
+            "I123-FP-CIT",
+            "SPECT imaging of Parkinson`s Disease",
+            "IV",
+            "In-vivo",
+            "Imaging"
+        ]
+    ]
+}

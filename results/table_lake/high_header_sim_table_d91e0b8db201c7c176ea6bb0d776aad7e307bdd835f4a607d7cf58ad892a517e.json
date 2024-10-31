@@ -1,0 +1,84 @@
+{
+    "id": "d91e0b8db201c7c176ea6bb0d776aad7e307bdd835f4a607d7cf58ad892a517e",
+    "metadata": "2008 Meistriliiga | Clubs and venues | Clubs and venues",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Location_",
+        "Stadium",
+        "Capacity",
+        "Current_manager"
+    ],
+    "cell": [
+        [
+            "Flora",
+            "Tallinn",
+            "A. Le Coq Arena",
+            "9300",
+            "Pasi Rautiainen"
+        ],
+        [
+            "Kalju",
+            "Tallinn",
+            "Hiiu Stadium",
+            "500",
+            "Fredo Getulio"
+        ],
+        [
+            "Levadia",
+            "Tallinn",
+            "Kadrioru Stadium",
+            "4750",
+            "Igor Prins"
+        ],
+        [
+            "Maag Tammeka",
+            "Tartu",
+            "Tamme Stadium",
+            "2000",
+            "Sergei Zamogiln\u00f5i"
+        ],
+        [
+            "Sillam\u00e4e Kalev",
+            "Sillam\u00e4e",
+            "Sillam\u00e4e Kalevi Stadium",
+            "2000",
+            "Vadym Dobizha"
+        ],
+        [
+            "Tallinna Kalev",
+            "Tallinn",
+            "Kalevi Keskstaadion",
+            "12000",
+            "Aavo Sarap"
+        ],
+        [
+            "Trans",
+            "Narva",
+            "Kreenholmi Stadium",
+            "3000",
+            "Aleksei Yagudin"
+        ],
+        [
+            "Tulevik",
+            "Viljandi",
+            "Viljandi linnastaadion",
+            "2500",
+            "Marko Lelov"
+        ],
+        [
+            "TVMK",
+            "Tallinn",
+            "Kadrioru Stadium",
+            "4750",
+            "Sergei Ratnikov"
+        ],
+        [
+            "Vaprus",
+            "P\u00e4rnu",
+            "P\u00e4rnu Kalevi Stadium",
+            "1900",
+            "Ants Kommussaar"
+        ]
+    ]
+}

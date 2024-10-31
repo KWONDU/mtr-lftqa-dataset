@@ -1,0 +1,87 @@
+{
+    "id": "73e89a6ee955a65fdac13685bd41c22cdabe444f7debe849b40b97fc0f77f2a3",
+    "metadata": "Nuestra Belleza Latina | Results | 2007",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Season_Premiere",
+        "Season_Finale",
+        "Winner",
+        "Runner_up",
+        "Number_of_Contestants",
+        "Winner_s_Country",
+        "Runner_Up_s_Country"
+    ],
+    "cell": [
+        [
+            "Nuestra Belleza Latina 2007",
+            "March 27, 2007",
+            "May 25, 2007",
+            "Alejandra Espinoza",
+            "Mayra Mu\u00f1oz",
+            "12",
+            "Mexico",
+            "El Salvador"
+        ],
+        [
+            "Nuestra Belleza Latina 2008",
+            "February 29, 2008",
+            "May 27, 2008",
+            "Melissa Marty",
+            "Emeraude Toub\u00eda",
+            "12",
+            "Puerto Rico",
+            "Mexico"
+        ],
+        [
+            "Nuestra Belleza Latina 2009",
+            "March 1, 2009",
+            "May 17, 2009",
+            "Greydis Gil",
+            "Marycarmen L\u00f3pez",
+            "14",
+            "Cuba",
+            "Mexico"
+        ],
+        [
+            "Nuestra Belleza Latina 2010",
+            "March 9, 2010",
+            "May 23, 2010",
+            "Ana Patricia Gonz\u00e1lez",
+            "Carolina Ramirez",
+            "12",
+            "Mexico",
+            "Colombia"
+        ],
+        [
+            "Nuestra Belleza Latina 2011",
+            "March 6, 2011",
+            "May 22, 2011",
+            "Nastassja Bolivar",
+            "Gredmarie Col\u00f3n",
+            "13",
+            "Nicaragua",
+            "Puerto Rico"
+        ],
+        [
+            "Nuestra Belleza Latina 2012",
+            "March 4, 2012",
+            "May 20, 2012",
+            "Vanessa De Roide",
+            "Setareh Khatibi",
+            "12",
+            "Puerto Rico",
+            "Mexico"
+        ],
+        [
+            "Nuestra Belleza Latina 2013",
+            "March 10, 2013",
+            "May 19, 2013",
+            "Marisela Demontecristo",
+            "Audris Rijo",
+            "12",
+            "El Salvador",
+            "Dominican Republic"
+        ]
+    ]
+}

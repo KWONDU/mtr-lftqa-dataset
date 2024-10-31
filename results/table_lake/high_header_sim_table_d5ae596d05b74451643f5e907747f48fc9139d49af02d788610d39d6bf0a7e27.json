@@ -1,0 +1,70 @@
+{
+    "id": "d5ae596d05b74451643f5e907747f48fc9139d49af02d788610d39d6bf0a7e27",
+    "metadata": "1951 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "12.15 (87)",
+            "St Kilda",
+            "9.10 (64)",
+            "Glenferrie Oval",
+            "10000",
+            "5 May 1951"
+        ],
+        [
+            "Footscray",
+            "10.9 (69)",
+            "North Melbourne",
+            "5.13 (43)",
+            "Western Oval",
+            "20000",
+            "5 May 1951"
+        ],
+        [
+            "Collingwood",
+            "14.18 (102)",
+            "Geelong",
+            "7.8 (50)",
+            "Victoria Park",
+            "24500",
+            "5 May 1951"
+        ],
+        [
+            "Carlton",
+            "12.12 (84)",
+            "Richmond",
+            "16.12 (108)",
+            "Princes Park",
+            "28000",
+            "5 May 1951"
+        ],
+        [
+            "Melbourne",
+            "8.12 (60)",
+            "Fitzroy",
+            "12.12 (84)",
+            "MCG",
+            "21500",
+            "5 May 1951"
+        ],
+        [
+            "South Melbourne",
+            "14.20 (104)",
+            "Essendon",
+            "14.7 (91)",
+            "Lake Oval",
+            "14000",
+            "5 May 1951"
+        ]
+    ]
+}

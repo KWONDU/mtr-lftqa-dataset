@@ -1,0 +1,126 @@
+{
+    "id": "3f57a604d2ebfe0543a2dd44e528851261469f4453d2f3f9f0a52ca148d79058",
+    "metadata": "La Manga Cup | Winners | Winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Years",
+        "Winners",
+        "Runners_Up",
+        "Score",
+        "Third"
+    ],
+    "cell": [
+        [
+            "1999 La Manga Cup",
+            "Rosenborg",
+            "Stab\u00e6k",
+            "2 - 2",
+            "Brann"
+        ],
+        [
+            "2000 La Manga Cup",
+            "Br\u00f8ndby IF",
+            "Rosenborg",
+            "2 - 0",
+            "Helsingborgs IF"
+        ],
+        [
+            "2001 La Manga Cup",
+            "Rosenborg",
+            "AIK",
+            "2 - 1",
+            "FC Lokomotiv Moscow"
+        ],
+        [
+            "2002 La Manga Cup",
+            "Helsingborgs IF",
+            "Lillestr\u00f8m",
+            "2 - 2",
+            "Viking"
+        ],
+        [
+            "2003 La Manga Cup",
+            "Rosenborg",
+            "Odd Grenland",
+            "1 - 0",
+            "Los Angeles Galaxy"
+        ],
+        [
+            "2004 La Manga Cup",
+            "MetroStars",
+            "Viking",
+            "1 - 0",
+            "San Jose Earthquakes"
+        ],
+        [
+            "2005 La Manga Cup",
+            "Rubin Kazan",
+            "Lillestr\u00f8m",
+            "N/A",
+            "Lyn"
+        ],
+        [
+            "2006 La Manga Cup",
+            "Rubin Kazan",
+            "Krylia Sovetov",
+            "4 - 0",
+            "Dynamo Moscow"
+        ],
+        [
+            "2007 La Manga Cup",
+            "V\u00e5lerenga",
+            "Lillestr\u00f8m",
+            "N/A",
+            "Rosenborg"
+        ],
+        [
+            "2008 La Manga Cup I",
+            "Shakhtar Donetsk",
+            "Viking",
+            "3 - 0",
+            "Stab\u00e6k"
+        ],
+        [
+            "2008 La Manga Cup II",
+            "Kalmar FF",
+            "Br\u00f8ndby IF",
+            "2 - 0",
+            "Troms\u00f8"
+        ],
+        [
+            "2009 La Manga Cup",
+            "FC Honka",
+            "FC Nordsj\u00e6lland",
+            "1 - 1",
+            "Krylia Sovetov"
+        ],
+        [
+            "2010 La Manga Cup",
+            "Molde",
+            "FC Nordsj\u00e6lland",
+            "2 - 1",
+            "Rosenborg"
+        ],
+        [
+            "2011 La Manga Cup",
+            "Viking",
+            "Start",
+            "N/A",
+            "Randers FC"
+        ],
+        [
+            "2012 La Manga Cup",
+            "FC Nordsj\u00e6lland",
+            "V\u00e5lerenga",
+            "N/A",
+            "Viking"
+        ],
+        [
+            "2013 La Manga Cup",
+            "CSKA Moscow",
+            "V\u00e5lerenga",
+            "N/A",
+            "Kalmar"
+        ]
+    ]
+}

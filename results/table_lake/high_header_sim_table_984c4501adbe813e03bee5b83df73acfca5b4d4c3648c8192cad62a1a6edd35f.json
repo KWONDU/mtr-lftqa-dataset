@@ -1,0 +1,70 @@
+{
+    "id": "984c4501adbe813e03bee5b83df73acfca5b4d4c3648c8192cad62a1a6edd35f",
+    "metadata": "2006 UEFA European Under-21 Championship qualification | Play-offs | Play-offs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team_1",
+        "Agg_",
+        "Team_2",
+        "_1st_leg",
+        "_2nd_leg_"
+    ],
+    "cell": [
+        [
+            "England",
+            "2-3",
+            "France",
+            "1-1",
+            "1-2"
+        ],
+        [
+            "Czech Republic",
+            "0-3",
+            "Germany",
+            "0-2",
+            "0-1"
+        ],
+        [
+            "Hungary",
+            "1-2",
+            "Italy",
+            "1-1",
+            "0-1"
+        ],
+        [
+            "Serbia and Montenegro",
+            "5-2",
+            "Croatia",
+            "3-1",
+            "2-1"
+        ],
+        [
+            "Ukraine",
+            "5-4",
+            "Belgium",
+            "2-3",
+            "3-1"
+        ],
+        [
+            "Russia",
+            "1-4",
+            "Denmark",
+            "0-1",
+            "1-3"
+        ],
+        [
+            "Switzerland",
+            "2-3",
+            "Portugal",
+            "1-1",
+            "1-2"
+        ],
+        [
+            "Slovenia",
+            "0-2",
+            "Netherlands",
+            "0-0",
+            "0-2"
+        ]
+    ]
+}

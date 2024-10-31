@@ -1,0 +1,56 @@
+{
+    "id": "b5eea887d71cece74a1d70f26fa7a0aeb6638633feded907ac75f5f5ab8274f6",
+    "metadata": "DWJY | NBC Radio Stations | NBC Radio Stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Branding",
+        "Callsign",
+        "Frequency",
+        "Power_kW",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Radyo5 92.3 News FM",
+            "DWFM",
+            "92.3MHz",
+            "25kW",
+            "Metro Manila"
+        ],
+        [
+            "Radyo5 102.3 News FM",
+            "DZYB-FM",
+            "102.3MHz",
+            "10kW",
+            "Baguio"
+        ],
+        [
+            "Radyo5 102.3 News FM",
+            "DYBC-FM",
+            "102.3MHz",
+            "5kW",
+            "Bacolod"
+        ],
+        [
+            "Radyo5 101.9 News FM",
+            "DYNC-FM",
+            "101.9MHz",
+            "10kW",
+            "Cebu"
+        ],
+        [
+            "Radyo5 101.5 News FM",
+            "DXRL-FM",
+            "101.5MHz",
+            "10kW",
+            "Cagayan De Oro"
+        ],
+        [
+            "Radyo5 101.9 News FM",
+            "DXFM",
+            "101.9MHz",
+            "10kW",
+            "Davao"
+        ]
+    ]
+}

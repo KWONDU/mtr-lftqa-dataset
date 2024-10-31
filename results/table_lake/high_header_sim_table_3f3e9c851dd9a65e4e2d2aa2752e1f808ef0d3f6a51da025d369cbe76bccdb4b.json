@@ -1,0 +1,70 @@
+{
+    "id": "3f3e9c851dd9a65e4e2d2aa2752e1f808ef0d3f6a51da025d369cbe76bccdb4b",
+    "metadata": "1933 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "18.25 (133)",
+            "Hawthorn",
+            "3.6 (24)",
+            "Corio Oval",
+            "6000",
+            "24 June 1933"
+        ],
+        [
+            "Fitzroy",
+            "15.7 (97)",
+            "South Melbourne",
+            "11.12 (78)",
+            "Brunswick Street Oval",
+            "20000",
+            "24 June 1933"
+        ],
+        [
+            "St Kilda",
+            "13.12 (90)",
+            "Melbourne",
+            "3.15 (33)",
+            "Junction Oval",
+            "9000",
+            "24 June 1933"
+        ],
+        [
+            "Richmond",
+            "16.14 (110)",
+            "Essendon",
+            "8.11 (59)",
+            "Punt Road Oval",
+            "12000",
+            "24 June 1933"
+        ],
+        [
+            "Footscray",
+            "9.11 (65)",
+            "Collingwood",
+            "7.18 (60)",
+            "Western Oval",
+            "18000",
+            "24 June 1933"
+        ],
+        [
+            "North Melbourne",
+            "6.17 (53)",
+            "Carlton",
+            "11.14 (80)",
+            "Arden Street Oval",
+            "26000",
+            "24 June 1933"
+        ]
+    ]
+}

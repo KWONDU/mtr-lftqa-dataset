@@ -1,0 +1,55 @@
+{
+    "id": "d70bf82a5ed0864202999f904bc22f4a30159046298dac03ba9261a4d4fade6c",
+    "metadata": "Robert Seguso | Wins (4) | Wins (4)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Outcome",
+        "Year_",
+        "Championship",
+        "Partnering",
+        "Opponents_in_Final",
+        "Score_in_Final"
+    ],
+    "cell": [
+        [
+            "Winner",
+            "1985",
+            "U.S. Open",
+            "Ken Flach",
+            "Henri Leconte Yannick Noah",
+            "6-7, 7-6, 7-6, 6-0"
+        ],
+        [
+            "Winner",
+            "1987",
+            "French Open",
+            "Anders J\u00e4rryd",
+            "Guy Forget Yannick Noah",
+            "6-7, 6-7, 6-3, 6-4, 6-2"
+        ],
+        [
+            "Winner",
+            "1987",
+            "Wimbledon",
+            "Ken Flach",
+            "Sergio Casal Emilio S\u00e1nchez",
+            "3-6, 6-7, 7-6, 6-1, 6-4"
+        ],
+        [
+            "Runner-up",
+            "1987",
+            "U.S. Open",
+            "Ken Flach",
+            "Stefan Edberg Anders J\u00e4rryd",
+            "6-7, 2-6, 6-4, 7-5, 6-7"
+        ],
+        [
+            "Winner",
+            "1988",
+            "Wimbledon (2)",
+            "Ken Flach",
+            "John Fitzgerald Anders J\u00e4rryd",
+            "6-4, 2-6, 6-4, 7-6"
+        ]
+    ]
+}

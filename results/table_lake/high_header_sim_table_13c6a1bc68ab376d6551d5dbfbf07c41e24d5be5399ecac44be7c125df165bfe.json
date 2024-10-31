@@ -1,0 +1,67 @@
+{
+    "id": "13c6a1bc68ab376d6551d5dbfbf07c41e24d5be5399ecac44be7c125df165bfe",
+    "metadata": "Calgary United F.C. | Year-By-Year Stats | Year-By-Year Stats",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Games_Played",
+        "Wins",
+        "Losses",
+        "Winning_Percentage",
+        "Points_For",
+        "Points_Against",
+        "Point_Differential"
+    ],
+    "cell": [
+        [
+            "2007",
+            "4",
+            "2",
+            "2",
+            ".500",
+            "9",
+            "6",
+            "+3"
+        ],
+        [
+            "2008",
+            "10",
+            "8",
+            "2",
+            ".800",
+            "72",
+            "38",
+            "+34"
+        ],
+        [
+            "2009",
+            "16",
+            "8",
+            "8",
+            ".500",
+            "109",
+            "84",
+            "+21"
+        ],
+        [
+            "2010",
+            "10",
+            "8",
+            "2",
+            ".800",
+            "79",
+            "32",
+            "+47"
+        ],
+        [
+            "2011",
+            "12",
+            "8",
+            "4",
+            ".667",
+            "68",
+            "52",
+            "+16"
+        ]
+    ]
+}

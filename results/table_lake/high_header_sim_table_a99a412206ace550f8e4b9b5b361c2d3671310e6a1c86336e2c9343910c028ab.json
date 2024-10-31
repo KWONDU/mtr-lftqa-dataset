@@ -1,0 +1,49 @@
+{
+    "id": "a99a412206ace550f8e4b9b5b361c2d3671310e6a1c86336e2c9343910c028ab",
+    "metadata": "List of England national rugby union team results 1970-79 | 1972 | 1972",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Teams",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Wales",
+            "12",
+            "15/01/1972",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Ireland",
+            "16",
+            "12/02/1972",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "France",
+            "37",
+            "26/02/1972",
+            "Stade Colombes , Paris",
+            "Five Nations"
+        ],
+        [
+            "Scotland",
+            "23",
+            "18/03/1972",
+            "Murrayfield , Edinburgh",
+            "Five Nations"
+        ],
+        [
+            "South Africa",
+            "9",
+            "03/06/1972",
+            "Ellis Park , Johannesburg",
+            "Test Match"
+        ]
+    ]
+}

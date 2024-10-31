@@ -1,0 +1,77 @@
+{
+    "id": "d7a40bb37e1a7e89a6a679a11722b7165194d8d63828f9f64c828b73c745a692",
+    "metadata": "1996-97 FA Cup | Fifth round proper | Fifth round proper",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Attendance_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Chesterfield",
+            "1-0",
+            "Nottingham Forest",
+            "15 February 1997"
+        ],
+        [
+            "2",
+            "Leicester City",
+            "2-2",
+            "Chelsea",
+            "16 February 1997"
+        ],
+        [
+            "Replay",
+            "Chelsea",
+            "1-0",
+            "Leicester City",
+            "26 February 1997"
+        ],
+        [
+            "3",
+            "Derby County",
+            "3-2",
+            "Coventry City",
+            "26 February 1997"
+        ],
+        [
+            "4",
+            "Manchester City",
+            "0-1",
+            "Middlesbrough",
+            "15 February 1997"
+        ],
+        [
+            "5",
+            "Bradford City",
+            "0-1",
+            "Sheffield Wednesday",
+            "16 February 1997"
+        ],
+        [
+            "6",
+            "Wimbledon",
+            "2-1",
+            "Queens Park Rangers",
+            "15 February 1997"
+        ],
+        [
+            "7",
+            "Leeds United",
+            "2-3",
+            "Portsmouth",
+            "15 February 1997"
+        ],
+        [
+            "8",
+            "Birmingham City",
+            "1-3",
+            "Wrexham",
+            "15 February 1997"
+        ]
+    ]
+}

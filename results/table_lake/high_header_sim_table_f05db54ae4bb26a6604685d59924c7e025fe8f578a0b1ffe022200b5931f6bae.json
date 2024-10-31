@@ -1,0 +1,103 @@
+{
+    "id": "f05db54ae4bb26a6604685d59924c7e025fe8f578a0b1ffe022200b5931f6bae",
+    "metadata": "1982 Open Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tom Watson",
+            "United States",
+            "69-71-74-70=284",
+            "-4",
+            "32000"
+        ],
+        [
+            "T2",
+            "Peter Oosterhuis",
+            "England",
+            "74-67-74-70=285",
+            "-3",
+            "19300"
+        ],
+        [
+            "T2",
+            "Nick Price",
+            "Zimbabwe",
+            "69-69-74-73=285",
+            "-3",
+            "19300"
+        ],
+        [
+            "T4",
+            "Nick Faldo",
+            "England",
+            "73-73-71-69=286",
+            "-2",
+            "11000"
+        ],
+        [
+            "T4",
+            "Masahiro Kuramoto",
+            "Japan",
+            "71-73-71-71=286",
+            "-2",
+            "11000"
+        ],
+        [
+            "T4",
+            "Tom Purtzer",
+            "United States",
+            "76-66-75-69=286",
+            "-2",
+            "11000"
+        ],
+        [
+            "T4",
+            "Des Smyth",
+            "Ireland",
+            "70-69-74-73=286",
+            "-2",
+            "11000"
+        ],
+        [
+            "T8",
+            "Sandy Lyle",
+            "Scotland",
+            "74-66-73-74=287",
+            "-1",
+            "8750"
+        ],
+        [
+            "T8",
+            "Fuzzy Zoeller",
+            "United States",
+            "73-71-73-70=287",
+            "-1",
+            "8750"
+        ],
+        [
+            "T10",
+            "Bobby Clampett",
+            "United States",
+            "67-66-78-77=288",
+            "E",
+            "7350"
+        ],
+        [
+            "T10",
+            "Jack Nicklaus",
+            "United States",
+            "77-70-72-69=288",
+            "E",
+            "7350"
+        ]
+    ]
+}

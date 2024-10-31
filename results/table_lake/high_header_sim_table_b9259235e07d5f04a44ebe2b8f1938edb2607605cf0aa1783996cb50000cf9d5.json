@@ -1,0 +1,87 @@
+{
+    "id": "b9259235e07d5f04a44ebe2b8f1938edb2607605cf0aa1783996cb50000cf9d5",
+    "metadata": "Super Lap | 2008 Taupo (1 November) | 2008 Taupo (1 November)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos",
+        "Driver",
+        "Vehicle",
+        "Top_13_Time",
+        "Shoot_Out_Time",
+        "Best_Time_of_Day"
+    ],
+    "cell": [
+        [
+            "1",
+            "Grant Hohaia",
+            "Toyota Corolla",
+            "1:15.45",
+            "1:16.36",
+            "1:15.45"
+        ],
+        [
+            "2",
+            "Jonothan Lester",
+            "Toyota Supra",
+            "1:16.42",
+            "DNR",
+            "1:16.42"
+        ],
+        [
+            "3",
+            "Barry Manon",
+            "Toyota Levin GT-Z AE92",
+            "1:16.97",
+            "1:16.93",
+            "1:16.93"
+        ],
+        [
+            "4",
+            "Ian Campbell",
+            "Mitsubishi Lancer Evolution VI",
+            "1:17.10",
+            "1:17.38",
+            "1:17.10"
+        ],
+        [
+            "5",
+            "Dirk Schmidt",
+            "Mitsubishi Lancer Evolution II",
+            "1:17.17",
+            "1:17.19",
+            "1:17.17"
+        ],
+        [
+            "6",
+            "Mark Walters",
+            "Honda Civic",
+            "1:17.75",
+            "1:17.62",
+            "1:17.62"
+        ],
+        [
+            "7",
+            "Daynom Templeman",
+            "Mazda RX-7",
+            "1:17.84",
+            "DNR",
+            "1:17.84"
+        ],
+        [
+            "8",
+            "Brendan Sole",
+            "Mazda RX-7",
+            "1:18.45",
+            "1:18.52",
+            "1:18.45"
+        ],
+        [
+            "9",
+            "Kenneth Au",
+            "Nissan Silvia/200SX S15",
+            "1:18.72",
+            "1:19.72",
+            "1:18.72"
+        ]
+    ]
+}

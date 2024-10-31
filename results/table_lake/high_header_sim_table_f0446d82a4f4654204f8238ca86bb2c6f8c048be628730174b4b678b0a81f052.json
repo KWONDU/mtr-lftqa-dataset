@@ -1,0 +1,70 @@
+{
+    "id": "f0446d82a4f4654204f8238ca86bb2c6f8c048be628730174b4b678b0a81f052",
+    "metadata": "1951 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "10.14 (74)",
+            "Richmond",
+            "8.8 (56)",
+            "Kardinia Park",
+            "32000",
+            "23 June 1951"
+        ],
+        [
+            "Fitzroy",
+            "12.13 (85)",
+            "South Melbourne",
+            "12.13 (85)",
+            "Brunswick Street Oval",
+            "18000",
+            "23 June 1951"
+        ],
+        [
+            "Melbourne",
+            "5.19 (49)",
+            "Footscray",
+            "23.14 (152)",
+            "MCG",
+            "18500",
+            "23 June 1951"
+        ],
+        [
+            "North Melbourne",
+            "8.11 (59)",
+            "Essendon",
+            "13.13 (91)",
+            "Arden Street Oval",
+            "24000",
+            "23 June 1951"
+        ],
+        [
+            "Hawthorn",
+            "8.9 (57)",
+            "Collingwood",
+            "13.7 (85)",
+            "Glenferrie Oval",
+            "12000",
+            "23 June 1951"
+        ],
+        [
+            "St Kilda",
+            "9.11 (65)",
+            "Carlton",
+            "15.15 (105)",
+            "Junction Oval",
+            "17000",
+            "23 June 1951"
+        ]
+    ]
+}

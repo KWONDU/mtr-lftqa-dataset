@@ -1,0 +1,70 @@
+{
+    "id": "a3c7e79b3215c392e39bfe08875eb10a982a590c8f9d9120daf3e59f6356c2f6",
+    "metadata": "1932 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "8.11 (59)",
+            "Melbourne",
+            "6.14 (50)",
+            "Glenferrie Oval",
+            "8000",
+            "14 May 1932"
+        ],
+        [
+            "Geelong",
+            "25.10 (160)",
+            "St Kilda",
+            "6.9 (45)",
+            "Corio Oval",
+            "10500",
+            "14 May 1932"
+        ],
+        [
+            "Fitzroy",
+            "13.16 (94)",
+            "North Melbourne",
+            "17.11 (113)",
+            "Brunswick Street Oval",
+            "15000",
+            "14 May 1932"
+        ],
+        [
+            "South Melbourne",
+            "10.11 (71)",
+            "Footscray",
+            "8.12 (60)",
+            "Lake Oval",
+            "30000",
+            "14 May 1932"
+        ],
+        [
+            "Essendon",
+            "15.20 (110)",
+            "Collingwood",
+            "18.11 (119)",
+            "Windy Hill",
+            "18000",
+            "14 May 1932"
+        ],
+        [
+            "Richmond",
+            "10.23 (83)",
+            "Carlton",
+            "12.12 (84)",
+            "Punt Road Oval",
+            "24500",
+            "14 May 1932"
+        ]
+    ]
+}

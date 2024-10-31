@@ -1,0 +1,56 @@
+{
+    "id": "fece28f19ad1ef97e3ee46db2fad118b016a17f19b6bf7bbc31496cb005b8168",
+    "metadata": "1994 Men's World Ice Hockey Championships | Group 2 | Group 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Games",
+        "Drawn",
+        "Lost",
+        "Goal_difference",
+        "Points"
+    ],
+    "cell": [
+        [
+            "5",
+            "1",
+            "0",
+            "29 - 11",
+            "9"
+        ],
+        [
+            "5",
+            "1",
+            "1",
+            "22 - 11",
+            "7"
+        ],
+        [
+            "5",
+            "0",
+            "2",
+            "21 - 19",
+            "6"
+        ],
+        [
+            "5",
+            "2",
+            "2",
+            "15 - 17",
+            "4"
+        ],
+        [
+            "5",
+            "0",
+            "4",
+            "08 - 25",
+            "2"
+        ],
+        [
+            "5",
+            "2",
+            "3",
+            "09 - 21",
+            "2"
+        ]
+    ]
+}

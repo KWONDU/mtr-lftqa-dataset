@@ -1,0 +1,63 @@
+{
+    "id": "003bfdbc6737c708bd2193cc51a45f075678a980c4d9c048134bde393d45bee9",
+    "metadata": "2007-08 German ice hockey league season | Play-offs | Play-offs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Club",
+        "Games",
+        "Goals",
+        "Assists",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Nathan Robinson",
+            "Eisb\u00e4ren Berlin",
+            "13",
+            "4",
+            "11",
+            "15"
+        ],
+        [
+            "Ivan Ciernik",
+            "K\u00f6lner Haie",
+            "14",
+            "11",
+            "2",
+            "13"
+        ],
+        [
+            "Chris Taylor",
+            "Frankfurt Lions",
+            "12",
+            "5",
+            "8",
+            "13"
+        ],
+        [
+            "Peter Sarno",
+            "Hamburg Freezers",
+            "8",
+            "4",
+            "9",
+            "13"
+        ],
+        [
+            "Sven Felski",
+            "Eisb\u00e4ren Berlin",
+            "13",
+            "3",
+            "10",
+            "13"
+        ],
+        [
+            "Jason Young",
+            "Frankfurt Lions",
+            "12",
+            "3",
+            "10",
+            "13"
+        ]
+    ]
+}

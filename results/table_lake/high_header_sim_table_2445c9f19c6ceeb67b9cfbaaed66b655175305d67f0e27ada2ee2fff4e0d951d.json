@@ -1,0 +1,61 @@
+{
+    "id": "2445c9f19c6ceeb67b9cfbaaed66b655175305d67f0e27ada2ee2fff4e0d951d",
+    "metadata": "2006-07 Tottenham Hotspur F.C. season | Most appearances | Most appearances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Position_",
+        "Premier_League",
+        "FA_Cup",
+        "League_Cup",
+        "UEFA_Cup",
+        "Total"
+    ],
+    "cell": [
+        [
+            "Michael Dawson",
+            "Defender",
+            "37",
+            "6",
+            "4",
+            "10",
+            "57"
+        ],
+        [
+            "Paul Robinson",
+            "Goalkeeper",
+            "38",
+            "4",
+            "3",
+            "9",
+            "54"
+        ],
+        [
+            "Pascal Chimbonda",
+            "Defender",
+            "33",
+            "4",
+            "4",
+            "10",
+            "51"
+        ],
+        [
+            "Jermain Defoe",
+            "Forward",
+            "33",
+            "5",
+            "5",
+            "5",
+            "48"
+        ],
+        [
+            "Robbie Keane",
+            "Forward",
+            "27",
+            "5",
+            "3",
+            "9",
+            "44"
+        ]
+    ]
+}

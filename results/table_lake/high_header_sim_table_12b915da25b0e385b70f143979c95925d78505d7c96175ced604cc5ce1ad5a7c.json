@@ -1,0 +1,56 @@
+{
+    "id": "12b915da25b0e385b70f143979c95925d78505d7c96175ced604cc5ce1ad5a7c",
+    "metadata": "1983 Australian Drivers' Championship | Calendar | Calendar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Circuit",
+        "Location_State",
+        "Date_",
+        "Winner"
+    ],
+    "cell": [
+        [
+            "Rd 1",
+            "Adelaide International Raceway",
+            "Adelaide , South Australia",
+            "10 July",
+            "Alfredo Costanzo"
+        ],
+        [
+            "Rd 2",
+            "Lakeside",
+            "Brisbane , Queensland",
+            "23 July",
+            "Andrew Miedecke"
+        ],
+        [
+            "Rd 3",
+            "Oran Park",
+            "Sydney , New South Wales",
+            "21 August",
+            "Alfredo Costanzo"
+        ],
+        [
+            "Rd 4",
+            "Sandown Park",
+            "Melbourne , Victoria",
+            "11 September",
+            "Alfredo Costanzo"
+        ],
+        [
+            "Rd 5",
+            "Winton",
+            "Benalla , Victoria",
+            "16 October",
+            "Alfredo Costanzo"
+        ],
+        [
+            "Rd 6",
+            "Calder Park",
+            "Melbourne , Victoria",
+            "13 November",
+            "John Smith *"
+        ]
+    ]
+}

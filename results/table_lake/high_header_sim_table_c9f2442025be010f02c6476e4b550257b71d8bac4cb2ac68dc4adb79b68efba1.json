@@ -1,0 +1,88 @@
+{
+    "id": "c9f2442025be010f02c6476e4b550257b71d8bac4cb2ac68dc4adb79b68efba1",
+    "metadata": "Indiana High School Athletics Conferences: Mid-Eastern - Northwestern | Explanation of colors | Mid-Hoosier Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "IHSAA_Football_Class",
+        "_County"
+    ],
+    "cell": [
+        [
+            "Cass",
+            "Walton",
+            "Kings",
+            "504",
+            "AA",
+            "AA",
+            "09 Cass"
+        ],
+        [
+            "Eastern Greentown",
+            "Greentown",
+            "Comets",
+            "460",
+            "AA",
+            "AA",
+            "34 Howard"
+        ],
+        [
+            "Hamilton Heights",
+            "Arcadia",
+            "Huskies",
+            "742",
+            "AAA",
+            "AAA",
+            "29 Hamilton"
+        ],
+        [
+            "Maconaquah",
+            "Bunker Hill",
+            "Braves",
+            "703",
+            "AAA",
+            "AAA",
+            "52 Miami"
+        ],
+        [
+            "Northwestern",
+            "Kokomo",
+            "Tigers",
+            "566",
+            "AAA",
+            "AA",
+            "34 Howard"
+        ],
+        [
+            "Peru",
+            "Peru",
+            "Tigers",
+            "672",
+            "AAA",
+            "AAA",
+            "52 Miami"
+        ],
+        [
+            "Taylor",
+            "Center",
+            "Titans",
+            "475",
+            "AA",
+            "AA",
+            "34 Howard"
+        ],
+        [
+            "Western",
+            "Russiaville",
+            "Panthers",
+            "813",
+            "AAA",
+            "AAA",
+            "34 Howard"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "7280ecb8f5b66a10f72e236534e95b0ff996fbe6b561214cab97451c2ac34000",
+    "metadata": "Legia Warsaw season 2008-09 | Most assists | Most assists",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Position_",
+        "Ekstraklasa",
+        "Polish_Cup",
+        "UEFA_Cup"
+    ],
+    "cell": [
+        [
+            "Miroslav Radovi\u0107",
+            "Midfielder",
+            "1",
+            "0",
+            "0"
+        ],
+        [
+            "Tomasz Kie\u0142bowicz",
+            "Midfielder",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "Jakub Rze\u017aniczak",
+            "Forward",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "Maciej Iwa\u0144ski",
+            "Midfielder",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "Sebastian Sza\u0142achowski",
+            "Forward",
+            "0",
+            "0",
+            "0"
+        ]
+    ]
+}

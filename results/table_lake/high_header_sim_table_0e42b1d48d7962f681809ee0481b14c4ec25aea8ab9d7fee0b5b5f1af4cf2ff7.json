@@ -1,0 +1,55 @@
+{
+    "id": "0e42b1d48d7962f681809ee0481b14c4ec25aea8ab9d7fee0b5b5f1af4cf2ff7",
+    "metadata": "QF 3-inch 20 cwt | Performance | Performance",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "m_v_ft_s",
+        "Shell_lb",
+        "Time_to_ft_m_at_25_seconds",
+        "Time_to_ft_m_at_40_seconds",
+        "Time_to_ft_m_at_55_seconds",
+        "Max_height_ft"
+    ],
+    "cell": [
+        [
+            "1990",
+            "12.5",
+            "10.1",
+            "15.5",
+            "22.1",
+            "19000"
+        ],
+        [
+            "2200",
+            "12.5",
+            "9.1",
+            "14.1",
+            "19.1",
+            "20000"
+        ],
+        [
+            "2500",
+            "12.5",
+            "8.3",
+            "12.6",
+            "16.3",
+            "23500"
+        ],
+        [
+            "2000",
+            "16",
+            "9.2",
+            "13.7",
+            "18.8",
+            "22000"
+        ],
+        [
+            "2350",
+            "31",
+            "4.4??",
+            "9.6",
+            "12.3",
+            "28750"
+        ]
+    ]
+}

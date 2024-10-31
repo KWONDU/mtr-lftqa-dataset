@@ -1,0 +1,115 @@
+{
+    "id": "f61fcc83fd0145715244b2d05088fd71322dea8a4be0591d850c52dbb30dc61a",
+    "metadata": "Alon Day | Biography | Biography",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Series",
+        "Team",
+        "Races",
+        "Wins",
+        "Poles",
+        "F_Laps",
+        "Podiums",
+        "Points",
+        "Position_"
+    ],
+    "cell": [
+        [
+            "2008",
+            "Asian Formula Renault Challenge",
+            "Asia Racing Team",
+            "2",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "NC\u2020"
+        ],
+        [
+            "2008",
+            "Formula BMW Pacific",
+            "Asia Racing Team",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "NC\u2020"
+        ],
+        [
+            "2009",
+            "Asian Formula Renault Challenge",
+            "March 3 Racing (1-4) Top Speed Racing Team (5-12)",
+            "14",
+            "6",
+            "4",
+            "7",
+            "13",
+            "293",
+            "1st"
+        ],
+        [
+            "2009",
+            "Formula BMW Pacific",
+            "Asia Racing Team",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "NC\u2020"
+        ],
+        [
+            "2010",
+            "German Formula Three Championship",
+            "Performance Racing",
+            "18",
+            "0",
+            "0",
+            "0",
+            "0",
+            "26",
+            "9th"
+        ],
+        [
+            "2011",
+            "German Formula Three Championship",
+            "HS Technik Motorsport",
+            "18",
+            "0",
+            "1",
+            "2",
+            "2",
+            "62",
+            "4th"
+        ],
+        [
+            "2011",
+            "Formula 3 Euro Series",
+            "Team HS-Engineering",
+            "6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "NC"
+        ],
+        [
+            "2011",
+            "Austrian Formula Three Series",
+            "Team HS-Engineering",
+            "2",
+            "2",
+            "0",
+            "0",
+            "2",
+            "40",
+            "8th"
+        ]
+    ]
+}

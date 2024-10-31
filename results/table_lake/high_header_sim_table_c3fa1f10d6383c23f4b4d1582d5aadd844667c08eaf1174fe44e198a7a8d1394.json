@@ -1,0 +1,70 @@
+{
+    "id": "c3fa1f10d6383c23f4b4d1582d5aadd844667c08eaf1174fe44e198a7a8d1394",
+    "metadata": "1999-2000 Chelsea F.C. season | FA Cup | FA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance",
+        "Scorers"
+    ],
+    "cell": [
+        [
+            "11 December 1999",
+            "R3",
+            "Hull City",
+            "A",
+            "6-1",
+            "10279",
+            "Poyet (3), Sutton , Di Matteo , Wise"
+        ],
+        [
+            "19 January 2000",
+            "R4",
+            "Nottingham Forest",
+            "H",
+            "2-0",
+            "30125",
+            "Leboeuf , Wise"
+        ],
+        [
+            "30 January 2000",
+            "R5",
+            "Leicester City",
+            "H",
+            "2-1",
+            "30141",
+            "Poyet , Weah"
+        ],
+        [
+            "20 February 2000",
+            "QF",
+            "Gillingham",
+            "H",
+            "5-0",
+            "34205",
+            "Flo , Terry , Weah , Zola ( pen. ), Morris"
+        ],
+        [
+            "9 April 2000",
+            "SF",
+            "Newcastle United",
+            "N",
+            "2-1",
+            "73876",
+            "Poyet (2)"
+        ],
+        [
+            "20 May 2000",
+            "F",
+            "Aston Villa",
+            "N",
+            "1-0",
+            "78217",
+            "Di Matteo"
+        ]
+    ]
+}

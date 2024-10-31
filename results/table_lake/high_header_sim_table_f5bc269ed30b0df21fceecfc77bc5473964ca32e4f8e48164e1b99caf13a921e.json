@@ -1,0 +1,49 @@
+{
+    "id": "f5bc269ed30b0df21fceecfc77bc5473964ca32e4f8e48164e1b99caf13a921e",
+    "metadata": "A Fazenda | Seasons | Seasons",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Winner",
+        "Runner_Up",
+        "Third_Place",
+        "Contestants"
+    ],
+    "cell": [
+        [
+            "1",
+            "Dado Dolabella",
+            "Danni Carlos",
+            "Carlinhos da Silva",
+            "14"
+        ],
+        [
+            "2",
+            "Karina Bacchi",
+            "Andr\u00e9 Segatti",
+            "Mateus Rocha",
+            "14"
+        ],
+        [
+            "3",
+            "Daniel Bueno",
+            "S\u00e9rgio Abreu",
+            "Lisi Benitez",
+            "15"
+        ],
+        [
+            "4",
+            "Joana Machado",
+            "Monique Evans",
+            "Raquel Pacheco",
+            "15"
+        ],
+        [
+            "5",
+            "Viviane Ara\u00fajo",
+            "Felipe Folgosi",
+            "L\u00e9o \u00c1quilla",
+            "16"
+        ]
+    ]
+}

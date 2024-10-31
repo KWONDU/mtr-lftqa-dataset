@@ -1,0 +1,84 @@
+{
+    "id": "3eb24854f4765c35f0c633b6f4862b44b8061681848d64d9b130ad3cb63d39b6",
+    "metadata": "Western Odisha | Population | Population",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "District_Headquarters",
+        "Area_km_2_",
+        "Population_1991_Census",
+        "Population_2001_Census"
+    ],
+    "cell": [
+        [
+            "Balangir",
+            "Balangir",
+            "6575",
+            "1230938",
+            "1335760"
+        ],
+        [
+            "Bargarh",
+            "Bargarh",
+            "5837",
+            "1207172",
+            "1345601"
+        ],
+        [
+            "Baudh (Boudh)",
+            "Baudh",
+            "3098",
+            "317622",
+            "373038"
+        ],
+        [
+            "Debagarh (Deogarh)",
+            "Debagarh",
+            "2940",
+            "234238",
+            "274095"
+        ],
+        [
+            "Jharsuguda",
+            "Jharsuguda",
+            "2081",
+            "446726",
+            "509056"
+        ],
+        [
+            "Kalahandi",
+            "Bhawanipatna",
+            "7920",
+            "1130903",
+            "1334372"
+        ],
+        [
+            "Nuapada",
+            "Nuapada",
+            "3852",
+            "469482",
+            "530524"
+        ],
+        [
+            "Sambalpur",
+            "Sambalpur",
+            "6675",
+            "809017",
+            "928889"
+        ],
+        [
+            "Subarnapur",
+            "Sonepur",
+            "2337",
+            "476815",
+            "540659"
+        ],
+        [
+            "Sundargarh",
+            "Sundargarh",
+            "9712",
+            "1573617",
+            "1829412"
+        ]
+    ]
+}

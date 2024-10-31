@@ -1,0 +1,71 @@
+{
+    "id": "93c0a23e2a890525a32c920d536b44b257c5a6bed00751ed318b6d724a634ccb",
+    "metadata": "United States House of Representatives elections, 1812 | New York | New York",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "New York 5",
+            "Thomas B. Cooke",
+            "Democratic-Republican",
+            "1810",
+            "Retired Federalist gain",
+            "Thomas P. Grosvenor (F)"
+        ],
+        [
+            "New York 8",
+            "Benjamin Pond",
+            "Democratic-Republican",
+            "1810",
+            "Retired Federalist gain",
+            "Samuel Sherwood (F) 53.6% John Ely (DR) 46.4%"
+        ],
+        [
+            "New York 9",
+            "Thomas Sammons",
+            "Democratic-Republican",
+            "1808",
+            "Retired Federalist gain",
+            "John Lovett (F)"
+        ],
+        [
+            "New York 10",
+            "Silas Stow",
+            "Democratic-Republican",
+            "1810",
+            "Retired Federalist gain",
+            "Hosea Moffitt (F)"
+        ],
+        [
+            "New York 11",
+            "Thomas R. Gold",
+            "Federalist",
+            "1808",
+            "Retired Democratic-Republican gain",
+            "John W. Taylor (DR) 52.8% Samuel Stewart (F) 47.2%"
+        ],
+        [
+            "New York 14",
+            "None (District created)",
+            "None (District created)",
+            "None (District created)",
+            "New seat Federalist gain",
+            "Jacob Markell (F) 55.6% James McIntyre (DR) 44.4%"
+        ],
+        [
+            "New York 18",
+            "None (District created)",
+            "None (District created)",
+            "None (District created)",
+            "New seat Federalist gain",
+            "Moss Kent (F) 61.2% Jacob Brown (DR) 38.8%"
+        ]
+    ]
+}

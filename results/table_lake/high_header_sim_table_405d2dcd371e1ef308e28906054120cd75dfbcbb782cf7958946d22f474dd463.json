@@ -1,0 +1,117 @@
+{
+    "id": "405d2dcd371e1ef308e28906054120cd75dfbcbb782cf7958946d22f474dd463",
+    "metadata": "Primera Divisi\u00f3n de F\u00fatbol Profesional Apertura 2004 | Apertura 2004 Standings | Apertura 2004 Standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Team",
+        "Played",
+        "Draw",
+        "Lost",
+        "Goals_Scored",
+        "Goals_Conceded",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1.",
+            "C.D. FAS",
+            "18",
+            "5",
+            "4",
+            "26",
+            "19",
+            "32"
+        ],
+        [
+            "2.",
+            "San Salvador F.C.",
+            "18",
+            "5",
+            "4",
+            "30",
+            "33",
+            "32"
+        ],
+        [
+            "3.",
+            "C.D. Atl\u00e9tico Balboa",
+            "18",
+            "9",
+            "2",
+            "26",
+            "13",
+            "30"
+        ],
+        [
+            "4.",
+            "C.D. Luis \u00c1ngel Firpo",
+            "18",
+            "8",
+            "3",
+            "26",
+            "13",
+            "29"
+        ],
+        [
+            "5.",
+            "A.D. Isidro Metap\u00e1n",
+            "18",
+            "5",
+            "5",
+            "25",
+            "24",
+            "29"
+        ],
+        [
+            "6.",
+            "C.D. \u00c1guila",
+            "18",
+            "8",
+            "5",
+            "24",
+            "20",
+            "23"
+        ],
+        [
+            "7.",
+            "Alianza F.C.",
+            "18",
+            "3",
+            "9",
+            "19",
+            "25",
+            "21"
+        ],
+        [
+            "8.",
+            "Once Lobos",
+            "18",
+            "7",
+            "7",
+            "22",
+            "21",
+            "19"
+        ],
+        [
+            "9.",
+            "Once Municipal",
+            "18",
+            "4",
+            "9",
+            "15",
+            "26",
+            "19"
+        ],
+        [
+            "10.",
+            "Municipal Lime\u00f1o",
+            "18",
+            "6",
+            "12",
+            "12",
+            "31",
+            "6"
+        ]
+    ]
+}

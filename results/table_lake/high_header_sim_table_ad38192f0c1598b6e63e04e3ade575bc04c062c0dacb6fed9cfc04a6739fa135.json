@@ -1,0 +1,135 @@
+{
+    "id": "ad38192f0c1598b6e63e04e3ade575bc04c062c0dacb6fed9cfc04a6739fa135",
+    "metadata": "Greece | Administrative divisions | Administrative divisions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Capital",
+        "Area_km\u00b2",
+        "Area_sq_mi_",
+        "Population",
+        "GDP_bn_"
+    ],
+    "cell": [
+        [
+            "Attica",
+            "Athens",
+            "3808",
+            "1470",
+            "3812330",
+            "\u20ac103.334"
+        ],
+        [
+            "Central Greece",
+            "Lamia",
+            "15549",
+            "6004",
+            "546870",
+            "\u20ac12.530"
+        ],
+        [
+            "Central Macedonia",
+            "Thessaloniki",
+            "18811",
+            "7263",
+            "1874590",
+            "\u20ac34.458"
+        ],
+        [
+            "Crete",
+            "Heraklion",
+            "8259",
+            "3189",
+            "621340",
+            "\u20ac12.854"
+        ],
+        [
+            "East Macedonia and Thrace",
+            "Komotini",
+            "14157",
+            "5466",
+            "606170",
+            "\u20ac9.054"
+        ],
+        [
+            "Epirus",
+            "Ioannina",
+            "9203",
+            "3553",
+            "336650",
+            "\u20ac5.827"
+        ],
+        [
+            "Ionian Islands",
+            "Corfu",
+            "2307",
+            "891",
+            "206470",
+            "\u20ac4.464"
+        ],
+        [
+            "North Aegean",
+            "Mytilene",
+            "3836",
+            "1481",
+            "197810",
+            "\u20ac3.579"
+        ],
+        [
+            "Peloponnese",
+            "Tripoli",
+            "15490",
+            "5981",
+            "581980",
+            "\u20ac11.230"
+        ],
+        [
+            "South Aegean",
+            "Ermoupoli",
+            "5286",
+            "2041",
+            "308610",
+            "\u20ac7.816"
+        ],
+        [
+            "Thessaly",
+            "Larissa",
+            "14037",
+            "5420",
+            "730730",
+            "\u20ac12.905"
+        ],
+        [
+            "West Greece",
+            "Patras",
+            "11350",
+            "4382",
+            "680190",
+            "\u20ac12.122"
+        ],
+        [
+            "West Macedonia",
+            "Kozani",
+            "9451",
+            "3649",
+            "282120",
+            "\u20ac5.564"
+        ],
+        [
+            "Autonomous state",
+            "Capital",
+            "Area (km\u00b2)",
+            "Area (sq. mi.)",
+            "Population",
+            "GDP ( bn )"
+        ],
+        [
+            "Mount Athos",
+            "Karyes",
+            "390",
+            "151",
+            "1830",
+            "N/A"
+        ]
+    ]
+}

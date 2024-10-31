@@ -1,0 +1,79 @@
+{
+    "id": "600094c3f7cdf3f666f7cd6934915013e6c3c6633536690b935c777b2a97fc2c",
+    "metadata": "World Golf Championships | Multiple winners | Multiple winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Golfer",
+        "Country",
+        "Wins",
+        "Match_Play",
+        "Championship",
+        "Invitational",
+        "Champions_"
+    ],
+    "cell": [
+        [
+            "Tiger Woods",
+            "United States",
+            "18",
+            "3: 2003, 2004, 2008",
+            "7: 1999, 2002, 2003, , 2005, 2006, 2007, 2013",
+            "8: 1999, 2000, 2001, 2005, , 2006, 2007, 2009, 2013",
+            "\u2014"
+        ],
+        [
+            "Geoff Ogilvy",
+            "Australia",
+            "3",
+            "2: 2006, 2009",
+            "1: 2008",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "Darren Clarke",
+            "Northern Ireland",
+            "2",
+            "1: 2000",
+            "\u2014",
+            "1: 2003",
+            "\u2014"
+        ],
+        [
+            "Ernie Els",
+            "South Africa",
+            "2",
+            "\u2014",
+            "2: 2004, 2010",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "Hunter Mahan",
+            "United States",
+            "2",
+            "1: 2012",
+            "\u2014",
+            "1: 2010",
+            "\u2014"
+        ],
+        [
+            "Phil Mickelson",
+            "United States",
+            "2",
+            "\u2014",
+            "1: 2009",
+            "\u2014",
+            "1: 2009"
+        ],
+        [
+            "Ian Poulter",
+            "England",
+            "2",
+            "1: 2010",
+            "\u2014",
+            "\u2014",
+            "1: 2012"
+        ]
+    ]
+}

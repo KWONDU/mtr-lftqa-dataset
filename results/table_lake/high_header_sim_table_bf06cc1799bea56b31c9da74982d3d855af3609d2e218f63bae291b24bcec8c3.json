@@ -1,0 +1,49 @@
+{
+    "id": "bf06cc1799bea56b31c9da74982d3d855af3609d2e218f63bae291b24bcec8c3",
+    "metadata": "Emanuele Naspetti | Complete International Formula 3000 results | Complete International Formula 3000 results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1989",
+            "Roni Motorsport",
+            "Reynard 89D",
+            "Cosworth",
+            "2"
+        ],
+        [
+            "1990",
+            "Jordan Racing",
+            "Reynard 90D",
+            "Mugen - Honda",
+            "1"
+        ],
+        [
+            "1991",
+            "Forti Corse",
+            "Lola T91/50",
+            "Ford Cosworth",
+            "37"
+        ],
+        [
+            "1991",
+            "Forti Corse",
+            "Reynard 91D",
+            "Cosworth",
+            "37"
+        ],
+        [
+            "1992",
+            "Forti Corse",
+            "Reynard 92D",
+            "Cosworth",
+            "19"
+        ]
+    ]
+}

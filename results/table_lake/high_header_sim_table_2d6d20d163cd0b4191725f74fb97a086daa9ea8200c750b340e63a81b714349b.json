@@ -1,0 +1,103 @@
+{
+    "id": "2d6d20d163cd0b4191725f74fb97a086daa9ea8200c750b340e63a81b714349b",
+    "metadata": "Ballarat Football League | 2005 Ladder | 2005 Ladder",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ballarat_FL",
+        "Wins",
+        "Byes",
+        "Losses",
+        "Draws",
+        "Against"
+    ],
+    "cell": [
+        [
+            "Sunbury",
+            "15",
+            "2",
+            "0",
+            "1",
+            "1146"
+        ],
+        [
+            "Redan",
+            "11",
+            "2",
+            "5",
+            "0",
+            "1101"
+        ],
+        [
+            "Melton South",
+            "11",
+            "2",
+            "5",
+            "0",
+            "1353"
+        ],
+        [
+            "Melton",
+            "10",
+            "2",
+            "6",
+            "0",
+            "1284"
+        ],
+        [
+            "Lake Wendouree",
+            "10",
+            "2",
+            "6",
+            "0",
+            "1338"
+        ],
+        [
+            "Darley",
+            "10",
+            "2",
+            "6",
+            "0",
+            "1459"
+        ],
+        [
+            "East Point",
+            "10",
+            "2",
+            "6",
+            "0",
+            "1502"
+        ],
+        [
+            "Daylsford",
+            "5",
+            "2",
+            "10",
+            "1",
+            "1339"
+        ],
+        [
+            "Ballarat",
+            "2",
+            "2",
+            "14",
+            "0",
+            "1728"
+        ],
+        [
+            "Sebastapol",
+            "2",
+            "2",
+            "14",
+            "0",
+            "2194"
+        ],
+        [
+            "Bacchus Marsh",
+            "1",
+            "2",
+            "15",
+            "0",
+            "2263"
+        ]
+    ]
+}

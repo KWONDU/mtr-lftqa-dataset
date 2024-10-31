@@ -1,0 +1,67 @@
+{
+    "id": "89f332daffa510098881209bcad5019ed02cc2fa07eddac39c5a87542f2eb844",
+    "metadata": "List of Oregon ballot measures | 1970s | May 1970 Primary Election",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "meas_num_",
+        "passed",
+        "YES_votes",
+        "NO_votes",
+        "_YES",
+        "Const_Amd_",
+        "type_",
+        "description"
+    ],
+    "cell": [
+        [
+            "1",
+            "No",
+            "190257",
+            "300126",
+            "38.80%",
+            "Yes",
+            "LEG",
+            "Capital Construction Bonds for State Government"
+        ],
+        [
+            "2",
+            "YES",
+            "326374",
+            "168464",
+            "65.96%",
+            "Yes",
+            "LEG",
+            "Repeals White Foreigner Section of Constitution"
+        ],
+        [
+            "3",
+            "No",
+            "182074",
+            "322682",
+            "36.07%",
+            "Yes",
+            "LEG",
+            "Revised Constitution for Oregon"
+        ],
+        [
+            "4",
+            "YES",
+            "292234",
+            "213835",
+            "57.75%",
+            "Yes",
+            "LEG",
+            "Pollution Control Bonds"
+        ],
+        [
+            "5",
+            "No",
+            "202018",
+            "336527",
+            "37.51%",
+            "Yes",
+            "LEG",
+            "Lowers Oregon Voting Age to 19"
+        ]
+    ]
+}

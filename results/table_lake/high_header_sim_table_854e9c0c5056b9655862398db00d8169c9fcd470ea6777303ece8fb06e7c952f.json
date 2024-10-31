@@ -1,0 +1,117 @@
+{
+    "id": "854e9c0c5056b9655862398db00d8169c9fcd470ea6777303ece8fb06e7c952f",
+    "metadata": "Economy of Alberta | Largest employers | Largest employers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_2012",
+        "Rank_2010",
+        "Employer",
+        "Industry",
+        "_2012_Employees_Total",
+        "_2010_Employees_Total",
+        "_2007_Employees_Total",
+        "Head_office"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "Alberta Health Services",
+            "Healthcare",
+            "99400",
+            "92200",
+            "see note",
+            "Edmonton"
+        ],
+        [
+            "2",
+            "2",
+            "Canada Safeway Limited",
+            "Wholesale and Retail Trade",
+            "30000",
+            "30000",
+            "34318",
+            "Calgary"
+        ],
+        [
+            "3",
+            "6",
+            "Agrium Inc.",
+            "Agri-business",
+            "14800",
+            "11153",
+            "n/a",
+            "Calgary"
+        ],
+        [
+            "4",
+            "7",
+            "University of Alberta",
+            "Education",
+            "14500",
+            "10800",
+            "11000",
+            "Edmonton"
+        ],
+        [
+            "5",
+            "4",
+            "Canadian Pacific Railway",
+            "Transportation",
+            "14169",
+            "14970",
+            "15232",
+            "Calgary"
+        ],
+        [
+            "6",
+            "5",
+            "Suncor Energy",
+            "Petroleum Resource Industry",
+            "13026",
+            "12978",
+            "5800",
+            "Calgary"
+        ],
+        [
+            "7",
+            "9",
+            "Shaw Communications",
+            "Communications",
+            "12500",
+            "10000",
+            "8985",
+            "Calgary"
+        ],
+        [
+            "8",
+            "8",
+            "Flint Energy Services Ltd.",
+            "Energy",
+            "11211",
+            "10280",
+            "6169",
+            "Calgary"
+        ],
+        [
+            "9",
+            "11",
+            "Stantec Inc.",
+            "Professional Services",
+            "11100",
+            "9300",
+            "n/a",
+            "Edmonton"
+        ],
+        [
+            "10",
+            "12",
+            "Calgary Board of Education",
+            "Public Education",
+            "9106",
+            "9278",
+            "10972",
+            "Calgary"
+        ]
+    ]
+}

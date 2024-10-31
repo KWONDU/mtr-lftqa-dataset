@@ -1,0 +1,49 @@
+{
+    "id": "58d9c07b997c3588a3ad1512f65a1d1d45d18c1aef0e432f05f83c2f6358768b",
+    "metadata": "1969 Los Angeles Dodgers season | January Secondary phase | January Secondary phase",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Name_",
+        "Position_",
+        "School",
+        "Signed"
+    ],
+    "cell": [
+        [
+            "1",
+            "Pat Harrison",
+            "INF",
+            "University of Southern California",
+            "No"
+        ],
+        [
+            "2",
+            "William Camp",
+            "RHP",
+            "Oklahoma State University",
+            "No Cubs - 1970"
+        ],
+        [
+            "3",
+            "George Pugh",
+            "LHP",
+            "Mesa Community College",
+            "No"
+        ],
+        [
+            "4",
+            "William Ferguson",
+            "1B",
+            "Texas Christian University",
+            "No Reds - 1969 June"
+        ],
+        [
+            "5",
+            "George Putz",
+            "1B",
+            "Springfield College",
+            "No Cardinals - 1969 June"
+        ]
+    ]
+}

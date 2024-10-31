@@ -1,0 +1,55 @@
+{
+    "id": "2786d7e98da291ccbea42955de916500e0812522b2e2ee8759de8bc8130287ae",
+    "metadata": "1997 PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tiger Woods",
+            "United States",
+            "2066833",
+            "21",
+            "4"
+        ],
+        [
+            "2",
+            "David Duval",
+            "United States",
+            "1885308",
+            "29",
+            "3"
+        ],
+        [
+            "3",
+            "Davis Love III",
+            "United States",
+            "1635953",
+            "25",
+            "2"
+        ],
+        [
+            "4",
+            "Jim Furyk",
+            "United States",
+            "1619480",
+            "27",
+            "0"
+        ],
+        [
+            "5",
+            "Justin Leonard",
+            "United States",
+            "1587531",
+            "29",
+            "2"
+        ]
+    ]
+}

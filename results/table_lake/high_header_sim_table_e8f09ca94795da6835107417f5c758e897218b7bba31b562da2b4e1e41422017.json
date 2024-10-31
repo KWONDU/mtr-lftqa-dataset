@@ -1,0 +1,70 @@
+{
+    "id": "e8f09ca94795da6835107417f5c758e897218b7bba31b562da2b4e1e41422017",
+    "metadata": "1980 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "15.14 (104)",
+            "South Melbourne",
+            "19.16 (130)",
+            "MCG",
+            "22487",
+            "3 May 1980"
+        ],
+        [
+            "Collingwood",
+            "26.12 (168)",
+            "St Kilda",
+            "16.12 (108)",
+            "Victoria Park",
+            "29094",
+            "3 May 1980"
+        ],
+        [
+            "Hawthorn",
+            "19.16 (130)",
+            "Footscray",
+            "18.5 (113)",
+            "Princes Park",
+            "11958",
+            "3 May 1980"
+        ],
+        [
+            "Fitzroy",
+            "16.12 (108)",
+            "Essendon",
+            "15.23 (113)",
+            "Junction Oval",
+            "17562",
+            "3 May 1980"
+        ],
+        [
+            "North Melbourne",
+            "18.11 (119)",
+            "Carlton",
+            "12.15 (87)",
+            "Arden Street Oval",
+            "24644",
+            "3 May 1980"
+        ],
+        [
+            "Richmond",
+            "12.16 (88)",
+            "Geelong",
+            "10.17 (77)",
+            "VFL Park",
+            "47265",
+            "3 May 1980"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "63d1f1b2f6d4b5b45114a0ab98151bc44c7ae67aa9f3b6c4385e4d1757635ac6",
+    "metadata": "Ramiele Malubay | Performances | Performances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week_",
+        "Theme",
+        "Original_artist",
+        "Order_",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Audition (Miami)",
+            "N/A",
+            "Aretha Franklin",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Hollywood (Round 1)",
+            "N/A",
+            "Aretha Franklin",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Hollywood (Round 2)",
+            "N/A",
+            "The Kiki Dee Band",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Top 24 (12 Women)",
+            "1960s",
+            "Dusty Springfield",
+            "10",
+            "Safe"
+        ],
+        [
+            "Top 20 (10 Women)",
+            "1970s",
+            "Harold Melvin",
+            "4",
+            "Safe"
+        ],
+        [
+            "Top 16 (8 Women)",
+            "1980s",
+            "Phil Collins",
+            "6",
+            "Safe"
+        ],
+        [
+            "Top 12",
+            "Lennon-McCartney",
+            "The Beatles",
+            "3",
+            "Safe"
+        ],
+        [
+            "Top 11",
+            "The Beatles",
+            "The Beatles",
+            "11",
+            "Safe"
+        ],
+        [
+            "Top 10",
+            "Year They Were Born",
+            "i-TEN",
+            "1",
+            "Safe"
+        ],
+        [
+            "Top 9",
+            "Dolly Parton",
+            "Dolly Parton",
+            "3",
+            "Eliminated"
+        ]
+    ]
+}

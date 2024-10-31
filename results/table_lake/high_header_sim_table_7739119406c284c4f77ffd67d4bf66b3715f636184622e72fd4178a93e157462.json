@@ -1,0 +1,112 @@
+{
+    "id": "7739119406c284c4f77ffd67d4bf66b3715f636184622e72fd4178a93e157462",
+    "metadata": "1970 Cleveland Browns season | Regular season schedule | Regular season schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Record",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "Sept. 21",
+            "New York Jets",
+            "W 31-21",
+            "1-0",
+            "85703"
+        ],
+        [
+            "Sept. 27",
+            "at San Francisco 49ers",
+            "L 34-31",
+            "1-1",
+            "37502"
+        ],
+        [
+            "Oct. 3",
+            "Pittsburgh Steelers",
+            "W 15-7",
+            "2-1",
+            "84349"
+        ],
+        [
+            "Oct. 11",
+            "Cincinnati Bengals",
+            "W 30-27",
+            "3-1",
+            "83520"
+        ],
+        [
+            "Oct. 18",
+            "Detroit Lions",
+            "L 41-24",
+            "3-2",
+            "83577"
+        ],
+        [
+            "Oct. 25",
+            "at Miami Dolphins",
+            "W 28-0",
+            "4-2",
+            "75313"
+        ],
+        [
+            "Nov. 1",
+            "San Diego Chargers",
+            "L 27-10",
+            "4-3",
+            "80047"
+        ],
+        [
+            "Nov. 8",
+            "at Oakland Raiders",
+            "L 23-20",
+            "4-4",
+            "54463"
+        ],
+        [
+            "Nov. 15",
+            "at Cincinnati Bengals",
+            "L 14-10",
+            "4-5",
+            "60007"
+        ],
+        [
+            "Nov. 22",
+            "Houston Oilers",
+            "W 28-14",
+            "5-5",
+            "74723"
+        ],
+        [
+            "Nov. 29",
+            "at Pittsburgh Steelers",
+            "L 28-9",
+            "5-6",
+            "50214"
+        ],
+        [
+            "Dec. 7",
+            "at Houston Oilers",
+            "W 21-10",
+            "6-6",
+            "50582"
+        ],
+        [
+            "Dec. 12",
+            "Dallas Cowboys",
+            "L 6-2",
+            "6-7",
+            "75458"
+        ],
+        [
+            "Dec. 20",
+            "at Denver Broncos",
+            "W 27-13",
+            "7-7",
+            "51001"
+        ]
+    ]
+}

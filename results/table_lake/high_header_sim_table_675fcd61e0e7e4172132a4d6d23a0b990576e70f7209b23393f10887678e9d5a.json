@@ -1,0 +1,70 @@
+{
+    "id": "675fcd61e0e7e4172132a4d6d23a0b990576e70f7209b23393f10887678e9d5a",
+    "metadata": "1965 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "9.13 (67)",
+            "Melbourne",
+            "19.11 (125)",
+            "Glenferrie Oval",
+            "14900",
+            "3 July 1965"
+        ],
+        [
+            "Footscray",
+            "7.10 (52)",
+            "North Melbourne",
+            "5.10 (40)",
+            "Western Oval",
+            "14150",
+            "3 July 1965"
+        ],
+        [
+            "St Kilda",
+            "12.8 (80)",
+            "Carlton",
+            "10.14 (74)",
+            "Moorabbin Oval",
+            "35794",
+            "3 July 1965"
+        ],
+        [
+            "Richmond",
+            "23.20 (158)",
+            "South Melbourne",
+            "12.10 (82)",
+            "MCG",
+            "35200",
+            "10 July 1965"
+        ],
+        [
+            "Essendon",
+            "12.16 (88)",
+            "Geelong",
+            "6.9 (45)",
+            "Windy Hill",
+            "27000",
+            "10 July 1965"
+        ],
+        [
+            "Collingwood",
+            "10.14 (74)",
+            "Fitzroy",
+            "4.6 (30)",
+            "Victoria Park",
+            "20657",
+            "10 July 1965"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "edcfb6477506cfb6ca648ea0d7d7d9a241e435a6535f17e4fe18af673cc51444",
+    "metadata": "Driver deaths in motorsport | Y | Y",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Discipline",
+        "Circuit",
+        "Event",
+        "Session_",
+        "Cause"
+    ],
+    "cell": [
+        [
+            "Touring car racing",
+            "Guia Circuit",
+            "2012 CTM Macau Touring Car Cup",
+            "Qualifying",
+            "Crash"
+        ],
+        [
+            "Open Wheel",
+            "Fuji Speedway",
+            "1997 Japanese Formula 3 Championship",
+            "Race",
+            "Crash"
+        ],
+        [
+            "Sports Car",
+            "Johore",
+            "Johore Grand Prix",
+            "Race",
+            "Crash"
+        ],
+        [
+            "Dragster",
+            "Bristol Dragway",
+            "Fall Nationals",
+            "Race",
+            "Crash"
+        ],
+        [
+            "Stock Car",
+            "Daytona International Speedway",
+            "Komfort Koach 200",
+            "Race",
+            "Crash"
+        ],
+        [
+            "Open Wheel",
+            "Fuji Speedway",
+            "1977 Japanese Grand Prix",
+            "Race",
+            "Crash"
+        ]
+    ]
+}

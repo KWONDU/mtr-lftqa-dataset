@@ -1,0 +1,105 @@
+{
+    "id": "60747d51987fdc69cf12c618c83ce00ef3053da4f40b36995381cb243764551b",
+    "metadata": "SFTPA2 | SFTPA2 mRNA transcript variants | SFTPA2 mRNA transcript variants",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Variant_id",
+        "_5_UTR_splice",
+        "Coding",
+        "_3_UTR_sequence",
+        "GenBank_id"
+    ],
+    "cell": [
+        [
+            "ABD1A",
+            "ABD",
+            "1A",
+            "1A",
+            "HQ021432"
+        ],
+        [
+            "ABD1A 0",
+            "ABD",
+            "1A 0",
+            "1A 0",
+            "HQ021421"
+        ],
+        [
+            "ABD1A 1",
+            "ABD",
+            "1A 1",
+            "1A 1",
+            "HQ021422"
+        ],
+        [
+            "ABD1A 2",
+            "ABD",
+            "1A 2",
+            "1A 2",
+            "HQ021423"
+        ],
+        [
+            "ABD1A 3",
+            "ABD",
+            "1A 3",
+            "1A 3",
+            "HQ021424"
+        ],
+        [
+            "ABD1A 5",
+            "ABD",
+            "1A 5",
+            "1A 5",
+            "HQ021425"
+        ],
+        [
+            "ABD`1A",
+            "ABD`",
+            "1A",
+            "1A",
+            "HQ021426"
+        ],
+        [
+            "ABD`1A 0",
+            "ABD`",
+            "1A 0",
+            "1A 0",
+            "HQ021427"
+        ],
+        [
+            "ABD`1A 1",
+            "ABD`",
+            "1A 1",
+            "1A 1",
+            "HQ021428"
+        ],
+        [
+            "ABD`1A 2",
+            "ABD`",
+            "1A 2",
+            "1A 2",
+            "HQ021429"
+        ],
+        [
+            "ABD`1A 3",
+            "ABD`",
+            "1A 3",
+            "1A 3",
+            "HQ021430"
+        ],
+        [
+            "ABD`1A 5",
+            "ABD`",
+            "1A 5",
+            "1A 5",
+            "HQ021431"
+        ],
+        [
+            "SFTPA2",
+            "ABD\u2019",
+            "1A 2",
+            "1A 0",
+            "NM_001098668.2"
+        ]
+    ]
+}

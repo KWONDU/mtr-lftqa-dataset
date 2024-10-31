@@ -1,0 +1,49 @@
+{
+    "id": "6d6989a84b433f178e50e12092c933a62311835e482d4b564dcced9715b9483a",
+    "metadata": "1988 PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jack Nicklaus",
+            "United States",
+            "5005825",
+            "73"
+        ],
+        [
+            "2",
+            "Tom Watson",
+            "United States",
+            "4974845",
+            "37"
+        ],
+        [
+            "3",
+            "Curtis Strange",
+            "United States",
+            "4263133",
+            "16"
+        ],
+        [
+            "4",
+            "Tom Kite",
+            "United States",
+            "4205412",
+            "10"
+        ],
+        [
+            "5",
+            "Lanny Wadkins",
+            "United States",
+            "3707586",
+            "18"
+        ]
+    ]
+}

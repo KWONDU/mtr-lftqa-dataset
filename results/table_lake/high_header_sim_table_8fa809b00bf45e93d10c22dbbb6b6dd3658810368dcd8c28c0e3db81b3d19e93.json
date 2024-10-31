@@ -1,0 +1,87 @@
+{
+    "id": "8fa809b00bf45e93d10c22dbbb6b6dd3658810368dcd8c28c0e3db81b3d19e93",
+    "metadata": "Dancing with the Stars (Australian season 2) | Average Chart | Average Chart",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_by_average",
+        "Place",
+        "Couple",
+        "Number_Of_Dances",
+        "Total_Points_Earned",
+        "Average"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "Tom & Kym",
+            "14",
+            "469",
+            "33.5"
+        ],
+        [
+            "2",
+            "3",
+            "Holly & Mark",
+            "11",
+            "330",
+            "30.0"
+        ],
+        [
+            "3",
+            "6",
+            "Nikki & Sasha",
+            "6",
+            "161",
+            "26.8"
+        ],
+        [
+            "4",
+            "7",
+            "Suzie & Jonathan",
+            "5",
+            "114",
+            "22.8"
+        ],
+        [
+            "5",
+            "8",
+            "Shane & Csaba",
+            "4",
+            "89",
+            "22.3"
+        ],
+        [
+            "6",
+            "2",
+            "Ian & Natalie",
+            "14",
+            "298",
+            "21.3"
+        ],
+        [
+            "7",
+            "9",
+            "Sarah Marie & Trent",
+            "3",
+            "62",
+            "20.7"
+        ],
+        [
+            "8",
+            "10",
+            "Steven & Sarah",
+            "2",
+            "41",
+            "20.5"
+        ],
+        [
+            "9",
+            "4",
+            "Jason & Luda",
+            "9",
+            "180",
+            "20.0"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "3f8fd1c7f7f988223a88a6e44cef331d6c2c1e8097c47eb20a625f9ba2c74c0c",
+    "metadata": "Current members of the United States House of Representatives | Delegates | Delegates",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Party",
+        "Religion",
+        "Former_Experience",
+        "Assumed_Office",
+        "Born_In"
+    ],
+    "cell": [
+        [
+            "American Samoa",
+            "Democratic",
+            "Mormon",
+            "Lieutenant Governor of American Samoa",
+            "1989",
+            "1943"
+        ],
+        [
+            "District of Columbia",
+            "Democratic",
+            "Episcopalian",
+            "Equal Employment Opportunity Commission",
+            "1991",
+            "1937"
+        ],
+        [
+            "Guam",
+            "Democratic",
+            "Roman Catholic",
+            "Lieutenant Governor of Guam",
+            "2003",
+            "1933"
+        ],
+        [
+            "Puerto Rico",
+            "New Progressive Party and Democratic",
+            "Roman Catholic",
+            "Attorney General of Puerto Rico",
+            "2009",
+            "1959"
+        ],
+        [
+            "United States Virgin Islands",
+            "Democratic",
+            "Moravian",
+            "Commissioner of Health",
+            "1997",
+            "1945"
+        ],
+        [
+            "Northern Mariana Islands",
+            "Democratic",
+            "Roman Catholic",
+            "Election Commission Director",
+            "2009",
+            "1955"
+        ]
+    ]
+}

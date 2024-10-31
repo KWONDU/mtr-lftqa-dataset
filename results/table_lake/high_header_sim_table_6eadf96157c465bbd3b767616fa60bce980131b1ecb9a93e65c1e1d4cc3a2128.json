@@ -1,0 +1,63 @@
+{
+    "id": "6eadf96157c465bbd3b767616fa60bce980131b1ecb9a93e65c1e1d4cc3a2128",
+    "metadata": "2005-06 Mighty Ducks of Anaheim season | Preseason | Preseason",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Record",
+        "Arena"
+    ],
+    "cell": [
+        [
+            "September 17",
+            "@ Kings",
+            "4-2",
+            "0-1-0",
+            "Staples Center"
+        ],
+        [
+            "September 21",
+            "Sharks",
+            "2-1",
+            "0-1-1",
+            "Arrowhead Pond of Anaheim"
+        ],
+        [
+            "September 23",
+            "Coyotes",
+            "5-3",
+            "1-1-1",
+            "Arrowhead Pond of Anaheim"
+        ],
+        [
+            "September 24",
+            "@ Canucks",
+            "4-2",
+            "2-1-1",
+            "General Motors Place"
+        ],
+        [
+            "September 25",
+            "@ Sharks",
+            "6-5",
+            "2-2-1",
+            "HP Pavilion at San Jose"
+        ],
+        [
+            "September 28",
+            "Canucks",
+            "3-1",
+            "2-3-1",
+            "Arrowhead Pond of Anaheim"
+        ],
+        [
+            "September 30",
+            "Kings",
+            "5-4",
+            "3-3-1",
+            "Arrowhead Pond of Anaheim"
+        ]
+    ]
+}

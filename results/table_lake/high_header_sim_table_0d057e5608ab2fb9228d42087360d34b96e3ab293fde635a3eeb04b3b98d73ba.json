@@ -1,0 +1,73 @@
+{
+    "id": "0d057e5608ab2fb9228d42087360d34b96e3ab293fde635a3eeb04b3b98d73ba",
+    "metadata": "2010-11 Golden State Warriors season | Game log | April",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "77",
+            "April 2",
+            "Dallas",
+            "W 99-92 (OT)",
+            "Monta Ellis (32)",
+            "Louis Amundson (10)",
+            "Stephen Curry (8)",
+            "Oracle Arena 18,128",
+            "33-44"
+        ],
+        [
+            "78",
+            "April 5",
+            "@ Portland",
+            "W 108-87 (OT)",
+            "Monta Ellis (30)",
+            "David Lee (20)",
+            "Monta Ellis (5)",
+            "Rose Garden 20,551",
+            "34-44"
+        ],
+        [
+            "79",
+            "April 6",
+            "L.A. Lakers",
+            "W 95-87 (OT)",
+            "Monta Ellis (26)",
+            "David Lee (17)",
+            "Monta Ellis (6)",
+            "Oracle Arena 20,024",
+            "35-44"
+        ],
+        [
+            "80",
+            "April 10",
+            "Sacramento",
+            "L 103-104 (OT)",
+            "Stephen Curry (27)",
+            "David Lee (14)",
+            "Stephen Curry (8)",
+            "Oracle Arena 19,596",
+            "35-45"
+        ],
+        [
+            "81",
+            "April 11",
+            "@ Denver",
+            "L 111-134 (OT)",
+            "Stephen Curry , Dorell Wright (27)",
+            "Louis Amundson (6)",
+            "Stephen Curry , David Lee (5)",
+            "Pepsi Center 19,155",
+            "35-46"
+        ]
+    ]
+}

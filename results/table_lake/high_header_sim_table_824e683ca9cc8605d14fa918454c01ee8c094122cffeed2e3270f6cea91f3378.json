@@ -1,0 +1,112 @@
+{
+    "id": "824e683ca9cc8605d14fa918454c01ee8c094122cffeed2e3270f6cea91f3378",
+    "metadata": "2008 Open Championship | First round | First round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Robert Allenby",
+            "Australia",
+            "69",
+            "-1"
+        ],
+        [
+            "T1",
+            "Graeme McDowell",
+            "Northern Ireland",
+            "69",
+            "-1"
+        ],
+        [
+            "T1",
+            "Rocco Mediate",
+            "United States",
+            "69",
+            "-1"
+        ],
+        [
+            "T4",
+            "Bart Bryant",
+            "United States",
+            "70",
+            "E"
+        ],
+        [
+            "T4",
+            "Greg Norman",
+            "Australia",
+            "70",
+            "E"
+        ],
+        [
+            "T4",
+            "Adam Scott",
+            "Australia",
+            "70",
+            "E"
+        ],
+        [
+            "T7",
+            "Jim Furyk",
+            "United States",
+            "71",
+            "+1"
+        ],
+        [
+            "T7",
+            "Retief Goosen",
+            "South Africa",
+            "71",
+            "+1"
+        ],
+        [
+            "T7",
+            "Peter Hanson",
+            "Sweden",
+            "71",
+            "+1"
+        ],
+        [
+            "T7",
+            "Gr\u00e9gory Havret",
+            "France",
+            "71",
+            "+1"
+        ],
+        [
+            "T7",
+            "Fredrik Jacobson",
+            "Sweden",
+            "71",
+            "+1"
+        ],
+        [
+            "T7",
+            "Simon Wakefield",
+            "England",
+            "71",
+            "+1"
+        ],
+        [
+            "T7",
+            "Anthony Wall",
+            "England",
+            "71",
+            "+1"
+        ],
+        [
+            "T7",
+            "Mike Weir",
+            "Canada",
+            "71",
+            "+1"
+        ]
+    ]
+}

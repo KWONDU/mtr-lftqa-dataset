@@ -1,0 +1,133 @@
+{
+    "id": "ba186d8c8306d35195399306edbad86a4bf7dbcd6e8ff4e823d54259a3060d2e",
+    "metadata": "2007-08 Detroit Red Wings season | October | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "October 3",
+            "Anaheim",
+            "2 - 3",
+            "Detroit",
+            "Hasek",
+            "17610",
+            "1-0-0"
+        ],
+        [
+            "October 6",
+            "Detroit",
+            "3 - 4",
+            "Chicago",
+            "Hasek",
+            "18768",
+            "1-0-1"
+        ],
+        [
+            "October 8",
+            "Edmonton",
+            "2 - 4",
+            "Detroit",
+            "Hasek",
+            "16913",
+            "2-0-1"
+        ],
+        [
+            "October 10",
+            "Calgary",
+            "2 - 4",
+            "Detroit",
+            "Osgood",
+            "16629",
+            "3-0-1"
+        ],
+        [
+            "October 12",
+            "Chicago",
+            "3 - 2",
+            "Detroit",
+            "Hasek",
+            "17696",
+            "3-1-1"
+        ],
+        [
+            "October 14",
+            "Detroit",
+            "4 - 1",
+            "Los Angeles",
+            "Osgood",
+            "17215",
+            "4-1-1"
+        ],
+        [
+            "October 15",
+            "Detroit",
+            "3 - 6",
+            "Anaheim",
+            "Hasek",
+            "17174",
+            "4-2-1"
+        ],
+        [
+            "October 18",
+            "Detroit",
+            "4 - 2",
+            "San Jose",
+            "Osgood",
+            "17496",
+            "5-2-1"
+        ],
+        [
+            "October 20",
+            "Detroit",
+            "5 - 2",
+            "Phoenix",
+            "Hasek",
+            "14154",
+            "6-2-1"
+        ],
+        [
+            "October 24",
+            "Vancouver",
+            "2 - 3",
+            "Detroit",
+            "Hasek",
+            "17015",
+            "7-2-1"
+        ],
+        [
+            "October 26",
+            "San Jose",
+            "1 - 5",
+            "Detroit",
+            "Osgood",
+            "18289",
+            "8-2-1"
+        ],
+        [
+            "October 28",
+            "Detroit",
+            "3 - 2",
+            "Vancouver",
+            "Osgood",
+            "18630",
+            "9-2-1"
+        ],
+        [
+            "October 30",
+            "Detroit",
+            "2 - 1",
+            "Edmonton",
+            "Osgood",
+            "16839",
+            "10-2-1"
+        ]
+    ]
+}

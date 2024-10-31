@@ -1,0 +1,70 @@
+{
+    "id": "57436bb2202c00103c38da39cd88a9ea13522f0f36b0887b7594f5a3be2ef620",
+    "metadata": "1950 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "19.21 (135)",
+            "South Melbourne",
+            "8.7 (55)",
+            "Kardinia Park",
+            "16500",
+            "1 July 1950"
+        ],
+        [
+            "Carlton",
+            "10.13 (73)",
+            "Fitzroy",
+            "15.8 (98)",
+            "Princes Park",
+            "19000",
+            "1 July 1950"
+        ],
+        [
+            "St Kilda",
+            "6.17 (53)",
+            "Melbourne",
+            "9.13 (67)",
+            "Junction Oval",
+            "23000",
+            "1 July 1950"
+        ],
+        [
+            "North Melbourne",
+            "14.16 (100)",
+            "Hawthorn",
+            "2.13 (25)",
+            "Arden Street Oval",
+            "10000",
+            "1 July 1950"
+        ],
+        [
+            "Richmond",
+            "15.18 (108)",
+            "Footscray",
+            "8.14 (62)",
+            "Punt Road Oval",
+            "17000",
+            "1 July 1950"
+        ],
+        [
+            "Essendon",
+            "12.18 (90)",
+            "Collingwood",
+            "6.12 (48)",
+            "Windy Hill",
+            "22000",
+            "1 July 1950"
+        ]
+    ]
+}

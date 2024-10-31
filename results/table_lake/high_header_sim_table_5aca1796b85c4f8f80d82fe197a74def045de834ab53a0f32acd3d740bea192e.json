@@ -1,0 +1,70 @@
+{
+    "id": "5aca1796b85c4f8f80d82fe197a74def045de834ab53a0f32acd3d740bea192e",
+    "metadata": "1941 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "12.13 (85)",
+            "Richmond",
+            "14.11 (95)",
+            "Western Oval",
+            "14000",
+            "5 July 1941"
+        ],
+        [
+            "Collingwood",
+            "10.12 (72)",
+            "South Melbourne",
+            "11.13 (79)",
+            "Victoria Park",
+            "7500",
+            "5 July 1941"
+        ],
+        [
+            "Carlton",
+            "12.25 (97)",
+            "Geelong",
+            "13.11 (89)",
+            "Princes Park",
+            "7000",
+            "5 July 1941"
+        ],
+        [
+            "North Melbourne",
+            "13.20 (98)",
+            "Hawthorn",
+            "6.14 (50)",
+            "Arden Street Oval",
+            "3000",
+            "5 July 1941"
+        ],
+        [
+            "St Kilda",
+            "12.4 (76)",
+            "Fitzroy",
+            "12.6 (78)",
+            "Junction Oval",
+            "7000",
+            "5 July 1941"
+        ],
+        [
+            "Melbourne",
+            "16.17 (113)",
+            "Essendon",
+            "9.11 (65)",
+            "MCG",
+            "17000",
+            "5 July 1941"
+        ]
+    ]
+}

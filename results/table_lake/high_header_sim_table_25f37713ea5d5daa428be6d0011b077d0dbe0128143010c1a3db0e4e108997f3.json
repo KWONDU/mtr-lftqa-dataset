@@ -1,0 +1,79 @@
+{
+    "id": "25f37713ea5d5daa428be6d0011b077d0dbe0128143010c1a3db0e4e108997f3",
+    "metadata": "Midwest Collegiate Conference | Member schools | Final members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Nickname",
+        "Founded",
+        "Type_",
+        "Enrollment",
+        "Joined_"
+    ],
+    "cell": [
+        [
+            "AIB College of Business",
+            "Des Moines, Iowa",
+            "Eagles",
+            "1921",
+            "Private",
+            "1000",
+            "2010"
+        ],
+        [
+            "Clarke University",
+            "Dubuque, Iowa",
+            "Crusaders",
+            "1843",
+            "Private/Roman Catholic",
+            "1230",
+            "19881"
+        ],
+        [
+            "Grand View University2",
+            "Des Moines, Iowa",
+            "Vikings",
+            "1896",
+            "Private/Lutheran (ELCA)",
+            "1750",
+            "1989"
+        ],
+        [
+            "Mount Mercy University",
+            "Cedar Rapids, Iowa",
+            "Mustangs",
+            "1928",
+            "Private/Roman Catholic",
+            "1490",
+            "1988"
+        ],
+        [
+            "Saint Ambrose University",
+            "Davenport, Iowa",
+            "Fighting Bees (men`s) , Queen Bees (women`s)",
+            "1882",
+            "Private/Roman Catholic",
+            "3623",
+            "1990"
+        ],
+        [
+            "Viterbo University",
+            "La Crosse, Wisconsin",
+            "V-Hawks",
+            "1923",
+            "Private/Roman Catholic",
+            "2991",
+            "1988"
+        ],
+        [
+            "William Penn University2",
+            "Oskaloosa, Iowa",
+            "Statesmen (men`s) , Lady Statesmen (women`s)",
+            "1873",
+            "Private/Quaker",
+            "1550",
+            "2001"
+        ]
+    ]
+}

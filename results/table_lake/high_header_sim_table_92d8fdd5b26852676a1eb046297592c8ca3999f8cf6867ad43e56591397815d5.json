@@ -1,0 +1,88 @@
+{
+    "id": "92d8fdd5b26852676a1eb046297592c8ca3999f8cf6867ad43e56591397815d5",
+    "metadata": "Michigan Intercollegiate Athletic Association | Current members | Current members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Nickname",
+        "Founded",
+        "Type_",
+        "Enrollment",
+        "Joined"
+    ],
+    "cell": [
+        [
+            "Adrian College",
+            "Adrian, Michigan",
+            "Bulldogs",
+            "1859",
+            "Private/Methodist",
+            "1040",
+            "1908 2"
+        ],
+        [
+            "Albion College",
+            "Albion, Michigan",
+            "Britons",
+            "1835",
+            "Private/Methodist",
+            "1970",
+            "1888"
+        ],
+        [
+            "Alma College",
+            "Alma, Michigan",
+            "Scots",
+            "1886",
+            "Private/Presbyterian",
+            "1300",
+            "1902"
+        ],
+        [
+            "Calvin College",
+            "Grand Rapids, Michigan",
+            "Knights",
+            "1876",
+            "Private/Christian Reformed",
+            "4200",
+            "1953"
+        ],
+        [
+            "Hope College",
+            "Holland, Michigan",
+            "Flying Dutchmen",
+            "1866",
+            "Private/Reformed",
+            "3200",
+            "1926"
+        ],
+        [
+            "Kalamazoo College",
+            "Kalamazoo, Michigan",
+            "Hornets",
+            "1833",
+            "Private/Non-sectarian",
+            "1340",
+            "1896"
+        ],
+        [
+            "Olivet College",
+            "Olivet, Michigan",
+            "Comets",
+            "1844",
+            "Private/United Church of Christ",
+            "1086",
+            "1888 3"
+        ],
+        [
+            "Saint Mary`s College 1",
+            "Notre Dame, Indiana",
+            "Belles",
+            "1844",
+            "Private/Catholic",
+            "1400",
+            "1997"
+        ]
+    ]
+}

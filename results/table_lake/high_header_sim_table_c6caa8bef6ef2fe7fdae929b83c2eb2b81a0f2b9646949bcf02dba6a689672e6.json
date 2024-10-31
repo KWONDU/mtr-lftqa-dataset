@@ -1,0 +1,336 @@
+{
+    "id": "c6caa8bef6ef2fe7fdae929b83c2eb2b81a0f2b9646949bcf02dba6a689672e6",
+    "metadata": "2007-08 Cardiff City F.C. season | Fixtures & Results | Championship",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "11 Aug",
+            "Stoke City",
+            "H",
+            "L 0 - 1",
+            "18840"
+        ],
+        [
+            "18 Aug",
+            "Queens Park Rangers",
+            "A",
+            "W 2 - 0",
+            "12596"
+        ],
+        [
+            "25 Aug",
+            "Coventry City",
+            "H",
+            "L 0 - 1",
+            "16407"
+        ],
+        [
+            "1 Sep",
+            "Norwich City",
+            "A",
+            "W 2 - 1",
+            "24292"
+        ],
+        [
+            "15 Sep",
+            "Plymouth Argyle",
+            "A",
+            "D 2 - 2",
+            "11591"
+        ],
+        [
+            "19 Sep",
+            "Watford",
+            "H",
+            "L 1 - 2",
+            "13169"
+        ],
+        [
+            "22 Sep",
+            "Preston North End",
+            "H",
+            "D 2 - 2",
+            "11772"
+        ],
+        [
+            "29 Sep",
+            "Barnsley",
+            "A",
+            "D 1 - 1",
+            "10709"
+        ],
+        [
+            "2 Oct",
+            "Sheffield United",
+            "A",
+            "D 3 - 3",
+            "26186"
+        ],
+        [
+            "6 Oct",
+            "Burnley",
+            "H",
+            "W 2- 1",
+            "12914"
+        ],
+        [
+            "21 Oct",
+            "Southampton",
+            "A",
+            "L 0 - 1",
+            "20796"
+        ],
+        [
+            "24 Oct",
+            "Wolverhampton Wanderers",
+            "H",
+            "L 2 - 3",
+            "15000"
+        ],
+        [
+            "27 Oct",
+            "Scunthorpe United",
+            "H",
+            "D 1 - 1",
+            "11850"
+        ],
+        [
+            "6 Nov",
+            "Crystal Palace",
+            "H",
+            "D 1 - 1",
+            "11781"
+        ],
+        [
+            "10 Nov",
+            "Charlton Athletic",
+            "A",
+            "L 0 - 3",
+            "22866"
+        ],
+        [
+            "24 Nov",
+            "Ipswich Town",
+            "H",
+            "W 1 - 0",
+            "15173"
+        ],
+        [
+            "26 Nov",
+            "Leicester City",
+            "A",
+            "D 0 - 0",
+            "16269"
+        ],
+        [
+            "1 Dec",
+            "Hull City",
+            "A",
+            "D 2 - 2",
+            "16269"
+        ],
+        [
+            "4 Dec",
+            "Charlton Athletic",
+            "H",
+            "L 0 - 2",
+            "11874"
+        ],
+        [
+            "8 Dec",
+            "Colchester United",
+            "H",
+            "W 4 - 1",
+            "11006"
+        ],
+        [
+            "11 Dec",
+            "Blackpool",
+            "A",
+            "W 1 - 0",
+            "7214"
+        ],
+        [
+            "15 Dec",
+            "Bristol City",
+            "A",
+            "L 0 - 1",
+            "15753"
+        ],
+        [
+            "22 Dec",
+            "Sheffield United",
+            "H",
+            "W 1 - 0",
+            "12869"
+        ],
+        [
+            "26 Dec",
+            "Watford",
+            "A",
+            "D 2 - 2",
+            "17014"
+        ],
+        [
+            "29 Dec",
+            "Preston North End",
+            "A",
+            "W 2 - 1",
+            "12046"
+        ],
+        [
+            "1 Jan",
+            "Plymouth Argyle",
+            "H",
+            "W 1 - 0",
+            "14965"
+        ],
+        [
+            "12 Jan",
+            "Sheffield Wednesday",
+            "H",
+            "W 1 - 0",
+            "14015"
+        ],
+        [
+            "19 Jan",
+            "West Bromwich Albion",
+            "A",
+            "D 3 - 3",
+            "22325"
+        ],
+        [
+            "29 Jan",
+            "Queens Park Rangers",
+            "H",
+            "W 3 - 1",
+            "13602"
+        ],
+        [
+            "2 Feb",
+            "Stoke City",
+            "A",
+            "L 1 - 2",
+            "15045"
+        ],
+        [
+            "9 Feb",
+            "Norwich City",
+            "H",
+            "L 1 - 2",
+            "11937"
+        ],
+        [
+            "12 Feb",
+            "Coventry City",
+            "A",
+            "D 0 - 0",
+            "15260"
+        ],
+        [
+            "23 Feb",
+            "Sheffield Wednesday",
+            "A",
+            "L 0 - 1",
+            "18539"
+        ],
+        [
+            "1 Mar",
+            "Leicester City",
+            "H",
+            "L 0 - 1",
+            "13335"
+        ],
+        [
+            "4 Mar",
+            "Crystal Palace",
+            "A",
+            "D 0 - 0",
+            "13446"
+        ],
+        [
+            "12 Mar",
+            "Hull City",
+            "H",
+            "W 1 - 0",
+            "17555"
+        ],
+        [
+            "15 Mar",
+            "Colchester United",
+            "A",
+            "D 1 - 1",
+            "4699"
+        ],
+        [
+            "22 Mar",
+            "Bristol City",
+            "H",
+            "W 2 - 1",
+            "16458"
+        ],
+        [
+            "29 Mar",
+            "Southampton",
+            "H",
+            "W 1 - 0",
+            "12955"
+        ],
+        [
+            "1 Apr",
+            "West Bromwich Albion",
+            "H",
+            "D 0 - 0",
+            "13915"
+        ],
+        [
+            "9 Apr",
+            "Ipswich Town",
+            "A",
+            "D 1 - 1",
+            "20311"
+        ],
+        [
+            "12 Apr",
+            "Blackpool",
+            "H",
+            "W 3 - 1",
+            "14715"
+        ],
+        [
+            "19 Apr",
+            "Scunthorpe United",
+            "A",
+            "L 2 - 3",
+            "4727"
+        ],
+        [
+            "22 Apr",
+            "Wolverhampton Wanderers",
+            "A",
+            "L 0 - 3",
+            "20862"
+        ],
+        [
+            "26 Apr",
+            "Burnley",
+            "A",
+            "D 3 - 3",
+            "10694"
+        ],
+        [
+            "4 May",
+            "Barnsley",
+            "H",
+            "W 3 - 0",
+            "14469"
+        ]
+    ]
+}

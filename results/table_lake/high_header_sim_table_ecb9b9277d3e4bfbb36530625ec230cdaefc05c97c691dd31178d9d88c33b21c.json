@@ -1,0 +1,119 @@
+{
+    "id": "ecb9b9277d3e4bfbb36530625ec230cdaefc05c97c691dd31178d9d88c33b21c",
+    "metadata": "1965 Buffalo Bills season | Season schedule | Season schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 11, 1965",
+            "Boston Patriots",
+            "W 24-7",
+            "45502"
+        ],
+        [
+            "2",
+            "September 19, 1965",
+            "at Denver Broncos",
+            "W 30-15",
+            "30682"
+        ],
+        [
+            "3",
+            "September 26, 1965",
+            "New York Jets",
+            "W 33-21",
+            "45056"
+        ],
+        [
+            "4",
+            "October 3, 1965",
+            "Oakland Raiders",
+            "W 17-12",
+            "41256"
+        ],
+        [
+            "5",
+            "October 10, 1965",
+            "San Diego Chargers",
+            "L 34-3",
+            "45260"
+        ],
+        [
+            "6",
+            "October 17, 1965",
+            "at Kansas City Chiefs",
+            "W 23-7",
+            "26941"
+        ],
+        [
+            "7",
+            "October 24, 1965",
+            "Denver Broncos",
+            "W 31-13",
+            "45046"
+        ],
+        [
+            "8",
+            "October 31, 1965",
+            "Houston Oilers",
+            "L 19-17",
+            "44267"
+        ],
+        [
+            "9",
+            "November 7, 1965",
+            "at Boston Patriots",
+            "W 23-7",
+            "24415"
+        ],
+        [
+            "10",
+            "November 14, 1965",
+            "at Oakland Raiders",
+            "W 17-14",
+            "19352"
+        ],
+        [
+            "11",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "12",
+            "November 25, 1965",
+            "at San Diego Chargers",
+            "T 20-20",
+            "27473"
+        ],
+        [
+            "13",
+            "December 5, 1965",
+            "at Houston Oilers",
+            "W 29-18",
+            "23087"
+        ],
+        [
+            "14",
+            "December 12, 1965",
+            "Kansas City Chiefs",
+            "W 34-25",
+            "40298"
+        ],
+        [
+            "15",
+            "December 19, 1965",
+            "at New York Jets",
+            "L 14-12",
+            "57396"
+        ]
+    ]
+}

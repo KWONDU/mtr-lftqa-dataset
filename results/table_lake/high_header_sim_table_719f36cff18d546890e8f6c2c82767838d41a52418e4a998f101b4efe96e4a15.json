@@ -1,0 +1,63 @@
+{
+    "id": "719f36cff18d546890e8f6c2c82767838d41a52418e4a998f101b4efe96e4a15",
+    "metadata": "1987-88 Bradford City A.F.C. season | League Cup | League Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round_Leg",
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "2 (1)",
+            "22 September 1987",
+            "Fulham",
+            "Away",
+            "5-1",
+            "4357"
+        ],
+        [
+            "2 (2)",
+            "7 October 1987",
+            "Fulham",
+            "Home",
+            "2-1",
+            "6408"
+        ],
+        [
+            "3",
+            "27 October 1987",
+            "Charlton Athletic",
+            "Away",
+            "1-0",
+            "3629"
+        ],
+        [
+            "4",
+            "18 November 1987",
+            "Reading",
+            "Away",
+            "0-0",
+            "6784"
+        ],
+        [
+            "4R",
+            "24 November 1987",
+            "Reading",
+            "Home",
+            "1-0",
+            "10448"
+        ],
+        [
+            "5",
+            "19 January 1988",
+            "Luton Town",
+            "Away",
+            "0-2",
+            "11022"
+        ]
+    ]
+}

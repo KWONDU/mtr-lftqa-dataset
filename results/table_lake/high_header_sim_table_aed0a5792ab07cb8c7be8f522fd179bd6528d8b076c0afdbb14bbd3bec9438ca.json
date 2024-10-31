@@ -1,0 +1,70 @@
+{
+    "id": "aed0a5792ab07cb8c7be8f522fd179bd6528d8b076c0afdbb14bbd3bec9438ca",
+    "metadata": "1972 Buffalo Bills season | NFL Draft | NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "Walt Patulski",
+            "Defensive end",
+            "Notre Dame"
+        ],
+        [
+            "2",
+            "27",
+            "Reggie McKenzie",
+            "Offensive guard",
+            "Michigan"
+        ],
+        [
+            "4",
+            "79",
+            "Randy Jackson",
+            "Running back",
+            "Wichita State"
+        ],
+        [
+            "5",
+            "105",
+            "Leon Garror",
+            "Defensive back",
+            "Alcorn State"
+        ],
+        [
+            "5",
+            "108",
+            "Bob Penchion",
+            "Offensive guard",
+            "Alcorn State"
+        ],
+        [
+            "8",
+            "183",
+            "Paul Gibson",
+            "Wide receiver",
+            "Texas El-Paso"
+        ],
+        [
+            "10",
+            "235",
+            "Maurice Tyler",
+            "Defensive back",
+            "Morgan State"
+        ],
+        [
+            "13",
+            "313",
+            "Eddie Moss",
+            "Running back",
+            "Southeast Missouri State"
+        ]
+    ]
+}

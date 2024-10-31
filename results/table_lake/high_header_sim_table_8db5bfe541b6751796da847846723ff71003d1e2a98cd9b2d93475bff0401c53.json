@@ -1,0 +1,63 @@
+{
+    "id": "8db5bfe541b6751796da847846723ff71003d1e2a98cd9b2d93475bff0401c53",
+    "metadata": "1965 World Judo Championships | Medals table | Medals table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Japan",
+            "3",
+            "3",
+            "1",
+            "7"
+        ],
+        [
+            "2",
+            "Netherlands",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "3",
+            "Soviet Union",
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        [
+            "4",
+            "South Korea",
+            "0",
+            "0",
+            "2",
+            "2"
+        ],
+        [
+            "5",
+            "Canada",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "5",
+            "United States",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

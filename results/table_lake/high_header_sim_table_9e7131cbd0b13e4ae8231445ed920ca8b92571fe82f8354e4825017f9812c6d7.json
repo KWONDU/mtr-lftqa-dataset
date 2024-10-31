@@ -1,0 +1,87 @@
+{
+    "id": "9e7131cbd0b13e4ae8231445ed920ca8b92571fe82f8354e4825017f9812c6d7",
+    "metadata": "2008/09 Wanganui Heartland Rugby team | Statistics | Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round_",
+        "Home_Team",
+        "Win_Loss",
+        "Score",
+        "Opposition",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Round 1",
+            "Wanganui",
+            "Win",
+            "71 - 6",
+            "East Coast",
+            "Wanganui"
+        ],
+        [
+            "Round 2",
+            "Wanganui",
+            "Win",
+            "43 - 0",
+            "Thames Valley",
+            "Paeroa"
+        ],
+        [
+            "Round 3",
+            "Wanganui",
+            "Win",
+            "36 - 16",
+            "Poverty Bay",
+            "Wanganui"
+        ],
+        [
+            "Round 4",
+            "Wanganui",
+            "Win",
+            "47 - 19",
+            "King Country",
+            "Te Kuiti"
+        ],
+        [
+            "Round 5",
+            "Wanganui",
+            "Win",
+            "43 - 12",
+            "Mid Canterbury",
+            "Wanganui"
+        ],
+        [
+            "Round 6",
+            "Wanganui",
+            "Win",
+            "42 - 10",
+            "Buller",
+            "Wanganui"
+        ],
+        [
+            "Round 7",
+            "Wanganui",
+            "Win",
+            "52 - 7",
+            "West Coast",
+            "Westport"
+        ],
+        [
+            "Round 8",
+            "Wanganui",
+            "Win",
+            "19 - 8",
+            "North Otago",
+            "Wanganui"
+        ],
+        [
+            "Semi Final",
+            "Wanganui",
+            "Win",
+            "40 - 18",
+            "West Coast",
+            "Wanganui"
+        ]
+    ]
+}

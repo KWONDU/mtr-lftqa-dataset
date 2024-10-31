@@ -1,0 +1,84 @@
+{
+    "id": "edc0b5c669bd3204fa9a248bd2666203416fc01dd4eb268f9bc30a5a5eb94aa2",
+    "metadata": "List of Cascade volcanoes | Washington | Washington",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Type_",
+        "Elevation_m",
+        "Elevation_ft",
+        "Last_eruption_VEI_"
+    ],
+    "cell": [
+        [
+            "Mount Baker",
+            "Stratovolcano",
+            "3286",
+            "10781",
+            "1880 (2)"
+        ],
+        [
+            "Glacier Peak",
+            "Stratovolcano",
+            "3213",
+            "10541",
+            "1700 \u00b1 100 years (2)"
+        ],
+        [
+            "Mount Rainier",
+            "Stratovolcano",
+            "4392",
+            "14411",
+            "1894 (1?)"
+        ],
+        [
+            "Goat Rocks",
+            "Stratovolcano",
+            "2494",
+            "8184",
+            "730,000 BP"
+        ],
+        [
+            "Mount Adams",
+            "Stratovolcano",
+            "3742",
+            "12277",
+            "950 AD? (2)"
+        ],
+        [
+            "Mount St. Helens",
+            "Stratovolcano",
+            "2549",
+            "8363",
+            "2008 (2)"
+        ],
+        [
+            "Indian Heaven",
+            "es Shield volcano",
+            "1806",
+            "5925",
+            "6250 BC \u00b1 100 years"
+        ],
+        [
+            "Silver Star Mountain",
+            "es Shield volcano ?",
+            "1330",
+            "4364",
+            "20 million years ago"
+        ],
+        [
+            "West Crater",
+            "Volcanic field",
+            "1329",
+            "4360",
+            "5750 BC? (2?)"
+        ],
+        [
+            "Trout Creek Hill",
+            "Shield volcano",
+            "893",
+            "2930",
+            "340,000 BP"
+        ]
+    ]
+}

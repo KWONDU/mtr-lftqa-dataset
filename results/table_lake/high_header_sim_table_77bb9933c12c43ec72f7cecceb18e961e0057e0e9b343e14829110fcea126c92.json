@@ -1,0 +1,97 @@
+{
+    "id": "77bb9933c12c43ec72f7cecceb18e961e0057e0e9b343e14829110fcea126c92",
+    "metadata": "Montfortian dialect | Second conjugation | Second conjugation",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "Present_SV",
+        "Past_SV",
+        "Present_VS",
+        "Past_VS",
+        "Subjunctive_SV",
+        "Subjunctive_VS"
+    ],
+    "cell": [
+        [
+            "First person singular",
+            "ich braek",
+            "ich braak",
+            "braek ich",
+            "braak ich",
+            "ich braeke",
+            "braeke-n ich"
+        ],
+        [
+            "Second person singular",
+            "doe br\u00e8ks",
+            "doe braaks",
+            "br\u00e8ks se",
+            "braaks se",
+            "doe braeke",
+            "braeker-doe"
+        ],
+        [
+            "Third person singular",
+            "dae br\u00e8k",
+            "dae braak",
+            "br\u00e8k t`r",
+            "braak t`r",
+            "dae braeke",
+            "braeker-dae"
+        ],
+        [
+            "First person plural",
+            "weer braeke",
+            "weer brake",
+            "br\u00f6ktj v`r",
+            "brake v`r",
+            "weer braeke",
+            "braeke v`r"
+        ],
+        [
+            "Second person plural",
+            "geer br\u00e8k(tj)",
+            "geer braak",
+            "br\u00e8k(tj) g`r",
+            "braak g`r",
+            "geer braeke",
+            "braeketj g`r"
+        ],
+        [
+            "Third person plural",
+            "die braeke",
+            "die brake",
+            "braeke die",
+            "brake die",
+            "die braeke",
+            "braeker-die"
+        ],
+        [
+            "Other:",
+            "Infinitive",
+            "Gerund",
+            "Present particle",
+            "Past particle",
+            "Adjective",
+            "Adverb"
+        ],
+        [
+            "Conjugation:",
+            "(t\u00f6) braeke",
+            "`t braeke n",
+            "braekendj",
+            "gebraoke",
+            "gebraoke(-n/r/s)",
+            "gebraoke(lik)"
+        ],
+        [
+            "Other:",
+            "Noun",
+            "Imperative singular impolite",
+            "Imperative singular polite",
+            "Imperative dual",
+            "Imperative plural",
+            "\u00c8nkelzief"
+        ]
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "id": "ce4a2c250679092c99d138ae38b63ee858b3842d406d04c7e0ed087d619b5fd0",
+    "metadata": "2007 Detroit Indy Grand Prix | Race results | Race results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Team",
+        "Laps",
+        "Time_Retired",
+        "Grid",
+        "Laps_Led",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Tony Kanaan",
+            "Andretti Green",
+            "89",
+            "2:11:50.5097",
+            "4",
+            "20",
+            "50"
+        ],
+        [
+            "Danica Patrick",
+            "Andretti Green",
+            "89",
+            "+0.4865",
+            "11",
+            "9",
+            "40"
+        ],
+        [
+            "Dan Wheldon",
+            "Target Chip Ganassi",
+            "89",
+            "+1.2207",
+            "16",
+            "0",
+            "35"
+        ],
+        [
+            "Darren Manning",
+            "A.J. Foyt Racing",
+            "89",
+            "+1.9217",
+            "8",
+            "0",
+            "32"
+        ],
+        [
+            "Kosuke Matsuura",
+            "Panther Racing",
+            "88",
+            "+1 Lap",
+            "14",
+            "0",
+            "30"
+        ],
+        [
+            "Dario Franchitti",
+            "Andretti Green",
+            "88",
+            "+1 Lap",
+            "2",
+            "27",
+            "31"
+        ],
+        [
+            "Buddy Rice",
+            "Dreyer & Reinbold Racing",
+            "87",
+            "Contact",
+            "15",
+            "7",
+            "26"
+        ],
+        [
+            "Scott Dixon",
+            "Target Chip Ganassi",
+            "87",
+            "Contact",
+            "3",
+            "0",
+            "24"
+        ],
+        [
+            "A. J. Foyt IV",
+            "Vision Racing",
+            "87",
+            "Mechanical",
+            "13",
+            "0",
+            "22"
+        ],
+        [
+            "Ed Carpenter",
+            "Vision Racing",
+            "86",
+            "+3 Laps",
+            "12",
+            "0",
+            "20"
+        ],
+        [
+            "Scott Sharp",
+            "Rahal Letterman",
+            "82",
+            "+7 Laps",
+            "17",
+            "0",
+            "19"
+        ],
+        [
+            "Sam Hornish, Jr.",
+            "Team Penske",
+            "75",
+            "+14 Laps",
+            "7",
+            "0",
+            "18"
+        ],
+        [
+            "Tomas Scheckter",
+            "Vision Racing",
+            "67",
+            "Contact",
+            "9",
+            "0",
+            "17"
+        ],
+        [
+            "H\u00e9lio Castroneves",
+            "Team Penske",
+            "67",
+            "Contact",
+            "1",
+            "26",
+            "16"
+        ],
+        [
+            "Vitor Meira",
+            "Panther Racing",
+            "31",
+            "Contact",
+            "10",
+            "0",
+            "15"
+        ],
+        [
+            "Sarah Fisher",
+            "Dreyer & Reinbold Racing",
+            "29",
+            "Contact",
+            "18",
+            "0",
+            "14"
+        ],
+        [
+            "Marco Andretti",
+            "Andretti Green",
+            "27",
+            "Mechanical",
+            "6",
+            "0",
+            "13"
+        ],
+        [
+            "Ryan Hunter-Reay",
+            "Rahal Letterman",
+            "24",
+            "Mechanical",
+            "5",
+            "0",
+            "12"
+        ],
+        [
+            "Source: Racing-Reference",
+            "Source: Racing-Reference",
+            "Source: Racing-Reference",
+            "Source: Racing-Reference",
+            "Source: Racing-Reference",
+            "Source: Racing-Reference",
+            "Source: Racing-Reference"
+        ]
+    ]
+}

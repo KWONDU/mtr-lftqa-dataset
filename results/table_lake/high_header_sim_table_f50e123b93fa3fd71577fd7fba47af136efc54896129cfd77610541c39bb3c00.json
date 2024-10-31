@@ -1,0 +1,84 @@
+{
+    "id": "f50e123b93fa3fd71577fd7fba47af136efc54896129cfd77610541c39bb3c00",
+    "metadata": "Guelph | Sports teams | Sports teams",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "League",
+        "Sport",
+        "Established",
+        "Championships"
+    ],
+    "cell": [
+        [
+            "Guelph Storm",
+            "Ontario Hockey League",
+            "Hockey",
+            "1991",
+            "2"
+        ],
+        [
+            "Guelph Royals",
+            "Intercounty Baseball League",
+            "Baseball",
+            "1919",
+            "8"
+        ],
+        [
+            "Guelph Gryphons",
+            "Canadian Interuniversity Sport",
+            "University",
+            "1874",
+            "0"
+        ],
+        [
+            "Guelph Regals",
+            "Ontario Lacrosse Association",
+            "Lacrosse",
+            "1992",
+            "1"
+        ],
+        [
+            "Guelph Rangers",
+            "Kitchener District Soccer League",
+            "Soccer",
+            "circa 1985",
+            "3"
+        ],
+        [
+            "Guelph Underdogs SC",
+            "Conestoga College Indoor Soccer League",
+            "Soccer",
+            "2004",
+            "0"
+        ],
+        [
+            "Guelph Hurricanes",
+            "Greater Ontario Junior Hockey League",
+            "Hockey",
+            "1963",
+            "0"
+        ],
+        [
+            "Guelph Bears",
+            "Ontario Football Conference",
+            "Football",
+            "1997",
+            "0"
+        ],
+        [
+            "Guelph Gargoyles",
+            "Ontario Australian Football League",
+            "Australian Football",
+            "2001",
+            "0"
+        ],
+        [
+            "Speed River Track and Field Club",
+            "Athletics Canada",
+            "Athletics",
+            "1997",
+            "10"
+        ]
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "8080796a31e243c9819e7b0028799c06a8531bb49d8db28e4d3c43af26247a35",
+    "metadata": "FC Seoul | Total attendance  &  Average attendance | Total attendance  &  Average attendance",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Season_Total_Att_",
+        "K_League_Season_Total_Att_",
+        "Regular_Season_Average_Att_",
+        "League_Cup_Average_Att_",
+        "FA_Cup_Total_Average_Att_",
+        "ACL_Total_Average_Att_",
+        "Friendly_Match_Att_"
+    ],
+    "cell": [
+        [
+            "1984-2003",
+            "Official attendance records don`t have credibility",
+            "Official attendance records don`t have credibility",
+            "Official attendance records don`t have credibility",
+            "Official attendance records don`t have credibility",
+            "Official attendance records don`t have credibility",
+            "Official attendance records don`t have credibility",
+            "Official attendance records don`t have credibility"
+        ],
+        [
+            "2004",
+            "223529",
+            "223529",
+            "15363",
+            "6529",
+            "Undisclosed",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "2005",
+            "458605",
+            "458605",
+            "22010",
+            "32415",
+            "Undisclosed",
+            "N/A",
+            "Unknown ( Boca Juniors )"
+        ],
+        [
+            "2006",
+            "302833",
+            "302833",
+            "19276",
+            "11921",
+            "Undisclosed",
+            "N/A",
+            "61,235 ( FC Tokyo )"
+        ],
+        [
+            "2007",
+            "379903",
+            "379903",
+            "21515",
+            "14315",
+            "Undisclosed",
+            "N/A",
+            "65,000 ( Manchester United )"
+        ],
+        [
+            "2008",
+            "398757",
+            "398757",
+            "22417",
+            "12499",
+            "No home match",
+            "N/A",
+            "34,000 ( Los Angeles Galaxy ) 40,000 ( FC Tokyo )"
+        ],
+        [
+            "2009",
+            "319250",
+            "270624",
+            "16535",
+            "11300",
+            "1,315 / 1,315",
+            "47,311 / 11,828",
+            "65,000 ( Manchester United )"
+        ],
+        [
+            "2010",
+            "547592",
+            "546397",
+            "32576",
+            "14439",
+            "1,195 / 1,195",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "2011",
+            "505138",
+            "448027",
+            "28002",
+            "N/A",
+            "3,733 / 3,733",
+            "53,378 / 13,345",
+            "N/A"
+        ],
+        [
+            "2012",
+            "467649",
+            "451045",
+            "20502",
+            "N/A",
+            "16,604 / 8,302",
+            "N/A",
+            "N/A"
+        ]
+    ]
+}

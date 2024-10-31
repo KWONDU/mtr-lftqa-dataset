@@ -1,0 +1,70 @@
+{
+    "id": "b5f19d6d1f47c3c2b94eb36d7b6070c7ed8d8f04c9c2a5ca4d9e158ba13f86cd",
+    "metadata": "1957 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "10.13 (73)",
+            "South Melbourne",
+            "11.12 (78)",
+            "Punt Road Oval",
+            "21000",
+            "27 July 1957"
+        ],
+        [
+            "Hawthorn",
+            "7.13 (55)",
+            "North Melbourne",
+            "5.4 (34)",
+            "Glenferrie Oval",
+            "10000",
+            "27 July 1957"
+        ],
+        [
+            "Essendon",
+            "9.18 (72)",
+            "Melbourne",
+            "11.7 (73)",
+            "Windy Hill",
+            "22500",
+            "27 July 1957"
+        ],
+        [
+            "Collingwood",
+            "13.14 (92)",
+            "Geelong",
+            "6.8 (44)",
+            "Victoria Park",
+            "21316",
+            "27 July 1957"
+        ],
+        [
+            "Carlton",
+            "11.13 (79)",
+            "Footscray",
+            "7.10 (52)",
+            "Princes Park",
+            "31810",
+            "27 July 1957"
+        ],
+        [
+            "St Kilda",
+            "15.18 (108)",
+            "Fitzroy",
+            "8.8 (56)",
+            "Junction Oval",
+            "14500",
+            "27 July 1957"
+        ]
+    ]
+}

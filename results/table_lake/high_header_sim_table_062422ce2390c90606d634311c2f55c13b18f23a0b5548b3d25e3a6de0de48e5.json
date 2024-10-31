@@ -1,0 +1,84 @@
+{
+    "id": "062422ce2390c90606d634311c2f55c13b18f23a0b5548b3d25e3a6de0de48e5",
+    "metadata": "2007 Manx Grand Prix | Lightweight Manx Grand Prix | Lightweight Manx Grand Prix",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Rider",
+        "Team",
+        "Speed",
+        "Time_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Samuel Dunlop",
+            "250cc Honda",
+            "108.083mph",
+            "1:23.46.79"
+        ],
+        [
+            "2",
+            "Neil Kent",
+            "249cc Yamaha",
+            "106.545mph",
+            "1:23.59.35"
+        ],
+        [
+            "3",
+            "Brian Kent",
+            "250cc Yamaha",
+            "105.955mph",
+            "1:25.27.76"
+        ],
+        [
+            "4",
+            "Wally Kneale",
+            "250cc Honda",
+            "103.664mph",
+            "1:27.21.09"
+        ],
+        [
+            "5",
+            "Daniel Williams",
+            "250cc Honda",
+            "103.338mph",
+            "1:27.37.62"
+        ],
+        [
+            "6",
+            "Dean Martin",
+            "250cc Honda",
+            "102.953mph",
+            "1:27.57.28"
+        ],
+        [
+            "7",
+            "Carl Roberts",
+            "250cc Honda",
+            "102.639mph",
+            "1:28.13.45"
+        ],
+        [
+            "8",
+            "Tom Snow",
+            "250cc Honda",
+            "101.217mph",
+            "1:29.27.77"
+        ],
+        [
+            "9",
+            "Robert McCrum",
+            "250cc Honda",
+            "99.216mph",
+            "1:31.16.03"
+        ],
+        [
+            "10",
+            "Mark Waddell",
+            "250cc Honda",
+            "98.843mph",
+            "1:31.36.74"
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "8b78743e5d800b6015e6ccbd7e65ed12120d4e7226179793e66953362674ded5",
+    "metadata": "Punata Province | Languages | Languages",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Language_",
+        "Punata_Municipality",
+        "Villa_Rivero_Municipality",
+        "San_Benito_Municipality",
+        "Tacachi_Municipality",
+        "Cuchumuela_Municipality"
+    ],
+    "cell": [
+        [
+            "Quechua",
+            "21255",
+            "5387",
+            "10529",
+            "953",
+            "1767"
+        ],
+        [
+            "Aymara",
+            "256",
+            "16",
+            "94",
+            "4",
+            "3"
+        ],
+        [
+            "Guaran\u00ed",
+            "25",
+            "4",
+            "9",
+            "1",
+            "1"
+        ],
+        [
+            "Another native",
+            "22",
+            "7",
+            "6",
+            "0",
+            "1"
+        ],
+        [
+            "Spanish",
+            "20797",
+            "3394",
+            "9650",
+            "674",
+            "851"
+        ],
+        [
+            "Foreign",
+            "148",
+            "14",
+            "48",
+            "3",
+            "1"
+        ],
+        [
+            "Only native",
+            "4232",
+            "2201",
+            "2450",
+            "350",
+            "968"
+        ],
+        [
+            "Native and Spanish",
+            "17096",
+            "3194",
+            "8105",
+            "603",
+            "801"
+        ]
+    ]
+}

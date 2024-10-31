@@ -1,0 +1,55 @@
+{
+    "id": "6af0c89e2be24770a24cf72a825f203ec0cefeaea8408524efb96d14c5404613",
+    "metadata": "Badminton at the 1992 Summer Olympics | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Indonesia",
+            "2",
+            "2",
+            "1",
+            "5"
+        ],
+        [
+            "2",
+            "South Korea",
+            "2",
+            "1",
+            "1",
+            "4"
+        ],
+        [
+            "3",
+            "China",
+            "0",
+            "1",
+            "4",
+            "5"
+        ],
+        [
+            "4",
+            "Denmark",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "5",
+            "Malaysia",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

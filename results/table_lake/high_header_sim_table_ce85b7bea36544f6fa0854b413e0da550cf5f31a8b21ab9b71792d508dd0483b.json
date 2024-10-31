@@ -1,0 +1,63 @@
+{
+    "id": "ce85b7bea36544f6fa0854b413e0da550cf5f31a8b21ab9b71792d508dd0483b",
+    "metadata": "2001 Open Championship | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Nick Price",
+            "Zimbabwe",
+            "1994",
+            "281",
+            "-3",
+            "T21"
+        ],
+        [
+            "Tiger Woods",
+            "United States",
+            "2000",
+            "283",
+            "-1",
+            "T25"
+        ],
+        [
+            "Paul Lawrie",
+            "Scotland",
+            "1999",
+            "287",
+            "+3",
+            "T42"
+        ],
+        [
+            "Mark O`Meara",
+            "United States",
+            "1998",
+            "287",
+            "+3",
+            "T42"
+        ],
+        [
+            "Mark Calcavecchia",
+            "United States",
+            "1989",
+            "289",
+            "+5",
+            "T54"
+        ],
+        [
+            "Sandy Lyle",
+            "Scotland",
+            "1985",
+            "301",
+            "+17",
+            "T69"
+        ]
+    ]
+}

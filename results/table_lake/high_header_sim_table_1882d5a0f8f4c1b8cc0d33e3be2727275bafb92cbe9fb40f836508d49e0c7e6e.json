@@ -1,0 +1,55 @@
+{
+    "id": "1882d5a0f8f4c1b8cc0d33e3be2727275bafb92cbe9fb40f836508d49e0c7e6e",
+    "metadata": "Katakana | Usage | Examples of Chinese loanwords in Japanese",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Japanese",
+        "R\u014dmaji",
+        "Meaning",
+        "Chinese",
+        "Romanization",
+        "Source_language"
+    ],
+    "cell": [
+        [
+            "\u30de\u30fc\u30b8\u30e3\u30f3",
+            "m\u0101jan",
+            "mahjong",
+            "\u9ebb\u5c07",
+            "m\u00e1ji\u00e0ng",
+            "Mandarin"
+        ],
+        [
+            "\u30a6\u30fc\u30ed\u30f3\u8336",
+            "\u016broncha",
+            "Oolong tea",
+            "\u70cf\u9f8d\u8336",
+            "w\u016bl\u00f3ngch\u00e1",
+            "Mandarin"
+        ],
+        [
+            "\u30c1\u30e3\u30fc\u30cf\u30f3",
+            "ch\u0101han",
+            "fried rice",
+            "\u7092\u98ef",
+            "ch\u01ceof\u00e0n",
+            "Mandarin"
+        ],
+        [
+            "\u30c1\u30e3\u30fc\u30b7\u30e5\u30fc",
+            "ch\u0101sh\u016b",
+            "barbecued pork",
+            "\u53c9\u713c",
+            "cha siu",
+            "Cantonese"
+        ],
+        [
+            "\u30b7\u30e5\u30fc\u30de\u30a4",
+            "sh\u016bmai",
+            "a form of dim sum",
+            "\u713c\u8ce3",
+            "siu maai",
+            "Cantonese"
+        ]
+    ]
+}

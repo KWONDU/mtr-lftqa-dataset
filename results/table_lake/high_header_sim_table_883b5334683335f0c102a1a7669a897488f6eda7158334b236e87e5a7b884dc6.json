@@ -1,0 +1,61 @@
+{
+    "id": "883b5334683335f0c102a1a7669a897488f6eda7158334b236e87e5a7b884dc6",
+    "metadata": "Claude Harmon | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "1",
+            "1",
+            "2",
+            "6",
+            "25",
+            "14"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "1",
+            "2",
+            "5",
+            "15",
+            "9"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "3",
+            "7",
+            "10",
+            "16",
+            "15"
+        ],
+        [
+            "Totals",
+            "1",
+            "5",
+            "11",
+            "21",
+            "57",
+            "39"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "766d5b7067e7d9797fae906aaaef34f27a49341a8b18f7e20f598cdb178ad915",
+    "metadata": "Germanic strong verb | Class 7 | Class 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Subclass",
+        "Part_1",
+        "Part_2",
+        "Part_3",
+        "Part_4",
+        "Verb_meaning"
+    ],
+    "cell": [
+        [
+            "7a",
+            "*haitan\u0105",
+            "*hegait",
+            "*hegitun",
+            "*haitanaz",
+            "to call"
+        ],
+        [
+            "7b",
+            "*hlaupan\u0105 *stautan\u0105",
+            "*heglaup *stestaut",
+            "*heglupun *stestutun",
+            "*hlaupanaz *stautanaz",
+            "to leap to push, to bump"
+        ],
+        [
+            "7c",
+            "*haldan\u0105 *fanhan\u0105",
+            "*hegald *febanh",
+            "*heguldun *febungun",
+            "*haldanaz *fanganaz",
+            "to hold to catch"
+        ],
+        [
+            "7d",
+            "*l\u0113tan\u0105 *s\u0113an\u0105",
+            "*lel\u014dt *sez\u014d",
+            "*lel-tun *sez-un",
+            "*l\u0113tanaz *s\u0113anaz",
+            "to allow, to let to sow"
+        ],
+        [
+            "7e",
+            "*bl\u014dtan\u0105 *gr\u014dan\u0105",
+            "*bebl\u014dt *gegr\u014d",
+            "*beblut *gegr-un",
+            "*bl\u014dtanaz *gr\u014danaz",
+            "to sacrifice to grow"
+        ]
+    ]
+}

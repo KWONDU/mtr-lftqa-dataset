@@ -1,0 +1,67 @@
+{
+    "id": "13d5a287d0c65bcee2fbbaf60f4a1aa1499247d27205e4d6fbf3f8d4a9c4cd44",
+    "metadata": "List of Oregon ballot measures | 1974 | May 1974 Election",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "meas_num_",
+        "passed",
+        "YES_votes",
+        "NO_votes",
+        "_YES",
+        "Const_Amd_",
+        "type_",
+        "description"
+    ],
+    "cell": [
+        [
+            "1",
+            "No",
+            "136851",
+            "410733",
+            "24.99%",
+            "No",
+            "LEG",
+            "Income, corporate tax, school support increase"
+        ],
+        [
+            "2",
+            "No",
+            "190899",
+            "369038",
+            "34.09%",
+            "Yes",
+            "LEG",
+            "Highway fund use for mass transit"
+        ],
+        [
+            "3",
+            "No",
+            "166363",
+            "371897",
+            "30.91%",
+            "Yes",
+            "LEG",
+            "New school district tax base limitation"
+        ],
+        [
+            "4",
+            "No",
+            "198563",
+            "328221",
+            "37.69%",
+            "Yes",
+            "LEG",
+            "Authorizes bonds for water development fund"
+        ],
+        [
+            "5",
+            "YES",
+            "381559",
+            "164953",
+            "69.82%",
+            "Yes",
+            "LEG",
+            "Increases veteran`s loan bonding authority"
+        ]
+    ]
+}

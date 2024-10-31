@@ -1,0 +1,55 @@
+{
+    "id": "1d24ab1406661d5ac02b25bd9960ee232efc0a1b38d54a3c00161d341177db90",
+    "metadata": "Sofiane Feghouli | International goals | International goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Goal_",
+        "Date_",
+        "Venue",
+        "Score",
+        "Result_",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "1",
+            "29 February 2012",
+            "Independence Stadium , Bakau ( Gambia )",
+            "1-2",
+            "1-2",
+            "2013 Africa Cup of Nations qualification"
+        ],
+        [
+            "2",
+            "2 June 2012",
+            "Stade Mustapha Tchaker , Blida ( Algeria )",
+            "1-0",
+            "4-0",
+            "2014 FIFA World Cup qualification"
+        ],
+        [
+            "3",
+            "30 January 2013",
+            "Royal Bafokeng Stadium , Rustenburg (South Africa)",
+            "1-0",
+            "2-2",
+            "2013 Africa Cup of Nations"
+        ],
+        [
+            "4",
+            "26 March 2013",
+            "Stade Mustapha Tchaker , Blida ( Algeria )",
+            "1-0",
+            "3-1",
+            "2014 FIFA World Cup qualification"
+        ],
+        [
+            "5",
+            "12 October 2013",
+            "Stade du 4-Ao\u00fbt , Ouagadougou ( Burkina Faso )",
+            "1-1",
+            "2-3",
+            "2014 FIFA World Cup qualification"
+        ]
+    ]
+}

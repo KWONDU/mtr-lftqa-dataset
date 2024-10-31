@@ -1,0 +1,70 @@
+{
+    "id": "dec740d6a04832bbe9bb29411d122b0f30ddf54ab1d67e879c9a296a03e3b4c4",
+    "metadata": "1979 VFL season | Round 20 | Round 20",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "9.16 (70)",
+            "Hawthorn",
+            "10.14 (74)",
+            "Windy Hill",
+            "19034",
+            "18 August 1979"
+        ],
+        [
+            "North Melbourne",
+            "15.27 (117)",
+            "Melbourne",
+            "6.9 (45)",
+            "Arden Street Oval",
+            "10680",
+            "18 August 1979"
+        ],
+        [
+            "South Melbourne",
+            "16.6 (102)",
+            "Geelong",
+            "10.12 (72)",
+            "Lake Oval",
+            "11298",
+            "18 August 1979"
+        ],
+        [
+            "St Kilda",
+            "9.6 (60)",
+            "Fitzroy",
+            "10.16 (76)",
+            "Moorabbin Oval",
+            "12330",
+            "18 August 1979"
+        ],
+        [
+            "Richmond",
+            "10.15 (75)",
+            "Collingwood",
+            "13.17 (95)",
+            "MCG",
+            "61624",
+            "18 August 1979"
+        ],
+        [
+            "Carlton",
+            "12.18 (90)",
+            "Footscray",
+            "8.6 (54)",
+            "VFL Park",
+            "25075",
+            "18 August 1979"
+        ]
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "id": "2dd92b57b7102d922c509c21c27a73d8c0cb4ac535c370ac92602040bee118f8",
+    "metadata": "Television in China | Nationwide Satellite TV Network | Nationwide Satellite TV Network",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Hanzi",
+        "Origin",
+        "Launch",
+        "Owner_"
+    ],
+    "cell": [
+        [
+            "Anhui Satellite Television",
+            "\u5b89\u5fbd\u536b\u89c6",
+            "Anhui",
+            "1997",
+            "Anhui Television (AHTV)"
+        ],
+        [
+            "Bingtuan Satellite Television",
+            "\u5175\u56e2\u536b\u89c6",
+            "Xinjiang",
+            "2009",
+            "Bingtuan Television (BTTV)"
+        ],
+        [
+            "Beijing Satellite Television",
+            "\u5317\u4eac\u536b\u89c6",
+            "Beijing",
+            "1979",
+            "Beijing Television (BTV)"
+        ],
+        [
+            "Chongqing Satellite Television",
+            "\u91cd\u5e86\u536b\u89c6",
+            "Chongqing",
+            "1997",
+            "Chongqing Broadcasting Group (CBG)"
+        ],
+        [
+            "Dragon Satellite Television",
+            "\u4e1c\u65b9\u536b\u89c6",
+            "Shanghai",
+            "1998",
+            "Shanghai Media Group (SMG)"
+        ],
+        [
+            "Gansu Satellite Television",
+            "\u7518\u8083\u536b\u89c6",
+            "Gansu",
+            "1998",
+            "Gansu Media Group (GSMG)"
+        ],
+        [
+            "Guangdong Satellite Television",
+            "\u5e7f\u4e1c\u536b\u89c6",
+            "Guangdong",
+            "1960",
+            "Southern Media Corporation (SMC)"
+        ],
+        [
+            "Guangxi Satellite Television",
+            "\u5e7f\u897f\u536b\u89c6",
+            "Guangxi",
+            "1970",
+            "Guangxi Television (GXTV)"
+        ],
+        [
+            "Guizhou Satellite Television",
+            "\u8d35\u5dde\u536b\u89c6",
+            "Guizhou",
+            "1998",
+            "Guizhou Television (GTV)"
+        ],
+        [
+            "Hebei Satellite Television",
+            "\u6cb3\u5317\u536b\u89c6",
+            "Hebei",
+            "1998",
+            "Hebei Television (HEBTV)"
+        ],
+        [
+            "Heilongjiang Satellite Television",
+            "\u9ed1\u9f99\u6c5f\u536b\u89c6",
+            "Heilongjiang",
+            "1997",
+            "Heilongjiang Television (HLJTV)"
+        ],
+        [
+            "Henan Satellite Television",
+            "\u6cb3\u5357\u536b\u89c6",
+            "Henan",
+            "1996",
+            "Henan Television (HNTV)"
+        ],
+        [
+            "Hubei Satellite Television",
+            "\u6e56\u5317\u536b\u89c6",
+            "Hubei",
+            "1997",
+            "Hubei Network Radio and Television"
+        ],
+        [
+            "Hunan Satellite Television",
+            "\u6e56\u5357\u536b\u89c6",
+            "Hunan",
+            "1997",
+            "Hunan Broadcasting System (HBS)"
+        ],
+        [
+            "Jiangsu Satellite Television",
+            "\u6c5f\u82cf\u536b\u89c6",
+            "Jiangsu",
+            "1997",
+            "Jiangsu Broadcasting Corporation (JSBC)"
+        ],
+        [
+            "Jiangxi Satellite Television",
+            "\u6c5f\u897f\u536b\u89c6",
+            "Jiangxi",
+            "1970",
+            "Jiangxi Television (JXTV)"
+        ],
+        [
+            "Jilin Satellite Television",
+            "\u5409\u6797\u536b\u89c6",
+            "Jilin",
+            "1997",
+            "Jilin Television (JLTV)"
+        ],
+        [
+            "Liaoning Satellite Television",
+            "\u8fbd\u5b81\u536b\u89c6",
+            "Liaoning",
+            "1959",
+            "Liaoning Radio and Television (LRTV)"
+        ],
+        [
+            "Nei Mongol Satellite Television",
+            "\u5185\u8499\u53e4\u536b\u89c6",
+            "Inner Mongolia",
+            "1997",
+            "Nei Mongol Television (NMTV)"
+        ],
+        [
+            "Ningxia Satellite Television",
+            "\u5b81\u590f\u536b\u89c6",
+            "Ningxia",
+            "1998",
+            "Shanghai Media Group (SMG)"
+        ],
+        [
+            "Qinghai Satellite Television",
+            "\u9752\u6d77\u536b\u89c6",
+            "Qinghai",
+            "1997",
+            "Hunan Broadcasting System (HBS)"
+        ],
+        [
+            "Shandong Satellite Television",
+            "\u5c71\u4e1c\u536b\u89c6",
+            "Shangdong",
+            "1994",
+            "Shandong Television (SDTV)"
+        ],
+        [
+            "Shannxi Satellite Television",
+            "\u9655\u897f\u536b\u89c6",
+            "Shannxi",
+            "1997",
+            "Shaanxi Television Station (SXTVS)"
+        ],
+        [
+            "Shanxi Satellite Television",
+            "\u5c71\u897f\u536b\u89c6",
+            "Shanxi",
+            "2004",
+            "Shanxi Television (SXTV)"
+        ],
+        [
+            "Shenzhen Satellite Television",
+            "\u6df1\u5733\u536b\u89c6",
+            "Guangdong",
+            "2004",
+            "Shenzhen Media Group (SZMG)"
+        ],
+        [
+            "Sichuan Satellite Television",
+            "\u56db\u5ddd\u536b\u89c6",
+            "Sichuan",
+            "2003",
+            "Sichuan Radio and Television"
+        ],
+        [
+            "Southeast Satellite Television",
+            "\u4e1c\u5357\u536b\u89c6",
+            "Fujian",
+            "1994",
+            "Fujian Media Group (FMG)"
+        ],
+        [
+            "Strait Satellite Television",
+            "\u6d77\u5ce1\u536b\u89c6",
+            "Fujian",
+            "2005",
+            "Fujian Media Group (FMG)"
+        ],
+        [
+            "The Travel Channel",
+            "\u65c5\u6e38\u536b\u89c6",
+            "Hainan",
+            "1999",
+            "Travel Channel Inc."
+        ],
+        [
+            "Tianjin Satellite Television",
+            "\u5929\u6d25\u536b\u89c6",
+            "Tianjin",
+            "1998",
+            "Tianjin Television (TJTV)"
+        ],
+        [
+            "Xiamen Satellite Television",
+            "\u53a6\u95e8\u536b\u89c6",
+            "Fujian",
+            "2005",
+            "Xiamen Media Group XMG"
+        ],
+        [
+            "Xinjiang Satellite Television",
+            "\u65b0\u7586\u536b\u89c6",
+            "Xinjiang",
+            "1997",
+            "Xinjiang Television (XJTV)"
+        ],
+        [
+            "Xizang Satellite Television",
+            "\u897f\u85cf\u536b\u89c6",
+            "Tibet",
+            "2002",
+            "Xizang Television (XZTV)"
+        ],
+        [
+            "Yunnan Satellite Television",
+            "\u4e91\u5357\u536b\u89c6",
+            "Yunnan",
+            "2000",
+            "Yunnan Television (YNTV)"
+        ],
+        [
+            "Zhejiang Satellite Television",
+            "\u6d59\u6c5f\u536b\u89c6",
+            "Zhejiang",
+            "1960",
+            "Zhejiang Television (ZJTV)"
+        ]
+    ]
+}

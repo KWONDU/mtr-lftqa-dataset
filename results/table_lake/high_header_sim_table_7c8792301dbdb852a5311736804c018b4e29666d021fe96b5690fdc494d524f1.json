@@ -1,0 +1,49 @@
+{
+    "id": "7c8792301dbdb852a5311736804c018b4e29666d021fe96b5690fdc494d524f1",
+    "metadata": "The Midlands, England | Rugby union | Rugby union",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "League",
+        "City_Town",
+        "Stadium",
+        "Capacity"
+    ],
+    "cell": [
+        [
+            "Leicester Tigers",
+            "Aviva Premiership",
+            "Leicester",
+            "Welford Road",
+            "24000"
+        ],
+        [
+            "Northampton Saints",
+            "Aviva Premiership",
+            "Northampton",
+            "Franklin`s Gardens",
+            "13600"
+        ],
+        [
+            "Worcester Warriors",
+            "Aviva Premiership",
+            "Worcester",
+            "Sixways Stadium",
+            "12068"
+        ],
+        [
+            "Moseley",
+            "RFU Championship",
+            "Birmingham",
+            "Billesley Common",
+            "3000"
+        ],
+        [
+            "Nottingham",
+            "RFU Championship",
+            "Nottingham",
+            "Meadow Lane",
+            "19588"
+        ]
+    ]
+}

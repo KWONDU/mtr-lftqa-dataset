@@ -1,0 +1,49 @@
+{
+    "id": "e0026da4217d300414a8380aed6985f9a92927f83e37dff91bb52a758e456ae9",
+    "metadata": "WPXN-TV | Digital channels | Digital channels",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Channel",
+        "Video",
+        "Aspect",
+        "PSIP_Short_Name",
+        "Network"
+    ],
+    "cell": [
+        [
+            "31.1",
+            "720p",
+            "16:9",
+            "ION",
+            "Ion Television"
+        ],
+        [
+            "31.2",
+            "480i",
+            "4:3",
+            "qubo",
+            "qubo"
+        ],
+        [
+            "31.3",
+            "480i",
+            "4:3",
+            "IONLife",
+            "Ion Life"
+        ],
+        [
+            "31.4",
+            "480i",
+            "4:3",
+            "Shop",
+            "Ion Shop"
+        ],
+        [
+            "31.5",
+            "480i",
+            "4:3",
+            "QVC",
+            "QVC"
+        ]
+    ]
+}

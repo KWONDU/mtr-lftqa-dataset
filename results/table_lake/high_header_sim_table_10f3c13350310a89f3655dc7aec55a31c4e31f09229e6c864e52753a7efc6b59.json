@@ -1,0 +1,217 @@
+{
+    "id": "10f3c13350310a89f3655dc7aec55a31c4e31f09229e6c864e52753a7efc6b59",
+    "metadata": "Ukrainian parliamentary election, 2007 | Support of leading parties and blocs by administrative regions | Support of leading parties and blocs by administrative regions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Voter_registration",
+        "Voter_turnout",
+        "BYuT",
+        "OU_PSD"
+    ],
+    "cell": [
+        [
+            "Autonomous Republic of Crimea",
+            "1568070",
+            "55.8",
+            "6.9",
+            "8.2"
+        ],
+        [
+            "Cherkasy Oblast",
+            "1095058",
+            "60.1",
+            "47.0",
+            "15.3"
+        ],
+        [
+            "Chernihiv Oblast",
+            "939072",
+            "61.8",
+            "41.9",
+            "14.9"
+        ],
+        [
+            "Chernivtsi Oblast",
+            "705272",
+            "58.2",
+            "46.2",
+            "20.3"
+        ],
+        [
+            "Dnipropetrovsk Oblast",
+            "2810168",
+            "58.9",
+            "20.8",
+            "6.2"
+        ],
+        [
+            "Donetsk Oblast",
+            "3620888",
+            "66.0",
+            "4.5",
+            "2.0"
+        ],
+        [
+            "Ivano-Frankivsk Oblast",
+            "1080296",
+            "72.6",
+            "50.7",
+            "36.8"
+        ],
+        [
+            "Kharkiv Oblast",
+            "2282993",
+            "58.3",
+            "16.4",
+            "8.1"
+        ],
+        [
+            "Kherson Oblast",
+            "893442",
+            "55.5",
+            "23.1",
+            "9.1"
+        ],
+        [
+            "Khmelnytsky Oblast",
+            "1083968",
+            "66.3",
+            "48.2",
+            "18.4"
+        ],
+        [
+            "Kirovohrad Oblast",
+            "614832",
+            "57.9",
+            "37.6",
+            "11.7"
+        ],
+        [
+            "Kiev",
+            "2151576",
+            "63.5",
+            "46.2",
+            "15.8"
+        ],
+        [
+            "Kiev Oblast",
+            "1679197",
+            "61.9",
+            "53.4",
+            "15.1"
+        ],
+        [
+            "Luhansk Oblast",
+            "1898637",
+            "66.3",
+            "5.1",
+            "1.7"
+        ],
+        [
+            "Lviv Oblast",
+            "2002372",
+            "73.9",
+            "50.4",
+            "36.0"
+        ],
+        [
+            "Mykolaiv Oblast",
+            "971038",
+            "57.6",
+            "16.6",
+            "5.8"
+        ],
+        [
+            "Odessa Oblast",
+            "1851868",
+            "54.5",
+            "13.7",
+            "6.5"
+        ],
+        [
+            "Poltava Oblast",
+            "1250952",
+            "61.9",
+            "37.9",
+            "14.5"
+        ],
+        [
+            "Rivne Oblast",
+            "865092",
+            "68.7",
+            "51.0",
+            "20.8"
+        ],
+        [
+            "Sevastopol",
+            "308928",
+            "59.7",
+            "5.0",
+            "2.3"
+        ],
+        [
+            "Sumy Oblast",
+            "990575",
+            "62.0",
+            "44.5",
+            "20.8"
+        ],
+        [
+            "Ternopil Oblast",
+            "870214",
+            "76.5",
+            "51.6",
+            "35.2"
+        ],
+        [
+            "Vinnytsia Oblast",
+            "1342608",
+            "64.5",
+            "50.0",
+            "18.6"
+        ],
+        [
+            "Volyn Oblast",
+            "801557",
+            "71.0",
+            "57.6",
+            "20.0"
+        ],
+        [
+            "Zakarpattia Oblast",
+            "946525",
+            "52.1",
+            "28.9",
+            "31.1"
+        ],
+        [
+            "Zhytomyr Oblast",
+            "1044852",
+            "62.5",
+            "37.0",
+            "15.1"
+        ],
+        [
+            "Zaporizhia Oblast",
+            "1515832",
+            "61.4",
+            "14.7",
+            "4.7"
+        ],
+        [
+            "Foreign Embassies",
+            "431142",
+            "6.0",
+            "33.1",
+            "25.5"
+        ],
+        [
+            "Ukraine",
+            "37185882",
+            "62.0",
+            "30.7",
+            "14.2"
+        ]
+    ]
+}

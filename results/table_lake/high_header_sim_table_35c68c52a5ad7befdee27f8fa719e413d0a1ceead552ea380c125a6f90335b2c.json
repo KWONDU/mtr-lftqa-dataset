@@ -1,0 +1,49 @@
+{
+    "id": "35c68c52a5ad7befdee27f8fa719e413d0a1ceead552ea380c125a6f90335b2c",
+    "metadata": "United States House of Representatives elections, 2006 | Oklahoma | Oklahoma",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results"
+    ],
+    "cell": [
+        [
+            "Oklahoma 1",
+            "John Sullivan",
+            "Republican",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "Oklahoma 2",
+            "Dan Boren",
+            "Democratic",
+            "2004",
+            "Re-elected"
+        ],
+        [
+            "Oklahoma 3",
+            "Frank Lucas",
+            "Republican",
+            "1994",
+            "Re-elected"
+        ],
+        [
+            "Oklahoma 4",
+            "Tom Cole",
+            "Republican",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "Oklahoma 5",
+            "Ernest Istook",
+            "Republican",
+            "1992",
+            "Retired to run for Governor Republican hold"
+        ]
+    ]
+}

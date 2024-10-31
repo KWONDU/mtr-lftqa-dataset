@@ -1,0 +1,55 @@
+{
+    "id": "cc6bd426c113d119b5b44f90d700fbd8c7d9b7bc6e2ce5c3df348ba5d8e459a1",
+    "metadata": "Best Southwest | Population growth history | Population growth history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "_1970",
+        "_1980",
+        "_1990",
+        "_2000",
+        "_2010_est_"
+    ],
+    "cell": [
+        [
+            "Cedar Hill",
+            "2610",
+            "6849",
+            "19988",
+            "32093",
+            "46300"
+        ],
+        [
+            "DeSoto",
+            "6617",
+            "15538",
+            "30544",
+            "37646",
+            "49600"
+        ],
+        [
+            "Duncanville",
+            "14105",
+            "27781",
+            "35008",
+            "36081",
+            "39250"
+        ],
+        [
+            "Lancaster",
+            "10522",
+            "14807",
+            "22117",
+            "25894",
+            "36600"
+        ],
+        [
+            "Total",
+            "33854",
+            "64975",
+            "107657",
+            "131714",
+            "171750"
+        ]
+    ]
+}

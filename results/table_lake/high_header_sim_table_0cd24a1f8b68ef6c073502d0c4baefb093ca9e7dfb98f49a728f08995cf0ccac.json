@@ -1,0 +1,70 @@
+{
+    "id": "0cd24a1f8b68ef6c073502d0c4baefb093ca9e7dfb98f49a728f08995cf0ccac",
+    "metadata": "1931 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "12.12 (84)",
+            "South Melbourne",
+            "7.15 (57)",
+            "Punt Road Oval",
+            "18000",
+            "20 June 1931"
+        ],
+        [
+            "Essendon",
+            "7.13 (55)",
+            "Geelong",
+            "13.11 (89)",
+            "Windy Hill",
+            "10000",
+            "20 June 1931"
+        ],
+        [
+            "Collingwood",
+            "22.22 (154)",
+            "North Melbourne",
+            "9.10 (64)",
+            "Victoria Park",
+            "6000",
+            "20 June 1931"
+        ],
+        [
+            "Carlton",
+            "18.14 (122)",
+            "Melbourne",
+            "9.4 (58)",
+            "Princes Park",
+            "25000",
+            "20 June 1931"
+        ],
+        [
+            "St Kilda",
+            "7.10 (52)",
+            "Footscray",
+            "11.11 (77)",
+            "Junction Oval",
+            "17000",
+            "20 June 1931"
+        ],
+        [
+            "Hawthorn",
+            "12.8 (80)",
+            "Fitzroy",
+            "7.14 (56)",
+            "Glenferrie Oval",
+            "8000",
+            "20 June 1931"
+        ]
+    ]
+}

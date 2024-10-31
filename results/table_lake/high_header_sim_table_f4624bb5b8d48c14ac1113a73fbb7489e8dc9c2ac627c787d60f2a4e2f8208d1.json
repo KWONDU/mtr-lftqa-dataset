@@ -1,0 +1,63 @@
+{
+    "id": "f4624bb5b8d48c14ac1113a73fbb7489e8dc9c2ac627c787d60f2a4e2f8208d1",
+    "metadata": "New York state election, 1936 | Result | 1936 state election results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Office",
+        "Democratic_ticket",
+        "Republican_ticket",
+        "American_Labor_ticket",
+        "Socialist_ticket"
+    ],
+    "cell": [
+        [
+            "Governor",
+            "Herbert H. Lehman",
+            "William F. Bleakley",
+            "Herbert H. Lehman",
+            "Harry W. Laidler"
+        ],
+        [
+            "Lieutenant Governor",
+            "M. William Bray",
+            "Ralph K. Robertson",
+            "(none)",
+            "Herman J. Hahn"
+        ],
+        [
+            "Comptroller",
+            "Morris S. Tremaine",
+            "John A. May",
+            "(none)",
+            "Coleman B. Cheney"
+        ],
+        [
+            "Attorney General",
+            "John J. Bennett, Jr.",
+            "Nathan D. Perlman",
+            "(none)",
+            "Edward Marks"
+        ],
+        [
+            "Judge of the Court of Appeals",
+            "Harlan W. Rippey",
+            "James P. Hill",
+            "(none)",
+            "Darwin J. Meserole"
+        ],
+        [
+            "U.S. Representative-at-large",
+            "Matthew J. Merritt",
+            "Anthony J. Contiguglia",
+            "(none)",
+            "Frank R. Crosswaith"
+        ],
+        [
+            "U.S. Representative-at-large",
+            "Caroline O`Day",
+            "Natalie F. Couch",
+            "(none)",
+            "Edna Mitchell Blue"
+        ]
+    ]
+}

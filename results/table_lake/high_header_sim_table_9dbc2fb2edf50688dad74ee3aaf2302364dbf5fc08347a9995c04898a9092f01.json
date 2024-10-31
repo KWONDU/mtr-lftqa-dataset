@@ -1,0 +1,70 @@
+{
+    "id": "9dbc2fb2edf50688dad74ee3aaf2302364dbf5fc08347a9995c04898a9092f01",
+    "metadata": "1961 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "19.6 (120)",
+            "St Kilda",
+            "14.7 (91)",
+            "Glenferrie Oval",
+            "34500",
+            "19 August 1961"
+        ],
+        [
+            "Geelong",
+            "11.11 (77)",
+            "Richmond",
+            "6.10 (46)",
+            "Kardinia Park",
+            "17976",
+            "19 August 1961"
+        ],
+        [
+            "Melbourne",
+            "11.22 (88)",
+            "Footscray",
+            "7.6 (48)",
+            "MCG",
+            "52195",
+            "19 August 1961"
+        ],
+        [
+            "North Melbourne",
+            "10.15 (75)",
+            "Fitzroy",
+            "8.15 (63)",
+            "Arden Street Oval",
+            "15000",
+            "19 August 1961"
+        ],
+        [
+            "South Melbourne",
+            "11.12 (78)",
+            "Essendon",
+            "16.11 (107)",
+            "Lake Oval",
+            "14125",
+            "19 August 1961"
+        ],
+        [
+            "Collingwood",
+            "10.12 (72)",
+            "Carlton",
+            "13.10 (88)",
+            "Victoria Park",
+            "31849",
+            "19 August 1961"
+        ]
+    ]
+}

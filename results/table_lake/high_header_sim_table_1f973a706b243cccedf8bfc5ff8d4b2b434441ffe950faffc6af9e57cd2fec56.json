@@ -1,0 +1,49 @@
+{
+    "id": "1f973a706b243cccedf8bfc5ff8d4b2b434441ffe950faffc6af9e57cd2fec56",
+    "metadata": "Driver deaths in motorsport | G | G",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Discipline",
+        "Championship",
+        "Circuit",
+        "Session_",
+        "Cause"
+    ],
+    "cell": [
+        [
+            "Stock Car",
+            "NASCAR Limited Sportsman Division",
+            "Lowes Motor Speedway",
+            "Practice",
+            "Crash"
+        ],
+        [
+            "Sports Car",
+            "World Sports-Prototype Championship",
+            "Le Mans",
+            "Race",
+            "Crash"
+        ],
+        [
+            "Stock Car",
+            "ARCA RE/MAX Series",
+            "Talladega",
+            "Race",
+            "Crash"
+        ],
+        [
+            "Sports car",
+            "International Championship for Makes",
+            "Aut\u00f3dromo Juan y Oscar G\u00e1lvez",
+            "Race",
+            "Crash"
+        ],
+        [
+            "Open Wheel",
+            "Euroboss",
+            "Autodrom Most",
+            "Race",
+            "Crash"
+        ]
+    ]
+}

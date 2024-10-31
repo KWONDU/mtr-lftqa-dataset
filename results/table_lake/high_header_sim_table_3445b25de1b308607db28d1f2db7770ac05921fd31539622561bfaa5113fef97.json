@@ -1,0 +1,84 @@
+{
+    "id": "3445b25de1b308607db28d1f2db7770ac05921fd31539622561bfaa5113fef97",
+    "metadata": "Los Angeles Film Critics Association Award for Best Foreign Language Film | 2000s | 2000s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "English_title",
+        "Original_title",
+        "Country",
+        "Director_"
+    ],
+    "cell": [
+        [
+            "2000",
+            "Yi Yi: A One and a Two",
+            "Yi yi",
+            "Japan/Taiwan",
+            "Edward Yang"
+        ],
+        [
+            "2001",
+            "No Man`s Land",
+            "No Man`s Land",
+            "Bosnia-Herzegovina",
+            "Danis Tanovic"
+        ],
+        [
+            "2002",
+            "And Your Mother Too",
+            "Y tu mam\u00e1 tambi\u00e9n",
+            "Mexico",
+            "Alfonso Cuar\u00f3n"
+        ],
+        [
+            "2003",
+            "The Man on the Train",
+            "L`homme du train",
+            "France",
+            "Patrice Leconte"
+        ],
+        [
+            "2004",
+            "House of Flying Daggers",
+            "Shi mian mai fu",
+            "China/Hong Kong",
+            "Zhang Yimou"
+        ],
+        [
+            "2005",
+            "Hidden",
+            "Cach\u00e9",
+            "Austria/France",
+            "Michael Haneke"
+        ],
+        [
+            "2006",
+            "The Lives of Others",
+            "Das Leben der Anderen",
+            "Germany",
+            "Florian Henckel von Donnersmarck"
+        ],
+        [
+            "2007",
+            "4 Months, 3 Weeks and 2 Days",
+            "4 luni, 3 s\u0103pt\u0103m\u00e2ni \u015fi 2 zile",
+            "Romania",
+            "Cristian Mungiu"
+        ],
+        [
+            "2008",
+            "Still Life",
+            "Sanxia haoren",
+            "China/Hong Kong",
+            "Jia Zhangke"
+        ],
+        [
+            "2009",
+            "Summer Hours",
+            "L`Heure d`\u00e9t\u00e9",
+            "France",
+            "Olivier Assayas"
+        ]
+    ]
+}

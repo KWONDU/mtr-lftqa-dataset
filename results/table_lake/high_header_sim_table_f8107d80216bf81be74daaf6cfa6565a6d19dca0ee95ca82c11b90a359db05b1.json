@@ -1,0 +1,49 @@
+{
+    "id": "f8107d80216bf81be74daaf6cfa6565a6d19dca0ee95ca82c11b90a359db05b1",
+    "metadata": "Mauro Baldi | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1982",
+            "Arrows Racing Team",
+            "Arrows A4",
+            "Cosworth V8",
+            "2"
+        ],
+        [
+            "1982",
+            "Arrows Racing Team",
+            "Arrows A5",
+            "Cosworth V8",
+            "2"
+        ],
+        [
+            "1983",
+            "Marlboro Team Alfa Romeo",
+            "Alfa Romeo 183T",
+            "Alfa Romeo V8",
+            "3"
+        ],
+        [
+            "1984",
+            "Spirit Racing",
+            "Spirit 101",
+            "Hart Straight-4",
+            "0"
+        ],
+        [
+            "1985",
+            "Spirit Enterprises Ltd.",
+            "Spirit 101D",
+            "Hart Straight-4",
+            "0"
+        ]
+    ]
+}

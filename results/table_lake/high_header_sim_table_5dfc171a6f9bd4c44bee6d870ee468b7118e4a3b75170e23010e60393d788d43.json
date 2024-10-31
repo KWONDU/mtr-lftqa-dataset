@@ -1,0 +1,119 @@
+{
+    "id": "5dfc171a6f9bd4c44bee6d870ee468b7118e4a3b75170e23010e60393d788d43",
+    "metadata": "2002 Open Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Ernie Els",
+            "South Africa",
+            "70-66-72-70=278",
+            "-6",
+            "Playoff"
+        ],
+        [
+            "T1",
+            "Thomas Levet",
+            "France",
+            "72-66-74-66=278",
+            "-6",
+            "Playoff"
+        ],
+        [
+            "T1",
+            "Stuart Appleby",
+            "Australia",
+            "73-70-70-65=278",
+            "-6",
+            "Playoff"
+        ],
+        [
+            "T1",
+            "Steve Elkington",
+            "Australia",
+            "71-73-68-66=278",
+            "-6",
+            "Playoff"
+        ],
+        [
+            "T5",
+            "Gary Evans",
+            "England",
+            "72-68-74-65=279",
+            "-5",
+            "140000"
+        ],
+        [
+            "T5",
+            "P\u00e1draig Harrington",
+            "Ireland",
+            "69-67-76-67=279",
+            "-5",
+            "140000"
+        ],
+        [
+            "T5",
+            "Shigeki Maruyama",
+            "Japan",
+            "68-68-75-68=279",
+            "-5",
+            "140000"
+        ],
+        [
+            "T8",
+            "Thomas Bj\u00f8rn",
+            "Denmark",
+            "68-70-73-69=280",
+            "-4",
+            "77500"
+        ],
+        [
+            "T8",
+            "Sergio Garc\u00eda",
+            "Spain",
+            "71-69-71-69=280",
+            "-4",
+            "77500"
+        ],
+        [
+            "T8",
+            "Retief Goosen",
+            "South Africa",
+            "71-68-74-67=280",
+            "-4",
+            "77500"
+        ],
+        [
+            "T8",
+            "S\u00f8ren Hansen",
+            "Denmark",
+            "68-69-73-70=280",
+            "-4",
+            "77500"
+        ],
+        [
+            "T8",
+            "Scott Hoch",
+            "United States",
+            "74-69-71-66=280",
+            "-4",
+            "77500"
+        ],
+        [
+            "T8",
+            "Peter O`Malley",
+            "Australia",
+            "72-68-75-65=280",
+            "-4",
+            "77500"
+        ]
+    ]
+}

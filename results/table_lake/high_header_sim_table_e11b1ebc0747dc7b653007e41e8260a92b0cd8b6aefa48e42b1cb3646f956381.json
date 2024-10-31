@@ -1,0 +1,63 @@
+{
+    "id": "e11b1ebc0747dc7b653007e41e8260a92b0cd8b6aefa48e42b1cb3646f956381",
+    "metadata": "1913 World Wrestling Championships | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Sweden",
+            "2",
+            "2",
+            "0",
+            "4"
+        ],
+        [
+            "2",
+            "Germany",
+            "1",
+            "1",
+            "3",
+            "5"
+        ],
+        [
+            "3",
+            "Russia",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "4",
+            "Austria",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Bohemia",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "Total",
+            "Total",
+            "4",
+            "4",
+            "4",
+            "12"
+        ]
+    ]
+}

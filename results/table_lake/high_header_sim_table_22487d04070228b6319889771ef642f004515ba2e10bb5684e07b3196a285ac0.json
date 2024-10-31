@@ -1,0 +1,71 @@
+{
+    "id": "22487d04070228b6319889771ef642f004515ba2e10bb5684e07b3196a285ac0",
+    "metadata": "Shim Eun-ha | Filmography | Filmography",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "English_title",
+        "Korean_title",
+        "Romanization",
+        "Role_",
+        "Director"
+    ],
+    "cell": [
+        [
+            "1995",
+            "My Old Sweetheart",
+            "\uc544\ucc0c \uc544\ube60",
+            "Ajji appa",
+            "Nam Yoo-ri",
+            "Shin Seung-soo"
+        ],
+        [
+            "1996",
+            "Born to Kill",
+            "\ubcf8 \ud22c \ud0ac",
+            "Bon tu kil",
+            "Jung Soo-ha",
+            "Jang Hyun-soo"
+        ],
+        [
+            "1998",
+            "Christmas in August",
+            "8\uc6d4\uc758 \ud06c\ub9ac\uc2a4\ub9c8\uc2a4",
+            "Palweolui Keuriseumaseu",
+            "Kim Da-rim",
+            "Hur Jin-ho"
+        ],
+        [
+            "1998",
+            "Art Museum by the Zoo",
+            "\ubbf8\uc220\uad00 \uc606 \ub3d9\ubb3c\uc6d0",
+            "Misulgwan yup dongmulwon",
+            "Lee Choon-hee",
+            "Lee Jeong-hyang"
+        ],
+        [
+            "1999",
+            "The Uprising",
+            "\uc774\uc7ac\uc218\uc758 \ub09c",
+            "Lee Jae-su-eui nan",
+            "Il Sook-hwa",
+            "Park Kwang-su"
+        ],
+        [
+            "1999",
+            "Tell Me Something",
+            "\ud154 \ubbf8 \uc378\ub529",
+            "Telmisseomding",
+            "Chae Soo-yeon",
+            "Jang Yoon-hyun"
+        ],
+        [
+            "2000",
+            "Interview",
+            "\uc778\ud130\ubdf0",
+            "In-teo-byoo",
+            "Lee Young-hee",
+            "Byun Hyuk (Daniel H. Byun)"
+        ]
+    ]
+}

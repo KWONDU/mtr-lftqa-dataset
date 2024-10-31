@@ -1,0 +1,79 @@
+{
+    "id": "ccf1e0aee4f3f00eaf021680f3d64686a9deb6d8617e16cadca3846ef24f2144",
+    "metadata": "Great South Athletic Conference | Current members | Current members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Nickname",
+        "Founded",
+        "Type_",
+        "Enrollment",
+        "Joined"
+    ],
+    "cell": [
+        [
+            "Agnes Scott College \u2020",
+            "Decatur, Georgia",
+            "Scottish Terriers",
+            "1889",
+            "Private/Presbyterian",
+            "914",
+            "2002"
+        ],
+        [
+            "Pine Manor College \u2020",
+            "Chestnut Hill, Massachusetts",
+            "Gators",
+            "1911",
+            "Private/Non-sectarian",
+            "480",
+            "2012"
+        ],
+        [
+            "Salem College \u2020",
+            "Winston-Salem, North Carolina",
+            "Spirits",
+            "1772",
+            "Private/Non-sectarian",
+            "1100",
+            "2009"
+        ],
+        [
+            "Trinity Washington University \u2020",
+            "Washington, D.C.",
+            "Tigers",
+            "1897",
+            "Private/Catholic",
+            "2100",
+            "2012"
+        ],
+        [
+            "Wesleyan College \u2020",
+            "Macon, Georgia",
+            "Pioneers",
+            "1839",
+            "Private/Methodist",
+            "645",
+            "2003"
+        ],
+        [
+            "Finlandia University ^*",
+            "Hancock, Michigan",
+            "Lions",
+            "1896",
+            "Private/Lutheran",
+            "500",
+            "2013"
+        ],
+        [
+            "University of Maine at Presque Isle ^",
+            "Presque Isle, Maine",
+            "Owls",
+            "1903",
+            "Public",
+            "1600",
+            "2013"
+        ]
+    ]
+}

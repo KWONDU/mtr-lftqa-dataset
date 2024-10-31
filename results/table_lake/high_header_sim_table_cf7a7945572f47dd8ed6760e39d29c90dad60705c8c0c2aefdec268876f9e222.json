@@ -1,0 +1,87 @@
+{
+    "id": "cf7a7945572f47dd8ed6760e39d29c90dad60705c8c0c2aefdec268876f9e222",
+    "metadata": "2007-08 Scottish Second Division | Attendances | Attendances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Stadium",
+        "Capacity",
+        "Highest",
+        "Lowest",
+        "Average"
+    ],
+    "cell": [
+        [
+            "Ross County",
+            "Victoria Park",
+            "6700",
+            "3716",
+            "1511",
+            "2247"
+        ],
+        [
+            "Raith Rovers",
+            "Stark`s Park",
+            "10104",
+            "2357",
+            "1349",
+            "1759"
+        ],
+        [
+            "Ayr United",
+            "Somerset Park",
+            "11998",
+            "1345",
+            "971",
+            "1137"
+        ],
+        [
+            "Airdrie United",
+            "New Broomfield",
+            "10171",
+            "1645",
+            "611",
+            "981"
+        ],
+        [
+            "Queen`s Park",
+            "Hampden Park",
+            "52500",
+            "1211",
+            "431",
+            "712"
+        ],
+        [
+            "Peterhead",
+            "Balmoor",
+            "4000",
+            "926",
+            "462",
+            "694"
+        ],
+        [
+            "Alloa Athletic",
+            "Recreation Park",
+            "3100",
+            "1053",
+            "441",
+            "602"
+        ],
+        [
+            "Cowdenbeath",
+            "Central Park",
+            "4370",
+            "1953",
+            "244",
+            "519"
+        ],
+        [
+            "Brechin City",
+            "Glebe Park",
+            "3960",
+            "669",
+            "345",
+            "489"
+        ]
+    ]
+}

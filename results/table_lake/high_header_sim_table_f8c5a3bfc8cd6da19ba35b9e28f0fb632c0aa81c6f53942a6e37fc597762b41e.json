@@ -1,0 +1,77 @@
+{
+    "id": "f8c5a3bfc8cd6da19ba35b9e28f0fb632c0aa81c6f53942a6e37fc597762b41e",
+    "metadata": "World War II casualties of Poland | Reports, studies and assessments | Losses of Ethnic Poles during German occupation per year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Description_Losses",
+        "_1939_40",
+        "_1940_41",
+        "_1941_42",
+        "_1942_43",
+        "_1943_44",
+        "_1944_45",
+        "Total_"
+    ],
+    "cell": [
+        [
+            "Direct War Losses",
+            "360000",
+            "",
+            "",
+            "",
+            "",
+            "183000",
+            "543000"
+        ],
+        [
+            "Murdered",
+            "75000",
+            "100000",
+            "116000",
+            "133000",
+            "82000",
+            "",
+            "506000"
+        ],
+        [
+            "Deaths In Prisons & Camps",
+            "69000",
+            "210000",
+            "220000",
+            "266000",
+            "381000",
+            "",
+            "1146000"
+        ],
+        [
+            "Deaths Outside of Prisons & Camps",
+            "",
+            "42000",
+            "71000",
+            "142000",
+            "218000",
+            "",
+            "473000"
+        ],
+        [
+            "Murdered in Eastern Regions",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "100000",
+            "100000"
+        ],
+        [
+            "Deaths other countries",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2000"
+        ]
+    ]
+}

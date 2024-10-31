@@ -1,0 +1,71 @@
+{
+    "id": "9191dfe2d4759f0d9d8cf8151a3edec8761717028626dd62034ec0949e4ddaae",
+    "metadata": "East Asia | Demographics | Demographics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Area_km\u00b2",
+        "Population",
+        "Population_density_per_km\u00b2",
+        "HDI_2011",
+        "Capital"
+    ],
+    "cell": [
+        [
+            "China (PRC)",
+            "9640011",
+            "1339724852",
+            "138",
+            "0.699",
+            "Beijing"
+        ],
+        [
+            "Hong Kong (PRC)",
+            "1104",
+            "7061200",
+            "6390",
+            "0.898",
+            "Hong Kong"
+        ],
+        [
+            "Japan",
+            "377930",
+            "127950000",
+            "337",
+            "0.901",
+            "Tokyo"
+        ],
+        [
+            "Macau (PRC)",
+            "30",
+            "556800",
+            "18662",
+            "No Data",
+            "Macau"
+        ],
+        [
+            "Mongolia",
+            "1564100",
+            "2809600",
+            "2",
+            "0.653",
+            "Ulaanbaatar"
+        ],
+        [
+            "North Korea",
+            "120538",
+            "24346000",
+            "198",
+            "No Data",
+            "Pyongyang"
+        ],
+        [
+            "South Korea",
+            "100210",
+            "48988833",
+            "500",
+            "0.897",
+            "Seoul"
+        ]
+    ]
+}

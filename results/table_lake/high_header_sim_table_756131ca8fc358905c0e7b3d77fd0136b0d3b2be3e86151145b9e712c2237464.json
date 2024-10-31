@@ -1,0 +1,63 @@
+{
+    "id": "756131ca8fc358905c0e7b3d77fd0136b0d3b2be3e86151145b9e712c2237464",
+    "metadata": "United States House of Representatives elections, 2006 | Colorado | Colorado",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results"
+    ],
+    "cell": [
+        [
+            "Colorado 1",
+            "Diana DeGette",
+            "Democratic",
+            "1996",
+            "Re-elected"
+        ],
+        [
+            "Colorado 2",
+            "Mark Udall",
+            "Democratic",
+            "1998",
+            "Re-elected"
+        ],
+        [
+            "Colorado 3",
+            "John Salazar",
+            "Democratic",
+            "2004",
+            "Re-elected"
+        ],
+        [
+            "Colorado 4",
+            "Marilyn Musgrave",
+            "Republican",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "Colorado 5",
+            "Joel Hefley",
+            "Republican",
+            "1986",
+            "Retired Republican hold"
+        ],
+        [
+            "Colorado 6",
+            "Tom Tancredo",
+            "Republican",
+            "1998",
+            "Re-elected"
+        ],
+        [
+            "Colorado 7",
+            "Bob Beauprez",
+            "Republican",
+            "2002",
+            "Retired to run for Governor Democratic gain"
+        ]
+    ]
+}

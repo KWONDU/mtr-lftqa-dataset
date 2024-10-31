@@ -1,0 +1,88 @@
+{
+    "id": "f48e3a08ecfe2c531688349daf03fc58f540b4fc698d79d46b31ce9e231cff27",
+    "metadata": "Indiana High School Athletics Conferences: Mid-Eastern - Northwestern | Northern State Conference | Northern State Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "IHSAA_Football_Class",
+        "County"
+    ],
+    "cell": [
+        [
+            "Bremen",
+            "Bremen",
+            "Lions",
+            "495",
+            "AA",
+            "AA",
+            "50 Marshall"
+        ],
+        [
+            "Culver Community",
+            "Culver",
+            "Cavaliers",
+            "287",
+            "A",
+            "A",
+            "50 Marshall"
+        ],
+        [
+            "Glenn",
+            "Walkerton",
+            "Falcons",
+            "605",
+            "AAA",
+            "AAA",
+            "71 St. Joseph"
+        ],
+        [
+            "Jimtown",
+            "Elkhart",
+            "Jimmies",
+            "601",
+            "AAA",
+            "AAA",
+            "20 Elkhart"
+        ],
+        [
+            "Knox Community",
+            "Knox",
+            "Redskins",
+            "620",
+            "AAA",
+            "AAA",
+            "75 Starke"
+        ],
+        [
+            "LaVille",
+            "Lakeville",
+            "Lancers",
+            "379",
+            "AA",
+            "A",
+            "71 St. Joseph"
+        ],
+        [
+            "New Prairie 1",
+            "New Carlisle",
+            "Cougars",
+            "852",
+            "AAA",
+            "AAAA",
+            "46 LaPorte 71 St. Joseph"
+        ],
+        [
+            "Triton",
+            "Bourbon",
+            "Trojans",
+            "316",
+            "A",
+            "A",
+            "50 Marshall"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "9e77991fe0c436f0240d73676b8e36191d06861cd5513be1bce518db4bf16a19",
+    "metadata": "Nashville Metros | Indoor | Indoor",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Division",
+        "League",
+        "Regular_Season",
+        "Playoffs"
+    ],
+    "cell": [
+        [
+            "1990/91",
+            "N/A",
+            "SISL Indoor",
+            "9th, Southeast",
+            "Did not qualify"
+        ],
+        [
+            "1991/92",
+            "N/A",
+            "USISL Indoor",
+            "4th, Southeast",
+            "Did not qualify"
+        ],
+        [
+            "1992/93",
+            "N/A",
+            "USISL Indoor",
+            "4th, Southeast",
+            "Playoffs"
+        ],
+        [
+            "1993/94",
+            "N/A",
+            "USISL Indoor",
+            "6th, Southeast",
+            "Did not qualify"
+        ],
+        [
+            "1994/95",
+            "N/A",
+            "USISL Indoor",
+            "4th, Mid South",
+            "Did not qualify"
+        ],
+        [
+            "1995/96",
+            "N/A",
+            "USISL Indoor",
+            "7th, Southeast",
+            "Did not qualify"
+        ]
+    ]
+}

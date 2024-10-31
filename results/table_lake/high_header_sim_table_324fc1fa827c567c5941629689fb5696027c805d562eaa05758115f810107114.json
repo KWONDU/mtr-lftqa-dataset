@@ -1,0 +1,55 @@
+{
+    "id": "324fc1fa827c567c5941629689fb5696027c805d562eaa05758115f810107114",
+    "metadata": "1983 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Score",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 11",
+            "Philadelphia Phillies - 2, Baltimore Orioles - 1",
+            "Memorial Stadium",
+            "2:22",
+            "52204"
+        ],
+        [
+            "2",
+            "October 12",
+            "Philadelphia Phillies - 1, Baltimore Orioles - 4",
+            "Memorial Stadium",
+            "2:27",
+            "52132"
+        ],
+        [
+            "3",
+            "October 14",
+            "Baltimore Orioles - 3, Philadelphia Phillies - 2",
+            "Veterans Stadium",
+            "2:35",
+            "65792"
+        ],
+        [
+            "4",
+            "October 15",
+            "Baltimore Orioles - 5, Philadelphia Phillies - 4",
+            "Veterans Stadium",
+            "2:50",
+            "66947"
+        ],
+        [
+            "5",
+            "October 16",
+            "Baltimore Orioles - 5, Philadelphia Phillies - 0",
+            "Veterans Stadium",
+            "2:21",
+            "67064"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "3b63cd76378fa7d25cf445a6ba53e18701b3522c8de47281e948ab0b867aa791",
+    "metadata": "1895 AHAC Season | Final Standing | Final Standing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Games_Played",
+        "Wins",
+        "Losses",
+        "Ties_",
+        "Goals_For",
+        "Goals_Against"
+    ],
+    "cell": [
+        [
+            "Montreal Victorias",
+            "8",
+            "6",
+            "2",
+            "0",
+            "35",
+            "20"
+        ],
+        [
+            "Montreal Hockey Club",
+            "8",
+            "4",
+            "4",
+            "0",
+            "33",
+            "22"
+        ],
+        [
+            "Ottawa",
+            "8",
+            "4",
+            "4",
+            "0",
+            "25",
+            "24"
+        ],
+        [
+            "Montreal Crystals",
+            "7",
+            "3",
+            "4",
+            "0",
+            "21",
+            "39"
+        ],
+        [
+            "Quebec",
+            "7",
+            "2",
+            "5",
+            "0",
+            "18",
+            "27"
+        ]
+    ]
+}

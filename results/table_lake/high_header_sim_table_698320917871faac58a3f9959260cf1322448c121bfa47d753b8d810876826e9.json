@@ -1,0 +1,84 @@
+{
+    "id": "698320917871faac58a3f9959260cf1322448c121bfa47d753b8d810876826e9",
+    "metadata": "2009-10 Denver Nuggets season | Game log | April",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "76",
+            "April 1",
+            "Trail Blazers",
+            "W 109-92 (OT)",
+            "Carmelo Anthony (25)",
+            "Chris Andersen (6)",
+            "Chauncey Billups (6)",
+            "Pepsi Center 19,155",
+            "49-27"
+        ],
+        [
+            "77",
+            "April 3",
+            "Clippers",
+            "W 98-90 (OT)",
+            "Carmelo Anthony (24)",
+            "Aaron Afflalo (9)",
+            "Chauncey Billups (6)",
+            "Pepsi Center 19,155",
+            "50-27"
+        ],
+        [
+            "78",
+            "April 7",
+            "@ Thunder",
+            "W 98-94 (OT)",
+            "Chauncey Billups (29)",
+            "Nen\u00ea (13)",
+            "Chauncey Billups (4)",
+            "Ford Center 18,332",
+            "51-27"
+        ],
+        [
+            "79",
+            "April 8",
+            "Lakers",
+            "W 98-96 (OT)",
+            "Carmelo Anthony (31)",
+            "Chris Andersen , Nen\u00ea , Johan Petro (7)",
+            "Chauncey Billups (6)",
+            "Pepsi Center 20,044",
+            "52-27"
+        ],
+        [
+            "80",
+            "April 10",
+            "Spurs",
+            "L 85-104 (OT)",
+            "Chauncey Billups (27)",
+            "Kenyon Martin (10)",
+            "Chauncey Billups , Ty Lawson , J.R. Smith (3)",
+            "Pepsi Center 19,155",
+            "52-28"
+        ],
+        [
+            "81",
+            "April 12",
+            "Grizzlies",
+            "W 123-101 (OT)",
+            "J.R. Smith (26)",
+            "Aaron Afflalo (13)",
+            "Chauncey Billups (7)",
+            "Pepsi Center 19,155",
+            "53-28"
+        ]
+    ]
+}

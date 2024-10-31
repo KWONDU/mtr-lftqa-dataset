@@ -1,0 +1,63 @@
+{
+    "id": "26dad25812510a81578bf9e2b54a4dc51929ab4b7eb31eec43c08599e3385ec3",
+    "metadata": "Long Island Solar Farm | 1500 metresEastern Long Island Solar Project | Eastern Long Island Solar Project",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Location_",
+        "Town",
+        "Output_MW_AC",
+        "Modules",
+        "Number_of_arrays_"
+    ],
+    "cell": [
+        [
+            "H. Lee Dennison Building",
+            "Hauppauge",
+            "1.75",
+            "7737",
+            "24"
+        ],
+        [
+            "North County Complex",
+            "Hauppauge",
+            "0.5",
+            "3431",
+            "9"
+        ],
+        [
+            "Cohalan Court Complex",
+            "Central Islip",
+            "3.5",
+            "15113",
+            "27"
+        ],
+        [
+            "Riverhead County Center",
+            "Riverside",
+            "3",
+            "11536",
+            "31"
+        ],
+        [
+            "Brentwood LIRR Parking Lot",
+            "Brentwood",
+            "1",
+            "3924",
+            "11"
+        ],
+        [
+            "Deer Park LIRR Parking Lot",
+            "Deer Park",
+            "2.25",
+            "3924",
+            "39"
+        ],
+        [
+            "Ronkonkoma LIRR Parking Lot (south)",
+            "Ronkonkoma",
+            "5",
+            "20110",
+            "44"
+        ]
+    ]
+}

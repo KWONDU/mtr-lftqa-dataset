@@ -1,0 +1,55 @@
+{
+    "id": "3a4cfcf833103761b9396581345d6ad351791ab9e855fd985caffa8a8da1a783",
+    "metadata": "1991 Toronto Blue Jays season | Game log | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "October 1",
+            "Angels",
+            "5 - 2",
+            "Fetters (2-5)",
+            "50322",
+            "88-70"
+        ],
+        [
+            "October 2",
+            "Angels",
+            "6 - 5",
+            "Harvey (2-4)",
+            "50324",
+            "89-70"
+        ],
+        [
+            "October 4",
+            "@ Twins",
+            "4 - 1",
+            "Neagle (0-1)",
+            "35124",
+            "90-70"
+        ],
+        [
+            "October 5",
+            "@ Twins",
+            "3 - 1",
+            "Guzm\u00e1n (10-3)",
+            "51058",
+            "90-71"
+        ],
+        [
+            "October 6",
+            "@ Twins",
+            "3 - 2 (10)",
+            "Anderson (5-11)",
+            "37794",
+            "91-71"
+        ]
+    ]
+}

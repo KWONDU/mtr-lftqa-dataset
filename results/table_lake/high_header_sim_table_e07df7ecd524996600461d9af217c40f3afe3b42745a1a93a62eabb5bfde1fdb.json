@@ -1,0 +1,70 @@
+{
+    "id": "e07df7ecd524996600461d9af217c40f3afe3b42745a1a93a62eabb5bfde1fdb",
+    "metadata": "Larrousse | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Chassis",
+        "Engines",
+        "Tyres",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1987",
+            "Lola LC87",
+            "Ford DFZ V8",
+            "G",
+            "3"
+        ],
+        [
+            "1988",
+            "Lola LC88",
+            "Ford DFZ V8",
+            "G",
+            "0"
+        ],
+        [
+            "1989",
+            "Lola LC88B Lola LC89",
+            "Lamborghini 3512 V12",
+            "G",
+            "1"
+        ],
+        [
+            "1990",
+            "Lola LC89B Lola LC90",
+            "Lamborghini 3512 V12",
+            "G",
+            "11"
+        ],
+        [
+            "1991",
+            "Lola LC91",
+            "Ford DFR V8",
+            "G",
+            "2"
+        ],
+        [
+            "1992",
+            "Venturi LC92",
+            "Lamborghini 3512 V12",
+            "G",
+            "1"
+        ],
+        [
+            "1993",
+            "Larrousse LH93",
+            "Lamborghini 3512 V12",
+            "G",
+            "3"
+        ],
+        [
+            "1994",
+            "Larrousse LH94",
+            "Ford HB V8",
+            "G",
+            "2"
+        ]
+    ]
+}

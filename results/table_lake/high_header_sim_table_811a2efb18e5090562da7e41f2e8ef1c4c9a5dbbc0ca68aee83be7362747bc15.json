@@ -1,0 +1,97 @@
+{
+    "id": "811a2efb18e5090562da7e41f2e8ef1c4c9a5dbbc0ca68aee83be7362747bc15",
+    "metadata": "Ningde | Administration | Administration",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "English_Name",
+        "Simplified",
+        "Traditional",
+        "Pinyin",
+        "Foochow",
+        "Area",
+        "Population",
+        "Density"
+    ],
+    "cell": [
+        [
+            "Jiaocheng District",
+            "\u8549\u57ce\u533a",
+            "\u8549\u57ce\u5340",
+            "Ji\u0101och\u00e9ng Q\u016b",
+            "Ci\u0115u-si\u00e0ng-k\u1e73\u0306",
+            "1537",
+            "429260",
+            "279"
+        ],
+        [
+            "Fu`an City",
+            "\u798f\u5b89\u5e02",
+            "\u798f\u5b89\u5e02",
+            "F\u00fa`\u0101n Sh\u00ec",
+            "H\u00f3k-\u0103ng-ch\u00ea",
+            "1795",
+            "563640",
+            "314"
+        ],
+        [
+            "Fuding City",
+            "\u798f\u9f0e\u5e02",
+            "\u798f\u9f0e\u5e02",
+            "F\u00fad\u01d0ng Sh\u00ec",
+            "H\u00f3k-t\u012bng-ch\u00ea",
+            "1526",
+            "529534",
+            "347"
+        ],
+        [
+            "Xiapu County",
+            "\u971e\u6d66\u53bf",
+            "\u971e\u84b2\u7e23",
+            "Xi\u00e1p\u01d4 Xi\u00e0n",
+            "H\u00e0-pu\u014d-g\u00e2ing",
+            "1716",
+            "461176",
+            "269"
+        ],
+        [
+            "Gutian County",
+            "\u53e4\u7530\u53bf",
+            "\u53e4\u7530\u7e23",
+            "G\u01d4ti\u00e1n Xi\u00e0n",
+            "K\u016d-ch\u00e8ng-g\u00e2ing",
+            "2377",
+            "323700",
+            "136"
+        ],
+        [
+            "Pingnan County",
+            "\u5c4f\u5357\u53bf",
+            "\u5c4f\u5357\u7e23",
+            "P\u00edngn\u00e1n Xi\u00e0n",
+            "B\u00ecng-n\u00e0ng-g\u00e2ing",
+            "1485",
+            "137724",
+            "93"
+        ],
+        [
+            "Shouning County",
+            "\u5bff\u5b81\u53bf",
+            "\u58fd\u5be7\u7e23",
+            "Sh\u00f2un\u00edng Xi\u00e0n",
+            "S\u00eau-n\u00ecng-g\u00e2ing",
+            "1425",
+            "175874",
+            "123"
+        ],
+        [
+            "Zherong County",
+            "\u67d8\u8363\u53bf",
+            "\u67d8\u69ae\u7e23",
+            "Zh\u00e8r\u00f3ng Xi\u00e0n",
+            "Ci\u00e1-\u00ecng-g\u00e2ing",
+            "544",
+            "88387",
+            "162"
+        ]
+    ]
+}

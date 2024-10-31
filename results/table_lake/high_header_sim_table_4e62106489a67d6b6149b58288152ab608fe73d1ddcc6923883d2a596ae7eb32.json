@@ -1,0 +1,55 @@
+{
+    "id": "4e62106489a67d6b6149b58288152ab608fe73d1ddcc6923883d2a596ae7eb32",
+    "metadata": "AFC East | Total playoff berths while in the AFL/AFC East | Total playoff berths while in the AFL/AFC East",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Division_Titles",
+        "Playoff_Berths",
+        "AFL_Titles",
+        "AFC_Championships",
+        "Super_Bowl_Championships"
+    ],
+    "cell": [
+        [
+            "New England Patriots",
+            "15",
+            "19",
+            "0",
+            "7",
+            "3"
+        ],
+        [
+            "Miami Dolphins",
+            "14",
+            "22",
+            "0",
+            "5",
+            "2"
+        ],
+        [
+            "Buffalo Bills",
+            "10",
+            "17",
+            "2",
+            "4",
+            "0"
+        ],
+        [
+            "Indianapolis Colts 1",
+            "6",
+            "10",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "New York Jets",
+            "4",
+            "14",
+            "1",
+            "0",
+            "1"
+        ]
+    ]
+}

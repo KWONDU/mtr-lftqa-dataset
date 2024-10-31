@@ -1,0 +1,49 @@
+{
+    "id": "725a05e74805a45b29ffbae462130b9139e7815031996adfd5c480bf30c1cc13",
+    "metadata": "What a Lemon | Release history | Release history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Date_",
+        "Label",
+        "Format",
+        "Catalog_"
+    ],
+    "cell": [
+        [
+            "United States",
+            "1 August 1976",
+            "Epic Records",
+            "stereo LP",
+            "PE 34149"
+        ],
+        [
+            "Europe",
+            "1 August 1976",
+            "Epic Records",
+            "stereo LP",
+            "EPC 81436"
+        ],
+        [
+            "Australia",
+            "15 November 1976",
+            "Epic Records",
+            "stereo LP",
+            "ELPS 3781"
+        ],
+        [
+            "Japan",
+            "1976",
+            "Epic Records",
+            "stereo LP",
+            "25AP 301"
+        ],
+        [
+            "Scandinavia",
+            "2002",
+            "Sony Music Entertainment",
+            "double CD",
+            "SM 2965-05"
+        ]
+    ]
+}

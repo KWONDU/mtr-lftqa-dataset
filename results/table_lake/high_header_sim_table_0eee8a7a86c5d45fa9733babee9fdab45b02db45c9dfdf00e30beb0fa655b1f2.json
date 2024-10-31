@@ -1,0 +1,73 @@
+{
+    "id": "0eee8a7a86c5d45fa9733babee9fdab45b02db45c9dfdf00e30beb0fa655b1f2",
+    "metadata": "List of AMD Athlon X2 microprocessors | Energy-efficient 'BE' series | Energy-efficient 'BE' series",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Stepping",
+        "Frequency",
+        "L2_Cache",
+        "Multi_1",
+        "V_Core",
+        "Socket",
+        "Release_Date",
+        "Part_Numbers"
+    ],
+    "cell": [
+        [
+            "Athlon X2 BE-2300",
+            "G1",
+            "1900MHz",
+            "2 \u00d7 512 kB",
+            "9.5\u00d7",
+            "1.25 V",
+            "Socket AM2",
+            "June 5, 2007",
+            "ADH2300IAA5DD"
+        ],
+        [
+            "Athlon X2 BE-2300",
+            "G2",
+            "1900MHz",
+            "2 \u00d7 512 kB",
+            "9.5\u00d7",
+            "1.25 V",
+            "Socket AM2",
+            "October, 2007",
+            "ADH2300IAA5DO"
+        ],
+        [
+            "Athlon X2 BE-2350",
+            "G1",
+            "2100MHz",
+            "2 \u00d7 512 kB",
+            "10.5\u00d7",
+            "1.25 V",
+            "Socket AM2",
+            "June 5, 2007",
+            "ADH2350IAA5DD"
+        ],
+        [
+            "Athlon X2 BE-2350",
+            "G2",
+            "2100MHz",
+            "2 \u00d7 512 kB",
+            "10.5\u00d7",
+            "1.25 V",
+            "Socket AM2",
+            "October, 2007",
+            "ADH2350IAA5DO"
+        ],
+        [
+            "Athlon X2 BE-2400",
+            "G2",
+            "2300MHz",
+            "2 \u00d7 512 kB",
+            "11.5\u00d7",
+            "1.25 V",
+            "Socket AM2",
+            "October 8, 2007",
+            "ADH2400IAA5DO"
+        ]
+    ]
+}

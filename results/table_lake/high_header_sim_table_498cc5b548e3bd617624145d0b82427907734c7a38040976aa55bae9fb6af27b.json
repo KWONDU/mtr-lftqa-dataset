@@ -1,0 +1,73 @@
+{
+    "id": "498cc5b548e3bd617624145d0b82427907734c7a38040976aa55bae9fb6af27b",
+    "metadata": "2004-05 Phoenix Suns season | Game log | Game log",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "1",
+            "May 9",
+            "Dallas",
+            "W 127-102",
+            "Amar`e Stoudemire (40)",
+            "Amar`e Stoudemire (16)",
+            "Steve Nash (13)",
+            "America West Arena 18,422",
+            "1-0"
+        ],
+        [
+            "2",
+            "May 11",
+            "Dallas",
+            "L 106-108",
+            "Amar`e Stoudemire (30)",
+            "Amar`e Stoudemire (16)",
+            "Steve Nash (13)",
+            "America West Arena 18,422",
+            "1-1"
+        ],
+        [
+            "3",
+            "May 13",
+            "@ Dallas",
+            "W 119-102",
+            "Amar`e Stoudemire (37)",
+            "Amar`e Stoudemire (14)",
+            "Steve Nash (17)",
+            "American Airlines Center 20,896",
+            "2-1"
+        ],
+        [
+            "4",
+            "May 15",
+            "@ Dallas",
+            "L 109-119",
+            "Steve Nash (48)",
+            "Shawn Marion (12)",
+            "Steve Nash (5)",
+            "American Airlines Center 20,894",
+            "2-2"
+        ],
+        [
+            "5",
+            "May 18",
+            "Dallas",
+            "W 114-108",
+            "Steve Nash (34)",
+            "Amar`e Stoudemire (18)",
+            "Steve Nash (12)",
+            "America West Arena 18,422",
+            "3-2"
+        ]
+    ]
+}

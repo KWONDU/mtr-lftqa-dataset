@@ -1,0 +1,70 @@
+{
+    "id": "37cc5f5822de42b76d18f6bdfc59718c661a2edcbf131a255f2e16eebe9fed5a",
+    "metadata": "0-6-0+0-6-0 | Garratt locomotives | 0-6-0+0-6-0 Garratt production list - All manufacturers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Gauge",
+        "Railway",
+        "Works_no_",
+        "Year_",
+        "Builder"
+    ],
+    "cell": [
+        [
+            "750 mm",
+            "C.F. du Congo",
+            "1744",
+            "1913",
+            "St. Leonard, Belgium"
+        ],
+        [
+            "750 mm",
+            "C.F. du Congo",
+            "1901-1912",
+            "1920-21",
+            "St. Leonard, Belgium"
+        ],
+        [
+            "750 mm",
+            "C.F. du Congo",
+            "2001-2009",
+            "1924-25",
+            "St. Leonard, Belgium"
+        ],
+        [
+            "750 mm",
+            "C.F. du Congo",
+            "2040-2049",
+            "1925-26",
+            "St. Leonard, Belgium"
+        ],
+        [
+            "2 ft 6 in",
+            "Buthidaung-Maungdaw Tramway, Burma",
+            "5702-5703",
+            "1913",
+            "Beyer, Peacock"
+        ],
+        [
+            "1000 mm",
+            "SNCV, Belgium",
+            "2121",
+            "1929",
+            "St. Leonard, Belgium"
+        ],
+        [
+            "1000 mm",
+            "SNCV, Belgium",
+            "2140",
+            "1930",
+            "St. Leonard, Belgium"
+        ],
+        [
+            "4 ft 8\u00bd in",
+            "Limburg Tramway, Holland",
+            "22063",
+            "1931",
+            "Hanomag & Henschel"
+        ]
+    ]
+}

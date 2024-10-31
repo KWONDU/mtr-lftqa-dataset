@@ -1,0 +1,70 @@
+{
+    "id": "22b1a3b78ddc663186ab9341f5de5745159642208dbf16e060fd625b622cec53",
+    "metadata": "1946 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "16.10 (106)",
+            "Melbourne",
+            "13.13 (91)",
+            "Glenferrie Oval",
+            "8000",
+            "25 May 1946"
+        ],
+        [
+            "Fitzroy",
+            "7.21 (63)",
+            "South Melbourne",
+            "10.12 (72)",
+            "Brunswick Street Oval",
+            "18000",
+            "25 May 1946"
+        ],
+        [
+            "Richmond",
+            "21.23 (149)",
+            "Geelong",
+            "13.9 (87)",
+            "Punt Road Oval",
+            "15000",
+            "25 May 1946"
+        ],
+        [
+            "North Melbourne",
+            "5.13 (43)",
+            "Essendon",
+            "11.17 (83)",
+            "Arden Street Oval",
+            "18000",
+            "25 May 1946"
+        ],
+        [
+            "Footscray",
+            "10.12 (72)",
+            "Collingwood",
+            "9.15 (69)",
+            "Western Oval",
+            "29000",
+            "25 May 1946"
+        ],
+        [
+            "St Kilda",
+            "10.12 (72)",
+            "Carlton",
+            "22.17 (149)",
+            "Junction Oval",
+            "19000",
+            "25 May 1946"
+        ]
+    ]
+}

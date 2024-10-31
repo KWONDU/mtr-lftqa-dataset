@@ -1,0 +1,151 @@
+{
+    "id": "b3ac4dfbba43e3ada786b489d1ab22813a52a1d390eb0667b53a50a0cbf6b07c",
+    "metadata": "List of Animals of Farthing Wood characters | Original Farthing Wood Animals | Original Farthing Wood Animals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Animal_Name",
+        "Species",
+        "Books",
+        "TV_Series",
+        "Gender",
+        "TV_Seasons"
+    ],
+    "cell": [
+        [
+            "Fox",
+            "Fox",
+            "Yes",
+            "Yes",
+            "Male",
+            "123"
+        ],
+        [
+            "Badger",
+            "Badger",
+            "Yes",
+            "Yes",
+            "Male",
+            "1,2*"
+        ],
+        [
+            "Toad",
+            "Toad",
+            "Yes",
+            "Yes",
+            "Male",
+            "123"
+        ],
+        [
+            "Owl",
+            "Owl",
+            "Yes (as Tawny Owl)",
+            "Yes",
+            "Female (TV) Male (books)",
+            "123"
+        ],
+        [
+            "Weasel",
+            "Weasel",
+            "Yes",
+            "Yes",
+            "Female (TV) Male (books)",
+            "123"
+        ],
+        [
+            "Adder",
+            "Snake",
+            "Yes",
+            "Yes",
+            "Female (TV) Male (books)",
+            "123"
+        ],
+        [
+            "Kestrel",
+            "Kestrel",
+            "Yes",
+            "Yes",
+            "Female (TV) Male (books)",
+            "12"
+        ],
+        [
+            "Mole",
+            "Mole",
+            "Yes",
+            "Yes",
+            "Male",
+            "1,2*"
+        ],
+        [
+            "The Pheasants",
+            "Pheasants",
+            "Yes",
+            "Yes",
+            "Both",
+            "1**"
+        ],
+        [
+            "The Rabbits",
+            "Rabbits",
+            "Yes",
+            "Yes",
+            "Both",
+            "1*,2*,3"
+        ],
+        [
+            "The Hares",
+            "Hares",
+            "Yes",
+            "Yes",
+            "Both",
+            "12"
+        ],
+        [
+            "The Hedgehogs",
+            "s Hedgehog",
+            "Yes",
+            "Yes",
+            "Both",
+            "1**"
+        ],
+        [
+            "The Squirrels",
+            "Squirrels",
+            "Yes",
+            "Yes",
+            "Both",
+            "123"
+        ],
+        [
+            "The Voles",
+            "Voles",
+            "Yes",
+            "Yes",
+            "Both",
+            "1,2**"
+        ],
+        [
+            "The Shrews",
+            "s Shrew",
+            "No",
+            "Yes",
+            "Both",
+            "12"
+        ],
+        [
+            "The Fieldmice",
+            "Field mice",
+            "Yes",
+            "Yes (as the Mice)",
+            "Both",
+            "1***,2**"
+        ],
+        [
+            "The Lizards/The Newts",
+            "Lizards / Newts",
+            "Yes (Lizards)",
+            "Yes (Newts)",
+            "Both",
+            "1***"
+        ]
+    ]
+}

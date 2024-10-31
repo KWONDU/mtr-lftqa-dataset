@@ -1,0 +1,63 @@
+{
+    "id": "e9374f21594e967170e701cf9ab0024f49d14dd5818f844c2287a4557255a897",
+    "metadata": "Masahiro Shimizu | Motorcycle Grand Prix Results | Motorcycle Grand Prix Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Points",
+        "Rank_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1987",
+            "250cc",
+            "Honda",
+            "20",
+            "13th",
+            "0"
+        ],
+        [
+            "1988",
+            "250cc",
+            "Honda",
+            "68",
+            "10th",
+            "0"
+        ],
+        [
+            "1989",
+            "250cc",
+            "Honda",
+            "116",
+            "6th",
+            "0"
+        ],
+        [
+            "1990",
+            "250cc",
+            "Honda",
+            "100",
+            "7th",
+            "0"
+        ],
+        [
+            "1991",
+            "250cc",
+            "Honda",
+            "142",
+            "5th",
+            "0"
+        ],
+        [
+            "1992",
+            "250cc",
+            "Honda",
+            "46",
+            "9th",
+            "0"
+        ]
+    ]
+}

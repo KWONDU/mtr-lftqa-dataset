@@ -1,0 +1,63 @@
+{
+    "id": "cc6823d8ac238b820746615bada99d9002181637f57b6215730698fa512b6bda",
+    "metadata": "Damage to major ships at the Battle of Jutland | Hits on capital ships, 15:48-16:54 | Hits on German Ships",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ship",
+        "_15_inch",
+        "_13_5_inch_1400lb",
+        "_13_5_inch_1250lb",
+        "_12_inch",
+        "Total"
+    ],
+    "cell": [
+        [
+            "L\u00fctzow",
+            "0",
+            "0",
+            "4",
+            "0",
+            "4"
+        ],
+        [
+            "Derfflinger",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "Seydlitz",
+            "1",
+            "4",
+            "0",
+            "0",
+            "5"
+        ],
+        [
+            "Moltke",
+            "4",
+            "4",
+            "0",
+            "0",
+            "8"
+        ],
+        [
+            "Von der Tann",
+            "1",
+            "2",
+            "0",
+            "0",
+            "3"
+        ],
+        [
+            "Total",
+            "6",
+            "7",
+            "4",
+            "0",
+            "17"
+        ]
+    ]
+}

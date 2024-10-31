@@ -1,0 +1,103 @@
+{
+    "id": "0333c5c4106337b7606de264e988e2cb6f22b4933010cc40b3e0fbf5e57656a3",
+    "metadata": "1970 U.S. Open (golf) | Final leaderboard | Final leaderboard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tony Jacklin",
+            "England",
+            "71-70-70-70=281",
+            "-7",
+            "30000"
+        ],
+        [
+            "2",
+            "Dave Hill",
+            "United States",
+            "75-69-71-73=288",
+            "E",
+            "15000"
+        ],
+        [
+            "T3",
+            "Bob Charles",
+            "New Zealand",
+            "76-71-75-67=289",
+            "+1",
+            "9000"
+        ],
+        [
+            "T3",
+            "Bob Lunn",
+            "United States",
+            "77-72-70-70=289",
+            "+1",
+            "9000"
+        ],
+        [
+            "5",
+            "Ken Still",
+            "United States",
+            "78-71-71-71=291",
+            "+3",
+            "7000"
+        ],
+        [
+            "6",
+            "Miller Barber",
+            "United States",
+            "75-75-72-70=292",
+            "+4",
+            "6000"
+        ],
+        [
+            "7",
+            "Gay Brewer",
+            "United States",
+            "75-71-71-76=293",
+            "+5",
+            "5000"
+        ],
+        [
+            "T8",
+            "Billy Casper",
+            "United States",
+            "75-75-71-73=294",
+            "+6",
+            "3325"
+        ],
+        [
+            "T8",
+            "Bruce Devlin",
+            "Australia",
+            "75-75-71-73=294",
+            "+6",
+            "3325"
+        ],
+        [
+            "T8",
+            "Lee Trevino",
+            "United States",
+            "77-73-74-70=294",
+            "+6",
+            "3325"
+        ],
+        [
+            "T8",
+            "Larry Ziegler",
+            "United States",
+            "75-73-73-73=294",
+            "+6",
+            "3325"
+        ]
+    ]
+}

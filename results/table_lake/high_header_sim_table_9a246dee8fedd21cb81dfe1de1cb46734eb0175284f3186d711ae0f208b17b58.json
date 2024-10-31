@@ -1,0 +1,61 @@
+{
+    "id": "9a246dee8fedd21cb81dfe1de1cb46734eb0175284f3186d711ae0f208b17b58",
+    "metadata": "Specimens of Tyrannosaurus | Specimen data | Specimen data",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Discovered",
+        "Museum",
+        "Museum_city",
+        "Discoverer",
+        "Formation",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Wankel",
+            "1988",
+            "Museum of the Rockies",
+            "Bozeman, MT",
+            "Kathy Wankel",
+            "Hell Creek Formation",
+            "Montana"
+        ],
+        [
+            "Sue",
+            "1990",
+            "Field Museum of Natural History",
+            "Chicago, IL",
+            "Sue Hendrickson",
+            "Hell Creek Formation",
+            "Faith, South Dakota"
+        ],
+        [
+            "Stan",
+            "1987",
+            "Black Hills Institute of Geological Research, Inc.",
+            "Hill City, SD",
+            "Stan Sacrison",
+            "Hell Creek Formation",
+            "Buffalo, South Dakota"
+        ],
+        [
+            "Jane",
+            "2001",
+            "Burpee Museum of Natural History",
+            "Rockford, IL",
+            "Jane Solem",
+            "Hell Creek Formation",
+            "Montana"
+        ],
+        [
+            "Bucky",
+            "1998",
+            "The Children`s Museum of Indianapolis",
+            "Indianapolis, IN",
+            "Bucky Derflinger",
+            "Hell Creek Formation",
+            "Faith, South Dakota"
+        ]
+    ]
+}

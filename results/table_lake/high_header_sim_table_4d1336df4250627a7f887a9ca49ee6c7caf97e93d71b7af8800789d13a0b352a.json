@@ -1,0 +1,49 @@
+{
+    "id": "4d1336df4250627a7f887a9ca49ee6c7caf97e93d71b7af8800789d13a0b352a",
+    "metadata": "Naperville Community Unit School District 203 | Junior High Schools | Junior High Schools",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School_s_name",
+        "School_s_namesake",
+        "Year_opened",
+        "Principal",
+        "Mascot"
+    ],
+    "cell": [
+        [
+            "Jefferson Junior High School",
+            "Thomas Jefferson",
+            "1970",
+            "Nancy Voice",
+            "Patriots"
+        ],
+        [
+            "Kennedy Junior High School",
+            "John F. Kennedy",
+            "1990",
+            "Brian Valek",
+            "Eagles"
+        ],
+        [
+            "Lincoln Junior High School",
+            "Abraham Lincoln",
+            "1963",
+            "Andrea Paterala",
+            "Lancers"
+        ],
+        [
+            "Madison Junior High School",
+            "James Madison",
+            "1978",
+            "Erin Anderson",
+            "Warhawks"
+        ],
+        [
+            "Washington Junior High School",
+            "George Washington",
+            "1977 (current building)",
+            "Bob Ross",
+            "Wildcats"
+        ]
+    ]
+}

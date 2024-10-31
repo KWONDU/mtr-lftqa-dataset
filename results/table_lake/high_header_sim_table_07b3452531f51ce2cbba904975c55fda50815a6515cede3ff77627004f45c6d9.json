@@ -1,0 +1,77 @@
+{
+    "id": "07b3452531f51ce2cbba904975c55fda50815a6515cede3ff77627004f45c6d9",
+    "metadata": "2007 Rugby World Cup squads | Pool D | France(Reserve)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Position_",
+        "Date_of_Birth_Age",
+        "Caps",
+        "Club_province"
+    ],
+    "cell": [
+        [
+            "Benjamin Kayser",
+            "Hooker",
+            "26 July 1984",
+            "0",
+            "Leicester"
+        ],
+        [
+            "Laurent Emmanuelli",
+            "Prop",
+            "19 September 1976",
+            "0",
+            "Clermont"
+        ],
+        [
+            "Pascal Pap\u00e9",
+            "Lock",
+            "5 December 1980",
+            "18",
+            "Castres"
+        ],
+        [
+            "Gr\u00e9gory Lamboley",
+            "Lock",
+            "12 January 1982",
+            "13",
+            "Toulouse"
+        ],
+        [
+            "Olivier Magne",
+            "Flanker",
+            "11 April 1973",
+            "90",
+            "London Irish"
+        ],
+        [
+            "Dimitri Yachvili",
+            "Scrum-half",
+            "19 September 1980",
+            "32",
+            "Biarritz"
+        ],
+        [
+            "Benjamin Boyet",
+            "Fly-half",
+            "8 August 1979",
+            "3",
+            "Bourgoin"
+        ],
+        [
+            "Brian Liebenberg",
+            "Centre",
+            "19 September 1979",
+            "12",
+            "Stade Fran\u00e7ais"
+        ],
+        [
+            "Jean-Philippe Grandclaude",
+            "Centre",
+            "4 August 1982",
+            "3",
+            "Perpignan"
+        ]
+    ]
+}

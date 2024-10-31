@@ -1,0 +1,79 @@
+{
+    "id": "882acd98b779662e0fe7edf8b6092cbe6ffc438870df61551856342897780e57",
+    "metadata": "1970 Australian Touring Car Championship | Race calendar | Race calendar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Heat_",
+        "Race_Title",
+        "Circuit",
+        "Location_State",
+        "Date_",
+        "Winner",
+        "Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "Calder",
+            "Calder Raceway",
+            "Melbourne , Victoria",
+            "22 Mar",
+            "Allan Moffat",
+            "Team Coca-Cola AMR"
+        ],
+        [
+            "2",
+            "Bathurst",
+            "Mount Panorama Circuit",
+            "Bathurst , New South Wales",
+            "30 Mar",
+            "Norm Beechey",
+            "Beechey Shell Racing Team"
+        ],
+        [
+            "3",
+            "Sandown",
+            "Sandown Park",
+            "Melbourne, Victoria",
+            "19 Apr",
+            "Norm Beechey",
+            "Beechey Shell Racing Team"
+        ],
+        [
+            "4",
+            "South Australian Touring Car Championship",
+            "Mallala",
+            "Mallala , South Australia",
+            "16 Jun",
+            "Ian Geoghegan",
+            "Geoghegan`s Sporty Cars"
+        ],
+        [
+            "5",
+            "AJC Trophy",
+            "Warwick Farm Raceway",
+            "Sydney , New South Wales",
+            "12 Jul",
+            "Jim McKeown",
+            "McKeown Shell Racing Team"
+        ],
+        [
+            "6",
+            "Lakeside",
+            "Lakeside International Raceway",
+            "Brisbane , Queensland",
+            "26 Jul",
+            "Norm Beechey",
+            "Beechey Shell Racing Team"
+        ],
+        [
+            "7",
+            "Symmons Plains",
+            "Symmons Plains Raceway",
+            "Launceston , Tasmania",
+            "15 Nov",
+            "Jim McKeown",
+            "McKeown Shell Racing Team"
+        ]
+    ]
+}

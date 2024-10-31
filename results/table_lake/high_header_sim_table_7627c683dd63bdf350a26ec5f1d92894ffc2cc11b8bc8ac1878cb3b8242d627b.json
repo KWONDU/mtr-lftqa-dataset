@@ -1,0 +1,63 @@
+{
+    "id": "7627c683dd63bdf350a26ec5f1d92894ffc2cc11b8bc8ac1878cb3b8242d627b",
+    "metadata": "Who Dares Wins (UK game show) | International Versions | International Versions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Local_Name",
+        "Host_",
+        "Channel",
+        "Year_Aired",
+        "Top_Prize"
+    ],
+    "cell": [
+        [
+            "Australia",
+            "The Rich List",
+            "Andrew O`Keefe",
+            "Seven Network",
+            "2007-2009",
+            "$250,000"
+        ],
+        [
+            "France",
+            "La Liste gagnante",
+            "Patrice Laffont",
+            "France 3",
+            "2009",
+            "5.000\u20ac"
+        ],
+        [
+            "Germany",
+            "Rich List",
+            "Kai Pflaume",
+            "Sat.1",
+            "2007-present",
+            "\u20ac100,000"
+        ],
+        [
+            "New Zealand",
+            "The Rich List",
+            "Jason Gunn",
+            "TVNZ",
+            "2007-present",
+            "$50,000"
+        ],
+        [
+            "United Kingdom",
+            "Who Dares Wins",
+            "Nick Knowles",
+            "BBC One",
+            "2007-present",
+            "\u00a350,000"
+        ],
+        [
+            "United States",
+            "The Rich List",
+            "Eamonn Holmes",
+            "Fox",
+            "2006",
+            "$250,000"
+        ]
+    ]
+}

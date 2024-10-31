@@ -1,0 +1,98 @@
+{
+    "id": "54d844dd76f91a40eecc187a1c03ea727dbf8619b1bb22bc5cae157fc33ab446",
+    "metadata": "Traditional English pronunciation of Latin | Long vowels | Long vowels",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "_Long_vowels",
+        "_17th_c_",
+        "American",
+        "British",
+        "Australian"
+    ],
+    "cell": [
+        [
+            "a /e\u026a/",
+            "a\u02d0",
+            "ei",
+            "e\u026a",
+            "\u00e6\u026a"
+        ],
+        [
+            "ar /\u025b\u0259r/",
+            "a\u02d0",
+            "e",
+            "\u025b\u02d0",
+            "e\u02d0"
+        ],
+        [
+            "e /i\u02d0/",
+            "e\u02d0",
+            "i",
+            "i",
+            "i"
+        ],
+        [
+            "\u00e6 /i\u02d0/",
+            "e\u02d0",
+            "i",
+            "i",
+            "i"
+        ],
+        [
+            "\u0153 /i\u02d0/",
+            "e\u02d0",
+            "i",
+            "i",
+            "i"
+        ],
+        [
+            "ei /i\u02d0/",
+            "e\u02d0",
+            "i",
+            "i",
+            "i"
+        ],
+        [
+            "er or \u00e6r /\u026a\u0259r/",
+            "e\u02d0",
+            "i",
+            "\u026a\u0259",
+            "\u026a\u0259"
+        ],
+        [
+            "er or \u00e6r /\u026a\u0259r/",
+            "e\u02d0",
+            "\u026a",
+            "\u026a\u0259",
+            "\u026a\u0259"
+        ],
+        [
+            "i /a\u026a/",
+            "\u025bi",
+            "ai",
+            "a\u026a",
+            "\u0251e"
+        ],
+        [
+            "y /a\u026a/",
+            "\u025bi",
+            "ai",
+            "a\u026a",
+            "\u0251e"
+        ],
+        [
+            "o /o\u028a/",
+            "o\u02d0",
+            "\u025eu",
+            "\u0259\u028a",
+            "\u0259\u0289"
+        ],
+        [
+            "or /\u0254\u0259r/",
+            "o\u02d0",
+            "\u0254",
+            "\u0254\u02d0",
+            "o"
+        ]
+    ]
+}

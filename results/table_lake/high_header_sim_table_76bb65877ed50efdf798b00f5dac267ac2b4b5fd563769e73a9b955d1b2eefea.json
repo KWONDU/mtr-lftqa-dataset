@@ -1,0 +1,70 @@
+{
+    "id": "76bb65877ed50efdf798b00f5dac267ac2b4b5fd563769e73a9b955d1b2eefea",
+    "metadata": "1959 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "20.8 (128)",
+            "North Melbourne",
+            "6.10 (46)",
+            "MCG",
+            "31263",
+            "11 July 1959"
+        ],
+        [
+            "Essendon",
+            "19.20 (134)",
+            "Richmond",
+            "10.9 (69)",
+            "Windy Hill",
+            "17000",
+            "11 July 1959"
+        ],
+        [
+            "Collingwood",
+            "10.15 (75)",
+            "Hawthorn",
+            "10.14 (74)",
+            "Victoria Park",
+            "24502",
+            "11 July 1959"
+        ],
+        [
+            "Carlton",
+            "15.21 (111)",
+            "St Kilda",
+            "8.18 (66)",
+            "Princes Park",
+            "27668",
+            "11 July 1959"
+        ],
+        [
+            "South Melbourne",
+            "17.16 (118)",
+            "Geelong",
+            "12.12 (84)",
+            "Lake Oval",
+            "16600",
+            "11 July 1959"
+        ],
+        [
+            "Footscray",
+            "6.17 (53)",
+            "Fitzroy",
+            "10.13 (73)",
+            "Western Oval",
+            "15801",
+            "11 July 1959"
+        ]
+    ]
+}

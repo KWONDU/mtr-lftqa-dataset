@@ -1,0 +1,56 @@
+{
+    "id": "05f73d7aff994f13e261a47cbd93522379159587eff98615f92528b852a17782",
+    "metadata": "2005 Buffalo Bills season | NFL Draft | NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick_",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "2",
+            "5",
+            "Roscoe Parrish",
+            "Wide Receiver",
+            "Miami (Fla.)"
+        ],
+        [
+            "3",
+            "86",
+            "Kevin Everett",
+            "Tight End",
+            "Miami (Fla.)"
+        ],
+        [
+            "4",
+            "122",
+            "Duke Preston",
+            "Center",
+            "Illinois"
+        ],
+        [
+            "5",
+            "156",
+            "Eric King",
+            "Cornerback",
+            "Wake Forest"
+        ],
+        [
+            "6",
+            "197",
+            "Justin Geisinger",
+            "Offensive Guard",
+            "Vanterbilt"
+        ],
+        [
+            "7",
+            "236",
+            "Lionel Gates",
+            "Running Back",
+            "Louisville"
+        ]
+    ]
+}

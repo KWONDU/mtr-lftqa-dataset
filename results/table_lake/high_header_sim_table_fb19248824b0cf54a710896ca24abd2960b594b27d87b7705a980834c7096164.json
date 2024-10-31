@@ -1,0 +1,167 @@
+{
+    "id": "fb19248824b0cf54a710896ca24abd2960b594b27d87b7705a980834c7096164",
+    "metadata": "2003 Grand Prix of St. Petersburg | Race | Race",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Team",
+        "Laps",
+        "Time_Retired",
+        "Grid",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Paul Tracy",
+            "Team Player`s",
+            "105",
+            "2:04:28.904",
+            "3",
+            "21"
+        ],
+        [
+            "Michel Jourdain, Jr.",
+            "Team Rahal",
+            "105",
+            "+12.1 secs",
+            "13",
+            "16"
+        ],
+        [
+            "Bruno Junqueira",
+            "Newman/Haas Racing",
+            "105",
+            "+16.6 secs",
+            "1",
+            "14"
+        ],
+        [
+            "Mario Haberfeld",
+            "Mi-Jack Conquest Racing",
+            "105",
+            "+41.4 secs",
+            "14",
+            "12"
+        ],
+        [
+            "Roberto Moreno",
+            "Herdez Competition",
+            "105",
+            "+56.8 secs",
+            "11",
+            "10"
+        ],
+        [
+            "Jimmy Vasser",
+            "American Spirit Team Johansson",
+            "104",
+            "+ 1 Lap",
+            "10",
+            "8"
+        ],
+        [
+            "Tiago Monteiro",
+            "Fittipaldi-Dingman Racing",
+            "104",
+            "+ 1 Lap",
+            "8",
+            "6"
+        ],
+        [
+            "Patrick Carpentier",
+            "Team Player`s",
+            "103",
+            "+ 2 Laps",
+            "7",
+            "5"
+        ],
+        [
+            "Jo\u00ebl Camathias",
+            "Dale Coyne Racing",
+            "103",
+            "+ 2 Laps",
+            "16",
+            "4"
+        ],
+        [
+            "Patrick Lemari\u00e9",
+            "PK Racing",
+            "102",
+            "+ 3 Laps",
+            "15",
+            "3"
+        ],
+        [
+            "S\u00e9bastien Bourdais",
+            "Newman/Haas Racing",
+            "97",
+            "+ 8 Laps",
+            "2",
+            "4"
+        ],
+        [
+            "Oriol Servi\u00e0",
+            "Patrick Racing",
+            "96",
+            "+ 9 Laps",
+            "12",
+            "1"
+        ],
+        [
+            "Darren Manning",
+            "Walker Racing",
+            "75",
+            "Mechanical",
+            "18",
+            "0"
+        ],
+        [
+            "Mario Dom\u00ednguez",
+            "Herdez Competition",
+            "71",
+            "Contact",
+            "5",
+            "0"
+        ],
+        [
+            "Adrian Fern\u00e1ndez",
+            "Fern\u00e1ndez Racing",
+            "69",
+            "Contact",
+            "6",
+            "0"
+        ],
+        [
+            "Ryan Hunter-Reay",
+            "American Spirit Team Johansson",
+            "61",
+            "Contact",
+            "6",
+            "0"
+        ],
+        [
+            "Roberto Gonz\u00e1lez",
+            "Dale Coyne Racing",
+            "21",
+            "Off Course",
+            "17",
+            "0"
+        ],
+        [
+            "Rodolfo Lav\u00edn",
+            "Walker Racing",
+            "12",
+            "Contact",
+            "9",
+            "0"
+        ],
+        [
+            "Alex Tagliani",
+            "Rocketsports Racing",
+            "3",
+            "Contact",
+            "4",
+            "0"
+        ]
+    ]
+}

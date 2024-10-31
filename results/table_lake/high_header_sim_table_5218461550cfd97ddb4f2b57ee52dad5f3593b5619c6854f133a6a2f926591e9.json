@@ -1,0 +1,88 @@
+{
+    "id": "5218461550cfd97ddb4f2b57ee52dad5f3593b5619c6854f133a6a2f926591e9",
+    "metadata": "List of MLW diesel locomotives | Cab units (FA  &  FP series) | Cab units (FA  &  FP series)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Specification",
+        "Build_date",
+        "Total_produced",
+        "Wheel_arrangement",
+        "Prime_mover",
+        "Power_output"
+    ],
+    "cell": [
+        [
+            "FA-1",
+            "DL-208A, DL-208B",
+            "1949-1950",
+            "28",
+            "B-B",
+            "12-244B",
+            "hp (MW)"
+        ],
+        [
+            "FB-1",
+            "DL-209A, DL-209B",
+            "1949-1950",
+            "20",
+            "B-B",
+            "12-244B",
+            "hp (MW)"
+        ],
+        [
+            "FA-2",
+            "DL-212, DL-212A",
+            "1951-1953",
+            "45",
+            "B-B",
+            "12-244",
+            "hp (MW)"
+        ],
+        [
+            "FB-2",
+            "DL-213, DL-213A",
+            "1951-1953",
+            "21",
+            "B-B",
+            "12-244",
+            "hp (MW)"
+        ],
+        [
+            "FPA-2",
+            "DL-212, DL-212A",
+            "1953-1955",
+            "19",
+            "B-B",
+            "12-244D",
+            "hp (MW)"
+        ],
+        [
+            "FPB-2",
+            "DL-213, DL-213A",
+            "1953-1955",
+            "14",
+            "B-B",
+            "12-244D",
+            "hp (MW) hp"
+        ],
+        [
+            "FPA-4",
+            "DL-218",
+            "1958-1959",
+            "34",
+            "B-B",
+            "12-251B",
+            "hp (MW)"
+        ],
+        [
+            "FPB-4",
+            "DL-219",
+            "1958-1959",
+            "12",
+            "B-B",
+            "12-251B",
+            "hp (MW)"
+        ]
+    ]
+}

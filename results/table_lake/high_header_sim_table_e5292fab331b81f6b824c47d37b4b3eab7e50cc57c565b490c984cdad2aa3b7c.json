@@ -1,0 +1,70 @@
+{
+    "id": "e5292fab331b81f6b824c47d37b4b3eab7e50cc57c565b490c984cdad2aa3b7c",
+    "metadata": "1970 VFL season | Round 22 | Round 22",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "12.10 (82)",
+            "Richmond",
+            "10.12 (72)",
+            "Western Oval",
+            "16672",
+            "29 August 1970"
+        ],
+        [
+            "Fitzroy",
+            "9.11 (65)",
+            "Hawthorn",
+            "18.16 (124)",
+            "Junction Oval",
+            "11626",
+            "29 August 1970"
+        ],
+        [
+            "Essendon",
+            "8.11 (59)",
+            "St Kilda",
+            "14.19 (103)",
+            "Windy Hill",
+            "14310",
+            "29 August 1970"
+        ],
+        [
+            "Collingwood",
+            "22.15 (147)",
+            "South Melbourne",
+            "7.9 (51)",
+            "Victoria Park",
+            "41451",
+            "29 August 1970"
+        ],
+        [
+            "North Melbourne",
+            "12.11 (83)",
+            "Geelong",
+            "6.6 (42)",
+            "Arden Street Oval",
+            "6435",
+            "29 August 1970"
+        ],
+        [
+            "Melbourne",
+            "12.15 (87)",
+            "Carlton",
+            "14.17 (101)",
+            "MCG",
+            "40973",
+            "29 August 1970"
+        ]
+    ]
+}

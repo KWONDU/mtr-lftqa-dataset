@@ -1,0 +1,55 @@
+{
+    "id": "ebb6f034bd86b0b026a613400a20f31238c25c4d3af3fce0bf5004bf4a209557",
+    "metadata": "1998 Open Championship | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Sandy Lyle",
+            "Scotland",
+            "1985",
+            "290",
+            "+10",
+            "T19"
+        ],
+        [
+            "Nick Price",
+            "Zimbabwe",
+            "1994",
+            "292",
+            "+12",
+            "T29"
+        ],
+        [
+            "Mark Calcavecchia",
+            "United States",
+            "1989",
+            "293",
+            "+13",
+            "T35"
+        ],
+        [
+            "Nick Faldo",
+            "England",
+            "1987 , 1990 , 1992",
+            "295",
+            "+15",
+            "T44"
+        ],
+        [
+            "Justin Leonard",
+            "United States",
+            "1997",
+            "297",
+            "+17",
+            "T57"
+        ]
+    ]
+}

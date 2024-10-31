@@ -1,0 +1,70 @@
+{
+    "id": "394e59998ed66bb43ba9b799d5e125ab08305153b7a42a6003c0cea0e5ca3c8f",
+    "metadata": "1992 PBA draft | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick",
+        "Player",
+        "Country_of_origin_",
+        "PBA_team",
+        "College"
+    ],
+    "cell": [
+        [
+            "1",
+            "Vergel Meneses",
+            "Philippines",
+            "Presto Ice Cream",
+            "Jose Rizal"
+        ],
+        [
+            "2",
+            "Stevenson Solomon",
+            "Philippines",
+            "Alaska Milkmen",
+            "San Sebastian"
+        ],
+        [
+            "3",
+            "Joselito Escobar",
+            "Philippines",
+            "Shell Rimula X",
+            "East"
+        ],
+        [
+            "4",
+            "Fermin Albert Ramas",
+            "Philippines",
+            "Purefoods Tender Juicy Hotdogs",
+            "Mapua"
+        ],
+        [
+            "5",
+            "Ferdinand Ravena, Jr.",
+            "Philippines",
+            "San Miguel Beermen",
+            "East"
+        ],
+        [
+            "6",
+            "Enrique Reyes",
+            "Philippines",
+            "Swift Mighty Meaties",
+            "Ateneo de Manila"
+        ],
+        [
+            "7",
+            "Allen Sasan",
+            "Philippines",
+            "Alaska Milkmen",
+            "Cebu"
+        ],
+        [
+            "8",
+            "Emilio Chuatico, Jr.",
+            "Philippines",
+            "Ginebra San Miguel",
+            "Ateneo de Manila"
+        ]
+    ]
+}

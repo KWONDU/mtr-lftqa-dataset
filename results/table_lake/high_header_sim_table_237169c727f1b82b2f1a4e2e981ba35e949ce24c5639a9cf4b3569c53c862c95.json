@@ -1,0 +1,70 @@
+{
+    "id": "237169c727f1b82b2f1a4e2e981ba35e949ce24c5639a9cf4b3569c53c862c95",
+    "metadata": "1928 VFL season | Round 12 | Round 12",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "8.5 (53)",
+            "Richmond",
+            "12.18 (90)",
+            "Arden Street Oval",
+            "12000",
+            "7 July 1928"
+        ],
+        [
+            "Footscray",
+            "13.13 (91)",
+            "South Melbourne",
+            "13.11 (89)",
+            "Western Oval",
+            "17000",
+            "7 July 1928"
+        ],
+        [
+            "Collingwood",
+            "9.13 (67)",
+            "Geelong",
+            "12.6 (78)",
+            "Victoria Park",
+            "17000",
+            "7 July 1928"
+        ],
+        [
+            "Carlton",
+            "12.10 (82)",
+            "Fitzroy",
+            "12.14 (86)",
+            "Princes Park",
+            "25000",
+            "7 July 1928"
+        ],
+        [
+            "St Kilda",
+            "20.14 (134)",
+            "Hawthorn",
+            "12.13 (85)",
+            "Junction Oval",
+            "19000",
+            "7 July 1928"
+        ],
+        [
+            "Melbourne",
+            "8.19 (67)",
+            "Essendon",
+            "12.17 (89)",
+            "MCG",
+            "18695",
+            "7 July 1928"
+        ]
+    ]
+}

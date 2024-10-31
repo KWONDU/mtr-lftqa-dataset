@@ -1,0 +1,77 @@
+{
+    "id": "b3f6b71c2537f3c2b74bbd3b97346e59435dc647fae5e6bbed61f02ab4c757b0",
+    "metadata": "The Inspector Alleyn Mysteries | Episodes | Episodes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode_",
+        "Title",
+        "Directed_by",
+        "Written_by",
+        "Originalairdate"
+    ],
+    "cell": [
+        [
+            "1",
+            "Artists in Crime",
+            "Silvio Narizzano",
+            "T.R. Bowen",
+            "23 December 1990"
+        ],
+        [
+            "2",
+            "A Man Lay Dead",
+            "Sarah Pia Anderson",
+            "Barbara Machin",
+            "17 April 1993"
+        ],
+        [
+            "3",
+            "The Nursing Home Murder",
+            "Silvio Narizzano",
+            "Kevin Laffan",
+            "25 April 1993"
+        ],
+        [
+            "4",
+            "Final Curtain",
+            "Martyn Friend",
+            "Barbara Machin Hugh Leonard",
+            "2 May 1993"
+        ],
+        [
+            "5",
+            "Death at the Bar",
+            "Michael Winterbottom",
+            "Alfred Shaughnessy",
+            "9 May 1993"
+        ],
+        [
+            "6",
+            "Death in a White Tie",
+            "John Woods",
+            "Ken Jones",
+            "16 May 1993"
+        ],
+        [
+            "7",
+            "Hand in Glove",
+            "Martyn Friend",
+            "Ken Jones",
+            "10 January 1994"
+        ],
+        [
+            "8",
+            "Dead Water",
+            "John Woods",
+            "T.R. Bowen",
+            "1 April 1994"
+        ],
+        [
+            "9",
+            "Scales of Justice",
+            "Jim Goddard",
+            "Cyril Williams",
+            "29 August 1994"
+        ]
+    ]
+}

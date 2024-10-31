@@ -1,0 +1,70 @@
+{
+    "id": "1489012c4aaf5278c7a7bc9c996896253c4364ef121f21397cfd87eab034f428",
+    "metadata": "1972 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "9.11 (65)",
+            "St Kilda",
+            "11.15 (81)",
+            "Kardinia Park",
+            "15835",
+            "3 June 1972"
+        ],
+        [
+            "North Melbourne",
+            "6.11 (47)",
+            "Melbourne",
+            "23.17 (155)",
+            "Arden Street Oval",
+            "8063",
+            "3 June 1972"
+        ],
+        [
+            "Richmond",
+            "15.14 (104)",
+            "Footscray",
+            "12.14 (86)",
+            "MCG",
+            "36985",
+            "3 June 1972"
+        ],
+        [
+            "South Melbourne",
+            "8.11 (59)",
+            "Collingwood",
+            "19.14 (128)",
+            "Lake Oval",
+            "18085",
+            "3 June 1972"
+        ],
+        [
+            "Hawthorn",
+            "11.22 (88)",
+            "Carlton",
+            "13.7 (85)",
+            "Glenferrie Oval",
+            "26665",
+            "3 June 1972"
+        ],
+        [
+            "Essendon",
+            "14.17 (101)",
+            "Fitzroy",
+            "15.9 (99)",
+            "VFL Park",
+            "26790",
+            "3 June 1972"
+        ]
+    ]
+}

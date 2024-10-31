@@ -1,0 +1,70 @@
+{
+    "id": "fd672b1aebce0cc77e35b86523177d03e17e426de3ff4fda15206e538d69a08d",
+    "metadata": "1952 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Fitzroy",
+            "5.15 (45)",
+            "Richmond",
+            "7.12 (54)",
+            "Brunswick Street Oval",
+            "20500",
+            "19 April 1952"
+        ],
+        [
+            "South Melbourne",
+            "11.16 (82)",
+            "St Kilda",
+            "8.26 (74)",
+            "Lake Oval",
+            "18000",
+            "19 April 1952"
+        ],
+        [
+            "Melbourne",
+            "14.13 (97)",
+            "Geelong",
+            "15.13 (103)",
+            "MCG",
+            "25000",
+            "19 April 1952"
+        ],
+        [
+            "Footscray",
+            "6.10 (46)",
+            "Essendon",
+            "6.5 (41)",
+            "Western Oval",
+            "24000",
+            "19 April 1952"
+        ],
+        [
+            "Hawthorn",
+            "2.8 (20)",
+            "Collingwood",
+            "15.16 (106)",
+            "Glenferrie Oval",
+            "14000",
+            "19 April 1952"
+        ],
+        [
+            "North Melbourne",
+            "8.19 (67)",
+            "Carlton",
+            "13.12 (90)",
+            "Arden Street Oval",
+            "22000",
+            "19 April 1952"
+        ]
+    ]
+}

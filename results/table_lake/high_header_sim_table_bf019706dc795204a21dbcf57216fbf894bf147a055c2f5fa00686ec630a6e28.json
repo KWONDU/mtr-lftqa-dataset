@@ -1,0 +1,133 @@
+{
+    "id": "bf019706dc795204a21dbcf57216fbf894bf147a055c2f5fa00686ec630a6e28",
+    "metadata": "1990 Miami Dolphins season | Regular season | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance_"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 9, 1990",
+            "at New England Patriots",
+            "W 27-24",
+            "45305"
+        ],
+        [
+            "2",
+            "September 16, 1990",
+            "Buffalo Bills",
+            "W 30-7",
+            "68142"
+        ],
+        [
+            "3",
+            "September 23, 1990",
+            "at New York Giants",
+            "L 20-3",
+            "76483"
+        ],
+        [
+            "4",
+            "September 30, 1990",
+            "at Pittsburgh Steelers",
+            "W 28-6",
+            "54691"
+        ],
+        [
+            "5",
+            "October 7, 1990",
+            "New York Jets",
+            "W 20-16",
+            "69678"
+        ],
+        [
+            "6",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "7",
+            "October 18, 1990",
+            "New England Patriots",
+            "W 17-10",
+            "62630"
+        ],
+        [
+            "8",
+            "October 28, 1990",
+            "at Indianapolis Colts",
+            "W 27-7",
+            "59213"
+        ],
+        [
+            "9",
+            "November 4, 1990",
+            "Phoenix Cardinals",
+            "W 23-3",
+            "54294"
+        ],
+        [
+            "10",
+            "November 11, 1990",
+            "at New York Jets",
+            "W 17-3",
+            "68362"
+        ],
+        [
+            "11",
+            "November 19, 1990",
+            "Los Angeles Raiders",
+            "L 13-10",
+            "70553"
+        ],
+        [
+            "12",
+            "November 25, 1990",
+            "at Cleveland Browns",
+            "W 30-13",
+            "70225"
+        ],
+        [
+            "13",
+            "December 2, 1990",
+            "at Washington Redskins",
+            "L 42-20",
+            "53599"
+        ],
+        [
+            "14",
+            "December 9, 1990",
+            "Philadelphia Eagles",
+            "W 23-20",
+            "67034"
+        ],
+        [
+            "15",
+            "December 16, 1990",
+            "Seattle Seahawks",
+            "W 24-17",
+            "57851"
+        ],
+        [
+            "16",
+            "December 23, 1990",
+            "at Buffalo Bills",
+            "L 24-14",
+            "80235"
+        ],
+        [
+            "17",
+            "December 30, 1990",
+            "Indianapolis Colts",
+            "W 23-17",
+            "59547"
+        ]
+    ]
+}

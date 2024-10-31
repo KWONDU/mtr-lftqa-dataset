@@ -1,0 +1,88 @@
+{
+    "id": "75eb66046b0ba87155deeb09e4ab60d3651e1fecfd1691e113df33e558148aa2",
+    "metadata": "List of chess games between Anand and Kramnik | Advanced Chess | Advanced Chess",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "White",
+        "Black",
+        "Year_",
+        "Result_",
+        "Moves",
+        "Tournament",
+        "Opening"
+    ],
+    "cell": [
+        [
+            "Kramnik",
+            "Anand",
+            "2002",
+            "\u00bd-\u00bd",
+            "33",
+            "Le\u00f3n",
+            "D37 Queen`s Gambit Declined"
+        ],
+        [
+            "Anand",
+            "Kramnik",
+            "2002",
+            "\u00bd-\u00bd",
+            "20",
+            "Le\u00f3n",
+            "E15 Queen`s Indian Defence"
+        ],
+        [
+            "Kramnik",
+            "Anand",
+            "2002",
+            "1-0",
+            "37",
+            "Le\u00f3n",
+            "D27 Queen`s Gambit Accepted"
+        ],
+        [
+            "Anand",
+            "Kramnik",
+            "2002",
+            "\u00bd-\u00bd",
+            "48",
+            "Le\u00f3n",
+            "D37 Queen`s Gambit Declined"
+        ],
+        [
+            "Kramnik",
+            "Anand",
+            "2002",
+            "\u00bd-\u00bd",
+            "38",
+            "Le\u00f3n",
+            "D27 Queen`s Gambit Accepted"
+        ],
+        [
+            "Anand",
+            "Kramnik",
+            "2002",
+            "\u00bd-\u00bd",
+            "20",
+            "Le\u00f3n",
+            "C67 Ruy Lopez : Berlin Defence"
+        ],
+        [
+            "Anand",
+            "Kramnik",
+            "2007",
+            "\u00bd-\u00bd",
+            "24",
+            "Moscow",
+            "C67 Ruy Lopez : Berlin Defence"
+        ],
+        [
+            "Kramnik",
+            "Anand",
+            "2007",
+            "\u00bd-\u00bd",
+            "24",
+            "Moscow",
+            "D43 Semi-Slav Defence"
+        ]
+    ]
+}

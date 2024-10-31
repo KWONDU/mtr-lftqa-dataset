@@ -1,0 +1,84 @@
+{
+    "id": "d8e15a5740c0e629f5e3bedb6bb9c0b6f9b24872ae4ecb371e2ab56ac9c7bd4e",
+    "metadata": "Finland | Parliament | Parliament",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Party",
+        "Seats",
+        "Net_gain_loss",
+        "_of_seats",
+        "_of_votes"
+    ],
+    "cell": [
+        [
+            "National Coalition Party",
+            "44",
+            "\u22126",
+            "22.0",
+            "20.4"
+        ],
+        [
+            "Social Democratic Party",
+            "42",
+            "-3",
+            "21.0",
+            "19.1"
+        ],
+        [
+            "True Finns",
+            "39",
+            "+34",
+            "19.5",
+            "19.1"
+        ],
+        [
+            "Centre Party",
+            "35",
+            "-16",
+            "17.5",
+            "15.8"
+        ],
+        [
+            "Left Alliance",
+            "14",
+            "-2",
+            "7.0",
+            "8.1"
+        ],
+        [
+            "Green League",
+            "10",
+            "-5",
+            "5.0",
+            "7.3"
+        ],
+        [
+            "Swedish People`s Party",
+            "9",
+            "0",
+            "4.5",
+            "4.3"
+        ],
+        [
+            "Christian Democrats",
+            "6",
+            "-1",
+            "3.0",
+            "4.0"
+        ],
+        [
+            "Others",
+            "1 a",
+            "0",
+            "0.5",
+            "0.4"
+        ],
+        [
+            "a Province of \u00c5land `s representative.",
+            "a Province of \u00c5land `s representative.",
+            "a Province of \u00c5land `s representative.",
+            "a Province of \u00c5land `s representative.",
+            "a Province of \u00c5land `s representative."
+        ]
+    ]
+}

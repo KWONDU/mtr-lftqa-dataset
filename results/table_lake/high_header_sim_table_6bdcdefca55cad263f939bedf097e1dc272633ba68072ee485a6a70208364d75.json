@@ -1,0 +1,91 @@
+{
+    "id": "6bdcdefca55cad263f939bedf097e1dc272633ba68072ee485a6a70208364d75",
+    "metadata": "List of radio stations in Tamaulipas | Nuevo Laredo | AM",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Frequency",
+        "Power_D_N",
+        "Callsign",
+        "Brand",
+        "City_of_License"
+    ],
+    "cell": [
+        [
+            "790",
+            "1kW/500W",
+            "XEFE",
+            "La Pura Ley",
+            "Nuevo Laredo"
+        ],
+        [
+            "890",
+            "10/1kW",
+            "KVOZ",
+            "La Radio Cristiana ( KCZO )",
+            "Laredo"
+        ],
+        [
+            "960",
+            "5/1kW",
+            "XEK",
+            "La Estaci\u00f3n Grande",
+            "Nuevo Laredo"
+        ],
+        [
+            "1000",
+            "1kW/250W",
+            "XENLT",
+            "Radio Formula",
+            "Nuevo Laredo"
+        ],
+        [
+            "1090",
+            "1kW/250W",
+            "XEWL",
+            "W Radio ( XEW )",
+            "Nuevo Laredo"
+        ],
+        [
+            "1300",
+            "1kW/500W",
+            "KLAR",
+            "Radio Poder",
+            "Laredo"
+        ],
+        [
+            "1340",
+            "1/1kW",
+            "XEBK",
+            "El Norte\u00f1azo",
+            "Nuevo Laredo"
+        ],
+        [
+            "1370",
+            "1kW/250W",
+            "XEGNK",
+            "Mariachi Est\u00e9reo",
+            "Nuevo Laredo"
+        ],
+        [
+            "1410",
+            "1kW/250W",
+            "XEAS",
+            "Ke Buena XHPO",
+            "Nuevo Laredo"
+        ],
+        [
+            "1490",
+            "1/1kW",
+            "KLNT",
+            "ESPN Radio",
+            "Laredo"
+        ],
+        [
+            "1550",
+            "5kW/250W",
+            "XENU",
+            "La Rancherita",
+            "Nuevo Laredo"
+        ]
+    ]
+}

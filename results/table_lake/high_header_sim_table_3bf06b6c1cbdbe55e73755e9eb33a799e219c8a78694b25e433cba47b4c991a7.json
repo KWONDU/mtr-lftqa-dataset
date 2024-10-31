@@ -1,0 +1,95 @@
+{
+    "id": "3bf06b6c1cbdbe55e73755e9eb33a799e219c8a78694b25e433cba47b4c991a7",
+    "metadata": "1994 Colorado Rockies season | Game log | August",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "August 1",
+            "@ Astros",
+            "8-3",
+            "Harnisch (7-5)",
+            "22256",
+            "51-57"
+        ],
+        [
+            "August 2",
+            "@ Astros",
+            "3-1",
+            "Harris (3-11)",
+            "22574",
+            "51-58"
+        ],
+        [
+            "August 3",
+            "@ Astros",
+            "2-1",
+            "Ruffin (3-5)",
+            "18320",
+            "51-59"
+        ],
+        [
+            "August 4",
+            "@ Astros",
+            "6-2",
+            "Ritz (4-6)",
+            "30053",
+            "51-60"
+        ],
+        [
+            "August 5",
+            "Dodgers",
+            "5-4",
+            "Leskanic (1-1)",
+            "70283",
+            "51-61"
+        ],
+        [
+            "August 7",
+            "Dodgers",
+            "6-2",
+            "Harris (3-12)",
+            "70372",
+            "51-62"
+        ],
+        [
+            "August 8",
+            "Dodgers",
+            "7-6",
+            "Worrell (6-5)",
+            "52634",
+            "52-62"
+        ],
+        [
+            "August 9",
+            "Braves",
+            "7-4",
+            "Nied (9-7)",
+            "61595",
+            "52-63"
+        ],
+        [
+            "August 10",
+            "Braves",
+            "1-0 (6)",
+            "Glavine (13-9)",
+            "65157",
+            "53-63"
+        ],
+        [
+            "August 11",
+            "Braves",
+            "13-0",
+            "Painter (4-6)",
+            "65043",
+            "53-64"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "5ec708217c7aad17e6533ae4e69ff9aa44f39570c7df727bda326b35c29fb453",
+    "metadata": "2007-08 FIS Ski Jumping World Cup | Liberec | 8 February 2008",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Nationality",
+        "_1st_m",
+        "_2nd_m",
+        "Points",
+        "Overall_WC_points_Rank"
+    ],
+    "cell": [
+        [
+            "1",
+            "Thomas Morgenstern",
+            "AUT",
+            "132.0",
+            "128.5",
+            "272.4",
+            "1555 (1)"
+        ],
+        [
+            "2",
+            "Gregor Schlierenzauer",
+            "AUT",
+            "130.5",
+            "129.0",
+            "268.1",
+            "919 (2)"
+        ],
+        [
+            "3",
+            "Andreas K\u00fcttel",
+            "SUI",
+            "128.0",
+            "130.5",
+            "260.8",
+            "584 (7)"
+        ],
+        [
+            "4",
+            "Janne Ahonen",
+            "FIN",
+            "127.5",
+            "128.5",
+            "258.8",
+            "895 (3)"
+        ],
+        [
+            "5",
+            "Anders Bardal",
+            "NOR",
+            "124.5",
+            "129.5",
+            "255.7",
+            "592 (6)"
+        ]
+    ]
+}

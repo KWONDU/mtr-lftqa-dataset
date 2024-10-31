@@ -1,0 +1,61 @@
+{
+    "id": "d64c20f125fadb3e4fa164db1daf42704a61bf6498f836d3419c0e57e2b226d4",
+    "metadata": "1975 All-Ireland Senior Hurling Championship | Season | Season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "County",
+        "Tally",
+        "Total",
+        "Matches",
+        "Average"
+    ],
+    "cell": [
+        [
+            "1",
+            "Eddie Keher",
+            "Kilkenny",
+            "4-23",
+            "35",
+            "3",
+            "11.66"
+        ],
+        [
+            "2",
+            "Barney Moylan",
+            "Offaly",
+            "4-22",
+            "34",
+            "3",
+            "11.33"
+        ],
+        [
+            "3",
+            "Richie Bennis",
+            "Limerick",
+            "1-21",
+            "24",
+            "3",
+            "8.00"
+        ],
+        [
+            "4",
+            "Charlie McCarthy",
+            "Cork",
+            "4-9",
+            "21",
+            "4",
+            "5.25"
+        ],
+        [
+            "5",
+            "Se\u00e1nie O`Leary",
+            "Cork",
+            "4-8",
+            "20",
+            "4",
+            "5.00"
+        ]
+    ]
+}

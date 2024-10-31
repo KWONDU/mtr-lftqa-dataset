@@ -1,0 +1,56 @@
+{
+    "id": "2f6d86ea67a405a34f9f2692d2a81a6e0d0c1c0391df48eabb5b16e20ec3063b",
+    "metadata": "2009 Kansas State Wildcats football team | Rushing | Rushing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Gain",
+        "Loss",
+        "Long_",
+        "Avg_G"
+    ],
+    "cell": [
+        [
+            "Daniel Thomas",
+            "1290",
+            "25",
+            "40",
+            "105.4"
+        ],
+        [
+            "Keithen Valentine",
+            "374",
+            "17",
+            "61",
+            "29.8"
+        ],
+        [
+            "Grant Gregory",
+            "441",
+            "133",
+            "21",
+            "28.0"
+        ],
+        [
+            "TEAM",
+            "0",
+            "22",
+            "0",
+            "-2.2"
+        ],
+        [
+            "Total",
+            "2488",
+            "329",
+            "61",
+            "179.9"
+        ],
+        [
+            "Opponents",
+            "1557",
+            "292",
+            "44",
+            "105.4"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "db9e6463a6f9506e0b8b63deebee25ae6c903ce1e4c44b73998c832bd32a44c1",
+    "metadata": "English American | English family names | English family names",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Rank_2000",
+        "Number_",
+        "Country_of_Origin",
+        "England_2001_"
+    ],
+    "cell": [
+        [
+            "Smith",
+            "1",
+            "2376207",
+            "England, Scotland",
+            "Smith"
+        ],
+        [
+            "Johnson",
+            "2",
+            "1857160",
+            "England",
+            "Jones"
+        ],
+        [
+            "Williams",
+            "3",
+            "1534042",
+            "England, Wales",
+            "Taylor"
+        ],
+        [
+            "Brown",
+            "4",
+            "1380145",
+            "England, Ireland, Scotland",
+            "Brown"
+        ],
+        [
+            "Jones",
+            "5",
+            "1362755",
+            "England, Wales",
+            "Williams"
+        ],
+        [
+            "Miller",
+            "6",
+            "1127803",
+            "England, Ireland, or Scotland (Miller can be the anglicized version of Mueller/M\u00fcller - a surname from Germany)",
+            "Wilson"
+        ],
+        [
+            "Davis",
+            "7",
+            "1072335",
+            "England, Wales",
+            "Johnson"
+        ],
+        [
+            "Garc\u00eda",
+            "8",
+            "858289",
+            "Spain",
+            "Davies"
+        ],
+        [
+            "Rodr\u00edguez",
+            "9",
+            "804240",
+            "Spain",
+            "Robinson"
+        ],
+        [
+            "Wilson",
+            "10",
+            "783051",
+            "England, Scotland",
+            "Wright"
+        ]
+    ]
+}

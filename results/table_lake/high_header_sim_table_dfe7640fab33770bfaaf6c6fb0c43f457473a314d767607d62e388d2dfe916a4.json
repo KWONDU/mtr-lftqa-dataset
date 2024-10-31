@@ -1,0 +1,106 @@
+{
+    "id": "dfe7640fab33770bfaaf6c6fb0c43f457473a314d767607d62e388d2dfe916a4",
+    "metadata": "1982 Seattle Seahawks season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Game_site",
+        "Record",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 12, 1982",
+            "Cleveland Browns",
+            "L 7-21",
+            "Kingdome",
+            "0-1",
+            "55907"
+        ],
+        [
+            "2",
+            "September 19, 1982",
+            "at Houston Oilers",
+            "L 21-23",
+            "The Astrodome",
+            "0-2",
+            "43117"
+        ],
+        [
+            "3-10",
+            "Cancelled due to player`s strike",
+            "Cancelled due to player`s strike",
+            "Cancelled due to player`s strike",
+            "Cancelled due to player`s strike",
+            "Cancelled due to player`s strike",
+            "Cancelled due to player`s strike"
+        ],
+        [
+            "11",
+            "November 21, 1982",
+            "at Denver Broncos",
+            "W 17-10",
+            "Mile High Stadium",
+            "1-2",
+            "73996"
+        ],
+        [
+            "12",
+            "November 28, 1982",
+            "Pittsburgh Steelers",
+            "W 16-0",
+            "Kingdome",
+            "2-2",
+            "55553"
+        ],
+        [
+            "13",
+            "December 5, 1982",
+            "at Los Angeles Raiders",
+            "L 23-28",
+            "Los Angeles Memorial Coliseum",
+            "2-3",
+            "42170"
+        ],
+        [
+            "14",
+            "December 12, 1982",
+            "Chicago Bears",
+            "W 20-14",
+            "Kingdome",
+            "3-3",
+            "52826"
+        ],
+        [
+            "15",
+            "December 19, 1982",
+            "New England Patriots",
+            "L 0-16",
+            "Kingdome",
+            "3-4",
+            "53457"
+        ],
+        [
+            "16",
+            "December 26, 1982",
+            "at Cincinnati Bengals",
+            "L 10-24",
+            "Riverfront Stadium",
+            "3-5",
+            "55330"
+        ],
+        [
+            "17",
+            "January 2, 1983",
+            "Denver Broncos",
+            "W 13-11",
+            "Kingdome",
+            "4-5",
+            "43145"
+        ]
+    ]
+}

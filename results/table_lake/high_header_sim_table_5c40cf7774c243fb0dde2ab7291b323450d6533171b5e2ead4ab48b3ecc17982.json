@@ -1,0 +1,67 @@
+{
+    "id": "5c40cf7774c243fb0dde2ab7291b323450d6533171b5e2ead4ab48b3ecc17982",
+    "metadata": "I'm a Celebrity...Get Me Out of Here! (UK series 8) | Bush Battles | Bush Battles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Battle_No_",
+        "Broadcast_Date",
+        "Name_of_Battle",
+        "Theme",
+        "Celebrities_Taking_Part",
+        "Winner",
+        "Runner_up",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "1",
+            "21 November",
+            "The Big Drip",
+            "Tactics",
+            "Martina, Joe & David",
+            "Joe",
+            "Martina",
+            "None"
+        ],
+        [
+            "2",
+            "22 November",
+            "Hog Roast",
+            "Stamina",
+            "Simon, Brian & Carly",
+            "Carly & Simon",
+            "Brian",
+            "See below"
+        ],
+        [
+            "3",
+            "23 November",
+            "Down To The Wire",
+            "Concentration",
+            "Esther, George & Dani",
+            "Dani",
+            "Esther",
+            "None"
+        ],
+        [
+            "4",
+            "24 November",
+            "Up To Your Neck In It",
+            "Patience",
+            "Robert, Nicola & Timmy",
+            "Timmy",
+            "Nicola",
+            "None"
+        ],
+        [
+            "5",
+            "25 November",
+            "Night of the Living Bed",
+            "Endurance",
+            "Nicola, Martina, Brian, Esther",
+            "Esther",
+            "Brian",
+            "None"
+        ]
+    ]
+}

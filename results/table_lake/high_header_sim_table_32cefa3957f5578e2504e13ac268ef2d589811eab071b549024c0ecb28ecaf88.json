@@ -1,0 +1,49 @@
+{
+    "id": "32cefa3957f5578e2504e13ac268ef2d589811eab071b549024c0ecb28ecaf88",
+    "metadata": "Lineth Chepkurui | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "2008",
+            "World Cross Country Championships",
+            "Edinburgh , Scotland",
+            "12th",
+            "Long race"
+        ],
+        [
+            "2009",
+            "World Cross Country Championships",
+            "Amman , Jordan",
+            "4th",
+            "Long race"
+        ],
+        [
+            "2009",
+            "World Cross Country Championships",
+            "Amman , Jordan",
+            "1st",
+            "Team"
+        ],
+        [
+            "2010",
+            "World Cross Country Championships",
+            "Bydgoszcz , Poland",
+            "5th",
+            "Long race"
+        ],
+        [
+            "2010",
+            "World Cross Country Championships",
+            "Bydgoszcz , Poland",
+            "1st",
+            "Team"
+        ]
+    ]
+}

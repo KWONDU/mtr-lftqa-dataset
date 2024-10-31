@@ -1,0 +1,61 @@
+{
+    "id": "dfaabd32132eaaefa3cdeaf3982af32184368ccf22e2b27b604a56839b816368",
+    "metadata": "1963 San Francisco 49ers season | Preseason | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Score",
+        "Record",
+        "Location_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "August 10",
+            "Minnesota Vikings",
+            "L",
+            "28-43",
+            "0-1",
+            "Portland, Oregon",
+            "20837"
+        ],
+        [
+            "August 16",
+            "St. Louis Cardinals",
+            "L",
+            "22-24",
+            "0-2",
+            "Salt Lake City , Utah",
+            "19038"
+        ],
+        [
+            "August 25",
+            "Cleveland Browns",
+            "L",
+            "7-24",
+            "0-3",
+            "Kezar Stadium",
+            "28335"
+        ],
+        [
+            "August 30",
+            "Dallas Cowboys",
+            "L",
+            "24-37",
+            "0-4",
+            "Bakersfield, California",
+            "9927"
+        ],
+        [
+            "September 7",
+            "at Los Angeles Rams",
+            "L",
+            "0-17",
+            "0-5",
+            "Los Angeles Memorial Coliseum",
+            "34405"
+        ]
+    ]
+}

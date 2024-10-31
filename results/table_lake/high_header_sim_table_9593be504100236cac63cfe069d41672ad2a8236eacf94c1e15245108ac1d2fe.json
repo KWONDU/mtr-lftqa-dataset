@@ -1,0 +1,70 @@
+{
+    "id": "9593be504100236cac63cfe069d41672ad2a8236eacf94c1e15245108ac1d2fe",
+    "metadata": "1980 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "20.9 (129)",
+            "South Melbourne",
+            "19.19 (133)",
+            "Windy Hill",
+            "17471",
+            "19 July 1980"
+        ],
+        [
+            "Collingwood",
+            "22.17 (149)",
+            "Hawthorn",
+            "19.8 (122)",
+            "Victoria Park",
+            "25090",
+            "19 July 1980"
+        ],
+        [
+            "Carlton",
+            "24.16 (160)",
+            "Footscray",
+            "15.13 (103)",
+            "Princes Park",
+            "18792",
+            "19 July 1980"
+        ],
+        [
+            "Melbourne",
+            "15.15 (105)",
+            "Geelong",
+            "17.12 (114)",
+            "MCG",
+            "23327",
+            "19 July 1980"
+        ],
+        [
+            "North Melbourne",
+            "17.13 (115)",
+            "Fitzroy",
+            "13.8 (86)",
+            "VFL Park",
+            "16002",
+            "19 July 1980"
+        ],
+        [
+            "Richmond",
+            "34.18 (222)",
+            "St Kilda",
+            "11.4 (70)",
+            "SCG",
+            "14077",
+            "20 July 1980"
+        ]
+    ]
+}

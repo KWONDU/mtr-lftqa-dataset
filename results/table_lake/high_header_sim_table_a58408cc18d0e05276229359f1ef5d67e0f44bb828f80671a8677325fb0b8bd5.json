@@ -1,0 +1,70 @@
+{
+    "id": "a58408cc18d0e05276229359f1ef5d67e0f44bb828f80671a8677325fb0b8bd5",
+    "metadata": "1976 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Carlton",
+            "18.22 (130)",
+            "Collingwood",
+            "10.13 (73)",
+            "Princes Park",
+            "39964",
+            "3 April 1976"
+        ],
+        [
+            "North Melbourne",
+            "9.10 (64)",
+            "Melbourne",
+            "11.21 (87)",
+            "Arden Street Oval",
+            "17986",
+            "3 April 1976"
+        ],
+        [
+            "St Kilda",
+            "13.11 (89)",
+            "Hawthorn",
+            "16.15 (111)",
+            "Moorabbin Oval",
+            "22879",
+            "3 April 1976"
+        ],
+        [
+            "South Melbourne",
+            "23.15 (153)",
+            "Geelong",
+            "25.7 (157)",
+            "Lake Oval",
+            "15173",
+            "3 April 1976"
+        ],
+        [
+            "Richmond",
+            "16.21 (117)",
+            "Fitzroy",
+            "14.14 (98)",
+            "MCG",
+            "28834",
+            "3 April 1976"
+        ],
+        [
+            "Footscray",
+            "16.16 (112)",
+            "Essendon",
+            "16.17 (113)",
+            "Western Oval",
+            "25274",
+            "3 April 1976"
+        ]
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "5d238f65626fe236043d3608a4746ecd145f8c8f4c634f4b6369dfbf9a4ebf9e",
+    "metadata": "2008-09 Leeds United A.F.C. season | In | In",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Country",
+        "Type_",
+        "Moving_from",
+        "Transfer_window",
+        "Ends",
+        "Transfer_fee",
+        "Source_"
+    ],
+    "cell": [
+        [
+            "Robinson",
+            "ENG",
+            "Free Agent",
+            "Swansea City",
+            "Summer",
+            "2011",
+            "Free",
+            "Leeds United Yorkshire Evening Post"
+        ],
+        [
+            "Sheehan",
+            "IRE",
+            "Transferred 1",
+            "Leicester City",
+            "Summer",
+            "2011",
+            "Undisclosed",
+            "Leeds United"
+        ],
+        [
+            "Showunmi",
+            "NGR ENG",
+            "Free Agent",
+            "Bristol City",
+            "Summer",
+            "2010",
+            "Free",
+            "Leeds United"
+        ],
+        [
+            "Snodgrass",
+            "SCO",
+            "Free Agent 1",
+            "Livingston",
+            "Summer",
+            "2011",
+            "\u00a3 35k 2",
+            "Leeds United"
+        ],
+        [
+            "Becchio",
+            "ARG",
+            "Transferred",
+            "M\u00e9rida UD",
+            "Summer",
+            "2011",
+            "\u00a3300k 3",
+            "Leeds United"
+        ],
+        [
+            "Telfer",
+            "SCO",
+            "Free Agent",
+            "Bournemouth",
+            "Summer",
+            "2009 4",
+            "Free",
+            "Leeds United"
+        ],
+        [
+            "Christie",
+            "ENG",
+            "Free Agent",
+            "Middlesbrough",
+            "Summer",
+            "n/a 5",
+            "Free",
+            "Leeds United"
+        ],
+        [
+            "Assoumani",
+            "MLI FRA",
+            "Free Agent",
+            "Sportfreunde Siegen",
+            "Summer",
+            "2009",
+            "Free",
+            "Leeds United"
+        ],
+        [
+            "Grella",
+            "USA",
+            "Free Agent",
+            "Cary Clarets",
+            "Winter",
+            "2010",
+            "Free",
+            "Leeds United"
+        ],
+        [
+            "Naylor",
+            "ENG",
+            "Transferred",
+            "Ipswich Town",
+            "Winter",
+            "2011",
+            "Free",
+            "Leeds United"
+        ]
+    ]
+}

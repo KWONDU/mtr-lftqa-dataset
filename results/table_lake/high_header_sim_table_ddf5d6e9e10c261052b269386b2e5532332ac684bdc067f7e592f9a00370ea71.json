@@ -1,0 +1,56 @@
+{
+    "id": "ddf5d6e9e10c261052b269386b2e5532332ac684bdc067f7e592f9a00370ea71",
+    "metadata": "Little League World Series in Canada | By province | By province",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Province",
+        "First_LLCR",
+        "Appearances",
+        "Championships",
+        "Runner_Up"
+    ],
+    "cell": [
+        [
+            "Alberta",
+            "1966",
+            "40",
+            "2",
+            "10"
+        ],
+        [
+            "British Columbia",
+            "1965",
+            "49",
+            "22",
+            "11"
+        ],
+        [
+            "New Brunswick",
+            "1978",
+            "10",
+            "0",
+            "1"
+        ],
+        [
+            "Nova Scotia",
+            "1968",
+            "32",
+            "5",
+            "5"
+        ],
+        [
+            "Ontario",
+            "1958",
+            "54",
+            "13",
+            "20"
+        ],
+        [
+            "Quebec",
+            "1958",
+            "54",
+            "13",
+            "8"
+        ]
+    ]
+}

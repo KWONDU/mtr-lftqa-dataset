@@ -1,0 +1,73 @@
+{
+    "id": "a3b0c4ee03439402b2acbdaae1ada51a957591fa0dd27f232c8f1ad38a84bc7e",
+    "metadata": "1981-82 USAC Championship Car season | Schedule and results | Schedule and results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rnd",
+        "Date_",
+        "Race_Name",
+        "Length_",
+        "Track",
+        "Location_",
+        "Type_",
+        "Pole_Position",
+        "Winning_Driver"
+    ],
+    "cell": [
+        [
+            "1",
+            "May 24, 1981",
+            "Indianapolis 500-Mile Race",
+            "mi (km)",
+            "Indianapolis Motor Speedway",
+            "Speedway , Indiana",
+            "Paved oval",
+            "Bobby Unser",
+            "Bobby Unser"
+        ],
+        [
+            "2",
+            "June 21, 1981",
+            "Van Scoy Diamond Mines 500",
+            "mi (km)",
+            "Pocono International Raceway",
+            "Long Pond , Pennsylvania",
+            "Paved oval",
+            "A. J. Foyt",
+            "A. J. Foyt"
+        ],
+        [
+            "3",
+            "August 15, 1981",
+            "Tony Bettenhausen 100",
+            "mi (km)",
+            "Illinois State Fairgrounds",
+            "Springfield , Illinois",
+            "Dirt oval",
+            "Tom Bigelow",
+            "George Snider"
+        ],
+        [
+            "4",
+            "August 30, 1981",
+            "DuQuoin 100",
+            "mi (km)",
+            "DuQuoin State Fairgrounds",
+            "Du Quoin , Illinois",
+            "Dirt oval",
+            "Bill Engelhart",
+            "Rich Vogler"
+        ],
+        [
+            "5",
+            "September 12, 1981",
+            "Hoosier Hundred",
+            "mi (km)",
+            "grounds Indiana State Fair",
+            "Indianapolis , Indiana",
+            "Dirt oval",
+            "Larry Rice",
+            "Larry Rice"
+        ]
+    ]
+}

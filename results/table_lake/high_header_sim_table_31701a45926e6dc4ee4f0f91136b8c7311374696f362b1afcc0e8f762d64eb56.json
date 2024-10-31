@@ -1,0 +1,70 @@
+{
+    "id": "31701a45926e6dc4ee4f0f91136b8c7311374696f362b1afcc0e8f762d64eb56",
+    "metadata": "1927 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "22.23 (155)",
+            "Hawthorn",
+            "8.8 (56)",
+            "Corio Oval",
+            "8500",
+            "18 June 1927"
+        ],
+        [
+            "Fitzroy",
+            "14.11 (95)",
+            "South Melbourne",
+            "11.14 (80)",
+            "Brunswick Street Oval",
+            "10000",
+            "18 June 1927"
+        ],
+        [
+            "St Kilda",
+            "8.7 (55)",
+            "Melbourne",
+            "15.15 (105)",
+            "Junction Oval",
+            "14000",
+            "18 June 1927"
+        ],
+        [
+            "Richmond",
+            "15.12 (102)",
+            "Essendon",
+            "11.13 (79)",
+            "Punt Road Oval",
+            "25000",
+            "18 June 1927"
+        ],
+        [
+            "Footscray",
+            "4.12 (36)",
+            "Collingwood",
+            "7.16 (58)",
+            "Western Oval",
+            "17000",
+            "18 June 1927"
+        ],
+        [
+            "North Melbourne",
+            "4.11 (35)",
+            "Carlton",
+            "9.15 (69)",
+            "Arden Street Oval",
+            "15000",
+            "18 June 1927"
+        ]
+    ]
+}

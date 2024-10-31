@@ -1,0 +1,49 @@
+{
+    "id": "6df90ea01673bf2da96abc528614274d8966e549e35b305eaf8009369378676c",
+    "metadata": "List of tallest buildings in Mobile | Timeline of tallest buildings | Timeline of tallest buildings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Street_address",
+        "Years_as_tallest",
+        "Height_ft_m",
+        "Floors"
+    ],
+    "cell": [
+        [
+            "Cathedral Basilica of the Immaculate Conception",
+            "400 Government Street",
+            "1850-1907",
+            "102 (31)",
+            "2"
+        ],
+        [
+            "Van Antwerp Building",
+            "103 Dauphin Street",
+            "1907-1929",
+            "120 (37) [A ]",
+            "11"
+        ],
+        [
+            "Regions Bank Building",
+            "56 Saint Joseph Street",
+            "1929-1965",
+            "236 (72) [A ]",
+            "18"
+        ],
+        [
+            "RSA-BankTrust Building",
+            "107 Saint Francis Street",
+            "1965-2006",
+            "424 (129)",
+            "34"
+        ],
+        [
+            "RSA Battle House Tower",
+            "11 North Water Street",
+            "2006-present",
+            "745 (227)",
+            "35"
+        ]
+    ]
+}

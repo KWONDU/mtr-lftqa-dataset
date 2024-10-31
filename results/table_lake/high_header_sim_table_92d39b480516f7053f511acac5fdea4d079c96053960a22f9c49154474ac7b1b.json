@@ -1,0 +1,84 @@
+{
+    "id": "92d39b480516f7053f511acac5fdea4d079c96053960a22f9c49154474ac7b1b",
+    "metadata": "2007 NASCAR Busch Series | Races | Kroger 200",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos_",
+        "Car_",
+        "Driver",
+        "Make",
+        "Team_"
+    ],
+    "cell": [
+        [
+            "1",
+            "38",
+            "Jason Leffler",
+            "Toyota",
+            "Braun Racing"
+        ],
+        [
+            "2",
+            "16",
+            "Greg Biffle",
+            "Ford",
+            "Roush Fenway Racing"
+        ],
+        [
+            "3",
+            "99",
+            "David Reutimann",
+            "Toyota",
+            "Michael Waltrip Racing"
+        ],
+        [
+            "4",
+            "60",
+            "Carl Edwards",
+            "Ford",
+            "Roush Fenway Racing"
+        ],
+        [
+            "5",
+            "77",
+            "Ron Hornaday",
+            "Chevrolet",
+            "Kevin Harvick Incorporated"
+        ],
+        [
+            "6",
+            "20",
+            "Aric Almirola",
+            "Chevrolet",
+            "Joe Gibbs Racing"
+        ],
+        [
+            "7",
+            "29",
+            "Scott Wimmer",
+            "Chevrolet",
+            "Richard Childress Racing"
+        ],
+        [
+            "8",
+            "42",
+            "Kevin Hamlin",
+            "Dodge",
+            "Chip Ganassi Racing"
+        ],
+        [
+            "9",
+            "10",
+            "Mike Bliss",
+            "Toyota",
+            "Braun Racing"
+        ],
+        [
+            "10",
+            "88",
+            "Brad Keselowski",
+            "Chevrolet",
+            "JR Motorsports"
+        ]
+    ]
+}

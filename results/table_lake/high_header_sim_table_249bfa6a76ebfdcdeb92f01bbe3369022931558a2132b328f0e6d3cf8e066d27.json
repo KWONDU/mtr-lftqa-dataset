@@ -1,0 +1,49 @@
+{
+    "id": "249bfa6a76ebfdcdeb92f01bbe3369022931558a2132b328f0e6d3cf8e066d27",
+    "metadata": "List of ship launches in 1879 | List of ship launches in 1879 | List of ship launches in 1879",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Builder",
+        "Location_",
+        "Ship",
+        "Class_type"
+    ],
+    "cell": [
+        [
+            "United Kingdom",
+            "Samuda Brothers",
+            "Poplar, London",
+            "Orion",
+            "Belleisle-class ironclad"
+        ],
+        [
+            "United Kingdom",
+            "John Elder and Co",
+            "Govan , Scotland",
+            "Arizona",
+            "Passenger ship"
+        ],
+        [
+            "Germany",
+            "Schichauwerft",
+            "Danzig",
+            "Gneisenau",
+            "Three masted full rigged ship"
+        ],
+        [
+            "United Kingdom",
+            "Chatham Dockyard",
+            "Chatham, Kent",
+            "Agamemnon",
+            "Ajax-class ironclad"
+        ],
+        [
+            "United Kingdom",
+            "Sheerness Dockyard",
+            "Sheerness",
+            "Kingfisher",
+            "Sloop"
+        ]
+    ]
+}

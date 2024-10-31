@@ -1,0 +1,49 @@
+{
+    "id": "ab3f567a0a92e8befcdefe3e14bb69c9b1881bf90fb04400366bcaece857901e",
+    "metadata": "Mark Willis (motorcycle racer) | Grand Prix | Grand Prix",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Bike",
+        "Rank_",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1998",
+            "500cc",
+            "Suzuki",
+            "33rd",
+            "2"
+        ],
+        [
+            "1999",
+            "500cc",
+            "BSL",
+            "30th",
+            "3"
+        ],
+        [
+            "1999",
+            "500cc",
+            "Modenas KR3",
+            "30th",
+            "3"
+        ],
+        [
+            "2000",
+            "500cc",
+            "Modenas KR3",
+            "28th",
+            "3"
+        ],
+        [
+            "2001",
+            "500cc",
+            "Pulse",
+            "25th",
+            "3"
+        ]
+    ]
+}

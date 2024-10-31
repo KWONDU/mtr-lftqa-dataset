@@ -1,0 +1,79 @@
+{
+    "id": "bf02ba852d4f25e90c504b22f296ee6b29ba90e832725ec1c0e6d226d272f559",
+    "metadata": "London and Croydon Railway | Summary table | Summary table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "L_CR_No_",
+        "Type_",
+        "Manufacturer",
+        "Delivered",
+        "Name_",
+        "Jt_Cttee_No_",
+        "_1845_disposal"
+    ],
+    "cell": [
+        [
+            "1",
+            "2-2-2",
+            "Sharp, Roberts and Company",
+            "1838/07",
+            "Surrey",
+            "1",
+            "L&BR"
+        ],
+        [
+            "2",
+            "2-2-2",
+            "G. and J. Rennie",
+            "1838/08",
+            "Croydon",
+            "2",
+            "SER"
+        ],
+        [
+            "3",
+            "2-2-2",
+            "Sharp, Roberts and Company",
+            "1838/09",
+            "Sussex",
+            "3",
+            "L&BR"
+        ],
+        [
+            "4",
+            "2-2-2",
+            "Sharp, Roberts and Company",
+            "1839/02",
+            "Kent",
+            "4",
+            "L&BR"
+        ],
+        [
+            "5",
+            "2-2-2",
+            "Sharp, Roberts and Company",
+            "1839/03",
+            "London",
+            "5",
+            "SER"
+        ],
+        [
+            "6",
+            "2-2-2",
+            "G. and J. Rennie",
+            "1839/07",
+            "Archimedes",
+            "6",
+            "SER"
+        ],
+        [
+            "7",
+            "0-4-2",
+            "Sharp, Roberts and Company",
+            "1839/07",
+            "Hercules",
+            "7",
+            "SER"
+        ]
+    ]
+}

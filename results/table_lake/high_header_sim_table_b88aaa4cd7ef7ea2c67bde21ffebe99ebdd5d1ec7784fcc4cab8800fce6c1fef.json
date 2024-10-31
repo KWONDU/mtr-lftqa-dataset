@@ -1,0 +1,84 @@
+{
+    "id": "b88aaa4cd7ef7ea2c67bde21ffebe99ebdd5d1ec7784fcc4cab8800fce6c1fef",
+    "metadata": "Kibi Line | Stations | Stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Japanese",
+        "Distance_km",
+        "Connections",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Okayama",
+            "\u5ca1\u5c71",
+            "0.0",
+            "Sany\u014d Shinkansen, Sany\u014d Main Line, Ak\u014d Line, Hakubi Line, Uno Line (Seto-\u014chashi Line), Tsuyama Line , Okayama Electric Tramway: Higashiyama Line, Seikibashi Line",
+            "Kita-ku, Okayama"
+        ],
+        [
+            "Bizen-Mikado",
+            "\u5099\u524d\u4e09\u9580",
+            "1.9",
+            "",
+            "Kita-ku, Okayama"
+        ],
+        [
+            "Daianji",
+            "\u5927\u5b89\u5bfa",
+            "3.3",
+            "",
+            "Kita-ku, Okayama"
+        ],
+        [
+            "Bizen-Ichinomiya",
+            "\u5099\u524d\u4e00\u5bae",
+            "6.5",
+            "",
+            "Kita-ku, Okayama"
+        ],
+        [
+            "Kibitsu",
+            "\u5409\u5099\u6d25",
+            "8.4",
+            "",
+            "Kita-ku, Okayama"
+        ],
+        [
+            "Bitch\u016b-Takamatsu",
+            "\u5099\u4e2d\u9ad8\u677e",
+            "11.0",
+            "",
+            "Kita-ku, Okayama"
+        ],
+        [
+            "Ashimori",
+            "\u8db3\u5b88",
+            "13.4",
+            "",
+            "Kita-ku, Okayama"
+        ],
+        [
+            "Hattori",
+            "\u670d\u90e8",
+            "16.2",
+            "",
+            "S\u014dja"
+        ],
+        [
+            "Higashi-S\u014dja",
+            "\u6771\u7dcf\u793e",
+            "18.8",
+            "",
+            "S\u014dja"
+        ],
+        [
+            "S\u014dja",
+            "\u7dcf\u793e",
+            "20.4",
+            "Hakubi Line , Ibara Railway Ibara Line",
+            "S\u014dja"
+        ]
+    ]
+}

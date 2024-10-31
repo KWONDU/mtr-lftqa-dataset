@@ -1,0 +1,63 @@
+{
+    "id": "c13854940d6e9baad26d9f9325e1b898ce7b6f1e041ab58fbd014d55feebcab1",
+    "metadata": "John Adeleye | Performances and results | Performances and results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Song_choice",
+        "Theme",
+        "Performance_Order",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Audition",
+            "You Are So Beautiful",
+            "Free choice",
+            "N/A",
+            "Through to bootcamp"
+        ],
+        [
+            "Bootcamp",
+            "What`s Going On",
+            "Free choice",
+            "N/A",
+            "Through judges` houses"
+        ],
+        [
+            "Judges` houses",
+            "Billionaire",
+            "Free choice",
+            "N/A",
+            "Through to live shows"
+        ],
+        [
+            "Week 1",
+            "One Sweet Day",
+            "Number-one songs",
+            "3",
+            "Safe"
+        ],
+        [
+            "Week 2",
+            "A Song for You",
+            "Musical heroes",
+            "6",
+            "Safe"
+        ],
+        [
+            "Week 3",
+            "Zoom",
+            "Guilty Pleasures",
+            "2",
+            "Bottom Two"
+        ],
+        [
+            "Final Showdown (Week 3)",
+            "Because of You",
+            "Free choice (bottom two performance)",
+            "1",
+            "Eliminated by judges vote"
+        ]
+    ]
+}

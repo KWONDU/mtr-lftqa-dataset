@@ -1,0 +1,67 @@
+{
+    "id": "098a07b78fe668233780f0a1e0e35e6ab052113b895c62aa97e0a042a9fe3c10",
+    "metadata": "1903 in Brazilian football | Campeonato Paulista | Campeonato Paulista",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Team",
+        "Points",
+        "Played",
+        "Drawn",
+        "Lost",
+        "Against",
+        "Difference"
+    ],
+    "cell": [
+        [
+            "1",
+            "S\u00e3o Paulo Athletic",
+            "13",
+            "8",
+            "1",
+            "1",
+            "5",
+            "16"
+        ],
+        [
+            "2",
+            "Paulistano",
+            "13",
+            "8",
+            "1",
+            "1",
+            "4",
+            "10"
+        ],
+        [
+            "3",
+            "Mackenzie",
+            "7",
+            "8",
+            "1",
+            "4",
+            "8",
+            "2"
+        ],
+        [
+            "4",
+            "SC Internacional de S\u00e3o Paulo",
+            "4",
+            "8",
+            "0",
+            "6",
+            "27",
+            "- 19"
+        ],
+        [
+            "5",
+            "Germ\u00e2nia",
+            "3",
+            "8",
+            "1",
+            "6",
+            "17",
+            "- 9"
+        ]
+    ]
+}

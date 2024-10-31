@@ -1,0 +1,49 @@
+{
+    "id": "c21b27ebe79140a6b0e83d298cb2fa3d7ef4b3f8b339e4803d6d3bd267ad0fa6",
+    "metadata": "Vukovar | Demographics | National structure of the population in the municipality of Vukovar:[ \n clarification needed \n ]",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_of_census",
+        "total",
+        "Croats",
+        "Serbs",
+        "Others_"
+    ],
+    "cell": [
+        [
+            "2001",
+            "31670",
+            "18,199 (57.46%)",
+            "10,412 (32.88%)",
+            "3,059 (9.66%)"
+        ],
+        [
+            "1991",
+            "84024",
+            "36,910 (43.93%)",
+            "31,910 (37.98%)",
+            "15,204 (18.09%)"
+        ],
+        [
+            "1981",
+            "81203",
+            "30,157 (37.14%)",
+            "25,146 (30.97%)",
+            "25,903 (31.89%)"
+        ],
+        [
+            "1971",
+            "76602",
+            "34,629 (45.21%)",
+            "28,470 (37.17%)",
+            "13,593 (17.09%)"
+        ],
+        [
+            "1961",
+            "54707",
+            "24,527 (44.83%)",
+            "22,774 (41.63%)",
+            "7,406 (13.54%)"
+        ]
+    ]
+}

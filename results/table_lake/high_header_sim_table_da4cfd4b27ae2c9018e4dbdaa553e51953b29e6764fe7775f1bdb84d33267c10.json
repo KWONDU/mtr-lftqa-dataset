@@ -1,0 +1,61 @@
+{
+    "id": "da4cfd4b27ae2c9018e4dbdaa553e51953b29e6764fe7775f1bdb84d33267c10",
+    "metadata": "1942 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "18.9 (117)",
+            "Richmond",
+            "30.16 (196)",
+            "Punt Road Oval",
+            "20000",
+            "16 May 1942"
+        ],
+        [
+            "Carlton",
+            "8.11 (59)",
+            "South Melbourne",
+            "13.21 (99)",
+            "Princes Park",
+            "16000",
+            "16 May 1942"
+        ],
+        [
+            "St Kilda",
+            "16.13 (109)",
+            "Hawthorn",
+            "9.17 (71)",
+            "Toorak Park",
+            "5500",
+            "16 May 1942"
+        ],
+        [
+            "North Melbourne",
+            "14.10 (94)",
+            "Fitzroy",
+            "17.13 (115)",
+            "Arden Street Oval",
+            "5500",
+            "16 May 1942"
+        ],
+        [
+            "Footscray",
+            "12.16 (88)",
+            "Essendon",
+            "14.8 (92)",
+            "Yarraville Oval",
+            "10000",
+            "16 May 1942"
+        ]
+    ]
+}

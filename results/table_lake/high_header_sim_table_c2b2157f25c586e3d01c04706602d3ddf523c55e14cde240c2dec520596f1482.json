@@ -1,0 +1,139 @@
+{
+    "id": "c2b2157f25c586e3d01c04706602d3ddf523c55e14cde240c2dec520596f1482",
+    "metadata": "2001 LFF Lyga | 2 Lyga zone West | 2 Lyga zone West",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Club",
+        "Games_played",
+        "Wins",
+        "Draws",
+        "Loses",
+        "Goals_scored",
+        "Goals_conceded",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1",
+            "Nafta Ma\u017eeikiai",
+            "20",
+            "15",
+            "5",
+            "0",
+            "71",
+            "20",
+            "50"
+        ],
+        [
+            "2",
+            "\u0160irv\u0117na Bir\u017eai",
+            "20",
+            "13",
+            "6",
+            "1",
+            "49",
+            "19",
+            "45"
+        ],
+        [
+            "3",
+            "Mastis Tel\u0161iai",
+            "20",
+            "13",
+            "3",
+            "4",
+            "77",
+            "19",
+            "42"
+        ],
+        [
+            "4",
+            "Gintaras Palanga",
+            "20",
+            "9",
+            "2",
+            "9",
+            "54",
+            "32",
+            "29"
+        ],
+        [
+            "5",
+            "Atlantas-2 Klaip\u0117da",
+            "20",
+            "7",
+            "7",
+            "6",
+            "40",
+            "28",
+            "28"
+        ],
+        [
+            "6",
+            "Juventa-99 \u0160iauliai",
+            "20",
+            "7",
+            "6",
+            "7",
+            "27",
+            "31",
+            "27"
+        ],
+        [
+            "7",
+            "Sakalas-2 \u0160iauliai",
+            "20",
+            "7",
+            "2",
+            "11",
+            "26",
+            "39",
+            "23"
+        ],
+        [
+            "8",
+            "Venta Kur\u0161\u0117nai",
+            "20",
+            "6",
+            "4",
+            "10",
+            "36",
+            "62",
+            "22"
+        ],
+        [
+            "9",
+            "Kruoja Pakruojis",
+            "20",
+            "6",
+            "2",
+            "12",
+            "28",
+            "47",
+            "20"
+        ],
+        [
+            "10",
+            "FK Akmen\u0117",
+            "20",
+            "2",
+            "5",
+            "13",
+            "17",
+            "68",
+            "11"
+        ],
+        [
+            "11",
+            "FK Pasvalys",
+            "20",
+            "2",
+            "4",
+            "14",
+            "26",
+            "86",
+            "10"
+        ]
+    ]
+}

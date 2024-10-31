@@ -1,0 +1,87 @@
+{
+    "id": "841a46ce1d6fb1c0ec87425406e56b366b59a4c80174b62d1e7b2517e6ecd708",
+    "metadata": "1970 in paleontology | Newly named dinosaurs | Newly named dinosaurs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Novelty",
+        "Status_",
+        "Authors",
+        "Unit",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Daspletosaurus",
+            "gen et sp nov",
+            "Valid",
+            "Russell",
+            "Oldman Formation",
+            "USA"
+        ],
+        [
+            "Deinocheirus",
+            "fam, gen et sp nov",
+            "Valid",
+            "Osm\u00f3lska & Roniewicz",
+            "Nemegt Formation",
+            "Mongolia"
+        ],
+        [
+            "Dilophosaurus",
+            "gen nov",
+            "Valid",
+            "Welles",
+            "Kayenta formation",
+            "USA"
+        ],
+        [
+            "Likhoelesaurus",
+            "gen et sp nov",
+            "Nomen nudum .",
+            "Ellenberger",
+            "Lower Elliot Formation",
+            "South Africa"
+        ],
+        [
+            "Megadontosaurus",
+            "gen et sp nov",
+            "Nomen nudum",
+            "Brown vide: Ostrom",
+            "Cloverly Formation",
+            "USA"
+        ],
+        [
+            "Microvenator",
+            "gen et sp nov",
+            "Valid",
+            "Ostrom",
+            "Cloverly Formation",
+            "USA"
+        ],
+        [
+            "Sauropelta",
+            "gen et sp nov",
+            "Valid",
+            "Ostrom",
+            "Cloverly Formation",
+            "USA"
+        ],
+        [
+            "Staurikosaurus",
+            "gen et sp nov",
+            "Valid",
+            "Colbert",
+            "Santa Maria Formation",
+            "Brazil"
+        ],
+        [
+            "Tenontosaurus",
+            "gen et sp nov",
+            "Valid",
+            "Ostrom",
+            "Cloverly Formation",
+            "USA"
+        ]
+    ]
+}

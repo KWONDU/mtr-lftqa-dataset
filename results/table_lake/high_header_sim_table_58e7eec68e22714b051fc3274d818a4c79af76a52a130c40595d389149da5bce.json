@@ -1,0 +1,87 @@
+{
+    "id": "58e7eec68e22714b051fc3274d818a4c79af76a52a130c40595d389149da5bce",
+    "metadata": "Olga Tereshkova | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Event",
+        "Notes_"
+    ],
+    "cell": [
+        [
+            "2001",
+            "World Youth Championships",
+            "Debrecen, Hungary",
+            "4th",
+            "400 m",
+            ""
+        ],
+        [
+            "2002",
+            "Asian Games",
+            "Busan, South Korea",
+            "2nd",
+            "4x400 m relay",
+            ""
+        ],
+        [
+            "2005",
+            "Asian Championships",
+            "Incheon, South Korea",
+            "2nd",
+            "4x400 m relay",
+            ""
+        ],
+        [
+            "2005",
+            "Universiade",
+            "Izmir, Turkey",
+            "6th",
+            "4x400 m relay",
+            ""
+        ],
+        [
+            "2006",
+            "Asian Games",
+            "Doha, Qatar",
+            "2nd",
+            "4x400 m relay",
+            ""
+        ],
+        [
+            "2006",
+            "Asian Games",
+            "Doha, Qatar",
+            "1st",
+            "400 m",
+            ""
+        ],
+        [
+            "2006",
+            "World Cup",
+            "Athens, Greece",
+            "7th",
+            "400 m",
+            ""
+        ],
+        [
+            "2007",
+            "Universiade",
+            "Bangkok, Thailand",
+            "1st",
+            "400 m",
+            ""
+        ],
+        [
+            "2011",
+            "Universiade",
+            "Shenzhen, China",
+            "-",
+            "400 m",
+            "DQ"
+        ]
+    ]
+}

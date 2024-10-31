@@ -1,0 +1,49 @@
+{
+    "id": "4c4e61b6df71bf76b04b1302797d7c2a4ecfd812a8265af68c404bbdb255b88b",
+    "metadata": "2002 New York Jets season | Offseason | 2002 NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "1",
+            "22",
+            "Bryan Thomas",
+            "Defensive end",
+            "UAB"
+        ],
+        [
+            "2",
+            "57",
+            "Jon McGraw",
+            "Safety",
+            "Kansas State"
+        ],
+        [
+            "3",
+            "88",
+            "Chris Baker",
+            "Tight end",
+            "Michigan State"
+        ],
+        [
+            "4",
+            "121",
+            "Alan Harper",
+            "Defensive tackle",
+            "Fresno State"
+        ],
+        [
+            "5",
+            "154",
+            "Jonathan Goodwin",
+            "Guard",
+            "Michigan"
+        ]
+    ]
+}

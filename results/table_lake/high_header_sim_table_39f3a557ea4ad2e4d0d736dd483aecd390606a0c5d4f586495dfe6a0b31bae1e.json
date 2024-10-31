@@ -1,0 +1,56 @@
+{
+    "id": "39f3a557ea4ad2e4d0d736dd483aecd390606a0c5d4f586495dfe6a0b31bae1e",
+    "metadata": "McLaren MP4-17 | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Chassis",
+        "Engine",
+        "Tyres",
+        "Points"
+    ],
+    "cell": [
+        [
+            "2002",
+            "MP4-17",
+            "Mercedes FO110M 3.0 V10",
+            "M",
+            "65"
+        ],
+        [
+            "2002",
+            "MP4-17",
+            "Mercedes FO110M 3.0 V10",
+            "M",
+            "65"
+        ],
+        [
+            "2002",
+            "MP4-17",
+            "Mercedes FO110M 3.0 V10",
+            "M",
+            "65"
+        ],
+        [
+            "2003",
+            "MP4-17D",
+            "Mercedes FO110M 3.0 V10 Mercedes FO110P 3.0 V10",
+            "M",
+            "142"
+        ],
+        [
+            "2003",
+            "MP4-17D",
+            "Mercedes FO110M 3.0 V10 Mercedes FO110P 3.0 V10",
+            "M",
+            "142"
+        ],
+        [
+            "2003",
+            "MP4-17D",
+            "Mercedes FO110M 3.0 V10 Mercedes FO110P 3.0 V10",
+            "M",
+            "142"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "a9400e5516f5cf87fa64e1a7bed3249ad9d6e772325eb30efc13389ecae7fba1",
+    "metadata": "Indiana High School Athletics Conferences: Ohio River Valley - Western Indiana | Summit Athletic Conference | Summit Athletic Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "IHSAA_Football_Class"
+    ],
+    "cell": [
+        [
+            "Fort Wayne Bishop Dwenger",
+            "Saints",
+            "1013",
+            "AAA",
+            "AAAA"
+        ],
+        [
+            "Fort Wayne Bishop Luers",
+            "Knights",
+            "544",
+            "AA",
+            "AA"
+        ],
+        [
+            "Fort Wayne Concordia Lutheran",
+            "Cadets",
+            "645",
+            "AAA",
+            "AAA"
+        ],
+        [
+            "Fort Wayne North Side",
+            "Redskins",
+            "1756",
+            "AAAA",
+            "AAAAA"
+        ],
+        [
+            "Fort Wayne Northrop",
+            "Bruins",
+            "2277",
+            "AAAA",
+            "AAAAA"
+        ],
+        [
+            "Fort Wayne R. Nelson Snider",
+            "Panthers",
+            "2035",
+            "AAAA",
+            "AAAAA"
+        ],
+        [
+            "Fort Wayne South Side",
+            "Archers",
+            "1596",
+            "AAAA",
+            "AAAAA"
+        ],
+        [
+            "Fort Wayne Wayne",
+            "Generals",
+            "1582",
+            "AAAA",
+            "AAAAA"
+        ]
+    ]
+}

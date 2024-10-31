@@ -1,0 +1,49 @@
+{
+    "id": "e2fed47cf2e660b4c7658115732dd308cb4e97b50c4276dace6721f2f6339294",
+    "metadata": "History of Test cricket from 1901 to 1914 | England in South Africa 1905/6 | England in South Africa 1905/6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "2,3,4 Jan 1906",
+            "Percy Sherwell",
+            "Plum Warner",
+            "Old Wanderers",
+            "SA by 1 wkt"
+        ],
+        [
+            "6,7,8 Mar 1906",
+            "Percy Sherwell",
+            "Plum Warner",
+            "Old Wanderers",
+            "SA by 9 wkts"
+        ],
+        [
+            "10,12,13,14 Mar 1906",
+            "Percy Sherwell",
+            "Plum Warner",
+            "Old Wanderers",
+            "SA by 243 runs"
+        ],
+        [
+            "24,26,27 Mar 1906",
+            "Percy Sherwell",
+            "Plum Warner",
+            "Newlands",
+            "ENG by 4 wkts"
+        ],
+        [
+            "30,31 Mar, 2 Apr 1906",
+            "Percy Sherwell",
+            "Plum Warner",
+            "Newlands",
+            "SA by Inns&16 runs"
+        ]
+    ]
+}

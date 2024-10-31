@@ -1,0 +1,70 @@
+{
+    "id": "5c5ac5a1cd6130a99f876e8a4cbbf91fd9e158b8f9f00ff1ecae2269fa07e684",
+    "metadata": "Nottingham Panthers | Current roster | Defencemen",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Shoots",
+        "Acquired",
+        "Place_of_Birth",
+        "Joined_from"
+    ],
+    "cell": [
+        [
+            "Tom Norton",
+            "L",
+            "2012",
+            "Nottingham , England",
+            "Milton Keynes Lightning , EPIHL"
+        ],
+        [
+            "Jason Beckett",
+            "R",
+            "2012",
+            "Lethbridge, Alberta , Canada",
+            "Kallinge-Ronneby IF , Sweden"
+        ],
+        [
+            "Jonathan Weaver",
+            "L",
+            "2012",
+            "Sunderland , England",
+            "Coventry Blaze , EIHL"
+        ],
+        [
+            "Guillaume Lepine",
+            "L",
+            "2010",
+            "Montreal, Quebec , Canada",
+            "Elmira Jackals , ECHL"
+        ],
+        [
+            "Stephen Lee",
+            "R",
+            "2009",
+            "Beverley , England",
+            "Guildford Flames , EPIHL"
+        ],
+        [
+            "Martin T\u016fma",
+            "L",
+            "2012",
+            "Most , Czechoslovakia",
+            "HC \u010cesk\u00e9 Bud\u011bjovice , Czech Extraliga"
+        ],
+        [
+            "Eric Werner",
+            "R",
+            "2012",
+            "Grosse Pointe Woods, MI , USA",
+            "HC Neumarkt-Egna , Serie A2"
+        ],
+        [
+            "Corey Neilson",
+            "L",
+            "2006",
+            "Oromocto, New Brunswick , Canada",
+            "Florida Everblades , ECHL"
+        ]
+    ]
+}

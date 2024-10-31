@@ -1,0 +1,119 @@
+{
+    "id": "c74c421d0f5854c2ba22b3c040c34d43a2ba99f287f35c0877adcda0044d967e",
+    "metadata": "1996 PGA Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Mark Brooks",
+            "United States",
+            "68-70-69-70=277",
+            "-11",
+            "430000"
+        ],
+        [
+            "2",
+            "Kenny Perry",
+            "United States",
+            "66-72-71-68=277",
+            "-11",
+            "260000"
+        ],
+        [
+            "T3",
+            "Steve Elkington",
+            "Australia",
+            "67-74-67-70=278",
+            "-10",
+            "140000"
+        ],
+        [
+            "T3",
+            "Tommy Tolles",
+            "United States",
+            "69-71-71-67=278",
+            "-10",
+            "140000"
+        ],
+        [
+            "T5",
+            "Justin Leonard",
+            "United States",
+            "71-66-72-70=279",
+            "-9",
+            "86667"
+        ],
+        [
+            "T5",
+            "Jesper Parnevik",
+            "Sweden",
+            "73-67-69-70=279",
+            "-9",
+            "86667"
+        ],
+        [
+            "T5",
+            "Vijay Singh",
+            "Fiji",
+            "69-69-69-72=279",
+            "-9",
+            "86667"
+        ],
+        [
+            "T8",
+            "Lee Janzen",
+            "United States",
+            "68-71-71-70=280",
+            "-8",
+            "57500"
+        ],
+        [
+            "T8",
+            "Per-Ulrik Johansson",
+            "Sweden",
+            "73-72-66-69=280",
+            "-8",
+            "57500"
+        ],
+        [
+            "T8",
+            "Phil Mickelson",
+            "United States",
+            "67-67-74-72=280",
+            "-8",
+            "57500"
+        ],
+        [
+            "T8",
+            "Larry Mize",
+            "United States",
+            "71-70-69-70=280",
+            "-8",
+            "57500"
+        ],
+        [
+            "T8",
+            "Frank Nobilo",
+            "New Zealand",
+            "69-72-71-68=280",
+            "-8",
+            "57500"
+        ],
+        [
+            "T8",
+            "Nick Price",
+            "Zimbabwe",
+            "68-71-69-72=280",
+            "-8",
+            "57500"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "3465e549f5d314ed17cebbd9ad9e064b8643bac39706403db58dcfc76dbd1637",
+    "metadata": "ECCO Tour Championship | Winners | Winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Venue",
+        "Winner",
+        "Country",
+        "Score"
+    ],
+    "cell": [
+        [
+            "2012",
+            "Stensballegaard Golf",
+            "Alessandro Tadini",
+            "Italy",
+            "276 (\u221212)"
+        ],
+        [
+            "2011",
+            "L\u00fcbker Golf Resort",
+            "Daniel Denison",
+            "England",
+            "208 (\u22128)^"
+        ],
+        [
+            "2010",
+            "Green Eagle GC",
+            "Andreas Hart\u00f8 (amateur)",
+            "Denmark",
+            "284 (\u22128)"
+        ],
+        [
+            "2009",
+            "Holstebro GK",
+            "Jos\u00e9-Filipe Lima",
+            "Portugal",
+            "211 (\u22125)^"
+        ],
+        [
+            "2008",
+            "Kokkedal GK",
+            "Antti Ahokas",
+            "Finland",
+            "271 (\u221217)"
+        ],
+        [
+            "2007",
+            "Odense GK",
+            "Iain Pyman",
+            "England",
+            "260 (\u221220)"
+        ],
+        [
+            "2006",
+            "Odense GK",
+            "James Heath",
+            "England",
+            "261 (\u221219)"
+        ]
+    ]
+}

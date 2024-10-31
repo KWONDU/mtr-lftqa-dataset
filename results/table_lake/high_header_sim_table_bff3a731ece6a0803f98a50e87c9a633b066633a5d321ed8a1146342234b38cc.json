@@ -1,0 +1,77 @@
+{
+    "id": "bff3a731ece6a0803f98a50e87c9a633b066633a5d321ed8a1146342234b38cc",
+    "metadata": "Media in Peoria, Illinois | AM | AM",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Freq",
+        "Call_",
+        "City",
+        "Owner_",
+        "Day_Power_W_",
+        "Night_Power",
+        "Format",
+        "Stereo"
+    ],
+    "cell": [
+        [
+            "1020",
+            "WPEO",
+            "Peoria",
+            "Pinebrook Foundation",
+            "1000",
+            "0",
+            "Christian talk",
+            "No"
+        ],
+        [
+            "1140",
+            "WVEL",
+            "Pekin",
+            "Cumulus",
+            "5000",
+            "0",
+            "Christian",
+            "No"
+        ],
+        [
+            "1290",
+            "WIRL",
+            "Peoria",
+            "Triad",
+            "5000",
+            "5000",
+            "Oldies",
+            "No"
+        ],
+        [
+            "1350",
+            "WOAM",
+            "Peoria",
+            "Nelson Broadcasting",
+            "1000",
+            "1000",
+            "Adult standards",
+            "No"
+        ],
+        [
+            "1470",
+            "WMBD (AM)",
+            "Peoria",
+            "Triad",
+            "5000",
+            "5000",
+            "News/Talk",
+            "No"
+        ],
+        [
+            "1560",
+            "WBYS",
+            "Canton",
+            "WPW",
+            "250",
+            "18",
+            "News/Talk",
+            "No"
+        ]
+    ]
+}

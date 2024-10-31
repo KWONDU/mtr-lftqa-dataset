@@ -1,0 +1,63 @@
+{
+    "id": "bb850e7d1025200b5410687c4dd2a60a0020d11fb178008d76feae8678dd1b64",
+    "metadata": "1967 Formula One season | Non-Championship race results | Non-Championship race results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Race_Name",
+        "Circuit",
+        "Date_",
+        "Winning_driver",
+        "Constructor_",
+        "Report"
+    ],
+    "cell": [
+        [
+            "II Race of Champions",
+            "Brands Hatch",
+            "12 March",
+            "Dan Gurney",
+            "Eagle - Weslake",
+            "Report"
+        ],
+        [
+            "I Spring Cup",
+            "Oulton Park",
+            "15 April",
+            "Jack Brabham",
+            "Brabham - Repco",
+            "Report"
+        ],
+        [
+            "XIX BRDC International Trophy",
+            "Silverstone",
+            "29 April",
+            "Mike Parkes",
+            "Ferrari",
+            "Report"
+        ],
+        [
+            "XVI Gran Premio di Siracusa",
+            "Syracuse",
+            "21 May",
+            "Mike Parkes Ludovico Scarfiotti",
+            "Ferrari",
+            "Report"
+        ],
+        [
+            "XIV International Gold Cup",
+            "Oulton Park",
+            "16 September",
+            "Jack Brabham",
+            "Brabham - Repco",
+            "Report"
+        ],
+        [
+            "XV Spanish Grand Prix",
+            "Jarama",
+            "12 November",
+            "Jim Clark",
+            "Lotus - Ford",
+            "Report"
+        ]
+    ]
+}

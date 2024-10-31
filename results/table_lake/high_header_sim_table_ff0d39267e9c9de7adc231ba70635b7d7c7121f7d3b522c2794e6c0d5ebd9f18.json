@@ -1,0 +1,106 @@
+{
+    "id": "ff0d39267e9c9de7adc231ba70635b7d7c7121f7d3b522c2794e6c0d5ebd9f18",
+    "metadata": "List of schools in the Canterbury Region | Waimate District | Waimate District",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Years",
+        "Gender",
+        "Area",
+        "Authority",
+        "Decile",
+        "Roll"
+    ],
+    "cell": [
+        [
+            "Glenavy School",
+            "1-8",
+            "Coed",
+            "Glenavy",
+            "State",
+            "9",
+            "74"
+        ],
+        [
+            "Makikihi School",
+            "1-8",
+            "Coed",
+            "Makikihi",
+            "State",
+            "7",
+            "33"
+        ],
+        [
+            "Morven School",
+            "1-6",
+            "Coed",
+            "Morven",
+            "State",
+            "5",
+            "30"
+        ],
+        [
+            "St Andrew`s School",
+            "1-8",
+            "Coed",
+            "St Andrews",
+            "State",
+            "5",
+            "100"
+        ],
+        [
+            "St Patrick`s School",
+            "1-8",
+            "Coed",
+            "Waimate",
+            "State integrated",
+            "3",
+            "35"
+        ],
+        [
+            "Waihao Downs School",
+            "1-6",
+            "Coed",
+            "Waihao Downs",
+            "State",
+            "8",
+            "44"
+        ],
+        [
+            "Waimate Centennial School",
+            "1-6",
+            "Coed",
+            "Waimate",
+            "State",
+            "3",
+            "146"
+        ],
+        [
+            "Waimate High School",
+            "7-13",
+            "Coed",
+            "Waimate",
+            "State",
+            "4",
+            "310"
+        ],
+        [
+            "Waimate Main School",
+            "1-6",
+            "Coed",
+            "Waimate",
+            "State",
+            "2",
+            "78"
+        ],
+        [
+            "Waituna Creek School",
+            "1-8",
+            "Coed",
+            "Waituna",
+            "State",
+            "5",
+            "39"
+        ]
+    ]
+}

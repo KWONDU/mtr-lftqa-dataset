@@ -1,0 +1,126 @@
+{
+    "id": "0afd2b45fd6fda5284175c9a6f5ff79ee334b11c428c27c97b3be289175d4cd7",
+    "metadata": "1978 St. Louis Cardinals (NFL) season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 3, 1978",
+            "at Chicago Bears",
+            "L 10-17",
+            "52791"
+        ],
+        [
+            "2",
+            "September 10, 1978",
+            "New England Patriots",
+            "L 6-16",
+            "48233"
+        ],
+        [
+            "3",
+            "September 17, 1978",
+            "Washington Redskins",
+            "L 10-28",
+            "49282"
+        ],
+        [
+            "4",
+            "September 24, 1978",
+            "at Dallas Cowboys",
+            "L 12-21",
+            "62760"
+        ],
+        [
+            "5",
+            "October 1, 1978",
+            "at Miami Dolphins",
+            "L 10-24",
+            "43882"
+        ],
+        [
+            "6",
+            "October 8, 1978",
+            "Baltimore Colts",
+            "L 17-30",
+            "47479"
+        ],
+        [
+            "7",
+            "October 15, 1978",
+            "Dallas Cowboys",
+            "L 21-24",
+            "48991"
+        ],
+        [
+            "8",
+            "October 22, 1978",
+            "at New York Jets",
+            "L 10-23",
+            "49244"
+        ],
+        [
+            "9",
+            "October 29, 1978",
+            "at Philadelphia Eagles",
+            "W 16-10",
+            "62989"
+        ],
+        [
+            "10",
+            "November 5, 1978",
+            "New York Giants",
+            "W 20-10",
+            "48820"
+        ],
+        [
+            "11",
+            "November 12, 1978",
+            "at San Francisco 49ers",
+            "W 16-10",
+            "33155"
+        ],
+        [
+            "12",
+            "November 19, 1978",
+            "at Washington Redskins",
+            "W 27-17",
+            "52460"
+        ],
+        [
+            "13",
+            "November 26, 1978",
+            "Philadelphia Eagles",
+            "L 10-14",
+            "39693"
+        ],
+        [
+            "14",
+            "December 3, 1978",
+            "Detroit Lions",
+            "W 21-14",
+            "39200"
+        ],
+        [
+            "15",
+            "December 10, 1978",
+            "at New York Giants",
+            "L 0-17",
+            "52226"
+        ],
+        [
+            "16",
+            "December 17, 1978",
+            "Atlanta Falcons",
+            "W 42-21",
+            "40022"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "174cad00b7458153ad31d41660d2398bc19c13ba02629e86f8ee22714d9668c0",
+    "metadata": "Wells (UK Parliament constituency) | MPs 1832-1868 | MPs 1832-1868",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "_1st_Member",
+        "_1st_Party",
+        "_2nd_Member",
+        "_2nd_Party"
+    ],
+    "cell": [
+        [
+            "1832",
+            "Norman Lamont",
+            "Whig",
+            "John Lee Lee",
+            "Whig"
+        ],
+        [
+            "1834 by-election",
+            "Nicholas William Ridley Colborne",
+            "Whig",
+            "John Lee Lee",
+            "Whig"
+        ],
+        [
+            "1837",
+            "Richard Blakemore",
+            "Conservative",
+            "William Goodenough Hayter",
+            "Whig"
+        ],
+        [
+            "1852",
+            "Robert Charles Tudway",
+            "Conservative",
+            "William Goodenough Hayter",
+            "Whig"
+        ],
+        [
+            "1855 by-election",
+            "Hedworth Hylton Jolliffe",
+            "Conservative",
+            "William Goodenough Hayter",
+            "Whig"
+        ],
+        [
+            "1865",
+            "Hedworth Hylton Jolliffe",
+            "Conservative",
+            "Arthur Divett Hayter",
+            "Liberal"
+        ],
+        [
+            "1868",
+            "borough constituency abolished",
+            "borough constituency abolished",
+            "borough constituency abolished",
+            "borough constituency abolished"
+        ]
+    ]
+}

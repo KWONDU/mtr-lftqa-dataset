@@ -1,0 +1,71 @@
+{
+    "id": "39d87383e1f2264d7aa397b6fc979e92c10c96f33bd0a04958149966cd7de8c2",
+    "metadata": "Indiana High School Athletics Conferences: Ohio River Valley - Western Indiana | Patoka Lake Conference | Patoka Lake Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Size_",
+        "IHSAA_Class",
+        "County"
+    ],
+    "cell": [
+        [
+            "Crawford County",
+            "Marengo",
+            "Wolfpack",
+            "487",
+            "AA",
+            "13 Crawford"
+        ],
+        [
+            "Mitchell",
+            "Mitchell",
+            "Bluejackets",
+            "620",
+            "AAA",
+            "47 Lawrence"
+        ],
+        [
+            "Orleans",
+            "Orleans",
+            "Bulldogs",
+            "258",
+            "A",
+            "59 Orange"
+        ],
+        [
+            "Paoli",
+            "Paoli",
+            "Rams",
+            "511",
+            "AA",
+            "59 Orange"
+        ],
+        [
+            "Perry Central",
+            "Leopold",
+            "Commodores",
+            "334",
+            "AA",
+            "62 Perry"
+        ],
+        [
+            "Springs Valley",
+            "French Lick",
+            "Blackhawks",
+            "319",
+            "A",
+            "59 Orange"
+        ],
+        [
+            "West Washington",
+            "Campbellsburg",
+            "Senators",
+            "307",
+            "A",
+            "88 Washington"
+        ]
+    ]
+}

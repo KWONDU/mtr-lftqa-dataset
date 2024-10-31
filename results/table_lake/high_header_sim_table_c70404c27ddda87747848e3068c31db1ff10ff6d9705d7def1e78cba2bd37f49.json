@@ -1,0 +1,56 @@
+{
+    "id": "c70404c27ddda87747848e3068c31db1ff10ff6d9705d7def1e78cba2bd37f49",
+    "metadata": "Cape Winelands District Municipality | Geography | Geography",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Seat",
+        "Population_2011",
+        "Area_km_2_",
+        "Density_inhabitants_km_2_"
+    ],
+    "cell": [
+        [
+            "Witzenberg",
+            "Ceres",
+            "115946",
+            "10753",
+            "10.8"
+        ],
+        [
+            "Drakenstein",
+            "Paarl",
+            "251262",
+            "1538",
+            "163.4"
+        ],
+        [
+            "Stellenbosch",
+            "Stellenbosch",
+            "155733",
+            "831",
+            "187.4"
+        ],
+        [
+            "Breede Valley",
+            "Worcester",
+            "166825",
+            "3833",
+            "43.5"
+        ],
+        [
+            "Langeberg",
+            "Ashton",
+            "97724",
+            "4518",
+            "21.6"
+        ],
+        [
+            "Total",
+            "Total",
+            "787490",
+            "21473",
+            "36.7"
+        ]
+    ]
+}

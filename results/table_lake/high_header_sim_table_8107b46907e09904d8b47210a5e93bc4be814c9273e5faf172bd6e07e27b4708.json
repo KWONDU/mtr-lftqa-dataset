@@ -1,0 +1,70 @@
+{
+    "id": "8107b46907e09904d8b47210a5e93bc4be814c9273e5faf172bd6e07e27b4708",
+    "metadata": "Lithuanian language | Old Lithuanian | Verbs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "_be_",
+        "_remain_",
+        "_give_",
+        "_save_"
+    ],
+    "cell": [
+        [
+            "1st sg",
+            "esm\u00ec",
+            "liekm\u00ec",
+            "d\u00faomi",
+            "g\u00e9lbmi"
+        ],
+        [
+            "2nd sg",
+            "es\u00ec",
+            "lieks\u00ec",
+            "d\u00faosi",
+            "g\u00e9lbsi"
+        ],
+        [
+            "3rd sg",
+            "\u1ebdst(i)",
+            "li\u1ebdkt(i)",
+            "d\u00faost(i)",
+            "g\u00e9lbt(i)"
+        ],
+        [
+            "1st dual",
+            "esv\u00e0",
+            "liekv\u00e0",
+            "d\u00faova",
+            "g\u00e9lbva"
+        ],
+        [
+            "2nd dual",
+            "est\u00e0",
+            "liekt\u00e0",
+            "d\u00faosta",
+            "g\u00e9lbta"
+        ],
+        [
+            "1st pl",
+            "esm\u00e8",
+            "liekm\u00e8",
+            "d\u00faome",
+            "g\u00e9lbme"
+        ],
+        [
+            "2nd pl",
+            "est\u00e8",
+            "liekt\u00e8",
+            "d\u00faoste",
+            "g\u00e9lbte"
+        ],
+        [
+            "3rd pl",
+            "\u1ebdsti",
+            "li\u1ebdkt(i)",
+            "d\u00faost(i)",
+            "g\u00e9lbt(i)"
+        ]
+    ]
+}

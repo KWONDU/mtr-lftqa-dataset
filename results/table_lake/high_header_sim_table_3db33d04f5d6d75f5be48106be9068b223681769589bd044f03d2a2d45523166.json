@@ -1,0 +1,97 @@
+{
+    "id": "3db33d04f5d6d75f5be48106be9068b223681769589bd044f03d2a2d45523166",
+    "metadata": "Religion in Eritrea | Religious affiliation by geography and by ethnic group | Religious affiliation by geography and by ethnic group",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ethnic_Group",
+        "Main_Regions",
+        "Population",
+        "Percentage_of_total_population",
+        "Christians",
+        "Muslims",
+        "Other"
+    ],
+    "cell": [
+        [
+            "Tigrigna",
+            "Maekel Region , Debub Region",
+            "3319680",
+            "57%",
+            "53%",
+            "44%",
+            "1%"
+        ],
+        [
+            "Tigre",
+            "Gash-Barka Region , Anseba Region , Maekel Region",
+            "1630720",
+            "28%",
+            "6%",
+            "90%",
+            "4%"
+        ],
+        [
+            "Saho",
+            "Northern Red Sea Region , Debub Region",
+            "232960",
+            "4%",
+            "7%",
+            "93%",
+            "N/A"
+        ],
+        [
+            "Kunama",
+            "Gash-Barka Region",
+            "174720",
+            "3%",
+            "41%",
+            "23%",
+            "36%"
+        ],
+        [
+            "Afar",
+            "Southern Red Sea Region",
+            "174720",
+            "3%",
+            "2%",
+            "98%",
+            "N/A"
+        ],
+        [
+            "Bilen",
+            "Anseba Region",
+            "116480",
+            "2%",
+            "48%",
+            "47%",
+            "5%"
+        ],
+        [
+            "Nara",
+            "Gash-Barka Region",
+            "58240",
+            "1%",
+            "14%",
+            "85%",
+            "1%"
+        ],
+        [
+            "Beja",
+            "Gash-Barka Region , Anseba Region",
+            "58240",
+            "1%",
+            "1%",
+            "98%",
+            "1%"
+        ],
+        [
+            "Rashaida",
+            "Northern Red Sea Region",
+            "58.240",
+            "1%",
+            "N/A",
+            "99%",
+            "N.A"
+        ]
+    ]
+}

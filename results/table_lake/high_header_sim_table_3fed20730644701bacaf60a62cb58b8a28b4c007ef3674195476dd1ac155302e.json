@@ -1,0 +1,71 @@
+{
+    "id": "3fed20730644701bacaf60a62cb58b8a28b4c007ef3674195476dd1ac155302e",
+    "metadata": "List of Douglas A-26 Invader operators | Brazil | Brazilian Air Force",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Designation",
+        "USAAF_Serial",
+        "PoAF_Serial",
+        "Delivery",
+        "Retired",
+        "In_Service"
+    ],
+    "cell": [
+        [
+            "B-26B-60/61-DL",
+            "44-34535",
+            "7101",
+            "May 1965",
+            "1975",
+            "26 April 1971"
+        ],
+        [
+            "B-26B-55/65-DL",
+            "44-34328",
+            "7102",
+            "1965",
+            "1975",
+            "January 1972"
+        ],
+        [
+            "B-26C-40-DT",
+            "44-35631",
+            "7103",
+            "1965",
+            "1975",
+            "November 1971"
+        ],
+        [
+            "B-26B-66-DL",
+            "44-34726",
+            "7104",
+            "1965",
+            "1973",
+            "26 September 1967"
+        ],
+        [
+            "B-26B-20-DT",
+            "43-22427",
+            "7105",
+            "1965",
+            "1975",
+            "September 1971"
+        ],
+        [
+            "B-26B-40-DL",
+            "41-39517",
+            "7106",
+            "1965",
+            "1975",
+            "28 July 1969"
+        ],
+        [
+            "B-26C-35-DT",
+            "44-35363",
+            "7107",
+            "1965",
+            "1975",
+            "9 September 1970"
+        ]
+    ]
+}

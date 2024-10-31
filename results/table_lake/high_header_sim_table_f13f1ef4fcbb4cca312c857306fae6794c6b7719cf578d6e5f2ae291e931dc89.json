@@ -1,0 +1,56 @@
+{
+    "id": "f13f1ef4fcbb4cca312c857306fae6794c6b7719cf578d6e5f2ae291e931dc89",
+    "metadata": "Hampden Football Netball League | 1939 Ladder | 1939 Ladder",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Wins",
+        "Losses",
+        "Draws",
+        "Against"
+    ],
+    "cell": [
+        [
+            "Warrnambool",
+            "10",
+            "5",
+            "0",
+            "1179"
+        ],
+        [
+            "South Warrnambool",
+            "9",
+            "5",
+            "1",
+            "1244"
+        ],
+        [
+            "Cobden",
+            "9",
+            "6",
+            "0",
+            "1306"
+        ],
+        [
+            "Terang",
+            "7",
+            "8",
+            "0",
+            "1302"
+        ],
+        [
+            "Camperdown",
+            "6",
+            "8",
+            "1",
+            "1362"
+        ],
+        [
+            "Mortlake",
+            "3",
+            "12",
+            "0",
+            "1548"
+        ]
+    ]
+}

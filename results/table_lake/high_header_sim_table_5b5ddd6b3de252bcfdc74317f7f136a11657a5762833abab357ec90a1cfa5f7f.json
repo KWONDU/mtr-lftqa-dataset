@@ -1,0 +1,49 @@
+{
+    "id": "5b5ddd6b3de252bcfdc74317f7f136a11657a5762833abab357ec90a1cfa5f7f",
+    "metadata": "1984-85 FA Cup | Sixth round proper | Sixth round proper",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Luton Town",
+            "1-0",
+            "Millwall",
+            "13 March 1985"
+        ],
+        [
+            "2",
+            "Everton",
+            "2-2",
+            "Ipswich Town",
+            "9 March 1985"
+        ],
+        [
+            "Replay",
+            "Ipswich Town",
+            "0-1",
+            "Everton",
+            "13 March 1985"
+        ],
+        [
+            "3",
+            "Barnsley",
+            "0-4",
+            "Liverpool",
+            "10 March 1985"
+        ],
+        [
+            "4",
+            "Manchester United",
+            "4-2",
+            "West Ham United",
+            "9 March 1985"
+        ]
+    ]
+}

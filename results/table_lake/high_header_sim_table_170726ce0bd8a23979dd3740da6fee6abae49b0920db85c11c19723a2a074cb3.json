@@ -1,0 +1,71 @@
+{
+    "id": "170726ce0bd8a23979dd3740da6fee6abae49b0920db85c11c19723a2a074cb3",
+    "metadata": "Equestrian at the 1980 Summer Olympics | Medals | Medals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Soviet Union (URS)",
+            "3",
+            "3",
+            "2",
+            "8"
+        ],
+        [
+            "2",
+            "Italy (ITA)",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "2",
+            "Poland (POL)",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "4",
+            "Austria (AUT)",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Bulgaria (BUL)",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "6",
+            "Mexico (MEX)",
+            "0",
+            "0",
+            "3",
+            "3"
+        ],
+        [
+            "7",
+            "Romania (ROU)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

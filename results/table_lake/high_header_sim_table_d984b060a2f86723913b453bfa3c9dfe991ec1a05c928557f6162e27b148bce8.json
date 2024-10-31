@@ -1,0 +1,70 @@
+{
+    "id": "d984b060a2f86723913b453bfa3c9dfe991ec1a05c928557f6162e27b148bce8",
+    "metadata": "1957 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "11.15 (81)",
+            "St Kilda",
+            "10.19 (79)",
+            "Punt Road Oval",
+            "21000",
+            "8 June 1957"
+        ],
+        [
+            "Fitzroy",
+            "10.11 (71)",
+            "North Melbourne",
+            "10.17 (77)",
+            "Brunswick Street Oval",
+            "15000",
+            "8 June 1957"
+        ],
+        [
+            "Essendon",
+            "21.12 (138)",
+            "Geelong",
+            "15.12 (102)",
+            "Windy Hill",
+            "22000",
+            "8 June 1957"
+        ],
+        [
+            "Carlton",
+            "10.11 (71)",
+            "Melbourne",
+            "14.15 (99)",
+            "Princes Park",
+            "31096",
+            "8 June 1957"
+        ],
+        [
+            "South Melbourne",
+            "9.14 (68)",
+            "Hawthorn",
+            "13.11 (89)",
+            "Lake Oval",
+            "18200",
+            "8 June 1957"
+        ],
+        [
+            "Footscray",
+            "12.17 (89)",
+            "Collingwood",
+            "6.4 (40)",
+            "Western Oval",
+            "34742",
+            "8 June 1957"
+        ]
+    ]
+}

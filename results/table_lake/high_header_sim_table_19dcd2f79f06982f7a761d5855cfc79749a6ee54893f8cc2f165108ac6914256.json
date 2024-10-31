@@ -1,0 +1,63 @@
+{
+    "id": "19dcd2f79f06982f7a761d5855cfc79749a6ee54893f8cc2f165108ac6914256",
+    "metadata": "2006 CFL Draft | Round five | Round five",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "35",
+            "Hamilton Tiger-Cats",
+            "Michael Roberts",
+            "CB",
+            "Ohio State"
+        ],
+        [
+            "36",
+            "Winnipeg Blue Bombers",
+            "David Stevens",
+            "RB",
+            "Saskatchewan"
+        ],
+        [
+            "37",
+            "Saskatchewan Roughriders",
+            "Jesse Alexander",
+            "LB",
+            "Wilfrid Laurier"
+        ],
+        [
+            "38",
+            "Calgary Stampeders",
+            "Derek Armstrong",
+            "OL",
+            "St. Francis Xavier"
+        ],
+        [
+            "39",
+            "Toronto Argonauts",
+            "Brian Ramsay",
+            "OL",
+            "New Mexico"
+        ],
+        [
+            "40",
+            "BC Lions",
+            "Mike Lindstrom",
+            "SB",
+            "British Columbia"
+        ],
+        [
+            "41",
+            "Montreal Alouettes",
+            "Joel Wright",
+            "DB",
+            "Wilfrid Laurier"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1c205013e1ff435994d212e2613c047573b8a6d92f2ab526a1cff02c5142a533",
+    "metadata": "Spearhead (TV series) | Series 3: Spearhead in Hong Kong | Series 3: Spearhead in Hong Kong",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode_",
+        "Original_Air_Date_UK",
+        "Episode_Title",
+        "Director",
+        "Writer",
+        "Cast_"
+    ],
+    "cell": [
+        [
+            "3-01",
+            "30 July 1981",
+            "Night Games",
+            "Derek Martinus",
+            "Nick McCarty",
+            "Stafford Gordon , Roy Holder"
+        ],
+        [
+            "3-02",
+            "6 August 1981",
+            "Have a Happy Day",
+            "James Ormerod",
+            "Nick McCarty",
+            "Stafford Gordon, Roy Holder"
+        ],
+        [
+            "3-03",
+            "13 August 1981",
+            "Another Happy Day",
+            "James Ormerod",
+            "Nick McCarty",
+            "Stafford Gordon, Roy Holder"
+        ],
+        [
+            "3-04",
+            "20 August 1981",
+            "The Macau Connection",
+            "Derek Martinus",
+            "Nick McCarty",
+            "Stafford Gordon, Roy Holder"
+        ],
+        [
+            "3-05",
+            "27 August 1981",
+            "Loyalties II",
+            "Derek Martinus",
+            "Nick McCarty",
+            "Stafford Gordon, Roy Holder"
+        ]
+    ]
+}

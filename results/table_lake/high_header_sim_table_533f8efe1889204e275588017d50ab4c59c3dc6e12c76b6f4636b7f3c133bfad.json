@@ -1,0 +1,63 @@
+{
+    "id": "533f8efe1889204e275588017d50ab4c59c3dc6e12c76b6f4636b7f3c133bfad",
+    "metadata": "North Lincolnshire | Economy | Economy",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Regional_Gross_Value_Added",
+        "Agriculture",
+        "Industry",
+        "Services"
+    ],
+    "cell": [
+        [
+            "1995",
+            "3512",
+            "82",
+            "1701",
+            "1729"
+        ],
+        [
+            "2000",
+            "3861",
+            "60",
+            "1805",
+            "1997"
+        ],
+        [
+            "2003",
+            "4569",
+            "62",
+            "1896",
+            "2611"
+        ],
+        [
+            "2004",
+            "4838",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "2005",
+            "4941",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "2006",
+            "5126",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "2007",
+            "5494",
+            "-",
+            "-",
+            "-"
+        ]
+    ]
+}

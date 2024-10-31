@@ -1,0 +1,49 @@
+{
+    "id": "ee856650b4aa0c7f1ffb465295685e916cacf11c3608dffb90e55f9f27d2bdb1",
+    "metadata": "Great Lake Relay | Event Records | Event Records",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Grade",
+        "Team",
+        "Town",
+        "Time_",
+        "Year_"
+    ],
+    "cell": [
+        [
+            "Runners",
+            "Adidas Adistars",
+            "Auckland",
+            "8:42:47",
+            "2002"
+        ],
+        [
+            "Walkers",
+            "Team New Balance",
+            "Whangarei",
+            "13:47:00",
+            "2007"
+        ],
+        [
+            "Composite",
+            "Bush Survivors",
+            "Woodville",
+            "12:49:08",
+            "2002"
+        ],
+        [
+            "Two person team (2x50km)",
+            "Riverhead 50k",
+            "Riverhead",
+            "8:56:18",
+            "2005"
+        ],
+        [
+            "100km Solo Walker",
+            "Peter Baillie",
+            "Plimmerton",
+            "12:25:00",
+            "2005"
+        ]
+    ]
+}

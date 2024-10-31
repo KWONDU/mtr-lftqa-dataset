@@ -1,0 +1,55 @@
+{
+    "id": "47ffa62eef72f9c8e2cc4e3658a7525f3eb5378feb9af63762fafa82dfcf8651",
+    "metadata": "1986-87 Boston Celtics season | NBA Draft | NBA Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "Nationality",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "2",
+            "Len Bias",
+            "Forward",
+            "United States",
+            "Maryland"
+        ],
+        [
+            "4",
+            "93",
+            "Tony Bedford",
+            "N/A",
+            "United States",
+            "Texas Tech"
+        ],
+        [
+            "5",
+            "116",
+            "Dave Colbert",
+            "N/A",
+            "United States",
+            "Dayton"
+        ],
+        [
+            "6",
+            "139",
+            "Greg Wendt",
+            "N/A",
+            "United States",
+            "Detroit"
+        ],
+        [
+            "7",
+            "162",
+            "Tom Ivey",
+            "N/A",
+            "United States",
+            "Boston"
+        ]
+    ]
+}

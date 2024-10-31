@@ -1,0 +1,56 @@
+{
+    "id": "498474f9aa2680d3f74fd4a46de87c0f16ba85bc020f28c0b14ebdedb5ce0cc2",
+    "metadata": "Mariana de la Noche | Awards | Awards",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Ceremony",
+        "Category",
+        "Nominee",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "2001",
+            "TVyNovelas Awards",
+            "Best Telenovela",
+            "Mariana de la Noche",
+            "Nominated"
+        ],
+        [
+            "2001",
+            "TVyNovelas Awards",
+            "Best Lead Actor",
+            "Jorge Salinas",
+            "Nominated"
+        ],
+        [
+            "2001",
+            "TVyNovelas Awards",
+            "Best Female Villain",
+            "Ang\u00e9lica Rivera",
+            "Won"
+        ],
+        [
+            "2001",
+            "TVyNovelas Awards",
+            "Best Male Villain",
+            "C\u00e9sar \u00c9vora",
+            "Won"
+        ],
+        [
+            "2001",
+            "TVyNovelas Awards",
+            "Best Supporting Actress",
+            "Adriana Fonseca",
+            "Nominated"
+        ],
+        [
+            "2001",
+            "TVyNovelas Awards",
+            "Best First Actress",
+            "Patricia Reyes Sp\u00edndola",
+            "Nominated"
+        ]
+    ]
+}

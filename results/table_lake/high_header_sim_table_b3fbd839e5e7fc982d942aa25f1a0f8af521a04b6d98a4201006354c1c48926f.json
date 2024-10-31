@@ -1,0 +1,71 @@
+{
+    "id": "b3fbd839e5e7fc982d942aa25f1a0f8af521a04b6d98a4201006354c1c48926f",
+    "metadata": "List of cities in the Far East by population | Largest metropolitan areas | Largest metropolitan areas",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Metropolitan_area",
+        "Country",
+        "Population",
+        "Area_km\u00b2",
+        "Population_Density_People_km\u00b2"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tokyo",
+            "Japan",
+            "32450000",
+            "8014",
+            "4049"
+        ],
+        [
+            "2",
+            "Seoul",
+            "South Korea",
+            "20550000",
+            "5076",
+            "4048"
+        ],
+        [
+            "3",
+            "Mumbai (Bombay)",
+            "India",
+            "20900000",
+            "8100",
+            "7706"
+        ],
+        [
+            "4",
+            "Jakarta",
+            "Indonesia",
+            "18900000",
+            "5100",
+            "3706"
+        ],
+        [
+            "5",
+            "Shanghai",
+            "China",
+            "16650000",
+            "5177",
+            "3216"
+        ],
+        [
+            "7",
+            "Hong Kong - Shenzhen",
+            "Hong Kong China",
+            "15800000",
+            "3051",
+            "5179"
+        ],
+        [
+            "8",
+            "Beijing",
+            "China",
+            "12500000",
+            "6562",
+            "1905"
+        ]
+    ]
+}

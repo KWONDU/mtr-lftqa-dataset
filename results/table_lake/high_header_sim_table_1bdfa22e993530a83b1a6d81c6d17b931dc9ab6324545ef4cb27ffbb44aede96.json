@@ -1,0 +1,119 @@
+{
+    "id": "1bdfa22e993530a83b1a6d81c6d17b931dc9ab6324545ef4cb27ffbb44aede96",
+    "metadata": "List of the busiest airports in Brazil | 2005 | Brazil's 15 busiest airports by passenger traffic",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Location_",
+        "Total_Passengers",
+        "Annual_change",
+        "Capacity_in_use"
+    ],
+    "cell": [
+        [
+            "1",
+            "S\u00e3o Paulo",
+            "17147628",
+            "26.0%",
+            "142.9%"
+        ],
+        [
+            "2",
+            "S\u00e3o Paulo",
+            "15834797",
+            "22.4%",
+            "96.0%"
+        ],
+        [
+            "3",
+            "Bras\u00edlia",
+            "9426569",
+            "5.0%",
+            "127.4%"
+        ],
+        [
+            "4",
+            "Rio de Janeiro",
+            "8657139",
+            "43.7%",
+            "57.7%"
+        ],
+        [
+            "5",
+            "Salvador",
+            "4554572",
+            "9.9%",
+            "75.9%"
+        ],
+        [
+            "6",
+            "Recife",
+            "3604652",
+            "13.6%",
+            "72.1%"
+        ],
+        [
+            "7",
+            "Rio de Janeiro",
+            "3562297",
+            "27.1%",
+            "111.3%"
+        ],
+        [
+            "8",
+            "Porto Alegre",
+            "3521204",
+            "9.5%",
+            "57.7%"
+        ],
+        [
+            "9",
+            "Curitiba",
+            "3393079",
+            "19.5%",
+            "96.9%"
+        ],
+        [
+            "10",
+            "Belo Horizonte",
+            "2893299",
+            "644.6%",
+            "57.9%"
+        ],
+        [
+            "11",
+            "Fortaleza",
+            "2774240",
+            "19.7%",
+            "92.5%"
+        ],
+        [
+            "12",
+            "Florian\u00f3polis",
+            "1548833",
+            "12.0%",
+            "140.8%"
+        ],
+        [
+            "13",
+            "Bel\u00e9m",
+            "1523714",
+            "14.5%",
+            "56.4%"
+        ],
+        [
+            "14",
+            "Vit\u00f3ria",
+            "1517578",
+            "21.8%",
+            "271.0%"
+        ],
+        [
+            "15",
+            "Manaus",
+            "1508022",
+            "10.2%",
+            "83.1%"
+        ]
+    ]
+}

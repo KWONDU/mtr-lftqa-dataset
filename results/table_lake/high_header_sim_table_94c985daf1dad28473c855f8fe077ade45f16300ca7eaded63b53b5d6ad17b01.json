@@ -1,0 +1,71 @@
+{
+    "id": "94c985daf1dad28473c855f8fe077ade45f16300ca7eaded63b53b5d6ad17b01",
+    "metadata": "Internet in the Czech Republic | Comparison of mobile data plans | Comparison of mobile data plans",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Company",
+        "Plan_name",
+        "Technology",
+        "Maximum_download_speed_kbps",
+        "Data_limit_GB",
+        "Monthly_price_incl_VAT_CZK"
+    ],
+    "cell": [
+        [
+            "T-Mobile",
+            "Internet Basic",
+            "3G",
+            "512",
+            "2/month",
+            "47481"
+        ],
+        [
+            "T-Mobile",
+            "Internet Standard",
+            "3G",
+            "512",
+            "5/month",
+            "83181"
+        ],
+        [
+            "T-Mobile",
+            "Internet Premium",
+            "3G",
+            "1024",
+            "10/month",
+            "400"
+        ],
+        [
+            "Telef\u00f3nica O2",
+            "Mobiln\u00ed internet",
+            "CDMA 450 MHz OR GPRS / EDGE / UMTS /HSDPA, Wi-Fi",
+            "3600",
+            "10/month",
+            "300, 500, 750, 1000"
+        ],
+        [
+            "Telef\u00f3nica O2",
+            "Mobiln\u00ed internet plus",
+            "CDMA 450 MHz, GPRS , EDGE , UMTS , HSDPA, Wi-Fi",
+            "3600",
+            "none",
+            "1000"
+        ],
+        [
+            "Vodafone",
+            "P\u0159ipojen\u00ed na st\u00e1lo",
+            "GSM , GPRS , EDGE , 3G , HSDPA, HSUPA, Wi-Fi",
+            "512",
+            "none",
+            "525 (262,50 first 4 months)"
+        ],
+        [
+            "U:fon",
+            "U:fon\u016fv fofr internet",
+            "CDMA 450 MHz, 3G",
+            "300-700",
+            "2/week",
+            "594 (297 first year)"
+        ]
+    ]
+}

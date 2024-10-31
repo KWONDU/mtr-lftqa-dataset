@@ -1,0 +1,56 @@
+{
+    "id": "f9ce58c344be6d460c02e1fb46af2c363e2633c9a331f420f25c1e3a4db92325",
+    "metadata": "2003-04 Manchester United F.C. season | Group stage | Group stage",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponents",
+        "Result_F_A",
+        "Attendance",
+        "Group_position"
+    ],
+    "cell": [
+        [
+            "16 September 2003",
+            "Panathinaikos",
+            "5-0",
+            "66520",
+            "1st"
+        ],
+        [
+            "1 October 2003",
+            "Stuttgart",
+            "1-2",
+            "50348",
+            "2nd"
+        ],
+        [
+            "22 October 2003",
+            "Rangers",
+            "1-0",
+            "48730",
+            "1st"
+        ],
+        [
+            "4 November 2003",
+            "Rangers",
+            "3-0",
+            "66707",
+            "1st"
+        ],
+        [
+            "26 November 2003",
+            "Panathinaikos",
+            "1-0",
+            "6890",
+            "1st"
+        ],
+        [
+            "9 December 2003",
+            "Stuttgart",
+            "2-0",
+            "67141",
+            "1st"
+        ]
+    ]
+}

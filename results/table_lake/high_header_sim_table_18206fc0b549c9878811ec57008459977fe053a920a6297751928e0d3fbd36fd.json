@@ -1,0 +1,63 @@
+{
+    "id": "18206fc0b549c9878811ec57008459977fe053a920a6297751928e0d3fbd36fd",
+    "metadata": "List of railway stations and tram stops in Croydon | W | W",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Stations",
+        "Place",
+        "Managed_By",
+        "Platforms",
+        "Zone_"
+    ],
+    "cell": [
+        [
+            "Waddon Marsh tram stop",
+            "Waddon",
+            "Tramlink",
+            "2",
+            "5"
+        ],
+        [
+            "Waddon railway station",
+            "Waddon",
+            "Southern",
+            "2",
+            "5"
+        ],
+        [
+            "Wandle Park tram stop",
+            "Croydon",
+            "Tramlink",
+            "2",
+            "5"
+        ],
+        [
+            "Wellesley Road tram stop",
+            "Croydon",
+            "Tramlink",
+            "1",
+            "5"
+        ],
+        [
+            "West Croydon station",
+            "Croydon",
+            "Southern / Tramlink",
+            "2",
+            "5"
+        ],
+        [
+            "Woodmansterne railway station",
+            "Woodmansterne",
+            "Southern",
+            "2",
+            "6"
+        ],
+        [
+            "Woodside tram stop",
+            "Woodside",
+            "Tramlink",
+            "2",
+            "4"
+        ]
+    ]
+}

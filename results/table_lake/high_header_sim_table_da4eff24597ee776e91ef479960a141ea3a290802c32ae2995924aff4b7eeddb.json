@@ -1,0 +1,63 @@
+{
+    "id": "da4eff24597ee776e91ef479960a141ea3a290802c32ae2995924aff4b7eeddb",
+    "metadata": "Asian Youth Volleyball Championship | Medal summary | Medal summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Japan",
+            "5",
+            "2",
+            "0",
+            "7"
+        ],
+        [
+            "2",
+            "China",
+            "4",
+            "3",
+            "2",
+            "9"
+        ],
+        [
+            "3",
+            "South Korea",
+            "0",
+            "3",
+            "1",
+            "4"
+        ],
+        [
+            "4",
+            "North Korea",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Chinese Taipei",
+            "0",
+            "0",
+            "3",
+            "3"
+        ],
+        [
+            "5",
+            "Thailand",
+            "0",
+            "0",
+            "3",
+            "3"
+        ]
+    ]
+}

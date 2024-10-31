@@ -1,0 +1,56 @@
+{
+    "id": "a57c127ff6761fe827abeffce35d391ad1f450b3cdb5c5073be1794e9ce10ca1",
+    "metadata": "Abancourt, Oise | General Information | Comparison of Meteorological Data at \n Formerie \n Source data from the station at \n Beauvais \n , l'Internaute , INSEE and Lameteo.org with national data",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Sunshine_hrs_year",
+        "Rain_mm_year",
+        "Snow_days_year",
+        "Storms_days_year",
+        "Fog_days_year"
+    ],
+    "cell": [
+        [
+            "1973",
+            "770",
+            "14",
+            "22",
+            "40"
+        ],
+        [
+            "1650",
+            "657",
+            "17",
+            "18",
+            "54"
+        ],
+        [
+            "1 630",
+            "642",
+            "15",
+            "19",
+            "13"
+        ],
+        [
+            "2 668",
+            "767",
+            "1",
+            "31",
+            "1"
+        ],
+        [
+            "1 633",
+            "610",
+            "30",
+            "29",
+            "65"
+        ],
+        [
+            "1 492",
+            "1 109",
+            "9",
+            "11",
+            "74"
+        ]
+    ]
+}

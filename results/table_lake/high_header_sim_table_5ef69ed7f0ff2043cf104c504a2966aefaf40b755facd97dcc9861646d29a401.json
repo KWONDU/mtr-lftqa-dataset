@@ -1,0 +1,124 @@
+{
+    "id": "5ef69ed7f0ff2043cf104c504a2966aefaf40b755facd97dcc9861646d29a401",
+    "metadata": "List of schools in the Waikato Region | Otorohanga District | Otorohanga District",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Years",
+        "Gender",
+        "Area",
+        "Authority",
+        "Decile",
+        "Roll"
+    ],
+    "cell": [
+        [
+            "Arohena School",
+            "1-8",
+            "Coed",
+            "Te Awamutu",
+            "State",
+            "6",
+            "51"
+        ],
+        [
+            "Hauturu School",
+            "1-8",
+            "Coed",
+            "Oparau",
+            "State",
+            "3",
+            "48"
+        ],
+        [
+            "Kawhia School",
+            "1-8",
+            "Coed",
+            "Kawhia",
+            "State",
+            "1",
+            "51"
+        ],
+        [
+            "Kio Kio School",
+            "1-8",
+            "Coed",
+            "Kio Kio",
+            "State",
+            "7",
+            "140"
+        ],
+        [
+            "Korakonui School",
+            "1-8",
+            "Coed",
+            "Korakonui",
+            "State",
+            "8",
+            "133"
+        ],
+        [
+            "Maihiihi School",
+            "1-8",
+            "Coed",
+            "Maihiihi",
+            "State",
+            "7",
+            "60"
+        ],
+        [
+            "Ngutunui School",
+            "1-8",
+            "Coed",
+            "Te Awamutu",
+            "State",
+            "9",
+            "33"
+        ],
+        [
+            "Otewa School",
+            "1-8",
+            "Coed",
+            "Otorohanga",
+            "State",
+            "8",
+            "63"
+        ],
+        [
+            "Otorohanga College",
+            "9-15",
+            "Coed",
+            "Otorohanga",
+            "State",
+            "4",
+            "353"
+        ],
+        [
+            "Otorohanga School",
+            "1-8",
+            "Coed",
+            "Otorohanga",
+            "State",
+            "2",
+            "57"
+        ],
+        [
+            "Otorohanga South School",
+            "1-8",
+            "Coed",
+            "Otorohanga",
+            "State",
+            "4",
+            "363"
+        ],
+        [
+            "St Mary`s Catholic School",
+            "1-8",
+            "Coed",
+            "Otorohanga",
+            "State integrated",
+            "5",
+            "34"
+        ]
+    ]
+}

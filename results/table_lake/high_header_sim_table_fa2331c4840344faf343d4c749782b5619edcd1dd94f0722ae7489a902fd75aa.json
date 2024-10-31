@@ -1,0 +1,88 @@
+{
+    "id": "fa2331c4840344faf343d4c749782b5619edcd1dd94f0722ae7489a902fd75aa",
+    "metadata": "List of collaborative software | Comparison of targets | Comparison of targets",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Public_",
+        "Intranet",
+        "Extranet",
+        "Personal_Sites",
+        "Team_Sites",
+        "Developer"
+    ],
+    "cell": [
+        [
+            "IBM Connections",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "IBM Lotus Domino",
+            "Yes",
+            "Yes",
+            "Yes",
+            "No",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "IBM Lotus QuickPlace",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Microsoft Exchange Server",
+            "Yes",
+            "Yes",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "Microsoft Office Live Communications Server",
+            "No",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "No"
+        ],
+        [
+            "Microsoft Sharepoint",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Microsoft Team Foundation Server",
+            "No",
+            "Yes",
+            "Yes",
+            "No",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Name",
+            "Public",
+            "Intranet",
+            "Extranet",
+            "Personal Sites",
+            "Team Sites",
+            "Developer"
+        ]
+    ]
+}

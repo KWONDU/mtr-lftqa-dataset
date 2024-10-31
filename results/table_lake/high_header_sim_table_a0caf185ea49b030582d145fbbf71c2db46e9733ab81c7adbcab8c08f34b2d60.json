@@ -1,0 +1,49 @@
+{
+    "id": "a0caf185ea49b030582d145fbbf71c2db46e9733ab81c7adbcab8c08f34b2d60",
+    "metadata": "WYBE | Digital channels | Digital channels",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Channel",
+        "Video",
+        "Aspect",
+        "PSIP_Short_Name",
+        "Programming"
+    ],
+    "cell": [
+        [
+            "35.1",
+            "480i",
+            "4:3",
+            "MiND",
+            "Main WYBE programming"
+        ],
+        [
+            "35.2",
+            "480i",
+            "4:3",
+            "NHKWRLD",
+            "NHK World"
+        ],
+        [
+            "35.3",
+            "480i",
+            "4:3",
+            "F24",
+            "France24"
+        ],
+        [
+            "35.4",
+            "480i",
+            "4:3",
+            "RT",
+            "Russia Today"
+        ],
+        [
+            "35.66",
+            "480i",
+            "4:3",
+            "WNYJ",
+            "Simulcast of programming from WNYJ-TV"
+        ]
+    ]
+}

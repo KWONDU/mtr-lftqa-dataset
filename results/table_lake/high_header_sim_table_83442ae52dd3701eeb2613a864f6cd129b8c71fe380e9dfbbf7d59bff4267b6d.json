@@ -1,0 +1,97 @@
+{
+    "id": "83442ae52dd3701eeb2613a864f6cd129b8c71fe380e9dfbbf7d59bff4267b6d",
+    "metadata": "Canadian Interuniversity Sport men's soccer | Atlantic University Sport | Atlantic University Sport",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "University",
+        "Varsity_Name",
+        "City",
+        "Province",
+        "Founded",
+        "Soccer_Stadium",
+        "Stadium_Capacity"
+    ],
+    "cell": [
+        [
+            "Acadia University",
+            "Axemen",
+            "Wolfville",
+            "NS",
+            "1838",
+            "Raymond Field",
+            "3000"
+        ],
+        [
+            "Cape Breton University",
+            "Capers",
+            "Sydney",
+            "NS",
+            "2005",
+            "CBU Field",
+            "N/A"
+        ],
+        [
+            "Dalhousie University",
+            "Tigers",
+            "Halifax",
+            "NS",
+            "1818",
+            "Wickwire Field",
+            "2000"
+        ],
+        [
+            "Memorial University of Newfoundland",
+            "Sea-Hawks",
+            "St. John`s",
+            "NL",
+            "1925",
+            "King George V Park",
+            "10000"
+        ],
+        [
+            "Universit\u00e9 de Moncton",
+            "Aigles Bleu",
+            "Moncton",
+            "NB",
+            "1864",
+            "Moncton Stadium",
+            "10000"
+        ],
+        [
+            "Mount Allison University",
+            "Mounties",
+            "Sackville",
+            "NB",
+            "1839",
+            "MacAulay Field",
+            "2500"
+        ],
+        [
+            "University of New Brunswick",
+            "Varsity Reds",
+            "Fredericton",
+            "NB",
+            "1785",
+            "BMO Centre",
+            "2500"
+        ],
+        [
+            "University of Prince Edward Island",
+            "Panthers",
+            "Charlottetown",
+            "PEI",
+            "1969",
+            "UPEI Alumni Canada Games Place",
+            "1670"
+        ],
+        [
+            "Saint Mary`s University",
+            "Huskies",
+            "Halifax",
+            "NS",
+            "1802",
+            "Huskies Stadium",
+            "4000"
+        ]
+    ]
+}

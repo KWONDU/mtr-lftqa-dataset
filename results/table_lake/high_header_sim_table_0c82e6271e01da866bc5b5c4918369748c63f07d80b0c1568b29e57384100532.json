@@ -1,0 +1,49 @@
+{
+    "id": "0c82e6271e01da866bc5b5c4918369748c63f07d80b0c1568b29e57384100532",
+    "metadata": "Paper size | ANSI paper sizes | ANSI paper sizes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "in_in",
+        "mm_mm",
+        "Ratio",
+        "Similar_ISO_A_size"
+    ],
+    "cell": [
+        [
+            "ANSI A",
+            "8.5 \u00d7 11",
+            "216 \u00d7 279",
+            "1.2941",
+            "A4"
+        ],
+        [
+            "ANSI B",
+            "11 \u00d7 17",
+            "279 \u00d7 432",
+            "1.5455",
+            "A3"
+        ],
+        [
+            "ANSI C",
+            "17 \u00d7 22",
+            "432 \u00d7 559",
+            "1.2941",
+            "A2"
+        ],
+        [
+            "ANSI D",
+            "22 \u00d7 34",
+            "559 \u00d7 864",
+            "1.5455",
+            "A1"
+        ],
+        [
+            "ANSI E",
+            "34 \u00d7 44",
+            "864 \u00d7 1118",
+            "1.2941",
+            "A0"
+        ]
+    ]
+}

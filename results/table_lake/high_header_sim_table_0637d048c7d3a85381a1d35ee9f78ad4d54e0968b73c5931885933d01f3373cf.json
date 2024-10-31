@@ -1,0 +1,91 @@
+{
+    "id": "0637d048c7d3a85381a1d35ee9f78ad4d54e0968b73c5931885933d01f3373cf",
+    "metadata": "1986 Open Championship | First round | First round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "1",
+            "Ian Woosnam",
+            "Wales",
+            "70",
+            "E"
+        ],
+        [
+            "T2",
+            "Gordon J. Brand",
+            "England",
+            "71",
+            "+1"
+        ],
+        [
+            "T2",
+            "Nick Faldo",
+            "England",
+            "71",
+            "+1"
+        ],
+        [
+            "T2",
+            "Anders Forsbrand",
+            "Sweden",
+            "71",
+            "+1"
+        ],
+        [
+            "T2",
+            "Robert Lee",
+            "England",
+            "71",
+            "+1"
+        ],
+        [
+            "T6",
+            "Andrew Brooks",
+            "Scotland",
+            "72",
+            "+2"
+        ],
+        [
+            "T6",
+            "Ron Commans",
+            "United States",
+            "72",
+            "+2"
+        ],
+        [
+            "T6",
+            "Derrick Cooper",
+            "England",
+            "72",
+            "+2"
+        ],
+        [
+            "T6",
+            "Bernhard Langer",
+            "West Germany",
+            "72",
+            "+2"
+        ],
+        [
+            "T6",
+            "Sam Randolph",
+            "United States",
+            "72",
+            "+2"
+        ],
+        [
+            "T6",
+            "Ian Stanley",
+            "Australia",
+            "72",
+            "+2"
+        ]
+    ]
+}

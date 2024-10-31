@@ -1,0 +1,87 @@
+{
+    "id": "be5fbd422cc7cc3a2b08c6e1cba4077d5de8decc5c0dee3ecce722ad1cc2b2d7",
+    "metadata": "MLS Golden Boot | 2005-present | 2005-present",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Player",
+        "Club",
+        "Goals",
+        "Games",
+        "Rate"
+    ],
+    "cell": [
+        [
+            "2005",
+            "Taylor Twellman",
+            "New England Revolution",
+            "17",
+            "25",
+            "0.68"
+        ],
+        [
+            "2006",
+            "Jeff Cunningham",
+            "Real Salt Lake",
+            "16",
+            "31",
+            "0.52"
+        ],
+        [
+            "2007",
+            "Luciano Emilio",
+            "D.C. United",
+            "20",
+            "29",
+            "0.69"
+        ],
+        [
+            "2008",
+            "Landon Donovan",
+            "Los Angeles Galaxy",
+            "20",
+            "25",
+            "0.80"
+        ],
+        [
+            "2009",
+            "Jeff Cunningham",
+            "FC Dallas",
+            "17",
+            "28",
+            "0.61"
+        ],
+        [
+            "2010",
+            "Chris Wondolowski",
+            "San Jose Earthquakes",
+            "18",
+            "28",
+            "0.64"
+        ],
+        [
+            "2011",
+            "Dwayne De Rosario",
+            "Toronto FC New York Red Bulls D.C. United",
+            "16",
+            "33",
+            "0.48"
+        ],
+        [
+            "2012",
+            "Chris Wondolowski",
+            "San Jose Earthquakes",
+            "27",
+            "32",
+            "0.84"
+        ],
+        [
+            "2013",
+            "Camilo Sanvezzo",
+            "Vancouver Whitecaps FC",
+            "22",
+            "32",
+            "0.69"
+        ]
+    ]
+}

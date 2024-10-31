@@ -1,0 +1,55 @@
+{
+    "id": "d071903dc9230a8194e76fde6cbee4f213dc16939d65fd10aa6afd461f96a52b",
+    "metadata": "United States House of Representatives elections, 1996 | Louisiana | Louisiana",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Louisiana 1",
+            "Robert Livingston",
+            "Republican",
+            "1977",
+            "Re-elected",
+            "Robert Livingston (R) (unopposed)"
+        ],
+        [
+            "Louisiana 2",
+            "William J. Jefferson",
+            "Democratic",
+            "1990",
+            "Re-elected",
+            "William J. Jefferson (D) (unopposed)"
+        ],
+        [
+            "Louisiana 3",
+            "Billy Tauzin",
+            "Republican",
+            "1980",
+            "Re-elected",
+            "Billy Tauzin (R) (unopposed)"
+        ],
+        [
+            "Louisiana 4",
+            "Jim McCrery",
+            "Republican",
+            "1988",
+            "Re-elected",
+            "Jim McCrery (R) 71.38% Paul Chachere (D) 28.62%"
+        ],
+        [
+            "Louisiana 6",
+            "Richard Baker",
+            "Republican",
+            "1986",
+            "Re-elected",
+            "Richard Baker (R) 69.30% Steve Myers (D) 30.70%"
+        ]
+    ]
+}

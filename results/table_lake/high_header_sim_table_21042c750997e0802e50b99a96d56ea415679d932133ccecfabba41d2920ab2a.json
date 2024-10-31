@@ -1,0 +1,70 @@
+{
+    "id": "21042c750997e0802e50b99a96d56ea415679d932133ccecfabba41d2920ab2a",
+    "metadata": "1936 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "15.7 (97)",
+            "St Kilda",
+            "15.18 (108)",
+            "Arden Street Oval",
+            "8000",
+            "29 August 1936"
+        ],
+        [
+            "Footscray",
+            "8.17 (65)",
+            "Melbourne",
+            "9.18 (72)",
+            "Western Oval",
+            "13000",
+            "29 August 1936"
+        ],
+        [
+            "South Melbourne",
+            "16.10 (106)",
+            "Hawthorn",
+            "15.11 (101)",
+            "Lake Oval",
+            "12000",
+            "29 August 1936"
+        ],
+        [
+            "Richmond",
+            "8.7 (55)",
+            "Geelong",
+            "12.9 (81)",
+            "Punt Road Oval",
+            "14000",
+            "29 August 1936"
+        ],
+        [
+            "Fitzroy",
+            "9.16 (70)",
+            "Essendon",
+            "17.16 (118)",
+            "Brunswick Street Oval",
+            "9000",
+            "29 August 1936"
+        ],
+        [
+            "Collingwood",
+            "13.11 (89)",
+            "Carlton",
+            "13.12 (90)",
+            "Victoria Park",
+            "30100",
+            "29 August 1936"
+        ]
+    ]
+}

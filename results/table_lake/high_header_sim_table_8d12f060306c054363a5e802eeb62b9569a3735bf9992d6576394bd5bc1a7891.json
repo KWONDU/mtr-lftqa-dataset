@@ -1,0 +1,49 @@
+{
+    "id": "8d12f060306c054363a5e802eeb62b9569a3735bf9992d6576394bd5bc1a7891",
+    "metadata": "Latin American Poker Tour | Season 2 | Season 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "City",
+        "Event",
+        "Winner",
+        "Prize"
+    ],
+    "cell": [
+        [
+            "November 3-5, 2008",
+            "San Jos\u00e9",
+            "LAPT San Jose - Costa Rica",
+            "Ryan Fee",
+            "$285,773"
+        ],
+        [
+            "December 5-7, 2008",
+            "Nuevo Vallarta",
+            "LAPT Nuevo Vallarta - Mexico",
+            "(cancelled)",
+            "(cancelled)"
+        ],
+        [
+            "January 20-22, 2009",
+            "Vi\u00f1a del Mar",
+            "LAPT Vi\u00f1a del Mar - Chile",
+            "Fabi\u00e1n Ortiz",
+            "$141,426"
+        ],
+        [
+            "March 18-20, 2009",
+            "Punta del Este",
+            "LAPT Punta del Este - Uruguay",
+            "Karl Hevroy",
+            "$283,580"
+        ],
+        [
+            "April 16-19, 2009",
+            "Mar del Plata",
+            "LAPT Mar del Plata - Argentina",
+            "Dominik Nitsche",
+            "$381,030"
+        ]
+    ]
+}

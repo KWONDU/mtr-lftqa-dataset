@@ -1,0 +1,56 @@
+{
+    "id": "93467bfaf449d34d70176b65ed8aa3ea9e302c602066031e7940a581f2970cf9",
+    "metadata": "List of England national rugby union team results 1980-89 | 1981 | 1981",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Teams",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Wales",
+            "21",
+            "17/01/1981",
+            "Cardiff Arms Park , Cardiff",
+            "Five Nations"
+        ],
+        [
+            "Scotland",
+            "17",
+            "21/02/1981",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Ireland",
+            "6",
+            "07/03/1981",
+            "Lansdowne Road , Dublin",
+            "Five Nations"
+        ],
+        [
+            "France",
+            "16",
+            "21/03/1981",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Argentina",
+            "19",
+            "30/05/1981",
+            "Ferrocarril Stadium , Buenos Aires",
+            "First Test"
+        ],
+        [
+            "Argentina",
+            "6",
+            "06/06/1981",
+            "Ferrocarril Stadium , Buenos Aires",
+            "Second Test"
+        ]
+    ]
+}

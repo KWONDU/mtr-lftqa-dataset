@@ -1,0 +1,61 @@
+{
+    "id": "6a793c726d4a60207eed040e67ddcdcf5e25aa19a4f427f068f773bc99123a2f",
+    "metadata": "1905-06 FAHL season | Final standing | Final standing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Games_Played",
+        "Wins",
+        "Losses",
+        "Ties_",
+        "Goals_For",
+        "Goals_Against"
+    ],
+    "cell": [
+        [
+            "Smiths Falls Seniors",
+            "7",
+            "7",
+            "0",
+            "0",
+            "35",
+            "13"
+        ],
+        [
+            "Ottawa Victorias",
+            "8",
+            "4",
+            "4",
+            "0",
+            "48",
+            "42"
+        ],
+        [
+            "Brockville HC",
+            "7",
+            "3",
+            "4",
+            "0",
+            "55",
+            "32"
+        ],
+        [
+            "Cornwall HC",
+            "6",
+            "2",
+            "4",
+            "0",
+            "16",
+            "30"
+        ],
+        [
+            "Montreal Montagnards",
+            "4",
+            "0",
+            "4",
+            "0",
+            "2",
+            "39"
+        ]
+    ]
+}

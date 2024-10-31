@@ -1,0 +1,77 @@
+{
+    "id": "c76ee19a92cf6d079c0488685593cfab03089b51bd84ca7e4b55ff3bb97ee0bf",
+    "metadata": "ISO 15919 | Relation to other systems | Comparison with UNRSGN and IAST",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Devanagari",
+        "ISO_15919",
+        "UNRSGN",
+        "IAST",
+        "Comment_"
+    ],
+    "cell": [
+        [
+            "\u090f /  \u0947",
+            "\u0113",
+            "e",
+            "e",
+            "To distinguish between long and short `e` in Dravidian languages, `e` now represents \u090e /  \u0946 (short). Note that the use of \u0113 is considered optional in ISO 15919, and using e for \u090f (long) is acceptable for languages that do not distinguish long and short e."
+        ],
+        [
+            "\u0913 /  \u094b",
+            "\u014d",
+            "o",
+            "o",
+            "To distinguish between long and short `o` in Dravidian languages, `o` now represents \u0912 /  \u094a (short). Note that the use of \u014d is considered optional in ISO 15919, and using o for \u0913 (long) is acceptable for languages that do not distinguish long and short o."
+        ],
+        [
+            "\u090b /  \u0943",
+            "r\u0325",
+            "\u1e5b",
+            "\u1e5b",
+            "In ISO 15919, \u1e5b is used to represent \u0921\u093c."
+        ],
+        [
+            "\u0960 /  \u0944",
+            "r\u0325\u0304",
+            "\u1e5d",
+            "\u1e5d",
+            "For consistency with r\u0325"
+        ],
+        [
+            "\u090c /  \u0962",
+            "l\u0325",
+            "l\u0324",
+            "\u1e37",
+            "In ISO 15919, \u1e37 is used to represent \u0933."
+        ],
+        [
+            "\u0961 /  \u0963",
+            "l\u0325\u0304",
+            "l\u0324\u0304",
+            "\u1e39",
+            "For consistency with l\u0325"
+        ],
+        [
+            "\u25cc\u0902",
+            "\u1e41",
+            "\u1e41",
+            "\u1e43",
+            "ISO 15919 has two options about anusv\u0101ra. (1) In the simplified nasalization option, an anusv\u0101ra is always transliterated as \u1e41. (2) In the strict nasalization option, anusv\u0101ra before a class consonant is transliterated as the class nasal\u2014\u1e45 before k, kh, g, gh, \u1e45; \u00f1 before c, ch, j, jh, \u00f1; \u1e47 before \u1e6d, \u1e6dh, \u1e0d, \u1e0dh, \u1e47; n before t, th, d, dh, n; m before p, ph, b, bh, m. \u1e43 is sometimes used to specifically represent Gurmukhi Tippi  \u0a70."
+        ],
+        [
+            "\u25cc\u0902",
+            "\u1e45 \u00f1 \u1e47 n m",
+            "\u1e41",
+            "\u1e43",
+            "ISO 15919 has two options about anusv\u0101ra. (1) In the simplified nasalization option, an anusv\u0101ra is always transliterated as \u1e41. (2) In the strict nasalization option, anusv\u0101ra before a class consonant is transliterated as the class nasal\u2014\u1e45 before k, kh, g, gh, \u1e45; \u00f1 before c, ch, j, jh, \u00f1; \u1e47 before \u1e6d, \u1e6dh, \u1e0d, \u1e0dh, \u1e47; n before t, th, d, dh, n; m before p, ph, b, bh, m. \u1e43 is sometimes used to specifically represent Gurmukhi Tippi  \u0a70."
+        ],
+        [
+            "\u25cc\u0901",
+            "m\u0310",
+            "",
+            "m\u0310",
+            "Vowel nasalization is transliterated as a tilde above the transliterated vowel (over the second vowel in the case of a digraph such as a\u0129, a\u0169), except in Sanskrit."
+        ]
+    ]
+}

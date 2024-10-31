@@ -1,0 +1,140 @@
+{
+    "id": "38a7d983f49b91ab32ba2e76e0484c38a201749d69949980f040c45f78e0d4a7",
+    "metadata": "Northern Europe | Demographics | Demographics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Area_km\u00b2",
+        "Population_2011_est_",
+        "Population_density_per_km\u00b2",
+        "GDP_PPP_M_USD"
+    ],
+    "cell": [
+        [
+            "Country",
+            "Area (km\u00b2)",
+            "Population (2011 est.)",
+            "Population density (per km\u00b2)",
+            "GDP (PPP) $M USD"
+        ],
+        [
+            "\u00c5land ( Finland )",
+            "1527",
+            "28007",
+            "18.1",
+            "(Finland)"
+        ],
+        [
+            "Denmark",
+            "43098",
+            "5564219",
+            "129",
+            "$204,060"
+        ],
+        [
+            "Faroe Islands ( Denmark )",
+            "1399",
+            "48917",
+            "35.0",
+            "(Denmark)"
+        ],
+        [
+            "Estonia",
+            "45227",
+            "1 286 479",
+            "29",
+            "$29.944"
+        ],
+        [
+            "Finland",
+            "336897",
+            "5374781",
+            "16",
+            "$190,862"
+        ],
+        [
+            "Guernsey d[\u203a ]",
+            "78",
+            "65573",
+            "836.3",
+            "$2,742"
+        ],
+        [
+            "Iceland",
+            "103001",
+            "318452",
+            "3.1",
+            "$12,664"
+        ],
+        [
+            "Ireland",
+            "70273",
+            "4581269",
+            "65.2",
+            "$188,112"
+        ],
+        [
+            "Isle of Man d[\u203a ]",
+            "572",
+            "80085",
+            "140",
+            "$2,719"
+        ],
+        [
+            "Jersey d[\u203a ]",
+            "116",
+            "92500",
+            "797",
+            "$5,100"
+        ],
+        [
+            "Latvia",
+            "64589",
+            "2067900",
+            "34.3",
+            "$38,764"
+        ],
+        [
+            "Lithuania",
+            "65200",
+            "3221216",
+            "50.3",
+            "$63,625"
+        ],
+        [
+            "Norway",
+            "385252",
+            "4905200",
+            "15.1",
+            "$256,523"
+        ],
+        [
+            "Svalbard and Jan Mayen Islands ( Norway )",
+            "61395",
+            "2572",
+            "0.042",
+            "(Norway)"
+        ],
+        [
+            "Sweden",
+            "449964",
+            "9354462",
+            "20.6",
+            "$381.719"
+        ],
+        [
+            "United Kingdom",
+            "243610",
+            "62008048",
+            "254.7",
+            "$2,256,830"
+        ],
+        [
+            "Total",
+            "1811176",
+            "99230679",
+            "54.8 / km\u00b2",
+            "$3,591,077"
+        ]
+    ]
+}

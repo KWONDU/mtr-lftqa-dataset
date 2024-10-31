@@ -1,0 +1,70 @@
+{
+    "id": "12affc9db903362d34783ec53ce2a5b2d8e238ad2437c7ac789d7eadbf8c086f",
+    "metadata": "Mont-Tremblant Champ Car Grand Prix | Race winners | Race winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Date_",
+        "Driver",
+        "Chassis",
+        "Engine",
+        "Series",
+        "Report"
+    ],
+    "cell": [
+        [
+            "1967",
+            "August 6",
+            "Mario Andretti",
+            "Brawner Hawk",
+            "Ford",
+            "USAC Championship Car",
+            "report"
+        ],
+        [
+            "1968",
+            "August 4",
+            "Mario Andretti",
+            "Brawner Hawk",
+            "Ford",
+            "USAC Championship Car",
+            "report"
+        ],
+        [
+            "1969",
+            "September 7",
+            "David Hobbs",
+            "Surtees",
+            "Chevrolet",
+            "SCCA Formula 5000",
+            "report"
+        ],
+        [
+            "1970",
+            "August 1",
+            "George Follmer",
+            "Lotus",
+            "Ford",
+            "SCCA Formula 5000",
+            "report"
+        ],
+        [
+            "1971-2006: Not held",
+            "1971-2006: Not held",
+            "1971-2006: Not held",
+            "1971-2006: Not held",
+            "1971-2006: Not held",
+            "1971-2006: Not held",
+            "1971-2006: Not held"
+        ],
+        [
+            "2007",
+            "July 1",
+            "Robert Doornbos",
+            "Panoz",
+            "Cosworth",
+            "Champ Car World Series",
+            "report"
+        ]
+    ]
+}

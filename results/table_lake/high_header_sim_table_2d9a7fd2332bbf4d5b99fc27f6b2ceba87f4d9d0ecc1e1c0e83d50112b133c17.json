@@ -1,0 +1,142 @@
+{
+    "id": "2d9a7fd2332bbf4d5b99fc27f6b2ceba87f4d9d0ecc1e1c0e83d50112b133c17",
+    "metadata": "1977 Denver Broncos season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Game_site",
+        "Record",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 18",
+            "St. Louis Cardinals",
+            "W 7-0",
+            "Mile High Stadium",
+            "1-0",
+            "75002"
+        ],
+        [
+            "2",
+            "September 25",
+            "Buffalo Bills",
+            "W 26-6",
+            "Mile High Stadium",
+            "2-0",
+            "74897"
+        ],
+        [
+            "3",
+            "October 2",
+            "at Seattle Seahawks",
+            "W 24-13",
+            "Kingdome",
+            "3-0",
+            "53108"
+        ],
+        [
+            "4",
+            "October 9",
+            "Kansas City Chiefs",
+            "W 23-7",
+            "Mile High Stadium",
+            "4-0",
+            "74878"
+        ],
+        [
+            "5",
+            "October 16",
+            "at Oakland Raiders",
+            "W 30-7",
+            "Oakland-Alameda County Coliseum",
+            "5-0",
+            "53616"
+        ],
+        [
+            "6",
+            "October 23",
+            "at Cincinnati Bengals",
+            "W 24 - 13",
+            "Riverfront Stadium",
+            "6-0",
+            "54395"
+        ],
+        [
+            "7",
+            "October 30",
+            "Oakland Raiders",
+            "L 14-24",
+            "Mile High Stadium",
+            "6-1",
+            "75007"
+        ],
+        [
+            "8",
+            "November 6",
+            "Pittsburgh Steelers",
+            "W 21-7",
+            "Mile High Stadium",
+            "7-1",
+            "74967"
+        ],
+        [
+            "9",
+            "November 13",
+            "at San Diego Chargers",
+            "W 17-14",
+            "San Diego Stadium",
+            "8-1",
+            "45211"
+        ],
+        [
+            "10",
+            "November 20",
+            "at Kansas City Chiefs",
+            "W 14-7",
+            "Arrowhead Stadium",
+            "9-1",
+            "54050"
+        ],
+        [
+            "11",
+            "November 27",
+            "Baltimore Colts",
+            "W 27-13",
+            "Mile High Stadium",
+            "10-1",
+            "74939"
+        ],
+        [
+            "12",
+            "December 4",
+            "at Houston Oilers",
+            "W 24-14",
+            "Astrodome",
+            "11-1",
+            "46875"
+        ],
+        [
+            "13",
+            "December 11",
+            "San Diego Chargers",
+            "W 17-9",
+            "Mile High Stadium",
+            "12-1",
+            "74905"
+        ],
+        [
+            "14",
+            "December 18",
+            "at Dallas Cowboys",
+            "L 6-14",
+            "Texas Stadium",
+            "12-2",
+            "63752"
+        ]
+    ]
+}

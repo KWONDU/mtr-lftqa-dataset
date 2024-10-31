@@ -1,0 +1,49 @@
+{
+    "id": "56b30ebc4dccfc87145ba4c3811f86777232089dbda2b5d264d66f3aa30e5c40",
+    "metadata": "2007-08 LEB season | Points | Points",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Team",
+        "Games",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Antwain Barbour",
+            "Tenerife Rural",
+            "39",
+            "762"
+        ],
+        [
+            "2.",
+            "Brad Oleson",
+            "Beirasar Rosal\u00eda",
+            "32",
+            "570"
+        ],
+        [
+            "3.",
+            "Darren Phillip",
+            "CAI Zaragoza",
+            "34",
+            "600"
+        ],
+        [
+            "4.",
+            "Paolo Quinteros",
+            "CAI Zaragoza",
+            "34",
+            "595"
+        ],
+        [
+            "5.",
+            "Andrew Panko",
+            "Bruesa GBC",
+            "38",
+            "597"
+        ]
+    ]
+}

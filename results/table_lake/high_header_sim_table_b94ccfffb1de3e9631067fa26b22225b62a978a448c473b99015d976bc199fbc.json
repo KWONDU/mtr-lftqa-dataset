@@ -1,0 +1,49 @@
+{
+    "id": "b94ccfffb1de3e9631067fa26b22225b62a978a448c473b99015d976bc199fbc",
+    "metadata": "H\u00f8yanger | Churches | Churches in H\u00f8yanger",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Parish_Prestegjeld",
+        "Sub_Parish_Sogn",
+        "Church_Name",
+        "Year_Built",
+        "Location_of_the_Church"
+    ],
+    "cell": [
+        [
+            "Lavik Parish",
+            "Bjordal og Ortnevik",
+            "Bjordal kyrkje",
+            "1906",
+            "Bjordal"
+        ],
+        [
+            "Lavik Parish",
+            "Bjordal og Ortnevik",
+            "Ortnevik kyrkje",
+            "1925",
+            "Ortnevik"
+        ],
+        [
+            "Lavik Parish",
+            "H\u00f8yanger",
+            "H\u00f8yanger kyrkje",
+            "1960",
+            "H\u00f8yanger"
+        ],
+        [
+            "Lavik Parish",
+            "Kyrkjeb\u00f8",
+            "Kyrkjeb\u00f8 kyrkje",
+            "1869",
+            "Kyrkjeb\u00f8"
+        ],
+        [
+            "Lavik Parish",
+            "Kyrkjeb\u00f8",
+            "Vadheim bedehuskapell",
+            "1916",
+            "Vadheim"
+        ]
+    ]
+}

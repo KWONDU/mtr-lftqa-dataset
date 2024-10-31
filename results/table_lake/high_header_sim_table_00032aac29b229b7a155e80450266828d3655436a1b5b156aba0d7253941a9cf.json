@@ -1,0 +1,61 @@
+{
+    "id": "00032aac29b229b7a155e80450266828d3655436a1b5b156aba0d7253941a9cf",
+    "metadata": "Southeastern Collegiate Roller Hockey League | Division II | Division II",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Champion",
+        "Score",
+        "Runner_Up",
+        "Location_",
+        "Semi_Finalist_1",
+        "Semi_Finalist_2"
+    ],
+    "cell": [
+        [
+            "2004",
+            "Duke",
+            "6-5",
+            "Elon",
+            "Morrisville, NC",
+            "Western Carolina",
+            "Clemson"
+        ],
+        [
+            "2005",
+            "Elon",
+            "12-1",
+            "Clemson",
+            "Morrisville, NC",
+            "Western Carolina",
+            "Longwood"
+        ],
+        [
+            "2005",
+            "Miami",
+            "6-5",
+            "Emory",
+            "Ellenton, FL",
+            "Embry-Riddle",
+            "North Florida"
+        ],
+        [
+            "2006",
+            "Emory",
+            "6-5 ot",
+            "Elon",
+            "Snellville, GA",
+            "Miami",
+            "Embry-Riddle"
+        ],
+        [
+            "2007",
+            "Emory",
+            "6-5 ot",
+            "Miami",
+            "Snellville, GA",
+            "Elon",
+            "North Carolina"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "6d1267ba14a7c0e2f406ebc306cad490590a9fdc11c6e177cf2d70638f3384a3",
+    "metadata": "Northumberland County, New Brunswick | Communities | Communities",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Official_Name",
+        "Status_",
+        "Area_km_2",
+        "Population",
+        "Census_Ranking"
+    ],
+    "cell": [
+        [
+            "Miramichi",
+            "City",
+            "179.84",
+            "17811",
+            "232 of 5,008"
+        ],
+        [
+            "Neguac",
+            "Village",
+            "26.69",
+            "1678",
+            "1,500 of 5,008"
+        ],
+        [
+            "Rogersville",
+            "Village",
+            "7.23",
+            "1170",
+            "1,875 of 5,008"
+        ],
+        [
+            "Blackville",
+            "Village",
+            "21.73",
+            "990",
+            "2,086 of 5,008"
+        ],
+        [
+            "Doaktown",
+            "Village",
+            "28.74",
+            "793",
+            "2,387 of 5,008"
+        ]
+    ]
+}

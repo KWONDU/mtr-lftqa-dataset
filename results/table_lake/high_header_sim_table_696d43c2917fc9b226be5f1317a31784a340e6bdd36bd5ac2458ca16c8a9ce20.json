@@ -1,0 +1,63 @@
+{
+    "id": "696d43c2917fc9b226be5f1317a31784a340e6bdd36bd5ac2458ca16c8a9ce20",
+    "metadata": "John Fitzgerald career statistics | Doubles: 11 (7-4) | Wins (7)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Championship",
+        "Surface",
+        "Partner",
+        "Opponents_in_final",
+        "Score_in_final"
+    ],
+    "cell": [
+        [
+            "1982",
+            "Australian Open",
+            "Grass",
+            "John Alexander",
+            "Andy Andrews John Sadri",
+            "6-4, 7-6"
+        ],
+        [
+            "1984",
+            "U.S. Open",
+            "Hard",
+            "Tom\u00e1\u0161 \u0160m\u00edd",
+            "Stefan Edberg Anders J\u00e4rryd",
+            "7-6, 6-3, 6-3"
+        ],
+        [
+            "1986",
+            "French Open",
+            "Clay",
+            "Tom\u00e1\u0161 \u0160m\u00edd",
+            "Stefan Edberg Anders J\u00e4rryd",
+            "6-3, 4-6, 6-3, 6-7, 14-12"
+        ],
+        [
+            "1989",
+            "Wimbledon",
+            "Grass",
+            "Anders J\u00e4rryd",
+            "Rick Leach Jim Pugh",
+            "3-6, 7-6, 6-4, 7-6"
+        ],
+        [
+            "1991",
+            "French Open (2)",
+            "Clay",
+            "Anders J\u00e4rryd",
+            "Rick Leach Jim Pugh",
+            "6-0, 7-6"
+        ],
+        [
+            "1991",
+            "Wimbledon (2)",
+            "Grass",
+            "Anders J\u00e4rryd",
+            "Javier Frana Leonardo Lavalle",
+            "6-3, 6-4, 6-7, 6-1"
+        ]
+    ]
+}

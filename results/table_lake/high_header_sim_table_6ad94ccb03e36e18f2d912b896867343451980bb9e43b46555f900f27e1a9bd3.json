@@ -1,0 +1,91 @@
+{
+    "id": "6ad94ccb03e36e18f2d912b896867343451980bb9e43b46555f900f27e1a9bd3",
+    "metadata": "Wake Forest Demon Deacons football, 1980-89 | Schedule | 1987",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Location_",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/12/1987",
+            "Richmond",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 24-0",
+            "14250"
+        ],
+        [
+            "09/19/1987*",
+            "North Carolina State",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 21-3",
+            "23600"
+        ],
+        [
+            "09/26/1987",
+            "Appalachian State",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 16-12",
+            "33400"
+        ],
+        [
+            "10/01/1987",
+            "at Army",
+            "Michie Stadium \u2022 West Point, NY",
+            "W 17-13",
+            "36690"
+        ],
+        [
+            "10/10/1987*",
+            "at North Carolina",
+            "Kenan Memorial Stadium \u2022 Chapel Hill, NC",
+            "W 22-14",
+            "50000"
+        ],
+        [
+            "10/17/1987*",
+            "Maryland",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 0-14",
+            "25175"
+        ],
+        [
+            "10/24/1987*",
+            "at Virginia",
+            "Scott Stadium \u2022 Charlottesville, VA",
+            "L 21-35",
+            "32500"
+        ],
+        [
+            "10/31/1987*",
+            "at #14 Clemson",
+            "Memorial Stadium \u2022 Clemson, SC",
+            "L 17-31",
+            "69711"
+        ],
+        [
+            "11/07/1987*",
+            "Duke",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 30-27",
+            "23500"
+        ],
+        [
+            "11/14/1987",
+            "#14 South Carolina",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 0-30",
+            "34720"
+        ],
+        [
+            "11/21/1987*",
+            "at Georgia Tech",
+            "Grant Field \u2022 Atlanta, GA",
+            "W 33-6",
+            "21114"
+        ]
+    ]
+}

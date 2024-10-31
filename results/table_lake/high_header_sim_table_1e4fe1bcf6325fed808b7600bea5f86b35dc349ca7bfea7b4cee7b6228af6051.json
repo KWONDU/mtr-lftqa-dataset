@@ -1,0 +1,49 @@
+{
+    "id": "1e4fe1bcf6325fed808b7600bea5f86b35dc349ca7bfea7b4cee7b6228af6051",
+    "metadata": "Economy of Cardiff | Earnings | Trend of regional gross value added of Cardiff and the Vale at basic prices 1995 - 2003. (figures in millions of British Pounds Sterling)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Regional_GVA",
+        "Agriculture",
+        "Industry",
+        "Services"
+    ],
+    "cell": [
+        [
+            "1995",
+            "4753",
+            "11",
+            "1110",
+            "3632"
+        ],
+        [
+            "2000",
+            "6584",
+            "10",
+            "1302",
+            "5277"
+        ],
+        [
+            "2003",
+            "8201",
+            "11",
+            "1374",
+            "6816"
+        ],
+        [
+            "2005",
+            "8978",
+            "11",
+            "1465",
+            "7502"
+        ],
+        [
+            "2007",
+            "9432",
+            "11",
+            "1565",
+            "7856"
+        ]
+    ]
+}

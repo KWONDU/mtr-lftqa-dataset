@@ -1,0 +1,56 @@
+{
+    "id": "eb3215f699b545370ff7d9a2427554fe16d463829c8e4541d003bb005b3e6c5c",
+    "metadata": "BRL V6 | Champions | Champions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Driver",
+        "Team",
+        "Tyre",
+        "Points"
+    ],
+    "cell": [
+        [
+            "2004",
+            "Donny Crevels",
+            "Weytech",
+            "H",
+            "86"
+        ],
+        [
+            "2005",
+            "Jeroen Bleekemolen",
+            "US Carworld Racing",
+            "H",
+            "262"
+        ],
+        [
+            "2006",
+            "Sandor van Es",
+            "Coll\u00e9 Racing",
+            "H",
+            "203"
+        ],
+        [
+            "2007",
+            "Donald Molenaar",
+            "Coll\u00e9 Racing",
+            "H",
+            "206"
+        ],
+        [
+            "2008",
+            "Donald Molenaar",
+            "Coll\u00e9 Racing",
+            "H",
+            "230"
+        ],
+        [
+            "2009",
+            "Donald Molenaar",
+            "Coll\u00e9 Racing",
+            "H",
+            "210"
+        ]
+    ]
+}

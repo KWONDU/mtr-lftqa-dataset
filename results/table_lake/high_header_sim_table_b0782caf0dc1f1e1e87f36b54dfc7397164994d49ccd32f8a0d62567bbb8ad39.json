@@ -1,0 +1,55 @@
+{
+    "id": "b0782caf0dc1f1e1e87f36b54dfc7397164994d49ccd32f8a0d62567bbb8ad39",
+    "metadata": "Volkswagen Amarok | Engines | Engines",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Years",
+        "Engine",
+        "Displ_",
+        "Power_",
+        "Torque"
+    ],
+    "cell": [
+        [
+            "2.0 TSI",
+            "2011-",
+            "I4 16V",
+            "cc ( cuin )",
+            "kW (PS; hp) @ 3800-5500 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 1600-3750 rpm"
+        ],
+        [
+            "2.0 TDI (CR) DPF",
+            "2010-2011",
+            "I4 16V",
+            "cc ( cuin )",
+            "kW (PS; hp) @ 3750 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 1750-2250 rpm"
+        ],
+        [
+            "2.0 TDI (CR) DPF",
+            "2012-",
+            "I4 16V",
+            "cc ( cuin )",
+            "kW (PS; hp) @ 3750 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 1750-2250 rpm"
+        ],
+        [
+            "2.0 BiTDI (CR) DPF",
+            "2010-",
+            "I4 16V",
+            "cc ( cuin )",
+            "kW (PS; hp) @ 4000 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 1500-2000 rpm"
+        ],
+        [
+            "2.0 BiTDI (CR) DPF",
+            "2012-",
+            "I4 16V",
+            "cc ( cuin )",
+            "kW (PS; hp)",
+            "N\u00b7m (lb\u00b7ft)"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "5ece61a476a3bb78bac0fddc4ffcb2f169088b921ca1b736ceaecd99a4f6a271",
+    "metadata": "2007 Uni-President Lions season | Regular season | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Save_"
+    ],
+    "cell": [
+        [
+            "10 / 2",
+            "@ Brother Elephants",
+            "8 - 2",
+            "Joey Dawley",
+            "||1,388"
+        ],
+        [
+            "10 / 3",
+            "@ Brother Elephants",
+            "3 - 7",
+            "Brian Reith",
+            "Todd Moser"
+        ],
+        [
+            "10 / 5",
+            "Macoto Cobras",
+            "12 - 11",
+            "Andy Van Hekken",
+            "Tsai Shih-chin"
+        ],
+        [
+            "10 / 8",
+            "La New Bears",
+            "10 - 2",
+            "Hsu Yu-wei",
+            "||1,548"
+        ],
+        [
+            "10 / 9",
+            "@ La New Bears",
+            "4 - 15",
+            "Pete Munro",
+            "||3,073"
+        ],
+        [
+            "10 / 10",
+            "La New Bears",
+            "1 - 4",
+            "Brian Reith",
+            "Mac Suzuki"
+        ]
+    ]
+}

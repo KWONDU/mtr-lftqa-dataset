@@ -1,0 +1,63 @@
+{
+    "id": "37e71eff5aec30345d010ab619fb11f5af811399fe298c8792140990dce7be2e",
+    "metadata": "Steven Wilson discography | Cover Version | Cover Version",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Album",
+        "Release_date",
+        "Label",
+        "Format",
+        "Covered_Song",
+        "Original_Song"
+    ],
+    "cell": [
+        [
+            "Cover Version",
+            "March, 2003 June, 2005",
+            "Headphone Dust Tonefloat",
+            "CD 7 Single",
+            "Thank U  by Alanis Morissette .",
+            "Moment I Lost"
+        ],
+        [
+            "Cover Version II",
+            "October, 2004 June, 2005",
+            "Headphone Dust Tonefloat",
+            "CD 7 Single",
+            "The Day Before You Came  by ABBA .",
+            "Please Come Home"
+        ],
+        [
+            "Cover Version III",
+            "September, 2005 September, 2006",
+            "Headphone Dust Tonefloat",
+            "CD 7 Single",
+            "A Forest  by The Cure .",
+            "Four Trees Down"
+        ],
+        [
+            "Cover Version IV",
+            "July, 2006 September, 2006",
+            "Headphone Dust Tonefloat",
+            "CD 7 Single",
+            "The Guitar Lesson by Momus .",
+            "The Unquiet Grave"
+        ],
+        [
+            "Cover Version V",
+            "July, 2008",
+            "Headphone Dust",
+            "CD 7 Single",
+            "Sign O` the Times  by Prince .",
+            "Well You`re Wrong"
+        ],
+        [
+            "Cover Version VI",
+            "February, 2010",
+            "Headphone Dust",
+            "CD 7 Single",
+            "Lord of the Reedy River  by Donovan .",
+            "An End to End"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "d184d30b28429d015b06e5124fdf096630dacd53bc18c8128cb3cee9e1f9a3e1",
+    "metadata": "Fort Wayne Fever | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Division",
+        "League",
+        "Regular_Season",
+        "Playoffs",
+        "Open_Cup"
+    ],
+    "cell": [
+        [
+            "2003",
+            "4",
+            "USL PDL",
+            "3rd, Great Lakes",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "2004",
+            "4",
+            "USL PDL",
+            "2nd, Great Lakes",
+            "Conference Semifinals",
+            "Did not qualify"
+        ],
+        [
+            "2005",
+            "4",
+            "USL PDL",
+            "4th, Great Lakes",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "2006",
+            "4",
+            "USL PDL",
+            "6th, Great Lakes",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "2007",
+            "4",
+            "USL PDL",
+            "7th, Great Lakes",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "2008",
+            "4",
+            "USL PDL",
+            "4th, Midwest",
+            "Did not qualify",
+            "Did not qualify"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "3f5fa27d0cef21d47a62bfebbf28e6b2aa3d07520b6fb21227480fbfce3693b0",
+    "metadata": "Swimming at the 1951 Pan American Games | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "United States",
+            "8",
+            "6",
+            "3",
+            "17"
+        ],
+        [
+            "Argentina",
+            "4",
+            "5",
+            "3",
+            "12"
+        ],
+        [
+            "Brazil",
+            "2",
+            "2",
+            "2",
+            "6"
+        ],
+        [
+            "Mexico",
+            "0",
+            "1",
+            "5",
+            "6"
+        ],
+        [
+            "Cuba",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

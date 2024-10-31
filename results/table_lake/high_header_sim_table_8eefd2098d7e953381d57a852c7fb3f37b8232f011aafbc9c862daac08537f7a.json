@@ -1,0 +1,56 @@
+{
+    "id": "8eefd2098d7e953381d57a852c7fb3f37b8232f011aafbc9c862daac08537f7a",
+    "metadata": "Greg McElroy | College statistics | Rushing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "GP_GS",
+        "Yards",
+        "Long_",
+        "Avg_G"
+    ],
+    "cell": [
+        [
+            "2006",
+            "Redshirt",
+            "Redshirt",
+            "Redshirt",
+            "Redshirt"
+        ],
+        [
+            "2007",
+            "2-0",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "2008",
+            "6-0",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "2009",
+            "14-14",
+            "83",
+            "16",
+            "5.9"
+        ],
+        [
+            "2010",
+            "12-12",
+            "\u221216",
+            "17",
+            "\u22121.3"
+        ],
+        [
+            "Total",
+            "34-26",
+            "67",
+            "17",
+            "3.3"
+        ]
+    ]
+}

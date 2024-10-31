@@ -1,0 +1,70 @@
+{
+    "id": "7cf042e75a90d191a7ad2bd8ab9f98007b3f427cd595bbae970df65e60576c24",
+    "metadata": "Television in China | Non-Mandarin Satellite Television | Non-Mandarin Satellite Television",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Hanzi",
+        "Language_",
+        "Launch",
+        "Owner_"
+    ],
+    "cell": [
+        [
+            "Kangba Satellite Television",
+            "\u5eb7\u5df4\u536b\u89c6",
+            "Tibetan",
+            "2009",
+            "Sichuan Radio and Television"
+        ],
+        [
+            "NMTV Mongolian Satellite Television",
+            "\u5185\u8499\u53e4\u8499\u8bed\u536b\u89c6",
+            "Mongolian",
+            "1997",
+            "Nei Mongol Television (NMTV)"
+        ],
+        [
+            "Television Southern",
+            "\u5357\u65b9\u536b\u89c6",
+            "Cantonese",
+            "2000",
+            "Southern Media Corporation (SMC)"
+        ],
+        [
+            "XJTV Uyghur Satellite Television",
+            "\u65b0\u7586\u7535\u89c6\u53f0\u7ef4\u543e\u5c14\u8bed\u65b0\u95fb\u7efc\u5408\u9891\u9053",
+            "Uyghur",
+            "1997",
+            "Xinjiang Television (XJTV)"
+        ],
+        [
+            "XJTV Kazakh Satellite Television",
+            "\u65b0\u7586\u7535\u89c6\u53f0\u54c8\u8428\u514b\u8bed\u65b0\u95fb\u7efc\u5408\u9891\u9053",
+            "Kazakh",
+            "1997",
+            "Xinjiang Television (XJTV)"
+        ],
+        [
+            "XZTV Tibetan Satellite Television",
+            "\u897f\u85cf\u85cf\u8bed\u536b\u89c6",
+            "Tibetan",
+            "2002",
+            "Xizang Television (XZTV)"
+        ],
+        [
+            "Yanbian Satellite Television",
+            "\u5ef6\u8fb9\u536b\u89c6",
+            "Korean",
+            "2006",
+            "Yanbian Television (YBTV)"
+        ],
+        [
+            "Qinghai Tibetian General Channel",
+            "\u9752\u6d77\u7535\u89c6\u53f0\u85cf\u8bed\u7efc\u5408\u9891\u9053",
+            "Tibetan",
+            "2006",
+            "Qinghai Radio and TV Station"
+        ]
+    ]
+}

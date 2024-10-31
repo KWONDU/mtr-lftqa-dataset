@@ -1,0 +1,95 @@
+{
+    "id": "e3ab03c2b16381a546cb5b4e44a15bba0fdb54e005172a9b9a460960702682a3",
+    "metadata": "Switched-mode power supply | Types | Isolated topologies",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Type_",
+        "Power_W_",
+        "Relative_cost",
+        "Input_range_V_",
+        "Energy_storage",
+        "Features_"
+    ],
+    "cell": [
+        [
+            "Flyback",
+            "0-250",
+            "1.0",
+            "5-600",
+            "Mutual Inductors",
+            "Isolated form of the buck-boost converter."
+        ],
+        [
+            "Ringing choke converter (RCC)",
+            "0-150",
+            "1.0",
+            "5-600",
+            "Transformer",
+            "Low-cost self-oscillating flyback variant."
+        ],
+        [
+            "Half-forward",
+            "0-250",
+            "1.2",
+            "5-500",
+            "Inductor",
+            ""
+        ],
+        [
+            "Forward",
+            "100-200",
+            "",
+            "60-200",
+            "Inductor",
+            "Isolated form of buck converter"
+        ],
+        [
+            "Resonant forward",
+            "0-60",
+            "1.0",
+            "60-400",
+            "Inductor and capacitor",
+            "Single rail input, unregulated output, high efficiency, low EMI."
+        ],
+        [
+            "Push-pull",
+            "100-1,000",
+            "1.75",
+            "50-1,000",
+            "Inductor",
+            ""
+        ],
+        [
+            "Half-bridge",
+            "0-2,000",
+            "1.9",
+            "50-1,000",
+            "Inductor",
+            ""
+        ],
+        [
+            "Full-bridge",
+            "400-5,000",
+            ">2.0",
+            "50-1,000",
+            "Inductor",
+            "Very efficient use of transformer, used for highest powers."
+        ],
+        [
+            "Resonant, zero voltage switched",
+            ">1,000",
+            ">2.0",
+            "",
+            "Inductor and capacitor",
+            ""
+        ],
+        [
+            "Isolated \u0106uk",
+            "",
+            "",
+            "",
+            "Two capacitors and two inductors",
+            ""
+        ]
+    ]
+}

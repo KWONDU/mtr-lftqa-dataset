@@ -1,0 +1,63 @@
+{
+    "id": "e4072fa8a802e0bdc02a21a9e68abb47dd5c682f0ee03f643734fa6a7a6e830a",
+    "metadata": "List of American Civil War generals | Line officers | Line officers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Date_of_birth",
+        "Actual_rank",
+        "Appointment_date",
+        "Allegiance"
+    ],
+    "cell": [
+        [
+            "John Garland",
+            "1792",
+            "Colonel 8th U.S. Infantry",
+            "May 7, 1849",
+            "U.S.A."
+        ],
+        [
+            "William S. Harney",
+            "August 27, 1800",
+            "Brigadier General",
+            "June 14, 1858",
+            "U.S.A."
+        ],
+        [
+            "Albert S. Johnston",
+            "February 2, 1803",
+            "Colonel",
+            "May 1855",
+            "C.S.A."
+        ],
+        [
+            "Winfield Scott",
+            "June 13, 1786",
+            "Major General",
+            "June 25, 1841",
+            "U.S.A"
+        ],
+        [
+            "Edwin V. Sumner",
+            "January 30, 1797",
+            "Brigadier General",
+            "March 16, 1861",
+            "U.S.A."
+        ],
+        [
+            "David E. Twiggs",
+            "1790",
+            "Brigadier General",
+            "June 30, 1846",
+            "C.S.A."
+        ],
+        [
+            "John E. Wool",
+            "February 29, 1784",
+            "Brigadier General",
+            "June 25, 1841",
+            "U.S.A."
+        ]
+    ]
+}

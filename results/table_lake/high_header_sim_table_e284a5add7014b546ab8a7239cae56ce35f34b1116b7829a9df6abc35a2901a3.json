@@ -1,0 +1,70 @@
+{
+    "id": "e284a5add7014b546ab8a7239cae56ce35f34b1116b7829a9df6abc35a2901a3",
+    "metadata": "1976 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "12.10 (82)",
+            "Richmond",
+            "11.11 (77)",
+            "Arden Street Oval",
+            "18421",
+            "10 July 1976"
+        ],
+        [
+            "Geelong",
+            "15.12 (102)",
+            "St Kilda",
+            "9.9 (63)",
+            "Kardinia Park",
+            "21213",
+            "10 July 1976"
+        ],
+        [
+            "Carlton",
+            "12.8 (80)",
+            "Fitzroy",
+            "10.16 (76)",
+            "Princes Park",
+            "25340",
+            "10 July 1976"
+        ],
+        [
+            "South Melbourne",
+            "20.16 (136)",
+            "Footscray",
+            "17.14 (116)",
+            "Lake Oval",
+            "12226",
+            "10 July 1976"
+        ],
+        [
+            "Melbourne",
+            "15.14 (104)",
+            "Essendon",
+            "18.11 (119)",
+            "MCG",
+            "25009",
+            "10 July 1976"
+        ],
+        [
+            "Hawthorn",
+            "18.11 (119)",
+            "Collingwood",
+            "16.11 (107)",
+            "VFL Park",
+            "27353",
+            "10 July 1976"
+        ]
+    ]
+}

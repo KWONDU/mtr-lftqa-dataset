@@ -1,0 +1,49 @@
+{
+    "id": "e19d6d69cde3035dd35594f0e515e5a3db457802d0bbcc414cbe8142c8c6f1e4",
+    "metadata": "Keeping Up Appearances | Series 1-5 | Series 1-5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Series",
+        "Premiere",
+        "Finale",
+        "Episodes",
+        "Specials"
+    ],
+    "cell": [
+        [
+            "1",
+            "29 October 1990",
+            "3 December 1990",
+            "6",
+            "0"
+        ],
+        [
+            "2",
+            "1 September 1991",
+            "3 November 1991",
+            "10",
+            "1"
+        ],
+        [
+            "3",
+            "6 September 1992",
+            "18 October 1992",
+            "7",
+            "0"
+        ],
+        [
+            "4",
+            "5 September 1993",
+            "17 October 1993",
+            "7",
+            "2"
+        ],
+        [
+            "5",
+            "3 September 1995",
+            "5 November 1995",
+            "10",
+            "1"
+        ]
+    ]
+}

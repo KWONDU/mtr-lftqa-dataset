@@ -1,0 +1,88 @@
+{
+    "id": "37a33d7b2bbce2558b214384e77b33039112e1def202881a254205b896b39959",
+    "metadata": "Indiana High School Athletics Conferences: Allen County - Metropolitan | Duneland Athletic Conference | Duneland Athletic Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Mascot",
+        "Location_",
+        "Enrollment",
+        "IHSAA_Class",
+        "IHSAA_Football_Class",
+        "County"
+    ],
+    "cell": [
+        [
+            "Chesterton",
+            "Trojans",
+            "Chesterton",
+            "1986",
+            "AAAA",
+            "AAAAA",
+            "64 Porter"
+        ],
+        [
+            "Crown Point",
+            "Bulldogs",
+            "Crown Point",
+            "2532",
+            "AAAA",
+            "AAAAA",
+            "45 Lake"
+        ],
+        [
+            "LaPorte",
+            "Slicers",
+            "LaPorte",
+            "1839",
+            "AAAA",
+            "AAAAA",
+            "46 LaPorte"
+        ],
+        [
+            "Lake Central",
+            "Indians",
+            "Saint John",
+            "3225",
+            "AAAA",
+            "AAAAA",
+            "45 Lake"
+        ],
+        [
+            "Merrillville",
+            "Pirates",
+            "Merrillville",
+            "2396",
+            "AAAA",
+            "AAAAA",
+            "45 Lake"
+        ],
+        [
+            "Michigan City",
+            "Wolves",
+            "Michigan City",
+            "1909",
+            "AAAA",
+            "AAAAA",
+            "46 LaPorte"
+        ],
+        [
+            "Portage",
+            "Indians",
+            "Portage",
+            "2668",
+            "AAAA",
+            "AAAAA",
+            "64 Porter"
+        ],
+        [
+            "Valparaiso",
+            "Vikings",
+            "Valparaiso",
+            "2114",
+            "AAAA",
+            "AAAAA",
+            "64 Porter"
+        ]
+    ]
+}

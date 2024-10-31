@@ -1,0 +1,49 @@
+{
+    "id": "24e6fbc30f4b4cb59a0f504363b01664d1b8bf8ac127d9397d6d8fe5c61a21e8",
+    "metadata": "Parts-per notation | Uno | IUPAP's \"uno\" proposal",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Coefficient",
+        "Parts_per_example",
+        "Uno_equiv_",
+        "Symbol_form",
+        "Value_of_quantity"
+    ],
+    "cell": [
+        [
+            "10 \u22122",
+            "2%",
+            "2 centiuno",
+            "2 cU",
+            "2\u00d710 \u22122"
+        ],
+        [
+            "10 \u22123",
+            "2 \u2030",
+            "2 milliuno",
+            "2 mU",
+            "2\u00d710 \u22123"
+        ],
+        [
+            "10 \u22126",
+            "2 ppm",
+            "2 microuno",
+            "2 \u00b5U",
+            "2\u00d710 \u22126"
+        ],
+        [
+            "10 \u22129",
+            "2 ppb",
+            "2 nanouno",
+            "2 nU",
+            "2\u00d710 \u22129"
+        ],
+        [
+            "10 \u221212",
+            "2 ppt",
+            "2 picouno",
+            "2 pU",
+            "2\u00d710 \u221212"
+        ]
+    ]
+}

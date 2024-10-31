@@ -1,0 +1,49 @@
+{
+    "id": "3fa8142bf65e530eb966e9272cc181ebd76d6537082dabbad1f79a9f301dbdca",
+    "metadata": "The Larry Sanders Show | Episodes | Episodes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Episodes",
+        "Premiere_Date",
+        "End_Date",
+        "Timeslot"
+    ],
+    "cell": [
+        [
+            "1",
+            "13",
+            "August 15, 1992",
+            "November 7, 1992",
+            "Saturdays at 10:00 PM"
+        ],
+        [
+            "2",
+            "18",
+            "June 2, 1993",
+            "September 29, 1993",
+            "Wednesdays at 10:00 PM"
+        ],
+        [
+            "3",
+            "17",
+            "June 22, 1994",
+            "October 12, 1994",
+            "Wednesdays at 10:00 PM"
+        ],
+        [
+            "4",
+            "17",
+            "July 19, 1995",
+            "November 22, 1995",
+            "Wednesdays at 10:00 PM"
+        ],
+        [
+            "5",
+            "13",
+            "November 13, 1996",
+            "February 26, 1997",
+            "Wednesdays at 10:00 PM"
+        ]
+    ]
+}

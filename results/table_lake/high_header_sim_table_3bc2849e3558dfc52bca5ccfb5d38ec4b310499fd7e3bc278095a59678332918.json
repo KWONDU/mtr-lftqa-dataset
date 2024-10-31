@@ -1,0 +1,56 @@
+{
+    "id": "3bc2849e3558dfc52bca5ccfb5d38ec4b310499fd7e3bc278095a59678332918",
+    "metadata": "Ecozones of Canada | Marine ecozones | Marine ecozones",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ecozone",
+        "Area_km\u00b2_Territorial_waters",
+        "Area_km\u00b2_Exclusive_Economic_Zone",
+        "Percentage_of_total_area_forEEZ",
+        "Percentage_of_marine_area_forEEZ"
+    ],
+    "cell": [
+        [
+            "Pacific Marine",
+            "102920",
+            "457646",
+            "3.1",
+            "8.3"
+        ],
+        [
+            "Arctic Basin Marine",
+            "24997",
+            "704849",
+            "4.8",
+            "12.7"
+        ],
+        [
+            "Arctic Archipelago Marine",
+            "2051393",
+            "2178998",
+            "14.8",
+            "39.3"
+        ],
+        [
+            "Northwest Atlantic Marine",
+            "536895",
+            "1205981",
+            "8.2",
+            "21.8"
+        ],
+        [
+            "Atlantic Marine",
+            "72144",
+            "996439",
+            "6.8",
+            "17.9"
+        ],
+        [
+            "Total",
+            "2788349",
+            "5543913",
+            "37.7",
+            "100.0"
+        ]
+    ]
+}

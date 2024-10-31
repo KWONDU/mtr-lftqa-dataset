@@ -1,0 +1,49 @@
+{
+    "id": "3237c0f076e5402455d022913f900deeeadff56edc8c76b696494a7b4f377c7e",
+    "metadata": "List of Game of the Year awards | Giant Bomb | Giant Bomb",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Game",
+        "Genre",
+        "Platforms",
+        "Developers"
+    ],
+    "cell": [
+        [
+            "2008",
+            "Grand Theft Auto IV",
+            "Open World Action",
+            "Windows , PlayStation 3 , Xbox 360",
+            "Rockstar North"
+        ],
+        [
+            "2009",
+            "Uncharted 2: Among Thieves",
+            "Third-person shooter",
+            "PlayStation 3",
+            "Naughty Dog"
+        ],
+        [
+            "2010",
+            "Mass Effect 2",
+            "RPG",
+            "Xbox 360 , Windows , PlayStation 3",
+            "BioWare"
+        ],
+        [
+            "2011",
+            "The Elder Scrolls V: Skyrim",
+            "Role-playing game",
+            "Windows , Xbox 360",
+            "Bethesda Game Studios"
+        ],
+        [
+            "2012",
+            "XCOM: Enemy Unknown",
+            "Turn-Based Strategy",
+            "Windows , Xbox 360 , PlayStation 3",
+            "Firaxis Games"
+        ]
+    ]
+}

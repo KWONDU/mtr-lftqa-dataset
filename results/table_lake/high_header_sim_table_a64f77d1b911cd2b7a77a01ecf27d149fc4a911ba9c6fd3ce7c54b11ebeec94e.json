@@ -1,0 +1,63 @@
+{
+    "id": "a64f77d1b911cd2b7a77a01ecf27d149fc4a911ba9c6fd3ce7c54b11ebeec94e",
+    "metadata": "Islam in the United Kingdom | Demography and ethnic background | Demography and ethnic background",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Census_Year",
+        "Number_of_Muslims_000",
+        "Population_of_England_and_Wales_000",
+        "Muslim_of_Total_population",
+        "Registered_Mosques",
+        "Muslims_per_mosque"
+    ],
+    "cell": [
+        [
+            "1961",
+            "50",
+            "46196",
+            "0.11",
+            "7",
+            "7143"
+        ],
+        [
+            "1971",
+            "226",
+            "49152",
+            "0.46",
+            "30",
+            "7533"
+        ],
+        [
+            "1981",
+            "553",
+            "49634",
+            "1.11",
+            "149",
+            "3711"
+        ],
+        [
+            "1991",
+            "950",
+            "51099",
+            "1.86",
+            "443",
+            "2144"
+        ],
+        [
+            "2001",
+            "1600",
+            "52042",
+            "3.07",
+            "614",
+            "2606"
+        ],
+        [
+            "2011",
+            "2869",
+            "62369",
+            "4.80",
+            "1500",
+            "1912"
+        ]
+    ]
+}

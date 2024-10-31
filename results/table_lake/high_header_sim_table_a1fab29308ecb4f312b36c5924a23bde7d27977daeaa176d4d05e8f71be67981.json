@@ -1,0 +1,56 @@
+{
+    "id": "a1fab29308ecb4f312b36c5924a23bde7d27977daeaa176d4d05e8f71be67981",
+    "metadata": "1994-95 Manchester United F.C. season | Group stage | Group stage",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponents",
+        "H_A",
+        "Result_F_A",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "14 September 1994",
+            "IFK G\u00f6teborg",
+            "H",
+            "4 - 2",
+            "33625"
+        ],
+        [
+            "28 September 1994",
+            "Galatasaray",
+            "A",
+            "0 - 0",
+            "28605"
+        ],
+        [
+            "19 October 1994",
+            "Barcelona",
+            "H",
+            "2 - 2",
+            "40064"
+        ],
+        [
+            "2 November 1994",
+            "Barcelona",
+            "A",
+            "0 - 4",
+            "114273"
+        ],
+        [
+            "23 November 1994",
+            "IFK G\u00f6teborg",
+            "A",
+            "1 - 3",
+            "36350"
+        ],
+        [
+            "7 December 1994",
+            "Galatasaray",
+            "H",
+            "4 - 0",
+            "39220"
+        ]
+    ]
+}

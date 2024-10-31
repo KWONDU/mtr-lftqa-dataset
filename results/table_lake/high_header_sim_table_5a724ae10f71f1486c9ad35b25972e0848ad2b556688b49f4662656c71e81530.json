@@ -1,0 +1,169 @@
+{
+    "id": "5a724ae10f71f1486c9ad35b25972e0848ad2b556688b49f4662656c71e81530",
+    "metadata": "2003 Baltimore Ravens season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Record",
+        "TV_Time",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 7, 2003",
+            "at Pittsburgh Steelers",
+            "L 34-15",
+            "0-1-0",
+            "CBS 1:00pm",
+            "63157"
+        ],
+        [
+            "2",
+            "September 14, 2003",
+            "Cleveland Browns",
+            "W 33-13",
+            "1-1-0",
+            "CBS 1:00pm",
+            "69473"
+        ],
+        [
+            "3",
+            "September 21, 2003",
+            "at San Diego Chargers",
+            "W 24-10",
+            "2-1-0",
+            "CBS 4:15pm",
+            "52028"
+        ],
+        [
+            "4",
+            "September 28, 2003",
+            "Kansas City Chiefs",
+            "L 17-10",
+            "2-2-0",
+            "CBS 4:15pm",
+            "69459"
+        ],
+        [
+            "5",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "6",
+            "October 12, 2003",
+            "at Arizona Cardinals",
+            "W 26-18",
+            "3-2-0",
+            "CBS 4:15pm",
+            "24193"
+        ],
+        [
+            "7",
+            "October 19, 2003",
+            "at Cincinnati Bengals",
+            "L 34-26",
+            "3-3-0",
+            "CBS 1:00pm",
+            "53553"
+        ],
+        [
+            "8",
+            "October 26, 2003",
+            "Denver Broncos",
+            "W 26-6",
+            "4-3-0",
+            "CBS 1:00pm",
+            "69723"
+        ],
+        [
+            "9",
+            "November 2, 2003",
+            "Jacksonville Jaguars",
+            "W 24-17",
+            "5-3-0",
+            "CBS 1:00pm",
+            "69486"
+        ],
+        [
+            "10",
+            "November 9, 2003",
+            "at St. Louis Rams",
+            "L 33-22",
+            "5-4-0",
+            "ESPN 8:30pm",
+            "66085"
+        ],
+        [
+            "11",
+            "November 16, 2003",
+            "at Miami Dolphins",
+            "L 9-6 OT",
+            "5-5-0",
+            "CBS 1:00pm",
+            "73333"
+        ],
+        [
+            "12",
+            "November 23, 2003",
+            "Seattle Seahawks",
+            "W 44-41 OT",
+            "6-5-0",
+            "FOX 1:00pm",
+            "69477"
+        ],
+        [
+            "13",
+            "November 30, 2003",
+            "San Francisco 49ers",
+            "W 44-6",
+            "7-5-0",
+            "FOX 1:00pm",
+            "69549"
+        ],
+        [
+            "14",
+            "December 7, 2003",
+            "Cincinnati Bengals",
+            "W 31-13",
+            "8-5-0",
+            "CBS 1:00pm",
+            "69468"
+        ],
+        [
+            "15",
+            "December 14, 2003",
+            "at Oakland Raiders",
+            "L 20-12",
+            "8-6-0",
+            "CBS 4:15pm",
+            "45398"
+        ],
+        [
+            "16",
+            "December 21, 2003",
+            "at Cleveland Browns",
+            "W 35-0",
+            "9-6-0",
+            "CBS 1:00pm",
+            "72548"
+        ],
+        [
+            "17",
+            "December 28, 2003",
+            "Pittsburgh Steelers",
+            "W 13-10 OT",
+            "10-6-0",
+            "ESPN 8:30pm",
+            "70001"
+        ]
+    ]
+}

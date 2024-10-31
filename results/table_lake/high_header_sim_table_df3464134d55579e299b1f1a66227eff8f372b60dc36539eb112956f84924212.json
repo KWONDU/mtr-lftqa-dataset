@@ -1,0 +1,71 @@
+{
+    "id": "df3464134d55579e299b1f1a66227eff8f372b60dc36539eb112956f84924212",
+    "metadata": "2004 Masters Tournament | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Bernhard Langer",
+            "Germany",
+            "1985 , 1993",
+            "285",
+            "-3",
+            "T4"
+        ],
+        [
+            "Fred Couples",
+            "United States",
+            "1992",
+            "286",
+            "-2",
+            "T6"
+        ],
+        [
+            "Vijay Singh",
+            "Fiji",
+            "2000",
+            "286",
+            "-2",
+            "T6"
+        ],
+        [
+            "Tiger Woods",
+            "United States",
+            "1997 , 2001 , 2002",
+            "290",
+            "+2",
+            "T22"
+        ],
+        [
+            "Mark O`Meara",
+            "United States",
+            "1998",
+            "292",
+            "+4",
+            "T27"
+        ],
+        [
+            "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
+            "Spain",
+            "1994 , 1999",
+            "294",
+            "+6",
+            "30"
+        ],
+        [
+            "Sandy Lyle",
+            "Scotland",
+            "1988",
+            "297",
+            "+9",
+            "T37"
+        ]
+    ]
+}

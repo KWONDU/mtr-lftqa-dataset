@@ -1,0 +1,49 @@
+{
+    "id": "d103dfb1a67e8472eb689df9fe97fbe219ec5dfa20c55534ca0c175a14f8facf",
+    "metadata": "Bedford Blues | Kit | Kit",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Supplier",
+        "Chest",
+        "Sleeves",
+        "Back"
+    ],
+    "cell": [
+        [
+            "unknown",
+            "Gilbert",
+            "unknown",
+            "unknown",
+            "unknown"
+        ],
+        [
+            "2006-2008",
+            "Kooga",
+            "Autoglass",
+            "Wells Bombardier",
+            "Lifesure"
+        ],
+        [
+            "2008-2010",
+            "Kooga",
+            "Autoglass",
+            "Wells Bombardier",
+            "Lifesure"
+        ],
+        [
+            "2010-2011",
+            "Kooga",
+            "Autoglass",
+            "Wells Bombardier",
+            "Lifesure"
+        ],
+        [
+            "2011-2014",
+            "Zoo Sport Ltd",
+            "Autoglass",
+            "Wells Bombardier",
+            "Lifesure"
+        ]
+    ]
+}

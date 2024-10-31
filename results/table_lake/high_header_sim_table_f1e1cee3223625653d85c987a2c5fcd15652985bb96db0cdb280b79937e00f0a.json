@@ -1,0 +1,55 @@
+{
+    "id": "f1e1cee3223625653d85c987a2c5fcd15652985bb96db0cdb280b79937e00f0a",
+    "metadata": "1995 PGA Tour |  Leaders | Money leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Greg Norman",
+            "Australia",
+            "1654959",
+            "16",
+            "3"
+        ],
+        [
+            "2",
+            "Billy Mayfair",
+            "United States",
+            "1543192",
+            "28",
+            "2"
+        ],
+        [
+            "3",
+            "Lee Janzen",
+            "United States",
+            "1378966",
+            "28",
+            "3"
+        ],
+        [
+            "4",
+            "Corey Pavin",
+            "United States",
+            "1340079",
+            "22",
+            "2"
+        ],
+        [
+            "5",
+            "Steve Elkington",
+            "Australia",
+            "1254352",
+            "21",
+            "2"
+        ]
+    ]
+}

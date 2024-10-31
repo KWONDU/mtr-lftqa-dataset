@@ -1,0 +1,49 @@
+{
+    "id": "49b045966d9cb54007f1b5ef011921f39783edfea63d215ac6ff50701f53a163",
+    "metadata": "List of public sector undertakings in India | Transport | Transport",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "S_No",
+        "Company",
+        "Incorporated",
+        "Ministry",
+        "Sector"
+    ],
+    "cell": [
+        [
+            "1",
+            "Air India Air Transport Services Ltd.",
+            "2003",
+            "Ministry Of Civil Aviation",
+            "Services"
+        ],
+        [
+            "2",
+            "Air India Charters",
+            "1972",
+            "Ministry Of Civil Aviation",
+            "Services"
+        ],
+        [
+            "3",
+            "Air India Engineering Services Ltd.",
+            "2006",
+            "Ministry Of Civil Aviation",
+            "Enterprises Under Construction"
+        ],
+        [
+            "4",
+            "Airline Allied Services Ltd.",
+            "1983",
+            "Ministry of Civil Aviation",
+            "Services"
+        ],
+        [
+            "5",
+            "Airports Authority Of India Ltd.",
+            "1996",
+            "Ministry of Civil Aviation",
+            "Services"
+        ]
+    ]
+}

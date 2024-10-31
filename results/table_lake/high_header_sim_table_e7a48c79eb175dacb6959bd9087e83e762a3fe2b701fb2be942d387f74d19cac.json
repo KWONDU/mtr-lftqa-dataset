@@ -1,0 +1,111 @@
+{
+    "id": "e7a48c79eb175dacb6959bd9087e83e762a3fe2b701fb2be942d387f74d19cac",
+    "metadata": "SEAT Toledo | First generation | Engine specifications",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "engine_name",
+        "engine_codes",
+        "valvetrain",
+        "displacement",
+        "max_power_at_rpm",
+        "max_torque_at_rpm"
+    ],
+    "cell": [
+        [
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines"
+        ],
+        [
+            "1.4*",
+            "BXW",
+            "DOHC 16v",
+            "1390 cc",
+            "PS ( kW ; bhp ) @ 5,000",
+            "N\u00b7m ( lbf\u00b7ft ) @ 3,800"
+        ],
+        [
+            "1.6",
+            "BGU/BSE/BSF/CCSA",
+            "SOHC 8v",
+            "1595cc",
+            "PS (kW; bhp) @ 5,600",
+            "N\u00b7m (lbf\u00b7ft) @ 3,800"
+        ],
+        [
+            "1.8 TSI",
+            "BZB",
+            "DOHC 16v",
+            "1798cc",
+            "PS (kW; bhp) @ 5,000",
+            "N\u00b7m (lbf\u00b7ft) @ 1,500"
+        ],
+        [
+            "2.0 FSI",
+            "BLR/BVY",
+            "DOHC 16v",
+            "1984cc",
+            "PS (kW; bhp) @ 6,000",
+            "N\u00b7m (lbf\u00b7ft) @ 3,250"
+        ],
+        [
+            "2.0 TFSI",
+            "BWA",
+            "DOHC 16v",
+            "1984cc",
+            "PS (kW; bhp) @ 5,100",
+            "N\u00b7m (lbf\u00b7ft) @ 1,800"
+        ],
+        [
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines"
+        ],
+        [
+            "1.9 TDI",
+            "BJB/BKC/BXE/BLS",
+            "SOHC 8v",
+            "1896 cc",
+            "PS ( kW ; bhp ) @ 4,000",
+            "N\u00b7m ( lbf\u00b7ft ) @ 1,900"
+        ],
+        [
+            "2.0 TDI",
+            "AZV",
+            "DOHC 16v",
+            "1968cc",
+            "PS (kW; bhp) @ 4,000",
+            "N\u00b7m (lbf\u00b7ft) @ 1,750"
+        ],
+        [
+            "2.0 TDI",
+            "BKD",
+            "DOHC 16v",
+            "1968cc",
+            "PS (kW; bhp) @ 4,000",
+            "N\u00b7m (lbf\u00b7ft) @ 1,750"
+        ],
+        [
+            "2.0 TDI DPF",
+            "BMM",
+            "SOHC 8v",
+            "1968cc",
+            "PS (kW; bhp) @ 4,000",
+            "N\u00b7m (lbf\u00b7ft) @ 1,750"
+        ],
+        [
+            "2.0 TDI DPF",
+            "BMN",
+            "DOHC 16v",
+            "1968cc",
+            "PS (kW; bhp) @ 4,200",
+            "N\u00b7m (lbf\u00b7ft) @ 1,750"
+        ]
+    ]
+}

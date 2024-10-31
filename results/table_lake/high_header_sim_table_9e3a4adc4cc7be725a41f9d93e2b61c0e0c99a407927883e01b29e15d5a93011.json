@@ -1,0 +1,56 @@
+{
+    "id": "9e3a4adc4cc7be725a41f9d93e2b61c0e0c99a407927883e01b29e15d5a93011",
+    "metadata": "Claudio Langes | Complete International Formula 3000 results | Complete International Formula 3000 results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1985",
+            "Barron Racing",
+            "Tyrrell 012",
+            "Cosworth",
+            "0"
+        ],
+        [
+            "1986",
+            "BS Automotive",
+            "Lola T86/50",
+            "Cosworth",
+            "3"
+        ],
+        [
+            "1987",
+            "First Racing",
+            "March 87B",
+            "Cosworth",
+            "0"
+        ],
+        [
+            "1988",
+            "GA Motorsports",
+            "Lola T88/50",
+            "Cosworth",
+            "5"
+        ],
+        [
+            "1988",
+            "Barcelona Motorsport",
+            "Lola T88/50",
+            "Cosworth",
+            "5"
+        ],
+        [
+            "1989",
+            "Forti Corse",
+            "Lola T89/50",
+            "Cosworth",
+            "7"
+        ]
+    ]
+}

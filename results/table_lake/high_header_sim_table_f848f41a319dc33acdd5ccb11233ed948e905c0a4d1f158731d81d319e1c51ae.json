@@ -1,0 +1,70 @@
+{
+    "id": "f848f41a319dc33acdd5ccb11233ed948e905c0a4d1f158731d81d319e1c51ae",
+    "metadata": "Steve Williams (athlete) | Best performances | 200 meters",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Result_",
+        "World_Rank",
+        "Location_",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "1972",
+            "20.2",
+            "3rd",
+            "El Paso",
+            "Apr 15"
+        ],
+        [
+            "1973",
+            "20.33",
+            "1st",
+            "Bakersfield",
+            "Jun 16"
+        ],
+        [
+            "1974",
+            "20.2",
+            "4th",
+            "Viareggio",
+            "Aug 7"
+        ],
+        [
+            "1975",
+            "19.8",
+            "1st",
+            "Eugene",
+            "Jun 7"
+        ],
+        [
+            "1976",
+            "19.9",
+            "2nd",
+            "Gainesville",
+            "Apr 17"
+        ],
+        [
+            "1977",
+            "20.31",
+            "5th",
+            "Kingston",
+            "May 13"
+        ],
+        [
+            "1978",
+            "20.26",
+            "6th",
+            "Zurich",
+            "Aug 16"
+        ],
+        [
+            "1980",
+            "20.26",
+            "5th",
+            "Brussels",
+            "Aug 22"
+        ]
+    ]
+}

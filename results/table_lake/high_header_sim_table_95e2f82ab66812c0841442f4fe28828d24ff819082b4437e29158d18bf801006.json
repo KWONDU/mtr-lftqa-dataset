@@ -1,0 +1,56 @@
+{
+    "id": "95e2f82ab66812c0841442f4fe28828d24ff819082b4437e29158d18bf801006",
+    "metadata": "Sergio Liani | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournament",
+        "Venue",
+        "Result_",
+        "Event"
+    ],
+    "cell": [
+        [
+            "1966",
+            "European Championships",
+            "Budapest , Hungary",
+            "6th",
+            "110 m hurdles"
+        ],
+        [
+            "1967",
+            "Mediterranean Games",
+            "Tunis , Tunisia",
+            "2nd",
+            "110 m hurdles"
+        ],
+        [
+            "1970",
+            "Universiade",
+            "Turin , Italy",
+            "3rd",
+            "110 m hurdles"
+        ],
+        [
+            "1971",
+            "European Indoor Championships",
+            "Sofia , Bulgaria",
+            "3rd",
+            "60 m hurdles"
+        ],
+        [
+            "1971",
+            "European Championships",
+            "Helsinki , Finland",
+            "6th",
+            "110 m hurdles"
+        ],
+        [
+            "1971",
+            "Mediterranean Games",
+            "Izmir , Turkey",
+            "2nd",
+            "110 m hurdles"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "da171e37d4a9292e520acb0feca3ce5169000922805a2fa0ef4d4b7cc0608043",
+    "metadata": "1994 Open Championship | Missed the cut | Missed the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1966 , 1970 , 1978",
+            "145",
+            "+5"
+        ],
+        [
+            "Gary Player",
+            "South Africa",
+            "1959 , 1968 , 1974",
+            "145",
+            "+5"
+        ],
+        [
+            "Lee Trevino",
+            "United States",
+            "1971 , 1972",
+            "147",
+            "+7"
+        ],
+        [
+            "Ian Baker-Finch",
+            "Australia",
+            "1991",
+            "150",
+            "+10"
+        ],
+        [
+            "Bob Charles",
+            "New Zealand",
+            "1963",
+            "153",
+            "+13"
+        ]
+    ]
+}

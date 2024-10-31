@@ -1,0 +1,70 @@
+{
+    "id": "611fd1f6ee7fa02edaa9e105f0e685cead74aa6e62cdf2e3bb3ad385da61f085",
+    "metadata": "2007-08 Montenegrin Cup | First round | Attendance",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Venue",
+        "Home",
+        "Guest",
+        "Score",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "Stadion Pod Goricom",
+            "FK Budu\u0107nost",
+            "FK Kom",
+            "3:0",
+            "2.500"
+        ],
+        [
+            "Stadion Tu\u0161ko polje",
+            "FK De\u010di\u0107",
+            "FK Rudar Pljevlja",
+            "0:1",
+            "700"
+        ],
+        [
+            "Stadion Tre\u0161njica",
+            "FK Zeta",
+            "FK Mladost",
+            "1:0",
+            "500"
+        ],
+        [
+            "Stadion u Radanovi\u0107ima",
+            "OFK Grbalj",
+            "OFK Bar",
+            "7:0",
+            "300"
+        ],
+        [
+            "Stadion Olimpik",
+            "FK Otrant",
+            "FK Arsenal",
+            "0:2",
+            "1.000"
+        ],
+        [
+            "Gradski stadion",
+            "FK Berane",
+            "FK Ibar",
+            "1:0",
+            "2.000"
+        ],
+        [
+            "Stadion Lugovi",
+            "FK Mogren",
+            "FK Sutjeska",
+            "1:1",
+            "600"
+        ],
+        [
+            "Stadion pod Malim brdom",
+            "OFK Petrovac",
+            "FK Lov\u0107en",
+            "2:0",
+            "500"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "40a89d9f42509358a9373142a7c22dadd18b736d89a742923031456106c4b47f",
+    "metadata": "Daren Kagasoff | Awards | Awards",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Award",
+        "Work_",
+        "Category",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "2009",
+            "Teen Choice Awards",
+            "The Secret Life of the American Teenager",
+            "Choice Summer TV Star: Male",
+            "Won"
+        ],
+        [
+            "2009",
+            "Teen Choice Awards",
+            "The Secret Life of the American Teenager",
+            "Choice TV Breakout Star: Male",
+            "Nominated"
+        ],
+        [
+            "2010",
+            "Teen Choice Awards",
+            "The Secret Life of the American Teenager",
+            "Choice TV Actor: Drama",
+            "Nominated"
+        ],
+        [
+            "2010",
+            "Teen Choice Awards",
+            "The Secret Life of the American Teenager",
+            "Choice Summer TV Star: Male",
+            "Nominated"
+        ],
+        [
+            "2011",
+            "Teen Choice Awards",
+            "The Secret Life of the American Teenager",
+            "Choice TV Actor: Drama",
+            "Nominated"
+        ],
+        [
+            "2012",
+            "Teen Choice Awards",
+            "The Secret Life of the American Teenager",
+            "Choice Summer TV Star: Male",
+            "Nominated"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "d2a51c1bedfac3e81cbb1d4af9b6df630063ae72626ac4780af053dc62322da6",
+    "metadata": "2000 NBA All-Star Game | Slam Dunk Contest | Contestants",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos_",
+        "Player",
+        "Team",
+        "Height",
+        "Weight"
+    ],
+    "cell": [
+        [
+            "G/F",
+            "Vince Carter",
+            "Toronto Raptors",
+            "6-6",
+            "220"
+        ],
+        [
+            "G/F",
+            "Ricky Davis",
+            "Charlotte Hornets",
+            "6-7",
+            "195"
+        ],
+        [
+            "G",
+            "Steve Francis",
+            "Houston Rockets",
+            "6-3",
+            "210"
+        ],
+        [
+            "G/F",
+            "Larry Hughes",
+            "Philadelphia 76ers",
+            "6-5",
+            "185"
+        ],
+        [
+            "G/F",
+            "Tracy McGrady",
+            "Toronto Raptors",
+            "6-8",
+            "225"
+        ],
+        [
+            "G/F",
+            "Jerry Stackhouse",
+            "Detroit Pistons",
+            "6-6",
+            "218"
+        ]
+    ]
+}

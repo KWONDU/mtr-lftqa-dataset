@@ -1,0 +1,55 @@
+{
+    "id": "354b479f6560d895230053ed234cdbcb3515b9a67226cb72e192f904e032b9b1",
+    "metadata": "United States House of Representatives elections, 1810 | North Carolina | North Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "North Carolina 2",
+            "Willis Alston",
+            "Democratic-Republican",
+            "1798",
+            "Re-elected",
+            "Willis Alston (DR) 65.9% Joseph H. Bryon (F) 34.1%"
+        ],
+        [
+            "North Carolina 3",
+            "William Kennedy",
+            "Democratic-Republican",
+            "1803 1808",
+            "Retired Democratic-Republican gain",
+            "Thomas Blount (DR)"
+        ],
+        [
+            "North Carolina 6",
+            "Nathaniel Macon",
+            "Democratic-Republican",
+            "1791",
+            "Re-elected",
+            "Nathaniel Macon (DR) 100%"
+        ],
+        [
+            "North Carolina 8",
+            "Richard Stanford",
+            "Democratic-Republican",
+            "1796",
+            "Re-elected",
+            "Richard Stanford (DR) 100%"
+        ],
+        [
+            "North Carolina 10",
+            "Joseph Pearson",
+            "Federalist",
+            "1808",
+            "Re-elected",
+            "Joseph Pearson (F) 63.8% James Wallis (DR) 36.4%"
+        ]
+    ]
+}

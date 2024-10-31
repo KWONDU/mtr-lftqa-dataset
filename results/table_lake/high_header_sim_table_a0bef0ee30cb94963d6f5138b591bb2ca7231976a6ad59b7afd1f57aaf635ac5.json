@@ -1,0 +1,98 @@
+{
+    "id": "a0bef0ee30cb94963d6f5138b591bb2ca7231976a6ad59b7afd1f57aaf635ac5",
+    "metadata": "1957 Cleveland Browns season | Regular Season Schedule | Regular Season Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 29, 1957",
+            "New York Giants",
+            "W 6-3",
+            "58095"
+        ],
+        [
+            "2",
+            "October 5, 1957",
+            "at Pittsburgh Steelers",
+            "W 23-12",
+            "35570"
+        ],
+        [
+            "3",
+            "October 13, 1957",
+            "Philadelphia Eagles",
+            "W 24-7",
+            "53493"
+        ],
+        [
+            "4",
+            "October 20, 1957",
+            "at Philadelphia Eagles",
+            "L 17-7",
+            "22443"
+        ],
+        [
+            "5",
+            "October 27, 1957",
+            "at Chicago Cardinals",
+            "W 17-7",
+            "26341"
+        ],
+        [
+            "6",
+            "November 3, 1957",
+            "Washington Redskins",
+            "W 21-17",
+            "52936"
+        ],
+        [
+            "7",
+            "November 10, 1957",
+            "Pittsburgh Steelers",
+            "W 24-0",
+            "53709"
+        ],
+        [
+            "8",
+            "November 17, 1957",
+            "at Washington Redskins",
+            "T 30-30",
+            "27722"
+        ],
+        [
+            "9",
+            "November 24, 1957",
+            "Los Angeles Rams",
+            "W 45-31",
+            "65407"
+        ],
+        [
+            "10",
+            "December 1, 1957",
+            "Chicago Cardinals",
+            "W 31-0",
+            "40525"
+        ],
+        [
+            "11",
+            "December 8, 1957",
+            "at Detroit Lions",
+            "L 20-7",
+            "55814"
+        ],
+        [
+            "12",
+            "December 15, 1957",
+            "at New York Giants",
+            "W 34-28",
+            "54294"
+        ]
+    ]
+}

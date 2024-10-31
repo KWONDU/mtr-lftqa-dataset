@@ -1,0 +1,103 @@
+{
+    "id": "004ba6b6070f6f53a7d262715ce3b925b3131a5d465538a6e28395b2de51ba83",
+    "metadata": "1980 Open Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tom Watson",
+            "United States",
+            "68-70-64-69=271",
+            "-13",
+            "25000"
+        ],
+        [
+            "2",
+            "Lee Trevino",
+            "United States",
+            "68-67-71-69=275",
+            "-9",
+            "17500"
+        ],
+        [
+            "3",
+            "Ben Crenshaw",
+            "United States",
+            "70-70-68-69=277",
+            "-7",
+            "13500"
+        ],
+        [
+            "T4",
+            "Carl Mason",
+            "England",
+            "72-69-70-69=280",
+            "-4",
+            "9250"
+        ],
+        [
+            "T4",
+            "Jack Nicklaus",
+            "United States",
+            "73-67-71-69=280",
+            "-4",
+            "9250"
+        ],
+        [
+            "T6",
+            "Andy Bean",
+            "United States",
+            "71-69-70-72=282",
+            "-2",
+            "7250"
+        ],
+        [
+            "T6",
+            "Ken Brown",
+            "Scotland",
+            "70-68-68-76=282",
+            "-2",
+            "7250"
+        ],
+        [
+            "T6",
+            "Hubert Green",
+            "United States",
+            "77-69-64-72=282",
+            "-2",
+            "7250"
+        ],
+        [
+            "T6",
+            "Craig Stadler",
+            "United States",
+            "72-70-69-71=282",
+            "-2",
+            "7250"
+        ],
+        [
+            "T10",
+            "Gil Morgan",
+            "United States",
+            "70-70-71-72=283",
+            "-1",
+            "5750"
+        ],
+        [
+            "T10",
+            "Jack Newton",
+            "Australia",
+            "69-71-73-70=283",
+            "-1",
+            "5750"
+        ]
+    ]
+}

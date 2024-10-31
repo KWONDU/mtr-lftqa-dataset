@@ -1,0 +1,84 @@
+{
+    "id": "e759550056d1c04664382fed4f141fe96f326d27549088b69c8aefcef42af30a",
+    "metadata": "2008 North West 200 Races | Race 2; 1000cc Superbike Race final standings | Race 2; 1000cc Superbike Race final standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Rider",
+        "Team",
+        "Time_",
+        "Speed"
+    ],
+    "cell": [
+        [
+            "1",
+            "Michael Rutter",
+            "Ducati",
+            "21` 52.169",
+            "122.609 mph"
+        ],
+        [
+            "2",
+            "Guy Martin",
+            "Honda",
+            "+ 0.810",
+            "122.534 mph"
+        ],
+        [
+            "3",
+            "John McGuinness",
+            "Honda",
+            "+ 0.956",
+            "122.510 mph"
+        ],
+        [
+            "4",
+            "Steve Plater",
+            "Yamaha YZF-R",
+            "+ 1.192",
+            "121.658 mph"
+        ],
+        [
+            "5",
+            "Gary Johnson",
+            "Honda",
+            "+ 10.257",
+            "120.979 mph"
+        ],
+        [
+            "6",
+            "Bruce Anstey",
+            "Suzuki GSX-R1000",
+            "+ 17.682",
+            "120.979 mph"
+        ],
+        [
+            "7",
+            "Ian Hutchinson",
+            "Yamaha",
+            "+ 17.970",
+            "120.953 mph"
+        ],
+        [
+            "8",
+            "Ryan Farquhar",
+            "Kawasaki ZX-10R",
+            "+ 18.386",
+            "120.915 mph"
+        ],
+        [
+            "9",
+            "Denver Robb",
+            "Suzuki",
+            "+ 27.118",
+            "120.127 mph"
+        ],
+        [
+            "10",
+            "Keith Amor",
+            "Honda",
+            "+ 41.841",
+            "118.820 mph"
+        ]
+    ]
+}

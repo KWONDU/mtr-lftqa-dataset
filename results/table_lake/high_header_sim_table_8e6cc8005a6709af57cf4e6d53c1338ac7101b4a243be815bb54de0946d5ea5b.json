@@ -1,0 +1,133 @@
+{
+    "id": "8e6cc8005a6709af57cf4e6d53c1338ac7101b4a243be815bb54de0946d5ea5b",
+    "metadata": "2007-08 Florida Panthers season | December | December",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "December 1",
+            "Washington",
+            "2 - 1",
+            "Florida",
+            "Vokoun",
+            "14333",
+            "12-14-1"
+        ],
+        [
+            "December 5",
+            "Ottawa",
+            "5 - 4",
+            "Florida",
+            "Anderson",
+            "11289",
+            "12-15-1"
+        ],
+        [
+            "December 7",
+            "NY Islanders",
+            "0 - 3",
+            "Florida",
+            "Vokoun",
+            "14502",
+            "13-15-1"
+        ],
+        [
+            "December 11",
+            "Calgary",
+            "2 - 1",
+            "Florida",
+            "Vokoun",
+            "12499",
+            "13-15-2"
+        ],
+        [
+            "December 13",
+            "Florida",
+            "1 - 0",
+            "St. Louis",
+            "Vokoun",
+            "14088",
+            "14-15-2"
+        ],
+        [
+            "December 15",
+            "Florida",
+            "2 - 5",
+            "Detroit",
+            "Vokoun",
+            "20066",
+            "14-16-2"
+        ],
+        [
+            "December 16",
+            "Florida",
+            "3 - 1",
+            "Chicago",
+            "Vokoun",
+            "12926",
+            "15-16-2"
+        ],
+        [
+            "December 18",
+            "Florida",
+            "3 - 2",
+            "Montreal",
+            "Vokoun",
+            "21273",
+            "16-16-2"
+        ],
+        [
+            "December 20",
+            "Carolina",
+            "4 - 5",
+            "Florida",
+            "Vokoun",
+            "15061",
+            "17-16-2"
+        ],
+        [
+            "December 22",
+            "Toronto",
+            "2 - 1",
+            "Florida",
+            "Vokoun",
+            "18500",
+            "17-16-3"
+        ],
+        [
+            "December 27",
+            "Florida",
+            "5 - 3",
+            "Atlanta",
+            "Vokoun",
+            "16080",
+            "18-16-3"
+        ],
+        [
+            "December 28",
+            "Montreal",
+            "5 - 1",
+            "Florida",
+            "Vokoun",
+            "19838",
+            "18-17-3"
+        ],
+        [
+            "December 30",
+            "Philadelphia",
+            "1 - 0",
+            "Florida",
+            "Vokoun",
+            "18767",
+            "18-18-3"
+        ]
+    ]
+}

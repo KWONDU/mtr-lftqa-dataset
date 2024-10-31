@@ -1,0 +1,70 @@
+{
+    "id": "d9c7a7634fd4394b94ee96008bcbe2515a13a58661a596925893f65df278fdc4",
+    "metadata": "Chamoli district | Tourism | Tourism",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_Of_Place",
+        "Height_from_Sea_Level_In_Meters",
+        "Nearby_Town",
+        "Trekking_Route",
+        "Category"
+    ],
+    "cell": [
+        [
+            "Badrinath",
+            "3100",
+            "Badrinath",
+            "Connected By Highway",
+            "Pilgrimage"
+        ],
+        [
+            "Kedranath",
+            "3528",
+            "Gorikund",
+            "14km",
+            "Pilgrimage"
+        ],
+        [
+            "Tungnath",
+            "3650",
+            "Ukhimath",
+            "22km",
+            "Pilgrimage"
+        ],
+        [
+            "Hemkunt Sahib",
+            "4329",
+            "Govind Gath",
+            "21km",
+            "Pilgrimage"
+        ],
+        [
+            "Vedni Bugyal",
+            "4200",
+            "Baan Village",
+            "15km",
+            "Adventures and Pilgrimage"
+        ],
+        [
+            "RoopKund",
+            "5020",
+            "Karnparyag",
+            "61km",
+            "Extremely Adventures"
+        ],
+        [
+            "Valley of Flowers",
+            "3000M to 4500M",
+            "Govind Gath",
+            "19km",
+            "Picturesque and Trekking Route"
+        ],
+        [
+            "Auli Bugyal",
+            "3300M to 4500M",
+            "Joshi Math",
+            "5km",
+            "Trekking and winter sports"
+        ]
+    ]
+}

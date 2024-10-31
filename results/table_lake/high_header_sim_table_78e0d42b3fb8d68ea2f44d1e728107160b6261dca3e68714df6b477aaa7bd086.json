@@ -1,0 +1,95 @@
+{
+    "id": "78e0d42b3fb8d68ea2f44d1e728107160b6261dca3e68714df6b477aaa7bd086",
+    "metadata": "Miss Teen USA 1996 | Final competition scores | Final competition scores",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Preliminaries",
+        "Interview",
+        "Swimsuit",
+        "Evening_Gown",
+        "Average"
+    ],
+    "cell": [
+        [
+            "Missouri",
+            "9.26",
+            "9.84",
+            "9.76",
+            "9.77",
+            "9.79"
+        ],
+        [
+            "California",
+            "9.18",
+            "9.76",
+            "9.64",
+            "9.66",
+            "9.69"
+        ],
+        [
+            "Pennsylvania",
+            "9.32",
+            "9.75",
+            "9.63",
+            "9.54",
+            "9.64"
+        ],
+        [
+            "Texas",
+            "9.27",
+            "9.39",
+            "9.74",
+            "9.72",
+            "9.62"
+        ],
+        [
+            "Arizona",
+            "9.25",
+            "9.56",
+            "9.59",
+            "9.70",
+            "9.62"
+        ],
+        [
+            "Maryland",
+            "9.25",
+            "9.40",
+            "9.73",
+            "9.55",
+            "9.56"
+        ],
+        [
+            "Oklahoma",
+            "9.31",
+            "9.44",
+            "9.57",
+            "9.63",
+            "9.54"
+        ],
+        [
+            "Michigan",
+            "9.13",
+            "9.37",
+            "9.51",
+            "9.40",
+            "9.42"
+        ],
+        [
+            "North Dakota",
+            "9.40",
+            "9.15",
+            "9.30",
+            "9.38",
+            "9.27"
+        ],
+        [
+            "New York",
+            "9.21",
+            "9.19",
+            "9.18",
+            "9.32",
+            "9.23"
+        ]
+    ]
+}

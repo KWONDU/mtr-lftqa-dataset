@@ -1,0 +1,67 @@
+{
+    "id": "26df51f62c3cefb40e9cc8c4333c19241c89ac03c9734062d5c32f2fe0205ecf",
+    "metadata": "1911 in Brazilian football | Campeonato Paulista | Campeonato Paulista",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Team",
+        "Points",
+        "Played",
+        "Drawn",
+        "Lost",
+        "Against",
+        "Difference"
+    ],
+    "cell": [
+        [
+            "1",
+            "S\u00e3o Paulo Athletic",
+            "15",
+            "9",
+            "1",
+            "1",
+            "15",
+            "8"
+        ],
+        [
+            "2",
+            "Americano-SP",
+            "11",
+            "8",
+            "1",
+            "2",
+            "15",
+            "14"
+        ],
+        [
+            "3",
+            "Paulistano",
+            "7",
+            "9",
+            "1",
+            "5",
+            "15",
+            "2"
+        ],
+        [
+            "4",
+            "Germ\u00e2nia",
+            "6",
+            "9",
+            "0",
+            "6",
+            "26",
+            "- 12"
+        ],
+        [
+            "5",
+            "Ypiranga-SP",
+            "5",
+            "9",
+            "1",
+            "6",
+            "28",
+            "- 15"
+        ]
+    ]
+}

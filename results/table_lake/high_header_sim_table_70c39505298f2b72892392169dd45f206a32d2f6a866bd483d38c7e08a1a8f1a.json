@@ -1,0 +1,107 @@
+{
+    "id": "70c39505298f2b72892392169dd45f206a32d2f6a866bd483d38c7e08a1a8f1a",
+    "metadata": "Citro\u00ebn Jumpy | Facelift | Fiat Scudo engines",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Engine",
+        "Displacement",
+        "Valvetrain",
+        "Fuel_system",
+        "Max_power_at_rpm",
+        "Max_torque_at_rpm",
+        "Years"
+    ],
+    "cell": [
+        [
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines",
+            "Petrol engines"
+        ],
+        [
+            "1.6 i.e.",
+            "Fiat 220A2000",
+            "1,581 cc",
+            "SOHC 8v",
+            "Single-point fuel injection",
+            "PS (kW; hp) @ 5,750 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 2,750 rpm",
+            "1996-2000"
+        ],
+        [
+            "2.0 i.e.",
+            "PSA EW10",
+            "1,997 cc",
+            "DOHC 16v",
+            "Multi-point fuel injection",
+            "PS (kW; hp) @ 6,000 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 4,100 rpm",
+            "2000-2006"
+        ],
+        [
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines",
+            "Diesel engines"
+        ],
+        [
+            "1.9 D",
+            "PSA XUD9",
+            "1,905 cc",
+            "SOHC 8v",
+            "Indirect injection",
+            "PS (kW; hp) @ 4,600 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 2,000 rpm",
+            "1996-1999"
+        ],
+        [
+            "1.9 D",
+            "PSA DW8",
+            "1,868 cc",
+            "SOHC 8v",
+            "Indirect injection",
+            "PS (kW; hp) @ 4,600 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 2,500 rpm",
+            "1999-2006"
+        ],
+        [
+            "1.9 TD",
+            "PSA XUD9",
+            "1,905 cc",
+            "SOHC 8v",
+            "Indirect injection",
+            "PS (kW; hp) @ 4,000 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 2,250 rpm",
+            "1996-1999"
+        ],
+        [
+            "2.0 JTD",
+            "PSA DW10",
+            "1,997 cc",
+            "SOHC 8v",
+            "Common rail direct injection",
+            "PS (kW; hp) @ 4,000 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 1,750 rpm",
+            "1999-2006"
+        ],
+        [
+            "2.0 JTD 1",
+            "PSA DW10",
+            "1,997 cc",
+            "DOHC 16v",
+            "Common rail direct injection",
+            "PS (kW; hp) @ 4,000 rpm",
+            "N\u00b7m (lb\u00b7ft) @ 1,750 rpm",
+            "2000-2006"
+        ]
+    ]
+}

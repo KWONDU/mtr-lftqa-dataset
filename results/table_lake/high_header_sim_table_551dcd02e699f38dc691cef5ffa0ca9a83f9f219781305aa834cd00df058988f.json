@@ -1,0 +1,56 @@
+{
+    "id": "551dcd02e699f38dc691cef5ffa0ca9a83f9f219781305aa834cd00df058988f",
+    "metadata": "Test matches (1991-2000) | Results | 1998",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "29,30,31 January, 1,2 February 1998",
+            "Brian Lara",
+            "Mike Atherton",
+            "Sabina Park",
+            "ABANDONED"
+        ],
+        [
+            "5,6,7,8,9 February 1998",
+            "Brian Lara",
+            "Mike Atherton",
+            "Queen`s Park Oval",
+            "WI by 3 wkts"
+        ],
+        [
+            "13,14,15,16,17 February 1998",
+            "Brian Lara",
+            "Mike Atherton",
+            "Queen`s Park Oval",
+            "ENG by 3 wkts"
+        ],
+        [
+            "27,28 February, 1,2 March 1998",
+            "Brian Lara",
+            "Mike Atherton",
+            "Bourda",
+            "WI by 242 runs"
+        ],
+        [
+            "12,13,14,15,16 March 1998",
+            "Brian Lara",
+            "Mike Atherton",
+            "Kensington Oval",
+            "DRAW"
+        ],
+        [
+            "20,21,22,23,24 March 1998",
+            "Brian Lara",
+            "Mike Atherton",
+            "Antigua Recreation Ground",
+            "WI by Inns&52 runs"
+        ]
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "37badd0683bcb0c73c278c05498d7c49990862ebdc6c08984d17844dc2804b5f",
+    "metadata": "2007-08 Guildford Flames season | December | December",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "1",
+            "Peterborough Phantoms",
+            "Home",
+            "Won 6-1",
+            "1421",
+            "League"
+        ],
+        [
+            "2",
+            "Peterborough Phantoms",
+            "Away",
+            "Won 3-2 (SO)",
+            "443",
+            "League"
+        ],
+        [
+            "8",
+            "Swindon Wildcats",
+            "Away",
+            "Won 3-2",
+            "790",
+            "Knockout Cup"
+        ],
+        [
+            "9",
+            "Chelmsford Chieftains",
+            "Away",
+            "Won 5-3",
+            "423",
+            "League"
+        ],
+        [
+            "15",
+            "Sheffield Scimitars",
+            "Away",
+            "Won 5-3",
+            "351",
+            "League"
+        ],
+        [
+            "16",
+            "Swindon Wildcats",
+            "Home",
+            "Won 3-1",
+            "1244",
+            "Knockout Cup"
+        ],
+        [
+            "22",
+            "Romford Raiders",
+            "Home",
+            "Won 5-2",
+            "1551",
+            "Knockout Cup"
+        ],
+        [
+            "23",
+            "Romford Raiders",
+            "Away",
+            "Lost 2-6",
+            "Unknown",
+            "League"
+        ],
+        [
+            "26",
+            "Milton Keynes Lightning",
+            "Home",
+            "Won 4-3",
+            "1228",
+            "Premier Cup"
+        ],
+        [
+            "29",
+            "Chelmsford Chieftains",
+            "Home",
+            "Won 5-0",
+            "1117",
+            "League"
+        ],
+        [
+            "30",
+            "Slough Jets",
+            "Home",
+            "Won 4-3",
+            "1921",
+            "League"
+        ]
+    ]
+}

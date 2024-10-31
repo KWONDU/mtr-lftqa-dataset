@@ -1,0 +1,128 @@
+{
+    "id": "4550fcc5ff1115b62b2155a6cea204cfda0d9ab490373d6a9072ef553161c77f",
+    "metadata": "2007 LFF Lyga | A Lyga | A Lyga",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Club",
+        "Games_played",
+        "Wins",
+        "Draws",
+        "Loses",
+        "Goals_scored",
+        "Goals_conceded",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1",
+            "FBK Kaunas",
+            "36",
+            "25",
+            "8",
+            "3",
+            "91",
+            "26",
+            "83"
+        ],
+        [
+            "2",
+            "FK S\u016bduva Marijampol\u0117",
+            "36",
+            "20",
+            "8",
+            "8",
+            "66",
+            "34",
+            "68"
+        ],
+        [
+            "3",
+            "FK Ekranas",
+            "36",
+            "19",
+            "9",
+            "8",
+            "83",
+            "36",
+            "66"
+        ],
+        [
+            "4",
+            "FK \u017dalgiris Vilnius",
+            "36",
+            "18",
+            "10",
+            "8",
+            "64",
+            "34",
+            "64"
+        ],
+        [
+            "5",
+            "V\u0117tra Vilnius",
+            "36",
+            "18",
+            "7",
+            "11",
+            "55",
+            "30",
+            "61"
+        ],
+        [
+            "6",
+            "FK Atlantas",
+            "36",
+            "13",
+            "6",
+            "17",
+            "54",
+            "45",
+            "45"
+        ],
+        [
+            "7",
+            "FC Vilnius",
+            "36",
+            "13",
+            "6",
+            "17",
+            "54",
+            "63",
+            "45"
+        ],
+        [
+            "8",
+            "FK \u0160iauliai",
+            "36",
+            "13",
+            "6",
+            "17",
+            "47",
+            "50",
+            "45"
+        ],
+        [
+            "9",
+            "FK \u0160ilut\u0117",
+            "36",
+            "6",
+            "4",
+            "26",
+            "28",
+            "86",
+            "22"
+        ],
+        [
+            "10",
+            "Interas-AE Visaginas",
+            "36",
+            "2",
+            "2",
+            "32",
+            "16",
+            "154",
+            "8"
+        ]
+    ]
+}

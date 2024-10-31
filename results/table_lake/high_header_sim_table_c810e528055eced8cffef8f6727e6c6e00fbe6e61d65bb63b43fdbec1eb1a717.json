@@ -1,0 +1,189 @@
+{
+    "id": "c810e528055eced8cffef8f6727e6c6e00fbe6e61d65bb63b43fdbec1eb1a717",
+    "metadata": "George Town, Penang | Public holidays | Public holidays",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "English_Name",
+        "Chinese_Name",
+        "Tamil_Name",
+        "Type_"
+    ],
+    "cell": [
+        [
+            "1 January",
+            "New Year`s Day",
+            "\u516c\u66c6\u65b0\u5e74",
+            "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcb\u0bb0\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "Gregorian"
+        ],
+        [
+            "1 May",
+            "Labour Day",
+            "\u52de\u52d5\u7bc0",
+            "\u0ba8\u0bbe\u0bb3\u0bcd \u0bae\u0bc7",
+            "Gregorian"
+        ],
+        [
+            "June",
+            "King of Malaysia `s Birthday",
+            "\u6700\u9ad8\u5143\u9996\u8a95\u8fb0",
+            "\u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd \u0b89\u0b9a\u0bcd\u0b9a \u0ba4\u0bb2\u0bc8\u0bae\u0bc8",
+            "Gregorian"
+        ],
+        [
+            "7 July",
+            "Declaration of George Town as World Heritage Site",
+            "\u55ac\u6cbb\u5e02\u6587\u5316\u9057\u4ea7\u65e5",
+            "\u0b89\u0bb2\u0b95 \u0baa\u0bbe\u0bb0\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0baf \u0b95\u0bb3\u0bae\u0bcd \u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd \u0b9f\u0bb5\u0bc1\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+            "Gregorian"
+        ],
+        [
+            "14 July",
+            "Governor of Penang `s Birthday",
+            "\u6ab3\u57ce\u5dde\u5143\u9996\u8a95\u8fb0",
+            "\u0baa\u0bc6\u0bb0\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "Gregorian"
+        ],
+        [
+            "11 August",
+            "Mayor of Georgetown`s Birthday",
+            "\u55ac\u6cbb\u5e02\u4eba\u6c11\u653f\u5e9c",
+            "\u0b9c\u0bcb\u0bb0\u0bcd\u0b9c\u0bcd \u0b9f\u0bb5\u0bc1\u0ba9\u0bcd \u0bae\u0bbe\u0ba8\u0b95\u0bb0 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb0\u0b9a\u0bc1",
+            "Gregorian"
+        ],
+        [
+            "31 August",
+            "National Independence Day",
+            "\u570b\u6176\u65e5",
+            "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+            "Gregorian"
+        ],
+        [
+            "16 September",
+            "Malaysia Day",
+            "\u99ac\u4f86\u897f\u4e9e\u6210\u7acb\u65e5",
+            "\u0bae\u0bb2\u0bc7\u0bb7\u0bbf\u0baf\u0bbe \u0b85\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0ba8\u0bbe\u0bb3\u0bcd",
+            "Gregorian"
+        ],
+        [
+            "24 December",
+            "Christmas Eve",
+            "\u5e73\u5b89\u591c",
+            "\u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bc1\u0bae\u0bb8\u0bcd \u0b88\u0bb5\u0bcd",
+            "Christian"
+        ],
+        [
+            "25 December",
+            "Christmas Day",
+            "\u8056\u8a95\u7bc0",
+            "\u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd",
+            "Christian"
+        ],
+        [
+            "26 December",
+            "Boxing Day",
+            "\u7bc0\u79ae\u65e5",
+            "\u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bbf\u0b99\u0bcd \u0b9f\u0bc7",
+            "Christian"
+        ],
+        [
+            "31 December",
+            "New Year`s Eve",
+            "\u524d\u8de8\u65b0\u5e74",
+            "\u0bae\u0bb1\u0bcd\u0bb1 \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd",
+            "Gregorian"
+        ],
+        [
+            "1 Muharram",
+            "Islamic New Year",
+            "\u56de\u66c6\u65b0\u5e74",
+            "\u0bb9\u0bbf\u0b9c\u0bbf\u0bb0\u0bbf \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1",
+            "Islamic"
+        ],
+        [
+            "12 Rabiul Awal",
+            "Birthday of Prophet Muhammad",
+            "\u9ed8\u7f55\u9ed8\u5fb7\u8a95\u8fb0",
+            "\u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd",
+            "Islamic"
+        ],
+        [
+            "17 Ramadhan",
+            "Day of Nuzul Al-Quran",
+            "\u53ef\u862d\u7d93\u964d\u4e16\u65e5",
+            "\u0b95\u0bc1\u0bb0\u0bbe\u0ba9\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bb5\u0bb0\u0bc8 \u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+            "Islamic"
+        ],
+        [
+            "1 Syawal",
+            "Hari Raya Puasa (1st day)",
+            "\u958b\u9f4b\u7bc0 (\u7b2c1\u5929)",
+            "\u0b88\u0ba4\u0bcd \u0b85\u0bb2\u0bcd \u0baa\u0bbf\u0ba4\u0bcd\u0bb0\u0bcd (\u0ba4\u0bbf\u0ba9\u0bae\u0bcd 1)",
+            "Islamic"
+        ],
+        [
+            "2 Syawal",
+            "Hari Raya Puasa (2nd day)",
+            "\u958b\u9f4b\u7bc0 (\u7b2c2\u5929)",
+            "\u0b88\u0ba4\u0bcd \u0b85\u0bb2\u0bcd \u0baa\u0bbf\u0ba4\u0bcd\u0bb0\u0bcd (\u0ba4\u0bbf\u0ba9\u0bae\u0bcd 1)",
+            "Islamic"
+        ],
+        [
+            "10 Zulhijah",
+            "Hari Raya Qurban",
+            "\u54c8\u829d\u7bc0",
+            "\u0bb9\u0b9c\u0bcd\u0b9c\u0bbf\u0baa\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd",
+            "Islamic"
+        ],
+        [
+            "Pausha - Magha",
+            "Thaipusam",
+            "\u5927\u5bf6\u68ee\u7bc0",
+            "\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0b9a\u0bae\u0bcd",
+            "Indian"
+        ],
+        [
+            "1 Kartik",
+            "Deepavali",
+            "\u5c60\u5996\u7bc0",
+            "\u0ba4\u0bc0\u0baa\u0bbe\u0bb5\u0bb3\u0bbf\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd",
+            "Indian"
+        ],
+        [
+            "1st day of the 1st month",
+            "Chinese New Year (1st day)",
+            "\u8fb2\u66c6\u65b0\u5e74 (\u7b2c1\u5929)",
+            "\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 (\u0ba4\u0bbf\u0ba9\u0bae\u0bcd 1)",
+            "Chinese"
+        ],
+        [
+            "2nd day of the 1st month",
+            "Chinese New Year (2nd day)",
+            "\u8fb2\u66c6\u65b0\u5e74 (\u7b2c2\u5929)",
+            "\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 (\u0ba4\u0bbf\u0ba9\u0bae\u0bcd 2)",
+            "Chinese"
+        ],
+        [
+            "3rd day of the 1st month",
+            "Chinese New Year (3rd day)",
+            "\u8fb2\u66c6\u65b0\u5e74 (\u7b2c3\u5929)",
+            "\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 (\u0ba4\u0bbf\u0ba9\u0bae\u0bcd 3)",
+            "Chinese"
+        ],
+        [
+            "15th day of the 1st month",
+            "Lantern Festival",
+            "\u5143\u5bb5\u7bc0",
+            "\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe",
+            "Chinese"
+        ],
+        [
+            "15th day of the 4th month",
+            "Wesak Day",
+            "\u885b\u585e\u7bc0",
+            "\u0bb5\u0bbf\u0b9a\u0bbe\u0b95 \u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+            "Buddhist"
+        ]
+    ]
+}

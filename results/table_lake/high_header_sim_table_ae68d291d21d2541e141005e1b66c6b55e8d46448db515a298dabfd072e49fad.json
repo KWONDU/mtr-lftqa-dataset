@@ -1,0 +1,70 @@
+{
+    "id": "ae68d291d21d2541e141005e1b66c6b55e8d46448db515a298dabfd072e49fad",
+    "metadata": "1935 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "7.17 (59)",
+            "Hawthorn",
+            "13.9 (87)",
+            "Corio Oval",
+            "2500",
+            "31 August 1935"
+        ],
+        [
+            "Fitzroy",
+            "11.8 (74)",
+            "South Melbourne",
+            "10.15 (75)",
+            "Brunswick Street Oval",
+            "17000",
+            "31 August 1935"
+        ],
+        [
+            "St Kilda",
+            "19.8 (122)",
+            "Melbourne",
+            "16.14 (110)",
+            "Junction Oval",
+            "18000",
+            "31 August 1935"
+        ],
+        [
+            "Richmond",
+            "12.14 (86)",
+            "Essendon",
+            "7.16 (58)",
+            "Punt Road Oval",
+            "13000",
+            "31 August 1935"
+        ],
+        [
+            "Footscray",
+            "6.17 (53)",
+            "Collingwood",
+            "12.14 (86)",
+            "Western Oval",
+            "7500",
+            "31 August 1935"
+        ],
+        [
+            "North Melbourne",
+            "10.9 (69)",
+            "Carlton",
+            "16.16 (112)",
+            "Arden Street Oval",
+            "13000",
+            "31 August 1935"
+        ]
+    ]
+}

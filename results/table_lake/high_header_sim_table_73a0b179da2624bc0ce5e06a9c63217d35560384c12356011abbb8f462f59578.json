@@ -1,0 +1,55 @@
+{
+    "id": "73a0b179da2624bc0ce5e06a9c63217d35560384c12356011abbb8f462f59578",
+    "metadata": "1908 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "7.8 (50)",
+            "Melbourne",
+            "10.12 (72)",
+            "Corio Oval",
+            "16 May 1908"
+        ],
+        [
+            "Carlton",
+            "5.13 (43)",
+            "Essendon",
+            "4.8 (32)",
+            "Princes Park",
+            "16 May 1908"
+        ],
+        [
+            "South Melbourne",
+            "4.2 (26)",
+            "St Kilda",
+            "7.13 (55)",
+            "Lake Oval",
+            "16 May 1908"
+        ],
+        [
+            "Richmond",
+            "7.13 (55)",
+            "Fitzroy",
+            "11.14 (80)",
+            "Punt Road Oval",
+            "16 May 1908"
+        ],
+        [
+            "University",
+            "7.12 (54)",
+            "Collingwood",
+            "8.14 (62)",
+            "EMCG",
+            "16 May 1908"
+        ]
+    ]
+}

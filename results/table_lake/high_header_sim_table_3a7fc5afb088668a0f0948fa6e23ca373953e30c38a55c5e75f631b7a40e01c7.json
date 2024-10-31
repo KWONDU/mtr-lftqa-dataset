@@ -1,0 +1,49 @@
+{
+    "id": "3a7fc5afb088668a0f0948fa6e23ca373953e30c38a55c5e75f631b7a40e01c7",
+    "metadata": "Mahendra Singh Dhoni | Captaincy record | Captaincy record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Venue",
+        "Span",
+        "Matches",
+        "Lost",
+        "Tied"
+    ],
+    "cell": [
+        [
+            "Venue",
+            "Span",
+            "Matches",
+            "Lost",
+            "Tied"
+        ],
+        [
+            "In India (At Home Venues)",
+            "2007-2011",
+            "9",
+            "5",
+            "0"
+        ],
+        [
+            "At Away Venues",
+            "2007-2012",
+            "13",
+            "8",
+            "0"
+        ],
+        [
+            "At Neutral Venues",
+            "2007-2010",
+            "19",
+            "6",
+            "1"
+        ],
+        [
+            "TOTAL",
+            "2007-2012",
+            "41",
+            "19",
+            "1"
+        ]
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "498c0df757d827fdd6b6b8a6098d243831924f053a88b08347fd9156e80b6c5a",
+    "metadata": "1974 Rallye de Portugal | Results | Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos_",
+        "Driver",
+        "Co_driver",
+        "Car",
+        "Time_",
+        "Difference",
+        "Points_"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Raffaele Pinto",
+            "Arnaldo Bernacchini",
+            "Fiat Abarth 124 Rallye",
+            "6:26:15",
+            "0.0",
+            "20"
+        ],
+        [
+            "2.",
+            "Alcide Paganelli",
+            "Ninni Russo",
+            "Fiat Abarth 124 Rallye",
+            "6:30:12",
+            "3.57",
+            ""
+        ],
+        [
+            "3.",
+            "Markku Al\u00e9n",
+            "Ilkka Kivim\u00e4ki",
+            "Fiat Abarth 124 Rallye",
+            "6:37:17",
+            "11.02",
+            ""
+        ],
+        [
+            "4.",
+            "Ove Andersson",
+            "Arne Hertz",
+            "Toyota Corolla",
+            "6:40:54",
+            "14.39",
+            "10"
+        ],
+        [
+            "5.",
+            "Harry K\u00e4llstr\u00f6m",
+            "Claes Billstam",
+            "Datsun 260Z",
+            "6:54:27",
+            "28.12",
+            "8"
+        ],
+        [
+            "6.",
+            "Bob Neyret",
+            "Yveline Vanoni",
+            "Alpine-Renault A110 1800",
+            "7:04:18",
+            "38.03",
+            "6"
+        ],
+        [
+            "7.",
+            "Georg Fischer",
+            "Harald Gottlieb",
+            "BMW 2002",
+            "7:05:02",
+            "38.47",
+            "4"
+        ],
+        [
+            "8.",
+            "Francisco Rom\u00e3ozinho",
+            "Jos\u00e9 Bernardo",
+            "Citro\u00ebn GS",
+            "7:17:04",
+            "50.49",
+            "3"
+        ],
+        [
+            "9.",
+            "Chris Sclater",
+            "Neil Wilson",
+            "Ford Escort RS1600",
+            "7:26:59",
+            "1:00.44",
+            "2"
+        ],
+        [
+            "10.",
+            "Ant\u00f3nio Borges",
+            "Miguel Sottomayor",
+            "Fiat 124 Sport Spyder",
+            "7:27:55",
+            "1:01.40",
+            ""
+        ]
+    ]
+}

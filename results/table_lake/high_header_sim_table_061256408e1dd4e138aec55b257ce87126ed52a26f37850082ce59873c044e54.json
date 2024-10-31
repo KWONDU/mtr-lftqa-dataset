@@ -1,0 +1,70 @@
+{
+    "id": "061256408e1dd4e138aec55b257ce87126ed52a26f37850082ce59873c044e54",
+    "metadata": "1933 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "9.15 (69)",
+            "North Melbourne",
+            "14.9 (93)",
+            "MCG",
+            "11647",
+            "17 June 1933"
+        ],
+        [
+            "Essendon",
+            "8.11 (59)",
+            "Geelong",
+            "17.15 (117)",
+            "Windy Hill",
+            "10000",
+            "17 June 1933"
+        ],
+        [
+            "Collingwood",
+            "14.23 (107)",
+            "St Kilda",
+            "8.15 (63)",
+            "Victoria Park",
+            "11000",
+            "17 June 1933"
+        ],
+        [
+            "Carlton",
+            "21.13 (139)",
+            "Footscray",
+            "17.14 (116)",
+            "Princes Park",
+            "26000",
+            "17 June 1933"
+        ],
+        [
+            "South Melbourne",
+            "15.13 (103)",
+            "Richmond",
+            "16.12 (108)",
+            "Lake Oval",
+            "30000",
+            "17 June 1933"
+        ],
+        [
+            "Hawthorn",
+            "9.14 (68)",
+            "Fitzroy",
+            "11.13 (79)",
+            "Glenferrie Oval",
+            "13000",
+            "17 June 1933"
+        ]
+    ]
+}

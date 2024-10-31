@@ -1,0 +1,70 @@
+{
+    "id": "b3e41fd01f98421a8669c341b5e4c40d611053e591824ec27318244528f7c216",
+    "metadata": "1965 VFL season | Round 18 | Round 18",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "11.12 (78)",
+            "Richmond",
+            "6.12 (48)",
+            "City of Coburg Oval",
+            "11867",
+            "28 August 1965"
+        ],
+        [
+            "Fitzroy",
+            "16.6 (102)",
+            "St Kilda",
+            "19.13 (127)",
+            "Brunswick Street Oval",
+            "15782",
+            "28 August 1965"
+        ],
+        [
+            "Carlton",
+            "10.9 (69)",
+            "Essendon",
+            "9.6 (60)",
+            "Princes Park",
+            "26267",
+            "28 August 1965"
+        ],
+        [
+            "Hawthorn",
+            "10.9 (69)",
+            "Geelong",
+            "17.20 (122)",
+            "Glenferrie Oval",
+            "15106",
+            "28 August 1965"
+        ],
+        [
+            "Melbourne",
+            "10.12 (72)",
+            "Footscray",
+            "10.15 (75)",
+            "MCG",
+            "19532",
+            "28 August 1965"
+        ],
+        [
+            "South Melbourne",
+            "13.16 (94)",
+            "Collingwood",
+            "12.6 (78)",
+            "Lake Oval",
+            "28860",
+            "28 August 1965"
+        ]
+    ]
+}

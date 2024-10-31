@@ -1,0 +1,70 @@
+{
+    "id": "f9e90c9b13c6ec5fe4263c2739215af4a0005e6677dcf7176bc1ed12e66b2c90",
+    "metadata": "1935 VFL season | Round 18 | Round 18",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "15.12 (102)",
+            "North Melbourne",
+            "7.12 (54)",
+            "MCG",
+            "5084",
+            "7 September 1935"
+        ],
+        [
+            "Essendon",
+            "14.23 (107)",
+            "Geelong",
+            "11.13 (79)",
+            "Windy Hill",
+            "6000",
+            "7 September 1935"
+        ],
+        [
+            "Collingwood",
+            "9.18 (72)",
+            "St Kilda",
+            "7.15 (57)",
+            "Victoria Park",
+            "16000",
+            "7 September 1935"
+        ],
+        [
+            "Carlton",
+            "20.24 (144)",
+            "Footscray",
+            "10.17 (77)",
+            "Princes Park",
+            "12000",
+            "7 September 1935"
+        ],
+        [
+            "South Melbourne",
+            "14.23 (107)",
+            "Richmond",
+            "9.9 (63)",
+            "Lake Oval",
+            "28000",
+            "7 September 1935"
+        ],
+        [
+            "Hawthorn",
+            "14.26 (110)",
+            "Fitzroy",
+            "15.6 (96)",
+            "Glenferrie Oval",
+            "11000",
+            "7 September 1935"
+        ]
+    ]
+}

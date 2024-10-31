@@ -1,0 +1,84 @@
+{
+    "id": "6cd17896960113d5340d010d3b9f5fcf233c63138b27312966cbc76b5c8eb49c",
+    "metadata": "List of corporations by market capitalization | 2004 | 2004",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Headquarters",
+        "Primary_industry",
+        "Market_value_USD_million"
+    ],
+    "cell": [
+        [
+            "1",
+            "General Electric",
+            "United States",
+            "Conglomerate",
+            "299336"
+        ],
+        [
+            "2",
+            "Microsoft",
+            "United States",
+            "Software industry",
+            "271911"
+        ],
+        [
+            "3",
+            "Exxon Mobil",
+            "United States",
+            "Oil and gas",
+            "263940"
+        ],
+        [
+            "4",
+            "Pfizer",
+            "United States",
+            "Health care",
+            "261616"
+        ],
+        [
+            "5",
+            "Citigroup",
+            "United States",
+            "Banking",
+            "259191"
+        ],
+        [
+            "6",
+            "Wal-Mart",
+            "United States",
+            "Retail",
+            "258888"
+        ],
+        [
+            "7",
+            "American International Group",
+            "United States",
+            "Insurance",
+            "183696"
+        ],
+        [
+            "8",
+            "Intel Corporation",
+            "United States",
+            "Computer hardware",
+            "179996"
+        ],
+        [
+            "9",
+            "BP",
+            "United Kingdom",
+            "Oil and gas",
+            "174648"
+        ],
+        [
+            "10",
+            "HSBC",
+            "United Kingdom",
+            "Banking",
+            "163574"
+        ]
+    ]
+}

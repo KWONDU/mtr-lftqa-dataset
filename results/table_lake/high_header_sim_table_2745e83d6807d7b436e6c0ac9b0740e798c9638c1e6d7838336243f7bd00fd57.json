@@ -1,0 +1,88 @@
+{
+    "id": "2745e83d6807d7b436e6c0ac9b0740e798c9638c1e6d7838336243f7bd00fd57",
+    "metadata": "Indiana High School Athletics Conferences: Ohio River Valley - Western Indiana | Southern Indiana Athletic Conference | Southern Indiana Athletic Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Mascot",
+        "Location_",
+        "Enrollment",
+        "IHSAA_Class",
+        "IHSAA_Football_Class",
+        "County"
+    ],
+    "cell": [
+        [
+            "Castle",
+            "Knights",
+            "Newburgh",
+            "1918",
+            "AAAA",
+            "AAAAA",
+            "87 Warrick"
+        ],
+        [
+            "Evansville Bosse",
+            "Bulldogs",
+            "Evansville",
+            "799",
+            "AAA",
+            "AAA",
+            "82 Vanderburgh"
+        ],
+        [
+            "Evansville Central",
+            "Bears",
+            "Evansville",
+            "1486",
+            "AAAA",
+            "AAAA",
+            "82 Vanderburgh"
+        ],
+        [
+            "Evansville Harrison",
+            "Warriors",
+            "Evansville",
+            "1483",
+            "AAAA",
+            "AAAA",
+            "82 Vanderburgh"
+        ],
+        [
+            "Evansville Mater Dei",
+            "Wildcats",
+            "Evansville",
+            "522",
+            "AA",
+            "AA",
+            "82 Vanderburgh"
+        ],
+        [
+            "Evansville North",
+            "Huskies",
+            "Evansville",
+            "1585",
+            "AAAA",
+            "AAAAA",
+            "82 Vanderburgh"
+        ],
+        [
+            "Evansville F.J. Reitz",
+            "Panthers",
+            "Evansville",
+            "1392",
+            "AAAA",
+            "AAAA",
+            "82 Vanderburgh"
+        ],
+        [
+            "Evansville Reitz Memorial",
+            "Tigers",
+            "Evansville",
+            "791",
+            "AAA",
+            "AAA",
+            "82 Vanderburgh"
+        ]
+    ]
+}

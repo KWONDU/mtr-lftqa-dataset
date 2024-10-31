@@ -1,0 +1,87 @@
+{
+    "id": "9e631a083ae397ff46f0964f7190fb8473c66e18109d836402c70d979c6a2d04",
+    "metadata": "FIFA Club World Cup | Performances | Performances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Host_",
+        "Winners",
+        "Score",
+        "Runners_up",
+        "Third_place"
+    ],
+    "cell": [
+        [
+            "2000",
+            "Brazil",
+            "0-0",
+            "Vasco da Gama",
+            "Necaxa",
+            "Real Madrid"
+        ],
+        [
+            "2005",
+            "Japan",
+            "1-0",
+            "Liverpool",
+            "Saprissa",
+            "Ittihad"
+        ],
+        [
+            "2006",
+            "Japan",
+            "1-0",
+            "Barcelona",
+            "Al Ahly",
+            "Am\u00e9rica"
+        ],
+        [
+            "2007",
+            "Japan",
+            "4-2",
+            "Boca Juniors",
+            "Urawa Red Diamonds",
+            "\u00c9toile du Sahel"
+        ],
+        [
+            "2008",
+            "Japan",
+            "1-0",
+            "LDU Quito",
+            "Gamba Osaka",
+            "Pachuca"
+        ],
+        [
+            "2009",
+            "United Arab Emirates",
+            "2-1",
+            "Estudiantes",
+            "Pohang Steelers",
+            "Atlante"
+        ],
+        [
+            "2010",
+            "United Arab Emirates",
+            "3-0",
+            "Mazembe",
+            "Internacional",
+            "Seongnam Ilhwa Chunma"
+        ],
+        [
+            "2011",
+            "Japan",
+            "4-0",
+            "Santos",
+            "Al Sadd",
+            "Kashiwa Reysol"
+        ],
+        [
+            "2012",
+            "Japan",
+            "1-0",
+            "Chelsea",
+            "Monterrey",
+            "Al Ahly"
+        ]
+    ]
+}

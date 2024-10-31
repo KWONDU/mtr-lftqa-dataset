@@ -1,0 +1,55 @@
+{
+    "id": "b06112646039f4b9e7b5173bf3889319a32f453f5178c8f195bb1fbab204ef55",
+    "metadata": "1926 Grand Prix season | World Championship Grands Prix | World Championship Grands Prix",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Circuit",
+        "Date_",
+        "Winning_drivers",
+        "Winning_constructor",
+        "Report"
+    ],
+    "cell": [
+        [
+            "Indianapolis 500",
+            "Indianapolis",
+            "31 May",
+            "Frank Lockhart",
+            "Miller",
+            "Report"
+        ],
+        [
+            "French Grand Prix",
+            "Miramas",
+            "27 June",
+            "Jules Goux",
+            "Bugatti",
+            "Report"
+        ],
+        [
+            "San Sebasti\u00e1n Grand Prix / European Grand Prix",
+            "Lasarte",
+            "18 July",
+            "Jules Goux",
+            "Bugatti",
+            "Report"
+        ],
+        [
+            "British Grand Prix",
+            "Brooklands",
+            "7 August",
+            "Robert S\u00e9n\u00e9chal Louis Wagner",
+            "Delage",
+            "Report"
+        ],
+        [
+            "Italian Grand Prix",
+            "Monza",
+            "5 September",
+            "Louis Charavel",
+            "Bugatti",
+            "Report"
+        ]
+    ]
+}

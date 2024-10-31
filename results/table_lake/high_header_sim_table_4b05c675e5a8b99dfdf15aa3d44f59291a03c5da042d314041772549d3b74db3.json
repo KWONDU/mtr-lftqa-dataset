@@ -1,0 +1,79 @@
+{
+    "id": "4b05c675e5a8b99dfdf15aa3d44f59291a03c5da042d314041772549d3b74db3",
+    "metadata": "Na-On Min | LPGA Tour career summary | LPGA Tour career summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournaments_played",
+        "Cuts_made",
+        "Wins",
+        "_3rds",
+        "Top_10s",
+        "Best_finish",
+        "Earnings_",
+        "Money_list_rank",
+        "Scoring_average"
+    ],
+    "cell": [
+        [
+            "2007",
+            "19",
+            "13",
+            "0",
+            "1",
+            "2",
+            "3",
+            "309886",
+            "40",
+            "73.09"
+        ],
+        [
+            "2008",
+            "26",
+            "15",
+            "0",
+            "0",
+            "0",
+            "T16",
+            "146643",
+            "76",
+            "73.19"
+        ],
+        [
+            "2009",
+            "7",
+            "4",
+            "0",
+            "0",
+            "0",
+            "T11",
+            "41703",
+            "116",
+            "73.29"
+        ],
+        [
+            "2010",
+            "20",
+            "16",
+            "0",
+            "0",
+            "1",
+            "T8",
+            "172929.50",
+            "55",
+            "72.46"
+        ],
+        [
+            "2011",
+            "13",
+            "5",
+            "0",
+            "0",
+            "0",
+            "T31",
+            "41556",
+            "99",
+            "74.29"
+        ]
+    ]
+}

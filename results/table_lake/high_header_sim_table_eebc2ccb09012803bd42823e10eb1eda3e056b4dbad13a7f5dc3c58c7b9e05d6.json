@@ -1,0 +1,142 @@
+{
+    "id": "eebc2ccb09012803bd42823e10eb1eda3e056b4dbad13a7f5dc3c58c7b9e05d6",
+    "metadata": "2007-08 Nashville Predators season | March | March",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "March 1",
+            "Nashville",
+            "3 - 1",
+            "Dallas",
+            "Ellis",
+            "18584",
+            "33-25-8"
+        ],
+        [
+            "March 4",
+            "Nashville",
+            "5 - 1",
+            "Edmonton",
+            "Ellis",
+            "16839",
+            "34-25-8"
+        ],
+        [
+            "March 6",
+            "Nashville",
+            "2 - 6",
+            "Vancouver",
+            "Ellis",
+            "18630",
+            "34-26-8"
+        ],
+        [
+            "March 7",
+            "Nashville",
+            "2 - 1",
+            "Calgary",
+            "Ellis",
+            "19289",
+            "35-26-8"
+        ],
+        [
+            "March 9",
+            "Nashville",
+            "3 - 4",
+            "Detroit",
+            "Mason",
+            "20066",
+            "35-27-8"
+        ],
+        [
+            "March 11",
+            "San Jose",
+            "2 - 1",
+            "Nashville",
+            "Ellis",
+            "14965",
+            "35-28-8"
+        ],
+        [
+            "March 13",
+            "Los Angeles",
+            "4 - 1",
+            "Nashville",
+            "Ellis",
+            "15853",
+            "35-29-8"
+        ],
+        [
+            "March 15",
+            "Nashville",
+            "3 - 1",
+            "Detroit",
+            "Ellis",
+            "20066",
+            "36-29-8"
+        ],
+        [
+            "March 18",
+            "Washington",
+            "4 - 2",
+            "Nashville",
+            "Ellis",
+            "17113",
+            "36-30-8"
+        ],
+        [
+            "March 20",
+            "Detroit",
+            "6 - 3",
+            "Nashville",
+            "Mason",
+            "17113",
+            "36-31-8"
+        ],
+        [
+            "March 22",
+            "Chicago",
+            "1 - 2",
+            "Nashville",
+            "Ellis",
+            "17113",
+            "37-31-8"
+        ],
+        [
+            "March 25",
+            "Columbus",
+            "0 - 3",
+            "Nashville",
+            "Ellis",
+            "16330",
+            "38-31-8"
+        ],
+        [
+            "March 28",
+            "Nashville",
+            "2 - 0",
+            "Columbus",
+            "Ellis",
+            "15595",
+            "39-31-8"
+        ],
+        [
+            "March 30",
+            "Nashville",
+            "0 - 1",
+            "Detroit",
+            "Ellis",
+            "20066",
+            "39-31-9"
+        ]
+    ]
+}

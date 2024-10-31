@@ -1,0 +1,105 @@
+{
+    "id": "a170a16a3fe1ef8a8fae54a5cec2234bc3f139f6a0e2d9348cf06973d5671327",
+    "metadata": "List of NGC objects (6001-7000) | 6901-7000 | 6901-7000",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_"
+    ],
+    "cell": [
+        [
+            "6913",
+            "Open cluster",
+            "Cygnus",
+            "20h23m56s",
+            "\u00b031\u2032"
+        ],
+        [
+            "6914",
+            "Diffuse nebula",
+            "Cygnus",
+            "20h25m",
+            "+42\u00b0"
+        ],
+        [
+            "6934",
+            "Globular cluster",
+            "Delphinus",
+            "20h34m11.5s",
+            "\u00b024\u203215\u2033"
+        ],
+        [
+            "6946",
+            "Spiral galaxy",
+            "Cepheus",
+            "20h34m51.4s",
+            "\u00b009\u203218\u2033"
+        ],
+        [
+            "6960",
+            "Diffuse nebula",
+            "Cygnus",
+            "20h45m38.0s",
+            "\u00b042\u203230\u2033"
+        ],
+        [
+            "6981",
+            "Globular cluster",
+            "Aquarius",
+            "20h53m27.9s",
+            "\u00b032\u203213\u2033"
+        ],
+        [
+            "6994",
+            "Asterism",
+            "Aquarius",
+            "20h59m",
+            "\u00b038\u2032"
+        ],
+        [
+            "6995",
+            "Diffuse nebula",
+            "Cygnus",
+            "20h57m",
+            "\u00b013\u2032"
+        ],
+        [
+            "6996",
+            "Association of stars",
+            "Cygnus",
+            "20h56m25s",
+            "\u00b028\u2032"
+        ],
+        [
+            "6997",
+            "Open cluster",
+            "Cygnus",
+            "20h56m40s",
+            "\u00b039\u2032"
+        ],
+        [
+            "6998",
+            "Elliptical galaxy",
+            "Microscopium",
+            "21h01m37.7s",
+            "\u00b001\u203255\u2033"
+        ],
+        [
+            "6999",
+            "Lenticular galaxy",
+            "Microscopium",
+            "21h01m59.5s",
+            "\u00b003\u203232\u2033"
+        ],
+        [
+            "7000",
+            "Diffuse nebula",
+            "Cygnus",
+            "20h58m47s",
+            "\u00b020\u2032"
+        ]
+    ]
+}

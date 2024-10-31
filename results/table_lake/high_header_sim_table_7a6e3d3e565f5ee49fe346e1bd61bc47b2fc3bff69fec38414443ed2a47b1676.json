@@ -1,0 +1,49 @@
+{
+    "id": "7a6e3d3e565f5ee49fe346e1bd61bc47b2fc3bff69fec38414443ed2a47b1676",
+    "metadata": "Chris Wood (golfer) | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "2",
+            "4",
+            "3"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "3",
+            "1"
+        ],
+        [
+            "Totals",
+            "0",
+            "2",
+            "8",
+            "4"
+        ]
+    ]
+}

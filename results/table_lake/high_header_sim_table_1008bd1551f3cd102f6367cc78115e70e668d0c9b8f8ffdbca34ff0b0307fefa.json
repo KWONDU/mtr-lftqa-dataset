@@ -1,0 +1,63 @@
+{
+    "id": "1008bd1551f3cd102f6367cc78115e70e668d0c9b8f8ffdbca34ff0b0307fefa",
+    "metadata": "Darya Pchelnik | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "2005",
+            "World Championships",
+            "Helsinki, Finland",
+            "15th (q)",
+            "65.54 m"
+        ],
+        [
+            "2005",
+            "Universiade",
+            "Izmir, Turkey",
+            "10th",
+            "63.89 m"
+        ],
+        [
+            "2007",
+            "Universiade",
+            "Bangkok, Thailand",
+            "1st",
+            "68.74 m"
+        ],
+        [
+            "2008",
+            "Olympic Games",
+            "Beijing, China",
+            "4th",
+            "73.65 m"
+        ],
+        [
+            "2009",
+            "World Championships",
+            "Berlin, Germany",
+            "15th (q)",
+            "69.30 m"
+        ],
+        [
+            "2009",
+            "World Athletics Final",
+            "Thessaloniki, Greece",
+            "5th",
+            "69.00 m"
+        ],
+        [
+            "2010",
+            "European Championships",
+            "Barcelona, Spain",
+            "-",
+            "NM"
+        ]
+    ]
+}

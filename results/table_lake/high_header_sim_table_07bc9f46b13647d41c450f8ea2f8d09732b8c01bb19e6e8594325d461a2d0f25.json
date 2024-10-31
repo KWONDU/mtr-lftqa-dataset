@@ -1,0 +1,87 @@
+{
+    "id": "07bc9f46b13647d41c450f8ea2f8d09732b8c01bb19e6e8594325d461a2d0f25",
+    "metadata": "1930-31 Philadelphia Quakers season | Regular season | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record",
+        "Points"
+    ],
+    "cell": [
+        [
+            "February 5",
+            "Philadelphia",
+            "1 - 6",
+            "Chicago",
+            "Cude",
+            "8000",
+            "2-27-2",
+            "6"
+        ],
+        [
+            "February 10",
+            "NY Rangers",
+            "3 - 1",
+            "Philadelphia",
+            "Cude",
+            "n/a",
+            "2-28-2",
+            "6"
+        ],
+        [
+            "February 14",
+            "NY Americans",
+            "1 - 1",
+            "Philadelphia",
+            "Cude",
+            "3000",
+            "2-28-3",
+            "7"
+        ],
+        [
+            "February 17",
+            "Philadelphia",
+            "2 - 0",
+            "Detroit",
+            "Cude",
+            "5000",
+            "3-28-3",
+            "9"
+        ],
+        [
+            "February 22",
+            "Philadelphia",
+            "1 - 6",
+            "NY Rangers",
+            "Cude",
+            "8000",
+            "3-29-3",
+            "9"
+        ],
+        [
+            "February 24",
+            "Boston",
+            "5 - 1",
+            "Philadelphia",
+            "Cude",
+            "2000",
+            "3-30-3",
+            "9"
+        ],
+        [
+            "February 28",
+            "Philadelphia",
+            "1 - 4",
+            "MTL Maroons",
+            "Cude",
+            "9500",
+            "3-31-3",
+            "9"
+        ]
+    ]
+}

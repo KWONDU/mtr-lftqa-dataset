@@ -1,0 +1,70 @@
+{
+    "id": "e396ef1497a584e235e8640266b006dff63522659b20180037715260c07fc02e",
+    "metadata": "1974 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "22.20 (152)",
+            "St Kilda",
+            "9.5 (59)",
+            "Arden Street Oval",
+            "17545",
+            "11 May 1974"
+        ],
+        [
+            "Fitzroy",
+            "18.16 (124)",
+            "Hawthorn",
+            "13.16 (94)",
+            "Junction Oval",
+            "10583",
+            "11 May 1974"
+        ],
+        [
+            "Carlton",
+            "19.21 (135)",
+            "South Melbourne",
+            "12.9 (81)",
+            "Princes Park",
+            "19902",
+            "11 May 1974"
+        ],
+        [
+            "Richmond",
+            "17.11 (113)",
+            "Geelong",
+            "18.15 (123)",
+            "MCG",
+            "31483",
+            "11 May 1974"
+        ],
+        [
+            "Footscray",
+            "17.12 (114)",
+            "Essendon",
+            "8.16 (64)",
+            "Western Oval",
+            "26309",
+            "11 May 1974"
+        ],
+        [
+            "Collingwood",
+            "13.11 (89)",
+            "Melbourne",
+            "12.7 (79)",
+            "VFL Park",
+            "25161",
+            "11 May 1974"
+        ]
+    ]
+}

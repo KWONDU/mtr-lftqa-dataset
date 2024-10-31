@@ -1,0 +1,117 @@
+{
+    "id": "09d1ac2cd21091f3005abf7dfafa019a6fd4009d706d47775a513b7ed1ded809",
+    "metadata": "2009 Speedway Grand Prix | Calendar | Calendar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Date_",
+        "City_and_venue",
+        "Winner",
+        "Runner_up",
+        "_3rd_placed",
+        "_4th_placed",
+        "Results"
+    ],
+    "cell": [
+        [
+            "1",
+            "April 25",
+            "Prague , Czech Republic Mark\u00e9ta Stadium",
+            "Emil Sayfutdinov",
+            "Fredrik Lindgren",
+            "Jason Crump",
+            "Leigh Adams",
+            "results"
+        ],
+        [
+            "2",
+            "May 9",
+            "Leszno , Poland Alfred Smoczyk Stadium",
+            "Jason Crump",
+            "Tomasz Gollob",
+            "Andreas Jonsson",
+            "Greg Hancock",
+            "results"
+        ],
+        [
+            "3",
+            "May 30",
+            "Gothenburg , Sweden Ullevi",
+            "Emil Sayfutdinov",
+            "Jason Crump",
+            "Antonio Lindb\u00e4ck",
+            "Nicki Pedersen",
+            "results"
+        ],
+        [
+            "4",
+            "June 13",
+            "Copenhagen , Denmark Parken Stadium",
+            "Jason Crump",
+            "Greg Hancock",
+            "Tomasz Gollob",
+            "Niels Kristian Iversen",
+            "results"
+        ],
+        [
+            "5",
+            "June 27",
+            "Cardiff , Great Britain Millennium Stadium",
+            "Jason Crump",
+            "Fredrik Lindgren",
+            "Hans N. Andersen",
+            "Greg Hancock",
+            "results"
+        ],
+        [
+            "6",
+            "August 1",
+            "Daugavpils , Latvia Latvijas Spidveja Centrs",
+            "Greg Hancock",
+            "Kenneth Bjerre",
+            "Tomasz Gollob",
+            "Jason Crump",
+            "results"
+        ],
+        [
+            "7",
+            "August 15",
+            "M\u00e5lilla , Sweden G&B Stadium",
+            "Tomasz Gollob",
+            "Jason Crump",
+            "Hans N. Andersen",
+            "Kenneth Bjerre",
+            "results"
+        ],
+        [
+            "8",
+            "August 29",
+            "Vojens , Denmark Speedway Center",
+            "Andreas Jonsson",
+            "Rune Holta",
+            "Kenneth Bjerre",
+            "Emil Sayfutdinov",
+            "results"
+        ],
+        [
+            "9",
+            "September 12",
+            "Kr\u0161ko , Slovenia Matije Gubca Stadium",
+            "Emil Sayfutdinov",
+            "Rune Holta",
+            "Tomasz Gollob",
+            "Nicki Pedersen",
+            "results"
+        ],
+        [
+            "10",
+            "September 26",
+            "Terenzano , Italy Pista Olimpia",
+            "Tomasz Gollob",
+            "Hans N. Andersen",
+            "Nicki Pedersen",
+            "Grzegorz Walasek",
+            "results"
+        ]
+    ]
+}

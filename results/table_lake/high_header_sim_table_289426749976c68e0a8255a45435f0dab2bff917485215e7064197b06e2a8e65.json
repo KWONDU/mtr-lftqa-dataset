@@ -1,0 +1,61 @@
+{
+    "id": "289426749976c68e0a8255a45435f0dab2bff917485215e7064197b06e2a8e65",
+    "metadata": "Ben Crenshaw | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "2",
+            "8",
+            "11",
+            "18",
+            "42",
+            "25"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "2",
+            "4",
+            "8",
+            "26",
+            "15"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "5",
+            "6",
+            "11",
+            "21",
+            "18"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "1",
+            "6",
+            "10",
+            "26",
+            "18"
+        ],
+        [
+            "Totals",
+            "2",
+            "16",
+            "27",
+            "47",
+            "115",
+            "76"
+        ]
+    ]
+}

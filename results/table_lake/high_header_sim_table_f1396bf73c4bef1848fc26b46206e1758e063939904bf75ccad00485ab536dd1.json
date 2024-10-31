@@ -1,0 +1,63 @@
+{
+    "id": "f1396bf73c4bef1848fc26b46206e1758e063939904bf75ccad00485ab536dd1",
+    "metadata": "Eurasian Economic Community | Economic data | Economic data",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Population",
+        "GDP_2011_In_Millions_USD",
+        "GDP_2012_In_Millions_USD",
+        "per_capita"
+    ],
+    "cell": [
+        [
+            "Belarus",
+            "9459000",
+            "59735",
+            "63259",
+            "6739"
+        ],
+        [
+            "Russia",
+            "143455000",
+            "1899056",
+            "2021960",
+            "14247"
+        ],
+        [
+            "Kazakhstan",
+            "17027000",
+            "183107",
+            "196419",
+            "11773"
+        ],
+        [
+            "Kyrgyzstan",
+            "5717000",
+            "6199",
+            "6473",
+            "1158"
+        ],
+        [
+            "Uzbekistan",
+            "30214000",
+            "45353",
+            "51168",
+            "1737"
+        ],
+        [
+            "Tajikistan",
+            "8044000",
+            "6523",
+            "7592",
+            "953"
+        ],
+        [
+            "EAEC total",
+            "213916000",
+            "2189991",
+            "2346871",
+            "10971"
+        ]
+    ]
+}

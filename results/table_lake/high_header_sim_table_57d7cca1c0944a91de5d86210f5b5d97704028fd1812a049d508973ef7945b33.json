@@ -1,0 +1,77 @@
+{
+    "id": "57d7cca1c0944a91de5d86210f5b5d97704028fd1812a049d508973ef7945b33",
+    "metadata": "Tim Schenken | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1970",
+            "Frank Williams Racing Cars",
+            "De Tomaso 505",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1971",
+            "Motor Racing Developments",
+            "Brabham BT33",
+            "Cosworth V8",
+            "5"
+        ],
+        [
+            "1972",
+            "Brooke Bond Oxo Team Surtees",
+            "Surtees TS9B",
+            "Cosworth V8",
+            "2"
+        ],
+        [
+            "1972",
+            "Flame Out-Team Surtees",
+            "Surtees TS9B",
+            "Cosworth V8",
+            "2"
+        ],
+        [
+            "1972",
+            "Team Surtees",
+            "Surtees TS9B",
+            "Cosworth V8",
+            "2"
+        ],
+        [
+            "1972",
+            "Team Surtees",
+            "Surtees TS14",
+            "Cosworth V8",
+            "2"
+        ],
+        [
+            "1973",
+            "Frank Williams Racing Cars",
+            "Iso-Marlboro IR",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1974",
+            "Trojan-Tauranac Racing",
+            "Trojan T103",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1974",
+            "John Player Team Lotus",
+            "Lotus 76",
+            "Cosworth V8",
+            "0"
+        ]
+    ]
+}

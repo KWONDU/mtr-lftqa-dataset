@@ -1,0 +1,49 @@
+{
+    "id": "2c0e9489707a5b86e5e05042cba55fa856ced44a75ca351b334f96f145898b3b",
+    "metadata": "Kid Rock | Cruises | Cruises",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Ship",
+        "Departed_From",
+        "Departed_On",
+        "Returned_On"
+    ],
+    "cell": [
+        [
+            "2010",
+            "Carnival Inspiration",
+            "Tampa, FL",
+            "April 29, 2010",
+            "May 3, 2010"
+        ],
+        [
+            "2011",
+            "Carnival Triumph",
+            "New Orleans, LA",
+            "April 7, 2011",
+            "April 11, 2011"
+        ],
+        [
+            "2012",
+            "Carnival Destiny",
+            "Miami, FL",
+            "April 26, 2012",
+            "April 30, 2012"
+        ],
+        [
+            "2013",
+            "Norwegian Pearl",
+            "Miami, FL",
+            "March 6, 2013",
+            "March 10, 2013"
+        ],
+        [
+            "2014",
+            "Norwegian Cruise Lines",
+            "TDB",
+            "Unknown",
+            "Unknown"
+        ]
+    ]
+}

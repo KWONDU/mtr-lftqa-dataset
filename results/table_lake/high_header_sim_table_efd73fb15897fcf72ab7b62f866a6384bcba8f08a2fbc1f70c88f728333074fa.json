@@ -1,0 +1,63 @@
+{
+    "id": "efd73fb15897fcf72ab7b62f866a6384bcba8f08a2fbc1f70c88f728333074fa",
+    "metadata": "CBF-FM | Transmitters | s \n Rebroadcaster \n of CBF-FM",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City_of_license",
+        "Identifier",
+        "Frequency",
+        "Power_",
+        "Class_",
+        "RECNet"
+    ],
+    "cell": [
+        [
+            "L`Annonciation ( Rivi\u00e8re-Rouge )",
+            "CBF-FM-15",
+            "88.3 FM",
+            "4,600 s watt",
+            "B",
+            "Query"
+        ],
+        [
+            "Mont-Laurier",
+            "CBF-FM-9",
+            "91.9 FM",
+            "38,000 watts",
+            "B",
+            "Query"
+        ],
+        [
+            "Radisson",
+            "CBF-FM-7",
+            "100.1 FM",
+            "199 watts",
+            "A",
+            "Query"
+        ],
+        [
+            "Saint-Donat ( Matawinie RCM )",
+            "CBF-FM-20",
+            "89.7",
+            "5,460 watts",
+            "B",
+            "Query"
+        ],
+        [
+            "Saint-Jovite ( Mont-Tremblant )",
+            "CBF-FM-14",
+            "95.5 FM",
+            "835 watts",
+            "A",
+            "Query"
+        ],
+        [
+            "Saint-Michel-des-Saints",
+            "CBF-FM-13",
+            "90.9 FM",
+            "466 watts",
+            "A",
+            "Query"
+        ]
+    ]
+}

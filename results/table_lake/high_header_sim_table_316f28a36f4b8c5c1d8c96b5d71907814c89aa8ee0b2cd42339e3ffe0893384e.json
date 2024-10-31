@@ -1,0 +1,56 @@
+{
+    "id": "316f28a36f4b8c5c1d8c96b5d71907814c89aa8ee0b2cd42339e3ffe0893384e",
+    "metadata": "Huashu | Text | Text",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Chapter",
+        "Chinese",
+        "Pinyin",
+        "English_Translation",
+        "Articles"
+    ],
+    "cell": [
+        [
+            "1",
+            "\u9053\u5316",
+            "Daohua",
+            "Way Transformations",
+            "24"
+        ],
+        [
+            "2",
+            "\u8853\u5316",
+            "Shuhua",
+            "Techniques Transformations",
+            "21"
+        ],
+        [
+            "3",
+            "\u5fb7\u5316",
+            "Dehua",
+            "Potency Transformations",
+            "16"
+        ],
+        [
+            "4",
+            "\u4ec1\u5316",
+            "Renhua",
+            "Humaneness Transformations",
+            "17"
+        ],
+        [
+            "5",
+            "\u98df\u5316",
+            "Shihua",
+            "Food Transformations",
+            "15"
+        ],
+        [
+            "6",
+            "\u5109\u5316",
+            "Jianhua",
+            "Frugality Transformations",
+            "17"
+        ]
+    ]
+}

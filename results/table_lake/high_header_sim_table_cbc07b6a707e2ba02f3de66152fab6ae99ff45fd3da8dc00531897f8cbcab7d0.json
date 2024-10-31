@@ -1,0 +1,49 @@
+{
+    "id": "cbc07b6a707e2ba02f3de66152fab6ae99ff45fd3da8dc00531897f8cbcab7d0",
+    "metadata": "Orlando Magic all-time roster | J | J",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Nationality",
+        "Position_",
+        "Years_in_Orlando",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "Jaren Jackson",
+            "United States",
+            "Guard-Forward",
+            "2001-2002",
+            "Georgetown"
+        ],
+        [
+            "Britton Johnsen",
+            "United States",
+            "Forward",
+            "2003-2004",
+            "Utah"
+        ],
+        [
+            "Anthony Johnson",
+            "United States",
+            "Guard",
+            "2000",
+            "Charleston"
+        ],
+        [
+            "Anthony Johnson",
+            "United States",
+            "Guard",
+            "2008-2010",
+            "Charleston"
+        ],
+        [
+            "Mark Jones",
+            "United States",
+            "Guard",
+            "2005",
+            "Central Florida"
+        ]
+    ]
+}

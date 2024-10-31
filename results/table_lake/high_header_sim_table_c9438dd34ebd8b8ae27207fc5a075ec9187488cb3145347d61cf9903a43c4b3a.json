@@ -1,0 +1,63 @@
+{
+    "id": "c9438dd34ebd8b8ae27207fc5a075ec9187488cb3145347d61cf9903a43c4b3a",
+    "metadata": "Theodore Racing | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Chassis",
+        "Engines",
+        "Tyres",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1976",
+            "March 761",
+            "Ford Cosworth DFV 3.0 V8",
+            "G",
+            "\u2014 1"
+        ],
+        [
+            "1977",
+            "Ensign N177",
+            "Ford Cosworth DFV 3.0 V8",
+            "G",
+            "\u2014 1"
+        ],
+        [
+            "1978",
+            "Theodore TR1",
+            "Ford Cosworth DFV 3.0 V8",
+            "G",
+            "0"
+        ],
+        [
+            "1978",
+            "Wolf WR3 WR4",
+            "Ford Cosworth DFV 3.0 V8",
+            "G",
+            "\u2014 1"
+        ],
+        [
+            "1981",
+            "Theodore TY01",
+            "Ford Cosworth DFV 3.0 V8",
+            "M A",
+            "1"
+        ],
+        [
+            "1982",
+            "Theodore TY02 Theodore TY01",
+            "Ford Cosworth DFV 3.0 V8",
+            "A G",
+            "0"
+        ],
+        [
+            "1983",
+            "Theodore N183",
+            "Ford Cosworth DFV 3.0 V8",
+            "G",
+            "1"
+        ]
+    ]
+}

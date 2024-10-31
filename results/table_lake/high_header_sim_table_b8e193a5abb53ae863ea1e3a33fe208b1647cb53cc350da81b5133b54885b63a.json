@@ -1,0 +1,56 @@
+{
+    "id": "b8e193a5abb53ae863ea1e3a33fe208b1647cb53cc350da81b5133b54885b63a",
+    "metadata": "Hampden Football Netball League | 1935 Ladder | 1935 Ladder",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Wins",
+        "Losses",
+        "Draws",
+        "Against"
+    ],
+    "cell": [
+        [
+            "Mortlake",
+            "12",
+            "3",
+            "0",
+            "1019"
+        ],
+        [
+            "Warrnambool",
+            "10",
+            "5",
+            "0",
+            "1169"
+        ],
+        [
+            "Terang",
+            "9",
+            "6",
+            "0",
+            "1086"
+        ],
+        [
+            "South Warrnambool",
+            "8",
+            "7",
+            "0",
+            "967"
+        ],
+        [
+            "Camperdown",
+            "5",
+            "10",
+            "0",
+            "1516"
+        ],
+        [
+            "Cobden",
+            "1",
+            "14",
+            "0",
+            "1487"
+        ]
+    ]
+}

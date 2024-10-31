@@ -1,0 +1,88 @@
+{
+    "id": "ca9a58cfb00e105057ff53d825e4c7eb6f30d0614fa9f7fd9db25171dc26ee21",
+    "metadata": "2008-09 FC Barcelona season | In | In",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Nat_",
+        "Name_",
+        "Moving_from",
+        "Type_",
+        "Transfer_window",
+        "Ends",
+        "Transfer_fee"
+    ],
+    "cell": [
+        [
+            "MLI",
+            "Keita",
+            "Sevilla",
+            "Transfer",
+            "Summer",
+            "2012",
+            "\u20ac14M"
+        ],
+        [
+            "ESP",
+            "Piqu\u00e9",
+            "Manchester United",
+            "Transfer",
+            "Summer",
+            "2012",
+            "\u20ac5M"
+        ],
+        [
+            "ESP",
+            "Pinto",
+            "Celta de Vigo",
+            "Transfer",
+            "Summer",
+            "2010",
+            "\u20ac0.5M"
+        ],
+        [
+            "URU",
+            "C\u00e1ceres",
+            "Villarreal",
+            "Transfer",
+            "Summer",
+            "2012",
+            "\u20ac16.5M"
+        ],
+        [
+            "BRA",
+            "Dani Alves",
+            "Sevilla",
+            "Transfer",
+            "Summer",
+            "2012",
+            "\u20ac29M + \u20ac6M in variables"
+        ],
+        [
+            "BLR",
+            "Hleb",
+            "Arsenal",
+            "Transfer",
+            "Summer",
+            "2012",
+            "\u20ac11.8M"
+        ],
+        [
+            "BRA",
+            "Henrique",
+            "Palmeiras",
+            "Transfer",
+            "Summer",
+            "2013",
+            "\u20ac8M + \u20ac2M in variables"
+        ],
+        [
+            "ESP",
+            "Sergio Busquets",
+            "Barcelona B",
+            "Promote",
+            "Summer",
+            "2013",
+            "Free"
+        ]
+    ]
+}

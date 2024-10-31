@@ -1,0 +1,84 @@
+{
+    "id": "587f94183f6dbe324ea53733f3a2899a62a31877201962b9dbfaed8ccf6a19e8",
+    "metadata": "Copa do Brasil | Top scorers | Top scorers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Goals",
+        "Games",
+        "Goal_Ratio"
+    ],
+    "cell": [
+        [
+            "1",
+            "Rom\u00e1rio",
+            "36",
+            "45",
+            "0.80"
+        ],
+        [
+            "2",
+            "Viola",
+            "29",
+            "44",
+            "0.65"
+        ],
+        [
+            "3",
+            "Fred",
+            "28",
+            "30",
+            "0.93"
+        ],
+        [
+            "3",
+            "Os\u00e9as",
+            "28",
+            "53",
+            "0.52"
+        ],
+        [
+            "3",
+            "Paulo Nunes",
+            "28",
+            "58",
+            "0.48"
+        ],
+        [
+            "6",
+            "Dod\u00f4",
+            "26",
+            "48",
+            "0.54"
+        ],
+        [
+            "7",
+            "Deivid",
+            "24",
+            "34",
+            "0.70"
+        ],
+        [
+            "7",
+            "Evair",
+            "24",
+            "36",
+            "0.66"
+        ],
+        [
+            "9",
+            "G\u00e9rson",
+            "23",
+            "26",
+            "0.88"
+        ],
+        [
+            "9",
+            "Marcelinho Carioca",
+            "23",
+            "56",
+            "0.41"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "d82c554a25908c157d558c74e03e9b8f08a1741b5ea8ef40023630cfd7757a7b",
+    "metadata": "Shortest tennis match records | Men | Men",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Grand_Slam",
+        "Round",
+        "Winner",
+        "Loser"
+    ],
+    "cell": [
+        [
+            "1968",
+            "French Open",
+            "First round",
+            "Nikola \u0160pear",
+            "Daniel Contet"
+        ],
+        [
+            "1987",
+            "French Open",
+            "Second round",
+            "Karel Nov\u00e1\u010dek",
+            "Eduardo Bengoechea"
+        ],
+        [
+            "1987",
+            "Wimbledon",
+            "First round",
+            "Stefan Edberg",
+            "Stefan Eriksson"
+        ],
+        [
+            "1987",
+            "US Open",
+            "First round",
+            "Ivan Lendl",
+            "Barry Moir"
+        ],
+        [
+            "1993",
+            "French Open",
+            "Second round",
+            "Sergi Bruguera",
+            "Thierry Champion"
+        ],
+        [
+            "2011",
+            "Davis Cup",
+            "Second round",
+            "Andy Murray",
+            "Laurent Bram"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "1d243a4b4bd61c2bbecb5d417c1e5d814576b53252e1c80cd93a24d9c2e5ec21",
+    "metadata": "2005 CFL Draft | Round Five | Round Five",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "36",
+            "Calgary Stampeders",
+            "David Hewson",
+            "DB",
+            "Manitoba"
+        ],
+        [
+            "37",
+            "Ottawa Renegades",
+            "Adrian Baird",
+            "DE",
+            "Ottawa"
+        ],
+        [
+            "38",
+            "Winnipeg Blue Bombers",
+            "Martin Lapostolle",
+            "DL",
+            "Indiana"
+        ],
+        [
+            "39",
+            "Saskatchewan Roughriders",
+            "Dustin Cherniawski",
+            "DB",
+            "British Columbia"
+        ],
+        [
+            "40",
+            "Edmonton Eskimos",
+            "Robert Leblanc",
+            "SB",
+            "McGill"
+        ],
+        [
+            "41",
+            "Hamilton Tiger-Cats",
+            "Iain Fleming",
+            "SB",
+            "Queen`s"
+        ],
+        [
+            "42",
+            "Montreal Alouettes",
+            "Curt Hundeby",
+            "OL",
+            "Saskatchewan"
+        ],
+        [
+            "43",
+            "BC Lions",
+            "Nuvraj Bassi",
+            "DT",
+            "Oregon"
+        ],
+        [
+            "44",
+            "Toronto Argonauts",
+            "Bryan Crawford",
+            "RB",
+            "Queen`s"
+        ]
+    ]
+}

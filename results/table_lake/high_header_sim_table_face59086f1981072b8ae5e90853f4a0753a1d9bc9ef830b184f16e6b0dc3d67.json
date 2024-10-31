@@ -1,0 +1,103 @@
+{
+    "id": "face59086f1981072b8ae5e90853f4a0753a1d9bc9ef830b184f16e6b0dc3d67",
+    "metadata": "Nick Barnett | Professional Statistics | Professional Statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "TTkl",
+        "Solo",
+        "Sacks",
+        "Pass_Def"
+    ],
+    "cell": [
+        [
+            "2003",
+            "Green Bay Packers",
+            "112",
+            "86",
+            "2",
+            "3"
+        ],
+        [
+            "2004",
+            "Green Bay Packers",
+            "123",
+            "92",
+            "3",
+            "5"
+        ],
+        [
+            "2005",
+            "Green Bay Packers",
+            "138",
+            "91",
+            "1",
+            "1"
+        ],
+        [
+            "2006",
+            "Green Bay Packers",
+            "105",
+            "62",
+            "2",
+            "7"
+        ],
+        [
+            "2007",
+            "Green Bay Packers",
+            "131",
+            "102",
+            "3.5",
+            "4"
+        ],
+        [
+            "2008",
+            "Green Bay Packers",
+            "49",
+            "41",
+            "0",
+            "2"
+        ],
+        [
+            "2009",
+            "Green Bay Packers",
+            "105",
+            "82",
+            "4",
+            "7"
+        ],
+        [
+            "2010",
+            "Green Bay Packers",
+            "24",
+            "19",
+            "0",
+            "1"
+        ],
+        [
+            "2011",
+            "Buffalo Bills",
+            "130",
+            "78",
+            "3",
+            "5"
+        ],
+        [
+            "2012",
+            "Buffalo Bills",
+            "112",
+            "72",
+            "2",
+            "1"
+        ],
+        [
+            "Total",
+            "Total",
+            "917",
+            "653",
+            "18.5",
+            "35"
+        ]
+    ]
+}

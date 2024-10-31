@@ -1,0 +1,55 @@
+{
+    "id": "1e0e40b8e702314ee5ecc7da103b843105655c19b0f53eb312732a7f7a92bc53",
+    "metadata": "United States House of Representatives elections, 1942 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "L. Mendel Rivers",
+            "Democratic",
+            "1940",
+            "Re-elected",
+            "L. Mendel Rivers (D) Unopposed"
+        ],
+        [
+            "South Carolina 2",
+            "Hampton P. Fulmer",
+            "Democratic",
+            "1920",
+            "Re-elected",
+            "Hampton P. Fulmer (D) Unopposed"
+        ],
+        [
+            "South Carolina 3",
+            "Butler B. Hare",
+            "Democratic",
+            "1938",
+            "Re-elected",
+            "Butler B. Hare (D) Unopposed"
+        ],
+        [
+            "South Carolina 4",
+            "Joseph R. Bryson",
+            "Democratic",
+            "1938",
+            "Re-elected",
+            "Joseph R. Bryson (D) Unopposed"
+        ],
+        [
+            "South Carolina 5",
+            "James P. Richards",
+            "Democratic",
+            "1932",
+            "Re-elected",
+            "James P. Richards (D) Unopposed"
+        ]
+    ]
+}

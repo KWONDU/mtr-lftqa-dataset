@@ -1,0 +1,61 @@
+{
+    "id": "3fce277dbb133a94015ef7d256eaf00404968c1408c20d1ef1ab72d22243dc9b",
+    "metadata": "1943 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "14.7 (91)",
+            "South Melbourne",
+            "12.18 (90)",
+            "Arden Street Oval",
+            "7000",
+            "12 June 1943"
+        ],
+        [
+            "Footscray",
+            "21.17 (143)",
+            "Melbourne",
+            "8.15 (63)",
+            "Western Oval",
+            "8000",
+            "12 June 1943"
+        ],
+        [
+            "Collingwood",
+            "11.21 (87)",
+            "St Kilda",
+            "5.12 (42)",
+            "Victoria Park",
+            "7000",
+            "12 June 1943"
+        ],
+        [
+            "Carlton",
+            "9.22 (76)",
+            "Essendon",
+            "11.16 (82)",
+            "Princes Park",
+            "17000",
+            "12 June 1943"
+        ],
+        [
+            "Richmond",
+            "12.17 (89)",
+            "Fitzroy",
+            "14.11 (95)",
+            "Punt Road Oval",
+            "19000",
+            "12 June 1943"
+        ]
+    ]
+}

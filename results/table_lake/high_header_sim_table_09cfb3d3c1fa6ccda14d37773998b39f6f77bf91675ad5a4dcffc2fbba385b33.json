@@ -1,0 +1,49 @@
+{
+    "id": "09cfb3d3c1fa6ccda14d37773998b39f6f77bf91675ad5a4dcffc2fbba385b33",
+    "metadata": "KDOC-TV | Digital television | Digital television",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Channel",
+        "Video",
+        "Aspect",
+        "PSIP_Short_Name",
+        "Programming"
+    ],
+    "cell": [
+        [
+            "56.1",
+            "720p",
+            "16:9",
+            "KDOC-HD",
+            "Main KDOC-TV programming"
+        ],
+        [
+            "56.2",
+            "480i",
+            "4:3",
+            "ESNE",
+            "Spanish Catholic"
+        ],
+        [
+            "56.3",
+            "480i",
+            "4:3",
+            "METVLA",
+            "Me-TV"
+        ],
+        [
+            "56.4",
+            "480i",
+            "4:3",
+            "NDOC",
+            "s Infomercial"
+        ],
+        [
+            "56.5",
+            "480i",
+            "4:3",
+            "IBC-TV",
+            "IBC-TV (Vietnamese)"
+        ]
+    ]
+}

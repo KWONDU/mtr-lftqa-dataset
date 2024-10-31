@@ -1,0 +1,84 @@
+{
+    "id": "3c286e793292615cbe7ccc1c50a2ff16fa9f9593e3c0e1614a7e7494cb7cc6ec",
+    "metadata": "European Quizzing Championships | Individual champions | Individual champions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Venue",
+        "Winner",
+        "Runner_Up",
+        "Third_Place"
+    ],
+    "cell": [
+        [
+            "2004",
+            "Ghent, Belgium",
+            "Kevin Ashman (Eng)",
+            "Nico Pattyn (Bel)",
+            "Pat Gibson (Eng)"
+        ],
+        [
+            "2005",
+            "Tallinn, Estonia",
+            "Kevin Ashman (Eng)",
+            "Indrek Salis (Est)",
+            "Pat Gibson (Eng)"
+        ],
+        [
+            "2006",
+            "Paris, France",
+            "Kevin Ashman (Eng)",
+            "Mark Bytheway (Eng)",
+            "Lieven Van den Brande (Bel)"
+        ],
+        [
+            "2007",
+            "Blackpool, England",
+            "Nico Pattyn (Bel)",
+            "Lieven Van den Brande (Bel)",
+            "Pat Gibson (Eng)"
+        ],
+        [
+            "2008",
+            "Oslo, Norway",
+            "Kevin Ashman (Eng)",
+            "Pat Gibson (Eng)",
+            "Olav Bjortomt (Eng)"
+        ],
+        [
+            "2009",
+            "Dordrecht, Netherlands",
+            "Kevin Ashman (Eng)",
+            "Olav Bjortomt (Eng)",
+            "Pat Gibson (Eng)"
+        ],
+        [
+            "2010",
+            "Derby, England",
+            "Olav Bjortomt (Eng)",
+            "Tero Kalliolevo (Fin)",
+            "Pat Gibson (Eng)"
+        ],
+        [
+            "2011",
+            "Bruges, Belgium",
+            "Kevin Ashman (Eng)",
+            "Pat Gibson (Eng)",
+            "Olav Bjortomt (Eng)"
+        ],
+        [
+            "2012",
+            "Tartu, Estonia",
+            "Holger Waldenberger (Ger)",
+            "Igor Habal (Est)",
+            "Olav Bjortomt (Eng)"
+        ],
+        [
+            "2013",
+            "Liverpool, England",
+            "Ronny Swiggers (Bel)",
+            "Nico Pattyn (Bel)",
+            "Jesse Honey (Eng)"
+        ]
+    ]
+}

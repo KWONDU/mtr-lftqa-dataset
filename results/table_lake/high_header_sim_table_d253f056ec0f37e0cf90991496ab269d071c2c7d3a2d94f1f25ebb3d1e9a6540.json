@@ -1,0 +1,67 @@
+{
+    "id": "d253f056ec0f37e0cf90991496ab269d071c2c7d3a2d94f1f25ebb3d1e9a6540",
+    "metadata": "List of government bonds | Main issuers | Main issuers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Currency",
+        "Country",
+        "Generic_Name_or_Nickname",
+        "Rating_S_P_Moodys_",
+        "Negotiable_debt_at_mid_2005_US_dollar_bn_equivalent",
+        "Government_financial_liabilities_as_of_GDP_end_2003_source_OECD_",
+        "Issuer",
+        "Internet_site"
+    ],
+    "cell": [
+        [
+            "Yen",
+            "Japan",
+            "s JGB",
+            "AA-/A2",
+            "6666",
+            "157.5%",
+            "Ministry of Finance (MoF)",
+            "Site"
+        ],
+        [
+            "US dollar",
+            "United States",
+            "US Treasuries",
+            "AA+/Aaa",
+            "4000",
+            "62.5%",
+            "Bureau of the Public Debt",
+            "Site"
+        ],
+        [
+            "Euro",
+            "Italy",
+            "s BTP",
+            "BBB+ /Baa2",
+            "1530",
+            "120.9%",
+            "Dipartimento del Tesoro",
+            "Site"
+        ],
+        [
+            "Euro",
+            "France",
+            "s OAT",
+            "AA+/Aaa",
+            "1300",
+            "71.2%",
+            "Agence France Tr\u00e9sor",
+            "Site"
+        ],
+        [
+            "Euro",
+            "Germany",
+            "Bunds",
+            "AAA/Aaa",
+            "1020",
+            "65.1%",
+            "Finanzagentur GmbH",
+            "Site"
+        ]
+    ]
+}

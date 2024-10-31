@@ -1,0 +1,63 @@
+{
+    "id": "a0fa0e25440e33e164bee44ba230da968b8f690cb989af1f4c1bababe949d2d5",
+    "metadata": "NFL Europe | Attendance | Attendance",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Year_2007",
+        "Year_2006",
+        "Year_2005",
+        "Change_06_07"
+    ],
+    "cell": [
+        [
+            "Frankfurt Galaxy",
+            "33043",
+            "28118",
+            "29377",
+            "+ 4,925"
+        ],
+        [
+            "Rhein Fire",
+            "24473",
+            "22020",
+            "22532",
+            "+ 2,453"
+        ],
+        [
+            "Hamburg Sea Devils",
+            "20874",
+            "15082",
+            "17920",
+            "+ 5,792"
+        ],
+        [
+            "Berlin Thunder",
+            "15710",
+            "13819",
+            "16848",
+            "+ 1,891"
+        ],
+        [
+            "Cologne Centurions",
+            "14352",
+            "13538",
+            "14238",
+            "+ 814"
+        ],
+        [
+            "Amsterdam Admirals",
+            "11668",
+            "13421",
+            "12877",
+            "- 1,753"
+        ],
+        [
+            "Average",
+            "20020",
+            "17666",
+            "18966",
+            "+ 2,354"
+        ]
+    ]
+}

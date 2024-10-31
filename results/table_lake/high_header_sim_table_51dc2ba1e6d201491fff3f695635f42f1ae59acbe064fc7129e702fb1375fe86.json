@@ -1,0 +1,61 @@
+{
+    "id": "51dc2ba1e6d201491fff3f695635f42f1ae59acbe064fc7129e702fb1375fe86",
+    "metadata": "Saturn Aura | Engines | Engines",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Trim_",
+        "Engine",
+        "Displacement",
+        "Power_",
+        "Torque",
+        "Transmission",
+        "Fuel_Mileage_latest_EPA_mpg_US_"
+    ],
+    "cell": [
+        [
+            "Green Line",
+            "2.4 L LAT I4 ( BAS hybrid )",
+            "cc (cuin)",
+            "164hp (124kW)",
+            "lb\u00b7ft (N\u00b7m)",
+            "4-Speed 4T45-E",
+            "26 city, 34 hwy, 29 comb"
+        ],
+        [
+            "XE (2008)",
+            "2.4 L LE5 I4",
+            "cc (cuin)",
+            "hp (kW)",
+            "lb\u00b7ft (N\u00b7m)",
+            "4-speed 4T45-E",
+            "22 city, 30 hwy, 25 comb"
+        ],
+        [
+            "XE (2009)",
+            "2.4 L LE5 I4",
+            "cc (cuin)",
+            "hp (kW)",
+            "lb\u00b7ft (N\u00b7m)",
+            "6-speed 6T40",
+            "22 city, 33 hwy, 26 comb"
+        ],
+        [
+            "XE (2007-08)",
+            "3.5L LZ4 V6",
+            "cc (cuin)",
+            "219hp (162kW)",
+            "lb\u00b7ft (N\u00b7m)",
+            "4-speed 4T45-E",
+            "18 city, 29 hwy, 22 comb"
+        ],
+        [
+            "XR (2009)",
+            "2.4 L LE5 I4",
+            "cc (cuin)",
+            "hp (kW)",
+            "lb\u00b7ft (N\u00b7m)",
+            "6-speed 6T40",
+            "22 city, 33 hwy, 26 comb"
+        ]
+    ]
+}

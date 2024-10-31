@@ -1,0 +1,63 @@
+{
+    "id": "09c4a6c5eb8340f19a9afda24eaeec9715ae842a880625ebd6fb770aa3d45787",
+    "metadata": "CBFX-FM | Transmitters | s \n Rebroadcaster \n of CBFX-FM",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City_of_license",
+        "Identifier",
+        "Frequency",
+        "Power_",
+        "Class_",
+        "RECNet"
+    ],
+    "cell": [
+        [
+            "Amos",
+            "CBFX-FM-3",
+            "88.3 FM",
+            "32,400 s watt",
+            "B",
+            "Query"
+        ],
+        [
+            "Gasp\u00e9",
+            "CBFX-FM-5",
+            "90.1 FM",
+            "4,110 watts",
+            "B",
+            "Query"
+        ],
+        [
+            "Mont-Laurier",
+            "CBFX-FM-6",
+            "91.1 FM",
+            "72,000 watts",
+            "C1",
+            "Query"
+        ],
+        [
+            "Rouyn-Noranda",
+            "CBFX-FM-4",
+            "89.9 FM",
+            "17,200 watts",
+            "B",
+            "Query"
+        ],
+        [
+            "Sherbrooke 1",
+            "CBFX-FM-2",
+            "90.7 FM",
+            "25,000 watts",
+            "B",
+            "Query"
+        ],
+        [
+            "Trois-Rivi\u00e8res 1",
+            "CBFX-FM-1",
+            "104.3 FM",
+            "43,000 watts",
+            "C1",
+            "Query"
+        ]
+    ]
+}

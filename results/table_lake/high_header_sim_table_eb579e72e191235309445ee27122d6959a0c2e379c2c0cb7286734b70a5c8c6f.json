@@ -1,0 +1,49 @@
+{
+    "id": "eb579e72e191235309445ee27122d6959a0c2e379c2c0cb7286734b70a5c8c6f",
+    "metadata": "Estrie | Regional County Municipalities | Regional County Municipalities",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Regional_County_Municipality_RCM",
+        "Population_Canada_2011_Census",
+        "Land_Area",
+        "Density_pop_per_km2",
+        "Seat_of_RCM"
+    ],
+    "cell": [
+        [
+            "Coaticook",
+            "18847",
+            "km2 (sqmi)",
+            "14.1",
+            "Coaticook"
+        ],
+        [
+            "Le Granit",
+            "22259",
+            "km2 (sqmi)",
+            "8.1",
+            "Lac-M\u00e9gantic"
+        ],
+        [
+            "Le Haut-Saint-Fran\u00e7ois",
+            "22065",
+            "km2 (sqmi)",
+            "9.7",
+            "Cookshire-Eaton"
+        ],
+        [
+            "Le Val-Saint-Fran\u00e7ois",
+            "29654",
+            "km2 (sqmi)",
+            "21.1",
+            "Richmond"
+        ],
+        [
+            "Les Sources",
+            "14756",
+            "km2 (sqmi)",
+            "18.8",
+            "Asbestos"
+        ]
+    ]
+}

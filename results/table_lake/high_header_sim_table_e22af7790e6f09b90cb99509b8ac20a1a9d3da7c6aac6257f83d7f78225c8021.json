@@ -1,0 +1,49 @@
+{
+    "id": "e22af7790e6f09b90cb99509b8ac20a1a9d3da7c6aac6257f83d7f78225c8021",
+    "metadata": "Notre Dame Fighting Irish men's basketball | NCAA tournament | NCAA tournament",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Year_",
+        "Game",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Austin Carr",
+            "1970",
+            "Notre Dame vs. Ohio",
+            "61"
+        ],
+        [
+            "4.",
+            "Austin Carr",
+            "1970",
+            "Notre Dame vs. Kentucky",
+            "52"
+        ],
+        [
+            "5.",
+            "Austin Carr",
+            "1971",
+            "Notre Dame vs. Texas Christian",
+            "52"
+        ],
+        [
+            "9.",
+            "Austin Carr",
+            "1971",
+            "Notre Dame vs. Houston",
+            "47"
+        ],
+        [
+            "12.",
+            "Austin Carr",
+            "1970",
+            "Notre Dame vs. Iowa",
+            "45"
+        ]
+    ]
+}

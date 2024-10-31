@@ -1,0 +1,168 @@
+{
+    "id": "4690c373366aca3fc3614331a0d10c78933675c0db66221a394715c086d3797e",
+    "metadata": "2000 Monaco Grand Prix | Race | Race",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Constructor_",
+        "Laps",
+        "Time_Retired",
+        "Grid"
+    ],
+    "cell": [
+        [
+            "David Coulthard",
+            "McLaren - Mercedes",
+            "78",
+            "1:49:28.213",
+            "3"
+        ],
+        [
+            "Rubens Barrichello",
+            "Ferrari",
+            "78",
+            "+15.889",
+            "6"
+        ],
+        [
+            "Giancarlo Fisichella",
+            "Benetton - Playlife",
+            "78",
+            "+18.522",
+            "8"
+        ],
+        [
+            "Eddie Irvine",
+            "Jaguar - Cosworth",
+            "78",
+            "+1:05.924",
+            "10"
+        ],
+        [
+            "Mika Salo",
+            "Sauber - Petronas",
+            "78",
+            "+1:20.775",
+            "13"
+        ],
+        [
+            "Mika H\u00e4kkinen",
+            "McLaren - Mercedes",
+            "77",
+            "+1 Lap",
+            "5"
+        ],
+        [
+            "Jacques Villeneuve",
+            "BAR - Honda",
+            "77",
+            "+1 Lap",
+            "17"
+        ],
+        [
+            "Nick Heidfeld",
+            "Prost - Peugeot",
+            "77",
+            "+1 Lap",
+            "18"
+        ],
+        [
+            "Johnny Herbert",
+            "Jaguar - Cosworth",
+            "76",
+            "+2 Laps",
+            "11"
+        ],
+        [
+            "Heinz-Harald Frentzen",
+            "Jordan - Mugen-Honda",
+            "70",
+            "Spun off",
+            "4"
+        ],
+        [
+            "Jos Verstappen",
+            "Arrows - Supertec",
+            "60",
+            "Spun off",
+            "15"
+        ],
+        [
+            "Michael Schumacher",
+            "Ferrari",
+            "55",
+            "Exhaust",
+            "1"
+        ],
+        [
+            "Ricardo Zonta",
+            "BAR - Honda",
+            "48",
+            "Spun off",
+            "20"
+        ],
+        [
+            "Ralf Schumacher",
+            "Williams - BMW",
+            "37",
+            "Spun off",
+            "9"
+        ],
+        [
+            "Jarno Trulli",
+            "Jordan - Mugen-Honda",
+            "36",
+            "Gearbox",
+            "2"
+        ],
+        [
+            "Pedro Diniz",
+            "Sauber - Petronas",
+            "30",
+            "Spun off",
+            "19"
+        ],
+        [
+            "Jean Alesi",
+            "Prost - Peugeot",
+            "29",
+            "Transmission",
+            "7"
+        ],
+        [
+            "Gast\u00f3n Mazzacane",
+            "Minardi - Fondmetal",
+            "22",
+            "Spun off",
+            "22"
+        ],
+        [
+            "Marc Gen\u00e9",
+            "Minardi - Fondmetal",
+            "21",
+            "Gearbox",
+            "21"
+        ],
+        [
+            "Alexander Wurz",
+            "Benetton - Playlife",
+            "18",
+            "Spun off",
+            "12"
+        ],
+        [
+            "Jenson Button",
+            "Williams - BMW",
+            "16",
+            "Engine",
+            "14"
+        ],
+        [
+            "Pedro de la Rosa",
+            "Arrows - Supertec",
+            "0",
+            "Not restarted",
+            "16"
+        ]
+    ]
+}

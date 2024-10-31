@@ -1,0 +1,56 @@
+{
+    "id": "94f2d387415c4f8f2ad18146eb7e3caee87d6dbe83289e2ebba28f62f057709b",
+    "metadata": "Traditional English pronunciation of Latin | Vowel plus consonant cluster | Vowel plus consonant cluster",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Letter",
+        "American",
+        "British",
+        "Australian",
+        "Examples"
+    ],
+    "cell": [
+        [
+            "a /\u00e6/",
+            "\u00e6",
+            "\u00e6",
+            "\u00e6",
+            "climax, phalanx"
+        ],
+        [
+            "e /\u025b/",
+            "\u025b",
+            "\u025b",
+            "e",
+            "biceps, index"
+        ],
+        [
+            "i /\u026a/",
+            "\u026a",
+            "\u026a",
+            "\u026a",
+            "matrix, ph\u0153nix"
+        ],
+        [
+            "o /\u0252/",
+            "\u0251",
+            "\u0252",
+            "\u0254",
+            "Cyclops"
+        ],
+        [
+            "u /\u0259/",
+            "\u0259",
+            "\u0259",
+            "\u0259",
+            "exeunt, Pollux"
+        ],
+        [
+            "y /\u026a/",
+            "\u026a",
+            "\u026a",
+            "\u026a",
+            "pharynx, oryx"
+        ]
+    ]
+}

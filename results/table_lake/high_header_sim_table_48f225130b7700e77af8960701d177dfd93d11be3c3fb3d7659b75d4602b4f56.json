@@ -1,0 +1,55 @@
+{
+    "id": "48f225130b7700e77af8960701d177dfd93d11be3c3fb3d7659b75d4602b4f56",
+    "metadata": "1908 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "9.9 (63)",
+            "South Melbourne",
+            "11.11 (77)",
+            "Punt Road Oval",
+            "8 June 1908"
+        ],
+        [
+            "Carlton",
+            "13.14 (92)",
+            "Geelong",
+            "2.13 (25)",
+            "Princes Park",
+            "8 June 1908"
+        ],
+        [
+            "University",
+            "9.7 (61)",
+            "Fitzroy",
+            "12.12 (84)",
+            "EMCG",
+            "8 June 1908"
+        ],
+        [
+            "Melbourne",
+            "10.6 (66)",
+            "Essendon",
+            "10.12 (72)",
+            "MCG",
+            "8 June 1908"
+        ],
+        [
+            "St Kilda",
+            "12.11 (83)",
+            "Collingwood",
+            "5.12 (42)",
+            "Junction Oval",
+            "8 June 1908"
+        ]
+    ]
+}

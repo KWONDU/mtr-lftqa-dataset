@@ -1,0 +1,63 @@
+{
+    "id": "8211806ffb78edd300c06e7f789fb8cc3b05c62686c31a11eb1b417f6a17bfa8",
+    "metadata": "Composition of the human body | Composition by molecule type | Composition by molecule type",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Molecule",
+        "Percent_of_Mass",
+        "Mol_Weight_daltons",
+        "Molecules",
+        "Percent_of_Molecules"
+    ],
+    "cell": [
+        [
+            "Water",
+            "65*",
+            "18*",
+            "1.74e14*",
+            "98.73*"
+        ],
+        [
+            "Other s Inorganic",
+            "1.5",
+            "N/A",
+            "1.31e12",
+            "0.74"
+        ],
+        [
+            "s Lipid",
+            "12",
+            "N/A",
+            "8.4e11",
+            "0.475"
+        ],
+        [
+            "Other s Organic",
+            "0.4",
+            "N/A",
+            "7.7e10",
+            "0.044"
+        ],
+        [
+            "Protein",
+            "20",
+            "N/A",
+            "1.9e10",
+            "0.011"
+        ],
+        [
+            "RNA",
+            "1.0",
+            "N/A",
+            "5e7",
+            "3e-5"
+        ],
+        [
+            "DNA",
+            "0.1",
+            "1e11",
+            "46*",
+            "3e-11"
+        ]
+    ]
+}

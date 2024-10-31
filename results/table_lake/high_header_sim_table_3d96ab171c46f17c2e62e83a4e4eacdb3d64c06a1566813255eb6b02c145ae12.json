@@ -1,0 +1,55 @@
+{
+    "id": "3d96ab171c46f17c2e62e83a4e4eacdb3d64c06a1566813255eb6b02c145ae12",
+    "metadata": "2008 OAFL season | Round Nine | Round Nine",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_",
+        "Home",
+        "Away",
+        "Score",
+        "Ground"
+    ],
+    "cell": [
+        [
+            "2008-07-18",
+            "18:45",
+            "Etobicoke Kangaroos",
+            "Broadview Hawks",
+            "71-49",
+            "Humber College Lakeshore"
+        ],
+        [
+            "2008-07-19",
+            "10:00",
+            "Toronto Rebels",
+            "High Park Demons",
+            "62-69",
+            "Humber College North"
+        ],
+        [
+            "2008-07-19",
+            "12:00",
+            "Central Blues",
+            "Hamilton Wildcats",
+            "50-47",
+            "Humber College North"
+        ],
+        [
+            "2008-07-19",
+            "14:00",
+            "Ottawa Swans",
+            "Toronto Downtown Dingos",
+            "23-117",
+            "Rideau Carleton Raceway"
+        ],
+        [
+            "2008-07-19",
+            "14:00",
+            "Guelph Gargoyles",
+            "Toronto Eagles",
+            "33-91",
+            "Magaret Green Park"
+        ]
+    ]
+}

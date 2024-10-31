@@ -1,0 +1,55 @@
+{
+    "id": "b0948d4c616b9f561dfc4c9e7891c686f96706f97fae853e97225eb1967aa9c1",
+    "metadata": "Economy of Arkansas | Public companies | Public companies",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "State_Rank_by_Revenue",
+        "Company_Name",
+        "National_Rank",
+        "Revenue_billions_2012_estimate",
+        "Headquarters_City",
+        "Known_for"
+    ],
+    "cell": [
+        [
+            "1",
+            "Walmart",
+            "2",
+            "469.2",
+            "Bentonville",
+            "Retailing"
+        ],
+        [
+            "2",
+            "Tyson Foods",
+            "93",
+            "33.3",
+            "Springdale",
+            "Poultry"
+        ],
+        [
+            "3",
+            "Murphy Oil",
+            "104",
+            "28.8",
+            "El Dorado",
+            "Petroleum"
+        ],
+        [
+            "4",
+            "Dillard`s",
+            "378",
+            "6.8",
+            "Little Rock",
+            "Clothing/department store"
+        ],
+        [
+            "5",
+            "Windstream",
+            "414",
+            "6.2",
+            "Little Rock",
+            "Communications"
+        ]
+    ]
+}

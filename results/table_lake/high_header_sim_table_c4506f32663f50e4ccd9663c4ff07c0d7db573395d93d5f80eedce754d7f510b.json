@@ -1,0 +1,70 @@
+{
+    "id": "c4506f32663f50e4ccd9663c4ff07c0d7db573395d93d5f80eedce754d7f510b",
+    "metadata": "1950 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "11.8 (74)",
+            "Richmond",
+            "9.10 (64)",
+            "Arden Street Oval",
+            "20000",
+            "22 April 1950"
+        ],
+        [
+            "Footscray",
+            "9.20 (74)",
+            "St Kilda",
+            "12.11 (83)",
+            "Western Oval",
+            "13500",
+            "22 April 1950"
+        ],
+        [
+            "Hawthorn",
+            "4.15 (39)",
+            "Geelong",
+            "18.11 (119)",
+            "Glenferrie Oval",
+            "10000",
+            "22 April 1950"
+        ],
+        [
+            "Fitzroy",
+            "9.10 (64)",
+            "Essendon",
+            "9.16 (70)",
+            "Brunswick Street Oval",
+            "20000",
+            "22 April 1950"
+        ],
+        [
+            "South Melbourne",
+            "14.12 (96)",
+            "Collingwood",
+            "11.10 (76)",
+            "Lake Oval",
+            "20000",
+            "22 April 1950"
+        ],
+        [
+            "Melbourne",
+            "13.13 (91)",
+            "Carlton",
+            "10.11 (71)",
+            "MCG",
+            "33000",
+            "22 April 1950"
+        ]
+    ]
+}

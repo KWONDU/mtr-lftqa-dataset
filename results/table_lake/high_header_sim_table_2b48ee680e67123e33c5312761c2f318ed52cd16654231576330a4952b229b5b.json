@@ -1,0 +1,49 @@
+{
+    "id": "2b48ee680e67123e33c5312761c2f318ed52cd16654231576330a4952b229b5b",
+    "metadata": "Bruce Halford | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1956",
+            "Bruce Halford",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1957",
+            "Bruce Halford",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1959",
+            "John Fisher",
+            "Lotus 16",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1960",
+            "Fred Tuck Cars",
+            "Cooper T45",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1960",
+            "Yeoman Credit Racing Team",
+            "Cooper T51",
+            "Climax Straight-4",
+            "0"
+        ]
+    ]
+}

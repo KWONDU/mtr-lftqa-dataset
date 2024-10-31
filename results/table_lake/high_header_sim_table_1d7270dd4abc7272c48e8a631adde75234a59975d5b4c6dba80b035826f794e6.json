@@ -1,0 +1,79 @@
+{
+    "id": "1d7270dd4abc7272c48e8a631adde75234a59975d5b4c6dba80b035826f794e6",
+    "metadata": "Green Party of British Columbia | Election results | Election results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "Candidates_fielded",
+        "_of_seats_won",
+        "Total_votes",
+        "_of_popular_vote",
+        "Place"
+    ],
+    "cell": [
+        [
+            "1983",
+            "4",
+            "0",
+            "3078",
+            "0.19%",
+            "7th"
+        ],
+        [
+            "1986",
+            "9",
+            "0",
+            "4660",
+            "0.24%",
+            "5th"
+        ],
+        [
+            "1991",
+            "42",
+            "0",
+            "12650",
+            "0.86%",
+            "4th"
+        ],
+        [
+            "1996",
+            "71",
+            "0",
+            "31511",
+            "1.99%",
+            "5th"
+        ],
+        [
+            "2001",
+            "72",
+            "0",
+            "197231",
+            "12.39%",
+            "3rd"
+        ],
+        [
+            "2005",
+            "79",
+            "0",
+            "161842",
+            "9.17%",
+            "3rd"
+        ],
+        [
+            "2009",
+            "85",
+            "0",
+            "134570",
+            "8.21%",
+            "3rd"
+        ],
+        [
+            "2013",
+            "61",
+            "1",
+            "146607",
+            "8.13%",
+            "3rd"
+        ]
+    ]
+}

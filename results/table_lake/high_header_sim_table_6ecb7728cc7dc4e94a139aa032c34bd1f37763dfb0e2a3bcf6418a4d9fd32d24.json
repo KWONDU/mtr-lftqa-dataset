@@ -1,0 +1,55 @@
+{
+    "id": "6ecb7728cc7dc4e94a139aa032c34bd1f37763dfb0e2a3bcf6418a4d9fd32d24",
+    "metadata": "2008 OAFL season | Round Seven | Round Seven",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_",
+        "Home",
+        "Away",
+        "Score",
+        "Ground"
+    ],
+    "cell": [
+        [
+            "2008-06-28",
+            "14:00",
+            "Ottawa Swans",
+            "Guelph Gargoyles",
+            "34-47",
+            "Rideau Carleton Raceway"
+        ],
+        [
+            "2008-07-04",
+            "18:45",
+            "Etobicoke Kangaroos",
+            "High Park Demons",
+            "79-33",
+            "Humber College Lakeshore"
+        ],
+        [
+            "2008-07-05",
+            "10:00",
+            "Toronto Eagles",
+            "Toronto Downtown Dingos",
+            "123-9",
+            "Humber College North"
+        ],
+        [
+            "2008-07-05",
+            "12:00",
+            "Toronto Rebels",
+            "Central Blues",
+            "46-76",
+            "Humber College North"
+        ],
+        [
+            "2008-07-05",
+            "15:00",
+            "Broadview Hawks",
+            "Hamilton Wildcats",
+            "91-39",
+            "Humber College North"
+        ]
+    ]
+}

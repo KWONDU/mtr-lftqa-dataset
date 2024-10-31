@@ -1,0 +1,70 @@
+{
+    "id": "8342d4530aa558854bd37ee646533b14a0b74cbf3a20bfb682f39285c6cd1a2e",
+    "metadata": "Andr\u00e9 Simon (racing driver) | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1951",
+            "Equipe Gordini",
+            "Gordini Type 15",
+            "Gordini Straight-4",
+            "0"
+        ],
+        [
+            "1952",
+            "Scuderia Ferrari",
+            "Ferrari 500",
+            "Ferrari Straight-4",
+            "0"
+        ],
+        [
+            "1955",
+            "Daimler Benz AG",
+            "Mercedes-Benz W196",
+            "Mercedes-Benz Straight-8",
+            "0"
+        ],
+        [
+            "1955",
+            "Officine Alfieri Maserati",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1956",
+            "Andr\u00e9 Simon",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1956",
+            "Equipe Gordini",
+            "Gordini Type 16",
+            "Gordini Straight-6",
+            "0"
+        ],
+        [
+            "1957",
+            "Scuderia Centro Sud",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1957",
+            "Ottorino Volonterio",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ]
+    ]
+}

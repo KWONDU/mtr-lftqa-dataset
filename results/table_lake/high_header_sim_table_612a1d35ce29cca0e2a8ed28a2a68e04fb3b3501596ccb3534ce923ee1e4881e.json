@@ -1,0 +1,72 @@
+{
+    "id": "612a1d35ce29cca0e2a8ed28a2a68e04fb3b3501596ccb3534ce923ee1e4881e",
+    "metadata": "Edmonton municipal election, 1919 | Voter turnout | Aldermen",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Party",
+        "Candidate",
+        "Votes_"
+    ],
+    "cell": [
+        [
+            "Labour",
+            "James Kinney",
+            "5513"
+        ],
+        [
+            "Labour",
+            "James East",
+            "4847"
+        ],
+        [
+            "Labour",
+            "Rice Sheppard",
+            "4644"
+        ],
+        [
+            "Citizens` Committee",
+            "Percy Abbott",
+            "4233"
+        ],
+        [
+            "Citizens` Committee",
+            "John Bowen",
+            "4093"
+        ],
+        [
+            "Citizens` Committee",
+            "George H. Scott",
+            "3835"
+        ],
+        [
+            "Labour",
+            "James Findlay",
+            "3775"
+        ],
+        [
+            "Labour",
+            "J. J. Murray",
+            "3696"
+        ],
+        [
+            "Citizens` Committee",
+            "Valentine Richards",
+            "3524"
+        ],
+        [
+            "Citizens` Committee",
+            "Charles Grant",
+            "3230"
+        ],
+        [
+            "Independent",
+            "Charles G. Davidson",
+            "2982"
+        ],
+        [
+            "Independent",
+            "Joseph Adair",
+            "2356"
+        ]
+    ]
+}

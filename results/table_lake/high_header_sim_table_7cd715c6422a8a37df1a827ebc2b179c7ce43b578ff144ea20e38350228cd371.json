@@ -1,0 +1,147 @@
+{
+    "id": "7cd715c6422a8a37df1a827ebc2b179c7ce43b578ff144ea20e38350228cd371",
+    "metadata": "Finland | Regions | Regions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "In_English",
+        "In_Finnish",
+        "In_Swedish",
+        "Capital",
+        "Regional_state_administrative_agency"
+    ],
+    "cell": [
+        [
+            "Lapland",
+            "Lappi",
+            "Lappland",
+            "Rovaniemi",
+            "Lapland"
+        ],
+        [
+            "Northern Ostrobothnia",
+            "Pohjois-Pohjanmaa",
+            "Norra \u00d6sterbotten",
+            "Oulu",
+            "Northern Finland"
+        ],
+        [
+            "Kainuu",
+            "Kainuu",
+            "Kajanaland",
+            "Kajaani",
+            "Northern Finland"
+        ],
+        [
+            "North Karelia",
+            "Pohjois-Karjala",
+            "Norra Karelen",
+            "Joensuu",
+            "Eastern Finland"
+        ],
+        [
+            "Northern Savonia",
+            "Pohjois-Savo",
+            "Norra Savolax",
+            "Kuopio",
+            "Eastern Finland"
+        ],
+        [
+            "Southern Savonia",
+            "Etel\u00e4-Savo",
+            "S\u00f6dra Savolax",
+            "Mikkeli",
+            "Eastern Finland"
+        ],
+        [
+            "Southern Ostrobothnia",
+            "Etel\u00e4-Pohjanmaa",
+            "S\u00f6dra \u00d6sterbotten",
+            "Sein\u00e4joki",
+            "Western and Central Finland"
+        ],
+        [
+            "Central Ostrobothnia",
+            "Keski-Pohjanmaa",
+            "Mellersta \u00d6sterbotten",
+            "Kokkola",
+            "Western and Central Finland"
+        ],
+        [
+            "Ostrobothnia",
+            "Pohjanmaa",
+            "\u00d6sterbotten",
+            "Vaasa",
+            "Western and Central Finland"
+        ],
+        [
+            "Pirkanmaa",
+            "Pirkanmaa",
+            "Birkaland",
+            "Tampere",
+            "Western and Central Finland"
+        ],
+        [
+            "Central Finland",
+            "Keski-Suomi",
+            "Mellersta Finland",
+            "Jyv\u00e4skyl\u00e4",
+            "Western and Central Finland"
+        ],
+        [
+            "Satakunta",
+            "Satakunta",
+            "Satakunda",
+            "Pori",
+            "South-Western Finland"
+        ],
+        [
+            "Finland Proper",
+            "Varsinais-Suomi",
+            "Egentliga Finland",
+            "Turku",
+            "South-Western Finland"
+        ],
+        [
+            "South Karelia",
+            "Etel\u00e4-Karjala",
+            "S\u00f6dra Karelen",
+            "Lappeenranta",
+            "Southern Finland"
+        ],
+        [
+            "P\u00e4ij\u00e4nne Tavastia",
+            "P\u00e4ij\u00e4t-H\u00e4me",
+            "P\u00e4ij\u00e4nne Tavastland",
+            "Lahti",
+            "Southern Finland"
+        ],
+        [
+            "Tavastia Proper",
+            "Kanta-H\u00e4me",
+            "Egentliga Tavastland",
+            "H\u00e4meenlinna",
+            "Southern Finland"
+        ],
+        [
+            "Uusimaa",
+            "Uusimaa",
+            "Nyland",
+            "Helsinki",
+            "Southern Finland"
+        ],
+        [
+            "Kymenlaakso",
+            "Kymenlaakso",
+            "Kymmenedalen",
+            "Kouvola",
+            "Southern Finland"
+        ],
+        [
+            "\u00c5land Islands",
+            "Ahvenanmaa",
+            "\u00c5land",
+            "Mariehamn",
+            "\u00c5land"
+        ]
+    ]
+}

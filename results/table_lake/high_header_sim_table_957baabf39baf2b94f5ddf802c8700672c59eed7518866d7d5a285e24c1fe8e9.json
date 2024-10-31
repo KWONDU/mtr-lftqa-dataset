@@ -1,0 +1,142 @@
+{
+    "id": "957baabf39baf2b94f5ddf802c8700672c59eed7518866d7d5a285e24c1fe8e9",
+    "metadata": "1968-69 Pittsburgh Penguins season | Game log | December",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Attendance",
+        "Record",
+        "Points"
+    ],
+    "cell": [
+        [
+            "December 1",
+            "Pittsburgh",
+            "4-4",
+            "Oakland",
+            "2676",
+            "5-12-5",
+            "15"
+        ],
+        [
+            "December 4",
+            "Detroit",
+            "7-2",
+            "Pittsburgh",
+            "4451",
+            "5-13-5",
+            "15"
+        ],
+        [
+            "December 7",
+            "Pittsburgh",
+            "1-1",
+            "St. Louis",
+            "15057",
+            "5-13-6",
+            "16"
+        ],
+        [
+            "December 8",
+            "Toronto",
+            "4-1",
+            "Pittsburgh",
+            "5167",
+            "5-14-6",
+            "16"
+        ],
+        [
+            "December 11",
+            "Pittsburgh",
+            "4-2",
+            "Minnesota",
+            "10068",
+            "6-14-6",
+            "18"
+        ],
+        [
+            "December 14",
+            "Los Angeles",
+            "2-1",
+            "Pittsburgh",
+            "6346",
+            "6-15-6",
+            "18"
+        ],
+        [
+            "December 15",
+            "Pittsburgh",
+            "3-5",
+            "Boston",
+            "14436",
+            "6-16-6",
+            "18"
+        ],
+        [
+            "December 17",
+            "Pittsburgh",
+            "2-8",
+            "Philadelphia",
+            "6986",
+            "6-17-6",
+            "18"
+        ],
+        [
+            "December 21",
+            "Minnesota",
+            "3-1",
+            "Pittsburgh",
+            "5307",
+            "6-18-6",
+            "18"
+        ],
+        [
+            "December 22",
+            "Pittsburgh",
+            "1-3",
+            "Chicago",
+            "16666",
+            "6-19-6",
+            "18"
+        ],
+        [
+            "December 25",
+            "Detroit",
+            "3-6",
+            "Pittsburgh",
+            "2420",
+            "7-19-6",
+            "20"
+        ],
+        [
+            "December 26",
+            "Pittsburgh",
+            "2-3",
+            "St. Louis",
+            "15056",
+            "7-20-6",
+            "20"
+        ],
+        [
+            "December 28",
+            "Oakland",
+            "4-3",
+            "Pittsburgh",
+            "8196",
+            "7-21-6",
+            "20"
+        ],
+        [
+            "December 31",
+            "Montreal",
+            "4-3",
+            "Pittsburgh",
+            "3979",
+            "7-22-6",
+            "20"
+        ]
+    ]
+}

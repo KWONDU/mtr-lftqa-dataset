@@ -1,0 +1,107 @@
+{
+    "id": "3e91c6c46f5a6bc99e4f4393084bc1419d6b4c7418edf4af5d0c3b23b153283e",
+    "metadata": "Northeast Corner Conference of Indiana | Former Members | Former Members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "_County",
+        "Year_Joined",
+        "Previous_Conference",
+        "Year_Left",
+        "Conference_Joined"
+    ],
+    "cell": [
+        [
+            "Shipshewanna-Scott",
+            "Shipshewanna",
+            "Indians",
+            "44 LaGrange",
+            "1964",
+            "Lagrange County",
+            "1966",
+            "none (consolidated into Westview )"
+        ],
+        [
+            "Topeka",
+            "Topeka",
+            "Bears",
+            "44 LaGrange",
+            "1964",
+            "Lagrange County",
+            "1966",
+            "none (consolidated into Westview )"
+        ],
+        [
+            "Albion",
+            "Albion",
+            "Trojans",
+            "57 Noble",
+            "1966",
+            "Noble County",
+            "1968",
+            "none (consolidated into Central Noble )"
+        ],
+        [
+            "Cromwell",
+            "Cromwell",
+            "Spartans",
+            "57 Noble",
+            "1966",
+            "Noble County",
+            "1967",
+            "none (consolidated into West Noble )"
+        ],
+        [
+            "Howe Military",
+            "Howe",
+            "Cadets",
+            "44 La Grange",
+            "1966",
+            "Independents",
+            "1980",
+            "Independents"
+        ],
+        [
+            "Ligonier",
+            "Ligonier",
+            "Red Raiders",
+            "57 Noble",
+            "1966",
+            "Noble County",
+            "1967",
+            "none (consolidated into West Noble )"
+        ],
+        [
+            "Wawaka",
+            "Wawaka",
+            "Chargers",
+            "57 Noble",
+            "1966",
+            "Noble County",
+            "1967",
+            "none (consolidated into West Noble )"
+        ],
+        [
+            "Wolf Lake",
+            "Wolf Lake",
+            "Wolves",
+            "57 Noble",
+            "1966",
+            "Noble County",
+            "1968",
+            "none (consolidated into Central Noble )"
+        ],
+        [
+            "Garrett",
+            "Garrett",
+            "Railroaders",
+            "17 DeKalb",
+            "1981",
+            "Northeastern Indiana",
+            "2005",
+            "Allen County"
+        ]
+    ]
+}

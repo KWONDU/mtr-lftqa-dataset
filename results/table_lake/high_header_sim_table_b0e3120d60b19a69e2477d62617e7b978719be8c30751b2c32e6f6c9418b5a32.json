@@ -1,0 +1,56 @@
+{
+    "id": "b0e3120d60b19a69e2477d62617e7b978719be8c30751b2c32e6f6c9418b5a32",
+    "metadata": "Cristina Fink | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "1985",
+            "Central American and Caribbean Games",
+            "Nassau, Bahamas",
+            "2nd",
+            "1.81m"
+        ],
+        [
+            "1986",
+            "Central American and Caribbean Games",
+            "Santiago de los Caballeros , Dominican Republic",
+            "2nd",
+            "1.81m"
+        ],
+        [
+            "1988",
+            "Olympic Games",
+            "Seoul, South Korea",
+            "20th",
+            "1.84m"
+        ],
+        [
+            "1990",
+            "Central American and Caribbean Games",
+            "Mexico City, Mexico",
+            "3rd",
+            "1.79m"
+        ],
+        [
+            "1991",
+            "Central American and Caribbean Games",
+            "Xalapa, Veracruz , Mexico",
+            "1st",
+            "1.86m"
+        ],
+        [
+            "1992",
+            "Olympic Games",
+            "Barcelona, Spain",
+            "DNQ",
+            "1.83m"
+        ]
+    ]
+}

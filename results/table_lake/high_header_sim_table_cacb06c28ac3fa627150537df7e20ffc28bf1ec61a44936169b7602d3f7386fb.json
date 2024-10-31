@@ -1,0 +1,91 @@
+{
+    "id": "cacb06c28ac3fa627150537df7e20ffc28bf1ec61a44936169b7602d3f7386fb",
+    "metadata": "Pearl Jam 1993 European and North American Tour | Tour dates | Tour dates",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Location_",
+        "Venue",
+        "Opening_act",
+        "Supporting_"
+    ],
+    "cell": [
+        [
+            "August 11, 1993",
+            "Calgary, Alberta, Canada",
+            "Max Bell Arena",
+            "Cadillac Tramps",
+            ""
+        ],
+        [
+            "August 12, 1993",
+            "Edmonton, Alberta, Canada",
+            "Convention Center",
+            "Cadillac Tramps",
+            ""
+        ],
+        [
+            "August 14, 1993",
+            "Gimli, Manitoba, Canada",
+            "Gimli Motorsport Park",
+            "",
+            ""
+        ],
+        [
+            "August 17, 1993",
+            "Hull, Quebec, Canada",
+            "Robert Guertin Arena",
+            "Doughboys",
+            ""
+        ],
+        [
+            "August 18, 1993",
+            "Toronto, Ontario, Canada",
+            "Canadian National Exhibition (CNE) Stadium",
+            "",
+            "Neil Young"
+        ],
+        [
+            "August 19, 1993",
+            "Montreal, Quebec, Canada",
+            "Verdun Auditorium",
+            "Doughboys",
+            ""
+        ],
+        [
+            "September 2, 1993",
+            "Los Angeles, California",
+            "Viper Room",
+            "The Darling Buds",
+            ""
+        ],
+        [
+            "September 4, 1993",
+            "Vancouver, British Columbia, Canada",
+            "BC Place Stadium",
+            "",
+            "Neil Young"
+        ],
+        [
+            "September 4, 1993",
+            "Seattle, Washington",
+            "Rendezvous Club",
+            "",
+            ""
+        ],
+        [
+            "September 5, 1993",
+            "George, Washington",
+            "The Gorge Amphitheatre",
+            "Blind Melon",
+            "Neil Young"
+        ],
+        [
+            "September 6, 1993",
+            "Portland, Oregon",
+            "Portland Meadows",
+            "Blind Melon",
+            "Neil Young"
+        ]
+    ]
+}

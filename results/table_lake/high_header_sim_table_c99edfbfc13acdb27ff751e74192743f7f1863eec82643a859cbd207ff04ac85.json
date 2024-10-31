@@ -1,0 +1,154 @@
+{
+    "id": "c99edfbfc13acdb27ff751e74192743f7f1863eec82643a859cbd207ff04ac85",
+    "metadata": "1953 Belgian Grand Prix | Classification | Classification",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Constructor_",
+        "Laps",
+        "Time_Retired",
+        "Grid"
+    ],
+    "cell": [
+        [
+            "Alberto Ascari",
+            "Ferrari",
+            "36",
+            "2:48:30.3",
+            "2"
+        ],
+        [
+            "Luigi Villoresi",
+            "Ferrari",
+            "36",
+            "+ 2:48.2",
+            "5"
+        ],
+        [
+            "Onofre Marim\u00f3n",
+            "Maserati",
+            "35",
+            "+ 1 Lap",
+            "6"
+        ],
+        [
+            "Toulo de Graffenried",
+            "Maserati",
+            "35",
+            "+ 1 Lap",
+            "9"
+        ],
+        [
+            "Maurice Trintignant",
+            "Gordini",
+            "35",
+            "+ 1 Lap",
+            "8"
+        ],
+        [
+            "Mike Hawthorn",
+            "Ferrari",
+            "35",
+            "+ 1 Lap",
+            "7"
+        ],
+        [
+            "Harry Schell",
+            "Gordini",
+            "33",
+            "+ 3 Laps",
+            "12"
+        ],
+        [
+            "Louis Rosier",
+            "Ferrari",
+            "33",
+            "+ 3 Laps",
+            "13"
+        ],
+        [
+            "Fred Wacker",
+            "Gordini",
+            "32",
+            "+ 4 Laps",
+            "15"
+        ],
+        [
+            "Paul Fr\u00e8re",
+            "HWM - Alta",
+            "30",
+            "+ 6 Laps",
+            "11"
+        ],
+        [
+            "Andr\u00e9 Pilette",
+            "Connaught - Lea-Francis",
+            "29",
+            "+ 7 Laps",
+            "18"
+        ],
+        [
+            "Johnny Claes \u2020 Juan Manuel Fangio \u2020",
+            "Maserati",
+            "35",
+            "Accident",
+            "10"
+        ],
+        [
+            "Lance Macklin",
+            "HWM - Alta",
+            "19",
+            "Engine",
+            "17"
+        ],
+        [
+            "Nino Farina",
+            "Ferrari",
+            "16",
+            "Engine",
+            "4"
+        ],
+        [
+            "Juan Manuel Fangio",
+            "Maserati",
+            "13",
+            "Engine",
+            "1"
+        ],
+        [
+            "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
+            "Maserati",
+            "11",
+            "Throttle",
+            "3"
+        ],
+        [
+            "Jean Behra",
+            "Gordini",
+            "9",
+            "Engine",
+            "14"
+        ],
+        [
+            "Peter Collins",
+            "HWM - Alta",
+            "4",
+            "Clutch",
+            "16"
+        ],
+        [
+            "Georges Berger",
+            "Simca - Gordini - Gordini",
+            "3",
+            "Engine",
+            "20"
+        ],
+        [
+            "Arthur Legat",
+            "Veritas",
+            "0",
+            "Transmission",
+            "19"
+        ]
+    ]
+}

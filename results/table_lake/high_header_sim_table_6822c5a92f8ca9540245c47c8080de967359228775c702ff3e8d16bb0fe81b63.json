@@ -1,0 +1,88 @@
+{
+    "id": "6822c5a92f8ca9540245c47c8080de967359228775c702ff3e8d16bb0fe81b63",
+    "metadata": "2008-09 Crewe Alexandra F.C. season | In | In",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Country",
+        "Type_",
+        "Moving_from",
+        "Transfer_window",
+        "Ends",
+        "Transfer_fee"
+    ],
+    "cell": [
+        [
+            "Legzdins",
+            "ENG",
+            "Transfer",
+            "Birmingham City",
+            "Summer",
+            "30 June 2010",
+            "Free"
+        ],
+        [
+            "Grant",
+            "ENG",
+            "Transfer",
+            "Aldershot Town",
+            "Summer",
+            "30 June 2011",
+            "\u00a3130,000"
+        ],
+        [
+            "Zola",
+            "COD",
+            "Transfer",
+            "Tranmere Rovers",
+            "Summer",
+            "30 June 2011",
+            "\u00a3200,000"
+        ],
+        [
+            "Collis",
+            "ENG",
+            "Transfer",
+            "Southend United",
+            "Summer",
+            "30 June 2010",
+            "Free"
+        ],
+        [
+            "Elding",
+            "ENG",
+            "Transfer",
+            "Leeds United",
+            "Summer",
+            "30 June 2011",
+            "Undisclosed"
+        ],
+        [
+            "Donaldson",
+            "ENG",
+            "Transfer",
+            "Hibernian",
+            "Summer",
+            "30 June 1011",
+            "Undisclosed"
+        ],
+        [
+            "McManus",
+            "ENG",
+            "Transfer",
+            "Manchester United",
+            "Summer",
+            "30 June 2010",
+            "Free"
+        ],
+        [
+            "Livermore",
+            "ENG",
+            "Loan",
+            "Tottenham Hotspur",
+            "Summer",
+            "11 January 2009",
+            "Loan"
+        ]
+    ]
+}

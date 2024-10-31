@@ -1,0 +1,56 @@
+{
+    "id": "ebd60594fe29407e95020055ac4e42f4dfa750ac753c90d6792409af23d38024",
+    "metadata": "Val Skinner | LPGA Tour wins | LPGA Tour wins",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Winning_Score",
+        "Margin_of_Victory",
+        "Runner_up"
+    ],
+    "cell": [
+        [
+            "Sep 22, 1985",
+            "Konica San Jose Classic",
+            "\u22127 (71-71-67=209)",
+            "Playoff",
+            "Pat Bradley"
+        ],
+        [
+            "Jan 26, 1986",
+            "Mazda Classic",
+            "\u22128 (74-69-68-69=280)",
+            "1 stroke",
+            "Sandra Palmer"
+        ],
+        [
+            "Aug 16, 1987",
+            "MasterCard International Pro-Am",
+            "\u22124 (67-70-75=212)",
+            "1 stroke",
+            "Shelley Hamlin"
+        ],
+        [
+            "May 23, 1993",
+            "Lady Keystone Open",
+            "\u22126 (70-73-67=210)",
+            "2 strokes",
+            "Betsy King"
+        ],
+        [
+            "Apr 17, 1994",
+            "Atlanta Women`s Championship",
+            "\u221210 (70-68-68=206)",
+            "1 stroke",
+            "Liselotte Neumann"
+        ],
+        [
+            "Apr 30, 1995",
+            "Sprint Championship",
+            "\u221215 (71-65-70-67=273)",
+            "2 strokes",
+            "Kris Tschetter"
+        ]
+    ]
+}

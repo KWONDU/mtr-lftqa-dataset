@@ -1,0 +1,55 @@
+{
+    "id": "ff92ac85196d1bcf139595ae585bef27306d405e593c1f52399e1faa0d2e2f33",
+    "metadata": "1995 Senior PGA Tour | Leaders | Money List leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jim Colbert",
+            "United States",
+            "1444386",
+            "34",
+            "4"
+        ],
+        [
+            "2",
+            "Raymond Floyd",
+            "United States",
+            "1419545",
+            "21",
+            "3"
+        ],
+        [
+            "3",
+            "Dave Stockton",
+            "United States",
+            "1415847",
+            "34",
+            "2"
+        ],
+        [
+            "4",
+            "Bob Murphy",
+            "United States",
+            "1241524",
+            "28",
+            "4"
+        ],
+        [
+            "5",
+            "Isao Aoki",
+            "Japan",
+            "1041766",
+            "23",
+            "1"
+        ]
+    ]
+}

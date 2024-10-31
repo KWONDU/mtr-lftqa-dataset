@@ -1,0 +1,55 @@
+{
+    "id": "bb9caa707d461775b9905fc838038c06430cb393f58ceba279f1c13e927dbd9d",
+    "metadata": "1996 Senior PGA Tour | Leaders | Money List leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jim Colbert",
+            "United States",
+            "1627890",
+            "32",
+            "5"
+        ],
+        [
+            "2",
+            "Hale Irwin",
+            "United States",
+            "1615769",
+            "23",
+            "2"
+        ],
+        [
+            "3",
+            "John Bland",
+            "South Africa",
+            "1357987",
+            "35",
+            "4"
+        ],
+        [
+            "4",
+            "Isao Aoki",
+            "Japan",
+            "1162581",
+            "26",
+            "2"
+        ],
+        [
+            "5",
+            "Dave Stockton",
+            "United States",
+            "1117685",
+            "29",
+            "2"
+        ]
+    ]
+}

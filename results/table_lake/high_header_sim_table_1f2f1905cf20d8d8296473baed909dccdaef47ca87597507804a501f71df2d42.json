@@ -1,0 +1,55 @@
+{
+    "id": "1f2f1905cf20d8d8296473baed909dccdaef47ca87597507804a501f71df2d42",
+    "metadata": "2007 Louis Vuitton Cup | Final | Final",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Team_1",
+        "Team_2",
+        "Winner",
+        "Delta",
+        "Score"
+    ],
+    "cell": [
+        [
+            "June 1, 2007",
+            "Emirates Team New Zealand ( NZL-92 )",
+            "Luna Rossa Challenge ( ITA-94 )",
+            "Emirates Team New Zealand",
+            "0:08",
+            "1-0"
+        ],
+        [
+            "June 2, 2007",
+            "Luna Rossa Challenge ( ITA-94 )",
+            "Emirates Team New Zealand ( NZL-92 )",
+            "Emirates Team New Zealand",
+            "0:40",
+            "0-2"
+        ],
+        [
+            "June 3, 2007",
+            "Emirates Team New Zealand ( NZL-92 )",
+            "Luna Rossa Challenge ( ITA-94 )",
+            "Emirates Team New Zealand",
+            "1:38",
+            "3-0"
+        ],
+        [
+            "June 5, 2007",
+            "Luna Rossa Challenge ( ITA-94 )",
+            "Emirates Team New Zealand ( NZL-92 )",
+            "Emirates Team New Zealand",
+            "0:52",
+            "0-4"
+        ],
+        [
+            "June 6, 2007",
+            "Emirates Team New Zealand ( NZL-92 )",
+            "Luna Rossa Challenge ( ITA-94 )",
+            "Emirates Team New Zealand",
+            "0:22",
+            "5-0"
+        ]
+    ]
+}

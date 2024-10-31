@@ -1,0 +1,56 @@
+{
+    "id": "63c4b94aeca2c12b9823f900035b95afa5d7282624d2a7a8dac47dbc384a2623",
+    "metadata": "C\u00e9sar Cielo | Short course (25 meter pool) | Short course (25 meter pool)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Event",
+        "Time_",
+        "Venue",
+        "Date_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "50 m freestyle",
+            "20.51",
+            "Dubai",
+            "December 17, 2010",
+            "AM"
+        ],
+        [
+            "100 m freestyle",
+            "45.74",
+            "Dubai",
+            "December 19, 2010",
+            "SA"
+        ],
+        [
+            "4\u00d750 m freestyle",
+            "1:25.28",
+            "S\u00e3o Paulo",
+            "August 20, 2012",
+            "SA"
+        ],
+        [
+            "4\u00d7100 m freestyle",
+            "3:05.74",
+            "Dubai",
+            "December 15, 2010",
+            "SA"
+        ],
+        [
+            "4\u00d7100 m medley",
+            "3:23.12",
+            "Dubai",
+            "December 19, 2010",
+            "SA"
+        ],
+        [
+            "4\u00d7200 m freestyle",
+            "7:06.09",
+            "Shanghai",
+            "April 6, 2006",
+            "SA"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "94e02b3730e73165d04d4ebab32af2db310c3457440a1f81012823649fe85ece",
+    "metadata": "Agatha Christie's Poirot | Regular cast | Regular cast",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Actor",
+        "Character_",
+        "Title_Rank",
+        "Series",
+        "Years"
+    ],
+    "cell": [
+        [
+            "David Suchet",
+            "Hercule Poirot",
+            "Various",
+            "1-13",
+            "1989-2013"
+        ],
+        [
+            "Hugh Fraser",
+            "Arthur Hastings",
+            "Captain OBE",
+            "1-8, 13",
+            "1989-2002, 2013"
+        ],
+        [
+            "Philip Jackson",
+            "James Japp",
+            "Chief Inspector/Assistant Commissioner",
+            "1-8, 13",
+            "1989-2001, 2013"
+        ],
+        [
+            "Pauline Moran",
+            "Felicity Lemon",
+            "Secretary",
+            "1-3, 5-8, 13",
+            "1989-1991, 1993-2001, 2013"
+        ],
+        [
+            "Zo\u00eb Wanamaker",
+            "Ariadne Oliver",
+            "Writer",
+            "10-13",
+            "2006-2013"
+        ]
+    ]
+}

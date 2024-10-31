@@ -1,0 +1,63 @@
+{
+    "id": "ca15f75f88512c460640504cf496e47ed37af48ee2e2d7ef35b008bcb2993dab",
+    "metadata": "Christian-Democratic People's Party (Moldova) | Election results | Parliament",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "Name_of_the_party_alliance",
+        "Number_of_votes",
+        "Percentage",
+        "Seats_in_the_parliament_"
+    ],
+    "cell": [
+        [
+            "2010",
+            "Partidul Popular Cre\u015ftin Democrat (PPCD)",
+            "9046",
+            "0.53%",
+            "\u2014"
+        ],
+        [
+            "29 July 2009",
+            "Partidul Popular Cre\u015ftin Democrat (PPCD)",
+            "30173",
+            "1.91%",
+            "\u2014"
+        ],
+        [
+            "5 April 2009",
+            "Partidul Popular Cre\u015ftin Democrat (PPCD)",
+            "46549",
+            "3.03%",
+            "\u2014"
+        ],
+        [
+            "6 March 2005",
+            "Partidul Popular Cre\u015ftin Democrat (PPCD)",
+            "141341",
+            "9.07%",
+            "11"
+        ],
+        [
+            "25 February 2001",
+            "Partidul Popular Cre\u015ftin Democrat (PPCD)",
+            "130810",
+            "8.24%",
+            "11"
+        ],
+        [
+            "22 March 1998",
+            "Blocul electoral Conven\u0163ia Democrat\u0103 din Moldova (CDM)",
+            "315206",
+            "19.42%",
+            "26"
+        ],
+        [
+            "27 February 1994",
+            "Blocul electoral Alian\u0163a Frontului Popular Cre\u015ftin Democrat (AFPCD)",
+            "133606",
+            "7.53%",
+            "9"
+        ]
+    ]
+}

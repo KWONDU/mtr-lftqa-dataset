@@ -1,0 +1,70 @@
+{
+    "id": "2be7f5e33116a811dc0c6c117ed9aa69556dcdd58345fb3d342f69db591a8205",
+    "metadata": "Locomotives of the Great Western Railway | Locomotives of amalgamated companies (1920 - 1924) | Llanelly and Mynydd Mawr Railway",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Manufacturer",
+        "Type_",
+        "Quantity",
+        "LMMR_Name",
+        "GWR_No_"
+    ],
+    "cell": [
+        [
+            "Andrew Barclay Sons & Co.",
+            "0-6-0T",
+            "1",
+            "George Waddell",
+            "312"
+        ],
+        [
+            "Hudswell Clarke",
+            "0-6-0T",
+            "2",
+            "Tarndune",
+            "339"
+        ],
+        [
+            "Hudswell Clarke",
+            "0-6-0ST",
+            "1",
+            "Hilda",
+            "359"
+        ],
+        [
+            "Manning Wardle",
+            "0-6-0T",
+            "1",
+            "Victory",
+            "704"
+        ],
+        [
+            "Hudswell Clarke",
+            "0-6-0T",
+            "1",
+            "Ravelston",
+            "803"
+        ],
+        [
+            "Hudswell Clarke",
+            "0-6-0T",
+            "1",
+            "Merkland",
+            "937"
+        ],
+        [
+            "Avonside Engine Company",
+            "0-6-0T",
+            "1",
+            "Great Mountain",
+            "944"
+        ],
+        [
+            "Fox, Walker & Co.",
+            "0-6-0ST",
+            "1",
+            "Seymour Clarke",
+            "969"
+        ]
+    ]
+}

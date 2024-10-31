@@ -1,0 +1,61 @@
+{
+    "id": "e2710cb55578f0f967a5324a1c2b9eedba9f6e71f9ebee7a6705508c538f39f3",
+    "metadata": "1893 AHAC season | Final Standing | Final Standing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Games_Played",
+        "Wins",
+        "Losses",
+        "Ties_",
+        "Goals_For",
+        "Goals_Against"
+    ],
+    "cell": [
+        [
+            "Montreal Hockey Club",
+            "8",
+            "7",
+            "1",
+            "0",
+            "38",
+            "18"
+        ],
+        [
+            "Ottawa Hockey Club",
+            "8",
+            "6",
+            "2",
+            "0",
+            "49",
+            "22"
+        ],
+        [
+            "Montreal Crystals",
+            "8",
+            "3",
+            "5",
+            "0",
+            "25",
+            "34"
+        ],
+        [
+            "Quebec Hockey Club",
+            "8",
+            "2",
+            "5",
+            "1",
+            "23",
+            "46"
+        ],
+        [
+            "Montreal Victorias",
+            "8",
+            "1",
+            "6",
+            "1",
+            "20",
+            "35"
+        ]
+    ]
+}

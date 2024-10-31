@@ -1,0 +1,56 @@
+{
+    "id": "adbb7810749f313052410abbf4e2148f402865b8faa3da2dccb080dafbc7425f",
+    "metadata": "Chicago Storm | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "League",
+        "Reg_Season",
+        "Playoffs",
+        "Attendance_Average"
+    ],
+    "cell": [
+        [
+            "2004-05",
+            "MISL II",
+            "6th MISL, 18-21",
+            "Failed to qualify",
+            "3408"
+        ],
+        [
+            "2005-06",
+            "MISL II",
+            "4th MISL, 13-17",
+            "Lost Semifinal",
+            "1530"
+        ],
+        [
+            "2006-07",
+            "MISL II",
+            "2nd MISL, 17-13",
+            "Lost Semifinal",
+            "2473"
+        ],
+        [
+            "2007-08",
+            "MISL II",
+            "5th MISL, 15-15",
+            "Lost Quarterfinal",
+            "3609"
+        ],
+        [
+            "2008-09",
+            "XSL",
+            "4th XSL, 7-13",
+            "No Playoffs",
+            "2611"
+        ],
+        [
+            "2009-10",
+            "USL",
+            "1st USL, 11-1",
+            "TBD",
+            "Not Recorded"
+        ]
+    ]
+}

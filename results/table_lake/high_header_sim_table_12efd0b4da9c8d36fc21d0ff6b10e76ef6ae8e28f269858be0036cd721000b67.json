@@ -1,0 +1,55 @@
+{
+    "id": "12efd0b4da9c8d36fc21d0ff6b10e76ef6ae8e28f269858be0036cd721000b67",
+    "metadata": "2008 Vanderbilt Commodores baseball team | Schedule | May",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Location_",
+        "Score",
+        "Loss",
+        "Record"
+    ],
+    "cell": [
+        [
+            "May 21",
+            "vs. Florida",
+            "Regions Field",
+            "7-3",
+            "Keating (8-1)",
+            "38-18"
+        ],
+        [
+            "May 22",
+            "vs. #13 LSU",
+            "Regions Field",
+            "8-2",
+            "Cotham (7-5)",
+            "38-19"
+        ],
+        [
+            "May 23",
+            "vs. #23 South Carolina",
+            "Regions Field",
+            "7-5",
+            "Cooper (5-6)",
+            "39-19"
+        ],
+        [
+            "May 24",
+            "vs. Ole Miss",
+            "Regions Field",
+            "7-4",
+            "McKean (4-1)",
+            "40-19"
+        ],
+        [
+            "May 24",
+            "vs. Ole Miss",
+            "Regions Field",
+            "8-7",
+            "Hayes (2-1)",
+            "40-20"
+        ]
+    ]
+}

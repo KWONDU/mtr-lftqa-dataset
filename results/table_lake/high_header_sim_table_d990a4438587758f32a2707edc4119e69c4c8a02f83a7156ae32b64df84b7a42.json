@@ -1,0 +1,70 @@
+{
+    "id": "d990a4438587758f32a2707edc4119e69c4c8a02f83a7156ae32b64df84b7a42",
+    "metadata": "1941 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "15.13 (103)",
+            "South Melbourne",
+            "9.16 (70)",
+            "Punt Road Oval",
+            "15000",
+            "28 June 1941"
+        ],
+        [
+            "Fitzroy",
+            "21.19 (145)",
+            "Hawthorn",
+            "10.20 (80)",
+            "Brunswick Street Oval",
+            "7000",
+            "28 June 1941"
+        ],
+        [
+            "Essendon",
+            "18.12 (120)",
+            "Geelong",
+            "11.13 (79)",
+            "Windy Hill",
+            "10000",
+            "28 June 1941"
+        ],
+        [
+            "North Melbourne",
+            "17.14 (116)",
+            "Melbourne",
+            "20.9 (129)",
+            "Arden Street Oval",
+            "5000",
+            "28 June 1941"
+        ],
+        [
+            "St Kilda",
+            "12.11 (83)",
+            "Collingwood",
+            "16.10 (106)",
+            "Junction Oval",
+            "16000",
+            "28 June 1941"
+        ],
+        [
+            "Footscray",
+            "12.14 (86)",
+            "Carlton",
+            "15.11 (101)",
+            "Western Oval",
+            "21000",
+            "28 June 1941"
+        ]
+    ]
+}

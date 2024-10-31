@@ -1,0 +1,103 @@
+{
+    "id": "8c5cbb57052a9675e91a56a067c78a4aa60d3ed9b01b13494bc5ce6b8ff557bf",
+    "metadata": "List of ships built at the Fore River Shipyard | Production record | East Braintree Yard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Names_",
+        "Yard_no_",
+        "Type_as_built",
+        "Owner_",
+        "IMO_number",
+        "Laid_down",
+        "Launched",
+        "Delivered_Commissioned",
+        "Fate_Decommissioned",
+        "Notes_"
+    ],
+    "cell": [
+        [
+            "Sally",
+            "100",
+            "Yacht",
+            "Lyman",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            ""
+        ],
+        [
+            "Caprice",
+            "101",
+            "Yacht",
+            "Robinson",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            ""
+        ],
+        [
+            "Eleanor",
+            "103",
+            "Yacht",
+            "Clapp",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            ""
+        ],
+        [
+            "USS Lawrence (DD-8)",
+            "104",
+            "Bainbridge-class destroyer",
+            "U.S. Navy",
+            "Unknown",
+            "10 April 1899",
+            "7 November 1900",
+            "7 April 1903",
+            "20 June 1919",
+            "Sold to Joseph G. Hitner; scrapped"
+        ],
+        [
+            "USS Macdonough (DD-9)",
+            "105",
+            "Bainbridge-class destroyer",
+            "U.S. Navy",
+            "Unknown",
+            "10 April 1899",
+            "24 December 1900",
+            "5 September 1903",
+            "3 September 1919",
+            "Sold to Joseph G. Hitner; scrapped"
+        ],
+        [
+            "Jule",
+            "106",
+            "Yacht",
+            "J. Arthur",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "12 June 1899",
+            "Unknown",
+            ""
+        ],
+        [
+            "United States lightship LV-72",
+            "107",
+            "Lightvessel",
+            "U.S Lighthouse Board",
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "13 February 1901",
+            "Unknown",
+            ""
+        ]
+    ]
+}

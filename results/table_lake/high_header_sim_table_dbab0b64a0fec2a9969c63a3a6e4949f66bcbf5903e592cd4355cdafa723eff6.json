@@ -1,0 +1,70 @@
+{
+    "id": "dbab0b64a0fec2a9969c63a3a6e4949f66bcbf5903e592cd4355cdafa723eff6",
+    "metadata": "United States House of Representatives elections, 2006 | Arizona | Arizona",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results"
+    ],
+    "cell": [
+        [
+            "Arizona 1",
+            "Rick Renzi",
+            "Republican",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "Arizona 2",
+            "Trent Franks",
+            "Republican",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "Arizona 3",
+            "John Shadegg",
+            "Republican",
+            "1994",
+            "Re-elected"
+        ],
+        [
+            "Arizona 4",
+            "Ed Pastor",
+            "Democratic",
+            "1990",
+            "Re-elected"
+        ],
+        [
+            "Arizona 5",
+            "J. D. Hayworth",
+            "Republican",
+            "1994",
+            "Lost re-election Democratic gain"
+        ],
+        [
+            "Arizona 6",
+            "Jeff Flake",
+            "Republican",
+            "2000",
+            "Re-elected"
+        ],
+        [
+            "Arizona 7",
+            "Raul Grijalva",
+            "Democratic",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "Arizona 8",
+            "Jim Kolbe",
+            "Republican",
+            "1984",
+            "Retired Democratic gain"
+        ]
+    ]
+}

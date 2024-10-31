@@ -1,0 +1,70 @@
+{
+    "id": "c579398aee33689dda2dcb9e729a56a90a2b5625b28111aa83ab6859c1e48550",
+    "metadata": "1944 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "9.13 (67)",
+            "South Melbourne",
+            "8.10 (58)",
+            "Western Oval",
+            "15000",
+            "17 June 1944"
+        ],
+        [
+            "Fitzroy",
+            "14.13 (97)",
+            "Hawthorn",
+            "7.10 (52)",
+            "Brunswick Street Oval",
+            "10000",
+            "17 June 1944"
+        ],
+        [
+            "Collingwood",
+            "12.21 (93)",
+            "Essendon",
+            "9.10 (64)",
+            "Victoria Park",
+            "10000",
+            "17 June 1944"
+        ],
+        [
+            "North Melbourne",
+            "15.20 (110)",
+            "Melbourne",
+            "12.10 (82)",
+            "Arden Street Oval",
+            "12000",
+            "17 June 1944"
+        ],
+        [
+            "Richmond",
+            "25.23 (173)",
+            "Geelong",
+            "9.2 (56)",
+            "Punt Road Oval",
+            "10000",
+            "17 June 1944"
+        ],
+        [
+            "St Kilda",
+            "6.12 (48)",
+            "Carlton",
+            "15.13 (103)",
+            "Junction Oval",
+            "23000",
+            "17 June 1944"
+        ]
+    ]
+}

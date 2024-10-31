@@ -1,0 +1,56 @@
+{
+    "id": "5f142c1f7fbe4705a308761243ec40382781605abb8af11551076317dee3b4fe",
+    "metadata": "1991-92 Edmonton Oilers season | Edmonton Oilers 4, Los Angeles Kings 2 | Edmonton Oilers 4, Los Angeles Kings 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Record"
+    ],
+    "cell": [
+        [
+            "April 18",
+            "Edmonton Oilers",
+            "3-1",
+            "Los Angeles Kings",
+            "1-0"
+        ],
+        [
+            "April 20",
+            "Edmonton Oilers",
+            "5-8",
+            "Los Angeles Kings",
+            "1-1"
+        ],
+        [
+            "April 22",
+            "Los Angeles Kings",
+            "3-4",
+            "Edmonton Oilers",
+            "2-1"
+        ],
+        [
+            "April 24",
+            "Los Angeles Kings",
+            "4-3",
+            "Edmonton Oilers",
+            "2-2"
+        ],
+        [
+            "April 26",
+            "Edmonton Oilers",
+            "5-2",
+            "Los Angeles Kings",
+            "3-2"
+        ],
+        [
+            "April 28",
+            "Los Angeles Kings",
+            "0-3",
+            "Edmonton Oilers",
+            "4-2"
+        ]
+    ]
+}

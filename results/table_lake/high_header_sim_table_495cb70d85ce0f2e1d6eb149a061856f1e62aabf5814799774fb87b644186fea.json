@@ -1,0 +1,56 @@
+{
+    "id": "495cb70d85ce0f2e1d6eb149a061856f1e62aabf5814799774fb87b644186fea",
+    "metadata": "Test matches (1991-2000) | Australia in England | 1997",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "5,6,7,8 June 1997",
+            "Mike Atherton",
+            "Mark Taylor",
+            "Edgbaston",
+            "ENG by 9 wkts"
+        ],
+        [
+            "19,20,21,22,23 June 1997",
+            "Mike Atherton",
+            "Mark Taylor",
+            "Lord`s",
+            "DRAW"
+        ],
+        [
+            "3,4,5,6,7 July 1997",
+            "Mike Atherton",
+            "Mark Taylor",
+            "Old Trafford",
+            "AUS by 268 runs"
+        ],
+        [
+            "24,25,26,27,28 July 1997",
+            "Mike Atherton",
+            "Mark Taylor",
+            "Headingley",
+            "AUS by Inns&61 runs"
+        ],
+        [
+            "7,8,9,10 August 1997",
+            "Mike Atherton",
+            "Mark Taylor",
+            "Trent Bridge",
+            "AUS by 264 runs"
+        ],
+        [
+            "21,22,23 August 1997",
+            "Mike Atherton",
+            "Mark Taylor",
+            "The Oval",
+            "ENG by 19 runs"
+        ]
+    ]
+}

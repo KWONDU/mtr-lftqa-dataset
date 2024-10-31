@@ -1,0 +1,70 @@
+{
+    "id": "5caf8ed974d3545bd59af8763a1adef1186f059e4873c01ad5193e018b785df6",
+    "metadata": "United States House of Representatives elections, 1910 | California | California",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "California 1",
+            "William F. Englebright",
+            "Republican",
+            "1906",
+            "Lost re-election Democratic gain"
+        ],
+        [
+            "California 2",
+            "Duncan E. McKinlay",
+            "Republican",
+            "1904",
+            "Defeated in primary Republican hold"
+        ],
+        [
+            "California 3",
+            "Joseph R. Knowland",
+            "Republican",
+            "1904",
+            "Re-elected"
+        ],
+        [
+            "California 4",
+            "Julius Kahn",
+            "Republican",
+            "1898",
+            "Re-elected"
+        ],
+        [
+            "California 5",
+            "Everis A. Hayes",
+            "Republican",
+            "1904",
+            "Re-elected"
+        ],
+        [
+            "California 6",
+            "James C. Needham",
+            "Republican",
+            "1898",
+            "Re-elected"
+        ],
+        [
+            "California 7",
+            "James McLachlan",
+            "Republican",
+            "1900",
+            "Defeated in primary Republican hold"
+        ],
+        [
+            "California 8",
+            "Sylvester C. Smith",
+            "Republican",
+            "1904",
+            "Re-elected"
+        ]
+    ]
+}

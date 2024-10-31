@@ -1,0 +1,98 @@
+{
+    "id": "8d12129271f10e0736c6261a17c9768cd13814a741e312d01edc9ad77ac57cc3",
+    "metadata": "2000-01 Prva HNL | Summaries | Summaries",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Manager",
+        "Home_city",
+        "Stadium",
+        "Capacity"
+    ],
+    "cell": [
+        [
+            "Cibalia",
+            "Davor Mladina",
+            "Vinkovci",
+            "Stadion HNK Cibalia",
+            "9920"
+        ],
+        [
+            "\u010cakovec",
+            "Ilija Lon\u010darevi\u0107",
+            "\u010cakovec",
+            "Stadion SRC Mladost",
+            "8000"
+        ],
+        [
+            "Dinamo Zagreb",
+            "Marijan Vlak",
+            "Zagreb",
+            "Stadion Maksimir",
+            "37168"
+        ],
+        [
+            "Hajduk Split",
+            "Petar Nadoveza",
+            "Split",
+            "Gradski stadion u Poljudu",
+            "35000"
+        ],
+        [
+            "Hrvatski Dragovoljac",
+            "Milivoj Bra\u010dun",
+            "Zagreb",
+            "Stadion N\u0160C Stjepan Spaji\u0107",
+            "5000"
+        ],
+        [
+            "Marsonia",
+            "Stjepan Deveri\u0107",
+            "Slavonski Brod",
+            "Gradski stadion uz Savu",
+            "10000"
+        ],
+        [
+            "Osijek",
+            "Stanko Mr\u0161i\u0107",
+            "Osijek",
+            "Stadion Gradski vrt",
+            "19500"
+        ],
+        [
+            "Rijeka",
+            "Nenad Gra\u010dan",
+            "Rijeka",
+            "Stadion na Kantridi",
+            "10275"
+        ],
+        [
+            "Slaven Belupo",
+            "Mladen Fran\u010di\u0107",
+            "Koprivnica",
+            "Gradski stadion u Koprivnici",
+            "4000"
+        ],
+        [
+            "\u0160ibenik",
+            "Milo Ni\u017eeti\u0107",
+            "\u0160ibenik",
+            "Stadion \u0160ubi\u0107evac",
+            "8000"
+        ],
+        [
+            "Varteks",
+            "Ivan Katalini\u0107",
+            "Vara\u017edin",
+            "Stadion NK Varteks",
+            "10800"
+        ],
+        [
+            "NK Zagreb",
+            "Branko Kara\u010di\u0107",
+            "Zagreb",
+            "Stadion u Kranj\u010devi\u0107evoj ulici",
+            "8850"
+        ]
+    ]
+}

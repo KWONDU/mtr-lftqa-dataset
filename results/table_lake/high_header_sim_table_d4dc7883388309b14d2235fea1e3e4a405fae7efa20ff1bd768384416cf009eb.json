@@ -1,0 +1,84 @@
+{
+    "id": "d4dc7883388309b14d2235fea1e3e4a405fae7efa20ff1bd768384416cf009eb",
+    "metadata": "1992-93 Phoenix Suns season | Game log | May",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "1",
+            "May 11",
+            "San Antonio",
+            "W 98-89",
+            "Kevin Johnson (25)",
+            "Charles Barkley (10)",
+            "Kevin Johnson (7)",
+            "America West Arena 19,023",
+            "1-0"
+        ],
+        [
+            "2",
+            "May 13",
+            "San Antonio",
+            "W 109-103",
+            "Charles Barkley (35)",
+            "Charles Barkley (10)",
+            "Kevin Johnson (12)",
+            "America West Arena 19,023",
+            "2-0"
+        ],
+        [
+            "3",
+            "May 15",
+            "@ San Antonio",
+            "L 96-111",
+            "Kevin Johnson (26)",
+            "Charles Barkley (14)",
+            "Kevin Johnson (7)",
+            "HemisFair Arena 16,057",
+            "2-1"
+        ],
+        [
+            "4",
+            "May 16",
+            "@ San Antonio",
+            "L 103-117",
+            "Kevin Johnson (26)",
+            "Charles Barkley (12)",
+            "Kevin Johnson (8)",
+            "HemisFair Arena 16,057",
+            "2-2"
+        ],
+        [
+            "5",
+            "May 18",
+            "San Antonio",
+            "W 109-97",
+            "Charles Barkley (36)",
+            "Charles Barkley (12)",
+            "Kevin Johnson (12)",
+            "America West Arena 19,023",
+            "3-2"
+        ],
+        [
+            "6",
+            "May 20",
+            "@ San Antonio",
+            "W 102-100",
+            "Charles Barkley (28)",
+            "Charles Barkley (21)",
+            "Kevin Johnson (8)",
+            "HemisFair Arena 16,057",
+            "4-2"
+        ]
+    ]
+}

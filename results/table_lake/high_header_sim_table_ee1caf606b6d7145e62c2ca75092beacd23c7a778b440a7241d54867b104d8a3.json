@@ -1,0 +1,98 @@
+{
+    "id": "ee1caf606b6d7145e62c2ca75092beacd23c7a778b440a7241d54867b104d8a3",
+    "metadata": "East Carolina Pirates football, 1990-99 | 1997 | 1997",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Site",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "September 6",
+            "at West Virginia",
+            "Mountaineer Field \u2022 Morgantown, WV",
+            "L17-24",
+            "51143"
+        ],
+        [
+            "September 13",
+            "Wake Forest",
+            "Dowdy-Ficklen Stadium \u2022 Greenville, NC",
+            "W25-24",
+            "38031"
+        ],
+        [
+            "September 20",
+            "South Carolina",
+            "Dowdy-Ficklen Stadium \u2022 Greenville, NC",
+            "L0-26",
+            "38902"
+        ],
+        [
+            "October 4",
+            "at Syracuse",
+            "Carrier Dome \u2022 Syracuse, NY",
+            "L0-56",
+            "44054"
+        ],
+        [
+            "October 11",
+            "Southern Miss",
+            "Dowdy-Ficklen Stadium \u2022 Greenville, NC",
+            "L13-23",
+            "33904"
+        ],
+        [
+            "October 18",
+            "at Tulane",
+            "Louisiana Superdome \u2022 New Orleans, LA",
+            "L16-33",
+            "23340"
+        ],
+        [
+            "October 25",
+            "Memphis",
+            "Dowdy-Ficklen Stadium \u2022 Greenville, NC",
+            "W32-10",
+            "28029"
+        ],
+        [
+            "November 1",
+            "at Louisville",
+            "Cardinal Stadium \u2022 Louisville, KY",
+            "W45-31",
+            "12850"
+        ],
+        [
+            "November 8",
+            "at Houston",
+            "Robertson Stadium \u2022 Houston, TX",
+            "W28-27",
+            "17051"
+        ],
+        [
+            "November 13",
+            "Cincinnati",
+            "Dowdy-Ficklen Stadium \u2022 Greenville, NC",
+            "W14-7",
+            "25509"
+        ],
+        [
+            "November 22",
+            "at North Carolina State",
+            "Carter-Finley Stadium \u2022 Raleigh, NC",
+            "L24-37",
+            "51500"
+        ],
+        [
+            "All times are in Eastern.",
+            "All times are in Eastern.",
+            "All times are in Eastern.",
+            "All times are in Eastern.",
+            "All times are in Eastern."
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "86dff4bac9caf0d7cc021872638b5ed31504da22876ddff224aa79d698581af2",
+    "metadata": "DWBL | FBS Radio Stations | FBS Radio Stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Branding",
+        "Callsign",
+        "Frequency",
+        "Power_",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "DWBL 1242",
+            "DWBL",
+            "1242 kHz",
+            "20 Kw",
+            "Metro Manila"
+        ],
+        [
+            "Mellow 947",
+            "DWLL",
+            "94.7 MHz",
+            "20 Kw",
+            "Metro Manila"
+        ],
+        [
+            "Mellow 887",
+            "DYKU",
+            "88.7 MHz",
+            "10 Kw",
+            "Iloilo City"
+        ],
+        [
+            "Mellow 957",
+            "DXBL",
+            "95.7 MHz",
+            "10 Kw",
+            "Cagayan de Oro"
+        ],
+        [
+            "Mellow 947 Davao",
+            "DXLL",
+            "94.7 MHz",
+            "20 Kw",
+            "Davao City"
+        ]
+    ]
+}

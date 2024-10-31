@@ -1,0 +1,49 @@
+{
+    "id": "9ce67d836bea0f1cda60441b1853429ef630b6567ff8100bfd223e32f085bf3d",
+    "metadata": "2008-09 Montreal Canadiens season | Draft picks | Draft picks",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Player",
+        "Position_",
+        "Nationality",
+        "College_junior_club_team_league"
+    ],
+    "cell": [
+        [
+            "2",
+            "Danny Kristo",
+            "RW",
+            "USA",
+            "U.S. National Under-18 Team (USDP)"
+        ],
+        [
+            "3",
+            "Steve Quailer",
+            "RW",
+            "USA",
+            "Northeastern University ( Hockey East )"
+        ],
+        [
+            "4",
+            "Jason Missiaen",
+            "G",
+            "Canada",
+            "Peterborough Petes ( OHL )"
+        ],
+        [
+            "5",
+            "Maxim Trunev",
+            "F",
+            "Russia",
+            "Severstal Cherepovets -2 (Rus3)"
+        ],
+        [
+            "7",
+            "Patrick Johnson",
+            "F",
+            "USA",
+            "University of Wisconsin ( NCAA )"
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "a19a943a23691affdc0272c5146990674327665a68a69eeab6d9de02c1068f82",
+    "metadata": "United States House of Representatives elections, 1860 | Massachusetts | Massachusetts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Massachusetts 1",
+            "Thomas D. Eliot",
+            "Republican",
+            "1858",
+            "Re-elected"
+        ],
+        [
+            "Massachusetts 2",
+            "James Buffington",
+            "Republican",
+            "1854",
+            "Re-elected"
+        ],
+        [
+            "Massachusetts 3",
+            "Charles Francis Adams, Sr.",
+            "Republican",
+            "1858",
+            "Re-elected"
+        ],
+        [
+            "Massachusetts 4",
+            "Alexander H. Rice",
+            "Republican",
+            "1858",
+            "Re-elected"
+        ],
+        [
+            "Massachusetts 5",
+            "Anson Burlingame",
+            "Republican",
+            "1854",
+            "Defeated Constitutional Union Gain"
+        ],
+        [
+            "Massachusetts 6",
+            "John B. Alley",
+            "Republican",
+            "1858",
+            "Re-elected"
+        ],
+        [
+            "Massachusetts 7",
+            "Daniel W. Gooch",
+            "Republican",
+            "1858",
+            "Re-elected"
+        ],
+        [
+            "Massachusetts 8",
+            "Charles R. Train",
+            "Republican",
+            "1859",
+            "Re-elected"
+        ],
+        [
+            "Massachusetts 9",
+            "Eli Thayer",
+            "Constitutional Union",
+            "1856",
+            "Defeated Republican Gain"
+        ],
+        [
+            "Massachusetts 10",
+            "Charles Delano",
+            "Republican",
+            "1858",
+            "Re-elected"
+        ],
+        [
+            "Massachusetts 11",
+            "Henry L. Dawes",
+            "Republican",
+            "1856",
+            "Re-elected"
+        ]
+    ]
+}

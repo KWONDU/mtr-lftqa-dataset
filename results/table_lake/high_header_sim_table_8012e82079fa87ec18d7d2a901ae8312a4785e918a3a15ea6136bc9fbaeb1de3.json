@@ -1,0 +1,133 @@
+{
+    "id": "8012e82079fa87ec18d7d2a901ae8312a4785e918a3a15ea6136bc9fbaeb1de3",
+    "metadata": "Midwest Lacrosse Conference | Member schools | Member schools",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "City",
+        "State_",
+        "Team_Name",
+        "Affiliation",
+        "Enrollment",
+        "Home_Conference"
+    ],
+    "cell": [
+        [
+            "Augustana College (Illinois) **",
+            "Rock Island",
+            "Illinois",
+            "Vikings",
+            "Private/Lutheran",
+            "2500",
+            "CCIW"
+        ],
+        [
+            "Aurora University",
+            "Aurora",
+            "Illinois",
+            "Spartans",
+            "Private/Non-sectarian",
+            "4400",
+            "Northern"
+        ],
+        [
+            "Beloit College *",
+            "Beloit",
+            "Wisconsin",
+            "Buccaneers",
+            "Private/United Church of Christ",
+            "1000",
+            "Midwest"
+        ],
+        [
+            "Benedictine University",
+            "Lisle",
+            "Illinois",
+            "Eagles",
+            "Private/Catholic",
+            "1300",
+            "Northern"
+        ],
+        [
+            "Carroll University *",
+            "Waukesha",
+            "Wisconsin",
+            "Pioneers",
+            "Private/Presbyterian",
+            "2789",
+            "Midwest"
+        ],
+        [
+            "Carthage College **",
+            "Kenosha",
+            "Wisconsin",
+            "Red Men",
+            "Private/Lutheran",
+            "2188",
+            "CCIW"
+        ],
+        [
+            "Concordia University Wisconsin",
+            "Mequon",
+            "Wisconsin",
+            "Falcons",
+            "Private/Lutheran",
+            "1608",
+            "Northern"
+        ],
+        [
+            "Cornell College *",
+            "Mount Vernon",
+            "Iowa",
+            "Rams",
+            "Private/United Methodist",
+            "1176",
+            "Midwest"
+        ],
+        [
+            "Defiance College",
+            "Defiance",
+            "Ohio",
+            "Yellow Jackets",
+            "Private/United Church of Christ",
+            "1000",
+            "HCAC"
+        ],
+        [
+            "Elmhurst College **",
+            "Elmhurst",
+            "Illinois",
+            "Bluejays",
+            "Private/United Church of Christ",
+            "3400",
+            "CCIW"
+        ],
+        [
+            "Fontbonne University",
+            "St. Louis",
+            "Missouri",
+            "Griffins",
+            "Private/Catholic",
+            "2924",
+            "SLIAC"
+        ],
+        [
+            "Hanover College",
+            "Hanover",
+            "Indiana",
+            "Panthers",
+            "Private/Presbyterian",
+            "975",
+            "HCAC"
+        ],
+        [
+            "Milwaukee School of Engineering",
+            "Milwaukee",
+            "Wisconsin",
+            "Raiders",
+            "Private/Non-sectarian",
+            "1929",
+            "Northern"
+        ]
+    ]
+}

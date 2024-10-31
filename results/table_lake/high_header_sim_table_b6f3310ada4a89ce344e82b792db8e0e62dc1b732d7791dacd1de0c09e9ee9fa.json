@@ -1,0 +1,183 @@
+{
+    "id": "b6f3310ada4a89ce344e82b792db8e0e62dc1b732d7791dacd1de0c09e9ee9fa",
+    "metadata": "Ljungskile SK | Season-to-season | Season-to-season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Level_",
+        "Division",
+        "Section_",
+        "Position_",
+        "Movements_"
+    ],
+    "cell": [
+        [
+            "1993",
+            "Tier 3",
+            "Division 2",
+            "V\u00e4stra G\u00f6taland",
+            "1st",
+            ""
+        ],
+        [
+            "1994",
+            "Tier 2",
+            "Division 1",
+            "S\u00f6dra",
+            "7th",
+            ""
+        ],
+        [
+            "1995",
+            "Tier 2",
+            "Division 1",
+            "S\u00f6dra",
+            "5th",
+            ""
+        ],
+        [
+            "1996",
+            "Tier 2",
+            "Division 1",
+            "S\u00f6dra",
+            "2nd",
+            "Promoted"
+        ],
+        [
+            "1997",
+            "Tier 1",
+            "Allsvenskan",
+            "",
+            "14th",
+            "Panos Ljungskile SK - Relegated"
+        ],
+        [
+            "1998",
+            "Tier 2",
+            "Division 1",
+            "S\u00f6dra",
+            "6th",
+            "Panos Ljungskile SK"
+        ],
+        [
+            "1999",
+            "Tier 2",
+            "Division 1",
+            "S\u00f6dra",
+            "4th",
+            "Panos Ljungskile SK"
+        ],
+        [
+            "2000",
+            "Tier 2",
+            "Superettan",
+            "",
+            "15th",
+            "Panos Ljungskile SK - Relegated"
+        ],
+        [
+            "2001",
+            "Tier 3",
+            "Division 2",
+            "V\u00e4stra G\u00f6taland",
+            "1st",
+            "Panos Ljungskile SK - Promotion Playoffs"
+        ],
+        [
+            "2002",
+            "Tier 3",
+            "Division 2",
+            "V\u00e4stra G\u00f6taland",
+            "6th",
+            "Panos Ljungskile SK"
+        ],
+        [
+            "2003",
+            "Tier 3",
+            "Division 2",
+            "V\u00e4stra G\u00f6taland",
+            "2nd",
+            ""
+        ],
+        [
+            "2004",
+            "Tier 3",
+            "Division 2",
+            "V\u00e4stra G\u00f6taland",
+            "1st",
+            "Promotion Playoffs - Promoted"
+        ],
+        [
+            "2005",
+            "Tier 2",
+            "Superettan",
+            "",
+            "4th",
+            ""
+        ],
+        [
+            "2006*",
+            "Tier 2",
+            "Superettan",
+            "",
+            "6th",
+            ""
+        ],
+        [
+            "2007",
+            "Tier 2",
+            "Superettan",
+            "",
+            "2nd",
+            "Promoted"
+        ],
+        [
+            "2008",
+            "Tier 1",
+            "Allsvenskan",
+            "",
+            "14th",
+            "Relegation Playoffs - Relegated"
+        ],
+        [
+            "2009",
+            "Tier 2",
+            "Superettan",
+            "",
+            "9th",
+            ""
+        ],
+        [
+            "2010",
+            "Tier 2",
+            "Superettan",
+            "",
+            "6th",
+            ""
+        ],
+        [
+            "2011",
+            "Tier 2",
+            "Superettan",
+            "",
+            "8th",
+            ""
+        ],
+        [
+            "2012",
+            "Tier 2",
+            "Superettan",
+            "",
+            "5th",
+            ""
+        ],
+        [
+            "2013",
+            "Tier 2",
+            "Superettan",
+            "",
+            "9th",
+            ""
+        ]
+    ]
+}

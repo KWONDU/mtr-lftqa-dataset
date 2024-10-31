@@ -1,0 +1,70 @@
+{
+    "id": "499edf01681f20502e556b8b935172e68e1c78c7fbfbe9b841e4c909c2d7ce99",
+    "metadata": "1935 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "23.11 (149)",
+            "Footscray",
+            "14.14 (98)",
+            "Victoria Park",
+            "17500",
+            "1 June 1935"
+        ],
+        [
+            "Hawthorn",
+            "14.9 (93)",
+            "Geelong",
+            "22.19 (151)",
+            "Glenferrie Oval",
+            "9500",
+            "1 June 1935"
+        ],
+        [
+            "South Melbourne",
+            "23.14 (152)",
+            "Fitzroy",
+            "10.11 (71)",
+            "Lake Oval",
+            "33000",
+            "1 June 1935"
+        ],
+        [
+            "Melbourne",
+            "15.13 (103)",
+            "St Kilda",
+            "15.20 (110)",
+            "MCG",
+            "22711",
+            "3 June 1935"
+        ],
+        [
+            "Essendon",
+            "12.13 (85)",
+            "Richmond",
+            "13.9 (87)",
+            "Windy Hill",
+            "26000",
+            "3 June 1935"
+        ],
+        [
+            "Carlton",
+            "20.16 (136)",
+            "North Melbourne",
+            "9.14 (68)",
+            "Princes Park",
+            "20000",
+            "3 June 1935"
+        ]
+    ]
+}

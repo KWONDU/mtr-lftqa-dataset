@@ -1,0 +1,103 @@
+{
+    "id": "949a6255305c7cb99e48c6e09c7225492ba4a125a807dddcacd567ae865dc535",
+    "metadata": "Provinces of Solomon Islands | Table of provinces | Table of provinces",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Province",
+        "Capital",
+        "Area_km\u00b2",
+        "Population_census_1999",
+        "Population_per_km\u00b2_2009",
+        "Population_census_2009"
+    ],
+    "cell": [
+        [
+            "Central Province",
+            "Tulagi",
+            "615",
+            "21577",
+            "42.4",
+            "26051"
+        ],
+        [
+            "Choiseul Province",
+            "Taro Island",
+            "3837",
+            "20008",
+            "6.9",
+            "26371"
+        ],
+        [
+            "Guadalcanal Province",
+            "Honiara",
+            "5336",
+            "60275",
+            "17.5",
+            "93613"
+        ],
+        [
+            "Isabel Province",
+            "Buala",
+            "4136",
+            "20421",
+            "6.3",
+            "26158"
+        ],
+        [
+            "Makira-Ulawa Province",
+            "Kirakira",
+            "3188",
+            "31006",
+            "12.7",
+            "40419"
+        ],
+        [
+            "Malaita Province",
+            "Auki",
+            "4225",
+            "122620",
+            "32.6",
+            "137596"
+        ],
+        [
+            "Rennell and Bellona Province",
+            "Tigoa",
+            "671",
+            "2377",
+            "4.5",
+            "3041"
+        ],
+        [
+            "Temotu Province",
+            "Lata",
+            "895",
+            "18912",
+            "23.9",
+            "21362"
+        ],
+        [
+            "Western Province",
+            "Gizo",
+            "5475",
+            "62739",
+            "14.0",
+            "76649"
+        ],
+        [
+            "Capital Territory",
+            "Honiara",
+            "22",
+            "49107",
+            "2936.8",
+            "64609"
+        ],
+        [
+            "Solomon Islands",
+            "Honiara",
+            "28400",
+            "409042",
+            "14.7",
+            "515870"
+        ]
+    ]
+}

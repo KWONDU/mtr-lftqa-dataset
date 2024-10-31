@@ -1,0 +1,71 @@
+{
+    "id": "0e91f1c8882fe7a81cf907bf611dad4260abe2e8062c1ff9b757eefad926fd15",
+    "metadata": "1997-98 Scottish Premier Division | Managerial changes | Managerial changes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Outgoing_manager",
+        "Manner_of_departure",
+        "Date_of_vacancy",
+        "Replaced_by",
+        "Date_of_appointment"
+    ],
+    "cell": [
+        [
+            "Dundee United",
+            "Tommy McLean",
+            "Mutual consent",
+            "4 September 1997",
+            "Paul Sturrock",
+            "5 September 1997"
+        ],
+        [
+            "St. Johnstone",
+            "Paul Sturrock",
+            "Resigned",
+            "5 September 1997",
+            "Sandy Clark",
+            "7 September 1997"
+        ],
+        [
+            "Motherwell",
+            "Harri Kampman",
+            "Resigned",
+            "15 October 1997",
+            "Billy Davies",
+            "15 October 1997"
+        ],
+        [
+            "Aberdeen",
+            "Alex Miller",
+            "Sacked",
+            "8 December 1997",
+            "Paul Hegarty (Caretaker)",
+            "8 December 1997"
+        ],
+        [
+            "Dunfermline Athletic",
+            "Bert Paton",
+            "Resigned",
+            "5 January 1998",
+            "Dick Campbell (Caretaker)",
+            "5 January 1998"
+        ],
+        [
+            "Rangers",
+            "Walter Smith",
+            "Resigned",
+            "May 1998",
+            "Dick Advocaat",
+            "June 1998"
+        ],
+        [
+            "Celtic",
+            "Wim Jansen",
+            "Resigned",
+            "May 1998",
+            "Jozef Venglo\u0161",
+            "June 1998"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "1a29508db4cde044bc7dc3b0bc756d0f863df839ea32abb1d2cae2b05fe35c28",
+    "metadata": "Georgian grammar | Pronouns | Pronouns",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Nominative",
+        "Ergative",
+        "Dative",
+        "Genitive",
+        "Instrumental",
+        "Adverbial"
+    ],
+    "cell": [
+        [
+            "me",
+            "me",
+            "me",
+            "chem(s)",
+            "chemit",
+            "chemad"
+        ],
+        [
+            "shen",
+            "shen",
+            "shen",
+            "shen(s)",
+            "shenit",
+            "shenad"
+        ],
+        [
+            "is",
+            "(i)man",
+            "(i)mas",
+            "(i)mis",
+            "(i)mit",
+            "imad"
+        ],
+        [
+            "chven",
+            "chven",
+            "chven",
+            "chven(s)",
+            "chvenit",
+            "chvenad"
+        ],
+        [
+            "tkven",
+            "tkven",
+            "tkven",
+            "tkven(s)",
+            "tkvenit",
+            "tkvenad"
+        ],
+        [
+            "isini",
+            "(i)mat",
+            "(i)mat",
+            "(i)mat",
+            "(i)mat",
+            "(i)mat"
+        ]
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "id": "a8bddf25113763817cf519869e5d57090558c60a9c5267b8bd57cbf21265cdcf",
+    "metadata": "List of NGC objects (5001-6000) | 5001-5100 | 5001-5100",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_",
+        "Apparent_magnitude"
+    ],
+    "cell": [
+        [
+            "5001",
+            "Spiral galaxy",
+            "Ursa Major",
+            "13h09m33.5s",
+            "\u00b029\u203238\u2033",
+            "14.6"
+        ],
+        [
+            "5002",
+            "Irregular galaxy",
+            "Canes Venatici",
+            "13h10m38.3s",
+            "\u00b038\u203203\u2033",
+            "14.7"
+        ],
+        [
+            "5003",
+            "Spiral galaxy",
+            "Canes Venatici",
+            "13h08m37.9s",
+            "\u00b044\u203215\u2033",
+            "15.3"
+        ],
+        [
+            "5004",
+            "Lenticular galaxy",
+            "Coma Berenices",
+            "13h11m01.7s",
+            "\u00b038\u203211\u2033",
+            "14.3"
+        ],
+        [
+            "5005",
+            "Spiral galaxy",
+            "Canes Venatici",
+            "13h10m56.3s",
+            "\u00b003\u203230\u2033",
+            "10.6"
+        ],
+        [
+            "5006",
+            "Lenticular galaxy",
+            "Virgo",
+            "13h11m46s",
+            "\u00b015\u203241\u2033",
+            "12.4"
+        ],
+        [
+            "5007",
+            "Elliptical galaxy",
+            "Ursa Major",
+            "13h9m4s",
+            "\u00b010\u203231\u2033",
+            "13.3"
+        ],
+        [
+            "5008",
+            "Barred spiral galaxy",
+            "Bo\u00f6tes",
+            "14h10m57s",
+            "\u00b029\u203247\u2033",
+            "13.4"
+        ],
+        [
+            "5009",
+            "Barred spiral galaxy",
+            "Canes Venatici",
+            "13h10m47s",
+            "\u00b05\u203235\u2033",
+            "14.5"
+        ],
+        [
+            "5010",
+            "Lenticular galaxy",
+            "Virgo",
+            "13h12m26.4s",
+            "\u00b047\u203252\u2033",
+            "14.4"
+        ],
+        [
+            "5023",
+            "Spiral galaxy",
+            "Canes Venatici",
+            "13h12m11.8s",
+            "\u00b002\u203217\u2033",
+            "12.82"
+        ],
+        [
+            "5024",
+            "Globular cluster",
+            "Coma Berenices",
+            "13h12m55.3s",
+            "\u00b010\u203209\u2033",
+            "9.0"
+        ],
+        [
+            "5033",
+            "Spiral galaxy",
+            "Canes Venatici",
+            "13h13m27.6s",
+            "\u00b035\u203237\u2033",
+            "10.9"
+        ],
+        [
+            "5055",
+            "Spiral galaxy",
+            "Canes Venatici",
+            "13h15m49.3s",
+            "\u00b001\u203247\u2033",
+            "9.7"
+        ],
+        [
+            "5068",
+            "Spiral galaxy",
+            "Virgo",
+            "13h18m55.2s",
+            "\u00b002\u203221\u2033",
+            "10.5"
+        ],
+        [
+            "5078",
+            "Spiral galaxy",
+            "Hydra",
+            "13h19m50.2s",
+            "\u00b024\u203235\u2033",
+            "11.5"
+        ],
+        [
+            "5087",
+            "Elliptical galaxy",
+            "Virgo",
+            "13h20m25.2s",
+            "\u00b036\u203237\u2033",
+            "13"
+        ],
+        [
+            "5090",
+            "Elliptical galaxy",
+            "Centaurus",
+            "13h21m12.8s",
+            "\u00b042\u203216\u2033",
+            "12.6"
+        ],
+        [
+            "5091",
+            "Spiral galaxy",
+            "Centaurus",
+            "13h21m18.5s",
+            "\u00b043\u203219\u2033",
+            "14.5"
+        ],
+        [
+            "5100",
+            "Interacting galaxy",
+            "Virgo",
+            "13h21m00.6s",
+            "\u00b058\u203240\u2033",
+            "15.1"
+        ]
+    ]
+}

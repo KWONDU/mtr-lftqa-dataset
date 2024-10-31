@@ -1,0 +1,55 @@
+{
+    "id": "248f2e4677dcde68196e62adc1c4062059966dc695539871c6fd69ba67058f39",
+    "metadata": "1990 Open Championship | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Nick Faldo",
+            "England",
+            "1987",
+            "270",
+            "-18",
+            "1"
+        ],
+        [
+            "Greg Norman",
+            "Australia",
+            "1986",
+            "277",
+            "-11",
+            "T6"
+        ],
+        [
+            "Sandy Lyle",
+            "Scotland",
+            "1985",
+            "281",
+            "-7",
+            "T16"
+        ],
+        [
+            "Lee Trevino",
+            "United States",
+            "1971 , 1972",
+            "283",
+            "-5",
+            "T25"
+        ],
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1966 , 1970 , 1978",
+            "289",
+            "+1",
+            "T63"
+        ]
+    ]
+}

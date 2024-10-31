@@ -1,0 +1,79 @@
+{
+    "id": "93f349cbcce1f70b2a01b8ed9d497074892d5ad2df16923176bc2f8067d7ea0b",
+    "metadata": "USS Wasp (1814) | First Raiding Cruise | First raiding cruise",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Ship_Name",
+        "Tonnage",
+        "Ship_Type",
+        "Location_",
+        "Disposition_of_Ship"
+    ],
+    "cell": [
+        [
+            "2 June 1814",
+            "Neptune",
+            "207",
+            "Barque",
+            "English Channel",
+            "Burned"
+        ],
+        [
+            "13",
+            "William",
+            "91",
+            "Brig",
+            "\u201c",
+            "Burned"
+        ],
+        [
+            "18",
+            "Pallas",
+            "131",
+            "Brig",
+            "\u201c",
+            "Scuttled"
+        ],
+        [
+            "23",
+            "Henrietta",
+            "171",
+            "Galiot",
+            "\u201c",
+            "Prize; used to transport prisoners"
+        ],
+        [
+            "26",
+            "Orange Boven",
+            "325",
+            "Ship",
+            "\u201c",
+            "scuttled"
+        ],
+        [
+            "28",
+            "HMS Reindeer",
+            "385",
+            "18-gun Sloop",
+            "\u201c",
+            "Captured"
+        ],
+        [
+            "4 July",
+            "Regulator",
+            "112",
+            "Brig",
+            "\u201c",
+            "Prize"
+        ],
+        [
+            "6",
+            "Jenny",
+            "151",
+            "Schooner",
+            "\u201c",
+            "Prize"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "1c3d5244a067cafd3fe72f6ff2a3feb2c3267a4c4049ccf6d792b58109e56e1e",
+    "metadata": "2008 World Junior Curling Championships | Men | Teams",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Skip",
+        "Third",
+        "Second_",
+        "Lead_"
+    ],
+    "cell": [
+        [
+            "Canada",
+            "William Dion",
+            "Jean-Michel Arsenault",
+            "Erik Lachance",
+            "Miguel Bernard"
+        ],
+        [
+            "China",
+            "Zang Jialiang",
+            "Wang Zi",
+            "Yang Tuo",
+            "Chen Lu`an"
+        ],
+        [
+            "Czech Republic",
+            "Krystof Chaloupek",
+            "Michal Vojtus",
+            "Martin Hejhal",
+            "David Jirounek"
+        ],
+        [
+            "Denmark",
+            "Rasmus Stjerne",
+            "Mikkel Krause",
+            "Oliver Dupont",
+            "Troels Harry"
+        ],
+        [
+            "Germany",
+            "Daniel Neuner",
+            "Florian Zahler",
+            "Johannes Glaser",
+            "Dominik Greindl"
+        ],
+        [
+            "Norway",
+            "Kristian Rolvsfjord",
+            "Steffen Walstad",
+            "Steffen R. Mellemseter",
+            "Markus Sn\u00f8ve H\u00f8iberg"
+        ],
+        [
+            "Scotland",
+            "Glen Muirhead",
+            "Scott MacLeod",
+            "Scott Andrews",
+            "Gordon McDougall"
+        ],
+        [
+            "Sweden",
+            "Oskar Eriksson",
+            "Henric Jonsson",
+            "Marcus Franz\u00e9n",
+            "Nils Karlsson"
+        ],
+        [
+            "Switzerland",
+            "Manuel Ruch",
+            "Claudio P\u00e4tz",
+            "Daniel Graf",
+            "Joel Greiner"
+        ],
+        [
+            "United States",
+            "Chris Plys",
+            "Aanders Brorson",
+            "Matthew Perushek",
+            "Matthew Hamilton"
+        ]
+    ]
+}

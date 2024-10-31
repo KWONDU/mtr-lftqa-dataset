@@ -1,0 +1,49 @@
+{
+    "id": "c06daf0c768fee36e2ddd4c5cf597cb7745c86e69544df3bcad3c78d7db44f5d",
+    "metadata": "2008-09 Segunda Divisi\u00f3n B | Group 1 | Top goalkeepers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Goalkeeper",
+        "Goals",
+        "Matches",
+        "Average",
+        "Team"
+    ],
+    "cell": [
+        [
+            "Jos\u00e9 Berm\u00fadez",
+            "18",
+            "33",
+            "0.55",
+            "Cultural Leonesa"
+        ],
+        [
+            "Joel Rodr\u00edguez",
+            "24",
+            "36",
+            "0.67",
+            "Celta B"
+        ],
+        [
+            "Igor Etxebarrieta",
+            "21",
+            "30",
+            "0.7",
+            "Lemona"
+        ],
+        [
+            "Daniel Gim\u00e9nez",
+            "34",
+            "38",
+            "0.89",
+            "Zamora"
+        ],
+        [
+            "Miguel Escalona",
+            "34",
+            "34",
+            "1",
+            "Guijuelo"
+        ]
+    ]
+}

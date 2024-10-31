@@ -1,0 +1,63 @@
+{
+    "id": "9d44bc002a61dc96bdbebc8dc978457566a5341c36cae91ab732e16fc5fb0297",
+    "metadata": "Mont Ventoux | Other appearances in Tour de France | Other appearances in Tour de France",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Stage",
+        "Category",
+        "Start_",
+        "Finish",
+        "Leader_at_the_summit"
+    ],
+    "cell": [
+        [
+            "1994",
+            "15",
+            "HC",
+            "Montpellier",
+            "Carpentras",
+            "Eros Poli ( ITA )"
+        ],
+        [
+            "1974",
+            "12",
+            "1",
+            "Savines-le-Lac",
+            "Orange",
+            "Gonzalo Aja ( ESP )"
+        ],
+        [
+            "1967",
+            "13",
+            "1",
+            "Marseille",
+            "Carpentras",
+            "Julio Jim\u00e9nez ( ESP )"
+        ],
+        [
+            "1955",
+            "11",
+            "1",
+            "Marseille",
+            "Avignon",
+            "Louison Bobet ( FRA )"
+        ],
+        [
+            "1952",
+            "14",
+            "1",
+            "Aix-en-Provence",
+            "Avignon",
+            "Jean Robic ( FRA )"
+        ],
+        [
+            "1951",
+            "18",
+            "1",
+            "Montpellier",
+            "Avignon",
+            "Lucien Lazarides ( FRA )"
+        ]
+    ]
+}

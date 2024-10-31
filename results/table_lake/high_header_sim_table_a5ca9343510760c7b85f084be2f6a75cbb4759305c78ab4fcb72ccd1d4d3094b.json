@@ -1,0 +1,84 @@
+{
+    "id": "a5ca9343510760c7b85f084be2f6a75cbb4759305c78ab4fcb72ccd1d4d3094b",
+    "metadata": "Boston Society of Film Critics Award for Best Foreign Language Film | 2000s | 2000s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "English_title",
+        "Original_title",
+        "Country",
+        "Director"
+    ],
+    "cell": [
+        [
+            "2000",
+            "Crouching Tiger, Hidden Dragon",
+            "\u81e5\u864e\u85cf\u9f8d Wo hu cang long",
+            "Taiwan",
+            "Ang Lee"
+        ],
+        [
+            "2001",
+            "Love`s a Bitch",
+            "Amores perros",
+            "Mexico",
+            "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
+        ],
+        [
+            "2002",
+            "And Your Mother Too",
+            "Y tu mam\u00e1 tambi\u00e9n",
+            "Mexico",
+            "Alfonso Cuar\u00f3n"
+        ],
+        [
+            "2003",
+            "The Triplets of Belleville",
+            "Les triplettes de Belleville",
+            "Belgium/Canada/France",
+            "Sylvain Chomet"
+        ],
+        [
+            "2004",
+            "House of Flying Daggers",
+            "\u5341\u9762\u57cb\u4f0f Shi mian mai fu",
+            "China/Hong Kong",
+            "Zhang Yimou"
+        ],
+        [
+            "2005",
+            "Kung Fu Hustle",
+            "\u529f\u592b Kung fu",
+            "China/Hong Kong",
+            "Stephen Chow"
+        ],
+        [
+            "2006",
+            "Pan`s Labyrinth",
+            "El laberinto del fauno",
+            "Mexico/Spain/USA",
+            "Guillermo del Toro"
+        ],
+        [
+            "2007",
+            "The Diving Bell and the Butterfly",
+            "Le scaphandre et le papillon",
+            "France/USA",
+            "Julian Schnabel"
+        ],
+        [
+            "2008",
+            "Let the Right One In",
+            "L\u00e5t den r\u00e4tte komma in",
+            "Sweden",
+            "Tomas Alfredson"
+        ],
+        [
+            "2009",
+            "Summer Hours",
+            "L`heure d`\u00e9t\u00e9",
+            "France",
+            "Olivier Assayas"
+        ]
+    ]
+}

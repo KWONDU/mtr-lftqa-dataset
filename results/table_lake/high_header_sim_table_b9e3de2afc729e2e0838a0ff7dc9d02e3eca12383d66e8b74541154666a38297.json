@@ -1,0 +1,67 @@
+{
+    "id": "b9e3de2afc729e2e0838a0ff7dc9d02e3eca12383d66e8b74541154666a38297",
+    "metadata": "Yevgeniya Kanayeva | Detailed Olympic results | 2012",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition_Description",
+        "Location_",
+        "Apparatus",
+        "Rank_Final",
+        "Score_Final",
+        "Rank_Qualifying",
+        "Score_Qualifying"
+    ],
+    "cell": [
+        [
+            "2012",
+            "Olympics",
+            "London",
+            "All-around",
+            "1st",
+            "116.900",
+            "1st",
+            "116.000"
+        ],
+        [
+            "2012",
+            "Olympics",
+            "London",
+            "Ball",
+            "1st",
+            "29.200",
+            "1st",
+            "29.525"
+        ],
+        [
+            "2012",
+            "Olympics",
+            "London",
+            "Ribbon",
+            "2nd",
+            "28.900",
+            "1st",
+            "29.400"
+        ],
+        [
+            "2012",
+            "Olympics",
+            "London",
+            "Hoop",
+            "1st",
+            "29.350",
+            "2nd",
+            "28.100"
+        ],
+        [
+            "2012",
+            "Olympics",
+            "London",
+            "Clubs",
+            "1st",
+            "29.450",
+            "1st",
+            "28.975"
+        ]
+    ]
+}

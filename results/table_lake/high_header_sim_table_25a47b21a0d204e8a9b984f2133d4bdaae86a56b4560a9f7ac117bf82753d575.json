@@ -1,0 +1,70 @@
+{
+    "id": "25a47b21a0d204e8a9b984f2133d4bdaae86a56b4560a9f7ac117bf82753d575",
+    "metadata": "1970 CFL Draft | Round four | Round four",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "28",
+            "Winnipeg (5)",
+            "John Storey",
+            "HB",
+            "Saskatchewan"
+        ],
+        [
+            "29",
+            "Montreal (3)",
+            "John Proter",
+            "OT",
+            "St. Mary`s"
+        ],
+        [
+            "30",
+            "Edmonton (4)",
+            "Carl Lindros",
+            "DE",
+            "Western"
+        ],
+        [
+            "31",
+            "BC Lions (4)",
+            "Don Warrington",
+            "HB",
+            "Simon Fraser"
+        ],
+        [
+            "32",
+            "Hamilton (5)",
+            "Jay Graydon",
+            "DB",
+            "McMaster"
+        ],
+        [
+            "33",
+            "Calgary (5)",
+            "Dave Sterritt",
+            "OT",
+            "Waterloo"
+        ],
+        [
+            "34",
+            "Toronto (3)",
+            "Vince Lyons",
+            "HB",
+            "McMaster"
+        ],
+        [
+            "35",
+            "Saskatchewan (4)",
+            "Greg Hunter",
+            "HB",
+            "Alberta"
+        ]
+    ]
+}

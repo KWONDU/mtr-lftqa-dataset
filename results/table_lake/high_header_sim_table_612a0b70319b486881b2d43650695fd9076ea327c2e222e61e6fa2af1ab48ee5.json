@@ -1,0 +1,495 @@
+{
+    "id": "612a0b70319b486881b2d43650695fd9076ea327c2e222e61e6fa2af1ab48ee5",
+    "metadata": "List of cities in the Far East by population | Largest urban areas ranked by 2010 projected population | Largest urban areas ranked by 2010 projected population",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "City",
+        "Country",
+        "Population",
+        "Area_km\u00b2",
+        "Sources_of_Pop_Area"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tokyo - Yokohama",
+            "Japan",
+            "35200000",
+            "7835",
+            "C / B"
+        ],
+        [
+            "2",
+            "Jakarta",
+            "Indonesia",
+            "22000000",
+            "2720",
+            "F / B"
+        ],
+        [
+            "3",
+            "Manila",
+            "Philippines",
+            "20795000",
+            "1425",
+            "C / B"
+        ],
+        [
+            "4",
+            "Seoul - Incheon",
+            "South Korea",
+            "19910000",
+            "1943",
+            "C / B"
+        ],
+        [
+            "5",
+            "Shanghai",
+            "China",
+            "18400000",
+            "2396",
+            "C / B"
+        ],
+        [
+            "6",
+            "Osaka - Kobe - Kyoto",
+            "Japan",
+            "17320000",
+            "2720",
+            "C / B"
+        ],
+        [
+            "7",
+            "Shenzhen",
+            "China",
+            "14470000",
+            "1295",
+            "F / B"
+        ],
+        [
+            "8",
+            "Beijing",
+            "China",
+            "13955000",
+            "2616",
+            "C / B"
+        ],
+        [
+            "9",
+            "Guangzhou - Foshan",
+            "China",
+            "13245000",
+            "2590",
+            "E / B"
+        ],
+        [
+            "10",
+            "Dongguan",
+            "China",
+            "1052500",
+            "1295",
+            "F / B"
+        ],
+        [
+            "11",
+            "Nagoya",
+            "Japan",
+            "10025000",
+            "3302",
+            "C / B"
+        ],
+        [
+            "12",
+            "Bangkok",
+            "Thailand",
+            "8250000",
+            "1502",
+            "C / B"
+        ],
+        [
+            "13",
+            "Ho Chi Minh City",
+            "Vietnam",
+            "7785000",
+            "609",
+            "E / B"
+        ],
+        [
+            "14",
+            "Hong Kong",
+            "Hong Kong",
+            "7055000",
+            "220",
+            "E / B"
+        ],
+        [
+            "15",
+            "Taipei - New Taipei - Keelung",
+            "Republic of China (Taiwan)",
+            "6800000",
+            "440",
+            "D / B"
+        ],
+        [
+            "16",
+            "Tianjin",
+            "China",
+            "6675000",
+            "1295",
+            "C / B"
+        ],
+        [
+            "17",
+            "Kuala Lumpur",
+            "Malaysia",
+            "5835000",
+            "2137",
+            "E / B"
+        ],
+        [
+            "18",
+            "Chongqing",
+            "China",
+            "5460000",
+            "570",
+            "E / B"
+        ],
+        [
+            "19",
+            "Hangzhou",
+            "China",
+            "5305000",
+            "712",
+            "E / B"
+        ],
+        [
+            "20",
+            "Wuhan",
+            "China",
+            "5260000",
+            "712",
+            "E / B"
+        ],
+        [
+            "21",
+            "Shenyang",
+            "China",
+            "5160000",
+            "777",
+            "E / B"
+        ],
+        [
+            "22",
+            "Chengdu",
+            "China",
+            "4785000",
+            "570",
+            "E / B"
+        ],
+        [
+            "23",
+            "Singapore",
+            "Singapore",
+            "4635000",
+            "479",
+            "D / B"
+        ],
+        [
+            "24",
+            "Yangon (Rangoon)",
+            "Burma",
+            "4400000",
+            "350",
+            "D / B"
+        ],
+        [
+            "25",
+            "Xi`an",
+            "China",
+            "3955000",
+            "531",
+            "E / B"
+        ],
+        [
+            "26",
+            "Harbin",
+            "China",
+            "3615000",
+            "570",
+            "E / B"
+        ],
+        [
+            "27",
+            "Suzhou",
+            "China",
+            "3605000",
+            "635",
+            "E / B"
+        ],
+        [
+            "28",
+            "Bandung",
+            "Indonesia",
+            "3555000",
+            "401",
+            "E / B"
+        ],
+        [
+            "29",
+            "Nanjing",
+            "China",
+            "3550000",
+            "686",
+            "E / B"
+        ],
+        [
+            "30",
+            "Busan",
+            "South Korea",
+            "3395000",
+            "259",
+            "E / B"
+        ],
+        [
+            "31",
+            "Pyongyang",
+            "North Korea",
+            "3370000",
+            "207",
+            "E / B"
+        ],
+        [
+            "32",
+            "Dalian",
+            "China",
+            "3255000",
+            "570",
+            "E / B"
+        ],
+        [
+            "33",
+            "Changchun",
+            "China",
+            "3170000",
+            "376",
+            "E / B"
+        ],
+        [
+            "34",
+            "Kunming",
+            "China",
+            "3070000",
+            "518",
+            "E / B"
+        ],
+        [
+            "35",
+            "Wuxi",
+            "China",
+            "2925000",
+            "389",
+            "E / B"
+        ],
+        [
+            "36",
+            "Taiyuan",
+            "China",
+            "2900000",
+            "311",
+            "E / B"
+        ],
+        [
+            "37",
+            "Surabaya",
+            "Indonesia",
+            "2885000",
+            "376",
+            "D / B"
+        ],
+        [
+            "38",
+            "Taichung - Changhua",
+            "Republic of China (Taiwan)",
+            "2815000",
+            "492",
+            "E / B"
+        ],
+        [
+            "39",
+            "Changsha",
+            "China",
+            "2720000",
+            "389",
+            "E / B"
+        ],
+        [
+            "40",
+            "Kaohsiung",
+            "Republic of China (Taiwan)",
+            "2670000",
+            "363",
+            "E / B"
+        ],
+        [
+            "41",
+            "Zhengzhou",
+            "China",
+            "2590000",
+            "466",
+            "E / B"
+        ],
+        [
+            "42",
+            "Fukuoka",
+            "Japan",
+            "2550000",
+            "583",
+            "C / B"
+        ],
+        [
+            "43",
+            "Shijiazhuang",
+            "China",
+            "2530000",
+            "363",
+            "E / B"
+        ],
+        [
+            "45",
+            "Qingdao",
+            "China",
+            "2495000",
+            "440",
+            "E / B"
+        ],
+        [
+            "46",
+            "Sapporo",
+            "Japan",
+            "2475000",
+            "648",
+            "C / B"
+        ],
+        [
+            "47",
+            "Nanchang",
+            "China",
+            "2465000",
+            "155",
+            "E / B"
+        ],
+        [
+            "48",
+            "Guiyang",
+            "China",
+            "2440000",
+            "207",
+            "E / B"
+        ],
+        [
+            "49",
+            "Fuzhou",
+            "China",
+            "2405000",
+            "259",
+            "E / B"
+        ],
+        [
+            "50",
+            "Lanzhou",
+            "China",
+            "2385000",
+            "181",
+            "E / B"
+        ],
+        [
+            "51",
+            "Daegu",
+            "South Korea",
+            "2380000",
+            "181",
+            "E / B"
+        ],
+        [
+            "52",
+            "Hanoi",
+            "Vietnam",
+            "2355000",
+            "194",
+            "E / B"
+        ],
+        [
+            "53",
+            "Medan",
+            "Indonesia",
+            "2340000",
+            "246",
+            "E / B"
+        ],
+        [
+            "54",
+            "Jinan",
+            "China",
+            "2320000",
+            "350",
+            "E / B"
+        ],
+        [
+            "55",
+            "Changzhou",
+            "China",
+            "2275000",
+            "194",
+            "E / B"
+        ],
+        [
+            "56",
+            "Xiamen",
+            "China",
+            "2225000",
+            "295",
+            "E / B"
+        ],
+        [
+            "57",
+            "Shunde",
+            "China",
+            "2105000",
+            "401",
+            "E / B"
+        ],
+        [
+            "58",
+            "Baotou",
+            "China",
+            "2095000",
+            "363",
+            "E / B"
+        ],
+        [
+            "59",
+            "Jilin",
+            "China",
+            "2070000",
+            "233",
+            "E / B"
+        ],
+        [
+            "60",
+            "Hefei",
+            "China",
+            "2000000",
+            "350",
+            "E / B"
+        ],
+        [
+            "61",
+            "Kitaky\u016bsh\u016b",
+            "Japan",
+            "2000000",
+            "842",
+            "C / B"
+        ]
+    ]
+}

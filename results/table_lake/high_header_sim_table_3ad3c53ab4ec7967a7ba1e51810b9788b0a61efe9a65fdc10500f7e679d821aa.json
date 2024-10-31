@@ -1,0 +1,70 @@
+{
+    "id": "3ad3c53ab4ec7967a7ba1e51810b9788b0a61efe9a65fdc10500f7e679d821aa",
+    "metadata": "Longview, Texas | AM stations | AM stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Frequency_kHz",
+        "Call_letters",
+        "Licensed_location",
+        "Type_",
+        "Format"
+    ],
+    "cell": [
+        [
+            "600",
+            "KTBB",
+            "Tyler",
+            "Primary",
+            "News / Talk /Sports"
+        ],
+        [
+            "710",
+            "KEEL",
+            "Shreveport",
+            "Primary",
+            "News / Talk /Sports"
+        ],
+        [
+            "1130",
+            "KWKH",
+            "Shreveport",
+            "Primary",
+            "Sports"
+        ],
+        [
+            "1240",
+            "KDOK",
+            "Kilgore",
+            "Primary",
+            "Classic Hip-Hop and R&B"
+        ],
+        [
+            "1370",
+            "KFRO",
+            "Longview",
+            "Primary",
+            "Moody Bible Institute / Christian Talk"
+        ],
+        [
+            "1430",
+            "KEES",
+            "Gladewater",
+            "Primary",
+            "Black Gospel"
+        ],
+        [
+            "1450",
+            "KMHT",
+            "Marshall",
+            "Primary",
+            "ESPN Radio"
+        ],
+        [
+            "1470",
+            "KWRD",
+            "Henderson",
+            "Primary",
+            "Country"
+        ]
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "95311a40bdb8f244fbb61158d701bf91d1ca647e37882a2d07031942b24ae51e",
+    "metadata": "Inter-Cities Fairs Cup | Results by club | Results by club",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Wins",
+        "Runners_up",
+        "Years_won",
+        "Years_runner_up"
+    ],
+    "cell": [
+        [
+            "Barcelona",
+            "3",
+            "1",
+            "1958 , 1960 , 1966",
+            "1962"
+        ],
+        [
+            "Valencia",
+            "2",
+            "1",
+            "1962 , 1963",
+            "1964"
+        ],
+        [
+            "Leeds United",
+            "2",
+            "1",
+            "1968 , 1971",
+            "1967"
+        ],
+        [
+            "Real Zaragoza",
+            "1",
+            "1",
+            "1964",
+            "1966"
+        ],
+        [
+            "Ferencv\u00e1ros",
+            "1",
+            "1",
+            "1965",
+            "1968"
+        ],
+        [
+            "Dinamo Zagreb",
+            "1",
+            "1",
+            "1967",
+            "1963"
+        ],
+        [
+            "Roma",
+            "1",
+            "0",
+            "1961",
+            "-"
+        ],
+        [
+            "Newcastle United",
+            "1",
+            "0",
+            "1969",
+            "-"
+        ],
+        [
+            "Arsenal",
+            "1",
+            "0",
+            "1970",
+            "-"
+        ],
+        [
+            "Birmingham City",
+            "0",
+            "2",
+            "-",
+            "1960 , 1961"
+        ],
+        [
+            "Juventus",
+            "0",
+            "2",
+            "-",
+            "1965 , 1971"
+        ],
+        [
+            "London XI",
+            "0",
+            "1",
+            "-",
+            "1958"
+        ],
+        [
+            "\u00dajpest",
+            "0",
+            "1",
+            "-",
+            "1969"
+        ],
+        [
+            "Anderlecht",
+            "0",
+            "1",
+            "-",
+            "1970"
+        ]
+    ]
+}

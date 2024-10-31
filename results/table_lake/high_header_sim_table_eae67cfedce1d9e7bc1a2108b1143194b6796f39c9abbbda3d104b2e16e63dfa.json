@@ -1,0 +1,70 @@
+{
+    "id": "eae67cfedce1d9e7bc1a2108b1143194b6796f39c9abbbda3d104b2e16e63dfa",
+    "metadata": "1927 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "8.15 (63)",
+            "South Melbourne",
+            "7.13 (55)",
+            "Junction Oval",
+            "22000",
+            "14 May 1927"
+        ],
+        [
+            "Footscray",
+            "10.18 (78)",
+            "Hawthorn",
+            "7.10 (52)",
+            "Western Oval",
+            "11000",
+            "14 May 1927"
+        ],
+        [
+            "Collingwood",
+            "6.13 (49)",
+            "Richmond",
+            "7.13 (55)",
+            "Victoria Park",
+            "20000",
+            "14 May 1927"
+        ],
+        [
+            "Carlton",
+            "7.5 (47)",
+            "Essendon",
+            "4.12 (36)",
+            "Princes Park",
+            "27000",
+            "14 May 1927"
+        ],
+        [
+            "North Melbourne",
+            "8.5 (53)",
+            "Geelong",
+            "7.13 (55)",
+            "Arden Street Oval",
+            "20000",
+            "14 May 1927"
+        ],
+        [
+            "Melbourne",
+            "13.15 (93)",
+            "Fitzroy",
+            "8.11 (59)",
+            "MCG",
+            "14931",
+            "14 May 1927"
+        ]
+    ]
+}

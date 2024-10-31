@@ -1,0 +1,63 @@
+{
+    "id": "23fcaf0d04595c17e11acbe8cbc9cd796cce49945c760d08360e82510f83abdd",
+    "metadata": "2007 Buffalo Bills season | NFL Draft | NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick_",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "1",
+            "12",
+            "Marshawn Lynch",
+            "Running Back",
+            "California"
+        ],
+        [
+            "2",
+            "34",
+            "Paul Posluzny",
+            "Linebacker",
+            "Penn State"
+        ],
+        [
+            "3",
+            "92",
+            "Trent Edwards",
+            "Quarterback",
+            "Stanford"
+        ],
+        [
+            "4",
+            "111",
+            "Dwayne Wright",
+            "Running Back",
+            "Fresno State"
+        ],
+        [
+            "6",
+            "184",
+            "John Wendling",
+            "Safety",
+            "Wyoming"
+        ],
+        [
+            "7",
+            "222",
+            "Derek Schouman",
+            "Tight End",
+            "Boise State"
+        ],
+        [
+            "7",
+            "239",
+            "C. J. Ah You",
+            "Defensive End",
+            "Oklahoma"
+        ]
+    ]
+}

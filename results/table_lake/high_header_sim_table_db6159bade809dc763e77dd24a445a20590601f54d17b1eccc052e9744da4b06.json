@@ -1,0 +1,70 @@
+{
+    "id": "db6159bade809dc763e77dd24a445a20590601f54d17b1eccc052e9744da4b06",
+    "metadata": "1962 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "11.18 (84)",
+            "St Kilda",
+            "11.6 (72)",
+            "MCG",
+            "48952",
+            "23 June 1962"
+        ],
+        [
+            "Essendon",
+            "15.17 (107)",
+            "Geelong",
+            "10.7 (67)",
+            "Windy Hill",
+            "35000",
+            "23 June 1962"
+        ],
+        [
+            "Collingwood",
+            "10.14 (74)",
+            "Fitzroy",
+            "9.11 (65)",
+            "Victoria Park",
+            "26488",
+            "23 June 1962"
+        ],
+        [
+            "Carlton",
+            "12.9 (81)",
+            "Footscray",
+            "9.10 (64)",
+            "Princes Park",
+            "32400",
+            "23 June 1962"
+        ],
+        [
+            "South Melbourne",
+            "10.13 (73)",
+            "Richmond",
+            "11.13 (79)",
+            "Lake Oval",
+            "17000",
+            "23 June 1962"
+        ],
+        [
+            "North Melbourne",
+            "10.8 (68)",
+            "Hawthorn",
+            "10.7 (67)",
+            "Arden Street Oval",
+            "8470",
+            "23 June 1962"
+        ]
+    ]
+}

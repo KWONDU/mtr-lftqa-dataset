@@ -1,0 +1,95 @@
+{
+    "id": "999a7d5a440a96097bf5c43f3a327ab387909b891554d6390bdb5e3a4c96c67a",
+    "metadata": "1981 Open Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bill Rogers",
+            "United States",
+            "72-66-67-71=276",
+            "-4",
+            "25000"
+        ],
+        [
+            "2",
+            "Bernhard Langer",
+            "West Germany",
+            "73-67-70-70=280",
+            "E",
+            "17500"
+        ],
+        [
+            "T3",
+            "Raymond Floyd",
+            "United States",
+            "74-70-69-70=283",
+            "+3",
+            "11750"
+        ],
+        [
+            "T3",
+            "Mark James",
+            "England",
+            "72-70-68-73=283",
+            "+3",
+            "11750"
+        ],
+        [
+            "5",
+            "Sam Torrance",
+            "Scotland",
+            "72-69-73-70=284",
+            "+4",
+            "8500"
+        ],
+        [
+            "T6",
+            "Bruce Lietzke",
+            "United States",
+            "76-69-71-69=285",
+            "+5",
+            "7750"
+        ],
+        [
+            "T6",
+            "Manuel Pi\u00f1ero",
+            "Spain",
+            "73-74-68-70=285",
+            "+5",
+            "7750"
+        ],
+        [
+            "T8",
+            "Howard Clark",
+            "England",
+            "72-76-70-68=286",
+            "+6",
+            "6500"
+        ],
+        [
+            "T8",
+            "Ben Crenshaw",
+            "United States",
+            "72-67-76-71=286",
+            "+6",
+            "6500"
+        ],
+        [
+            "T8",
+            "Brian Jones",
+            "Australia",
+            "73-76-66-71=286",
+            "+6",
+            "6500"
+        ]
+    ]
+}

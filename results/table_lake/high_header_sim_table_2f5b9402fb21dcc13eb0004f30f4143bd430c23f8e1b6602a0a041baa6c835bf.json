@@ -1,0 +1,55 @@
+{
+    "id": "2f5b9402fb21dcc13eb0004f30f4143bd430c23f8e1b6602a0a041baa6c835bf",
+    "metadata": "Cyprus Davis Cup team | 1980s | 1980s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Date_",
+        "Location_",
+        "Score",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "1985",
+            "European Zone , 1st Round",
+            "10-12 May",
+            "Nicosia (CYP)",
+            "1-4",
+            "Loss"
+        ],
+        [
+            "1986",
+            "European Zone , 1st Round",
+            "9-11 May",
+            "Haskovo (BUL)",
+            "0-5",
+            "Loss"
+        ],
+        [
+            "1987",
+            "European Zone , 1st Round",
+            "8-10 May",
+            "Helsinki (FIN)",
+            "0-5",
+            "Loss"
+        ],
+        [
+            "1988",
+            "Europe Zone II , Quarterfinal",
+            "6-8 May",
+            "Cork (IRL)",
+            "0-5",
+            "Loss"
+        ],
+        [
+            "1989",
+            "Europe Zone II , 1st Round",
+            "7-9 Apr",
+            "Monte Carlo (MON)",
+            "0-5",
+            "Loss"
+        ]
+    ]
+}

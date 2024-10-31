@@ -1,0 +1,106 @@
+{
+    "id": "12808d7e98797ced5d4b25da6fbae35df27c8936229be1ecb60a51991434724f",
+    "metadata": "List of highest-grossing Bollywood films | Single day nett gross | Biggest single day gross",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Movie",
+        "Year_",
+        "Studios",
+        "Single_Day_Net_Gross",
+        "Day_in_Release",
+        "Day_of_Week"
+    ],
+    "cell": [
+        [
+            "1",
+            "Chennai Express",
+            "2013",
+            "Red Chillies Entertainment",
+            "331200000",
+            "Friday",
+            "1"
+        ],
+        [
+            "2",
+            "Ek Tha Tiger",
+            "2012",
+            "Yash Raj Films",
+            "329300000",
+            "Wednesday",
+            "1"
+        ],
+        [
+            "3",
+            "Chennai Express",
+            "2013",
+            "Red Chillies Entertainment",
+            "325000000",
+            "Sunday",
+            "3"
+        ],
+        [
+            "4",
+            "Chennai Express",
+            "2013",
+            "Red Chillies Entertainment",
+            "285000000",
+            "Saturday",
+            "2"
+        ],
+        [
+            "5",
+            "Dabangg 2",
+            "2012",
+            "Arbaaz Khan Productions",
+            "255000000",
+            "Sunday",
+            "3"
+        ],
+        [
+            "6",
+            "RaOne",
+            "2011",
+            "Red Chillies Entertainment",
+            "250000000",
+            "Friday",
+            "2"
+        ],
+        [
+            "7",
+            "Yeh Jawaani Hai Deewani",
+            "2013",
+            "Dharma Productions",
+            "226900000",
+            "Sunday",
+            "3"
+        ],
+        [
+            "8",
+            "Agneepath",
+            "2012",
+            "Dharma Productions",
+            "217200000",
+            "Thursday",
+            "1"
+        ],
+        [
+            "9",
+            "Bodyguard",
+            "2011",
+            "Reliance Entertainment",
+            "206600000",
+            "Wednesday",
+            "1"
+        ],
+        [
+            "10",
+            "Yeh Jawaani Hai Deewani",
+            "2013",
+            "Dharma Productions",
+            "205000000",
+            "Saturday",
+            "2"
+        ]
+    ]
+}

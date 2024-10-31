@@ -1,0 +1,71 @@
+{
+    "id": "80d6db4ea7395eb3076a280be2307b66bf27965589209de96d2e2a2750e6947d",
+    "metadata": "Dragons' Den (UK) | Series 11 | Series 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode",
+        "First_aired",
+        "Entrepreneurs",
+        "Company_or_product_name",
+        "Money_requested_",
+        "Investing_Dragons"
+    ],
+    "cell": [
+        [
+            "Episode 1",
+            "11 August 2013",
+            "Kate Cotton and Louise Ferguson",
+            "Skinny Tan",
+            "60000",
+            "Piers Linney and Kelly Hoppen"
+        ],
+        [
+            "Episode 1",
+            "11 August 2013",
+            "Ross Mendham",
+            "Bare Naked Foods",
+            "60000",
+            "Peter Jones"
+        ],
+        [
+            "Episode 2",
+            "18 August 2013",
+            "Donna Kerr-Foley",
+            "The Running Mat",
+            "50000",
+            "Deborah Meaden and Kelly Hoppen"
+        ],
+        [
+            "Episode 2",
+            "18 August 2013",
+            "Joe Walters",
+            "Original Jerky Name later changed to Texas Joe`s.",
+            "37,500 Received \u00a350,000.",
+            "Peter Jones"
+        ],
+        [
+            "Episode 3",
+            "25 August 2013",
+            "Richard Ernest",
+            "RemPods",
+            "100000",
+            "Deborah Meaden and Peter Jones"
+        ],
+        [
+            "Episode 4",
+            "1 September 2013",
+            "Cheryl and Michael MacDonald",
+            "YogaBellies",
+            "50000",
+            "Duncan Bannatyne"
+        ],
+        [
+            "Episode 6",
+            "15 September 2013",
+            "Chris and Tom Carson",
+            "Young Ones",
+            "75000",
+            "Duncan Bannatyne"
+        ]
+    ]
+}

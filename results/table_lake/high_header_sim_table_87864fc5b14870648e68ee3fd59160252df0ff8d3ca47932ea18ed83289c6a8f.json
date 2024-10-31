@@ -1,0 +1,56 @@
+{
+    "id": "87864fc5b14870648e68ee3fd59160252df0ff8d3ca47932ea18ed83289c6a8f",
+    "metadata": "Yuki Uchida | Albums | Albums",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Romaji_title",
+        "Japanese_title",
+        "Release_date",
+        "Reference",
+        "Oricon"
+    ],
+    "cell": [
+        [
+            "Junjou Karen Otome Moyou",
+            "\u7d14\u60c5\u53ef\u6190\u4e59\u5973\u6a21\u69d8",
+            "1995/02/08",
+            "KICS-470",
+            "1"
+        ],
+        [
+            "Mi-Chemin",
+            "Mi-Chemin",
+            "1995/09/21",
+            "KICS-510",
+            "3"
+        ],
+        [
+            "Merry Christmas For You",
+            "Merry Christmas For You",
+            "1995/11/22",
+            "KICS-530",
+            "19"
+        ],
+        [
+            "Ai no Baka",
+            "\u611b\u306e\u30d0\u30ab",
+            "1996/03/23",
+            "KICS-540",
+            "20"
+        ],
+        [
+            "nakitakunalu",
+            "\u6ce3\u304d\u305f\u304f\u306a\u308b",
+            "1996/10/10",
+            "KICS-600",
+            "18"
+        ],
+        [
+            "Present - Uchida Yuki Best Album",
+            "Present ~\u5185\u7530\u6709\u7d00 Best Album~",
+            "1997/12/03",
+            "KICS-630",
+            "33"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "60e642a47a82f964e2252c41efe967091b59224c300f1d3c3cc2a1cd42c29fed",
+    "metadata": "Sarazen World Open | Winners | Winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Winner",
+        "Country",
+        "Purse_",
+        "Score",
+        "First_Prize_"
+    ],
+    "cell": [
+        [
+            "1999",
+            "Thomas Bj\u00f8rn",
+            "Denmark",
+            "600000",
+            "273 (-15)",
+            "100000"
+        ],
+        [
+            "1998",
+            "Dudley Hart",
+            "United States",
+            "2000000",
+            "272 (-16)",
+            "360000"
+        ],
+        [
+            "1997",
+            "Mark Calcavecchia",
+            "United States",
+            "2000000",
+            "271 (-17)",
+            "360000"
+        ],
+        [
+            "1996",
+            "Frank Nobilo",
+            "New Zealand",
+            "1900000",
+            "272 (-16)",
+            "342000"
+        ],
+        [
+            "1995",
+            "Frank Nobilo",
+            "New Zealand",
+            "1900000",
+            "216 (-8)",
+            "350000"
+        ],
+        [
+            "1994",
+            "Ernie Els",
+            "South Africa",
+            "1900000",
+            "273 (-15)",
+            "350000"
+        ]
+    ]
+}

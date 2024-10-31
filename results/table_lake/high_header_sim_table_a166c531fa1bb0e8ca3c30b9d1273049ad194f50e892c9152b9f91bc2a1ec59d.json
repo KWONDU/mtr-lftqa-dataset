@@ -1,0 +1,87 @@
+{
+    "id": "a166c531fa1bb0e8ca3c30b9d1273049ad194f50e892c9152b9f91bc2a1ec59d",
+    "metadata": "United States House of Representatives elections, 1924 | Georgia | Georgia",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Georgia 2",
+            "Frank Park",
+            "Democratic",
+            "1912",
+            "Lost renomination Democratic hold",
+            "Edward E. Cox (D) Unopposed"
+        ],
+        [
+            "Georgia 3",
+            "Charles R. Crisp",
+            "Democratic",
+            "1912",
+            "Re-elected",
+            "Charles R. Crisp (D) Unopposed"
+        ],
+        [
+            "Georgia 4",
+            "William C. Wright",
+            "Democratic",
+            "1918",
+            "Re-elected",
+            "William C. Wright (D) Unopposed"
+        ],
+        [
+            "Georgia 5",
+            "William D. Upshaw",
+            "Democratic",
+            "1918",
+            "Re-elected",
+            "William D. Upshaw (D) Unopposed"
+        ],
+        [
+            "Georgia 6",
+            "James W. Wise",
+            "Democratic",
+            "1914",
+            "Retired Democratic hold",
+            "Samuel Rutherford (D) Unopposed"
+        ],
+        [
+            "Georgia 7",
+            "Gordon Lee",
+            "Democratic",
+            "1904",
+            "Re-elected",
+            "Gordon Lee (D) 99.9% A. T. Atwater (I) 0.1%"
+        ],
+        [
+            "Georgia 8",
+            "Charles H. Brand",
+            "Democratic",
+            "1916",
+            "Re-elected",
+            "Charles H. Brand (D) Unopposed"
+        ],
+        [
+            "Georgia 10",
+            "Carl Vinson",
+            "Democratic",
+            "1914",
+            "Re-elected",
+            "Carl Vinson (D) Unopposed"
+        ],
+        [
+            "Georgia 11",
+            "William C. Lankford",
+            "Democratic",
+            "1918",
+            "Re-elected",
+            "William C. Lankford (D) Unopposed"
+        ]
+    ]
+}

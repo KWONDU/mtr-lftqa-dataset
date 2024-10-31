@@ -1,0 +1,137 @@
+{
+    "id": "d87c1b5e79adc439ee1c52852904fc883f2836ce3e653c9d541077835612353a",
+    "metadata": "2007 Nebraska Cornhuskers football team | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_",
+        "Opponent_",
+        "Rank_",
+        "Site",
+        "TV",
+        "Result_",
+        "Attendance_"
+    ],
+    "cell": [
+        [
+            "September 1",
+            "2:30 PM",
+            "Nevada*",
+            "#19",
+            "Memorial Stadium \u2022 Lincoln, NE",
+            "ABC",
+            "W 52-10",
+            "84078"
+        ],
+        [
+            "September 8",
+            "11:00 AM",
+            "at Wake Forest*",
+            "#17",
+            "BB&T Field \u2022 Winston-Salem, NC",
+            "ESPN",
+            "W 20-17",
+            "32483"
+        ],
+        [
+            "September 15",
+            "7:00 PM",
+            "#1 USC*",
+            "#14",
+            "Memorial Stadium \u2022 Lincoln, NE",
+            "ABC",
+            "L 31-49",
+            "84959"
+        ],
+        [
+            "September 22",
+            "11:30 AM",
+            "Ball State*",
+            "#22",
+            "Memorial Stadium \u2022 Lincoln, NE",
+            "FSN PPV",
+            "W 41-40",
+            "84294"
+        ],
+        [
+            "September 29",
+            "1:05 PM",
+            "Iowa State",
+            "#22",
+            "Memorial Stadium \u2022 Lincoln, NE",
+            "",
+            "W 35-17",
+            "84703"
+        ],
+        [
+            "October 6",
+            "8:15 PM",
+            "at #17 Missouri",
+            "#23",
+            "Faurot Field \u2022 Columbia, MO (Rivalry)",
+            "ESPN",
+            "L 6-41",
+            "70049"
+        ],
+        [
+            "October 13",
+            "11:30 AM",
+            "Oklahoma State",
+            "",
+            "Memorial Stadium \u2022 Lincoln, NE",
+            "PPV",
+            "L 14-45",
+            "84334"
+        ],
+        [
+            "October 20",
+            "1:05 PM",
+            "Texas A&M",
+            "",
+            "Memorial Stadium \u2022 Lincoln, NE",
+            "",
+            "L 14-36",
+            "84473"
+        ],
+        [
+            "October 27",
+            "2:30 PM",
+            "at #16 Texas",
+            "",
+            "Darrell K Royal-Texas Memorial Stadium \u2022 Austin, TX",
+            "ABC",
+            "L 25-28",
+            "85968"
+        ],
+        [
+            "November 3",
+            "11:30 AM",
+            "at #8 Kansas",
+            "",
+            "Memorial Stadium \u2022 Lawrence, KS",
+            "FSN",
+            "L 39-76",
+            "51910"
+        ],
+        [
+            "November 10",
+            "11:30 AM",
+            "Kansas State",
+            "",
+            "Memorial Stadium \u2022 Lincoln, NE",
+            "Versus",
+            "W 73-31",
+            "84665"
+        ],
+        [
+            "November 23",
+            "11:00 AM",
+            "at Colorado",
+            "",
+            "Folsom Field \u2022 Boulder, CO (Rivalry)",
+            "ABC",
+            "L 51-65",
+            "51403"
+        ]
+    ]
+}

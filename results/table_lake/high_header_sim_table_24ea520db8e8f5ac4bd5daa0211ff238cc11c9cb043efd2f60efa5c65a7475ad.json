@@ -1,0 +1,77 @@
+{
+    "id": "24ea520db8e8f5ac4bd5daa0211ff238cc11c9cb043efd2f60efa5c65a7475ad",
+    "metadata": "United States House of Representatives elections, 2006 | Missouri | Missouri",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results"
+    ],
+    "cell": [
+        [
+            "Missouri 1",
+            "William Lacy Clay Jr.",
+            "Democratic",
+            "2000",
+            "Re-elected"
+        ],
+        [
+            "Missouri 2",
+            "Todd Akin",
+            "Republican",
+            "2000",
+            "Re-elected"
+        ],
+        [
+            "Missouri 3",
+            "Russ Carnahan",
+            "Democratic",
+            "2004",
+            "Re-elected"
+        ],
+        [
+            "Missouri 4",
+            "Ike Skelton",
+            "Democratic",
+            "1976",
+            "Re-elected"
+        ],
+        [
+            "Missouri 5",
+            "Emanuel Cleaver",
+            "Democratic",
+            "2004",
+            "Re-elected"
+        ],
+        [
+            "Missouri 6",
+            "Sam Graves",
+            "Republican",
+            "2000",
+            "Re-elected"
+        ],
+        [
+            "Missouri 7",
+            "Roy Blunt",
+            "Republican",
+            "1996",
+            "Re-elected"
+        ],
+        [
+            "Missouri 8",
+            "Jo Ann Emerson",
+            "Republican",
+            "1996",
+            "Re-elected"
+        ],
+        [
+            "Missouri 9",
+            "Kenny Hulshof",
+            "Republican",
+            "1996",
+            "Re-elected"
+        ]
+    ]
+}

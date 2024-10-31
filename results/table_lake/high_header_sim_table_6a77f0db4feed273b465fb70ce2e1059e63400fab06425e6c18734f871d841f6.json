@@ -1,0 +1,70 @@
+{
+    "id": "6a77f0db4feed273b465fb70ce2e1059e63400fab06425e6c18734f871d841f6",
+    "metadata": "1934 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "12.14 (86)",
+            "Melbourne",
+            "6.11 (47)",
+            "Corio Oval",
+            "13000",
+            "19 May 1934"
+        ],
+        [
+            "Fitzroy",
+            "11.14 (80)",
+            "St Kilda",
+            "13.15 (93)",
+            "Brunswick Street Oval",
+            "19000",
+            "19 May 1934"
+        ],
+        [
+            "North Melbourne",
+            "8.14 (62)",
+            "Footscray",
+            "10.17 (77)",
+            "Arden Street Oval",
+            "17000",
+            "19 May 1934"
+        ],
+        [
+            "South Melbourne",
+            "23.10 (148)",
+            "Essendon",
+            "15.16 (106)",
+            "Lake Oval",
+            "20000",
+            "19 May 1934"
+        ],
+        [
+            "Hawthorn",
+            "9.8 (62)",
+            "Collingwood",
+            "19.15 (129)",
+            "Glenferrie Oval",
+            "8000",
+            "19 May 1934"
+        ],
+        [
+            "Richmond",
+            "14.20 (104)",
+            "Carlton",
+            "9.13 (67)",
+            "Punt Road Oval",
+            "37000",
+            "19 May 1934"
+        ]
+    ]
+}

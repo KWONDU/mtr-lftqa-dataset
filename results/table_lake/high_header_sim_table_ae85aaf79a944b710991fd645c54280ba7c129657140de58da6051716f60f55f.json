@@ -1,0 +1,73 @@
+{
+    "id": "ae85aaf79a944b710991fd645c54280ba7c129657140de58da6051716f60f55f",
+    "metadata": "2008 Atlanta Dream season | Regular season | September",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "30",
+            "September 2",
+            "Seattle",
+            "69-83",
+            "Lennox (25)",
+            "DeSouza (8)",
+            "Latta (4)",
+            "Philips Arena 7,390",
+            "3-27"
+        ],
+        [
+            "31",
+            "September 5",
+            "@ New York",
+            "71-82",
+            "Lennox (28)",
+            "Lennox (7)",
+            "Castro Marques (4)",
+            "Madison Square Garden 7,039",
+            "3-28"
+        ],
+        [
+            "32",
+            "September 8",
+            "Indiana",
+            "77-81",
+            "Lennox (19)",
+            "Bales (9)",
+            "Castro Marques (6)",
+            "Philips Arena 7,706",
+            "3-29"
+        ],
+        [
+            "33",
+            "September 11",
+            "@ Los Angeles",
+            "83-72",
+            "Castro Marques (23)",
+            "Bales (9)",
+            "Latta (10)",
+            "Staples Center 9,060",
+            "4-29"
+        ],
+        [
+            "34",
+            "September 12",
+            "@ Seattle",
+            "72-77",
+            "Young (20)",
+            "Feenstra , Haynie , Terry (5)",
+            "Latta (4)",
+            "KeyArena 9,686",
+            "4-30"
+        ]
+    ]
+}

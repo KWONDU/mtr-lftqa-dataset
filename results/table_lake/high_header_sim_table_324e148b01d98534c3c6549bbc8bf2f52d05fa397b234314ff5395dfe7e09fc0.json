@@ -1,0 +1,124 @@
+{
+    "id": "324e148b01d98534c3c6549bbc8bf2f52d05fa397b234314ff5395dfe7e09fc0",
+    "metadata": "Economy of Europe | Cities by GDP | Cities by GDP",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "City",
+        "State_",
+        "GDP_in_ID_B",
+        "Population_M_LUZ",
+        "GDP_per_capita_ID_K",
+        "Eurozone"
+    ],
+    "cell": [
+        [
+            "1",
+            "Paris",
+            "France",
+            "$ 731",
+            "11.5",
+            "$ 62.4",
+            "Y"
+        ],
+        [
+            "2",
+            "London",
+            "United Kingdom",
+            "$ 565",
+            "11.9",
+            "$ 49.4",
+            "N"
+        ],
+        [
+            "3",
+            "Moscow",
+            "Russia",
+            "$ 321",
+            "10.5",
+            "$ 30.6",
+            "N"
+        ],
+        [
+            "4",
+            "Madrid",
+            "Spain",
+            "$ 230",
+            "5.80",
+            "$ 39.7",
+            "Y"
+        ],
+        [
+            "5",
+            "Istanbul",
+            "Turkey",
+            "$ 187",
+            "13.2",
+            "$ 14.2",
+            "N"
+        ],
+        [
+            "6",
+            "Barcelona",
+            "Spain",
+            "$ 177",
+            "4.97",
+            "$ 35.6",
+            "Y"
+        ],
+        [
+            "7",
+            "Rome",
+            "Italy",
+            "$ 144",
+            "3.46",
+            "$ 41.6",
+            "Y"
+        ],
+        [
+            "8",
+            "Milan",
+            "Italy",
+            "$ 136",
+            "3.08",
+            "$ 44.2",
+            "Y"
+        ],
+        [
+            "9",
+            "Vienna",
+            "Austria",
+            "$ 122",
+            "2.18",
+            "$ 56.0",
+            "Y"
+        ],
+        [
+            "10",
+            "Lisbon",
+            "Portugal",
+            "$ 98",
+            "2.44",
+            "$ 40.2",
+            "Y"
+        ],
+        [
+            "11",
+            "Athens",
+            "Greece",
+            "$ 96",
+            "4.01",
+            "$ 23.9",
+            "Y"
+        ],
+        [
+            "12",
+            "Berlin",
+            "Germany",
+            "$ 95",
+            "4.97",
+            "$ 19.1",
+            "Y"
+        ]
+    ]
+}

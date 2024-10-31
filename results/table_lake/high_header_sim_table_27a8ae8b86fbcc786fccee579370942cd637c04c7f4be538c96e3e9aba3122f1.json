@@ -1,0 +1,106 @@
+{
+    "id": "27a8ae8b86fbcc786fccee579370942cd637c04c7f4be538c96e3e9aba3122f1",
+    "metadata": "Districts of Barcelona | Districts and neighbourhoods of Barcelona | Districts and neighbourhoods of Barcelona",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Number_",
+        "District",
+        "Size_km\u00b2",
+        "Population",
+        "Density_hab_km",
+        "Councilman",
+        "Party"
+    ],
+    "cell": [
+        [
+            "1",
+            "Ciutat Vella",
+            "4.49",
+            "111290",
+            "24786",
+            "Carles Mart\u00ed i Jufresa",
+            "CiU"
+        ],
+        [
+            "2",
+            "Eixample",
+            "7.46",
+            "262485",
+            "35586",
+            "Assumpta Escarp i Gibert",
+            "C iU"
+        ],
+        [
+            "3",
+            "Sants-Montju\u00efc",
+            "21.35",
+            "177636",
+            "8321",
+            "Immaculada Moraleda i P\u00e9rez",
+            "CiU"
+        ],
+        [
+            "4",
+            "Les Corts",
+            "6.08",
+            "82588",
+            "13584",
+            "Montserrat Ballar\u00edn i Espu\u00f1a",
+            "CiU"
+        ],
+        [
+            "5",
+            "Sarri\u00e0-Sant Gervasi",
+            "20.09",
+            "140461",
+            "6992",
+            "Katty Carreras-Moysi",
+            "CiU"
+        ],
+        [
+            "6",
+            "Gr\u00e0cia",
+            "4.19",
+            "120087",
+            "28660",
+            "Ricard Mart\u00ednez i Monteagudo",
+            "CiU"
+        ],
+        [
+            "7",
+            "Horta-Guinard\u00f3",
+            "11.96",
+            "169920",
+            "14217",
+            "Elsa Blasco i Riera",
+            "CiU"
+        ],
+        [
+            "8",
+            "Nou Barris",
+            "8.04",
+            "164981",
+            "20520",
+            "Carmen Andr\u00e9s A\u00f1\u00f3n",
+            "C iU"
+        ],
+        [
+            "9",
+            "Sant Andreu",
+            "6.56",
+            "142598",
+            "21737",
+            "Sara Jaurrieta",
+            "CiU"
+        ],
+        [
+            "10",
+            "Sant Mart\u00ed",
+            "10.80",
+            "221029",
+            "20466",
+            "Francesc Narv\u00e1ez",
+            "CiU"
+        ]
+    ]
+}

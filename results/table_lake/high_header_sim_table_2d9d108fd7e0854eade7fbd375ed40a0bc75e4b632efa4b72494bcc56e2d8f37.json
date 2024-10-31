@@ -1,0 +1,231 @@
+{
+    "id": "2d9d108fd7e0854eade7fbd375ed40a0bc75e4b632efa4b72494bcc56e2d8f37",
+    "metadata": "1998 Toronto Blue Jays season | Game log | April",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "April 1",
+            "Twins",
+            "3 - 2",
+            "Tewksbury (0-1)",
+            "41387",
+            "1-0"
+        ],
+        [
+            "April 2",
+            "Twins",
+            "3 - 2",
+            "Escobar (0-1)",
+            "25584",
+            "1-1"
+        ],
+        [
+            "April 3",
+            "Rangers",
+            "5 - 0",
+            "Guzm\u00e1n (0-1)",
+            "25509",
+            "1-2"
+        ],
+        [
+            "April 4",
+            "Rangers",
+            "9 - 2",
+            "Oliver (0-1)",
+            "30156",
+            "2-2"
+        ],
+        [
+            "April 5",
+            "Rangers",
+            "6 - 5",
+            "Risley (0-1)",
+            "28106",
+            "2-3"
+        ],
+        [
+            "April 7",
+            "@ Twins",
+            "12 - 2",
+            "Clemens (1-1)",
+            "8421",
+            "2-4"
+        ],
+        [
+            "April 8",
+            "@ Twins",
+            "9 - 6",
+            "Hawkins (0-1)",
+            "8532",
+            "3-4"
+        ],
+        [
+            "April 9",
+            "@ Twins",
+            "13 - 2",
+            "Guzm\u00e1n (0-2)",
+            "9075",
+            "3-5"
+        ],
+        [
+            "April 10",
+            "@ Rangers",
+            "4 - 3",
+            "Plesac (0-1)",
+            "32314",
+            "3-6"
+        ],
+        [
+            "April 11",
+            "@ Rangers",
+            "9 - 8",
+            "Oliver (0-2)",
+            "37520",
+            "4-6"
+        ],
+        [
+            "April 12",
+            "@ Rangers",
+            "3 - 1",
+            "Quantrill (0-1)",
+            "28435",
+            "4-7"
+        ],
+        [
+            "April 13",
+            "@ Royals",
+            "11 - 1",
+            "Hentgen (1-1)",
+            "11749",
+            "4-8"
+        ],
+        [
+            "April 14",
+            "@ Royals",
+            "5 - 1",
+            "Rapp (0-1)",
+            "11194",
+            "5-8"
+        ],
+        [
+            "April 15",
+            "@ Royals",
+            "7 - 3",
+            "Williams (1-1)",
+            "11316",
+            "5-9"
+        ],
+        [
+            "April 17",
+            "White Sox",
+            "6 - 1",
+            "Bere (0-3)",
+            "28240",
+            "6-9"
+        ],
+        [
+            "April 18",
+            "White Sox",
+            "9 - 4",
+            "Navarro (1-2)",
+            "29065",
+            "7-9"
+        ],
+        [
+            "April 19",
+            "White Sox",
+            "5 - 4 (12)",
+            "Castillo (0-1)",
+            "31265",
+            "8-9"
+        ],
+        [
+            "April 20",
+            "Yankees",
+            "3 - 2 (11)",
+            "Risley (0-2)",
+            "26385",
+            "8-10"
+        ],
+        [
+            "April 21",
+            "Yankees",
+            "5 - 3 (10)",
+            "Plesac (0-2)",
+            "27192",
+            "8-11"
+        ],
+        [
+            "April 22",
+            "Yankees",
+            "9 - 1",
+            "Clemens (2-2)",
+            "29164",
+            "8-12"
+        ],
+        [
+            "April 24",
+            "@ White Sox",
+            "3 - 1",
+            "Navarro (1-3)",
+            "14198",
+            "9-12"
+        ],
+        [
+            "April 25",
+            "@ White Sox",
+            "8 - 1",
+            "Guzm\u00e1n (1-3)",
+            "14457",
+            "9-13"
+        ],
+        [
+            "April 26",
+            "@ White Sox",
+            "5 - 5 (6)",
+            "Postponed (rain) Rescheduled for July 15",
+            "13705",
+            "9-13"
+        ],
+        [
+            "April 27",
+            "@ Yankees",
+            "1 - 0",
+            "Clemens (2-3)",
+            "17863",
+            "9-14"
+        ],
+        [
+            "April 28",
+            "@ Yankees",
+            "5 - 2",
+            "Mendoza (0-1)",
+            "18727",
+            "10-14"
+        ],
+        [
+            "April 29",
+            "Royals",
+            "7 - 2",
+            "Hentgen (3-2)",
+            "25644",
+            "10-15"
+        ],
+        [
+            "April 30",
+            "Royals",
+            "7 - 4",
+            "Guzm\u00e1n (1-4)",
+            "26690",
+            "10-16"
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "7cc3a177ffa0ca1d6349a7bdbf45925df9d1b84c773d191923d8696656f784bf",
+    "metadata": "1889 Kentucky Derby | Full results | Full results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Finished",
+        "Horse",
+        "Jockey",
+        "Trainer",
+        "Owner_",
+        "Time_behind_"
+    ],
+    "cell": [
+        [
+            "1st",
+            "Spokane",
+            "Tom Kiley",
+            "John Rodegap",
+            "Noah Armstrong",
+            "2:34.50"
+        ],
+        [
+            "2nd",
+            "Proctor Knott",
+            "S. Barnes",
+            "",
+            "Scoggan & Bryant",
+            "Nose"
+        ],
+        [
+            "3rd",
+            "Once Again",
+            "Isaac Murphy",
+            "",
+            "Milton Young",
+            "2"
+        ],
+        [
+            "4th",
+            "Hindoocraft",
+            "Armstrong",
+            "",
+            "Scoggan Bros.",
+            "1"
+        ],
+        [
+            "5th",
+            "Cassius",
+            "F. Taral",
+            "",
+            "Beverwyck Stable",
+            "1"
+        ],
+        [
+            "6th",
+            "Sportsman",
+            "I. Lewis",
+            "",
+            "J.K. Megibben & Co.",
+            "1/2"
+        ],
+        [
+            "7th",
+            "Outbound",
+            "Hollis",
+            "",
+            "Fleetwood Stable",
+            ""
+        ],
+        [
+            "8th",
+            "Bootmaker",
+            "Warwick",
+            "",
+            "Wilson & Young",
+            ""
+        ]
+    ]
+}

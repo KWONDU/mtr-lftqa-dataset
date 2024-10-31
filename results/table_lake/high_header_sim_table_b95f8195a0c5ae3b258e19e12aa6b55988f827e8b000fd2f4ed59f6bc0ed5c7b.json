@@ -1,0 +1,63 @@
+{
+    "id": "b95f8195a0c5ae3b258e19e12aa6b55988f827e8b000fd2f4ed59f6bc0ed5c7b",
+    "metadata": "European Poker Tour | EPT Main Event winners | Season 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "City",
+        "Event",
+        "Winner",
+        "Prize"
+    ],
+    "cell": [
+        [
+            "16-17 September 2005",
+            "Barcelona",
+            "Barcelona Open 2005",
+            "Jan Boubli",
+            "\u20ac416,000"
+        ],
+        [
+            "30 Sep-2 Oct 2005",
+            "London",
+            "The Grosvenor World Masters",
+            "Mark Teltscher",
+            "\u00a3280,000"
+        ],
+        [
+            "4-6 October 2005",
+            "Baden",
+            "Poker EM/EPT Baden Classic",
+            "Patrik Antonius",
+            "\u20ac288,180"
+        ],
+        [
+            "29-30 October 2005",
+            "Dublin",
+            "The Irish Winter Festival of Poker 2005",
+            "Mats Gavatin",
+            "\u20ac317,000"
+        ],
+        [
+            "19-22 January 2006",
+            "Copenhagen",
+            "EPT Scandinavian Open",
+            "Mads Andersen",
+            "kr2,548,040"
+        ],
+        [
+            "8-11 February 2006",
+            "Deauville",
+            "EPT French Open",
+            "Mats Iremark",
+            "\u20ac480,000"
+        ],
+        [
+            "7-11 March 2006",
+            "Monte Carlo",
+            "European Poker Tour Grand Final",
+            "Jeff Williams",
+            "\u20ac900,000"
+        ]
+    ]
+}

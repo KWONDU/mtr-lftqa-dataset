@@ -1,0 +1,112 @@
+{
+    "id": "dd9ee26ecd4bcc32ba85e2a41da6b0969867724ec8fe4d9cf7e95a43c7578e02",
+    "metadata": "List of cities by latitude | List | List of cities by latitude",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Latitude",
+        "Longitude",
+        "City",
+        "State_",
+        "Country"
+    ],
+    "cell": [
+        [
+            "79\u00b059\u2032N",
+            "85\u00b056\u2032W",
+            "Eureka",
+            "Nunavut",
+            "Canada"
+        ],
+        [
+            "78\u00b055\u2032N",
+            "11\u00b056\u2032E",
+            "Ny-\u00c5lesund",
+            "Svalbard",
+            "Norway"
+        ],
+        [
+            "78\u00b013\u2032N",
+            "15\u00b039\u2032E",
+            "Longyearbyen",
+            "Svalbard",
+            "Norway"
+        ],
+        [
+            "77\u00b028\u2032N",
+            "69\u00b014\u2032W",
+            "Qaanaaq",
+            "Greenland",
+            "Denmark"
+        ],
+        [
+            "76\u00b025\u2032N",
+            "82\u00b054\u2032W",
+            "Grise Fiord",
+            "Nunavut",
+            "Canada"
+        ],
+        [
+            "73\u00b030`N",
+            "80\u00b031`E",
+            "Dikson",
+            "Krasnoyarsk Krai",
+            "Russia"
+        ],
+        [
+            "72\u00b047`N",
+            "56\u00b009`W",
+            "Upernavik",
+            "Greenland",
+            "Denmark"
+        ],
+        [
+            "71\u00b039`N",
+            "128\u00b052`E",
+            "Tiksi",
+            "Sakha Republic",
+            "Russia"
+        ],
+        [
+            "71\u00b018\u2032N",
+            "156\u00b046\u2032W",
+            "Barrow",
+            "Alaska",
+            "United States"
+        ],
+        [
+            "70\u00b059`N",
+            "25\u00b059`E",
+            "Honningsv\u00e5g",
+            "Finnmark",
+            "Norway"
+        ],
+        [
+            "70\u00b040\u2032N",
+            "23\u00b041\u2032E",
+            "Hammerfest",
+            "Finnmark",
+            "Norway"
+        ],
+        [
+            "70\u00b012\u2032N",
+            "148\u00b031\u2032W",
+            "Deadhorse",
+            "Alaska",
+            "United States"
+        ],
+        [
+            "70\u00b005\u2032N",
+            "27\u00b053\u2032E",
+            "Nuorgam",
+            "Lapland",
+            "Finland"
+        ],
+        [
+            "70\u00b005\u2032N",
+            "29\u00b044\u2032E",
+            "Vads\u00f8",
+            "Finnmark",
+            "Norway"
+        ]
+    ]
+}

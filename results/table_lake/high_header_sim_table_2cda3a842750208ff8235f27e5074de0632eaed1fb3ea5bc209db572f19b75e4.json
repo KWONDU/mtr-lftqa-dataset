@@ -1,0 +1,49 @@
+{
+    "id": "2cda3a842750208ff8235f27e5074de0632eaed1fb3ea5bc209db572f19b75e4",
+    "metadata": "1968 Buffalo Bills season | Preseason | Preseason",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Result_",
+        "Record"
+    ],
+    "cell": [
+        [
+            "August 5",
+            "Detroit Lions",
+            "13-9",
+            "Win",
+            "1-0"
+        ],
+        [
+            "August 11",
+            "Miami Dolphins",
+            "28-28",
+            "Tie",
+            "1-0-1"
+        ],
+        [
+            "August 17",
+            "Cincinnati Bengals",
+            "10-6",
+            "Loss",
+            "1-1-1"
+        ],
+        [
+            "August 23",
+            "Houston Oilers",
+            "37-7",
+            "Loss",
+            "1-2-1"
+        ],
+        [
+            "August 30",
+            "Cleveland Browns",
+            "22-12",
+            "Loss",
+            "1-3-1"
+        ]
+    ]
+}

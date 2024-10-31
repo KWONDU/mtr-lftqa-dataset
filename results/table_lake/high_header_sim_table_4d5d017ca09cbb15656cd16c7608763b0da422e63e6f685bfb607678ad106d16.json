@@ -1,0 +1,55 @@
+{
+    "id": "4d5d017ca09cbb15656cd16c7608763b0da422e63e6f685bfb607678ad106d16",
+    "metadata": "WYFK | Translators | Translators",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "W230AV",
+            "93.9 FM",
+            "Gadsden, Alabama",
+            "10",
+            "D",
+            "FCC"
+        ],
+        [
+            "W269AX",
+            "101.7 FM",
+            "Anniston, Alabama",
+            "10",
+            "D",
+            "FCC"
+        ],
+        [
+            "W273AE",
+            "102.5 FM",
+            "Albany, Georgia",
+            "55",
+            "D",
+            "FCC"
+        ],
+        [
+            "W282AE",
+            "104.3 FM",
+            "Macon, Georgia",
+            "27",
+            "D",
+            "FCC"
+        ],
+        [
+            "W290AG",
+            "105.9 FM",
+            "Griffin, Georgia",
+            "27",
+            "D",
+            "FCC"
+        ]
+    ]
+}

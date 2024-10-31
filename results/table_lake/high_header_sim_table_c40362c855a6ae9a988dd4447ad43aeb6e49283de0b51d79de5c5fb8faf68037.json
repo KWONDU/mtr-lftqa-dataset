@@ -1,0 +1,63 @@
+{
+    "id": "c40362c855a6ae9a988dd4447ad43aeb6e49283de0b51d79de5c5fb8faf68037",
+    "metadata": "PDC World Darts Championship | Records and statistics | Nine-dart finishes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Year_",
+        "Round",
+        "Result_",
+        "Opponent_"
+    ],
+    "cell": [
+        [
+            "Raymond van Barneveld",
+            "2009",
+            "Quarter-Final",
+            "Won",
+            "Jelle Klaasen"
+        ],
+        [
+            "Raymond van Barneveld",
+            "2010",
+            "2nd Round",
+            "Won",
+            "Brendan Dolan"
+        ],
+        [
+            "Adrian Lewis",
+            "2011",
+            "Final",
+            "Won",
+            "Gary Anderson"
+        ],
+        [
+            "Dean Winstanley",
+            "2013",
+            "2nd Round",
+            "Lost",
+            "Vincent van der Voort"
+        ],
+        [
+            "Michael van Gerwen",
+            "2013",
+            "Semi Final",
+            "Won",
+            "James Wade"
+        ],
+        [
+            "Terry Jenkins",
+            "2014",
+            "1st Round",
+            "Lost",
+            "Per Laursen"
+        ],
+        [
+            "Kyle Anderson",
+            "2014",
+            "1st Round",
+            "Lost",
+            "Ian White"
+        ]
+    ]
+}

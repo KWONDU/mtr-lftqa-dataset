@@ -1,0 +1,61 @@
+{
+    "id": "4df1cbb58df5b257598c1ac17018f0d1a66e38ceea4fe2c49b859e0206b4c1b6",
+    "metadata": "Chicago Hope | Nielsen ratings | Nielsen ratings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Timeslot_Times_listed_are_Eastern_time",
+        "Season_premiere",
+        "Season_finale",
+        "TV_season",
+        "Ranking",
+        "Viewers_in_millions_of_households"
+    ],
+    "cell": [
+        [
+            "1st",
+            "Thursday, 10:00 p.m.",
+            "September 18, 1994",
+            "May 22, 1995",
+            "1994-1995",
+            "29",
+            "11.2"
+        ],
+        [
+            "2nd",
+            "Monday 10:00 p.m.",
+            "September 18, 1995",
+            "May 20, 1996",
+            "1995-1996",
+            "24",
+            "11.4"
+        ],
+        [
+            "3rd",
+            "Monday 10:00 p.m.",
+            "September 16, 1996",
+            "May 19, 1997",
+            "1996-1997",
+            "30",
+            "10.2"
+        ],
+        [
+            "4th",
+            "Wednesday 10:00 p.m.",
+            "October 1, 1997",
+            "May 13, 1998",
+            "1997-1998",
+            "39",
+            "8.9"
+        ],
+        [
+            "5th",
+            "Wednesday 10:00 p.m.",
+            "September 30, 1998",
+            "May 19, 1999",
+            "1998-1999",
+            "73",
+            "9.9"
+        ]
+    ]
+}

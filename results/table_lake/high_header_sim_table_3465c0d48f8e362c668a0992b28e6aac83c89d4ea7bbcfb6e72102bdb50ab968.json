@@ -1,0 +1,56 @@
+{
+    "id": "3465c0d48f8e362c668a0992b28e6aac83c89d4ea7bbcfb6e72102bdb50ab968",
+    "metadata": "Northumberland County, New Brunswick | First Nations | First Nations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Official_Name",
+        "Status_",
+        "Area_km_2",
+        "Population",
+        "Census_Ranking"
+    ],
+    "cell": [
+        [
+            "Burnt Church 14",
+            "Reservation",
+            "9.54",
+            "1046",
+            "2,022 of 5,008"
+        ],
+        [
+            "Eel Ground 2",
+            "Reservation",
+            "10.90",
+            "448",
+            "3,166 of 5,008"
+        ],
+        [
+            "Red Bank 4",
+            "Reservation",
+            "16.18",
+            "352",
+            "3,455 of 5,008"
+        ],
+        [
+            "Big Hole Tract 8 (South)",
+            "Reservation",
+            "27.82",
+            "34",
+            "4,674 of 5,008"
+        ],
+        [
+            "Tabusintac 9",
+            "Reservation",
+            "22.00",
+            "10",
+            "4,807 of 5,008"
+        ],
+        [
+            "Red Bank 7",
+            "Reservation",
+            "10.16",
+            "0",
+            "5,008 of 5,008"
+        ]
+    ]
+}

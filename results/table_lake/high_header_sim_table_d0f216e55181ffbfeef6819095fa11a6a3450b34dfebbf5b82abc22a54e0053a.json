@@ -1,0 +1,84 @@
+{
+    "id": "d0f216e55181ffbfeef6819095fa11a6a3450b34dfebbf5b82abc22a54e0053a",
+    "metadata": "Tampa Bay Rowdies (1975-1993) | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Record",
+        "Regular_Season_Finish",
+        "Playoffs",
+        "Avg_Attend_"
+    ],
+    "cell": [
+        [
+            "1975",
+            "16-6",
+            "1st, Eastern Division",
+            "NASL Champions",
+            "10728"
+        ],
+        [
+            "1976",
+            "18-6",
+            "1st, Eastern Division, Atlantic Conference",
+            "Atlantic Conference Championship",
+            "16452"
+        ],
+        [
+            "1977",
+            "14-12",
+            "3rd, Eastern Division, Atlantic Conference",
+            "Divisional Playoffs",
+            "19491"
+        ],
+        [
+            "1978",
+            "18-12",
+            "1st, Eastern Division, American Conference",
+            "Runners-up",
+            "18123"
+        ],
+        [
+            "1979",
+            "19-11",
+            "1st, Eastern Division, American Conference",
+            "Runners-up",
+            "27650"
+        ],
+        [
+            "1980",
+            "19-13",
+            "1st, Eastern Division, American Conference",
+            "American Conference Semifinals",
+            "28345"
+        ],
+        [
+            "1981",
+            "15-17",
+            "4th, Southern Division",
+            "Quarterfinals",
+            "22299"
+        ],
+        [
+            "1982",
+            "12-20",
+            "3rd, Southern Division",
+            "Did Not Qualify",
+            "22532"
+        ],
+        [
+            "1983",
+            "7-23",
+            "3rd, Southern Division",
+            "Did Not Qualify",
+            "18507"
+        ],
+        [
+            "1984",
+            "9-15",
+            "4th, Eastern Division",
+            "Did Not Qualify",
+            "10932"
+        ]
+    ]
+}

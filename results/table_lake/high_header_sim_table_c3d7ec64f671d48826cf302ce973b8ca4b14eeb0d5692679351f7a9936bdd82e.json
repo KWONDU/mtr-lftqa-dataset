@@ -1,0 +1,140 @@
+{
+    "id": "c3d7ec64f671d48826cf302ce973b8ca4b14eeb0d5692679351f7a9936bdd82e",
+    "metadata": "1966 Mexican Grand Prix | Classification | Classification",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Constructor_",
+        "Laps",
+        "Time_Retired",
+        "Grid"
+    ],
+    "cell": [
+        [
+            "John Surtees",
+            "Cooper - Maserati",
+            "65",
+            "2:06:35.34",
+            "1"
+        ],
+        [
+            "Jack Brabham",
+            "Brabham - Repco",
+            "65",
+            "+ 7.88",
+            "4"
+        ],
+        [
+            "Denny Hulme",
+            "Brabham - Repco",
+            "64",
+            "+ 1 lap",
+            "6"
+        ],
+        [
+            "Richie Ginther",
+            "Honda",
+            "64",
+            "+ 1 lap",
+            "3"
+        ],
+        [
+            "Dan Gurney",
+            "Eagle - Climax",
+            "64",
+            "+ 1 lap",
+            "9"
+        ],
+        [
+            "Jo Bonnier",
+            "Cooper - Maserati",
+            "63",
+            "+ 2 laps",
+            "12"
+        ],
+        [
+            "Peter Arundell",
+            "Lotus - BRM",
+            "61",
+            "+ 4 laps",
+            "17"
+        ],
+        [
+            "Ronnie Bucknum",
+            "Honda",
+            "60",
+            "+ 5 laps",
+            "13"
+        ],
+        [
+            "Pedro Rodr\u00edguez",
+            "Lotus - BRM",
+            "49",
+            "Differential",
+            "8"
+        ],
+        [
+            "Bruce McLaren",
+            "McLaren - Ford",
+            "40",
+            "Engine",
+            "14"
+        ],
+        [
+            "Jo Siffert",
+            "Cooper - Maserati",
+            "33",
+            "Suspension",
+            "11"
+        ],
+        [
+            "Jochen Rindt",
+            "Cooper - Maserati",
+            "32",
+            "Suspension",
+            "5"
+        ],
+        [
+            "Innes Ireland",
+            "BRM",
+            "28",
+            "Transmission",
+            "16"
+        ],
+        [
+            "Jackie Stewart",
+            "BRM",
+            "26",
+            "Oil Leak",
+            "10"
+        ],
+        [
+            "Bob Bondurant",
+            "Eagle - Weslake",
+            "24",
+            "Fuel System",
+            "18"
+        ],
+        [
+            "Graham Hill",
+            "BRM",
+            "18",
+            "Engine",
+            "7"
+        ],
+        [
+            "Jim Clark",
+            "Lotus - BRM",
+            "9",
+            "Gearbox",
+            "2"
+        ],
+        [
+            "Mois\u00e9s Solana",
+            "Cooper - Maserati",
+            "9",
+            "Overheating",
+            "15"
+        ]
+    ]
+}

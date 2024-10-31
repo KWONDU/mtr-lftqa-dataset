@@ -1,0 +1,61 @@
+{
+    "id": "9415d4dd80ef2190424ef820b01b762e3d86bbad831620428ad5e3434e52a498",
+    "metadata": "Byzantine coinage | Relative values | Anastasius I",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "Solidi",
+        "Folles",
+        "Half_folles",
+        "Decanummia",
+        "Pentanummia",
+        "Nummi"
+    ],
+    "cell": [
+        [
+            "Solidus",
+            "1",
+            "420",
+            "840",
+            "1680",
+            "3360",
+            "16800"
+        ],
+        [
+            "Follis",
+            "1\u2044420",
+            "1",
+            "2",
+            "4",
+            "8",
+            "40"
+        ],
+        [
+            "Half follis",
+            "1\u2044840",
+            "\u00bd",
+            "1",
+            "2",
+            "4",
+            "20"
+        ],
+        [
+            "Decanummium",
+            "1\u20441680",
+            "\u00bc",
+            "\u00bd",
+            "1",
+            "2",
+            "10"
+        ],
+        [
+            "Pentanummium",
+            "1\u20443360",
+            "\u215b",
+            "\u00bc",
+            "\u00bd",
+            "1",
+            "5"
+        ]
+    ]
+}

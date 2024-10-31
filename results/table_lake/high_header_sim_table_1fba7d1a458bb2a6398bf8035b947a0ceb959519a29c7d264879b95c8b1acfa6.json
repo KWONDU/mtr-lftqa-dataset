@@ -1,0 +1,56 @@
+{
+    "id": "1fba7d1a458bb2a6398bf8035b947a0ceb959519a29c7d264879b95c8b1acfa6",
+    "metadata": "Untangle | Appliances | Appliances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Processor",
+        "Hard_Drive",
+        "Ethernet_Ports",
+        "Dimensions"
+    ],
+    "cell": [
+        [
+            "u10",
+            "Intel Atom single-core processor",
+            "160 GB, 7200 rpm",
+            "Four gigabit Ethernet ports",
+            "7.1\u201d(W) \u00d7 5.9\u201d(D) \u00d7 1.65\u201d(H)"
+        ],
+        [
+            "u50",
+            "Intel Atom dual-core processor",
+            "160 GB, 7200 rpm",
+            "Four gigabit Ethernet ports",
+            "7.1\u201d(W) x 5.9\u201d(D) x 1.65\u201d(H)"
+        ],
+        [
+            "u150",
+            "Intel Pentium dual-core processor",
+            "500 GB, 7200 rpm",
+            "Six gigabit Ethernet ports",
+            "7.1\u201d(W) \u00d7 5.9\u201d(D) \u00d7 1.65\u201d(H)"
+        ],
+        [
+            "u500",
+            "Intel Xeon quad-core processor",
+            "500 GB, 7200 rpm",
+            "Eight gigabit Ethernet ports",
+            "17.20\u201d(W) \u00d7 18.00\u201d(D) \u00d7 1.73\u201d (H)"
+        ],
+        [
+            "m1500",
+            "Dual Intel Xeon quad-core processors",
+            "1 TB, 7200 rpm",
+            "Eight gigabit Ethernet ports",
+            "17\u201d(W) \u00d7 22.8\u201d(D) \u00d7 3.5\u201d(H)"
+        ],
+        [
+            "m3000",
+            "Dual Intel Xeon six core processors",
+            "1 TB, 7200 rpm",
+            "Eight gigabit Ethernet ports",
+            "17\u201d(W) \u00d7 22.8\u201d(D) \u00d7 3.5\u201d(H)"
+        ]
+    ]
+}

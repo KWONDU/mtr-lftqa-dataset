@@ -1,0 +1,63 @@
+{
+    "id": "257f8c0a17d413415ea60d3bdd99df650135d1be5e6dfbd07010d8c5000bbb89",
+    "metadata": "List of VIA C7 microprocessors | (ultra-low-voltage, 90 nm) | (ultra-low-voltage, 90 nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Clock_Speed",
+        "L2_Cache",
+        "FSB_Speed",
+        "Voltage_Range",
+        "Socket"
+    ],
+    "cell": [
+        [
+            "C7-M ULV",
+            "1 GHz",
+            "128 KB",
+            "400 MHz",
+            "N/A",
+            "Socket 479"
+        ],
+        [
+            "C7-M ULV",
+            "1.2 GHz",
+            "128 KB",
+            "400 MHz",
+            "N/A",
+            "Socket 479"
+        ],
+        [
+            "C7-M ULV",
+            "1.2 GHz",
+            "128 KB",
+            "800 MHz",
+            "N/A",
+            "Socket 479"
+        ],
+        [
+            "C7-M ULV",
+            "1.5 GHz",
+            "128 KB",
+            "400 MHz",
+            "N/A",
+            "Socket 479"
+        ],
+        [
+            "C7-M ULV",
+            "1.6 GHz",
+            "128 KB",
+            "400 MHz",
+            "N/A",
+            "Socket 479"
+        ],
+        [
+            "C7-M ULV",
+            "1.6 GHz",
+            "128 KB",
+            "800 MHz",
+            "N/A",
+            "Socket 479"
+        ]
+    ]
+}

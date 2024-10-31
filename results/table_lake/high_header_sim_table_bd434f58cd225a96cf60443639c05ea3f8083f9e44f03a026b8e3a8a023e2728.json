@@ -1,0 +1,115 @@
+{
+    "id": "bd434f58cd225a96cf60443639c05ea3f8083f9e44f03a026b8e3a8a023e2728",
+    "metadata": "2012 FINA World Swimming Championships (25 m) | Women | Women",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Event",
+        "Date_",
+        "Round",
+        "Name_",
+        "Nationality",
+        "Time_",
+        "Record"
+    ],
+    "cell": [
+        [
+            "Women`s 50m breaststroke",
+            "12 December",
+            "Heats",
+            "R\u016bta Meilutyt\u0117",
+            "Lithuania",
+            "29.56",
+            "CR"
+        ],
+        [
+            "Women`s 50m breaststroke",
+            "12 December",
+            "Semifinal",
+            "R\u016bta Meilutyt\u0117",
+            "Lithuania",
+            "29.51",
+            "CR"
+        ],
+        [
+            "Women`s 200m butterfly",
+            "12 December",
+            "Final",
+            "Katinka Hossz\u00fa",
+            "Hungary",
+            "2:02.20",
+            "CR"
+        ],
+        [
+            "Women`s 400m medley",
+            "12 December",
+            "Final",
+            "Hannah Miley",
+            "Great Britain",
+            "4:23.14",
+            "CR"
+        ],
+        [
+            "Women`s 50m breaststroke",
+            "13 December",
+            "Final",
+            "R\u016bta Meilutyt\u0117",
+            "Lithuania",
+            "29.44",
+            "CR"
+        ],
+        [
+            "Women`s 100m medley",
+            "14 December",
+            "Final",
+            "Katinka Hossz\u00fa",
+            "Hungary",
+            "58.49",
+            "CR"
+        ],
+        [
+            "Women`s 100m breaststroke",
+            "15 December",
+            "Final",
+            "R\u016bta Meilutyt\u0117",
+            "Lithuania",
+            "1:03.52",
+            "CR"
+        ],
+        [
+            "Women`s 50m backstroke",
+            "15 December",
+            "Semifinal",
+            "Zhao Jing",
+            "China",
+            "26.11",
+            "CR"
+        ],
+        [
+            "Women`s 200m medley",
+            "15 December",
+            "Final",
+            "Ye Shiwen",
+            "China",
+            "2:04.64",
+            "CR"
+        ],
+        [
+            "Women`s 50m backstroke",
+            "16 December",
+            "Final",
+            "Zhao Jing",
+            "China",
+            "25.95",
+            "CR"
+        ],
+        [
+            "Women`s 200m breaststroke",
+            "16 December",
+            "Final",
+            "Rikke M\u00f8ller Pedersen",
+            "Denmark",
+            "2:16.08",
+            "CR"
+        ]
+    ]
+}

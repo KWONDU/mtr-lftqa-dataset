@@ -1,0 +1,55 @@
+{
+    "id": "c87f5d11d33de4cefec308263c9c1053589096eb5074f80f3878decc4c9b0bc3",
+    "metadata": "2000 PGA Championship | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Year_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Tiger Woods",
+            "United States",
+            "1999",
+            "270",
+            "-18",
+            "1"
+        ],
+        [
+            "Davis Love III",
+            "United States",
+            "1997",
+            "279",
+            "-9",
+            "T9"
+        ],
+        [
+            "Paul Azinger",
+            "United States",
+            "1993",
+            "282",
+            "-6",
+            "T24"
+        ],
+        [
+            "Jeff Sluman",
+            "United States",
+            "1988",
+            "287",
+            "-1",
+            "T41"
+        ],
+        [
+            "Wayne Grady",
+            "Australia",
+            "1990",
+            "291",
+            "+3",
+            "T64"
+        ]
+    ]
+}

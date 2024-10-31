@@ -1,0 +1,56 @@
+{
+    "id": "5f57206242141b6d7b44b56964723be2bf32eff064c2e2cb7287898cfb783416",
+    "metadata": "2003-04 Manchester United F.C. season | FA Cup | FA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponents",
+        "Result_F_A",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "4 January 2004",
+            "Round 3",
+            "Aston Villa",
+            "2-1",
+            "40371"
+        ],
+        [
+            "25 January 2004",
+            "Round 4",
+            "Northampton Town",
+            "3-0",
+            "7356"
+        ],
+        [
+            "14 February 2004",
+            "Round 5",
+            "Manchester City",
+            "4-2",
+            "67228"
+        ],
+        [
+            "6 March 2004",
+            "Round 6",
+            "Fulham",
+            "2-1",
+            "67614"
+        ],
+        [
+            "3 April 2004",
+            "Semi-final",
+            "Arsenal",
+            "1-0",
+            "39939"
+        ],
+        [
+            "22 May 2004",
+            "Final",
+            "Millwall",
+            "3-0",
+            "71350"
+        ]
+    ]
+}

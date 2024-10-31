@@ -1,0 +1,55 @@
+{
+    "id": "c3e2160654c88fe6ba0ca6793f4fa73ff5a845a45eaf8f95fa640b87c30640a8",
+    "metadata": "1888-89 New Zealand Native football team | Overall | Overall",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Played_in",
+        "Matches",
+        "Lost",
+        "Drawn",
+        "Points_for",
+        "Points_against"
+    ],
+    "cell": [
+        [
+            "Played in",
+            "Matches",
+            "Lost",
+            "Drawn",
+            "Points for",
+            "Points against"
+        ],
+        [
+            "British Isles",
+            "74",
+            "20",
+            "5",
+            "394",
+            "188"
+        ],
+        [
+            "New Zealand",
+            "17",
+            "3",
+            "0",
+            "119",
+            "51"
+        ],
+        [
+            "Australia",
+            "16",
+            "0",
+            "1",
+            "240",
+            "66"
+        ],
+        [
+            "Total",
+            "107",
+            "23",
+            "6",
+            "753",
+            "305"
+        ]
+    ]
+}

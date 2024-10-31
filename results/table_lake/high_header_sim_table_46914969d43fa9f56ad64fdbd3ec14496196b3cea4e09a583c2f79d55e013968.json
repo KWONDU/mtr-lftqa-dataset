@@ -1,0 +1,63 @@
+{
+    "id": "46914969d43fa9f56ad64fdbd3ec14496196b3cea4e09a583c2f79d55e013968",
+    "metadata": "Cube (film series) | Cube (film series) | Cube (film series)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Occupation",
+        "Gender",
+        "Prison_connection",
+        "Played_by",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Kazan",
+            "Autistic Savant",
+            "Male",
+            "Kazan Prison (Russia)",
+            "Andrew Miller",
+            "Alive after exiting the Cube"
+        ],
+        [
+            "David Worth",
+            "Architect",
+            "Male",
+            "Leavenworth Prison (USA)",
+            "David Hewlett",
+            "Dead"
+        ],
+        [
+            "Quentin",
+            "Police officer",
+            "Male",
+            "San Quentin State Prison (USA)",
+            "Maurice Dean Wint",
+            "Dead"
+        ],
+        [
+            "Joan Leaven",
+            "Mathematics Student",
+            "Female",
+            "Leavenworth Prison (USA)",
+            "Nicole de Boer",
+            "Dead"
+        ],
+        [
+            "Dr. Helen Holloway",
+            "Free Clinic Doctor",
+            "Female",
+            "Holloway Women`s Prison (UK)",
+            "Nicky Guadagni",
+            "Dead"
+        ],
+        [
+            "Rennes",
+            "Prison escapist",
+            "Male",
+            "Centre p\u00e9nitentiaire de Rennes (France)",
+            "Wayne Robson",
+            "Dead"
+        ]
+    ]
+}

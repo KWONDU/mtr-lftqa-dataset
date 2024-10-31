@@ -1,0 +1,70 @@
+{
+    "id": "e2b5a7d162bff056a08e73a1c257233ee421ebdd6aa3978ea90d618dda654b02",
+    "metadata": "1977 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "19.10 (124)",
+            "Melbourne",
+            "16.24 (120)",
+            "Windy Hill",
+            "14529",
+            "23 April 1977"
+        ],
+        [
+            "North Melbourne",
+            "16.21 (117)",
+            "Footscray",
+            "12.10 (82)",
+            "Arden Street Oval",
+            "17239",
+            "23 April 1977"
+        ],
+        [
+            "St Kilda",
+            "19.20 (134)",
+            "Fitzroy",
+            "14.14 (98)",
+            "Moorabbin Oval",
+            "13401",
+            "23 April 1977"
+        ],
+        [
+            "Hawthorn",
+            "13.18 (96)",
+            "Carlton",
+            "12.11 (83)",
+            "Princes Park",
+            "32135",
+            "23 April 1977"
+        ],
+        [
+            "Richmond",
+            "14.16 (100)",
+            "Collingwood",
+            "17.24 (126)",
+            "MCG",
+            "91936",
+            "25 April 1977"
+        ],
+        [
+            "Geelong",
+            "16.18 (114)",
+            "South Melbourne",
+            "12.15 (87)",
+            "VFL Park",
+            "27136",
+            "25 April 1977"
+        ]
+    ]
+}

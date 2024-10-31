@@ -1,0 +1,70 @@
+{
+    "id": "9cf0539404a65c0e70808b1cb1f3efeed02710b61e82c178822296d391c54d26",
+    "metadata": "Kalisz Governorate | Language | Language",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Language_",
+        "Number_",
+        "percentage_",
+        "males",
+        "females"
+    ],
+    "cell": [
+        [
+            "Polish",
+            "705 400",
+            "83.91",
+            "345 348",
+            "360 052"
+        ],
+        [
+            "Yiddish",
+            "64 193",
+            "7.63",
+            "30 941",
+            "33 252"
+        ],
+        [
+            "German",
+            "61 482",
+            "7.31",
+            "30 289",
+            "31 193"
+        ],
+        [
+            "Russian",
+            "7 451",
+            "0.88",
+            "5 985",
+            "1 466"
+        ],
+        [
+            "Ukrainian",
+            "1 429",
+            "0.16",
+            "1 391",
+            "38"
+        ],
+        [
+            "Other",
+            "618",
+            ">0.1",
+            "521",
+            "97"
+        ],
+        [
+            "Persons that didn`t name their native language",
+            "22",
+            ">0.01",
+            "11",
+            "11"
+        ],
+        [
+            "Total",
+            "840 597",
+            "100",
+            "414 488",
+            "426 109"
+        ]
+    ]
+}

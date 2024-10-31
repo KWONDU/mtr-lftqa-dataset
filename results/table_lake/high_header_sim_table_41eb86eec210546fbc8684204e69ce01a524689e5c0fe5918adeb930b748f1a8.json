@@ -1,0 +1,84 @@
+{
+    "id": "41eb86eec210546fbc8684204e69ce01a524689e5c0fe5918adeb930b748f1a8",
+    "metadata": "Andr\u00e9 Pilette | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1951",
+            "Ecurie Belgique",
+            "Lago-Talbot T26C",
+            "Talbot Straight-6",
+            "0"
+        ],
+        [
+            "1953",
+            "Ecurie Belge",
+            "Connaught A Type",
+            "Lea-Francis Straight-4",
+            "0"
+        ],
+        [
+            "1954",
+            "Equipe Gordini",
+            "Gordini Type 16",
+            "Gordini Straight-6",
+            "2"
+        ],
+        [
+            "1956",
+            "Equipe Gordini",
+            "Gordini Type 32",
+            "Gordini Straight-8",
+            "0"
+        ],
+        [
+            "1956",
+            "Scuderia Ferrari",
+            "Lancia D50",
+            "Ferrari V8",
+            "0"
+        ],
+        [
+            "1956",
+            "Equipe Gordini",
+            "Gordini Type 16",
+            "Gordini Straight-6",
+            "0"
+        ],
+        [
+            "1961",
+            "Andr\u00e9 Pilette",
+            "Emeryson P",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1963",
+            "Tim Parnell",
+            "Lotus 18/21",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1963",
+            "Andr\u00e9 Pilette",
+            "Lotus 18/21",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1964",
+            "Equipe Scirocco Belge",
+            "Scirocco 02",
+            "Climax V8",
+            "0"
+        ]
+    ]
+}

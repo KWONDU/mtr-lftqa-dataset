@@ -1,0 +1,105 @@
+{
+    "id": "b0f4ed06f1166222502c0b4706398c38de025e158626aefc92aabef430a47dbd",
+    "metadata": "1972 U.S. Open (golf) | Second round | Second round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Jack Nicklaus",
+            "United States",
+            "71-73=144",
+            "E"
+        ],
+        [
+            "T1",
+            "Bruce Crampton",
+            "Australia",
+            "74-70=144",
+            "E"
+        ],
+        [
+            "T1",
+            "Kermit Zarley",
+            "United States",
+            "71-73=144",
+            "E"
+        ],
+        [
+            "T1",
+            "Lanny Wadkins",
+            "United States",
+            "76-68=144",
+            "E"
+        ],
+        [
+            "T1",
+            "Homero Blancas",
+            "United States",
+            "74-70=144",
+            "E"
+        ],
+        [
+            "T1",
+            "Cesar Sanudo",
+            "United States",
+            "72-72=144",
+            "E"
+        ],
+        [
+            "7",
+            "Arnold Palmer",
+            "United States",
+            "77-68=145",
+            "+1"
+        ],
+        [
+            "T8",
+            "Lee Trevino",
+            "United States",
+            "74-72=146",
+            "+2"
+        ],
+        [
+            "T8",
+            "Lee Elder",
+            "United States",
+            "75-71=146",
+            "+2"
+        ],
+        [
+            "T8",
+            "Ralph Johnston",
+            "United States",
+            "74-72=146",
+            "+2"
+        ],
+        [
+            "T8",
+            "Rod Funseth",
+            "United States",
+            "73-73=146",
+            "+2"
+        ],
+        [
+            "T8",
+            "Gary Player",
+            "South Africa",
+            "72-74=146",
+            "+2"
+        ],
+        [
+            "T8",
+            "Chi-Chi Rodr\u00edguez",
+            "United States",
+            "71-75=146",
+            "+2"
+        ]
+    ]
+}

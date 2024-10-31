@@ -1,0 +1,79 @@
+{
+    "id": "f79b40cf3b5136caaf705fa44eb57a32617e7d4fd5807f8dfa86834a35396370",
+    "metadata": "1996-97 European Challenge Cup | Pool 3 | Pool 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Tries_for",
+        "Tries_against",
+        "Try_diff",
+        "Points_for",
+        "Points_against",
+        "Points_diff"
+    ],
+    "cell": [
+        [
+            "Northampton Saints",
+            "28",
+            "12",
+            "+16",
+            "207",
+            "88",
+            "+119"
+        ],
+        [
+            "Toulon",
+            "22",
+            "10",
+            "+12",
+            "164",
+            "102",
+            "+62"
+        ],
+        [
+            "Orrell",
+            "18",
+            "22",
+            "\u22124",
+            "122",
+            "173",
+            "\u221251"
+        ],
+        [
+            "Connacht",
+            "9",
+            "17",
+            "\u22128",
+            "94",
+            "131",
+            "\u221237"
+        ],
+        [
+            "Dunvant",
+            "15",
+            "22",
+            "\u22127",
+            "106",
+            "169",
+            "\u221263"
+        ],
+        [
+            "Petrarca",
+            "10",
+            "19",
+            "\u22129",
+            "118",
+            "148",
+            "\u221230"
+        ],
+        [
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com",
+            "Source : www.ercrugby.com"
+        ]
+    ]
+}

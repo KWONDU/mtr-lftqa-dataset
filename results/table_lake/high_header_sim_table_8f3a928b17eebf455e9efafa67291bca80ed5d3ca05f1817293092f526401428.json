@@ -1,0 +1,49 @@
+{
+    "id": "8f3a928b17eebf455e9efafa67291bca80ed5d3ca05f1817293092f526401428",
+    "metadata": "Hinduism by country | By region | Hinduism \n in \n Asia",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Total_Population",
+        "Hindus",
+        "_of_Hindus",
+        "_of_Hindu_total"
+    ],
+    "cell": [
+        [
+            "Central Asia",
+            "92019166",
+            "149644",
+            "0.163%",
+            "0.016%"
+        ],
+        [
+            "East Asia",
+            "1527960261",
+            "130631",
+            "0.009%",
+            "0.014%"
+        ],
+        [
+            "Middle East",
+            "274775527",
+            "792872",
+            "0.289%",
+            "0.084%"
+        ],
+        [
+            "South Asia",
+            "1437326682",
+            "1006888651",
+            "70.05%",
+            "98.475%"
+        ],
+        [
+            "Southeast Asia",
+            "571337070",
+            "6386614",
+            "1.118%",
+            "0.677%"
+        ]
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "bbfc48f43e8a1d477acde4ba4cf01fd4e9fdc34b0ef71c83cb8c825f11b44ff0",
+    "metadata": "Air filter | Filter classes | Filter classes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Usage_",
+        "Class_",
+        "Performance",
+        "Performance_test",
+        "Particulate_size_approaching_100_retention",
+        "Test_Standard"
+    ],
+    "cell": [
+        [
+            "Primary filters",
+            "G1",
+            "65%",
+            "Average value",
+            ">5\u00b5m",
+            "BS EN779"
+        ],
+        [
+            "Primary filters",
+            "G2",
+            "65-80%",
+            "Average value",
+            ">5\u00b5m",
+            "BS EN779"
+        ],
+        [
+            "Primary filters",
+            "G3",
+            "80-90%",
+            "Average value",
+            ">5\u00b5m",
+            "BS EN779"
+        ],
+        [
+            "Primary filters",
+            "G4",
+            "90%-",
+            "Average value",
+            ">5\u00b5m",
+            "BS EN779"
+        ],
+        [
+            "Secondary filters",
+            "F5",
+            "40-60%",
+            "Average value",
+            ">5\u00b5m",
+            "BS EN779"
+        ],
+        [
+            "Secondary filters",
+            "F6",
+            "60-80%",
+            "Average value",
+            ">2\u00b5m",
+            "BS EN779"
+        ],
+        [
+            "Secondary filters",
+            "F7",
+            "80-90%",
+            "Average value",
+            ">2\u00b5m",
+            "BS EN779"
+        ],
+        [
+            "Secondary filters",
+            "F8",
+            "90-95%",
+            "Average value",
+            ">1\u00b5m",
+            "BS EN779"
+        ],
+        [
+            "Secondary filters",
+            "F9",
+            "95%-",
+            "Average value",
+            ">1\u00b5m",
+            "BS EN779"
+        ],
+        [
+            "Semi Hepa",
+            "H10",
+            "85%",
+            "Minimum value",
+            ">1\u00b5m",
+            "BS EN1822"
+        ],
+        [
+            "Semi Hepa",
+            "H11",
+            "95%",
+            "Minimum value",
+            ">0.5\u00b5m",
+            "BS EN1822"
+        ],
+        [
+            "Semi Hepa",
+            "H12",
+            "99.5%",
+            "Minimum value",
+            ">0.5\u00b5m",
+            "BS EN1822"
+        ],
+        [
+            "Hepa",
+            "H13",
+            "99.95%",
+            "Minimum value",
+            ">0.3\u00b5m",
+            "BS EN1822"
+        ],
+        [
+            "Hepa",
+            "H14",
+            "99.995%",
+            "Minimum value",
+            ">0.3\u00b5m",
+            "BS EN1822"
+        ]
+    ]
+}

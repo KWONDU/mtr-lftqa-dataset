@@ -1,0 +1,106 @@
+{
+    "id": "e2e4b1df3e8bb5139e109aa2fe7d84a38812c0a1aa97420a786d357f9eb905bb",
+    "metadata": "Kevin Schwantz | Grand Prix career statistics | Grand Prix career statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Machine",
+        "Points",
+        "Rank_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1986",
+            "500cc",
+            "Rizla- Suzuki",
+            "RG500",
+            "2",
+            "22nd",
+            "0"
+        ],
+        [
+            "1987",
+            "500cc",
+            "Heron - Suzuki",
+            "RGV500",
+            "11",
+            "16th",
+            "0"
+        ],
+        [
+            "1988",
+            "500cc",
+            "Pepsi Suzuki",
+            "RGV500",
+            "119",
+            "8th",
+            "2"
+        ],
+        [
+            "1989",
+            "500cc",
+            "Pepsi Suzuki",
+            "RGV500",
+            "162.5",
+            "4th",
+            "6"
+        ],
+        [
+            "1990",
+            "500cc",
+            "Lucky Strike Suzuki",
+            "RGV500",
+            "188",
+            "2nd",
+            "5"
+        ],
+        [
+            "1991",
+            "500cc",
+            "Lucky Strike Suzuki",
+            "RGV500",
+            "204",
+            "3rd",
+            "5"
+        ],
+        [
+            "1992",
+            "500cc",
+            "Lucky Strike Suzuki",
+            "RGV500",
+            "199",
+            "4th",
+            "1"
+        ],
+        [
+            "1993",
+            "500cc",
+            "Lucky Strike Suzuki",
+            "RGV500",
+            "248",
+            "1st",
+            "4"
+        ],
+        [
+            "1994",
+            "500cc",
+            "Lucky Strike Suzuki",
+            "RGV500",
+            "169",
+            "4th",
+            "2"
+        ],
+        [
+            "1995",
+            "500cc",
+            "Lucky Strike Suzuki",
+            "RGV500",
+            "34",
+            "15th",
+            "0"
+        ]
+    ]
+}

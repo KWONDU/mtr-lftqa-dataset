@@ -1,0 +1,91 @@
+{
+    "id": "45ab16aa50d17b2efc6e8d0f1d2e7b00c6a302499e632989054918e92a4b4536",
+    "metadata": "Wake Forest Demon Deacons football, 1970-79 | Schedule | 1971",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Location_",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/11/1971",
+            "Davidson",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 27-7",
+            "19500"
+        ],
+        [
+            "09/18/1971",
+            "at Virginia Tech",
+            "Lane Stadium \u2022 Blacksburg, VA",
+            "W 20-9",
+            "28000"
+        ],
+        [
+            "09/25/1971",
+            "Miami (FL)",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 10-29",
+            "24500"
+        ],
+        [
+            "10/02/1971*",
+            "at Maryland",
+            "Byrd Stadium \u2022 College Park, MD",
+            "W 18-14",
+            "16200"
+        ],
+        [
+            "10/09/1971*",
+            "at North Carolina State",
+            "Carter Stadium \u2022 Raleigh, NC",
+            "L 14-21",
+            "25300"
+        ],
+        [
+            "10/16/1971",
+            "Tulsa",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 51-21",
+            "18700"
+        ],
+        [
+            "10/23/1971*",
+            "at North Carolina",
+            "Kenan Memorial Stadium \u2022 Chapel Hill, NC",
+            "L 3-7",
+            "44000"
+        ],
+        [
+            "10/30/1971*",
+            "at Clemson",
+            "Memorial Stadium \u2022 Clemson, SC",
+            "L 9-10",
+            "34000"
+        ],
+        [
+            "11/06/1971",
+            "William & Mary",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 36-29",
+            "19000"
+        ],
+        [
+            "11/13/1971*",
+            "Duke",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 23-7",
+            "32000"
+        ],
+        [
+            "11/20/1971*",
+            "at South Carolina",
+            "Carolina Stadium \u2022 Columbia, SC",
+            "L 7-24",
+            "43285"
+        ]
+    ]
+}

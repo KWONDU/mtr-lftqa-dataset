@@ -1,0 +1,63 @@
+{
+    "id": "9ddccc0cc09c5d34fd3c232ae39f4c6304bc9a7bc925b6501484e53f14db080d",
+    "metadata": "List of England national rugby union team results 1990-99 | 1990 | 1990",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Teams",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Ireland",
+            "0",
+            "20/01/1990",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "France",
+            "7",
+            "03/02/1990",
+            "Parc des Princes , Paris",
+            "Five Nations"
+        ],
+        [
+            "Wales",
+            "6",
+            "17/02/1990",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Scotland",
+            "13",
+            "17/03/1990",
+            "Murrayfield , Edinburgh",
+            "Five Nations"
+        ],
+        [
+            "Argentina",
+            "12",
+            "28/07/1990",
+            "V\u00e9lez S\u00e1rsfield , Buenos Aires",
+            "First Test"
+        ],
+        [
+            "Argentina",
+            "15",
+            "04/08/1990",
+            "V\u00e9lez S\u00e1rsfield , Buenos Aires",
+            "Second Test"
+        ],
+        [
+            "Argentina",
+            "0",
+            "03/11/1990",
+            "Twickenham , London",
+            "Test Match"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "2642b1d300ffd8de2e0e9c0958046be3c16895cabd07847c80cdd9d66ed131a6",
+    "metadata": "Ian Ashley | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Pts_"
+    ],
+    "cell": [
+        [
+            "1974",
+            "Token Racing",
+            "Token RJ02",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1974",
+            "Chequered Flag",
+            "Brabham BT42",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1975",
+            "Frank Williams Racing Cars",
+            "Williams FW03",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1976",
+            "Stanley BRM",
+            "BRM P201B",
+            "BRM V12",
+            "0"
+        ],
+        [
+            "1977",
+            "Hesketh Racing",
+            "Hesketh 308E",
+            "Cosworth V8",
+            "0"
+        ]
+    ]
+}

@@ -1,0 +1,462 @@
+{
+    "id": "29808d4ee2d71a699f8d12b2e492825a7e2cfa334d7f235e5c4c72ee00e71fe1",
+    "metadata": "List of Wider\u00f8e destinations | Destinations | List of Wider\u00f8e destinations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "Country",
+        "Airport",
+        "Begin_",
+        "End_"
+    ],
+    "cell": [
+        [
+            "Aberdeen",
+            "United Kingdom",
+            "Aberdeen Airport",
+            "1999",
+            "\u2014"
+        ],
+        [
+            "\u00c5lesund",
+            "Norway",
+            "\u00c5lesund Airport, Vigra",
+            "1971",
+            "\u2014"
+        ],
+        [
+            "Alta",
+            "Norway",
+            "Alta Airport",
+            "1974",
+            "\u2014"
+        ],
+        [
+            "Bergen",
+            "Norway",
+            "Bergen Airport, Flesland",
+            "1971",
+            "\u2014"
+        ],
+        [
+            "Berlin",
+            "Germany",
+            "Berlin Tempelhof Airport",
+            "1997",
+            "2001"
+        ],
+        [
+            "B\u00e5tsfjord",
+            "Norway",
+            "B\u00e5tsfjord Airport",
+            "1990",
+            "1999"
+        ],
+        [
+            "B\u00e5tsfjord",
+            "Norway",
+            "B\u00e5tsfjord Airport",
+            "1999",
+            "\u2014"
+        ],
+        [
+            "Bod\u00f8",
+            "Norway",
+            "Bod\u00f8 Airport",
+            "1968",
+            "\u2014"
+        ],
+        [
+            "Br\u00f8nn\u00f8ysund",
+            "Norway",
+            "Br\u00f8nn\u00f8ysund Airport, Br\u00f8nn\u00f8y",
+            "1968",
+            "\u2014"
+        ],
+        [
+            "Berlev\u00e5g",
+            "Norway",
+            "Berlev\u00e5g Airport",
+            "1974",
+            "\u2014"
+        ],
+        [
+            "Copenhagen",
+            "Denmark",
+            "Copenhagen Airport",
+            "1989",
+            "\u2014"
+        ],
+        [
+            "Edinburgh",
+            "United Kingdom",
+            "Edinburgh Airport",
+            "2006",
+            "2011"
+        ],
+        [
+            "Fagernes",
+            "Norway",
+            "Fagernes Airport, Leirin",
+            "1999",
+            "2000"
+        ],
+        [
+            "Flor\u00f8",
+            "Norway",
+            "Flor\u00f8 Airport",
+            "1971*",
+            "\u2014"
+        ],
+        [
+            "F\u00f8rde",
+            "Norway",
+            "F\u00f8rde Airport, Bringeland",
+            "1986",
+            "\u2014"
+        ],
+        [
+            "F\u00f8rde",
+            "Norway",
+            "F\u00f8rde Airport, \u00d8yrane",
+            "1971",
+            "1986"
+        ],
+        [
+            "Glasgow",
+            "United Kingdom",
+            "Glasgow International Airport",
+            "1997",
+            "1999"
+        ],
+        [
+            "Gothenburg",
+            "Sweden",
+            "Gothenburg-Landvetter Airport",
+            "1996",
+            "\u2014"
+        ],
+        [
+            "Hemavan",
+            "Sweden",
+            "Hemavan Airport",
+            "1995",
+            "1995"
+        ],
+        [
+            "Hammerfest",
+            "Norway",
+            "Hammerfest Airport",
+            "1974",
+            "\u2014"
+        ],
+        [
+            "Haugesund",
+            "Norway",
+            "Haugesund Airport, Karm\u00f8y",
+            "2010",
+            "\u2014"
+        ],
+        [
+            "Honningsv\u00e5g",
+            "Norway",
+            "Honningsv\u00e5g Airport",
+            "1977",
+            "\u2014"
+        ],
+        [
+            "Harstad/Narvik",
+            "Norway",
+            "Harstad/Narvik Airport, Evenes",
+            "1975*",
+            "\u2014"
+        ],
+        [
+            "Hasvik",
+            "Norway",
+            "Hasvik Airport",
+            "1990",
+            "\u2014"
+        ],
+        [
+            "Kirkenes",
+            "Norway",
+            "Kirkenes Airport, H\u00f8ybuktmoen",
+            "1974",
+            "\u2014"
+        ],
+        [
+            "Kristiansand",
+            "Norway",
+            "Kristiansand Airport, Kjevik",
+            "1991*",
+            "\u2014"
+        ],
+        [
+            "Kristiansund",
+            "Norway",
+            "Kristiansund Airport, Kvernberget",
+            "1971*",
+            "\u2014"
+        ],
+        [
+            "Lakselv",
+            "Norway",
+            "Lakselv Airport, Banak",
+            "1974",
+            "\u2014"
+        ],
+        [
+            "Leknes",
+            "Norway",
+            "Leknes Airport",
+            "1972",
+            "\u2014"
+        ],
+        [
+            "Lerwick",
+            "United Kingdom",
+            "Sumburgh Airport",
+            "1995*",
+            "2005"
+        ],
+        [
+            "London",
+            "United Kingdom",
+            "London Stansted Airport",
+            "1989",
+            "1992"
+        ],
+        [
+            "Mehamn",
+            "Norway",
+            "Mehamn Airport",
+            "1974",
+            "\u2014"
+        ],
+        [
+            "Mo i Rana",
+            "Norway",
+            "Mo i Rana Airport, R\u00f8ssvoll",
+            "1968",
+            "\u2014"
+        ],
+        [
+            "Mosj\u00f8en",
+            "Norway",
+            "Mosj\u00f8en Airport, Kj\u00e6rstad",
+            "1987",
+            "\u2014"
+        ],
+        [
+            "Molde",
+            "Norway",
+            "Molde Airport, \u00c5r\u00f8",
+            "1972*",
+            "\u2014"
+        ],
+        [
+            "Murmansk",
+            "Russia",
+            "Murmansk Airport",
+            "1994",
+            "2000"
+        ],
+        [
+            "Narvik",
+            "Norway",
+            "Narvik Airport, Framnes",
+            "1975*",
+            "\u2014"
+        ],
+        [
+            "Namsos",
+            "Norway",
+            "Namsos Airport, H\u00f8knes\u00f8ra",
+            "1968",
+            "\u2014"
+        ],
+        [
+            "Newcastle",
+            "United Kingdom",
+            "Newcastle Airport",
+            "2006",
+            "\u2014"
+        ],
+        [
+            "\u00d8rland",
+            "Norway",
+            "\u00d8rland Airport",
+            "1971",
+            "1987"
+        ],
+        [
+            "\u00d8rsta/Volda",
+            "Norway",
+            "\u00d8rsta-Volda Airport, Hovden",
+            "1971",
+            "\u2014"
+        ],
+        [
+            "Oslo",
+            "Norway",
+            "Oslo Airport, Fornebu",
+            "1974",
+            "1998"
+        ],
+        [
+            "Oslo",
+            "Norway",
+            "Oslo Airport, Gardermoen",
+            "1998",
+            "\u2014"
+        ],
+        [
+            "R\u00f8nne",
+            "Denmark",
+            "Bornholm Airport",
+            "2007",
+            "\u2014"
+        ],
+        [
+            "R\u00f8ros",
+            "Norway",
+            "R\u00f8ros Airport",
+            "2001*",
+            "\u2014"
+        ],
+        [
+            "R\u00f8rvik",
+            "Norway",
+            "R\u00f8rvik Airport, Ryum",
+            "1988",
+            "\u2014"
+        ],
+        [
+            "R\u00f8st",
+            "Norway",
+            "R\u00f8st Airport",
+            "1986*",
+            "\u2014"
+        ],
+        [
+            "Sandane",
+            "Norway",
+            "Sandane Airport, Anda",
+            "1975",
+            "\u2014"
+        ],
+        [
+            "Sandefjord",
+            "Norway",
+            "Sandefjord Airport, Torp",
+            "1989",
+            "\u2014"
+        ],
+        [
+            "Sandnessj\u00f8en",
+            "Norway",
+            "Sandnessj\u00f8en Airport, Stokka",
+            "1968",
+            "\u2014"
+        ],
+        [
+            "Skien",
+            "Norway",
+            "Skien Airport, Geiteryggen",
+            "1989*",
+            "\u2014"
+        ],
+        [
+            "Sogndal",
+            "Norway",
+            "Sogndal Airport, Hauk\u00e5sen",
+            "1971",
+            "\u2014"
+        ],
+        [
+            "S\u00f8rkjosen",
+            "Norway",
+            "S\u00f8rkjosen Airport",
+            "1974",
+            "\u2014"
+        ],
+        [
+            "Stavanger",
+            "Norway",
+            "Stavanger Airport, Sola",
+            "1989",
+            "\u2014"
+        ],
+        [
+            "Stockholm",
+            "Sweden",
+            "Stockholm-Arlanda Airport",
+            "1999",
+            "2006"
+        ],
+        [
+            "Stokmarknes",
+            "Norway",
+            "Stokmarknes Airport, Skagen",
+            "1972",
+            "\u2014"
+        ],
+        [
+            "Svolv\u00e6r",
+            "Norway",
+            "Svolv\u00e6r Airport, Helle",
+            "1972",
+            "\u2014"
+        ],
+        [
+            "Troms\u00f8",
+            "Norway",
+            "Troms\u00f8 Airport",
+            "1974",
+            "\u2014"
+        ],
+        [
+            "Trondheim",
+            "Norway",
+            "Trondheim Airport, V\u00e6rnes",
+            "1968",
+            "\u2014"
+        ],
+        [
+            "Ume\u00e5",
+            "Sweden",
+            "Ume\u00e5 Airport",
+            "1995",
+            "1995"
+        ],
+        [
+            "V\u00e6r\u00f8y",
+            "Norway",
+            "V\u00e6r\u00f8y Airport",
+            "1986",
+            "1990"
+        ],
+        [
+            "Vads\u00f8",
+            "Norway",
+            "Vads\u00f8 Airport",
+            "1974",
+            "\u2014"
+        ],
+        [
+            "Vard\u00f8",
+            "Norway",
+            "Vard\u00f8 Airport",
+            "1990",
+            "\u2014"
+        ],
+        [
+            "Visby",
+            "Sweden",
+            "Visby Airport",
+            "2004",
+            "\u2014"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "50dd6d2e37f2039cf5cc4f1024df1a2eeddf9c7df4318ca22488a4157a18f7cd",
+    "metadata": "Day & Age | Accolades | Accolades",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Publication",
+        "Country",
+        "Accolade",
+        "Year_",
+        "Rank_"
+    ],
+    "cell": [
+        [
+            "Q",
+            "UK",
+            "250 Best Albums of Q ` s Lifetime 1986-2010",
+            "2011",
+            "144"
+        ],
+        [
+            "Q",
+            "UK",
+            "50 Best Albums of the Year",
+            "2008",
+            "22"
+        ],
+        [
+            "New York Post",
+            "US",
+            "Top 10 Albums of the Year",
+            "2008",
+            "2"
+        ],
+        [
+            "Rolling Stone",
+            "US",
+            "Readers` Top 30 Albums of 2008",
+            "2008",
+            "1"
+        ],
+        [
+            "Rolling Stone",
+            "US",
+            "Top Album Covers of 2008",
+            "2008",
+            "1"
+        ],
+        [
+            "Rolling Stone",
+            "US",
+            "Most Underrated Album of the Decade: Readers` Poll",
+            "2010",
+            "6"
+        ]
+    ]
+}

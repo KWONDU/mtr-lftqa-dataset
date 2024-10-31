@@ -1,0 +1,55 @@
+{
+    "id": "d27c123fbd5303d78fb4d42975ebc57c1ef395dfc7c6b91c28dbc95f598d76d8",
+    "metadata": "Nor-Ferjer | Fleet | Fleet",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Vessel_",
+        "Type_",
+        "Built_",
+        "Owned_since_",
+        "Responsible_",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "MF Folkestad",
+            "car ferry",
+            "2006",
+            "2006",
+            "Tide Sj\u00f8",
+            "In traffic Volda-Folkestad"
+        ],
+        [
+            "MF Ytter\u00f8yningen",
+            "car ferry",
+            "2006",
+            "2006",
+            "Tide Sj\u00f8",
+            "In traffic Levanger-Hokstad"
+        ],
+        [
+            "MF \u00d8rland",
+            "car ferry",
+            "2006",
+            "2006",
+            "Tide Sj\u00f8",
+            "In traffic Brekstad-Valset"
+        ],
+        [
+            "MF Ropeid",
+            "car ferry",
+            "1969",
+            "2007",
+            "Tide Sj\u00f8",
+            "Reserve ferry"
+        ],
+        [
+            "MF Sand",
+            "car ferry",
+            "2007",
+            "2007",
+            "Stavangerske",
+            "In traffic Sand-Ropeid"
+        ]
+    ]
+}

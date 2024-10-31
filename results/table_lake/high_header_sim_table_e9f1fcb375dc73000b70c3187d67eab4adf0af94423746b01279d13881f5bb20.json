@@ -1,0 +1,70 @@
+{
+    "id": "e9f1fcb375dc73000b70c3187d67eab4adf0af94423746b01279d13881f5bb20",
+    "metadata": "List of Ultras of Africa | Surrounding | Western Rift Valley",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Peak",
+        "Country",
+        "Elevation_m",
+        "Prominence_m",
+        "Col_m"
+    ],
+    "cell": [
+        [
+            "Mount Stanley",
+            "Democratic Republic of the Congo / Uganda",
+            "5109",
+            "3951",
+            "1158"
+        ],
+        [
+            "Mount Karisimbi",
+            "Rwanda / Democratic Republic of the Congo",
+            "4507",
+            "3312",
+            "1195"
+        ],
+        [
+            "Kinyeti",
+            "South Sudan",
+            "3187",
+            "2120",
+            "1067"
+        ],
+        [
+            "Emogadong",
+            "South Sudan",
+            "2623",
+            "1730",
+            "893"
+        ],
+        [
+            "Kabobo",
+            "Democratic Republic of the Congo",
+            "2725",
+            "1604",
+            "1121"
+        ],
+        [
+            "Mont Mohi",
+            "Democratic Republic of the Congo",
+            "3480",
+            "1592",
+            "1888"
+        ],
+        [
+            "Wuhevi",
+            "Democratic Republic of the Congo",
+            "3095",
+            "1570",
+            "1525"
+        ],
+        [
+            "Mount Muhabura",
+            "Rwanda / Uganda",
+            "4127",
+            "1530",
+            "2597"
+        ]
+    ]
+}

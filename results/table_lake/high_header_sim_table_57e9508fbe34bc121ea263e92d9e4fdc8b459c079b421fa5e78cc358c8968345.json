@@ -1,0 +1,277 @@
+{
+    "id": "57e9508fbe34bc121ea263e92d9e4fdc8b459c079b421fa5e78cc358c8968345",
+    "metadata": "2003 Philadelphia Phillies season | Game log | August",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Save_",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "August 1",
+            "Padres",
+            "6-0",
+            "Kevin Jarvis (4-3)",
+            "None",
+            "18655",
+            "61-47"
+        ],
+        [
+            "August 2 (1)",
+            "Padres",
+            "4-6",
+            "Randy Wolf (11-6)",
+            "None",
+            "see 2nd game",
+            "61-48"
+        ],
+        [
+            "August 2 (2)",
+            "Padres",
+            "10-4",
+            "Joe Roa (1-3)",
+            "None",
+            "35239",
+            "62-48"
+        ],
+        [
+            "August 3",
+            "Padres",
+            "2-5 (10)",
+            "Jos\u00e9 Mesa (5-6)",
+            "Rod Beck (15)",
+            "43839",
+            "62-49"
+        ],
+        [
+            "August 5",
+            "@ Rockies",
+            "7-2",
+            "Shawn Chac\u00f3n (11-6)",
+            "None",
+            "28034",
+            "63-49"
+        ],
+        [
+            "August 6",
+            "@ Rockies",
+            "1-5",
+            "Brandon Duckworth (4-6)",
+            "None",
+            "27599",
+            "63-50"
+        ],
+        [
+            "August 7",
+            "@ Rockies",
+            "3-4",
+            "Kevin Millwood (11-8)",
+            "Justin Speier (7)",
+            "27855",
+            "63-51"
+        ],
+        [
+            "August 8",
+            "@ Giants",
+            "1-9",
+            "Randy Wolf (11-7)",
+            "None",
+            "42595",
+            "63-52"
+        ],
+        [
+            "August 9",
+            "@ Giants",
+            "8-6 (10)",
+            "Jim Brower (7-4)",
+            "None",
+            "42572",
+            "64-52"
+        ],
+        [
+            "August 10",
+            "@ Giants",
+            "2-5",
+            "Brett Myers (11-7)",
+            "None",
+            "42520",
+            "64-53"
+        ],
+        [
+            "August 12",
+            "Brewers",
+            "3-6",
+            "Brandon Duckworth (4-7)",
+            "Dan Kolb (7)",
+            "23136",
+            "64-54"
+        ],
+        [
+            "August 13",
+            "Brewers",
+            "11-4",
+            "Ben Sheets (10-10)",
+            "None",
+            "24683",
+            "65-54"
+        ],
+        [
+            "August 14",
+            "Brewers",
+            "4-3",
+            "Wes Obermueller (0-4)",
+            "Mike Williams (26)",
+            "23394",
+            "66-54"
+        ],
+        [
+            "August 15",
+            "Cardinals",
+            "7-4",
+            "Woody Williams (14-6)",
+            "Dan Plesac (1)",
+            "28962",
+            "67-54"
+        ],
+        [
+            "August 16",
+            "Cardinals",
+            "5-4",
+            "Dan Haren (3-4)",
+            "Jos\u00e9 Mesa (22)",
+            "35046",
+            "68-54"
+        ],
+        [
+            "August 17",
+            "Cardinals",
+            "6-4",
+            "Brett Tomko (9-8)",
+            "Mike Williams (27)",
+            "42153",
+            "69-54"
+        ],
+        [
+            "August 19",
+            "@ Brewers",
+            "4-6",
+            "Turk Wendell (3-3)",
+            "Dan Kolb (9)",
+            "17028",
+            "69-55"
+        ],
+        [
+            "August 20",
+            "@ Brewers",
+            "1-10",
+            "Randy Wolf (12-8)",
+            "None",
+            "18115",
+            "69-56"
+        ],
+        [
+            "August 21",
+            "@ Brewers",
+            "2-5",
+            "Vicente Padilla (11-9)",
+            "Dan Kolb (10)",
+            "19885",
+            "69-57"
+        ],
+        [
+            "August 22",
+            "@ Cardinals",
+            "9-4",
+            "Steve Kline (4-5)",
+            "None",
+            "33824",
+            "70-57"
+        ],
+        [
+            "August 23",
+            "@ Cardinals",
+            "3-5",
+            "Amaury Telemaco (1-1)",
+            "Jason Isringhausen (14)",
+            "37318",
+            "70-58"
+        ],
+        [
+            "August 24",
+            "@ Cardinals",
+            "0-3",
+            "Kevin Millwood (12-9)",
+            "Mike DeJean (19)",
+            "37679",
+            "70-59"
+        ],
+        [
+            "August 25",
+            "@ Expos",
+            "1-12",
+            "Randy Wolf (12-9)",
+            "None",
+            "30501",
+            "70-60"
+        ],
+        [
+            "August 26",
+            "@ Expos",
+            "10-14",
+            "Mike Williams (1-6)",
+            "Luis Ayala (4)",
+            "12509",
+            "70-61"
+        ],
+        [
+            "August 27",
+            "@ Expos",
+            "6-9",
+            "Dan Plesac (2-1)",
+            "Rocky Biddle (31)",
+            "20105",
+            "70-62"
+        ],
+        [
+            "August 28",
+            "@ Expos",
+            "0-4",
+            "Amaury Telemaco (1-2)",
+            "None",
+            "20030",
+            "70-63"
+        ],
+        [
+            "August 29",
+            "@ Mets",
+            "7-0",
+            "Steve Trachsel (13-8)",
+            "None",
+            "33208",
+            "71-63"
+        ],
+        [
+            "August 30",
+            "@ Mets",
+            "4-2",
+            "Tom Glavine (9-12)",
+            "Jos\u00e9 Mesa (23)",
+            "26769",
+            "72-63"
+        ],
+        [
+            "August 31",
+            "@ Mets",
+            "4-1",
+            "Jae Weong Seo (8-9)",
+            "Jos\u00e9 Mesa (24)",
+            "26180",
+            "73-63"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "05230a9436069ca210676f21d04bd1a7473fd2067ec38a1959e6601dac1c6e59",
+    "metadata": "1932 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "16.20 (116)",
+            "St Kilda",
+            "6.14 (50)",
+            "Punt Road Oval",
+            "25000",
+            "30 April 1932"
+        ],
+        [
+            "Geelong",
+            "14.21 (105)",
+            "North Melbourne",
+            "11.12 (78)",
+            "Corio Oval",
+            "13000",
+            "30 April 1932"
+        ],
+        [
+            "Essendon",
+            "15.15 (105)",
+            "Footscray",
+            "7.12 (54)",
+            "Windy Hill",
+            "30000",
+            "30 April 1932"
+        ],
+        [
+            "South Melbourne",
+            "11.19 (85)",
+            "Melbourne",
+            "9.11 (65)",
+            "Lake Oval",
+            "17500",
+            "30 April 1932"
+        ],
+        [
+            "Hawthorn",
+            "7.9 (51)",
+            "Collingwood",
+            "11.10 (76)",
+            "Glenferrie Oval",
+            "14500",
+            "30 April 1932"
+        ],
+        [
+            "Fitzroy",
+            "12.19 (91)",
+            "Carlton",
+            "10.15 (75)",
+            "Brunswick Street Oval",
+            "25000",
+            "30 April 1932"
+        ]
+    ]
+}

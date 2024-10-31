@@ -1,0 +1,97 @@
+{
+    "id": "5fdca74a1387820e62b39f8406c7b6eeef06b5c3c0c9c2134e01c56f91109515",
+    "metadata": "Locomotives of the Glasgow and South Western Railway | Hugh Smellie (1878-1890) | Hugh Smellie (1878-1890)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Date_",
+        "Builder",
+        "No_built",
+        "_1919_nos_",
+        "LMS_Class",
+        "LMS_nos_"
+    ],
+    "cell": [
+        [
+            "157",
+            "1879-81",
+            "G&SWR Kilmarnock",
+            "12",
+            "720-5",
+            "1P",
+            "14001-2"
+        ],
+        [
+            "119",
+            "1882-5",
+            "G&SWR Kilmarnock",
+            "24",
+            "467-8, 700-719",
+            "1P",
+            "14116-37"
+        ],
+        [
+            "153",
+            "1886-9",
+            "G&SWR Kilmarnock",
+            "20",
+            "448-466",
+            "1P",
+            "14138-56"
+        ],
+        [
+            "1",
+            "1879-81",
+            "G&SWR Kilmarnock",
+            "4",
+            "728-31",
+            "1P",
+            "15241-4"
+        ],
+        [
+            "291",
+            "1883",
+            "A.Barclay",
+            "1",
+            "734",
+            "U",
+            "16042"
+        ],
+        [
+            "218",
+            "1881",
+            "Andrews, Barr & Co",
+            "2",
+            "658-9",
+            "U",
+            "16040-1"
+        ],
+        [
+            "224",
+            "1881-92",
+            "G&SWR Kilmarnock",
+            "44",
+            "135-9, 560-616 with gaps",
+            "1F",
+            "17112-64"
+        ],
+        [
+            "224",
+            "1883",
+            "Neilson",
+            "10",
+            "135-9, 560-616 with gaps",
+            "1F",
+            "17112-64"
+        ],
+        [
+            "224",
+            "1889",
+            "D\u00fcbs",
+            "10",
+            "135-9, 560-616 with gaps",
+            "1F",
+            "17112-64"
+        ]
+    ]
+}

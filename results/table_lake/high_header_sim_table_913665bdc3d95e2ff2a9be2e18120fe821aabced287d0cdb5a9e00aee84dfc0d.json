@@ -1,0 +1,63 @@
+{
+    "id": "913665bdc3d95e2ff2a9be2e18120fe821aabced287d0cdb5a9e00aee84dfc0d",
+    "metadata": "List of Ultras of Africa | Atlas Mountains | Atlas Mountains",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Peak",
+        "Country",
+        "Elevation_m",
+        "Prominence_m",
+        "Col_m"
+    ],
+    "cell": [
+        [
+            "Jbel Toubkal",
+            "Morocco",
+            "4167",
+            "3755",
+            "412"
+        ],
+        [
+            "M`Goun",
+            "Morocco",
+            "4071",
+            "1904",
+            "2167"
+        ],
+        [
+            "Koudiet Tirbirhine",
+            "Morocco",
+            "2456",
+            "1901",
+            "555"
+        ],
+        [
+            "Lalla Khedidja",
+            "Algeria",
+            "2308",
+            "1720",
+            "588"
+        ],
+        [
+            "Adrar Bou Nasser",
+            "Morocco",
+            "3340",
+            "1642",
+            "1698"
+        ],
+        [
+            "Djebel Ch\u00e9lia",
+            "Algeria",
+            "2328",
+            "1612",
+            "716"
+        ],
+        [
+            "Jbel Igdet",
+            "Morocco",
+            "3615",
+            "1609",
+            "2006"
+        ]
+    ]
+}

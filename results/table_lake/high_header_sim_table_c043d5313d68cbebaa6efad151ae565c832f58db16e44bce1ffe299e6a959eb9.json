@@ -1,0 +1,1942 @@
+{
+    "id": "c043d5313d68cbebaa6efad151ae565c832f58db16e44bce1ffe299e6a959eb9",
+    "metadata": "Kangxi radical | Table of radicals | Table of radicals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Radical_variants",
+        "Stroke_count",
+        "P\u012bny\u012bn",
+        "Hiragana_Romaji",
+        "Meaning",
+        "Frequency",
+        "Examples"
+    ],
+    "cell": [
+        [
+            "\u4e00",
+            "1",
+            "y\u012b",
+            "\u3044\u3061-ichi",
+            "one",
+            "42",
+            "\u4e03\u4e09\u4e08\u4e0d\u4e18\u4e16"
+        ],
+        [
+            "\u4e28",
+            "1",
+            "g\u01d4n",
+            "\u307c\u3046-b\u014d",
+            "line",
+            "21",
+            "\u4e2d (zh\u014dng)"
+        ],
+        [
+            "\u4e36",
+            "1",
+            "zh\u01d4",
+            "\u3066\u3093-ten",
+            "dot",
+            "10",
+            "\u4e38\u4e3b"
+        ],
+        [
+            "\u4e3f",
+            "1",
+            "pi\u011b",
+            "\u306e-no",
+            "bend",
+            "33",
+            "\u4e45\u4e4b\u4e4e"
+        ],
+        [
+            "\u4e59 (\u2e84, \u4e5a)",
+            "1",
+            "y\u01d0",
+            "\u304a\u3064-otsu",
+            "second",
+            "42",
+            "\u4e5d\u4e5f"
+        ],
+        [
+            "\u4e85",
+            "1",
+            "ju\u00e9",
+            "\u306f\u306d\u307c\u3046-haneb\u014d",
+            "hook",
+            "19",
+            "\u4e86\u4e8b"
+        ],
+        [
+            "\u4e8c",
+            "2",
+            "\u00e8r",
+            "\u3075\u305f-futa",
+            "two",
+            "29",
+            "\u4e94\u4e95\u4e9b\u4e9e (w\u01d4"
+        ],
+        [
+            "\u4ea0",
+            "2",
+            "t\u00f3u",
+            "\u306a\u3079\u3076\u305f-nabebuta",
+            "lid",
+            "38",
+            "\u4ea1\u4ea4\u4eac"
+        ],
+        [
+            "\u4eba (\u4ebb,\ufffd\ufffd)",
+            "2",
+            "r\u00e9n",
+            "\u3072\u3068-hito",
+            "human",
+            "794",
+            "\u4ec1\u4f11\u4f4d\u4eca"
+        ],
+        [
+            "\u513f",
+            "2",
+            "\u00e9r",
+            "\u306b\u3093\u306b\u3087\u3046- niny\u014d",
+            "legs",
+            "52",
+            "\u5144\u5143"
+        ],
+        [
+            "\u5165",
+            "2",
+            "r\u00f9",
+            "\u3044\u308b-iru",
+            "enter",
+            "28",
+            "\u5165\u5168\u5169"
+        ],
+        [
+            "\u516b",
+            "2",
+            "b\u0101",
+            "\u306f\u3061\u304c\u3057\u3089-hachigashira",
+            "divide",
+            "44",
+            "\u516c\u516d\u5171\u5175 (_ li\u00f9"
+        ],
+        [
+            "\u5182",
+            "2",
+            "ji\u014dng",
+            "\u307e\u304d\u304c\u307e\u3048-makigamae",
+            "upside down box",
+            "50",
+            "\u5185\u518d"
+        ],
+        [
+            "\u5196",
+            "2",
+            "m\u00ec",
+            "\u308f\u304b\u3093\u3080\u308a-wakanmuri",
+            "cover",
+            "30",
+            "\u5197\u51a0"
+        ],
+        [
+            "\u51ab",
+            "2",
+            "b\u012bng",
+            "\u306b\u3059\u3044-nisui",
+            "ice",
+            "115",
+            "\u51ac\u51b6\u51b7\u51cd"
+        ],
+        [
+            "\u51e0",
+            "2",
+            "j\u012b",
+            "\u3064\u304f\u3048 tsukue",
+            "table",
+            "38",
+            "\u51e1"
+        ],
+        [
+            "\u51f5",
+            "2",
+            "q\u016b",
+            "\u3046\u3051\u3070\u3053-ukebako",
+            "container, open mouth",
+            "23",
+            "\u51f6\u51fa\u51fd"
+        ],
+        [
+            "\u5200 (\u5202)",
+            "2",
+            "d\u0101o",
+            "\u304b\u305f\u306a-katana",
+            "knife, sword",
+            "377",
+            "\u5200\u5206\u5207\u521d\u5229\u523b\u5247\u524d"
+        ],
+        [
+            "\u529b",
+            "2",
+            "l\u00ec",
+            "\u3061\u304b\u3089-chikara",
+            "power, force",
+            "163",
+            "\u529b\u52a0\u52a9\u52c9"
+        ],
+        [
+            "\u52f9",
+            "2",
+            "b\u0101o",
+            "\u3064\u3064\u307f\u304c\u307e\u3048-tsutsumigamae",
+            "wrap, embrace",
+            "64",
+            "\u52fe\u5305"
+        ],
+        [
+            "\u5315",
+            "2",
+            "b\u01d0",
+            "\u3055\u3058\u306e\u3072-sajinohi",
+            "spoon",
+            "19",
+            "\u5316\u5317"
+        ],
+        [
+            "\u531a",
+            "2",
+            "f\u0101ng",
+            "\u306f\u3053\u304c\u307e\u3048-hakogamae",
+            "box",
+            "64",
+            "\u5323"
+        ],
+        [
+            "\u5338",
+            "2",
+            "x\u01d0/x\u00ec",
+            "\u304b\u304f\u3057\u304c\u307e\u3048-kakushigamae",
+            "hiding enclosure",
+            "17",
+            "\u5339\u5340"
+        ],
+        [
+            "\u5341",
+            "2",
+            "sh\u00ed",
+            "\u3058\u3085\u3046-j\u016b",
+            "ten, complete",
+            "55",
+            "\u5341\u5343\u5348\u534a\u535a"
+        ],
+        [
+            "\u535c",
+            "2",
+            "b\u01d4",
+            "\u307c\u304f\u306e\u3068-bokunoto",
+            "divination",
+            "45",
+            "\u5360\u5366"
+        ],
+        [
+            "\u5369 (\u353e)",
+            "2",
+            "ji\u00e9",
+            "\u3075\u3057\u3065\u304f\u308a-fushizukuri",
+            "seal",
+            "40",
+            "\u5370\u5371\u5375"
+        ],
+        [
+            "\u5382",
+            "2",
+            "h\u00e0n",
+            "\u304c\u3093\u3060\u308c-gandare",
+            "cliff",
+            "129",
+            "\u539a\u539f"
+        ],
+        [
+            "\u53b6",
+            "2",
+            "s\u012b",
+            "\u3080-mu",
+            "private",
+            "40",
+            "\u53bb\u53c3"
+        ],
+        [
+            "\u53c8",
+            "2",
+            "y\u00f2u",
+            "\u307e\u305f mata",
+            "right hand",
+            "91",
+            "\u53cb\u53cd\u53d6\u53d7"
+        ],
+        [
+            "\u53e3",
+            "3",
+            "k\u01d2u",
+            "\u304f\u3061-kuchi",
+            "mouth, opening",
+            "1146",
+            "\u53e3\u53e4\u53ef\u540d\u541b\u5426\u5449\u544a\u5468\u5473\u547d\u548c\u54f2\u5510\u5584\u5668"
+        ],
+        [
+            "\u56d7",
+            "3",
+            "w\u00e9i",
+            "\u304f\u306b\u304c\u307e\u3048-kunigamae",
+            "enclosure",
+            "118",
+            "\u56db\u56de\u570b\u5716"
+        ],
+        [
+            "\u571f",
+            "3",
+            "t\u01d4",
+            "\u3064\u3061-tsuchi",
+            "earth",
+            "580",
+            "\u571f\u5728\u5730\u578b\u57ce\u5834\u58c1\u58d3"
+        ],
+        [
+            "\u58eb",
+            "3",
+            "sh\u00ec",
+            "\u3055\u3080\u3089\u3044-samurai",
+            "scholar, bachelor",
+            "24",
+            "\u58eb\u58f9"
+        ],
+        [
+            "\u5902",
+            "3",
+            "zh\u01d0",
+            "\u3075\u3086\u304c\u3057\u3089-fuyugashira",
+            "go",
+            "11",
+            "\u5906"
+        ],
+        [
+            "\u590a",
+            "3",
+            "su\u012b",
+            "\u3059\u3044\u306b\u3087\u3046-suiny\u014d",
+            "go slowly",
+            "23",
+            "\u590f"
+        ],
+        [
+            "\u5915",
+            "3",
+            "x\u012b",
+            "\u3086\u3046\u3079-y\u016bbe",
+            "evening, sunset",
+            "34",
+            "\u5915\u5916\u591a\u591c"
+        ],
+        [
+            "\u5927",
+            "3",
+            "d\u00e0",
+            "\u3060\u3044-dai",
+            "big, very",
+            "132",
+            "\u5927\u5929\u5948\u5967"
+        ],
+        [
+            "\u5973",
+            "3",
+            "n\u01da",
+            "\u304a\u3093\u306a-onna",
+            "woman, female",
+            "681",
+            "\u5973\u597d\u5984\u59bb\u59c9\u59cb\u59d3\u59eb"
+        ],
+        [
+            "\u5b50",
+            "3",
+            "z\u01d0",
+            "\u3053-ko",
+            "child, seed",
+            "83",
+            "\u5b50\u5b54\u5b57\u5b78"
+        ],
+        [
+            "\u5b80",
+            "3",
+            "mi\u00e1n",
+            "\u3046\u304b\u3093\u3080\u308a-ukanmuri",
+            "roof",
+            "246",
+            "\u5b88\u5bb6\u5bd2\u5be6"
+        ],
+        [
+            "\u5bf8",
+            "3",
+            "c\u00f9n",
+            "\u3059\u3093-sun",
+            "thumb, inch",
+            "40",
+            "\u5bf8\u5bfa\u5c0a\u5c07"
+        ],
+        [
+            "\u5c0f (\u2e8c, \u2e8d)",
+            "3",
+            "xi\u01ceo",
+            "\u3061\u3044\u3055\u3044-ch\u012bsai",
+            "small, insignificant",
+            "41",
+            "\u5c0f\u5c11"
+        ],
+        [
+            "\u5c22 (\u5c23)",
+            "3",
+            "w\u0101ng",
+            "\u307e\u3052\u3042\u3057-mageashi",
+            "lame",
+            "66",
+            "\u5c24 \u5c31"
+        ],
+        [
+            "\u5c38",
+            "3",
+            "sh\u012b",
+            "\u3057\u304b\u3070\u306d-shikabane",
+            "corpse",
+            "148",
+            "\u5c3a\u5c40"
+        ],
+        [
+            "\u5c6e",
+            "3",
+            "ch\u00e8",
+            "\u3066\u3064-tetsu",
+            "sprout",
+            "38",
+            "\u5c6f"
+        ],
+        [
+            "\u5c71",
+            "3",
+            "sh\u0101n",
+            "\u3084\u307e-yama",
+            "mountain",
+            "636",
+            "\u5c71\u5ca1\u5ca9\u5cf6"
+        ],
+        [
+            "\u5ddb (\u5ddd, \u5ddc)",
+            "3",
+            "chu\u0101n",
+            "\u307e\u304c\u308a\u304c\u308f-magarigawa",
+            "river",
+            "26",
+            "\u5ddd\u5dde\u5de1"
+        ],
+        [
+            "\u5de5",
+            "3",
+            "g\u014dng",
+            "\u305f\u304f\u307f-takumi",
+            "work",
+            "17",
+            "\u5de5\u5de6\u5deb\u5dee"
+        ],
+        [
+            "\u5df1 (\u5df3, \u5df2)",
+            "3",
+            "j\u01d0",
+            "\u304a\u306e\u308c-onore",
+            "oneself",
+            "20",
+            "\u5df1\u5df3"
+        ],
+        [
+            "\u5dfe",
+            "3",
+            "j\u012bn",
+            "\u306f\u3070-haba",
+            "turban, scarf",
+            "295",
+            "\u5e02\u5e03\u5e1d\u5e38"
+        ],
+        [
+            "\u5e72",
+            "3",
+            "g\u0101n",
+            "\u306f\u3059-hasu",
+            "dry",
+            "9",
+            "\u5e73\u5e74"
+        ],
+        [
+            "\u5e7a",
+            "3",
+            "y\u0101o",
+            "\u3044\u3068\u304c\u3057\u3089-itogashira",
+            "short, tiny",
+            "50",
+            "\u5e7b\u5e7c"
+        ],
+        [
+            "\u5e7f",
+            "3",
+            "y\u01cen",
+            "\u307e\u3060\u308c-madare",
+            "house on cliff",
+            "15",
+            "\u5e8f\u5e97\u5e9c\u5ea6\u5ea7\u5ead\u5ee3\u5ef3"
+        ],
+        [
+            "\u5ef4",
+            "3",
+            "y\u00edn",
+            "\u3044\u3093\u306b\u3087\u3046-inny\u014d",
+            "long stride",
+            "9",
+            "\u5ef6"
+        ],
+        [
+            "\u5efe",
+            "3",
+            "g\u01d2ng",
+            "\u306b\u3058\u3085\u3046\u3042\u3057-nijy\u016bashi",
+            "two hands, twenty",
+            "50",
+            "\u5f01"
+        ],
+        [
+            "\u5f0b",
+            "3",
+            "y\u00ec",
+            "\u3057\u304d\u304c\u307e\u3048-shikigamae",
+            "shoot, arrow",
+            "15",
+            "\u5f0f\u5f11"
+        ],
+        [
+            "\u5f13",
+            "3",
+            "g\u014dng",
+            "\u3086\u307f-yumi",
+            "bow",
+            "165",
+            "\u5f13\u5f15\u5f1f\u5f31\u5f4c"
+        ],
+        [
+            "\u5f50 (\u5f51)",
+            "3",
+            "j\u00ec",
+            "\u3051\u3044\u304c\u3057\u3089-keigashira",
+            "pig snout",
+            "25",
+            "\u5f56"
+        ],
+        [
+            "\u5f61",
+            "3",
+            "sh\u0101n",
+            "\u3055\u3093\u3065\u304f\u308a-sandzukuri",
+            "bristle, beard",
+            "62",
+            "\u5f62\u5f66"
+        ],
+        [
+            "\u5f73",
+            "3",
+            "ch\u00ec",
+            "\u304e\u3087\u3046\u306b\u3093\u3079\u3093-gyouninben",
+            "step",
+            "215",
+            "\u5f79\u5f7c\u5f8c\u5f97\u5fb3\u5fbc"
+        ],
+        [
+            "\u5fc3 (\u5fc4,\u2e97)",
+            "4",
+            "x\u012bn",
+            "\u308a\u3063\u3057\u3093\u3079\u3093-risshinben",
+            "heart",
+            "1115",
+            "\u5fc5\u5fd9\u5fcc\u6027\u60aa\u60c5\u60f3"
+        ],
+        [
+            "\u6208",
+            "4",
+            "g\u0113",
+            "\u304b\u306e\u307b\u3053-kanohoko",
+            "spear, halberd",
+            "116",
+            "\u6210\u5f0f\u5f10\u6226"
+        ],
+        [
+            "\u6236 (\u6237,\u6238)",
+            "4",
+            "h\u00f9",
+            "\u3068\u3073\u3089\u306e\u3068-tobiranoto",
+            "door, house",
+            "44",
+            "\u6238\u623b\u6240"
+        ],
+        [
+            "\u624b (\u624c,\u9fb5)",
+            "4",
+            "sh\u01d2u",
+            "\u3066-te",
+            "hand",
+            "1203",
+            "\u624b \u624d \u6301 \u639b \u6319 \u62dc \u62f3 \u638c \u63a3 \u64e7 (\u6253 \u6279 \u6280 \u62b1 \u62bc)"
+        ],
+        [
+            "\u652f",
+            "4",
+            "zh\u012b",
+            "\u3057\u306b\u3087\u3046-shiny\u014d",
+            "branch",
+            "26",
+            "\u6531\u6532"
+        ],
+        [
+            "\u6534 (\u6535)",
+            "4",
+            "p\u016b",
+            "\u307c\u304f\u3065\u304f\u308a-bokuzukuri",
+            "knock",
+            "296",
+            "\u6536\u654d\u6578\u6585"
+        ],
+        [
+            "\u6587",
+            "4",
+            "w\u00e9n",
+            "\u3076\u3093\u306b\u3087\u3046-bunnny\u014d",
+            "script, literature",
+            "26",
+            "\u6587 \u658a \u6588 \u658c \u6590 \u6591 \u6595"
+        ],
+        [
+            "\u6597",
+            "4",
+            "d\u01d2u",
+            "\u3068\u307e\u3059-tomasu",
+            "dipper",
+            "32",
+            "\u6599 \u65a1"
+        ],
+        [
+            "\u65a4",
+            "4",
+            "j\u012bn",
+            "\u304a\u306e-ono",
+            "axe",
+            "55",
+            "\u65a6 \u65a7 \u65b0 \u65a5 \u65ac \u65b7"
+        ],
+        [
+            "\u65b9",
+            "4",
+            "f\u0101ng",
+            "\u307b\u3046-h\u014d",
+            "square, raft",
+            "92",
+            "\u65b9 \u653e \u65c5 \u65cf"
+        ],
+        [
+            "\u65e0 (\u65e1)",
+            "4",
+            "w\u00fa",
+            "\u3080\u306b\u3087\u3046-myny\u014d",
+            "have not",
+            "12",
+            "\u65e0 \u65e1 \u65e2 \u65e3"
+        ],
+        [
+            "\u65e5",
+            "4",
+            "r\u00ec",
+            "\u306b\u3061-nichi",
+            "sun, day",
+            "453",
+            "\u65e5\u767d\u767e\u660e\u7684\u6620\u6642\u6669"
+        ],
+        [
+            "\u66f0",
+            "4",
+            "yu\u0113",
+            "\u3044\u308f\u304f-iwaku",
+            "say",
+            "37",
+            "\u66f8 \u6700 \u6649 \u66f7 \u66f9 \u66fe"
+        ],
+        [
+            "\u6708",
+            "4",
+            "yu\u00e8",
+            "\u3064\u304d-tsuki",
+            "moon, month",
+            "69",
+            "\u6709 \u670d \u9752 \u671d"
+        ],
+        [
+            "\u6728",
+            "4",
+            "m\u00f9",
+            "\u304d-ki",
+            "tree",
+            "1369",
+            "\u6728 \u6762 \u677f \u76f8 \u6839 \u68ee \u697d \u6a5f \u672b \u672c \u6749 \u6797"
+        ],
+        [
+            "\u6b20",
+            "4",
+            "qi\u00e0n",
+            "\u3042\u304f\u3073-akubi",
+            "yawn",
+            "235",
+            "\u6b23 \u6b3d \u6b27 \u6b32 \u6b4c"
+        ],
+        [
+            "\u6b62",
+            "4",
+            "zh\u01d0",
+            "\u3068\u3081\u308b-tomeru",
+            "stop",
+            "99",
+            "\u6b63 \u6b69 \u6b64 \u6b65 \u6b66 \u6b6a \u6b72"
+        ],
+        [
+            "\u6b79 (\u6b7a)",
+            "4",
+            "d\u01cei",
+            "\u304c\u3064\u3078\u3093-gatsuhen",
+            "death, decay",
+            "231",
+            "\u6b7b \u5217 \u6b95"
+        ],
+        [
+            "\u6bb3",
+            "4",
+            "sh\u016b",
+            "\u307b\u3053\u3064\u304f\u308a-hokotsukuri",
+            "weapon, lance",
+            "93",
+            "\u5f79 \u6295 \u6bb4 \u6bb7"
+        ],
+        [
+            "\u6bcb (\u6bcd, \u2e9f)",
+            "4",
+            "w\u00fa",
+            "\u306a\u304b\u308c-nakare",
+            "do not",
+            "16",
+            "\u6bcb \u6bcd \u6bce \u59c6 \u6885"
+        ],
+        [
+            "\u6bd4",
+            "4",
+            "b\u01d0",
+            "\u304f\u3089\u3079\u308b-kuraberu",
+            "compare, compete",
+            "21",
+            "\u7686 \u6279 \u6bd5 \u6bd6 \u6bd8 \u6bda"
+        ],
+        [
+            "\u6bdb",
+            "4",
+            "m\u00e1o",
+            "\u3051-ke",
+            "fur, hair",
+            "211",
+            "\u6bdf \u6be1 \u6be6 \u6beb \u6bf3 \u8017"
+        ],
+        [
+            "\u6c0f",
+            "4",
+            "sh\u00ec",
+            "\u3046\u3058-uji",
+            "clan",
+            "10",
+            "\u6c0f \u6c11 \u7d19 \u5a5a \u6c13"
+        ],
+        [
+            "\u6c14",
+            "4",
+            "q\u00ec",
+            "\u304d\u304c\u307e\u3048-kigamae",
+            "steam, breath",
+            "17",
+            "\u6c17 \u6c7d \u6c27"
+        ],
+        [
+            "\u6c34 (\u6c35,\u6c3a)",
+            "4",
+            "shu\u01d0",
+            "\u307f\u305a-mizu",
+            "water",
+            "1595",
+            "\u6c34 \u6c38 \u6cf3 \u6c7a \u6cbb \u6d77 \u6f14 \u6f22 \u702c"
+        ],
+        [
+            "\u706b (\u706c)",
+            "4",
+            "hu\u01d2",
+            "\u3072-hi",
+            "fire",
+            "639",
+            "\u706b \u706f \u6bef \u7206 (\u70c8 \u70f9 \u7126 \u7136 \u716e)"
+        ],
+        [
+            "\u722a (\u722b)",
+            "4",
+            "zh\u01ceo",
+            "\u3064\u3081-tsume",
+            "claw, nail, talon",
+            "36",
+            "\u722c \u722f \u722d \u7230 \u7232"
+        ],
+        [
+            "\u7236",
+            "4",
+            "f\u00f9",
+            "\u3061\u3061-chichi",
+            "father",
+            "10",
+            "\u65a7 \u91dc"
+        ],
+        [
+            "\u723b",
+            "4",
+            "y\u00e1o",
+            "\u30b3\u30a6-k\u014d",
+            "mix, twine, cross",
+            "16",
+            "\u723c \u723d \u723e"
+        ],
+        [
+            "\u723f (\u4e2c)",
+            "4",
+            "qi\u00e1ng",
+            "\u3057\u3087\u3046\u3078\u3093-sh\u014dhen",
+            "split wood",
+            "48",
+            "\u7240 \u5958 \u7243"
+        ],
+        [
+            "\u7247",
+            "4",
+            "pi\u00e0n",
+            "\u304b\u305f-kata",
+            "(a) slice",
+            "77",
+            "\u7248 \u724c \u7252"
+        ],
+        [
+            "\u7259",
+            "4",
+            "y\u00e1",
+            "\u304d\u3070\u3078\u3093-kibahen",
+            "fang",
+            "9",
+            "\u82bd \u5440 \u725a"
+        ],
+        [
+            "\u725b (\u725c, \u2ea7)",
+            "4",
+            "ni\u00fa",
+            "\u3046\u3057-ushi",
+            "cow",
+            "233",
+            "\u544a \u725f \u7267 \u7269 \u7279 \u89e3"
+        ],
+        [
+            "\u72ac (\u72ad)",
+            "4",
+            "qu\u01cen",
+            "\u3044\u306c-inu",
+            "dog",
+            "444",
+            "\u72ac \u72af \u72c2 \u72d9 \u72d7 \u732e \u7363"
+        ],
+        [
+            "\u7384",
+            "5",
+            "xu\u00e1n",
+            "\u3052\u3093-gen",
+            "dark, profound",
+            "6",
+            "\u5f26\u7386"
+        ],
+        [
+            "\u7389 (\u738a, \u738b, \u2ea9)",
+            "5",
+            "y\u00f9",
+            "\u305f\u307e-tama",
+            "jade",
+            "473",
+            "\u738b \u7389 \u4e3b \u5f04 \u7687 \u7406 \u5dee \u8056"
+        ],
+        [
+            "\u74dc",
+            "5",
+            "gu\u0101",
+            "\u3046\u308a-uri",
+            "melon",
+            "55",
+            "\u5471 \u74de"
+        ],
+        [
+            "\u74e6",
+            "5",
+            "w\u01ce",
+            "\u304b\u308f\u3089-kawara",
+            "tile",
+            "174",
+            "\u74e7 \u74ee \u7504"
+        ],
+        [
+            "\u7518",
+            "5",
+            "g\u0101n",
+            "\u3042\u307e\u3044-amai",
+            "sweet",
+            "22",
+            "\u67d1 \u751c \u9163"
+        ],
+        [
+            "\u751f",
+            "5",
+            "sh\u0113ng",
+            "\u3046\u307e\u308c\u308b-umareru",
+            "life",
+            "22",
+            "\u7272 \u7b19 \u7525"
+        ],
+        [
+            "\u7528 (\u7529)",
+            "5",
+            "y\u00f2ng (shu\u01cei)",
+            "\u3082\u3061\u3044\u308b-moch\u012bru",
+            "use (throw)",
+            "10",
+            "\u4f63 \u752c \u752f"
+        ],
+        [
+            "\u7530",
+            "5",
+            "ti\u00e1n",
+            "\u305f-ta",
+            "field",
+            "192",
+            "\u7530 \u753a \u601d \u7559 \u7565 \u756a"
+        ],
+        [
+            "\u758b (\u2eaa)",
+            "5",
+            "p\u01d0",
+            "\u3072\u304d-hiki",
+            "bolt of cloth",
+            "15",
+            "\u758f \u695a \u80e5 \u5ef6"
+        ],
+        [
+            "\u7592",
+            "5",
+            "n\u00e8",
+            "\u3084\u307e\u3044\u3060\u308c-yamaidare",
+            "sickness",
+            "526",
+            "\u75c5 \u75c7 \u75db \u764c \u7656"
+        ],
+        [
+            "\u7676",
+            "5",
+            "b\u014d",
+            "\u306f\u3064\u304c\u3057\u3089-hatsugashira",
+            "footsteps",
+            "15",
+            "\u767a \u767b"
+        ],
+        [
+            "\u767d",
+            "5",
+            "b\u00e1i",
+            "\u3057\u308d-shiro",
+            "white",
+            "109",
+            "\u7683 \u7684 \u7686 \u7687"
+        ],
+        [
+            "\u76ae",
+            "5",
+            "p\u00ed",
+            "\u3051\u304c\u308f-kegawa",
+            "skin",
+            "94",
+            "\u62ab \u5f7c \u6ce2"
+        ],
+        [
+            "\u76bf",
+            "5",
+            "m\u01d0n",
+            "\u3055\u3089-sara",
+            "dish",
+            "129",
+            "\u76c2 \u76c9 \u76cd \u76e3 \u862f"
+        ],
+        [
+            "\u76ee",
+            "5",
+            "m\u00f9",
+            "\u3081-me",
+            "eye",
+            "647",
+            "\u76ee \u898b \u5177 \u7701 \u7720 \u773c \u89b3 \u89a7"
+        ],
+        [
+            "\u77db",
+            "5",
+            "m\u00e1o",
+            "\u3080\u306e\u307b\u3053-munohoko",
+            "spear",
+            "65",
+            "\u8305 \u77dc"
+        ],
+        [
+            "\u77e2",
+            "5",
+            "sh\u01d0",
+            "\u3084-ya",
+            "arrow",
+            "64",
+            "\u533b \u65cf \u77e9"
+        ],
+        [
+            "\u77f3",
+            "5",
+            "sh\u00ed",
+            "\u3044\u3057-ishi",
+            "stone",
+            "499",
+            "\u77f3 \u5ca9 \u7802 \u7834 \u7891 \u78a7"
+        ],
+        [
+            "\u793a (\u793b)",
+            "5",
+            "sh\u00ec",
+            "\u3057\u3081\u3059-shimesu",
+            "sign",
+            "213",
+            "\u793a \u793c \u793e \u5948 \u795e \u796d \u8996 \u7981 \u798f"
+        ],
+        [
+            "\u79b8",
+            "5",
+            "r\u00f3u",
+            "\u3050\u3046\u306e\u3042\u3057-g\u016bnoashi",
+            "track",
+            "12",
+            "\u79b9 \u79ba \u79bd"
+        ],
+        [
+            "\u79be",
+            "5",
+            "h\u00e9",
+            "\u306e\u304e-nogi",
+            "grain",
+            "431",
+            "\u5229 \u79c1 \u5b63 \u548c \u79d1 \u9999 \u79e6 \u7a40"
+        ],
+        [
+            "\u7a74",
+            "5",
+            "xu\u00e9",
+            "\u3042\u306a-ana",
+            "cave",
+            "298",
+            "\u7a7a \u7a81 \u7a85 \u7a98 \u7aa9 \u7ab6 \u7ac7"
+        ],
+        [
+            "\u7acb",
+            "5",
+            "l\u00ec",
+            "\u305f\u3064-tatsu",
+            "stand, erect",
+            "101",
+            "\u7acb \u97f3 \u7523 \u7fcc \u610f \u65b0 \u7aef \u89aa \u7af6"
+        ],
+        [
+            "\u7af9 (\u2eae)",
+            "6",
+            "zh\u00fa",
+            "\u305f\u3051-take",
+            "bamboo",
+            "953",
+            "\u7afa \u7b11 \u7b2c \u7b49 \u7c21"
+        ],
+        [
+            "\u7c73",
+            "6",
+            "m\u01d0",
+            "\u3053\u3081-kome",
+            "rice",
+            "318",
+            "\u6599 \u65ad \u5965 \u7cca \u9e9f"
+        ],
+        [
+            "\u7cf8 (\u7cf9)",
+            "6",
+            "m\u00ec",
+            "\u3044\u3068-ito",
+            "silk",
+            "823",
+            "\u7cfb \u7d1a \u7d19 \u7d20 \u7d30 \u7d44 \u7d42 \u7d75 \u7d2b"
+        ],
+        [
+            "\u7f36",
+            "6",
+            "f\u01d2u",
+            "\u307b\u3068\u304e-hotogi",
+            "jar",
+            "77",
+            "\u7f36 \u7f38 \u7a91 \u9676"
+        ],
+        [
+            "\u7f51 (\u7f52,\u2eb2,\u7f53,\u2eb3)",
+            "6",
+            "w\u01ceng",
+            "\u3042\u307f\u304c\u3057\u3089-amigashira",
+            "net",
+            "163",
+            "\u8cb7 \u7f6a \u7f6e \u7f85"
+        ],
+        [
+            "\u7f8a (\u2eb6,\u2eb7)",
+            "6",
+            "y\u00e1ng",
+            "\u3072\u3064\u3058-hitsuji",
+            "sheep",
+            "156",
+            "\u7740 \u7f9a \u7fd4 \u7740"
+        ],
+        [
+            "\u7fbd",
+            "6",
+            "y\u01d4",
+            "\u306f\u306d-hane",
+            "feather",
+            "220",
+            "\u7fd2 \u7fc0 \u7fc1 \u7fd4"
+        ],
+        [
+            "\u8001 (\u8002)",
+            "6",
+            "l\u01ceo",
+            "\u304a\u3044-oi",
+            "old",
+            "22",
+            "\u8006\u5b5d\u800b"
+        ],
+        [
+            "\u800c",
+            "6",
+            "\u00e9r",
+            "\u3057\u304b\u3057\u3066-shikashite",
+            "beard",
+            "22",
+            "\u800e\u8010\u8011"
+        ],
+        [
+            "\u8012",
+            "6",
+            "l\u011bi",
+            "\u3089\u3044\u3059\u304d-raisuki",
+            "plow",
+            "84",
+            "\u8014 \u801d \u8028 \u8030"
+        ],
+        [
+            "\u8033",
+            "6",
+            "\u011br",
+            "\u307f\u307f-mimi",
+            "ear",
+            "172",
+            "\u53d6 \u805e \u8077 \u53e2"
+        ],
+        [
+            "\u807f (\u2ebb)",
+            "6",
+            "y\u00f9",
+            "\u3075\u3067\u3065\u304f\u308a-fudezukuri",
+            "brush",
+            "19",
+            "\u5f8b \u66f8 \u5efa"
+        ],
+        [
+            "\u8089 (\u2ebc)",
+            "6",
+            "r\u00f2u",
+            "\u306b\u304f-niku",
+            "meat",
+            "674",
+            "\u8089 \u8096 \u80a1 \u80c3 \u8145 \u8124"
+        ],
+        [
+            "\u81e3",
+            "6",
+            "ch\u00e9n",
+            "\u3057\u3093-shin",
+            "minister, official",
+            "16",
+            "\u81e5 \u5ba6 \u8535"
+        ],
+        [
+            "\u81ea",
+            "6",
+            "z\u00ec",
+            "\u307f\u305a\u304b\u3089-mizukara",
+            "self",
+            "34",
+            "\u81ea \u81eb \u81ec \u81f2"
+        ],
+        [
+            "\u81f3",
+            "6",
+            "zh\u00ec",
+            "\u3044\u305f\u308b-itaru",
+            "arrive",
+            "24",
+            "\u81f4 \u81f8 \u81fa"
+        ],
+        [
+            "\u81fc",
+            "6",
+            "ji\u00f9",
+            "\u3046\u3059-usu",
+            "mortar",
+            "71",
+            "\u6855 \u8205 \u8202 \u9f20 \u63d2"
+        ],
+        [
+            "\u820c",
+            "6",
+            "sh\u00e9",
+            "\u3057\u305f-shita",
+            "tongue",
+            "31",
+            "\u4e71 \u9002 \u8a71 \u820d"
+        ],
+        [
+            "\u821b",
+            "6",
+            "chu\u01cen",
+            "\u307e\u3059-masu",
+            "opposite",
+            "10",
+            "\u821b \u821c \u821e"
+        ],
+        [
+            "\u821f",
+            "6",
+            "zh\u014du",
+            "\u3075\u306d-fune",
+            "boat",
+            "197",
+            "\u822a \u8239 \u8266"
+        ],
+        [
+            "\u826e",
+            "6",
+            "g\u0113n",
+            "\u3046\u3057\u3068\u3089-ushitora",
+            "stopping",
+            "5",
+            "\u826f \u98f2 \u5f88"
+        ],
+        [
+            "\u8272",
+            "6",
+            "s\u00e8",
+            "\u3044\u308d-iro",
+            "colour, prettiness",
+            "21",
+            "\u8272 \u8274 \u8277"
+        ],
+        [
+            "\u8278 (\u8279)",
+            "6",
+            "c\u01ceo",
+            "\u304f\u3055-kusa",
+            "grass",
+            "1902",
+            "\u5171 \u82b1 \u82f1 \u82e6 \u8349 \u8336 \u843d \u5e55 \u9774 \u9784 \u85ac"
+        ],
+        [
+            "\u864d",
+            "6",
+            "h\u016b",
+            "\u3068\u3089\u304b\u3093\u3080\u308a-torakanmuri",
+            "tiger stripes",
+            "114",
+            "\u864e \u8650 \u5f6a \u8652"
+        ],
+        [
+            "\u866b",
+            "6",
+            "hu\u01d0",
+            "\u3080\u3057-mushi",
+            "insect",
+            "1067",
+            "\u86af \u8693 \u5f37 \u89e6 \u87fb \u87f9"
+        ],
+        [
+            "\u8840",
+            "6",
+            "xu\u00e8",
+            "\u3061-chi",
+            "blood",
+            "60",
+            "\u6d2b \u8841 \u8845 \u8846"
+        ],
+        [
+            "\u884c",
+            "6",
+            "x\u00edng",
+            "\u304e\u3087\u3046-gy\u014d",
+            "go, do",
+            "53",
+            "\u884c \u884d \u8853 \u885d"
+        ],
+        [
+            "\u8863 (\u8864)",
+            "6",
+            "y\u012b",
+            "\u3053\u308d\u3082-koromo",
+            "clothes",
+            "607",
+            "\u8863 \u521d \u88ab \u88c5 \u88c1 \u8907"
+        ],
+        [
+            "\u897f (\u897e,\u8980)",
+            "6",
+            "x\u012b",
+            "\u306b\u3057-nishi",
+            "west",
+            "29",
+            "\u897f \u8981 \u898a"
+        ],
+        [
+            "\u898b",
+            "7",
+            "ji\u00e0n",
+            "\u307f\u308b-miru",
+            "see",
+            "161",
+            "\u898f \u89aa \u89ba \u89c0"
+        ],
+        [
+            "\u89d2",
+            "7",
+            "ji\u01ceo",
+            "\u3064\u306e-tsuno",
+            "horn",
+            "158",
+            "\u89da \u89e3 \u89d5 \u89e5 \u89f8"
+        ],
+        [
+            "\u8a00 (\u8a01)",
+            "7",
+            "y\u00e1n",
+            "\u3053\u3068\u3070-kotoba",
+            "speech",
+            "861",
+            "\u8a81 \u8a4b \u8a54 \u8a55 \u8a57 \u8a65 \u8a66 \u8a67"
+        ],
+        [
+            "\u8c37",
+            "7",
+            "g\u01d4",
+            "\u305f\u306b-tani",
+            "valley",
+            "54",
+            "\u8c3f \u8c40 \u8c38"
+        ],
+        [
+            "\u8c46",
+            "7",
+            "d\u00f2u",
+            "\u307e\u3081-mame",
+            "bean",
+            "68",
+            "\u8c48 \u8c50 \u8c4e"
+        ],
+        [
+            "\u8c55",
+            "7",
+            "sh\u01d0",
+            "\u3044\u306e\u3053-inoko",
+            "pig",
+            "148",
+            "\u8c56 \u8c5a \u8c61"
+        ],
+        [
+            "\u8c78",
+            "7",
+            "zh\u00ec",
+            "\u3080\u3058\u306a-mujina",
+            "cat, badger",
+            "140",
+            "\u8c79 \u8c8c \u8c93 \u8c88 \u8c89"
+        ],
+        [
+            "\u8c9d",
+            "7",
+            "b\u00e8i",
+            "\u304b\u3044-kai",
+            "shell",
+            "277",
+            "\u8ca1 \u8cca \u8cdc \u8d1b \u8ca7 \u8ca8 \u8cab \u8cbf"
+        ],
+        [
+            "\u8d64",
+            "7",
+            "ch\u00ec",
+            "\u3042\u304b-aka",
+            "red, bare",
+            "31",
+            "\u8d6b \u8d6d"
+        ],
+        [
+            "\u8d70 (\u8d71)",
+            "7",
+            "z\u01d2u",
+            "\u306f\u3057\u308b-hashiru",
+            "run",
+            "285",
+            "\u8d74 \u8d77 \u8d85"
+        ],
+        [
+            "\u8db3 (\u2eca)",
+            "7",
+            "z\u00fa",
+            "\u3042\u3057-ashi",
+            "foot",
+            "580",
+            "\u8dd1 \u8de8 \u8ddf \u8dea \u8def"
+        ],
+        [
+            "\u8eab",
+            "7",
+            "sh\u0113n",
+            "\u307f-mi",
+            "body",
+            "97",
+            "\u8eac \u8eb2 \u8ec0"
+        ],
+        [
+            "\u8eca",
+            "7",
+            "ch\u0113",
+            "\u304f\u308b\u307e-kuruma",
+            "cart, car",
+            "361",
+            "\u8ecc \u8edf \u8f03 \u8ecd \u8f09"
+        ],
+        [
+            "\u8f9b",
+            "7",
+            "x\u012bn",
+            "\u304b\u3089\u3044-karai",
+            "bitter",
+            "36",
+            "\u8f9c \u8f9f \u8fa3 \u8fa6 \u8fa8"
+        ],
+        [
+            "\u8fb0",
+            "7",
+            "ch\u00e9n",
+            "\u3057\u3093\u306e\u305f\u3064-shinnotatsu",
+            "morning",
+            "15",
+            "\u8fb1 \u8fb2"
+        ],
+        [
+            "\u8fb5 (\u8fb6,\u2ecc,\u2ecd)",
+            "7",
+            "chu\u00f2 / zouzhi",
+            "\u3057\u3093\u306b\u3085\u3046-shinny\u016b",
+            "walk",
+            "381",
+            "\u5de1 \u8fce \u901a \u8ffd \u9003 \u8fb6 \u8fce \u9032"
+        ],
+        [
+            "\u9091 ( \u961d ,\u2ecf,\u2ed6)",
+            "7",
+            "y\u00ec",
+            "\u3080\u3089-mura",
+            "town (\u961d right)",
+            "350",
+            "\u90a3 \u90a6 \u90ce \u90e8 \u90ed \u90fd \u9109"
+        ],
+        [
+            "\u9149",
+            "7",
+            "y\u01d2u",
+            "\u3072\u3088\u307f\u306e\u3068\u308a-hyominotori",
+            "wine, alcohol",
+            "290",
+            "\u9189 \u9171 \u6cb9 \u9192 \u9178"
+        ],
+        [
+            "\u91c6",
+            "7",
+            "bi\u00e0n",
+            "\u306e\u3054\u3081-nogome",
+            "divide, distinguish, choose",
+            "14",
+            "\u91c9 \u91cb"
+        ],
+        [
+            "\u91cc",
+            "7",
+            "l\u01d0",
+            "\u3055\u3068-sato",
+            "village, mile",
+            "14",
+            "\u91ce \u91ce"
+        ],
+        [
+            "\u91d1 (\u91d2)",
+            "8",
+            "j\u012bn",
+            "\u304b\u306d-kane",
+            "metal, gold",
+            "806",
+            "\u9280 \u9285 \u91d8 \u92b3 \u92de \u92d9 \u9252 \u924d \u9257 \u9221 \u9220"
+        ],
+        [
+            "\u9577 (\u9578)",
+            "8",
+            "ch\u00e1ng",
+            "\u306a\u304c\u3044-nagai",
+            "long, grow",
+            "55",
+            "\u9578 \u957d"
+        ],
+        [
+            "\u9580",
+            "8",
+            "m\u00e9n",
+            "\u3082\u3093-mon",
+            "gate",
+            "246",
+            "\u9593 \u9591 \u95dc \u95d8 \u9589 \u958b \u958f \u9593 \u95dc"
+        ],
+        [
+            "\u961c (\u961d)",
+            "8",
+            "f\u00f9",
+            "\u304e\u3075\u306e\u3075-gifunofu",
+            "mound, dam (\u961d left)",
+            "348",
+            "\u962a \u9632 \u963b \u9646 \u9658 \u9662 \u9669 \u9673"
+        ],
+        [
+            "\u96b6",
+            "8",
+            "l\u00ec",
+            "\u308c\u3044\u3065\u304f\u308a-reizukuri",
+            "slave, capture",
+            "12",
+            "\u96b8 \u96ba"
+        ],
+        [
+            "\u96b9",
+            "8",
+            "zhu\u012b",
+            "\u3075\u308b\u3068\u308a-furutori",
+            "small bird",
+            "233",
+            "\u96c0 \u96c6 \u96c1 \u96be \u96c0 \u96c5"
+        ],
+        [
+            "\u96e8",
+            "8",
+            "y\u01d4",
+            "\u3042\u3081-ame",
+            "rain",
+            "298",
+            "\u96fe \u971c \u96ea \u9738 \u96f2 \u9727"
+        ],
+        [
+            "\u9752 (\u9751)",
+            "8",
+            "q\u012bng",
+            "\u3042\u304a-ao",
+            "green, blue",
+            "17",
+            "\u9755 \u9756 \u975c"
+        ],
+        [
+            "\u975e",
+            "8",
+            "f\u0113i",
+            "\u3042\u3089\u305a-arazu",
+            "wrong",
+            "25",
+            "\u9760 \u9760 \u975f"
+        ],
+        [
+            "\u9762 (\u9763)",
+            "9",
+            "mi\u00e0n",
+            "\u3081\u3093-men",
+            "face",
+            "66",
+            "\u9766 \u9768"
+        ],
+        [
+            "\u9769",
+            "9",
+            "g\u00e9",
+            "\u304b\u304f\u306e\u304b\u308f-kakunokawa",
+            "leather, rawhide",
+            "305",
+            "\u9774 \u978d \u9785 \u978d \u97ad"
+        ],
+        [
+            "\u97cb",
+            "9",
+            "w\u00e9i",
+            "\u306a\u3081\u3057\u304c\u308f-nameshigawa",
+            "tanned leather",
+            "100",
+            "\u97cb \u97d3 \u97dc"
+        ],
+        [
+            "\u97ed",
+            "9",
+            "ji\u01d4",
+            "\u306b\u3089-nira",
+            "leek",
+            "20",
+            "\u97f1 \u97f2"
+        ],
+        [
+            "\u97f3",
+            "9",
+            "y\u012bn",
+            "\u304a\u3068-oto",
+            "sound",
+            "43",
+            "\u97f6 \u97fb \u97fe"
+        ],
+        [
+            "\u9801",
+            "9",
+            "y\u00e8",
+            "\u304a\u304a\u304c\u3044-\u014dgai",
+            "leaf",
+            "372",
+            "\u9803 \u9805 \u9806 \u9808 \u9818 \u982d \u9829 \u9802"
+        ],
+        [
+            "\u98a8 (\ufffd\ufffd)",
+            "9",
+            "f\u0113ng",
+            "\u304b\u305c-kaze",
+            "wind",
+            "182",
+            "\u98b1 \u98c4 \u98bf \u98a9 \u98aa"
+        ],
+        [
+            "\u98db",
+            "9",
+            "f\u0113i",
+            "\u3068\u3076-tobu",
+            "fly",
+            "92",
+            "\u98dc \u98dd"
+        ],
+        [
+            "\u98df (\u98e0)",
+            "9",
+            "sh\u00ed",
+            "\u3057\u3087\u304f-shyoku",
+            "eat, food",
+            "403",
+            "\u98ef \u98f2 \u9913 \u9918 \u9910 \u990a"
+        ],
+        [
+            "\u9996",
+            "9",
+            "sh\u01d2u",
+            "\u304f\u3073-kubi",
+            "head",
+            "20",
+            "\u9997 \u9998"
+        ],
+        [
+            "\u9999",
+            "9",
+            "xi\u0101ng",
+            "\u306b\u304a\u3044\u3053\u3046-nioik\u014d",
+            "fragrant",
+            "37",
+            "\u99a8 \u99ab"
+        ],
+        [
+            "\u99ac",
+            "10",
+            "m\u01ce",
+            "\u3046\u307e-uma",
+            "horse",
+            "472",
+            "\u99ae \u99b4 \u99b3 \u99d0 \u9a5a"
+        ],
+        [
+            "\u9aa8",
+            "10",
+            "g\u01d4",
+            "\u307b\u306d-hone",
+            "bone",
+            "185",
+            "\u9abc \u9ad2 \u9ac0 \u9abf \u9abe"
+        ],
+        [
+            "\u9ad8 (\u9ad9)",
+            "10",
+            "g\u0101o",
+            "\u305f\u304b\u3044-takai",
+            "tall, high",
+            "34",
+            "\u9ada \u9adb"
+        ],
+        [
+            "\u9adf",
+            "10",
+            "bi\u0101o",
+            "\u304b\u307f\u304c\u3057\u3089-kamigashira",
+            "hair",
+            "243",
+            "\u9aee \u9b1a \u9b06 \u9b0d \u9ae6"
+        ],
+        [
+            "\u9b25",
+            "10",
+            "d\u00f2u",
+            "\u3068\u3046\u304c\u307e\u3048-t\u014dgamae",
+            "fight",
+            "23",
+            "\u9b27 \u9b2a"
+        ],
+        [
+            "\u9b2f",
+            "10",
+            "ch\u00e0ng",
+            "\u3061\u3087\u3046-chy\u014d",
+            "herbs, sacrificial wine",
+            "8",
+            "\u9b30 \u9b31"
+        ],
+        [
+            "\u9b32",
+            "10",
+            "l\u00ec",
+            "\u304b\u306a\u3048-kanae",
+            "tripod, cauldron",
+            "73",
+            "\u9b36 \u9b37 \u9b38"
+        ],
+        [
+            "\u9b3c",
+            "10",
+            "gu\u01d0",
+            "\u304a\u306b-oni",
+            "ghost, demon",
+            "141",
+            "\u9b42 \u9b41 \u9b3d \u9b44"
+        ],
+        [
+            "\u9b5a",
+            "11",
+            "y\u00fa",
+            "\u3046\u304a-uo",
+            "fish",
+            "571",
+            "\u9bc9 \u9b91 \u9b5b \u9b5c \u9b5d \u9b5e \u9b5f \u9b60"
+        ],
+        [
+            "\u9ce5",
+            "11",
+            "ni\u01ceo",
+            "\u3068\u308a-tori",
+            "bird",
+            "750",
+            "\u9ceb \u9cee \u9cf1 \u9cf3 \u9cf4 \u9cff \u96de \u9cf4 \u9d3b \u9d1b"
+        ],
+        [
+            "\u9e75",
+            "11",
+            "l\u01d4",
+            "\u308d-ro",
+            "salt",
+            "44",
+            "\u9e79 \u9e7c \u9e7d"
+        ],
+        [
+            "\u9e7f",
+            "11",
+            "l\u00f9",
+            "\u3057\u304b-shika",
+            "deer",
+            "104",
+            "\u5875 \u9e83 \u9e8b \u9e89 \u9e9f"
+        ],
+        [
+            "\u9ea5",
+            "11",
+            "m\u00e0i",
+            "\u3080\u304e-mugi",
+            "wheat",
+            "131",
+            "\u9eb4 \u9eb5 \u9eb1 \u9ea8 \u9eba"
+        ],
+        [
+            "\u9ebb",
+            "11",
+            "m\u00e1",
+            "\u3042\u3055-asa",
+            "hemp, flax",
+            "34",
+            "\u9ebc \u9b54"
+        ],
+        [
+            "\u9ec3",
+            "12",
+            "hu\u00e1ng",
+            "\u304d\u3044\u308d-k\u012bru",
+            "yellow",
+            "42",
+            "\u9eca \u9ecc"
+        ],
+        [
+            "\u9ecd",
+            "12",
+            "sh\u01d4",
+            "\u304d\u3073-kibi",
+            "millet",
+            "46",
+            "\u9ecf \u9ece"
+        ],
+        [
+            "\u9ed1",
+            "12",
+            "h\u0113i",
+            "\u304f\u308d-kuro",
+            "black",
+            "172",
+            "\u9ede \u9edb \u9ef1 \u9ee8"
+        ],
+        [
+            "\u9ef9",
+            "12",
+            "zh\u01d0",
+            "\u3075\u3064-futsu",
+            "embroidery, needlework",
+            "8",
+            "\u9efc \u9efb"
+        ],
+        [
+            "\u9efd",
+            "13",
+            "m\u01d0n",
+            "\u3079\u3093-ben",
+            "frog, amphibian",
+            "40",
+            "\u9f08 \u9eff \u9f06"
+        ],
+        [
+            "\u9f0e",
+            "13",
+            "d\u01d0ng",
+            "\u304b\u306a\u3048-kanae",
+            "sacrificial tripod",
+            "14",
+            "\u9f0f \u9f12"
+        ],
+        [
+            "\u9f13",
+            "13",
+            "g\u01d4",
+            "\u3064\u3065\u307f-tsuzumi",
+            "drum",
+            "46",
+            "\u9f17 \u9f18"
+        ],
+        [
+            "\u9f20",
+            "13",
+            "sh\u01d4",
+            "\u306d\u305a\u307f-nezumi",
+            "rat, mouse",
+            "92",
+            "\u9f22 \u9f23 \u9f24"
+        ],
+        [
+            "\u9f3b",
+            "14",
+            "b\u00ed",
+            "\u306f\u306a-hana",
+            "nose",
+            "49",
+            "\u9f3c \u9f3d \u9f3f"
+        ],
+        [
+            "\u9f4a",
+            "14",
+            "q\u00ed",
+            "\u305b\u3044-sei",
+            "even, uniformly",
+            "18",
+            "\u9f4b \u9f4f \u9f4f"
+        ],
+        [
+            "\u9f52",
+            "15",
+            "ch\u01d0",
+            "\u306f-ha",
+            "tooth, molar",
+            "162",
+            "\u9f61 \u9f60 \u9f57"
+        ],
+        [
+            "\u9f8d",
+            "16",
+            "l\u00f3ng",
+            "\u308a\u3085\u3046-ry\u016b",
+            "dragon",
+            "14",
+            "\u9f96 \u9f98"
+        ],
+        [
+            "\u9f9c",
+            "16",
+            "gu\u012b",
+            "\u304b\u3081-kame",
+            "turtle, tortoise",
+            "24",
+            "\u9f9d"
+        ],
+        [
+            "\u9fa0",
+            "17",
+            "yu\u00e8",
+            "\u3084\u304f-yaku",
+            "flute",
+            "19",
+            "\u9fa3 \u9fa4"
+        ]
+    ]
+}

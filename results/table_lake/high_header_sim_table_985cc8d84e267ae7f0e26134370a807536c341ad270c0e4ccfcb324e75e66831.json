@@ -1,0 +1,70 @@
+{
+    "id": "985cc8d84e267ae7f0e26134370a807536c341ad270c0e4ccfcb324e75e66831",
+    "metadata": "2010 NBA All-Star Game | Three-Point Shootout | Contestants",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos_",
+        "Player",
+        "Team",
+        "Height",
+        "Weight",
+        "First_round",
+        "Final_round"
+    ],
+    "cell": [
+        [
+            "F",
+            "Paul Pierce",
+            "Boston Celtics",
+            "6-7",
+            "235",
+            "17",
+            "20"
+        ],
+        [
+            "G",
+            "Stephen Curry",
+            "Golden State Warriors",
+            "6-3",
+            "185",
+            "18",
+            "17"
+        ],
+        [
+            "G",
+            "Chauncey Billups",
+            "Denver Nuggets",
+            "6-3",
+            "202",
+            "17",
+            "14"
+        ],
+        [
+            "G",
+            "Daequan Cook",
+            "Miami Heat",
+            "6-5",
+            "210",
+            "15",
+            "\u2014"
+        ],
+        [
+            "C",
+            "Channing Frye",
+            "Phoenix Suns",
+            "6-11",
+            "245",
+            "15",
+            "\u2014"
+        ],
+        [
+            "F",
+            "Danilo Gallinari",
+            "New York Knicks",
+            "6-10",
+            "225",
+            "15",
+            "\u2014"
+        ]
+    ]
+}

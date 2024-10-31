@@ -1,0 +1,49 @@
+{
+    "id": "06dff22213c51fc0dc2e71cc01c12d9c73a1da2ca5c17d63e3a9f530e7ec7641",
+    "metadata": "1910 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 17",
+            "Shibe Park",
+            "1:54",
+            "26891"
+        ],
+        [
+            "2",
+            "October 18",
+            "Shibe Park",
+            "2:25",
+            "24597"
+        ],
+        [
+            "3",
+            "October 20",
+            "West Side Grounds",
+            "2:07",
+            "26210"
+        ],
+        [
+            "4",
+            "October 22",
+            "West Side Grounds",
+            "2:14",
+            "19150"
+        ],
+        [
+            "5",
+            "October 23",
+            "West Side Grounds",
+            "2:06",
+            "27374"
+        ]
+    ]
+}

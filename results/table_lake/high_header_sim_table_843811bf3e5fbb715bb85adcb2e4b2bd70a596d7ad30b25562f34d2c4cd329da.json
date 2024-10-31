@@ -1,0 +1,55 @@
+{
+    "id": "843811bf3e5fbb715bb85adcb2e4b2bd70a596d7ad30b25562f34d2c4cd329da",
+    "metadata": "Best International Athlete ESPY Award | List of winners | List of winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Sportsperson",
+        "Nation_of_birth",
+        "Team",
+        "Competition_federation_or_league",
+        "Sport"
+    ],
+    "cell": [
+        [
+            "2006",
+            "Albert Pujols",
+            "Dominican Republic",
+            "St. Louis Cardinals",
+            "Major League Baseball",
+            "Baseball"
+        ],
+        [
+            "2007",
+            "Roger Federer",
+            "Switzerland",
+            "Not applicable",
+            "ATP Tour",
+            "Tennis"
+        ],
+        [
+            "2008",
+            "Lorena Ochoa",
+            "Mexico",
+            "Not applicable",
+            "LPGA Tour",
+            "Golf"
+        ],
+        [
+            "2009",
+            "Usain Bolt",
+            "Jamaica",
+            "Not applicable",
+            "Not applicable",
+            "Athletics"
+        ],
+        [
+            "2012",
+            "Lionel Messi",
+            "Argentina",
+            "FC Barcelona / Argentina",
+            "La Liga / FIFA / UEFA / AFA",
+            "Soccer"
+        ]
+    ]
+}

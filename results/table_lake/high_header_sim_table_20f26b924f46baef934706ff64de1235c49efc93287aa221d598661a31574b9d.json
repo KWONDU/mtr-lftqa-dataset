@@ -1,0 +1,112 @@
+{
+    "id": "20f26b924f46baef934706ff64de1235c49efc93287aa221d598661a31574b9d",
+    "metadata": "1969 Oakland Raiders season | Regular Season | Regular Season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 14, 1969",
+            "Houston Oilers",
+            "W 21-17",
+            "49361"
+        ],
+        [
+            "2",
+            "September 20, 1969",
+            "Miami Dolphins",
+            "W 20-17",
+            "50277"
+        ],
+        [
+            "3",
+            "September 28, 1969",
+            "at Boston Patriots",
+            "W 38-23",
+            "19069"
+        ],
+        [
+            "4",
+            "October 4, 1969",
+            "at Miami Dolphins",
+            "T 20-20",
+            "35614"
+        ],
+        [
+            "5",
+            "October 12, 1969",
+            "at Denver Broncos",
+            "W 24-14",
+            "49511"
+        ],
+        [
+            "6",
+            "October 19, 1969",
+            "Buffalo Bills",
+            "W 50-21",
+            "54418"
+        ],
+        [
+            "7",
+            "October 26, 1969",
+            "at San Diego Chargers",
+            "W 24-12",
+            "54008"
+        ],
+        [
+            "8",
+            "November 2, 1969",
+            "at Cincinnati Bengals",
+            "L 31-17",
+            "27927"
+        ],
+        [
+            "9",
+            "November 9, 1969",
+            "Denver Broncos",
+            "W 41-10",
+            "54416"
+        ],
+        [
+            "10",
+            "November 16, 1969",
+            "San Diego Chargers",
+            "W 21-16",
+            "54372"
+        ],
+        [
+            "11",
+            "November 23, 1969",
+            "at Kansas City Chiefs",
+            "W 27-24",
+            "51982"
+        ],
+        [
+            "12",
+            "November 30, 1969",
+            "at New York Jets",
+            "W 27-14",
+            "63865"
+        ],
+        [
+            "13",
+            "December 7, 1969",
+            "Cincinnati Bengals",
+            "W 37-17",
+            "54427"
+        ],
+        [
+            "14",
+            "December 13, 1969",
+            "Kansas City Chiefs",
+            "W 10-6",
+            "54443"
+        ]
+    ]
+}

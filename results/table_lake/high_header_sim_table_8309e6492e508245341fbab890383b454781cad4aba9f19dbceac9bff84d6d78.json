@@ -1,0 +1,55 @@
+{
+    "id": "8309e6492e508245341fbab890383b454781cad4aba9f19dbceac9bff84d6d78",
+    "metadata": "Functional group | Groups containing halogens | Groups containing halogens",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Chemical_class",
+        "Group_",
+        "Formula",
+        "Prefix_",
+        "Suffix",
+        "Example"
+    ],
+    "cell": [
+        [
+            "haloalkane",
+            "halo",
+            "RX",
+            "halo-",
+            "alkyl halide",
+            "Chloroethane (Ethyl chloride)"
+        ],
+        [
+            "fluoroalkane",
+            "fluoro",
+            "RF",
+            "fluoro-",
+            "alkyl fluoride",
+            "Fluoromethane (Methyl fluoride)"
+        ],
+        [
+            "chloroalkane",
+            "chloro",
+            "RCl",
+            "chloro-",
+            "alkyl chloride",
+            "Chloromethane (Methyl chloride)"
+        ],
+        [
+            "bromoalkane",
+            "bromo",
+            "RBr",
+            "bromo-",
+            "alkyl bromide",
+            "Bromomethane (Methyl bromide)"
+        ],
+        [
+            "iodoalkane",
+            "iodo",
+            "RI",
+            "iodo-",
+            "alkyl iodide",
+            "Iodomethane (Methyl iodide)"
+        ]
+    ]
+}

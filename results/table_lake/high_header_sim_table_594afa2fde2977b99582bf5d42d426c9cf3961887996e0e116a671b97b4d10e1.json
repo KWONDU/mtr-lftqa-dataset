@@ -1,0 +1,97 @@
+{
+    "id": "594afa2fde2977b99582bf5d42d426c9cf3961887996e0e116a671b97b4d10e1",
+    "metadata": "2010 F\u00f3rmula Truck season | Race calendar and results | Race calendar and results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Circuit",
+        "Date_",
+        "Pole_Position",
+        "Fastest_Lap",
+        "Winning_driver",
+        "Winning_team"
+    ],
+    "cell": [
+        [
+            "1",
+            "Aut\u00f3dromo Internacional de Guapor\u00e9",
+            "March 7",
+            "Roberval Andrade",
+            "Felipe Giaffone",
+            "Felipe Giaffone",
+            "RM Competi\u00e7\u00f5es"
+        ],
+        [
+            "2",
+            "Aut\u00f3dromo Internacional Nelson Piquet",
+            "April 18",
+            "Danilo Dirani",
+            "Danilo Dirani",
+            "Roberval Andrade",
+            "RVR Corinthians Motorsport"
+        ],
+        [
+            "3",
+            "Aut\u00f3dromo Ayrton Senna , Caruaru",
+            "May 16",
+            "Valmir Benavides",
+            "Valmir Benavides",
+            "Valmir Benavides",
+            "RM Competi\u00e7\u00f5es"
+        ],
+        [
+            "4",
+            "Aut\u00f3dromo Internacional Orlando Moura",
+            "June 26",
+            "Leandro Reis",
+            "Roberval Andrade",
+            "Wellington Cirino",
+            "ABF Mercedes-Benz"
+        ],
+        [
+            "5",
+            "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+            "July 25",
+            "Roberval Andrade",
+            "Leandro Reis",
+            "Roberval Andrade",
+            "RVR Corinthians Motorsport"
+        ],
+        [
+            "6",
+            "Aut\u00f3dromo Internacional Ayrton Senna",
+            "August 22",
+            "Danilo Dirani",
+            "Felipe Giaffone",
+            "Roberval Andrade",
+            "RVR Corinthians Motorsport"
+        ],
+        [
+            "7",
+            "Aut\u00f3dromo Juan y Oscar G\u00e1lvez",
+            "September 19",
+            "Roberval Andrade",
+            "Valmir Benavides",
+            "Geraldo Piquet",
+            "ABF Mercedes-Benz"
+        ],
+        [
+            "8",
+            "Velopark , Nova Santa Rita",
+            "October 10",
+            "Beto Monteiro",
+            "Roberval Andrade",
+            "Beto Monteiro",
+            "Scuderia Iveco"
+        ],
+        [
+            "9",
+            "Aut\u00f3dromo Internacional de Curitiba",
+            "November 14",
+            "Roberval Andrade",
+            "Felipe Giaffone",
+            "Roberval Andrade",
+            "RVR Corinthians Motorsport"
+        ]
+    ]
+}

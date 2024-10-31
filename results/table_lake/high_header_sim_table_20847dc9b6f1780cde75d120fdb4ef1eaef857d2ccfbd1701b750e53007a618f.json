@@ -1,0 +1,84 @@
+{
+    "id": "20847dc9b6f1780cde75d120fdb4ef1eaef857d2ccfbd1701b750e53007a618f",
+    "metadata": "2005 Masters Tournament | Second round (Friday, Saturday) | Second round (Friday, Saturday)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "1",
+            "Chris DiMarco",
+            "United States",
+            "67-67=134",
+            "-10"
+        ],
+        [
+            "2",
+            "Thomas Bj\u00f8rn",
+            "Denmark",
+            "71-67=138",
+            "-6"
+        ],
+        [
+            "3",
+            "Tiger Woods",
+            "United States",
+            "74-66=140",
+            "-4"
+        ],
+        [
+            "T4",
+            "David Howell",
+            "England",
+            "72-69=141",
+            "-3"
+        ],
+        [
+            "T4",
+            "Vijay Singh",
+            "Fiji",
+            "68-73=141",
+            "-3"
+        ],
+        [
+            "T6",
+            "Mark Hensby",
+            "Australia",
+            "69-73=142",
+            "-2"
+        ],
+        [
+            "T6",
+            "Phil Mickelson",
+            "United States",
+            "70-72=142",
+            "-2"
+        ],
+        [
+            "T6",
+            "Ryan Moore (a)",
+            "United States",
+            "71-71=142",
+            "-2"
+        ],
+        [
+            "T9",
+            "Jim Furyk",
+            "United States",
+            "76-67=143",
+            "-1"
+        ],
+        [
+            "T9",
+            "Kirk Triplett",
+            "United States",
+            "75-68=143",
+            "-1"
+        ]
+    ]
+}

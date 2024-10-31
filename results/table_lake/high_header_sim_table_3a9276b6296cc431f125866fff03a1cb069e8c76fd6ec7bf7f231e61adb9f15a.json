@@ -1,0 +1,84 @@
+{
+    "id": "3a9276b6296cc431f125866fff03a1cb069e8c76fd6ec7bf7f231e61adb9f15a",
+    "metadata": "DOM events | Pointer events | Pointer events",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Category",
+        "Type_",
+        "Attribute_",
+        "Bubbles",
+        "Cancelable"
+    ],
+    "cell": [
+        [
+            "Pointer",
+            "pointerdown",
+            "onpointerdown",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Pointer",
+            "pointerup",
+            "onpointerup",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Pointer",
+            "pointercancel",
+            "onpointercancel",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Pointer",
+            "pointermove",
+            "onpointermove",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Pointer",
+            "pointerover",
+            "onpointerover",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Pointer",
+            "pointerout",
+            "onpointerout",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Pointer",
+            "pointerenter",
+            "onpointerenter",
+            "No",
+            "Yes"
+        ],
+        [
+            "Pointer",
+            "pointerleave",
+            "onpointerleave",
+            "No",
+            "Yes"
+        ],
+        [
+            "Pointer",
+            "gotpointercapture",
+            "ongotpointercapture",
+            "Yes",
+            "No"
+        ],
+        [
+            "Pointer",
+            "lostpointercapture",
+            "onlostpointercapture",
+            "Yes",
+            "No"
+        ]
+    ]
+}

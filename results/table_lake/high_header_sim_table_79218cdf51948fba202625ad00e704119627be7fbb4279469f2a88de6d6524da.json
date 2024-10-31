@@ -1,0 +1,61 @@
+{
+    "id": "79218cdf51948fba202625ad00e704119627be7fbb4279469f2a88de6d6524da",
+    "metadata": "Jos\u00e9 Mar\u00eda Olaz\u00e1bal | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "2",
+            "5",
+            "8",
+            "13",
+            "25",
+            "17"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "3",
+            "7",
+            "18",
+            "11"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "2",
+            "2",
+            "9",
+            "21",
+            "16"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "1",
+            "2",
+            "3",
+            "21",
+            "10"
+        ],
+        [
+            "Totals",
+            "2",
+            "8",
+            "15",
+            "32",
+            "85",
+            "54"
+        ]
+    ]
+}

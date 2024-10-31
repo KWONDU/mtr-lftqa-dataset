@@ -1,0 +1,84 @@
+{
+    "id": "f55ad52e91f7881cafc0cb7f238507ad54e27da150ee5e015da2c1650f49cd25",
+    "metadata": "Online Film Critics Society Award for Best Foreign Language Film | 2000s | 2000s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "English_title",
+        "Original_title",
+        "Country",
+        "Director"
+    ],
+    "cell": [
+        [
+            "2000",
+            "Crouching Tiger, Hidden Dragon",
+            "Wo hu cang long",
+            "China",
+            "Ang Lee"
+        ],
+        [
+            "2001",
+            "Am\u00e9lie",
+            "Le fabuleux destin d`Am\u00e9lie Poulain",
+            "France/Germany",
+            "Jean-Pierre Jeunet"
+        ],
+        [
+            "2002",
+            "And Your Mother Too",
+            "Y tu mam\u00e1 tambi\u00e9n",
+            "Mexico",
+            "Alfonso Cuar\u00f3n"
+        ],
+        [
+            "2003",
+            "City of God",
+            "Cidade de Deus",
+            "Brazil",
+            "Fernando Meirelles"
+        ],
+        [
+            "2004",
+            "Hero",
+            "Ying xiong",
+            "China/Hong Kong",
+            "Zhang Yimou"
+        ],
+        [
+            "2005",
+            "Downfall",
+            "Der Untergang",
+            "Germany",
+            "Oliver Hirschbiegel"
+        ],
+        [
+            "2006",
+            "Pan`s Labyrinth",
+            "El laberinto del fauno",
+            "Mexico",
+            "Guillermo Del Toro"
+        ],
+        [
+            "2007",
+            "The Diving Bell and the Butterfly",
+            "Le scaphandre et le papillon",
+            "France/USA",
+            "Julian Schnabel"
+        ],
+        [
+            "2008",
+            "Let the Right One In",
+            "L\u00e5t den r\u00e4tte komma in",
+            "Sweden",
+            "Tomas Alfredson"
+        ],
+        [
+            "2009",
+            "The White Ribbon",
+            "Das wei\u00dfe Band, Eine deutsche Kindergeschichte",
+            "Germany",
+            "Michael Haneke"
+        ]
+    ]
+}

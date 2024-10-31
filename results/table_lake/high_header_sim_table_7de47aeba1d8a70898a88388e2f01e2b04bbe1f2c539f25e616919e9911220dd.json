@@ -1,0 +1,63 @@
+{
+    "id": "7de47aeba1d8a70898a88388e2f01e2b04bbe1f2c539f25e616919e9911220dd",
+    "metadata": "United States House of Representatives elections, 2006 | Alabama | Alabama",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results"
+    ],
+    "cell": [
+        [
+            "Alabama 1",
+            "Jo Bonner",
+            "Republican",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "Alabama 2",
+            "Terry Everett",
+            "Republican",
+            "1992",
+            "Re-elected"
+        ],
+        [
+            "Alabama 3",
+            "Mike D. Rogers",
+            "Republican",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "Alabama 4",
+            "Robert Aderholt",
+            "Republican",
+            "1996",
+            "Re-elected"
+        ],
+        [
+            "Alabama 5",
+            "Robert Cramer",
+            "Democratic",
+            "1990",
+            "Re-elected"
+        ],
+        [
+            "Alabama 6",
+            "Spencer Bachus",
+            "Republican",
+            "1992",
+            "Re-elected"
+        ],
+        [
+            "Alabama 7",
+            "Artur Davis",
+            "Democratic",
+            "2002",
+            "Re-elected"
+        ]
+    ]
+}

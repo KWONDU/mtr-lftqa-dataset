@@ -1,0 +1,70 @@
+{
+    "id": "94c88406419ca5b9bec3f6dec86b48fa1f52d4ff2ab321971dd157926cbce599",
+    "metadata": "1926 VFL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "10.10 (70)",
+            "North Melbourne",
+            "10.10 (70)",
+            "Glenferrie Oval",
+            "4500",
+            "7 August 1926"
+        ],
+        [
+            "Geelong",
+            "12.18 (90)",
+            "St Kilda",
+            "5.8 (38)",
+            "Corio Oval",
+            "10500",
+            "7 August 1926"
+        ],
+        [
+            "Fitzroy",
+            "10.17 (77)",
+            "Richmond",
+            "12.20 (92)",
+            "Brunswick Street Oval",
+            "10000",
+            "7 August 1926"
+        ],
+        [
+            "South Melbourne",
+            "15.17 (107)",
+            "Footscray",
+            "6.12 (48)",
+            "Lake Oval",
+            "14000",
+            "7 August 1926"
+        ],
+        [
+            "Essendon",
+            "6.10 (46)",
+            "Collingwood",
+            "10.9 (69)",
+            "Windy Hill",
+            "20000",
+            "7 August 1926"
+        ],
+        [
+            "Melbourne",
+            "12.18 (90)",
+            "Carlton",
+            "8.10 (58)",
+            "MCG",
+            "27785",
+            "7 August 1926"
+        ]
+    ]
+}

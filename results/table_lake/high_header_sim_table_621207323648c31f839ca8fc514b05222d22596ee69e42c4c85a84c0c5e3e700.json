@@ -1,0 +1,63 @@
+{
+    "id": "621207323648c31f839ca8fc514b05222d22596ee69e42c4c85a84c0c5e3e700",
+    "metadata": "England at the FIFA World Cup | Brazil 1950 | Brazil 1950",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Club",
+        "Qualifying_Goals",
+        "Finals_Goals",
+        "Total_Goals"
+    ],
+    "cell": [
+        [
+            "Stan Mortensen",
+            "Blackpool",
+            "3",
+            "1",
+            "4"
+        ],
+        [
+            "Jack Rowley",
+            "Manchester United",
+            "4",
+            "0",
+            "4"
+        ],
+        [
+            "Jackie Milburn",
+            "Newcastle United",
+            "3",
+            "0",
+            "3"
+        ],
+        [
+            "Stan Pearson",
+            "Manchester United",
+            "2",
+            "0",
+            "2"
+        ],
+        [
+            "Wilf Mannion",
+            "Middlesbrough",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "Roy Bentley",
+            "Chelsea",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "Jack Froggatt",
+            "Portsmouth",
+            "1",
+            "0",
+            "1"
+        ]
+    ]
+}

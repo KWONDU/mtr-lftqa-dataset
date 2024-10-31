@@ -1,0 +1,70 @@
+{
+    "id": "93fb7e81b7db6150d6b475d1d48c336b5a00009e23491bdad66d78dd16a01786",
+    "metadata": "Peseta | Coins | Coins",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Value_",
+        "_equiv_",
+        "Diameter",
+        "Weight",
+        "Composition"
+    ],
+    "cell": [
+        [
+            "1 \u20a7",
+            "0.006 (0.01)",
+            "14mm",
+            "0.55 g",
+            "Aluminium"
+        ],
+        [
+            "5 \u20a7",
+            "0.03",
+            "17.5mm",
+            "3 g",
+            "Aluminium bronze"
+        ],
+        [
+            "10 \u20a7",
+            "0.06",
+            "18.5mm",
+            "4 g",
+            "Cupronickel"
+        ],
+        [
+            "25 \u20a7",
+            "0.15",
+            "19.5mm",
+            "4.25 g",
+            "Aluminium bronze"
+        ],
+        [
+            "50 \u20a7",
+            "0.30",
+            "20.5mm",
+            "5.60 g",
+            "Cupronickel"
+        ],
+        [
+            "100 \u20a7",
+            "0.60",
+            "24.5mm",
+            "9.25 g",
+            "Aluminium bronze"
+        ],
+        [
+            "200 \u20a7",
+            "1.20",
+            "25.5mm",
+            "10.5 g",
+            "Cupronickel"
+        ],
+        [
+            "500 \u20a7",
+            "3.01",
+            "28mm",
+            "12 gr",
+            "Aluminium bronze"
+        ]
+    ]
+}

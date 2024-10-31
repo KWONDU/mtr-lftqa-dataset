@@ -1,0 +1,56 @@
+{
+    "id": "ab651c55a2d2b10fe59b30f8ede634ec707dbf19b11537cbfc068492357dcd1d",
+    "metadata": "EasyJet | Aircraft operated | Fleet history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Aircraft",
+        "Introduced",
+        "Retired",
+        "Seating",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "Airbus A319-100",
+            "2004",
+            "\u2014",
+            "156",
+            "In service"
+        ],
+        [
+            "Airbus A320-200",
+            "2008",
+            "\u2014",
+            "180",
+            "In service"
+        ],
+        [
+            "Airbus A321-200",
+            "2008",
+            "2010",
+            "220",
+            "Inherited from GB Airways"
+        ],
+        [
+            "Boeing 737-204",
+            "1995",
+            "1996",
+            "115",
+            "Replaced by 737-300s"
+        ],
+        [
+            "Boeing 737-300",
+            "1996",
+            "2007",
+            "148/9",
+            "Replaced by A319s"
+        ],
+        [
+            "Boeing 737-700",
+            "2000",
+            "2011",
+            "149",
+            "Replaced by A319s and A320s"
+        ]
+    ]
+}

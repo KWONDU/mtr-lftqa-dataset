@@ -1,0 +1,70 @@
+{
+    "id": "bab2e896ba81fe709e988d7bcaf6e2c022d654a355d2864e9d42224199065502",
+    "metadata": "1970 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "13.14 (92)",
+            "South Melbourne",
+            "11.6 (72)",
+            "Moorabbin Oval",
+            "20851",
+            "25 July 1970"
+        ],
+        [
+            "Footscray",
+            "12.15 (87)",
+            "Geelong",
+            "7.14 (56)",
+            "Western Oval",
+            "14660",
+            "25 July 1970"
+        ],
+        [
+            "Essendon",
+            "18.17 (125)",
+            "Melbourne",
+            "12.17 (89)",
+            "Windy Hill",
+            "9755",
+            "25 July 1970"
+        ],
+        [
+            "Collingwood",
+            "14.21 (105)",
+            "North Melbourne",
+            "8.8 (56)",
+            "Victoria Park",
+            "15678",
+            "25 July 1970"
+        ],
+        [
+            "Richmond",
+            "15.15 (105)",
+            "Hawthorn",
+            "11.17 (83)",
+            "MCG",
+            "55740",
+            "25 July 1970"
+        ],
+        [
+            "Fitzroy",
+            "9.7 (61)",
+            "Carlton",
+            "10.11 (71)",
+            "VFL Park",
+            "13828",
+            "25 July 1970"
+        ]
+    ]
+}

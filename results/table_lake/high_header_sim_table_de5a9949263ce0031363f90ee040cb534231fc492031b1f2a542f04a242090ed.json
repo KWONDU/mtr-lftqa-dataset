@@ -1,0 +1,55 @@
+{
+    "id": "de5a9949263ce0031363f90ee040cb534231fc492031b1f2a542f04a242090ed",
+    "metadata": "1985 PGA Tour | Money leaders | Money leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Curtis Strange",
+            "United States",
+            "542321",
+            "25",
+            "3"
+        ],
+        [
+            "2",
+            "Lanny Wadkins",
+            "United States",
+            "446893",
+            "24",
+            "3"
+        ],
+        [
+            "3",
+            "Calvin Peete",
+            "United States",
+            "384489",
+            "22",
+            "2"
+        ],
+        [
+            "4",
+            "Jim Thorpe",
+            "United States",
+            "379091",
+            "28",
+            "2"
+        ],
+        [
+            "5",
+            "Raymond Floyd",
+            "United States",
+            "378989",
+            "22",
+            "1"
+        ]
+    ]
+}

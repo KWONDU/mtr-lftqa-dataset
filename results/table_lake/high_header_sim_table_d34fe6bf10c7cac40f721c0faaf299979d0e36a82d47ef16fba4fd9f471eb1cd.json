@@ -1,0 +1,63 @@
+{
+    "id": "d34fe6bf10c7cac40f721c0faaf299979d0e36a82d47ef16fba4fd9f471eb1cd",
+    "metadata": "Hey Venus! | Release | Release",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Date_",
+        "Label",
+        "Format",
+        "Catalogue"
+    ],
+    "cell": [
+        [
+            "United Kingdom",
+            "27 August 2007",
+            "Rough Trade Records",
+            "Vinyl record",
+            "RTRADLP 346"
+        ],
+        [
+            "United Kingdom",
+            "27 August 2007",
+            "Rough Trade Records",
+            "Compact disc",
+            "RTRADCD 346"
+        ],
+        [
+            "United Kingdom",
+            "27 August 2007",
+            "Rough Trade Records",
+            "Download",
+            "\u2014"
+        ],
+        [
+            "United States",
+            "28 August 2007",
+            "Rough Trade America",
+            "Vinyl record",
+            "RT-346-1"
+        ],
+        [
+            "United States",
+            "28 August 2007",
+            "Rough Trade America",
+            "Download",
+            "RT-346-5"
+        ],
+        [
+            "United States",
+            "22 January 2008",
+            "Rough Trade America",
+            "Double compact disc",
+            "RTRADCD 423"
+        ],
+        [
+            "Japan",
+            "12 September 2007",
+            "Rough Trade Japan",
+            "Compact disc",
+            "XQCY-1003"
+        ]
+    ]
+}

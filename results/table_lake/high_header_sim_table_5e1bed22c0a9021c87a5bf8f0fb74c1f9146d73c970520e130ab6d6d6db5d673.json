@@ -1,0 +1,159 @@
+{
+    "id": "5e1bed22c0a9021c87a5bf8f0fb74c1f9146d73c970520e130ab6d6d6db5d673",
+    "metadata": "2004 Grand Prix of Road America | Race | Race",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Team",
+        "Laps",
+        "Time_Retired",
+        "Grid",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Alex Tagliani",
+            "Rocketsports Racing",
+            "48",
+            "1:45:07.288",
+            "13",
+            "33"
+        ],
+        [
+            "Rodolfo Lav\u00edn",
+            "Forsythe Racing",
+            "48",
+            "+1.855 secs",
+            "10",
+            "28"
+        ],
+        [
+            "S\u00e9bastien Bourdais",
+            "Newman/Haas Racing",
+            "48",
+            "+2.767 secs",
+            "1",
+            "27"
+        ],
+        [
+            "Ryan Hunter-Reay",
+            "Herdez Competition",
+            "48",
+            "+3.814 secs",
+            "2",
+            "24"
+        ],
+        [
+            "Mario Dom\u00ednguez",
+            "Herdez Competition",
+            "48",
+            "+4.398 secs",
+            "15",
+            "21"
+        ],
+        [
+            "Oriol Servi\u00e0",
+            "Dale Coyne Racing",
+            "48",
+            "+6.390 secs",
+            "8",
+            "19"
+        ],
+        [
+            "Justin Wilson",
+            "Mi-Jack Conquest Racing",
+            "48",
+            "+8.500 secs",
+            "9",
+            "17"
+        ],
+        [
+            "Jimmy Vasser",
+            "PKV Racing",
+            "48",
+            "+8.546 secs",
+            "3",
+            "15"
+        ],
+        [
+            "Michel Jourdain, Jr.",
+            "RuSPORT",
+            "48",
+            "+9.056 secs",
+            "11",
+            "13"
+        ],
+        [
+            "Guy Smith",
+            "Rocketsports Racing",
+            "48",
+            "+9.997 secs",
+            "16",
+            "11"
+        ],
+        [
+            "Mario Haberfeld",
+            "Walker Racing",
+            "48",
+            "+16.725 secs",
+            "12",
+            "10"
+        ],
+        [
+            "Paul Tracy",
+            "Forsythe Racing",
+            "48",
+            "+26.616 secs",
+            "6",
+            "10"
+        ],
+        [
+            "A. J. Allmendinger",
+            "RuSPORT",
+            "47",
+            "+ 1 Lap",
+            "7",
+            "8"
+        ],
+        [
+            "Patrick Carpentier",
+            "Forsythe Racing",
+            "46",
+            "+ 2 Laps",
+            "5",
+            "7"
+        ],
+        [
+            "Bruno Junqueira",
+            "Newman/Haas Racing",
+            "46",
+            "+ 2 Laps",
+            "4",
+            "7"
+        ],
+        [
+            "Roberto Gonz\u00e1lez",
+            "PKV Racing",
+            "46",
+            "+ 2 Laps",
+            "14",
+            "5"
+        ],
+        [
+            "Alex Sperafico",
+            "Mi-Jack Conquest Racing",
+            "46",
+            "+ 2 Laps",
+            "17",
+            "4"
+        ],
+        [
+            "Gast\u00f3n Mazzacane",
+            "Dale Coyne Racing",
+            "29",
+            "Off course",
+            "18",
+            "3"
+        ]
+    ]
+}

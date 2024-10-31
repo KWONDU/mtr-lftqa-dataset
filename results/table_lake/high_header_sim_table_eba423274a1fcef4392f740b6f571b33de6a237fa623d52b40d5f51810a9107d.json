@@ -1,0 +1,70 @@
+{
+    "id": "eba423274a1fcef4392f740b6f571b33de6a237fa623d52b40d5f51810a9107d",
+    "metadata": "1960 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "13.12 (90)",
+            "St Kilda",
+            "13.14 (92)",
+            "Arden Street Oval",
+            "17500",
+            "11 June 1960"
+        ],
+        [
+            "Hawthorn",
+            "13.18 (96)",
+            "Richmond",
+            "11.15 (81)",
+            "Glenferrie Oval",
+            "12000",
+            "11 June 1960"
+        ],
+        [
+            "Melbourne",
+            "10.15 (75)",
+            "Footscray",
+            "6.8 (44)",
+            "MCG",
+            "35539",
+            "11 June 1960"
+        ],
+        [
+            "South Melbourne",
+            "13.12 (90)",
+            "Fitzroy",
+            "13.13 (91)",
+            "Lake Oval",
+            "21500",
+            "11 June 1960"
+        ],
+        [
+            "Geelong",
+            "11.17 (83)",
+            "Essendon",
+            "14.10 (94)",
+            "Kardinia Park",
+            "24119",
+            "11 June 1960"
+        ],
+        [
+            "Collingwood",
+            "16.14 (110)",
+            "Carlton",
+            "10.13 (73)",
+            "Victoria Park",
+            "29853",
+            "11 June 1960"
+        ]
+    ]
+}

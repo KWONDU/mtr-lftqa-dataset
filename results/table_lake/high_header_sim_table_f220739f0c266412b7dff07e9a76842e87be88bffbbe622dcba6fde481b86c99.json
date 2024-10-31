@@ -1,0 +1,77 @@
+{
+    "id": "f220739f0c266412b7dff07e9a76842e87be88bffbbe622dcba6fde481b86c99",
+    "metadata": "BSA Bantam | Models | Models",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Name",
+        "Engine",
+        "Top_Speed",
+        "No_of_Gears",
+        "Electrics"
+    ],
+    "cell": [
+        [
+            "D1",
+            "125cc, bhp (kW)",
+            "mph (km/h)",
+            "3",
+            "Wico-Pacy or Lucas"
+        ],
+        [
+            "BD1",
+            "125cc, bhp (kW)",
+            "mph (km/h)",
+            "3",
+            "Wico-Pacy or Lucas"
+        ],
+        [
+            "D3",
+            "150cc, bhp (kW)",
+            "mph (km/h)",
+            "3",
+            "Wico-Pacy"
+        ],
+        [
+            "D5",
+            "175cc, bhp (kW)",
+            "mph (km/h)",
+            "3",
+            "Wico-Pacy"
+        ],
+        [
+            "D7",
+            "175cc, bhp (kW)",
+            "mph (km/h)",
+            "3",
+            "Wipac"
+        ],
+        [
+            "D10",
+            "175cc, bhp (kW)",
+            "mph (km/h)",
+            "3",
+            "Wipac with coil ignition and 60W alternator"
+        ],
+        [
+            "D10 Sports & Bushman",
+            "175cc, bhp (kW)",
+            "mph (km/h)",
+            "4",
+            "Wipac with coil ignition and 60W alternator"
+        ],
+        [
+            "D14/4 Supreme D14/4 Sports & Bushman",
+            "175cc, bhp (kW)",
+            "mph (km/h)",
+            "4",
+            "Wipac"
+        ],
+        [
+            "D175/B175 & Bushman",
+            "175cc, bhp (kW)",
+            "mph (km/h)",
+            "4",
+            "Wipac"
+        ]
+    ]
+}

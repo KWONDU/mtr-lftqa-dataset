@@ -1,0 +1,49 @@
+{
+    "id": "42923f377f3a504c3cb8391cae3b3e55d79b79bd7d343c448f35627f899b4989",
+    "metadata": "Test matches (1991-2000) | England in South Africa | England in South Africa",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "16,17,18,19,20 November 1995",
+            "Hansie Cronje",
+            "Mike Atherton",
+            "Centurion Park",
+            "DRAW"
+        ],
+        [
+            "30 November, 1,2,3,4 December 1995",
+            "Hansie Cronje",
+            "Mike Atherton",
+            "Wanderers Stadium",
+            "DRAW"
+        ],
+        [
+            "14,15,16,17,18 December 1995",
+            "Hansie Cronje",
+            "Mike Atherton",
+            "Kingsmead",
+            "DRAW"
+        ],
+        [
+            "26,27,28,29,30 December 1995",
+            "Hansie Cronje",
+            "Mike Atherton",
+            "St. George`s Park",
+            "DRAW"
+        ],
+        [
+            "2,3,4 January 1996",
+            "Hansie Cronje",
+            "Mike Atherton",
+            "Newlands",
+            "SA by 10 wkts"
+        ]
+    ]
+}

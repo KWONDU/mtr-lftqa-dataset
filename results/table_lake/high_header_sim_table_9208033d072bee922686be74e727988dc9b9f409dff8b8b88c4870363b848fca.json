@@ -1,0 +1,126 @@
+{
+    "id": "9208033d072bee922686be74e727988dc9b9f409dff8b8b88c4870363b848fca",
+    "metadata": "1987 New Orleans Saints season | Regular season | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance_"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 13, 1987",
+            "Cleveland Browns",
+            "W 28-21",
+            "59900"
+        ],
+        [
+            "2",
+            "September 20, 1987",
+            "at Philadelphia Eagles",
+            "L 27-21",
+            "57485"
+        ],
+        [
+            "-",
+            "September 27, 1987",
+            "Atlanta Falcons",
+            "canceled",
+            ""
+        ],
+        [
+            "3",
+            "October 4, 1987",
+            "Los Angeles Rams",
+            "W 37-10",
+            "29745"
+        ],
+        [
+            "4",
+            "October 11, 1987",
+            "at St. Louis Cardinals",
+            "L 24-19",
+            "11795"
+        ],
+        [
+            "5",
+            "October 18, 1987",
+            "at Chicago Bears",
+            "W 19-17",
+            "46813"
+        ],
+        [
+            "6",
+            "October 25, 1987",
+            "San Francisco 49ers",
+            "L 24-22",
+            "60497"
+        ],
+        [
+            "7",
+            "November 1, 1987",
+            "at Atlanta Falcons",
+            "W 38-0",
+            "42196"
+        ],
+        [
+            "8",
+            "November 8, 1987",
+            "at Los Angeles Rams",
+            "W 31-14",
+            "43379"
+        ],
+        [
+            "9",
+            "November 15, 1987",
+            "at San Francisco 49ers",
+            "W 26-24",
+            "60436"
+        ],
+        [
+            "10",
+            "November 22, 1987",
+            "New York Giants",
+            "W 23-14",
+            "67639"
+        ],
+        [
+            "11",
+            "November 29, 1987",
+            "at Pittsburgh Steelers",
+            "W 20-16",
+            "47896"
+        ],
+        [
+            "12",
+            "December 6, 1987",
+            "Tampa Bay Buccaneers",
+            "W 44-34",
+            "66471"
+        ],
+        [
+            "13",
+            "December 13, 1987",
+            "Houston Oilers",
+            "W 24-10",
+            "68257"
+        ],
+        [
+            "14",
+            "December 20, 1987",
+            "at Cincinnati Bengals",
+            "W 41-24",
+            "43424"
+        ],
+        [
+            "15",
+            "December 27, 1987",
+            "Green Bay Packers",
+            "W 33-24",
+            "68364"
+        ]
+    ]
+}

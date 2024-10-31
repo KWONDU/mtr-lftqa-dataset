@@ -1,0 +1,70 @@
+{
+    "id": "80d00794e695414836442897446bb542a2274208238e8382be993c52c61e9275",
+    "metadata": "1935 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "9.23 (77)",
+            "South Melbourne",
+            "17.14 (116)",
+            "Glenferrie Oval",
+            "12000",
+            "15 June 1935"
+        ],
+        [
+            "Geelong",
+            "13.12 (90)",
+            "Richmond",
+            "10.16 (76)",
+            "Corio Oval",
+            "13000",
+            "15 June 1935"
+        ],
+        [
+            "Essendon",
+            "9.7 (61)",
+            "Fitzroy",
+            "14.19 (103)",
+            "Windy Hill",
+            "17000",
+            "15 June 1935"
+        ],
+        [
+            "Collingwood",
+            "16.30 (126)",
+            "North Melbourne",
+            "6.10 (46)",
+            "Victoria Park",
+            "8000",
+            "15 June 1935"
+        ],
+        [
+            "St Kilda",
+            "14.10 (94)",
+            "Footscray",
+            "7.13 (55)",
+            "Junction Oval",
+            "20000",
+            "15 June 1935"
+        ],
+        [
+            "Melbourne",
+            "7.12 (54)",
+            "Carlton",
+            "9.12 (66)",
+            "MCG",
+            "19546",
+            "15 June 1935"
+        ]
+    ]
+}

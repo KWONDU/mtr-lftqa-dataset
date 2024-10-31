@@ -1,0 +1,61 @@
+{
+    "id": "36f1865df65e7cf1533d94a928e877f72e31e0fa35f4208bf2ae73501672ae29",
+    "metadata": "Roberta Vinci | Doubles: 5 (3-2) | Doubles: 5 (3-2)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Outcome",
+        "Year_",
+        "Championship",
+        "Surface",
+        "Partner",
+        "Opponents",
+        "Score"
+    ],
+    "cell": [
+        [
+            "Runner-up",
+            "2012",
+            "Australian Open",
+            "Hard",
+            "Sara Errani",
+            "Svetlana Kuznetsova Vera Zvonareva",
+            "5-7, 6-4, 6-3"
+        ],
+        [
+            "Winner",
+            "2012",
+            "French Open",
+            "Clay",
+            "Sara Errani",
+            "Maria Kirilenko Nadia Petrova",
+            "4-6, 6-4, 6-2"
+        ],
+        [
+            "Winner",
+            "2012",
+            "US Open",
+            "Hard",
+            "Sara Errani",
+            "Andrea Hlav\u00e1\u010dkov\u00e1 Lucie Hradeck\u00e1",
+            "6-4, 6-2"
+        ],
+        [
+            "Winner",
+            "2013",
+            "Australian Open",
+            "Hard",
+            "Sara Errani",
+            "Ashleigh Barty Casey Dellacqua",
+            "6-2, 3-6, 6-2"
+        ],
+        [
+            "Runner-up",
+            "2013",
+            "French Open",
+            "Clay",
+            "Sara Errani",
+            "Ekaterina Makarova Elena Vesnina",
+            "5-7, 2-6"
+        ]
+    ]
+}

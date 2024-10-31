@@ -1,0 +1,106 @@
+{
+    "id": "5fa210b515f98bd1f2da7704bee6e7ee4ec0b2d41a7318c0282b465b53626c7b",
+    "metadata": "USA South Athletic Conference | Former members | Former members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Nickname",
+        "Founded",
+        "Type_",
+        "Enrollment",
+        "Joined",
+        "Left_",
+        "Current_Conference"
+    ],
+    "cell": [
+        [
+            "Chowan University",
+            "Murfreesboro, North Carolina",
+            "Hawks",
+            "1848",
+            "Private",
+            "1260",
+            "2000",
+            "2004",
+            "CIAA (NCAA Division II)"
+        ],
+        [
+            "Christopher Newport University",
+            "Newport News, Virginia",
+            "Captains",
+            "1960",
+            "Public",
+            "4793",
+            "1972",
+            "2013",
+            "Capital"
+        ],
+        [
+            "College of Charleston",
+            "Charleston, South Carolina",
+            "Cougars",
+            "1770",
+            "Private",
+            "11320",
+            "1963",
+            "1970",
+            "CAA (NCAA Division I)"
+        ],
+        [
+            "Lynchburg College",
+            "Lynchburg, Virginia",
+            "Fighting Hornets",
+            "1903",
+            "Private",
+            "2500",
+            "1963",
+            "1976",
+            "ODAC"
+        ],
+        [
+            "Shenandoah University",
+            "Winchester, Virginia",
+            "Hornets",
+            "1875",
+            "Private",
+            "1767",
+            "1992",
+            "2012",
+            "ODAC"
+        ],
+        [
+            "St. Andrews Presbyterian University",
+            "Laurinburg, North Carolina",
+            "Knights",
+            "1958",
+            "Private",
+            "600",
+            "1963",
+            "1988",
+            "AAC (NAIA)"
+        ],
+        [
+            "University of North Carolina at Charlotte",
+            "Charlotte, North Carolina",
+            "49ers",
+            "1961",
+            "Public",
+            "25227",
+            "1963",
+            "1970",
+            "C-USA (NCAA Division I)"
+        ],
+        [
+            "University of North Carolina at Greensboro",
+            "Greensboro, North Carolina",
+            "Spartans",
+            "1891",
+            "Public",
+            "18502",
+            "1968",
+            "1988",
+            "SoCon (NCAA Division I)"
+        ]
+    ]
+}

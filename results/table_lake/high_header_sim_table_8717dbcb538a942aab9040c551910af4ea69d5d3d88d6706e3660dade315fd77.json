@@ -1,0 +1,84 @@
+{
+    "id": "8717dbcb538a942aab9040c551910af4ea69d5d3d88d6706e3660dade315fd77",
+    "metadata": "List of corporations by market capitalization | Publicly traded companies | 2006",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Headquarters",
+        "Industry",
+        "Market_value_USD_million"
+    ],
+    "cell": [
+        [
+            "1",
+            "Exxon Mobil",
+            "United States",
+            "Oil and gas",
+            "371631"
+        ],
+        [
+            "2",
+            "General Electric",
+            "United States",
+            "Conglomerate",
+            "362527"
+        ],
+        [
+            "3",
+            "Microsoft",
+            "United States",
+            "Software industry",
+            "281171"
+        ],
+        [
+            "4",
+            "Citigroup",
+            "United States",
+            "Banking",
+            "238935"
+        ],
+        [
+            "5",
+            "BP",
+            "United Kingdom",
+            "Oil and gas",
+            "233260"
+        ],
+        [
+            "6",
+            "Bank of America",
+            "United States",
+            "Banking",
+            "211706"
+        ],
+        [
+            "7",
+            "Royal Dutch Shell",
+            "The Netherlands",
+            "Oil and gas",
+            "211280"
+        ],
+        [
+            "8",
+            "Wal-Mart",
+            "United States",
+            "Retail",
+            "196860"
+        ],
+        [
+            "9",
+            "Toyota Motor Corporation",
+            "Japan",
+            "Automotive",
+            "196731"
+        ],
+        [
+            "10",
+            "Gazprom",
+            "Russia",
+            "Oil and gas",
+            "196339"
+        ]
+    ]
+}

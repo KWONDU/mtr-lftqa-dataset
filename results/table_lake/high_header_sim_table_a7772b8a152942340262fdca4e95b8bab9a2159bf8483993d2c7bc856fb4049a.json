@@ -1,0 +1,70 @@
+{
+    "id": "a7772b8a152942340262fdca4e95b8bab9a2159bf8483993d2c7bc856fb4049a",
+    "metadata": "1959 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "12.8 (80)",
+            "Melbourne",
+            "10.11 (71)",
+            "Western Oval",
+            "12549",
+            "8 August 1959"
+        ],
+        [
+            "Fitzroy",
+            "11.15 (81)",
+            "Geelong",
+            "6.11 (47)",
+            "Brunswick Street Oval",
+            "14488",
+            "8 August 1959"
+        ],
+        [
+            "Collingwood",
+            "12.18 (90)",
+            "St Kilda",
+            "9.11 (65)",
+            "Victoria Park",
+            "29178",
+            "8 August 1959"
+        ],
+        [
+            "South Melbourne",
+            "8.14 (62)",
+            "Hawthorn",
+            "10.3 (63)",
+            "Lake Oval",
+            "13000",
+            "8 August 1959"
+        ],
+        [
+            "North Melbourne",
+            "11.8 (74)",
+            "Essendon",
+            "16.14 (110)",
+            "Arden Street Oval",
+            "18500",
+            "8 August 1959"
+        ],
+        [
+            "Richmond",
+            "13.6 (84)",
+            "Carlton",
+            "14.20 (104)",
+            "Punt Road Oval",
+            "16000",
+            "8 August 1959"
+        ]
+    ]
+}

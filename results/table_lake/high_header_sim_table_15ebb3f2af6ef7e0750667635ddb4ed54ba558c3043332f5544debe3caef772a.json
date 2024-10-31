@@ -1,0 +1,49 @@
+{
+    "id": "15ebb3f2af6ef7e0750667635ddb4ed54ba558c3043332f5544debe3caef772a",
+    "metadata": "Love for Sale (Boney M. album) | Charts | Charts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Single",
+        "Chart",
+        "Position_",
+        "Weeks_on_chart"
+    ],
+    "cell": [
+        [
+            "1977",
+            "Ma Baker",
+            "UK single chart",
+            "2",
+            "13"
+        ],
+        [
+            "1977",
+            "Ma Baker",
+            "Norway `s single chart",
+            "1",
+            "23"
+        ],
+        [
+            "1977",
+            "Ma Baker",
+            "Dutch Top 40",
+            "1",
+            "15"
+        ],
+        [
+            "1977",
+            "Belfast",
+            "UK single chart",
+            "8",
+            "13"
+        ],
+        [
+            "1977",
+            "Belfast",
+            "Dutch Top 40",
+            "3",
+            "11"
+        ]
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "4af0910c92a92085f154f16327391e11c68ecbca95bcb2950bd6fc6ced83a761",
+    "metadata": "1952 Formula One season | World Championship season review | World Championship season review",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Race",
+        "Circuit",
+        "Date_",
+        "Pole_position",
+        "Fastest_lap",
+        "Winning_driver",
+        "Constructor_",
+        "Tyre",
+        "Report"
+    ],
+    "cell": [
+        [
+            "Swiss Grand Prix",
+            "Bremgarten",
+            "18 May",
+            "Giuseppe Farina",
+            "Piero Taruffi",
+            "Piero Taruffi",
+            "Ferrari",
+            "P",
+            "Report"
+        ],
+        [
+            "Indianapolis 500",
+            "Indianapolis",
+            "30 May",
+            "Fred Agabashian",
+            "Bill Vukovich",
+            "Troy Ruttman",
+            "Kuzma - Offenhauser",
+            "F",
+            "Report"
+        ],
+        [
+            "Belgian Grand Prix",
+            "Spa-Francorchamps",
+            "22 June",
+            "Alberto Ascari",
+            "Alberto Ascari",
+            "Alberto Ascari",
+            "Ferrari",
+            "P",
+            "Report"
+        ],
+        [
+            "French Grand Prix",
+            "Rouen-Les-Essarts",
+            "6 July",
+            "Alberto Ascari",
+            "Alberto Ascari",
+            "Alberto Ascari",
+            "Ferrari",
+            "P",
+            "Report"
+        ],
+        [
+            "British Grand Prix",
+            "Silverstone",
+            "19 July",
+            "Giuseppe Farina",
+            "Alberto Ascari",
+            "Alberto Ascari",
+            "Ferrari",
+            "P",
+            "Report"
+        ],
+        [
+            "German Grand Prix",
+            "N\u00fcrburgring",
+            "3 August",
+            "Alberto Ascari",
+            "Alberto Ascari",
+            "Alberto Ascari",
+            "Ferrari",
+            "E",
+            "Report"
+        ],
+        [
+            "Dutch Grand Prix",
+            "Zandvoort",
+            "17 August",
+            "Alberto Ascari",
+            "Alberto Ascari",
+            "Alberto Ascari",
+            "Ferrari",
+            "P",
+            "Report"
+        ],
+        [
+            "Italian Grand Prix",
+            "Monza",
+            "7 September",
+            "Alberto Ascari",
+            "Alberto Ascari Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
+            "Alberto Ascari",
+            "Ferrari",
+            "P",
+            "Report"
+        ]
+    ]
+}

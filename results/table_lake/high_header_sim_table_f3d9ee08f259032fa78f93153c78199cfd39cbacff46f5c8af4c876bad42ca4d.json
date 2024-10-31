@@ -1,0 +1,112 @@
+{
+    "id": "f3d9ee08f259032fa78f93153c78199cfd39cbacff46f5c8af4c876bad42ca4d",
+    "metadata": "1970 San Francisco 49ers season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 20, 1970",
+            "Washington Redskins",
+            "W 26-17",
+            "34984"
+        ],
+        [
+            "2",
+            "September 27, 1970",
+            "Cleveland Browns",
+            "W 34-31",
+            "37502"
+        ],
+        [
+            "3",
+            "October 4, 1970",
+            "at Atlanta Falcons",
+            "L 21-20",
+            "58850"
+        ],
+        [
+            "4",
+            "October 11, 1970",
+            "at Los Angeles Rams",
+            "W 20-6",
+            "77272"
+        ],
+        [
+            "5",
+            "October 18, 1970",
+            "New Orleans Saints",
+            "T 20-20",
+            "39446"
+        ],
+        [
+            "6",
+            "October 25, 1970",
+            "Denver Broncos",
+            "W 19-14",
+            "39515"
+        ],
+        [
+            "7",
+            "November 1, 1970",
+            "Green Bay Packers",
+            "W 26-10",
+            "59335"
+        ],
+        [
+            "8",
+            "November 8, 1970",
+            "at Chicago Bears",
+            "W 37-16",
+            "45607"
+        ],
+        [
+            "9",
+            "November 15, 1970",
+            "at Houston Oilers",
+            "W 30-20",
+            "43040"
+        ],
+        [
+            "10",
+            "November 22, 1970",
+            "at Detroit Lions",
+            "L 28-7",
+            "56232"
+        ],
+        [
+            "11",
+            "November 29, 1970",
+            "Los Angeles Rams",
+            "L 30-13",
+            "59602"
+        ],
+        [
+            "12",
+            "December 6, 1970",
+            "Atlanta Falcons",
+            "W 24-20",
+            "41387"
+        ],
+        [
+            "13",
+            "December 13, 1970",
+            "at New Orleans Saints",
+            "W 38-27",
+            "61940"
+        ],
+        [
+            "14",
+            "December 20, 1970",
+            "at Oakland Raiders",
+            "W 38-7",
+            "54535"
+        ]
+    ]
+}

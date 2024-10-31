@@ -1,0 +1,98 @@
+{
+    "id": "3ed51cae322b0eade4e4028fda6cdec7a3cfc85097f36caec677dcb29e92bf17",
+    "metadata": "National Ambient Air Quality Standards | Standards | Standards",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pollutant",
+        "Type_",
+        "Standard",
+        "Averaging_Time",
+        "Regulatory_Citation"
+    ],
+    "cell": [
+        [
+            "SO 2",
+            "Primary",
+            "0.14 ppm (365 \u03bcg / m 3 )",
+            "24-hour",
+            "40 CFR 50.4(b)"
+        ],
+        [
+            "SO 2",
+            "Primary",
+            "0.030 ppm (80 \u03bcg/m\u00b3)",
+            "annual",
+            "40 CFR 50.4(a)"
+        ],
+        [
+            "SO 2",
+            "Secondary",
+            "0.5 ppm (1,300 \u03bcg/m\u00b3)",
+            "3-hour",
+            "40 CFR 50.5(a)"
+        ],
+        [
+            "PM 10",
+            "Primary and Secondary",
+            "150 \u03bcg/m\u00b3",
+            "24-hour",
+            "40 CFR 50.6(a)"
+        ],
+        [
+            "PM 2.5",
+            "Secondary",
+            "35 \u03bcg/m\u00b3",
+            "24-hour",
+            "40 CFR 50.7(a)"
+        ],
+        [
+            "PM 2.5",
+            "Primary",
+            "15 \u03bcg/m\u00b3",
+            "annual",
+            "40 CFR 50.7(a)"
+        ],
+        [
+            "CO",
+            "Primary",
+            "35 ppm (40 mg /m\u00b3)",
+            "1-hour",
+            "40 CFR 50.8(a)(2)"
+        ],
+        [
+            "CO",
+            "Primary",
+            "9 ppm (10mg/m\u00b3)",
+            "8-hour",
+            "40 CFR 50.8(a)(1)"
+        ],
+        [
+            "O 3",
+            "Primary and Secondary",
+            "0.12 ppm (235 \u03bcg/m\u00b3)",
+            "1-hour",
+            "40 CFR 50.9(a)"
+        ],
+        [
+            "O 3",
+            "Primary and Secondary",
+            "0.075 ppm (150 \u03bcg/m\u00b3)",
+            "8-hour",
+            "40 CFR 50.10(a)"
+        ],
+        [
+            "NO 2",
+            "Primary and Secondary",
+            "0.053 ppm (100 \u03bcg/m\u00b3)",
+            "annual",
+            "40 CFR 50.11(a) and (b)"
+        ],
+        [
+            "Pb",
+            "Primary and Secondary",
+            "0.15 \u03bcg/m\u00b3",
+            "Rolling 3 months",
+            "40 CFR 50.12"
+        ]
+    ]
+}

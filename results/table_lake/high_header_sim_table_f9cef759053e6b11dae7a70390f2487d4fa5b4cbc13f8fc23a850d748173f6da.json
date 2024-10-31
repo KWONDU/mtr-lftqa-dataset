@@ -1,0 +1,49 @@
+{
+    "id": "f9cef759053e6b11dae7a70390f2487d4fa5b4cbc13f8fc23a850d748173f6da",
+    "metadata": "Rare-earth magnet | Magnetic properties | Magnetic properties",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Magnet",
+        "B_r_T",
+        "H_ci_kA_m",
+        "BH_max_kJ_m_3_",
+        "T_c_C"
+    ],
+    "cell": [
+        [
+            "Nd 2 Fe 14 B (sintered)",
+            "1.0-1.4",
+            "750-2000",
+            "200-440",
+            "310-400"
+        ],
+        [
+            "Nd 2 Fe 14 B (bonded)",
+            "0.6-0.7",
+            "600-1200",
+            "60-100",
+            "310-400"
+        ],
+        [
+            "SmCo 5 (sintered)",
+            "0.8-1.1",
+            "600-2000",
+            "120-200",
+            "720"
+        ],
+        [
+            "Sm(Co,Fe,Cu,Zr) 7 (sintered)",
+            "0.9-1.15",
+            "450-1300",
+            "150-240",
+            "800"
+        ],
+        [
+            "Alnico (sintered)",
+            "0.6-1.4",
+            "275",
+            "10-88",
+            "700-860"
+        ]
+    ]
+}

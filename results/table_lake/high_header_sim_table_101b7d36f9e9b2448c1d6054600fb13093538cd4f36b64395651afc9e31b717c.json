@@ -1,0 +1,91 @@
+{
+    "id": "101b7d36f9e9b2448c1d6054600fb13093538cd4f36b64395651afc9e31b717c",
+    "metadata": "1934 Masters Tournament | First round | First round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Horton Smith",
+            "United States",
+            "70",
+            "-2"
+        ],
+        [
+            "T1",
+            "Jimmy Hines",
+            "United States",
+            "70",
+            "-2"
+        ],
+        [
+            "T1",
+            "Emmet French",
+            "United States",
+            "70",
+            "-2"
+        ],
+        [
+            "T4",
+            "Craig Wood",
+            "United States",
+            "71",
+            "-1"
+        ],
+        [
+            "T4",
+            "Walter Hagen",
+            "United States",
+            "71",
+            "-1"
+        ],
+        [
+            "T4",
+            "Henry Picard",
+            "United States",
+            "71",
+            "-1"
+        ],
+        [
+            "T4",
+            "Johnny Golden",
+            "United States",
+            "71",
+            "-1"
+        ],
+        [
+            "T8",
+            "Billy Burke",
+            "United States",
+            "72",
+            "E"
+        ],
+        [
+            "T8",
+            "Ky Laffoon",
+            "United States",
+            "72",
+            "E"
+        ],
+        [
+            "T10",
+            "Denny Shute",
+            "United States",
+            "73",
+            "+1"
+        ],
+        [
+            "T10",
+            "Leo Diegel",
+            "United States",
+            "73",
+            "+1"
+        ]
+    ]
+}

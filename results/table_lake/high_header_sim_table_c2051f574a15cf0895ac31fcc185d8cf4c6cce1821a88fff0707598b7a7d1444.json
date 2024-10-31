@@ -1,0 +1,84 @@
+{
+    "id": "c2051f574a15cf0895ac31fcc185d8cf4c6cce1821a88fff0707598b7a7d1444",
+    "metadata": "High-temperature superconductivity | Bi-, Tl- and Hg-based high-  c  superconductors | Critical temperature (T c ), crystal structure and lattice constants of some high-T c superconductors",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Formula",
+        "Notation",
+        "T_c_K",
+        "No_of_Cu_O_planes_in_unit_cell",
+        "Crystal_structure"
+    ],
+    "cell": [
+        [
+            "YBa 2 Cu 3 O 7",
+            "123",
+            "92",
+            "2",
+            "Orthorhombic"
+        ],
+        [
+            "Bi 2 Sr 2 CuO 6",
+            "Bi-2201",
+            "20",
+            "1",
+            "Tetragonal"
+        ],
+        [
+            "Bi 2 Sr 2 CaCu 2 O 8",
+            "Bi-2212",
+            "85",
+            "2",
+            "Tetragonal"
+        ],
+        [
+            "Bi 2 Sr 2 Ca 2 Cu 3 O 6",
+            "Bi-2223",
+            "110",
+            "3",
+            "Tetragonal"
+        ],
+        [
+            "Tl 2 Ba 2 CuO 6",
+            "Tl-2201",
+            "80",
+            "1",
+            "Tetragonal"
+        ],
+        [
+            "Tl 2 Ba 2 CaCu 2 O 8",
+            "Tl-2212",
+            "108",
+            "2",
+            "Tetragonal"
+        ],
+        [
+            "Tl 2 Ba 2 Ca 2 Cu 3 O 10",
+            "Tl-2223",
+            "125",
+            "3",
+            "Tetragonal"
+        ],
+        [
+            "TlBa 2 Ca 3 Cu 4 O 11",
+            "Tl-1234",
+            "122",
+            "4",
+            "Tetragonal"
+        ],
+        [
+            "HgBa 2 CuO 4",
+            "Hg-1201",
+            "94",
+            "1",
+            "Tetragonal"
+        ],
+        [
+            "HgBa 2 CaCu 2 O 6",
+            "Hg-1212",
+            "128",
+            "2",
+            "Tetragonal"
+        ]
+    ]
+}

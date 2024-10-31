@@ -1,0 +1,49 @@
+{
+    "id": "50a8b58b953ec37a3bf1fe70e20f39a35954144539c8fb0355209dbd52ed7eac",
+    "metadata": "NFL career scoring leaders | Non-kickers | Non-kickers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Position_",
+        "Career",
+        "Points"
+    ],
+    "cell": [
+        [
+            "31",
+            "Jerry Rice",
+            "wide receiver",
+            "1985-2004",
+            "1256"
+        ],
+        [
+            "47",
+            "Emmitt Smith",
+            "running back",
+            "1990-2004",
+            "1052"
+        ],
+        [
+            "52",
+            "LaDainian Tomlinson",
+            "running back",
+            "2001-2011",
+            "972"
+        ],
+        [
+            "59",
+            "Randy Moss",
+            "wide receiver",
+            "1998-2012",
+            "950"
+        ],
+        [
+            "61T",
+            "Terrell Owens",
+            "wide receiver",
+            "1996-2010",
+            "942"
+        ]
+    ]
+}

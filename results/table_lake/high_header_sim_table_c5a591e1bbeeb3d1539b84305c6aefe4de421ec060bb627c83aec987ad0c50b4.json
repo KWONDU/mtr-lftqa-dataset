@@ -1,0 +1,56 @@
+{
+    "id": "c5a591e1bbeeb3d1539b84305c6aefe4de421ec060bb627c83aec987ad0c50b4",
+    "metadata": "2008-09 Ottawa Senators season | Pre-season | Pre-season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_",
+        "Opponent",
+        "Location_",
+        "Score"
+    ],
+    "cell": [
+        [
+            "September 20",
+            "7:00pm",
+            "New York Rangers",
+            "Scotiabank Place",
+            "W, 3-2"
+        ],
+        [
+            "September 22",
+            "7:00pm",
+            "New York Rangers",
+            "Madison Square Garden",
+            "L, 2-1"
+        ],
+        [
+            "September 24",
+            "7:00pm",
+            "Philadelphia Flyers",
+            "Scotiabank Place",
+            "W, 3-1"
+        ],
+        [
+            "September 26",
+            "7:30pm",
+            "Montreal Canadiens",
+            "Bell Centre",
+            "L, 5-0"
+        ],
+        [
+            "September 27",
+            "7:00pm",
+            "Montreal Canadiens",
+            "Scotiabank Place",
+            "W, 3-1"
+        ],
+        [
+            "October 2",
+            "1:00pm",
+            "Fr\u00f6lunda HC Gothenburg",
+            "Scandinavium Arena",
+            "W, 4-1"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "50c537b33b77876743993157ee561b633a2af274d4ca998556521a9fc7a54596",
+    "metadata": "2004 Masters Tournament | Second round | Second round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "1",
+            "Justin Rose",
+            "England",
+            "67-71=138",
+            "-6"
+        ],
+        [
+            "T2",
+            "Alex \u010cejka",
+            "Germany",
+            "70-70=140",
+            "-4"
+        ],
+        [
+            "T2",
+            "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
+            "Spain",
+            "71-69=140",
+            "-4"
+        ],
+        [
+            "T4",
+            "K. J. Choi",
+            "South Korea",
+            "71-70=141",
+            "-3"
+        ],
+        [
+            "T4",
+            "Phil Mickelson",
+            "United States",
+            "72-69=141",
+            "-3"
+        ],
+        [
+            "T6",
+            "Fred Couples",
+            "United States",
+            "73-69=142",
+            "-2"
+        ],
+        [
+            "T6",
+            "Chris DiMarco",
+            "United States",
+            "69=73=142",
+            "-2"
+        ],
+        [
+            "T6",
+            "Ernie Els",
+            "South Africa",
+            "70-72=142",
+            "-2"
+        ],
+        [
+            "T6",
+            "Charles Howell III",
+            "United States",
+            "71-71=142",
+            "-2"
+        ],
+        [
+            "T6",
+            "Davis Love III",
+            "United States",
+            "75-67=142",
+            "-2"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "f7ba95dd53e29528ab5a1b3b1cd08793b42b46153140e55b194ff80ebce5027c",
+    "metadata": "Digital radio in the United Kingdom | Regional ensembles | Regional ensembles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Operator_",
+        "Licence_award_date",
+        "On_air_date",
+        "Closure_date"
+    ],
+    "cell": [
+        [
+            "Central Scotland",
+            "Switch Digital",
+            "6 October 2000",
+            "June 2001",
+            "N/A"
+        ],
+        [
+            "North East England",
+            "MXR Ltd",
+            "15 December 2000",
+            "July 2001",
+            "29 July 2013"
+        ],
+        [
+            "South Wales and the Severn Estuary",
+            "MXR Ltd",
+            "23 January 2001",
+            "July 2001",
+            "29 July 2013"
+        ],
+        [
+            "West Midlands",
+            "MXR Ltd",
+            "9 February 2001",
+            "August 2001",
+            "27 August 2013"
+        ],
+        [
+            "North West England",
+            "MXR Ltd",
+            "9 March 2001",
+            "September 2001",
+            "24 September 2013"
+        ],
+        [
+            "Yorkshire",
+            "MXR Ltd",
+            "28 November 2002",
+            "June 2003",
+            "2015"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "9acba7c39f6e8baff44d5139bcad62f9241a1891047272c7098cf4d9bcb2d01f",
+    "metadata": "1956 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "16.18 (114)",
+            "North Melbourne",
+            "11.5 (71)",
+            "MCG",
+            "16186",
+            "11 August 1956"
+        ],
+        [
+            "Footscray",
+            "15.13 (103)",
+            "Hawthorn",
+            "9.6 (60)",
+            "Western Oval",
+            "16492",
+            "11 August 1956"
+        ],
+        [
+            "Essendon",
+            "11.10 (76)",
+            "South Melbourne",
+            "7.16 (58)",
+            "Windy Hill",
+            "13000",
+            "11 August 1956"
+        ],
+        [
+            "Carlton",
+            "7.24 (66)",
+            "Richmond",
+            "10.11 (71)",
+            "Princes Park",
+            "22500",
+            "11 August 1956"
+        ],
+        [
+            "St Kilda",
+            "6.7 (43)",
+            "Fitzroy",
+            "8.8 (56)",
+            "Junction Oval",
+            "14200",
+            "11 August 1956"
+        ],
+        [
+            "Geelong",
+            "10.9 (69)",
+            "Collingwood",
+            "15.11 (101)",
+            "Kardinia Park",
+            "32155",
+            "11 August 1956"
+        ]
+    ]
+}

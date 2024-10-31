@@ -1,0 +1,55 @@
+{
+    "id": "25ae80465d63ea5b6bd55d9a67c0f7ed8b018330a60c0f30b77b2523b5d90d28",
+    "metadata": "United States House of Representatives elections, 1926 | Alabama | Alabama",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Alabama 1",
+            "John McDuffie",
+            "Democratic",
+            "1918",
+            "Re-elected",
+            "John McDuffie (D) 84.0% Aubrey Boyles (R) 16.0%"
+        ],
+        [
+            "Alabama 2",
+            "J. Lister Hill",
+            "Democratic",
+            "1923",
+            "Re-elected",
+            "J. Lister Hill (D) Unopposed"
+        ],
+        [
+            "Alabama 4",
+            "Lamar Jeffers",
+            "Democratic",
+            "1921",
+            "Re-elected",
+            "Lamar Jeffers (D) 68.1% Omar H. Reynolds (R) 31.9%"
+        ],
+        [
+            "Alabama 6",
+            "William B. Oliver",
+            "Democratic",
+            "1914",
+            "Re-elected",
+            "William B. Oliver (D) 99.0% C. M. Ayers (R) 1.0%"
+        ],
+        [
+            "Alabama 8",
+            "Edward B. Almon",
+            "Democratic",
+            "1914",
+            "Re-elected",
+            "Edward B. Almon (D) 90.1% Robert M. Sims (R) 9.9%"
+        ]
+    ]
+}

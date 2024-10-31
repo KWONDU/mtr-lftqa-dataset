@@ -1,0 +1,98 @@
+{
+    "id": "e18856e5f15e5c4053bb0df5c6af831f5ba9c2b31439e27d9a79a2fd7b7f4002",
+    "metadata": "Primary schools in Dacorum | North-east | North-east",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Faith",
+        "Type_",
+        "DCSF_number",
+        "Ofsted_number"
+    ],
+    "cell": [
+        [
+            "Aycliffe Drive",
+            "-",
+            "Primary",
+            "2426",
+            "117335"
+        ],
+        [
+            "Broadfield",
+            "-",
+            "Primary",
+            "3991",
+            "135339"
+        ],
+        [
+            "Brockswood",
+            "-",
+            "Primary",
+            "2448",
+            "117349"
+        ],
+        [
+            "George Street",
+            "-",
+            "Primary",
+            "2040",
+            "117106"
+        ],
+        [
+            "Hammond",
+            "-",
+            "Primary",
+            "2337",
+            "117282"
+        ],
+        [
+            "Haywood Grove",
+            "-",
+            "Special",
+            "7047",
+            "131319"
+        ],
+        [
+            "Hobletts Manor",
+            "-",
+            "Infant",
+            "2184",
+            "117197"
+        ],
+        [
+            "Hobletts Manor",
+            "-",
+            "Junior",
+            "2023",
+            "117097"
+        ],
+        [
+            "Holtsmere End",
+            "-",
+            "Infant",
+            "2995",
+            "117377"
+        ],
+        [
+            "Holtsmere End",
+            "-",
+            "Junior",
+            "2427",
+            "117336"
+        ],
+        [
+            "Maple Grove",
+            "-",
+            "Primary",
+            "3987",
+            "135221"
+        ],
+        [
+            "Yewtree",
+            "-",
+            "Primary",
+            "3988",
+            "135222"
+        ]
+    ]
+}

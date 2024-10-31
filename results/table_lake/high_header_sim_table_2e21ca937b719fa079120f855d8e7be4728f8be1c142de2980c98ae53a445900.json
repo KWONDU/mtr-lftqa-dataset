@@ -1,0 +1,95 @@
+{
+    "id": "2e21ca937b719fa079120f855d8e7be4728f8be1c142de2980c98ae53a445900",
+    "metadata": "2003 Tennis Masters Series | Doubles | Doubles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Surface",
+        "Week",
+        "Winners",
+        "Finalists",
+        "Semifinalists"
+    ],
+    "cell": [
+        [
+            "Indian Wells",
+            "Hard",
+            "March 10",
+            "Ferreira / Kafelnikov 3-6, 7-5, 6-4",
+            "Bryan / Byran",
+            "Paes / Rikl Bj\u00f6rkman / Woodbridge"
+        ],
+        [
+            "Miami",
+            "Hard",
+            "March 17",
+            "Federer / Mirnyi 7-5, 6-3",
+            "Paes / Rikl",
+            "Gonz\u00e1lez / Robredo Bryan / Byran"
+        ],
+        [
+            "Monte Carlo",
+            "Clay",
+            "April 14",
+            "Bhupathi / Mirnyi 6-4, 3-6, 7-6(6)",
+            "Llodra / Santoro",
+            "Johnson / Ullyett \u010cerm\u00e1k / Friedl"
+        ],
+        [
+            "Rome",
+            "Clay",
+            "May 5",
+            "Arthurs / Hanley 6-1, 6-3",
+            "Llodra / Santoro",
+            "Damm / Suk Bhupathi / Mirnyi"
+        ],
+        [
+            "Hamburg",
+            "Clay",
+            "May 12",
+            "Knowles / Nestor 6-4, 7-6(10)",
+            "Bhupathi / Mirnyi",
+            "Paes / Rikl Bryan / Byran"
+        ],
+        [
+            "Canada (Montr\u00e9al)",
+            "Hard",
+            "August 4",
+            "Bhupathi / Mirnyi 6-3, 7-6(4)",
+            "Bj\u00f6rkman / Woodbridge",
+            "Damm / Suk Bryan / Byran"
+        ],
+        [
+            "Cincinnati",
+            "Hard",
+            "August 11",
+            "Bryan / Bryan 7-5, 7-6(5)",
+            "Arthurs / Hanley",
+            "Bhupathi / Mirnyi Knowles / Nestor"
+        ],
+        [
+            "Madrid",
+            "Hard (i)",
+            "October 13",
+            "Bhupathi / Mirnyi 6-2, 2-6, 6-3",
+            "Black / Ullyett",
+            "Palmer / Rikl Costa / Martin Verkerk"
+        ],
+        [
+            "Paris",
+            "Carpet (i)",
+            "October 27",
+            "Arthurs / Hanley 6-3, 1-6, 6-3",
+            "Llodra / Santoro",
+            "Knowles / Nestor Bj\u00f6rkman / Woodbridge"
+        ],
+        [
+            "Houston ( TMC )",
+            "Hard",
+            "November 23",
+            "Bryan / Byran 6-7(6), 6-3, 3-6, 7-6(3), 6-4",
+            "Llodra / Santoro",
+            "Knowles / Nestor Etlis / Rodr\u00edguez"
+        ]
+    ]
+}

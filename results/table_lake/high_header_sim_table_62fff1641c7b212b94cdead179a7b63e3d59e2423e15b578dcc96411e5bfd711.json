@@ -1,0 +1,70 @@
+{
+    "id": "62fff1641c7b212b94cdead179a7b63e3d59e2423e15b578dcc96411e5bfd711",
+    "metadata": "1950 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "13.24 (102)",
+            "Hawthorn",
+            "4.9 (33)",
+            "Western Oval",
+            "10000",
+            "6 May 1950"
+        ],
+        [
+            "South Melbourne",
+            "11.15 (81)",
+            "St Kilda",
+            "15.13 (103)",
+            "Lake Oval",
+            "20000",
+            "6 May 1950"
+        ],
+        [
+            "North Melbourne",
+            "12.11 (83)",
+            "Melbourne",
+            "7.17 (59)",
+            "Arden Street Oval",
+            "18000",
+            "6 May 1950"
+        ],
+        [
+            "Richmond",
+            "9.15 (69)",
+            "Fitzroy",
+            "8.11 (59)",
+            "Punt Road Oval",
+            "17000",
+            "6 May 1950"
+        ],
+        [
+            "Geelong",
+            "8.16 (64)",
+            "Essendon",
+            "18.11 (119)",
+            "Kardinia Park",
+            "23000",
+            "6 May 1950"
+        ],
+        [
+            "Collingwood",
+            "8.22 (70)",
+            "Carlton",
+            "12.9 (81)",
+            "Victoria Park",
+            "30000",
+            "6 May 1950"
+        ]
+    ]
+}

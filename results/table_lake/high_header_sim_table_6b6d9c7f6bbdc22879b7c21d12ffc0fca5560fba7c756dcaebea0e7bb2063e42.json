@@ -1,0 +1,84 @@
+{
+    "id": "6b6d9c7f6bbdc22879b7c21d12ffc0fca5560fba7c756dcaebea0e7bb2063e42",
+    "metadata": "2000 Masters Tournament | Third round | Third round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "1",
+            "Vijay Singh",
+            "Fiji",
+            "72-67-70=209",
+            "-7"
+        ],
+        [
+            "2",
+            "David Duval",
+            "United States",
+            "73-65-74=212",
+            "-4"
+        ],
+        [
+            "T3",
+            "Ernie Els",
+            "South Africa",
+            "72-67-74=213",
+            "-3"
+        ],
+        [
+            "T3",
+            "Loren Roberts",
+            "United States",
+            "73-69-71=213",
+            "-3"
+        ],
+        [
+            "T5",
+            "Davis Love III",
+            "United States",
+            "75-72-68=215",
+            "-1"
+        ],
+        [
+            "T5",
+            "Phil Mickelson",
+            "United States",
+            "71-68-76=215",
+            "-1"
+        ],
+        [
+            "T5",
+            "Mike Weir",
+            "Canada",
+            "75-70-70=215",
+            "-1"
+        ],
+        [
+            "T5",
+            "Tiger Woods",
+            "United States",
+            "75-72-68=215",
+            "-1"
+        ],
+        [
+            "T9",
+            "Tom Lehman",
+            "United States",
+            "69-72-75=216",
+            "E"
+        ],
+        [
+            "T9",
+            "Nick Price",
+            "Zimbabwe",
+            "74-69-73=216",
+            "E"
+        ]
+    ]
+}

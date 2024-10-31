@@ -1,0 +1,61 @@
+{
+    "id": "4e413b4db94b722c36029c64b26e233ef970eede2f60ae87167750c71c184c73",
+    "metadata": "Dave Stockton | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "2",
+            "4",
+            "6",
+            "12",
+            "10"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "1",
+            "2",
+            "3",
+            "16",
+            "9"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "0",
+            "0",
+            "1",
+            "2",
+            "2"
+        ],
+        [
+            "PGA Championship",
+            "2",
+            "2",
+            "2",
+            "5",
+            "24",
+            "17"
+        ],
+        [
+            "Totals",
+            "2",
+            "5",
+            "8",
+            "15",
+            "54",
+            "38"
+        ]
+    ]
+}

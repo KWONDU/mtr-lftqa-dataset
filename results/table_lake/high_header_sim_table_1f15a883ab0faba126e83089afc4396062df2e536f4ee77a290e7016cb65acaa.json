@@ -1,0 +1,97 @@
+{
+    "id": "1f15a883ab0faba126e83089afc4396062df2e536f4ee77a290e7016cb65acaa",
+    "metadata": "Alderney Railway | Rolling stock | Past - British Admiralty",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Date_built",
+        "Builder",
+        "Works_No_",
+        "Wheels",
+        "Cylinders",
+        "Notes",
+        "Withdrawn_"
+    ],
+    "cell": [
+        [
+            "Veteran",
+            "1847",
+            "?",
+            "?",
+            "0-6-0",
+            "Inside",
+            "arr. 1847",
+            "?"
+        ],
+        [
+            "Fairfield",
+            "1847",
+            "?",
+            "?",
+            "0-6-0",
+            "Inside",
+            "arr. 1847",
+            "?"
+        ],
+        [
+            "Waverley",
+            "?",
+            "Henry Hughes of Loughborough",
+            "?",
+            "0-4-0ST",
+            "Outside",
+            "-",
+            "1889"
+        ],
+        [
+            "Bee",
+            "?",
+            "?",
+            "?",
+            "0-6-0T",
+            "?",
+            "-",
+            "?"
+        ],
+        [
+            "Spider",
+            "?",
+            "?",
+            "?",
+            "0-6-0T",
+            "?",
+            "-",
+            "?"
+        ],
+        [
+            "Gillingham",
+            "?",
+            "Aveling and Porter",
+            "?",
+            "0-6-0TG",
+            "?",
+            "arr. 1893",
+            "1893"
+        ],
+        [
+            "No.1",
+            "1880",
+            "Hunslet",
+            "231",
+            "0-6-0ST",
+            "Inside",
+            "arr. 1893",
+            "1923"
+        ],
+        [
+            "No.2",
+            "1898",
+            "Peckett",
+            "696",
+            "0-4-0ST",
+            "Outside",
+            "arr. 1904",
+            "1923"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "4e91826ef75f597aca10d93d7956b3460fcb05aee3a9a02348cbc91b891e2e85",
+    "metadata": "1992 American League Championship Series | Toronto Blue Jays vs. Oakland Athletics | Toronto Blue Jays vs. Oakland Athletics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 7",
+            "SkyDome",
+            "2:47",
+            "51039"
+        ],
+        [
+            "2",
+            "October 8",
+            "SkyDome",
+            "2:58",
+            "51114"
+        ],
+        [
+            "3",
+            "October 10",
+            "Oakland-Alameda County Coliseum",
+            "3:40",
+            "46911"
+        ],
+        [
+            "4",
+            "October 11",
+            "Oakland-Alameda County Coliseum",
+            "4:25",
+            "47732"
+        ],
+        [
+            "5",
+            "October 12",
+            "Oakland-Alameda County Coliseum",
+            "2:51",
+            "44955"
+        ],
+        [
+            "6",
+            "October 14",
+            "SkyDome",
+            "3:15",
+            "51335"
+        ]
+    ]
+}

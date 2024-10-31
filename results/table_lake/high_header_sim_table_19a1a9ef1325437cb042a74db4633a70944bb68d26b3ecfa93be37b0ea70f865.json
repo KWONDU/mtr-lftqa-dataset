@@ -1,0 +1,63 @@
+{
+    "id": "19a1a9ef1325437cb042a74db4633a70944bb68d26b3ecfa93be37b0ea70f865",
+    "metadata": "WAFJ | Translators | Translators",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "WZAE",
+            "93.3",
+            "Wadley, Georgia",
+            "4000",
+            "A",
+            "FCC"
+        ],
+        [
+            "W257BG",
+            "99.3",
+            "Statesboro, Georgia",
+            "80",
+            "D",
+            "FCC"
+        ],
+        [
+            "W252BH",
+            "98.3",
+            "Washington, Georgia",
+            "27",
+            "D",
+            "FCC"
+        ],
+        [
+            "W224BE",
+            "92.7",
+            "Sylvania, Georgia",
+            "27",
+            "D",
+            "FCC"
+        ],
+        [
+            "W254BN",
+            "98.7",
+            "Sparta, Georgia",
+            "55",
+            "D",
+            "FCC"
+        ],
+        [
+            "W245AN",
+            "96.9",
+            "Milledgeville, Georgia",
+            "19",
+            "D",
+            "FCC"
+        ]
+    ]
+}

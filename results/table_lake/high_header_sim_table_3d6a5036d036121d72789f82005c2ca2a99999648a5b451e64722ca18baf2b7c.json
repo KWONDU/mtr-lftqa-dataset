@@ -1,0 +1,84 @@
+{
+    "id": "3d6a5036d036121d72789f82005c2ca2a99999648a5b451e64722ca18baf2b7c",
+    "metadata": "1954 Team Speedway Polish Championship | First League | First League",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Match_",
+        "Points",
+        "Draw",
+        "Lost"
+    ],
+    "cell": [
+        [
+            "Unia Leszno",
+            "18",
+            "32",
+            "0",
+            "2"
+        ],
+        [
+            "Sp\u00f3jnia Wroc\u0142aw",
+            "18",
+            "28",
+            "0",
+            "4"
+        ],
+        [
+            "Kolejarz Rawicz",
+            "18",
+            "26",
+            "0",
+            "5"
+        ],
+        [
+            "Gwardia Bydgoszcz",
+            "18",
+            "20",
+            "0",
+            "8"
+        ],
+        [
+            "Budowlani Warszawa",
+            "18",
+            "19",
+            "1",
+            "8"
+        ],
+        [
+            "CWKS Wroc\u0142aw",
+            "18",
+            "18",
+            "0",
+            "9"
+        ],
+        [
+            "G\u00f3rnik Rybnik",
+            "18",
+            "16",
+            "0",
+            "10"
+        ],
+        [
+            "Ogniwo \u0141\u00f3d\u017a",
+            "18",
+            "10",
+            "0",
+            "13"
+        ],
+        [
+            "W\u0142\u00f3kniarz Cz\u0119stochowa",
+            "18",
+            "9",
+            "1",
+            "13"
+        ],
+        [
+            "Stal \u015awi\u0119toch\u0142owice",
+            "18",
+            "2",
+            "0",
+            "17"
+        ]
+    ]
+}

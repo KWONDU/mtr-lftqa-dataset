@@ -1,0 +1,63 @@
+{
+    "id": "8f282f3d30edfc9c1afd6a576a3e85c58e60fc22f3d3040d2c1c6ab3e978a807",
+    "metadata": "SD Croatia Berlin | UEFA Club Competitions Record | UEFA Club Competitions Record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Competition",
+        "Round",
+        "Opponent",
+        "Result_",
+        "Venue"
+    ],
+    "cell": [
+        [
+            "2010/11",
+            "UEFA Futsal Cup",
+            "Preliminary round",
+            "Ararat",
+            "-",
+            "Nicosia"
+        ],
+        [
+            "2010/11",
+            "UEFA Futsal Cup",
+            "Preliminary round",
+            "Levski Sofia Zapad",
+            "-",
+            "Nicosia"
+        ],
+        [
+            "2010/11",
+            "UEFA Futsal Cup",
+            "Preliminary round",
+            "Anzhi Tallinn",
+            "-",
+            "Nicosia"
+        ],
+        [
+            "2011/12",
+            "UEFA Futsal Cup",
+            "Preliminary round",
+            "Ilves FS",
+            "4-8",
+            "Perth"
+        ],
+        [
+            "2011/12",
+            "UEFA Futsal Cup",
+            "Preliminary round",
+            "Perth Saltires",
+            "3-1",
+            "Perth"
+        ],
+        [
+            "2011/12",
+            "UEFA Futsal Cup",
+            "Preliminary round",
+            "Bajo Pivljanin",
+            "6-9",
+            "Perth"
+        ]
+    ]
+}

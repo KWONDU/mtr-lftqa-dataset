@@ -1,0 +1,56 @@
+{
+    "id": "8fe8c7f8ff1f3eedae8554d7da529280579de7f4f531ad525992cd24c7360072",
+    "metadata": "British Rail Class 153 | Fleet | Fleet",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Operator_",
+        "No_Built",
+        "Year_Built",
+        "Cars_per_Set"
+    ],
+    "cell": [
+        [
+            "Class 153",
+            "Arriva Trains Wales",
+            "70",
+            "1991-1992",
+            "1"
+        ],
+        [
+            "Class 153",
+            "East Midlands Trains",
+            "70",
+            "1991-1992",
+            "1"
+        ],
+        [
+            "Class 153",
+            "London Midland",
+            "70",
+            "1991-1992",
+            "1"
+        ],
+        [
+            "Class 153",
+            "Greater Anglia",
+            "70",
+            "1991-1992",
+            "1"
+        ],
+        [
+            "Class 153",
+            "Northern Rail",
+            "70",
+            "1991-1992",
+            "1"
+        ],
+        [
+            "Class 153",
+            "First Great Western",
+            "70",
+            "1991-1992",
+            "1"
+        ]
+    ]
+}

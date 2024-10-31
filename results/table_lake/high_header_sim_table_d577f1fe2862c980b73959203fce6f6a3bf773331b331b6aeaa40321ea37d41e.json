@@ -1,0 +1,70 @@
+{
+    "id": "d577f1fe2862c980b73959203fce6f6a3bf773331b331b6aeaa40321ea37d41e",
+    "metadata": "Belleayre Ski Center | Lifts | Lifts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Lift_Name",
+        "Type_",
+        "Length_",
+        "Vertical",
+        "Cap_Hour"
+    ],
+    "cell": [
+        [
+            "Chair 1",
+            "Double Chair",
+            "3792",
+            "479",
+            "1200"
+        ],
+        [
+            "Chair 2",
+            "Double Chair",
+            "3792",
+            "479",
+            "1200"
+        ],
+        [
+            "Little Creek Tow 3",
+            "Handle Tow",
+            "725",
+            "98",
+            "540"
+        ],
+        [
+            "Skiwee Tow 4",
+            "Handle Tow",
+            "725",
+            "115",
+            "540"
+        ],
+        [
+            "Handle Tow 5",
+            "Handle Tow",
+            "400",
+            "40",
+            "540"
+        ],
+        [
+            "Superchief 6",
+            "Detachable Quad",
+            "4866",
+            "1133",
+            "2400"
+        ],
+        [
+            "Triple Chair 7",
+            "Triple Chairlift",
+            "2861",
+            "806",
+            "1800"
+        ],
+        [
+            "Tomahawk 8",
+            "Quad ChairLift",
+            "3412",
+            "923",
+            "2400"
+        ]
+    ]
+}

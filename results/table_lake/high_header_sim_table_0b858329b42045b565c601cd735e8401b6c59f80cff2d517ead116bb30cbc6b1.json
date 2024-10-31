@@ -1,0 +1,79 @@
+{
+    "id": "0b858329b42045b565c601cd735e8401b6c59f80cff2d517ead116bb30cbc6b1",
+    "metadata": "Indiana High School Athletics Conferences: Mid-Eastern - Northwestern | Northwest Crossroads Conference | Northwest Crossroads Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "IHSAA_Football_Class",
+        "_County"
+    ],
+    "cell": [
+        [
+            "Andrean",
+            "Merrillville",
+            "Fighting `59ers",
+            "587",
+            "AAA",
+            "AA",
+            "45 Lake"
+        ],
+        [
+            "Griffith",
+            "Griffith",
+            "Panthers",
+            "925",
+            "AAA",
+            "AAAA",
+            "45 Lake"
+        ],
+        [
+            "Highland",
+            "Highland",
+            "Trojans",
+            "1175",
+            "AAAA",
+            "AAAA",
+            "45 Lake"
+        ],
+        [
+            "Hobart",
+            "Hobart",
+            "Brickies",
+            "1268",
+            "AAAA",
+            "AAAA",
+            "45 Lake"
+        ],
+        [
+            "Kankakee Valley",
+            "Wheatfield",
+            "Kougars",
+            "1087",
+            "AAA",
+            "AAAA",
+            "37 Jasper"
+        ],
+        [
+            "Lowell",
+            "Lowell",
+            "Red Devils",
+            "1276",
+            "AAAA",
+            "AAAA",
+            "45 Lake"
+        ],
+        [
+            "Munster",
+            "Munster",
+            "Mustangs",
+            "1616",
+            "AAAA",
+            "AAAAA",
+            "45 Lake"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "2dc640d6d3a961e48831fb3453a51787282a3c2058a5b6ad83dfaa7214800387",
+    "metadata": "List of Olympic medalists in snowboarding | Statistics | Athlete medal leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Athlete",
+        "Nation",
+        "Olympics",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total_"
+    ],
+    "cell": [
+        [
+            "Philipp Schoch",
+            "Switzerland (SUI)",
+            "2002-2006",
+            "2",
+            "0",
+            "0",
+            "2"
+        ],
+        [
+            "Shaun White",
+            "United States (USA)",
+            "2006-2014",
+            "2",
+            "0",
+            "0",
+            "2"
+        ],
+        [
+            "Seth Wescott",
+            "United States (USA)",
+            "2006-2010",
+            "2",
+            "0",
+            "0",
+            "2"
+        ],
+        [
+            "Karine Ruby",
+            "France (FRA)",
+            "1998-2002",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "Hannah Teter",
+            "United States (USA)",
+            "2006-2014",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "Ross Powers",
+            "United States (USA)",
+            "1998-2002",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "Kelly Clark",
+            "United States (USA)",
+            "2002-2014",
+            "1",
+            "0",
+            "2",
+            "3"
+        ],
+        [
+            "Danny Kass",
+            "United States (USA)",
+            "2002-2006",
+            "0",
+            "2",
+            "0",
+            "2"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "9bb6e1319a20c0c1653c7a05539c7ef93481638308061ac759a416dedb39fed7",
+    "metadata": "Capital punishment in Connecticut | Inmates sentenced to death | Inmates sentenced to death",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Race",
+        "Current_age",
+        "Age_at_offense",
+        "Years_on_death_row",
+        "Location_of_offense"
+    ],
+    "cell": [
+        [
+            "Ashby, Lazale",
+            "Black",
+            "29",
+            "18",
+            "5",
+            "Hartford"
+        ],
+        [
+            "Breton, Robert",
+            "White",
+            "67",
+            "41",
+            "24",
+            "Waterbury"
+        ],
+        [
+            "Campbell, Jessie",
+            "Black",
+            "34",
+            "20",
+            "6",
+            "Hartford"
+        ],
+        [
+            "Cobb, Sedrick",
+            "Black",
+            "51",
+            "27",
+            "22",
+            "Waterbury"
+        ],
+        [
+            "Hayes, Steven",
+            "White",
+            "50",
+            "44",
+            "3",
+            "Cheshire"
+        ],
+        [
+            "Komisarjevsky, Joshua",
+            "White",
+            "33",
+            "26",
+            "2",
+            "Cheshire"
+        ],
+        [
+            "Peeler, Russell",
+            "Black",
+            "42",
+            "26",
+            "6",
+            "Bridgeport"
+        ],
+        [
+            "Reynolds, Richard",
+            "Black",
+            "45",
+            "24",
+            "18",
+            "Waterbury"
+        ],
+        [
+            "Rizzo, Todd",
+            "White",
+            "35",
+            "18",
+            "14",
+            "Waterbury"
+        ],
+        [
+            "Webb, Daniel",
+            "Black",
+            "51",
+            "27",
+            "22",
+            "Hartford"
+        ]
+    ]
+}

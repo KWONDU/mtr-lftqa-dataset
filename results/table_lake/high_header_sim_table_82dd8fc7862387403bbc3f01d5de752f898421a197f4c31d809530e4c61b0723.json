@@ -1,0 +1,56 @@
+{
+    "id": "82dd8fc7862387403bbc3f01d5de752f898421a197f4c31d809530e4c61b0723",
+    "metadata": "Mil Mi-10 | World records | World records",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Type_",
+        "Record_description",
+        "Achievement",
+        "Pilot"
+    ],
+    "cell": [
+        [
+            "23 September 1961",
+            "Mi-10",
+            "Altitude with kg (lb) payload",
+            "m (ft)",
+            "G.V. Alfyorov"
+        ],
+        [
+            "23 September 1961",
+            "Mi-10",
+            "Maximum load to m (ft)",
+            "kg (lb)",
+            "B.V. Zemskov"
+        ],
+        [
+            "26 May 1965",
+            "Mi-10R",
+            "Altitude with kg (lb) payload",
+            "m (ft)",
+            "V.P. Koloshenko"
+        ],
+        [
+            "28 May 1965",
+            "Mi-10R",
+            "Altitude with kg (lb) / kg (lb) payload",
+            "m (ft)",
+            "V.P. Koloshenko"
+        ],
+        [
+            "28 May 1965",
+            "Mi-10R",
+            "Altitude with kg (lb) payload",
+            "m (ft)",
+            "G.V. Alfyorov"
+        ],
+        [
+            "28 May 1965",
+            "Mi-10R",
+            "Maximum load to m (ft)",
+            "kg (lb)",
+            "G.V. Alfyorov"
+        ]
+    ]
+}

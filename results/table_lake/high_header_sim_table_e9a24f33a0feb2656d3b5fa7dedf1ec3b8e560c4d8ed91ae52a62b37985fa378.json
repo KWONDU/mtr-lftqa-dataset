@@ -1,0 +1,77 @@
+{
+    "id": "e9a24f33a0feb2656d3b5fa7dedf1ec3b8e560c4d8ed91ae52a62b37985fa378",
+    "metadata": "List of NGC objects (6001-7000) | 6301-6400 | 6301-6400",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_"
+    ],
+    "cell": [
+        [
+            "6302",
+            "Planetary nebula",
+            "Scorpius",
+            "17h13m44.2s",
+            "\u00b006\u203216\u2033"
+        ],
+        [
+            "6304",
+            "Globular Cluster",
+            "Ophiuchus",
+            "17h14m32.5s",
+            "\u00b027\u203244\u2033"
+        ],
+        [
+            "6333",
+            "Globular cluster",
+            "Ophiuchus",
+            "17h19m11.8s",
+            "\u00b030\u203259\u2033"
+        ],
+        [
+            "6334",
+            "Supernova remnant",
+            "Scorpius",
+            "17h19m58.0s",
+            "\u00b057\u203247\u2033"
+        ],
+        [
+            "6340",
+            "Spiral galaxy",
+            "Draco",
+            "17h10m25.1s",
+            "\u00b018\u203217\u2033"
+        ],
+        [
+            "6341",
+            "Globular cluster",
+            "Hercules",
+            "17h17m07.3s",
+            "\u00b008\u203212\u2033"
+        ],
+        [
+            "6357",
+            "Diffuse nebula",
+            "Scorpius",
+            "17h24m",
+            "\u00b020\u2032"
+        ],
+        [
+            "6369",
+            "Planetary nebula",
+            "Ophiuchus",
+            "17h29m20.4s",
+            "\u00b045\u203234\u2033"
+        ],
+        [
+            "6397",
+            "Globular cluster",
+            "Ara",
+            "17h40m41.4s",
+            "\u00b040\u203225\u2033"
+        ]
+    ]
+}

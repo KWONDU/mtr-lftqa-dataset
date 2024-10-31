@@ -1,0 +1,119 @@
+{
+    "id": "24695d5027471a0305c7ec6783c7f9a27619fa8732bd7e9849cf04b692933bbf",
+    "metadata": "Jacques Cornu | Motorcycle Grand Prix results | Motorcycle Grand Prix results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Points",
+        "Rank_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1980",
+            "250cc",
+            "Yamaha",
+            "26",
+            "8th",
+            "0"
+        ],
+        [
+            "1980",
+            "350cc",
+            "Motul - Yamaha",
+            "21",
+            "7th",
+            "0"
+        ],
+        [
+            "1981",
+            "350cc",
+            "Yamaha",
+            "20",
+            "8th",
+            "0"
+        ],
+        [
+            "1982",
+            "250cc",
+            "Hostettler- Yamaha",
+            "17",
+            "17th",
+            "0"
+        ],
+        [
+            "1982",
+            "350cc",
+            "Hostettler- Yamaha",
+            "31",
+            "7th",
+            "0"
+        ],
+        [
+            "1983",
+            "250cc",
+            "Hostettler- Yamaha",
+            "32",
+            "9th",
+            "0"
+        ],
+        [
+            "1984",
+            "250cc",
+            "Hostettler- Yamaha",
+            "60",
+            "6th",
+            "0"
+        ],
+        [
+            "1985",
+            "250cc",
+            "Parisienne- Honda",
+            "25",
+            "10th",
+            "0"
+        ],
+        [
+            "1986",
+            "250cc",
+            "Parisienne- Honda",
+            "32",
+            "7th",
+            "0"
+        ],
+        [
+            "1987",
+            "250cc",
+            "Parisienne- Honda",
+            "50",
+            "9th",
+            "0"
+        ],
+        [
+            "1988",
+            "250cc",
+            "Parisienne- Honda",
+            "166",
+            "3rd",
+            "2"
+        ],
+        [
+            "1989",
+            "250cc",
+            "Lucky Strike- Honda",
+            "187",
+            "3rd",
+            "1"
+        ],
+        [
+            "1990",
+            "250cc",
+            "Lucky Strike- Honda",
+            "86",
+            "9th",
+            "0"
+        ]
+    ]
+}

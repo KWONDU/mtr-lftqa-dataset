@@ -1,0 +1,70 @@
+{
+    "id": "95b30835e75f9d2da4a850fad599aa4bea144e23d2c0510d1c8bab1a35636d66",
+    "metadata": "1975 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "9.14 (68)",
+            "North Melbourne",
+            "17.15 (117)",
+            "Western Oval",
+            "19639",
+            "26 July 1975"
+        ],
+        [
+            "St Kilda",
+            "12.15 (87)",
+            "Fitzroy",
+            "7.14 (56)",
+            "Moorabbin Oval",
+            "15259",
+            "26 July 1975"
+        ],
+        [
+            "Geelong",
+            "13.16 (94)",
+            "Essendon",
+            "16.13 (109)",
+            "Kardinia Park",
+            "14922",
+            "26 July 1975"
+        ],
+        [
+            "Richmond",
+            "16.19 (115)",
+            "Collingwood",
+            "10.9 (69)",
+            "MCG",
+            "56846",
+            "26 July 1975"
+        ],
+        [
+            "Hawthorn",
+            "15.15 (105)",
+            "Carlton",
+            "15.11 (101)",
+            "Princes Park",
+            "31104",
+            "26 July 1975"
+        ],
+        [
+            "Melbourne",
+            "13.13 (91)",
+            "South Melbourne",
+            "11.9 (75)",
+            "VFL Park",
+            "11427",
+            "26 July 1975"
+        ]
+    ]
+}

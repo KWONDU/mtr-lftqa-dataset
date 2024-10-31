@@ -1,0 +1,87 @@
+{
+    "id": "dee46d784ac63513732a03d9ab710a0f8e4b94b3dee13e501cab2153149c4c49",
+    "metadata": "1986 U.S. Open (golf) | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Lee Trevino",
+            "United States",
+            "1968 , 1971",
+            "282",
+            "+2",
+            "T4"
+        ],
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1962 , 1967 , 1972 , 1980",
+            "284",
+            "+4",
+            "T8"
+        ],
+        [
+            "Fuzzy Zoeller",
+            "United States",
+            "1984",
+            "288",
+            "+8",
+            "T15"
+        ],
+        [
+            "David Graham",
+            "Australia",
+            "1981",
+            "288",
+            "+8",
+            "T15"
+        ],
+        [
+            "Tom Watson",
+            "United States",
+            "1982",
+            "289",
+            "+9",
+            "T24"
+        ],
+        [
+            "Larry Nelson",
+            "United States",
+            "1983",
+            "291",
+            "+11",
+            "T35"
+        ],
+        [
+            "Johnny Miller",
+            "United States",
+            "1973",
+            "293",
+            "+13",
+            "T45"
+        ],
+        [
+            "Hubert Green",
+            "United States",
+            "1977",
+            "296",
+            "+16",
+            "T55"
+        ],
+        [
+            "Andy North",
+            "United States",
+            "1978 , 1985",
+            "302",
+            "+22",
+            "68"
+        ]
+    ]
+}

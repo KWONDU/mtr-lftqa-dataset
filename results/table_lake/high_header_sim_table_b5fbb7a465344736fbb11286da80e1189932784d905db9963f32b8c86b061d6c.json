@@ -1,0 +1,70 @@
+{
+    "id": "b5fbb7a465344736fbb11286da80e1189932784d905db9963f32b8c86b061d6c",
+    "metadata": "Ubuntu Local Municipality | Main places | Main places",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Code",
+        "Area_km_2_",
+        "Population",
+        "Most_spoken_language"
+    ],
+    "cell": [
+        [
+            "Hutchinson",
+            "369007",
+            "2.0",
+            "367",
+            "Afrikaans"
+        ],
+        [
+            "Loxton",
+            "369006",
+            "77.6",
+            "1053",
+            "Afrikaans"
+        ],
+        [
+            "Merriman",
+            "369001",
+            "0.5",
+            "78",
+            "Afrikaans"
+        ],
+        [
+            "Richmond",
+            "369003",
+            "82.7",
+            "3793",
+            "Afrikaans"
+        ],
+        [
+            "Sabelo",
+            "369004",
+            "0.4",
+            "1329",
+            "Xhosa"
+        ],
+        [
+            "Victoria West",
+            "369005",
+            "78.9",
+            "8254",
+            "Afrikaans"
+        ],
+        [
+            "Remainder",
+            "369002",
+            "20147.1",
+            "3727",
+            "Afrikaans"
+        ],
+        [
+            "Total",
+            "Total",
+            "20389.2",
+            "18601",
+            "Afrikaans"
+        ]
+    ]
+}

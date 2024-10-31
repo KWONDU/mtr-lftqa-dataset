@@ -1,0 +1,55 @@
+{
+    "id": "4c3751e0adbf2a88e2f8652461f7b28b79afc966e42239a211b3e9d2bd75378f",
+    "metadata": "USA Today All-USA high school basketball team | 2006 Boys' team | Third Team",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Height",
+        "School",
+        "Hometown",
+        "College",
+        "NBA_Draft"
+    ],
+    "cell": [
+        [
+            "Michael Beasley \u2021",
+            "6-9",
+            "Oak Hill Academy",
+            "Washington, DC",
+            "Kansas State",
+            "1st Round - 2nd Pick of 2008 Draft ( Heat )"
+        ],
+        [
+            "Chase Budinger",
+            "6-7",
+            "La Costa Canyon High School",
+            "San Diego, CA",
+            "Arizona",
+            "2nd Round - 44th Pick of 2009 Draft ( Pistons )"
+        ],
+        [
+            "Darrell Arthur",
+            "6-9",
+            "South Oak Cliff High School",
+            "Dallas, TX",
+            "Kansas",
+            "1st Round - 27th Pick of 2008 Draft ( Hornets )"
+        ],
+        [
+            "Damion James",
+            "6-8",
+            "Nacogdoches High School",
+            "Nacogdoches, TX",
+            "Texas",
+            "1st Round - 24th Pick of 2010 Draft ( Hawks )"
+        ],
+        [
+            "Kevin Love \u2021",
+            "6-10",
+            "Lake Oswego High School",
+            "Lake Oswego, OR",
+            "UCLA",
+            "1st Round - 5th Pick of 2008 Draft ( Grizzlies )"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "1c38c31f6107ab1fb3da33581477f533cc7dfcc25216148410451010db7c2d2c",
+    "metadata": "1972 VFL season | Round 20 | Round 20",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "13.12 (90)",
+            "Melbourne",
+            "13.11 (89)",
+            "Moorabbin Oval",
+            "18836",
+            "19 August 1972"
+        ],
+        [
+            "South Melbourne",
+            "9.12 (66)",
+            "Footscray",
+            "11.13 (79)",
+            "Lake Oval",
+            "9154",
+            "19 August 1972"
+        ],
+        [
+            "Richmond",
+            "20.17 (137)",
+            "Fitzroy",
+            "13.22 (100)",
+            "MCG",
+            "27651",
+            "19 August 1972"
+        ],
+        [
+            "Geelong",
+            "17.10 (112)",
+            "Collingwood",
+            "17.9 (111)",
+            "Kardinia Park",
+            "23108",
+            "19 August 1972"
+        ],
+        [
+            "North Melbourne",
+            "8.12 (60)",
+            "Carlton",
+            "23.11 (149)",
+            "Arden Street Oval",
+            "11271",
+            "19 August 1972"
+        ],
+        [
+            "Hawthorn",
+            "15.16 (106)",
+            "Essendon",
+            "12.15 (87)",
+            "VFL Park",
+            "36749",
+            "19 August 1972"
+        ]
+    ]
+}

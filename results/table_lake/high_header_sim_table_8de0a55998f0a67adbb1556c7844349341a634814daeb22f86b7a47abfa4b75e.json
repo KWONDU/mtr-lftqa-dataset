@@ -1,0 +1,61 @@
+{
+    "id": "8de0a55998f0a67adbb1556c7844349341a634814daeb22f86b7a47abfa4b75e",
+    "metadata": "2006-07 Tottenham Hotspur F.C. season | Top scorers | Top scorers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Position_",
+        "Premier_League",
+        "FA_Cup",
+        "League_Cup",
+        "UEFA_Cup",
+        "Total"
+    ],
+    "cell": [
+        [
+            "Dimitar Berbatov",
+            "Forward",
+            "12",
+            "3",
+            "1",
+            "7",
+            "23"
+        ],
+        [
+            "Robbie Keane",
+            "Forward",
+            "11",
+            "5",
+            "1",
+            "5",
+            "22"
+        ],
+        [
+            "Jermain Defoe",
+            "Forward",
+            "10",
+            "1",
+            "4",
+            "3",
+            "18"
+        ],
+        [
+            "Jermaine Jenas",
+            "Midfielder",
+            "6",
+            "1",
+            "0",
+            "1",
+            "8"
+        ],
+        [
+            "Mido",
+            "Forward",
+            "1",
+            "1",
+            "3",
+            "0",
+            "5"
+        ]
+    ]
+}

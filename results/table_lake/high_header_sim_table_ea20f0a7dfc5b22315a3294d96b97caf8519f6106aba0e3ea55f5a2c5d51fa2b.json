@@ -1,0 +1,87 @@
+{
+    "id": "ea20f0a7dfc5b22315a3294d96b97caf8519f6106aba0e3ea55f5a2c5d51fa2b",
+    "metadata": "Comparison of hardware random number generators | Comparison of hardware random number generators | Comparison of hardware random number generators",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Manufacturer",
+        "Model",
+        "Intro_Date",
+        "Interface",
+        "OS",
+        "Price_USD",
+        "Price",
+        "Throughput"
+    ],
+    "cell": [
+        [
+            "Simtec Electronics",
+            "Entropy Key",
+            "2009",
+            "USB",
+            "Windows/Linux/BSD",
+            "60",
+            "\u00a336",
+            "32 kbit/s"
+        ],
+        [
+            "ID Quantique SA",
+            "Quantis-USB",
+            "2006",
+            "USB",
+            "Windows/Linux",
+            "1310",
+            "990\u20ac",
+            "4 Mbit/s"
+        ],
+        [
+            "ID Quantique SA",
+            "Quantis-PCI-4",
+            "2006",
+            "PCI",
+            "Windows/Linux",
+            "2952",
+            "2,230\u20ac",
+            "16 Mbit/s"
+        ],
+        [
+            "Comscire",
+            "PQ4000KU",
+            "2013",
+            "USB",
+            "Linux/Windows/Mac",
+            "895",
+            "686\u20ac",
+            "4 Mbit/s"
+        ],
+        [
+            "Comscire",
+            "PQ32MU",
+            "2013",
+            "USB",
+            "Linux/Windows/Mac",
+            "1495",
+            "1,139\u20ac",
+            "32 Mbit/s"
+        ],
+        [
+            "LETech",
+            "GRANG",
+            "2008-2012",
+            "PCI/USB3/SATA",
+            "Linux/Windows",
+            "6800",
+            "5,500\u20ac",
+            "400 Mbit/s"
+        ],
+        [
+            "TRNG98",
+            "TRNG9803",
+            "2009",
+            "SERIAL",
+            "Linux/Windows/Solaris/BSD",
+            "230",
+            "179\u20ac",
+            "72 kbit/s"
+        ]
+    ]
+}

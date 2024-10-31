@@ -1,0 +1,71 @@
+{
+    "id": "d8364e328904fc08a8de71d125819b0741724e0b96c5255bbe73137ae7746bbb",
+    "metadata": "United States House of Representatives elections, 1828 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "William Drayton",
+            "Jacksonian",
+            "1825 ( special )",
+            "Re-elected",
+            "William Drayton (J)"
+        ],
+        [
+            "South Carolina 2",
+            "James Hamilton, Jr.",
+            "Jacksonian",
+            "1822 (special)",
+            "Retired Jacksonian hold",
+            "Robert W. Barnwell (J)"
+        ],
+        [
+            "South Carolina 3",
+            "Thomas R. Mitchell",
+            "Jacksonian",
+            "1820 1824",
+            "Lost re-election Jacksonian hold",
+            "John Campbell (J) Thomas R. Mitchell (J)"
+        ],
+        [
+            "South Carolina 4",
+            "William D. Martin",
+            "Jacksonian",
+            "1826",
+            "Re-elected",
+            "William D. Martin (J)"
+        ],
+        [
+            "South Carolina 5",
+            "George McDuffie",
+            "Jacksonian",
+            "1820",
+            "Re-elected",
+            "George McDuffie (J)"
+        ],
+        [
+            "South Carolina 6",
+            "Warren R. Davis",
+            "Jacksonian",
+            "1826",
+            "Re-elected",
+            "Warren R. Davis (J) 76.1% Cobb 23.9%"
+        ],
+        [
+            "South Carolina 7",
+            "William T. Nuckolls",
+            "Jacksonian",
+            "1826",
+            "Re-elected",
+            "William T. Nuckolls (J)"
+        ]
+    ]
+}

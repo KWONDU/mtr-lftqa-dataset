@@ -1,0 +1,70 @@
+{
+    "id": "aeb4fc71f61f26c21770c8c0cec27699e4d6091c5d472d134dde1ed1a934bf7b",
+    "metadata": "1965 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "12.13 (85)",
+            "St Kilda",
+            "14.12 (96)",
+            "MCG",
+            "43412",
+            "1 May 1965"
+        ],
+        [
+            "Fitzroy",
+            "9.4 (58)",
+            "Melbourne",
+            "14.25 (109)",
+            "Brunswick Street Oval",
+            "15890",
+            "1 May 1965"
+        ],
+        [
+            "Collingwood",
+            "19.16 (130)",
+            "Hawthorn",
+            "10.9 (69)",
+            "Victoria Park",
+            "25733",
+            "1 May 1965"
+        ],
+        [
+            "North Melbourne",
+            "7.13 (55)",
+            "Geelong",
+            "14.14 (98)",
+            "City of Coburg Oval",
+            "17408",
+            "1 May 1965"
+        ],
+        [
+            "Footscray",
+            "6.12 (48)",
+            "Essendon",
+            "18.18 (126)",
+            "Western Oval",
+            "24365",
+            "1 May 1965"
+        ],
+        [
+            "South Melbourne",
+            "12.14 (86)",
+            "Carlton",
+            "10.11 (71)",
+            "Lake Oval",
+            "23100",
+            "1 May 1965"
+        ]
+    ]
+}

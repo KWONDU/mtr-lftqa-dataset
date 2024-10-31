@@ -1,0 +1,56 @@
+{
+    "id": "eba47b535347fbed55141685f4f492d07c9c2b4d40d65f413be074bfc6e2f98c",
+    "metadata": "Jacob Mulenga | International goals | International goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Venue",
+        "Score",
+        "Result_",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "22 January 2008",
+            "Baba Yara Stadium , Kumasi , Ghan",
+            "2-0",
+            "3-0",
+            "2008 Africa Cup of Nations"
+        ],
+        [
+            "13 January 2010",
+            "Tundavala National Stadium , Lubango , Angola",
+            "1-0",
+            "1-1",
+            "2010 Africa Cup of Nations"
+        ],
+        [
+            "17 January 2010",
+            "Tundavala National Stadium , Lubango , Angola",
+            "1-0",
+            "2-3",
+            "2010 Africa Cup of Nations"
+        ],
+        [
+            "8 June 2013",
+            "Levy Mwanawasa Stadium , Ndola , Zambia",
+            "1-0",
+            "4-0",
+            "2014 FIFA World Cup qualification"
+        ],
+        [
+            "8 June 2013",
+            "Levy Mwanawasa Stadium , Ndola , Zambia",
+            "3-0",
+            "4-0",
+            "2014 FIFA World Cup qualification"
+        ],
+        [
+            "15 June 2013",
+            "Levy Mwanawasa Stadium , Ndola , Zambia",
+            "1-0",
+            "1-1",
+            "2014 FIFA World Cup qualification"
+        ]
+    ]
+}

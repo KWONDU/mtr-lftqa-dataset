@@ -1,0 +1,79 @@
+{
+    "id": "884837ad169263031d5c126d06d76857c9481027167067fd9d3ac0fc937a9862",
+    "metadata": "2010 CIS football season | Teams | Canada West Football Conference \n Hardy Trophy",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Team",
+        "City",
+        "Province",
+        "Founded",
+        "Affiliation",
+        "Enrollment",
+        "Endowment",
+        "Football_stadium",
+        "Capacity"
+    ],
+    "cell": [
+        [
+            "University of British Columbia",
+            "Thunderbirds",
+            "Vancouver",
+            "BC",
+            "1908",
+            "Public",
+            "43579",
+            "$1.01B",
+            "Thunderbird Stadium",
+            "3500"
+        ],
+        [
+            "University of Calgary",
+            "Dinos",
+            "Calgary",
+            "AB",
+            "1966",
+            "Public",
+            "28196",
+            "$444M",
+            "McMahon Stadium",
+            "35650"
+        ],
+        [
+            "University of Alberta",
+            "Golden Bears",
+            "Edmonton",
+            "AB",
+            "1908",
+            "Public",
+            "36435",
+            "$751M",
+            "Foote Field",
+            "3500"
+        ],
+        [
+            "University of Saskatchewan",
+            "Huskies",
+            "Saskatoon",
+            "SK",
+            "1907",
+            "Public",
+            "19082",
+            "$136.7M",
+            "Griffiths Stadium",
+            "4997"
+        ],
+        [
+            "University of Regina",
+            "Rams",
+            "Regina",
+            "SK",
+            "1911",
+            "Public",
+            "12800",
+            "$25.9M",
+            "Mosaic Stadium",
+            "30048"
+        ]
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "7350f1d1a6d90b3fe5ac1dec66287128146dca747abd2405d31be0b287461edc",
+    "metadata": "Comparison of instant messaging protocols | Table of instant messaging protocols | Table of instant messaging protocols",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Protocol",
+        "Creator",
+        "License",
+        "Transport_Layer_Security",
+        "Bulletins_to_all_contacts",
+        "Batch_file_sharing"
+    ],
+    "cell": [
+        [
+            "Gadu-Gadu",
+            "GG Network",
+            "Proprietary",
+            "Yes",
+            "No",
+            "Yes"
+        ],
+        [
+            "IRC",
+            "Jarkko Oikarinen",
+            "Open standard",
+            "Yes, depending on individual server support",
+            "No",
+            "No"
+        ],
+        [
+            "Windows Messenger service",
+            "Microsoft",
+            "Proprietary (Discontinued)",
+            "No",
+            "Yes",
+            "No"
+        ],
+        [
+            "MSNP ( Windows Live Messenger , etc.)",
+            "Microsoft",
+            "Proprietary",
+            "No",
+            "No",
+            "Yes"
+        ],
+        [
+            "( Mumble )",
+            "Thorvald Natvig",
+            "Open standard",
+            "Yes",
+            "No",
+            "Yes"
+        ],
+        [
+            "OSCAR ( AIM , ICQ )",
+            "AOL",
+            "Proprietary",
+            "Yes (Aim Pro, Aim Lite)",
+            "No",
+            "Yes"
+        ],
+        [
+            "RVP ( Windows Messenger , etc.)",
+            "Microsoft",
+            "Proprietary (Discontinued)",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "SIP / SIMPLE",
+            "IETF",
+            "Open standard",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Steam Friends",
+            "Valve Corporation",
+            "Proprietary",
+            "Proprietary",
+            "Yes",
+            "No"
+        ],
+        [
+            "Skype",
+            "Skype",
+            "Proprietary",
+            "Proprietary",
+            "No",
+            "Yes"
+        ],
+        [
+            "TOC2",
+            "AOL",
+            "Proprietary (Discontinued)",
+            "No",
+            "No",
+            "Partial"
+        ],
+        [
+            "XMPP / Jingle ( Google Talk )",
+            "Jeremie Miller , standardized via IETF",
+            "Open standard",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "YMSG ( Yahoo! Messenger )",
+            "Yahoo!",
+            "Proprietary",
+            "No",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Zephyr Notification Service",
+            "MIT",
+            "Open standard",
+            "No",
+            "Yes",
+            "No"
+        ]
+    ]
+}

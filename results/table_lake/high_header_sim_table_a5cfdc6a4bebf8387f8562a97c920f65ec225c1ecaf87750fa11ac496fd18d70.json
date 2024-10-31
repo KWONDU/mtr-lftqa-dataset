@@ -1,0 +1,55 @@
+{
+    "id": "a5cfdc6a4bebf8387f8562a97c920f65ec225c1ecaf87750fa11ac496fd18d70",
+    "metadata": "Mathnet | Season 5 (1992) | Season 5 (1992)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Number_in_series",
+        "Number_in_season",
+        "Title",
+        "Directed_by",
+        "Original_air_date",
+        "Production_code"
+    ],
+    "cell": [
+        [
+            "26",
+            "1",
+            "The Case of the Mystery Weekend",
+            "Bill Schreiner",
+            "September 21-25, 1992",
+            "50021-50025"
+        ],
+        [
+            "27",
+            "2",
+            "The Case of the Smart Dummy",
+            "Bill Schreiner",
+            "September 28-October 2, 1992",
+            "50231-50235"
+        ],
+        [
+            "28",
+            "3",
+            "The Case: Off the Record",
+            "Bill Schreiner",
+            "October 5-9, 1992",
+            "50011-50015"
+        ],
+        [
+            "29",
+            "4",
+            "The Case of the Bermuda Triangle",
+            "Jesus Salvador Trevi\u00f1o",
+            "October 12-16, 1992",
+            "50251-50255"
+        ],
+        [
+            "30",
+            "5",
+            "The Case of the Piggy Banker",
+            "Bill Schreiner",
+            "October 19-23, 1992",
+            "50241-50245"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "id": "48352ce9ebae2d4f9ee75ddf90eb2af06bbb2116c8ada990bee9d6b88c81532e",
+    "metadata": "2003 Dallas Cowboys season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Kickoff_Time",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 7, 2003",
+            "Atlanta Falcons",
+            "L 27-13",
+            "FOX 4:00pm",
+            "64104"
+        ],
+        [
+            "2",
+            "September 15, 2003",
+            "at New York Giants",
+            "W 35-32",
+            "ABC 9:00pm",
+            "78907"
+        ],
+        [
+            "3",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "4",
+            "September 28, 2003",
+            "at New York Jets",
+            "W 17-6",
+            "FOX 4:00pm",
+            "77863"
+        ],
+        [
+            "5",
+            "October 5, 2003",
+            "Arizona Cardinals",
+            "W 24-7",
+            "FOX 1:00pm",
+            "63601"
+        ],
+        [
+            "6",
+            "October 12, 2003",
+            "Philadelphia Eagles",
+            "W 23-21",
+            "FOX 1:00pm",
+            "63648"
+        ],
+        [
+            "7",
+            "October 19, 2003",
+            "at Detroit Lions",
+            "W 38-7",
+            "FOX 1:00pm",
+            "61160"
+        ],
+        [
+            "8",
+            "October 26, 2003",
+            "at Tampa Bay Buccaneers",
+            "L 16-0",
+            "FOX 1:00pm",
+            "65602"
+        ],
+        [
+            "9",
+            "November 2, 2003",
+            "Washington Redskins",
+            "W 21-14",
+            "FOX 4:00pm",
+            "64002"
+        ],
+        [
+            "10",
+            "November 9, 2003",
+            "Buffalo Bills",
+            "W 10-6",
+            "CBS 4:00pm",
+            "63770"
+        ],
+        [
+            "11",
+            "November 16, 2003",
+            "at New England Patriots",
+            "L 12-0",
+            "ESPN 8:30pm",
+            "68436"
+        ],
+        [
+            "12",
+            "November 23, 2003",
+            "Carolina Panthers",
+            "W 24-20",
+            "FOX 1:00pm",
+            "63871"
+        ],
+        [
+            "13",
+            "November 27, 2003",
+            "Miami Dolphins",
+            "L 40-21",
+            "CBS 4:00pm",
+            "64110"
+        ],
+        [
+            "14",
+            "December 7, 2003",
+            "at Philadelphia Eagles",
+            "L 36-10",
+            "FOX 1:00pm",
+            "69773"
+        ],
+        [
+            "15",
+            "December 14, 2003",
+            "at Washington Redskins",
+            "W 27-0",
+            "FOX 4:00pm",
+            "70284"
+        ],
+        [
+            "16",
+            "December 21, 2003",
+            "New York Giants",
+            "W 19-3",
+            "FOX 1:00pm",
+            "64118"
+        ],
+        [
+            "17",
+            "December 28, 2003",
+            "at New Orleans Saints",
+            "L 13-7",
+            "FOX 1:00pm",
+            "68451"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "b3b84f0263113a934691485dfabcdf5eadb93ebf8422d629cbabdb40b59d2284",
+    "metadata": "1913 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 7",
+            "Polo Grounds (IV)",
+            "2:06",
+            "36291"
+        ],
+        [
+            "2",
+            "October 8",
+            "Shibe Park",
+            "2:22",
+            "20563"
+        ],
+        [
+            "3",
+            "October 9",
+            "Polo Grounds (IV)",
+            "2:11",
+            "36896"
+        ],
+        [
+            "4",
+            "October 10",
+            "Shibe Park",
+            "2:09",
+            "20568"
+        ],
+        [
+            "5",
+            "October 11",
+            "Polo Grounds (IV)",
+            "1:39",
+            "36632"
+        ]
+    ]
+}

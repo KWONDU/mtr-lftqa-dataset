@@ -1,0 +1,49 @@
+{
+    "id": "a82104d06edaa4973986a0b5913c0f27063336a545846e3e9bfff6cf230932dc",
+    "metadata": "1977-78 Philadelphia Flyers season | Playoffs | Playoffs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Score",
+        "Series"
+    ],
+    "cell": [
+        [
+            "1",
+            "May 2",
+            "@ Boston Bruins",
+            "2-3",
+            "Bruins lead 1-0"
+        ],
+        [
+            "2",
+            "May 4",
+            "@ Boston Bruins",
+            "5-7",
+            "Bruins lead 2-0"
+        ],
+        [
+            "3",
+            "May 7",
+            "Boston Bruins",
+            "3-1",
+            "Bruins lead 2-1"
+        ],
+        [
+            "4",
+            "May 9",
+            "Boston Bruins",
+            "2-4",
+            "Bruins lead 3-1"
+        ],
+        [
+            "5",
+            "May 11",
+            "@ Boston Bruins",
+            "3-6",
+            "Bruins win 4-1"
+        ]
+    ]
+}

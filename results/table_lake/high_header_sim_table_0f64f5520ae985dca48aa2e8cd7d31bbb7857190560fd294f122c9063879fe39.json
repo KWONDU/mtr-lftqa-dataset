@@ -1,0 +1,87 @@
+{
+    "id": "0f64f5520ae985dca48aa2e8cd7d31bbb7857190560fd294f122c9063879fe39",
+    "metadata": "1998 ATP Super 9 | Singles | Singles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Surface",
+        "Week",
+        "Winner_and_score",
+        "Finalist",
+        "Semifinalists"
+    ],
+    "cell": [
+        [
+            "Indian Wells",
+            "Hard",
+            "March 9",
+            "Marcelo R\u00edos 6-3, 6-7(15), 7-6(4), 6-4",
+            "Greg Rusedski",
+            "Thomas Muster Jan-Michael Gambill"
+        ],
+        [
+            "Key Biscane",
+            "Hard",
+            "March 16",
+            "Marcelo R\u00edos 7-5, 6-3, 6-4",
+            "Andre Agassi",
+            "\u00c0lex Corretja Tim Henman"
+        ],
+        [
+            "Monte Carlo",
+            "Clay",
+            "April 20",
+            "Carlos Moy\u00e1 6-3, 6-0, 7-5",
+            "C\u00e9dric Pioline",
+            "Alberto Berasategui Richard Krajicek"
+        ],
+        [
+            "Hamburg",
+            "Clay",
+            "May 4",
+            "Albert Costa 6-2, 6-0, 1-0 Ret.",
+            "\u00c0lex Corretja",
+            "Karol Ku\u010dera F\u00e9lix Mantilla"
+        ],
+        [
+            "Rome",
+            "Clay",
+            "May 11",
+            "Marcelo R\u00edos w/o",
+            "Albert Costa",
+            "Alberto Berasategui Gustavo Kuerten"
+        ],
+        [
+            "Toronto",
+            "Hard",
+            "August 3",
+            "Patrick Rafter 7-6(3), 6-4",
+            "Richard Krajicek",
+            "Andre Agassi Tim Henman"
+        ],
+        [
+            "Cincinnati",
+            "Hard",
+            "August 10",
+            "Patrick Rafter 1-6, 7-6(2), 6-4",
+            "Pete Sampras",
+            "Magnus Larsson Yevgeny Kafelnikov"
+        ],
+        [
+            "Stuttgart",
+            "Carpet (i)",
+            "October 26",
+            "Richard Krajicek 6-4, 6-3, 6-3",
+            "Yevgeny Kafelnikov",
+            "Pete Sampras Jonas Bj\u00f6rkman"
+        ],
+        [
+            "Paris",
+            "Carpet (i)",
+            "November 2",
+            "Greg Rusedski 6-4, 7-6(4), 6-3",
+            "Pete Sampras",
+            "Todd Martin Yevgeny Kafelnikov"
+        ]
+    ]
+}

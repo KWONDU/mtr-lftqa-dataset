@@ -1,0 +1,577 @@
+{
+    "id": "a851bbd50e23881b5fa7149311de321bd805149ac87ac5497ff7d8582e220bbd",
+    "metadata": "List of lakes of Switzerland | Main list | Main list",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "blank",
+        "Local_names",
+        "Sort",
+        "Cantons_neighboring_countries",
+        "Area_in_km\u00b2",
+        "Elevation_m",
+        "max_depth_in_meter_"
+    ],
+    "cell": [
+        [
+            "Lake Geneva",
+            "",
+            "Lac L\u00e9man, Lac de Gen\u00e8ve",
+            "Geneva",
+            "Geneva, Vaud, Valais, France",
+            "580.03",
+            "372.0",
+            "310"
+        ],
+        [
+            "Lake Constance",
+            "",
+            "Bodensee",
+            "Constance",
+            "St. Gallen, Thurgau, Austria, Germany",
+            "536.00",
+            "395.6",
+            "252"
+        ],
+        [
+            "Lake Neuch\u00e2tel",
+            "",
+            "Lac de Neuch\u00e2tel, Neuenburgersee",
+            "Neuch\u00e2tel",
+            "Berne, Fribourg, Neuch\u00e2tel, Vaud",
+            "215.20",
+            "429.4",
+            "153"
+        ],
+        [
+            "Lake Maggiore",
+            "",
+            "Lago Maggiore",
+            "Maggiore",
+            "Ticino, Italy",
+            "210.12",
+            "193.5",
+            "372"
+        ],
+        [
+            "Lake Lucerne",
+            "",
+            "Vierwaldst\u00e4ttersee",
+            "Lucerne",
+            "Lucerne, Nidwalden, Obwalden, Schwyz, Uri",
+            "113.72",
+            "433.6",
+            "214"
+        ],
+        [
+            "Lake Zurich",
+            "",
+            "Z\u00fcrichsee",
+            "Zurich",
+            "St. Gallen, Schwyz, Zurich",
+            "88.17",
+            "405.9",
+            "136"
+        ],
+        [
+            "Lake Lugano",
+            "",
+            "Ceresio, Lago di Lugano",
+            "Lugano",
+            "Ticino, Italy",
+            "48.67",
+            "270.5",
+            "288"
+        ],
+        [
+            "Lake Thun",
+            "",
+            "Thunersee",
+            "Thun",
+            "Berne",
+            "47.74",
+            "557.8",
+            "215"
+        ],
+        [
+            "Lake Biel",
+            "",
+            "Lac de Bienne, Bielersee",
+            "Biel/Bienne",
+            "Berne, Neuch\u00e2tel",
+            "39.51",
+            "429.1",
+            "74"
+        ],
+        [
+            "Lake Zug",
+            "",
+            "Zugersee",
+            "Zug",
+            "Lucerne, Schwyz, Zug",
+            "38.41",
+            "413.6",
+            "198"
+        ],
+        [
+            "Lake Brienz",
+            "",
+            "Brienzersee",
+            "Brienz",
+            "Berne",
+            "29.81",
+            "563.7",
+            "260"
+        ],
+        [
+            "Lake Walen",
+            "",
+            "Walensee",
+            "Walen",
+            "Glarus, St. Gallen",
+            "24.16",
+            "419.0",
+            "150"
+        ],
+        [
+            "Lake Murten",
+            "",
+            "Murtensee, Lac de Morat",
+            "Murten",
+            "Fribourg, Vaud",
+            "22.80",
+            "429.2",
+            "46"
+        ],
+        [
+            "Lake Sempach",
+            "",
+            "Sempachersee",
+            "Sempach",
+            "Lucerne",
+            "14.36",
+            "503.8",
+            "87"
+        ],
+        [
+            "Sihlsee",
+            "",
+            "Sihlsee",
+            "Sihl",
+            "Schwyz",
+            "10.72",
+            "889",
+            "23"
+        ],
+        [
+            "Lake Hallwil",
+            "",
+            "Hallwilersee",
+            "Hallwil",
+            "Aargau, Lucerne",
+            "10.21",
+            "448.7",
+            "47"
+        ],
+        [
+            "Lac de la Gruy\u00e8re",
+            "\u2191",
+            "Lac de la Gruy\u00e8re",
+            "Gruy\u00e8re",
+            "Fribourg",
+            "9.60",
+            "677",
+            "75"
+        ],
+        [
+            "Lac de Joux and , Lac Brenet",
+            "*",
+            "Lac de Joux and , Lac Brenet",
+            "Joux",
+            "Vaud",
+            "9.56",
+            "1004",
+            "34"
+        ],
+        [
+            "Greifensee",
+            "",
+            "Greifensee",
+            "Greifensee",
+            "Zurich",
+            "8.17",
+            "435.1",
+            "34"
+        ],
+        [
+            "Lake Sarnen",
+            "",
+            "Sarnersee",
+            "Sarnen",
+            "Obwalden",
+            "7.38",
+            "468.4",
+            "52"
+        ],
+        [
+            "\u00c4gerisee",
+            "",
+            "\u00c4gerisee",
+            "Aegeri",
+            "Zug",
+            "7.25",
+            "723.9",
+            "82"
+        ],
+        [
+            "Lake Baldegg",
+            "",
+            "Baldeggersee",
+            "Baldegg",
+            "Lucerne",
+            "5.24",
+            "463.0",
+            "66"
+        ],
+        [
+            "Lago di Livigno",
+            "\u2191",
+            "Lago di Livigno",
+            "Livignio",
+            "Italy, Grisons",
+            "4.71",
+            "1805",
+            "119"
+        ],
+        [
+            "Schiffenensee",
+            "\u2191",
+            "Schiffenensee, Lac de Schiffenen",
+            "Schiffenen",
+            "Fribourg",
+            "4.25",
+            "532",
+            "38"
+        ],
+        [
+            "W\u00e4gitalersee",
+            "\u2191",
+            "W\u00e4gitalersee",
+            "Waegital",
+            "Schwyz",
+            "4.18",
+            "900",
+            "65"
+        ],
+        [
+            "Lago di Lei",
+            "\u2191",
+            "Lago di Lei",
+            "Lei",
+            "Italy, Grisons",
+            "4.12",
+            "1931",
+            "133"
+        ],
+        [
+            "Lake Sils",
+            "",
+            "Silsersee, Lej da Segl",
+            "Sils",
+            "Grisons",
+            "4.1",
+            "1797",
+            "71"
+        ],
+        [
+            "Lac des Dix",
+            "\u2191",
+            "Lac des Dix",
+            "Dix",
+            "Valais",
+            "3.65",
+            "2365",
+            "227"
+        ],
+        [
+            "Lake Wohlen",
+            "\u2191",
+            "Wohlensee",
+            "Wohlen",
+            "Berne",
+            "3.65",
+            "480",
+            "20"
+        ],
+        [
+            "Pf\u00e4ffikersee",
+            "",
+            "Pf\u00e4ffikersee",
+            "Pf\u00e4ffikersee",
+            "Zurich",
+            "3.3",
+            "536",
+            "35"
+        ],
+        [
+            "Kl\u00f6ntalersee",
+            "*",
+            "Kl\u00f6ntalersee",
+            "Kl\u00f6ntalersee",
+            "Glarus",
+            "3.29",
+            "847",
+            "47"
+        ],
+        [
+            "Lac d`Emosson",
+            "\u2191",
+            "Lac d`Emosson",
+            "Emosson",
+            "Valais",
+            "3.27",
+            "1930",
+            "161"
+        ],
+        [
+            "Lake Silvaplana",
+            "",
+            "Silvaplanersee, Lej da Silvaplauna",
+            "Silvaplana",
+            "Grisons",
+            "3.1",
+            "1790",
+            "77"
+        ],
+        [
+            "Lake Lauerz",
+            "",
+            "Lauerzersee",
+            "Lauerz",
+            "Schwyz",
+            "3.1",
+            "447",
+            "14"
+        ],
+        [
+            "Grimselsee",
+            "\u2191",
+            "Grimselsee",
+            "Grimsel",
+            "Berne",
+            "2.63",
+            "1908",
+            "100"
+        ],
+        [
+            "Lake Lungern",
+            "*",
+            "Lungerersee, Lungernsee",
+            "Lungern",
+            "Obwalden",
+            "2.01",
+            "688",
+            "68"
+        ],
+        [
+            "Lac de Mauvoisin",
+            "\u2191",
+            "Lac de Mauvoisin",
+            "Mauvoisin",
+            "Valais",
+            "2.08",
+            "1961",
+            "180"
+        ],
+        [
+            "Lago di Poschiavo",
+            "*",
+            "Lago di Poschiavo",
+            "Poschiavo",
+            "Grisons",
+            "1.98",
+            "962",
+            "85"
+        ],
+        [
+            "Lai da Sontga Maria",
+            "\u2191",
+            "Lai da Sontga Maria",
+            "St. Maria",
+            "Grisons, Ticino",
+            "1.77",
+            "1908",
+            "86"
+        ],
+        [
+            "Mattmarksee",
+            "\u2191",
+            "Mattmarksee",
+            "Mattmark",
+            "Valais",
+            "1.76",
+            "2197",
+            "93"
+        ],
+        [
+            "Lago di Vogorno",
+            "\u2191",
+            "Lago di Vogorno",
+            "Vogorno",
+            "Ticino",
+            "1.68",
+            "470",
+            "204"
+        ],
+        [
+            "Lac de Salanfe",
+            "\u2191",
+            "Lac de Salanfe",
+            "Salanfe",
+            "Valais",
+            "1.62",
+            "1925",
+            "48"
+        ],
+        [
+            "Zervreilasee",
+            "\u2191",
+            "Zervreilasee",
+            "Zervreila",
+            "Grisons",
+            "1.61",
+            "1862",
+            "140"
+        ],
+        [
+            "Lac de l`Hongrin",
+            "\u2191",
+            "Lac de l`Hongrin",
+            "Hongrin",
+            "Vaud",
+            "1.60",
+            "1255",
+            "105"
+        ],
+        [
+            "Lago Bianco",
+            "*",
+            "Lago Bianco",
+            "Bianco",
+            "Grisons",
+            "1.50",
+            "2234",
+            "53"
+        ],
+        [
+            "Lago Ritom",
+            "*",
+            "Lago Ritom",
+            "Ritom",
+            "Ticino",
+            "1.49",
+            "1850",
+            "69"
+        ],
+        [
+            "Oberaarsee",
+            "\u2191",
+            "Oberaarsee",
+            "Oberaar",
+            "Berne",
+            "1.47",
+            "2303",
+            "90"
+        ],
+        [
+            "Lai da Marmorera",
+            "\u2191",
+            "Lai da Marmorera",
+            "Marmorera",
+            "Grisons",
+            "1.41",
+            "1680",
+            "65"
+        ],
+        [
+            "Lac de Moiry",
+            "\u2191",
+            "Lac de Moiry",
+            "Moiry",
+            "Valais",
+            "1.40",
+            "2249",
+            "120"
+        ],
+        [
+            "Limmernsee",
+            "\u2191",
+            "Limmernsee",
+            "Limmern",
+            "Glarus",
+            "1.36",
+            "1857",
+            "122"
+        ],
+        [
+            "G\u00f6scheneralpsee",
+            "\u2191",
+            "G\u00f6scheneralpsee",
+            "G\u00f6scheneralp",
+            "Uri",
+            "1.32",
+            "1792",
+            "106"
+        ],
+        [
+            "Lago di Luzzone",
+            "\u2191",
+            "Lago di Luzzone",
+            "Luzzone",
+            "Ticino",
+            "1.27",
+            "1606",
+            "181"
+        ],
+        [
+            "Klingnauer Stausee",
+            "\u2191",
+            "Klingnauer Stausee",
+            "Klingnau",
+            "Aargau",
+            "1.16",
+            "318",
+            "8.5"
+        ],
+        [
+            "Albigna lake",
+            "\u2191",
+            "Lago da l`Albigna , L\u00e4gh da l`Albigna",
+            "Albigna",
+            "Grisons",
+            "1.13",
+            "2163",
+            "108"
+        ],
+        [
+            "Oeschinen Lake",
+            "\u2191",
+            "Oeschinensee",
+            "Oeschinen",
+            "Berne",
+            "1.11",
+            "1578",
+            "56"
+        ],
+        [
+            "Lago del Sambuco",
+            "\u2191",
+            "Lago del Sambuco",
+            "Sambuco",
+            "Ticino",
+            "1.11",
+            "1461",
+            "124"
+        ]
+    ]
+}

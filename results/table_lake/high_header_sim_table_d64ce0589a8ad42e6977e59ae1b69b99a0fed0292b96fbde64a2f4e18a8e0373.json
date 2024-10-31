@@ -1,0 +1,63 @@
+{
+    "id": "d64ce0589a8ad42e6977e59ae1b69b99a0fed0292b96fbde64a2f4e18a8e0373",
+    "metadata": "2010-11 Czech Cup | Teams | Teams",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Clubs_remaining",
+        "Clubs_involved",
+        "Winners_from_previous_round",
+        "New_entries_this_round",
+        "Leagues_entering_at_this_round"
+    ],
+    "cell": [
+        [
+            "Preliminary round",
+            "123",
+            "22",
+            "none",
+            "22",
+            "Levels 4 and 5 in football league pyramid"
+        ],
+        [
+            "Second round",
+            "64",
+            "64",
+            "48",
+            "16",
+            "Gambrinus liga"
+        ],
+        [
+            "Third round",
+            "32",
+            "32",
+            "32",
+            "none",
+            "none"
+        ],
+        [
+            "Fourth round",
+            "16",
+            "16",
+            "16",
+            "none",
+            "none"
+        ],
+        [
+            "Quarter finals",
+            "8",
+            "8",
+            "8",
+            "none",
+            "none"
+        ],
+        [
+            "Semi finals",
+            "4",
+            "4",
+            "4",
+            "none",
+            "none"
+        ]
+    ]
+}

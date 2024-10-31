@@ -1,0 +1,84 @@
+{
+    "id": "7f6d36fdbf7af0a00533f474b46d05a6ddca5fee02c9a783364d3cf373363b19",
+    "metadata": "TOP500 | Top 10 ranking | The following table gives the Top 10 positions of the 41st TOP500 on June 16, 2013.",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Rmax_Rpeak_Pflops_",
+        "Name_",
+        "Vendor",
+        "Operating_system"
+    ],
+    "cell": [
+        [
+            "1",
+            "33.863 54.902",
+            "Tianhe-2",
+            "NUDT",
+            "Linux ( Kylin )"
+        ],
+        [
+            "2",
+            "17.590 27.113",
+            "Titan",
+            "Cray",
+            "Linux ( CLE , SLES based)"
+        ],
+        [
+            "3",
+            "17.173 20.133",
+            "Sequoia",
+            "IBM",
+            "Linux ( RHEL and CNK )"
+        ],
+        [
+            "4",
+            "10.510 11.280",
+            "K computer",
+            "Fujitsu",
+            "Linux"
+        ],
+        [
+            "5",
+            "8.586 10.066",
+            "Mira",
+            "IBM",
+            "Linux ( RHEL and CNK )"
+        ],
+        [
+            "6",
+            "5.168 8.520",
+            "Stampede",
+            "Dell",
+            "Linux"
+        ],
+        [
+            "7",
+            "5.008 5.872",
+            "JUQUEEN",
+            "IBM",
+            "Linux ( RHEL and CNK )"
+        ],
+        [
+            "8",
+            "4.293 5.033",
+            "Vulcan",
+            "IBM",
+            "Linux ( RHEL and CNK )"
+        ],
+        [
+            "9",
+            "2.897 3.185",
+            "SuperMUC",
+            "IBM",
+            "Linux"
+        ],
+        [
+            "10",
+            "2.566 4.701",
+            "Tianhe-1A",
+            "NUDT",
+            "Linux"
+        ]
+    ]
+}

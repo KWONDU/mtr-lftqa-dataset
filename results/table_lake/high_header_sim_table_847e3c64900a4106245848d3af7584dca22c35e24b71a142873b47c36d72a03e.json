@@ -1,0 +1,70 @@
+{
+    "id": "847e3c64900a4106245848d3af7584dca22c35e24b71a142873b47c36d72a03e",
+    "metadata": "1967 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "21.16 (142)",
+            "Hawthorn",
+            "6.15 (51)",
+            "Windy Hill",
+            "13277",
+            "10 June 1967"
+        ],
+        [
+            "Collingwood",
+            "19.20 (134)",
+            "Fitzroy",
+            "4.9 (33)",
+            "Victoria Park",
+            "18643",
+            "10 June 1967"
+        ],
+        [
+            "St Kilda",
+            "9.17 (71)",
+            "North Melbourne",
+            "8.13 (61)",
+            "Moorabbin Oval",
+            "17258",
+            "10 June 1967"
+        ],
+        [
+            "Melbourne",
+            "19.14 (128)",
+            "South Melbourne",
+            "12.17 (89)",
+            "MCG",
+            "45723",
+            "12 June 1967"
+        ],
+        [
+            "Carlton",
+            "14.7 (91)",
+            "Richmond",
+            "13.15 (93)",
+            "Princes Park",
+            "37384",
+            "12 June 1967"
+        ],
+        [
+            "Geelong",
+            "15.12 (102)",
+            "Footscray",
+            "9.8 (62)",
+            "Kardinya Park",
+            "21963",
+            "12 June 1967"
+        ]
+    ]
+}

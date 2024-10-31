@@ -1,0 +1,106 @@
+{
+    "id": "bada4a9ecf8356132d7485e8ad69db7c35bee6100d3204aac2cff7cfe0642b93",
+    "metadata": "Senate of Canada | History | Change in number of senators over time",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_enacted",
+        "Normal_total",
+        "_26_total",
+        "Ont_",
+        "Que_",
+        "N_S_",
+        "N_B_"
+    ],
+    "cell": [
+        [
+            "July1,1867",
+            "72",
+            "78",
+            "24",
+            "24",
+            "12",
+            "12"
+        ],
+        [
+            "July15,1870",
+            "74",
+            "80",
+            "24",
+            "24",
+            "12",
+            "12"
+        ],
+        [
+            "July20,1871",
+            "77",
+            "83",
+            "24",
+            "24",
+            "12",
+            "12"
+        ],
+        [
+            "July1,1873",
+            "77",
+            "83",
+            "24",
+            "24",
+            "10",
+            "10"
+        ],
+        [
+            "September1,1905",
+            "85",
+            "91",
+            "24",
+            "24",
+            "10",
+            "10"
+        ],
+        [
+            "May19,1915",
+            "96",
+            "104",
+            "24",
+            "24",
+            "10",
+            "10"
+        ],
+        [
+            "March31,1949",
+            "102",
+            "110",
+            "24",
+            "24",
+            "10",
+            "10"
+        ],
+        [
+            "June19,1975",
+            "104",
+            "112",
+            "24",
+            "24",
+            "10",
+            "10"
+        ],
+        [
+            "April1,1999",
+            "105",
+            "113",
+            "24",
+            "24",
+            "10",
+            "10"
+        ],
+        [
+            "Date",
+            "Normal total",
+            "\u00a726 total",
+            "Ont.",
+            "Que.",
+            "N.S.",
+            "N.B."
+        ]
+    ]
+}

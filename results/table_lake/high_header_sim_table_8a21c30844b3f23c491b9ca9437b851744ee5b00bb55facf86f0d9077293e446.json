@@ -1,0 +1,63 @@
+{
+    "id": "8a21c30844b3f23c491b9ca9437b851744ee5b00bb55facf86f0d9077293e446",
+    "metadata": "2009 Open Championship | Missed the cut | Missed the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "Ben Curtis",
+            "United States",
+            "2003",
+            "145",
+            "+5"
+        ],
+        [
+            "Todd Hamilton",
+            "United States",
+            "2004",
+            "145",
+            "+5"
+        ],
+        [
+            "Tiger Woods",
+            "United States",
+            "2000 , 2005 , 2006",
+            "145",
+            "+5"
+        ],
+        [
+            "David Duval",
+            "United States",
+            "2001",
+            "147",
+            "+7"
+        ],
+        [
+            "Sandy Lyle",
+            "Scotland",
+            "1985",
+            "148",
+            "+8"
+        ],
+        [
+            "Nick Faldo",
+            "England",
+            "1987 , 1990 , 1992",
+            "151",
+            "+11"
+        ],
+        [
+            "Greg Norman",
+            "Australia",
+            "1986 , 1993",
+            "152",
+            "+12"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "9bc43a45f0307d040943d44d9467938cc0289100758e4beae2476dc419c1beb0",
+    "metadata": "Minnesota Golden Gophers football under Bernie Bierman | Schedule | 1950",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent_",
+        "Site",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/30/1950",
+            "at Washington",
+            "Husky Stadium \u2022 Seattle, WA",
+            "L13-28",
+            "49500"
+        ],
+        [
+            "10/07/1950",
+            "Nebraska",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "L26-32",
+            "47710"
+        ],
+        [
+            "10/14/1950",
+            "at Northwestern",
+            "Dyche Stadium \u2022 Evanston, IL",
+            "L6-13",
+            "45000"
+        ],
+        [
+            "10/21/1950",
+            "9 Ohio State",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "L0-48",
+            "53192"
+        ],
+        [
+            "10/28/1950",
+            "14 Michigan",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "T7-7",
+            "59412"
+        ],
+        [
+            "11/04/1950",
+            "Iowa",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "L0-13",
+            "60321"
+        ],
+        [
+            "11/11/1950",
+            "at Michigan State",
+            "Spartan Stadium \u2022 East Lansing, MI",
+            "L0-27",
+            "47461"
+        ],
+        [
+            "11/18/1950",
+            "Purdue",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W27-14",
+            "46389"
+        ],
+        [
+            "11/25/1950",
+            "at Wisconsin",
+            "Camp Randall Stadium \u2022 Madison, WI",
+            "L0-14",
+            "45000"
+        ],
+        [
+            "*Non-conference game. #Rankings from AP Poll .",
+            "*Non-conference game. #Rankings from AP Poll .",
+            "*Non-conference game. #Rankings from AP Poll .",
+            "*Non-conference game. #Rankings from AP Poll .",
+            "*Non-conference game. #Rankings from AP Poll ."
+        ]
+    ]
+}

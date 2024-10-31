@@ -1,0 +1,168 @@
+{
+    "id": "c5bab561bd212e94871a6514d98add0ba25eeff8d04075ff0c0695e6098c4a16",
+    "metadata": "2000 Spanish Grand Prix | Race | Race",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Constructor_",
+        "Laps",
+        "Time_Retired",
+        "Grid"
+    ],
+    "cell": [
+        [
+            "Mika H\u00e4kkinen",
+            "McLaren - Mercedes",
+            "65",
+            "1:33:55.390",
+            "2"
+        ],
+        [
+            "David Coulthard",
+            "McLaren - Mercedes",
+            "65",
+            "+16.066",
+            "4"
+        ],
+        [
+            "Rubens Barrichello",
+            "Ferrari",
+            "65",
+            "+29.112",
+            "3"
+        ],
+        [
+            "Ralf Schumacher",
+            "Williams - BMW",
+            "65",
+            "+37.311",
+            "5"
+        ],
+        [
+            "Michael Schumacher",
+            "Ferrari",
+            "65",
+            "+47.983",
+            "1"
+        ],
+        [
+            "Heinz-Harald Frentzen",
+            "Jordan - Mugen-Honda",
+            "65",
+            "+1:21.925",
+            "8"
+        ],
+        [
+            "Mika Salo",
+            "Sauber - Petronas",
+            "64",
+            "+1 lap",
+            "12"
+        ],
+        [
+            "Ricardo Zonta",
+            "BAR - Honda",
+            "64",
+            "+1 lap",
+            "16"
+        ],
+        [
+            "Giancarlo Fisichella",
+            "Benetton - Playlife",
+            "64",
+            "+1 lap",
+            "13"
+        ],
+        [
+            "Alexander Wurz",
+            "Benetton - Playlife",
+            "64",
+            "+1 lap",
+            "18"
+        ],
+        [
+            "Eddie Irvine",
+            "Jaguar - Cosworth",
+            "64",
+            "+1 lap",
+            "9"
+        ],
+        [
+            "Jarno Trulli",
+            "Jordan - Mugen-Honda",
+            "64",
+            "+1 lap",
+            "7"
+        ],
+        [
+            "Johnny Herbert",
+            "Jaguar - Cosworth",
+            "64",
+            "+1 lap",
+            "14"
+        ],
+        [
+            "Marc Gen\u00e9",
+            "Minardi - Fondmetal",
+            "63",
+            "+2 laps",
+            "20"
+        ],
+        [
+            "Gast\u00f3n Mazzacane",
+            "Minardi - Fondmetal",
+            "63",
+            "+2 laps",
+            "21"
+        ],
+        [
+            "Nick Heidfeld",
+            "Prost - Peugeot",
+            "62",
+            "+3 laps",
+            "19"
+        ],
+        [
+            "Jenson Button",
+            "Williams - BMW",
+            "61",
+            "Engine",
+            "10"
+        ],
+        [
+            "Jos Verstappen",
+            "Arrows - Supertec",
+            "25",
+            "Gearbox",
+            "11"
+        ],
+        [
+            "Jacques Villeneuve",
+            "BAR - Honda",
+            "21",
+            "Hydraulics",
+            "6"
+        ],
+        [
+            "Jean Alesi",
+            "Prost - Peugeot",
+            "1",
+            "Collision",
+            "17"
+        ],
+        [
+            "Pedro de la Rosa",
+            "Arrows - Supertec",
+            "1",
+            "Collision",
+            "22"
+        ],
+        [
+            "Pedro Diniz",
+            "Sauber - Petronas",
+            "0",
+            "Spun off",
+            "15"
+        ]
+    ]
+}

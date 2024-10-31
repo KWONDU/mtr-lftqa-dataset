@@ -1,0 +1,63 @@
+{
+    "id": "d280a46650ecbb93eee33cd96a7f3b54b4be22f4b51208f4a82995c402e593d5",
+    "metadata": "Rhymney Railway A class | Construction | Construction",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "RR_class",
+        "RR_Nos_",
+        "Builder",
+        "Builder_Nos_",
+        "GWR_BR_Nos_"
+    ],
+    "cell": [
+        [
+            "1910",
+            "A",
+            "10-14",
+            "Robert Stephenson & Co.",
+            "3387-3391",
+            "52-56"
+        ],
+        [
+            "1910",
+            "A",
+            "115-119",
+            "Robert Stephenson & Co.",
+            "3392-3396",
+            "71-75"
+        ],
+        [
+            "1911",
+            "A",
+            "15, 18-22",
+            "Hudswell Clarke",
+            "946-951",
+            "57-62"
+        ],
+        [
+            "1914",
+            "A1",
+            "23-25",
+            "Hudswell Clarke",
+            "1063-1065",
+            "63-65"
+        ],
+        [
+            "1916",
+            "A1",
+            "26-27",
+            "Hudswell Clarke",
+            "1119-1120",
+            "66-67"
+        ],
+        [
+            "1918",
+            "A1",
+            "28-30",
+            "Robert Stephenson & Co.",
+            "3660-3662",
+            "68-70"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "9cc1e16be098970f95e9777b785c285fcb8f17af250e44a359653345dc194610",
+    "metadata": "Swimming at the 1980 Summer Olympics - Men's 4 \u00d7 100 metre medley relay | Final | Final",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Backstroke_leg",
+        "Breaststroke_leg",
+        "Butterfly_leg",
+        "Freestyle_leg"
+    ],
+    "cell": [
+        [
+            "Australia",
+            "Mark Kerry 57.89",
+            "Peter Evans 2:00.90",
+            "Mark Tonelli 2:55.84",
+            "Neil Brooks 3:45.70"
+        ],
+        [
+            "Soviet Union",
+            "Viktor Kuznetsov 56.81",
+            "Arsen Miskarov 2:00.45",
+            "Yevgeny Seredin 2:55.03",
+            "Sergey Kopliakov 3:45.92"
+        ],
+        [
+            "Great Britain",
+            "Gary Abraham 57.72",
+            "Duncan Goodhew 2:01.45",
+            "David Lowe 2:57.02",
+            "Martin Smith 3:47.71"
+        ],
+        [
+            "East Germany",
+            "Dietmar G\u00f6hring 58.34",
+            "J\u00f6rg Walter 2:03.48",
+            "Roger Pyttel 2:58.59",
+            "J\u00f6rg Woithe 3:48.25"
+        ],
+        [
+            "France",
+            "Fr\u00e9d\u00e9ric Delcourt 58.84",
+            "Olivier Borios 2:03.98",
+            "Xavier Savin 2:59.05",
+            "Ren\u00e9 Ecuyer 3:49.19"
+        ],
+        [
+            "Hungary",
+            "S\u00e1ndor Wlad\u00e1r 57.30",
+            "Janos Dzvonyar 2:01.42",
+            "Zolt\u00e1n Verraszt\u00f3 2:57.14",
+            "G\u00e1bor M\u00e9sz\u00e1ros 3:50.29"
+        ],
+        [
+            "Netherlands",
+            "Fred Eefting 58.37",
+            "Albert Boonstra 2:03.86",
+            "Cees Vervoorn 2:58.78",
+            "Cees Jan Winkel 3:51.81"
+        ],
+        [
+            "Brazil",
+            "Romulo Arantes 57.99",
+            "S\u00e9rgio Pinto Ribeiro 2:03.67",
+            "Cl\u00e1udio Kestener 3:01.00",
+            "Jorge Fernandes 3:53.24"
+        ]
+    ]
+}

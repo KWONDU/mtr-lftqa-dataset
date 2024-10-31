@@ -1,0 +1,112 @@
+{
+    "id": "275cdfd0b962ead576525a904a6acf8aff647907c38f823c12f3abb69b4f5b9b",
+    "metadata": "1977 Washington Redskins season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 18, 1977",
+            "at New York Giants",
+            "L 20-17",
+            "76086"
+        ],
+        [
+            "2",
+            "September 25, 1977",
+            "Atlanta Falcons",
+            "W 10-6",
+            "55031"
+        ],
+        [
+            "3",
+            "October 2, 1977",
+            "St. Louis Cardinals",
+            "W 24-14",
+            "55031"
+        ],
+        [
+            "4",
+            "October 9, 1977",
+            "at Tampa Bay Buccaneers",
+            "W 10-0",
+            "58571"
+        ],
+        [
+            "5",
+            "October 16, 1977",
+            "at Dallas Cowboys",
+            "L 34-16",
+            "62115"
+        ],
+        [
+            "6",
+            "October 23, 1977",
+            "New York Giants",
+            "L 17-6",
+            "53903"
+        ],
+        [
+            "7",
+            "October 30, 1977",
+            "Philadelphia Eagles",
+            "W 23-17",
+            "55031"
+        ],
+        [
+            "8",
+            "November 7, 1977",
+            "at Baltimore Colts",
+            "L 10-3",
+            "57740"
+        ],
+        [
+            "9",
+            "November 13, 1977",
+            "at Philadelphia Eagles",
+            "W 17-14",
+            "60702"
+        ],
+        [
+            "10",
+            "November 21, 1977",
+            "Green Bay Packers",
+            "W 10-9",
+            "51498"
+        ],
+        [
+            "11",
+            "November 27, 1977",
+            "Dallas Cowboys",
+            "L 14-7",
+            "55031"
+        ],
+        [
+            "12",
+            "December 4, 1977",
+            "at Buffalo Bills",
+            "W 10-0",
+            "22975"
+        ],
+        [
+            "13",
+            "December 10, 1977",
+            "at St. Louis Cardinals",
+            "W 26-20",
+            "36067"
+        ],
+        [
+            "14",
+            "December 17, 1977",
+            "Los Angeles Rams",
+            "W 17-14",
+            "54208"
+        ]
+    ]
+}

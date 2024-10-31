@@ -1,0 +1,56 @@
+{
+    "id": "c75fd43495346b2cbcdef0412daf3b3409229bc8514662eefb99e42326c9449a",
+    "metadata": "2005 Masters Tournament | Third round (Saturday) | Third round (Saturday)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "To_par",
+        "Hole"
+    ],
+    "cell": [
+        [
+            "1",
+            "Chris DiMarco",
+            "United States",
+            "-13",
+            "9"
+        ],
+        [
+            "2",
+            "Tiger Woods",
+            "United States",
+            "-9",
+            "9"
+        ],
+        [
+            "3",
+            "Thomas Bj\u00f8rn",
+            "Denmark",
+            "-8",
+            "9"
+        ],
+        [
+            "T4",
+            "Mark Hensby",
+            "Australia",
+            "-4",
+            "9"
+        ],
+        [
+            "T4",
+            "Vijay Singh",
+            "Fiji",
+            "-4",
+            "10"
+        ],
+        [
+            "T4",
+            "Rod Pampling",
+            "Australia",
+            "-4",
+            "12"
+        ]
+    ]
+}

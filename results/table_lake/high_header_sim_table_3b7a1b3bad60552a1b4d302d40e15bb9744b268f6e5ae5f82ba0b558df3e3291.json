@@ -1,0 +1,142 @@
+{
+    "id": "3b7a1b3bad60552a1b4d302d40e15bb9744b268f6e5ae5f82ba0b558df3e3291",
+    "metadata": "1968-69 Pittsburgh Penguins season | Game loog | January",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Attendance",
+        "Record",
+        "Points"
+    ],
+    "cell": [
+        [
+            "January 2",
+            "Pittsburgh",
+            "5-2",
+            "Montreal",
+            "16104",
+            "8-22-6",
+            "22"
+        ],
+        [
+            "January 4",
+            "Philadelphia",
+            "1-1",
+            "Pittsburgh",
+            "6329",
+            "8-22-7",
+            "23"
+        ],
+        [
+            "January 5",
+            "Pittsburgh",
+            "2-1",
+            "Detroit",
+            "10973",
+            "8-23-7",
+            "23"
+        ],
+        [
+            "January 9",
+            "Minnesota",
+            "2-7",
+            "Pittsburgh",
+            "4017",
+            "9-23-7",
+            "25"
+        ],
+        [
+            "January 11",
+            "Oakland",
+            "4-2",
+            "Pittsburgh",
+            "7101",
+            "9-24-7",
+            "25"
+        ],
+        [
+            "January 12",
+            "Pittsburgh",
+            "4-8",
+            "Boston",
+            "14659",
+            "9-25-7",
+            "25"
+        ],
+        [
+            "January 15",
+            "Pittsburgh",
+            "3-1",
+            "Minnesota",
+            "10355",
+            "10-25-7",
+            "27"
+        ],
+        [
+            "January 16",
+            "Pittsburgh",
+            "2-3",
+            "Detroit",
+            "10623",
+            "10-26-7",
+            "27"
+        ],
+        [
+            "January 18",
+            "Pittsburgh",
+            "0-4",
+            "Los Angeles",
+            "9172",
+            "10-27-7",
+            "27"
+        ],
+        [
+            "January 19",
+            "Pittsburgh",
+            "3-6",
+            "Oakland",
+            "3436",
+            "10-28-7",
+            "27"
+        ],
+        [
+            "January 23",
+            "Minnesota",
+            "1-3",
+            "Pittsburgh",
+            "3806",
+            "10-29-7",
+            "27"
+        ],
+        [
+            "January 25",
+            "Toronto",
+            "2-0",
+            "Pittsburgh",
+            "10109",
+            "10-30-7",
+            "27"
+        ],
+        [
+            "January 26",
+            "Pittsburgh",
+            "3-5",
+            "Philadelphia",
+            "10987",
+            "10-31-7",
+            "27"
+        ],
+        [
+            "January 29",
+            "St. Louis",
+            "2-1",
+            "Pittsburgh",
+            "3185",
+            "10-32-7",
+            "27"
+        ]
+    ]
+}

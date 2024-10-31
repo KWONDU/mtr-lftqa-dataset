@@ -1,0 +1,79 @@
+{
+    "id": "61cdd7346e7d901b876b21ae361e1ce662b8f8c65283c65ae2ebbf69c004ec67",
+    "metadata": "2010-11 PBA Philippine Cup | Entire conference | Entire conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Category",
+        "Player",
+        "Team",
+        "Games_played",
+        "Totals",
+        "Average"
+    ],
+    "cell": [
+        [
+            "Points per game",
+            "Gary David",
+            "Powerade Tigers",
+            "14",
+            "301",
+            "21.50"
+        ],
+        [
+            "Rebounds per game",
+            "Rudy Hatfield",
+            "Barangay Ginebra Kings",
+            "20",
+            "242",
+            "12.10"
+        ],
+        [
+            "Assists per game",
+            "Chris Ross",
+            "Meralco Bolts",
+            "16",
+            "100",
+            "6.25"
+        ],
+        [
+            "Steals per game",
+            "Chris Ross",
+            "Meralco Bolts",
+            "16",
+            "38",
+            "2.38"
+        ],
+        [
+            "Blocks per game",
+            "Nonoy Baclao",
+            "Air21 Express",
+            "15",
+            "35",
+            "2.50"
+        ],
+        [
+            "Field goal percentage",
+            "Ali Peek",
+            "Talk `N Text Tropang Texters",
+            "19",
+            "105-161",
+            "0.652"
+        ],
+        [
+            "3-pt field goal percentage",
+            "Dondon Hontiveros",
+            "San Miguel Beermen",
+            "17",
+            "33-72",
+            "0.458"
+        ],
+        [
+            "Free throw percentage",
+            "Tony dela Cruz",
+            "Alaska Aces",
+            "14",
+            "22-25",
+            "0.880"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "48e5c464627b3ca7a2dc7ad8533161cac5db750df901a72a57c66deccff34c3b",
+    "metadata": "1929 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "9.8 (62)",
+            "St Kilda",
+            "20.12 (132)",
+            "Arden Street Oval",
+            "9000",
+            "17 August 1929"
+        ],
+        [
+            "Hawthorn",
+            "8.10 (58)",
+            "Richmond",
+            "11.14 (80)",
+            "Glenferrie Oval",
+            "12500",
+            "17 August 1929"
+        ],
+        [
+            "Melbourne",
+            "11.16 (82)",
+            "Footscray",
+            "6.5 (41)",
+            "MCG",
+            "13891",
+            "17 August 1929"
+        ],
+        [
+            "South Melbourne",
+            "14.10 (94)",
+            "Essendon",
+            "13.10 (88)",
+            "Lake Oval",
+            "15000",
+            "17 August 1929"
+        ],
+        [
+            "Fitzroy",
+            "8.7 (55)",
+            "Collingwood",
+            "16.15 (111)",
+            "Brunswick Street Oval",
+            "13000",
+            "17 August 1929"
+        ],
+        [
+            "Geelong",
+            "2.13 (25)",
+            "Carlton",
+            "5.9 (39)",
+            "Corio Oval",
+            "10000",
+            "17 August 1929"
+        ]
+    ]
+}

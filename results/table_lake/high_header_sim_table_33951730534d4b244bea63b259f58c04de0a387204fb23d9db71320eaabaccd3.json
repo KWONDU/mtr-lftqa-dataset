@@ -1,0 +1,87 @@
+{
+    "id": "33951730534d4b244bea63b259f58c04de0a387204fb23d9db71320eaabaccd3",
+    "metadata": "Pas de Peyrol | Appearances in the Tour de France | Appearances in the Tour de France",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Stage",
+        "Category",
+        "Start_",
+        "Finish",
+        "Leader_at_the_summit"
+    ],
+    "cell": [
+        [
+            "2011",
+            "9",
+            "2",
+            "Issoire",
+            "St Flour",
+            "Thomas Voeckler"
+        ],
+        [
+            "2008",
+            "7",
+            "2",
+            "Brioude",
+            "Aurillac",
+            "David de la Fuente"
+        ],
+        [
+            "2004",
+            "10",
+            "1",
+            "Limoges",
+            "St. Flour",
+            "Richard Virenque"
+        ],
+        [
+            "1985",
+            "15",
+            "2",
+            "Saint-\u00c9tienne",
+            "Aurillac",
+            "Eduardo Chozas"
+        ],
+        [
+            "1983",
+            "14",
+            "2",
+            "Aurillac",
+            "Issoire",
+            "Lucien Van Impe"
+        ],
+        [
+            "1975",
+            "14",
+            "3",
+            "Aurillac",
+            "Puy-de-D\u00f4me",
+            "Lucien Van Impe"
+        ],
+        [
+            "1968",
+            "17",
+            "3",
+            "Aurillac",
+            "Saint-\u00c9tienne",
+            "Aurelio Gonzalez"
+        ],
+        [
+            "1963",
+            "14",
+            "3",
+            "Aurillac",
+            "Saint-\u00c9tienne",
+            "Federico Bahamontes"
+        ],
+        [
+            "1959",
+            "14",
+            "2",
+            "Aurillac",
+            "Clermont-Ferrand",
+            "Louis Bergaud"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "145370a70a411759b5308d354ae30f7f4438ad1946da66176c7ddf2f2c4cf19e",
+    "metadata": "WREH | Translators | Translators",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "W247AQ",
+            "97.3",
+            "Tropical Gulf Acres, Florida",
+            "25",
+            "D",
+            "FCC"
+        ],
+        [
+            "W244BK",
+            "96.7",
+            "Twentymile Bend, Florida",
+            "80",
+            "D",
+            "FCC"
+        ],
+        [
+            "W252BB",
+            "98.3",
+            "Vero Beach, Florida",
+            "13",
+            "D",
+            "FCC"
+        ],
+        [
+            "W220DZ",
+            "91.9",
+            "Wesley Chapel, Florida",
+            "8",
+            "D",
+            "FCC"
+        ],
+        [
+            "W220DU",
+            "91.9",
+            "West Deerfield Beach, Florida",
+            "80",
+            "D",
+            "FCC"
+        ],
+        [
+            "W299AU",
+            "107.7",
+            "Zolfo Springs, Florida",
+            "19",
+            "D",
+            "FCC"
+        ]
+    ]
+}

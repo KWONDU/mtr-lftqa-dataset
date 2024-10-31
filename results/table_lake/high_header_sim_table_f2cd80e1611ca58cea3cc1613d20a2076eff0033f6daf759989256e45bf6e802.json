@@ -1,0 +1,77 @@
+{
+    "id": "f2cd80e1611ca58cea3cc1613d20a2076eff0033f6daf759989256e45bf6e802",
+    "metadata": "Duchess of Nemours | House of Savoy | House of Savoy",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Father",
+        "Birth",
+        "Marriage",
+        "Became_Duchess",
+        "Ceased_to_be_Duchess",
+        "Death",
+        "Spouse"
+    ],
+    "cell": [
+        [
+            "Charlotte d`Orl\u00e9ans",
+            "Louis, Duke of Longueville (Orl\u00e9ans)",
+            "1 November 1512",
+            "8 September 1549",
+            "8 September 1549",
+            "25 November 1533",
+            "8 September 1549",
+            "Philippe"
+        ],
+        [
+            "Anna d`Este",
+            "Ercole II, Duke of Ferrara ( Este )",
+            "16 November 1531",
+            "29 April 1566",
+            "29 April 1566",
+            "15 June 1585",
+            "15 May 1607",
+            "Jacques"
+        ],
+        [
+            "Anne of Lorraine",
+            "Charles, Duke of Aumale ( Lorraine )",
+            "1600",
+            "18 April 1618",
+            "18 April 1618",
+            "10 July 1632",
+            "10 February 1638",
+            "Henri I"
+        ],
+        [
+            "\u00c9lisabeth de Bourbon",
+            "C\u00e9sar, Duke of Vend\u00f4me ( Bourbon )",
+            "August 1614",
+            "11 July 1643",
+            "11 July 1643",
+            "30 July 1652",
+            "19 May 1664",
+            "Charles Amadeus"
+        ],
+        [
+            "Marie d`Orl\u00e9ans",
+            "Henri II, Duke of Longueville (Orl\u00e9ans)",
+            "5 March 1625",
+            "22 May 1657",
+            "22 May 1657",
+            "14 January 1659",
+            "16 June 1707",
+            "Henri II"
+        ],
+        [
+            "Name",
+            "Father",
+            "Birth",
+            "Marriage",
+            "Became Duchess",
+            "Ceased to be Duchess",
+            "Death",
+            "Spouse"
+        ]
+    ]
+}

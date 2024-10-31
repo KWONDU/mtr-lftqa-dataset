@@ -1,0 +1,70 @@
+{
+    "id": "f8b649b07aa93c676546bd10055a46cfc5d2a1ca43fa54bb07bd7776bb40ec7b",
+    "metadata": "1947 VFL season | Round 19 | Round 19",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "16.17 (113)",
+            "South Melbourne",
+            "11.13 (79)",
+            "Punt Road Oval",
+            "22000",
+            "30 August 1947"
+        ],
+        [
+            "Fitzroy",
+            "20.18 (138)",
+            "Footscray",
+            "10.14 (74)",
+            "Brunswick Street Oval",
+            "13000",
+            "30 August 1947"
+        ],
+        [
+            "Collingwood",
+            "14.17 (101)",
+            "Essendon",
+            "16.12 (108)",
+            "Victoria Park",
+            "33000",
+            "30 August 1947"
+        ],
+        [
+            "St Kilda",
+            "10.18 (78)",
+            "Melbourne",
+            "27.9 (171)",
+            "Junction Oval",
+            "6000",
+            "30 August 1947"
+        ],
+        [
+            "North Melbourne",
+            "10.14 (74)",
+            "Hawthorn",
+            "10.10 (70)",
+            "Arden Street Oval",
+            "4000",
+            "30 August 1947"
+        ],
+        [
+            "Geelong",
+            "17.7 (109)",
+            "Carlton",
+            "16.11 (107)",
+            "Kardinia Park",
+            "21500",
+            "30 August 1947"
+        ]
+    ]
+}

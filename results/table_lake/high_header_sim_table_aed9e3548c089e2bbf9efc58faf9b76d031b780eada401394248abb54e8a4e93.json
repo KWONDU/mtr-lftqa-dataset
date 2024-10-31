@@ -1,0 +1,63 @@
+{
+    "id": "aed9e3548c089e2bbf9efc58faf9b76d031b780eada401394248abb54e8a4e93",
+    "metadata": "Tokyo Skytree | Television broadcasters | Television broadcasters",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Channel",
+        "Channel_name",
+        "Callsign",
+        "Signal_power",
+        "Broadcast_area"
+    ],
+    "cell": [
+        [
+            "1",
+            "NHK General TV / NHK G (GTV)",
+            "JOAK-DTV",
+            "10kW",
+            "Greater Tokyo"
+        ],
+        [
+            "2",
+            "NHK Educational TV / NHK E (ETV)",
+            "JOAB-DTV",
+            "10kW",
+            "All Kant\u014d"
+        ],
+        [
+            "4",
+            "Nippon Television / Nittele (NTV)",
+            "JOAX-DTV",
+            "10kW",
+            "All Kant\u014d"
+        ],
+        [
+            "5",
+            "TV Asahi / Tele-Asa (EX)",
+            "JOEX-DTV",
+            "10kW",
+            "All Kant\u014d"
+        ],
+        [
+            "6",
+            "TBS",
+            "JORX-DTV",
+            "10kW",
+            "All Kant\u014d"
+        ],
+        [
+            "7",
+            "TV Tokyo / Teleto (TX)",
+            "JOTX-DTV",
+            "10kW",
+            "All Kant\u014d"
+        ],
+        [
+            "8",
+            "Fuji Television (CX)",
+            "JOCX-DTV",
+            "10kW",
+            "All Kant\u014d"
+        ]
+    ]
+}

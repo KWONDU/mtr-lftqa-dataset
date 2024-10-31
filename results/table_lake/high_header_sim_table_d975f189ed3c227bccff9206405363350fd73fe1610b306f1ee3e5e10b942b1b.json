@@ -1,0 +1,97 @@
+{
+    "id": "d975f189ed3c227bccff9206405363350fd73fe1610b306f1ee3e5e10b942b1b",
+    "metadata": "2005-06 Detroit Red Wings season | April | April",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "April 2",
+            "Detroit",
+            "3 - 2",
+            "Minnesota",
+            "Legace",
+            "18568",
+            "51-15-8"
+        ],
+        [
+            "April 3",
+            "Detroit",
+            "2 - 1",
+            "Calgary",
+            "Osgood",
+            "19289",
+            "52-15-8"
+        ],
+        [
+            "April 7",
+            "Columbus",
+            "6 - 5",
+            "Detroit",
+            "Legace",
+            "20066",
+            "53-15-8"
+        ],
+        [
+            "April 8",
+            "Detroit",
+            "4 - 2",
+            "Columbus",
+            "Osgood",
+            "18136",
+            "54-15-8"
+        ],
+        [
+            "April 11",
+            "Edmonton",
+            "0 - 2",
+            "Detroit",
+            "Legace",
+            "20066",
+            "55-15-8"
+        ],
+        [
+            "April 13",
+            "Detroit",
+            "7 - 3",
+            "Chicago",
+            "Legace",
+            "15117",
+            "56-15-8"
+        ],
+        [
+            "April 15",
+            "Detroit",
+            "3 - 2",
+            "St. Louis",
+            "Osgood",
+            "16094",
+            "57-15-8"
+        ],
+        [
+            "April 17",
+            "Dallas",
+            "2 - 3",
+            "Detroit",
+            "Legace",
+            "20066",
+            "58-15-8"
+        ],
+        [
+            "April 18",
+            "Detroit",
+            "3 - 6",
+            "Nashville",
+            "Osgood",
+            "17113",
+            "58-16-8"
+        ]
+    ]
+}

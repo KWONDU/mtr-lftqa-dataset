@@ -1,0 +1,56 @@
+{
+    "id": "e376f07ce17066ad3be638d5b5ec449cdd9c32d8414b014ed4bf06b051d3f84a",
+    "metadata": "Conference League Four-Team Championship | Winners | Winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Winners",
+        "_2nd_place",
+        "_3rd_place",
+        "_4th_place"
+    ],
+    "cell": [
+        [
+            "2003",
+            "Rye House Raiders",
+            "Mildenhall Fen Tigers",
+            "Peterborough Pumas",
+            "Boston Barracudas"
+        ],
+        [
+            "2004",
+            "Mildenhall Fen Tigers",
+            "Newcastle Gems Wimbledon Dons",
+            "none",
+            "Stoke Spitfires"
+        ],
+        [
+            "2005",
+            "Weymouth Wildcats",
+            "Oxford Cheetahs",
+            "Armadale Devils",
+            "Boston Barracudas"
+        ],
+        [
+            "2006",
+            "Stoke Spitfires",
+            "Plymouth Devils",
+            "Mildenhall Fen Tigers",
+            "Scunthorpe Scorpions"
+        ],
+        [
+            "2007",
+            "Scunthorpe Scorpions",
+            "Plymouth Devils",
+            "Weymouth Wildcats",
+            "Buxton Hitmen"
+        ],
+        [
+            "2008",
+            "Weymouth Wildcats",
+            "Redcar Cubs",
+            "Sittingbourne Crusaders",
+            "Scunthorpe Saints"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "71357672c47718b851ec982813ca4e832d4722f28c5401a118eab604ea07cf13",
+    "metadata": "1996-97 Heineken Cup pool stage | Pool 4 | Pool 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Tries_for",
+        "Tries_against",
+        "Try_diff",
+        "Points_for",
+        "Points_against",
+        "Points_diff"
+    ],
+    "cell": [
+        [
+            "Toulouse",
+            "21",
+            "13",
+            "8",
+            "157",
+            "142",
+            "15"
+        ],
+        [
+            "Cardiff",
+            "16",
+            "7",
+            "9",
+            "135",
+            "97",
+            "38"
+        ],
+        [
+            "London Wasps",
+            "17",
+            "14",
+            "3",
+            "156",
+            "115",
+            "41"
+        ],
+        [
+            "Munster",
+            "11",
+            "22",
+            "-11",
+            "109",
+            "135",
+            "-26"
+        ],
+        [
+            "Milan",
+            "6",
+            "15",
+            "-9",
+            "73",
+            "141",
+            "-68"
+        ]
+    ]
+}

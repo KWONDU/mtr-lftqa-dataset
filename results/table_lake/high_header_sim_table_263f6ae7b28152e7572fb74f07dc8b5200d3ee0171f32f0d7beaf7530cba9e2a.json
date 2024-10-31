@@ -1,0 +1,77 @@
+{
+    "id": "263f6ae7b28152e7572fb74f07dc8b5200d3ee0171f32f0d7beaf7530cba9e2a",
+    "metadata": "Economic history of the Republic of Ireland | Recent Government Budget balances | Recent Government Budget balances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Income",
+        "Expenditure",
+        "SurplusDeficit",
+        "_GDP"
+    ],
+    "cell": [
+        [
+            "2003",
+            "34.4",
+            "35.4",
+            "(1)",
+            "x"
+        ],
+        [
+            "2004",
+            "37.5",
+            "37.5",
+            "0",
+            "0%"
+        ],
+        [
+            "2005",
+            "40.8",
+            "41.3",
+            "(0.5)",
+            "(0.3%)"
+        ],
+        [
+            "2006",
+            "48.0",
+            "45.8",
+            "2.3",
+            "1.3%"
+        ],
+        [
+            "2007",
+            "49.3",
+            "50.9",
+            "(1.6)",
+            "(0.9%)"
+        ],
+        [
+            "2008",
+            "43.0",
+            "55.7",
+            "(12.7)",
+            "(7%)"
+        ],
+        [
+            "2009",
+            "35.3",
+            "60.0",
+            "(24.6)",
+            "(14.8%)"
+        ],
+        [
+            "2010",
+            "36.2",
+            "55.0",
+            "(18.7)",
+            "(12.0%)"
+        ],
+        [
+            "2011",
+            "39.3",
+            "64.2",
+            "(24.9)",
+            "(15.5%)"
+        ]
+    ]
+}

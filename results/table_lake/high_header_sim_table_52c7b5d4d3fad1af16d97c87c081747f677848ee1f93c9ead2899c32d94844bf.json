@@ -1,0 +1,91 @@
+{
+    "id": "52c7b5d4d3fad1af16d97c87c081747f677848ee1f93c9ead2899c32d94844bf",
+    "metadata": "Joseph McCarthy | Public opinion | McCarthy's Support in Gallup Polls",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Favorable",
+        "No_Opinion",
+        "Unfavorable",
+        "Net_Favorable"
+    ],
+    "cell": [
+        [
+            "1951 August",
+            "15",
+            "63",
+            "22",
+            "\u22127"
+        ],
+        [
+            "1953 April",
+            "19",
+            "59",
+            "22",
+            "\u22123"
+        ],
+        [
+            "1953 June",
+            "35",
+            "35",
+            "30",
+            "+5"
+        ],
+        [
+            "1953 August",
+            "34",
+            "24",
+            "42",
+            "\u22128"
+        ],
+        [
+            "1954 January",
+            "50",
+            "21",
+            "29",
+            "+21"
+        ],
+        [
+            "1954 March",
+            "46",
+            "18",
+            "36",
+            "+10"
+        ],
+        [
+            "1954 April",
+            "38",
+            "16",
+            "46",
+            "\u22128"
+        ],
+        [
+            "1954 May",
+            "35",
+            "16",
+            "49",
+            "\u221214"
+        ],
+        [
+            "1954 June",
+            "34",
+            "21",
+            "45",
+            "\u221211"
+        ],
+        [
+            "1954 August",
+            "36",
+            "13",
+            "51",
+            "\u221215"
+        ],
+        [
+            "1954 November",
+            "35",
+            "19",
+            "46",
+            "\u221211"
+        ]
+    ]
+}

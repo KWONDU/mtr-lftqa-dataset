@@ -1,0 +1,97 @@
+{
+    "id": "7e4d681fc074478c595231e8e5ae5800e7bc7bff92339037b7a02dd6d89854a6",
+    "metadata": "2013 Big East Men's Basketball Tournament | Seeds | Seeds",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Seed",
+        "School",
+        "Conf_Overall",
+        "Tiebreaker_"
+    ],
+    "cell": [
+        [
+            "#1",
+            "Georgetown\u2021\u2020",
+            "14-4 (24-5)",
+            "2-1 vs. Louisville/Marquette"
+        ],
+        [
+            "#2",
+            "Louisville\u2021\u2020",
+            "14-4 (26-5)",
+            "1-1 vs. Georgetown/Marquette"
+        ],
+        [
+            "#3",
+            "Marquette\u2021\u2020",
+            "14-4 (23-7)",
+            "1-2 vs. Georgetown/Louisville"
+        ],
+        [
+            "#4",
+            "Pittsburgh\u2020",
+            "12-6 (24-7)",
+            ""
+        ],
+        [
+            "#5",
+            "Syracuse#",
+            "11-7 (23-8)",
+            "1-0 vs. Notre Dame"
+        ],
+        [
+            "#6",
+            "Notre Dame#",
+            "11-7 (23-8)",
+            "0-1 vs. Syracuse"
+        ],
+        [
+            "#7",
+            "Villanova#",
+            "10-8 (19-12)",
+            ""
+        ],
+        [
+            "#8",
+            "Providence#",
+            "9-9 (17-13)",
+            "1-0 vs. Cincinnati"
+        ],
+        [
+            "#9",
+            "Cincinnati#",
+            "9-9 (21-10)",
+            "0-1 vs. Providence"
+        ],
+        [
+            "#10",
+            "St. John`s#",
+            "8-10 (16-14)",
+            ""
+        ],
+        [
+            "#11",
+            "Rutgers",
+            "5-13 (14-15)",
+            ""
+        ],
+        [
+            "#12",
+            "Seton Hall",
+            "3-15 (14-17)",
+            "1-0 vs. South Florida"
+        ],
+        [
+            "#13",
+            "South Florida",
+            "3-15 (12-18)",
+            "0-1 vs. Seton Hall"
+        ],
+        [
+            "#14",
+            "DePaul",
+            "2-16 (11-20)",
+            ""
+        ]
+    ]
+}

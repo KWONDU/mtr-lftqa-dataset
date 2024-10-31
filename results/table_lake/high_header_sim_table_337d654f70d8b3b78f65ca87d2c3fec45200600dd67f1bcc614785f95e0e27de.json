@@ -1,0 +1,77 @@
+{
+    "id": "337d654f70d8b3b78f65ca87d2c3fec45200600dd67f1bcc614785f95e0e27de",
+    "metadata": "Minnesota Golden Gophers football under Fritz Crisler | Results | 1930",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Site",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/27/1930",
+            "South Dakota State",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W48-0",
+            "20000"
+        ],
+        [
+            "10/04/1930",
+            "Vanderbilt",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "L7-33",
+            "20000"
+        ],
+        [
+            "10/11/1930",
+            "Stanford",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "T0-0",
+            "45000"
+        ],
+        [
+            "10/18/1930",
+            "Indiana",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W6-0",
+            "20000"
+        ],
+        [
+            "11/01/1930",
+            "Northwestern",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "L6-27",
+            "54000"
+        ],
+        [
+            "11/08/1930",
+            "South Dakota",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W59-0",
+            "20000"
+        ],
+        [
+            "10/15/1930",
+            "at Michigan",
+            "Michigan Stadium \u2022 Ann Arbor, MI",
+            "L0-7",
+            "54944"
+        ],
+        [
+            "11/22/1930",
+            "at Wisconsin",
+            "Camp Randall Stadium \u2022 Madison, WI",
+            "L0-14",
+            "32000"
+        ],
+        [
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming."
+        ]
+    ]
+}

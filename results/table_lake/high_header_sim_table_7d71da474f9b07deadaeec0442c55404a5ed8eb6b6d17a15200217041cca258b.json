@@ -1,0 +1,143 @@
+{
+    "id": "7d71da474f9b07deadaeec0442c55404a5ed8eb6b6d17a15200217041cca258b",
+    "metadata": "2002 PGA Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Rich Beem",
+            "United States",
+            "72-66-72-68=278",
+            "-10",
+            "990000"
+        ],
+        [
+            "2",
+            "Tiger Woods",
+            "United States",
+            "71-69-72-67=279",
+            "-9",
+            "594000"
+        ],
+        [
+            "3",
+            "Chris Riley",
+            "United States",
+            "71-70-72-70=283",
+            "-5",
+            "374000"
+        ],
+        [
+            "T4",
+            "Fred Funk",
+            "United States",
+            "68-70-73-73=284",
+            "-4",
+            "235000"
+        ],
+        [
+            "T4",
+            "Justin Leonard",
+            "United States",
+            "72-66-69-77=284",
+            "-4",
+            "235000"
+        ],
+        [
+            "6",
+            "Rocco Mediate",
+            "United States",
+            "72-73-70-70=285",
+            "-3",
+            "185000"
+        ],
+        [
+            "7",
+            "Mark Calcavecchia",
+            "United States",
+            "70-68-74-74=286",
+            "-2",
+            "172000"
+        ],
+        [
+            "8",
+            "Vijay Singh",
+            "Fiji",
+            "71-74-74-68=287",
+            "-1",
+            "159000"
+        ],
+        [
+            "9",
+            "Jim Furyk",
+            "United States",
+            "68-73-76-71=288",
+            "E",
+            "149000"
+        ],
+        [
+            "T10",
+            "Robert Allenby",
+            "Australia",
+            "76-66-77-70=289",
+            "+1",
+            "110714"
+        ],
+        [
+            "T10",
+            "Stewart Cink",
+            "United States",
+            "74-74-72-69=289",
+            "+1",
+            "110714"
+        ],
+        [
+            "T10",
+            "Jos\u00e9 C\u00f3ceres",
+            "Argentina",
+            "72-71-72-74=289",
+            "+1",
+            "110714"
+        ],
+        [
+            "T10",
+            "Pierre Fulke",
+            "Sweden",
+            "72-68-78-71=289",
+            "+1",
+            "110714"
+        ],
+        [
+            "T10",
+            "Sergio Garc\u00eda",
+            "Spain",
+            "75-73-73-68=289",
+            "+1",
+            "110714"
+        ],
+        [
+            "T10",
+            "Ricardo Gonz\u00e1lez",
+            "Argentina",
+            "74-73-71-71=289",
+            "+1",
+            "110714"
+        ],
+        [
+            "T10",
+            "Steve Lowery",
+            "United States",
+            "71-71-73-74=289",
+            "+1",
+            "110714"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "1bf1767f4862ea8f9d7fb44eb794a23cf5f0565512dcc00ae6e44818221a27cc",
+    "metadata": "Rosanna Martin | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournament",
+        "Venue",
+        "Result_",
+        "Extra"
+    ],
+    "cell": [
+        [
+            "1999",
+            "World Cross Country Championships",
+            "Belfast , Northern Ireland",
+            "26th",
+            "Long race"
+        ],
+        [
+            "1999",
+            "World Cross Country Championships",
+            "Belfast , Northern Ireland",
+            "10th",
+            "Team competition"
+        ],
+        [
+            "2001",
+            "World Cross Country Championships",
+            "Ostend , Belgium",
+            "26th",
+            "Long race"
+        ],
+        [
+            "2001",
+            "World Cross Country Championships",
+            "Ostend , Belgium",
+            "6th",
+            "Team competition"
+        ],
+        [
+            "2002",
+            "World Cross Country Championships",
+            "Dublin , Ireland",
+            "9th",
+            "Short race"
+        ],
+        [
+            "2002",
+            "World Cross Country Championships",
+            "Dublin , Ireland",
+            "13th",
+            "Team competition"
+        ],
+        [
+            "2002",
+            "World Cross Country Championships",
+            "Dublin , Ireland",
+            "17th",
+            "Long race"
+        ],
+        [
+            "2002",
+            "World Cross Country Championships",
+            "Dublin , Ireland",
+            "9th",
+            "Team competition"
+        ],
+        [
+            "2003",
+            "World Cross Country Championships",
+            "Lausanne , Switzerland",
+            "27th",
+            "Short race"
+        ],
+        [
+            "2003",
+            "World Cross Country Championships",
+            "Lausanne , Switzerland",
+            "10th",
+            "Team competition"
+        ]
+    ]
+}

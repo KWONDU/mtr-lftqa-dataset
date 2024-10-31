@@ -1,0 +1,63 @@
+{
+    "id": "ae5bc72c6200691f455bd5fa1f67e66524be59c93431ca53eb3b1098edce5875",
+    "metadata": "List of regional airliners | Five-abreast cabin | Five-abreast cabin",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Seats",
+        "Period",
+        "Built",
+        "Country"
+    ],
+    "cell": [
+        [
+            "Fokker F28 Fellowship",
+            "65-79",
+            "1967-1987",
+            "241",
+            "Netherlands"
+        ],
+        [
+            "British Aerospace 146",
+            "82-112",
+            "1983-2001",
+            "387",
+            "United Kingdom"
+        ],
+        [
+            "Fokker 100",
+            "97-107",
+            "1986-1997",
+            "283",
+            "Netherlands"
+        ],
+        [
+            "Fokker 70",
+            "79",
+            "1994-1997",
+            "47",
+            "Netherlands"
+        ],
+        [
+            "Antonov An-148",
+            "75-99",
+            "2009-present",
+            "25",
+            "Ukraine"
+        ],
+        [
+            "Sukhoi Superjet 100",
+            "78-98",
+            "2011-present",
+            "28",
+            "Russia"
+        ],
+        [
+            "Bombardier CSeries",
+            "110-160",
+            "2013-present",
+            "0",
+            "Canada"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "062cffbfa607292a3477df8018cf04dee2f96f5db5e117f9ca8f8517e85a35b7",
+    "metadata": "1974 FIVB Volleyball Men's World Championship | Pool A | Pool A",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Score",
+        "Set_1",
+        "Set_2",
+        "Set_3",
+        "Total"
+    ],
+    "cell": [
+        [
+            "13 Oct",
+            "3-0",
+            "15-2",
+            "15-3",
+            "15-7",
+            "45-12"
+        ],
+        [
+            "13 Oct",
+            "3-1",
+            "15-13",
+            "13-15",
+            "15-13",
+            "58-43"
+        ],
+        [
+            "14 Oct",
+            "3-0",
+            "15-12",
+            "15-3",
+            "15-10",
+            "45-25"
+        ],
+        [
+            "14 Oct",
+            "3-0",
+            "15-10",
+            "15-5",
+            "15-12",
+            "45-27"
+        ],
+        [
+            "15 Oct",
+            "3-1",
+            "15-13",
+            "15-12",
+            "5-15",
+            "50-49"
+        ],
+        [
+            "15 Oct",
+            "3-0",
+            "15-8",
+            "15-8",
+            "15-6",
+            "45-22"
+        ]
+    ]
+}

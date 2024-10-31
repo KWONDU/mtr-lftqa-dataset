@@ -1,0 +1,207 @@
+{
+    "id": "aeab0056bcc5ae1daa379daa4aa29ae69a125d2c428a9bc5e7ea054e558af710",
+    "metadata": "1985 Tour de France | Stages | Stage results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Stage",
+        "Date_",
+        "Route",
+        "Terrain",
+        "Length_",
+        "Winner"
+    ],
+    "cell": [
+        [
+            "P",
+            "28 June",
+            "Plumelec",
+            "Individual time trial",
+            "km (mi)",
+            "Bernard Hinault ( FRA )"
+        ],
+        [
+            "1",
+            "29 June",
+            "Vannes - Lanester",
+            "Plain stage",
+            "km (mi)",
+            "Rudy Matthijs ( BEL )"
+        ],
+        [
+            "2",
+            "30 June",
+            "Lorient - Vitre",
+            "Plain stage",
+            "km (mi)",
+            "Rudy Matthijs ( BEL )"
+        ],
+        [
+            "3",
+            "1 July",
+            "Vitre - Foug\u00e8res",
+            "Team time trial",
+            "km (mi)",
+            "La Vie Claire"
+        ],
+        [
+            "4",
+            "2 July",
+            "Foug\u00e8res - Pont-Audemer",
+            "Plain stage",
+            "km (mi)",
+            "Gerrit Solleveld ( NED )"
+        ],
+        [
+            "5",
+            "3 July",
+            "Neufch\u00e2tel-en-Bray - Roubaix",
+            "Plain stage",
+            "km (mi)",
+            "Henri Manders ( NED )"
+        ],
+        [
+            "6",
+            "4 July",
+            "Roubaix - Reims",
+            "Plain stage",
+            "km (mi)",
+            "Francis Castaing ( FRA )"
+        ],
+        [
+            "7",
+            "5 July",
+            "Reims - Nancy",
+            "Plain stage",
+            "km (mi)",
+            "Ludwig Wijnants ( BEL )"
+        ],
+        [
+            "8",
+            "6 July",
+            "Sarrebourg - Strasbourg",
+            "Individual time trial",
+            "km (mi)",
+            "Bernard Hinault ( FRA )"
+        ],
+        [
+            "9",
+            "7 July",
+            "Strasbourg - \u00c9pinal",
+            "Hilly stage",
+            "km (mi)",
+            "Maarten Ducrot ( NED )"
+        ],
+        [
+            "10",
+            "8 July",
+            "\u00c9pinal - Pontarlier",
+            "Hilly stage",
+            "km (mi)",
+            "J\u00f8rgen V. Pedersen ( DEN )"
+        ],
+        [
+            "11",
+            "9 July",
+            "Pontarlier - Morzine Avoriaz",
+            "Stage with mountain(s)",
+            "km (mi)",
+            "Luis Alberto Herrera ( COL )"
+        ],
+        [
+            "12",
+            "10 July",
+            "Morzine Avoriaz - Lans-en-Vercors",
+            "Stage with mountain(s)",
+            "km (mi)",
+            "Fabio Enrique Parra ( COL )"
+        ],
+        [
+            "13",
+            "11 July",
+            "Villard-de-Lans",
+            "Individual time trial",
+            "km (mi)",
+            "Eric Vanderaerden ( BEL )"
+        ],
+        [
+            "14",
+            "13 July",
+            "Autrans - Saint-\u00c9tienne",
+            "Hilly stage",
+            "km (mi)",
+            "Luis Alberto Herrera ( COL )"
+        ],
+        [
+            "15",
+            "14 July",
+            "Saint-\u00c9tienne - Aurillac",
+            "Plain stage",
+            "km (mi)",
+            "Eduardo Chozas ( ESP )"
+        ],
+        [
+            "16",
+            "15 July",
+            "Aurillac - Toulouse",
+            "Plain stage",
+            "km (mi)",
+            "Fr\u00e9d\u00e9ric Vichot ( FRA )"
+        ],
+        [
+            "17",
+            "16 July",
+            "Toulouse - Luz Ardiden",
+            "Stage with mountain(s)",
+            "km (mi)",
+            "Pedro Delgado ( ESP )"
+        ],
+        [
+            "18A",
+            "17 July",
+            "Luz-Saint-Sauveur - Aubisque",
+            "Stage with mountain(s)",
+            "km (mi)",
+            "Stephen Roche ( IRE )"
+        ],
+        [
+            "18B",
+            "17 July",
+            "Laruns - Pau",
+            "Stage with mountain(s)",
+            "km (mi)",
+            "R\u00e9gis Simon ( FRA )"
+        ],
+        [
+            "19",
+            "18 July",
+            "Pau - Bordeaux",
+            "Plain stage",
+            "km (mi)",
+            "Eric Vanderaerden ( BEL )"
+        ],
+        [
+            "20",
+            "19 July",
+            "Montpon-M\u00e9nest\u00e9rol - Limoges",
+            "Plain stage",
+            "km (mi)",
+            "Johan Lammerts ( NED )"
+        ],
+        [
+            "21",
+            "20 July",
+            "Lac de Vassivi\u00e8re",
+            "Individual time trial",
+            "km (mi)",
+            "Greg LeMond ( USA )"
+        ],
+        [
+            "22",
+            "21 July",
+            "Orl\u00e9ans - Paris ( Champs-\u00c9lys\u00e9es )",
+            "Plain stage",
+            "km (mi)",
+            "Rudy Matthijs ( BEL )"
+        ]
+    ]
+}

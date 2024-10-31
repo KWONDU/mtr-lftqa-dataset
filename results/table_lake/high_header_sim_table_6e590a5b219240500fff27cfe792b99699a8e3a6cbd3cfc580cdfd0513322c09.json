@@ -1,0 +1,49 @@
+{
+    "id": "6e590a5b219240500fff27cfe792b99699a8e3a6cbd3cfc580cdfd0513322c09",
+    "metadata": "2008-09 Segunda Divisi\u00f3n B | Group 2 | Top goalkeepers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Goalkeeper",
+        "Goals",
+        "Matches",
+        "Average",
+        "Team"
+    ],
+    "cell": [
+        [
+            "Miguel Zapata",
+            "17",
+            "28",
+            "0.61",
+            "Atl\u00e9tico Ciudad"
+        ],
+        [
+            "Rub\u00e9n Mart\u00ednez",
+            "24",
+            "32",
+            "0.75",
+            "Cartagena"
+        ],
+        [
+            "Orlando Quintana",
+            "29",
+            "34",
+            "0.85",
+            "Lorca Deportiva"
+        ],
+        [
+            "\u00c1lvaro Campos",
+            "24",
+            "28",
+            "0.86",
+            "Real Murcia B"
+        ],
+        [
+            "Mat\u00edas Garavano",
+            "26",
+            "30",
+            "0.87",
+            "M\u00e9rida"
+        ]
+    ]
+}

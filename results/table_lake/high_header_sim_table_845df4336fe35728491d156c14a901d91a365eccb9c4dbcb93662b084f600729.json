@@ -1,0 +1,61 @@
+{
+    "id": "845df4336fe35728491d156c14a901d91a365eccb9c4dbcb93662b084f600729",
+    "metadata": "Miller Barber | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "0",
+            "1",
+            "6",
+            "11",
+            "8"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "2",
+            "7",
+            "19",
+            "13"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "0",
+            "1",
+            "1",
+            "4",
+            "2"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "2",
+            "3",
+            "6",
+            "15",
+            "12"
+        ],
+        [
+            "Totals",
+            "0",
+            "2",
+            "7",
+            "20",
+            "49",
+            "35"
+        ]
+    ]
+}

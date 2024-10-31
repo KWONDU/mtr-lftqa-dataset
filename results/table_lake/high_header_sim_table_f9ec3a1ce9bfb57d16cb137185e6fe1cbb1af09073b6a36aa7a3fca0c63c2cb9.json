@@ -1,0 +1,71 @@
+{
+    "id": "f9ec3a1ce9bfb57d16cb137185e6fe1cbb1af09073b6a36aa7a3fca0c63c2cb9",
+    "metadata": "2001 PGA Championship | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Paul Azinger",
+            "United States",
+            "1993",
+            "278",
+            "-2",
+            "T22"
+        ],
+        [
+            "Nick Price",
+            "Zimbabwe",
+            "1992 , 1994",
+            "279",
+            "-1",
+            "T29"
+        ],
+        [
+            "Tiger Woods",
+            "United States",
+            "1999 , 2000",
+            "279",
+            "-1",
+            "T29"
+        ],
+        [
+            "Bob Tway",
+            "United States",
+            "1986",
+            "279",
+            "-1",
+            "T29"
+        ],
+        [
+            "Davis Love III",
+            "United States",
+            "1997",
+            "280",
+            "E",
+            "T37"
+        ],
+        [
+            "Hal Sutton",
+            "United States",
+            "1983",
+            "281",
+            "+1",
+            "T44"
+        ],
+        [
+            "Vijay Singh",
+            "Fiji",
+            "1998",
+            "282",
+            "+2",
+            "T51"
+        ]
+    ]
+}

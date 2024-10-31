@@ -1,0 +1,107 @@
+{
+    "id": "8dc6f6c080bc1289c3f0fe58e3beb039cac2adfb775cd52c5f437e38926b3a7e",
+    "metadata": "1954 Formula One season | Season review | Season review",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Race",
+        "Circuit",
+        "Date_",
+        "Pole_position",
+        "Winning_driver",
+        "Constructor_",
+        "Tyre",
+        "Report"
+    ],
+    "cell": [
+        [
+            "Argentine Grand Prix",
+            "Buenos Aires",
+            "17 January",
+            "Giuseppe Farina",
+            "Juan Manuel Fangio",
+            "Maserati",
+            "P",
+            "Report"
+        ],
+        [
+            "Indianapolis 500",
+            "Indianapolis",
+            "31 May",
+            "Jack McGrath",
+            "Bill Vukovich",
+            "Kurtis Kraft - Offenhauser",
+            "F",
+            "Report"
+        ],
+        [
+            "Belgian Grand Prix",
+            "Spa-Francorchamps",
+            "20 June",
+            "Juan Manuel Fangio",
+            "Juan Manuel Fangio",
+            "Maserati",
+            "P",
+            "Report"
+        ],
+        [
+            "French Grand Prix",
+            "Reims",
+            "4 July",
+            "Juan Manuel Fangio",
+            "Juan Manuel Fangio",
+            "Mercedes",
+            "C",
+            "Report"
+        ],
+        [
+            "British Grand Prix",
+            "Silverstone",
+            "17 July",
+            "Juan Manuel Fangio",
+            "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
+            "Ferrari",
+            "P",
+            "Report"
+        ],
+        [
+            "German Grand Prix (a.k.a European Grand Prix )",
+            "N\u00fcrburgring",
+            "1 August",
+            "Juan Manuel Fangio",
+            "Juan Manuel Fangio",
+            "Mercedes",
+            "C",
+            "Report"
+        ],
+        [
+            "Swiss Grand Prix",
+            "Bremgarten",
+            "22 August",
+            "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
+            "Juan Manuel Fangio",
+            "Mercedes",
+            "C",
+            "Report"
+        ],
+        [
+            "Italian Grand Prix",
+            "Monza",
+            "5 September",
+            "Juan Manuel Fangio",
+            "Juan Manuel Fangio",
+            "Mercedes",
+            "C",
+            "Report"
+        ],
+        [
+            "Spanish Grand Prix",
+            "Pedralbes",
+            "24 October",
+            "Alberto Ascari",
+            "Mike Hawthorn",
+            "Ferrari",
+            "P",
+            "Report"
+        ]
+    ]
+}

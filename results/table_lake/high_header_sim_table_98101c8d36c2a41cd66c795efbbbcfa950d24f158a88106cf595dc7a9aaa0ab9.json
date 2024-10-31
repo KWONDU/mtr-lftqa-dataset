@@ -1,0 +1,79 @@
+{
+    "id": "98101c8d36c2a41cd66c795efbbbcfa950d24f158a88106cf595dc7a9aaa0ab9",
+    "metadata": "Irrigation in Bolivia | Irrigation infrastructure | Irrigation infrastructure",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Department",
+        "Micro_10ha",
+        "Small_100ha",
+        "Medium_500ha",
+        "Big_500ha",
+        "Total"
+    ],
+    "cell": [
+        [
+            "Chuquisaca",
+            "1653",
+            "11370",
+            "4261",
+            "3884",
+            "21168"
+        ],
+        [
+            "Cochabamba",
+            "1938",
+            "22225",
+            "27403",
+            "35968",
+            "81925"
+        ],
+        [
+            "La Paz",
+            "1703",
+            "21047",
+            "6052",
+            "7192",
+            "35994"
+        ],
+        [
+            "Oruro",
+            "940",
+            "3638",
+            "440",
+            "9021",
+            "14039"
+        ],
+        [
+            "Potos\u00ed",
+            "3240",
+            "10146",
+            "2254",
+            "600",
+            "16240"
+        ],
+        [
+            "Santa Cruz",
+            "269",
+            "5456",
+            "8434",
+            "1080",
+            "15239"
+        ],
+        [
+            "Tarija",
+            "785",
+            "12755",
+            "17101",
+            "5710",
+            "36351"
+        ],
+        [
+            "Total",
+            "10528",
+            "86638",
+            "65944",
+            "63454",
+            "226564"
+        ]
+    ]
+}

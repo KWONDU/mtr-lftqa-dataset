@@ -1,0 +1,91 @@
+{
+    "id": "f77600fef3f7328134c7dde3a3adad2c21b01bacd966e59fe46379d742c1143c",
+    "metadata": "Media in Saguenay, Quebec | Radio | Radio",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Frequency",
+        "Call_sign",
+        "Format",
+        "Owner_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "FM 92.5",
+            "CKAJ-FM",
+            "community / oldies",
+            "La Radio communautaire du Saguenay",
+            "French"
+        ],
+        [
+            "FM 93.7",
+            "CBJ-FM",
+            "news / talk",
+            "Canadian Broadcasting Corporation",
+            "French"
+        ],
+        [
+            "FM 94.5",
+            "CJAB-FM",
+            "contemporary hit radio",
+            "Astral Media",
+            "French"
+        ],
+        [
+            "FM 95.7",
+            "CKYK-FM",
+            "modern rock",
+            "RNC Media",
+            "French"
+        ],
+        [
+            "FM 96.9",
+            "CFIX-FM",
+            "soft adult contemporary",
+            "Astral Media",
+            "French"
+        ],
+        [
+            "FM 98.3",
+            "CKRS-FM",
+            "mainstream rock",
+            "Radio Saguenay Inc.",
+            "French"
+        ],
+        [
+            "FM 99.7",
+            "CKAJ-FM-1",
+            "community / oldies",
+            "La Radio communautaire du Saguenay",
+            "French , serves borough of La Baie"
+        ],
+        [
+            "FM 100.9",
+            "CBJX-FM",
+            "public music",
+            "Canadian Broadcasting Corporation",
+            "French"
+        ],
+        [
+            "FM 102.7",
+            "CBJE-FM",
+            "news / talk",
+            "Canadian Broadcasting Corporation",
+            "English ; rebroadcasts CBVE-FM, Quebec City"
+        ],
+        [
+            "FM 105.5",
+            "CKGS-FM",
+            "hot adult contemporary",
+            "9202-1617 Qu\u00e9bec Inc.",
+            "French"
+        ],
+        [
+            "FM 106.7",
+            "CION-FM-2",
+            "Christian radio",
+            "Fondation Radio-Galil\u00e9e",
+            "French"
+        ]
+    ]
+}

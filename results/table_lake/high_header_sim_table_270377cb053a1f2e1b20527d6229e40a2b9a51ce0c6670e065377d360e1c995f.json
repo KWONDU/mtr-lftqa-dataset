@@ -1,0 +1,56 @@
+{
+    "id": "270377cb053a1f2e1b20527d6229e40a2b9a51ce0c6670e065377d360e1c995f",
+    "metadata": "Central Eastern Alps | Alpine Club classification | Group B",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "AVE_No_",
+        "Name_",
+        "Country",
+        "Highest_mountain",
+        "Height_m"
+    ],
+    "cell": [
+        [
+            "63",
+            "Plessur Alps",
+            "Switzerland",
+            "Aroser Rothorn",
+            "2980"
+        ],
+        [
+            "64",
+            "Oberhalbstein Alps",
+            "Switzerland Italy",
+            "Piz Platta",
+            "3392"
+        ],
+        [
+            "65",
+            "Albula Alps",
+            "Switzerland",
+            "Piz Kesch",
+            "3418"
+        ],
+        [
+            "66",
+            "Bernina Group",
+            "Italy Switzerland",
+            "Piz Bernina",
+            "4049"
+        ],
+        [
+            "67",
+            "Livigno Alps",
+            "Italy Switzerland",
+            "Cima de\u2019 Piazzi",
+            "3439"
+        ],
+        [
+            "68",
+            "Bergamo Alps (2)",
+            "Italy",
+            "Pizzo di Coca",
+            "3052"
+        ]
+    ]
+}

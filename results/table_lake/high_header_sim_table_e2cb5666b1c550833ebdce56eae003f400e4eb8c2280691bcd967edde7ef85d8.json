@@ -1,0 +1,71 @@
+{
+    "id": "e2cb5666b1c550833ebdce56eae003f400e4eb8c2280691bcd967edde7ef85d8",
+    "metadata": "List of web analytics software | Free / Open source (FLOSS) | Free / Open source (FLOSS)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Platform",
+        "Supported_databases",
+        "Tracking_Method",
+        "Latest_stable_release",
+        "License"
+    ],
+    "cell": [
+        [
+            "Analog",
+            "C",
+            "Logfile-based",
+            "Web log files",
+            "6.0",
+            "GNU GPL"
+        ],
+        [
+            "AWStats",
+            "Perl",
+            "Logfile-based",
+            "Web log files",
+            "7.1",
+            "GNU GPL"
+        ],
+        [
+            "CrawlTrack",
+            "PHP",
+            "MySQL",
+            "PHP pagetag",
+            "3.3.2",
+            "GNU GPL"
+        ],
+        [
+            "Open Web Analytics",
+            "PHP",
+            "MySQL",
+            "JavaScript or PHP pagetag",
+            "1.5.2",
+            "GNU GPL"
+        ],
+        [
+            "Piwik",
+            "PHP",
+            "MySQL",
+            "JavaScript or PHP pagetag or Web log files",
+            "1.12",
+            "GNU GPL"
+        ],
+        [
+            "W3Perl",
+            "Perl",
+            "Logfile-based",
+            "Web log files",
+            "3.17",
+            "GNU GPL"
+        ],
+        [
+            "Webalizer",
+            "C",
+            "Logfile-based",
+            "Web log files",
+            "2.23-05",
+            "GNU GPL"
+        ]
+    ]
+}

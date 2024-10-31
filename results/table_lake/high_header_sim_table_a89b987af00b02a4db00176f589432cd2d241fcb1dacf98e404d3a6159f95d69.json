@@ -1,0 +1,87 @@
+{
+    "id": "a89b987af00b02a4db00176f589432cd2d241fcb1dacf98e404d3a6159f95d69",
+    "metadata": "Bolivian general election, 2014 | Electoral system | Electoral system",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Department",
+        "Total_Deputies",
+        "Uninominal_Deputies",
+        "Plurinominal_Deputies",
+        "Special_Indigenous_or_Campesino_Deputies",
+        "Senators_"
+    ],
+    "cell": [
+        [
+            "La Paz",
+            "29",
+            "14",
+            "14",
+            "1",
+            "4"
+        ],
+        [
+            "Santa Cruz",
+            "28",
+            "14",
+            "13",
+            "1",
+            "4"
+        ],
+        [
+            "Cochabamba",
+            "19",
+            "9",
+            "9",
+            "1",
+            "4"
+        ],
+        [
+            "Potos\u00ed",
+            "13",
+            "7",
+            "6",
+            "0",
+            "4"
+        ],
+        [
+            "Chuquisaca",
+            "10",
+            "5",
+            "5",
+            "0",
+            "4"
+        ],
+        [
+            "Oruro",
+            "9",
+            "4",
+            "4",
+            "1",
+            "4"
+        ],
+        [
+            "Tarija",
+            "9",
+            "4",
+            "4",
+            "1",
+            "4"
+        ],
+        [
+            "Beni",
+            "8",
+            "4",
+            "3",
+            "1",
+            "4"
+        ],
+        [
+            "Pando",
+            "5",
+            "2",
+            "2",
+            "1",
+            "4"
+        ]
+    ]
+}

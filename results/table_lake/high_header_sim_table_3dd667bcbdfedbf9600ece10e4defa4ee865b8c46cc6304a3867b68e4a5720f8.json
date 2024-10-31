@@ -1,0 +1,70 @@
+{
+    "id": "3dd667bcbdfedbf9600ece10e4defa4ee865b8c46cc6304a3867b68e4a5720f8",
+    "metadata": "Council Tax | Current bands | Current bands",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Band",
+        "Value_",
+        "Ratio",
+        "Ratio_as_",
+        "Average"
+    ],
+    "cell": [
+        [
+            "A",
+            "up to \u00a340,000",
+            "6/9",
+            "67%",
+            "\u00a3845"
+        ],
+        [
+            "B",
+            "\u00a340,001 to \u00a352,000",
+            "7/9",
+            "78%",
+            "\u00a3986"
+        ],
+        [
+            "C",
+            "\u00a352,001 to \u00a368,000",
+            "8/9",
+            "89%",
+            "\u00a31,127"
+        ],
+        [
+            "D",
+            "\u00a368,001 to \u00a388,000",
+            "9/9",
+            "100%",
+            "\u00a31,268"
+        ],
+        [
+            "E",
+            "\u00a388,001 to \u00a3120,000",
+            "11/9",
+            "122%",
+            "\u00a31,550"
+        ],
+        [
+            "F",
+            "\u00a3120,001 to \u00a3160,000",
+            "13/9",
+            "144%",
+            "\u00a31,832"
+        ],
+        [
+            "G",
+            "\u00a3160,001 to \u00a3320,000",
+            "15/9",
+            "167%",
+            "\u00a32,113"
+        ],
+        [
+            "H",
+            "\u00a3320,001 and above",
+            "18/9",
+            "200%",
+            "\u00a32,536"
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "40187acb1b7c30e679636c8111056e53b503cd5d25d74c35d2c0cfedfc5227df",
+    "metadata": "One Million Star | Season summary | Season summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season_Number",
+        "Premiere_Date",
+        "Winner",
+        "Runner_Up",
+        "_2nd_Runner_up",
+        "_3rd_Runner_up"
+    ],
+    "cell": [
+        [
+            "Season 1",
+            "January 5, 2007",
+            "Yoga Lin (\u6797\u5ba5\u5609)",
+            "Judy Chou (\u5468\u5b9a\u7def)",
+            "Peter Pan (\u6f58\u88d5\u6587)",
+            "Afalean Lu (\u76e7\u5b78\u53e1)"
+        ],
+        [
+            "Season 2",
+            "July 20, 2007",
+            "Yuming Lai (\u8cf4\u9298\u5049)",
+            "Rachel Liang (\u6881\u6587\u97f3)",
+            "Uni Yie (\u8449\u744b\u5ead)",
+            "Quack Wu (\u5433\u5fe0\u660e)"
+        ],
+        [
+            "Season 3",
+            "February 2, 2008",
+            "Lala Xu (\u5f90\u4f73\u7469)",
+            "Shennio Lin (\u6797\u82af\u5100)",
+            "Ivy Li (\u9ece\u790e\u5be7)",
+            "Sammi Jian (\u7c21\u9cf3\u541b)"
+        ],
+        [
+            "Season 4",
+            "October 2008",
+            "Queenie Fang (\u65b9\u5ba5\u5fc3)",
+            "Mark Chang (\u5f35\u5fc3\u5091)",
+            "Micheal Lin (\u6797\u9d3b\u9cf4)",
+            "Connie Kan (\u5eb7\u798e\u5ead)"
+        ],
+        [
+            "Season 5",
+            "April 3, 2009",
+            "Dennis Sun (\u5b6b\u81ea\u4f51)",
+            "Rose Liu (\u5289\u660e\u6e58)",
+            "Celia Liang (\u6881\u66c9\u73fa)",
+            "Rachel Hsu (\u5f90\u8a60\u7433)"
+        ],
+        [
+            "Season 6",
+            "November 6, 2009",
+            "Hu Xia (\u80e1\u590f)",
+            "Jenny Du (\u675c\u83ef\u747e)",
+            "San Shuai (\u4e09\u5e25)",
+            "Shanils Huang (\u9ec3\u90c1\u5584)"
+        ],
+        [
+            "Star Legend",
+            "May 21, 2010",
+            "Janice Yan (\u95bb\u5955\u683c)",
+            "Rose Liu (\u5289\u660e\u6e58)",
+            "Uni Yie (\u8449\u744b\u5ead)",
+            "Mark Chang (\u5f35\u5fc3\u5091)"
+        ],
+        [
+            "Season 7",
+            "August 27, 2010",
+            "Jess Lee (\u674e\u4f73\u8587)",
+            "Gary Sun (\u5b6b\u66c9\u4eae)",
+            "Wu Si Ai, Usay(\u821e\u601d\u611b)",
+            "Christmas Bai (\u767d\u6f6e\u6d1b\u8499)"
+        ]
+    ]
+}

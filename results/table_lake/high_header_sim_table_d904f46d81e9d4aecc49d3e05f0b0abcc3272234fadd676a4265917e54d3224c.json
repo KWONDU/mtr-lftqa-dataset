@@ -1,0 +1,49 @@
+{
+    "id": "d904f46d81e9d4aecc49d3e05f0b0abcc3272234fadd676a4265917e54d3224c",
+    "metadata": "MNC International | Broadcast rights | Broadcast rights",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Territory",
+        "Broadcaster",
+        "Channel",
+        "Launched",
+        "Closed"
+    ],
+    "cell": [
+        [
+            "Brunei",
+            "Kristal-Astro",
+            "144",
+            "December 10, 2011",
+            "now"
+        ],
+        [
+            "Malaysia",
+            "Astro",
+            "144",
+            "December 10, 2011",
+            "now"
+        ],
+        [
+            "Malaysia",
+            "UniFi",
+            "112",
+            "September 1, 2008",
+            "now"
+        ],
+        [
+            "Singapore",
+            "StarHub TV",
+            "122",
+            "April 17, 2008",
+            "December 7,2013"
+        ],
+        [
+            "Sinagpore",
+            "mio TV",
+            "694",
+            "September 15,2013",
+            "now"
+        ]
+    ]
+}

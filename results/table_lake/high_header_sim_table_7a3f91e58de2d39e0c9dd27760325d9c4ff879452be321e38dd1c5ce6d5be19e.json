@@ -1,0 +1,49 @@
+{
+    "id": "7a3f91e58de2d39e0c9dd27760325d9c4ff879452be321e38dd1c5ce6d5be19e",
+    "metadata": "92nd United States Congress | Senate | Senate",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "State_class",
+        "Vacator",
+        "Reason_for_change",
+        "Successor",
+        "Date_of_successor_s_formal_installation"
+    ],
+    "cell": [
+        [
+            "Georgia (2)",
+            "Richard Russell, Jr. (D)",
+            "Died January 21, 1971",
+            "David H. Gambrell (D)",
+            "February 1, 1971"
+        ],
+        [
+            "Vermont (1)",
+            "Winston L. Prouty (R)",
+            "Died September 10, 1971",
+            "Robert Stafford (R)",
+            "September 16, 1971"
+        ],
+        [
+            "Louisiana (2)",
+            "Allen J. Ellender (D)",
+            "Died July 27, 1972",
+            "Elaine S. Edwards (D)",
+            "August 1, 1972"
+        ],
+        [
+            "Georgia (2)",
+            "David H. Gambrell (D)",
+            "Successor elected November 7, 1972",
+            "Sam Nunn (D)",
+            "November 7, 1972"
+        ],
+        [
+            "Louisiana (2)",
+            "Elaine S. Edwards (D)",
+            "Successor elected November 13, 1972",
+            "Bennett Johnston, Jr. (D)",
+            "November 14, 1972"
+        ]
+    ]
+}

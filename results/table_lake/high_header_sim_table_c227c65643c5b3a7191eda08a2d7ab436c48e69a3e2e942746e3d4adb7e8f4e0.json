@@ -1,0 +1,98 @@
+{
+    "id": "c227c65643c5b3a7191eda08a2d7ab436c48e69a3e2e942746e3d4adb7e8f4e0",
+    "metadata": "2010 U.S. Open (golf) | Round summaries | Third round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Dustin Johnson",
+            "United States",
+            "71-70-66=207",
+            "-6"
+        ],
+        [
+            "2",
+            "Graeme McDowell",
+            "Northern Ireland",
+            "71-68-71=210",
+            "-3"
+        ],
+        [
+            "3",
+            "Tiger Woods",
+            "United States",
+            "74-72-66=212",
+            "-1"
+        ],
+        [
+            "T4",
+            "Ernie Els",
+            "South Africa",
+            "73-68-72=213",
+            "E"
+        ],
+        [
+            "T4",
+            "Gr\u00e9gory Havret",
+            "France",
+            "73-71-69=213",
+            "E"
+        ],
+        [
+            "6",
+            "Phil Mickelson",
+            "United States",
+            "75-66-73=214",
+            "+1"
+        ],
+        [
+            "T7",
+            "Alex \u010cejka",
+            "Germany",
+            "70-72-74=216",
+            "+3"
+        ],
+        [
+            "T7",
+            "Tim Clark",
+            "South Africa",
+            "72-72-72=216",
+            "+3"
+        ],
+        [
+            "T7",
+            "Ryo Ishikawa",
+            "Japan",
+            "70-71-75=216",
+            "+3"
+        ],
+        [
+            "T10",
+            "Martin Kaymer",
+            "Germany",
+            "74-71-72=217",
+            "+4"
+        ],
+        [
+            "T10",
+            "Davis Love III",
+            "United States",
+            "75-74-68=217",
+            "+4"
+        ],
+        [
+            "T10",
+            "Sean O`Hair",
+            "United States",
+            "76-71-70=217",
+            "+4"
+        ]
+    ]
+}

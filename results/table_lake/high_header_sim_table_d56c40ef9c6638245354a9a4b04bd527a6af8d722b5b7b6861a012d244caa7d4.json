@@ -1,0 +1,70 @@
+{
+    "id": "d56c40ef9c6638245354a9a4b04bd527a6af8d722b5b7b6861a012d244caa7d4",
+    "metadata": "Proto-Sinaitic script | Alphabet hypothesis | Possible correspondences between Proto-Sinaitic and Phoenician",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Phoen_value",
+        "Phoen_name",
+        "Hebrew",
+        "Greek",
+        "Latin",
+        "Cyrillic",
+        "Arabic"
+    ],
+    "cell": [
+        [
+            "\u02bc",
+            "\u02bealp ox",
+            "\u05d0",
+            "\u0391",
+            "A",
+            "\u0410",
+            "\u0627 \u200e"
+        ],
+        [
+            "b",
+            "bet house",
+            "\u05d1",
+            "\u0392",
+            "B",
+            "\u0411 , \u0412",
+            "\u0628 \u200e"
+        ],
+        [
+            "k",
+            "kap hand",
+            "\u05db",
+            "\u039a",
+            "K",
+            "\u041a",
+            "\u0643 \u200e"
+        ],
+        [
+            "m",
+            "mem water",
+            "\u05de",
+            "\u039c",
+            "M",
+            "\u041c",
+            "\u0645 \u200e"
+        ],
+        [
+            "\u02bb",
+            "\u02bfen eye",
+            "\u05e2",
+            "\u039f",
+            "O",
+            "\u041e",
+            "\u0639 \u200e"
+        ],
+        [
+            "r",
+            "ro\u02be\u0161 head",
+            "\u05e8",
+            "\u03a1",
+            "R",
+            "\u0420",
+            "\u0631 \u200e"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "06938ca0d6616d2ed683cadf75fd30e7ad145011a230aac9c423f4d3b81c4ffc",
+    "metadata": "1945 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "10.12 (72)",
+            "North Melbourne",
+            "18.11 (119)",
+            "Punt Road Oval",
+            "14000",
+            "2 June 1945"
+        ],
+        [
+            "Fitzroy",
+            "7.23 (65)",
+            "South Melbourne",
+            "10.15 (75)",
+            "Brunswick Street Oval",
+            "19000",
+            "2 June 1945"
+        ],
+        [
+            "Essendon",
+            "14.28 (112)",
+            "Geelong",
+            "9.10 (64)",
+            "Windy Hill",
+            "8000",
+            "2 June 1945"
+        ],
+        [
+            "Carlton",
+            "12.17 (89)",
+            "Richmond",
+            "13.16 (94)",
+            "Princes Park",
+            "21000",
+            "2 June 1945"
+        ],
+        [
+            "Hawthorn",
+            "11.15 (81)",
+            "Footscray",
+            "17.14 (116)",
+            "Glenferrie Oval",
+            "10000",
+            "2 June 1945"
+        ],
+        [
+            "St Kilda",
+            "7.12 (54)",
+            "Collingwood",
+            "19.16 (130)",
+            "Junction Oval",
+            "12000",
+            "2 June 1945"
+        ]
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "5f4a2e8ffe158408dd39ff79162afb18f268e4fda76028efd19d3dcf14665629",
+    "metadata": "Ivy League | Members | Members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Athletic_nickname",
+        "Undergraduate_enrollment",
+        "Graduate_enrollment",
+        "Total_enrollment",
+        "_2013_Endowment_and_US_rank",
+        "Academic_staff",
+        "Motto_"
+    ],
+    "cell": [
+        [
+            "Brown University",
+            "Providence, , Rhode Island",
+            "Bears",
+            "6316",
+            "2333",
+            "8649",
+            "$2.7 billion (30th)",
+            "736",
+            "In Deo Speramus , (In God We Hope)"
+        ],
+        [
+            "Columbia University",
+            "New York, , New York",
+            "Lions",
+            "7160",
+            "15760",
+            "22920",
+            "$8.2 billion (9th)",
+            "3763",
+            "In lumine Tuo videbimus lumen , (In Thy light shall we see the light)"
+        ],
+        [
+            "Cornell University",
+            "Ithaca, , New York",
+            "Big Red",
+            "13931",
+            "6702",
+            "20633",
+            "$5.3 billion (18th)",
+            "2908",
+            "I would found an institution where any person can find instruction in any study."
+        ],
+        [
+            "Dartmouth College",
+            "Hanover, , New Hampshire",
+            "Big Green",
+            "4248",
+            "1893",
+            "6141",
+            "$3.7 billion (22nd)",
+            "571",
+            "Vox clamantis in deserto , (The voice of one crying in the wilderness)"
+        ],
+        [
+            "Harvard University",
+            "Cambridge, , Massachusetts",
+            "Crimson",
+            "7181",
+            "14044",
+            "21225",
+            "$32.3 billion (1st)",
+            "4671",
+            "Veritas , (Truth)"
+        ],
+        [
+            "Princeton University",
+            "Princeton, , New Jersey",
+            "Tigers",
+            "5113",
+            "2479",
+            "7592",
+            "$18.2 billion (5th)",
+            "1172",
+            "Dei sub numine viget , (Under God`s power she flourishes)"
+        ],
+        [
+            "University of Pennsylvania",
+            "Philadelphia, , Pennsylvania",
+            "Quakers",
+            "10337",
+            "10306",
+            "20643",
+            "$7.7 billion (11th)",
+            "4464",
+            "Leges sine moribus vanae , (Laws without morals are useless)"
+        ],
+        [
+            "Yale University",
+            "New Haven, , Connecticut",
+            "Bulldogs",
+            "5275",
+            "6391",
+            "11666",
+            "$20.8 billion (2nd)",
+            "4140",
+            "\u05d0\u05d5\u05e8\u05d9\u05dd \u05d5\u05ea\u05d5\u05de\u05d9\u05dd , Lux et veritas , (Light and truth)"
+        ]
+    ]
+}

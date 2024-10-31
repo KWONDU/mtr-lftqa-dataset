@@ -1,0 +1,61 @@
+{
+    "id": "8792f54e9a668f2446535bde7860daf0070966cd0f94320cfe1b2b84e607c24a",
+    "metadata": "1942 VFL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "8.9 (57)",
+            "St Kilda",
+            "10.15 (75)",
+            "Glenferrie Oval",
+            "3500",
+            "1 August 1942"
+        ],
+        [
+            "Fitzroy",
+            "20.14 (134)",
+            "North Melbourne",
+            "10.8 (68)",
+            "Brunswick Street Oval",
+            "5500",
+            "1 August 1942"
+        ],
+        [
+            "Essendon",
+            "15.12 (102)",
+            "Footscray",
+            "10.8 (68)",
+            "Windy Hill",
+            "14000",
+            "1 August 1942"
+        ],
+        [
+            "Richmond",
+            "15.21 (111)",
+            "Melbourne",
+            "12.14 (86)",
+            "Punt Road Oval",
+            "9000",
+            "1 August 1942"
+        ],
+        [
+            "South Melbourne",
+            "10.24 (84)",
+            "Carlton",
+            "12.17 (89)",
+            "Princes Park",
+            "15000",
+            "1 August 1942"
+        ]
+    ]
+}

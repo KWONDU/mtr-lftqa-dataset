@@ -1,0 +1,85 @@
+{
+    "id": "15305e91aa4b7fe41a0ea121ac9c144fcfc5a35d184d2090fbe669ba46a718fb",
+    "metadata": "List of Intel Atom microprocessors | Netbook processors (sub-notebook) | \"Pineview\" (45 nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_number",
+        "sSpec_number",
+        "Frequency",
+        "GPU_frequency",
+        "L2_cache",
+        "I_O_bus",
+        "Memory",
+        "Voltage",
+        "Socket",
+        "Release_date",
+        "Part_numbers"
+    ],
+    "cell": [
+        [
+            "Atom N435",
+            "SLC4C(A0)",
+            "1.33 GHz",
+            "200 MHz",
+            "512 KB",
+            "DMI",
+            "1 \u00d7 DDR2-667 1 \u00d7 DDR3-800",
+            "0.8-1.175V",
+            "FC-BGA 559",
+            "June 2011",
+            "AU80610007533AA"
+        ],
+        [
+            "Atom N450",
+            "SLBMG(A0)",
+            "1.67 GHz",
+            "200 MHz",
+            "512 KB",
+            "DMI",
+            "1 \u00d7 DDR2-667",
+            "0.8-1.175V",
+            "FC-BGA 559",
+            "December 21, 2009",
+            "AU80610004653AA"
+        ],
+        [
+            "Atom N455",
+            "SLBX9(A0)",
+            "1.67 GHz",
+            "200 MHz",
+            "512 KB",
+            "DMI",
+            "1 \u00d7 DDR2-800 1 \u00d7 DDR3-800",
+            "0.8-1.175V",
+            "FC-BGA 559",
+            "June 1, 2010",
+            "AU80610006237AA"
+        ],
+        [
+            "Atom N470",
+            "SLBMF(A0)",
+            "1.83 GHz",
+            "200 MHz",
+            "512 KB",
+            "DMI",
+            "1 \u00d7 DDR2-667",
+            "0.8-1.175V",
+            "FC-BGA 559",
+            "March 1, 2010",
+            "AU80610003495AA"
+        ],
+        [
+            "Atom N475",
+            "SLBX5(A0)",
+            "1.83 GHz",
+            "200 MHz",
+            "512 KB",
+            "DMI",
+            "1 \u00d7 DDR2-800 1 \u00d7 DDR3-800",
+            "0.8-1.175V",
+            "FC-BGA 559",
+            "June 1, 2010",
+            "AU80610006240AA"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "22812c7a6cc55cb2c79723d794f42eb3fd6a69e08c95f624db09d01616b4c920",
+    "metadata": "BMW M57 | Summary | Models",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Engine_code",
+        "Displacement",
+        "Power_Torque_rpm",
+        "Redline_rpm",
+        "Year_"
+    ],
+    "cell": [
+        [
+            "M57D25",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@2000-2500",
+            "4750",
+            "2000"
+        ],
+        [
+            "M57TUD25",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@2000-2750",
+            "4500",
+            "2004"
+        ],
+        [
+            "M57D30",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@1750-3200",
+            "4500",
+            "1998"
+        ],
+        [
+            "M57D30",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@2000-3000",
+            "4500",
+            "1998"
+        ],
+        [
+            "M57D30",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@1750-3000",
+            "4500",
+            "2000"
+        ],
+        [
+            "M57TUD30",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@1500-3250",
+            "5000",
+            "2003"
+        ],
+        [
+            "M57TUD30",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@2000-2750",
+            "5000",
+            "2002"
+        ],
+        [
+            "M57TUD30",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@2000-2250",
+            "5000",
+            "2004"
+        ],
+        [
+            "M57TU2D30",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@2000-2750",
+            "5000",
+            "2005"
+        ],
+        [
+            "M57TU2D30",
+            "cc (L; cu in)",
+            "PS (kW; hp)@4000, N\u00b7m (lb\u00b7ft)@2000-2250",
+            "5000",
+            "2004"
+        ]
+    ]
+}

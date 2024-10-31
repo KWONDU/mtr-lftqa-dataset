@@ -1,0 +1,88 @@
+{
+    "id": "8c9a017cf55fb5a894e8dfa98b370eda1dc8ffab44c069fe8a7d998e0d05093d",
+    "metadata": "Semitic root | Triconsonantal roots | Triconsonantal roots",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Semitological_abbreviation",
+        "Hebrew_name",
+        "Arabic_name",
+        "Morphological_category",
+        "Hebrew_Form",
+        "Arabic_form",
+        "Approximate_translation"
+    ],
+    "cell": [
+        [
+            "G verb stem",
+            "Pa\u2018al (or Qal)",
+            "fa\u2018ala \u0641\u064e\u0639\u064e\u0644\u064e (Stem I)",
+            "3rd. masc. sing perfect",
+            "kata\u1e07 \u05db\u05ea\u05d1",
+            "kataba \u0643\u062a\u0628",
+            "he wrote"
+        ],
+        [
+            "G verb stem",
+            "Pa\u2018al (or Qal)",
+            "fa\u2018ala \u0641\u064e\u0639\u064e\u0644\u064e (Stem I)",
+            "1st. plur. perfect",
+            "kata\u1e07nu \u05db\u05ea\u05d1\u05e0\u05d5",
+            "katabn\u0101 \u0643\u062a\u0628\u0646\u0627",
+            "we wrote"
+        ],
+        [
+            "G verb stem",
+            "Pa\u2018al (or Qal)",
+            "fa\u2018ala \u0641\u064e\u0639\u064e\u0644\u064e (Stem I)",
+            "3rd. masc. sing. imperfect",
+            "yi\u1e35to\u1e07 \u05d9\u05db\u05ea\u05d5\u05d1",
+            "yaktubu \u064a\u0643\u062a\u0628",
+            "he writes, will write"
+        ],
+        [
+            "G verb stem",
+            "Pa\u2018al (or Qal)",
+            "fa\u2018ala \u0641\u064e\u0639\u064e\u0644\u064e (Stem I)",
+            "1st. plur. imperfect",
+            "ni\u1e35to\u1e07 \u05e0\u05db\u05ea\u05d5\u05d1",
+            "naktubu \u0646\u0643\u062a\u0628",
+            "we write, will write"
+        ],
+        [
+            "G verb stem",
+            "Pa\u2018al (or Qal)",
+            "fa\u2018ala \u0641\u064e\u0639\u064e\u0644\u064e (Stem I)",
+            "masc. sing. active participle",
+            "kote\u1e07 \u05db\u05d5\u05ea\u05d1",
+            "k\u0101tib \u0643\u0627\u062a\u0628",
+            "writer"
+        ],
+        [
+            "\u0160 verb stem",
+            "Hip\u0304\u2018il",
+            "af\u2018ala \u0623\u064e\u0641\u0652\u0639\u064e\u0644\u064e (Stem IV)",
+            "3rd. masc. sing perfect",
+            "hi\u1e35ti\u1e07 \u05d4\u05db\u05ea\u05d9\u05d1",
+            "aktaba \u0623\u0643\u062a\u0628",
+            "he dictated"
+        ],
+        [
+            "\u0160 verb stem",
+            "Hip\u0304\u2018il",
+            "af\u2018ala \u0623\u064e\u0641\u0652\u0639\u064e\u0644\u064e (Stem IV)",
+            "3rd. masc. sing. imperfect",
+            "ya\u1e35ti\u1e07 \u05d9\u05db\u05ea\u05d9\u05d1",
+            "yuktibu \u064a\u0643\u062a\u0628",
+            "he dictates, will dictate"
+        ],
+        [
+            "\u0160t(D) verb stem",
+            "Hitpa\u2018\u2018el",
+            "istaf\u2018ala \u0627\u0633\u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064e (Stem X)",
+            "3rd. masc. sing. imperfect",
+            "yitkatte\u1e07 \u05d9\u05ea\u05db\u05ea\u05d1",
+            "yastaktibu \u064a\u0633\u062a\u0643\u062a\u0628",
+            "(imperfect of above)"
+        ]
+    ]
+}

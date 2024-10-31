@@ -1,0 +1,84 @@
+{
+    "id": "4a92a7a20ffb2b1c27e4a7e4db679d56dba6b4c357342fada8209b2715f59820",
+    "metadata": "1955-56 Segunda Divisi\u00f3n | Promotion playoff | Promotion playoff",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Played",
+        "Points",
+        "Wins",
+        "Draws",
+        "Losses",
+        "Goals_for",
+        "Goals_against",
+        "Goal_Difference"
+    ],
+    "cell": [
+        [
+            "1",
+            "10",
+            "15",
+            "7",
+            "1",
+            "2",
+            "21",
+            "15",
+            "+6"
+        ],
+        [
+            "2",
+            "10",
+            "12",
+            "5",
+            "2",
+            "3",
+            "18",
+            "13",
+            "+5"
+        ],
+        [
+            "3",
+            "10",
+            "12",
+            "6",
+            "0",
+            "4",
+            "23",
+            "22",
+            "+1"
+        ],
+        [
+            "4",
+            "10",
+            "11",
+            "5",
+            "1",
+            "4",
+            "21",
+            "18",
+            "+3"
+        ],
+        [
+            "5",
+            "10",
+            "6",
+            "2",
+            "2",
+            "6",
+            "21",
+            "22",
+            "-1"
+        ],
+        [
+            "6",
+            "10",
+            "4",
+            "1",
+            "2",
+            "7",
+            "10",
+            "24",
+            "-14"
+        ]
+    ]
+}

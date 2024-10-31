@@ -1,0 +1,56 @@
+{
+    "id": "721c86f9400af3b5cdc04dffa44396312f42bdf297114c054b5ba82c774dee6b",
+    "metadata": "West Sulawesi | Administrative divisions | Administrative divisions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Area_km_2_",
+        "Population_Estimate_2005",
+        "Population_Census_2010",
+        "Capital"
+    ],
+    "cell": [
+        [
+            "Majene Regency",
+            "947.84",
+            "130282",
+            "150939",
+            "Majene"
+        ],
+        [
+            "Mamasa Regency",
+            "3005.88",
+            "120438",
+            "139962",
+            "Mamasa"
+        ],
+        [
+            "Mamuju Regency",
+            "8023.74",
+            "272940",
+            "336879",
+            "Mamaju"
+        ],
+        [
+            "North Mamuju Regency (Mamuju Utara)",
+            "3034.08",
+            "93116",
+            "134303",
+            "Pasangkayu"
+        ],
+        [
+            "Polewali Mandar Regency",
+            "1775.65",
+            "351673",
+            "396253",
+            "Polewali"
+        ],
+        [
+            "Total Province",
+            "16787.18",
+            "968449",
+            "1158336",
+            "Mamaju"
+        ]
+    ]
+}

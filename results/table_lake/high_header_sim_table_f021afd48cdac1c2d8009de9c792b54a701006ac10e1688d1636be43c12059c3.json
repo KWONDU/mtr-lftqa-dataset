@@ -1,0 +1,61 @@
+{
+    "id": "f021afd48cdac1c2d8009de9c792b54a701006ac10e1688d1636be43c12059c3",
+    "metadata": "Mars Hill Network | Stations | Stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency",
+        "City_of_license",
+        "Facility_ID",
+        "ERP_Power_W",
+        "Height_m_ft_",
+        "Class_"
+    ],
+    "cell": [
+        [
+            "WMHI",
+            "94.7 FM",
+            "Cape Vincent, NY",
+            "40435",
+            "5800",
+            "m (ft)",
+            "A"
+        ],
+        [
+            "WMHN",
+            "89.3 FM",
+            "Webster, NY",
+            "40430",
+            "1000",
+            "m (ft)",
+            "A"
+        ],
+        [
+            "WMHQ",
+            "90.1 FM",
+            "Malone, NY",
+            "89863",
+            "2700",
+            "m (ft)",
+            "A"
+        ],
+        [
+            "WMHR",
+            "102.9 FM",
+            "Syracuse, NY",
+            "40432",
+            "20000",
+            "m (ft)",
+            "B"
+        ],
+        [
+            "WMHU",
+            "91.1 FM",
+            "Cold Brook, NY",
+            "174468",
+            "560",
+            "m (ft)",
+            "A"
+        ]
+    ]
+}

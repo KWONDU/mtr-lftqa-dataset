@@ -1,0 +1,70 @@
+{
+    "id": "bbfc52d21d3af61289d95de4a5dce810a521cc745370b5d75301e503a4f48620",
+    "metadata": "1975 VFL season | Round 21 | Round 21",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "16.15 (111)",
+            "St Kilda",
+            "6.5 (41)",
+            "Arden Street Oval",
+            "14917",
+            "23 August 1975"
+        ],
+        [
+            "Collingwood",
+            "7.15 (57)",
+            "Hawthorn",
+            "3.9 (27)",
+            "Victoria Park",
+            "26303",
+            "23 August 1975"
+        ],
+        [
+            "Carlton",
+            "10.14 (74)",
+            "Fitzroy",
+            "11.13 (79)",
+            "Princes Park",
+            "14779",
+            "23 August 1975"
+        ],
+        [
+            "Melbourne",
+            "8.16 (64)",
+            "Geelong",
+            "10.10 (70)",
+            "MCG",
+            "11022",
+            "23 August 1975"
+        ],
+        [
+            "South Melbourne",
+            "10.15 (75)",
+            "Footscray",
+            "18.7 (115)",
+            "Lake Oval",
+            "8659",
+            "23 August 1975"
+        ],
+        [
+            "Richmond",
+            "20.16 (136)",
+            "Essendon",
+            "17.15 (117)",
+            "VFL Park",
+            "23601",
+            "23 August 1975"
+        ]
+    ]
+}

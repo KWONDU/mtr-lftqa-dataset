@@ -1,0 +1,55 @@
+{
+    "id": "d8acb785e678aa69fa786df3fa20092e0784c08440b62cc58e6fab166e63e7f9",
+    "metadata": "List of 1888-89 New Zealand Native football team matches | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Played_in",
+        "Matches",
+        "Lost",
+        "Drawn",
+        "Points_for",
+        "Points_against"
+    ],
+    "cell": [
+        [
+            "Played in",
+            "Matches",
+            "Lost",
+            "Drawn",
+            "Points for",
+            "Points against"
+        ],
+        [
+            "British Isles",
+            "74",
+            "20",
+            "5",
+            "394",
+            "188"
+        ],
+        [
+            "New Zealand",
+            "17",
+            "3",
+            "0",
+            "119",
+            "51"
+        ],
+        [
+            "Australia",
+            "16",
+            "0",
+            "1",
+            "240",
+            "66"
+        ],
+        [
+            "Total",
+            "107",
+            "23",
+            "6",
+            "753",
+            "305"
+        ]
+    ]
+}

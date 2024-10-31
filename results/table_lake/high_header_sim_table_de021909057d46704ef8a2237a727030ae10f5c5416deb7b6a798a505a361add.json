@@ -1,0 +1,70 @@
+{
+    "id": "de021909057d46704ef8a2237a727030ae10f5c5416deb7b6a798a505a361add",
+    "metadata": "1973 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "13.12 (90)",
+            "North Melbourne",
+            "12.9 (81)",
+            "MCG",
+            "32957",
+            "16 June 1973"
+        ],
+        [
+            "Footscray",
+            "7.16 (58)",
+            "Richmond",
+            "17.7 (109)",
+            "Western Oval",
+            "16733",
+            "16 June 1973"
+        ],
+        [
+            "Collingwood",
+            "23.16 (154)",
+            "Essendon",
+            "16.16 (112)",
+            "Victoria Park",
+            "31754",
+            "16 June 1973"
+        ],
+        [
+            "Geelong",
+            "16.8 (104)",
+            "Fitzroy",
+            "11.15 (81)",
+            "Kardinia Park",
+            "12786",
+            "16 June 1973"
+        ],
+        [
+            "St Kilda",
+            "13.13 (91)",
+            "Carlton",
+            "9.13 (67)",
+            "Moorabbin Oval",
+            "25081",
+            "16 June 1973"
+        ],
+        [
+            "Hawthorn",
+            "17.17 (119)",
+            "South Melbourne",
+            "11.10 (76)",
+            "VFL Park",
+            "9436",
+            "16 June 1973"
+        ]
+    ]
+}

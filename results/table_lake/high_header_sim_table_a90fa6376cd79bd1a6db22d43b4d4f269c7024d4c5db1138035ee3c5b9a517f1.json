@@ -1,0 +1,67 @@
+{
+    "id": "a90fa6376cd79bd1a6db22d43b4d4f269c7024d4c5db1138035ee3c5b9a517f1",
+    "metadata": "List of Olympic medalists in athletics (men) | Men's events | Marathon",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Athlete",
+        "Nation",
+        "Olympics",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Totalmin_2_medals"
+    ],
+    "cell": [
+        [
+            "1",
+            "Abebe Bikila Category:Articles with hCards",
+            "Ethiopia (ETH)",
+            "1960-1964",
+            "2",
+            "0",
+            "0",
+            "2"
+        ],
+        [
+            "1",
+            "Waldemar Cierpinski Category:Articles with hCards",
+            "East Germany (GDR)",
+            "1976-1980",
+            "2",
+            "0",
+            "0",
+            "2"
+        ],
+        [
+            "3",
+            "Frank Shorter Category:Articles with hCards",
+            "United States (USA)",
+            "1972-1976",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "4",
+            "Mamo Wolde Category:Articles with hCards",
+            "Ethiopia (ETH)",
+            "1968-1972",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "5",
+            "Karel Lismont Category:Articles with hCards",
+            "Belgium (BEL)",
+            "1972-1976",
+            "0",
+            "1",
+            "1",
+            "2"
+        ]
+    ]
+}

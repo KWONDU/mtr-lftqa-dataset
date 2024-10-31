@@ -1,0 +1,70 @@
+{
+    "id": "7c2e839e3329bb5bc7fc07711091265b9073e73b0315826dfd87aaed1a3774dd",
+    "metadata": "1951 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "12.6 (78)",
+            "South Melbourne",
+            "9.19 (73)",
+            "Arden Street Oval",
+            "15000",
+            "12 May 1951"
+        ],
+        [
+            "Fitzroy",
+            "10.10 (70)",
+            "Footscray",
+            "6.16 (52)",
+            "Brunswick Street Oval",
+            "20500",
+            "12 May 1951"
+        ],
+        [
+            "St Kilda",
+            "15.8 (98)",
+            "Melbourne",
+            "14.7 (91)",
+            "Junction Oval",
+            "15000",
+            "12 May 1951"
+        ],
+        [
+            "Richmond",
+            "17.18 (120)",
+            "Hawthorn",
+            "7.14 (56)",
+            "Punt Road Oval",
+            "15000",
+            "12 May 1951"
+        ],
+        [
+            "Essendon",
+            "12.11 (83)",
+            "Collingwood",
+            "5.14 (44)",
+            "Windy Hill",
+            "35000",
+            "12 May 1951"
+        ],
+        [
+            "Geelong",
+            "14.7 (91)",
+            "Carlton",
+            "9.13 (67)",
+            "Kardinia Park",
+            "20500",
+            "12 May 1951"
+        ]
+    ]
+}

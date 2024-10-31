@@ -1,0 +1,103 @@
+{
+    "id": "85521a84a2afe01cafabf0a02f054bb4ab40130fd355e1b96c9ea9628578f7e8",
+    "metadata": "Ballarat Football League | 2010 Ladder | 2010 Ladder",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ballarat_FL",
+        "Wins",
+        "Byes",
+        "Losses",
+        "Draws",
+        "Against"
+    ],
+    "cell": [
+        [
+            "Sunbury",
+            "15",
+            "2",
+            "1",
+            "0",
+            "884"
+        ],
+        [
+            "Lake Wendouree",
+            "13",
+            "2",
+            "2",
+            "1",
+            "1076"
+        ],
+        [
+            "Ballarat",
+            "13",
+            "2",
+            "3",
+            "0",
+            "877"
+        ],
+        [
+            "Redan",
+            "12",
+            "2",
+            "3",
+            "1",
+            "920"
+        ],
+        [
+            "Darley",
+            "8",
+            "2",
+            "8",
+            "0",
+            "1305"
+        ],
+        [
+            "East Point",
+            "8",
+            "2",
+            "8",
+            "0",
+            "1314"
+        ],
+        [
+            "Melton South",
+            "5",
+            "2",
+            "11",
+            "0",
+            "1468"
+        ],
+        [
+            "Melton",
+            "5",
+            "2",
+            "11",
+            "0",
+            "1733"
+        ],
+        [
+            "North Ballarat City",
+            "4",
+            "2",
+            "12",
+            "0",
+            "1394"
+        ],
+        [
+            "Sebastapol",
+            "2",
+            "2",
+            "14",
+            "0",
+            "1808"
+        ],
+        [
+            "Bacchus Marsh",
+            "2",
+            "2",
+            "14",
+            "0",
+            "1798"
+        ]
+    ]
+}

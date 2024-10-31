@@ -1,0 +1,70 @@
+{
+    "id": "182cc8846bbb5e6a00272b4a55a6d424cb225a71b511bc35683f2ee38cdbf8c4",
+    "metadata": "1949 VFL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "16.15 (111)",
+            "South Melbourne",
+            "13.13 (91)",
+            "Junction Oval",
+            "6000",
+            "16 July 1949"
+        ],
+        [
+            "Essendon",
+            "8.22 (70)",
+            "North Melbourne",
+            "6.13 (49)",
+            "Windy Hill",
+            "16000",
+            "16 July 1949"
+        ],
+        [
+            "Collingwood",
+            "7.16 (58)",
+            "Melbourne",
+            "10.13 (73)",
+            "Victoria Park",
+            "22000",
+            "16 July 1949"
+        ],
+        [
+            "Carlton",
+            "9.13 (67)",
+            "Fitzroy",
+            "9.8 (62)",
+            "Princes Park",
+            "17500",
+            "16 July 1949"
+        ],
+        [
+            "Richmond",
+            "16.21 (117)",
+            "Hawthorn",
+            "9.13 (67)",
+            "Punt Road Oval",
+            "7000",
+            "16 July 1949"
+        ],
+        [
+            "Geelong",
+            "13.15 (93)",
+            "Footscray",
+            "4.10 (34)",
+            "Kardinia Park",
+            "15000",
+            "16 July 1949"
+        ]
+    ]
+}

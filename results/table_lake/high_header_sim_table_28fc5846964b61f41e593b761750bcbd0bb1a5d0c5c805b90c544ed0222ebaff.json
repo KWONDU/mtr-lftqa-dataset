@@ -1,0 +1,49 @@
+{
+    "id": "28fc5846964b61f41e593b761750bcbd0bb1a5d0c5c805b90c544ed0222ebaff",
+    "metadata": "Melville, Saskatchewan | Media | Media",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Frequency",
+        "Call_sign",
+        "Branding",
+        "Format",
+        "Owner_"
+    ],
+    "cell": [
+        [
+            "AM 940",
+            "CJGX",
+            "GX94",
+            "country music",
+            "Harvard Broadcasting"
+        ],
+        [
+            "FM 91.7",
+            "CBK-FM3",
+            "CBC Radio 2",
+            "public broadcasting",
+            "Canadian Broadcasting Corporation"
+        ],
+        [
+            "FM 92.9",
+            "CJLR-FM-5",
+            "MBC Radio",
+            "First Nationscommunity radio",
+            "Missinipi Broadcasting Corporation"
+        ],
+        [
+            "FM 94.1",
+            "CFGW-FM",
+            "Fox FM",
+            "hot adult contemporary",
+            "Harvard Broadcasting"
+        ],
+        [
+            "FM 98.5",
+            "CJJC-FM",
+            "98.5 The Rock",
+            "Christian music",
+            "Dennis M. Dyck"
+        ]
+    ]
+}

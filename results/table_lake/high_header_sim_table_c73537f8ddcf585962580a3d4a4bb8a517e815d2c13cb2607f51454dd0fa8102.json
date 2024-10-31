@@ -1,0 +1,84 @@
+{
+    "id": "c73537f8ddcf585962580a3d4a4bb8a517e815d2c13cb2607f51454dd0fa8102",
+    "metadata": "Central Railroad of New Jersey Terminal | Service | Named passenger trains",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Operators",
+        "Named_trains",
+        "Destination",
+        "Year_begun",
+        "Year_discontinued_"
+    ],
+    "cell": [
+        [
+            "Baltimore and Ohio",
+            "Capitol Limited",
+            "Chicago, Illinois via Washington, D.C. and Pittsburgh, Pennsylvania",
+            "1923",
+            "1958*"
+        ],
+        [
+            "Baltimore and Ohio",
+            "Metropolitan Special",
+            "St. Louis, Missouri via Washington, D.C. and Cincinnati, Ohio",
+            "ca. 1920",
+            "1958*"
+        ],
+        [
+            "Baltimore and Ohio",
+            "National Limited",
+            "St. Louis, Missouri via Washington, D.C. and Cincinnati, Ohio",
+            "1925",
+            "1958*"
+        ],
+        [
+            "Baltimore and Ohio",
+            "Royal Blue",
+            "Washington, D.C.",
+            "1890",
+            "1958"
+        ],
+        [
+            "Central Railroad of New Jersey",
+            "Blue Comet",
+            "Atlantic City, New Jersey",
+            "1929",
+            "1941"
+        ],
+        [
+            "Reading Railroad with the Central Railroad of New Jersey",
+            "Crusader",
+            "Philadelphia, Pennsylvania",
+            "1937",
+            "1967"
+        ],
+        [
+            "Reading Railroad with the Central Railroad of New Jersey",
+            "Harrisburg Special",
+            "Harrisburg, Pennsylvania",
+            "",
+            ""
+        ],
+        [
+            "Reading Railroad with the Central Railroad of New Jersey",
+            "Queen of the Valley",
+            "Harrisburg, Pennsylvania",
+            "",
+            "1967"
+        ],
+        [
+            "Reading Railroad with the Central Railroad of New Jersey",
+            "Wall Street",
+            "Philadelphia, Pennsylvania",
+            "",
+            ""
+        ],
+        [
+            "Reading Railroad with the Central Railroad of New Jersey",
+            "Williamsporter",
+            "Williamsport, Pennsylvania",
+            "",
+            ""
+        ]
+    ]
+}

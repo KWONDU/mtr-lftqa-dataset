@@ -1,0 +1,55 @@
+{
+    "id": "4a2e28488571d0e3d4b5afaa7fa61df502fcc707a51321a9fcba66e052d0419c",
+    "metadata": "Powerade Tigers all-time roster | G | G",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Position_",
+        "Number_",
+        "School_Club_Team",
+        "Season",
+        "Acquisition_via"
+    ],
+    "cell": [
+        [
+            "Michael Gavino",
+            "Center",
+            "16",
+            "UP Diliman",
+            "2006-2007",
+            "Rookie Draft"
+        ],
+        [
+            "Allen Gamboa",
+            "Forward",
+            "12",
+            "State",
+            "2002",
+            "Rookie Draft"
+        ],
+        [
+            "George Gervin Jr.",
+            "Guard",
+            "1",
+            "Houston",
+            "2008",
+            "Import"
+        ],
+        [
+            "Norman Gonzales",
+            "Forward",
+            "28",
+            "San Beda",
+            "2009-2011",
+            "Free Agency"
+        ],
+        [
+            "Wesley Gonzales",
+            "Forward-Guard",
+            "27",
+            "Ateneo",
+            "2009-2010",
+            "Free Agency"
+        ]
+    ]
+}

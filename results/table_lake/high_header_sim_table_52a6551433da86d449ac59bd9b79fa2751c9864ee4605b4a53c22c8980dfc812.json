@@ -1,0 +1,63 @@
+{
+    "id": "52a6551433da86d449ac59bd9b79fa2751c9864ee4605b4a53c22c8980dfc812",
+    "metadata": "Connie Francis | Filmography (Cinema) | Filmography (Cinema)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Movie_Title",
+        "Year_",
+        "Role_",
+        "Director",
+        "Producer"
+    ],
+    "cell": [
+        [
+            "Rock, Rock, Rock",
+            "1956",
+            "Dori Graham (Singing voice only)",
+            "Will Price",
+            "Max Rosenberg , Milton Subotsky"
+        ],
+        [
+            "Jamboree",
+            "1957",
+            "Honey Winn (Singing voice only)",
+            "Roy Lockwood",
+            "Max Rosenberg, Milton Subotsky"
+        ],
+        [
+            "The Sheriff of Fractured Jaw",
+            "1958",
+            "Miss Kate (Singing voice only)",
+            "Raoul Walsh",
+            "David M. Angel"
+        ],
+        [
+            "Where the Boys Are",
+            "1961",
+            "Angie",
+            "Henry Levin",
+            "Joe Pasternak"
+        ],
+        [
+            "Follow the Boys",
+            "1963",
+            "Bonnie Pulaski",
+            "Richard Thorpe",
+            "Lawrence P. Bachmann"
+        ],
+        [
+            "Looking for Love",
+            "1964",
+            "Libby Caruso",
+            "Don Weis",
+            "Joe Pasternak"
+        ],
+        [
+            "When the Boys Meet the Girls",
+            "1965",
+            "Ginger Gray",
+            "Alvin Ganzer",
+            "Sam Kazman"
+        ]
+    ]
+}

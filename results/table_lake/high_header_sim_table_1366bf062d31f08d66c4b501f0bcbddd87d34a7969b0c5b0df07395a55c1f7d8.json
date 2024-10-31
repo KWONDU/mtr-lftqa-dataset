@@ -1,0 +1,70 @@
+{
+    "id": "1366bf062d31f08d66c4b501f0bcbddd87d34a7969b0c5b0df07395a55c1f7d8",
+    "metadata": "1938 VFL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "10.9 (69)",
+            "Melbourne",
+            "9.16 (70)",
+            "Glenferrie Oval",
+            "7000",
+            "23 July 1938"
+        ],
+        [
+            "Geelong",
+            "14.20 (104)",
+            "St Kilda",
+            "15.13 (103)",
+            "Corio Oval",
+            "7000",
+            "23 July 1938"
+        ],
+        [
+            "Fitzroy",
+            "13.8 (86)",
+            "Footscray",
+            "18.21 (129)",
+            "Brunswick Street Oval",
+            "16000",
+            "23 July 1938"
+        ],
+        [
+            "South Melbourne",
+            "14.11 (95)",
+            "North Melbourne",
+            "13.18 (96)",
+            "Lake Oval",
+            "8000",
+            "23 July 1938"
+        ],
+        [
+            "Essendon",
+            "17.17 (119)",
+            "Collingwood",
+            "17.16 (118)",
+            "Windy Hill",
+            "13000",
+            "23 July 1938"
+        ],
+        [
+            "Richmond",
+            "20.12 (132)",
+            "Carlton",
+            "12.19 (91)",
+            "Punt Road Oval",
+            "28000",
+            "23 July 1938"
+        ]
+    ]
+}

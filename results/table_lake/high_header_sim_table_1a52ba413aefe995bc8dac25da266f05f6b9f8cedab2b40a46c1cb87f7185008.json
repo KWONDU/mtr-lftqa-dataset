@@ -1,0 +1,103 @@
+{
+    "id": "1a52ba413aefe995bc8dac25da266f05f6b9f8cedab2b40a46c1cb87f7185008",
+    "metadata": "1998 Masters Tournament | Final leaderboard | Final leaderboard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Mark O`Meara",
+            "United States",
+            "74-70-68-67=279",
+            "-9",
+            "576000"
+        ],
+        [
+            "T2",
+            "Fred Couples",
+            "United States",
+            "69-70-71-70=280",
+            "-8",
+            "281600"
+        ],
+        [
+            "T2",
+            "David Duval",
+            "United States",
+            "71-68-74-67=280",
+            "-8",
+            "281600"
+        ],
+        [
+            "4",
+            "Jim Furyk",
+            "United States",
+            "76-70-67-68=281",
+            "-7",
+            "153600"
+        ],
+        [
+            "5",
+            "Paul Azinger",
+            "United States",
+            "71-72-69-70=282",
+            "-6",
+            "128000"
+        ],
+        [
+            "T6",
+            "Jack Nicklaus",
+            "United States",
+            "73-72-70-68=283",
+            "-5",
+            "111200"
+        ],
+        [
+            "T6",
+            "David Toms",
+            "United States",
+            "75-72-72-64=283",
+            "-5",
+            "111200"
+        ],
+        [
+            "T8",
+            "Darren Clarke",
+            "Northern Ireland",
+            "76-73-67-69=285",
+            "-3",
+            "89600"
+        ],
+        [
+            "T8",
+            "Justin Leonard",
+            "United States",
+            "74-73-69-69=285",
+            "-3",
+            "89600"
+        ],
+        [
+            "T8",
+            "Colin Montgomerie",
+            "Scotland",
+            "71-75-69-70=285",
+            "-3",
+            "89600"
+        ],
+        [
+            "T8",
+            "Tiger Woods",
+            "United States",
+            "71-72-72-70=285",
+            "-3",
+            "89600"
+        ]
+    ]
+}

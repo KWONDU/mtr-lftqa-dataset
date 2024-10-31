@@ -1,0 +1,133 @@
+{
+    "id": "9a6a32111ffe6b128fc05624a4c594827956d292bf1c870bd61b8dc88f4da2c5",
+    "metadata": "List of VIA C3 microprocessors | Desktop processors | \"Nehemiah\" (130 nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Frequency",
+        "L2_Cache",
+        "Front_Side_Bus",
+        "Multiplier",
+        "Voltage",
+        "Socket"
+    ],
+    "cell": [
+        [
+            "C3 1.0A",
+            "1000\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "7.5\u00d7",
+            "1.4\u2009V",
+            "Socket 370"
+        ],
+        [
+            "C3 1.0B",
+            "1000\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "7.5\u00d7",
+            "1.45\u2009V",
+            "EBGA"
+        ],
+        [
+            "C3 1.1A",
+            "1133\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "8.5\u00d7",
+            "1.4\u2009V",
+            "Socket 370"
+        ],
+        [
+            "C3 1.1B",
+            "1133\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "8.5\u00d7",
+            "1.45\u2009V",
+            "EBGA"
+        ],
+        [
+            "C3 1.2A",
+            "1200\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "9\u00d7",
+            "1.45\u2009V",
+            "Socket 370"
+        ],
+        [
+            "C3 1.2B",
+            "1200\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "9\u00d7",
+            "V",
+            "EBGA"
+        ],
+        [
+            "C3 1.2C",
+            "1200\u2009MHz",
+            "64\u2009KiB",
+            "200\u2009MHz",
+            "6\u00d7",
+            "V",
+            "EBGA"
+        ],
+        [
+            "C3 1.3A",
+            "1333\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "10\u00d7",
+            "1.4\u2009V",
+            "Socket 370"
+        ],
+        [
+            "C3 1.3B",
+            "1333\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "10\u00d7",
+            "V",
+            "EBGA"
+        ],
+        [
+            "C3 1.3C",
+            "1300\u2009MHz",
+            "64\u2009KiB",
+            "200\u2009MHz",
+            "6.5\u00d7",
+            "V",
+            "EBGA"
+        ],
+        [
+            "C3 1.4A",
+            "1400\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "10.5\u00d7",
+            "1.4\u2009V",
+            "Socket 370"
+        ],
+        [
+            "C3 1.4B",
+            "1400\u2009MHz",
+            "64\u2009KiB",
+            "133\u2009MHz",
+            "10.5\u00d7",
+            "V",
+            "EBGA"
+        ],
+        [
+            "C3 1.4C",
+            "1400\u2009MHz",
+            "64\u2009KiB",
+            "200\u2009MHz",
+            "7\u00d7",
+            "V",
+            "EBGA"
+        ]
+    ]
+}

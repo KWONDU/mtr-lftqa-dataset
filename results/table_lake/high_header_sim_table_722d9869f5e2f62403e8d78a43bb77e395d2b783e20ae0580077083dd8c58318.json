@@ -1,0 +1,124 @@
+{
+    "id": "722d9869f5e2f62403e8d78a43bb77e395d2b783e20ae0580077083dd8c58318",
+    "metadata": "St\u00e9phane Sarrazin | 24 Hours of Le Mans results | 24 Hours of Le Mans results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "Co_Drivers",
+        "Class_",
+        "Laps",
+        "Pos_",
+        "Class_Pos_"
+    ],
+    "cell": [
+        [
+            "2001",
+            "Viper Team Oreca",
+            "Yannick Dalmas Franck Montagny",
+            "LMP900",
+            "126",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2002",
+            "PlayStation Team Oreca",
+            "Franck Montagny Nicolas Minassian",
+            "LMP900",
+            "359",
+            "6th",
+            "5th"
+        ],
+        [
+            "2003",
+            "Pescarolo Sport",
+            "Jean-Christophe Boullion Franck Lagorce",
+            "LMP900",
+            "356",
+            "8th",
+            "6th"
+        ],
+        [
+            "2005",
+            "Aston Martin Racing",
+            "David Brabham Darren Turner",
+            "GT1",
+            "333",
+            "9th",
+            "3rd"
+        ],
+        [
+            "2006",
+            "Aston Martin Racing",
+            "Pedro Lamy St\u00e9phane Ortelli",
+            "GT1",
+            "342",
+            "10th",
+            "5th"
+        ],
+        [
+            "2007",
+            "Team Peugeot Total",
+            "Pedro Lamy S\u00e9bastien Bourdais",
+            "LMP1",
+            "359",
+            "2nd",
+            "2nd"
+        ],
+        [
+            "2008",
+            "Team Peugeot Total",
+            "Pedro Lamy Alexander Wurz",
+            "LMP1",
+            "368",
+            "5th",
+            "5th"
+        ],
+        [
+            "2009",
+            "Team Peugeot Total",
+            "Franck Montagny S\u00e9bastien Bourdais",
+            "LMP1",
+            "381",
+            "2nd",
+            "2nd"
+        ],
+        [
+            "2010",
+            "Team Peugeot Total",
+            "Franck Montagny Nicolas Minassian",
+            "LMP1",
+            "264",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2011",
+            "Peugeot Sport Total",
+            "Franck Montagny Nicolas Minassian",
+            "LMP1",
+            "353",
+            "3rd",
+            "3rd"
+        ],
+        [
+            "2012",
+            "Toyota Racing",
+            "Anthony Davidson S\u00e9bastien Buemi",
+            "LMP1",
+            "82",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2013",
+            "Toyota Racing",
+            "Anthony Davidson S\u00e9bastien Buemi",
+            "LMP1",
+            "347",
+            "2nd",
+            "2nd"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "316fb578523dbf28fcc555979a6769c4a089339e7aba16e716578569c3cac6ee",
+    "metadata": "Danielle Fotopoulos | College | College",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "GP_GS",
+        "Goals",
+        "Assists",
+        "Total_Points"
+    ],
+    "cell": [
+        [
+            "1994",
+            "SMU",
+            "20/19",
+            "20",
+            "5",
+            "45"
+        ],
+        [
+            "1995",
+            "SMU",
+            "24/23",
+            "32",
+            "19",
+            "85"
+        ],
+        [
+            "1996",
+            "Florida",
+            "22/22",
+            "34",
+            "13",
+            "83"
+        ],
+        [
+            "1997",
+            "Florida",
+            "Did not play",
+            "Did not play",
+            "Did not play",
+            "Did not play"
+        ],
+        [
+            "1998",
+            "Florida",
+            "26/26",
+            "32",
+            "11",
+            "75"
+        ],
+        [
+            "Totals",
+            "Totals",
+            "92/90",
+            "118",
+            "48",
+            "284"
+        ]
+    ]
+}

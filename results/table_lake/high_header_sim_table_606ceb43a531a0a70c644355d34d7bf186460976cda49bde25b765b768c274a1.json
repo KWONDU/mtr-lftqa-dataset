@@ -1,0 +1,88 @@
+{
+    "id": "606ceb43a531a0a70c644355d34d7bf186460976cda49bde25b765b768c274a1",
+    "metadata": "General Motors 90\u00b0 V6 engine | LB1 and LB4 | LB1 and LB4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Horsepower",
+        "Torque",
+        "Fuel_System",
+        "Compression_Ratio",
+        "RPO",
+        "Applications"
+    ],
+    "cell": [
+        [
+            "1985-1986",
+            "hp (kW) @ 4000 rpm",
+            "lb\u00b7ft (N\u00b7m) @ 2400 rpm",
+            "4-BBL",
+            "9.3:1",
+            "LB1",
+            "123"
+        ],
+        [
+            "1985",
+            "hp (kW) @ 3600 rpm",
+            "lb\u00b7ft (N\u00b7m) @ 2000 rpm",
+            "TBI",
+            "9.3:1",
+            "LB4",
+            "45"
+        ],
+        [
+            "1986-1990",
+            "hp (kW) @ 4000 rpm",
+            "lb\u00b7ft (N\u00b7m) @ 2000 rpm",
+            "TBI",
+            "9.3:1",
+            "LB4",
+            "45"
+        ],
+        [
+            "1987-1988",
+            "hp (kW) @ 4200 rpm",
+            "lb\u00b7ft (N\u00b7m) @ 2000 rpm",
+            "TBI",
+            "9.3:1",
+            "LB4",
+            "5"
+        ],
+        [
+            "1986",
+            "hp (kW) @ 4000 rpm",
+            "lb\u00b7ft (N\u00b7m) @ 2400 rpm",
+            "TBI",
+            "9.3:1",
+            "LB4",
+            "3"
+        ],
+        [
+            "1987-1992",
+            "hp (kW) @ 4000 rpm",
+            "lb\u00b7ft (N\u00b7m) @ 2400 rpm",
+            "TBI",
+            "8.6:1",
+            "LB4(w/C6P emissions 2500&3500 series only)",
+            "2"
+        ],
+        [
+            "1987-1992",
+            "hp (kW) @ 4000 rpm",
+            "lb\u00b7ft (N\u00b7m) @ 2400 rpm",
+            "TBI",
+            "9.1:1",
+            "LB4",
+            "1367"
+        ],
+        [
+            "1993-1995",
+            "hp (kW) @ 4000 rpm",
+            "lb\u00b7ft (N\u00b7m) @ 2000 rpm",
+            "TBI",
+            "9.1:1",
+            "LB4",
+            "2"
+        ]
+    ]
+}

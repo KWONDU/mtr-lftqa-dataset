@@ -1,0 +1,79 @@
+{
+    "id": "6274ef592ce13aa09eb59bc1dfa680f8936c3f0df7cffdf5fad24df3ce7cc7a9",
+    "metadata": "List of VIA Nano microprocessors | Ultra-low voltage processors | \"Nano 1000/2000\" series (65nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Clock_Speed",
+        "L1_Cache",
+        "L2_Cache",
+        "FSB_Speed",
+        "Clock_Multiplier",
+        "Idle_Power",
+        "Socket",
+        "Cores",
+        "Release_Date"
+    ],
+    "cell": [
+        [
+            "Nano U1700",
+            "1.0GHz",
+            "16+16 KB",
+            "256 KB",
+            "800MHz",
+            "10~13\u00d7",
+            "200mW",
+            "NanoBGA2",
+            "1",
+            "May 29, 2008"
+        ],
+        [
+            "Nano U2300",
+            "1.0GHz",
+            "16+16 KB",
+            "256 KB",
+            "533MHz",
+            "7.5\u00d7",
+            "100mW",
+            "NanoBGA2",
+            "1",
+            "May 29, 2008"
+        ],
+        [
+            "Nano U2225",
+            "1.3GHz",
+            "16+16 KB",
+            "256 KB",
+            "800MHz",
+            "13\u00d7",
+            "200mW",
+            "NanoBGA2",
+            "1",
+            "May 29, 2008"
+        ],
+        [
+            "Nano U2250",
+            "1.3GHz",
+            "16+16 KB",
+            "256 KB",
+            "800MHz",
+            "13~16\u00d7",
+            "200mW",
+            "NanoBGA2",
+            "1",
+            "May 29, 2008"
+        ],
+        [
+            "Nano U2500",
+            "1.2GHz",
+            "16+16 KB",
+            "256 KB",
+            "800MHz",
+            "12\u00d7",
+            "100mW",
+            "NanoBGA2",
+            "1",
+            "May 29, 2008"
+        ]
+    ]
+}

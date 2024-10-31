@@ -1,0 +1,71 @@
+{
+    "id": "df3e45366139785efd7bdeaf02978863cd8c08a27ed788fc3a12c69f5f5ce2b0",
+    "metadata": "2008 European Figure Skating Championships | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Russia",
+            "1",
+            "1",
+            "2",
+            "4"
+        ],
+        [
+            "2",
+            "Czech Republic",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "2",
+            "Germany",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "2",
+            "Italy",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Switzerland",
+            "0",
+            "2",
+            "0",
+            "2"
+        ],
+        [
+            "6",
+            "France",
+            "0",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "7",
+            "Finland",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

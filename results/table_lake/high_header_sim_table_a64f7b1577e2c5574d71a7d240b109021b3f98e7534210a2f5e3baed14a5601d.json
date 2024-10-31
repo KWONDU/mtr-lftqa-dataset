@@ -1,0 +1,111 @@
+{
+    "id": "a64f7b1577e2c5574d71a7d240b109021b3f98e7534210a2f5e3baed14a5601d",
+    "metadata": "WNGN (FM) | Translators | Translators",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "W244BG",
+            "96.7",
+            "Lanesborough, Massachusetts",
+            "1",
+            "D",
+            "FCC"
+        ],
+        [
+            "W234AL",
+            "94.7",
+            "North Adams, Massachusetts",
+            "50",
+            "D",
+            "FCC"
+        ],
+        [
+            "W248AX",
+            "97.5",
+            "Albany, New York",
+            "100",
+            "D",
+            "FCC"
+        ],
+        [
+            "W254AM",
+            "98.7",
+            "Berlin, New York",
+            "1",
+            "D",
+            "FCC"
+        ],
+        [
+            "W242AL",
+            "96.3",
+            "Buskirk, New York",
+            "80",
+            "D",
+            "FCC"
+        ],
+        [
+            "W279AL",
+            "103.7",
+            "Catskill (town), New York",
+            "15",
+            "D",
+            "FCC"
+        ],
+        [
+            "W272AZ",
+            "102.3",
+            "Coxsackie (town), New York",
+            "10",
+            "D",
+            "FCC"
+        ],
+        [
+            "W239AG",
+            "95.7",
+            "Long Lake, New York",
+            "5",
+            "D",
+            "FCC"
+        ],
+        [
+            "W230AO",
+            "93.9",
+            "Speculator, New York",
+            "10",
+            "D",
+            "FCC"
+        ],
+        [
+            "W278AN",
+            "103.5",
+            "Tupper Lake, New York",
+            "50",
+            "D",
+            "FCC"
+        ],
+        [
+            "W253AF",
+            "98.5",
+            "Bennington, Vermont",
+            "42",
+            "D",
+            "FCC"
+        ],
+        [
+            "W269BA",
+            "101.7",
+            "Woodford, Vermont",
+            "1",
+            "D",
+            "FCC"
+        ]
+    ]
+}

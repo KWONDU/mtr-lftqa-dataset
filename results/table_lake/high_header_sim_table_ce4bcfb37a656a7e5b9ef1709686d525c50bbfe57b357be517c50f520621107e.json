@@ -1,0 +1,91 @@
+{
+    "id": "ce4bcfb37a656a7e5b9ef1709686d525c50bbfe57b357be517c50f520621107e",
+    "metadata": "Abbreviation | Plural forms | Plural forms",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Singular_abbreviation",
+        "Singular_Word",
+        "Plural_abbreviation",
+        "Plural_Word",
+        "Discipline"
+    ],
+    "cell": [
+        [
+            "d.",
+            "didot",
+            "dd.",
+            "didots",
+            "typography"
+        ],
+        [
+            "f.",
+            "following line or page",
+            "ff.",
+            "following lines or pages",
+            "notes"
+        ],
+        [
+            "F.",
+            "folio",
+            "Ff.",
+            "folios",
+            "literature"
+        ],
+        [
+            "h.",
+            "hand",
+            "hh.",
+            "hands",
+            "horse height"
+        ],
+        [
+            "l.",
+            "line",
+            "ll.",
+            "lines",
+            "notes"
+        ],
+        [
+            "MS",
+            "manuscript",
+            "MSS",
+            "manuscripts",
+            "notes"
+        ],
+        [
+            "op.",
+            "opus",
+            "opp.",
+            "opera",
+            "notes"
+        ],
+        [
+            "p.",
+            "page",
+            "pp.",
+            "pages",
+            "notes"
+        ],
+        [
+            "Q.",
+            "quarto",
+            "Qq.",
+            "quartos",
+            "literature"
+        ],
+        [
+            "s. (or \u00a7)",
+            "section",
+            "ss. (or \u00a7\u00a7)",
+            "sections",
+            "notes"
+        ],
+        [
+            "v.",
+            "volume",
+            "vv.",
+            "volumes",
+            "notes"
+        ]
+    ]
+}

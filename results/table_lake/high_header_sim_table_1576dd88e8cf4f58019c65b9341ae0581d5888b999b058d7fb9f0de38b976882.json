@@ -1,0 +1,55 @@
+{
+    "id": "1576dd88e8cf4f58019c65b9341ae0581d5888b999b058d7fb9f0de38b976882",
+    "metadata": "Real Colorado Foxes | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Division",
+        "League",
+        "Regular_Season",
+        "Playoffs",
+        "Open_Cup"
+    ],
+    "cell": [
+        [
+            "2009",
+            "4",
+            "USL PDL",
+            "3rd, Heartland",
+            "Division Final",
+            "Did not qualify"
+        ],
+        [
+            "2010",
+            "4",
+            "USL PDL",
+            "3rd, Heartland",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "2011",
+            "4",
+            "USL PDL",
+            "3rd, Heartland",
+            "Did not qualify",
+            "2nd Round"
+        ],
+        [
+            "2012",
+            "4",
+            "USL PDL",
+            "2nd, Heartland",
+            "Conference Semifinal",
+            "1st Round"
+        ],
+        [
+            "2013",
+            "4",
+            "USL PDL",
+            "2nd, Heartland",
+            "Conference Semifinal",
+            "1st Round"
+        ]
+    ]
+}

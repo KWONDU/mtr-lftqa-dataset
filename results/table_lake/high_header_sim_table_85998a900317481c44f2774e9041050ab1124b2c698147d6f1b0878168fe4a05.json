@@ -1,0 +1,56 @@
+{
+    "id": "85998a900317481c44f2774e9041050ab1124b2c698147d6f1b0878168fe4a05",
+    "metadata": "United States House of Representatives elections, 1890 | California | California",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "California 1",
+            "Vacant",
+            "Vacant",
+            "Vacant",
+            "Democratic gain"
+        ],
+        [
+            "California 2",
+            "Marion Biggs",
+            "Democratic",
+            "1886",
+            "Retired Democratic hold"
+        ],
+        [
+            "California 3",
+            "Joseph McKenna",
+            "Republican",
+            "1884",
+            "Re-elected"
+        ],
+        [
+            "California 4",
+            "William W. Morrow",
+            "Republican",
+            "1884",
+            "Retired Republican hold"
+        ],
+        [
+            "California 5",
+            "Thomas J. Clunie",
+            "Democratic",
+            "1888",
+            "Lost re-election Republican gain"
+        ],
+        [
+            "California 6",
+            "William Vandever",
+            "Republican",
+            "1886",
+            "Retired Republican hold"
+        ]
+    ]
+}

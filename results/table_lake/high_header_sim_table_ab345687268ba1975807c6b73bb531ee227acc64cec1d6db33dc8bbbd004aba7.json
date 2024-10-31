@@ -1,0 +1,111 @@
+{
+    "id": "ab345687268ba1975807c6b73bb531ee227acc64cec1d6db33dc8bbbd004aba7",
+    "metadata": "High jump | Men (outdoor) | Men (outdoor)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos_",
+        "Mark",
+        "Athlete",
+        "Nationality",
+        "Venue",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "1.",
+            "2.45m(8ft0\u00bcin)",
+            "Javier Sotomayor",
+            "Cuba",
+            "Salamanca",
+            "27 July 1993"
+        ],
+        [
+            "2.",
+            "2.42m(7ft11\u00bcin)",
+            "Patrik Sj\u00f6berg",
+            "Sweden",
+            "Stockholm",
+            "30 June 1987"
+        ],
+        [
+            "3.",
+            "2.41m(7ft10\u00bein)",
+            "Igor Paklin",
+            "Soviet Union",
+            "Kobe",
+            "4 September 1985"
+        ],
+        [
+            "3.",
+            "2.41m(7ft10\u00bein)",
+            "Bohdan Bondarenko",
+            "Ukraine",
+            "Lausanne",
+            "4 July 2013"
+        ],
+        [
+            "5.",
+            "2.40m(7ft10\u00bcin)",
+            "Rudolf Povarnitsyn",
+            "Soviet Union",
+            "Donetsk",
+            "11 August 1985"
+        ],
+        [
+            "5.",
+            "2.40m(7ft10\u00bcin)",
+            "Sorin Matei",
+            "Romania",
+            "Bratislava",
+            "20 June 1990"
+        ],
+        [
+            "5.",
+            "2.40m(7ft10\u00bcin)",
+            "Charles Austin",
+            "USA",
+            "Z\u00fcrich",
+            "7 August 1991"
+        ],
+        [
+            "5.",
+            "2.40m(7ft10\u00bcin)",
+            "Vyacheslav Voronin",
+            "Russia",
+            "London",
+            "5 August 2000"
+        ],
+        [
+            "5.",
+            "2.40m(7ft10\u00bcin)",
+            "Mutaz Essa Barshim",
+            "Qatar",
+            "Eugene",
+            "1 June 2013"
+        ],
+        [
+            "10.",
+            "2.39m(7ft10in)",
+            "Zhu Jianhua",
+            "China",
+            "Eberstadt",
+            "10 June 1984"
+        ],
+        [
+            "10.",
+            "2.39m(7ft10in)",
+            "Hollis Conway",
+            "USA",
+            "Norman",
+            "30 July 1989"
+        ],
+        [
+            "10.",
+            "2.39m(7ft10in)",
+            "Ivan Ukhov",
+            "Russia",
+            "Cheboksary",
+            "5 July 2012"
+        ]
+    ]
+}

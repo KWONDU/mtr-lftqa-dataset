@@ -1,0 +1,98 @@
+{
+    "id": "c94c0953e22f3a4ee58ec039d015c8ef82afb009aaff5d9330b22c042770ae49",
+    "metadata": "California Community Colleges System | Faculty and staff | Faculty and staff",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Data_",
+        "Headcount",
+        "Percent_of_total",
+        "Less_than_25_000",
+        "_25_000_to_40_000",
+        "_40_000_to_50_000",
+        "_50_000_to_60_000",
+        "_60_000_to_70_000",
+        "_70_000_to_80_000",
+        "More_than_80_000",
+        "Mean"
+    ],
+    "cell": [
+        [
+            "Educational administrators",
+            "1965",
+            "2.2%",
+            "1.93%",
+            "0.51%",
+            "0.92%",
+            "0.97%",
+            "1.42%",
+            "2.85%",
+            "90.08%",
+            "$116,855"
+        ],
+        [
+            "Tenured and tenure tracked faculty",
+            "18196",
+            "20.3%",
+            "0.21%",
+            "0.92%",
+            "2.21%",
+            "7.85%",
+            "16.24%",
+            "23.10%",
+            "48.70%",
+            "$78,498"
+        ],
+        [
+            "Classified administrators",
+            "1470",
+            "2.0%",
+            "1.6%",
+            "1.22%",
+            "4.29%",
+            "8.71%",
+            "11.29%",
+            "15.24%",
+            "57.69%",
+            "$87,816"
+        ],
+        [
+            "Classified professionals",
+            "1817",
+            "2.0%",
+            "7.82%",
+            "7.93%",
+            "10.24%",
+            "18.66%",
+            "17.56%",
+            "14.14%",
+            "21.79%",
+            "$62,161"
+        ],
+        [
+            "Classified support staff",
+            "24425",
+            "27.3%",
+            "10.51%",
+            "25.85%",
+            "30.62%",
+            "16.68%",
+            "7.42%",
+            "2.80%",
+            "1.85%",
+            "$43,773"
+        ],
+        [
+            "Academic temporary instructors",
+            "41624",
+            "46.5%",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A",
+            "N/A"
+        ]
+    ]
+}

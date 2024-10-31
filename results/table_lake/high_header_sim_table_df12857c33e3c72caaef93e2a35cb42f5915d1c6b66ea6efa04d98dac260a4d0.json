@@ -1,0 +1,112 @@
+{
+    "id": "df12857c33e3c72caaef93e2a35cb42f5915d1c6b66ea6efa04d98dac260a4d0",
+    "metadata": "List of schools in Stockport | Secondary schools | Secondary schools",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Locality",
+        "Ages",
+        "Capacity",
+        "Ofsted"
+    ],
+    "cell": [
+        [
+            "Bramhall High School",
+            "Bramhall",
+            "11-16",
+            "1594",
+            "106139"
+        ],
+        [
+            "Cheadle Hulme High School",
+            "Cheadle Hulme",
+            "11-16",
+            "1379",
+            "106140"
+        ],
+        [
+            "Harrytown Catholic High School",
+            "Romiley",
+            "11-16",
+            "804",
+            "106143"
+        ],
+        [
+            "Hazel Grove High School",
+            "Hazel Grove",
+            "11-16",
+            "1293",
+            "106137"
+        ],
+        [
+            "Marple Hall School",
+            "Marple",
+            "11-16",
+            "1711",
+            "106138"
+        ],
+        [
+            "Offerton School",
+            "Offerton",
+            "11-16",
+            "1134",
+            "106132"
+        ],
+        [
+            "Priestnall School",
+            "Heaton Mersey",
+            "11-16",
+            "1206",
+            "106133"
+        ],
+        [
+            "Reddish Vale Technology College",
+            "Reddish",
+            "11-16",
+            "1392",
+            "106134"
+        ],
+        [
+            "St Anne`s Roman Catholic High School",
+            "Heaton Chapel",
+            "11-16",
+            "730",
+            "106144"
+        ],
+        [
+            "St James` Catholic High School",
+            "Cheadle Hulme",
+            "11-16",
+            "727",
+            "106142"
+        ],
+        [
+            "Stockport Academy",
+            "Cheadle Heath",
+            "11-18",
+            "1050",
+            "135262"
+        ],
+        [
+            "Stockport School",
+            "Heaviley",
+            "11-16",
+            "1081",
+            "106135"
+        ],
+        [
+            "The Kingsway School",
+            "Cheadle/ Gatley",
+            "11-16",
+            "1677",
+            "106141"
+        ],
+        [
+            "Werneth School",
+            "Romiley",
+            "11-16",
+            "1439",
+            "106136"
+        ]
+    ]
+}

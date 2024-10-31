@@ -1,0 +1,70 @@
+{
+    "id": "f0df8ef6766fc9ba75c15a925852d8ec74d7cd7c3b80fe92df446e8afc03134e",
+    "metadata": "1976 VFL season | Round 12 | Round 12",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "13.19 (97)",
+            "St Kilda",
+            "18.14 (122)",
+            "Princes Park",
+            "14072",
+            "19 June 1976"
+        ],
+        [
+            "Geelong",
+            "23.17 (155)",
+            "South Melbourne",
+            "6.15 (51)",
+            "Kardinia Park",
+            "17731",
+            "19 June 1976"
+        ],
+        [
+            "Fitzroy",
+            "22.14 (146)",
+            "Richmond",
+            "13.12 (90)",
+            "Junction Oval",
+            "12644",
+            "19 June 1976"
+        ],
+        [
+            "Essendon",
+            "12.17 (89)",
+            "Footscray",
+            "12.7 (79)",
+            "Windy Hill",
+            "18863",
+            "19 June 1976"
+        ],
+        [
+            "Collingwood",
+            "12.10 (82)",
+            "Carlton",
+            "8.8 (56)",
+            "Victoria Park",
+            "28537",
+            "19 June 1976"
+        ],
+        [
+            "North Melbourne",
+            "22.14 (146)",
+            "Melbourne",
+            "8.13 (61)",
+            "VFL Park",
+            "20529",
+            "19 June 1976"
+        ]
+    ]
+}

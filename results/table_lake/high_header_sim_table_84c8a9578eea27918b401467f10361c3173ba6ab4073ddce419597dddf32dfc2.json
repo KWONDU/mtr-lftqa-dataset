@@ -1,0 +1,56 @@
+{
+    "id": "84c8a9578eea27918b401467f10361c3173ba6ab4073ddce419597dddf32dfc2",
+    "metadata": "Weightlifting at the 1999 Pan American Games | Middle-heavyweight (  94 kg) | Middle-heavyweight (  94 kg)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Bodyweight",
+        "Snatch",
+        "Clean_jerk",
+        "Total_kg"
+    ],
+    "cell": [
+        [
+            "Carlos Hern\u00e1ndez ( CUB )",
+            "92.14",
+            "175.0",
+            "207.5",
+            "382.5"
+        ],
+        [
+            "Dar\u00edo Lecman ( ARG )",
+            "92.92",
+            "175.0",
+            "205.0",
+            "380.0"
+        ],
+        [
+            "Julio C\u00e9sar Lu\u00f1a ( VEN )",
+            "93.62",
+            "165.0",
+            "195.0",
+            "360.0"
+        ],
+        [
+            "Peter Kelley ( USA )",
+            "93.86",
+            "150.0",
+            "180.0",
+            "330.0"
+        ],
+        [
+            "Javier Otoya ( ECU )",
+            "89.64",
+            "140.0",
+            "180.0",
+            "320.0"
+        ],
+        [
+            "Carlos Holgu\u00edn ( DOM )",
+            "93.13",
+            "140.0",
+            "170.0",
+            "310.0"
+        ]
+    ]
+}

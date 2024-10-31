@@ -1,0 +1,61 @@
+{
+    "id": "97150e20a0b1a1230676fc53cff9f43917a53169b114913788546792dfb00655",
+    "metadata": "Paul Azinger | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "1",
+            "1",
+            "6",
+            "15",
+            "10"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "2",
+            "4",
+            "8",
+            "18",
+            "12"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "1",
+            "3",
+            "3",
+            "12",
+            "7"
+        ],
+        [
+            "PGA Championship",
+            "1",
+            "2",
+            "2",
+            "5",
+            "23",
+            "13"
+        ],
+        [
+            "Totals",
+            "1",
+            "6",
+            "10",
+            "22",
+            "68",
+            "42"
+        ]
+    ]
+}

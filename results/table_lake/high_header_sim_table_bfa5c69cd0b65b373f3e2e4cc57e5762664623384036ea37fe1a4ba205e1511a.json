@@ -1,0 +1,55 @@
+{
+    "id": "bfa5c69cd0b65b373f3e2e4cc57e5762664623384036ea37fe1a4ba205e1511a",
+    "metadata": "2008-09 Cardiff City F.C. season | Loans Out | Loans Out",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Country",
+        "Loan_Club",
+        "Started",
+        "Ended",
+        "Start_Source"
+    ],
+    "cell": [
+        [
+            "Flood",
+            "IRL",
+            "Dundee United",
+            "2 July",
+            "30 January",
+            "BBC Sport"
+        ],
+        [
+            "Feeney",
+            "NIR",
+            "Dundee United",
+            "7 July",
+            "19 May",
+            "BBC Sport"
+        ],
+        [
+            "Sak",
+            "POL",
+            "Newport County",
+            "2 September",
+            "2 October",
+            "ENews"
+        ],
+        [
+            "Brown",
+            "WAL",
+            "Wrexham",
+            "25 November",
+            "3 February",
+            "BBC Sport"
+        ],
+        [
+            "Dennehy",
+            "IRL",
+            "Hereford United",
+            "13 March",
+            "13 April",
+            "Hereford United"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "7c94de46978cc392a8e83504c269113d8ec9a719ebe2290f9b8f07736d9543b8",
+    "metadata": "Hughes Hall College Boat Club | Results | Match C",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Finish_position",
+        "_1st_day",
+        "_2nd_day",
+        "_3rd_day",
+        "_4th_Day"
+    ],
+    "cell": [
+        [
+            "2008",
+            "57th",
+            "rowed-over",
+            "rowed-over",
+            "rowed-over",
+            "rowed-over"
+        ],
+        [
+            "2009",
+            "55th",
+            "bumped Downing",
+            "rowed-over",
+            "bumped Clare Hall",
+            "rowed-over"
+        ],
+        [
+            "2010",
+            "53rd",
+            "rowed-over",
+            "bumped Queens`",
+            "rowed-over",
+            "bumped Wolfson"
+        ],
+        [
+            "2011",
+            "46th",
+            "bumped 1st & 3rd Trinity",
+            "double over-bumped Fitzwilliam",
+            "rowed-over",
+            "bumped Robinson"
+        ],
+        [
+            "2012",
+            "44th",
+            "bumped Jesus",
+            "bumped King`s",
+            "bumped 1st & 3rd Trinity",
+            "bumped Churchill"
+        ]
+    ]
+}

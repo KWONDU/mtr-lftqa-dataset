@@ -1,0 +1,55 @@
+{
+    "id": "d83195ea79a709f6ba4ea46708cf4692259cb1b72374cef57d98b032da047baf",
+    "metadata": "List of largest Nordic companies | Divided in countries | Divided in countries",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "_2008_list",
+        "_2009_list",
+        "_2010_list",
+        "_2011_list",
+        "_2012_list"
+    ],
+    "cell": [
+        [
+            "Sweden",
+            "20",
+            "22",
+            "27",
+            "22",
+            "25"
+        ],
+        [
+            "Finland",
+            "16",
+            "13",
+            "11",
+            "12",
+            "12"
+        ],
+        [
+            "Norway",
+            "14",
+            "9",
+            "10",
+            "10",
+            "9"
+        ],
+        [
+            "Denmark",
+            "9",
+            "12",
+            "13",
+            "10",
+            "10"
+        ],
+        [
+            "Iceland",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    ]
+}

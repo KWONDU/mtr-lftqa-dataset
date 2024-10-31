@@ -1,0 +1,71 @@
+{
+    "id": "297893bbcd605340ab40db3309d9aceb603caf2841978a1563cbc23cf89ee9f9",
+    "metadata": "Field hockey at the 1964 Summer Olympics | Group A | Group A",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Team",
+        "Wins",
+        "Ties_",
+        "Losses",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Pakistan (PAK)",
+            "6",
+            "0",
+            "0",
+            "12 QS"
+        ],
+        [
+            "2.",
+            "Australia (AUS)",
+            "4",
+            "0",
+            "2",
+            "8 QS"
+        ],
+        [
+            "3.",
+            "Kenya (KEN)",
+            "3",
+            "1",
+            "2",
+            "7 QC"
+        ],
+        [
+            "4.",
+            "Japan (JPN)",
+            "3",
+            "0",
+            "3",
+            "6 QC"
+        ],
+        [
+            "5.",
+            "Great Britain (GBR)",
+            "2",
+            "0",
+            "4",
+            "4"
+        ],
+        [
+            "6.",
+            "Rhodesia (RHO)",
+            "1",
+            "1",
+            "4",
+            "3"
+        ],
+        [
+            "7.",
+            "New Zealand (NZL)",
+            "1",
+            "0",
+            "5",
+            "2"
+        ]
+    ]
+}

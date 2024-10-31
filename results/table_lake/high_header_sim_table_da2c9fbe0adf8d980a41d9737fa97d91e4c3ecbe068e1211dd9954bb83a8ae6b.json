@@ -1,0 +1,70 @@
+{
+    "id": "da2c9fbe0adf8d980a41d9737fa97d91e4c3ecbe068e1211dd9954bb83a8ae6b",
+    "metadata": "1965 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "12.9 (81)",
+            "Richmond",
+            "9.11 (65)",
+            "Kardinia Park",
+            "25350",
+            "26 June 1965"
+        ],
+        [
+            "Fitzroy",
+            "14.16 (100)",
+            "South Melbourne",
+            "14.10 (94)",
+            "Brunswick Street Oval",
+            "12626",
+            "26 June 1965"
+        ],
+        [
+            "Carlton",
+            "12.10 (82)",
+            "Footscray",
+            "8.10 (58)",
+            "Princes Park",
+            "19680",
+            "26 June 1965"
+        ],
+        [
+            "St Kilda",
+            "24.12 (156)",
+            "Hawthorn",
+            "11.9 (75)",
+            "Moorabbin Oval",
+            "20010",
+            "26 June 1965"
+        ],
+        [
+            "Melbourne",
+            "6.6 (42)",
+            "Essendon",
+            "10.11 (71)",
+            "MCG",
+            "51420",
+            "26 June 1965"
+        ],
+        [
+            "North Melbourne",
+            "12.11 (83)",
+            "Collingwood",
+            "13.12 (90)",
+            "City of Coburg Oval",
+            "21626",
+            "26 June 1965"
+        ]
+    ]
+}

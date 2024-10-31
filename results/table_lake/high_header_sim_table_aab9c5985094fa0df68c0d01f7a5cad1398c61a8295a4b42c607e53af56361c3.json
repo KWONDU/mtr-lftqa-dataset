@@ -1,0 +1,49 @@
+{
+    "id": "aab9c5985094fa0df68c0d01f7a5cad1398c61a8295a4b42c607e53af56361c3",
+    "metadata": "Television in Norway | Analogue terrestrial television | Analogue terrestrial television",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Channel",
+        "Description",
+        "Financed_by",
+        "Owned_by",
+        "Launched"
+    ],
+    "cell": [
+        [
+            "NRK1",
+            "Public Broadcaster",
+            "Licence",
+            "Norsk Rikskringkasting",
+            "1960"
+        ],
+        [
+            "NRK2",
+            "Public Broadcaster",
+            "Licence",
+            "Norsk Rikskringkasting",
+            "1996"
+        ],
+        [
+            "NRK Super and NRK3",
+            "Public Broadcaster",
+            "Licence",
+            "Norsk Rikskringkasting",
+            "2007"
+        ],
+        [
+            "TV 2",
+            "General Entertainment Channel",
+            "Commercials",
+            "Egmont Holding AS",
+            "1992"
+        ],
+        [
+            "TVNorge",
+            "General Entertainment Channel",
+            "Commercials",
+            "ProSiebenSat.1 Media AG",
+            "1988"
+        ]
+    ]
+}

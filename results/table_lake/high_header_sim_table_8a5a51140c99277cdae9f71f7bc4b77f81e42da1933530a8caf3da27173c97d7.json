@@ -1,0 +1,364 @@
+{
+    "id": "8a5a51140c99277cdae9f71f7bc4b77f81e42da1933530a8caf3da27173c97d7",
+    "metadata": "List of lakes of Turkey | Natural lakes | Natural lakes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_in_English",
+        "Name_in_Turkish",
+        "Area_km2",
+        "Depth_",
+        "Location_districts_and_or_provinces_"
+    ],
+    "cell": [
+        [
+            "Lake Van",
+            "Van G\u00f6l\u00fc",
+            "3755 km2",
+            "451 m",
+            "Van, Bitlis"
+        ],
+        [
+            "Lake Tuz",
+            "Tuz G\u00f6l\u00fc",
+            "1500 km2",
+            "2 m",
+            "Aksaray, Ankara, Konya"
+        ],
+        [
+            "Lake Bey\u015fehir",
+            "Bey\u015fehir G\u00f6l\u00fc",
+            "656 km2",
+            "10 m",
+            "Bey\u015fehir in Konya, Isparta"
+        ],
+        [
+            "Lake E\u011firdir",
+            "E\u011firdir G\u00f6l\u00fc",
+            "482 km2",
+            "",
+            "Isparta"
+        ],
+        [
+            "Lake \u0130znik",
+            "\u0130znik G\u00f6l\u00fc",
+            "308 km2",
+            "",
+            "\u0130znik in Bursa, Yalova"
+        ],
+        [
+            "Lake Burdur",
+            "Burdur G\u00f6l\u00fc",
+            "200 km2",
+            "",
+            "Burdur, Isparta"
+        ],
+        [
+            "Lake Manyas",
+            "Manyas G\u00f6l\u00fc",
+            "166 km2",
+            "",
+            "Bal\u0131kesir"
+        ],
+        [
+            "Lake Ac\u0131g\u00f6l",
+            "Ac\u0131g\u00f6l",
+            "153 km2",
+            "",
+            "Denizli, Afyonkarahisar"
+        ],
+        [
+            "Lake Uluabat",
+            "Uluabat G\u00f6l\u00fc",
+            "134 km2",
+            "1-2 m",
+            "Bursa"
+        ],
+        [
+            "Lake \u00c7\u0131ld\u0131r",
+            "\u00c7\u0131ld\u0131r G\u00f6l\u00fc",
+            "115 km2",
+            "",
+            "Ardahan, Kars"
+        ],
+        [
+            "Lake Palas Tuzla",
+            "Palas Tuzla G\u00f6l\u00fc",
+            "106 km2",
+            "15 m",
+            "Palas/Kayseri"
+        ],
+        [
+            "Lake Ak\u015fehir",
+            "Ak\u015fehir G\u00f6l\u00fc",
+            "105 km2",
+            "",
+            "Ak\u015fehir in Konya, Afyonkarahisar"
+        ],
+        [
+            "Lake Eber",
+            "Eber G\u00f6l\u00fc",
+            "104 km2",
+            "",
+            "Afyonkarahisar"
+        ],
+        [
+            "Lake Er\u00e7ek",
+            "Er\u00e7ek G\u00f6l\u00fc",
+            "98 km2",
+            "",
+            "Van"
+        ],
+        [
+            "Lake Hazar",
+            "Hazar G\u00f6l\u00fc",
+            "86 km2",
+            "",
+            "Elaz\u0131\u011f"
+        ],
+        [
+            "Lake Bafa",
+            "Bafa G\u00f6l\u00fc",
+            "60 km2",
+            "",
+            "Ayd\u0131n, Mu\u011fla"
+        ],
+        [
+            "Lake K\u00f6yce\u011fiz",
+            "K\u00f6yce\u011fiz G\u00f6l\u00fc",
+            "52 km2",
+            "",
+            "K\u00f6yce\u011fiz in Mu\u011fla"
+        ],
+        [
+            "Lake I\u015f\u0131kl\u0131",
+            "I\u015f\u0131kl\u0131 G\u00f6l\u00fc",
+            "49 km2",
+            "",
+            "Denizli"
+        ],
+        [
+            "Lake Nazik",
+            "Nazik G\u00f6l\u00fc",
+            "48 km2",
+            "",
+            "Bitlis"
+        ],
+        [
+            "Lake Sapanca",
+            "Sapanca G\u00f6l\u00fc",
+            "47 km2",
+            "",
+            "Sakarya Province"
+        ],
+        [
+            "Lake Salda",
+            "Salda G\u00f6l\u00fc",
+            "45 km2",
+            "184 m",
+            "Burdur"
+        ],
+        [
+            "Lake Yay",
+            "Yay G\u00f6l\u00fc",
+            "37 km2",
+            "",
+            "Kayseri"
+        ],
+        [
+            "Lake Akyatan",
+            "Akyatan G\u00f6l\u00fc",
+            "35 km2",
+            "",
+            "Adana"
+        ],
+        [
+            "Lake Bal\u0131k",
+            "Bal\u0131k G\u00f6l\u00fc",
+            "34 km2",
+            "",
+            "Do\u011fubeyaz\u0131t in A\u011fr\u0131"
+        ],
+        [
+            "Lake Marmara",
+            "Marmara G\u00f6l\u00fc",
+            "34 km2",
+            "",
+            "Salihli, G\u00f6lmarmara in Manisa"
+        ],
+        [
+            "Lake \u00c7\u00f6l",
+            "\u00c7\u00f6l G\u00f6l\u00fc",
+            "32 km2",
+            "",
+            "Ankara"
+        ],
+        [
+            "Lake Durusu (Lake Terkos)",
+            "Durusu G\u00f6l\u00fc",
+            "25 km2",
+            "",
+            "\u0130stanbul"
+        ],
+        [
+            "Lake Karine",
+            "Karine G\u00f6l\u00fc",
+            "24 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake Tuzla",
+            "Tuzla G\u00f6l\u00fc",
+            "23 km2",
+            "",
+            "Tuzla"
+        ],
+        [
+            "Lake K\u00fc\u00e7\u00fck\u00e7ekmece",
+            "K\u00fc\u00e7\u00fck\u00e7ekmece G\u00f6l\u00fc",
+            "16 km2",
+            "",
+            "K\u00fc\u00e7\u00fck\u00e7ekmece, \u0130stanbul"
+        ],
+        [
+            "Lake Yara\u015fl\u0131",
+            "Yara\u015fl\u0131 G\u00f6l\u00fc",
+            "16 km2",
+            "",
+            "Burdur"
+        ],
+        [
+            "Lake Ha\u00e7l\u0131",
+            "Ha\u00e7l\u0131 G\u00f6l\u00fc",
+            "16 km2",
+            "",
+            "Mu\u015f"
+        ],
+        [
+            "Lake Seyfe",
+            "Seyfe G\u00f6l\u00fc",
+            "15 km2",
+            "",
+            "K\u0131r\u015fehir"
+        ],
+        [
+            "Lake Akyayan",
+            "Akyayan G\u00f6l\u00fc",
+            "15 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake Hozapin",
+            "Hozapin G\u00f6l\u00fc",
+            "14 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake Arin",
+            "Arin G\u00f6l\u00fc",
+            "13 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake Nemrut",
+            "Nemrut G\u00f6l\u00fc",
+            "12 km2",
+            "",
+            "Bitlis Province"
+        ],
+        [
+            "Lake Bal\u0131k",
+            "Bal\u0131k G\u00f6l\u00fc",
+            "12 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake B\u00fcy\u00fck\u00e7ekmece",
+            "B\u00fcy\u00fck\u00e7ekmece G\u00f6l\u00fc",
+            "11 km2",
+            "",
+            "B\u00fcy\u00fck\u00e7ekmece, Istanbul"
+        ],
+        [
+            "Lake Boluk",
+            "Boluk G\u00f6l\u00fc",
+            "11 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake Akdo\u011fan",
+            "Akdo\u011fan G\u00f6l\u00fc",
+            "11 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake \u00c7avu\u015flu",
+            "\u00c7avu\u015flu G\u00f6l\u00fc",
+            "9 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake D\u00fcden",
+            "D\u00fcden G\u00f6l\u00fc",
+            "8 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake Gala",
+            "Gala G\u00f6l\u00fc",
+            "8 km2",
+            "",
+            "Edirne"
+        ],
+        [
+            "Lake Karata\u015f",
+            "Karata\u015f G\u00f6l\u00fc",
+            "6 km2",
+            "",
+            ""
+        ],
+        [
+            "Lake Mogan",
+            "Mogan G\u00f6l\u00fc",
+            "6 km2",
+            "",
+            "Ankara"
+        ],
+        [
+            "Paradeniz",
+            "Paradeniz",
+            "4 km2",
+            "",
+            "Mersin"
+        ],
+        [
+            "Lake Eymir",
+            "Eymir G\u00f6l\u00fc",
+            "1.8 km2",
+            "",
+            "Ankara"
+        ],
+        [
+            "Lake Abant",
+            "Abant G\u00f6l\u00fc",
+            "1.28 km2",
+            "18 m",
+            "Bolu"
+        ],
+        [
+            "Lake G\u00f6lc\u00fck",
+            "G\u00f6lc\u00fck G\u00f6l\u00fc",
+            "1 km2",
+            "",
+            "\u0130zmir"
+        ]
+    ]
+}

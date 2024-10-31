@@ -1,0 +1,70 @@
+{
+    "id": "ad9aef670a4de86a76e9543a07af3276dafcbd7c7a71b222ea7c12d4eb809500",
+    "metadata": "1935 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "12.10 (82)",
+            "Melbourne",
+            "14.17 (101)",
+            "Glenferrie Oval",
+            "7000",
+            "27 July 1935"
+        ],
+        [
+            "Fitzroy",
+            "14.16 (100)",
+            "Footscray",
+            "13.15 (93)",
+            "Brunswick Street Oval",
+            "13000",
+            "27 July 1935"
+        ],
+        [
+            "Richmond",
+            "14.11 (95)",
+            "Carlton",
+            "11.14 (80)",
+            "Punt Road Oval",
+            "30000",
+            "27 July 1935"
+        ],
+        [
+            "Geelong",
+            "9.14 (68)",
+            "St Kilda",
+            "13.8 (86)",
+            "Corio Oval",
+            "7000",
+            "17 August 1935"
+        ],
+        [
+            "South Melbourne",
+            "16.13 (109)",
+            "North Melbourne",
+            "15.10 (100)",
+            "Lake Oval",
+            "7000",
+            "17 August 1935"
+        ],
+        [
+            "Essendon",
+            "16.10 (106)",
+            "Collingwood",
+            "16.17 (113)",
+            "Windy Hill",
+            "11000",
+            "17 August 1935"
+        ]
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "id": "4f2074562090b93fac18cd4823617b964d5d471eac80e4c67e24a2d91106b419",
+    "metadata": "2004 Philadelphia Phillies season | Game log | August",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Save_",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "August 1",
+            "@ Cubs",
+            "3-6",
+            "Randy Wolf (4-7)",
+            "LaTroy Hawkins (16)",
+            "39032",
+            "53-52"
+        ],
+        [
+            "August 3",
+            "@ Padres",
+            "5-2",
+            "Brian Lawrence (11-8)",
+            "None",
+            "37134",
+            "54-52"
+        ],
+        [
+            "August 4",
+            "@ Padres",
+            "7-5",
+            "Adam Eaton (6-10)",
+            "Tim Worrell (12)",
+            "30085",
+            "55-52"
+        ],
+        [
+            "August 5",
+            "@ Padres",
+            "5-3 (10)",
+            "Trevor Hoffman (2-2)",
+            "Tim Worrell (13)",
+            "36127",
+            "56-52"
+        ],
+        [
+            "August 6",
+            "@ Dodgers",
+            "9-5 (11)",
+            "\u00c9ric Gagn\u00e9 (4-1)",
+            "None",
+            "53977",
+            "57-52"
+        ],
+        [
+            "August 7",
+            "@ Dodgers",
+            "3-6",
+            "Paul Abbott (3-11)",
+            "\u00c9ric Gagn\u00e9 (33)",
+            "54404",
+            "57-53"
+        ],
+        [
+            "August 8",
+            "@ Dodgers",
+            "4-1",
+            "Brad Penny (9-9)",
+            "None",
+            "53840",
+            "58-53"
+        ],
+        [
+            "August 9",
+            "Rockies",
+            "2-4",
+            "Todd Jones (8-3)",
+            "Shawn Chac\u00f3n (27)",
+            "42031",
+            "58-54"
+        ],
+        [
+            "August 10",
+            "Rockies",
+            "4-5",
+            "Tim Worrell (3-5)",
+            "Shawn Chac\u00f3n (28)",
+            "36636",
+            "58-55"
+        ],
+        [
+            "August 11",
+            "Rockies",
+            "15-4",
+            "Jason Jennings (10-10)",
+            "None",
+            "40634",
+            "59-55"
+        ],
+        [
+            "August 12",
+            "Rockies",
+            "1-3",
+            "Cory Lidle (7-11)",
+            "Shawn Chac\u00f3n (29)",
+            "37464",
+            "59-56"
+        ],
+        [
+            "August 13",
+            "Giants",
+            "6-16",
+            "Brett Myers (7-9)",
+            "None",
+            "43036",
+            "59-57"
+        ],
+        [
+            "August 14",
+            "Giants",
+            "6-7",
+            "F\u00e9lix Rodr\u00edguez (4-6)",
+            "Dustin Hermanson (2)",
+            "43712",
+            "59-58"
+        ],
+        [
+            "August 15",
+            "Giants",
+            "1-3",
+            "Vicente Padilla (4-6)",
+            "Dustin Hermanson (3)",
+            "43610",
+            "59-59"
+        ],
+        [
+            "August 17",
+            "Astros",
+            "0-5",
+            "Randy Wolf (5-8)",
+            "None",
+            "43716",
+            "59-60"
+        ],
+        [
+            "August 18",
+            "Astros",
+            "8-9",
+            "Todd Jones (8-4)",
+            "Brad Lidge (14)",
+            "43895",
+            "59-61"
+        ],
+        [
+            "August 19",
+            "Astros",
+            "10-12",
+            "Roberto Hern\u00e1ndez (2-4)",
+            "Brad Lidge (15)",
+            "43543",
+            "59-62"
+        ],
+        [
+            "August 20",
+            "@ Brewers",
+            "4-2",
+            "Doug Davis (10-10)",
+            "Tim Worrell (14)",
+            "22559",
+            "60-62"
+        ],
+        [
+            "August 21",
+            "@ Brewers",
+            "8-6",
+            "Luis Vizca\u00edno (4-3)",
+            "Tim Worrell (15)",
+            "30841",
+            "61-62"
+        ],
+        [
+            "August 22",
+            "@ Brewers",
+            "9-6 (10)",
+            "Dan Kolb (0-3)",
+            "Tim Worrell (16)",
+            "32411",
+            "62-62"
+        ],
+        [
+            "August 23",
+            "@ Astros",
+            "4-8",
+            "Cory Lidle (7-12)",
+            "None",
+            "36398",
+            "62-63"
+        ],
+        [
+            "August 24",
+            "@ Astros",
+            "2-4",
+            "Todd Jones (8-5)",
+            "Brad Lidge (16)",
+            "37127",
+            "62-64"
+        ],
+        [
+            "August 25",
+            "@ Astros",
+            "4-7",
+            "F\u00e9lix Rodr\u00edguez (5-7)",
+            "Brad Lidge (17)",
+            "37217",
+            "62-65"
+        ],
+        [
+            "August 27",
+            "Brewers",
+            "6-1",
+            "V\u00edctor Santos (10-9)",
+            "None",
+            "40367",
+            "63-65"
+        ],
+        [
+            "August 28",
+            "Brewers",
+            "4-3",
+            "Mike Adams (2-2)",
+            "None",
+            "43267",
+            "64-65"
+        ],
+        [
+            "August 29",
+            "Brewers",
+            "10-0",
+            "Wes Obermueller (4-7)",
+            "None",
+            "43339",
+            "65-65"
+        ],
+        [
+            "August 30",
+            "@ White Sox",
+            "8-9",
+            "Roberto Hern\u00e1ndez (2-5)",
+            "Shingo Takatsu (14)",
+            "5747",
+            "65-66"
+        ],
+        [
+            "August 31",
+            "Braves",
+            "3-5",
+            "Eric Milton (13-3)",
+            "None",
+            "36028",
+            "65-67"
+        ]
+    ]
+}

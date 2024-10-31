@@ -1,0 +1,49 @@
+{
+    "id": "3081cb8f6230dbbb08b3b4c73e7490d54d4e6b1ac5821ed423b367f2223ce0d3",
+    "metadata": "Indoor Football League | Year-By-Year | Year-By-Year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Home_Team",
+        "Away_Team",
+        "Winner",
+        "Score"
+    ],
+    "cell": [
+        [
+            "2009",
+            "Billings Outlaws",
+            "RiverCity Rage",
+            "Outlaws",
+            "71-62"
+        ],
+        [
+            "2010",
+            "Billings Outlaws",
+            "Sioux Falls Storm",
+            "Outlaws",
+            "43-34"
+        ],
+        [
+            "2011",
+            "Sioux Falls Storm",
+            "Tri-Cities Fever",
+            "Storm",
+            "37-10"
+        ],
+        [
+            "2012",
+            "Sioux Falls Storm",
+            "Tri-Cities Fever",
+            "Storm",
+            "59-32"
+        ],
+        [
+            "2013",
+            "Sioux Falls Storm",
+            "Nebraska Danger",
+            "Storm",
+            "43-40"
+        ]
+    ]
+}

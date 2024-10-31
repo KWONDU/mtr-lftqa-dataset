@@ -1,0 +1,106 @@
+{
+    "id": "dc14b257467a0433bad7e3491b91b4b4a75ed4756a00c6c6ee5998944d5f74a5",
+    "metadata": "Summer Olympic Coins (2000-present) | 1 Yuan | 1 Yuan",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Denomination",
+        "Alloy",
+        "Reverse",
+        "Diameter",
+        "Weight",
+        "Obverse",
+        "Mintage",
+        "Series"
+    ],
+    "cell": [
+        [
+            "2007",
+            "1 Yuan",
+            "Brass",
+            "Weightlifting",
+            "25mm",
+            "6.75 gr",
+            "Emblem of the XXIX Olympiad, and the year 2008.",
+            "10000000",
+            "I series"
+        ],
+        [
+            "2007",
+            "1 Yuan",
+            "Brass",
+            "Swimming",
+            "25mm",
+            "6.75 gr",
+            "Emblem of the XXIX Olympiad, and the year 2008.",
+            "10000000",
+            "I series"
+        ],
+        [
+            "2008",
+            "1 Yuan",
+            "Brass",
+            "Archery",
+            "25mm",
+            "6.75 gr",
+            "Emblem of the XXIX Olympiad, and the year 2008.",
+            "10000000",
+            "II series"
+        ],
+        [
+            "2008",
+            "1 Yuan",
+            "Brass",
+            "Gymnastics",
+            "25mm",
+            "6.75 gr",
+            "Emblem of the XXIX Olympiad, and the year 2008.",
+            "10000000",
+            "II series"
+        ],
+        [
+            "2008",
+            "1 Yuan",
+            "Brass",
+            "Table tennis",
+            "25mm",
+            "6.75 gr",
+            "Emblem of the XXIX Olympiad, and the year 2008.",
+            "10000000",
+            "II series"
+        ],
+        [
+            "2008",
+            "1 Yuan",
+            "Brass",
+            "Fencing",
+            "25mm",
+            "6.75 gr",
+            "Emblem of the XXIX Olympiad, and the year 2008.",
+            "10000000",
+            "III series"
+        ],
+        [
+            "2008",
+            "1 Yuan",
+            "Brass",
+            "Football",
+            "25mm",
+            "6.75 gr",
+            "Emblem of the XXIX Olympiad, and the year 2008.",
+            "10000000",
+            "III series"
+        ],
+        [
+            "2008",
+            "1 Yuan",
+            "Brass",
+            "Modern pentathlon",
+            "25mm",
+            "6.75 gr",
+            "Emblem of the XXIX Olympiad, and the year 2008.",
+            "10000000",
+            "III series"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "87a0197948a9b61c7b0be252e0764abb42480102c9021bc860ce7dd8b1fd8d78",
+    "metadata": "\u00c9lie Bayol | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1952",
+            "\u00c9lie Bayol",
+            "O.S.C.A. 20",
+            "O.S.C.A. Straight-6",
+            "0"
+        ],
+        [
+            "1953",
+            "\u00c9lie Bayol",
+            "O.S.C.A. 20",
+            "O.S.C.A. Straight-6",
+            "0"
+        ],
+        [
+            "1953",
+            "O.S.C.A.",
+            "O.S.C.A. 20",
+            "O.S.C.A. Straight-6",
+            "0"
+        ],
+        [
+            "1954",
+            "Equipe Gordini",
+            "Gordini Type 16",
+            "Gordini Straight-6",
+            "2"
+        ],
+        [
+            "1955",
+            "Equipe Gordini",
+            "Gordini Type 16",
+            "Gordini Straight-6",
+            "0"
+        ],
+        [
+            "1956",
+            "Gordini",
+            "Gordini Type 32",
+            "Gordini Straight-8",
+            "0"
+        ]
+    ]
+}

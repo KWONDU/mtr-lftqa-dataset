@@ -1,0 +1,56 @@
+{
+    "id": "a06a47d97f1f0a656b7508e38b9be4af18d136fa3e59826950e5e0910653682d",
+    "metadata": "1985 U.S. Open (golf) | Missed the cut | Missed the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "Tom Watson",
+            "United States",
+            "1982",
+            "147",
+            "+7"
+        ],
+        [
+            "Lee Trevino",
+            "United States",
+            "1968 , 1971",
+            "148",
+            "+8"
+        ],
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1962 , 1967 , 1972 , 1980",
+            "149",
+            "+9"
+        ],
+        [
+            "Lou Graham",
+            "United States",
+            "1975",
+            "151",
+            "+11"
+        ],
+        [
+            "Hubert Green",
+            "United States",
+            "1977",
+            "152",
+            "+12"
+        ],
+        [
+            "Jerry Pate",
+            "United States",
+            "1976",
+            "159",
+            "+19"
+        ]
+    ]
+}

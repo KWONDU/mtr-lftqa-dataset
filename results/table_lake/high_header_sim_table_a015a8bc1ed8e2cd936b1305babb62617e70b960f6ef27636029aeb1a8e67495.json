@@ -1,0 +1,55 @@
+{
+    "id": "a015a8bc1ed8e2cd936b1305babb62617e70b960f6ef27636029aeb1a8e67495",
+    "metadata": "Daigakk\u014d | Administered by the national government: tuition-fee free, salary paid | Administered by the national government: tuition-fee free, salary paid",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "English_Name",
+        "Japanese_orthography",
+        "Pronouciation",
+        "abbreviation",
+        "Providernational_government",
+        "Foundation"
+    ],
+    "cell": [
+        [
+            "Japan Coast Guard Academy",
+            "\u6d77\u4e0a\u4fdd\u5b89\u5927\u5b66\u6821",
+            "Kaij\u014d Hoan Daigakk\u014d",
+            "JCGA",
+            "Japan Coast Guard",
+            "1951"
+        ],
+        [
+            "National College of Nursing( ko )",
+            "\u56fd\u7acb\u770b\u8b77\u5927\u5b66\u6821",
+            "Kokuritsu Kango Daigakk\u014d",
+            "NCN",
+            "National Center for Global Health and Medicine",
+            "2001"
+        ],
+        [
+            "National Defense Academy of Japan",
+            "\u9632\u885b\u5927\u5b66\u6821",
+            "B\u014dei Daigakk\u014d",
+            "NDA B\u014dei-Dai(\u9632\u885b\u5927)",
+            "Ministry of Defense",
+            "1952"
+        ],
+        [
+            "National Defense Medical College",
+            "\u9632\u885b\u533b\u79d1\u5927\u5b66\u6821",
+            "B\u014dei Ika Daigakk\u014d",
+            "NDMC",
+            "Ministry of Defense",
+            "1973"
+        ],
+        [
+            "Meteorological College",
+            "\u6c17\u8c61\u5927\u5b66\u6821",
+            "Kish\u014d Daigakk\u014d",
+            "MC Ki-Dai, Kidaik\u014d",
+            "Japan Meteorological Agency",
+            "1922"
+        ]
+    ]
+}

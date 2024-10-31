@@ -1,0 +1,55 @@
+{
+    "id": "e61b4b0afea364332bd8204784e19d2f35e39b5ba6f600636f7642cb29b3d5bd",
+    "metadata": "Daniel Brands | Singles Performance Timeline | Singles Performance Timeline",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "_2008",
+        "_2010",
+        "_2011",
+        "_2012",
+        "_2013"
+    ],
+    "cell": [
+        [
+            "Australian Open",
+            "A",
+            "1R",
+            "1R",
+            "Q1",
+            "2R"
+        ],
+        [
+            "French Open",
+            "1R",
+            "1R",
+            "1R",
+            "Q3",
+            "1R"
+        ],
+        [
+            "Wimbledon",
+            "A",
+            "4R",
+            "Q1",
+            "Q1",
+            "2R"
+        ],
+        [
+            "US Open",
+            "A",
+            "1R",
+            "A",
+            "2R",
+            "1R"
+        ],
+        [
+            "Win-Loss",
+            "0-1",
+            "3-4",
+            "0-2",
+            "1-1",
+            "2-4"
+        ]
+    ]
+}

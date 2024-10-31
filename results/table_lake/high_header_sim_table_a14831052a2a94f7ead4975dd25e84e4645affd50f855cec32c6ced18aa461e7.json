@@ -1,0 +1,84 @@
+{
+    "id": "a14831052a2a94f7ead4975dd25e84e4645affd50f855cec32c6ced18aa461e7",
+    "metadata": "Fortune Global 500 | Fortune 2013 list | Fortune 2013 list",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Company",
+        "Country",
+        "Industry",
+        "Revenue_in_USD"
+    ],
+    "cell": [
+        [
+            "1",
+            "Royal Dutch Shell",
+            "Netherlands \u2020",
+            "Petroleum",
+            "$481.7 billion"
+        ],
+        [
+            "2",
+            "Walmart",
+            "United States",
+            "Retail",
+            "$469.2 billion"
+        ],
+        [
+            "3",
+            "ExxonMobil",
+            "United States",
+            "Petroleum",
+            "$449.9 billion"
+        ],
+        [
+            "4",
+            "Sinopec",
+            "China",
+            "Petroleum",
+            "$428.2 billion"
+        ],
+        [
+            "5",
+            "China National Petroleum Corporation",
+            "China",
+            "Petroleum",
+            "$408.6 billion"
+        ],
+        [
+            "6",
+            "BP",
+            "United Kingdom",
+            "Petroleum",
+            "$388.3 billion"
+        ],
+        [
+            "7",
+            "State Grid Corporation of China",
+            "China",
+            "Power",
+            "$298.4 billion"
+        ],
+        [
+            "8",
+            "Toyota",
+            "Japan",
+            "Automobiles",
+            "$265.7 billion"
+        ],
+        [
+            "9",
+            "Volkswagen",
+            "Germany",
+            "Automobiles",
+            "$247.6 billion"
+        ],
+        [
+            "10",
+            "Total",
+            "France",
+            "Petroleum",
+            "$234.3 billion"
+        ]
+    ]
+}

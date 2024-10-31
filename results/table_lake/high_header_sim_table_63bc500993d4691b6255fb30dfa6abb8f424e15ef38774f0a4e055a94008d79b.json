@@ -1,0 +1,63 @@
+{
+    "id": "63bc500993d4691b6255fb30dfa6abb8f424e15ef38774f0a4e055a94008d79b",
+    "metadata": "1908 Grand Prix season | Other Grands Prix | Other Grands Prix",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Circuit",
+        "Date_",
+        "Winning_driver",
+        "Winning_constructor",
+        "Report"
+    ],
+    "cell": [
+        [
+            "Targa Florio",
+            "Madonie",
+            "18 May",
+            "Vincenzo Trucco",
+            "Isotta-Fraschini",
+            "Report"
+        ],
+        [
+            "St. Petersburg - Moscow",
+            "Public roads",
+            "1 June",
+            "Victor H\u00e9mery",
+            "Benz",
+            "Report"
+        ],
+        [
+            "Coppa Florio",
+            "Bologna",
+            "6 September",
+            "Felice Nazzaro",
+            "Fiat",
+            "Report"
+        ],
+        [
+            "Targa Bologna",
+            "Bologna",
+            "7 September",
+            "Jean Porporato",
+            "Berliet",
+            "Report"
+        ],
+        [
+            "Vanderbilt Cup",
+            "Long Island",
+            "24 October",
+            "George Robertson",
+            "Locomobile",
+            "Report"
+        ],
+        [
+            "American Grand Prize",
+            "Savannah",
+            "26 November",
+            "Louis Wagner",
+            "Fiat",
+            "Report"
+        ]
+    ]
+}

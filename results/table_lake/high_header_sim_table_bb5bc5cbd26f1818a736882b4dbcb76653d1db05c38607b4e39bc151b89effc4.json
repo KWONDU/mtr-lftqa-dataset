@@ -1,0 +1,56 @@
+{
+    "id": "bb5bc5cbd26f1818a736882b4dbcb76653d1db05c38607b4e39bc151b89effc4",
+    "metadata": "Hit 'n Run Tour | Hit 'N Run shows | Hit 'N Run shows",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "City",
+        "Country",
+        "Venue",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "July 20, 2007",
+            "Sault Ste. Marie, Michigan",
+            "United States",
+            "Kewadin Casino",
+            "10000"
+        ],
+        [
+            "July 21, 2007",
+            "Cadott, Wisconsin",
+            "United States",
+            "Cadott Rock Fest",
+            "35000"
+        ],
+        [
+            "July 25, 2007",
+            "Anaheim, California",
+            "United States",
+            "Cisco Customer Appreciation Event",
+            "1000"
+        ],
+        [
+            "July 27, 2007",
+            "San Jacinto, California",
+            "United States",
+            "Soboba Casino Arena",
+            "3500"
+        ],
+        [
+            "September 15, 2007",
+            "Whistler, British Columbia",
+            "Canada",
+            "Blackcomb Mountain",
+            "Canceled"
+        ],
+        [
+            "October 26, 2007",
+            "Paradise, Nevada",
+            "United States",
+            "Mandalay Bay Resort",
+            "1500"
+        ]
+    ]
+}

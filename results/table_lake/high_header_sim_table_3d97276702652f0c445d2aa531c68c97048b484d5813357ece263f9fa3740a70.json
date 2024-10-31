@@ -1,0 +1,63 @@
+{
+    "id": "3d97276702652f0c445d2aa531c68c97048b484d5813357ece263f9fa3740a70",
+    "metadata": "2006-07 Manchester United F.C. season | Knockout phase | Knockout phase",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponents",
+        "H_A",
+        "Result_F_A",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "20 February 2007",
+            "First knockout round First leg",
+            "Lille",
+            "A",
+            "1-0",
+            "41000"
+        ],
+        [
+            "7 March 2007",
+            "First knockout round Second leg",
+            "Lille",
+            "H",
+            "1-0",
+            "75182"
+        ],
+        [
+            "4 April 2007",
+            "Quarter-final First leg",
+            "Roma",
+            "A",
+            "1-2",
+            "77000"
+        ],
+        [
+            "10 April 2007",
+            "Quarter-final Second leg",
+            "Roma",
+            "H",
+            "7-1",
+            "74476"
+        ],
+        [
+            "24 April 2007",
+            "Semi-final First leg",
+            "Milan",
+            "H",
+            "3-2",
+            "73820"
+        ],
+        [
+            "2 May 2007",
+            "Semi-final Second leg",
+            "Milan",
+            "A",
+            "0-3",
+            "78500"
+        ]
+    ]
+}

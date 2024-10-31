@@ -1,0 +1,103 @@
+{
+    "id": "526c5f9748f7fe1e986453b848f6f01f64898448a21456523c626d3d6f0b3088",
+    "metadata": "2008 ILF Men's U-19 World Lacrosse Championship | Round Robin results | Blue Division",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Wins",
+        "Losses",
+        "Points",
+        "WPct_",
+        "G_F_",
+        "G_A_",
+        "Assists",
+        "Penalties",
+        "P_I_M_"
+    ],
+    "cell": [
+        [
+            "Team",
+            "Wins",
+            "Losses",
+            "Points",
+            "WPct.",
+            "G.F.",
+            "G.A.",
+            "Assists",
+            "Penalties",
+            "P.I.M."
+        ],
+        [
+            "United States",
+            "5",
+            "0",
+            "10",
+            "1",
+            "108",
+            "41",
+            "27",
+            "32",
+            "24.5"
+        ],
+        [
+            "Canada",
+            "4",
+            "1",
+            "8",
+            "0.8",
+            "107",
+            "45",
+            "13",
+            "34",
+            "27.5"
+        ],
+        [
+            "Iroquois Nationals",
+            "3",
+            "2",
+            "6",
+            "0.6",
+            "92",
+            "74",
+            "11",
+            "39",
+            "36.5"
+        ],
+        [
+            "England",
+            "2",
+            "3",
+            "4",
+            "0.4",
+            "63",
+            "87",
+            "7",
+            "44",
+            "34.5"
+        ],
+        [
+            "Australia",
+            "1",
+            "4",
+            "2",
+            "0.2",
+            "62",
+            "81",
+            "1",
+            "46",
+            "35.5"
+        ],
+        [
+            "Japan",
+            "0",
+            "5",
+            "0",
+            "0",
+            "23",
+            "127",
+            "3",
+            "22",
+            "15"
+        ]
+    ]
+}

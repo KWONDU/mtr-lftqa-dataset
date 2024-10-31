@@ -1,0 +1,70 @@
+{
+    "id": "c92d8830adf69ef9e268b6ee9e1016abe0533faa06089f544865a6219873ebce",
+    "metadata": "1932 VFL season | Round 12 | Round 12",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "12.12 (84)",
+            "South Melbourne",
+            "13.15 (93)",
+            "MCG",
+            "20283",
+            "23 July 1932"
+        ],
+        [
+            "Collingwood",
+            "14.10 (94)",
+            "Hawthorn",
+            "10.10 (70)",
+            "Victoria Park",
+            "9000",
+            "23 July 1932"
+        ],
+        [
+            "Carlton",
+            "18.21 (129)",
+            "Fitzroy",
+            "13.6 (84)",
+            "Princes Park",
+            "20000",
+            "23 July 1932"
+        ],
+        [
+            "St Kilda",
+            "7.12 (54)",
+            "Richmond",
+            "12.13 (85)",
+            "Junction Oval",
+            "18000",
+            "23 July 1932"
+        ],
+        [
+            "North Melbourne",
+            "6.14 (50)",
+            "Geelong",
+            "14.10 (94)",
+            "Arden Street Oval",
+            "12000",
+            "23 July 1932"
+        ],
+        [
+            "Footscray",
+            "11.16 (82)",
+            "Essendon",
+            "10.9 (69)",
+            "Western Oval",
+            "14000",
+            "23 July 1932"
+        ]
+    ]
+}

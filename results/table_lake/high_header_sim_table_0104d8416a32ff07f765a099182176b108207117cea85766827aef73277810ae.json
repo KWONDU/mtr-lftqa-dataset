@@ -1,0 +1,105 @@
+{
+    "id": "0104d8416a32ff07f765a099182176b108207117cea85766827aef73277810ae",
+    "metadata": "1960 St. Louis Cardinals (NFL) season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 23, 1960",
+            "at Los Angeles Rams",
+            "W 43-21",
+            "47448"
+        ],
+        [
+            "2",
+            "October 2, 1960",
+            "New York Giants",
+            "L 35-14",
+            "26089"
+        ],
+        [
+            "3",
+            "October 9, 1960",
+            "at Philadelphia Eagles",
+            "L 31-27",
+            "33701"
+        ],
+        [
+            "4",
+            "October 16, 1960",
+            "at Pittsburgh Steelers",
+            "L 27-14",
+            "22971"
+        ],
+        [
+            "5",
+            "October 23, 1960",
+            "Dallas Cowboys",
+            "W 12-10",
+            "23128"
+        ],
+        [
+            "6",
+            "October 30, 1960",
+            "at New York Giants",
+            "W 20-13",
+            "58516"
+        ],
+        [
+            "7",
+            "November 6, 1960",
+            "Washington Redskins",
+            "W 44-7",
+            "22458"
+        ],
+        [
+            "8",
+            "November 13, 1960",
+            "at Cleveland Browns",
+            "L 28-27",
+            "49192"
+        ],
+        [
+            "9",
+            "November 20, 1960",
+            "at Washington Redskins",
+            "W 26-14",
+            "23848"
+        ],
+        [
+            "10",
+            "November 27, 1960",
+            "Cleveland Browns",
+            "T 17-17",
+            "26146"
+        ],
+        [
+            "11",
+            "December 4, 1960",
+            "Philadelphia Eagles",
+            "L 20-6",
+            "21358"
+        ],
+        [
+            "12",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "13",
+            "December 18, 1960",
+            "Pittsburgh Steelers",
+            "W 38-7",
+            "20840"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "8b3da949f77e9911c3082e71cc442649ed884bae2c7950fd4294d0e0a4618c58",
+    "metadata": "Takuma Aoki | Grand Prix career statistics | Grand Prix career statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Machine",
+        "Points",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1993",
+            "250cc",
+            "Cup Noodle- Honda",
+            "NSR250",
+            "8",
+            "0"
+        ],
+        [
+            "1994",
+            "250cc",
+            "Cup Noodle- Honda",
+            "NSR250",
+            "11",
+            "0"
+        ],
+        [
+            "1995",
+            "500cc",
+            "HRC - Honda",
+            "NSR500",
+            "16",
+            "0"
+        ],
+        [
+            "1996",
+            "500cc",
+            "HRC - Honda",
+            "NSR500",
+            "0",
+            "0"
+        ],
+        [
+            "1997",
+            "500cc",
+            "Repsol- Honda",
+            "NSR500V",
+            "134",
+            "0"
+        ]
+    ]
+}

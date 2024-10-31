@@ -1,0 +1,133 @@
+{
+    "id": "dd0d4dc172f9abc57fe8fcee02b5720771b7351f5a23b26a6ee6004d6a2db543",
+    "metadata": "1994 San Diego Chargers season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 4, 1994",
+            "at Denver Broncos",
+            "W 37-34",
+            "74032"
+        ],
+        [
+            "2",
+            "September 11, 1994",
+            "Cincinnati Bengals",
+            "W 27-10",
+            "53217"
+        ],
+        [
+            "3",
+            "September 18, 1994",
+            "at Seattle Seahawks",
+            "W 24-10",
+            "65536"
+        ],
+        [
+            "4",
+            "September 25, 1994",
+            "at Los Angeles Raiders",
+            "W 26-24",
+            "55385"
+        ],
+        [
+            "5",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "6",
+            "October 9, 1994",
+            "Kansas City Chiefs",
+            "W 20-6",
+            "62923"
+        ],
+        [
+            "7",
+            "October 16, 1994",
+            "at New Orleans Saints",
+            "W 36-22",
+            "50565"
+        ],
+        [
+            "8",
+            "October 23, 1994",
+            "Denver Broncos",
+            "L 15-20",
+            "61626"
+        ],
+        [
+            "9",
+            "October 30, 1994",
+            "Seattle Seahawks",
+            "W 35-15",
+            "59001"
+        ],
+        [
+            "10",
+            "November 6, 1994",
+            "at Atlanta Falcons",
+            "L 9-10",
+            "59217"
+        ],
+        [
+            "11",
+            "November 13, 1994",
+            "at Kansas City Chiefs",
+            "W 14-13",
+            "76997"
+        ],
+        [
+            "12",
+            "November 20, 1994",
+            "at New England Patriots",
+            "L 17-23",
+            "59690"
+        ],
+        [
+            "13",
+            "November 27, 1994",
+            "Los Angeles Rams",
+            "W 31-17",
+            "59579"
+        ],
+        [
+            "14",
+            "December 5, 1994",
+            "Los Angeles Raiders",
+            "L 17-24",
+            "63012"
+        ],
+        [
+            "15",
+            "December 11, 1994",
+            "San Francisco 49ers",
+            "L 15-38",
+            "62105"
+        ],
+        [
+            "16",
+            "December 18, 1994",
+            "at New York Jets",
+            "W 21-6",
+            "48213"
+        ],
+        [
+            "17",
+            "December 24, 1994",
+            "Pittsburgh Steelers",
+            "W 37-34",
+            "58379"
+        ]
+    ]
+}

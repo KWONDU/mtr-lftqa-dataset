@@ -1,0 +1,63 @@
+{
+    "id": "ba31f5fe777ab84706dead0d9db35310c14340bc2f819ad5996a82f04f9613a6",
+    "metadata": "1992 Toronto Blue Jays season | Game log | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "October 7",
+            "Athletics",
+            "4 - 3",
+            "Morris (0-1)",
+            "51039",
+            "0-1"
+        ],
+        [
+            "October 8",
+            "Athletics",
+            "3 - 1",
+            "Moore (0-1)",
+            "51114",
+            "1-1"
+        ],
+        [
+            "October 10",
+            "@ Athletics",
+            "7 - 5",
+            "Darling (0-1)",
+            "46911",
+            "2-1"
+        ],
+        [
+            "October 11",
+            "@ Athletics",
+            "7 - 6 (11)",
+            "Downs (0-1)",
+            "47732",
+            "3-1"
+        ],
+        [
+            "October 12",
+            "@ Athletics",
+            "6 - 2",
+            "Cone (1-1)",
+            "44955",
+            "3-2"
+        ],
+        [
+            "October 14",
+            "Athletics",
+            "9 - 2",
+            "Moore (0-2)",
+            "51335",
+            "4-2"
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "af0a9ac85aa59f14d0f32d140d6e087988f51f1099f5bb00daca7f175712cc1f",
+    "metadata": "Locomotives of the Southern Railway | Locomotives of constituent companies | Isle of Wight Railway",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Wheel_arrangement",
+        "SR_No_",
+        "Manufacturer",
+        "Year_made",
+        "Year_withdrawn"
+    ],
+    "cell": [
+        [
+            "Ryde",
+            "2-4-0T",
+            "W13",
+            "Beyer, Peacock & Co.",
+            "1864",
+            "1932"
+        ],
+        [
+            "Sandown",
+            "2-4-0T",
+            "\u2014",
+            "Beyer, Peacock & Co.",
+            "1864",
+            "1923"
+        ],
+        [
+            "Shanklin",
+            "2-4-0T",
+            "W14",
+            "Beyer, Peacock & Co.",
+            "1864",
+            "1927"
+        ],
+        [
+            "Ventnor",
+            "2-4-0T",
+            "W15",
+            "Beyer, Peacock & Co.",
+            "1868",
+            "1925"
+        ],
+        [
+            "Wroxhall",
+            "2-4-0T",
+            "W16",
+            "Beyer, Peacock & Co.",
+            "1872",
+            "1933"
+        ],
+        [
+            "Brading",
+            "2-4-0T",
+            "W17",
+            "Beyer, Peacock & Co.",
+            "1876",
+            "1926"
+        ],
+        [
+            "Bonchurch",
+            "2-4-0T",
+            "W18",
+            "Beyer, Peacock & Co.",
+            "1883",
+            "1928"
+        ],
+        [
+            "Bembridge",
+            "2-4-0T",
+            "\u2014",
+            "Manning Wardle",
+            "1875",
+            "1917"
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "e85ddb86061fefbd251de3703928e6c15f37f4d96915bf449dfae9f222149971",
+    "metadata": "Sampi | Computer encoding | Computer encoding",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Character_",
+        "Code",
+        "Name_",
+        "Version",
+        "Year_"
+    ],
+    "cell": [
+        [
+            "\u0372",
+            "U+0372",
+            "GREEK CAPITAL LETTER ARCHAIC SAMPI",
+            "5.1",
+            "2008"
+        ],
+        [
+            "\u0373",
+            "U+0373",
+            "GREEK SMALL LETTER ARCHAIC SAMPI",
+            "5.1",
+            "2008"
+        ],
+        [
+            "\u03e0",
+            "U+03E0",
+            "GREEK LETTER SAMPI",
+            "1.1",
+            "1993"
+        ],
+        [
+            "\u03e1",
+            "U+03E1",
+            "GREEK SMALL LETTER SAMPI",
+            "3.0",
+            "1999"
+        ],
+        [
+            "\u03f7",
+            "U+03F7",
+            "GREEK CAPITAL LETTER SHO",
+            "4.0",
+            "2003"
+        ],
+        [
+            "\u03f8",
+            "U+03F8",
+            "GREEK SMALL LETTER SHO",
+            "4.0",
+            "2003"
+        ],
+        [
+            "\u03fa",
+            "U+03FA",
+            "GREEK CAPITAL LETTER SAN",
+            "4.0",
+            "2003"
+        ],
+        [
+            "\u03fb",
+            "U+03FB",
+            "GREEK SMALL LETTER SAN",
+            "4.0",
+            "2003"
+        ],
+        [
+            "\u2cc0",
+            "U+2CC0",
+            "COPTIC CAPITAL LETTER SAMPI",
+            "4.1",
+            "2005"
+        ],
+        [
+            "\u2cc1",
+            "U+2CC1",
+            "COPTIC SMALL LETTER SAMPI",
+            "4.1",
+            "2005"
+        ],
+        [
+            "\ufffd\ufffd",
+            "U+1034A",
+            "GOTHIC LETTER NINE HUNDRED",
+            "3.1",
+            "2001"
+        ]
+    ]
+}

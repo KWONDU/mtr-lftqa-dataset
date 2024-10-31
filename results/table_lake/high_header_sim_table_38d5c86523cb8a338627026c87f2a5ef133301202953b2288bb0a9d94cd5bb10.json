@@ -1,0 +1,133 @@
+{
+    "id": "38d5c86523cb8a338627026c87f2a5ef133301202953b2288bb0a9d94cd5bb10",
+    "metadata": "1992 Denver Broncos season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 6, 1992",
+            "Los Angeles Raiders",
+            "W 17-13",
+            "75418"
+        ],
+        [
+            "2",
+            "September 13, 1992",
+            "San Diego Chargers",
+            "W 21-13",
+            "74367"
+        ],
+        [
+            "3",
+            "September 20, 1992",
+            "at Philadelphia Eagles",
+            "L 30-0",
+            "65833"
+        ],
+        [
+            "4",
+            "September 27, 1992",
+            "at Cleveland Browns",
+            "W 12-0",
+            "78064"
+        ],
+        [
+            "5",
+            "October 4, 1992",
+            "Kansas City Chiefs",
+            "W 20-19",
+            "75629"
+        ],
+        [
+            "6",
+            "October 12, 1992",
+            "at Washington Redskins",
+            "L 34-3",
+            "56371"
+        ],
+        [
+            "7",
+            "October 18, 1992",
+            "Houston Oilers",
+            "W 27-21",
+            "74827"
+        ],
+        [
+            "8",
+            "October 25, 1992",
+            "at San Diego Chargers",
+            "L 24-21",
+            "53576"
+        ],
+        [
+            "9",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "10",
+            "November 8, 1992",
+            "New York Jets",
+            "W 27-16",
+            "74678"
+        ],
+        [
+            "11",
+            "November 15, 1992",
+            "New York Giants",
+            "W 27-13",
+            "75269"
+        ],
+        [
+            "12",
+            "November 22, 1992",
+            "at Los Angeles Raiders",
+            "L 24-0",
+            "50011"
+        ],
+        [
+            "13",
+            "November 30, 1992",
+            "at Seattle Seahawks",
+            "L 16-13",
+            "51612"
+        ],
+        [
+            "14",
+            "December 6, 1992",
+            "Dallas Cowboys",
+            "L 31-27",
+            "74946"
+        ],
+        [
+            "15",
+            "December 12, 1992",
+            "at Buffalo Bills",
+            "L 27-17",
+            "71740"
+        ],
+        [
+            "16",
+            "December 20, 1992",
+            "Seattle Seahawks",
+            "W 10-6",
+            "72570"
+        ],
+        [
+            "17",
+            "December 27, 1992",
+            "at Kansas City Chiefs",
+            "L 42-20",
+            "76240"
+        ]
+    ]
+}

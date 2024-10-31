@@ -1,0 +1,61 @@
+{
+    "id": "68d51257c878c75ecc1a4011eef04658484da9601cc2193e9aad4541b1680d1b",
+    "metadata": "2005 Los Angeles Angels of Anaheim season | Game log | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Attendance",
+        "Record",
+        "Stadium"
+    ],
+    "cell": [
+        [
+            "October 11",
+            "@ White Sox",
+            "3-2",
+            "Contreras (1-1)",
+            "40659",
+            "1-0",
+            "U.S. Cellular Field"
+        ],
+        [
+            "October 12",
+            "@ White Sox",
+            "2-1",
+            "Escobar (1-1)",
+            "41013",
+            "1-1",
+            "U.S. Cellular Field"
+        ],
+        [
+            "October 14",
+            "White Sox",
+            "5-2",
+            "Lackey (0-1)",
+            "44725",
+            "1-2",
+            "Angel Stadium of Anaheim"
+        ],
+        [
+            "October 15",
+            "White Sox",
+            "8-2",
+            "Santana (1-1)",
+            "44857",
+            "1-3",
+            "Angel Stadium of Anaheim"
+        ],
+        [
+            "October 16",
+            "White Sox",
+            "6-3",
+            "Escobar (1-2)",
+            "44712",
+            "1-4",
+            "Angel Stadium of Anaheim"
+        ]
+    ]
+}

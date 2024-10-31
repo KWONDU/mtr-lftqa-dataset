@@ -1,0 +1,124 @@
+{
+    "id": "30ba54d76bcf245a73ba3a535d4fc7de6df882ae96402fe1e1de4840317d6f8f",
+    "metadata": "2007-08 Detroit Red Wings season | November | November",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "November 1",
+            "Detroit",
+            "4 - 1",
+            "Calgary",
+            "Osgood",
+            "19289",
+            "11-2-1"
+        ],
+        [
+            "November 7",
+            "Nashville",
+            "2 - 3",
+            "Detroit",
+            "Osgood",
+            "16885",
+            "12-2-1"
+        ],
+        [
+            "November 9",
+            "Columbus",
+            "1 - 4",
+            "Detroit",
+            "Hasek",
+            "18654",
+            "13-2-1"
+        ],
+        [
+            "November 11",
+            "Detroit",
+            "2 - 3",
+            "Chicago",
+            "Osgood",
+            "19045",
+            "13-3-1"
+        ],
+        [
+            "November 13",
+            "Detroit",
+            "3 - 4",
+            "St. Louis",
+            "Hasek",
+            "18440",
+            "13-4-1"
+        ],
+        [
+            "November 17",
+            "Chicago",
+            "5 - 3",
+            "Detroit",
+            "Hasek",
+            "20066",
+            "13-5-1"
+        ],
+        [
+            "November 18",
+            "Detroit",
+            "5 - 4",
+            "Columbus",
+            "Osgood",
+            "15503",
+            "14-5-1"
+        ],
+        [
+            "November 21",
+            "St. Louis",
+            "0 - 3",
+            "Detroit",
+            "Osgood",
+            "19124",
+            "15-5-1"
+        ],
+        [
+            "November 22",
+            "Detroit",
+            "2 - 3",
+            "Nashville",
+            "Hasek",
+            "14346",
+            "15-6-1"
+        ],
+        [
+            "November 24",
+            "Detroit",
+            "2 - 3",
+            "Columbus",
+            "Osgood",
+            "17513",
+            "15-6-2"
+        ],
+        [
+            "November 27",
+            "Calgary",
+            "3 - 5",
+            "Detroit",
+            "Osgood",
+            "17108",
+            "16-6-2"
+        ],
+        [
+            "November 29",
+            "Tampa Bay",
+            "2 - 4",
+            "Detroit",
+            "Osgood",
+            "17001",
+            "17-6-2"
+        ]
+    ]
+}

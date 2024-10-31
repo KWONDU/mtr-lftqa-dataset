@@ -1,0 +1,56 @@
+{
+    "id": "96699f0f3b54f9a1f74ec9b5dfd45e586a6378905489b3804ddaec5d4b9b071e",
+    "metadata": "Paolo Barilla | Complete International Formula 3000 results | Complete International Formula 3000 results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1986",
+            "San Remo Racing",
+            "March 85B",
+            "Cosworth",
+            "0"
+        ],
+        [
+            "1987",
+            "Pavesi Racing",
+            "Ralt RT21",
+            "Cosworth",
+            "0"
+        ],
+        [
+            "1987",
+            "Pavesi Racing",
+            "Ralt RT20",
+            "Cosworth",
+            "0"
+        ],
+        [
+            "1988",
+            "Colin Bennett Racing",
+            "March 88B",
+            "Cosworth",
+            "3"
+        ],
+        [
+            "1988",
+            "Spirit TOM`s Racing",
+            "Ralt 88D",
+            "Cosworth",
+            "3"
+        ],
+        [
+            "1988",
+            "Jordan Racing",
+            "Ralt 88D",
+            "Cosworth",
+            "3"
+        ]
+    ]
+}

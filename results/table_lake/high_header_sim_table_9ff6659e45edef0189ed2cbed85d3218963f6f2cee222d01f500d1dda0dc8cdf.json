@@ -1,0 +1,70 @@
+{
+    "id": "9ff6659e45edef0189ed2cbed85d3218963f6f2cee222d01f500d1dda0dc8cdf",
+    "metadata": "1903 Michigan Wolverines football team | Michigan 76, Albion 0 | Michigan 76, Albion 0",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Position_",
+        "Starter",
+        "Touchdowns",
+        "Extra_points",
+        "Field_goals",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Tom Hammond",
+            "Fullback",
+            "yes",
+            "5",
+            "10",
+            "0",
+            "35"
+        ],
+        [
+            "Willie Heston",
+            "Left halfback",
+            "yes",
+            "3",
+            "0",
+            "0",
+            "15"
+        ],
+        [
+            "Herb Graver",
+            "Right halfback",
+            "yes",
+            "2",
+            "0",
+            "0",
+            "10"
+        ],
+        [
+            "Roswell Wendell",
+            "Right halfback",
+            "no",
+            "1",
+            "1",
+            "0",
+            "6"
+        ],
+        [
+            "Fred Norcross",
+            "Left halfback",
+            "no",
+            "1",
+            "0",
+            "0",
+            "5"
+        ],
+        [
+            "Rolla Bigelow",
+            "Fullback",
+            "no",
+            "1",
+            "0",
+            "0",
+            "5"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "41029f80ba529d895600d506f1ad857936ee2d8522795eddf3c42f7bae85bc23",
+    "metadata": "Cyrille Dion | Tournament for the Championship of Canada | Tournament for the Championship of Canada",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Players",
+        "Games_Won",
+        "Games_Lost",
+        "Total_points",
+        "Grand_Average",
+        "Best_Winning_Average",
+        "Best_Run"
+    ],
+    "cell": [
+        [
+            "Cyrille Dion",
+            "5",
+            "0",
+            "2500",
+            "12.76-202",
+            "20",
+            "138"
+        ],
+        [
+            "William Jakes",
+            "4",
+            "1",
+            "2136",
+            "7.92-292",
+            "8.28-59",
+            "70"
+        ],
+        [
+            "Samuel May",
+            "3",
+            "2",
+            "2295",
+            "8.103-274",
+            "12.20-40",
+            "130"
+        ],
+        [
+            "Amadee Guillett",
+            "2",
+            "3",
+            "2056",
+            "6.160-316",
+            "7.3-71",
+            "62"
+        ],
+        [
+            "James Rooney",
+            "1",
+            "4",
+            "1730",
+            "7.50-336",
+            "4.96-101",
+            "44"
+        ]
+    ]
+}

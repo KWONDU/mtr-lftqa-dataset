@@ -1,0 +1,199 @@
+{
+    "id": "8c98d38435a060601ddfd14c69ee0e00515250eddd0725b6b287a10f85632ddc",
+    "metadata": "List of sequenced bacterial genomes | Delta/epsilon subdivisions | Delta/epsilon subdivisions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Species",
+        "Strain",
+        "Type_",
+        "Base_Pairs",
+        "Genes",
+        "Reference"
+    ],
+    "cell": [
+        [
+            "Anaeromyxobacter dehalogenans",
+            "2CP-C",
+            "delta-epsilon",
+            "5013479",
+            "4346",
+            "Unpublished"
+        ],
+        [
+            "Bdellovibrio bacteriovorus",
+            "HD100",
+            "delta-epsilon",
+            "3782950",
+            "3583",
+            "2004"
+        ],
+        [
+            "Campylobacter jejuni",
+            "NCTC11168",
+            "delta-epsilon",
+            "1641481",
+            "1643",
+            "2000"
+        ],
+        [
+            "Campylobacter jejuni",
+            "RM1221",
+            "delta-epsilon",
+            "1777831",
+            "1838",
+            "2005"
+        ],
+        [
+            "Desulfotalea psychrophila",
+            "LSv54",
+            "delta-epsilon",
+            "3523383",
+            "3118",
+            "Unpublished"
+        ],
+        [
+            "Desulfovibrio desulfuricans",
+            "G20",
+            "delta-epsilon",
+            "3730232",
+            "3775",
+            "Unpublished"
+        ],
+        [
+            "Desulfovibrio vulgaris",
+            "Hildenborough",
+            "delta-epsilon",
+            "3570858",
+            "3379",
+            "2004"
+        ],
+        [
+            "Geobacter metallireducens",
+            "GS15",
+            "delta-epsilon",
+            "3997420",
+            "3519",
+            "Unpublished"
+        ],
+        [
+            "Geobacter sulfurreducens",
+            "PCA",
+            "delta-epsilon",
+            "3814139",
+            "3447",
+            "2003"
+        ],
+        [
+            "Helicobacter hepaticus",
+            "ATCC51449",
+            "delta-epsilon",
+            "1799146",
+            "1875",
+            "2003"
+        ],
+        [
+            "Helicobacter pylori",
+            "26695",
+            "delta-epsilon",
+            "1667867",
+            "1566",
+            "1997"
+        ],
+        [
+            "Helicobacter pylori",
+            "HPAG1",
+            "delta-epsilon",
+            "1596366",
+            "1536",
+            "Unpublished"
+        ],
+        [
+            "Helicobacter pylori",
+            "J99",
+            "delta-epsilon",
+            "1643831",
+            "1491",
+            "1999"
+        ],
+        [
+            "Lawsonia intracellularis",
+            "PHEMN1-00",
+            "delta-epsilon",
+            "1719014",
+            "1344",
+            "Unpublished"
+        ],
+        [
+            "Unspecified",
+            "Unspecified",
+            "delta-epsilon",
+            "39794",
+            "24",
+            "Unpublished"
+        ],
+        [
+            "Unspecified",
+            "Unspecified",
+            "delta-epsilon",
+            "194553",
+            "104",
+            "Unpublished"
+        ],
+        [
+            "Unspecified",
+            "Unspecified",
+            "delta-epsilon",
+            "1457619",
+            "1187",
+            "Unpublished"
+        ],
+        [
+            "Myxococcus xanthus",
+            "DK1622",
+            "delta-epsilon",
+            "9139763",
+            "7331",
+            "Unpublished"
+        ],
+        [
+            "Pelobacter carbinolicus",
+            "DSM2380",
+            "delta-epsilon",
+            "3665893",
+            "3119",
+            "Unpublished"
+        ],
+        [
+            "Sulfurimonas denitrificans",
+            "DSM1251",
+            "delta-epsilon",
+            "2201561",
+            "2104",
+            "2007"
+        ],
+        [
+            "Syntrophus aciditrophicus",
+            "SB",
+            "delta-epsilon",
+            "3179300",
+            "3168",
+            "Unpublished"
+        ],
+        [
+            "Thiomicrospira denitrificans",
+            "ATCC33889",
+            "delta-epsilon",
+            "2201561",
+            "2097",
+            "Unpublished"
+        ],
+        [
+            "Wolinella succino",
+            "DSMZ1740",
+            "delta-epsilon",
+            "2110355",
+            "2044",
+            "2003"
+        ]
+    ]
+}

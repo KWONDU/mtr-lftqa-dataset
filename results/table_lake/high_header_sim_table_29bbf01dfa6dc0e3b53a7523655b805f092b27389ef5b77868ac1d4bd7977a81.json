@@ -1,0 +1,63 @@
+{
+    "id": "29bbf01dfa6dc0e3b53a7523655b805f092b27389ef5b77868ac1d4bd7977a81",
+    "metadata": "1893-94 Rangers F.C. season | Scottish Cup | Scottish Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "25 November 1893",
+            "R1",
+            "Cowlairs",
+            "H",
+            "8-0",
+            "5000"
+        ],
+        [
+            "16 December 1893",
+            "R2",
+            "Leith Athletic",
+            "H",
+            "2-0",
+            "25000"
+        ],
+        [
+            "13 January 1894",
+            "QF",
+            "Clyde",
+            "A",
+            "5-0",
+            "10000"
+        ],
+        [
+            "3 February 1894",
+            "SF",
+            "Queen`s Park",
+            "H",
+            "1-1",
+            "15000"
+        ],
+        [
+            "10 February 1894",
+            "SF Rpl",
+            "Queen`s Park",
+            "A",
+            "3-1",
+            "16000"
+        ],
+        [
+            "17 February 1894",
+            "F",
+            "Celtic",
+            "N",
+            "3-1",
+            "17000"
+        ]
+    ]
+}

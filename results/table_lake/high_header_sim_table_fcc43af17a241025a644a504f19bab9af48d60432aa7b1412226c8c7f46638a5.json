@@ -1,0 +1,56 @@
+{
+    "id": "fcc43af17a241025a644a504f19bab9af48d60432aa7b1412226c8c7f46638a5",
+    "metadata": "2001-02 Middlesbrough F.C. season | Results | FA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "3",
+            "8 January 2002",
+            "Wimbledon",
+            "Away",
+            "Drew 0-0"
+        ],
+        [
+            "3R",
+            "15 January 2002",
+            "Wimbledon",
+            "Home",
+            "Won 2-0"
+        ],
+        [
+            "4",
+            "26 January 2002",
+            "Manchester United",
+            "Home",
+            "Won 2-0"
+        ],
+        [
+            "3",
+            "16 February 2002",
+            "Blackburn",
+            "Home",
+            "Won 1-0"
+        ],
+        [
+            "QF",
+            "10 March 2002",
+            "Everton",
+            "Home",
+            "Won 3-0"
+        ],
+        [
+            "SF",
+            "14 April 2002",
+            "Arsenal",
+            "Old Trafford",
+            "Lost 1-0"
+        ]
+    ]
+}

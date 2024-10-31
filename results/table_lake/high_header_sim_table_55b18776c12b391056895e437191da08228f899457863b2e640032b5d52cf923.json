@@ -1,0 +1,55 @@
+{
+    "id": "55b18776c12b391056895e437191da08228f899457863b2e640032b5d52cf923",
+    "metadata": "1959 Formula One season | Non-Championship race results | Non-Championship race results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Race_Name",
+        "Circuit",
+        "Date_",
+        "Winning_driver",
+        "Constructor_",
+        "Report"
+    ],
+    "cell": [
+        [
+            "VII Glover Trophy",
+            "Goodwood",
+            "30 March",
+            "Stirling Moss",
+            "Cooper - Climax",
+            "Report"
+        ],
+        [
+            "XIV BARC Aintree 200",
+            "Aintree",
+            "18 April",
+            "Jean Behra",
+            "Ferrari",
+            "Report"
+        ],
+        [
+            "XI BRDC International Trophy",
+            "Silverstone",
+            "2 May",
+            "Jack Brabham",
+            "Cooper - Climax",
+            "Report"
+        ],
+        [
+            "VI International Gold Cup",
+            "Oulton Park",
+            "26 September",
+            "Stirling Moss",
+            "Cooper - Climax",
+            "Report"
+        ],
+        [
+            "IV Silver City Trophy",
+            "Snetterton",
+            "10 October",
+            "Ron Flockhart",
+            "BRM",
+            "Report"
+        ]
+    ]
+}

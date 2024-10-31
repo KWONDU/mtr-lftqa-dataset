@@ -1,0 +1,55 @@
+{
+    "id": "187ae7650e4ad1b79373c764c13c9612d5007ef13f1afbfcbb02fc3ea6b22f2d",
+    "metadata": "1985 Senior PGA Tour | Leaders | Money List leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Peter Thomson",
+            "Australia",
+            "386724",
+            "22",
+            "9"
+        ],
+        [
+            "2",
+            "Lee Elder",
+            "United States",
+            "307795",
+            "23",
+            "4"
+        ],
+        [
+            "3",
+            "Don January",
+            "United States",
+            "247006",
+            "18",
+            "4"
+        ],
+        [
+            "4",
+            "Miller Barber",
+            "United States",
+            "241999",
+            "22",
+            "3"
+        ],
+        [
+            "5",
+            "Gene Littler",
+            "United States",
+            "200981",
+            "22",
+            "0"
+        ]
+    ]
+}

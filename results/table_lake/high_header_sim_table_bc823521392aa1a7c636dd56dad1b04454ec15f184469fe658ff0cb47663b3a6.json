@@ -1,0 +1,115 @@
+{
+    "id": "bc823521392aa1a7c636dd56dad1b04454ec15f184469fe658ff0cb47663b3a6",
+    "metadata": "T\u00fcrk Telekom Arena | 2013 FIFA U-20 World Cup | 2013 FIFA U-20 World Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_CEST_",
+        "Team_1",
+        "Res_",
+        "Team_2",
+        "Round",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "21 June 2013",
+            "18.00",
+            "France",
+            "3-1",
+            "Ghana",
+            "Group A",
+            "4133"
+        ],
+        [
+            "21 June 2013",
+            "21.00",
+            "USA",
+            "1-4",
+            "Spain",
+            "Group A",
+            "4133"
+        ],
+        [
+            "24 June 2013",
+            "18.00",
+            "France",
+            "1-1",
+            "USA",
+            "Group A",
+            "4120"
+        ],
+        [
+            "24 June 2013",
+            "21.00",
+            "Spain",
+            "1-0",
+            "Ghana",
+            "Group A",
+            "4120"
+        ],
+        [
+            "27 June 2013",
+            "20.00",
+            "Spain",
+            "2-1",
+            "France",
+            "Group A",
+            "7511"
+        ],
+        [
+            "27 June 2013",
+            "17.00",
+            "South Korea",
+            "0-1",
+            "Nigeria",
+            "Group B",
+            "7511"
+        ],
+        [
+            "2 July 2013",
+            "18.00",
+            "Spain",
+            "2-1",
+            "Mexico",
+            "Round of 16",
+            "7211"
+        ],
+        [
+            "2 July 2013",
+            "21.00",
+            "Nigeria",
+            "1-2",
+            "Uruguay",
+            "Round of 16",
+            "7211"
+        ],
+        [
+            "7 July 2013",
+            "21.00",
+            "Ghana",
+            "4-3",
+            "Chile",
+            "Quarterfinals",
+            "6632"
+        ],
+        [
+            "13 July 2013",
+            "18.00",
+            "Ghana",
+            "3-0",
+            "Iraq",
+            "Third place match",
+            "20601"
+        ],
+        [
+            "13 July 2013",
+            "18.00",
+            "France",
+            "0-0",
+            "Uruguay",
+            "Final",
+            "20601"
+        ]
+    ]
+}

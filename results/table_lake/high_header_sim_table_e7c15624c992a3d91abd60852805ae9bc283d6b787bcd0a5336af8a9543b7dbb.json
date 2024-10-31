@@ -1,0 +1,106 @@
+{
+    "id": "e7c15624c992a3d91abd60852805ae9bc283d6b787bcd0a5336af8a9543b7dbb",
+    "metadata": "2001 LFF Lyga | 2 Lyga zone East | 2 Lyga zone East",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Club",
+        "Games_played",
+        "Wins",
+        "Draws",
+        "Loses",
+        "Goals_scored",
+        "Goals_conceded",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1",
+            "Ekranas-2 Panev\u0117\u017eys",
+            "14",
+            "11",
+            "2",
+            "1",
+            "76",
+            "8",
+            "35"
+        ],
+        [
+            "2",
+            "\u0160irvinta \u0160irvintos",
+            "14",
+            "10",
+            "3",
+            "1",
+            "40",
+            "23",
+            "33"
+        ],
+        [
+            "3",
+            "V\u0117tra-2 R\u016bdi\u0161k\u0117s",
+            "14",
+            "8",
+            "2",
+            "4",
+            "47",
+            "17",
+            "26"
+        ],
+        [
+            "4",
+            "Delintra Lentvaris",
+            "14",
+            "8",
+            "1",
+            "5",
+            "40",
+            "27",
+            "25"
+        ],
+        [
+            "5",
+            "FK Anyk\u0161\u010diai",
+            "14",
+            "6",
+            "0",
+            "8",
+            "29",
+            "31",
+            "18"
+        ],
+        [
+            "6",
+            "FM (LOSC) Vilnius",
+            "14",
+            "4",
+            "2",
+            "8",
+            "23",
+            "19",
+            "10"
+        ],
+        [
+            "7",
+            "FM-86 Panev\u0117\u017eys",
+            "14",
+            "2",
+            "0",
+            "12",
+            "10",
+            "72",
+            "6"
+        ],
+        [
+            "8",
+            "ZEV-Klevas Vilnius",
+            "14",
+            "2",
+            "0",
+            "12",
+            "12",
+            "80",
+            "6"
+        ]
+    ]
+}

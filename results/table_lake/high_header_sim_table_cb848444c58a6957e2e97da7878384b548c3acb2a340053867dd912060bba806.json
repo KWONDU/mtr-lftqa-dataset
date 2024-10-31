@@ -1,0 +1,308 @@
+{
+    "id": "cb848444c58a6957e2e97da7878384b548c3acb2a340053867dd912060bba806",
+    "metadata": "Scottish football attendance records | Current clubs | Current clubs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Club",
+        "Attendance",
+        "Match_",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Rangers",
+            "118567",
+            "v Celtic, Division 1",
+            "2 January 1939"
+        ],
+        [
+            "2",
+            "Queen`s Park",
+            "95722",
+            "v Rangers, Scottish Cup",
+            "18 January 1930"
+        ],
+        [
+            "3",
+            "Celtic",
+            "83000",
+            "v Rangers, Division 1",
+            "1 January 1938"
+        ],
+        [
+            "4",
+            "Hibernian",
+            "65860",
+            "v Heart of Midlothian, Division 1",
+            "2 January 1950"
+        ],
+        [
+            "5",
+            "Heart of Midlothian",
+            "53396",
+            "v Rangers, Scottish Cup",
+            "13 February 1932"
+        ],
+        [
+            "6",
+            "Clyde",
+            "52000",
+            "v Rangers, Division 1",
+            "21 November 1908"
+        ],
+        [
+            "7",
+            "Partick Thistle",
+            "49838",
+            "v Rangers, Division 1",
+            "18 February 1922"
+        ],
+        [
+            "8",
+            "St. Mirren",
+            "47438",
+            "v Celtic, Division 1",
+            "20 August 1949"
+        ],
+        [
+            "9",
+            "Aberdeen",
+            "45061",
+            "v Hearts, Scottish Cup",
+            "3 March 1954"
+        ],
+        [
+            "10",
+            "Dundee",
+            "43024",
+            "v Rangers, Scottish Cup",
+            "7 February 1953"
+        ],
+        [
+            "11",
+            "Kilmarnock",
+            "35995",
+            "v Rangers, Scottish Cup",
+            "10 March 1962"
+        ],
+        [
+            "12",
+            "Motherwell",
+            "35632",
+            "v Rangers, Scottish Cup",
+            "12 March 1952"
+        ],
+        [
+            "13",
+            "Raith Rovers",
+            "31306",
+            "v Hearts, Scottish Cup",
+            "7 February 1953"
+        ],
+        [
+            "14",
+            "St. Johnstone",
+            "29972",
+            "v Dundee, Scottish Cup",
+            "10 February 1951"
+        ],
+        [
+            "15",
+            "Hamilton Academical",
+            "28690",
+            "v Hearts, Scottish Cup",
+            "3 March 1937"
+        ],
+        [
+            "16",
+            "Dundee United",
+            "28000",
+            "v CF Barcelona , Inter-Cities Fairs Cup",
+            "16 November 1966"
+        ],
+        [
+            "17",
+            "Dunfermline Athletic",
+            "27816",
+            "v Celtic, Division 1",
+            "30 April 1968"
+        ],
+        [
+            "18",
+            "Albion Rovers",
+            "27381",
+            "v Rangers, Scottish Cup",
+            "8 February 1936"
+        ],
+        [
+            "19",
+            "Queen of the South",
+            "26552",
+            "v Hearts, Scottish Cup",
+            "23 February 1952"
+        ],
+        [
+            "20",
+            "Stirling Albion",
+            "26400",
+            "v Celtic, Scottish Cup",
+            "14 March 1959"
+        ],
+        [
+            "21",
+            "Cowdenbeath",
+            "25586",
+            "v Rangers, League Cup",
+            "21 September 1949"
+        ],
+        [
+            "22",
+            "Ayr United",
+            "25225",
+            "v Rangers, Division 1",
+            "13 September 1969"
+        ],
+        [
+            "23",
+            "Greenock Morton",
+            "23500",
+            "v Celtic, Division 1",
+            "29 April 1922"
+        ],
+        [
+            "24",
+            "Falkirk",
+            "23100",
+            "v Celtic, Scottish Cup",
+            "21 February 1953"
+        ],
+        [
+            "25",
+            "East Fife",
+            "22515",
+            "v Raith Rovers, Division 1",
+            "2 January 1950"
+        ],
+        [
+            "26",
+            "Dumbarton",
+            "18000",
+            "v Raith Rovers, Scottish Cup",
+            "2 March 1957"
+        ],
+        [
+            "27",
+            "Alloa Athletic",
+            "13000",
+            "v Dunfermline Athletic, Scottish Cup",
+            "26 February 1939"
+        ],
+        [
+            "28",
+            "Arbroath",
+            "13510",
+            "v Rangers, Scottish Cup",
+            "22 February 1952"
+        ],
+        [
+            "29",
+            "Berwick Rangers",
+            "13365",
+            "v Rangers, Scottish Cup",
+            "28 January 1967"
+        ],
+        [
+            "30",
+            "Elgin City",
+            "12608",
+            "v Arbroath, Scottish Cup",
+            "17 February 1968"
+        ],
+        [
+            "31",
+            "Stenhousemuir",
+            "12500",
+            "v East Fife, Scottish Cup",
+            "11 March 1950"
+        ],
+        [
+            "32",
+            "East Stirlingshire",
+            "12000",
+            "v Partick Thistle, Scottish Cup",
+            "19 February 1921"
+        ],
+        [
+            "33",
+            "Forfar Athletic",
+            "10780",
+            "v Rangers, Scottish Cup",
+            "7 February 1970"
+        ],
+        [
+            "34",
+            "Livingston",
+            "10112",
+            "v Rangers, Premier League",
+            "27 October 2001"
+        ],
+        [
+            "35",
+            "Montrose",
+            "8983",
+            "v Dundee, Scottish Cup",
+            "17 March 1973"
+        ],
+        [
+            "36",
+            "Peterhead",
+            "8643",
+            "v Raith Rovers, Scottish Cup",
+            "25 February 1987"
+        ],
+        [
+            "37",
+            "Brechin City",
+            "8122",
+            "v Aberdeen, Scottish Cup",
+            "3 February 1973"
+        ],
+        [
+            "38",
+            "Ross County",
+            "8000",
+            "v Rangers, Scottish Cup",
+            "28 February 1966"
+        ],
+        [
+            "39",
+            "Inverness CT",
+            "7711",
+            "v Rangers, Premier League",
+            "4 August 2007"
+        ],
+        [
+            "40",
+            "Stranraer",
+            "6500",
+            "v Rangers, Scottish Cup",
+            "24 January 1948"
+        ],
+        [
+            "41",
+            "Airdrie United",
+            "5924",
+            "v Motherwell, Scottish Cup",
+            "6 January 2007"
+        ],
+        [
+            "42",
+            "Annan Athletic",
+            "2517",
+            "v Rangers, Division 3",
+            "15 September 2012"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "48ee648ea5b593c352350cbd7160d68d652931090f1e9c8754f8e5a7d9d2ad2a",
+    "metadata": "List of counties and boroughs of the Unreformed House of Commons at 1800 | Welsh boroughs | Welsh boroughs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Borough",
+        "County",
+        "Franchise_type",
+        "Members",
+        "Voters_in_1800",
+        "Times_contested",
+        "Fate_in_1832"
+    ],
+    "cell": [
+        [
+            "Beaumaris",
+            "Anglesey",
+            "Corporation",
+            "1",
+            "24",
+            "0",
+            "Retained one seat"
+        ],
+        [
+            "Brecon",
+            "Brecknockshire",
+            "Freemen",
+            "1",
+            "12",
+            "0",
+            "Retained one seat"
+        ],
+        [
+            "Carmarthen",
+            "Carmarthenshire",
+            "Freemen",
+            "1",
+            "500",
+            "5",
+            "Retained one seat"
+        ],
+        [
+            "Denbigh Boroughs ( Denbigh , Holt , Ruthin )",
+            "Denbighshire",
+            "Freemen",
+            "1",
+            "24",
+            "4",
+            "Retained one seat"
+        ],
+        [
+            "Haverfordwest",
+            "Pembrokeshire",
+            "Scot and lot",
+            "1",
+            "500",
+            "3",
+            "Retained one seat"
+        ],
+        [
+            "Montgomery",
+            "Montgomeryshire",
+            "Freemen",
+            "1",
+            "500",
+            "1",
+            "Retained one seat"
+        ]
+    ]
+}

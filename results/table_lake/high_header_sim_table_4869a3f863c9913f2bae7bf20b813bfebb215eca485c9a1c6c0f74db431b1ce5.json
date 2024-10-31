@@ -1,0 +1,56 @@
+{
+    "id": "4869a3f863c9913f2bae7bf20b813bfebb215eca485c9a1c6c0f74db431b1ce5",
+    "metadata": "Economy of Algeria | Historical trend | Historical trend",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Gross_Domestic_Product",
+        "US_Dollar_Exchange",
+        "Inflation_Index_2000_is_100",
+        "Per_Capita_Income_as_of_USA"
+    ],
+    "cell": [
+        [
+            "1980",
+            "162500",
+            "3.83 Algerian Dinars",
+            "9.30",
+            "18.51"
+        ],
+        [
+            "1985",
+            "291600",
+            "4.77 Algerian Dinars",
+            "14",
+            "15.55"
+        ],
+        [
+            "1990",
+            "554400",
+            "12.19 Algerian Dinars",
+            "22",
+            "10.65"
+        ],
+        [
+            "1995",
+            "2004990",
+            "47.66 Algerian Dinars",
+            "73",
+            "5.39"
+        ],
+        [
+            "2000",
+            "4123514",
+            "75.31 Algerian Dinars",
+            "100",
+            "5.17"
+        ],
+        [
+            "2005",
+            "7493000",
+            "73.44 Algerian Dinars",
+            "114",
+            "7.43"
+        ]
+    ]
+}

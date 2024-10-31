@@ -1,0 +1,77 @@
+{
+    "id": "c38e6d6c6113eefabea36447810c58cfd21b105f093dbd543e4a53575e5b2726",
+    "metadata": "List of Ministers for Energy of Luxembourg | List of Ministers for Energy | List of Ministers for Energy",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Minister",
+        "Party",
+        "Start_date",
+        "End_date",
+        "Prime_Minister"
+    ],
+    "cell": [
+        [
+            "Antoine Wehenkel",
+            "LSAP",
+            "15 July 1964",
+            "6 February 1969",
+            "Pierre Werner"
+        ],
+        [
+            "Marcel Mart",
+            "DP",
+            "6 February 1969",
+            "15 June 1974",
+            "Pierre Werner"
+        ],
+        [
+            "Marcel Mart",
+            "DP",
+            "15 June 1974",
+            "16 September 1977",
+            "Gaston Thorn"
+        ],
+        [
+            "Josy Barthel",
+            "DP",
+            "16 September 1977",
+            "16 July 1979",
+            "Gaston Thorn"
+        ],
+        [
+            "Josy Barthel",
+            "DP",
+            "16 July 1979",
+            "20 July 1984",
+            "Pierre Werner"
+        ],
+        [
+            "Marcel Schlechter",
+            "LSAP",
+            "20 July 1984",
+            "14 July 1989",
+            "Jacques Santer"
+        ],
+        [
+            "Alex Bodry",
+            "LSAP",
+            "14 July 1989",
+            "13 July 1994",
+            "Jacques Santer"
+        ],
+        [
+            "Robert Goebbels",
+            "LSAP",
+            "13 July 1994",
+            "26 January 1995",
+            "Jacques Santer"
+        ],
+        [
+            "Robert Goebbels",
+            "LSAP",
+            "26 January 1995",
+            "7 August 1999",
+            "Jean-Claude Juncker"
+        ]
+    ]
+}

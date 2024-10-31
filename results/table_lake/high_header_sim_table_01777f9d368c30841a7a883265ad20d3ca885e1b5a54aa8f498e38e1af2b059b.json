@@ -1,0 +1,103 @@
+{
+    "id": "01777f9d368c30841a7a883265ad20d3ca885e1b5a54aa8f498e38e1af2b059b",
+    "metadata": "2007 Open Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "T1",
+            "P\u00e1draig Harrington",
+            "Ireland",
+            "69-73-68-67=277",
+            "-7",
+            "Playoff"
+        ],
+        [
+            "T1",
+            "Sergio Garc\u00eda",
+            "Spain",
+            "65-71-68-73=277",
+            "-7",
+            "Playoff"
+        ],
+        [
+            "3",
+            "Andr\u00e9s Romero",
+            "Argentina",
+            "71-70-70-67=278",
+            "-6",
+            "290000"
+        ],
+        [
+            "T4",
+            "Ernie Els",
+            "South Africa",
+            "72-70-68-69=279",
+            "-5",
+            "200000"
+        ],
+        [
+            "T4",
+            "Richard Green",
+            "Australia",
+            "72-73-70-64=279",
+            "-5",
+            "200000"
+        ],
+        [
+            "T6",
+            "Stewart Cink",
+            "United States",
+            "73-73-69-65=280",
+            "-4",
+            "145500"
+        ],
+        [
+            "T6",
+            "Hunter Mahan",
+            "United States",
+            "69-73-68-70=280",
+            "-4",
+            "145500"
+        ],
+        [
+            "T8",
+            "K.J. Choi",
+            "South Korea",
+            "69-69-72-71=281",
+            "-3",
+            "94750"
+        ],
+        [
+            "T8",
+            "Ben Curtis",
+            "United States",
+            "72-74-70-65=281",
+            "-3",
+            "94750"
+        ],
+        [
+            "T8",
+            "Steve Stricker",
+            "United States",
+            "71-72-64-74=281",
+            "-3",
+            "94750"
+        ],
+        [
+            "T8",
+            "Mike Weir",
+            "Canada",
+            "71-68-72-70=281",
+            "-3",
+            "94750"
+        ]
+    ]
+}

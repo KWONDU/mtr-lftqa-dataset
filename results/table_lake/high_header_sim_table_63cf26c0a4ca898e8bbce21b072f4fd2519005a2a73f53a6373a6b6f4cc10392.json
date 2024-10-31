@@ -1,0 +1,135 @@
+{
+    "id": "63cf26c0a4ca898e8bbce21b072f4fd2519005a2a73f53a6373a6b6f4cc10392",
+    "metadata": "1962 Boston Patriots season | Game-by-game results | Game-by-game results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Opponent",
+        "Result_",
+        "Stadium",
+        "Record",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "at Dallas Texans",
+            "L: 48-28",
+            "Cotton Bowl",
+            "0-1-0",
+            "32000"
+        ],
+        [
+            "2",
+            "Houston Oilers",
+            "W: 32-21",
+            "Harvard Stadium",
+            "1-1-0",
+            "32276"
+        ],
+        [
+            "3",
+            "Denver Broncos",
+            "W: 41-16",
+            "Nickerson Field",
+            "2-1-0",
+            "21038"
+        ],
+        [
+            "4 - BYE Week",
+            "BYE",
+            "BYE",
+            "BYE",
+            "BYE",
+            "BYE"
+        ],
+        [
+            "5",
+            "at New York Titans",
+            "W: 43-14",
+            "Polo Grounds",
+            "3-1-0",
+            "14412"
+        ],
+        [
+            "6",
+            "Dallas Texans",
+            "L: 27-7",
+            "Nickerson Field",
+            "3-2-0",
+            "23874"
+        ],
+        [
+            "7",
+            "San Diego Chargers",
+            "W: 24-20",
+            "Nickerson Field",
+            "4-2-0",
+            "20888"
+        ],
+        [
+            "8",
+            "Oakland Raiders",
+            "W: 26-16",
+            "Nickerson Field",
+            "5-2-0",
+            "12514"
+        ],
+        [
+            "9",
+            "at Buffalo Bills",
+            "T: 28-28",
+            "War Memorial Stadium",
+            "5-2-1",
+            "33247"
+        ],
+        [
+            "10",
+            "at Denver Broncos",
+            "W: 33-29",
+            "Mile High Stadium",
+            "6-2-1",
+            "28187"
+        ],
+        [
+            "11",
+            "at Houston Oilers",
+            "L: 21-17",
+            "Jeppesen Stadium",
+            "6-3-1",
+            "35250"
+        ],
+        [
+            "12",
+            "Buffalo Bills",
+            "W: 21-10",
+            "Nickerson Field",
+            "7-3-1",
+            "20021"
+        ],
+        [
+            "13",
+            "New York Titans",
+            "W: 24-17",
+            "Nickerson Field",
+            "8-3-1",
+            "20015"
+        ],
+        [
+            "14",
+            "at San Diego Chargers",
+            "W: 20-14",
+            "Balboa Stadium",
+            "9-3-1",
+            "19887"
+        ],
+        [
+            "15",
+            "at Oakland Raiders",
+            "L: 20-0",
+            "Frank Youell Field",
+            "9-4-1",
+            "8000"
+        ]
+    ]
+}

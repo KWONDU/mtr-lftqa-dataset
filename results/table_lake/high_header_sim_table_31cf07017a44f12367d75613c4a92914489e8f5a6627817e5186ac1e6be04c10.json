@@ -1,0 +1,97 @@
+{
+    "id": "31cf07017a44f12367d75613c4a92914489e8f5a6627817e5186ac1e6be04c10",
+    "metadata": "History of the Democratic Alliance (South Africa) | Electoral results | Electoral results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "Party_name",
+        "Total_votes",
+        "Share_of_votes",
+        "Seats",
+        "Share_of_seats",
+        "Party_Leaders",
+        "Notes_"
+    ],
+    "cell": [
+        [
+            "1961",
+            "Progressive Party",
+            "69045",
+            "8.6%",
+            "1",
+            "0.6%",
+            "Jan Steytler",
+            "National Party (NP) victory"
+        ],
+        [
+            "1966",
+            "Progressive Party",
+            "39717",
+            "3.1%",
+            "1",
+            "0.6%",
+            "Jan Steytler",
+            "NP victory"
+        ],
+        [
+            "1970",
+            "Progressive Party",
+            "51760",
+            "3.5%",
+            "1",
+            "0.6%",
+            "Jan Steytler",
+            "NP victory"
+        ],
+        [
+            "1974",
+            "Progressive Party",
+            "58768",
+            "5.3%",
+            "7",
+            "4.1%",
+            "Colin Eglin",
+            "NP victory"
+        ],
+        [
+            "1977",
+            "Progressive Federal Party",
+            "177705",
+            "16.7%",
+            "17",
+            "10.3%",
+            "Colin Eglin",
+            "NP victory; PFP gains official opposition status from United Party"
+        ],
+        [
+            "1981",
+            "Progressive Federal Party",
+            "265297",
+            "19.4%",
+            "27",
+            "15.2%",
+            "Frederik van Zyl Slabbert",
+            "NP victory; PFP remains official opposition"
+        ],
+        [
+            "1987",
+            "Progressive Federal Party",
+            "288579",
+            "13.9%",
+            "20",
+            "11.2%",
+            "Colin Eglin",
+            "NP victory; PFP loses official opposition status to Conservative Party"
+        ],
+        [
+            "1989",
+            "Democratic Party",
+            "431444",
+            "20.0%",
+            "34",
+            "19.1%",
+            "Zach de Beer, Denis Worrall and Wynand Malan",
+            "NP victory"
+        ]
+    ]
+}

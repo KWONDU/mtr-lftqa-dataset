@@ -1,0 +1,70 @@
+{
+    "id": "b31714e29465b1264c6c907f5c6a6c32ceaf9cafdff6234e02225c251eb98f9c",
+    "metadata": "Grand Slam (tennis) | Men's singles | Men's singles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "_",
+        "Player",
+        "Age",
+        "Australian_Open",
+        "French_Open",
+        "Wimbledon",
+        "US_Open"
+    ],
+    "cell": [
+        [
+            "1",
+            "Fred Perry",
+            "26",
+            "1934",
+            "1935",
+            "1934",
+            "1933"
+        ],
+        [
+            "2",
+            "Don Budge",
+            "23",
+            "1938",
+            "1938",
+            "1937",
+            "1937"
+        ],
+        [
+            "3",
+            "Rod Laver",
+            "24",
+            "1960",
+            "1962",
+            "1961",
+            "1962"
+        ],
+        [
+            "4",
+            "Roy Emerson",
+            "27",
+            "1961",
+            "1963",
+            "1964",
+            "1961"
+        ],
+        [
+            "5",
+            "Andre Agassi",
+            "29",
+            "1995",
+            "1999",
+            "1992",
+            "1994"
+        ],
+        [
+            "6",
+            "Roger Federer",
+            "27",
+            "2004",
+            "2009",
+            "2003",
+            "2004"
+        ]
+    ]
+}

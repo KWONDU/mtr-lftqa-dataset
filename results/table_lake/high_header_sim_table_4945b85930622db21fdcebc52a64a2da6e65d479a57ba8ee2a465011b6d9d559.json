@@ -1,0 +1,55 @@
+{
+    "id": "4945b85930622db21fdcebc52a64a2da6e65d479a57ba8ee2a465011b6d9d559",
+    "metadata": "Kuomintang | Presidential elections | Presidential elections",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "Candidate",
+        "Running_mate",
+        "Total_votes",
+        "Share_of_votes",
+        "Outcome"
+    ],
+    "cell": [
+        [
+            "1996",
+            "Lee Teng-hui",
+            "Lien Chan",
+            "5813699",
+            "54.0%",
+            "Elected"
+        ],
+        [
+            "2000",
+            "Lien Chan",
+            "Vincent Siew Wan-chang",
+            "2925513",
+            "23.1%",
+            "Lost"
+        ],
+        [
+            "2004",
+            "Lien Chan",
+            "James Soong Chu-yu ( PFP )",
+            "6423906",
+            "49.8%",
+            "Lost"
+        ],
+        [
+            "2008",
+            "Ma Ying-jeou",
+            "Vincent Siew Wan-chang",
+            "7658724",
+            "58.4%",
+            "Elected"
+        ],
+        [
+            "2012",
+            "Ma Ying-jeou",
+            "Wu Den-yih",
+            "6891139",
+            "51.6%",
+            "Elected"
+        ]
+    ]
+}

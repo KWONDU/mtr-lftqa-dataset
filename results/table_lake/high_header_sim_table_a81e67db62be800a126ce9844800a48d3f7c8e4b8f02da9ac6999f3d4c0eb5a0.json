@@ -1,0 +1,56 @@
+{
+    "id": "a81e67db62be800a126ce9844800a48d3f7c8e4b8f02da9ac6999f3d4c0eb5a0",
+    "metadata": "2008 Campeonato Baiano | First Three Matches | First Three Matches",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Date_",
+        "Home_team",
+        "Score",
+        "Away_team"
+    ],
+    "cell": [
+        [
+            "1st",
+            "April 6, 2008",
+            "Vit\u00f3ria da Conquista",
+            "0 - 0",
+            "Bahia"
+        ],
+        [
+            "1st",
+            "April 6, 2008",
+            "Itabuna",
+            "0 - 1",
+            "Vit\u00f3ria"
+        ],
+        [
+            "2nd",
+            "April 13, 2008",
+            "Bahia",
+            "2 - 1",
+            "Itabuna"
+        ],
+        [
+            "2nd",
+            "April 13, 2008",
+            "Vit\u00f3ria",
+            "5 - 5",
+            "Vit\u00f3ria da Conquista"
+        ],
+        [
+            "3rd",
+            "April 20, 2008",
+            "Vit\u00f3ria",
+            "1 - 4",
+            "Bahia"
+        ],
+        [
+            "3rd",
+            "April 20, 2008",
+            "Vit\u00f3ria da Conquista",
+            "2 - 0",
+            "Itabuna"
+        ]
+    ]
+}

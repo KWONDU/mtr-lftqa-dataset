@@ -1,0 +1,98 @@
+{
+    "id": "ec2229ef8ee33511329f3bc0b2205b1a053925e3bd7196aa4d14d49ecaab50c3",
+    "metadata": "List of storms on the Great Lakes | The Big Storm (1913) | The Big Storm (1913)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ship",
+        "Type_of_Vessel",
+        "Lake",
+        "Location_",
+        "Lives_lost_"
+    ],
+    "cell": [
+        [
+            "Argus",
+            "Steamer",
+            "Lake Huron",
+            "25 miles off Kincardine, Ontario",
+            "25 lost"
+        ],
+        [
+            "James Carruthers",
+            "Steamer",
+            "Lake Huron",
+            "near Kincardine",
+            "18 lost"
+        ],
+        [
+            "Hydrus",
+            "Steamer",
+            "Lake Huron",
+            "near Lexington, Michigan",
+            "28 lost"
+        ],
+        [
+            "Leafield",
+            "Steamer",
+            "Lake Superior",
+            "",
+            "all hands"
+        ],
+        [
+            "John A. McGean",
+            "Steamer",
+            "Lake Huron",
+            "near Goderich, Ontario",
+            "28 lost"
+        ],
+        [
+            "Plymouth",
+            "Barge",
+            "Lake Michigan",
+            "",
+            "7 lost"
+        ],
+        [
+            "Charles S. Price",
+            "Steamer",
+            "Lake Huron",
+            "near Port Huron, Michigan",
+            "28 lost"
+        ],
+        [
+            "Regina",
+            "Steamer",
+            "Lake Huron",
+            "near Harbor Beach, Michigan",
+            ""
+        ],
+        [
+            "Issac M. Scott",
+            "Steamer",
+            "Lake Huron",
+            "near Port Elgin, Ontario",
+            "28 lost"
+        ],
+        [
+            "Henry B. Smith",
+            "Steamer",
+            "Lake Superior",
+            "",
+            "all hands"
+        ],
+        [
+            "Wexford",
+            "Steamer",
+            "Lake Huron",
+            "north of Grand Bend, Ontario",
+            "all hands"
+        ],
+        [
+            "Lightship No. 82",
+            "Lightship",
+            "Lake Erie",
+            "Point Albino (near Buffalo)",
+            "6 lost"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "ce82afaae9ba81d10f80fe07f6ca9f4540c54050ae0b4320401b20d628c8e381",
+    "metadata": "1993 Toronto Blue Jays season | Game log | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "October 5",
+            "@ White Sox",
+            "7 - 3",
+            "McDowell (0-1)",
+            "46246",
+            "1-0"
+        ],
+        [
+            "October 6",
+            "@ White Sox",
+            "3 - 1",
+            "Fernandez (0-1)",
+            "46101",
+            "2-0"
+        ],
+        [
+            "October 8",
+            "White Sox",
+            "6 - 1",
+            "Hentgen (0-1)",
+            "51783",
+            "2-1"
+        ],
+        [
+            "October 9",
+            "White Sox",
+            "7 - 4",
+            "Stottlemyre (0-1)",
+            "51889",
+            "2-2"
+        ],
+        [
+            "October 10",
+            "White Sox",
+            "5 - 3",
+            "McDowell (0-2)",
+            "51375",
+            "3-2"
+        ],
+        [
+            "October 12",
+            "@ White Sox",
+            "6 - 3",
+            "Fernandez (0-2)",
+            "45527",
+            "4-2"
+        ]
+    ]
+}

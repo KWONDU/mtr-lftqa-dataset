@@ -1,0 +1,61 @@
+{
+    "id": "9caeea48b5ae73e2449985a03f1377b288594b6e4940db75d3fe49dd303b589b",
+    "metadata": "Welcome to The Captain | Weekly | Weekly",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode",
+        "Air_Date",
+        "Timeslot",
+        "Households_Rating_Share",
+        "_18_49_Rating_Share",
+        "Viewers_m",
+        "Weekly_Rank_"
+    ],
+    "cell": [
+        [
+            "Pilot",
+            "February 4, 2008",
+            "8:30 P.M.",
+            "5.1/8",
+            "2.7/7",
+            "8.14",
+            "35"
+        ],
+        [
+            "Weekend at Saul`s",
+            "February 11, 2008",
+            "8:30 P.M.",
+            "4.5/7",
+            "2.6/7",
+            "7.13",
+            "30"
+        ],
+        [
+            "The Letter",
+            "February 18, 2008",
+            "8:30 P.M.",
+            "3.4/5",
+            "2.0/5",
+            "5.45",
+            "42"
+        ],
+        [
+            "The Wrecking Crew",
+            "February 25, 2008",
+            "8:30 P.M.",
+            "3.1/5",
+            "1.8/5",
+            "5.34",
+            "N/A"
+        ],
+        [
+            "Mr. Big Meeting",
+            "March 3, 2008",
+            "8:30 P.M.",
+            "3.6/5",
+            "1.8/5",
+            "5.63",
+            "59"
+        ]
+    ]
+}

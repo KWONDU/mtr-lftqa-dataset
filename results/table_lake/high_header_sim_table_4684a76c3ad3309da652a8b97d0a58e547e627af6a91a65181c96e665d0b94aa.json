@@ -1,0 +1,55 @@
+{
+    "id": "4684a76c3ad3309da652a8b97d0a58e547e627af6a91a65181c96e665d0b94aa",
+    "metadata": "2003 U.S. Open (golf) | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Ernie Els",
+            "South Africa",
+            "1994 , 1997",
+            "280",
+            "E",
+            "T5"
+        ],
+        [
+            "Tiger Woods",
+            "United States",
+            "2000 , 2002",
+            "283",
+            "+3",
+            "T20"
+        ],
+        [
+            "Tom Watson",
+            "United States",
+            "1982",
+            "284",
+            "+4",
+            "T28"
+        ],
+        [
+            "Retief Goosen",
+            "South Africa",
+            "2001",
+            "286",
+            "+6",
+            "T42"
+        ],
+        [
+            "Lee Janzen",
+            "United States",
+            "1993 , 1998",
+            "289",
+            "+9",
+            "T55"
+        ]
+    ]
+}

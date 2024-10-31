@@ -1,0 +1,87 @@
+{
+    "id": "6432674d2ce951e8513a2ab7fe2c15a4b57e60c8d09fbaac4496cb47a8cb13a9",
+    "metadata": "List of NGC objects (3001-4000) | 3201-3300 | 3201-3300",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_",
+        "Apparent_magnitude"
+    ],
+    "cell": [
+        [
+            "3201",
+            "Globular cluster",
+            "Vela",
+            "10h17m36.8s",
+            "\u00b024\u203240\u2033",
+            "9.2"
+        ],
+        [
+            "3218",
+            "Spiral galaxy",
+            "Draco",
+            "10h21m48.9s",
+            "\u00b010\u203240\u2033",
+            "12.5"
+        ],
+        [
+            "3226",
+            "Elliptical galaxy",
+            "Leo",
+            "10h23m27.1s",
+            "\u00b053\u203255\u2033",
+            "13.3"
+        ],
+        [
+            "3227",
+            "Spiral galaxy",
+            "Leo",
+            "10h23m30.6s",
+            "\u00b051\u203254\u2033",
+            "13.5"
+        ],
+        [
+            "3242",
+            "Planetary nebula",
+            "Hydra",
+            "10h24m46.1s",
+            "\u00b038\u203233\u2033",
+            "10.3"
+        ],
+        [
+            "3244",
+            "Spiral galaxy",
+            "Antlia",
+            "10h25m29.2s",
+            "\u00b049\u203240\u2033",
+            "12.3"
+        ],
+        [
+            "3245",
+            "Lenticular galaxy",
+            "Leo Minor",
+            "10h27m18.5s",
+            "\u00b030\u203225\u2033",
+            "11.6"
+        ],
+        [
+            "3265",
+            "Elliptical galaxy",
+            "Leo Minor",
+            "10h31m06.8s",
+            "\u00b047\u203247\u2033",
+            "14.1"
+        ],
+        [
+            "3293",
+            "Open cluster",
+            "Carina",
+            "10h35m48.8s",
+            "\u00b013\u203200\u2033",
+            "4.8"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "898ab0d32c35366f4c8c6151c7cd001f5c2a8ddb43adb904730bce72f41a801c",
+    "metadata": "Co-operative Commonwealth Federation (Ontario Section) | Election results | Election results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_of_election",
+        "Candidates_elected",
+        "_of_seats_available",
+        "_of_votes",
+        "_of_popular_vote"
+    ],
+    "cell": [
+        [
+            "1934",
+            "1",
+            "90",
+            "n.a.",
+            "7.0%"
+        ],
+        [
+            "1937",
+            "0",
+            "90",
+            "n.a.",
+            "5.6%"
+        ],
+        [
+            "1943",
+            "34",
+            "90",
+            "n.a.",
+            "31.7%"
+        ],
+        [
+            "1945",
+            "8",
+            "90",
+            "n.a.",
+            "22.4%"
+        ],
+        [
+            "1948",
+            "21",
+            "90",
+            "n.a.",
+            "27.0%"
+        ],
+        [
+            "1951",
+            "2",
+            "90",
+            "n.a.",
+            "19.1%"
+        ],
+        [
+            "1955",
+            "3",
+            "98",
+            "n.a.",
+            "16.5%"
+        ],
+        [
+            "1959",
+            "5",
+            "98",
+            "n.a.",
+            "16.7%"
+        ]
+    ]
+}

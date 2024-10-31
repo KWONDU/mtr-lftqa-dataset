@@ -1,0 +1,63 @@
+{
+    "id": "4b934575b36482147d559263730aaa1b1109af84849fd95d63d8a62babd737db",
+    "metadata": "1974 in paleontology | Newly named dinosaurs | Newly named dinosaurs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Novelty",
+        "Status_",
+        "Authors",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Chubutisaurus",
+            "gen et sp nov",
+            "Valid",
+            "del Corro",
+            "Argentina"
+        ],
+        [
+            "Homalocephale",
+            "gen et sp nov",
+            "Valid",
+            "Marya\u0144ska & Osm\u00f3lska",
+            "Mongolia"
+        ],
+        [
+            "Labocania",
+            "gen et sp nov",
+            "Valid",
+            "Molnar",
+            "Mexico"
+        ],
+        [
+            "Lufengocephalus",
+            "gen et sp nov",
+            "Junior synonym",
+            "Elzanowski & Yang (aka C.-C. Young)",
+            "China"
+        ],
+        [
+            "Prenocephale",
+            "gen et sp nov",
+            "Valid",
+            "Marya\u0144ska & Osm\u00f3lska",
+            "Mongolia"
+        ],
+        [
+            "Stokesosaurus",
+            "gen et sp nov",
+            "Valid",
+            "Madsen",
+            "USA"
+        ],
+        [
+            "Tylocephale",
+            "gen et sp nov",
+            "Valid",
+            "Marya\u0144ska & Osm\u00f3lska",
+            "Mongolia"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "50c04952d121156050f2bd9073b4c0fd0951194e943db8bce56a85f2aade85b4",
+    "metadata": "1994-95 UCLA Bruins men's basketball team | Team players drafted in the NBA | Team players drafted in the NBA",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Round",
+        "Pick",
+        "Player",
+        "NBA_Team"
+    ],
+    "cell": [
+        [
+            "1995",
+            "1",
+            "9",
+            "Ed O`Bannon",
+            "New Jersey Nets"
+        ],
+        [
+            "1995",
+            "1",
+            "22",
+            "George Zidek",
+            "Charlotte Hornets"
+        ],
+        [
+            "1995",
+            "2",
+            "18",
+            "Tyus Edney",
+            "Sacramento Kings"
+        ],
+        [
+            "1997",
+            "2",
+            "32",
+            "Charles O`Bannon",
+            "Detroit Pistons"
+        ],
+        [
+            "1998",
+            "2",
+            "45",
+            "Toby Bailey",
+            "Los Angeles Lakers"
+        ],
+        [
+            "1998",
+            "2",
+            "56",
+            "J.R. Henderson",
+            "Vancouver Grizzlies"
+        ]
+    ]
+}

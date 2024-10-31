@@ -1,0 +1,77 @@
+{
+    "id": "5f82c6fb54e7f3d6fb4dff3935b52cfbb00213ba9047f2566c65e9a456c4531a",
+    "metadata": "Tadao Yasuda | Mixed martial arts record | Mixed martial arts record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Res_",
+        "Record",
+        "Opponent",
+        "Method_",
+        "Event",
+        "Round",
+        "Time_",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Loss",
+            "2-4",
+            "Rene Rooze",
+            "TKO (punches)",
+            "Inoki Bom-Ba-Ye 2003",
+            "1",
+            "0:50",
+            "Kobe , Japan"
+        ],
+        [
+            "Loss",
+            "2-3",
+            "Jan Nortje",
+            "TKO (injury)",
+            "Inoki Bom-Ba-Ye 2002",
+            "2",
+            "0:57",
+            "Saitama , Japan"
+        ],
+        [
+            "Loss",
+            "2-2",
+            "Kazuyuki Fujita",
+            "Submission (arm triangle choke)",
+            "Universal Fighting-Arts Organization: Legend",
+            "1",
+            "2:46",
+            "Tokyo , Japan"
+        ],
+        [
+            "Win",
+            "2-1",
+            "J\u00e9r\u00f4me Le Banner",
+            "Submission (forearm choke)",
+            "Inoki Bom-Ba-Ye 2001",
+            "2",
+            "2:50",
+            "Saitama , Japan"
+        ],
+        [
+            "Loss",
+            "1-1",
+            "Rene Rooze",
+            "KO (kick)",
+            "K-1 Andy Memorial 2001 Japan GP Final",
+            "3",
+            "0:09",
+            "Saitama , Japan"
+        ],
+        [
+            "Win",
+            "1-0",
+            "Masaaki Satake",
+            "Decision (split)",
+            "Pride 13",
+            "3",
+            "5:00",
+            "Saitama , Japan"
+        ]
+    ]
+}

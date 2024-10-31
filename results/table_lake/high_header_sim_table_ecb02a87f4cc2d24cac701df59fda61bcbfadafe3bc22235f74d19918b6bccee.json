@@ -1,0 +1,84 @@
+{
+    "id": "ecb02a87f4cc2d24cac701df59fda61bcbfadafe3bc22235f74d19918b6bccee",
+    "metadata": "Irish general election, 1922 | Result | 3rd Irish general election \n - 16 June 1922",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Party",
+        "Seats",
+        "_of_seats",
+        "First_Pref_votes",
+        "_FPv"
+    ],
+    "cell": [
+        [
+            "Sinn F\u00e9in (Pro-Treaty)",
+            "58",
+            "45.3",
+            "239195",
+            "38.5"
+        ],
+        [
+            "Sinn F\u00e9in (Anti-Treaty)",
+            "36",
+            "28.1",
+            "135310",
+            "21.8"
+        ],
+        [
+            "Labour Party",
+            "17",
+            "13.3",
+            "132565",
+            "21.3"
+        ],
+        [
+            "Farmers` Party",
+            "7",
+            "5.5",
+            "48718",
+            "7.8"
+        ],
+        [
+            "Businessmen`s Party",
+            "1",
+            "0.8",
+            "14542",
+            "2.3"
+        ],
+        [
+            "Ratepayers` Association",
+            "0",
+            "0",
+            "2617",
+            "0.4"
+        ],
+        [
+            "Independent",
+            "9",
+            "7.0",
+            "48638",
+            "7.8"
+        ],
+        [
+            "Spoilt votes",
+            "Spoilt votes",
+            "Spoilt votes",
+            "19684",
+            "\u2014"
+        ],
+        [
+            "Total",
+            "128",
+            "100",
+            "641271",
+            "100"
+        ],
+        [
+            "Electorate/Turnout",
+            "Electorate/Turnout",
+            "Electorate/Turnout",
+            "1430104",
+            "62.5%"
+        ]
+    ]
+}

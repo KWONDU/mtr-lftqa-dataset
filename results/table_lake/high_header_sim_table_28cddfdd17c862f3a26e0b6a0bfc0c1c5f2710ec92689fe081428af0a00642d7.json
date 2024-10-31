@@ -1,0 +1,63 @@
+{
+    "id": "28cddfdd17c862f3a26e0b6a0bfc0c1c5f2710ec92689fe081428af0a00642d7",
+    "metadata": "2008 American League Championship Series | Tampa Bay Rays vs. Boston Red Sox | Tampa Bay Rays vs. Boston Red Sox",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 10",
+            "Tropicana Field",
+            "3:25",
+            "35001"
+        ],
+        [
+            "2",
+            "October 11",
+            "Tropicana Field",
+            "5:27",
+            "34904"
+        ],
+        [
+            "3",
+            "October 13",
+            "Fenway Park",
+            "3:23",
+            "38031"
+        ],
+        [
+            "4",
+            "October 14",
+            "Fenway Park",
+            "3:07",
+            "38133"
+        ],
+        [
+            "5",
+            "October 16",
+            "Fenway Park",
+            "4:08",
+            "38437"
+        ],
+        [
+            "6",
+            "October 18",
+            "Tropicana Field",
+            "3:48",
+            "40947"
+        ],
+        [
+            "7",
+            "October 19",
+            "Tropicana Field",
+            "3:31",
+            "40473"
+        ]
+    ]
+}

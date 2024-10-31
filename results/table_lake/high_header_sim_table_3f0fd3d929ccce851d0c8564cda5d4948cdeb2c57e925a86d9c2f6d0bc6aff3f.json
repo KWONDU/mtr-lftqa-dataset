@@ -1,0 +1,70 @@
+{
+    "id": "3f0fd3d929ccce851d0c8564cda5d4948cdeb2c57e925a86d9c2f6d0bc6aff3f",
+    "metadata": "1962 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "7.10 (52)",
+            "St Kilda",
+            "6.12 (48)",
+            "Kardinia Park",
+            "23295",
+            "30 June 1962"
+        ],
+        [
+            "Footscray",
+            "12.10 (82)",
+            "North Melbourne",
+            "8.17 (65)",
+            "Western Oval",
+            "20579",
+            "30 June 1962"
+        ],
+        [
+            "Collingwood",
+            "14.16 (100)",
+            "Richmond",
+            "13.10 (88)",
+            "Victoria Park",
+            "25479",
+            "30 June 1962"
+        ],
+        [
+            "South Melbourne",
+            "7.8 (50)",
+            "Hawthorn",
+            "12.14 (86)",
+            "Lake Oval",
+            "10150",
+            "30 June 1962"
+        ],
+        [
+            "Melbourne",
+            "7.13 (55)",
+            "Essendon",
+            "10.13 (73)",
+            "MCG",
+            "86275",
+            "30 June 1962"
+        ],
+        [
+            "Fitzroy",
+            "6.15 (51)",
+            "Carlton",
+            "7.10 (52)",
+            "Brunswick Street Oval",
+            "20340",
+            "30 June 1962"
+        ]
+    ]
+}

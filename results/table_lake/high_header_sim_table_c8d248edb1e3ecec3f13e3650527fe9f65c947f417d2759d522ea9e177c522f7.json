@@ -1,0 +1,84 @@
+{
+    "id": "c8d248edb1e3ecec3f13e3650527fe9f65c947f417d2759d522ea9e177c522f7",
+    "metadata": "2008 NASCAR Craftsman Truck Series | Toyota Tundra 200 | Toyota Tundra 200",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos_",
+        "Car_",
+        "Driver",
+        "Make",
+        "Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "23",
+            "Johnny Benson",
+            "Toyota",
+            "Bill Davis Racing"
+        ],
+        [
+            "2",
+            "99",
+            "Erik Darnell",
+            "Ford",
+            "Roush Fenway Racing"
+        ],
+        [
+            "3",
+            "30",
+            "Todd Bodine",
+            "Toyota",
+            "Germain Racing"
+        ],
+        [
+            "4",
+            "2",
+            "Jack Sprague",
+            "Chevy",
+            "Kevin Harvick Incorporated"
+        ],
+        [
+            "5",
+            "33",
+            "Ron Hornaday",
+            "Chevy",
+            "Kevin Harvick Incorporated"
+        ],
+        [
+            "6",
+            "6",
+            "Colin Braun R",
+            "Ford",
+            "Roush Fenway Racing"
+        ],
+        [
+            "7",
+            "4",
+            "Stacy Compton",
+            "Dodge",
+            "Bobby Hamilton Racing-Virginia"
+        ],
+        [
+            "8",
+            "59",
+            "Ted Musgrave",
+            "Toyota",
+            "HT Motorsports"
+        ],
+        [
+            "9",
+            "11",
+            "David Starr",
+            "Toyota",
+            "Red Horse Racing"
+        ],
+        [
+            "10",
+            "8",
+            "Chad McCumbee",
+            "Chevrolet",
+            "MRD Motorsports"
+        ]
+    ]
+}

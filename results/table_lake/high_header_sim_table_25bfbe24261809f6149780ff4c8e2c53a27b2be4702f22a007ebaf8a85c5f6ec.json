@@ -1,0 +1,70 @@
+{
+    "id": "25bfbe24261809f6149780ff4c8e2c53a27b2be4702f22a007ebaf8a85c5f6ec",
+    "metadata": "1974 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "9.5 (59)",
+            "North Melbourne",
+            "13.12 (90)",
+            "Kardinia Park",
+            "24685",
+            "18 May 1974"
+        ],
+        [
+            "Essendon",
+            "15.15 (105)",
+            "Richmond",
+            "16.19 (115)",
+            "Windy Hill",
+            "24376",
+            "18 May 1974"
+        ],
+        [
+            "South Melbourne",
+            "13.16 (94)",
+            "Melbourne",
+            "11.10 (76)",
+            "Lake Oval",
+            "10239",
+            "18 May 1974"
+        ],
+        [
+            "St Kilda",
+            "12.10 (82)",
+            "Collingwood",
+            "11.22 (88)",
+            "Moorabbin Oval",
+            "27876",
+            "18 May 1974"
+        ],
+        [
+            "Hawthorn",
+            "13.22 (100)",
+            "Carlton",
+            "8.12 (60)",
+            "Princes Park",
+            "21202",
+            "18 May 1974"
+        ],
+        [
+            "Footscray",
+            "12.15 (87)",
+            "Fitzroy",
+            "8.12 (60)",
+            "VFL Park",
+            "19450",
+            "18 May 1974"
+        ]
+    ]
+}

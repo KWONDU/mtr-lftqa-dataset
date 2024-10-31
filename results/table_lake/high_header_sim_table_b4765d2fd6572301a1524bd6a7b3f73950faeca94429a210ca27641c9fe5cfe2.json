@@ -1,0 +1,63 @@
+{
+    "id": "b4765d2fd6572301a1524bd6a7b3f73950faeca94429a210ca27641c9fe5cfe2",
+    "metadata": "United States House of Representatives elections, 1886 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "Samuel Dibble",
+            "Democratic",
+            "1882",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 2",
+            "George D. Tillman",
+            "Democratic",
+            "1878",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 3",
+            "D. Wyatt Aiken",
+            "Democratic",
+            "1876",
+            "Retired Democratic hold"
+        ],
+        [
+            "South Carolina 4",
+            "William H. Perry",
+            "Democratic",
+            "1884",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 5",
+            "John J. Hemphill",
+            "Democratic",
+            "1882",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 6",
+            "George W. Dargan",
+            "Democratic",
+            "1882",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 7",
+            "Robert Smalls",
+            "Republican",
+            "1884 ( special )",
+            "Lost re-election Democratic gain"
+        ]
+    ]
+}

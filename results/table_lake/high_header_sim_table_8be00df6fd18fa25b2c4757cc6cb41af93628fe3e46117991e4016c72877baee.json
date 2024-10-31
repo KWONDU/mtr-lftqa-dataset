@@ -1,0 +1,127 @@
+{
+    "id": "8be00df6fd18fa25b2c4757cc6cb41af93628fe3e46117991e4016c72877baee",
+    "metadata": "1969 New York Jets season | Season schedule | Season schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Game_site",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "1969-09-14",
+            "at Buffalo Bills",
+            "W 33-19",
+            "War Memorial Stadium",
+            "46165"
+        ],
+        [
+            "2",
+            "1969-09-21",
+            "at Denver Broncos",
+            "L 21-19",
+            "Mile High Stadium",
+            "50583"
+        ],
+        [
+            "3",
+            "1969-09-28",
+            "at San Diego Chargers",
+            "L 34-27",
+            "San Diego Stadium",
+            "54042"
+        ],
+        [
+            "4",
+            "1969-10-05",
+            "at Boston Patriots",
+            "W 23-14",
+            "Alumni Stadium",
+            "25584"
+        ],
+        [
+            "5",
+            "1969-10-12",
+            "at Cincinnati Bengals",
+            "W 21-7",
+            "Nippert Stadium",
+            "27927"
+        ],
+        [
+            "6",
+            "1969-10-20",
+            "Houston Oilers",
+            "W 26-17",
+            "Shea Stadium",
+            "63841"
+        ],
+        [
+            "7",
+            "1969-10-26",
+            "Boston Patriots",
+            "W 23-17",
+            "Shea Stadium",
+            "62298"
+        ],
+        [
+            "8",
+            "1969-11-02",
+            "Miami Dolphins",
+            "W 34-31",
+            "Shea Stadium",
+            "61761"
+        ],
+        [
+            "9",
+            "1969-11-09",
+            "Buffalo Bills",
+            "W 16-6",
+            "Shea Stadium",
+            "62680"
+        ],
+        [
+            "10",
+            "1969-11-16",
+            "Kansas City Chiefs",
+            "L 34-16",
+            "Shea Stadium",
+            "63849"
+        ],
+        [
+            "11",
+            "1969-11-23",
+            "Cincinnati Bengals",
+            "W 40-7",
+            "Shea Stadium",
+            "62128"
+        ],
+        [
+            "12",
+            "1969-11-30",
+            "Oakland Raiders",
+            "L 27-14",
+            "Shea Stadium",
+            "63865"
+        ],
+        [
+            "13",
+            "1969-12-06",
+            "at Houston Oilers",
+            "W 34-26",
+            "Astrodome",
+            "51923"
+        ],
+        [
+            "14",
+            "1969-12-14",
+            "at Miami Dolphins",
+            "W 27-9",
+            "Miami Orange Bowl",
+            "48108"
+        ]
+    ]
+}

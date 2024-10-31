@@ -1,0 +1,70 @@
+{
+    "id": "0f292df49efc25c295cb81a8f6d9f8f38cd8fa46cfde7bea7dd2ff30f14135dd",
+    "metadata": "1945 VFL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "7.14 (56)",
+            "Fitzroy",
+            "11.14 (80)",
+            "Windy Hill",
+            "10000",
+            "14 July 1945"
+        ],
+        [
+            "Collingwood",
+            "11.14 (80)",
+            "South Melbourne",
+            "7.12 (54)",
+            "Victoria Park",
+            "24000",
+            "14 July 1945"
+        ],
+        [
+            "Carlton",
+            "13.12 (90)",
+            "Hawthorn",
+            "8.11 (59)",
+            "Princes Park",
+            "10000",
+            "14 July 1945"
+        ],
+        [
+            "Richmond",
+            "18.10 (118)",
+            "North Melbourne",
+            "15.9 (99)",
+            "Punt Road Oval",
+            "21000",
+            "14 July 1945"
+        ],
+        [
+            "St Kilda",
+            "9.10 (64)",
+            "Melbourne",
+            "10.23 (83)",
+            "Junction Oval",
+            "6000",
+            "14 July 1945"
+        ],
+        [
+            "Geelong",
+            "11.14 (80)",
+            "Footscray",
+            "13.19 (97)",
+            "Kardinia Park",
+            "6000",
+            "14 July 1945"
+        ]
+    ]
+}

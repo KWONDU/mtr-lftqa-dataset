@@ -1,0 +1,63 @@
+{
+    "id": "2bd6c3d46cc7b88f577122945e61070f31029f87781acec74ab10e6844f4800e",
+    "metadata": "Sweeney Todd: The Demon Barber of Fleet Street | 2012 London revival | 2012 London revival",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Award_Ceremony",
+        "Category",
+        "Nominee",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "2012",
+            "Evening Standard Award",
+            "Best Musical",
+            "Best Musical",
+            "Won"
+        ],
+        [
+            "2013",
+            "Laurence Olivier Award",
+            "Best Musical Revival",
+            "Best Musical Revival",
+            "Won"
+        ],
+        [
+            "2013",
+            "Laurence Olivier Award",
+            "Best Actor in a Musical",
+            "Michael Ball",
+            "Won"
+        ],
+        [
+            "2013",
+            "Laurence Olivier Award",
+            "Best Actress in a Musical",
+            "Imelda Staunton",
+            "Won"
+        ],
+        [
+            "2013",
+            "Laurence Olivier Award",
+            "Best Costume Design",
+            "Anthony Ward",
+            "Nominated"
+        ],
+        [
+            "2013",
+            "Laurence Olivier Award",
+            "Best Lighting Design",
+            "Mark Henderson",
+            "Nominated"
+        ],
+        [
+            "2013",
+            "Laurence Olivier Award",
+            "Best Sound Design",
+            "Paul Groothuis",
+            "Nominated"
+        ]
+    ]
+}

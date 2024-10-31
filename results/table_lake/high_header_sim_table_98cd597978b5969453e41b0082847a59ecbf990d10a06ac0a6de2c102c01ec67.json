@@ -1,0 +1,79 @@
+{
+    "id": "98cd597978b5969453e41b0082847a59ecbf990d10a06ac0a6de2c102c01ec67",
+    "metadata": "Philippine presidential election, 2010 | Campaign expenses | Campaign expenses",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Candidate_Party",
+        "Amount_raised_PHP_",
+        "Amount_spent_PHP_",
+        "Votes",
+        "Spent_per_vote_PHP_",
+        "Spent_per_voter_PHP_"
+    ],
+    "cell": [
+        [
+            "Benigno Aquino III (LP)",
+            "440,050,000 (approx.)",
+            "403119981.81",
+            "15208678",
+            "26.51",
+            "7.86"
+        ],
+        [
+            "Joseph Estrada (PMP)",
+            "8,000,000 (approx.)",
+            "227500000",
+            "9487837",
+            "23.98",
+            "4.44"
+        ],
+        [
+            "Manny Villar (NP)",
+            "431557816",
+            "431557816",
+            "5573835",
+            "77.43",
+            "8.41"
+        ],
+        [
+            "Gilberto Teodoro (Lakas-Kampi)",
+            "64688.88",
+            "3463307.21",
+            "4095839",
+            "0.85",
+            "0.07"
+        ],
+        [
+            "Jamby Madrigal (I)",
+            "55182264",
+            "55182264",
+            "46489",
+            "1187.00",
+            "1.08"
+        ],
+        [
+            "Jejomar Binay (PDP-Laban)",
+            "231,480,000 (approx.)",
+            "217938289",
+            "14645574",
+            "14.88",
+            "4.25"
+        ],
+        [
+            "Mar Roxas (LP)",
+            "246,000,000 (approx.)",
+            "279351224",
+            "13918490",
+            "20.07",
+            "5.45"
+        ],
+        [
+            "Loren Legarda (NPC)",
+            "N/A",
+            "210280000",
+            "4294664",
+            "48.96",
+            "4.10"
+        ]
+    ]
+}

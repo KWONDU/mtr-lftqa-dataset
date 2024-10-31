@@ -1,0 +1,55 @@
+{
+    "id": "021d62bba7c6db759956ad49b42fa335139e3daa6a808f7ee00a5202c6208cbd",
+    "metadata": "Sailing at the 2000 Summer Paralympics | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Germany (GER)",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "2",
+            "Australia (AUS)",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "3",
+            "Denmark (DEN)",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "4",
+            "United States (USA)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "4",
+            "Canada (CAN)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

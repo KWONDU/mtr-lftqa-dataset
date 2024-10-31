@@ -1,0 +1,151 @@
+{
+    "id": "a1a27b5637155d5c0f9e681dc862762605685ebd27dc5677b037b8985078ec15",
+    "metadata": "2001 Philadelphia Eagles season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "TV_Time",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 9, 2001",
+            "St. Louis Rams",
+            "L 20-17",
+            "FOX 4:15pm",
+            "66243"
+        ],
+        [
+            "2",
+            "September 23, 2001",
+            "at Seattle Seahawks",
+            "W 27-3",
+            "FOX 4:15pm",
+            "62826"
+        ],
+        [
+            "3",
+            "September 30, 2001",
+            "Dallas Cowboys",
+            "W 40-18",
+            "ESPN 8:30pm",
+            "66621"
+        ],
+        [
+            "4",
+            "October 7, 2001",
+            "Arizona Cardinals",
+            "L 21-20",
+            "FOX 1:00pm",
+            "66360"
+        ],
+        [
+            "5",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "6",
+            "October 22, 2001",
+            "at New York Giants",
+            "W 10-9",
+            "ABC 9:00pm",
+            "78821"
+        ],
+        [
+            "7",
+            "October 28, 2001",
+            "Oakland Raiders",
+            "L 20-10",
+            "CBS 4:15pm",
+            "65342"
+        ],
+        [
+            "8",
+            "November 4, 2001",
+            "at Arizona Cardinals",
+            "W 21-7",
+            "FOX 4:05pm",
+            "33430"
+        ],
+        [
+            "9",
+            "November 11, 2001",
+            "Minnesota Vikings",
+            "W 48-17",
+            "FOX 4:15pm",
+            "65638"
+        ],
+        [
+            "10",
+            "November 18, 2001",
+            "at Dallas Cowboys",
+            "W 36-3",
+            "FOX 1:00pm",
+            "63204"
+        ],
+        [
+            "11",
+            "November 25, 2001",
+            "Washington Redskins",
+            "L 13-3",
+            "FOX 1:00pm",
+            "65666"
+        ],
+        [
+            "12",
+            "November 29, 2001",
+            "at Kansas City Chiefs",
+            "W 23-10",
+            "ESPN 8:30pm",
+            "77087"
+        ],
+        [
+            "13",
+            "December 9, 2001",
+            "San Diego Chargers",
+            "W 24-14",
+            "CBS 1:00pm",
+            "65438"
+        ],
+        [
+            "14",
+            "December 16, 2001",
+            "at Washington Redskins",
+            "W 20-6",
+            "FOX 4:15pm",
+            "84036"
+        ],
+        [
+            "15",
+            "December 23, 2001",
+            "at San Francisco 49ers",
+            "L 13-3",
+            "FOX 4:15pm",
+            "68124"
+        ],
+        [
+            "16",
+            "December 30, 2001",
+            "New York Giants",
+            "W 24-21",
+            "FOX 4:15pm",
+            "65885"
+        ],
+        [
+            "17",
+            "January 6, 2002",
+            "at Tampa Bay Buccaneers",
+            "W 17-13",
+            "ESPN 8:30pm",
+            "65541"
+        ]
+    ]
+}

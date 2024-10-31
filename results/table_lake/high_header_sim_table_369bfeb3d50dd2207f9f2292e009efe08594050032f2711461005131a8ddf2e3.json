@@ -1,0 +1,70 @@
+{
+    "id": "369bfeb3d50dd2207f9f2292e009efe08594050032f2711461005131a8ddf2e3",
+    "metadata": "1927 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "13.8 (86)",
+            "Melbourne",
+            "9.7 (61)",
+            "Corio Oval",
+            "17200",
+            "27 August 1927"
+        ],
+        [
+            "Essendon",
+            "9.18 (72)",
+            "St Kilda",
+            "7.6 (48)",
+            "Windy Hill",
+            "9000",
+            "27 August 1927"
+        ],
+        [
+            "Richmond",
+            "14.15 (99)",
+            "North Melbourne",
+            "9.8 (62)",
+            "Punt Road Oval",
+            "10000",
+            "27 August 1927"
+        ],
+        [
+            "South Melbourne",
+            "9.20 (74)",
+            "Footscray",
+            "10.10 (70)",
+            "Lake Oval",
+            "9000",
+            "27 August 1927"
+        ],
+        [
+            "Fitzroy",
+            "14.11 (95)",
+            "Collingwood",
+            "13.10 (88)",
+            "Brunswick Street Oval",
+            "25000",
+            "27 August 1927"
+        ],
+        [
+            "Hawthorn",
+            "10.10 (70)",
+            "Carlton",
+            "14.14 (98)",
+            "Glenferrie Oval",
+            "8000",
+            "27 August 1927"
+        ]
+    ]
+}

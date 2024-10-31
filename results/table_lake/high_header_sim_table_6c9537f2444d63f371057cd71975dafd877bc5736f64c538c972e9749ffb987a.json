@@ -1,0 +1,70 @@
+{
+    "id": "6c9537f2444d63f371057cd71975dafd877bc5736f64c538c972e9749ffb987a",
+    "metadata": "1928 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "9.13 (67)",
+            "St Kilda",
+            "10.10 (70)",
+            "Glenferrie Oval",
+            "15000",
+            "21 April 1928"
+        ],
+        [
+            "Essendon",
+            "11.6 (72)",
+            "Melbourne",
+            "13.7 (85)",
+            "Windy Hill",
+            "20000",
+            "21 April 1928"
+        ],
+        [
+            "Richmond",
+            "14.15 (99)",
+            "North Melbourne",
+            "2.9 (21)",
+            "Punt Road Oval",
+            "20000",
+            "21 April 1928"
+        ],
+        [
+            "South Melbourne",
+            "14.16 (100)",
+            "Footscray",
+            "15.9 (99)",
+            "Lake Oval",
+            "20000",
+            "21 April 1928"
+        ],
+        [
+            "Geelong",
+            "8.12 (60)",
+            "Collingwood",
+            "9.12 (66)",
+            "Corio Oval",
+            "18000",
+            "21 April 1928"
+        ],
+        [
+            "Fitzroy",
+            "11.13 (79)",
+            "Carlton",
+            "18.9 (117)",
+            "Brunswick Street Oval",
+            "30000",
+            "21 April 1928"
+        ]
+    ]
+}

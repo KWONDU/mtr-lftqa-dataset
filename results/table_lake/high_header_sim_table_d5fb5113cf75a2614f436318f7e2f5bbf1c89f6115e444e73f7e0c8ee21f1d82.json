@@ -1,0 +1,84 @@
+{
+    "id": "d5fb5113cf75a2614f436318f7e2f5bbf1c89f6115e444e73f7e0c8ee21f1d82",
+    "metadata": "1989 Australian Drivers' Championship | Race calendar | Race calendar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Circuit",
+        "City_State",
+        "Date_",
+        "Winner",
+        "Team"
+    ],
+    "cell": [
+        [
+            "Mallala Motor Sport Park",
+            "Mallala , South Australia",
+            "7 May",
+            "Mark McLaughlin",
+            "Elfin Sports Cars"
+        ],
+        [
+            "Mallala Motor Sport Park",
+            "Mallala , South Australia",
+            "7 May",
+            "Rohan Onslow",
+            "R.J.Macarthur Onslow"
+        ],
+        [
+            "Winton Motor Raceway",
+            "Benalla , Victoria",
+            "4 June",
+            "Rohan Onslow",
+            "R.J.Macarthur Onslow"
+        ],
+        [
+            "Winton Motor Raceway",
+            "Benalla , Victoria",
+            "4 June",
+            "John Briggs",
+            "John Briggs"
+        ],
+        [
+            "Oran Park Raceway",
+            "Sydney , New South Wales",
+            "4 August",
+            "Rohan Onslow",
+            "R.J.Macarthur Onslow"
+        ],
+        [
+            "Oran Park Raceway",
+            "Sydney , New South Wales",
+            "4 August",
+            "Rohan Onslow",
+            "R.J.Macarthur Onslow"
+        ],
+        [
+            "Amaroo Park",
+            "Sydney , New South Wales",
+            "20 August",
+            "Neil Crompton",
+            "Boylan Racing"
+        ],
+        [
+            "Amaroo Park",
+            "Sydney , New South Wales",
+            "20 August",
+            "Simon Kane",
+            "Clive Kane Photography"
+        ],
+        [
+            "Sandown International Raceway",
+            "Melbourne , Victoria",
+            "9 October",
+            "Sam Astuti",
+            "Cascone Corporation"
+        ],
+        [
+            "Sandown International Raceway",
+            "Melbourne , Victoria",
+            "9 October",
+            "Neil Crompton",
+            "Boylan Racing"
+        ]
+    ]
+}

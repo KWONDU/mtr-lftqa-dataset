@@ -1,0 +1,55 @@
+{
+    "id": "22d5868c2a4563536510b662c087f7bb5d2a4964788899df406dc796c8fb39a7",
+    "metadata": "United States House of Representatives elections, 1952 | Georgia | Georgia",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Georgia 1",
+            "Prince Hulon Preston, Jr.",
+            "Democratic",
+            "1946",
+            "Re-elected",
+            "Prince Hulon Preston, Jr. (D) Unopposed"
+        ],
+        [
+            "Georgia 2",
+            "Edward E. Cox",
+            "Democratic",
+            "1924",
+            "Re-elected",
+            "Edward E. Cox (D) Unopposed"
+        ],
+        [
+            "Georgia 3",
+            "Tic Forrester",
+            "Democratic",
+            "1950",
+            "Re-elected",
+            "Tic Forrester (D) Unopposed"
+        ],
+        [
+            "Georgia 6",
+            "Carl Vinson",
+            "Democratic",
+            "1914",
+            "Re-elected",
+            "Carl Vinson (D) Unopposed"
+        ],
+        [
+            "Georgia 9",
+            "John Stephens Wood",
+            "Democratic",
+            "1944",
+            "Retired Democratic hold",
+            "Phillip M. Landrum (D) Unopposed"
+        ]
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "45f6c52cf719aa08a95d651c5db8aa55d4f6f8faa49869ba2cfb2e2016b91c51",
+    "metadata": "Ji-Young Oh | LPGA Tour career summary | LPGA Tour career summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournaments_played",
+        "Cuts_made",
+        "Wins",
+        "_2nd",
+        "Top_10s",
+        "Best_finish",
+        "Earnings_",
+        "Money_list_rank",
+        "Scoring_average",
+        "Scoring_rank"
+    ],
+    "cell": [
+        [
+            "2007",
+            "22",
+            "10",
+            "0",
+            "0",
+            "1",
+            "6",
+            "148876",
+            "72",
+            "72.46",
+            "81"
+        ],
+        [
+            "2008",
+            "29",
+            "26",
+            "1",
+            "0",
+            "4",
+            "1",
+            "680225",
+            "26",
+            "71.65",
+            "22"
+        ],
+        [
+            "2009",
+            "25",
+            "20",
+            "1",
+            "0",
+            "3",
+            "1",
+            "558316",
+            "24",
+            "71.90",
+            "34"
+        ],
+        [
+            "2010",
+            "18",
+            "10",
+            "0",
+            "0",
+            "0",
+            "T12",
+            "98384",
+            "71",
+            "73.42",
+            "92"
+        ],
+        [
+            "2011",
+            "11",
+            "1",
+            "0",
+            "0",
+            "0",
+            "T54",
+            "5456",
+            "148",
+            "74.42",
+            "125"
+        ]
+    ]
+}

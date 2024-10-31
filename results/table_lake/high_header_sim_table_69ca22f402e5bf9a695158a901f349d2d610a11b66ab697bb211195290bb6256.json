@@ -1,0 +1,55 @@
+{
+    "id": "69ca22f402e5bf9a695158a901f349d2d610a11b66ab697bb211195290bb6256",
+    "metadata": "United States House of Representatives elections, 1964 | Louisiana | Louisiana",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Louisiana 1",
+            "F. Edward Hebert",
+            "Democratic",
+            "1940",
+            "Re-elected",
+            "F. Edward Hebert (D) Unopposed"
+        ],
+        [
+            "Louisiana 2",
+            "Hale Boggs",
+            "Democratic",
+            "1946",
+            "Re-elected",
+            "Hale Boggs (D) 55.0% David C. Treen (R) 45.0%"
+        ],
+        [
+            "Louisiana 4",
+            "Joe Waggonner",
+            "Democratic",
+            "1961",
+            "Re-elected",
+            "Joe Waggonner (D) Unopposed"
+        ],
+        [
+            "Louisiana 5",
+            "Otto Passman",
+            "Democratic",
+            "1946",
+            "Re-elected",
+            "Otto Passman (D) Unopposed"
+        ],
+        [
+            "Louisiana 7",
+            "T. Ashton Thompson",
+            "Democratic",
+            "1952",
+            "Re-elected",
+            "T. Ashton Thompson (D) Unopposed"
+        ]
+    ]
+}

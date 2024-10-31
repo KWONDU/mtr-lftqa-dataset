@@ -1,0 +1,87 @@
+{
+    "id": "6a710f20603bf8457dca1c7c474ffc4433892c3f3233eb7fc4210350ceb501b8",
+    "metadata": "1997 World Club Championship | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Result_",
+        "Score",
+        "Stadium",
+        "City",
+        "Crowd"
+    ],
+    "cell": [
+        [
+            "6 June 1997",
+            "Brisbane Broncos def. London Broncos",
+            "42-22",
+            "ANZ Stadium",
+            "Brisbane",
+            "18193"
+        ],
+        [
+            "6 June 1997",
+            "Auckland Warriors def. St Helens",
+            "42-12",
+            "Knowsley Road",
+            "St Helens",
+            "8911"
+        ],
+        [
+            "7 June 1997",
+            "North Queensland Cowboys def. Leeds Rhinos",
+            "42-20",
+            "Stockland Stadium",
+            "Townsville",
+            "14561"
+        ],
+        [
+            "8 June 1997",
+            "Adelaide Rams def. Salford Reds",
+            "50-8",
+            "Adelaide Oval",
+            "Adelaide",
+            "11346"
+        ],
+        [
+            "8 June 1997",
+            "Canberra Raiders def. Halifax Blue Sox",
+            "70-6",
+            "Bruce Stadium",
+            "Canberra",
+            "7780"
+        ],
+        [
+            "8 June 1997",
+            "Hunter Mariners def. Paris-St Germain",
+            "28-12",
+            "Charlety Stadium",
+            "Paris",
+            "3500"
+        ],
+        [
+            "8 June 1997",
+            "Perth Reds def. Castleford Tigers",
+            "24-16",
+            "Wilderspool",
+            "Warrington",
+            "3378"
+        ],
+        [
+            "9 June 1997",
+            "Wigan Warriors def. Canterbury Bulldogs",
+            "22-18",
+            "Belmore",
+            "Sydney",
+            "10680"
+        ],
+        [
+            "9 June 1997",
+            "Penrith Panthers def. Bradford Bulls",
+            "20-16",
+            "Odsal Stadium",
+            "Bradford",
+            "14378"
+        ]
+    ]
+}

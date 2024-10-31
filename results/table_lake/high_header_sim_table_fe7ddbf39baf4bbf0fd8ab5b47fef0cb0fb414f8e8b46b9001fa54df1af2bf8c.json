@@ -1,0 +1,97 @@
+{
+    "id": "fe7ddbf39baf4bbf0fd8ab5b47fef0cb0fb414f8e8b46b9001fa54df1af2bf8c",
+    "metadata": "Hoosier Hills Conference | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment_08_09",
+        "IHSAA_Class",
+        "IHSAA_Class_Football",
+        "County",
+        "Year_Joined"
+    ],
+    "cell": [
+        [
+            "Bedford N. Lawrence",
+            "Bedford",
+            "Stars",
+            "1620",
+            "AAAA",
+            "AAAAA",
+            "47 Lawrence",
+            "1974"
+        ],
+        [
+            "Columbus East",
+            "Columbus",
+            "Olympians",
+            "1582",
+            "AAAA",
+            "AAAAA",
+            "03 Bartholomew",
+            "1973"
+        ],
+        [
+            "Floyd Central",
+            "Floyds Knobs",
+            "Highlanders",
+            "1681",
+            "AAAA",
+            "AAAAA",
+            "22 Floyd",
+            "1976"
+        ],
+        [
+            "Jeffersonville",
+            "Jeffersonville",
+            "Red Devils",
+            "2099",
+            "AAAA",
+            "AAAAAA",
+            "10 Clark",
+            "1979"
+        ],
+        [
+            "Jennings County",
+            "North Vernon",
+            "Panthers",
+            "1614",
+            "AAAA",
+            "AAAAA",
+            "40 Jennings",
+            "1973"
+        ],
+        [
+            "Madison Consolidated",
+            "Madison",
+            "Cubs",
+            "1047",
+            "AAA",
+            "AAAA",
+            "39 Jefferson",
+            "1973"
+        ],
+        [
+            "New Albany",
+            "New Albany",
+            "Bulldogs",
+            "2124",
+            "AAAA",
+            "AAAAA",
+            "22 Floyd",
+            "1979"
+        ],
+        [
+            "Seymour",
+            "Seymour",
+            "Owls",
+            "1244",
+            "AAAA",
+            "AAAA",
+            "36 Jackson",
+            "1997"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "8eeba356692316a2067ff0f524b9db2a7fd2ab539f80b3809d55dc9c2e010147",
+    "metadata": "1939 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "12.14 (86)",
+            "St Kilda",
+            "19.16 (130)",
+            "Western Oval",
+            "13500",
+            "17 June 1939"
+        ],
+        [
+            "Carlton",
+            "19.19 (133)",
+            "Melbourne",
+            "15.13 (103)",
+            "Princes Park",
+            "20000",
+            "17 June 1939"
+        ],
+        [
+            "South Melbourne",
+            "15.18 (108)",
+            "Hawthorn",
+            "12.14 (86)",
+            "Lake Oval",
+            "9000",
+            "17 June 1939"
+        ],
+        [
+            "Richmond",
+            "12.22 (94)",
+            "Geelong",
+            "9.15 (69)",
+            "Punt Road Oval",
+            "17000",
+            "17 June 1939"
+        ],
+        [
+            "Fitzroy",
+            "11.15 (81)",
+            "Essendon",
+            "13.12 (90)",
+            "Brunswick Street Oval",
+            "10000",
+            "17 June 1939"
+        ],
+        [
+            "North Melbourne",
+            "10.18 (78)",
+            "Collingwood",
+            "14.21 (105)",
+            "Arden Street Oval",
+            "14000",
+            "17 June 1939"
+        ]
+    ]
+}

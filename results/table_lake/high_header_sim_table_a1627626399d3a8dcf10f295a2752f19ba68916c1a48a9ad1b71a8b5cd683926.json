@@ -1,0 +1,151 @@
+{
+    "id": "a1627626399d3a8dcf10f295a2752f19ba68916c1a48a9ad1b71a8b5cd683926",
+    "metadata": "2007-08 Detroit Red Wings season | December | December",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "December 1",
+            "Phoenix",
+            "2 - 3",
+            "Detroit",
+            "Osgood",
+            "18557",
+            "18-6-2"
+        ],
+        [
+            "December 4",
+            "Detroit",
+            "4 - 1",
+            "Montreal",
+            "Hasek",
+            "21273",
+            "19-6-2"
+        ],
+        [
+            "December 7",
+            "Minnesota",
+            "0 - 5",
+            "Detroit",
+            "Hasek",
+            "19508",
+            "20-6-2"
+        ],
+        [
+            "December 9",
+            "Carolina",
+            "2 - 5",
+            "Detroit",
+            "Hasek",
+            "19609",
+            "21-6-2"
+        ],
+        [
+            "December 10",
+            "Detroit",
+            "2 - 1",
+            "Nashville",
+            "Osgood",
+            "15056",
+            "22-6-2"
+        ],
+        [
+            "December 13",
+            "Edmonton",
+            "4 - 3",
+            "Detroit",
+            "Hasek",
+            "18859",
+            "22-6-3"
+        ],
+        [
+            "December 15",
+            "Florida",
+            "2 - 5",
+            "Detroit",
+            "Osgood",
+            "20066",
+            "23-6-3"
+        ],
+        [
+            "December 17",
+            "Washington",
+            "3 - 4",
+            "Detroit",
+            "Hasek",
+            "19483",
+            "24-6-3"
+        ],
+        [
+            "December 19",
+            "Los Angeles",
+            "2 - 6",
+            "Detroit",
+            "Hasek",
+            "19516",
+            "25-6-3"
+        ],
+        [
+            "December 20",
+            "Detroit",
+            "2 - 3",
+            "St. Louis",
+            "Osgood",
+            "19150",
+            "25-7-3"
+        ],
+        [
+            "December 22",
+            "Detroit",
+            "4 - 1",
+            "Minnesota",
+            "Hasek",
+            "18568",
+            "26-7-3"
+        ],
+        [
+            "December 26",
+            "Detroit",
+            "5 - 0",
+            "St. Louis",
+            "Osgood",
+            "19250",
+            "27-7-3"
+        ],
+        [
+            "December 27",
+            "Detroit",
+            "4 - 2",
+            "Colorado",
+            "Hasek",
+            "18007",
+            "28-7-3"
+        ],
+        [
+            "December 29",
+            "Detroit",
+            "4 - 2",
+            "Phoenix",
+            "Osgood",
+            "17866",
+            "29-7-3"
+        ],
+        [
+            "December 31",
+            "St. Louis",
+            "2 - 0",
+            "Detroit",
+            "Hasek",
+            "20066",
+            "29-8-3"
+        ]
+    ]
+}

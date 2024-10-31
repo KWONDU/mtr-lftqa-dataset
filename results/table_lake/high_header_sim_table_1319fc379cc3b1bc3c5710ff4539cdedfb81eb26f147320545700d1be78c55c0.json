@@ -1,0 +1,71 @@
+{
+    "id": "1319fc379cc3b1bc3c5710ff4539cdedfb81eb26f147320545700d1be78c55c0",
+    "metadata": "Virginia Legacy | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Division",
+        "League",
+        "Regular_Season",
+        "Playoffs",
+        "Open_Cup"
+    ],
+    "cell": [
+        [
+            "2002",
+            "4",
+            "USL PDL",
+            "1st, Mid Atlantic",
+            "Conference Semifinals",
+            "Did not qualify"
+        ],
+        [
+            "2003",
+            "4",
+            "USL PDL",
+            "2nd, Mid Atlantic",
+            "Conference Semifinals",
+            "Did not qualify"
+        ],
+        [
+            "2004",
+            "4",
+            "USL PDL",
+            "2nd, Mid Atlantic",
+            "Conference Semifinals",
+            "Did not qualify"
+        ],
+        [
+            "2005",
+            "4",
+            "USL PDL",
+            "6th, Mid Atlantic",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "2006",
+            "4",
+            "USL PDL",
+            "2nd, Mid Atlantic",
+            "Conference Semifinals",
+            "Did not qualify"
+        ],
+        [
+            "2007",
+            "4",
+            "USL PDL",
+            "3rd, Mid Atlantic",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "2008",
+            "4",
+            "USL PDL",
+            "4th, Mid Atlantic",
+            "Did not qualify",
+            "Did not qualify"
+        ]
+    ]
+}

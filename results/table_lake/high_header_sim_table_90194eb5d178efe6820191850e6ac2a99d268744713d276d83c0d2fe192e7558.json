@@ -1,0 +1,63 @@
+{
+    "id": "90194eb5d178efe6820191850e6ac2a99d268744713d276d83c0d2fe192e7558",
+    "metadata": "Bl\u00e5ljus! | Titles | Titles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Swedish_title",
+        "Norwegian_title",
+        "Translated_title",
+        "Published",
+        "Pages",
+        "ISBN"
+    ],
+    "cell": [
+        [
+            "Alarm",
+            "Alarm",
+            "Alarm",
+            "2004",
+            "220",
+            "ISBN 91-7713-030-8"
+        ],
+        [
+            "Anrop",
+            "Anrop",
+            "Help",
+            "2004",
+            "219",
+            "ISBN 91-7713-031-6"
+        ],
+        [
+            "V\u00e4nskap?",
+            "Vennskap?",
+            "Friendship?",
+            "2004",
+            "221",
+            "ISBN 91-7713-032-4"
+        ],
+        [
+            "N\u00f6dsignaler",
+            "N\u00f8dsignaler",
+            "Emergency Signals",
+            "2004",
+            "220",
+            "ISBN 91-7713-033-2"
+        ],
+        [
+            "Stj\u00e4rnstoft",
+            "Stjernest\u00f8v",
+            "Stardust",
+            "2004",
+            "220",
+            "ISBN 91-7713-034-0"
+        ],
+        [
+            "Glimt av evigheten",
+            "Glimt av evigheten",
+            "Tinge of an Eternity",
+            "2004",
+            "221",
+            "ISBN 91-7713-035-9"
+        ]
+    ]
+}

@@ -1,0 +1,1327 @@
+{
+    "id": "809db940ce67d392dc0707ed998d332ac428f4eca5506a1df3c81e77fbaffd06",
+    "metadata": "Air China destinations | List | List",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "Province",
+        "Country",
+        "IATA",
+        "ICAO",
+        "Airport"
+    ],
+    "cell": [
+        [
+            "Aksu [begins 27 October 2013]",
+            "Xinjiang",
+            "China",
+            "AKU",
+            "ZWAK",
+            "Aksu Airport"
+        ],
+        [
+            "Addis Ababa",
+            "\u2014",
+            "Ethiopia",
+            "ADD",
+            "HAAB",
+            "Bole International Airport"
+        ],
+        [
+            "Almaty",
+            "\u2014",
+            "Kazakhstan",
+            "ALA",
+            "UAAA",
+            "Almaty International Airport"
+        ],
+        [
+            "Athens",
+            "\u2014",
+            "Greece",
+            "ATH",
+            "LGAV",
+            "Athens International Airport"
+        ],
+        [
+            "Auckland",
+            "\u2014",
+            "New Zealand",
+            "AKL",
+            "NZAA",
+            "Auckland Airport"
+        ],
+        [
+            "Baghdad",
+            "\u2014",
+            "Iraq",
+            "BGW",
+            "ORBI",
+            "Baghdad International Airport"
+        ],
+        [
+            "Bangalore",
+            "\u2014",
+            "India",
+            "BLR",
+            "VOBL",
+            "Bengaluru International Airport"
+        ],
+        [
+            "Bangkok",
+            "\u2014",
+            "Thailand",
+            "BKK",
+            "VTBS",
+            "Suvarnabhumi Airport"
+        ],
+        [
+            "Baotou",
+            "Inner Mongolia",
+            "China",
+            "BAV",
+            "ZBOW",
+            "Baotou Erliban Airport"
+        ],
+        [
+            "Beihai",
+            "Guangxi",
+            "China",
+            "BHY",
+            "ZGBH",
+            "Beihai Fucheng Airport"
+        ],
+        [
+            "Beijing",
+            "Beijing",
+            "China",
+            "PEK",
+            "ZBAA",
+            "Beijing Capital International Airport"
+        ],
+        [
+            "Belgrade",
+            "\u2014",
+            "Serbia",
+            "BEG",
+            "LYBE",
+            "Belgrade Nikola Tesla Airport"
+        ],
+        [
+            "Berlin",
+            "\u2014",
+            "Germany",
+            "TXL",
+            "EDDT",
+            "Berlin Tegel Airport"
+        ],
+        [
+            "Bucharest",
+            "\u2014",
+            "Romania",
+            "OTB",
+            "LROP",
+            "Henri Coand\u0103 International Airport"
+        ],
+        [
+            "Budapest",
+            "\u2014",
+            "Hungary",
+            "BUD",
+            "LHBP",
+            "Budapest Ferihegy International Airport"
+        ],
+        [
+            "Busan",
+            "\u2014",
+            "South Korea",
+            "PUS",
+            "RKPK",
+            "Gimhae International Airport"
+        ],
+        [
+            "Changchun",
+            "Jilin",
+            "China",
+            "CGQ",
+            "ZYCC",
+            "Longjia International Airport"
+        ],
+        [
+            "Changde",
+            "Hunan",
+            "China",
+            "CGD",
+            "ZGCD",
+            "Changde Airport"
+        ],
+        [
+            "Changzhou",
+            "Jiangsu",
+            "China",
+            "CZX",
+            "ZSCG",
+            "Benniu Airport"
+        ],
+        [
+            "Chaoyang",
+            "Liaoning",
+            "China",
+            "CHG",
+            "ZYCY",
+            "Chaoyang Airport"
+        ],
+        [
+            "Chengdu",
+            "Sichuan",
+            "China",
+            "CTU",
+            "ZUUU",
+            "Shuangliu International Airport"
+        ],
+        [
+            "Changsha",
+            "Hunan",
+            "China",
+            "CSX",
+            "ZGCS",
+            "Changsha Huanghua International Airport"
+        ],
+        [
+            "Cairo",
+            "\u2014",
+            "Egypt",
+            "CAI",
+            "HECA",
+            "Cairo International Airport"
+        ],
+        [
+            "Changzhi",
+            "Shanxi",
+            "China",
+            "CIH",
+            "ZBCZ",
+            "Changzhi Wangcun Airport"
+        ],
+        [
+            "Chiang Mai [begins 7 November 2013]",
+            "\u2014",
+            "Thailand",
+            "CNX",
+            "VTCC",
+            "Chiang Mai Airport"
+        ],
+        [
+            "Chifeng",
+            "Inner Mongolia",
+            "China",
+            "CIF",
+            "ZBCF",
+            "Chifeng Yulong Airport"
+        ],
+        [
+            "Chita",
+            "\u2014",
+            "Russia",
+            "HTA",
+            "UIAA",
+            "Kadala Airport"
+        ],
+        [
+            "Chongqing",
+            "Chongqing",
+            "China",
+            "CKG",
+            "ZUCK",
+            "Chongqing Jiangbei International Airport"
+        ],
+        [
+            "Copenhagen",
+            "\u2014",
+            "Denmark",
+            "CPH",
+            "EKCH",
+            "Copenhagen Airport"
+        ],
+        [
+            "Daegu",
+            "\u2014",
+            "South Korea",
+            "TAE",
+            "RKTN",
+            "Daegu Airport"
+        ],
+        [
+            "Dalian",
+            "Liaoning",
+            "China",
+            "DLC",
+            "ZYTL",
+            "Zhoushuizi International Airport"
+        ],
+        [
+            "Dandong",
+            "Liaoning",
+            "China",
+            "DDG",
+            "ZYDD",
+            "Dandong Langtou Airport"
+        ],
+        [
+            "Daocheng",
+            "Sichuan",
+            "China",
+            "DCY",
+            "ZUDC",
+            "Daocheng Yading Airport"
+        ],
+        [
+            "Delhi",
+            "\u2014",
+            "India",
+            "DEL",
+            "VIDP",
+            "Indira Gandhi International Airport"
+        ],
+        [
+            "Dubai",
+            "\u2014",
+            "United Arab Emirates",
+            "DXB",
+            "OMDB",
+            "Dubai International Airport"
+        ],
+        [
+            "Dunhuang",
+            "Gansu",
+            "China",
+            "DNH",
+            "ZLDH",
+            "Dunhuang Airport"
+        ],
+        [
+            "D\u00fcsseldorf",
+            "\u2014",
+            "Germany",
+            "DUS",
+            "EDDL",
+            "D\u00fcsseldorf International Airport"
+        ],
+        [
+            "Frankfurt",
+            "\u2014",
+            "Germany",
+            "FRA",
+            "EDDF",
+            "Frankfurt Airport"
+        ],
+        [
+            "Fukuoka",
+            "\u2014",
+            "Japan",
+            "FUK",
+            "RJFF",
+            "Fukuoka Airport"
+        ],
+        [
+            "Fuzhou",
+            "Fujian",
+            "China",
+            "FOC",
+            "ZSFZ",
+            "Fuzhou Changle International Airport"
+        ],
+        [
+            "Geneva",
+            "\u2014",
+            "Switzerland",
+            "GVA",
+            "LSGG",
+            "Geneva Airport"
+        ],
+        [
+            "Guangzhou",
+            "Guangdong",
+            "China",
+            "CAN",
+            "ZGGG",
+            "Baiyun International Airport"
+        ],
+        [
+            "Guilin",
+            "Guangxi",
+            "China",
+            "KWL",
+            "ZGKL",
+            "Guilin Liangjiang International Airport"
+        ],
+        [
+            "Guiyang",
+            "Guizhou",
+            "China",
+            "KWE",
+            "ZUGY",
+            "Guiyang Longdongbao International Airport"
+        ],
+        [
+            "Haikou",
+            "Hainan",
+            "China",
+            "HAK",
+            "ZJHK",
+            "Meilan International Airport"
+        ],
+        [
+            "Hailar",
+            "Inner Mongolia",
+            "China",
+            "HLD",
+            "ZBLA",
+            "Hulunbuir Hailar Airport"
+        ],
+        [
+            "Hangzhou",
+            "Zhejiang",
+            "China",
+            "HGH",
+            "ZSHC",
+            "Hangzhou Xiaoshan International Airport"
+        ],
+        [
+            "Hanoi",
+            "\u2014",
+            "Vietnam",
+            "HAN",
+            "VVNB",
+            "Noi Bai International Airport"
+        ],
+        [
+            "Harbin",
+            "Heilongjiang",
+            "China",
+            "HRB",
+            "ZYHB",
+            "Taiping International Airport"
+        ],
+        [
+            "Hefei",
+            "Anhui",
+            "China",
+            "HFE",
+            "ZSOF",
+            "Hefei Luogang International Airport"
+        ],
+        [
+            "Hiroshima",
+            "\u2014",
+            "Japan",
+            "HIJ",
+            "RJOA",
+            "Hiroshima Airport"
+        ],
+        [
+            "Ho Chi Minh City",
+            "\u2014",
+            "Vietnam",
+            "SGN",
+            "VVTS",
+            "Tan Son Nhat International Airport"
+        ],
+        [
+            "Hohhot",
+            "Inner Mongolia",
+            "China",
+            "HET",
+            "ZBHH",
+            "Hohhot Baita International Airport"
+        ],
+        [
+            "Honolulu [begins 21 January 2014]",
+            "\u2014",
+            "United States",
+            "HNL",
+            "PHNL",
+            "Honolulu International Airport"
+        ],
+        [
+            "Houston",
+            "\u2014",
+            "United States",
+            "IAH",
+            "KIAH",
+            "George Bush Intercontinental Airport"
+        ],
+        [
+            "Hong Kong",
+            "\u2014",
+            "Hong Kong",
+            "HKG",
+            "VHHH",
+            "Hong Kong International Airport"
+        ],
+        [
+            "Huangshan",
+            "Anhui",
+            "China",
+            "TXN",
+            "ZSTX",
+            "Huangshan Tunxi International Airport"
+        ],
+        [
+            "Irkutsk",
+            "\u2014",
+            "Russia",
+            "IKT",
+            "UIII",
+            "International Airport Irkutsk"
+        ],
+        [
+            "Istanbul",
+            "\u2014",
+            "Turkey",
+            "IST",
+            "LTBA",
+            "Atat\u00fcrk International Airport"
+        ],
+        [
+            "Jakarta",
+            "\u2014",
+            "Indonesia",
+            "CGK",
+            "WIII",
+            "Soekarno-Hatta International Airport"
+        ],
+        [
+            "Jiamusi",
+            "Heilongjiang",
+            "China",
+            "JMU",
+            "ZYJM",
+            "Jiamusi Airport"
+        ],
+        [
+            "Ji`an",
+            "Jiangxi",
+            "China",
+            "JNG",
+            "ZLJN",
+            "Jinggangshan Airport"
+        ],
+        [
+            "Jinan",
+            "Shandong",
+            "China",
+            "TNA",
+            "ZSJN",
+            "Jinan Yaoqiang International Airport"
+        ],
+        [
+            "Jingdezhen",
+            "Jiangxi",
+            "China",
+            "JDZ",
+            "ZSJD",
+            "Jingdezhen Luojia Airport"
+        ],
+        [
+            "Jinghong",
+            "Yunnan",
+            "China",
+            "JHG",
+            "ZPJH",
+            "Xishuangbanna Gasa Airport"
+        ],
+        [
+            "Karachi",
+            "\u2014",
+            "Pakistan",
+            "KHI",
+            "OPKC",
+            "Jinnah International Airport"
+        ],
+        [
+            "Kashgar",
+            "Xinjiang",
+            "China",
+            "KHG",
+            "ZWSH",
+            "Kashgar Airport"
+        ],
+        [
+            "Kathmandu",
+            "\u2014",
+            "Nepal",
+            "KTM",
+            "VNKT",
+            "Tribhuvan International Airport"
+        ],
+        [
+            "Kuala Lumpur",
+            "\u2014",
+            "Malaysia",
+            "KUL",
+            "WMMK",
+            "Kuala Lumpur International Airport"
+        ],
+        [
+            "Kunming",
+            "Yunnan",
+            "China",
+            "KMG",
+            "ZPPP",
+            "Kunming Changshui International Airport"
+        ],
+        [
+            "Kuwait City",
+            "\u2014",
+            "Kuwait",
+            "KWI",
+            "OKBK",
+            "Kuwait International Airport"
+        ],
+        [
+            "Lanzhou",
+            "Gansu",
+            "China",
+            "LHW",
+            "ZLLL",
+            "Lanzhou Airport"
+        ],
+        [
+            "Lhasa",
+            "Tibet",
+            "China",
+            "LXA",
+            "ZULS",
+            "Lhasa Gonggar Airport"
+        ],
+        [
+            "Lijiang",
+            "Yunnan",
+            "China",
+            "LJG",
+            "ZPLJ",
+            "Lijiang Airport"
+        ],
+        [
+            "Liuzhou",
+            "Guangxi",
+            "China",
+            "LZH",
+            "ZGZH",
+            "Liuzhou Airport"
+        ],
+        [
+            "London",
+            "\u2014",
+            "United Kingdom",
+            "LGW",
+            "EGKK",
+            "Gatwick Airport [seasonal]"
+        ],
+        [
+            "London",
+            "\u2014",
+            "United Kingdom",
+            "LHR",
+            "EGLL",
+            "London Heathrow Airport"
+        ],
+        [
+            "Los Angeles",
+            "\u2014",
+            "United States",
+            "LAX",
+            "KLAX",
+            "Los Angeles International Airport"
+        ],
+        [
+            "Macau",
+            "\u2014",
+            "Macau",
+            "MFM",
+            "VMMC",
+            "Macau International Airport"
+        ],
+        [
+            "Madrid",
+            "\u2014",
+            "Spain",
+            "MAD",
+            "LEMD",
+            "Madrid-Barajas Airport"
+        ],
+        [
+            "Mandalay",
+            "\u2014",
+            "Burma",
+            "MDY",
+            "VYMD",
+            "Mandalay International Airport"
+        ],
+        [
+            "Manila",
+            "\u2014",
+            "Philippines",
+            "MNL",
+            "RPLL",
+            "Ninoy Aquino International Airport"
+        ],
+        [
+            "Manzhouli",
+            "Inner Mongolia",
+            "China",
+            "NZH",
+            "ZBMZ",
+            "Manzhouli Xijiao Airport"
+        ],
+        [
+            "Melbourne",
+            "\u2014",
+            "Australia",
+            "MEL",
+            "YMML",
+            "Melbourne Airport"
+        ],
+        [
+            "Milan",
+            "\u2014",
+            "Italy",
+            "MXP",
+            "LIMC",
+            "Malpensa Airport"
+        ],
+        [
+            "Moscow",
+            "\u2014",
+            "Russia",
+            "SVO",
+            "UUEE",
+            "Sheremetyevo International Airport"
+        ],
+        [
+            "Mumbai",
+            "\u2014",
+            "India",
+            "BOM",
+            "VABB",
+            "Chhatrapati Shivaji International Airport"
+        ],
+        [
+            "Munich",
+            "\u2014",
+            "Germany",
+            "MUC",
+            "EDDM",
+            "Munich Airport"
+        ],
+        [
+            "Nagasaki",
+            "\u2014",
+            "Japan",
+            "NGS",
+            "RJFU",
+            "Nagasaki Airport"
+        ],
+        [
+            "Nagoya",
+            "\u2014",
+            "Japan",
+            "NGO",
+            "RJGG",
+            "Ch\u016bbu Centrair International Airport"
+        ],
+        [
+            "Naha",
+            "\u2014",
+            "Japan",
+            "OKA",
+            "ROAH",
+            "Naha Airport"
+        ],
+        [
+            "Nanchang",
+            "Jiangxi",
+            "China",
+            "KHN",
+            "ZSCN",
+            "Nanchang Changbei International Airport"
+        ],
+        [
+            "Nanjing",
+            "Jiangsu",
+            "China",
+            "NKG",
+            "ZSNJ",
+            "Lukou International Airport"
+        ],
+        [
+            "Nanning",
+            "Guangxi",
+            "China",
+            "NNG",
+            "ZGNN",
+            "Nanning Wuxu International Airport"
+        ],
+        [
+            "Nantong",
+            "Jiangsu",
+            "China",
+            "NTG",
+            "ZSNT",
+            "Nantong Airport"
+        ],
+        [
+            "New York City",
+            "\u2014",
+            "United States",
+            "JFK",
+            "KJFK",
+            "John F. Kennedy International Airport"
+        ],
+        [
+            "Ningbo",
+            "Zhejiang",
+            "China",
+            "NGB",
+            "ZSNB",
+            "Ningbo Lishe International Airport"
+        ],
+        [
+            "Nyingchi",
+            "Tibet",
+            "China",
+            "LZY",
+            "ZUNZ",
+            "Nyingchi Mainling Airport"
+        ],
+        [
+            "Omsk",
+            "\u2014",
+            "Russia",
+            "OMS",
+            "UNOO",
+            "Omsk Tsentralny Airport"
+        ],
+        [
+            "Ordos",
+            "Inner Mongolia",
+            "China",
+            "DSN",
+            "ZBDS",
+            "Ordos Ejin Horo Airport"
+        ],
+        [
+            "Osaka",
+            "\u2014",
+            "Japan",
+            "KIX",
+            "RJBB",
+            "Kansai International Airport"
+        ],
+        [
+            "Paris",
+            "\u2014",
+            "France",
+            "CDG",
+            "LFPG",
+            "Charles de Gaulle Airport"
+        ],
+        [
+            "Phuket",
+            "\u2014",
+            "Thailand",
+            "HKT",
+            "VTSP",
+            "Phuket International Airport"
+        ],
+        [
+            "Pyongyang",
+            "\u2014",
+            "North Korea",
+            "FNJ",
+            "ZKPY",
+            "Pyongyang Sunan International Airport"
+        ],
+        [
+            "Qamdo",
+            "Tibet",
+            "China",
+            "BPX",
+            "ZUBD",
+            "Qamdo Bamda Airport"
+        ],
+        [
+            "Qingdao",
+            "Shandong",
+            "China",
+            "TAO",
+            "ZSQD",
+            "Qingdao Liuting International Airport"
+        ],
+        [
+            "Qiqihar",
+            "Heilongjiang",
+            "China",
+            "NDG",
+            "ZYQQ",
+            "Qiqihar Airport"
+        ],
+        [
+            "Quanzhou",
+            "Fujian",
+            "China",
+            "JJN",
+            "ZSQZ",
+            "Quanzhou Jinjiang Airport"
+        ],
+        [
+            "Rome",
+            "\u2014",
+            "Italy",
+            "FCO",
+            "LIRF",
+            "Leonardo da Vinci-Fiumicino Airport"
+        ],
+        [
+            "Saint Petersburg",
+            "\u2014",
+            "Russia",
+            "LED",
+            "ULLI",
+            "Pulkovo International Airport"
+        ],
+        [
+            "San Francisco",
+            "\u2014",
+            "United States",
+            "SFO",
+            "KSFO",
+            "San Francisco International Airport"
+        ],
+        [
+            "Sanya",
+            "Hainan",
+            "China",
+            "SYX",
+            "ZJSY",
+            "Sanya Phoenix International Airport"
+        ],
+        [
+            "S\u00e3o Paulo",
+            "\u2014",
+            "Brazil",
+            "GRU",
+            "SBGR",
+            "S\u00e3o Paulo-Guarulhos International Airport"
+        ],
+        [
+            "Sapporo",
+            "\u2014",
+            "Japan",
+            "CTS",
+            "RJCC",
+            "New Chitose Airport"
+        ],
+        [
+            "Sendai [ends 27 October 2013]",
+            "\u2014",
+            "Japan",
+            "SDJ",
+            "RJSS",
+            "Sendai Airport"
+        ],
+        [
+            "Seoul",
+            "\u2014",
+            "South Korea",
+            "GMP",
+            "RKSS",
+            "Gimpo International Airport"
+        ],
+        [
+            "Seoul",
+            "\u2014",
+            "South Korea",
+            "ICN",
+            "RKSI",
+            "Incheon International Airport"
+        ],
+        [
+            "Shanghai",
+            "Shanghai",
+            "China",
+            "SHA",
+            "ZSSS",
+            "Shanghai Hongqiao International Airport"
+        ],
+        [
+            "Shanghai",
+            "Shanghai",
+            "China",
+            "PVG",
+            "ZSPD",
+            "Shanghai Pudong International Airport"
+        ],
+        [
+            "Shantou",
+            "Guangdong",
+            "China",
+            "SWA",
+            "ZGOW",
+            "Jieyang Chaoshan Airport"
+        ],
+        [
+            "Sharjah",
+            "\u2014",
+            "United Arab Emirates",
+            "SHJ",
+            "OMSJ",
+            "Sharjah International Airport"
+        ],
+        [
+            "Shenyang",
+            "Liaoning",
+            "China",
+            "SHE",
+            "ZYTX",
+            "Shenyang Taoxian International Airport"
+        ],
+        [
+            "Shenzhen",
+            "Guangdong",
+            "China",
+            "SZX",
+            "ZGSC",
+            "Shenzhen Bao`an International Airport"
+        ],
+        [
+            "Shigatse",
+            "Tibet",
+            "China",
+            "RKZ",
+            "ZURK",
+            "Shigatse Peace Airport"
+        ],
+        [
+            "Shiquanhe",
+            "Tibet",
+            "China",
+            "NGQ",
+            "ZUAL",
+            "Ngari Gunsa Airport"
+        ],
+        [
+            "Siem Reap [begins 1 December 2013]",
+            "\u2014",
+            "Cambodia",
+            "REP",
+            "VDSR",
+            "Siem Reap International Airport"
+        ],
+        [
+            "Singapore",
+            "\u2014",
+            "Singapore",
+            "SIN",
+            "WSSS",
+            "Singapore Changi Airport"
+        ],
+        [
+            "Stockholm",
+            "\u2014",
+            "Sweden",
+            "ARN",
+            "ESSA",
+            "Arlanda Airport"
+        ],
+        [
+            "Sydney",
+            "\u2014",
+            "Australia",
+            "SYD",
+            "YSSY",
+            "Sydney Airport"
+        ],
+        [
+            "Taichung",
+            "\u2014",
+            "Taiwan",
+            "RMQ",
+            "RCMQ",
+            "Taichung Airport"
+        ],
+        [
+            "Taipei",
+            "\u2014",
+            "Taiwan",
+            "TSA",
+            "RCSS",
+            "Taipei Songshan Airport"
+        ],
+        [
+            "Taipei",
+            "\u2014",
+            "Taiwan",
+            "TPE",
+            "RCTP",
+            "Taipei Taoyuan International Airport"
+        ],
+        [
+            "Taizhou",
+            "Zhejiang",
+            "China",
+            "HYN",
+            "ZSLQ",
+            "Taizhou Luqiao Airport"
+        ],
+        [
+            "Tianjin",
+            "Tianjin",
+            "China",
+            "TSN",
+            "ZBTJ",
+            "Binhai International Airport"
+        ],
+        [
+            "Tongliao",
+            "Inner Mongolia",
+            "China",
+            "TGO",
+            "ZBTL",
+            "Tongliao Airport"
+        ],
+        [
+            "Tokyo",
+            "\u2014",
+            "Japan",
+            "HND",
+            "RJTT",
+            "Haneda Airport"
+        ],
+        [
+            "Tokyo",
+            "\u2014",
+            "Japan",
+            "NRT",
+            "RJAA",
+            "Narita International Airport"
+        ],
+        [
+            "Toronto",
+            "\u2014",
+            "Canada",
+            "YYZ",
+            "CYYZ",
+            "Toronto Pearson International Airport"
+        ],
+        [
+            "Ulan Bator",
+            "\u2014",
+            "Mongolia",
+            "ULN",
+            "ZMUB",
+            "Chinggis Khaan International Airport"
+        ],
+        [
+            "Vancouver",
+            "\u2014",
+            "Canada",
+            "YVR",
+            "CYVR",
+            "Vancouver International Airport"
+        ],
+        [
+            "Vienna",
+            "\u2014",
+            "Austria",
+            "VIE",
+            "LOWW",
+            "Vienna International Airport"
+        ],
+        [
+            "Xi`an",
+            "Shaanxi",
+            "China",
+            "XIY",
+            "ZLXY",
+            "Xianyang International Airport"
+        ],
+        [
+            "Xining",
+            "Qinghai",
+            "China",
+            "XNN",
+            "ZLXN",
+            "Xining Caojiabu Airport"
+        ],
+        [
+            "Yangon",
+            "\u2014",
+            "Myanmar",
+            "RGN",
+            "VYYY",
+            "Yangon International Airport"
+        ],
+        [
+            "Yekaterinburg",
+            "\u2014",
+            "Russia",
+            "SVX",
+            "USSS",
+            "Koltsovo International Airport"
+        ],
+        [
+            "Wanzhou",
+            "Chongqing",
+            "China",
+            "WXN",
+            "ZUWX",
+            "Wanzhou Wuqiao Airport"
+        ],
+        [
+            "Weihai",
+            "Shandong",
+            "China",
+            "WEH",
+            "ZSWH",
+            "Weihai Dashuibo Airport"
+        ],
+        [
+            "Wenzhou",
+            "Zhejiang",
+            "China",
+            "WNZ",
+            "ZSWZ",
+            "Wenzhou Yongqiang Airport"
+        ],
+        [
+            "Wuhan",
+            "Hubei",
+            "China",
+            "WUH",
+            "ZHHH",
+            "Tianhe International Airport"
+        ],
+        [
+            "Wuxi",
+            "Jiangsu",
+            "China",
+            "WUX",
+            "ZSWX",
+            "Wuxi Shuofang Airport"
+        ],
+        [
+            "Xiamen",
+            "Fujian",
+            "China",
+            "XMN",
+            "ZSAM",
+            "Xiamen Gaoqi International Airport"
+        ],
+        [
+            "Xiangfan",
+            "Hubei",
+            "China",
+            "XFN",
+            "ZHXF",
+            "Xiangfan Airport"
+        ],
+        [
+            "Xilinhot",
+            "Inner Mongolia",
+            "China",
+            "XIL",
+            "ZBXH",
+            "Xilinhot Airport"
+        ],
+        [
+            "Xuzhou",
+            "Jiangsu",
+            "China",
+            "XUZ",
+            "ZSXZ",
+            "Xuzhou Airport"
+        ],
+        [
+            "Yanji",
+            "Jilin",
+            "China",
+            "YNJ",
+            "ZYYJ",
+            "Yanji Chaoyangchuan Airport"
+        ],
+        [
+            "Yantai",
+            "Shandong",
+            "China",
+            "YNT",
+            "ZSYT",
+            "Yantai Laishan International Airport"
+        ],
+        [
+            "Yichang",
+            "Hubei",
+            "China",
+            "YIH",
+            "ZHYC",
+            "Yichang Airport"
+        ],
+        [
+            "Yinchuan",
+            "Ningxia",
+            "China",
+            "INC",
+            "ZLIC",
+            "Yinchuan Hedong Airport"
+        ],
+        [
+            "Zhangjiajie",
+            "Hunan",
+            "China",
+            "DYG",
+            "ZGDY",
+            "Zhangjiajie Airport"
+        ],
+        [
+            "Zhanjiang [begins 27 October 2013]",
+            "Guangdong",
+            "China",
+            "ZHA",
+            "ZGZJ",
+            "Zhanjiang Airport"
+        ],
+        [
+            "Zhengzhou",
+            "Henan",
+            "China",
+            "CGO",
+            "ZHCC",
+            "Zhengzhou Xinzheng International Airport"
+        ],
+        [
+            "Zhuhai",
+            "Guangdong",
+            "China",
+            "ZUH",
+            "ZGSD",
+            "Zhuhai Jinwan Airport"
+        ],
+        [
+            "Zunyi",
+            "Guizhou",
+            "China",
+            "ZYI",
+            "ZUZY",
+            "Zunyi Xinzhou Airport"
+        ],
+        [
+            "Zurich",
+            "\u2014",
+            "Switzerland",
+            "ZRH",
+            "LSZH",
+            "Zurich Airport"
+        ]
+    ]
+}

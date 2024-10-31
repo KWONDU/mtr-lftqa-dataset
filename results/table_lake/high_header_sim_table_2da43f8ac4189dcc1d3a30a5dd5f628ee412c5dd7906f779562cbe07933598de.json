@@ -1,0 +1,247 @@
+{
+    "id": "2da43f8ac4189dcc1d3a30a5dd5f628ee412c5dd7906f779562cbe07933598de",
+    "metadata": "2007 Rally Finland | Special Stages | Special Stages",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Stage",
+        "Time_EEST",
+        "Name_",
+        "Length_",
+        "Winner",
+        "Time_",
+        "Avg_spd_",
+        "Rally_leader"
+    ],
+    "cell": [
+        [
+            "SS1",
+            "20:00",
+            "Killeri 1",
+            "2.50km",
+            "C. Atkinson",
+            "1:20.6",
+            "111.66km/h",
+            "C. Atkinson"
+        ],
+        [
+            "SS2",
+            "07:54",
+            "Vellipohja 1",
+            "17.20km",
+            "J. Latvala",
+            "8:18.7",
+            "124.16km/h",
+            "J. Latvala"
+        ],
+        [
+            "SS3",
+            "08:50",
+            "M\u00f6kkiper\u00e4 1",
+            "13.72km",
+            "M. Gr\u00f6nholm",
+            "6:47.5",
+            "121.21km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS4",
+            "09:29",
+            "Palsankyl\u00e4 1",
+            "13.31km",
+            "M. Hirvonen",
+            "6:47.4",
+            "117.61km/h",
+            "M. Hirvonen"
+        ],
+        [
+            "SS5",
+            "12:06",
+            "Vellipohja 2",
+            "17.20km",
+            "M. Gr\u00f6nholm",
+            "8:10.1",
+            "126.34km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS6",
+            "13:02",
+            "M\u00f6kkiper\u00e4 2",
+            "13.72km",
+            "M. Hirvonen M. Gr\u00f6nholm",
+            "6:42.7",
+            "122.65km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS7",
+            "13:41",
+            "Palsankyl\u00e4 2",
+            "13.31km",
+            "M. Gr\u00f6nholm",
+            "6:36.1",
+            "120.97km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS8",
+            "16:21",
+            "Urria",
+            "9.96km",
+            "M. Gr\u00f6nholm",
+            "4:36.6",
+            "129.63km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS9",
+            "16:51",
+            "Lautaper\u00e4",
+            "8.69km",
+            "M. Gr\u00f6nholm",
+            "3:56.7",
+            "132.17km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS10",
+            "17:29",
+            "Jukoj\u00e4rvi",
+            "22.25km",
+            "M. Gr\u00f6nholm",
+            "10:35.6",
+            "126.02km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS11",
+            "20:00",
+            "Killeri 2",
+            "2.50km",
+            "M. Gr\u00f6nholm",
+            "1:20.7",
+            "111.52km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS12",
+            "07:17",
+            "Kaipolanvuori",
+            "13.46km",
+            "S. Loeb",
+            "6:53.4",
+            "117.21km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS13",
+            "08:30",
+            "Juupajoki",
+            "22.13km",
+            "M. Gr\u00f6nholm",
+            "11:19.3",
+            "117.28km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS14",
+            "09:14",
+            "Ouninpohja 1",
+            "33.00km",
+            "M. Gr\u00f6nholm",
+            "15:35.3",
+            "127.02km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS15",
+            "12:15",
+            "Leustu",
+            "21.27km",
+            "M. Gr\u00f6nholm",
+            "10:12.6",
+            "124.99km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS16",
+            "13:24",
+            "Ouninpohja 2",
+            "33.00km",
+            "M. Gr\u00f6nholm",
+            "15:19.8",
+            "129.16km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS17",
+            "15:10",
+            "Ehikki 1",
+            "14.88km",
+            "M. Gr\u00f6nholm",
+            "6:52.2",
+            "129.96km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS18",
+            "16:23",
+            "Himos",
+            "18.55km",
+            "M. Gr\u00f6nholm",
+            "10:09.8",
+            "109.51km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS19",
+            "17:19",
+            "Ehikki 2",
+            "14.88km",
+            "M. Hirvonen",
+            "6:47.4",
+            "131.49km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS20",
+            "17:54",
+            "Surkee",
+            "14.89km",
+            "M. Hirvonen",
+            "8:13.6",
+            "108.6km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS21",
+            "10:15",
+            "Valkola",
+            "10.38km",
+            "M. Gr\u00f6nholm",
+            "5:35.9",
+            "111.25km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS22",
+            "11:07",
+            "Lankamaa",
+            "22.82km",
+            "M. Gr\u00f6nholm",
+            "11:07.2",
+            "123.13km/h",
+            "M. Gr\u00f6nholm"
+        ],
+        [
+            "SS23",
+            "12:22",
+            "Ruuhim\u00e4ki",
+            "7.53km",
+            "M. Gr\u00f6nholm",
+            "3:57.8",
+            "113.99km/h",
+            "M. Gr\u00f6nholm"
+        ]
+    ]
+}

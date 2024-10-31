@@ -1,0 +1,84 @@
+{
+    "id": "d3f149d1f428b5c2537ccff5880d218f443fcb68f732dafee856f7d93e62f005",
+    "metadata": "DC++ | Operating system support | Operating system support",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Client",
+        "Windows",
+        "GNU_Linux",
+        "Mac_OS_X",
+        "Haiku"
+    ],
+    "cell": [
+        [
+            "AirDC++",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "TkDC++",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "ApexDC++",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "DC++",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "EiskaltDC++",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "FlylinkDC++",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "LinuxDC++",
+            "No",
+            "Yes",
+            "No",
+            "No"
+        ],
+        [
+            "RSX++",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "StrongDC++",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "Client",
+            "Windows",
+            "GNU/Linux",
+            "Mac OS X",
+            "Haiku"
+        ]
+    ]
+}

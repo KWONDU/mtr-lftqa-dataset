@@ -1,0 +1,70 @@
+{
+    "id": "81b71a3be829900588749c0c9e48fdc916a72a8fead4ae3a575f454741e3f44f",
+    "metadata": "2003 CFL Draft | Round one | Round one",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "1",
+            "Calgary Stampeders",
+            "Steve Morley",
+            "OL",
+            "Saint Mary`s"
+        ],
+        [
+            "2",
+            "Calgary Stampeders",
+            "Joe McGrath",
+            "OT",
+            "Miami"
+        ],
+        [
+            "3",
+            "Hamilton Tiger-Cats",
+            "Julian Radlein",
+            "RB",
+            "British Columbia"
+        ],
+        [
+            "4",
+            "Edmonton Eskimos",
+            "Emmanuel Casseus",
+            "LB",
+            "Michigan"
+        ],
+        [
+            "5",
+            "Calgary Stampeders",
+            "Wes Lysack",
+            "DB",
+            "Manitoba"
+        ],
+        [
+            "6",
+            "BC Lions",
+            "Paris Jackson",
+            "WR",
+            "Utah"
+        ],
+        [
+            "7",
+            "Calgary Stampeders",
+            "Marc Calixte",
+            "LB",
+            "Tennessee (Martin)"
+        ],
+        [
+            "8",
+            "Edmonton Eskimos",
+            "Randy Spencer",
+            "DT",
+            "Weber State"
+        ]
+    ]
+}

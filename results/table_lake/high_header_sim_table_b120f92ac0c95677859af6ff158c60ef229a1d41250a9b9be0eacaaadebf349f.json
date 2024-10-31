@@ -1,0 +1,70 @@
+{
+    "id": "b120f92ac0c95677859af6ff158c60ef229a1d41250a9b9be0eacaaadebf349f",
+    "metadata": "1947 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "23.15 (153)",
+            "St Kilda",
+            "7.10 (52)",
+            "Punt Road Oval",
+            "13000",
+            "28 June 1947"
+        ],
+        [
+            "Essendon",
+            "12.13 (85)",
+            "Melbourne",
+            "10.15 (75)",
+            "Windy Hill",
+            "21000",
+            "28 June 1947"
+        ],
+        [
+            "Collingwood",
+            "14.19 (103)",
+            "North Melbourne",
+            "9.15 (69)",
+            "Victoria Park",
+            "15000",
+            "28 June 1947"
+        ],
+        [
+            "Carlton",
+            "18.17 (125)",
+            "Hawthorn",
+            "8.14 (62)",
+            "Princes Park",
+            "14000",
+            "28 June 1947"
+        ],
+        [
+            "South Melbourne",
+            "15.9 (99)",
+            "Footscray",
+            "12.10 (82)",
+            "Lake Oval",
+            "25000",
+            "28 June 1947"
+        ],
+        [
+            "Geelong",
+            "10.10 (70)",
+            "Fitzroy",
+            "11.15 (81)",
+            "Kardinia Park",
+            "16000",
+            "28 June 1947"
+        ]
+    ]
+}

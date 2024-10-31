@@ -1,0 +1,97 @@
+{
+    "id": "1384c92e2c2d385f0b37896a268a283ea75b220c52ce088deaaa951fe0b7c967",
+    "metadata": "Aliso Creek (Orange County) | Watershed | Tributaries",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Variant_Names",
+        "Source_",
+        "Source_coordinates",
+        "Length_",
+        "Mouth",
+        "Mouth_coordinates_"
+    ],
+    "cell": [
+        [
+            "Mouth",
+            "",
+            "N/A",
+            "N/A",
+            "N/A",
+            "Aliso Creek Beach, Laguna Beach",
+            "33\u00b030\u203238\u2033N 117\u00b045\u203212\u2033W\ufeff / \ufeff33.5105\u00b0N 117.7532\u00b0W"
+        ],
+        [
+            "Wood Canyon Creek",
+            "",
+            "Aliso Viejo",
+            "33\u00b035\u203239\u2033N 117\u00b044\u203222\u2033W\ufeff / \ufeff33.5941\u00b0N 117.7394\u00b0W",
+            "2.8 miles (4.5 km)",
+            "Aliso Canyon\u2014right bank of Aliso Creek",
+            "33\u00b032\u203228\u2033N 117\u00b044\u203213\u2033W\ufeff / \ufeff33.5411\u00b0N 117.7369\u00b0W"
+        ],
+        [
+            "Sulphur Creek",
+            "Arroyo Salada, Sulpher Creek, Salt Creek, Ca\u00f1ada Salada",
+            "North Laguna Niguel",
+            "33\u00b033\u203233\u2033N 117\u00b041\u203204\u2033W\ufeff / \ufeff33.5591\u00b0N 117.6844\u00b0W",
+            "4.5 miles (7.2 km)",
+            "Head of Aliso Canyon\u2014left bank of Aliso Creek",
+            "33\u00b032\u203232\u2033N 117\u00b042\u203216\u2033W\ufeff / \ufeff33.5422\u00b0N 117.7044\u00b0W"
+        ],
+        [
+            "Aliso Hills Channel",
+            "",
+            "South Laguna Hills",
+            "",
+            "4.5 miles (7.2 km)",
+            "Aliso Viejo\u2014left bank of Aliso Creek",
+            ""
+        ],
+        [
+            "Dairy Fork",
+            "Dairy Fork Storm Drain",
+            "South Laguna Woods",
+            "",
+            "3 miles (4.8 km)",
+            "Aliso Viejo- right bank of Aliso Creek",
+            ""
+        ],
+        [
+            "Munger Creek",
+            "Munger Creek Storm Drain",
+            "Lake Forest",
+            "",
+            "1 mile (1.6 km)",
+            "Mission Viejo\u2014right bank of Aliso Creek",
+            ""
+        ],
+        [
+            "Unnamed northern fork",
+            "",
+            "Portola Hills",
+            "",
+            "2.5 miles (4.0 km)",
+            "Mission Viejo\u2014right bank of Aliso Creek",
+            ""
+        ],
+        [
+            "English Canyon",
+            "English Canyon Creek, English Canyon Channel",
+            "Mission Viejo",
+            "33\u00b039\u203230\u2033N 117\u00b038\u203228\u2033W\ufeff / \ufeff33.6583\u00b0N 117.6411\u00b0W",
+            "3.5 miles (5.6 km)",
+            "Mission Viejo\u2014left bank of Aliso Creek",
+            "33\u00b037\u203242\u2033N 117\u00b040\u203252\u2033W\ufeff / \ufeff33.6283\u00b0N 117.6811\u00b0W"
+        ],
+        [
+            "Source",
+            "",
+            "Cleveland National Forest, Portola Hills",
+            "33\u00b042\u203210\u2033N 117\u00b037\u203221\u2033W\ufeff / \ufeff33.7027\u00b0N 117.6225\u00b0W",
+            "N/A",
+            "N/A",
+            "N/A"
+        ]
+    ]
+}

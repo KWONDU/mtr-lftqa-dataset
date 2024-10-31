@@ -1,0 +1,71 @@
+{
+    "id": "fc6a1a46779e3a62e820773d693313829e50bebc0c21496830438e6ecc9d9121",
+    "metadata": "Vice President of South Korea | Republic of Korea (1948-Presents) | Republic of Korea (1948-Presents)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "President",
+        "Vice",
+        "Romanized_Hangul",
+        "Took_office",
+        "Left_office",
+        "Political_party"
+    ],
+    "cell": [
+        [
+            "Syngman Rhee",
+            "1",
+            "Yi Si-yeong (\uc774\uc2dc\uc601)",
+            "24 July 1948",
+            "9 May 1951 (Resign)",
+            "Korea Democratic Party"
+        ],
+        [
+            "Syngman Rhee",
+            "2",
+            "Kim Seong-su (\uae40\uc131\uc218)",
+            "17 May 1951",
+            "29 May 1952 (Resign)",
+            "Korea Democratic Party"
+        ],
+        [
+            "Syngman Rhee",
+            "3",
+            "Hahm Tae-young (\ud568\ud0dc\uc601)",
+            "15 June 1952",
+            "14 August 1956",
+            "Independent"
+        ],
+        [
+            "Syngman Rhee",
+            "4",
+            "Chang Myon (\uc7a5\uba74)",
+            "15 August 1956",
+            "23 April 1960 (Resign)",
+            "Democratic Party"
+        ],
+        [
+            "Syngman Rhee",
+            "5",
+            "Yun Bo-seon (\uc724\ubcf4\uc120)",
+            "23 April 1960",
+            "26 April 1960",
+            "Democratic Party"
+        ],
+        [
+            "Yun Bo-seon",
+            "6",
+            "Heo Jeong (\uc724\ubcf4\uc120)",
+            "13 August 1960",
+            "16 August 1960",
+            "Democratic Party"
+        ],
+        [
+            "Yun Bo-seon",
+            "7",
+            "Song Yo-chan (\uc1a1\uc694\ucc2c)",
+            "16 August 1960",
+            "19 August 1960",
+            "Military"
+        ]
+    ]
+}

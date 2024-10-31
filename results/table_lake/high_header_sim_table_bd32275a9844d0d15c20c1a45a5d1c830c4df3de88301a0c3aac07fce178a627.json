@@ -1,0 +1,70 @@
+{
+    "id": "bd32275a9844d0d15c20c1a45a5d1c830c4df3de88301a0c3aac07fce178a627",
+    "metadata": "1979 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "14.15 (99)",
+            "Essendon",
+            "19.19 (133)",
+            "Victoria Park",
+            "27824",
+            "12 May 1979"
+        ],
+        [
+            "South Melbourne",
+            "26.19 (175)",
+            "St Kilda",
+            "11.20 (86)",
+            "Lake Oval",
+            "12394",
+            "12 May 1979"
+        ],
+        [
+            "Geelong",
+            "9.18 (72)",
+            "Footscray",
+            "7.5 (47)",
+            "Kardinia Park",
+            "27824",
+            "12 May 1979"
+        ],
+        [
+            "Melbourne",
+            "21.14 (140)",
+            "Fitzroy",
+            "24.19 (163)",
+            "MCG",
+            "21783",
+            "12 May 1979"
+        ],
+        [
+            "Hawthorn",
+            "16.12 (108)",
+            "Carlton",
+            "25.18 (168)",
+            "Princes Park",
+            "29935",
+            "12 May 1979"
+        ],
+        [
+            "North Melbourne",
+            "14.15 (99)",
+            "Richmond",
+            "13.16 (94)",
+            "VFL Park",
+            "22626",
+            "12 May 1979"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "88c96c0e7b208b8e0f255fe17129405073ff0504bf08b19ee900f54342ade3ee",
+    "metadata": "Galatasaray S.K. (Superleague Formula team) | 2008 season | 2008 season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "SF_Round",
+        "Country",
+        "Location_",
+        "Date_",
+        "Driver",
+        "Race_1pts",
+        "Race_2pts",
+        "Race_Totalpts"
+    ],
+    "cell": [
+        [
+            "1",
+            "England",
+            "Donington Park",
+            "30-31 August 2008",
+            "Alessandro Pier Guidi",
+            "12",
+            "12",
+            "24"
+        ],
+        [
+            "2",
+            "Germany",
+            "N\u00fcrburgring",
+            "20-21 September 2008",
+            "Alessandro Pier Guidi",
+            "40",
+            "26",
+            "90"
+        ],
+        [
+            "3",
+            "Belgium",
+            "Zolder",
+            "4-5 October 2008",
+            "Alessandro Pier Guidi",
+            "10",
+            "14",
+            "114"
+        ],
+        [
+            "4",
+            "Portugal",
+            "Estoril Circuit",
+            "18-19 October 2008",
+            "Alessandro Pier Guidi",
+            "26",
+            "40",
+            "180"
+        ],
+        [
+            "5",
+            "Italy",
+            "Vallelunga Circuit",
+            "1-2 November 2008",
+            "Alessandro Pier Guidi",
+            "40",
+            "16",
+            "236"
+        ]
+    ]
+}

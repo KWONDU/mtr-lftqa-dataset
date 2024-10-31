@@ -1,0 +1,367 @@
+{
+    "id": "7b33af5d4ba1230ba334005cb3ad033ffb0a58257d148c0acc6382a1204e99d9",
+    "metadata": "1987-88 Bradford City A.F.C. season | Football League Division Two | Football League Division Two",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "15 August 1987",
+            "Swindon Town",
+            "Home",
+            "2-0",
+            "10553"
+        ],
+        [
+            "2",
+            "18 August 1987",
+            "Oldham Athletic",
+            "Away",
+            "2-0",
+            "8087"
+        ],
+        [
+            "3",
+            "22 August 1987",
+            "Bournemouth",
+            "Away",
+            "0-2",
+            "7025"
+        ],
+        [
+            "4",
+            "29 August 1987",
+            "Leeds United",
+            "Home",
+            "0-0",
+            "11428"
+        ],
+        [
+            "5",
+            "5 September 1987",
+            "Millwall",
+            "Home",
+            "3-1",
+            "8658"
+        ],
+        [
+            "6",
+            "12 September 1987",
+            "Stoke City",
+            "Away",
+            "2-1",
+            "9571"
+        ],
+        [
+            "7",
+            "16 September 1987",
+            "Plymouth Argyle",
+            "Home",
+            "3-1",
+            "11009"
+        ],
+        [
+            "8",
+            "19 September 1987",
+            "Blackburn Rovers",
+            "Home",
+            "2-1",
+            "12068"
+        ],
+        [
+            "9",
+            "26 September 1987",
+            "Shrewsbury Town",
+            "Away",
+            "2-2",
+            "4247"
+        ],
+        [
+            "10",
+            "29 September 1987",
+            "Huddersfield Town",
+            "Away",
+            "2-1",
+            "11671"
+        ],
+        [
+            "11",
+            "3 October 1987",
+            "Middlesbrough",
+            "Home",
+            "2-0",
+            "14222"
+        ],
+        [
+            "12",
+            "10 October 1987",
+            "West Bromwich Albion",
+            "Away",
+            "1-0",
+            "12241"
+        ],
+        [
+            "13",
+            "17 October 1987",
+            "Birmingham City",
+            "Home",
+            "4-0",
+            "12256"
+        ],
+        [
+            "14",
+            "21 October 1987",
+            "Manchester City",
+            "Home",
+            "2-4",
+            "14819"
+        ],
+        [
+            "15",
+            "24 October 1987",
+            "Reading",
+            "Away",
+            "1-1",
+            "5920"
+        ],
+        [
+            "16",
+            "31 October 1987",
+            "Crystal Palace",
+            "Home",
+            "2-0",
+            "13021"
+        ],
+        [
+            "17",
+            "3 November 1987",
+            "Hull City",
+            "Away",
+            "0-0",
+            "14443"
+        ],
+        [
+            "18",
+            "7 November 1987",
+            "Barnsley",
+            "Away",
+            "0-3",
+            "11569"
+        ],
+        [
+            "19",
+            "14 November 1987",
+            "Sheffield United",
+            "Home",
+            "2-0",
+            "13694"
+        ],
+        [
+            "20",
+            "21 November 1987",
+            "Leicester City",
+            "Away",
+            "2-0",
+            "11543"
+        ],
+        [
+            "21",
+            "28 November 1987",
+            "Aston Villa",
+            "Home",
+            "2-4",
+            "15006"
+        ],
+        [
+            "22",
+            "5 December 1987",
+            "Ipswich Town",
+            "Away",
+            "0-4",
+            "13707"
+        ],
+        [
+            "23",
+            "12 December 1987",
+            "Bournemouth",
+            "Home",
+            "2-0",
+            "10763"
+        ],
+        [
+            "24",
+            "20 December 1987",
+            "Plymouth Argyle",
+            "Away",
+            "1-2",
+            "11350"
+        ],
+        [
+            "25",
+            "26 December 1987",
+            "Shrewsbury Town",
+            "Home",
+            "1-1",
+            "12474"
+        ],
+        [
+            "26",
+            "28 December 1987",
+            "Blackburn Rovers",
+            "Away",
+            "1-1",
+            "14124"
+        ],
+        [
+            "27",
+            "1 January 1988",
+            "Leeds United",
+            "Away",
+            "0-2",
+            "36004"
+        ],
+        [
+            "28",
+            "2 January 1988",
+            "Stoke City",
+            "Home",
+            "1-4",
+            "12223"
+        ],
+        [
+            "29",
+            "6 February 1988",
+            "Millwall",
+            "Away",
+            "1-0",
+            "8201"
+        ],
+        [
+            "30",
+            "13 February 1988",
+            "Oldham Athletic",
+            "Home",
+            "5-3",
+            "13862"
+        ],
+        [
+            "31",
+            "27 February 1988",
+            "Middlesbrough",
+            "Away",
+            "2-1",
+            "21079"
+        ],
+        [
+            "32",
+            "1 March 1988",
+            "Huddersfield Town",
+            "Home",
+            "0-1",
+            "12782"
+        ],
+        [
+            "33",
+            "5 March 1988",
+            "Birmingham City",
+            "Away",
+            "1-1",
+            "8101"
+        ],
+        [
+            "34",
+            "12 March 1988",
+            "West Bromwich Albion",
+            "Home",
+            "4-1",
+            "12502"
+        ],
+        [
+            "35",
+            "19 March 1988",
+            "Crystal Palace",
+            "Away",
+            "1-1",
+            "9801"
+        ],
+        [
+            "36",
+            "30 March 1988",
+            "Swindon Town",
+            "Away",
+            "2-2",
+            "8203"
+        ],
+        [
+            "37",
+            "2 April 1988",
+            "Barnsley",
+            "Home",
+            "1-1",
+            "15098"
+        ],
+        [
+            "38",
+            "4 April 1988",
+            "Sheffield United",
+            "Away",
+            "2-1",
+            "13888"
+        ],
+        [
+            "39",
+            "9 April 1988",
+            "Hull City",
+            "Home",
+            "2-0",
+            "13659"
+        ],
+        [
+            "40",
+            "20 April 1988",
+            "Reading",
+            "Home",
+            "3-0",
+            "13608"
+        ],
+        [
+            "41",
+            "23 April 1988",
+            "Manchester City",
+            "Away",
+            "2-2",
+            "20335"
+        ],
+        [
+            "42",
+            "30 April 1988",
+            "Leicester City",
+            "Home",
+            "4-1",
+            "14393"
+        ],
+        [
+            "43",
+            "2 May 1988",
+            "Aston Villa",
+            "Away",
+            "0-1",
+            "36423"
+        ],
+        [
+            "44",
+            "7 May 1988",
+            "Ipswich Town",
+            "Home",
+            "2-3",
+            "16017"
+        ]
+    ]
+}

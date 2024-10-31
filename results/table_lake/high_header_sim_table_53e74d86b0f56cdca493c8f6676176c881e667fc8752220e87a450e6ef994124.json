@@ -1,0 +1,55 @@
+{
+    "id": "53e74d86b0f56cdca493c8f6676176c881e667fc8752220e87a450e6ef994124",
+    "metadata": "2008 OAFL season | Round Three | Round Three",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_",
+        "Home",
+        "Away",
+        "Score",
+        "Ground"
+    ],
+    "cell": [
+        [
+            "2008-05-31",
+            "10:00",
+            "Toronto Downtown Dingos",
+            "Broadview Hawks",
+            "34-86",
+            "Humber College North"
+        ],
+        [
+            "2008-05-31",
+            "11:00",
+            "Hamilton Wildcats",
+            "Etobicoke Kangaroos",
+            "52-110",
+            "Humber College North"
+        ],
+        [
+            "2008-05-31",
+            "14:00",
+            "Ottawa Swans",
+            "High Park Demons",
+            "20-99",
+            "Rideau Carleton Raceway"
+        ],
+        [
+            "2008-05-31",
+            "14:00",
+            "Guelph Gargoyles",
+            "Central Blues",
+            "65-19",
+            "Magaret Green Park"
+        ],
+        [
+            "2008-05-31",
+            "14:00",
+            "Toronto Eagles",
+            "Toronto Rebels",
+            "106-35",
+            "Humber College North"
+        ]
+    ]
+}

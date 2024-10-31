@@ -1,0 +1,56 @@
+{
+    "id": "44a002e49603e364e6fa49ee8b6189d0cce5f736b572d1154812ffb08f110b78",
+    "metadata": "1999-2000 Philadelphia Flyers season | Playoffs | Eastern Conference Semifinals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Score",
+        "Series"
+    ],
+    "cell": [
+        [
+            "1",
+            "April 27",
+            "Pittsburgh Penguins",
+            "0-2",
+            "Penguins lead 1-0"
+        ],
+        [
+            "2",
+            "April 29",
+            "Pittsburgh Penguins",
+            "1-4",
+            "Penguins lead 2-0"
+        ],
+        [
+            "3",
+            "May 2",
+            "@ Pittsburgh Penguins",
+            "4-3 OT",
+            "Penguins lead 2-1"
+        ],
+        [
+            "4",
+            "May 4",
+            "@ Pittsburgh Penguins",
+            "2-1 5OT",
+            "Series tied 2-2"
+        ],
+        [
+            "5",
+            "May 7",
+            "Pittsburgh Penguins",
+            "6-3",
+            "Flyers lead 3-2"
+        ],
+        [
+            "6",
+            "May 9",
+            "@ Pittsburgh Penguins",
+            "2-1",
+            "Flyers win 4-2"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "cd8cb37b4a0df6553be13a969470f316aed28b91bf2a707affb4ac19302df2ca",
+    "metadata": "Cumann na nGaedheal | General election results | General election results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "D\u00e1il",
+        "Share_of_votes",
+        "Seats",
+        "Government"
+    ],
+    "cell": [
+        [
+            "1923",
+            "4th",
+            "28.9%",
+            "63",
+            "Cumann na nGaedheal government"
+        ],
+        [
+            "1927 (Jun)",
+            "5th",
+            "27.0%",
+            "46",
+            "Cumann na nGaedheal government"
+        ],
+        [
+            "1927 (Sep)",
+            "6th",
+            "38.7%",
+            "61",
+            "Cumann na nGaedheal government"
+        ],
+        [
+            "1932",
+            "7th",
+            "35.3%",
+            "57",
+            "Fianna F\u00e1il government"
+        ],
+        [
+            "1933",
+            "8th",
+            "30.1%",
+            "48",
+            "Fianna F\u00e1il government"
+        ]
+    ]
+}

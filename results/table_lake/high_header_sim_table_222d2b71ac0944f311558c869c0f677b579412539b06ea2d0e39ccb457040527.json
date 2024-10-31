@@ -1,0 +1,70 @@
+{
+    "id": "222d2b71ac0944f311558c869c0f677b579412539b06ea2d0e39ccb457040527",
+    "metadata": "1954 VFL season | Round 18 | Round 18",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "19.15 (129)",
+            "St Kilda",
+            "12.10 (82)",
+            "Arden Street Oval",
+            "9500",
+            "28 August 1954"
+        ],
+        [
+            "Footscray",
+            "17.15 (117)",
+            "Hawthorn",
+            "5.4 (34)",
+            "Western Oval",
+            "22896",
+            "28 August 1954"
+        ],
+        [
+            "South Melbourne",
+            "7.7 (49)",
+            "Melbourne",
+            "14.17 (101)",
+            "Lake Oval",
+            "25000",
+            "28 August 1954"
+        ],
+        [
+            "Fitzroy",
+            "14.13 (97)",
+            "Essendon",
+            "13.13 (91)",
+            "Brunswick Street Oval",
+            "20000",
+            "28 August 1954"
+        ],
+        [
+            "Richmond",
+            "14.17 (101)",
+            "Collingwood",
+            "6.12 (48)",
+            "Punt Road Oval",
+            "25000",
+            "28 August 1954"
+        ],
+        [
+            "Geelong",
+            "13.12 (90)",
+            "Carlton",
+            "6.13 (49)",
+            "Kardinia Park",
+            "23119",
+            "28 August 1954"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "ccece9e9bd1035570fec278d00584da0d7288beb4f7d2e207ce619f251d25e37",
+    "metadata": "Greg McElroy | College statistics | Passing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "GP_GS",
+        "Comp_Att",
+        "Pct_",
+        "Yards",
+        "Long_",
+        "Avg_G"
+    ],
+    "cell": [
+        [
+            "2006",
+            "Redshirt",
+            "Redshirt",
+            "Redshirt",
+            "Redshirt",
+            "Redshirt",
+            "Redshirt"
+        ],
+        [
+            "2007",
+            "2-0",
+            "8-9",
+            "88.9",
+            "73",
+            "32",
+            "36.5"
+        ],
+        [
+            "2008",
+            "6-0",
+            "8-11",
+            "72.7",
+            "123",
+            "34",
+            "20.5"
+        ],
+        [
+            "2009",
+            "14-14",
+            "197-325",
+            "60.6",
+            "2508",
+            "80",
+            "179.1"
+        ],
+        [
+            "2010",
+            "13-13",
+            "222-313",
+            "70.9",
+            "2987",
+            "85",
+            "230.6"
+        ],
+        [
+            "Total",
+            "34-27",
+            "436-658",
+            "65.8",
+            "5691",
+            "85",
+            "160.9"
+        ]
+    ]
+}

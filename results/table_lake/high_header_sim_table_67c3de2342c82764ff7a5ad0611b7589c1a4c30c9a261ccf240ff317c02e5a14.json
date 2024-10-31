@@ -1,0 +1,70 @@
+{
+    "id": "67c3de2342c82764ff7a5ad0611b7589c1a4c30c9a261ccf240ff317c02e5a14",
+    "metadata": "1938 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "20.16 (136)",
+            "North Melbourne",
+            "6.11 (47)",
+            "Corio Oval",
+            "9500",
+            "7 May 1938"
+        ],
+        [
+            "Fitzroy",
+            "12.11 (83)",
+            "Melbourne",
+            "17.14 (116)",
+            "Brunswick Street Oval",
+            "14000",
+            "7 May 1938"
+        ],
+        [
+            "South Melbourne",
+            "8.12 (60)",
+            "St Kilda",
+            "11.17 (83)",
+            "Lake Oval",
+            "18000",
+            "7 May 1938"
+        ],
+        [
+            "Hawthorn",
+            "8.14 (62)",
+            "Footscray",
+            "9.16 (70)",
+            "Glenferrie Oval",
+            "14500",
+            "7 May 1938"
+        ],
+        [
+            "Richmond",
+            "15.12 (102)",
+            "Collingwood",
+            "11.26 (92)",
+            "Punt Road Oval",
+            "30000",
+            "7 May 1938"
+        ],
+        [
+            "Essendon",
+            "14.17 (101)",
+            "Carlton",
+            "15.12 (102)",
+            "Windy Hill",
+            "17000",
+            "7 May 1938"
+        ]
+    ]
+}

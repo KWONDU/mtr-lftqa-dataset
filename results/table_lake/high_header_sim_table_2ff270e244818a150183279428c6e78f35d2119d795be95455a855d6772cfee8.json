@@ -1,0 +1,49 @@
+{
+    "id": "2ff270e244818a150183279428c6e78f35d2119d795be95455a855d6772cfee8",
+    "metadata": "Giovanni Cornacchia | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournament",
+        "Venue",
+        "Result_",
+        "Event"
+    ],
+    "cell": [
+        [
+            "1962",
+            "European Championships",
+            "Belgrade , Yugoslavia",
+            "2nd",
+            "110 m hurdles"
+        ],
+        [
+            "1964",
+            "Olympic Games",
+            "Tokyo , Japan",
+            "7th",
+            "110 m hurdles"
+        ],
+        [
+            "1965",
+            "Universiade",
+            "Budapest , Hungary",
+            "2nd",
+            "110 m hurdles"
+        ],
+        [
+            "1966",
+            "European Championships",
+            "Budapest , Hungary",
+            "5th",
+            "110 m hurdles"
+        ],
+        [
+            "1967",
+            "Mediterranean Games",
+            "Tunis , Tunisia",
+            "1st",
+            "110 m hurdles"
+        ]
+    ]
+}

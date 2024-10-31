@@ -1,0 +1,55 @@
+{
+    "id": "8210b69f30a1a52b32cc2710ba7008b9305260b7f414ad474a66916ea33418ea",
+    "metadata": "2005 European Figure Skating Championships | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Russia",
+            "4",
+            "1",
+            "1",
+            "6"
+        ],
+        [
+            "2",
+            "France",
+            "0",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "2",
+            "Ukraine",
+            "0",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "4",
+            "Finland",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Germany",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

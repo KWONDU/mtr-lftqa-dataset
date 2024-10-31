@@ -1,0 +1,71 @@
+{
+    "id": "84cbeb29337b52aced4f69c7030df0fea87620cc4bff5941787e03282fea0a19",
+    "metadata": "USS Wasp (1814) | Second Raiding Cruise | Second raiding cruise",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Ship_Name",
+        "Tonnage",
+        "Ship_Type",
+        "Location_",
+        "Disposition_of_Ship"
+    ],
+    "cell": [
+        [
+            "30 August 1814",
+            "Lettice",
+            "t",
+            "Brig",
+            "English Channel",
+            "Captured"
+        ],
+        [
+            "31",
+            "Bon Accord",
+            "t",
+            "Brig",
+            "\u201c",
+            "Captured"
+        ],
+        [
+            "1 September",
+            "Mary",
+            "t",
+            "Brig",
+            "\u201c",
+            "Captured"
+        ],
+        [
+            "1",
+            "HMS Avon",
+            "391",
+            "18-gun Brig",
+            "\u201c",
+            "Wrecked"
+        ],
+        [
+            "12",
+            "Three Brothers",
+            "t",
+            "Brig",
+            "SW Approaches",
+            "Scuttled"
+        ],
+        [
+            "14",
+            "Bacchus",
+            "t",
+            "Brig",
+            "\u201c",
+            "Sank"
+        ],
+        [
+            "21",
+            "HMS Atalanta",
+            "225",
+            "8 gun Brig",
+            "Mid-Atlantic",
+            "Captured"
+        ]
+    ]
+}

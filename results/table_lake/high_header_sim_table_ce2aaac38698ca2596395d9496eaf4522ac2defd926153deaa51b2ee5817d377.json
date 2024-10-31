@@ -1,0 +1,49 @@
+{
+    "id": "ce2aaac38698ca2596395d9496eaf4522ac2defd926153deaa51b2ee5817d377",
+    "metadata": "1989-90 Dundee United F.C. season | Tennent's Scottish Cup | Tennent's Scottish Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "20 January 1990",
+            "Dundee",
+            "A",
+            "0-0",
+            "14176"
+        ],
+        [
+            "23 January 1990",
+            "Dundee",
+            "H",
+            "1-0",
+            "16228"
+        ],
+        [
+            "24 February 1990",
+            "Queen of the South",
+            "H",
+            "2-1",
+            "5948"
+        ],
+        [
+            "17 March 1990",
+            "Hibernian",
+            "H",
+            "1-0",
+            "13874"
+        ],
+        [
+            "14 April 1990",
+            "Aberdeen",
+            "N",
+            "0-4",
+            "16581"
+        ]
+    ]
+}

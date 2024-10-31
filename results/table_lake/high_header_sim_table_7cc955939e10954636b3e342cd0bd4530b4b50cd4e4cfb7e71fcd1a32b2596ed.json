@@ -1,0 +1,70 @@
+{
+    "id": "7cc955939e10954636b3e342cd0bd4530b4b50cd4e4cfb7e71fcd1a32b2596ed",
+    "metadata": "1929 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "9.6 (60)",
+            "St Kilda",
+            "11.5 (71)",
+            "Corio Oval",
+            "10500",
+            "3 August 1929"
+        ],
+        [
+            "Fitzroy",
+            "5.11 (41)",
+            "Melbourne",
+            "11.11 (77)",
+            "Brunswick Street Oval",
+            "8000",
+            "3 August 1929"
+        ],
+        [
+            "North Melbourne",
+            "9.8 (62)",
+            "Footscray",
+            "7.7 (49)",
+            "Arden Street Oval",
+            "7000",
+            "3 August 1929"
+        ],
+        [
+            "Richmond",
+            "10.14 (74)",
+            "Essendon",
+            "10.14 (74)",
+            "Punt Road Oval",
+            "22000",
+            "3 August 1929"
+        ],
+        [
+            "South Melbourne",
+            "6.7 (43)",
+            "Collingwood",
+            "10.10 (70)",
+            "Lake Oval",
+            "20000",
+            "3 August 1929"
+        ],
+        [
+            "Hawthorn",
+            "5.7 (37)",
+            "Carlton",
+            "7.8 (50)",
+            "Glenferrie Oval",
+            "6000",
+            "3 August 1929"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "3f52cf6d77b0571ee20db34f3f3ff7bb86a672825ab4af1eb7109618c4284f3a",
+    "metadata": "List of television show franchises | All in the Family/Till Death Us Do Part | All in the Family/Till Death Us Do Part",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region_Country",
+        "Local_name",
+        "Network",
+        "Dates_aired",
+        "Starring"
+    ],
+    "cell": [
+        [
+            "United Kingdom",
+            "Till Death Us Do Part",
+            "BBC One",
+            "1965-1968, 1970, 1972-1975",
+            "Warren Mitchell as Alf Garnett"
+        ],
+        [
+            "United Kingdom",
+            "Till Death...",
+            "ITV",
+            "1981",
+            "Warren Mitchell as Alf Garnett"
+        ],
+        [
+            "United Kingdom",
+            "In Sickness and in Health",
+            "BBC One",
+            "1985-1992",
+            "Warren Mitchell as Alf Garnett"
+        ],
+        [
+            "United States",
+            "All in the Family",
+            "CBS",
+            "1971-1979",
+            "Carroll O`Connor as Archie Bunker"
+        ],
+        [
+            "United States",
+            "Archie Bunker`s Place",
+            "CBS",
+            "1979-1983",
+            "Carroll O`Connor as Archie Bunker"
+        ],
+        [
+            "Germany",
+            "Ein Herz und eine Seele",
+            "WDR , ARD",
+            "1973-1976",
+            "Heinz Schubert as Alfred Tetzlaff"
+        ],
+        [
+            "Netherlands",
+            "In voor en tegenspoed",
+            "VARA",
+            "1991-1997",
+            "Rijk de Gooyer as Fred Schuit"
+        ]
+    ]
+}

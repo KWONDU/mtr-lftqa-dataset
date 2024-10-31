@@ -1,0 +1,85 @@
+{
+    "id": "977a4ab6ef991564a04c5a68a512e1a218ca078fa9c7c148e1c9b39481a81b7f",
+    "metadata": "Brett Bodine | NASCAR Nationwide Series | NASCAR Nationwide Series",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Starts",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Poles",
+        "Avg_Start",
+        "Avg_Finish",
+        "Winnings",
+        "Position_",
+        "Teams"
+    ],
+    "cell": [
+        [
+            "1985",
+            "13",
+            "3",
+            "7",
+            "10",
+            "3",
+            "3.7",
+            "8.2",
+            "$51,465",
+            "23rd",
+            "#15/#5 Hendrick Motorsports"
+        ],
+        [
+            "1986",
+            "31",
+            "2",
+            "16",
+            "24",
+            "8",
+            "3.9",
+            "8.3",
+            "$173,181",
+            "2nd",
+            "#00 Thomas Brothers Racing"
+        ],
+        [
+            "1987",
+            "27",
+            "0",
+            "8",
+            "17",
+            "5",
+            "5.7",
+            "11.7",
+            "$138,551",
+            "3rd",
+            "#00 Thomas Brothers Racing"
+        ],
+        [
+            "1992",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "28.0",
+            "28.0",
+            "$1,425",
+            "118th",
+            "#26 Mike Greci Racing"
+        ],
+        [
+            "1993",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "10.0",
+            "28.0",
+            "$1,650",
+            "98th",
+            "#26 Mike Greci Racing"
+        ]
+    ]
+}

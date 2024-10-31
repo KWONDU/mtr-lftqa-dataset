@@ -1,0 +1,79 @@
+{
+    "id": "ef48c22baaf4f54f007d3715791cd1bf9da983a26f0d0f2db6e68da3e02b19a4",
+    "metadata": "1969 World Figure Skating Championships | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Soviet Union",
+            "1",
+            "2",
+            "1",
+            "4"
+        ],
+        [
+            "2",
+            "United States",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "3",
+            "East Germany",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "3",
+            "United Kingdom",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Austria",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Czechoslovakia",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "7",
+            "France",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "7",
+            "Hungary",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

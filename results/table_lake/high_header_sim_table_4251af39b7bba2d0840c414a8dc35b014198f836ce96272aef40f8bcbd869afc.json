@@ -1,0 +1,49 @@
+{
+    "id": "4251af39b7bba2d0840c414a8dc35b014198f836ce96272aef40f8bcbd869afc",
+    "metadata": "2009 NBA Finals | Series summary | Series summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Home_Team",
+        "Result_",
+        "Road_Team"
+    ],
+    "cell": [
+        [
+            "Game 1",
+            "Thursday, June 4",
+            "Los Angeles Lakers",
+            "100-75 (1-0)",
+            "Orlando Magic"
+        ],
+        [
+            "Game 2",
+            "Sunday, June 7",
+            "Los Angeles Lakers",
+            "101-96 (2-0)",
+            "Orlando Magic"
+        ],
+        [
+            "Game 3",
+            "Tuesday, June 9",
+            "Orlando Magic",
+            "108-104 (2-1)",
+            "Los Angeles Lakers"
+        ],
+        [
+            "Game 4",
+            "Thursday, June 11",
+            "Orlando Magic",
+            "91-99 (3-1)",
+            "Los Angeles Lakers"
+        ],
+        [
+            "Game 5",
+            "Sunday, June 14",
+            "Orlando Magic",
+            "86-99 (4-1)",
+            "Los Angeles Lakers"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "7a802f3057c788cb209331c2455bec4f1030c5ac0ad9b6fdae8a815ec4cae70c",
+    "metadata": "1969 VFL season | Round 19 | Round 19",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "16.14 (110)",
+            "Hawthorn",
+            "14.11 (95)",
+            "Kardinia Park",
+            "31569",
+            "23 August 1969"
+        ],
+        [
+            "Collingwood",
+            "19.15 (129)",
+            "South Melbourne",
+            "6.22 (58)",
+            "Victoria Park",
+            "19428",
+            "23 August 1969"
+        ],
+        [
+            "Carlton",
+            "20.7 (127)",
+            "Richmond",
+            "24.12 (156)",
+            "Princes Park",
+            "27657",
+            "23 August 1969"
+        ],
+        [
+            "St Kilda",
+            "21.18 (144)",
+            "North Melbourne",
+            "8.10 (58)",
+            "Moorabbin Oval",
+            "11109",
+            "23 August 1969"
+        ],
+        [
+            "Melbourne",
+            "14.13 (97)",
+            "Fitzroy",
+            "14.15 (99)",
+            "MCG",
+            "17790",
+            "23 August 1969"
+        ],
+        [
+            "Footscray",
+            "14.10 (94)",
+            "Essendon",
+            "12.10 (82)",
+            "Western Oval",
+            "16043",
+            "23 August 1969"
+        ]
+    ]
+}

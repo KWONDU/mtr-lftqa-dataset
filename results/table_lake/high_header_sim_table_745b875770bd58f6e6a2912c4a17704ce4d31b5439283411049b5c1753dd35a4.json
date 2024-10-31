@@ -1,0 +1,70 @@
+{
+    "id": "745b875770bd58f6e6a2912c4a17704ce4d31b5439283411049b5c1753dd35a4",
+    "metadata": "1946 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "12.15 (87)",
+            "South Melbourne",
+            "16.14 (110)",
+            "Glenferrie Oval",
+            "13000",
+            "10 August 1946"
+        ],
+        [
+            "Footscray",
+            "13.13 (91)",
+            "Melbourne",
+            "16.16 (112)",
+            "Western Oval",
+            "23000",
+            "10 August 1946"
+        ],
+        [
+            "St Kilda",
+            "20.10 (130)",
+            "Geelong",
+            "8.11 (59)",
+            "Junction Oval",
+            "6000",
+            "10 August 1946"
+        ],
+        [
+            "Fitzroy",
+            "14.18 (102)",
+            "Essendon",
+            "7.16 (58)",
+            "Brunswick Street Oval",
+            "16000",
+            "10 August 1946"
+        ],
+        [
+            "Richmond",
+            "18.9 (117)",
+            "Collingwood",
+            "12.15 (87)",
+            "Punt Road Oval",
+            "32000",
+            "10 August 1946"
+        ],
+        [
+            "North Melbourne",
+            "13.9 (87)",
+            "Carlton",
+            "10.18 (78)",
+            "Arden Street Oval",
+            "16000",
+            "10 August 1946"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "b300b7200a73f405ed921ceddd2ffafe66c65590b3c3f391e7a90657b23790fc",
+    "metadata": "Chennai Super Kings | Overall results in CLT20 | Performance summary in Champions League",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Matches",
+        "Wins",
+        "Losses",
+        "No_Result",
+        "Success_Rate"
+    ],
+    "cell": [
+        [
+            "2008",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "2010",
+            "6",
+            "5",
+            "1",
+            "0",
+            "83.33%"
+        ],
+        [
+            "2011",
+            "4",
+            "1",
+            "3",
+            "0",
+            "25%"
+        ],
+        [
+            "2012",
+            "4",
+            "2",
+            "2",
+            "0",
+            "50%"
+        ],
+        [
+            "2013",
+            "5",
+            "3",
+            "2",
+            "0",
+            "60%"
+        ],
+        [
+            "Total",
+            "19",
+            "11",
+            "8",
+            "0",
+            "57.89%"
+        ]
+    ]
+}

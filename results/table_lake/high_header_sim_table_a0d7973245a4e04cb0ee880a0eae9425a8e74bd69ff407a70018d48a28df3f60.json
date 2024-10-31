@@ -1,0 +1,168 @@
+{
+    "id": "a0d7973245a4e04cb0ee880a0eae9425a8e74bd69ff407a70018d48a28df3f60",
+    "metadata": "1990 Giro d'Italia | Route and stages | Stage results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Course",
+        "Distance",
+        "Type_",
+        "Winner"
+    ],
+    "cell": [
+        [
+            "18 May",
+            "Bari to Bari",
+            "km (mi)",
+            "Individual time trial",
+            "Gianni Bugno ( ITA )"
+        ],
+        [
+            "19 May",
+            "Bari to Sala Consilina",
+            "km (mi)",
+            "Hilly stage",
+            "Giovanni Fidanza ( ITA )"
+        ],
+        [
+            "20 May",
+            "Sala Consilina to Mount Vesuvius",
+            "km (mi)",
+            "Hilly stage",
+            "Eduardo Chozas ( ESP )"
+        ],
+        [
+            "21 May",
+            "Ercolano to Nola",
+            "km (mi)",
+            "Plain stage",
+            "Stefano Allocchio ( ITA )"
+        ],
+        [
+            "21 May",
+            "Nola to Sora",
+            "km (mi)",
+            "Plain stage",
+            "Phil Anderson ( AUS )"
+        ],
+        [
+            "22 May",
+            "Sora to Teramo",
+            "km (mi)",
+            "Hilly stage",
+            "Fabrizio Convalle ( ITA )"
+        ],
+        [
+            "23 May",
+            "Teramo to Fabriano",
+            "km (mi)",
+            "Hilly stage",
+            "Luca Gelfi ( ITA )"
+        ],
+        [
+            "24 May",
+            "Fabriano to Vallombrosa",
+            "km (mi)",
+            "Hilly stage",
+            "Gianni Bugno ( ITA )"
+        ],
+        [
+            "25 May",
+            "Reggello to Marina di Pietrasanta",
+            "km (mi)",
+            "Plain stage",
+            "Stefano Allocchio ( ITA )"
+        ],
+        [
+            "26 May",
+            "La Spezia to Langhirano",
+            "km (mi)",
+            "Hilly stage",
+            "Vladimir Poulnikov ( URS )"
+        ],
+        [
+            "27 May",
+            "Grinzane Cavour to Cuneo",
+            "km (mi)",
+            "Individual time trial",
+            "Luca Gelfi ( ITA )"
+        ],
+        [
+            "28 May",
+            "Cuneo to Lodi",
+            "km (mi)",
+            "Plain stage",
+            "Adriano Baffi ( ITA )"
+        ],
+        [
+            "29 May",
+            "Brescia to Baselga di Pin\u00e8",
+            "km (mi)",
+            "Hilly stage",
+            "\u00c9ric Boyer ( FRA )"
+        ],
+        [
+            "30 May",
+            "Baselga di Pin\u00e8 to Udine",
+            "km (mi)",
+            "Plain stage",
+            "Mario Cipollini ( ITA )"
+        ],
+        [
+            "31 May",
+            "Klagenfurt ( Austria ) to Klagenfurt ( Austria )",
+            "km (mi)",
+            "Hilly stage",
+            "Alan Peiper ( AUS )"
+        ],
+        [
+            "1 June",
+            "Velden am W\u00f6rther See ( Austria ) to Dobbiaco",
+            "km (mi)",
+            "Stage with mountain(s)",
+            "\u00c9ric Boyer ( FRA )"
+        ],
+        [
+            "2 June",
+            "Dobbiaco to Passo Pordoi",
+            "km (mi)",
+            "Stage with mountain(s)",
+            "Charly Mottet ( FRA )"
+        ],
+        [
+            "3 June",
+            "Moena to Aprica",
+            "km (mi)",
+            "Stage with mountain(s)",
+            "Leonardo Sierra ( VEN )"
+        ],
+        [
+            "4 June",
+            "Aprica to Gallarate",
+            "km (mi)",
+            "Plain stage",
+            "Adriano Baffi ( ITA )"
+        ],
+        [
+            "5 June",
+            "Gallarate to Sacro Monte di Varese",
+            "km (mi)",
+            "Individual time trial",
+            "Gianni Bugno ( ITA )"
+        ],
+        [
+            "6 June",
+            "Milan to Milan",
+            "km (mi)",
+            "Plain stage",
+            "Mario Cipollini ( ITA )"
+        ],
+        [
+            "Total",
+            "Total",
+            "km (mi)",
+            "km (mi)",
+            "km (mi)"
+        ]
+    ]
+}

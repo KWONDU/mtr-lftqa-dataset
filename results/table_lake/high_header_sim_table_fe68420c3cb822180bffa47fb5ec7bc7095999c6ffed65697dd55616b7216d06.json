@@ -1,0 +1,63 @@
+{
+    "id": "fe68420c3cb822180bffa47fb5ec7bc7095999c6ffed65697dd55616b7216d06",
+    "metadata": "Henlopen Conference | 2004 Regular Season Football Standings | 2004 Regular Season Football Standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Team",
+        "Division_Record",
+        "Overall_Record",
+        "Season_Outcome"
+    ],
+    "cell": [
+        [
+            "Indian River",
+            "Indians",
+            "5 - 1",
+            "8 - 4",
+            "Loss in semi-finals of Div. II Playoffs"
+        ],
+        [
+            "Woodbridge",
+            "Blue Raiders",
+            "4 - 2",
+            "7 - 3",
+            "Failed to make playoffs"
+        ],
+        [
+            "Smyrna",
+            "Eagles",
+            "4 - 2",
+            "7 - 4",
+            "Loss in first round of Div. II playoffs"
+        ],
+        [
+            "Laurel",
+            "Bulldogs",
+            "4 - 2",
+            "7 - 4",
+            "Loss in first round of Div. II playoffs"
+        ],
+        [
+            "Delmar",
+            "Wildcats",
+            "2 - 4",
+            "3 - 7",
+            "Failed to make playoffs"
+        ],
+        [
+            "Seaford",
+            "Blue Jays",
+            "1 - 5",
+            "3 - 7",
+            "Failed to make playoffs"
+        ],
+        [
+            "Lake Forest",
+            "Spartans",
+            "1 - 5",
+            "3 - 7",
+            "Failed to make playoffs"
+        ]
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "a87085b83cf36206c5906ce2c26d3de5dd32864d6cd5a71d6369356262a7852d",
+    "metadata": "1977 San Francisco 49ers season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 19, 1977",
+            "at Pittsburgh Steelers",
+            "L 27-0",
+            "48046"
+        ],
+        [
+            "2",
+            "September 25, 1977",
+            "Miami Dolphins",
+            "L 19-15",
+            "40503"
+        ],
+        [
+            "3",
+            "October 2, 1977",
+            "at Los Angeles Rams",
+            "L 34-14",
+            "55466"
+        ],
+        [
+            "4",
+            "October 9, 1977",
+            "Atlanta Falcons",
+            "L 7-0",
+            "38009"
+        ],
+        [
+            "5",
+            "October 16, 1977",
+            "at New York Giants",
+            "L 20-17",
+            "70366"
+        ],
+        [
+            "6",
+            "October 23, 1977",
+            "Detroit Lions",
+            "W 28-7",
+            "39392"
+        ],
+        [
+            "7",
+            "October 30, 1977",
+            "Tampa Bay Buccaneers",
+            "W 20-10",
+            "34700"
+        ],
+        [
+            "8",
+            "November 6, 1977",
+            "at Atlanta Falcons",
+            "W 10-3",
+            "46577"
+        ],
+        [
+            "9",
+            "November 13, 1977",
+            "at New Orleans Saints",
+            "W 10-7",
+            "41564"
+        ],
+        [
+            "10",
+            "November 20, 1977",
+            "Los Angeles Rams",
+            "L 23-10",
+            "56779"
+        ],
+        [
+            "11",
+            "November 27, 1977",
+            "New Orleans Saints",
+            "W 20-17",
+            "33702"
+        ],
+        [
+            "12",
+            "December 4, 1977",
+            "at Minnesota Vikings",
+            "L 28-27",
+            "40745"
+        ],
+        [
+            "13",
+            "December 12, 1977",
+            "Dallas Cowboys",
+            "L 42-35",
+            "55851"
+        ],
+        [
+            "14",
+            "December 18, 1977",
+            "at Green Bay Packers",
+            "L 16-14",
+            "44902"
+        ]
+    ]
+}

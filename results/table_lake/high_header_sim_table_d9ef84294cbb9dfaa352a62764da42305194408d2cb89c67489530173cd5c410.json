@@ -1,0 +1,111 @@
+{
+    "id": "d9ef84294cbb9dfaa352a62764da42305194408d2cb89c67489530173cd5c410",
+    "metadata": "1998 PGA Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Vijay Singh",
+            "Fiji",
+            "70-66-67-68=271",
+            "\u22129",
+            "540000"
+        ],
+        [
+            "2",
+            "Steve Stricker",
+            "United States",
+            "69-68-66-70=273",
+            "\u22127",
+            "324000"
+        ],
+        [
+            "3",
+            "Steve Elkington",
+            "Australia",
+            "69-69-69-67=274",
+            "\u22126",
+            "204000"
+        ],
+        [
+            "T4",
+            "Frank Lickliter",
+            "United States",
+            "68-71-69-68=276",
+            "\u22124",
+            "118000"
+        ],
+        [
+            "T4",
+            "Mark O`Meara",
+            "United States",
+            "69-70-69-68=276",
+            "\u22124",
+            "118000"
+        ],
+        [
+            "T4",
+            "Nick Price",
+            "Zimbabwe",
+            "70-73-68-65=276",
+            "\u22124",
+            "118000"
+        ],
+        [
+            "T7",
+            "Davis Love III",
+            "United States",
+            "70-68-69-70=277",
+            "\u22123",
+            "89500"
+        ],
+        [
+            "T7",
+            "Billy Mayfair",
+            "United States",
+            "73-67-67-70=277",
+            "\u22123",
+            "89500"
+        ],
+        [
+            "9",
+            "John Cook",
+            "United States",
+            "71-68-70-69=278",
+            "\u22122",
+            "80000"
+        ],
+        [
+            "T10",
+            "Skip Kendall",
+            "United States",
+            "72-68-68-71=279",
+            "\u22121",
+            "69000"
+        ],
+        [
+            "T10",
+            "Kenny Perry",
+            "United States",
+            "69-72-70-68=279",
+            "\u22121",
+            "69000"
+        ],
+        [
+            "T10",
+            "Tiger Woods",
+            "United States",
+            "66-72-70-71=279",
+            "\u22121",
+            "69000"
+        ]
+    ]
+}

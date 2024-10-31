@@ -1,0 +1,49 @@
+{
+    "id": "cda6bb5e6579a5e78ba5e20fc465b2a98c5663e1c94ef6076a0ea9694ba5a1d1",
+    "metadata": "Just a Collection of Antiques and Curios | Release history | Release history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Date_",
+        "Label",
+        "Format",
+        "Catalogue"
+    ],
+    "cell": [
+        [
+            "United Kingdom",
+            "October1970",
+            "A&M",
+            "stereo LP",
+            "AMS 994"
+        ],
+        [
+            "United States",
+            "1970",
+            "A&M",
+            "stereo LP",
+            "SP 4288"
+        ],
+        [
+            "Japan",
+            "1987",
+            "A&M/Canyon",
+            "CD",
+            "D32Y3524"
+        ],
+        [
+            "South Korea",
+            "1999",
+            "Si-Wan",
+            "CD",
+            "SRMC 0080"
+        ],
+        [
+            "Worldwide",
+            "1998",
+            "A&M",
+            "CD remastered with 3 bonus tracks",
+            "540 938-2"
+        ]
+    ]
+}

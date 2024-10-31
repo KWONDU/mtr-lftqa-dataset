@@ -1,0 +1,112 @@
+{
+    "id": "f452266bddc6e8c0eb312c6820b478030a3266c9f405540a3269613b584ef945",
+    "metadata": "1960 Los Angeles Chargers season | Season schedule | Season schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 10, 1960",
+            "Dallas Texans",
+            "W 21-20",
+            "17724"
+        ],
+        [
+            "2",
+            "September 18, 1960",
+            "at Houston Oilers",
+            "L 38-28",
+            "20156"
+        ],
+        [
+            "3",
+            "September 25, 1960",
+            "at Dallas Texans",
+            "L 17-0",
+            "42000"
+        ],
+        [
+            "4",
+            "October 2, 1960",
+            "at Buffalo Bills",
+            "W 24-10",
+            "15821"
+        ],
+        [
+            "5",
+            "October 8, 1960",
+            "Boston Patriots",
+            "L 35-0",
+            "18226"
+        ],
+        [
+            "6",
+            "October 16, 1960",
+            "at Denver Broncos",
+            "W 23-19",
+            "19141"
+        ],
+        [
+            "8",
+            "October 28, 1960",
+            "at Boston Patriots",
+            "W 45-16",
+            "13988"
+        ],
+        [
+            "9",
+            "November 4, 1960",
+            "at New York Titans",
+            "W 21-7",
+            "19402"
+        ],
+        [
+            "10",
+            "November 13, 1960",
+            "Houston Oilers",
+            "W 24-21",
+            "21805"
+        ],
+        [
+            "11",
+            "November 20, 1960",
+            "Buffalo Bills",
+            "L 32-3",
+            "16161"
+        ],
+        [
+            "12",
+            "November 27, 1960",
+            "Oakland Raiders",
+            "W 52-28",
+            "15075"
+        ],
+        [
+            "13",
+            "December 4, 1960",
+            "at Oakland Raiders",
+            "W 41-17",
+            "12061"
+        ],
+        [
+            "14",
+            "December 10, 1960",
+            "Denver Broncos",
+            "W 41-33",
+            "9928"
+        ],
+        [
+            "15",
+            "December 18, 1960",
+            "New York Titans",
+            "W 50-43",
+            "11457"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "8398f9b5dcf45a7f945886efc0be73aa85ef78e5870f089b6182575971770aeb",
+    "metadata": "Pat Bradley (golfer) | Wins (6) | Wins (6)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Championship",
+        "Winning_score",
+        "Margin",
+        "Runner_up"
+    ],
+    "cell": [
+        [
+            "1980",
+            "Peter Jackson Classic",
+            "-15 (65-72-69-71=277)",
+            "1 stroke",
+            "JoAnne Carner"
+        ],
+        [
+            "1981",
+            "U.S. Women`s Open",
+            "-9 (71-74-68-66=279)",
+            "1 stroke",
+            "Beth Daniel"
+        ],
+        [
+            "1985",
+            "du Maurier Classic",
+            "-10 (70-73-67-68=278)",
+            "1 stroke",
+            "Jane Geddes"
+        ],
+        [
+            "1986",
+            "Nabisco Dinah Shore",
+            "-8 (68-72-69-71=280)",
+            "2 strokes",
+            "Val Skinner"
+        ],
+        [
+            "1986",
+            "LPGA Championship",
+            "-11 (67-72-70-68=277)",
+            "1 stroke",
+            "Patty Sheehan"
+        ],
+        [
+            "1986",
+            "du Maurier Classic",
+            "-12 (73-70-67-66=276)",
+            "Playoff 1",
+            "Ayako Okamoto"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "ac1970e7ed11f9b7ff7ade8473c2572f74c784e478817ce52c9359f2a8d35b89",
+    "metadata": "2007-08 Czech Cup | Teams | Teams",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Clubs_remaining",
+        "Clubs_involved",
+        "Winners_from_previous_round",
+        "New_entries_this_round",
+        "Leagues_entering_at_this_round"
+    ],
+    "cell": [
+        [
+            "Preliminary round",
+            "129",
+            "34",
+            "none",
+            "34",
+            "Levels 4 and 5 in football league pyramid"
+        ],
+        [
+            "Second round",
+            "64",
+            "64",
+            "48",
+            "16",
+            "Gambrinus liga"
+        ],
+        [
+            "Third round",
+            "32",
+            "32",
+            "32",
+            "none",
+            "none"
+        ],
+        [
+            "Fourth round",
+            "16",
+            "16",
+            "16",
+            "none",
+            "none"
+        ],
+        [
+            "Quarter finals",
+            "8",
+            "8",
+            "8",
+            "none",
+            "none"
+        ],
+        [
+            "Semi finals",
+            "4",
+            "4",
+            "4",
+            "none",
+            "none"
+        ]
+    ]
+}

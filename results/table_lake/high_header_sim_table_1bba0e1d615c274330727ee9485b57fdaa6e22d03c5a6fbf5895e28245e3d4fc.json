@@ -1,0 +1,87 @@
+{
+    "id": "1bba0e1d615c274330727ee9485b57fdaa6e22d03c5a6fbf5895e28245e3d4fc",
+    "metadata": "BMW M1 Procar Championship | 1979 season | Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Date_",
+        "Event",
+        "Circuit",
+        "Winning_Driver",
+        "Winning_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "May 12",
+            "Belgian Grand Prix",
+            "Circuit Zolder",
+            "Elio de Angelis",
+            "Squadra Osella Corse"
+        ],
+        [
+            "2",
+            "May 26",
+            "Monaco Grand Prix",
+            "Circuit de Monaco",
+            "Niki Lauda",
+            "Project Four"
+        ],
+        [
+            "-",
+            "June 3",
+            "Gunnar Nilsson Trophy",
+            "Donington Park",
+            "Nelson Piquet",
+            "BMW Motorsport"
+        ],
+        [
+            "3",
+            "June 30",
+            "French Grand Prix",
+            "Dijon-Prenois",
+            "Nelson Piquet",
+            "BMW Motorsport"
+        ],
+        [
+            "4",
+            "July 13",
+            "British Grand Prix",
+            "Silverstone Circuit",
+            "Niki Lauda",
+            "Project Four"
+        ],
+        [
+            "5",
+            "July 28",
+            "German Grand Prix",
+            "Hockenheimring",
+            "Niki Lauda",
+            "Project Four"
+        ],
+        [
+            "6",
+            "August 11",
+            "Austrian Grand Prix",
+            "\u00d6sterreichring",
+            "Jacques Laffite",
+            "BMW Motorsport"
+        ],
+        [
+            "7",
+            "August 25",
+            "Dutch Grand Prix",
+            "Circuit Zandvoort",
+            "Hans-Joachim Stuck",
+            "Cassani Racing"
+        ],
+        [
+            "8",
+            "September 8",
+            "Italian Grand Prix",
+            "Autodromo Nazionale Monza",
+            "Hans-Joachim Stuck",
+            "Cassani Racing"
+        ]
+    ]
+}

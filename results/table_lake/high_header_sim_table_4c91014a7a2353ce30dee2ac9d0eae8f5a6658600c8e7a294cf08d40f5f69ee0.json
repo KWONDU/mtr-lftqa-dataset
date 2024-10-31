@@ -1,0 +1,103 @@
+{
+    "id": "4c91014a7a2353ce30dee2ac9d0eae8f5a6658600c8e7a294cf08d40f5f69ee0",
+    "metadata": "Australia at the Rugby World Cup | Venues | Venues",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Stadium",
+        "Games",
+        "City",
+        "State_",
+        "Capacity",
+        "Best_Crowd"
+    ],
+    "cell": [
+        [
+            "Telstra Stadium",
+            "7",
+            "Sydney",
+            "New South Wales",
+            "83500",
+            "82,957 (Final: Australia vs England )"
+        ],
+        [
+            "Aussie Stadium",
+            "5",
+            "Sydney",
+            "New South Wales",
+            "41159",
+            "37,137 ( Scotland vs. Fiji )"
+        ],
+        [
+            "Central Coast Stadium",
+            "3",
+            "Gosford",
+            "New South Wales",
+            "20119",
+            "19,653 ( Japan vs. United States )"
+        ],
+        [
+            "WIN Stadium",
+            "2",
+            "Wollongong",
+            "New South Wales",
+            "18484",
+            "17,833 ( France vs. United States )"
+        ],
+        [
+            "Suncorp Stadium",
+            "9",
+            "Brisbane",
+            "Queensland",
+            "52500",
+            "48,778 ( Australia vs. Romania )"
+        ],
+        [
+            "Dairy Farmers Stadium",
+            "3",
+            "Townsville",
+            "Queensland",
+            "24843",
+            "21,309 ( France vs. Japan )"
+        ],
+        [
+            "Telstra Dome",
+            "7",
+            "Melbourne",
+            "Victoria",
+            "53371",
+            "54,206 ( Australia vs. Ireland )"
+        ],
+        [
+            "Subiaco Oval",
+            "5",
+            "Perth",
+            "Western Australia",
+            "42922",
+            "38,834 ( South Africa vs. England )"
+        ],
+        [
+            "Canberra Stadium",
+            "4",
+            "Canberra",
+            "Australian Capital Territory",
+            "24647",
+            "22,641 ( Italy vs. Wales )"
+        ],
+        [
+            "Adelaide Oval `",
+            "2",
+            "Adelaide",
+            "South Australia",
+            "33597",
+            "33,000 ( Australia vs. Namibia )"
+        ],
+        [
+            "York Park",
+            "1",
+            "Launceston",
+            "Tasmania",
+            "19891",
+            "15,457 ( Namibia vs. Romania )"
+        ]
+    ]
+}

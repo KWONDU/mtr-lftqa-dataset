@@ -1,0 +1,97 @@
+{
+    "id": "b7222b01637f66547ff28c8614af8695a3a2b92c5ba689f49faf51f4dd3c6618",
+    "metadata": "List of widows and widowers | Literature | Literature",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Deceased_Spouse",
+        "Cause_of_Death",
+        "Date_of_Spouses_Death",
+        "Length_of_Marriage",
+        "Children_Together",
+        "Current_Marital_Status"
+    ],
+    "cell": [
+        [
+            "Samuel Beckett",
+            "Suzanne D\u00e9chevaux-Dumesnil",
+            "Unknown",
+            "July 17, 1989 (aged89)",
+            "28 years",
+            "None",
+            "Deceased (1989)"
+        ],
+        [
+            "Jan Berenstain",
+            "Stan Berenstain",
+            "Unknown",
+            "November 26, 2005 (aged82)",
+            "59 years",
+            "2 Sons (Leo, Michael)",
+            "Deceased (2012)"
+        ],
+        [
+            "Ray Bradbury",
+            "Marguerite McClure",
+            "Not Known",
+            "November 24, 2003 (aged81)",
+            "56 years",
+            "4 Daughters (Susan, Ramona, Bettina, Alexandra)",
+            "Deceased (2012)"
+        ],
+        [
+            "Mary Welsh Hemingway",
+            "Ernest Hemingway",
+            "Suicide",
+            "July 2, 1961 (aged61)",
+            "15 years",
+            "None (miscarriage)",
+            "Deceased (1986)"
+        ],
+        [
+            "Norris Church Mailer",
+            "Norman Mailer",
+            "Acute Renal Failure",
+            "November 10, 2007 (aged84)",
+            "27 years",
+            "1 Son ( John )",
+            "Deceased (2010)"
+        ],
+        [
+            "Frederica Sagor Maas",
+            "Ernest Maas",
+            "Natural Causes",
+            "July 21, 1986 (aged94)",
+            "59 years",
+            "None",
+            "Deceased (2012)"
+        ],
+        [
+            "Edgar Allan Poe",
+            "Virginia Eliza Clemm Poe",
+            "Tuberculosis",
+            "January 30, 1847 (aged24)",
+            "11 years",
+            "None",
+            "Deceased (1849)"
+        ],
+        [
+            "Dr. Seuss",
+            "Helen Palmer Geisel",
+            "Overdose of Barbiturates",
+            "October 23, 1967 (aged68)",
+            "40 years",
+            "None",
+            "Deceased (1991)"
+        ],
+        [
+            "Robert Treuhaft",
+            "Jessica Mitford",
+            "Lung Cancer",
+            "July 22, 1996 (aged78)",
+            "53 years",
+            "2 Sons (Nicholas, Benjamin)",
+            "Deceased (2001)"
+        ]
+    ]
+}

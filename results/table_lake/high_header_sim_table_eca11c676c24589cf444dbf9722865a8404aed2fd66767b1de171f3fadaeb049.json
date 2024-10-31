@@ -1,0 +1,98 @@
+{
+    "id": "eca11c676c24589cf444dbf9722865a8404aed2fd66767b1de171f3fadaeb049",
+    "metadata": "Sofia Mattsson | Senior | Senior",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Event"
+    ],
+    "cell": [
+        [
+            "2007",
+            "European Championships",
+            "Sofia , Bulgaria",
+            "3rd",
+            "48 kg"
+        ],
+        [
+            "2007",
+            "World Championships",
+            "Baku , Azerbaijan",
+            "8th",
+            "48 kg"
+        ],
+        [
+            "2008",
+            "European Championships",
+            "Tampere , Finland",
+            "2nd",
+            "51 kg"
+        ],
+        [
+            "2008",
+            "Olympic Games",
+            "Beijing , Republic of China",
+            "12th",
+            "48 kg"
+        ],
+        [
+            "2009",
+            "European Championships",
+            "Vilnius , Lithuania",
+            "10th",
+            "51 kg"
+        ],
+        [
+            "2009",
+            "World Championships",
+            "Herning , Denmark",
+            "1st",
+            "51 kg"
+        ],
+        [
+            "2010",
+            "European Championships",
+            "Baku, Azerbaijan",
+            "1st",
+            "51 kg"
+        ],
+        [
+            "2010",
+            "World Championships",
+            "Moscow , Russia",
+            "3rd",
+            "51 kg"
+        ],
+        [
+            "2011",
+            "World Championships",
+            "Istanbul , Turkey",
+            "2nd",
+            "59 kg"
+        ],
+        [
+            "2012",
+            "European Championships",
+            "Belgrade , Serbia",
+            "2nd",
+            "55 kg"
+        ],
+        [
+            "2012",
+            "Olympic Games",
+            "London , Great Britain",
+            "7th",
+            "55 kg"
+        ],
+        [
+            "2013",
+            "European Championships",
+            "Tbilisi, Georgia",
+            "1st",
+            "55 kg"
+        ]
+    ]
+}

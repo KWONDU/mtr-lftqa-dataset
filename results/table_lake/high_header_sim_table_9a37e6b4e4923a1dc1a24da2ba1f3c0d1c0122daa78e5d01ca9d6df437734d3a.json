@@ -1,0 +1,56 @@
+{
+    "id": "9a37e6b4e4923a1dc1a24da2ba1f3c0d1c0122daa78e5d01ca9d6df437734d3a",
+    "metadata": "Candide (operetta) | Original London production | Original London production",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Award",
+        "Category",
+        "Nominee",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "2000",
+            "Laurence Olivier Award",
+            "Best Musical Revival",
+            "Best Musical Revival",
+            "Won"
+        ],
+        [
+            "2000",
+            "Laurence Olivier Award",
+            "Best Actor in a Musical",
+            "Simon Russell Beale",
+            "Won"
+        ],
+        [
+            "2000",
+            "Laurence Olivier Award",
+            "Best Actor in a Musical",
+            "Daniel Evans",
+            "Nominated"
+        ],
+        [
+            "2000",
+            "Laurence Olivier Award",
+            "Best Performance in a Supporting Role in a Musical",
+            "Denis Quilley",
+            "Nominated"
+        ],
+        [
+            "2000",
+            "Laurence Olivier Award",
+            "Best Theatre Choreographer",
+            "Peter Darling",
+            "Nominated"
+        ],
+        [
+            "2000",
+            "Laurence Olivier Award",
+            "Best Costume Design",
+            "Elise and John Napier",
+            "Nominated"
+        ]
+    ]
+}

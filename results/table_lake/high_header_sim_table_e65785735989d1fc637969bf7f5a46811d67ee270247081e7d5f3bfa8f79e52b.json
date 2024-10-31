@@ -1,0 +1,70 @@
+{
+    "id": "e65785735989d1fc637969bf7f5a46811d67ee270247081e7d5f3bfa8f79e52b",
+    "metadata": "South London derby | Charlton Athletic v Crystal Palace | Charlton Athletic v Crystal Palace",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "Played",
+        "Charlton_wins",
+        "Drawn",
+        "Palace_wins",
+        "Charlton_goals",
+        "Palace_goals"
+    ],
+    "cell": [
+        [
+            "The Football League",
+            "56",
+            "17",
+            "13",
+            "26",
+            "55",
+            "78"
+        ],
+        [
+            "FA Cup",
+            "2",
+            "1",
+            "1",
+            "0",
+            "2",
+            "0"
+        ],
+        [
+            "League Cup",
+            "5",
+            "0",
+            "1",
+            "4",
+            "4",
+            "9"
+        ],
+        [
+            "Anglo-Italian Cup",
+            "1",
+            "1",
+            "0",
+            "0",
+            "4",
+            "1"
+        ],
+        [
+            "Full Members Cup",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "League play-offs",
+            "2",
+            "0",
+            "0",
+            "2",
+            "1",
+            "3"
+        ]
+    ]
+}

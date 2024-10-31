@@ -1,0 +1,70 @@
+{
+    "id": "948af27afe135e0d3a7b2487b7c1f096f9c9c875497371b7ac01298939d0f4b6",
+    "metadata": "1940 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "13.16 (94)",
+            "South Melbourne",
+            "12.13 (85)",
+            "Punt Road Oval",
+            "10000",
+            "8 June 1940"
+        ],
+        [
+            "Fitzroy",
+            "17.11 (113)",
+            "Hawthorn",
+            "12.14 (86)",
+            "Brunswick Street Oval",
+            "7000",
+            "8 June 1940"
+        ],
+        [
+            "North Melbourne",
+            "8.1 (49)",
+            "Melbourne",
+            "12.34 (106)",
+            "Arden Street Oval",
+            "5000",
+            "8 June 1940"
+        ],
+        [
+            "Geelong",
+            "9.13 (67)",
+            "Essendon",
+            "10.22 (82)",
+            "Corio Oval",
+            "5000",
+            "8 June 1940"
+        ],
+        [
+            "St Kilda",
+            "10.12 (72)",
+            "Collingwood",
+            "13.14 (92)",
+            "Junction Oval",
+            "13000",
+            "8 June 1940"
+        ],
+        [
+            "Footscray",
+            "12.18 (90)",
+            "Carlton",
+            "12.8 (80)",
+            "Western Oval",
+            "13000",
+            "8 June 1940"
+        ]
+    ]
+}

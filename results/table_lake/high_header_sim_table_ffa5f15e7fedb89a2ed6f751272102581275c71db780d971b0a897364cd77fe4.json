@@ -1,0 +1,364 @@
+{
+    "id": "ffa5f15e7fedb89a2ed6f751272102581275c71db780d971b0a897364cd77fe4",
+    "metadata": "Mountain peaks of the United States | Most prominent summits | The 50 most topographically prominent summits of the United States",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Mountain_Peak",
+        "State_",
+        "Mountain_Range",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Mount McKinley ( Denali )",
+            "Alaska",
+            "Alaska Range",
+            "63.0690\u00b0N 151.0063\u00b0W"
+        ],
+        [
+            "2",
+            "Mauna Kea",
+            "Hawaii",
+            "Island of Hawai \u02bb i",
+            "19.8207\u00b0N 155.4680\u00b0W"
+        ],
+        [
+            "3",
+            "Mount Rainier",
+            "Washington",
+            "Cascade Range",
+            "46.8529\u00b0N 121.7604\u00b0W"
+        ],
+        [
+            "4",
+            "Mount Fairweather ( Fairweather Mountain )",
+            "Alaska British Columbia",
+            "Saint Elias Mountains",
+            "58.9064\u00b0N 137.5267\u00b0W"
+        ],
+        [
+            "5",
+            "Mount Blackburn",
+            "Alaska",
+            "Wrangell Mountains",
+            "61.7305\u00b0N 143.4031\u00b0W"
+        ],
+        [
+            "6",
+            "Mount Hayes",
+            "Alaska",
+            "Alaska Range",
+            "63.6203\u00b0N 146.7178\u00b0W"
+        ],
+        [
+            "7",
+            "Mount Saint Elias",
+            "Alaska Yukon",
+            "Saint Elias Mountains",
+            "60.2931\u00b0N 140.9264\u00b0W"
+        ],
+        [
+            "8",
+            "Mount Marcus Baker",
+            "Alaska",
+            "Chugach Mountains",
+            "61.4374\u00b0N 147.7525\u00b0W"
+        ],
+        [
+            "9",
+            "Mount Whitney",
+            "California",
+            "Sierra Nevada",
+            "36.5786\u00b0N 118.2920\u00b0W"
+        ],
+        [
+            "10",
+            "Haleakal\u0101",
+            "Hawaii",
+            "Island of Maui",
+            "20.7097\u00b0N 156.2533\u00b0W"
+        ],
+        [
+            "11",
+            "Mount Shasta",
+            "California",
+            "Cascade Range",
+            "41.4092\u00b0N 122.1949\u00b0W"
+        ],
+        [
+            "12",
+            "Shishaldin Volcano",
+            "Alaska",
+            "Unimak Island",
+            "54.7554\u00b0N 163.9709\u00b0W"
+        ],
+        [
+            "13",
+            "Redoubt Volcano",
+            "Alaska",
+            "Chigmit Mountains",
+            "60.4854\u00b0N 152.7442\u00b0W"
+        ],
+        [
+            "14",
+            "Mount Elbert",
+            "Colorado",
+            "Sawatch Range",
+            "39.1178\u00b0N 106.4454\u00b0W"
+        ],
+        [
+            "15",
+            "Mount Baker",
+            "Washington",
+            "Cascade Range",
+            "48.7768\u00b0N 121.8145\u00b0W"
+        ],
+        [
+            "16",
+            "Mount Torbert",
+            "Alaska",
+            "Alaska Range",
+            "61.4086\u00b0N 152.4125\u00b0W"
+        ],
+        [
+            "17",
+            "San Jacinto Peak",
+            "California",
+            "San Jacinto Mountains",
+            "33.8147\u00b0N 116.6794\u00b0W"
+        ],
+        [
+            "18",
+            "San Gorgonio Mountain",
+            "California",
+            "San Bernardino Mountains",
+            "34.0992\u00b0N 116.8249\u00b0W"
+        ],
+        [
+            "19",
+            "Charleston Peak ( Mount Charleston )",
+            "Nevada",
+            "Spring Mountains",
+            "36.2716\u00b0N 115.6956\u00b0W"
+        ],
+        [
+            "20",
+            "Pavlof Volcano",
+            "Alaska",
+            "Alaska Peninsula",
+            "55.4173\u00b0N 161.8932\u00b0W"
+        ],
+        [
+            "21",
+            "Mount Veniaminof",
+            "Alaska",
+            "Alaska Peninsula",
+            "56.2194\u00b0N 159.2975\u00b0W"
+        ],
+        [
+            "22",
+            "Mount Adams",
+            "Washington",
+            "Cascade Range",
+            "46.2024\u00b0N 121.4909\u00b0W"
+        ],
+        [
+            "23",
+            "Mount Hubbard",
+            "Alaska Yukon",
+            "Saint Elias Mountains",
+            "60.3192\u00b0N 139.0714\u00b0W"
+        ],
+        [
+            "24",
+            "Mount Chamberlin",
+            "Alaska",
+            "Brooks Range",
+            "69.2775\u00b0N 144.9107\u00b0W"
+        ],
+        [
+            "25",
+            "Iliamna Volcano",
+            "Alaska",
+            "Chigmit Mountains",
+            "60.0321\u00b0N 153.0915\u00b0W"
+        ],
+        [
+            "26",
+            "Mount Olympus",
+            "Washington",
+            "Olympic Mountains",
+            "47.8013\u00b0N 123.7108\u00b0W"
+        ],
+        [
+            "27",
+            "Mount Cook",
+            "Alaska Yukon",
+            "Saint Elias Mountains",
+            "60.1819\u00b0N 139.9808\u00b0W"
+        ],
+        [
+            "28",
+            "Mount Hood",
+            "Oregon",
+            "Cascade Range",
+            "45.3735\u00b0N 121.6959\u00b0W"
+        ],
+        [
+            "29",
+            "Mount Sanford",
+            "Alaska",
+            "Wrangell Mountains",
+            "62.2132\u00b0N 144.1292\u00b0W"
+        ],
+        [
+            "30",
+            "Mount Tom White",
+            "Alaska",
+            "Chugach Mountains",
+            "60.6518\u00b0N 143.6972\u00b0W"
+        ],
+        [
+            "31",
+            "Wheeler Peak",
+            "Nevada",
+            "Snake Range",
+            "38.9858\u00b0N 114.3139\u00b0W"
+        ],
+        [
+            "32",
+            "Glacier Peak",
+            "Washington",
+            "Cascade Range",
+            "48.1125\u00b0N 121.1138\u00b0W"
+        ],
+        [
+            "33",
+            "Mount Kimball",
+            "Alaska",
+            "Alaska Range",
+            "63.2390\u00b0N 144.6419\u00b0W"
+        ],
+        [
+            "34",
+            "Mount Griggs",
+            "Alaska",
+            "Alaska Peninsula",
+            "58.3534\u00b0N 155.0958\u00b0W"
+        ],
+        [
+            "35",
+            "Mount Foraker",
+            "Alaska",
+            "Alaska Range",
+            "62.9604\u00b0N 151.3998\u00b0W"
+        ],
+        [
+            "36",
+            "White Mountain Peak",
+            "California",
+            "White Mountains",
+            "37.6341\u00b0N 118.2557\u00b0W"
+        ],
+        [
+            "37",
+            "Mount Crillon",
+            "Alaska",
+            "Saint Elias Mountains",
+            "58.6625\u00b0N 137.1712\u00b0W"
+        ],
+        [
+            "38",
+            "Mauna Loa",
+            "Hawaii",
+            "Island of Hawai \u02bb i",
+            "19.4756\u00b0N 155.6054\u00b0W"
+        ],
+        [
+            "39",
+            "Cloud Peak",
+            "Wyoming",
+            "Bighorn Mountains",
+            "44.3821\u00b0N 107.1739\u00b0W"
+        ],
+        [
+            "40",
+            "Gannett Peak",
+            "Wyoming",
+            "Wind River Range",
+            "43.1842\u00b0N 109.6542\u00b0W"
+        ],
+        [
+            "41",
+            "Mount Vsevidof",
+            "Alaska",
+            "Umnak Island",
+            "53.1256\u00b0N 168.6938\u00b0W"
+        ],
+        [
+            "42",
+            "Mount Hesperus",
+            "Alaska",
+            "Alaska Range",
+            "61.8036\u00b0N 154.1469\u00b0W"
+        ],
+        [
+            "43",
+            "Mount Bona",
+            "Alaska",
+            "Saint Elias Mountains",
+            "61.3856\u00b0N 141.7495\u00b0W"
+        ],
+        [
+            "44",
+            "Mount Drum",
+            "Alaska",
+            "Wrangell Mountains",
+            "62.1159\u00b0N 144.6394\u00b0W"
+        ],
+        [
+            "45",
+            "Mount Chiginagak",
+            "Alaska",
+            "Aleutian Range",
+            "57.1334\u00b0N 156.9912\u00b0W"
+        ],
+        [
+            "46",
+            "Grand Teton",
+            "Wyoming",
+            "Teton Range",
+            "43.7412\u00b0N 110.8024\u00b0W"
+        ],
+        [
+            "47",
+            "Sacajawea Peak",
+            "Oregon",
+            "Wallowa Mountains",
+            "45.2450\u00b0N 117.2929\u00b0W"
+        ],
+        [
+            "48",
+            "Mount Neacola",
+            "Alaska",
+            "Aleutian Range",
+            "60.7981\u00b0N 153.3959\u00b0W"
+        ],
+        [
+            "49",
+            "Kings Peak (Utah)",
+            "Utah",
+            "Uinta Mountains",
+            "40.7763\u00b0N 110.3729\u00b0W"
+        ],
+        [
+            "50",
+            "Mount Graham",
+            "Arizona",
+            "Pinale\u00f1o Mountains",
+            "32.7017\u00b0N 109.8714\u00b0W"
+        ]
+    ]
+}

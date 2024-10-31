@@ -1,0 +1,61 @@
+{
+    "id": "5c19f790c4f236c4932a7223f165ad56fe901ce3df439fb005ac5b91954619ea",
+    "metadata": "2000 Atlanta Falcons season | Preseason | Preseason",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Falcons_points",
+        "Opponents",
+        "Record"
+    ],
+    "cell": [
+        [
+            "1",
+            "July 29",
+            "at Indianapolis Colts",
+            "Win",
+            "20",
+            "13",
+            "1-0"
+        ],
+        [
+            "2",
+            "August 5",
+            "Dallas Cowboys at Tokyo, Japan",
+            "Win",
+            "20",
+            "9",
+            "2-0"
+        ],
+        [
+            "3",
+            "August 11",
+            "Cincinnati Bengals",
+            "Win",
+            "31",
+            "16",
+            "3-0"
+        ],
+        [
+            "4",
+            "August 18",
+            "San Diego Chargers",
+            "Loss",
+            "14",
+            "28",
+            "3-1"
+        ],
+        [
+            "5",
+            "August 24",
+            "at Jacksonville Jaguars",
+            "Win",
+            "31",
+            "20",
+            "4-1"
+        ]
+    ]
+}

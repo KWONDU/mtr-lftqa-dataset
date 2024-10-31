@@ -1,0 +1,70 @@
+{
+    "id": "b768c7a03fed42dd315d81728045f499b6c71690f54381300a101acd2b07d582",
+    "metadata": "1936 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "9.8 (62)",
+            "Melbourne",
+            "17.10 (112)",
+            "Glenferrie Oval",
+            "10000",
+            "15 August 1936"
+        ],
+        [
+            "Geelong",
+            "18.22 (130)",
+            "St Kilda",
+            "10.7 (67)",
+            "Corio Oval",
+            "8000",
+            "15 August 1936"
+        ],
+        [
+            "Fitzroy",
+            "9.10 (64)",
+            "Footscray",
+            "12.17 (89)",
+            "Brunswick Street Oval",
+            "10000",
+            "15 August 1936"
+        ],
+        [
+            "South Melbourne",
+            "8.16 (64)",
+            "North Melbourne",
+            "9.9 (63)",
+            "Lake Oval",
+            "11000",
+            "15 August 1936"
+        ],
+        [
+            "Essendon",
+            "8.10 (58)",
+            "Collingwood",
+            "14.16 (100)",
+            "Windy Hill",
+            "9000",
+            "15 August 1936"
+        ],
+        [
+            "Richmond",
+            "9.12 (66)",
+            "Carlton",
+            "14.6 (90)",
+            "Punt Road Oval",
+            "25000",
+            "15 August 1936"
+        ]
+    ]
+}

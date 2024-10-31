@@ -1,0 +1,49 @@
+{
+    "id": "7df14555383493ab64919388d98097faaa1025379569123b5a0f2666e7829240",
+    "metadata": "2002 Senior PGA Tour | Leaders | Career Money List leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Hale Irwin",
+            "United States",
+            "16950178",
+            "36"
+        ],
+        [
+            "2",
+            "Gil Morgan",
+            "United States",
+            "11092593",
+            "21"
+        ],
+        [
+            "3",
+            "Jim Colbert",
+            "United States",
+            "10840374",
+            "20"
+        ],
+        [
+            "4",
+            "Dave Stockton",
+            "United States",
+            "9735814",
+            "14"
+        ],
+        [
+            "5",
+            "Lee Trevino",
+            "United States",
+            "9616404",
+            "29"
+        ]
+    ]
+}

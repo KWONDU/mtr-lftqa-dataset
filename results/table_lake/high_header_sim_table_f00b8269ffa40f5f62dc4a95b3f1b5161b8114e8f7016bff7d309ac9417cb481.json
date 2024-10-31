@@ -1,0 +1,151 @@
+{
+    "id": "f00b8269ffa40f5f62dc4a95b3f1b5161b8114e8f7016bff7d309ac9417cb481",
+    "metadata": "2003-04 Rangers F.C. season | Transfers | In",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "N",
+        "P",
+        "Nat_",
+        "Name_",
+        "Age",
+        "Moving_from",
+        "Type_",
+        "Transfer_window",
+        "Ends",
+        "Transfer_fee_"
+    ],
+    "cell": [
+        [
+            "20",
+            "RW",
+            "POR",
+            "Nuno Capucho",
+            "31",
+            "Porto",
+            "Transfer",
+            "Summer",
+            "2005",
+            "\u00a30.67m"
+        ],
+        [
+            "15",
+            "CB",
+            "Georgia",
+            "Zurab Khizanishvili",
+            "21",
+            "Dundee",
+            "Transfer",
+            "Summer",
+            "2006",
+            "Free"
+        ],
+        [
+            "16",
+            "LB",
+            "ITA",
+            "Paolo Vanoli",
+            "30",
+            "Bologna",
+            "Transfer",
+            "Summer",
+            "2005",
+            "Free"
+        ],
+        [
+            "25",
+            "CB",
+            "NOR",
+            "Henning Berg",
+            "33",
+            "Blackburn Rovers",
+            "Transfer",
+            "Summer",
+            "2004",
+            "Free"
+        ],
+        [
+            "4",
+            "CM",
+            "BRA",
+            "Emerson",
+            "31",
+            "Atl\u00e9tico Madrid",
+            "Transfer",
+            "Summer",
+            "2005",
+            "Free"
+        ],
+        [
+            "9",
+            "CF",
+            "NOR",
+            "Egil \u00d8stenstad",
+            "31",
+            "Blackburn Rovers",
+            "Transfer",
+            "Summer",
+            "2004",
+            "Free"
+        ],
+        [
+            "37",
+            "LM",
+            "TUN",
+            "Hamed Namouchi",
+            "19",
+            "Cannes",
+            "Transfer",
+            "n/a",
+            "2005",
+            "Free"
+        ],
+        [
+            "",
+            "CM",
+            "FRA",
+            "Marc Kalenga",
+            "18",
+            "Auxerre",
+            "Transfer",
+            "n/a",
+            "2004",
+            "Free"
+        ],
+        [
+            "11",
+            "CM",
+            "SCO",
+            "Gavin Rae",
+            "26",
+            "Dundee",
+            "Transfer",
+            "Winter",
+            "2007",
+            "\u00a30.25m"
+        ],
+        [
+            "5",
+            "CB",
+            "NED",
+            "Frank de Boer",
+            "33",
+            "Galatasaray",
+            "Transfer",
+            "Winter",
+            "2004",
+            "Free"
+        ],
+        [
+            "52",
+            "CF",
+            "MKD",
+            "Bajram Fetai",
+            "18",
+            "B.93",
+            "Transfer",
+            "Winter",
+            "2006",
+            "\u00a30.2m"
+        ]
+    ]
+}

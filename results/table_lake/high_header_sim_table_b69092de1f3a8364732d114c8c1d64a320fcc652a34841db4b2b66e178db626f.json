@@ -1,0 +1,63 @@
+{
+    "id": "b69092de1f3a8364732d114c8c1d64a320fcc652a34841db4b2b66e178db626f",
+    "metadata": "Miguel Amaral | 24 Hours of Le Mans results | 24 Hours of Le Mans results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Co_Drivers",
+        "Class_",
+        "Laps",
+        "Pos_",
+        "Class_Pos_"
+    ],
+    "cell": [
+        [
+            "2006",
+            "Warren Hughes Miguel \u00c1ngel de Castro",
+            "LMP2",
+            "196",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2007",
+            "Warren Hughes Miguel \u00c1ngel de Castro",
+            "LMP2",
+            "137",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2008",
+            "Olivier Pla Guy Smith",
+            "LMP2",
+            "325",
+            "20th",
+            "4th"
+        ],
+        [
+            "2009",
+            "Olivier Pla Guy Smith",
+            "LMP2",
+            "46",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2010",
+            "Olivier Pla Warren Hughes",
+            "LMP2",
+            "318",
+            "20th",
+            "7th"
+        ],
+        [
+            "2011",
+            "Olivier Pla Warren Hughes",
+            "LMP1",
+            "48",
+            "DNF",
+            "DNF"
+        ]
+    ]
+}

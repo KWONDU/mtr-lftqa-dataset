@@ -1,0 +1,95 @@
+{
+    "id": "227a17eeb67ca2ab688b76804986dbf8677dc7deb8160e4e9aba0366542b6cf0",
+    "metadata": "2005-06 U.S. Citt\u00e0 di Palermo season | UEFA Cup | UEFA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_and_time",
+        "Round",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "September 15, 2005 - 20.30",
+            "1st Round - 1st Leg",
+            "Anorthosis Famagusta",
+            "Home",
+            "Won 2-1",
+            "13047"
+        ],
+        [
+            "September 29, 2005 - 17.00",
+            "1st Round - 2nd Leg",
+            "Anorthosis Famagusta",
+            "Away",
+            "Won 4-0",
+            "12000"
+        ],
+        [
+            "October 20, 2005 - 17.00",
+            "Group Stage - Group B",
+            "Maccabi Petah Tikva",
+            "Away",
+            "Won 2-1",
+            "2000"
+        ],
+        [
+            "November 3, 2005 - 21.00",
+            "Group Stage - Group B",
+            "Lokomotiv Moscow",
+            "Home",
+            "Drew 0-0",
+            "15823"
+        ],
+        [
+            "November 24, 2005 - 21.15",
+            "Group Stage - Group B",
+            "Espanyol",
+            "Away",
+            "Drew 1-1",
+            "22000"
+        ],
+        [
+            "December 15, 2005 - 20.45",
+            "Group Stage - Group B",
+            "Br\u00f8ndby",
+            "Home",
+            "Won 3-0",
+            "4521"
+        ],
+        [
+            "February 16, 2006 - 20.45",
+            "Round of 32 - 1st Leg",
+            "Slavia Praha",
+            "Away",
+            "Lost 1-2",
+            "6706"
+        ],
+        [
+            "February 23, 2006 - 16.00",
+            "Round of 32 - 2nd Leg",
+            "Slavia Praha",
+            "Home",
+            "Won 1-0",
+            "8063"
+        ],
+        [
+            "March 9, 2006 - 18.00",
+            "Round of 16 - 1st Leg",
+            "Schalke 04",
+            "Home",
+            "Won 1-0",
+            "10581"
+        ],
+        [
+            "March 16, 2006 - 20.30",
+            "Round of 16 - 2nd Leg",
+            "Schalke 04",
+            "Away",
+            "Lost 0-3",
+            "52151"
+        ]
+    ]
+}

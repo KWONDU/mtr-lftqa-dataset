@@ -1,0 +1,77 @@
+{
+    "id": "f8ea32ac9abab1216305fa5e02cadea6785377c32554c23597997aefdd096ca4",
+    "metadata": "2008-09 Ottawa Senators season | Game log | April",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Score",
+        "Location_",
+        "Attendance",
+        "Record",
+        "Points"
+    ],
+    "cell": [
+        [
+            "77",
+            "April 2",
+            "Boston Bruins",
+            "2-1(L)",
+            "Boston",
+            "17565",
+            "33-34-10",
+            "76"
+        ],
+        [
+            "78",
+            "April 4",
+            "Philadelphia Flyers",
+            "4-3(W-SO)",
+            "Scotiabank Place",
+            "19557",
+            "34-34-10",
+            "78"
+        ],
+        [
+            "79",
+            "April 6",
+            "Montreal Canadiens",
+            "3-2(W)",
+            "Montreal",
+            "21273",
+            "35-34-10",
+            "80"
+        ],
+        [
+            "80",
+            "April 7",
+            "Boston Bruins",
+            "3-2(W)",
+            "Scotiabank Place",
+            "19053",
+            "36-34-10",
+            "82"
+        ],
+        [
+            "81",
+            "April 9",
+            "New Jersey Devils",
+            "3-2(L-SO)",
+            "Scotiabank Place",
+            "20151",
+            "36-34-11",
+            "83"
+        ],
+        [
+            "82",
+            "April 11",
+            "Toronto Maple Leafs",
+            "5-2(L)",
+            "Toronto",
+            "19370",
+            "36-35-11",
+            "83"
+        ]
+    ]
+}

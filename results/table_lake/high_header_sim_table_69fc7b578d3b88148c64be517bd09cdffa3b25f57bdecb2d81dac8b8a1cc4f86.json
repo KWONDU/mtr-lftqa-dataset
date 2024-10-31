@@ -1,0 +1,70 @@
+{
+    "id": "69fc7b578d3b88148c64be517bd09cdffa3b25f57bdecb2d81dac8b8a1cc4f86",
+    "metadata": "1956 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "5.12 (42)",
+            "Melbourne",
+            "11.14 (80)",
+            "Glenferrie Oval",
+            "15500",
+            "30 June 1956"
+        ],
+        [
+            "Geelong",
+            "9.8 (62)",
+            "St Kilda",
+            "8.9 (57)",
+            "Kardinia Park",
+            "11052",
+            "30 June 1956"
+        ],
+        [
+            "Collingwood",
+            "15.18 (108)",
+            "Essendon",
+            "7.12 (54)",
+            "Victoria Park",
+            "23814",
+            "30 June 1956"
+        ],
+        [
+            "North Melbourne",
+            "5.9 (39)",
+            "Footscray",
+            "6.13 (49)",
+            "Arden Street Oval",
+            "14000",
+            "30 June 1956"
+        ],
+        [
+            "Richmond",
+            "15.12 (102)",
+            "Fitzroy",
+            "12.14 (86)",
+            "Punt Road Oval",
+            "12000",
+            "30 June 1956"
+        ],
+        [
+            "South Melbourne",
+            "9.19 (73)",
+            "Carlton",
+            "7.12 (54)",
+            "Lake Oval",
+            "27000",
+            "30 June 1956"
+        ]
+    ]
+}

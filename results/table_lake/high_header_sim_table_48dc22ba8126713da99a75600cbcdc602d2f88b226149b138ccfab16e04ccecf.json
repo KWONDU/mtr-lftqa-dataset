@@ -1,0 +1,49 @@
+{
+    "id": "48dc22ba8126713da99a75600cbcdc602d2f88b226149b138ccfab16e04ccecf",
+    "metadata": "1982 PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jack Nicklaus",
+            "United States",
+            "3992070",
+            "71"
+        ],
+        [
+            "2",
+            "Tom Watson",
+            "United States",
+            "2866383",
+            "32"
+        ],
+        [
+            "3",
+            "Lee Trevino",
+            "United States",
+            "2643085",
+            "28"
+        ],
+        [
+            "4",
+            "Raymond Floyd",
+            "United States",
+            "2178796",
+            "18"
+        ],
+        [
+            "5",
+            "Tom Weiskopf",
+            "United States",
+            "2158631",
+            "16"
+        ]
+    ]
+}

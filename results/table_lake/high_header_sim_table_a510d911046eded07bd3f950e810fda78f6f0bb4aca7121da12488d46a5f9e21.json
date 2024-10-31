@@ -1,0 +1,63 @@
+{
+    "id": "a510d911046eded07bd3f950e810fda78f6f0bb4aca7121da12488d46a5f9e21",
+    "metadata": "United States House of Representatives elections, 1888 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "Samuel Dibble",
+            "Democratic",
+            "1882",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 2",
+            "George D. Tillman",
+            "Democratic",
+            "1878",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 3",
+            "James S. Cothran",
+            "Democratic",
+            "1886",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 4",
+            "William H. Perry",
+            "Democratic",
+            "1884",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 5",
+            "John J. Hemphill",
+            "Democratic",
+            "1882",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 6",
+            "George W. Dargan",
+            "Democratic",
+            "1882",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 7",
+            "William Elliott",
+            "Democratic",
+            "1884",
+            "Re-elected"
+        ]
+    ]
+}

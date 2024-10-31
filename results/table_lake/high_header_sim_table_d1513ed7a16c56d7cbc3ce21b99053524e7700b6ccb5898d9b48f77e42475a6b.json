@@ -1,0 +1,84 @@
+{
+    "id": "d1513ed7a16c56d7cbc3ce21b99053524e7700b6ccb5898d9b48f77e42475a6b",
+    "metadata": "List of tallest buildings in Denver | Timeline of tallest buildings | Timeline of tallest buildings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Street_address",
+        "Years_as_tallest",
+        "Height_ft_m",
+        "Floors"
+    ],
+    "cell": [
+        [
+            "Equitable Building",
+            "730 17th Street",
+            "1892-1910",
+            "148 / 45",
+            "9"
+        ],
+        [
+            "Daniels & Fisher Tower",
+            "1601 Arapahoe Street",
+            "1910-1957",
+            "371 / 113",
+            "20"
+        ],
+        [
+            "621 17th Street",
+            "621 17th Street",
+            "1957-1968",
+            "384 / 117",
+            "28"
+        ],
+        [
+            "1600 Glenarm Place",
+            "1600 Glenarm Place",
+            "1967-1968",
+            "384 / 117",
+            "32"
+        ],
+        [
+            "Brooks Tower",
+            "1020 15th Street",
+            "1968-1974",
+            "420 / 128",
+            "42"
+        ],
+        [
+            "First Interstate Tower North",
+            "633 17th Street",
+            "1974-1978",
+            "434 / 132",
+            "32"
+        ],
+        [
+            "555 17th Street",
+            "555 17th Street",
+            "1978-1981",
+            "509 / 155",
+            "40"
+        ],
+        [
+            "MCI Plaza",
+            "707 17th Street",
+            "1981-1982",
+            "522 / 159",
+            "42"
+        ],
+        [
+            "1801 California Street",
+            "1801 California Street",
+            "1982-1984",
+            "709 / 216",
+            "53"
+        ],
+        [
+            "Republic Plaza",
+            "330 17th Street",
+            "1984-present",
+            "714 / 218",
+            "56"
+        ]
+    ]
+}

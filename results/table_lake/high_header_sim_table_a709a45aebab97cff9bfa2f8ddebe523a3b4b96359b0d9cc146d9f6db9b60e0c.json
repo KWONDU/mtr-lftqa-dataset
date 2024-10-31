@@ -1,0 +1,63 @@
+{
+    "id": "a709a45aebab97cff9bfa2f8ddebe523a3b4b96359b0d9cc146d9f6db9b60e0c",
+    "metadata": "Wilson Fittipaldi J\u00fanior | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Pts_"
+    ],
+    "cell": [
+        [
+            "1972",
+            "Motor Racing Developments",
+            "Brabham BT33",
+            "Ford Cosworth DFV V8",
+            "0"
+        ],
+        [
+            "1972",
+            "Motor Racing Developments",
+            "Brabham BT34",
+            "Ford Cosworth DFV V8",
+            "0"
+        ],
+        [
+            "1973",
+            "Motor Racing Developments",
+            "Brabham BT37",
+            "Ford Cosworth DFV V8",
+            "3"
+        ],
+        [
+            "1973",
+            "Motor Racing Developments",
+            "Brabham BT42",
+            "Ford Cosworth DFV V8",
+            "3"
+        ],
+        [
+            "1975",
+            "Copersucar",
+            "Fittipaldi FD01",
+            "Ford Cosworth DFV V8",
+            "0"
+        ],
+        [
+            "1975",
+            "Copersucar",
+            "Fittipaldi FD02",
+            "Ford Cosworth DFV V8",
+            "0"
+        ],
+        [
+            "1975",
+            "Copersucar",
+            "Fittipaldi FD03",
+            "Ford Cosworth DFV V8",
+            "0"
+        ]
+    ]
+}

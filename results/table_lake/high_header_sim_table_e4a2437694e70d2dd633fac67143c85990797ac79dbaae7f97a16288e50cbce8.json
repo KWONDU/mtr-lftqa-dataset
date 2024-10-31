@@ -1,0 +1,135 @@
+{
+    "id": "e4a2437694e70d2dd633fac67143c85990797ac79dbaae7f97a16288e50cbce8",
+    "metadata": "1963 Boston Patriots season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Opponent",
+        "Result_",
+        "Stadium",
+        "Record",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "New York Jets",
+            "W: 38-14",
+            "Fenway Park",
+            "1-0-0",
+            "24120"
+        ],
+        [
+            "2",
+            "at San Diego Chargers",
+            "L: 17-13",
+            "Balboa Stadium",
+            "1-1-0",
+            "26097"
+        ],
+        [
+            "3",
+            "at Oakland Raiders",
+            "W: 20-14",
+            "Frank Youell Field",
+            "2-1-0",
+            "17131"
+        ],
+        [
+            "4",
+            "at Denver Broncos",
+            "L: 14-10",
+            "Mile High Stadium",
+            "2-2-0",
+            "18636"
+        ],
+        [
+            "5",
+            "at New York Jets",
+            "L: 31-24",
+            "Polo Grounds",
+            "2-3-0",
+            "16769"
+        ],
+        [
+            "6",
+            "Oakland Raiders",
+            "W: 20-14",
+            "Fenway Park",
+            "3-3-0",
+            "26494"
+        ],
+        [
+            "7",
+            "Denver Broncos",
+            "W: 40-21",
+            "Fenway Park",
+            "4-3-0",
+            "25418"
+        ],
+        [
+            "8",
+            "at Buffalo Bills",
+            "L: 28-21",
+            "War Memorial Stadium",
+            "4-4-0",
+            "29243"
+        ],
+        [
+            "9",
+            "Houston Oilers",
+            "W: 45-3",
+            "Fenway Park",
+            "5-4-0",
+            "31185"
+        ],
+        [
+            "10",
+            "San Diego Chargers",
+            "L: 7-6",
+            "Fenway Park",
+            "5-5-0",
+            "28402"
+        ],
+        [
+            "11",
+            "Kansas City Chiefs",
+            "T: 24-24",
+            "Fenway Park",
+            "5-5-1",
+            "17200"
+        ],
+        [
+            "12",
+            "BYE Week",
+            "BYE Week",
+            "BYE Week",
+            "BYE Week",
+            "BYE Week"
+        ],
+        [
+            "13",
+            "Buffalo Bills",
+            "W: 17-7",
+            "Fenway Park",
+            "6-5-1",
+            "16981"
+        ],
+        [
+            "14",
+            "at Houston Oilers",
+            "W: 46-28",
+            "Jeppesen Stadium",
+            "7-5-1",
+            "23462"
+        ],
+        [
+            "15",
+            "at Kansas City Chiefs",
+            "L: 35-3",
+            "Municipal Stadium",
+            "7-6-1",
+            "12598"
+        ]
+    ]
+}

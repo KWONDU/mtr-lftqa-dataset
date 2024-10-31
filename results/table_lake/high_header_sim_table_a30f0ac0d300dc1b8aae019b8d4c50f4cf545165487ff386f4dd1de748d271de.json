@@ -1,0 +1,88 @@
+{
+    "id": "a30f0ac0d300dc1b8aae019b8d4c50f4cf545165487ff386f4dd1de748d271de",
+    "metadata": "2000 NBA All-Star Game | Three-Point Contest | Contestants",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pos_",
+        "Player",
+        "Team",
+        "Height",
+        "Weight",
+        "First_round",
+        "Final_round"
+    ],
+    "cell": [
+        [
+            "G",
+            "Jeff Hornacek",
+            "Utah Jazz",
+            "6-4",
+            "190",
+            "17",
+            "13"
+        ],
+        [
+            "F",
+            "Dirk Nowitzki",
+            "Dallas Mavericks",
+            "7-0",
+            "245",
+            "18",
+            "11"
+        ],
+        [
+            "G",
+            "Ray Allen",
+            "Milwaukee Bucks",
+            "6-5",
+            "205",
+            "16",
+            "10"
+        ],
+        [
+            "G",
+            "Mike Bibby",
+            "Vancouver Grizzlies",
+            "6-2",
+            "195",
+            "15",
+            "\u2014"
+        ],
+        [
+            "G",
+            "Terry Porter",
+            "San Antonio Spurs",
+            "6-3",
+            "195",
+            "15",
+            "\u2014"
+        ],
+        [
+            "G",
+            "Hubert Davis",
+            "Dallas Mavericks",
+            "6-5",
+            "183",
+            "14",
+            "\u2014"
+        ],
+        [
+            "G",
+            "Allen Iverson",
+            "Philadelphia 76ers",
+            "6-0",
+            "165",
+            "10",
+            "\u2014"
+        ],
+        [
+            "G",
+            "Bob Sura",
+            "Cleveland Cavaliers",
+            "6-5",
+            "200",
+            "9",
+            "\u2014"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "757a43ba59d382d7a5694b28f7c479563e07b93f19bed0e9cac932fa3f633d72",
+    "metadata": "Gilbert Plains (electoral district) | Provincial representatives | Provincial representatives",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Party",
+        "Took_Office",
+        "Left_Office_"
+    ],
+    "cell": [
+        [
+            "Glenlyon Campbell",
+            "Conservative",
+            "1903",
+            "1908"
+        ],
+        [
+            "Duncan Cameron",
+            "Conservative",
+            "1908",
+            "1910"
+        ],
+        [
+            "Sam Hughes",
+            "Conservative",
+            "1910",
+            "1915"
+        ],
+        [
+            "William Findlater",
+            "Liberal",
+            "1915",
+            "1922"
+        ],
+        [
+            "Arthur Berry",
+            "Progressive",
+            "1922",
+            "1932"
+        ],
+        [
+            "",
+            "Liberal-Progressive",
+            "1932",
+            "1936"
+        ],
+        [
+            "Stanley Fox",
+            "Social Credit",
+            "1936",
+            "1940"
+        ],
+        [
+            "",
+            "Social Credit (Coalition)",
+            "1940",
+            "1949"
+        ],
+        [
+            "Ray Mitchell",
+            "Liberal-Progressive",
+            "1949",
+            "1958"
+        ]
+    ]
+}

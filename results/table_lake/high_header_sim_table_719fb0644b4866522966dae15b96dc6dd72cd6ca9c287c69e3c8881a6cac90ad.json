@@ -1,0 +1,70 @@
+{
+    "id": "719fb0644b4866522966dae15b96dc6dd72cd6ca9c287c69e3c8881a6cac90ad",
+    "metadata": "1944 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "10.9 (69)",
+            "Melbourne",
+            "22.10 (142)",
+            "Kardinia Park",
+            "8000",
+            "27 May 1944"
+        ],
+        [
+            "Collingwood",
+            "11.18 (84)",
+            "South Melbourne",
+            "12.18 (90)",
+            "Victoria Park",
+            "13000",
+            "27 May 1944"
+        ],
+        [
+            "Carlton",
+            "13.17 (95)",
+            "Essendon",
+            "14.9 (93)",
+            "Princes Park",
+            "18000",
+            "27 May 1944"
+        ],
+        [
+            "St Kilda",
+            "9.12 (66)",
+            "Hawthorn",
+            "11.7 (73)",
+            "Junction Oval",
+            "10000",
+            "27 May 1944"
+        ],
+        [
+            "North Melbourne",
+            "15.14 (104)",
+            "Footscray",
+            "9.16 (70)",
+            "Arden Street Oval",
+            "10000",
+            "27 May 1944"
+        ],
+        [
+            "Richmond",
+            "14.13 (97)",
+            "Fitzroy",
+            "7.9 (51)",
+            "Punt Road Oval",
+            "29000",
+            "27 May 1944"
+        ]
+    ]
+}

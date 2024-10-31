@@ -1,0 +1,70 @@
+{
+    "id": "289d4d4c5940ee7888057c64a763d5bb6311a6856b6c7892c951a278af14cb55",
+    "metadata": "1954 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "2.18 (30)",
+            "South Melbourne",
+            "13.18 (96)",
+            "Junction Oval",
+            "21500",
+            "12 June 1954"
+        ],
+        [
+            "Fitzroy",
+            "6.17 (53)",
+            "Richmond",
+            "11.13 (79)",
+            "Brunswick Street Oval",
+            "19000",
+            "12 June 1954"
+        ],
+        [
+            "North Melbourne",
+            "13.13 (91)",
+            "Collingwood",
+            "10.12 (72)",
+            "Arden Street Oval",
+            "30000",
+            "12 June 1954"
+        ],
+        [
+            "Carlton",
+            "5.11 (41)",
+            "Hawthorn",
+            "4.12 (36)",
+            "Princes Park",
+            "34000",
+            "14 June 1954"
+        ],
+        [
+            "Geelong",
+            "9.13 (67)",
+            "Footscray",
+            "8.15 (63)",
+            "Kardinia Park",
+            "33400",
+            "14 June 1954"
+        ],
+        [
+            "Melbourne",
+            "11.13 (79)",
+            "Essendon",
+            "14.17 (101)",
+            "MCG",
+            "36800",
+            "14 June 1954"
+        ]
+    ]
+}

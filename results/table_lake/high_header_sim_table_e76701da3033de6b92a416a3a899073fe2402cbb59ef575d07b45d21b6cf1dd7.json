@@ -1,0 +1,55 @@
+{
+    "id": "e76701da3033de6b92a416a3a899073fe2402cbb59ef575d07b45d21b6cf1dd7",
+    "metadata": "Vincenzo Modica | Achievemens | Achievemens",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Event",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "1994",
+            "European Championships",
+            "Helsinki, Finland",
+            "11th",
+            "10,000 m",
+            "28:17.24"
+        ],
+        [
+            "1997",
+            "World Championships",
+            "Athens, Greece",
+            "\u2014",
+            "Marathon",
+            "DNF"
+        ],
+        [
+            "1998",
+            "European Championships",
+            "Budapest, Hungary",
+            "3rd",
+            "Marathon",
+            "2:12:53"
+        ],
+        [
+            "1999",
+            "World Championships",
+            "Seville, Spain",
+            "2nd",
+            "Marathon",
+            "2:14:03"
+        ],
+        [
+            "2000",
+            "Olympic Games",
+            "Sydney, Australia",
+            "\u2014",
+            "Marathon",
+            "DNF"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "a9c95fd21ca5ff441fc49c963f63905cdcd5362d9acb2b8bfbc084e17c1287ed",
+    "metadata": "Mobile telephony in Africa | Current situation | Current situation",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Provider",
+        "Country",
+        "Subscribers_2005_thousands",
+        "Subscribers_2006_thousands",
+        "Growth_"
+    ],
+    "cell": [
+        [
+            "Airtel",
+            "Kenya, Uganda",
+            "37600",
+            "31800",
+            "54.9"
+        ],
+        [
+            "Vodacom",
+            "South Africa",
+            "17600",
+            "21800",
+            "23.9"
+        ],
+        [
+            "MTN",
+            "South Africa",
+            "10235",
+            "12483",
+            "22"
+        ],
+        [
+            "MTN",
+            "Nigeria",
+            "8370",
+            "12281",
+            "47"
+        ],
+        [
+            "Glo Mobile",
+            "Nigeria",
+            "9000",
+            "11000",
+            "22"
+        ],
+        [
+            "Maroc",
+            "Morocco",
+            "8237",
+            "10707",
+            "30"
+        ],
+        [
+            "Djezzy",
+            "Algeria",
+            "7109",
+            "10531",
+            "48"
+        ],
+        [
+            "Mobinil",
+            "Egypt",
+            "66960",
+            "9267",
+            "38"
+        ],
+        [
+            "Vodafone",
+            "Egypt",
+            "6125",
+            "8704",
+            "42"
+        ],
+        [
+            "Mobilis",
+            "Algeria",
+            "4908",
+            "7476",
+            "52"
+        ]
+    ]
+}

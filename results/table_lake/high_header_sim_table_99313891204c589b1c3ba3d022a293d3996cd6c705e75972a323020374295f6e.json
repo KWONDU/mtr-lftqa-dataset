@@ -1,0 +1,84 @@
+{
+    "id": "99313891204c589b1c3ba3d022a293d3996cd6c705e75972a323020374295f6e",
+    "metadata": "Iowa Pre-Flight Seahawks football | 1943 | 1943",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "City",
+        "Result_",
+        "Score"
+    ],
+    "cell": [
+        [
+            "September 18",
+            "Illinois",
+            "Champaign",
+            "Win",
+            "32-18"
+        ],
+        [
+            "September 25",
+            "Ohio State",
+            "Columbus",
+            "Win",
+            "28-13"
+        ],
+        [
+            "October 2",
+            "Iowa State",
+            "Ames",
+            "Win",
+            "33-13"
+        ],
+        [
+            "October 9",
+            "Iowa",
+            "Iowa City",
+            "Win",
+            "25-0"
+        ],
+        [
+            "October 16",
+            "Missouri",
+            "Kansas City",
+            "Win",
+            "21-6"
+        ],
+        [
+            "October 30",
+            "Fort Riley",
+            "Iowa City",
+            "Win",
+            "19-2"
+        ],
+        [
+            "November 7",
+            "Marquette",
+            "Milwaukee",
+            "Win",
+            "46-19"
+        ],
+        [
+            "November 13",
+            "Camp Grant",
+            "Iowa City",
+            "Win",
+            "28-13"
+        ],
+        [
+            "November 20",
+            "Notre Dame",
+            "South Bend",
+            "Loss",
+            "13-14"
+        ],
+        [
+            "November 27",
+            "Minnesota",
+            "Minneapolis",
+            "Win",
+            "32-0"
+        ]
+    ]
+}

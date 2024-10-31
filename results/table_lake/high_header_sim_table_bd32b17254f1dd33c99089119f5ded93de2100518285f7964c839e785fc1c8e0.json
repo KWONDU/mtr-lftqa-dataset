@@ -1,0 +1,126 @@
+{
+    "id": "bd32b17254f1dd33c99089119f5ded93de2100518285f7964c839e785fc1c8e0",
+    "metadata": "2001-02 Prva HNL | Summaries | Summaries",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Manager",
+        "Home_city",
+        "Stadium",
+        "Capacity"
+    ],
+    "cell": [
+        [
+            "Cibalia",
+            "Davor \u010cop",
+            "Vinkovci",
+            "Stadion HNK Cibalia",
+            "9920"
+        ],
+        [
+            "\u010cakovec",
+            "Rajko Magi\u0107",
+            "\u010cakovec",
+            "Stadion SRC Mladost",
+            "8000"
+        ],
+        [
+            "Dinamo Zagreb",
+            "Ilija Lon\u010darevi\u0107",
+            "Zagreb",
+            "Stadion Maksimir",
+            "37168"
+        ],
+        [
+            "Hajduk Split",
+            "Nenad Gra\u010dan",
+            "Split",
+            "Gradski stadion u Poljudu",
+            "35000"
+        ],
+        [
+            "Hrvatski Dragovoljac",
+            "Luka Bona\u010di\u0107",
+            "Zagreb",
+            "Stadion N\u0160C Stjepan Spaji\u0107",
+            "5000"
+        ],
+        [
+            "Kamen Ingrad",
+            "Tomislav Radi\u0107",
+            "Velika",
+            "Stadion Kamen Ingrada",
+            "8000"
+        ],
+        [
+            "Marsonia",
+            "Milo Ni\u017eeti\u0107",
+            "Slavonski Brod",
+            "Gradski stadion uz Savu",
+            "10000"
+        ],
+        [
+            "Osijek",
+            "Vlado Bili\u0107",
+            "Osijek",
+            "Stadion Gradski vrt",
+            "19500"
+        ],
+        [
+            "Pomorac",
+            "Predrag Stilinovi\u0107",
+            "Kostrena",
+            "Stadion \u017duknica",
+            "3000"
+        ],
+        [
+            "Rijeka",
+            "Ivan Katalini\u0107",
+            "Rijeka",
+            "Stadion na Kantridi",
+            "10275"
+        ],
+        [
+            "Slaven Belupo",
+            "Dra\u017een Besek",
+            "Koprivnica",
+            "Gradski stadion u Koprivnici",
+            "4000"
+        ],
+        [
+            "\u0160ibenik",
+            "Vjekoslav Lokica",
+            "\u0160ibenik",
+            "Stadion \u0160ubi\u0107evac",
+            "8000"
+        ],
+        [
+            "T\u0160K Topolovac",
+            "Ivica Vidovi\u0107",
+            "Topolovac",
+            "Gradski stadion Sisak",
+            "8000"
+        ],
+        [
+            "Varteks",
+            "Branko Jan\u017eek",
+            "Vara\u017edin",
+            "Stadion NK Varteks",
+            "10800"
+        ],
+        [
+            "Zadar",
+            "Stanko Mr\u0161i\u0107",
+            "Zadar",
+            "Stadion Stanovi",
+            "5860"
+        ],
+        [
+            "NK Zagreb",
+            "Zlatko Kranj\u010dar",
+            "Zagreb",
+            "Stadion u Kranj\u010devi\u0107evoj ulici",
+            "8850"
+        ]
+    ]
+}

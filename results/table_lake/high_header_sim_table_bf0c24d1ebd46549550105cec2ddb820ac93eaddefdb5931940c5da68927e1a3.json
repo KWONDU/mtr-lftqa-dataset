@@ -1,0 +1,77 @@
+{
+    "id": "bf0c24d1ebd46549550105cec2ddb820ac93eaddefdb5931940c5da68927e1a3",
+    "metadata": "List of awards and nominations received by The X-Files | Satellite Awards | Screen Actors Guild",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Category",
+        "Recipients_and_nominees",
+        "Role_Episode",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "1996",
+            "Best Actor in a Leading Role - Drama Series",
+            "David Duchovny",
+            "Fox Mulder",
+            "Won"
+        ],
+        [
+            "1996",
+            "Best Actress in a Leading Role - Drama Series",
+            "Gillian Anderson",
+            "Dana Scully",
+            "Nominated"
+        ],
+        [
+            "1996",
+            "Best Series - Drama",
+            "Best Series - Drama",
+            "Best Series - Drama",
+            "Won"
+        ],
+        [
+            "1997",
+            "Best Actor in a Leading Role - Drama Series",
+            "David Duchovny",
+            "David Duchovny",
+            "Nominated"
+        ],
+        [
+            "1997",
+            "Best Actress in a Leading Role - Drama Series",
+            "Gillian Anderson",
+            "Gillian Anderson",
+            "Nominated"
+        ],
+        [
+            "1997",
+            "Best Series - Drama",
+            "Best Series - Drama",
+            "Best Series - Drama",
+            "Nominated"
+        ],
+        [
+            "1998",
+            "Best Actress in a Leading Role - Drama Series",
+            "Gillian Anderson",
+            "Gillian Anderson",
+            "Nominated"
+        ],
+        [
+            "1998",
+            "Best Series - Drama",
+            "Best Series - Drama",
+            "Best Series - Drama",
+            "Nominated"
+        ],
+        [
+            "2000",
+            "Best Actress in a Leading Role - Drama Series",
+            "Gillian Anderson",
+            "Gillian Anderson",
+            "Nominated"
+        ]
+    ]
+}

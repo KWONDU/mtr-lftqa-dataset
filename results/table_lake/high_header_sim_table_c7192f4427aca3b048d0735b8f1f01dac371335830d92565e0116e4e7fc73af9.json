@@ -1,0 +1,79 @@
+{
+    "id": "c7192f4427aca3b048d0735b8f1f01dac371335830d92565e0116e4e7fc73af9",
+    "metadata": "Paleolithic | Paleogeography and climate | Paleogeography and climate",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Age_before",
+        "America",
+        "Atlantic_Europe",
+        "Maghreb",
+        "Mediterranean_Europe",
+        "Central_Europe"
+    ],
+    "cell": [
+        [
+            "10,000 years",
+            "Flandrian interglacial",
+            "Flandriense",
+            "Mellahiense",
+            "Versiliense",
+            "Flandrian interglacial"
+        ],
+        [
+            "80,000 years",
+            "Wisconsin",
+            "Devensiense",
+            "Regresi\u00f3n",
+            "Regresi\u00f3n",
+            "Wisconsin Stage"
+        ],
+        [
+            "140,000 years",
+            "Sangamoniense",
+            "Ipswichiense",
+            "Ouljiense",
+            "Tirreniense II y III",
+            "Eemian Stage"
+        ],
+        [
+            "200,000 years",
+            "Illinois",
+            "Wolstoniense",
+            "Regresi\u00f3n",
+            "Regresi\u00f3n",
+            "Wolstonian Stage"
+        ],
+        [
+            "450,000 years",
+            "Yarmouthiense",
+            "Hoxniense",
+            "Anfatiense",
+            "Tirreniense I",
+            "Hoxnian Stage"
+        ],
+        [
+            "580,000 years",
+            "Kansas",
+            "Angliense",
+            "Regresi\u00f3n",
+            "Regresi\u00f3n",
+            "Kansan Stage"
+        ],
+        [
+            "750,000 years",
+            "Aftoniense",
+            "Cromeriense",
+            "Maarifiense",
+            "Siciliense",
+            "Cromerian Complex"
+        ],
+        [
+            "1,100,000 years",
+            "Nebraska",
+            "Beestoniense",
+            "Regresi\u00f3n",
+            "Regresi\u00f3n",
+            "Beestonian stage"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "04e338f73d655aff8e6003cedf243c36b0a7d9fb1a67ac34dd0981084c365dd6",
+    "metadata": "Petr Korda | Wins (10) | Wins (10)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Surface",
+        "Partner",
+        "Opponent_in_the_final",
+        "Score_in_the_final"
+    ],
+    "cell": [
+        [
+            "1988",
+            "Gstaad , Switzerland",
+            "Clay",
+            "Milan \u0160rejber",
+            "Andr\u00e9s G\u00f3mez Emilio S\u00e1nchez",
+            "7-6, 7-6"
+        ],
+        [
+            "1988",
+            "Prague , Czechoslovakia",
+            "Clay",
+            "Jaroslav Navr\u00e1til",
+            "Thomas Muster Horst Skoff",
+            "7-5, 7-6"
+        ],
+        [
+            "1989",
+            "Stuttgart , Germany",
+            "Clay",
+            "Tom\u00e1\u0161 \u0160m\u00edd",
+            "Florin Seg\u0103rceanu Cyril Suk",
+            "6-7, 6-3, 6-1"
+        ],
+        [
+            "1990",
+            "Monte Carlo , Monaco",
+            "Clay",
+            "Tom\u00e1\u0161 \u0160m\u00edd",
+            "Andr\u00e9s G\u00f3mez Javier S\u00e1nchez",
+            "6-2, 6-1"
+        ],
+        [
+            "1991",
+            "New Haven , USA",
+            "Hard",
+            "Wally Masur",
+            "Jeff Brown Scott Melville",
+            "W/O"
+        ],
+        [
+            "1991",
+            "Berlin , Germany",
+            "Carpet",
+            "Karel Nov\u00e1\u010dek",
+            "Jan Siemerink Daniel Vacek",
+            "3-6, 7-5, 7-5"
+        ],
+        [
+            "1993",
+            "Monte Carlo, Monaco",
+            "Clay",
+            "Stefan Edberg",
+            "Paul Haarhuis Mark Koevermans",
+            "6-2, 2-6, 7-5"
+        ],
+        [
+            "1993",
+            "Halle , Germany",
+            "Grass",
+            "Cyril Suk",
+            "Mike Bauer Marc-Kevin Goellner",
+            "7-6, 5-7, 6-3"
+        ],
+        [
+            "1993",
+            "Cincinnati , USA",
+            "Hard",
+            "Andre Agassi",
+            "Stefan Edberg Henrik Holm",
+            "6-4, 7-6"
+        ],
+        [
+            "1996",
+            "Australian Open, Melbourne , Australia",
+            "Hard",
+            "Stefan Edberg",
+            "S\u00e9bastien Lareau Alex O`Brien",
+            "7-5, 7-5, 4-6, 6-1"
+        ]
+    ]
+}

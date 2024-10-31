@@ -1,0 +1,49 @@
+{
+    "id": "c454e0b1dfcb2b554bf4345836f40ed57875f01239c77988bb461ddb83bf5b4a",
+    "metadata": "1998 Senior PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jim Colbert",
+            "United States",
+            "8249210",
+            "19"
+        ],
+        [
+            "2",
+            "Lee Trevino",
+            "United States",
+            "8165927",
+            "28"
+        ],
+        [
+            "3",
+            "Dave Stockton",
+            "United States",
+            "7676552",
+            "14"
+        ],
+        [
+            "4",
+            "Bob Charles",
+            "New Zealand",
+            "7646958",
+            "23"
+        ],
+        [
+            "5",
+            "Hale Irwin",
+            "United States",
+            "7620253",
+            "20"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "7d8c9c7fb62a344c839122a9e628c45b94bc35a68994984a3795a83b5386267b",
+    "metadata": "The Time Warrior | Broadcast and reception | Serial details by episode",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode",
+        "Broadcast_date",
+        "Run_time",
+        "Viewers_in_millions",
+        "Archive"
+    ],
+    "cell": [
+        [
+            "Part One",
+            "15December1973",
+            "24:15",
+            "8.7",
+            "PAL 2 colour videotape"
+        ],
+        [
+            "Part Two",
+            "22December1973",
+            "24:10",
+            "7.0",
+            "PAL 2 colour videotape"
+        ],
+        [
+            "Part Three",
+            "29December1973",
+            "23:30",
+            "6.6",
+            "PAL 2 colour videotape"
+        ],
+        [
+            "Part Four",
+            "5January1974",
+            "24:57",
+            "10.6",
+            "PAL 2 colour videotape"
+        ],
+        [
+            "[ dead link ]",
+            "[ dead link ]",
+            "[ dead link ]",
+            "[ dead link ]",
+            "[ dead link ]"
+        ]
+    ]
+}

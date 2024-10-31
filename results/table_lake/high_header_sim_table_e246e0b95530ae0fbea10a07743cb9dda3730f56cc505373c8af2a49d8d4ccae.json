@@ -1,0 +1,84 @@
+{
+    "id": "e246e0b95530ae0fbea10a07743cb9dda3730f56cc505373c8af2a49d8d4ccae",
+    "metadata": "FM- and TV-mast Kosztowy | Analogue Radio Programmes | Analogue Radio Programmes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Program",
+        "Frequency_MHz",
+        "ERP_kW",
+        "Polarisation",
+        "Antenna_Diagram_around_ND_directional_D"
+    ],
+    "cell": [
+        [
+            "RMF FM",
+            "9300",
+            "60",
+            "Horizontal",
+            "ND"
+        ],
+        [
+            "94,5 Roxy FM",
+            "9450",
+            "050",
+            "Horizontal",
+            "D"
+        ],
+        [
+            "Eska Rock",
+            "9550",
+            "1",
+            "Horizontal",
+            "D"
+        ],
+        [
+            "Polskie Radio Program I",
+            "9790",
+            "60",
+            "Horizontal",
+            "ND"
+        ],
+        [
+            "Radio Rezonans",
+            "9910",
+            "030",
+            "Horizontal",
+            "D"
+        ],
+        [
+            "Polskie Radio Program III",
+            "9970",
+            "60",
+            "Horizontal",
+            "ND"
+        ],
+        [
+            "Polskie Radio Katowice",
+            "10220",
+            "60",
+            "Horizontal",
+            "ND"
+        ],
+        [
+            "Radio Maryja",
+            "10370",
+            "3",
+            "Horizontal",
+            "D"
+        ],
+        [
+            "Polskie Radio Program II",
+            "10560",
+            "60",
+            "Horizontal",
+            "ND"
+        ],
+        [
+            "Radio eM",
+            "10760",
+            "60",
+            "Horizontal",
+            "ND"
+        ]
+    ]
+}

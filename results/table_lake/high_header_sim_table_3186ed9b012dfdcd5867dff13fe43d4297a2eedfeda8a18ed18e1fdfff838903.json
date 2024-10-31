@@ -1,0 +1,91 @@
+{
+    "id": "3186ed9b012dfdcd5867dff13fe43d4297a2eedfeda8a18ed18e1fdfff838903",
+    "metadata": "1946 Washington Redskins season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 29, 1946",
+            "Pittsburgh Steelers",
+            "T 14-14",
+            "33620"
+        ],
+        [
+            "2",
+            "October 6, 1946",
+            "Detroit Lions",
+            "W 17-16",
+            "33569"
+        ],
+        [
+            "3",
+            "October 13, 1946",
+            "New York Giants",
+            "W 24-14",
+            "33651"
+        ],
+        [
+            "4",
+            "October 20, 1946",
+            "at Boston Yanks",
+            "W 14-6",
+            "24357"
+        ],
+        [
+            "5",
+            "October 27, 1946",
+            "Philadelphia Eagles",
+            "L 28-24",
+            "33691"
+        ],
+        [
+            "6",
+            "November 3, 1946",
+            "at Pittsburgh Steelers",
+            "L 14-7",
+            "39060"
+        ],
+        [
+            "7",
+            "November 10, 1946",
+            "Boston Yanks",
+            "W 17-14",
+            "33691"
+        ],
+        [
+            "8",
+            "November 17, 1946",
+            "at Chicago Bears",
+            "L 24-20",
+            "43315"
+        ],
+        [
+            "9",
+            "November 24, 1946",
+            "at Philadelphia Eagles",
+            "W 27-10",
+            "36366"
+        ],
+        [
+            "10",
+            "December 1, 1946",
+            "Green Bay Packers",
+            "L 20-7",
+            "33691"
+        ],
+        [
+            "11",
+            "December 8, 1946",
+            "at New York Giants",
+            "L 31-0",
+            "60337"
+        ]
+    ]
+}

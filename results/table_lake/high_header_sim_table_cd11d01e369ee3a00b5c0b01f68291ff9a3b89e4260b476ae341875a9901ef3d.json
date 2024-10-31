@@ -1,0 +1,55 @@
+{
+    "id": "cd11d01e369ee3a00b5c0b01f68291ff9a3b89e4260b476ae341875a9901ef3d",
+    "metadata": "Maximum wage | Scaled taxation | Calculations are made for the top of each bracket",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Currency_Bracket_",
+        "Dollars_Taxed_in_Bracket_",
+        "Rate_",
+        "Taxes_From_Bracket_",
+        "After_Tax_Income_",
+        "Percentage_of_Income_Kept_"
+    ],
+    "cell": [
+        [
+            "$1 - $40,000",
+            "$40,000",
+            "15%",
+            "$6,000",
+            "$34,000",
+            "85%"
+        ],
+        [
+            "$40,000 - $100,000",
+            "$60,000",
+            "35%",
+            "$21,000",
+            "$34,000 + $39,000 = $73,000",
+            "73%"
+        ],
+        [
+            "$100,000 - $175,000",
+            "$75,000",
+            "50%",
+            "$37,500",
+            "$73,000 + $37,500 = $110,500",
+            "63%"
+        ],
+        [
+            "$175, 000 - $250,000",
+            "$75,000",
+            "60%",
+            "$45,000",
+            "$110,500 + $30,000 = $140,500",
+            "56%"
+        ],
+        [
+            "$250,000 - $500,000",
+            "$250,000",
+            "75%",
+            "$187,500",
+            "$140,500 + $62,000 = $203,000",
+            "40.6%"
+        ]
+    ]
+}

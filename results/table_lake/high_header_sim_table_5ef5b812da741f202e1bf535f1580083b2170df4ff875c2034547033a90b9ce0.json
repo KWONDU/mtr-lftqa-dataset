@@ -1,0 +1,340 @@
+{
+    "id": "5ef5b812da741f202e1bf535f1580083b2170df4ff875c2034547033a90b9ce0",
+    "metadata": "Myl\u00e8ne Farmer en tourn\u00e9e | Tour dates | Tour dates",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "City",
+        "Country",
+        "Venue",
+        "Tickets_available_since",
+        "Attendance",
+        "Comment_"
+    ],
+    "cell": [
+        [
+            "May 2, 2009",
+            "Nice",
+            "France",
+            "Palais Nikaia",
+            "May 23, 2008",
+            "9000",
+            "Sold out"
+        ],
+        [
+            "May 3, 2009",
+            "Nice",
+            "France",
+            "Palais Nikaia",
+            "June 11, 2008",
+            "9000",
+            "Sold out"
+        ],
+        [
+            "May 5, 2009",
+            "Clermont-Ferrand",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "8500",
+            "Sold out"
+        ],
+        [
+            "May 6, 2009",
+            "Clermont-Ferrand",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "8500",
+            "Sold out"
+        ],
+        [
+            "May 9, 2009",
+            "Marseille",
+            "France",
+            "D\u00f4me de Marseille",
+            "May 23, 2008",
+            "8500",
+            "Sold out"
+        ],
+        [
+            "May 10, 2009",
+            "Marseille",
+            "France",
+            "D\u00f4me de Marseille",
+            "May 23, 2008",
+            "8500",
+            "Sold out"
+        ],
+        [
+            "May 12, 2009",
+            "Marseille",
+            "France",
+            "D\u00f4me de Marseille",
+            "June 6, 2008",
+            "8500",
+            "Sold out"
+        ],
+        [
+            "May 15, 2009",
+            "Toulouse",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "9000",
+            "Sold out"
+        ],
+        [
+            "May 16, 2009",
+            "Toulouse",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "9000",
+            "Sold out"
+        ],
+        [
+            "May 18, 2009",
+            "Toulouse",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "9000",
+            "Sold out"
+        ],
+        [
+            "May 19, 2009",
+            "Toulouse",
+            "France",
+            "Z\u00e9nith",
+            "September 15, 2008",
+            "9000",
+            "Sold out"
+        ],
+        [
+            "May 23, 2009",
+            "Nantes",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "8500",
+            "Sold out"
+        ],
+        [
+            "May 24, 2009",
+            "Nantes",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "8500",
+            "Sold out"
+        ],
+        [
+            "May 26, 2009",
+            "Nantes",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "8500",
+            "Sold out"
+        ],
+        [
+            "May 27, 2009",
+            "Nantes",
+            "France",
+            "Z\u00e9nith",
+            "September 23, 2008",
+            "8500",
+            "Sold out"
+        ],
+        [
+            "May 30, 2009",
+            "Rouen",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "8000",
+            "Sold out"
+        ],
+        [
+            "May 31, 2009",
+            "Rouen",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "8000",
+            "Sold out"
+        ],
+        [
+            "June 2, 2009",
+            "Rouen",
+            "France",
+            "Z\u00e9nith",
+            "May 27, 2008",
+            "8000",
+            "Sold out"
+        ],
+        [
+            "June 5, 2009",
+            "Strasbourg",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "10000",
+            "Sold out"
+        ],
+        [
+            "June 6, 2009",
+            "Strasbourg",
+            "France",
+            "Z\u00e9nith",
+            "June 10, 2008",
+            "10000",
+            "Sold out"
+        ],
+        [
+            "June 8, 2009",
+            "Dijon",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "7800",
+            "Sold out"
+        ],
+        [
+            "June 9, 2009",
+            "Dijon",
+            "France",
+            "Z\u00e9nith",
+            "May 23, 2008",
+            "7800",
+            "Sold out"
+        ],
+        [
+            "June 12, 2009",
+            "Lyon",
+            "France",
+            "Halle Tony Garnier",
+            "May 23, 2008",
+            "12000",
+            "Sold out"
+        ],
+        [
+            "June 13, 2009",
+            "Lyon",
+            "France",
+            "Halle Tony Garnier",
+            "May 23, 2008",
+            "12000",
+            "Sold out"
+        ],
+        [
+            "June 15, 2009",
+            "Lyon",
+            "France",
+            "Halle Tony Garnier",
+            "September 23, 2008",
+            "12000",
+            "Sold out"
+        ],
+        [
+            "June 17, 2009",
+            "Amn\u00e9ville",
+            "France",
+            "Galaxie Amn\u00e9ville",
+            "January 30, 2009",
+            "11000",
+            "Sold out"
+        ],
+        [
+            "June 19, 2009",
+            "Douai",
+            "France",
+            "Gayant Expo",
+            "June 27, 2008",
+            "11500",
+            "Sold out"
+        ],
+        [
+            "June 20, 2009",
+            "Douai",
+            "France",
+            "Gayant Expo",
+            "June 27, 2008",
+            "11500",
+            "Sold out"
+        ],
+        [
+            "June 22, 2009",
+            "Douai",
+            "France",
+            "Gayant Expo",
+            "September 24, 2008",
+            "11500",
+            "Sold out"
+        ],
+        [
+            "June 28, 2009",
+            "Saint Petersburg",
+            "Russia",
+            "SKK",
+            "February 16, 2009",
+            "15000",
+            "Sold out"
+        ],
+        [
+            "July 1, 2009",
+            "Moscow",
+            "Russia",
+            "Olimpiysky",
+            "February 16, 2009",
+            "25000",
+            "Sold out"
+        ],
+        [
+            "September 4, 2009",
+            "Geneva",
+            "Switzerland",
+            "Stade de Gen\u00e8ve",
+            "March 28, 2008",
+            "32000",
+            "Sold out"
+        ],
+        [
+            "September 5, 2009",
+            "Geneva",
+            "Switzerland",
+            "Stade de Gen\u00e8ve",
+            "April 7, 2008",
+            "32000",
+            "Sold out"
+        ],
+        [
+            "September 11, 2009",
+            "Paris",
+            "France",
+            "Stade de France",
+            "April 1, 2008",
+            "80000",
+            "Sold out (2 hours)"
+        ],
+        [
+            "September 12, 2009",
+            "Paris",
+            "France",
+            "Stade de France",
+            "March 28, 2008",
+            "80000",
+            "Sold out (1 hour \u00bc)"
+        ],
+        [
+            "September 19, 2009",
+            "Brussels",
+            "Belgium",
+            "King Baudouin Stadium",
+            "April 26, 2008",
+            "50000",
+            "Sold out"
+        ]
+    ]
+}

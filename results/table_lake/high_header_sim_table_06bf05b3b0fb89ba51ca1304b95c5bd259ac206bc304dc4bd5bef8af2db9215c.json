@@ -1,0 +1,49 @@
+{
+    "id": "06bf05b3b0fb89ba51ca1304b95c5bd259ac206bc304dc4bd5bef8af2db9215c",
+    "metadata": "1966 Los Angeles Dodgers season | June secondary phase | June secondary phase",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Name_",
+        "Position_",
+        "School",
+        "Signed"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bob Stinson",
+            "C",
+            "Miami-Dade College",
+            "Yes"
+        ],
+        [
+            "2",
+            "Richard Schryer",
+            "OF",
+            "University of Michigan",
+            "Yes"
+        ],
+        [
+            "3",
+            "James Carter",
+            "3B",
+            "Trinity University",
+            "Yes"
+        ],
+        [
+            "4",
+            "John Green",
+            "RHP",
+            "Gulf Coast Community College",
+            "No"
+        ],
+        [
+            "5",
+            "John Herbst",
+            "LHP",
+            "University of Southern California",
+            "No Twins - 1967"
+        ]
+    ]
+}

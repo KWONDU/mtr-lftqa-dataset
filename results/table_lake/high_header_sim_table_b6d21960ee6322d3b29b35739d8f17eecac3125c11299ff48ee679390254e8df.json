@@ -1,0 +1,70 @@
+{
+    "id": "b6d21960ee6322d3b29b35739d8f17eecac3125c11299ff48ee679390254e8df",
+    "metadata": "1940 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "18.14 (122)",
+            "Richmond",
+            "14.15 (99)",
+            "MCG",
+            "20044",
+            "4 May 1940"
+        ],
+        [
+            "Collingwood",
+            "11.13 (79)",
+            "Geelong",
+            "14.10 (94)",
+            "Victoria Park",
+            "11000",
+            "4 May 1940"
+        ],
+        [
+            "Carlton",
+            "15.19 (109)",
+            "South Melbourne",
+            "12.5 (77)",
+            "Princes Park",
+            "19000",
+            "4 May 1940"
+        ],
+        [
+            "St Kilda",
+            "12.25 (97)",
+            "Hawthorn",
+            "7.13 (55)",
+            "Junction Oval",
+            "17000",
+            "4 May 1940"
+        ],
+        [
+            "North Melbourne",
+            "15.16 (106)",
+            "Fitzroy",
+            "7.9 (51)",
+            "Arden Street Oval",
+            "11000",
+            "4 May 1940"
+        ],
+        [
+            "Footscray",
+            "17.9 (111)",
+            "Essendon",
+            "9.12 (66)",
+            "Western Oval",
+            "25000",
+            "4 May 1940"
+        ]
+    ]
+}

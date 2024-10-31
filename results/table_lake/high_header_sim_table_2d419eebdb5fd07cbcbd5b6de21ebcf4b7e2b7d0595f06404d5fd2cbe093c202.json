@@ -1,0 +1,49 @@
+{
+    "id": "2d419eebdb5fd07cbcbd5b6de21ebcf4b7e2b7d0595f06404d5fd2cbe093c202",
+    "metadata": "1948-49 Portsmouth F.C. season | FA Cup | FA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Team",
+        "Against",
+        "Date_",
+        "Venue",
+        "Round"
+    ],
+    "cell": [
+        [
+            "Stockport County",
+            "0",
+            "8 January 1949",
+            "H",
+            "3rd Round"
+        ],
+        [
+            "Sheffield Wednesday",
+            "1",
+            "29 January 1949",
+            "H",
+            "4th Round"
+        ],
+        [
+            "Newport County",
+            "2",
+            "12 February 1949",
+            "H",
+            "5th Round"
+        ],
+        [
+            "Derby County",
+            "1",
+            "26 February 1949",
+            "H",
+            "Quarter Final"
+        ],
+        [
+            "Leicester City",
+            "3",
+            "26 March 1949",
+            "N",
+            "Semi Final"
+        ]
+    ]
+}

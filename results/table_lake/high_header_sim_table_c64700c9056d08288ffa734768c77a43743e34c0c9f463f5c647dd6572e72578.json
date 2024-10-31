@@ -1,0 +1,91 @@
+{
+    "id": "c64700c9056d08288ffa734768c77a43743e34c0c9f463f5c647dd6572e72578",
+    "metadata": "Dancing with the Stars (U.S. season 6) | Highest and lowest scoring performances | Highest and lowest scoring performances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Dance",
+        "Best_dancers",
+        "Best_score",
+        "Worst_dancers",
+        "Worst_score"
+    ],
+    "cell": [
+        [
+            "Cha-cha-cha Face-off",
+            "Kristi Yamaguchi Kristi Yamaguchi",
+            "28 30",
+            "Penn Jillette Jason Taylor",
+            "16 24"
+        ],
+        [
+            "Foxtrot",
+            "Jason Taylor",
+            "28",
+            "Monica Seles Adam Carolla",
+            "15"
+        ],
+        [
+            "Quickstep",
+            "Jason Taylor",
+            "30",
+            "Penn Jillette",
+            "17"
+        ],
+        [
+            "Mambo",
+            "Cristi\u00e1n de la Fuente",
+            "29",
+            "Monica Seles",
+            "15"
+        ],
+        [
+            "Jive",
+            "Kristi Yamaguchi",
+            "30",
+            "Marissa Jaret Winokur",
+            "19"
+        ],
+        [
+            "Tango",
+            "Jason Taylor Kristi Yamaguchi",
+            "29",
+            "Steve Guttenberg Adam Carolla Mario",
+            "21"
+        ],
+        [
+            "Viennese Waltz",
+            "Jason Taylor",
+            "29",
+            "Priscilla Presley",
+            "22"
+        ],
+        [
+            "Paso Doble",
+            "Kristi Yamaguchi",
+            "29",
+            "Adam Carolla",
+            "19"
+        ],
+        [
+            "Rumba",
+            "Kristi Yamaguchi",
+            "29",
+            "Priscilla Presley",
+            "21"
+        ],
+        [
+            "Samba",
+            "Cristi\u00e1n de la Fuente",
+            "29",
+            "Cristi\u00e1n de la Fuente",
+            "21"
+        ],
+        [
+            "Freestyle",
+            "Kristi Yamaguchi",
+            "30",
+            "Cristi\u00e1n de la Fuente",
+            "26"
+        ]
+    ]
+}

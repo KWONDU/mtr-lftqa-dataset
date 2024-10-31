@@ -1,0 +1,55 @@
+{
+    "id": "2a70f128675e95d30f3bad96c59f2ff53fddca5db2ffcf4aed2d42dfe485f616",
+    "metadata": "FIBT World Championships 2008 | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Germany",
+            "5",
+            "2",
+            "4",
+            "11"
+        ],
+        [
+            "2",
+            "Canada",
+            "0",
+            "2",
+            "0",
+            "2"
+        ],
+        [
+            "3",
+            "United States",
+            "0",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "4",
+            "Russia",
+            "0",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "5",
+            "United Kingdom",
+            "1",
+            "0",
+            "0",
+            "1"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "b7acde27ab577252846416bab161c776f05ddf5b58d1df3b4c413de905ee7d17",
+    "metadata": "1957 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "17.12 (114)",
+            "South Melbourne",
+            "6.15 (51)",
+            "MCG",
+            "28250",
+            "25 May 1957"
+        ],
+        [
+            "Footscray",
+            "14.14 (98)",
+            "Richmond",
+            "10.19 (79)",
+            "Western Oval",
+            "24902",
+            "25 May 1957"
+        ],
+        [
+            "Essendon",
+            "9.12 (66)",
+            "Hawthorn",
+            "11.8 (74)",
+            "Windy Hill",
+            "22000",
+            "25 May 1957"
+        ],
+        [
+            "St Kilda",
+            "10.13 (73)",
+            "Geelong",
+            "13.5 (83)",
+            "Junction Oval",
+            "24000",
+            "25 May 1957"
+        ],
+        [
+            "North Melbourne",
+            "13.13 (91)",
+            "Collingwood",
+            "10.16 (76)",
+            "Arden Street Oval",
+            "20000",
+            "25 May 1957"
+        ],
+        [
+            "Fitzroy",
+            "12.10 (82)",
+            "Carlton",
+            "14.12 (96)",
+            "Brunswick Street Oval",
+            "24500",
+            "25 May 1957"
+        ]
+    ]
+}

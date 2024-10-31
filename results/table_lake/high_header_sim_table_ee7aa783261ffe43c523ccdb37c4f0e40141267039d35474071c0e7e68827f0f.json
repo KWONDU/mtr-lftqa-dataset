@@ -1,0 +1,70 @@
+{
+    "id": "ee7aa783261ffe43c523ccdb37c4f0e40141267039d35474071c0e7e68827f0f",
+    "metadata": "Iraqw language | Number | Number",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "singular",
+        "singular_gender",
+        "plural",
+        "plural_gender",
+        "meaning"
+    ],
+    "cell": [
+        [
+            "awu",
+            "m",
+            "awe",
+            "f",
+            "bull"
+        ],
+        [
+            "bila`",
+            "m",
+            "bil`aawe",
+            "f",
+            "cliff"
+        ],
+        [
+            "nyaqot",
+            "m",
+            "nyaqootma`",
+            "f",
+            "colobus monkey"
+        ],
+        [
+            "hhampa",
+            "m",
+            "hhampeeri",
+            "n",
+            "wing"
+        ],
+        [
+            "tlanka",
+            "f",
+            "tlankadu",
+            "n",
+            "bridge"
+        ],
+        [
+            "lama",
+            "f",
+            "lameemo",
+            "n",
+            "lie"
+        ],
+        [
+            "hlan\u00fa",
+            "m",
+            "hlaneemo",
+            "n",
+            "python"
+        ],
+        [
+            "xweera",
+            "n",
+            "xweer(a)du",
+            "n",
+            "night"
+        ]
+    ]
+}

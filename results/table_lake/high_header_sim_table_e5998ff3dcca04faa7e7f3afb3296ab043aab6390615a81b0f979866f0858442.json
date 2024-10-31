@@ -1,0 +1,70 @@
+{
+    "id": "e5998ff3dcca04faa7e7f3afb3296ab043aab6390615a81b0f979866f0858442",
+    "metadata": "1934 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "16.13 (109)",
+            "St Kilda",
+            "11.7 (73)",
+            "Corio Oval",
+            "15000",
+            "5 May 1934"
+        ],
+        [
+            "Fitzroy",
+            "11.16 (82)",
+            "North Melbourne",
+            "10.11 (71)",
+            "Brunswick Street Oval",
+            "21000",
+            "5 May 1934"
+        ],
+        [
+            "Essendon",
+            "19.11 (125)",
+            "Footscray",
+            "16.18 (114)",
+            "Windy Hill",
+            "21000",
+            "5 May 1934"
+        ],
+        [
+            "Richmond",
+            "18.14 (122)",
+            "Melbourne",
+            "12.9 (81)",
+            "Punt Road Oval",
+            "17000",
+            "5 May 1934"
+        ],
+        [
+            "South Melbourne",
+            "19.13 (127)",
+            "Collingwood",
+            "13.14 (92)",
+            "Lake Oval",
+            "38000",
+            "5 May 1934"
+        ],
+        [
+            "Hawthorn",
+            "12.8 (80)",
+            "Carlton",
+            "17.26 (128)",
+            "Glenferrie Oval",
+            "17000",
+            "5 May 1934"
+        ]
+    ]
+}

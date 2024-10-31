@@ -1,0 +1,84 @@
+{
+    "id": "f7b20eaf8fc28ed89686073578a6c5bfef0be3b563701c66d30f5611a76df75a",
+    "metadata": "Highways in Croatia | Motorway sections under construction | Motorway sections under construction",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Motorway",
+        "County",
+        "Length_",
+        "Section_",
+        "Scheduled_completion"
+    ],
+    "cell": [
+        [
+            "A1",
+            "Split-Dalmatia and Dubrovnik-Neretva",
+            "10.7km (6.6mi)",
+            "Vrgorac - Plo\u010de",
+            "2013"
+        ],
+        [
+            "A1",
+            "Dubrovnik-Neretva",
+            "4.5km (2.8mi)",
+            "Plo\u010de - Metkovi\u0107",
+            "2013"
+        ],
+        [
+            "A5",
+            "Osijek-Baranja",
+            "2.5km (1.55mi)",
+            "Drava Bridge",
+            "2014"
+        ],
+        [
+            "A5",
+            "Brod-Posavina",
+            "3.1km (1.9mi)",
+            "Svilaj border crossing- Sredanci",
+            "2013"
+        ],
+        [
+            "A7",
+            "Primorje-Gorski Kotar",
+            "5.3km (3.3mi)",
+            "Sveti Kuzam - Kri\u017ei\u0161\u0107e",
+            "2013"
+        ],
+        [
+            "A10",
+            "Dubrovnik-Neretva",
+            "2.9km (1.8mi)",
+            "Metkovi\u0107 - Kula Norinska",
+            "2013"
+        ],
+        [
+            "A11",
+            "Zagreb and the City of Zagreb",
+            "8.7km (5.4mi)",
+            "Jaku\u0161evec - Velika Gorica jug (south)",
+            "2014"
+        ],
+        [
+            "A11",
+            "Zagreb",
+            "11.2km (6.96mi)",
+            "Bu\u0161evec - Lekenik",
+            "2013"
+        ],
+        [
+            "A12",
+            "Zagreb and Koprivnica-Kri\u017eevci",
+            "12.5km (7.8mi)",
+            "Gradec - Kri\u017eevci",
+            "cancelled"
+        ],
+        [
+            "A13",
+            "Zagreb",
+            "10.6km (6.6mi)",
+            "Vrbovec 2 - Farka\u0161evac",
+            "cancelled"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "39b6dfd13f106f60b0b6e101c1bae857bb96b46fc60800c0dc397790f6c081cf",
+    "metadata": "1981-82 FA Cup | Fifth round proper | Fifth round proper",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Leicester City",
+            "2-0",
+            "Watford",
+            "13 February 1982"
+        ],
+        [
+            "2",
+            "West Bromwich Albion",
+            "1-0",
+            "Norwich City",
+            "13 February 1982"
+        ],
+        [
+            "3",
+            "Shrewsbury Town",
+            "2-1",
+            "Ipswich Town",
+            "13 February 1982"
+        ],
+        [
+            "4",
+            "Tottenham Hotspur",
+            "1-0",
+            "Aston Villa",
+            "13 February 1982"
+        ],
+        [
+            "5",
+            "Queens Park Rangers",
+            "3-1",
+            "Grimsby Town",
+            "13 February 1982"
+        ],
+        [
+            "6",
+            "Coventry City",
+            "4-0",
+            "Oxford United",
+            "13 February 1982"
+        ],
+        [
+            "7",
+            "Crystal Palace",
+            "0-0",
+            "Orient",
+            "13 February 1982"
+        ],
+        [
+            "Replay",
+            "Orient",
+            "0-1",
+            "Crystal Palace",
+            "16 February 1982"
+        ],
+        [
+            "8",
+            "Chelsea",
+            "2-0",
+            "Liverpool",
+            "13 February 1982"
+        ]
+    ]
+}

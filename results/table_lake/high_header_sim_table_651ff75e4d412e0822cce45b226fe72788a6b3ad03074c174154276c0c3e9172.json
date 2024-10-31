@@ -1,0 +1,49 @@
+{
+    "id": "651ff75e4d412e0822cce45b226fe72788a6b3ad03074c174154276c0c3e9172",
+    "metadata": "Toni Kroos | International goals | International goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Goal",
+        "Date_",
+        "Score",
+        "Result_",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "1.",
+            "6 September 2011",
+            "1-1",
+            "2-2",
+            "Friendly"
+        ],
+        [
+            "2.",
+            "11 November 2011",
+            "1-2",
+            "3-3",
+            "Friendly"
+        ],
+        [
+            "3.",
+            "12 October 2012",
+            "5-0",
+            "6-1",
+            "2014 FIFA World Cup qualification"
+        ],
+        [
+            "4.",
+            "12 October 2012",
+            "6-0",
+            "6-1",
+            "2014 FIFA World Cup qualification"
+        ],
+        [
+            "5.",
+            "6 September 2013",
+            "2-0",
+            "3-0",
+            "2014 FIFA World Cup qualification"
+        ]
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": "08a63fdd132c34b2dc1d536f7b68edbe566a5e13679c504595b46961337a58a2",
+    "metadata": "Capital Athletic Conference | Current members | Current members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Nickname",
+        "Founded",
+        "Type_",
+        "Enrollment",
+        "Joined"
+    ],
+    "cell": [
+        [
+            "Christopher Newport University",
+            "Newport News, Virginia",
+            "Captains",
+            "1961",
+            "Public",
+            "5186",
+            "2013-14"
+        ],
+        [
+            "Frostburg State University",
+            "Frostburg, Maryland",
+            "Bobcats",
+            "1898",
+            "Public",
+            "5215",
+            "2010-11"
+        ],
+        [
+            "University of Mary Washington",
+            "Fredericksburg, Virginia",
+            "Eagles",
+            "1908",
+            "Public",
+            "4862",
+            "1989-90"
+        ],
+        [
+            "Marymount University",
+            "Arlington, Virginia",
+            "Saints",
+            "1950",
+            "Private/Catholic",
+            "3684",
+            "1989-90"
+        ],
+        [
+            "Penn State-Harrisburg",
+            "Lower Swatara, Pennsylvania",
+            "Lions",
+            "1966",
+            "Public",
+            "3441",
+            "2013-14"
+        ],
+        [
+            "St. Mary`s College of Maryland",
+            "St. Mary`s City, Maryland",
+            "Seahawks",
+            "1840",
+            "Public",
+            "1950",
+            "1989-90"
+        ],
+        [
+            "Salisbury University",
+            "Salisbury, Maryland",
+            "Sea Gulls",
+            "1925",
+            "Public",
+            "7383",
+            "1993-94"
+        ],
+        [
+            "Southern Virginia University",
+            "Buena Vista, Virginia",
+            "Knights",
+            "1867",
+            "Private",
+            "804",
+            "2013-14"
+        ],
+        [
+            "Wesley College",
+            "Dover, Delaware",
+            "Wolverines",
+            "1873",
+            "Private/Methodist",
+            "2400",
+            "2007-08"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "e33e95b5896684b71b294f76e7bc47b0e6a5fcd7fe2df8863040b3d4d325b33a",
+    "metadata": "Ohio High School Athletic Association | Girls | Girls",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Sport",
+        "Tournament_Structure",
+        "_of_Divisions",
+        "_1st_Tournament",
+        "_2011_2012_State_Tournament_Location"
+    ],
+    "cell": [
+        [
+            "Fall",
+            "Cross Country",
+            "District, Regional, & State",
+            "3",
+            "1978",
+            "National Trail Raceway , Hebron"
+        ],
+        [
+            "Fall",
+            "Field Hockey",
+            "State Qualifying & State",
+            "1",
+            "1979",
+            "Upper Arlington High School , Upper Arlington"
+        ],
+        [
+            "Fall",
+            "Soccer",
+            "Sectional, District, Regional & State",
+            "3",
+            "1985",
+            "Crew Stadium , Columbus"
+        ],
+        [
+            "Winter",
+            "Bowling",
+            "Sectional, District, & State",
+            "2",
+            "2007",
+            "Wayne Webb`s Columbus Bowl, Columbus"
+        ],
+        [
+            "Winter",
+            "Gymnastics",
+            "Sectional, District, & State",
+            "1",
+            "1977",
+            "Hilliard Bradley High School , Hilliard"
+        ],
+        [
+            "Winter",
+            "Swimming and Diving",
+            "Sectional, District, & State",
+            "2",
+            "1977",
+            "Branin Natatorium, Canton"
+        ]
+    ]
+}

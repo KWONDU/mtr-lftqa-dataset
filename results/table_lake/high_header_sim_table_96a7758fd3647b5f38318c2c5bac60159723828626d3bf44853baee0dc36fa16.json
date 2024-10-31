@@ -1,0 +1,115 @@
+{
+    "id": "96a7758fd3647b5f38318c2c5bac60159723828626d3bf44853baee0dc36fa16",
+    "metadata": "2011 Deutsche Tourenwagen Masters season | Race calendar and results | Race calendar and results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Circuit",
+        "Date_",
+        "Pole_Position",
+        "Fastest_Lap",
+        "Winning_Driver",
+        "Winning_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "Hockenheimring",
+            "1 May",
+            "Bruno Spengler",
+            "Bruno Spengler",
+            "Bruno Spengler",
+            "HWA Team"
+        ],
+        [
+            "2",
+            "Circuit Park Zandvoort",
+            "15 May",
+            "Bruno Spengler",
+            "Mike Rockenfeller",
+            "Mike Rockenfeller",
+            "Abt Sportsline"
+        ],
+        [
+            "3",
+            "Red Bull Ring , Spielberg",
+            "5 June",
+            "Martin Tomczyk",
+            "Bruno Spengler",
+            "Martin Tomczyk",
+            "Team Phoenix"
+        ],
+        [
+            "4",
+            "EuroSpeedway Lausitz",
+            "19 June",
+            "Bruno Spengler",
+            "Timo Scheider",
+            "Martin Tomczyk",
+            "Team Phoenix"
+        ],
+        [
+            "5",
+            "Norisring , Nuremberg",
+            "3 July",
+            "Bruno Spengler",
+            "Jamie Green",
+            "Bruno Spengler",
+            "HWA Team"
+        ],
+        [
+            "NC",
+            "Showevent Olympiastadion M\u00fcnchen",
+            "16 July",
+            "Inter-marque races",
+            "Inter-marque races",
+            "Edoardo Mortara",
+            "Team Rosberg"
+        ],
+        [
+            "NC",
+            "Showevent Olympiastadion M\u00fcnchen",
+            "17 July",
+            "Knockout races",
+            "Knockout races",
+            "Bruno Spengler",
+            "HWA Team"
+        ],
+        [
+            "6",
+            "N\u00fcrburgring",
+            "7 August",
+            "Mattias Ekstr\u00f6m",
+            "David Coulthard",
+            "Mattias Ekstr\u00f6m",
+            "Abt Sportsline"
+        ],
+        [
+            "7",
+            "Brands Hatch , Kent",
+            "4 September",
+            "Mike Rockenfeller",
+            "Martin Tomczyk",
+            "Martin Tomczyk",
+            "Team Phoenix"
+        ],
+        [
+            "8",
+            "Motorsport Arena Oschersleben",
+            "18 September",
+            "Miguel Molina",
+            "Mattias Ekstr\u00f6m",
+            "Mattias Ekstr\u00f6m",
+            "Abt Sportsline"
+        ],
+        [
+            "9",
+            "Circuit Ricardo Tormo , Valencia",
+            "2 October",
+            "Mattias Ekstr\u00f6m",
+            "Timo Scheider",
+            "Mattias Ekstr\u00f6m",
+            "Abt Sportsline"
+        ]
+    ]
+}

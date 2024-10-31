@@ -1,0 +1,77 @@
+{
+    "id": "fa6b4fa474aa7e6641d38adf2b10df0ad83c0fe4af80223273fa8f5f675d3704",
+    "metadata": "List of Oregon ballot measures | 1954 | 1954 General Election",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "meas_num_",
+        "passed",
+        "YES_votes",
+        "NO_votes",
+        "_YES",
+        "Const_Amd_",
+        "type_",
+        "description"
+    ],
+    "cell": [
+        [
+            "1",
+            "No",
+            "216545",
+            "296008",
+            "42.25%",
+            "Yes",
+            "LEG",
+            "Salaries of State Legislators"
+        ],
+        [
+            "3",
+            "YES",
+            "397625",
+            "128685",
+            "75.55%",
+            "No",
+            "LEG",
+            "Mental Hospital In or Near Portland"
+        ],
+        [
+            "4",
+            "YES",
+            "251078",
+            "230770",
+            "52.11%",
+            "Yes",
+            "LEG",
+            "Constitutional Amendments\u2014How Proposed by People"
+        ],
+        [
+            "5",
+            "No",
+            "208419",
+            "264569",
+            "44.06%",
+            "Yes",
+            "LEG",
+            "State Property Tax"
+        ],
+        [
+            "6",
+            "No",
+            "252305",
+            "300007",
+            "45.68%",
+            "No",
+            "Init",
+            "Establishing Daylight Saving Time"
+        ],
+        [
+            "7",
+            "No",
+            "232775",
+            "278805",
+            "45.50%",
+            "No",
+            "Init",
+            "Prohibiting Certain Fishing in Coastal Streams"
+        ]
+    ]
+}

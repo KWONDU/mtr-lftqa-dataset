@@ -1,0 +1,55 @@
+{
+    "id": "7c2ba2b57f3c197b3f3fe832180c872623c7ffef627255fa7aee709655b40082",
+    "metadata": "Rogue Valley Transportation District | Bus Fleet | Fleet Statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Manufacturer",
+        "Model",
+        "Year_Built",
+        "Vehicle_Length",
+        "Fuel_Type",
+        "_in_fleet"
+    ],
+    "cell": [
+        [
+            "New Flyer",
+            "C35LF",
+            "2006",
+            "35 feet",
+            "CNG",
+            "2"
+        ],
+        [
+            "New Flyer",
+            "C35LF",
+            "2004",
+            "35 feet",
+            "CNG",
+            "10"
+        ],
+        [
+            "New Flyer",
+            "D35lf",
+            "2010",
+            "35 feet",
+            "Diesel",
+            "3"
+        ],
+        [
+            "Gillig",
+            "Phantom",
+            "1991",
+            "35 feet",
+            "Diesel",
+            "2"
+        ],
+        [
+            "GMC",
+            "New Look",
+            "1981",
+            "35 feet",
+            "Diesel",
+            "3"
+        ]
+    ]
+}

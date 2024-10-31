@@ -1,0 +1,383 @@
+{
+    "id": "d5131837902d4ff59451cfab04aad2eac006959f41fd5a94bc13c735f4911f3a",
+    "metadata": "2007-08 Lincoln City F.C. season | Fixtures and results | League Two",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance",
+        "Away_Fans"
+    ],
+    "cell": [
+        [
+            "Aug 11",
+            "Shrewsbury Town",
+            "H",
+            "L 0 - 4",
+            "3893",
+            "375"
+        ],
+        [
+            "Aug 18",
+            "Mansfield Town",
+            "A",
+            "W 3 - 1",
+            "3357",
+            "620"
+        ],
+        [
+            "Aug 25",
+            "Accrington Stanley",
+            "H",
+            "W 2 - 0",
+            "3189",
+            "105"
+        ],
+        [
+            "Sep 01",
+            "Dagenham & Redbridge",
+            "A",
+            "L 0 - 1",
+            "2060",
+            "468"
+        ],
+        [
+            "Sep 07",
+            "Bradford City",
+            "H",
+            "L 1 - 2",
+            "5286",
+            "1064"
+        ],
+        [
+            "Sep 15",
+            "Darlington",
+            "A",
+            "L 0 - 2",
+            "4075",
+            "412"
+        ],
+        [
+            "Sep 22",
+            "Grimsby Town",
+            "H",
+            "L 1 - 2",
+            "4428",
+            "1124"
+        ],
+        [
+            "Sep 29",
+            "Wrexham",
+            "A",
+            "L 0 - 1",
+            "3614",
+            "179"
+        ],
+        [
+            "Oct 02",
+            "Bury",
+            "A",
+            "D 1 - 1",
+            "1690",
+            "175"
+        ],
+        [
+            "Oct 06",
+            "Morecambe",
+            "H",
+            "D 1 - 1",
+            "3281",
+            "187"
+        ],
+        [
+            "Oct 14",
+            "Milton Keynes Dons",
+            "A",
+            "L 0 - 4",
+            "13037",
+            "403"
+        ],
+        [
+            "Oct 20",
+            "Peterborough United",
+            "H",
+            "D 1 - 1",
+            "5036",
+            "1725"
+        ],
+        [
+            "Oct 27",
+            "Brentford",
+            "A",
+            "L 0 - 1",
+            "4368",
+            "465"
+        ],
+        [
+            "Nov 02",
+            "Chester City",
+            "H",
+            "L 0 - 1",
+            "3960",
+            "151"
+        ],
+        [
+            "Nov 06",
+            "Chesterfield",
+            "H",
+            "L 2 - 4",
+            "3893",
+            "924"
+        ],
+        [
+            "Nov 17",
+            "Wycombe Wanderers",
+            "A",
+            "L 0 - 1",
+            "4297",
+            "288"
+        ],
+        [
+            "Nov 24",
+            "Notts County",
+            "H",
+            "W 2 - 1",
+            "4543",
+            "1060"
+        ],
+        [
+            "Dec 04",
+            "Stockport County",
+            "A",
+            "W 3 - 1",
+            "5260",
+            "191"
+        ],
+        [
+            "Dec 08",
+            "Hereford United",
+            "A",
+            "L 1 - 3",
+            "2528",
+            "209"
+        ],
+        [
+            "Dec 15",
+            "Barnet",
+            "H",
+            "W 4 - 1",
+            "3549",
+            "155"
+        ],
+        [
+            "Dec 22",
+            "Darlington",
+            "H",
+            "L 0 - 4",
+            "4025",
+            "375"
+        ],
+        [
+            "Dec 26",
+            "Bradford City",
+            "A",
+            "L 1 - 2",
+            "15510",
+            "740"
+        ],
+        [
+            "Dec 29",
+            "Grimsby Town",
+            "A",
+            "L 0 - 1",
+            "5533",
+            "969"
+        ],
+        [
+            "Jan 01",
+            "Bury",
+            "H",
+            "D 1 - 1",
+            "3327",
+            "114"
+        ],
+        [
+            "Jan 05",
+            "Rochdale",
+            "A",
+            "W 2 - 0",
+            "2721",
+            "263"
+        ],
+        [
+            "Jan 12",
+            "Rotherham United",
+            "H",
+            "L 1 - 3",
+            "5016",
+            "1482"
+        ],
+        [
+            "Jan 26",
+            "Dagenham & Redbridge",
+            "H",
+            "W 2 - 0",
+            "3779",
+            "191"
+        ],
+        [
+            "Jan 29",
+            "Mansfield Town",
+            "H",
+            "L 1 - 2",
+            "4280",
+            "734"
+        ],
+        [
+            "Feb 02",
+            "Shrewsbury Town",
+            "A",
+            "W 2 - 1",
+            "4892",
+            "268"
+        ],
+        [
+            "Feb 05",
+            "Macclesfield Town",
+            "A",
+            "W 2 - 1",
+            "1576",
+            "202"
+        ],
+        [
+            "Feb 09",
+            "Rochdale",
+            "H",
+            "W 2 - 1",
+            "3955",
+            "468"
+        ],
+        [
+            "Feb 12",
+            "Accrington Stanley",
+            "A",
+            "W 3 - 0",
+            "1281",
+            "209"
+        ],
+        [
+            "Feb 16",
+            "Macclesfield Town",
+            "H",
+            "W 3 - 1",
+            "3682",
+            "121"
+        ],
+        [
+            "Feb 23",
+            "Rotherham United",
+            "A",
+            "L 2 - 3",
+            "4321",
+            "907"
+        ],
+        [
+            "Mar 01",
+            "Wycombe Wanderers",
+            "H",
+            "W 1 - 0",
+            "4002",
+            "333"
+        ],
+        [
+            "Mar 07",
+            "Chesterfield",
+            "A",
+            "L 1 - 4",
+            "4353",
+            "685"
+        ],
+        [
+            "Mar 11",
+            "Notts County",
+            "A",
+            "W 1 - 0",
+            "3858",
+            "870"
+        ],
+        [
+            "Mar 15",
+            "Stockport County",
+            "H",
+            "L 0 - 1",
+            "4544",
+            "819"
+        ],
+        [
+            "Mar 22",
+            "Barnet",
+            "A",
+            "L 2 - 5",
+            "2115",
+            "393"
+        ],
+        [
+            "Mar 24",
+            "Hereford United",
+            "H",
+            "W 2 - 1",
+            "3614",
+            "381"
+        ],
+        [
+            "Mar 29",
+            "Peterborough United",
+            "A",
+            "L 0 - 4",
+            "8035",
+            "1007"
+        ],
+        [
+            "Apr 04",
+            "Milton Keynes Dons",
+            "H",
+            "L 1 - 2",
+            "3896",
+            "528"
+        ],
+        [
+            "Apr 12",
+            "Chester City",
+            "A",
+            "W 2 - 1",
+            "2089",
+            "205"
+        ],
+        [
+            "Apr 19",
+            "Brentford",
+            "H",
+            "W 3 - 1",
+            "3699",
+            "376"
+        ],
+        [
+            "Apr 26",
+            "Morecambe",
+            "A",
+            "W 2 - 1",
+            "2762",
+            "501"
+        ],
+        [
+            "May 3",
+            "Wrexham",
+            "H",
+            "L 2 - 4",
+            "4958",
+            "597"
+        ]
+    ]
+}

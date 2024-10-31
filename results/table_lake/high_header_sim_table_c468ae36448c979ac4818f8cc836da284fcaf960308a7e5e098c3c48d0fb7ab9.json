@@ -1,0 +1,79 @@
+{
+    "id": "c468ae36448c979ac4818f8cc836da284fcaf960308a7e5e098c3c48d0fb7ab9",
+    "metadata": "Grid energy storage | Batteries | Technology comparison for Grid-Level applications",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Technology",
+        "Moving_Parts",
+        "Room_Temperature",
+        "Flammable",
+        "Toxic_Materials",
+        "In_production",
+        "Rare_metals"
+    ],
+    "cell": [
+        [
+            "flow",
+            "Yes",
+            "Yes",
+            "No",
+            "Yes",
+            "No",
+            "No"
+        ],
+        [
+            "liquid metal",
+            "No",
+            "No",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "Sodium-Ion",
+            "No",
+            "No",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "Lead-Acid",
+            "No",
+            "Yes",
+            "No",
+            "Yes",
+            "Yes",
+            "No"
+        ],
+        [
+            "Sodium-sulfur batteries",
+            "No",
+            "No",
+            "No",
+            "Yes",
+            "Yes",
+            "No"
+        ],
+        [
+            "Ni-Cd",
+            "No",
+            "Yes",
+            "No",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Lithium-ion",
+            "No",
+            "Yes",
+            "Yes",
+            "No",
+            "Yes",
+            "No"
+        ]
+    ]
+}

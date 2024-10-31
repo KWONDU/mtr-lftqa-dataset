@@ -1,0 +1,71 @@
+{
+    "id": "52d27fbbcd27a4be4935a85a04a5b53e3c09b98e6d45a9ed7b9dff327330f6e1",
+    "metadata": "United States House of Representatives elections, 1926 | California | California",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "California 1",
+            "Clarence F. Lea",
+            "Democratic",
+            "1916",
+            "Re-elected",
+            "Clarence F. Lea (D) Unopposed"
+        ],
+        [
+            "California 2",
+            "Harry L. Englebright",
+            "Republican",
+            "1926",
+            "Re-elected",
+            "Harry L. Englebright (R) Unopposed"
+        ],
+        [
+            "California 3",
+            "Charles F. Curry",
+            "Republican",
+            "1912",
+            "Re-elected",
+            "Charles F. Curry (R) Unopposed"
+        ],
+        [
+            "California 5",
+            "Richard J. Welch",
+            "Republican",
+            "1926",
+            "Re-elected",
+            "Richard J. Welch (R) Unopposed"
+        ],
+        [
+            "California 6",
+            "Albert E. Carter",
+            "Republican",
+            "1924",
+            "Re-elected",
+            "Albert E. Carter (R) Unopposed"
+        ],
+        [
+            "California 7",
+            "Henry E. Barbour",
+            "Republican",
+            "1918",
+            "Re-elected",
+            "Henry E. Barbour (R) Unopposed"
+        ],
+        [
+            "California 10",
+            "John D. Fredericks",
+            "Republican",
+            "1923",
+            "Retired Republican hold",
+            "Joe Crail (R) 86.8% N. Jackson Wright ( S ) 13.2%"
+        ]
+    ]
+}

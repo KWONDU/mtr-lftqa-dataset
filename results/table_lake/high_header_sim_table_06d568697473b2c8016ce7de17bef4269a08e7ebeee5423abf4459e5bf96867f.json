@@ -1,0 +1,63 @@
+{
+    "id": "06d568697473b2c8016ce7de17bef4269a08e7ebeee5423abf4459e5bf96867f",
+    "metadata": "Bones Allan | Lacrosse career | Lacrosse career",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "SEASON",
+        "TEAM",
+        "LEAGUE",
+        "GAMES",
+        "GOALS"
+    ],
+    "cell": [
+        [
+            "SEASON",
+            "TEAM",
+            "LEAGUE",
+            "GAMES",
+            "GOALS"
+        ],
+        [
+            "1909",
+            "Vancouver Lacrosse Club",
+            "BCLA",
+            "10",
+            "9"
+        ],
+        [
+            "1910",
+            "Vancouver Lacrosse Club",
+            "BCLA",
+            "11",
+            "10"
+        ],
+        [
+            "1911",
+            "Vancouver Lacrosse Club",
+            "BCLA",
+            "14",
+            "4"
+        ],
+        [
+            "1912",
+            "Vancouver Lacrosse Club",
+            "BCLA",
+            "6",
+            "5"
+        ],
+        [
+            "1913",
+            "Vancouver Lacrosse Club",
+            "BCLA",
+            "7",
+            "4"
+        ],
+        [
+            "1915",
+            "Vancouver Lacrosse Club",
+            "BCLA",
+            "8",
+            "6"
+        ]
+    ]
+}

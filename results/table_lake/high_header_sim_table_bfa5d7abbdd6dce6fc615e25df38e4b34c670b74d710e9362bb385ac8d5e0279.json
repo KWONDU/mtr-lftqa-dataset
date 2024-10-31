@@ -1,0 +1,56 @@
+{
+    "id": "bfa5d7abbdd6dce6fc615e25df38e4b34c670b74d710e9362bb385ac8d5e0279",
+    "metadata": "Traditional English pronunciation of Latin | Vowel alone | Vowel alone",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Letter",
+        "American",
+        "British",
+        "Australian",
+        "Examples"
+    ],
+    "cell": [
+        [
+            "a /\u0259/",
+            "\u0259",
+            "\u0259",
+            "\u0259",
+            "circa, fauna, mania, quota"
+        ],
+        [
+            "e /i, i\u02d0/",
+            "i",
+            "\u026a",
+            "i",
+            "ante, epitome, posse, simile"
+        ],
+        [
+            "\u00e6 /i/",
+            "i",
+            "\u026a",
+            "i",
+            "alg\u00e6, larv\u00e6, vertebr\u00e6"
+        ],
+        [
+            "i, y /a\u026a/",
+            "ai",
+            "a\u026a",
+            "\u0251e",
+            "alibi, Gemini, moly"
+        ],
+        [
+            "o /o\u028a/",
+            "\u025eu",
+            "\u0259u",
+            "\u0259\u0289",
+            "ego, Pluto, torpedo"
+        ],
+        [
+            "u /ju\u02d0/",
+            "(j)u",
+            "ju",
+            "j\u0289",
+            "(in) situ"
+        ]
+    ]
+}

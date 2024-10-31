@@ -1,0 +1,63 @@
+{
+    "id": "c53f421fb751b9aaf4739e7412fc795e9d21d2ae15662514b72bf97f5c6aad68",
+    "metadata": "2006 CFL Draft | Round three | Round three",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "18",
+            "Hamilton Tiger-Cats",
+            "Shawn Mayne",
+            "DE",
+            "Connecticut"
+        ],
+        [
+            "19",
+            "Winnipeg Blue Bombers",
+            "Arjei Franklin",
+            "WR",
+            "Windsor"
+        ],
+        [
+            "20",
+            "Saskatchewan Roughriders",
+            "Chris Cowan",
+            "OL",
+            "Saint Mary`s"
+        ],
+        [
+            "21",
+            "Edmonton Eskimos (via Calgary)",
+            "Dwayne Mundle",
+            "LB",
+            "West Virginia"
+        ],
+        [
+            "22",
+            "Saskatchewan Roughriders (via Toronto)",
+            "Tristan Clovis",
+            "LB",
+            "McMaster"
+        ],
+        [
+            "23",
+            "Winnipeg Blue Bombers (via BC)",
+            "Dominic Picard",
+            "OL",
+            "Laval"
+        ],
+        [
+            "24",
+            "Montreal Alouettes",
+            "Jeff Perrett",
+            "OT",
+            "Tulsa"
+        ]
+    ]
+}

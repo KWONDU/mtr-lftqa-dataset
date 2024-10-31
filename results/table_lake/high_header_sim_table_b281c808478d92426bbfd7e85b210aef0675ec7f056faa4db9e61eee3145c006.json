@@ -1,0 +1,49 @@
+{
+    "id": "b281c808478d92426bbfd7e85b210aef0675ec7f056faa4db9e61eee3145c006",
+    "metadata": "K. Beerschot V.A.C. | European cup history | European cup history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Club",
+        "Home",
+        "Away",
+        "Aggregate_"
+    ],
+    "cell": [
+        [
+            "1",
+            "DWS Amsterdam",
+            "1-1",
+            "2-1",
+            "2-3"
+        ],
+        [
+            "1",
+            "Anorthosis Famagusta",
+            "7-0",
+            "0-1",
+            "8-0"
+        ],
+        [
+            "2",
+            "Dinamo Berlin",
+            "1-3",
+            "3-1",
+            "2-6"
+        ],
+        [
+            "1",
+            "Vitoria Setubal",
+            "0-2",
+            "2-0",
+            "0-4"
+        ],
+        [
+            "1",
+            "NK Rijeka",
+            "0-0",
+            "2-1",
+            "1-2"
+        ]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "283eee8c90d57face14d55bc2ab3ce2738b7b6537cc6e4d893b84e2c5256d036",
+    "metadata": "Mansfield, Connecticut | Demographics | Demographics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Party",
+        "Active_Voters",
+        "Inactive_Voters",
+        "Total_Voters",
+        "Percentage_"
+    ],
+    "cell": [
+        [
+            "Democratic",
+            "3683",
+            "251",
+            "3934",
+            "36.93%"
+        ],
+        [
+            "Republican",
+            "1322",
+            "78",
+            "1400",
+            "13.14%"
+        ],
+        [
+            "Unaffiliated",
+            "4709",
+            "606",
+            "5315",
+            "49.90%"
+        ],
+        [
+            "Minor Parties",
+            "3",
+            "0",
+            "3",
+            "0.03%"
+        ]
+    ]
+}

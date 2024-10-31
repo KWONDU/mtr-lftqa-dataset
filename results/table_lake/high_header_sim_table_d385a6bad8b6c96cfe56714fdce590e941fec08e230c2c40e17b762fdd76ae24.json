@@ -1,0 +1,151 @@
+{
+    "id": "d385a6bad8b6c96cfe56714fdce590e941fec08e230c2c40e17b762fdd76ae24",
+    "metadata": "2008-09 Philadelphia Flyers season | Regular season | March",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "March 1",
+            "Philadelphia",
+            "0 - 3",
+            "New Jersey",
+            "Biron",
+            "17625",
+            "33-18-10"
+        ],
+        [
+            "March 3",
+            "Philadelphia",
+            "4 - 2",
+            "Boston",
+            "Niittymaki",
+            "17020",
+            "34-18-10"
+        ],
+        [
+            "March 5",
+            "Calgary",
+            "5 - 1",
+            "Philadelphia",
+            "Niittymaki",
+            "19513",
+            "34-19-10"
+        ],
+        [
+            "March 7",
+            "Nashville",
+            "1 - 4",
+            "Philadelphia",
+            "Biron",
+            "19611",
+            "35-19-10"
+        ],
+        [
+            "March 10",
+            "Buffalo",
+            "2 - 5",
+            "Philadelphia",
+            "Biron",
+            "19421",
+            "36-19-10"
+        ],
+        [
+            "March 12",
+            "Washington",
+            "2 - 1",
+            "Philadelphia",
+            "Biron",
+            "19728",
+            "36-20-10"
+        ],
+        [
+            "March 14",
+            "NY Rangers",
+            "2 - 4",
+            "Philadelphia",
+            "Biron",
+            "19836",
+            "37-20-10"
+        ],
+        [
+            "March 15",
+            "Philadelphia",
+            "1 - 4",
+            "NY Rangers",
+            "Niittymaki",
+            "18200",
+            "37-21-10"
+        ],
+        [
+            "March 17",
+            "Philadelphia",
+            "2 - 3",
+            "Detroit",
+            "Biron",
+            "20066",
+            "37-22-10"
+        ],
+        [
+            "March 20",
+            "Philadelphia",
+            "6 - 4",
+            "Buffalo",
+            "Biron",
+            "18690",
+            "38-22-10"
+        ],
+        [
+            "March 22",
+            "Philadelphia",
+            "3 - 1",
+            "Pittsburgh",
+            "Biron",
+            "17132",
+            "39-22-10"
+        ],
+        [
+            "March 23",
+            "New Jersey",
+            "2 - 4",
+            "Philadelphia",
+            "Biron",
+            "19762",
+            "40-22-10"
+        ],
+        [
+            "March 26",
+            "Florida",
+            "4 - 2",
+            "Philadelphia",
+            "Biron",
+            "19631",
+            "40-23-10"
+        ],
+        [
+            "March 28",
+            "Philadelphia",
+            "4 - 3",
+            "NY Islanders",
+            "Biron",
+            "16234",
+            "41-23-10"
+        ],
+        [
+            "March 29",
+            "Boston",
+            "4 - 3",
+            "Philadelphia",
+            "Niittymaki",
+            "19715",
+            "41-24-10"
+        ]
+    ]
+}

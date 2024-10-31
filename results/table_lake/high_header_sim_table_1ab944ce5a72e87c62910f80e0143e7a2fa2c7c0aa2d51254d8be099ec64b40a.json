@@ -1,0 +1,70 @@
+{
+    "id": "1ab944ce5a72e87c62910f80e0143e7a2fa2c7c0aa2d51254d8be099ec64b40a",
+    "metadata": "Weightlifting at the 1999 Pan American Games | Middleweight (  77 kg) | Middleweight (  77 kg)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Bodyweight",
+        "Snatch",
+        "Clean_jerk",
+        "Total_kg"
+    ],
+    "cell": [
+        [
+            "Idalberto Aranda ( CUB )",
+            "76.55",
+            "150.0",
+            "205.5 WR",
+            "355.0"
+        ],
+        [
+            "Walter Llerena ( ECU )",
+            "76.78",
+            "150.0",
+            "182.5",
+            "332.5"
+        ],
+        [
+            "Oscar Chaplin III ( USA )",
+            "76.95",
+            "150.0",
+            "182.5",
+            "332.5"
+        ],
+        [
+            "Carlos Sauri ( PUR )",
+            "76.91",
+            "140.0",
+            "165.0",
+            "305.0"
+        ],
+        [
+            "Marcelo Gandolfo ( ARG )",
+            "76.25",
+            "130.0",
+            "170.0",
+            "300.0"
+        ],
+        [
+            "Guy Hamilton ( CAN )",
+            "76.86",
+            "132.5",
+            "167.5",
+            "300.0"
+        ],
+        [
+            "Edward Silva ( URU )",
+            "76.22",
+            "122.5",
+            "145.0",
+            "267.5"
+        ],
+        [
+            "Luis Urriche ( CHI )",
+            "76.18",
+            "127.5",
+            "152.5",
+            "-"
+        ]
+    ]
+}

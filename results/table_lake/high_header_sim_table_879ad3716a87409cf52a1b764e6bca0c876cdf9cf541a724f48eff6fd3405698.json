@@ -1,0 +1,63 @@
+{
+    "id": "879ad3716a87409cf52a1b764e6bca0c876cdf9cf541a724f48eff6fd3405698",
+    "metadata": "South Bohemian Region | Population and area | Population and area",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Population",
+        "Area",
+        "Pop_Dens_",
+        "No_of_Settlements"
+    ],
+    "cell": [
+        [
+            "\u010cesk\u00e9 Bud\u011bjovice (CB)",
+            "184531",
+            "1638.30",
+            "113",
+            "109"
+        ],
+        [
+            "\u010cesk\u00fd Krumlov (CK)",
+            "61346",
+            "1615.03",
+            "38",
+            "45"
+        ],
+        [
+            "Jind\u0159ich\u016fv Hradec (JH)",
+            "92719",
+            "1943.69",
+            "48",
+            "106"
+        ],
+        [
+            "P\u00edsek (PI)",
+            "70290",
+            "1126.84",
+            "62",
+            "75"
+        ],
+        [
+            "Prachatice (PT)",
+            "51461",
+            "1375.03",
+            "37",
+            "65"
+        ],
+        [
+            "Strakonice (ST)",
+            "70823",
+            "1032.10",
+            "69",
+            "112"
+        ],
+        [
+            "T\u00e1bor (TA)",
+            "102580",
+            "1326.01",
+            "77",
+            "110"
+        ]
+    ]
+}

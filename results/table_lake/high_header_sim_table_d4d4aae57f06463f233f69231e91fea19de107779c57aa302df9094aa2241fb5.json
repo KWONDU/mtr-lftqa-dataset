@@ -1,0 +1,128 @@
+{
+    "id": "d4d4aae57f06463f233f69231e91fea19de107779c57aa302df9094aa2241fb5",
+    "metadata": "1982 Detroit Lions season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Lions_points",
+        "Opponents",
+        "Record",
+        "Streak",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "Sept. 12",
+            "Chicago Bears",
+            "Win",
+            "17",
+            "10",
+            "1-0",
+            "Win 1",
+            "71337"
+        ],
+        [
+            "2",
+            "Sept. 19",
+            "at Los Angeles Rams",
+            "Win",
+            "19",
+            "14",
+            "2-0",
+            "Win 2",
+            "59470"
+        ],
+        [
+            "Player strike cancels seven games.",
+            "Player strike cancels seven games.",
+            "Player strike cancels seven games.",
+            "Player strike cancels seven games.",
+            "Player strike cancels seven games.",
+            "Player strike cancels seven games.",
+            "Player strike cancels seven games.",
+            "Player strike cancels seven games.",
+            "Player strike cancels seven games."
+        ],
+        [
+            "3",
+            "Nov. 21",
+            "at Chicago Bears",
+            "Loss",
+            "17",
+            "20",
+            "2-1",
+            "Lose 1",
+            "46783"
+        ],
+        [
+            "4",
+            "Nov. 25",
+            "New York Giants",
+            "Loss",
+            "6",
+            "13",
+            "2-2",
+            "Lose 2",
+            "64348"
+        ],
+        [
+            "5",
+            "Dec. 6",
+            "New York Jets",
+            "Loss",
+            "13",
+            "28",
+            "2-3",
+            "Lose 3",
+            "79361"
+        ],
+        [
+            "6",
+            "Dec. 12",
+            "at Green Bay Packers",
+            "Win",
+            "30",
+            "10",
+            "3-3",
+            "Win 1",
+            "51875"
+        ],
+        [
+            "7",
+            "Dec. 19",
+            "Minnesota Vikings",
+            "Loss",
+            "31",
+            "34",
+            "3-4",
+            "Lose 1",
+            "73058"
+        ],
+        [
+            "8",
+            "Dec. 26",
+            "at Tampa Bay Buccaneers",
+            "Loss",
+            "21",
+            "23",
+            "3-5",
+            "Lose 2",
+            "65997"
+        ],
+        [
+            "9",
+            "Jan. 2",
+            "Green Bay Packers",
+            "Win",
+            "27",
+            "24",
+            "4-5",
+            "Win 1",
+            "64377"
+        ]
+    ]
+}

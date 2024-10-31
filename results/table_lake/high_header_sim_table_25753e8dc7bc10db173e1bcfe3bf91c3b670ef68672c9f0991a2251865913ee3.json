@@ -1,0 +1,105 @@
+{
+    "id": "25753e8dc7bc10db173e1bcfe3bf91c3b670ef68672c9f0991a2251865913ee3",
+    "metadata": "Eurocard Open | Doubles | Doubles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Location_",
+        "Year_",
+        "Champions",
+        "Runners_up",
+        "Score"
+    ],
+    "cell": [
+        [
+            "Stuttgart",
+            "2001",
+            "Max Mirnyi Sandon Stolle",
+            "Ellis Ferreira Jeff Tarango",
+            "7-6 (7-0) , 7-6 (7-4)"
+        ],
+        [
+            "Stuttgart",
+            "2000",
+            "Ji\u0159\u00ed Nov\u00e1k David Rikl",
+            "Donald Johnson Piet Norval",
+            "3-6, 6-3, 6-4"
+        ],
+        [
+            "Stuttgart",
+            "1999",
+            "Byron Black Jonas Bj\u00f6rkman",
+            "David Adams John-Laffnie de Jager",
+            "6-7 (6-8) , 7-6 (7-2) , 6-0"
+        ],
+        [
+            "Stuttgart",
+            "1998",
+            "S\u00e9bastien Lareau Alex O`Brien",
+            "Mahesh Bhupathi Leander Paes",
+            "6-3, 3-6, 7-5"
+        ],
+        [
+            "Stuttgart",
+            "1997",
+            "Mark Woodforde Todd Woodbridge",
+            "Rick Leach Jonathan Stark",
+            "6-3, 6-3"
+        ],
+        [
+            "Stuttgart",
+            "1996",
+            "S\u00e9bastien Lareau Alex O`Brien",
+            "Jacco Eltingh Paul Haarhuis",
+            "3-6, 6-4, 6-3"
+        ],
+        [
+            "Essen",
+            "1995 (Oct)",
+            "Jacco Eltingh Paul Haarhuis",
+            "Cyril Suk Daniel Vacek",
+            "6-2, 6-2"
+        ],
+        [
+            "Stuttgart",
+            "1995 (Feb)",
+            "Grant Connell Patrick Galbraith",
+            "Cyril Suk Daniel Vacek",
+            "7-5, 6-4"
+        ],
+        [
+            "Stuttgart",
+            "1994",
+            "David Adams Andrei Olhovskiy",
+            "Grant Connell Patrick Galbraith",
+            "6-7, 6-4, 7-6"
+        ],
+        [
+            "Stuttgart",
+            "1993",
+            "Mark Kratzmann Wally Masur",
+            "Steve DeVries David Macpherson",
+            "6-3, 7-6"
+        ],
+        [
+            "Stuttgart",
+            "1992",
+            "Tom Nijssen Cyril Suk",
+            "John Fitzgerald Anders J\u00e4rryd",
+            "6-3, 6-7, 6-3"
+        ],
+        [
+            "Stuttgart",
+            "1991",
+            "Sergio Casal Emilio S\u00e1nchez",
+            "Jeremy Bates Nick Brown",
+            "6-3, 7-5"
+        ],
+        [
+            "Stuttgart",
+            "1990",
+            "Guy Forget Jakob Hlasek",
+            "Michael Mortensen Tom Nijssen",
+            "6-3, 6-2"
+        ]
+    ]
+}

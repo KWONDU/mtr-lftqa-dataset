@@ -1,0 +1,55 @@
+{
+    "id": "052f4c497e4d3c44cf4ede0bb9d29e90cd3863ed7f783712b94cc069ffe409ae",
+    "metadata": "United States House of Representatives elections, 1820 | Maryland | Maryland",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Maryland 2",
+            "Joseph Kent",
+            "Democratic-Republican",
+            "1818",
+            "Re-elected",
+            "Joseph Kent (DR) 96.9% John C. Herbert (F) 2.2%"
+        ],
+        [
+            "Maryland 3",
+            "Henry R. Warfield",
+            "Federalist",
+            "1818",
+            "Re-elected",
+            "Henry R. Warfield (F) 99.3%"
+        ],
+        [
+            "Maryland 5 Plural district with 2 seats",
+            "Samuel Smith",
+            "Democratic-Republican",
+            "1792 1816",
+            "Re-elected",
+            "Peter Little (DR) 50.0% Samuel Smith 50.0%"
+        ],
+        [
+            "Maryland 5 Plural district with 2 seats",
+            "Peter Little",
+            "Democratic-Republican",
+            "1810 1816",
+            "Re-elected",
+            "Peter Little (DR) 50.0% Samuel Smith 50.0%"
+        ],
+        [
+            "Maryland 6",
+            "Stevenson Archer",
+            "Democratic-Republican",
+            "1811 (special) 1818",
+            "Retired Democratic-Republican hold",
+            "Jeremiah Cosden (DR) 49.9% Philip Reed (DR) 49.9%"
+        ]
+    ]
+}

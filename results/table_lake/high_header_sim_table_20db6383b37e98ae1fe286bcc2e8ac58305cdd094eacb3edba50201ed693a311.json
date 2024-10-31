@@ -1,0 +1,55 @@
+{
+    "id": "20db6383b37e98ae1fe286bcc2e8ac58305cdd094eacb3edba50201ed693a311",
+    "metadata": "2008 Tour of Ireland | Jersey Progress | Jersey Progress",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Stage_Winner",
+        "General_Classification",
+        "Points_Classification",
+        "Mountains_Classification",
+        "Young_Rider_Classification",
+        "Team_Classification"
+    ],
+    "cell": [
+        [
+            "Stage 1 ( Mark Cavendish )",
+            "Mark Cavendish",
+            "Alexander Kristoff",
+            "Matt Wilson",
+            "Mark Cavendish",
+            "Topsport Vlaanderen"
+        ],
+        [
+            "Stage 2 ( Mark Cavendish )",
+            "Mark Cavendish",
+            "Mark Cavendish",
+            "Matt Wilson",
+            "Mark Cavendish",
+            "Topsport Vlaanderen"
+        ],
+        [
+            "Stage 3 ( Mark Cavendish )",
+            "Mark Cavendish",
+            "Mark Cavendish",
+            "Matt Wilson",
+            "Mark Cavendish",
+            "Topsport Vlaanderen"
+        ],
+        [
+            "Stage 4 ( Russell Downing )",
+            "Russell Downing",
+            "Mark Cavendish",
+            "Matt Wilson",
+            "Gonzalo Rabu\u00f1al",
+            "Topsport Vlaanderen"
+        ],
+        [
+            "Stage 5 ( Franti\u0161ek Rabo\u0148 )",
+            "Marco Pinotti",
+            "Russell Downing",
+            "Matt Wilson",
+            "Simon Clarke",
+            "Team Columbia"
+        ]
+    ]
+}

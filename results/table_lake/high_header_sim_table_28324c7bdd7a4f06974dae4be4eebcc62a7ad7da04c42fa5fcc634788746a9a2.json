@@ -1,0 +1,49 @@
+{
+    "id": "28324c7bdd7a4f06974dae4be4eebcc62a7ad7da04c42fa5fcc634788746a9a2",
+    "metadata": "Oliver Wilson | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "1",
+            "4",
+            "2"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "1",
+            "4",
+            "1"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "1",
+            "3",
+            "1"
+        ],
+        [
+            "Totals",
+            "0",
+            "3",
+            "13",
+            "4"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "358ece3fffcba924bf4ba7ca5a7d3591367c4829edc808d0b8e1fa87bf20fd14",
+    "metadata": "List of tallest buildings in Jacksonville | Chronology of the tallest buildings in Jacksonville | Chronology of the tallest buildings in Jacksonville",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Years_tallest",
+        "Name_",
+        "Height_ft_m",
+        "Floors",
+        "Year_completed"
+    ],
+    "cell": [
+        [
+            "1902-1909",
+            "Dyal-Upchurch Building",
+            "-foot (m)",
+            "6",
+            "1902"
+        ],
+        [
+            "1909-1912",
+            "121 Atlantic Place",
+            "-foot (m)",
+            "10",
+            "1909"
+        ],
+        [
+            "1912-1913",
+            "Florida Life Building",
+            "-foot (m)",
+            "11",
+            "1912"
+        ],
+        [
+            "1913-1926",
+            "Heard National Bank Building",
+            "-foot (m)",
+            "15",
+            "1913"
+        ],
+        [
+            "1926-1954",
+            "Barnett National Bank Building",
+            "-foot (m)",
+            "18",
+            "1926"
+        ],
+        [
+            "1954-1967",
+            "Aetna Building",
+            "-foot (m)",
+            "22",
+            "1955"
+        ],
+        [
+            "1967-1974",
+            "Riverplace Tower",
+            "-foot (m)",
+            "28",
+            "1967"
+        ],
+        [
+            "1974-1990",
+            "Wells Fargo Center",
+            "-foot (m)",
+            "37",
+            "1974"
+        ],
+        [
+            "1990-present",
+            "Bank of America Tower",
+            "-foot (m)",
+            "43",
+            "1990"
+        ]
+    ]
+}

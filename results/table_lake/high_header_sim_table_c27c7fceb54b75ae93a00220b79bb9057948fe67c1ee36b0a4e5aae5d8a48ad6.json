@@ -1,0 +1,79 @@
+{
+    "id": "c27c7fceb54b75ae93a00220b79bb9057948fe67c1ee36b0a4e5aae5d8a48ad6",
+    "metadata": "List of sequenced bacterial genomes | Thermotogota | Thermotogota",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Species",
+        "Strain",
+        "Type_",
+        "Base_Pairs",
+        "Genes",
+        "Reference"
+    ],
+    "cell": [
+        [
+            "Fervidobacterium nodosum",
+            "Rt17-B1",
+            "Thermotogae",
+            "1950000",
+            "1750",
+            "2009"
+        ],
+        [
+            "Kosmotoga olearia",
+            "TBF 19.5.1",
+            "Thermotogae",
+            "2302126",
+            "2118",
+            "2011"
+        ],
+        [
+            "Mesotoga prima",
+            "MesG1.Ag.4.2",
+            "Thermotogae",
+            "2,974,229 chromosome 1,724 plasmid",
+            "2736",
+            "2012"
+        ],
+        [
+            "Thermosipho africanus",
+            "TCF52B",
+            "Thermotogae",
+            "2016657",
+            "2000",
+            "2009"
+        ],
+        [
+            "Thermosipho melanesiensis",
+            "BI429",
+            "Thermotogae",
+            "1920000",
+            "1879",
+            "2009"
+        ],
+        [
+            "Thermotoga lettingae",
+            "TMO",
+            "Thermotogae",
+            "2140000",
+            "2040",
+            "2009"
+        ],
+        [
+            "Thermotoga maritima",
+            "MSB8",
+            "Thermotogae",
+            "1860725",
+            "1846",
+            "1999, 2013"
+        ],
+        [
+            "Thermotoga petrophila",
+            "RKU-1",
+            "Thermotogae",
+            "1820000",
+            "1785",
+            "2009"
+        ]
+    ]
+}

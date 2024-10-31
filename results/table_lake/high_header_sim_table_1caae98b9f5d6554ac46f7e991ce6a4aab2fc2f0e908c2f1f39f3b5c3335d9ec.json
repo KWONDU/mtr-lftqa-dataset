@@ -1,0 +1,84 @@
+{
+    "id": "1caae98b9f5d6554ac46f7e991ce6a4aab2fc2f0e908c2f1f39f3b5c3335d9ec",
+    "metadata": "2007-08 Football League Trophy | Second round | Northern Section",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "Macclesfield Town",
+            "0 - 1",
+            "Stockport County",
+            "2248"
+        ],
+        [
+            "2",
+            "Carlisle United",
+            "4 - 2",
+            "Chester City",
+            "3154"
+        ],
+        [
+            "3",
+            "Morecambe",
+            "2 - 2",
+            "Port Vale",
+            "1644"
+        ],
+        [
+            "Morecambe won 4 - 2 on penalties",
+            "Morecambe won 4 - 2 on penalties",
+            "Morecambe won 4 - 2 on penalties",
+            "Morecambe won 4 - 2 on penalties",
+            "Morecambe won 4 - 2 on penalties"
+        ],
+        [
+            "4",
+            "Rochdale",
+            "1 - 3",
+            "Bury",
+            "2376"
+        ],
+        [
+            "5",
+            "Doncaster Rovers",
+            "3 - 0",
+            "Oldham Athletic",
+            "4608"
+        ],
+        [
+            "6",
+            "Darlington",
+            "0 - 1",
+            "Leeds United",
+            "7891"
+        ],
+        [
+            "7",
+            "Lincoln City",
+            "2 - 5",
+            "Hartlepool United",
+            "936"
+        ],
+        [
+            "8",
+            "Rotherham United",
+            "1 - 1",
+            "Grimsby Town",
+            "2362"
+        ],
+        [
+            "Grimsby Town won 4 - 2 on penalties",
+            "Grimsby Town won 4 - 2 on penalties",
+            "Grimsby Town won 4 - 2 on penalties",
+            "Grimsby Town won 4 - 2 on penalties",
+            "Grimsby Town won 4 - 2 on penalties"
+        ]
+    ]
+}

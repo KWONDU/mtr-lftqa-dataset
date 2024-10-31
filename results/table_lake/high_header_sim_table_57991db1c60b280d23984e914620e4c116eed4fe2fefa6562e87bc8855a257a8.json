@@ -1,0 +1,55 @@
+{
+    "id": "57991db1c60b280d23984e914620e4c116eed4fe2fefa6562e87bc8855a257a8",
+    "metadata": "CJBC (AM) | Transmitters | s \n Rebroadcaster \n of CJBC",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City_of_license",
+        "Identifier",
+        "Frequency",
+        "Power_",
+        "Class_",
+        "RECNet"
+    ],
+    "cell": [
+        [
+            "Belleville",
+            "CJBC-1-FM",
+            "94.3 FM",
+            "34950 s watt",
+            "B",
+            "Query"
+        ],
+        [
+            "Kingston",
+            "CJBC-2-FM",
+            "99.5 FM",
+            "1560 watts",
+            "A",
+            "Query"
+        ],
+        [
+            "London",
+            "CJBC-4-FM",
+            "99.3 FM",
+            "22500 watts",
+            "B",
+            "Query"
+        ],
+        [
+            "Penetanguishene",
+            "CJBC-3-FM",
+            "96.5 FM",
+            "15300 watts",
+            "B",
+            "Query"
+        ],
+        [
+            "Peterborough",
+            "CJBC-5-FM",
+            "106.3 FM",
+            "13000 watts",
+            "B",
+            "Query"
+        ]
+    ]
+}

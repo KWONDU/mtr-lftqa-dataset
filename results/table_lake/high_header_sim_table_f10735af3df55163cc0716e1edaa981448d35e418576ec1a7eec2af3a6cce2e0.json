@@ -1,0 +1,77 @@
+{
+    "id": "f10735af3df55163cc0716e1edaa981448d35e418576ec1a7eec2af3a6cce2e0",
+    "metadata": "List of equipment of the Republic of Korea Army | Aircraft | Aircraft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Aircraft",
+        "Type_",
+        "Version",
+        "Produced",
+        "Quantity"
+    ],
+    "cell": [
+        [
+            "Bell Helicopter UH-1",
+            "Utility Transport",
+            "UH-1H/N",
+            "1965~1978",
+            "129"
+        ],
+        [
+            "Sikorsky Aircraft UH-60",
+            "Utility Transport",
+            "UH-60P",
+            "1990~1999",
+            "140"
+        ],
+        [
+            "Boeing Helicopters CH-47 Chinook",
+            "Heavy Transport",
+            "CH-47D CH-47DLR",
+            "1988~1998",
+            "23"
+        ],
+        [
+            "KAI KUH-1 Surion",
+            "Utility Transport",
+            "KUH-1",
+            "2012~",
+            "10 (245 planned)"
+        ],
+        [
+            "MD Helicopters MD-500",
+            "Light Attack Light Attack",
+            "MD-500 Defender MD-500 TOW Defender",
+            "1976~1988",
+            "207 50"
+        ],
+        [
+            "Bell Helicopter AH-1 Cobra",
+            "Attack",
+            "AH-1F/S",
+            "1977~1991",
+            "90"
+        ],
+        [
+            "Messerschmitt Bo 105",
+            "Light Attack",
+            "Bo 105CBS",
+            "1999~2000",
+            "12"
+        ],
+        [
+            "KAH",
+            "Attack",
+            "KAI KAH (Korean attack helicopter)",
+            "2018~",
+            "(Planned 200)"
+        ],
+        [
+            "AH-64 Apache",
+            "Attack",
+            "AH-64E Guardian",
+            "2016~2018",
+            "0"
+        ]
+    ]
+}

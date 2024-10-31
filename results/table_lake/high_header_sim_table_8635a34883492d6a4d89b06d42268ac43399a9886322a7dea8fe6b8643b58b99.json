@@ -1,0 +1,49 @@
+{
+    "id": "8635a34883492d6a4d89b06d42268ac43399a9886322a7dea8fe6b8643b58b99",
+    "metadata": "Sampoorna Kranti Express | Station | Group A",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Station_Code",
+        "Station_Name",
+        "Arrival",
+        "Departure",
+        "Platform"
+    ],
+    "cell": [
+        [
+            "RJPB",
+            "Rajendranagar Terminal",
+            "Starting Station",
+            "17:35",
+            "2"
+        ],
+        [
+            "PNBE",
+            "Patna Junction",
+            "17:50",
+            "18:00",
+            "4"
+        ],
+        [
+            "MGS",
+            "Mughal Sarai Junction",
+            "20:55",
+            "21:10",
+            "N/A"
+        ],
+        [
+            "CNB",
+            "Kanpur Central",
+            "01:10",
+            "01:50",
+            "N/A"
+        ],
+        [
+            "NDLS",
+            "New Delhi Railway Station",
+            "08:35",
+            "Destination Station",
+            "15"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "7d5b85164d771e8ce5f2cd9023b2380d2e3a3e9d8f54b093bd1705ed25e29d97",
+    "metadata": "Victorian Railways H class (diesel) | Locomotives | Locomotives",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Locomotive",
+        "Delivered_as",
+        "Entered_service",
+        "Owner_",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "H1",
+            "T413",
+            "20 December 1968",
+            "Pacific National - Rural and Bulk",
+            "In Service"
+        ],
+        [
+            "H2",
+            "T414",
+            "7 January 1969",
+            "Pacific National - Rural and Bulk",
+            "In Service"
+        ],
+        [
+            "H3",
+            "T415",
+            "7 February 1969",
+            "Pacific National - Rural and Bulk",
+            "In Service"
+        ],
+        [
+            "H4",
+            "T416",
+            "24 February 1969",
+            "Pacific National - Rural and Bulk",
+            "In Service"
+        ],
+        [
+            "H5",
+            "T417",
+            "14 March 1969",
+            "Pacific National - Rural and Bulk",
+            "In Service"
+        ]
+    ]
+}

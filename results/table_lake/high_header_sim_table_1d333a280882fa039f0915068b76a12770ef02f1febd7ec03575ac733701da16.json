@@ -1,0 +1,601 @@
+{
+    "id": "1d333a280882fa039f0915068b76a12770ef02f1febd7ec03575ac733701da16",
+    "metadata": "Campeonato Nacional de Rodeo | National champions of Chile | National champions of Chile",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "City",
+        "Rider_1",
+        "Rider_2",
+        "Horse_1",
+        "Horse_2",
+        "Association"
+    ],
+    "cell": [
+        [
+            "1949",
+            "Rancagua",
+            "Ernesto Santos",
+            "Jos\u00e9 Guti\u00e9rrez",
+            "Vanidosa",
+            "Bototo",
+            "Temuco"
+        ],
+        [
+            "1950",
+            "San Fernando",
+            "Roberto Palacios",
+            "Jes\u00fas Bustamante",
+            "Caduca",
+            "Sat\u00edn",
+            "San Clemente"
+        ],
+        [
+            "1951",
+            "Rancagua",
+            "Manuel Bustamante",
+            "Antonio R\u00edos",
+            "Prestigio",
+            "Pichanguero",
+            "Hospital"
+        ],
+        [
+            "1952",
+            "Chill\u00e1n",
+            "Ren\u00e9 Urz\u00faa",
+            "Francisco Jara",
+            "Jovencita",
+            "Alg\u00fan D\u00eda",
+            "Ch\u00e9pica"
+        ],
+        [
+            "1953",
+            "Curic\u00f3",
+            "Ren\u00e9 Urz\u00faa",
+            "Pedro Lorca",
+            "Secretaria",
+            "Picantita",
+            "Ch\u00e9pica"
+        ],
+        [
+            "1954",
+            "Los Andes",
+            "Alberto Montt",
+            "Mario Molina",
+            "Perro",
+            "Estropajo",
+            "Rengo"
+        ],
+        [
+            "1955",
+            "Melipilla",
+            "Santiago Urrutia",
+            "Atiliano Urrutia",
+            "Marmota",
+            "Mentita",
+            "Parral"
+        ],
+        [
+            "1956",
+            "Chill\u00e1n",
+            "Abelino Mora",
+            "Eliseo Calder\u00f3n",
+            "Cervecero",
+            "Latosito",
+            "Temuco"
+        ],
+        [
+            "1957",
+            "Curic\u00f3",
+            "Ren\u00e9 Urz\u00faa",
+            "Luis Mayol",
+            "Cuspe",
+            "Re\u00f1oso",
+            "Chimbarongo"
+        ],
+        [
+            "1958",
+            "Osorno",
+            "Alejandro Hott",
+            "Julio Hott",
+            "Huilcoco",
+            "Felizcote",
+            "R\u00edo Bueno"
+        ],
+        [
+            "1959",
+            "Melipilla",
+            "Eduardo Siebet",
+            "Ra\u00fal Gonz\u00e1lez",
+            "\u00d1a Popa",
+            "Balita",
+            "Osorno"
+        ],
+        [
+            "1960",
+            "Maip\u00fa",
+            "Rodolfo Bustos",
+            "Segudo Z\u00fa\u00f1iga",
+            "Por si Acaso",
+            "Broche",
+            "San Carlos"
+        ],
+        [
+            "1961",
+            "Maip\u00fa",
+            "Abelino Mora",
+            "Miguel Lamoaliatte",
+            "Aceita\u00edta",
+            "Pluma",
+            "Temuco"
+        ],
+        [
+            "1962",
+            "Los \u00c1ngeles",
+            "Ram\u00f3n Cardemil",
+            "Ruperto Valderrama",
+            "Manicero",
+            "Matucho",
+            "Curic\u00f3"
+        ],
+        [
+            "1963",
+            "Linares",
+            "Ram\u00f3n Cardemil",
+            "Ruperto Valderrama",
+            "Envidia",
+            "Venganza",
+            "Curic\u00f3"
+        ],
+        [
+            "1964",
+            "Ovalle",
+            "Jos\u00e9 Manuel Aguirre",
+            "Guillermo Aguirre",
+            "\u00d1ip\u00e1n",
+            "Reparo",
+            "Los \u00c1ngeles"
+        ],
+        [
+            "1965",
+            "San Fernando",
+            "Ram\u00f3n Cardemil",
+            "Ruperto Valderrama",
+            "Manicero",
+            "Matucho",
+            "Curic\u00f3"
+        ],
+        [
+            "1966",
+            "Valdivia",
+            "Abelino Mora",
+            "Miguel Lamoliatte",
+            "Aceitata",
+            "Flecha",
+            "Temuco"
+        ],
+        [
+            "1967",
+            "Rancagua",
+            "Ram\u00f3n Cardemil",
+            "Ruperto Valderrama",
+            "Percala",
+            "Pelotera",
+            "Curic\u00f3"
+        ],
+        [
+            "1968",
+            "Rancagua",
+            "Ram\u00f3n Cardemil",
+            "Ruperto Valderrama",
+            "Manicero",
+            "Trampero",
+            "Curic\u00f3"
+        ],
+        [
+            "1969",
+            "Talca",
+            "Santiago Urrutia",
+            "Samuel Parot",
+            "Barranco",
+            "Huachipato",
+            "Parral"
+        ],
+        [
+            "1970",
+            "Osorno",
+            "Pablo Quera",
+            "Ra\u00fal C\u00e1ceres",
+            "Chinganero",
+            "Barquillo",
+            "Curic\u00f3"
+        ],
+        [
+            "1971",
+            "Talca",
+            "Carlos Gaedicke",
+            "Arno Gaedicke",
+            "Manojo",
+            "Mala Cara",
+            "Puerto Octay"
+        ],
+        [
+            "1972",
+            "Rancagua",
+            "Ricardo de la Fuente",
+            "Ubaldo Garc\u00eda",
+            "Risue\u00f1a",
+            "Borrachita",
+            "Osorno"
+        ],
+        [
+            "1973",
+            "Rancagua",
+            "Ram\u00f3n Cardemil",
+            "Manuel Fuentes",
+            "Tabac\u00f3n",
+            "Trampero",
+            "Curic\u00f3"
+        ],
+        [
+            "1974",
+            "Talca",
+            "Sergio Bustamante",
+            "Jes\u00fas Bustamante",
+            "Forastero",
+            "Carretera",
+            "Graneros"
+        ],
+        [
+            "1975",
+            "Rancagua",
+            "Pablo Quera",
+            "Ra\u00fal C\u00e1ceres",
+            "Tranquila",
+            "Malague\u00f1a",
+            "Curic\u00f3"
+        ],
+        [
+            "1976",
+            "Rancagua",
+            "Ram\u00f3n Gonzalez",
+            "Pedro Vergara",
+            "Placer",
+            "Angamos",
+            "Rancagua"
+        ],
+        [
+            "1977",
+            "Rancagua",
+            "Samuel Parot",
+            "Eduardo Tamayo",
+            "Guariqueque",
+            "Desiderio",
+            "Osorno"
+        ],
+        [
+            "1978",
+            "Rancagua",
+            "Luis Dom\u00ednguez",
+            "Alberto Schwalm",
+            "Vistazo",
+            "Estribillo",
+            "Osorno"
+        ],
+        [
+            "1979",
+            "Rancagua",
+            "Ricardo de la Fuente",
+            "Julio Buschman",
+            "Agora Qu\u00e9",
+            "Rastrojo",
+            "Osorno"
+        ],
+        [
+            "1980",
+            "Rancagua",
+            "Ricardo de la Fuente",
+            "Enrique Schwalm",
+            "Vespertino",
+            "Estribillo",
+            "Osorno"
+        ],
+        [
+            "1981",
+            "Rancagua",
+            "Ram\u00f3n Cardemil",
+            "Manuel Fuentes",
+            "Bellaco",
+            "Rival",
+            "Curic\u00f3"
+        ],
+        [
+            "1982",
+            "Rancagua",
+            "Ren\u00e9 Guzm\u00e1n",
+            "Boris Guzm\u00e1n",
+            "Taponazo",
+            "Enzarte",
+            "Mulch\u00e9n"
+        ],
+        [
+            "1983",
+            "Rancagua",
+            "Leonardo Garc\u00eda",
+            "Daniel Rey",
+            "Alborada",
+            "Ronquerita",
+            "Temuco"
+        ],
+        [
+            "1984",
+            "Rancagua",
+            "Felipe Jim\u00e9nez",
+            "Hugo Navarro",
+            "Vanidoso",
+            "Auquincano",
+            "Chill\u00e1n"
+        ],
+        [
+            "1985",
+            "Rancagua",
+            "Hern\u00e1n Cardemil",
+            "Juan Pablo Cardemil",
+            "Rumana",
+            "Atinada",
+            "Curic\u00f3"
+        ],
+        [
+            "1986",
+            "Rancagua",
+            "Hugo Cardemil",
+            "Guillermo Barra",
+            "Salteador III",
+            "Pensamiento",
+            "Curic\u00f3"
+        ],
+        [
+            "1987",
+            "Rancagua",
+            "Juan Carlos Loaiza",
+            "Carlos Mondaca",
+            "Papayero",
+            "Rico Raco",
+            "Valdivia"
+        ],
+        [
+            "1988",
+            "Rancagua",
+            "Juan Carlos Loaiza",
+            "Carlos Mondaca",
+            "Papayero",
+            "Rico Raco",
+            "Valdivia"
+        ],
+        [
+            "1989",
+            "Rancagua",
+            "Jes\u00fas Bustamante",
+            "Vicente Ya\u00f1ez",
+            "Estribillo II",
+            "Consejero",
+            "Rancagua"
+        ],
+        [
+            "1990",
+            "Rancagua",
+            "Hugo Cardemil",
+            "Jos\u00e9 Astaburuaga",
+            "Lech\u00f3n",
+            "Reservado",
+            "Curic\u00f3"
+        ],
+        [
+            "1991",
+            "Rancagua",
+            "Hugo Cardemil",
+            "Jos\u00e9 Astaburuaga",
+            "Lech\u00f3n",
+            "Reservado",
+            "Curic\u00f3"
+        ],
+        [
+            "1992",
+            "Rancagua",
+            "Jes\u00fas Bustamante",
+            "Vicente Ya\u00f1ez",
+            "Esparramo",
+            "Corsario",
+            "Rancagua"
+        ],
+        [
+            "1993",
+            "Rancagua",
+            "Hugo Cardemil",
+            "Jos\u00e9 Astaburuaga",
+            "Esquinazo",
+            "Reservado",
+            "Curic\u00f3"
+        ],
+        [
+            "1994",
+            "Rancagua",
+            "Juan Carlos Loaiza",
+            "Eduardo Tamayo",
+            "Esbelta",
+            "Escandaloza",
+            "Valdivia"
+        ],
+        [
+            "1995",
+            "Rancagua",
+            "Ren\u00e9 Guzm\u00e1n",
+            "Jos\u00e9 Manuel Rey",
+            "Pretal",
+            "Canteado",
+            "Melipilla"
+        ],
+        [
+            "1996",
+            "Rancagua",
+            "Ren\u00e9 Guzm\u00e1n",
+            "Jos\u00e9 Manuel Rey",
+            "Pretal",
+            "Canteado",
+            "B\u00edo-B\u00edo"
+        ],
+        [
+            "1997",
+            "Rancagua",
+            "Alejandro Alvari\u00f1o",
+            "H\u00e9ctor Navarro",
+            "Amuleto",
+            "Morenita",
+            "Osorno"
+        ],
+        [
+            "1998",
+            "Rancagua",
+            "Jos\u00e9 Manuel Pozo",
+            "Alejandro Pozo",
+            "Campo II",
+            "Peumo",
+            "Talca"
+        ],
+        [
+            "1999",
+            "Rancagua",
+            "Mario Valencia",
+            "Cristi\u00e1n Ram\u00edrez",
+            "Bochinchero",
+            "Huachaco",
+            "Valpara\u00edso"
+        ],
+        [
+            "2000",
+            "Rancagua",
+            "Juan Carlos Loaiza",
+            "Eduardo Tamayo",
+            "Escorpi\u00f3n",
+            "Talento",
+            "Valdivia"
+        ],
+        [
+            "2001",
+            "Rancagua",
+            "Juan Carlos Loaiza",
+            "Luis Eduardo Cort\u00e9s",
+            "Banquero",
+            "Batuco",
+            "Valdivia"
+        ],
+        [
+            "2002",
+            "Rancagua",
+            "Juan Carlos Loaiza",
+            "Eduardo Tamayo",
+            "Talento",
+            "Almendra",
+            "Valdivia"
+        ],
+        [
+            "2003",
+            "Rancagua",
+            "Sebasti\u00e1n Walker",
+            "Camilo Padilla",
+            "Lucero",
+            "Destape",
+            "Valdivia"
+        ],
+        [
+            "2004",
+            "Rancagua",
+            "Gabriel Orphanopoulos",
+            "Mariano Torres",
+            "Ah\u00ed No Mas",
+            "Guapet\u00f3n",
+            "Linares"
+        ],
+        [
+            "2005",
+            "Rancagua",
+            "Claudio Hern\u00e1ndez",
+            "Rufino Hern\u00e1ndez",
+            "Morenita",
+            "Inventada",
+            "Talca"
+        ],
+        [
+            "2006",
+            "Rancagua",
+            "Claudio Hern\u00e1ndez",
+            "Rufino Hern\u00e1ndez",
+            "Malulo",
+            "Estruendo",
+            "B\u00edo-B\u00edo"
+        ],
+        [
+            "2007",
+            "Rancagua",
+            "Juan Carlos Loaiza",
+            "Eduardo Tamayo",
+            "Talento",
+            "Fiestera",
+            "Valdivia"
+        ],
+        [
+            "2008",
+            "Rancagua",
+            "Jes\u00fas Rodr\u00edguez",
+            "Christian Pooley",
+            "Rangoso",
+            "Canalla",
+            "Caut\u00edn"
+        ],
+        [
+            "2009",
+            "Rancagua",
+            "Emiliano Ruiz",
+            "Jos\u00e9 Meza",
+            "Distinguido",
+            "Espinudo",
+            "Cordillera"
+        ],
+        [
+            "2010",
+            "Rancagua",
+            "Crist\u00f3bal Cortina",
+            "V\u00edctor Vergara",
+            "Cumpa",
+            "Tio Pedro",
+            "Cordillera"
+        ],
+        [
+            "2011",
+            "Rancagua",
+            "Germ\u00e1n Varela",
+            "Pedro Vergara",
+            "Fogoso",
+            "Puntilla",
+            "O`Higgins"
+        ],
+        [
+            "2012",
+            "Rancagua",
+            "Juan Carlos Loaiza",
+            "Eduardo Tamayo",
+            "Cantora",
+            "Alabanza",
+            "Valdivia"
+        ],
+        [
+            "2013",
+            "Rancagua",
+            "Gustavo Valdebenito",
+            "Luis Corval\u00e1n",
+            "Compadre",
+            "Quiltralco",
+            "Malleco"
+        ]
+    ]
+}

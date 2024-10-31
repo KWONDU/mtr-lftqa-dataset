@@ -1,0 +1,115 @@
+{
+    "id": "20c95dd81123ec84ab220f9774b39c0a6a453bdbb570f8958afa6c5b9d34e5e9",
+    "metadata": "List of Country Fire Authority brigades | Geelong Group | Geelong Group",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Brigade",
+        "Staffing",
+        "Type_",
+        "Location_",
+        "Pumpers",
+        "Tankers",
+        "Telebooms",
+        "Platforms",
+        "Cars",
+        "Hazmat"
+    ],
+    "cell": [
+        [
+            "Belmont",
+            "Integrated",
+            "Urban",
+            "Google Map",
+            "1",
+            "1",
+            "-",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "Corio",
+            "Integrated",
+            "Urban",
+            "Google Map",
+            "1",
+            "1",
+            "1",
+            "-",
+            "1",
+            "2"
+        ],
+        [
+            "Geelong City",
+            "Integrated",
+            "Urban",
+            "Google Map",
+            "2",
+            "1",
+            "-",
+            "1",
+            "1",
+            "-"
+        ],
+        [
+            "Geelong West",
+            "Volunteer",
+            "Urban",
+            "Google Map",
+            "1",
+            "1",
+            "-",
+            "-",
+            "1",
+            "-"
+        ],
+        [
+            "Grovedale",
+            "Volunteer",
+            "Urban & Rural",
+            "Google Map",
+            "1",
+            "1",
+            "-",
+            "-",
+            "1",
+            "-"
+        ],
+        [
+            "Highton",
+            "Volunteer",
+            "Urban",
+            "Google Map",
+            "1",
+            "1",
+            "-",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "Lara",
+            "Volunteer",
+            "Urban & Rural",
+            "Google Map",
+            "1",
+            "2",
+            "-",
+            "-",
+            "1",
+            "-"
+        ],
+        [
+            "Total",
+            "Group",
+            "-",
+            "-",
+            "8",
+            "7",
+            "1",
+            "1",
+            "5",
+            "2"
+        ]
+    ]
+}

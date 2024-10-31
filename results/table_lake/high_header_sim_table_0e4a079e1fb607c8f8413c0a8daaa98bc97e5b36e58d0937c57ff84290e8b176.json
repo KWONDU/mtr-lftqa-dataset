@@ -1,0 +1,70 @@
+{
+    "id": "0e4a079e1fb607c8f8413c0a8daaa98bc97e5b36e58d0937c57ff84290e8b176",
+    "metadata": "1981 Tampa Bay Buccaneers season | NFL Draft | NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick",
+        "Round",
+        "Player",
+        "Position_",
+        "School"
+    ],
+    "cell": [
+        [
+            "1",
+            "7",
+            "Hugh Green",
+            "Linebacker",
+            "Pittsburgh"
+        ],
+        [
+            "2",
+            "34",
+            "James Wilder",
+            "Running back",
+            "Missouri"
+        ],
+        [
+            "4",
+            "89",
+            "John Holt",
+            "Defensive back",
+            "West Texas A&M"
+        ],
+        [
+            "8",
+            "199",
+            "Denver Johnson",
+            "Offensive tackle",
+            "Tulsa"
+        ],
+        [
+            "9",
+            "228",
+            "Mike Ford",
+            "Quarterback",
+            "SMU"
+        ],
+        [
+            "10",
+            "254",
+            "Ken McCune",
+            "Defensive end",
+            "Texas"
+        ],
+        [
+            "11",
+            "283",
+            "Johnny Ray Smith",
+            "Defensive back",
+            "Lamar"
+        ],
+        [
+            "12",
+            "310",
+            "Brad White",
+            "Nose tackle",
+            "Tennessee"
+        ]
+    ]
+}

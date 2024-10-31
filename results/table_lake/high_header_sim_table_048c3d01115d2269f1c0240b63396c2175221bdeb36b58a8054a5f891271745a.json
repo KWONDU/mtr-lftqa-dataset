@@ -1,0 +1,56 @@
+{
+    "id": "048c3d01115d2269f1c0240b63396c2175221bdeb36b58a8054a5f891271745a",
+    "metadata": "Sigulda bobsleigh, luge, and skeleton track | Statistics | Track records",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Sport",
+        "Record",
+        "Nation_athletes",
+        "Date_",
+        "Time_seconds"
+    ],
+    "cell": [
+        [
+            "Luge - men`s singles",
+            "Start",
+            "Johannes Ludwig - Germany",
+            "24 January 2010",
+            "4.285"
+        ],
+        [
+            "Luge - men`s singles",
+            "Track",
+            "Albert Demtschenko - Russia",
+            "24 January 2010",
+            "48.282"
+        ],
+        [
+            "Luge - women`s singles",
+            "Start",
+            "Tatjana H\u00fcfner - Germany",
+            "15 February 2008",
+            "1.799"
+        ],
+        [
+            "Luge - women`s singles",
+            "Track",
+            "Tatiana Ivanova - Russia",
+            "23 January 2010",
+            "42.679"
+        ],
+        [
+            "Luge - men`s doubles",
+            "Start",
+            "Germany - Patric Leitner & Alexander Resch",
+            "6 December 2008",
+            "1.698"
+        ],
+        [
+            "Luge - men`s doubles",
+            "Track",
+            "Austria - Andreas Linger & Wolfgang Linger",
+            "23 January 2010",
+            "42.172"
+        ]
+    ]
+}

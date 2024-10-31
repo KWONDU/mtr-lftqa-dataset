@@ -1,0 +1,203 @@
+{
+    "id": "60e3184d7de8cc43a56ad4a0ae1085822d4d82b6ebde1f80cc32134471ef7666",
+    "metadata": "Nakshatra | Padas (quarters) | Padas (quarters)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Pada_1",
+        "Pada_2",
+        "Pada_3",
+        "Pada_4"
+    ],
+    "cell": [
+        [
+            "Ashwini (\u0905\u0936\u094d\u0935\u093f\u0928\u093f)",
+            "\u091a\u0941 Chu",
+            "\u091a\u0947 Che",
+            "\u091a\u094b Cho",
+            "\u0932\u093e La"
+        ],
+        [
+            "Bharani (\u092d\u0930\u0923\u0940)",
+            "\u0932\u0940 Li",
+            "\u0932\u0942 Lu",
+            "\u0932\u0947 Le",
+            "\u0932\u094b Lo"
+        ],
+        [
+            "Kritika (\u0915\u0943\u0924\u094d\u0924\u093f\u0915\u093e)",
+            "\u0905 A",
+            "\u0908 I",
+            "\u0909 U",
+            "\u090f E"
+        ],
+        [
+            "Rohini(\u0930\u094b\u0939\u093f\u0923\u0940)",
+            "\u0913 O",
+            "\u0935\u093e Va/Ba",
+            "\u0935\u0940 Vi/Bi",
+            "\u0935\u0941 Vu/Bu"
+        ],
+        [
+            "Mrigash\u012brsha (\u092e\u094d\u0930\u0943\u0917\u0936\u0940\u0930\u094d\u0937\u093e)",
+            "\u0935\u0947 Ve/Be",
+            "\u0935\u094b Vo/Bo",
+            "\u0915\u093e Ka",
+            "\u0915\u0940 Ke"
+        ],
+        [
+            "\u0100rdr\u0101 (\u0906\u0930\u094d\u0926\u094d\u0930\u093e)",
+            "\u0915\u0941 Ku",
+            "\u0918 Gha",
+            "\u0919 Ng/Na",
+            "\u091b Chha"
+        ],
+        [
+            "Punarvasu (\u092a\u0941\u0928\u0930\u094d\u0935\u0938\u0941)",
+            "\u0915\u0947 Ke",
+            "\u0915\u094b Ko",
+            "\u0939\u093e Ha",
+            "\u0939\u0940 Hi"
+        ],
+        [
+            "Pushya (\u092a\u0941\u0937\u094d\u092f)",
+            "\u0939\u0941 Hu",
+            "\u0939\u0947 He",
+            "\u0939\u094b Ho",
+            "\u0921 Da"
+        ],
+        [
+            "\u0100shlesh\u0101 (\u0906\u0936\u094d\u0932\u0947\u0937\u093e)",
+            "\u0921\u0940 Di",
+            "\u0921\u0942 Du",
+            "\u0921\u0947 De",
+            "\u0921\u094b Do"
+        ],
+        [
+            "Magh\u0101 (\u092e\u0918\u093e)",
+            "\u092e\u093e Ma",
+            "\u092e\u0940 Mi",
+            "\u092e\u0942 Mu",
+            "\u092e\u0947 Me"
+        ],
+        [
+            "P\u016brva or P\u016brva Phalgun\u012b (\u092a\u0942\u0930\u094d\u0935 \u092b\u093e\u0932\u094d\u0917\u0941\u0928\u0940)",
+            "\u0928\u094b Mo",
+            "\u091f\u093e Ta",
+            "\u091f\u0940 Ti",
+            "\u091f\u0942 Tu"
+        ],
+        [
+            "Uttara or Uttara Phalgun\u012b (\u0909\u0924\u094d\u0924\u0930 \u092b\u093e\u0932\u094d\u0917\u0941\u0928\u0940)",
+            "\u091f\u0947 Te",
+            "\u091f\u094b To",
+            "\u092a\u093e Pa",
+            "\u092a\u0940 Pi"
+        ],
+        [
+            "Hasta (\u0939\u0938\u094d\u0924)",
+            "\u092a\u0942 Pu",
+            "\u0937 Sha",
+            "\u0923 Na",
+            "\u0920 Tha"
+        ],
+        [
+            "Chitra (\u091a\u093f\u0924\u094d\u0930\u093e)",
+            "\u092a\u0947 Pe",
+            "\u092a\u094b Po",
+            "\u0930\u093e Ra",
+            "\u0930\u0940 Ri"
+        ],
+        [
+            "Sv\u0101t\u012b (\u0938\u094d\u0935\u093e\u0924\u093f)",
+            "\u0930\u0942 Ru",
+            "\u0930\u0947 Re",
+            "\u0930\u094b Ro",
+            "\u0924\u093e Ta"
+        ],
+        [
+            "Vi\u015b\u0101kh\u0101 (\u0935\u093f\u0936\u093e\u0916\u093e)",
+            "\u0924\u0940 Ti",
+            "\u0924\u0942 Tu",
+            "\u0924\u0947 Te",
+            "\u0924\u094b To"
+        ],
+        [
+            "Anur\u0101dh\u0101 (\u0905\u0928\u0941\u0930\u093e\u0927\u093e)",
+            "\u0928\u093e Na",
+            "\u0928\u0940 Ni",
+            "\u0928\u0942 Nu",
+            "\u0928\u0947 Ne"
+        ],
+        [
+            "Jyeshtha (\u091c\u094d\u092f\u0947\u0937\u094d\u0920\u093e)",
+            "\u0928\u094b No",
+            "\u092f\u093e Ya",
+            "\u092f\u0940 Yi",
+            "\u092f\u0942 Yu"
+        ],
+        [
+            "Mula (\u092e\u0942\u0932)",
+            "\u092f\u0947 Ye",
+            "\u092f\u094b Yo",
+            "\u092d\u093e Bha",
+            "\u092d\u0940 Bhi"
+        ],
+        [
+            "P\u016brva Ash\u0101dh\u0101 (\u092a\u0942\u0930\u094d\u0935\u093e\u0937\u093e\u0922\u093c\u093e)",
+            "\u092d\u0942 Bhu",
+            "\u0927\u093e Dha",
+            "\u092b\u093e Bha/Pha",
+            "\u0922\u093e Dha"
+        ],
+        [
+            "Uttara A\u1e63\u0101\u1e0dh\u0101 (\u0909\u0924\u094d\u0924\u0930\u093e\u0937\u093e\u0922\u093c\u093e)",
+            "\u092d\u0947 Bhe",
+            "\u092d\u094b Bho",
+            "\u091c\u093e Ja",
+            "\u091c\u0940 Ji"
+        ],
+        [
+            "\u015ar\u0101va\u1e47a (\u0936\u094d\u0930\u200c\u093e\u0935\u0923)",
+            "\u0916\u0940 Ju/Khi",
+            "\u0916\u0942 Je/Khu",
+            "\u0916\u0947 Jo/Khe",
+            "\u0916\u094b Gha/Kho"
+        ],
+        [
+            "\u015ar\u0101vi\u1e63\u1e6dha (\u0936\u094d\u0930\u0935\u093f\u0937\u094d\u0920\u093e) or Dhanishta",
+            "\u0917\u093e Ga",
+            "\u0917\u0940 Gi",
+            "\u0917\u0941 Gu",
+            "\u0917\u0947 Ge"
+        ],
+        [
+            "Shatabhisha (\u0936\u0924\u092d\u093f\u0937\u093e)or \u015aatataraka",
+            "\u0917\u094b Go",
+            "\u0938\u093e Sa",
+            "\u0938\u0940 Si",
+            "\u0938\u0942 Su"
+        ],
+        [
+            "P\u016brva Bh\u0101drapad\u0101 (\u092a\u0942\u0930\u094d\u0935\u092d\u093e\u0926\u094d\u0930\u092a\u0926\u093e)",
+            "\u0938\u0947 Se",
+            "\u0938\u094b So",
+            "\u0926\u093e Da",
+            "\u0926\u0940 Di"
+        ],
+        [
+            "Uttara Bh\u0101drapad\u0101 (\u0909\u0924\u094d\u0924\u0930\u092d\u093e\u0926\u094d\u0930\u092a\u0926\u093e)",
+            "\u0926\u0942 Du",
+            "\u0925 Tha",
+            "\u091d Jha",
+            "\u091e Da/Tra"
+        ],
+        [
+            "Revati (\u0930\u0947\u0935\u0924\u0940)",
+            "\u0926\u0947 De",
+            "\u0926\u094b Do",
+            "\u091a Cha",
+            "\u091a\u0940 Chi"
+        ]
+    ]
+}

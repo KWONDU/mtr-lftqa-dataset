@@ -1,0 +1,154 @@
+{
+    "id": "c2ec96845bc351d0febc5a73b6898f77faa4df9d4af433c18d32aff3a87775f3",
+    "metadata": "2002 Belgian Grand Prix | Race | Race",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Constructor_",
+        "Laps",
+        "Time_Retired",
+        "Grid"
+    ],
+    "cell": [
+        [
+            "Michael Schumacher",
+            "Ferrari",
+            "44",
+            "1:21:20.634",
+            "1"
+        ],
+        [
+            "Rubens Barrichello",
+            "Ferrari",
+            "44",
+            "+1.977",
+            "3"
+        ],
+        [
+            "Juan Pablo Montoya",
+            "Williams - BMW",
+            "44",
+            "+18.445",
+            "5"
+        ],
+        [
+            "David Coulthard",
+            "McLaren - Mercedes",
+            "44",
+            "+19.357",
+            "6"
+        ],
+        [
+            "Ralf Schumacher",
+            "Williams - BMW",
+            "44",
+            "+56.440",
+            "4"
+        ],
+        [
+            "Eddie Irvine",
+            "Jaguar - Cosworth",
+            "44",
+            "+1:17.370",
+            "8"
+        ],
+        [
+            "Mika Salo",
+            "Toyota",
+            "44",
+            "+1:17.809",
+            "9"
+        ],
+        [
+            "Jacques Villeneuve",
+            "BAR - Honda",
+            "44",
+            "+1:19.855",
+            "12"
+        ],
+        [
+            "Allan McNish",
+            "Toyota",
+            "43",
+            "+1 Lap",
+            "13"
+        ],
+        [
+            "Nick Heidfeld",
+            "Sauber - Petronas",
+            "43",
+            "+1 Lap",
+            "18"
+        ],
+        [
+            "Takuma Sato",
+            "Jordan - Honda",
+            "43",
+            "+1 Lap",
+            "16"
+        ],
+        [
+            "Olivier Panis",
+            "BAR - Honda",
+            "39",
+            "Engine",
+            "15"
+        ],
+        [
+            "Giancarlo Fisichella",
+            "Jordan - Honda",
+            "38",
+            "Engine",
+            "14"
+        ],
+        [
+            "Pedro de la Rosa",
+            "Jaguar - Cosworth",
+            "37",
+            "Suspension",
+            "11"
+        ],
+        [
+            "Felipe Massa",
+            "Sauber - Petronas",
+            "37",
+            "Engine",
+            "17"
+        ],
+        [
+            "Kimi R\u00e4ikk\u00f6nen",
+            "McLaren - Mercedes",
+            "35",
+            "Engine",
+            "2"
+        ],
+        [
+            "Jarno Trulli",
+            "Renault",
+            "35",
+            "Engine",
+            "7"
+        ],
+        [
+            "Anthony Davidson",
+            "Minardi - Asiatech",
+            "17",
+            "Spin",
+            "20"
+        ],
+        [
+            "Jenson Button",
+            "Renault",
+            "10",
+            "Engine",
+            "10"
+        ],
+        [
+            "Mark Webber",
+            "Minardi - Asiatech",
+            "4",
+            "Gearbox",
+            "19"
+        ]
+    ]
+}

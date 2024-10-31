@@ -1,0 +1,56 @@
+{
+    "id": "9a52b46d889cacc7e45bd3c9413d99c730987c3f5d621e9658cead1564367c81",
+    "metadata": "List of tallest structures in the world | All time | All time",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Continent",
+        "Structure_",
+        "Height",
+        "Year_",
+        "Country"
+    ],
+    "cell": [
+        [
+            "Asia",
+            "Burj Khalifa",
+            "m (ft)",
+            "2009",
+            "United Arab Emirates"
+        ],
+        [
+            "Africa",
+            "OMEGA transmitter Chabrier",
+            "m (ft)",
+            "1976",
+            "R\u00e9union (France)"
+        ],
+        [
+            "North America",
+            "KVLY-TV mast",
+            "m (ft)",
+            "1963",
+            "United States"
+        ],
+        [
+            "South America",
+            "Omega Tower Trelew",
+            "m (ft)",
+            "1971",
+            "Argentina"
+        ],
+        [
+            "Europe",
+            "Warsaw radio mast",
+            "m (ft)",
+            "1974",
+            "Poland"
+        ],
+        [
+            "Oceania",
+            "VLF transmitter Lualualei",
+            "m (ft)",
+            "1972",
+            "United States (Hawaii)"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "6e8e00aecdcb69ed5dc2bc4b7bf09b64a85d73bcf8440cf77647c1b44dcab7b5",
+    "metadata": "1971 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Fitzroy",
+            "20.19 (139)",
+            "Geelong",
+            "11.10 (76)",
+            "Junction Oval",
+            "8889",
+            "24 July 1971"
+        ],
+        [
+            "Essendon",
+            "7.8 (50)",
+            "St Kilda",
+            "14.15 (99)",
+            "Windy Hill",
+            "15273",
+            "24 July 1971"
+        ],
+        [
+            "Collingwood",
+            "12.12 (84)",
+            "Melbourne",
+            "11.12 (78)",
+            "Victoria Park",
+            "27243",
+            "24 July 1971"
+        ],
+        [
+            "Carlton",
+            "24.16 (160)",
+            "South Melbourne",
+            "11.7 (73)",
+            "Princes Park",
+            "16500",
+            "24 July 1971"
+        ],
+        [
+            "Hawthorn",
+            "23.16 (154)",
+            "Footscray",
+            "4.15 (39)",
+            "Glenferrie Oval",
+            "21059",
+            "24 July 1971"
+        ],
+        [
+            "Richmond",
+            "25.19 (169)",
+            "North Melbourne",
+            "12.7 (79)",
+            "VFL Park",
+            "11416",
+            "24 July 1971"
+        ]
+    ]
+}

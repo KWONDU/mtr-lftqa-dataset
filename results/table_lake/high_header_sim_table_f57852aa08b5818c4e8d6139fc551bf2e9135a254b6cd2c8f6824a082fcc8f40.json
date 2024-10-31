@@ -1,0 +1,79 @@
+{
+    "id": "f57852aa08b5818c4e8d6139fc551bf2e9135a254b6cd2c8f6824a082fcc8f40",
+    "metadata": "1988-89 Rangers F.C. season | Scottish Cup | Scottish Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "28 January 1989",
+            "R3",
+            "Raith Rovers",
+            "A",
+            "1-1",
+            "10500"
+        ],
+        [
+            "1 February 1989",
+            "R3 R",
+            "Raith Rovers",
+            "H",
+            "3-0",
+            "40307"
+        ],
+        [
+            "18 February 1989",
+            "R4",
+            "Stranraer",
+            "H",
+            "8-0",
+            "41198"
+        ],
+        [
+            "21 March 1989",
+            "QF",
+            "Dundee United",
+            "H",
+            "2-2",
+            "42177"
+        ],
+        [
+            "27 March 1989",
+            "QF R",
+            "Dundee United",
+            "A",
+            "1-0",
+            "21872"
+        ],
+        [
+            "15 April 1989",
+            "SF",
+            "St. Johnstone",
+            "N",
+            "0-0",
+            "47374"
+        ],
+        [
+            "18 April 1989",
+            "SF R",
+            "St. Johnstone",
+            "N",
+            "4-0",
+            "44205"
+        ],
+        [
+            "20 May 1989",
+            "F",
+            "Celtic",
+            "N",
+            "0-1",
+            "72069"
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "6562d7ec30f9f8fdd063f38e6fefa9f7c0534824ede3a02b78ec7ef82aab6f07",
+    "metadata": "Indiana High School Athletics Conferences: Ohio River Valley - Western Indiana | Western Indiana Conference | Western Indiana Conference",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "IHSAA_Football_Class",
+        "County"
+    ],
+    "cell": [
+        [
+            "Brown County",
+            "Nashville",
+            "Eagles",
+            "755",
+            "AAA",
+            "AAA",
+            "7 Brown"
+        ],
+        [
+            "Edgewood",
+            "Ellettsville",
+            "Mustangs",
+            "833",
+            "AAA",
+            "AAA",
+            "53 Monroe"
+        ],
+        [
+            "Northview",
+            "Brazil",
+            "Knights",
+            "1142",
+            "AAAA",
+            "AAAA",
+            "11 Clay"
+        ],
+        [
+            "Owen Valley",
+            "Spencer",
+            "Patriots",
+            "908",
+            "AAA",
+            "AAAA",
+            "60 Owen"
+        ],
+        [
+            "South Vermillion",
+            "Clinton",
+            "Wildcats",
+            "583",
+            "AAA",
+            "AA",
+            "83 Vermillion"
+        ],
+        [
+            "Sullivan",
+            "Sullivan",
+            "Golden Arrows",
+            "543",
+            "AAA",
+            "AA",
+            "77 Sullivan"
+        ],
+        [
+            "West Vigo",
+            "West Terre Haute",
+            "Vikings",
+            "640",
+            "AAA",
+            "AAA",
+            "84 Vigo"
+        ]
+    ]
+}

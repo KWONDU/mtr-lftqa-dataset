@@ -1,0 +1,97 @@
+{
+    "id": "6a37732948691bb47f513431ad0a56f0ca6d9b21f72a9825afd1682cb5d634fa",
+    "metadata": "2008-09 Guildford Flames season | February | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance",
+        "Competition",
+        "Man_of_the_Match"
+    ],
+    "cell": [
+        [
+            "1st",
+            "Milton Keynes Lightning",
+            "Home",
+            "Won 5-4",
+            "1336",
+            "League",
+            "Terry Miles"
+        ],
+        [
+            "8th",
+            "Bracknell Bees",
+            "Away",
+            "Won 4-3 (OT)",
+            "N/A",
+            "League",
+            "Ollie Bronnimann"
+        ],
+        [
+            "14th",
+            "Peterborough Phantoms",
+            "Away",
+            "Won 4-2",
+            "493",
+            "League",
+            "N/A"
+        ],
+        [
+            "15th",
+            "Slough Jets",
+            "Home",
+            "Lost 3-2",
+            "1634",
+            "League",
+            "Joe Watkins"
+        ],
+        [
+            "19th",
+            "Slough Jets",
+            "Home",
+            "Drawn 1-1",
+            "2057",
+            "Cup Semi-Final (1st Leg)",
+            "David Savage"
+        ],
+        [
+            "21st",
+            "Peterborough Phantoms",
+            "Home",
+            "Won 5-3",
+            "1551",
+            "League",
+            "Ben Austin"
+        ],
+        [
+            "22nd",
+            "Sheffield Scimitars",
+            "Away",
+            "Lost 5-4",
+            "627",
+            "League",
+            "N/A"
+        ],
+        [
+            "25th",
+            "Slough Jets",
+            "Away",
+            "Won 4-2",
+            "702",
+            "Cup Semi-Final (2nd Leg)",
+            "N/A"
+        ],
+        [
+            "28th",
+            "Wightlink Raiders",
+            "Away",
+            "Lost 3-2 (SO)",
+            "582",
+            "League",
+            "Stuart Potts"
+        ]
+    ]
+}

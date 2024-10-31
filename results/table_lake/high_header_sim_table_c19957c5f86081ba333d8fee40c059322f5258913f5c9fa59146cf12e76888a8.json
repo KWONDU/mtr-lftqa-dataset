@@ -1,0 +1,56 @@
+{
+    "id": "c19957c5f86081ba333d8fee40c059322f5258913f5c9fa59146cf12e76888a8",
+    "metadata": "Equestrian at the Asian Games | Medal table | Women's team",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Location_",
+        "Gold",
+        "Silver",
+        "Bronze"
+    ],
+    "cell": [
+        [
+            "1982",
+            "New Delhi",
+            "India",
+            "Japan",
+            "Philippines"
+        ],
+        [
+            "1986",
+            "Seoul",
+            "Japan",
+            "South Korea",
+            "India"
+        ],
+        [
+            "1998",
+            "Bangkok",
+            "Thailand",
+            "Japan",
+            "India"
+        ],
+        [
+            "2002",
+            "Busan",
+            "Japan",
+            "South Korea",
+            "India"
+        ],
+        [
+            "2006",
+            "Doha",
+            "Qatar",
+            "Japan",
+            "India"
+        ],
+        [
+            "2010",
+            "Guangzhou",
+            "Japan",
+            "Thailand",
+            "China"
+        ]
+    ]
+}

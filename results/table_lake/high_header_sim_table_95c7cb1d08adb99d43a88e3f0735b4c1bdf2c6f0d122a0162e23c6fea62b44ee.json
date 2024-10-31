@@ -1,0 +1,91 @@
+{
+    "id": "95c7cb1d08adb99d43a88e3f0735b4c1bdf2c6f0d122a0162e23c6fea62b44ee",
+    "metadata": "Wake Forest Demon Deacons football, 1980-89 | Schedule | 1982",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Location_",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/04/1982",
+            "Western Carolina",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 31-10",
+            "25476"
+        ],
+        [
+            "09/11/1982",
+            "at Auburn",
+            "Jordan-Hare Stadium \u2022 Auburn, AL",
+            "L 10-28",
+            "59350"
+        ],
+        [
+            "09/18/1982*",
+            "at North Carolina State",
+            "Carter-Finley Stadium \u2022 Raleigh, NC",
+            "L 0-30",
+            "44800"
+        ],
+        [
+            "09/25/1982*",
+            "Appalachian State",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "W 31-22",
+            "29100"
+        ],
+        [
+            "10/02/1982",
+            "at Virginia Tech",
+            "Lane Stadium \u2022 Blacksburg, VA",
+            "W 13-10",
+            "37300"
+        ],
+        [
+            "10/09/1982*",
+            "#12 North Carolina",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 7-24",
+            "36200"
+        ],
+        [
+            "10/16/1982*",
+            "at Maryland",
+            "Byrd Stadium \u2022 College Park, MD",
+            "L 31-52",
+            "35100"
+        ],
+        [
+            "10/23/1982*",
+            "at Virginia",
+            "Scott Stadium \u2022 Charlottesville, VA",
+            "L 27-34",
+            "24105"
+        ],
+        [
+            "11/06/1982*",
+            "at Duke",
+            "Wallace Wade Stadium \u2022 Durham, NC",
+            "L 28-46",
+            "21500"
+        ],
+        [
+            "11/13/1982",
+            "Georgia Tech",
+            "Groves Stadium \u2022 Winston-Salem, NC",
+            "L 7-45",
+            "19257"
+        ],
+        [
+            "11/27/1982",
+            "#10 Clemson",
+            "Korakuen Stadium \u2022 Tokyo, Japan",
+            "L 17-21",
+            "80000"
+        ]
+    ]
+}

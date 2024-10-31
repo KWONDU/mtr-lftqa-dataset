@@ -1,0 +1,84 @@
+{
+    "id": "08a695e439242875929c86b4183dfd93837829ecef9989a3f91565dedb96bcfd",
+    "metadata": "Chicago Sting | Outdoor | Outdoor",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Record",
+        "Regular_Season_Finish",
+        "Playoffs",
+        "Avg_Attendance"
+    ],
+    "cell": [
+        [
+            "1975",
+            "12-10",
+            "2nd, Central Division",
+            "Did Not Qualify",
+            "4330"
+        ],
+        [
+            "1976",
+            "15-9",
+            "1st, Northern Division, Atlantic Conference",
+            "Division Championships",
+            "5801"
+        ],
+        [
+            "1977",
+            "10-16",
+            "4th, Northern Division, Atlantic Conference",
+            "Did Not Qualify",
+            "5199"
+        ],
+        [
+            "1978",
+            "12-18",
+            "2nd, Central Division, American Conference",
+            "First Round",
+            "4188"
+        ],
+        [
+            "1979",
+            "16-14",
+            "2nd, Central Division, American Conference",
+            "American Conference Semifinals",
+            "8036"
+        ],
+        [
+            "1980",
+            "21-11",
+            "1st, Central Division, American Conference",
+            "First Round",
+            "11672"
+        ],
+        [
+            "1981",
+            "23-9",
+            "1st, Central Division",
+            "NASL Champions",
+            "12889"
+        ],
+        [
+            "1982",
+            "13-19",
+            "4th, Eastern Division",
+            "Did Not Qualify",
+            "9377"
+        ],
+        [
+            "1983",
+            "15-15",
+            "2nd, Eastern Division",
+            "Quarterfinals",
+            "10937"
+        ],
+        [
+            "1984",
+            "13-11",
+            "1st, Eastern Division",
+            "NASL Champions",
+            "8376"
+        ]
+    ]
+}

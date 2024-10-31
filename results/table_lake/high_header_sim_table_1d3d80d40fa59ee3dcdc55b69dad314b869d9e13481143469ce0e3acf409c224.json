@@ -1,0 +1,63 @@
+{
+    "id": "1d3d80d40fa59ee3dcdc55b69dad314b869d9e13481143469ce0e3acf409c224",
+    "metadata": "2002-03 European Challenge Cup | Aggregate Results | Aggregate Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Proceed_to_Quarter_final",
+        "Match_points",
+        "Aggregate_score",
+        "Points_margin",
+        "Eliminated_from_competition"
+    ],
+    "cell": [
+        [
+            "London Wasps",
+            "4 - 0",
+            "72 - 29",
+            "43",
+            "NEC Harlequins"
+        ],
+        [
+            "Stade Fran\u00e7ais",
+            "4 - 0",
+            "55 - 12",
+            "43",
+            "Bordeaux-B\u00e8gles"
+        ],
+        [
+            "Saracens",
+            "4 - 0",
+            "46 - 25",
+            "21",
+            "Colomiers"
+        ],
+        [
+            "Montauban",
+            "4 - 0",
+            "31 - 22",
+            "9",
+            "Borders"
+        ],
+        [
+            "Pontypridd",
+            "3 - 1",
+            "56 - 42",
+            "14",
+            "Leeds Tykes"
+        ],
+        [
+            "Bath",
+            "2 - 2",
+            "64 - 38",
+            "26",
+            "Bridgend"
+        ],
+        [
+            "Newcastle Falcons",
+            "2 - 2",
+            "43 - 32",
+            "11",
+            "Benetton Treviso"
+        ]
+    ]
+}

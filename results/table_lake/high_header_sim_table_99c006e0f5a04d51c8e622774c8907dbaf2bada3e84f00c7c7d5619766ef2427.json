@@ -1,0 +1,304 @@
+{
+    "id": "99c006e0f5a04d51c8e622774c8907dbaf2bada3e84f00c7c7d5619766ef2427",
+    "metadata": "North derby | Matches played | Matches played",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Date_",
+        "Venue",
+        "Competition",
+        "Score",
+        "Attendance",
+        "Report"
+    ],
+    "cell": [
+        [
+            "1998-99",
+            "08.08.1998",
+            "Caledonian Stadium",
+            "League Cup",
+            "0-3",
+            "5164",
+            "Sunday Mirror"
+        ],
+        [
+            "1999-2000",
+            "20.02.2000",
+            "Caledonian Stadium",
+            "Scottish Cup",
+            "1-1",
+            "6290",
+            "BBC Sport"
+        ],
+        [
+            "1999-2000",
+            "29.02.2000",
+            "Pittodrie",
+            "Scottish Cup",
+            "1-0",
+            "18451",
+            "Sporting Life"
+        ],
+        [
+            "2004-05",
+            "16.10.2004",
+            "Pittodrie",
+            "SPL",
+            "1-3",
+            "9530",
+            "BBC Sport"
+        ],
+        [
+            "2004-05",
+            "27.12.2004",
+            "Pittodrie",
+            "SPL",
+            "0-0",
+            "18250",
+            "BBC Sport"
+        ],
+        [
+            "2004-05",
+            "05.02.2005",
+            "Pittodrie",
+            "Scottish Cup",
+            "2-1",
+            "10595",
+            "BBC Sport"
+        ],
+        [
+            "2004-05",
+            "02.04.2005",
+            "Caledonian Stadium",
+            "SPL",
+            "0-1",
+            "7026",
+            "BBC Sport"
+        ],
+        [
+            "2005-06",
+            "15.10.2005",
+            "Caledonian Stadium",
+            "SPL",
+            "1-1",
+            "6809",
+            "BBC Sport"
+        ],
+        [
+            "2005-06",
+            "31.12.2005",
+            "Pittodrie",
+            "SPL",
+            "0-0",
+            "12266",
+            "BBC Sport"
+        ],
+        [
+            "2005-06",
+            "01.04.2006",
+            "Caledonian Stadium",
+            "SPL",
+            "0-1",
+            "7368",
+            "BBC Sport"
+        ],
+        [
+            "2006-07",
+            "05.08.2006",
+            "Pittodrie",
+            "SPL",
+            "1-1",
+            "11955",
+            "BBC Sport"
+        ],
+        [
+            "2006-07",
+            "06.11.2006",
+            "Caledonian Stadium",
+            "SPL",
+            "1-1",
+            "5744",
+            "BBC Sport"
+        ],
+        [
+            "2006-07",
+            "13.01.2007",
+            "Pittodrie",
+            "SPL",
+            "1-1",
+            "10300",
+            "BBC Sport"
+        ],
+        [
+            "2007-08",
+            "21.10.2007",
+            "Caledonian Stadium",
+            "SPL",
+            "1-2",
+            "6023",
+            "BBC Sport"
+        ],
+        [
+            "2007-08",
+            "31.10.2007",
+            "Pittodrie",
+            "League Cup",
+            "4-1",
+            "7270",
+            "BBC Sport"
+        ],
+        [
+            "2007-08",
+            "02.01.2008",
+            "Pittodrie",
+            "SPL",
+            "1-0",
+            "13372",
+            "BBC Sport"
+        ],
+        [
+            "2007-08",
+            "29.03.2008",
+            "Caledonian Stadium",
+            "SPL",
+            "3-4",
+            "5655",
+            "BBC Sport"
+        ],
+        [
+            "2008-09",
+            "29.08.2008",
+            "Pittodrie",
+            "SPL",
+            "0-2",
+            "12659",
+            "BBC Sport"
+        ],
+        [
+            "2008-09",
+            "20.12.2008",
+            "Caledonian Stadium",
+            "SPL",
+            "0-3",
+            "5862",
+            "BBC Sport"
+        ],
+        [
+            "2008-09",
+            "11.04.2009",
+            "Pittodrie",
+            "SPL",
+            "1-0",
+            "11114",
+            "BBC Sport"
+        ],
+        [
+            "2010-11",
+            "02.10.2010",
+            "Caledonian Stadium",
+            "SPL",
+            "2-0",
+            "6144",
+            "BBC Sport"
+        ],
+        [
+            "2010-11",
+            "09.11.2010",
+            "Pittodrie",
+            "SPL",
+            "1-2",
+            "5917",
+            "BBC Sport"
+        ],
+        [
+            "2010-11",
+            "26.01.2011",
+            "Caledonian Stadium",
+            "SPL",
+            "0-2",
+            "4468",
+            "BBC Sport"
+        ],
+        [
+            "2010-11",
+            "30.04.2011",
+            "Pittodrie",
+            "SPL",
+            "1-0",
+            "6280",
+            "BBC Sport"
+        ],
+        [
+            "2011-12",
+            "20.08.2011",
+            "Pittodrie",
+            "SPL",
+            "2-1",
+            "7989",
+            "BBC Sport"
+        ],
+        [
+            "2011-12",
+            "24.12.2011",
+            "Caledonian Stadium",
+            "SPL",
+            "2-1",
+            "5888",
+            "BBC Sport"
+        ],
+        [
+            "2011-12",
+            "24.03.2012",
+            "Pittodrie",
+            "SPL",
+            "0-1",
+            "8939",
+            "BBC Sport"
+        ],
+        [
+            "2011-12",
+            "21.04.2012",
+            "Caledonian Stadium",
+            "SPL",
+            "0-2",
+            "3487",
+            "BBC Sport"
+        ],
+        [
+            "2012-13",
+            "15.09.2012",
+            "Caledonian Stadium",
+            "SPL",
+            "1-1",
+            "4499",
+            "BBC Report"
+        ],
+        [
+            "2012-13",
+            "27.11.2012",
+            "Pittodrie",
+            "SPL",
+            "2-3",
+            "9193",
+            "BBC Report"
+        ],
+        [
+            "2012-13",
+            "19.01.2013",
+            "Caledonian Stadium",
+            "SPL",
+            "3-0",
+            "4734",
+            "BBC Report"
+        ],
+        [
+            "2013-14",
+            "21.09.2013",
+            "Pittodrie",
+            "Premiership",
+            "1-0",
+            "11251",
+            "BBC Report"
+        ]
+    ]
+}

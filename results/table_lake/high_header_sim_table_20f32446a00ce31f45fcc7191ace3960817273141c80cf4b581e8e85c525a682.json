@@ -1,0 +1,117 @@
+{
+    "id": "20f32446a00ce31f45fcc7191ace3960817273141c80cf4b581e8e85c525a682",
+    "metadata": "Primera Divisi\u00f3n de F\u00fatbol Profesional Apertura 2007 | Apertura 2007 Standings | Apertura 2007 Standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Team",
+        "Played",
+        "Draw",
+        "Lost",
+        "Goals_Scored",
+        "Goals_Conceded",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1.",
+            "C.D. Chalatenango",
+            "18",
+            "4",
+            "4",
+            "29",
+            "16",
+            "34"
+        ],
+        [
+            "2.",
+            "C.D. FAS",
+            "18",
+            "3",
+            "6",
+            "27",
+            "21",
+            "30"
+        ],
+        [
+            "3.",
+            "A.D. Isidro Metap\u00e1n",
+            "18",
+            "5",
+            "5",
+            "31",
+            "24",
+            "29"
+        ],
+        [
+            "4.",
+            "C.D. Luis \u00c1ngel Firpo",
+            "18",
+            "6",
+            "5",
+            "23",
+            "17",
+            "27"
+        ],
+        [
+            "5.",
+            "C.D. Vista Hermosa",
+            "18",
+            "3",
+            "7",
+            "24",
+            "25",
+            "27"
+        ],
+        [
+            "6.",
+            "C.D. \u00c1guila",
+            "18",
+            "4",
+            "7",
+            "23",
+            "20",
+            "25"
+        ],
+        [
+            "7.",
+            "Alianza F.C.",
+            "18",
+            "6",
+            "6",
+            "26",
+            "28",
+            "24"
+        ],
+        [
+            "8.",
+            "Nejapa F.C.",
+            "18",
+            "7",
+            "6",
+            "31",
+            "34",
+            "22"
+        ],
+        [
+            "9.",
+            "San Salvador F.C.",
+            "16",
+            "6",
+            "9",
+            "20",
+            "35",
+            "15"
+        ],
+        [
+            "10.",
+            "Once Municipal",
+            "18",
+            "2",
+            "12",
+            "8",
+            "22",
+            "14"
+        ]
+    ]
+}

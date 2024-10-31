@@ -1,0 +1,49 @@
+{
+    "id": "e2fc5c7f3bc23225dbb64a38a2385474ac1f3924613ced503201d7e7493d7611",
+    "metadata": "California Legislative LGBT Caucus | Former members | Former members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Residence",
+        "Party",
+        "Years_in_Assembly",
+        "Years_in_Senate"
+    ],
+    "cell": [
+        [
+            "Sheila Kuehl",
+            "Santa Monica",
+            "Democratic",
+            "1994-2000",
+            "2000-2008"
+        ],
+        [
+            "Carole Migden",
+            "San Francisco",
+            "Democratic",
+            "1996-2002",
+            "2004-2008"
+        ],
+        [
+            "Christine Kehoe",
+            "San Diego",
+            "Democratic",
+            "2000-2004",
+            "2004-2012"
+        ],
+        [
+            "Jackie Goldberg",
+            "Los Angeles",
+            "Democratic",
+            "2000-2006",
+            "\u2014"
+        ],
+        [
+            "John Laird",
+            "Santa Cruz",
+            "Democratic",
+            "2002-2008",
+            "\u2014"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "e0503b0ddd3773bdf93c806f72484c734cff1e062a8e4b10122f37c312ae4b7c",
+    "metadata": "1956 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "12.13 (85)",
+            "Hawthorn",
+            "10.14 (74)",
+            "Kardinia Park",
+            "13373",
+            "21 July 1956"
+        ],
+        [
+            "Essendon",
+            "10.18 (78)",
+            "North Melbourne",
+            "6.11 (47)",
+            "Windy Hill",
+            "12800",
+            "21 July 1956"
+        ],
+        [
+            "Collingwood",
+            "14.16 (100)",
+            "Richmond",
+            "8.5 (53)",
+            "Victoria Park",
+            "21422",
+            "21 July 1956"
+        ],
+        [
+            "Carlton",
+            "8.18 (66)",
+            "St Kilda",
+            "9.12 (66)",
+            "Princes Park",
+            "30100",
+            "21 July 1956"
+        ],
+        [
+            "Melbourne",
+            "7.17 (59)",
+            "Footscray",
+            "10.12 (72)",
+            "MCG",
+            "47956",
+            "21 July 1956"
+        ],
+        [
+            "South Melbourne",
+            "11.15 (81)",
+            "Fitzroy",
+            "15.15 (105)",
+            "Lake Oval",
+            "15000",
+            "21 July 1956"
+        ]
+    ]
+}

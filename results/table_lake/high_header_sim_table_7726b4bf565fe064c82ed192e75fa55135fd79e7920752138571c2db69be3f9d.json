@@ -1,0 +1,49 @@
+{
+    "id": "7726b4bf565fe064c82ed192e75fa55135fd79e7920752138571c2db69be3f9d",
+    "metadata": "Billy Elliot the Musical casts | Original casts | Original Korean casts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Status_",
+        "Name_",
+        "First_Performance",
+        "Last_Performance",
+        "Style_"
+    ],
+    "cell": [
+        [
+            "Original Cast",
+            "Sunu Lim \uc784\uc120\uc6b0",
+            "10 August 2010",
+            "26 February 2011",
+            "Ballet"
+        ],
+        [
+            "Original Cast",
+            "Ji-Myeong Lee \uc774\uc9c0\uba85",
+            "11 August 2010",
+            "25 February 2011",
+            "Street"
+        ],
+        [
+            "Original Cast",
+            "Jin-Ho Jung \uc815\uc9c4\ud638",
+            "12 August 2010",
+            "27 February 2011",
+            "Ballet/Tap"
+        ],
+        [
+            "Original Cast",
+            "Se-Yong Kim",
+            "22 August 2010",
+            "26 February 2011",
+            "Ballet"
+        ],
+        [
+            "Replacement Cast",
+            "Joon-hyung Park \ubc15\uc900\ud615",
+            "1 January 2011",
+            "27 February 2011",
+            "Ballet"
+        ]
+    ]
+}

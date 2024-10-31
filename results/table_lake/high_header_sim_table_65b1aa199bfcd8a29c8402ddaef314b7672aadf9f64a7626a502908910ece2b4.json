@@ -1,0 +1,70 @@
+{
+    "id": "65b1aa199bfcd8a29c8402ddaef314b7672aadf9f64a7626a502908910ece2b4",
+    "metadata": "1973 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "13.13 (91)",
+            "Richmond",
+            "16.14 (110)",
+            "MCG",
+            "37667",
+            "5 May 1973"
+        ],
+        [
+            "Essendon",
+            "16.26 (122)",
+            "Geelong",
+            "15.16 (106)",
+            "Windy Hill",
+            "19007",
+            "5 May 1973"
+        ],
+        [
+            "South Melbourne",
+            "6.12 (48)",
+            "St Kilda",
+            "10.16 (76)",
+            "Lake Oval",
+            "13513",
+            "5 May 1973"
+        ],
+        [
+            "Hawthorn",
+            "18.16 (124)",
+            "Footscray",
+            "16.12 (108)",
+            "Glenferrie Oval",
+            "11402",
+            "5 May 1973"
+        ],
+        [
+            "North Melbourne",
+            "13.20 (98)",
+            "Collingwood",
+            "15.19 (109)",
+            "Arden Street Oval",
+            "27048",
+            "5 May 1973"
+        ],
+        [
+            "Carlton",
+            "15.15 (105)",
+            "Fitzroy",
+            "10.8 (68)",
+            "VFL Park",
+            "19654",
+            "5 May 1973"
+        ]
+    ]
+}

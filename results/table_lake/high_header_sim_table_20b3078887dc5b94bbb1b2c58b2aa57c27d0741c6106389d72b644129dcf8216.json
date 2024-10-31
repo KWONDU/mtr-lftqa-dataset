@@ -1,0 +1,79 @@
+{
+    "id": "20b3078887dc5b94bbb1b2c58b2aa57c27d0741c6106389d72b644129dcf8216",
+    "metadata": "1973 NHL Amateur Draft | Round eleven | Round eleven",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "Player",
+        "Position_",
+        "Nationality",
+        "NHL_team",
+        "College_junior_club_team"
+    ],
+    "cell": [
+        [
+            "159",
+            "Norm McLeod",
+            "Left Wing",
+            "Canada",
+            "Toronto Maple Leafs",
+            "Ottawa M&W Rangers (CJHL)"
+        ],
+        [
+            "160",
+            "Angie Moretto",
+            "Centre",
+            "Canada",
+            "California Golden Seals",
+            "University of Michigan (NCAA)"
+        ],
+        [
+            "161",
+            "Russ Wiechnik",
+            "Centre",
+            "Canada",
+            "Minnesota North Stars",
+            "Calgary Centennials (WCHL)"
+        ],
+        [
+            "162",
+            "Greg Fox",
+            "Defence",
+            "Canada",
+            "Atlanta Flames",
+            "University of Michigan (WCHA)"
+        ],
+        [
+            "163",
+            "Max Hansen",
+            "Left Wing",
+            "United States",
+            "Minnesota North Stars",
+            "Sudbury Wolves (OHA)"
+        ],
+        [
+            "164",
+            "Don McLeod",
+            "Centre",
+            "Canada",
+            "Pittsburgh Penguins",
+            "Saskatoon Blades (WCHL)"
+        ],
+        [
+            "165",
+            "Gene Strate",
+            "Defence",
+            "Canada",
+            "Chicago Black Hawks",
+            "Edmonton Oil Kings (WCHL)"
+        ],
+        [
+            "166",
+            "Gord Halliday",
+            "Right Wing",
+            "Canada",
+            "Montreal Canadiens",
+            "University of Pennsylvania (NCAA)"
+        ]
+    ]
+}

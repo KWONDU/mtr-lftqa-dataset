@@ -1,0 +1,70 @@
+{
+    "id": "b9ee49ff60be658600e1d32ae66a0297fcd52c4273f122bb03fb337da0315394",
+    "metadata": "1945 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "12.10 (82)",
+            "South Melbourne",
+            "20.10 (130)",
+            "Glenferrie Oval",
+            "13000",
+            "16 June 1945"
+        ],
+        [
+            "Essendon",
+            "12.20 (92)",
+            "North Melbourne",
+            "18.14 (122)",
+            "Windy Hill",
+            "20000",
+            "16 June 1945"
+        ],
+        [
+            "Collingwood",
+            "13.12 (90)",
+            "Richmond",
+            "8.13 (61)",
+            "Victoria Park",
+            "20000",
+            "16 June 1945"
+        ],
+        [
+            "Carlton",
+            "11.11 (77)",
+            "Footscray",
+            "11.20 (86)",
+            "Princes Park",
+            "20000",
+            "16 June 1945"
+        ],
+        [
+            "St Kilda",
+            "14.17 (101)",
+            "Geelong",
+            "14.12 (96)",
+            "Junction Oval",
+            "7000",
+            "16 June 1945"
+        ],
+        [
+            "Melbourne",
+            "11.15 (81)",
+            "Fitzroy",
+            "14.17 (101)",
+            "Punt Road Oval",
+            "13000",
+            "16 June 1945"
+        ]
+    ]
+}

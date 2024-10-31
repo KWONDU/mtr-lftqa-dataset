@@ -1,0 +1,49 @@
+{
+    "id": "644e5f92f082a48e8e564693c53ea64fd3980695692fb70bedf9d96e8c932d97",
+    "metadata": "British Racing Partnership | As a constructor | As a constructor",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Chassis",
+        "Engines",
+        "Tyres",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1963",
+            "BRP 1",
+            "BRM V8",
+            "D",
+            "6"
+        ],
+        [
+            "1963",
+            "BRP 1",
+            "BRM V8",
+            "D",
+            "6"
+        ],
+        [
+            "1964",
+            "BRP 1 BRP 2",
+            "BRM V8",
+            "D",
+            "5"
+        ],
+        [
+            "1964",
+            "BRP 1 BRP 2",
+            "BRM V8",
+            "D",
+            "5"
+        ],
+        [
+            "1964",
+            "BRP 1 BRP 2",
+            "BRM V8",
+            "D",
+            "5"
+        ]
+    ]
+}

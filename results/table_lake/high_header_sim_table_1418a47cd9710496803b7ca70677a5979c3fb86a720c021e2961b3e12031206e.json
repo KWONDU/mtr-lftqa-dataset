@@ -1,0 +1,70 @@
+{
+    "id": "1418a47cd9710496803b7ca70677a5979c3fb86a720c021e2961b3e12031206e",
+    "metadata": "1975 VFL season | Round 22 | Round 22",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "17.14 (116)",
+            "St Kilda",
+            "8.20 (68)",
+            "MCG",
+            "39275",
+            "30 August 1975"
+        ],
+        [
+            "North Melbourne",
+            "15.19 (109)",
+            "South Melbourne",
+            "12.15 (87)",
+            "Arden Street Oval",
+            "17031",
+            "30 August 1975"
+        ],
+        [
+            "Collingwood",
+            "14.14 (98)",
+            "Melbourne",
+            "15.7 (97)",
+            "Victoria Park",
+            "26940",
+            "30 August 1975"
+        ],
+        [
+            "Hawthorn",
+            "14.19 (103)",
+            "Essendon",
+            "17.8 (110)",
+            "Princes Park",
+            "11945",
+            "30 August 1975"
+        ],
+        [
+            "Footscray",
+            "10.15 (75)",
+            "Carlton",
+            "18.11 (119)",
+            "Western Oval",
+            "21060",
+            "30 August 1975"
+        ],
+        [
+            "Geelong",
+            "18.11 (119)",
+            "Fitzroy",
+            "14.9 (93)",
+            "VFL Park",
+            "11075",
+            "30 August 1975"
+        ]
+    ]
+}

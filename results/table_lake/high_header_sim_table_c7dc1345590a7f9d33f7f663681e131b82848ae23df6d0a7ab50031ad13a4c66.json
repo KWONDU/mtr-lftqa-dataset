@@ -1,0 +1,79 @@
+{
+    "id": "c7dc1345590a7f9d33f7f663681e131b82848ae23df6d0a7ab50031ad13a4c66",
+    "metadata": "Reno Bighorns | Season-By-Season | Season-By-Season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Division",
+        "Finish",
+        "Wins",
+        "Losses",
+        "Pct_"
+    ],
+    "cell": [
+        [
+            "Reno Bighorns",
+            "Reno Bighorns",
+            "Reno Bighorns",
+            "Reno Bighorns",
+            "Reno Bighorns",
+            "Reno Bighorns"
+        ],
+        [
+            "2008-09",
+            "Western",
+            "4th",
+            "25",
+            "25",
+            ".500"
+        ],
+        [
+            "2009-10",
+            "Western",
+            "3rd",
+            "28",
+            "22",
+            ".560"
+        ],
+        [
+            "2010-11",
+            "Western",
+            "1st",
+            "34",
+            "16",
+            ".680"
+        ],
+        [
+            "2011-12",
+            "Western",
+            "7th",
+            "21",
+            "29",
+            ".420"
+        ],
+        [
+            "2012-13",
+            "Western",
+            "5th",
+            "16",
+            "34",
+            ".320"
+        ],
+        [
+            "Regular season",
+            "Regular season",
+            "Regular season",
+            "124",
+            "126",
+            ".496"
+        ],
+        [
+            "Playoffs",
+            "Playoffs",
+            "Playoffs",
+            "3",
+            "5",
+            ".375"
+        ]
+    ]
+}

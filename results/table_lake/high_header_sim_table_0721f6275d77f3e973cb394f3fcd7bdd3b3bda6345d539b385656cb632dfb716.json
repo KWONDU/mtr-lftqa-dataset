@@ -1,0 +1,70 @@
+{
+    "id": "0721f6275d77f3e973cb394f3fcd7bdd3b3bda6345d539b385656cb632dfb716",
+    "metadata": "1960 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "12.21 (93)",
+            "Hawthorn",
+            "9.12 (66)",
+            "Windy Hill",
+            "23000",
+            "16 April 1960"
+        ],
+        [
+            "Collingwood",
+            "11.14 (80)",
+            "Fitzroy",
+            "3.7 (25)",
+            "Victoria Park",
+            "39927",
+            "16 April 1960"
+        ],
+        [
+            "South Melbourne",
+            "17.12 (114)",
+            "St Kilda",
+            "8.15 (63)",
+            "Lake Oval",
+            "28100",
+            "16 April 1960"
+        ],
+        [
+            "Melbourne",
+            "14.15 (99)",
+            "North Melbourne",
+            "5.14 (44)",
+            "MCG",
+            "36766",
+            "18 April 1960"
+        ],
+        [
+            "Footscray",
+            "15.7 (97)",
+            "Geelong",
+            "10.6 (66)",
+            "Western Oval",
+            "24982",
+            "18 April 1960"
+        ],
+        [
+            "Carlton",
+            "14.14 (98)",
+            "Richmond",
+            "14.14 (98)",
+            "Princes Park",
+            "31000",
+            "18 April 1960"
+        ]
+    ]
+}

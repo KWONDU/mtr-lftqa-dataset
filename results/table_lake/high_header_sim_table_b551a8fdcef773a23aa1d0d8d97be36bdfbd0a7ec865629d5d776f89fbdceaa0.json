@@ -1,0 +1,63 @@
+{
+    "id": "b551a8fdcef773a23aa1d0d8d97be36bdfbd0a7ec865629d5d776f89fbdceaa0",
+    "metadata": "Locomotives of the Great Western Railway | Locomotives of amalgamated companies (1854 - 1920) | Port Talbot Railway and Docks Company",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Manufacturer",
+        "Type_",
+        "Quantity",
+        "PTRD_Nos_",
+        "GWR_Nos_"
+    ],
+    "cell": [
+        [
+            "Robert Stephenson & Co.",
+            "0-6-2T",
+            "7",
+            "8-14",
+            "183-187"
+        ],
+        [
+            "Hudswell Clarke",
+            "0-6-0ST",
+            "6",
+            "22-27",
+            "808-809, 811-814"
+        ],
+        [
+            "Robert Stephenson & Co.",
+            "0-6-0ST",
+            "2",
+            "3, 15",
+            "815, 816"
+        ],
+        [
+            "Sharp, Stewart & Co.",
+            "2-4-0T",
+            "1",
+            "37",
+            "1189"
+        ],
+        [
+            "Sharp, Stewart & Co.",
+            "2-4-2T",
+            "1",
+            "36",
+            "1326"
+        ],
+        [
+            "Sharp, Stewart & Co.",
+            "0-8-2T",
+            "3",
+            "17-19",
+            "1358-1360"
+        ],
+        [
+            "Cooke Locomotive & Machine Works",
+            "0-8-2T",
+            "2",
+            "20-21",
+            "1378-1379"
+        ]
+    ]
+}

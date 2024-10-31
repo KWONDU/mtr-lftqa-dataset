@@ -1,0 +1,91 @@
+{
+    "id": "290dff506f75517618a4ebb7905260b989b3a96b889b2fa7cce754f01227008b",
+    "metadata": "Iraqi parliamentary election, 2010 | Candidate Votes | Candidate Votes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Candidate",
+        "Party",
+        "Election_List",
+        "Governorate",
+        "Votes"
+    ],
+    "cell": [
+        [
+            "Nouri al-Maliki",
+            "Islamic Da`awa Party",
+            "State of Law Coalition",
+            "Baghdad",
+            "622961"
+        ],
+        [
+            "Ayad Allawi",
+            "Iraqi National Accord",
+            "al-Iraqiyya",
+            "Baghdad",
+            "407537"
+        ],
+        [
+            "Usama al-Nujayfi",
+            "al-Hadba",
+            "al-Iraqiyya",
+            "Ninawa",
+            "274741"
+        ],
+        [
+            "Tariq al-Hashemi",
+            "Renewal List",
+            "al-Iraqiyya",
+            "Baghdad",
+            "200963"
+        ],
+        [
+            "Ibrahim al-Jaafari",
+            "National Reform Trend",
+            "National Iraqi Alliance",
+            "Baghdad",
+            "101053"
+        ],
+        [
+            "Nawshirwan Mustafa",
+            "Gorran Movement",
+            "Gorran List",
+            "Silemani",
+            "93196"
+        ],
+        [
+            "Rafi al-Issawi",
+            "National Future Gathering",
+            "al-Iraqiyya",
+            "al-Anbar",
+            "83145"
+        ],
+        [
+            "Baqir Jabr al-Zubeidi",
+            "Islamic Supreme Council of Iraq",
+            "National Iraqi Alliance",
+            "Baghdad",
+            "68822"
+        ],
+        [
+            "Khalid Shwani",
+            "Patriotic Union of Kurdistan",
+            "Kurdistani List",
+            "Kerkuk",
+            "68522"
+        ],
+        [
+            "Arshad al-Salihi",
+            "Iraqi Turkmen Front",
+            "al-Iraqiyya",
+            "Kerkuk",
+            "59732"
+        ],
+        [
+            "Ali Bapir",
+            "Islamic Group of Kurdistan",
+            "IGK List",
+            "Hewler",
+            "50116"
+        ]
+    ]
+}

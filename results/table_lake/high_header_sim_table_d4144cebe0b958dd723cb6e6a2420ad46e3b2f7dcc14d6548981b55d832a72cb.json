@@ -1,0 +1,71 @@
+{
+    "id": "d4144cebe0b958dd723cb6e6a2420ad46e3b2f7dcc14d6548981b55d832a72cb",
+    "metadata": "SDS Sigma series | 32-bit systems | 32-bit systems",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Floating_point",
+        "Decimal_",
+        "Byte_string",
+        "Memory_map",
+        "Max_memory_kwords"
+    ],
+    "cell": [
+        [
+            "Sigma 7",
+            "optional",
+            "optional",
+            "standard",
+            "optional",
+            "128"
+        ],
+        [
+            "Sigma 5",
+            "optional",
+            "N/A",
+            "N/A",
+            "N/A",
+            "128"
+        ],
+        [
+            "Sigma 6",
+            "optional",
+            "standard",
+            "standard",
+            "standard",
+            "128"
+        ],
+        [
+            "Sigma 9",
+            "standard",
+            "standard",
+            "standard",
+            "standard",
+            "512"
+        ],
+        [
+            "Sigma 8",
+            "standard",
+            "N/A",
+            "N/A",
+            "N/A",
+            "128"
+        ],
+        [
+            "Sigma 9 model 2",
+            "standard",
+            "standard",
+            "standard",
+            "standard",
+            "256"
+        ],
+        [
+            "Sigma 9 model 3",
+            "standard",
+            "N/A",
+            "N/A",
+            "standard",
+            "512"
+        ]
+    ]
+}

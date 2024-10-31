@@ -1,0 +1,151 @@
+{
+    "id": "48ddafdbf8a2a3a87c3b23258a497b2fb980d1e1e437685281fcd84112a6d3a2",
+    "metadata": "Atlantic Coast Conference men's basketball | Members | Members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Nickname",
+        "Location_",
+        "Founded",
+        "Years_in_the_ACC",
+        "School_Type",
+        "Enrollment"
+    ],
+    "cell": [
+        [
+            "Boston College",
+            "Eagles",
+            "Chestnut Hill, Massachusetts",
+            "1863",
+            "2005-present",
+            "Private/ Catholic ( Jesuit )",
+            "14500"
+        ],
+        [
+            "Clemson",
+            "Tigers",
+            "Clemson, South Carolina",
+            "1889",
+            "1953-present",
+            "Public",
+            "17165"
+        ],
+        [
+            "Duke",
+            "Blue Devils",
+            "Durham, North Carolina",
+            "1838",
+            "1953-present",
+            "Private/Nonsectarian",
+            "6247"
+        ],
+        [
+            "Florida State",
+            "Seminoles",
+            "Tallahassee, Florida",
+            "1851",
+            "1991-present",
+            "Public ( State University System of Florida )",
+            "38886"
+        ],
+        [
+            "Georgia Tech",
+            "Yellow Jackets",
+            "Atlanta, Georgia",
+            "1885",
+            "1978-present",
+            "Public ( University System of Georgia )",
+            "19393"
+        ],
+        [
+            "Maryland",
+            "Terrapins",
+            "College Park, Maryland",
+            "1856",
+            "1953-Present",
+            "Public ( University System of Maryland )",
+            "35329"
+        ],
+        [
+            "Miami",
+            "Hurricanes",
+            "Coral Gables, Florida",
+            "1925",
+            "2004-present",
+            "Private/Nonsectarian",
+            "15520"
+        ],
+        [
+            "North Carolina",
+            "Tar Heels",
+            "Chapel Hill, North Carolina",
+            "1789",
+            "1953-present",
+            "Public ( University of North Carolina )",
+            "26878"
+        ],
+        [
+            "NC State",
+            "Wolfpack",
+            "Raleigh, North Carolina",
+            "1887",
+            "1953-present",
+            "Public ( University of North Carolina )",
+            "29957"
+        ],
+        [
+            "Notre Dame",
+            "Fighting Irish",
+            "South Bend, Indiana",
+            "1842",
+            "2013",
+            "Private/ Catholic ( Congregation of Holy Cross )",
+            "11733"
+        ],
+        [
+            "Pittsburgh",
+            "Panthers",
+            "Pittsburgh, Pennsylvania",
+            "1787",
+            "2013",
+            "State-related /Nonsectarian",
+            "28823"
+        ],
+        [
+            "Syracuse",
+            "Orange",
+            "Syracuse, New York",
+            "1870",
+            "2013",
+            "Private/Nonsectarian",
+            "20407"
+        ],
+        [
+            "Virginia",
+            "Cavaliers",
+            "Charlottesville, Virginia",
+            "1819",
+            "1953-present",
+            "Public",
+            "20399"
+        ],
+        [
+            "Virginia Tech",
+            "Hokies",
+            "Blacksburg, Virginia",
+            "1872",
+            "2004-present",
+            "Public",
+            "28000"
+        ],
+        [
+            "Wake Forest",
+            "Demon Deacons",
+            "Winston-Salem, North Carolina",
+            "1834",
+            "1953-present",
+            "Private/Nonsectarian",
+            "6451"
+        ]
+    ]
+}

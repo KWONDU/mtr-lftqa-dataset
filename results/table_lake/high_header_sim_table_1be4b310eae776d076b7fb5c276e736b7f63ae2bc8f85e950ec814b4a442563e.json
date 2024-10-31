@@ -1,0 +1,77 @@
+{
+    "id": "1be4b310eae776d076b7fb5c276e736b7f63ae2bc8f85e950ec814b4a442563e",
+    "metadata": "Premier League (Iceland) | Player of the Year | Player of the Year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Player",
+        "Position_",
+        "Nationality",
+        "Team"
+    ],
+    "cell": [
+        [
+            "2003-04",
+            "Darrell Lewis",
+            "Guard",
+            "USA / Iceland",
+            "Grindav\u00edk"
+        ],
+        [
+            "2004-05",
+            "Joshua Helm",
+            "Forward",
+            "USA",
+            "KF\u00cd"
+        ],
+        [
+            "2005-06",
+            "A.J. Moye",
+            "Guard",
+            "USA",
+            "Keflav\u00edk"
+        ],
+        [
+            "2006-07",
+            "Darrell Flake",
+            "Forward",
+            "USA / Iceland",
+            "Skallagr\u00edmur"
+        ],
+        [
+            "2007-08",
+            "Darrell Flake",
+            "Forward",
+            "USA / Iceland",
+            "Skallagr\u00edmur"
+        ],
+        [
+            "2008-09",
+            "Jon Stefansson",
+            "Guard",
+            "Iceland",
+            "KR"
+        ],
+        [
+            "2009-10",
+            "Hlynur Baeringsson",
+            "Forward",
+            "Iceland",
+            "Sn\u00e6fell"
+        ],
+        [
+            "2010-11",
+            "Marcus Walker",
+            "Guard",
+            "USA",
+            "KR"
+        ],
+        [
+            "2011-12",
+            "J`Nathan Bullock",
+            "Forward",
+            "USA",
+            "Grindav\u00edk"
+        ]
+    ]
+}

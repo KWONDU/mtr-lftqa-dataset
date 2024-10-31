@@ -1,0 +1,103 @@
+{
+    "id": "8f1044d1b8e2f515698f7e666cffe75bba1cb716f0d6662a7cc9752c308103cd",
+    "metadata": "2007 FedEx Cup Playoffs | The Barclays | The Barclays",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Points",
+        "Winnings_"
+    ],
+    "cell": [
+        [
+            "Steve Stricker",
+            "United States",
+            "67-67-65-69=268",
+            "-16",
+            "9000",
+            "1260000"
+        ],
+        [
+            "K.J. Choi",
+            "South Korea",
+            "64-66-70-70=270",
+            "-14",
+            "5400",
+            "756000"
+        ],
+        [
+            "Rory Sabbatini",
+            "South Africa",
+            "63-71-69-68=271",
+            "-13",
+            "3400",
+            "476000"
+        ],
+        [
+            "Mark Calcavecchia",
+            "United States",
+            "67-75-65-65=272",
+            "-12",
+            "2067",
+            "289333"
+        ],
+        [
+            "Ernie Els",
+            "South Africa",
+            "65-71-68-68=272",
+            "-12",
+            "2067",
+            "289333"
+        ],
+        [
+            "Geoff Ogilvy",
+            "Australia",
+            "68-66-69-69=272",
+            "-12",
+            "2067",
+            "289333"
+        ],
+        [
+            "Rich Beem",
+            "United States",
+            "64-68-69-72=273",
+            "-11",
+            "1613",
+            "225750"
+        ],
+        [
+            "Phil Mickelson",
+            "United States",
+            "67-70-69-67=273",
+            "-11",
+            "1613",
+            "225750"
+        ],
+        [
+            "Robert Garrigus",
+            "United States",
+            "70-70-68-66=274",
+            "-10",
+            "1350",
+            "189000"
+        ],
+        [
+            "Jerry Kelly",
+            "United States",
+            "67-70-69-68=274",
+            "-10",
+            "1350",
+            "189000"
+        ],
+        [
+            "Ian Poulter",
+            "England",
+            "70-67-70-67=274",
+            "-10",
+            "1350",
+            "189000"
+        ]
+    ]
+}

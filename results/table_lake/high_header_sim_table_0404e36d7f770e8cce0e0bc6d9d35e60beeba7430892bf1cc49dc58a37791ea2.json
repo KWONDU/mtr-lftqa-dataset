@@ -1,0 +1,55 @@
+{
+    "id": "0404e36d7f770e8cce0e0bc6d9d35e60beeba7430892bf1cc49dc58a37791ea2",
+    "metadata": "Raison (cigarette) | Lineup | Lineup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Size_",
+        "Price",
+        "Quantity",
+        "Released",
+        "Nicotine"
+    ],
+    "cell": [
+        [
+            "RAISON Blue",
+            "King",
+            "2500 won",
+            "20",
+            "Aug 19, 2002",
+            "0.30"
+        ],
+        [
+            "RAISON Green(Menthol)",
+            "King",
+            "2500 won",
+            "20",
+            "Oct 13, 2003",
+            "0.30"
+        ],
+        [
+            "RAISON Black",
+            "King",
+            "2500 won",
+            "20",
+            "May 10, 2006",
+            "0.10"
+        ],
+        [
+            "RAISON Red",
+            "King",
+            "2500 won",
+            "20",
+            "Feb 7, 2007",
+            "0.50"
+        ],
+        [
+            "RAISON Cafe",
+            "King",
+            "2500 won",
+            "20",
+            "July 6, 2012",
+            "0.50"
+        ]
+    ]
+}

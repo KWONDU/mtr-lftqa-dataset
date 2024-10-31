@@ -1,0 +1,87 @@
+{
+    "id": "bd605efc9d83146fd4a7e2fbe31151c66e1c514a8d89e4ae578666d1082384ac",
+    "metadata": "1991 PGA Championship | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Raymond Floyd",
+            "United States",
+            "1969 , 1982",
+            "284",
+            "-4",
+            "T7"
+        ],
+        [
+            "Hal Sutton",
+            "United States",
+            "1983",
+            "284",
+            "-4",
+            "T7"
+        ],
+        [
+            "Payne Stewart",
+            "United States",
+            "1989",
+            "285",
+            "-3",
+            "T13"
+        ],
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1963 , 1971 , 1973 1975 , 1980",
+            "287",
+            "-1",
+            "T23"
+        ],
+        [
+            "Wayne Grady",
+            "Australia",
+            "1990",
+            "290",
+            "+2",
+            "T43"
+        ],
+        [
+            "Lanny Wadkins",
+            "United States",
+            "1977",
+            "290",
+            "+2",
+            "T43"
+        ],
+        [
+            "David Graham",
+            "Australia",
+            "1979",
+            "292",
+            "+4",
+            "T52"
+        ],
+        [
+            "Jeff Sluman",
+            "United States",
+            "1988",
+            "294",
+            "+6",
+            "T61"
+        ],
+        [
+            "Bob Tway",
+            "United States",
+            "1986",
+            "296",
+            "+8",
+            "T66"
+        ]
+    ]
+}

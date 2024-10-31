@@ -1,0 +1,55 @@
+{
+    "id": "0cab687e022b96417329bb8da3cbca475aae7e6415d4fdd17e01d400700ac2b5",
+    "metadata": "Clare Hall Boat Club | Women | Women",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Finish_position",
+        "_1st_day",
+        "_2nd_day",
+        "_3rd_day",
+        "_4th_Day"
+    ],
+    "cell": [
+        [
+            "2008",
+            "62nd",
+            "bumped Newnham",
+            "bumped Fitzwilliam",
+            "bumped Robinson",
+            "bumped Addenbrooke`s"
+        ],
+        [
+            "2009",
+            "55th",
+            "bumped Queens`",
+            "bumped Homerton",
+            "bumped Murray Edwards",
+            "bumped 1st & 3rd Trinity"
+        ],
+        [
+            "2010",
+            "50th",
+            "bumped Churchill",
+            "bumped Newnham",
+            "bumped Darwin",
+            "bumped Anglia Ruskin"
+        ],
+        [
+            "2011",
+            "48th",
+            "bumped Jesus",
+            "bumped St Edmund`s",
+            "bumped Emmanuel",
+            "bumped by Emmanuel"
+        ],
+        [
+            "2012",
+            "50th",
+            "rowed-over",
+            "bumped by Murray Edwards",
+            "bumped by Newnham",
+            "rowed-over"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "3daf20c93cb892eb273bcc01fe79bbff030d01fb65299aaeafc530a5660445d2",
+    "metadata": "1992 Toronto Blue Jays season | Game log | October",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "October 17",
+            "@ Braves",
+            "3 - 1",
+            "Morris (0-1)",
+            "51763",
+            "0-1"
+        ],
+        [
+            "October 18",
+            "@ Braves",
+            "5 - 4",
+            "Reardon (0-1)",
+            "51763",
+            "1-1"
+        ],
+        [
+            "October 20",
+            "Braves",
+            "3 - 2",
+            "Avery (0-1)",
+            "51813",
+            "2-1"
+        ],
+        [
+            "October 21",
+            "Braves",
+            "2 - 1",
+            "Glavine (1-1)",
+            "52090",
+            "3-1"
+        ],
+        [
+            "October 22",
+            "Braves",
+            "7 - 2",
+            "Morris (0-2)",
+            "52268",
+            "3-2"
+        ],
+        [
+            "October 24",
+            "@ Braves",
+            "4 - 3 (11)",
+            "Leibrandt (0-1)",
+            "51763",
+            "4-2"
+        ]
+    ]
+}

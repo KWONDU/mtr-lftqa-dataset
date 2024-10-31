@@ -1,0 +1,49 @@
+{
+    "id": "a9e5033be855340549e8596aaebcd0360a59b7b8ae494f0cb97f7bb54ab61d93",
+    "metadata": "St. Louis Steamers (1998-2006) | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "League",
+        "Reg_Season",
+        "Playoffs",
+        "Avg_attendance"
+    ],
+    "cell": [
+        [
+            "2000",
+            "WISL",
+            "5th WISL, 9-15",
+            "Lost Semifinal",
+            "5398"
+        ],
+        [
+            "2001",
+            "WISL",
+            "3rd WISL, 11-13",
+            "Lost Semifinal",
+            "4812"
+        ],
+        [
+            "2003-04",
+            "MISL",
+            "3rd Central, 14-22",
+            "Failed to qualify",
+            "3483"
+        ],
+        [
+            "2004-05",
+            "MISL",
+            "4th MISL, 20-20",
+            "Lost Semifinal",
+            "4794"
+        ],
+        [
+            "2005-06",
+            "MISL",
+            "1st MISL, 23-7",
+            "Lost Championship",
+            "5675"
+        ]
+    ]
+}

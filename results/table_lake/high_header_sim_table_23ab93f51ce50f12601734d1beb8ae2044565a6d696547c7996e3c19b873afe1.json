@@ -1,0 +1,103 @@
+{
+    "id": "23ab93f51ce50f12601734d1beb8ae2044565a6d696547c7996e3c19b873afe1",
+    "metadata": "Golden Gate Transit | Historical fleet | Historical fleet",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Make",
+        "Year_placed_in_service",
+        "Quantity",
+        "Number_of_seats",
+        "Wheelchair_accessible_",
+        "Current_status"
+    ],
+    "cell": [
+        [
+            "GM  New Look",
+            "1971, 1972",
+            "132",
+            "45",
+            "No",
+            "Retired; one bus retained for historical purposes"
+        ],
+        [
+            "GM Advanced Design",
+            "1981",
+            "16",
+            "43",
+            "Yes",
+            "Retired"
+        ],
+        [
+            "GM Advanced Design",
+            "1983",
+            "50",
+            "41",
+            "Yes",
+            "Retired"
+        ],
+        [
+            "Gillig",
+            "1986",
+            "4",
+            "26",
+            "Yes",
+            "Retired"
+        ],
+        [
+            "MCI",
+            "1987",
+            "21",
+            "45",
+            "Yes",
+            "Retired"
+        ],
+        [
+            "TMC",
+            "1990",
+            "48",
+            "39",
+            "Yes",
+            "Retired"
+        ],
+        [
+            "TMC",
+            "1991",
+            "49",
+            "40",
+            "Yes",
+            "Retired (26), reserve fleet (10), for sale (13)"
+        ],
+        [
+            "Flxible",
+            "1994",
+            "40",
+            "45",
+            "Yes",
+            "Retired"
+        ],
+        [
+            "MCI",
+            "1996, 1997",
+            "32",
+            "57",
+            "Yes",
+            "For sale (21), unknown (11)"
+        ],
+        [
+            "NovaBus",
+            "1997",
+            "10",
+            "43",
+            "Yes",
+            "Retired"
+        ],
+        [
+            "New Flyer",
+            "2003\u2020",
+            "8",
+            "62",
+            "Yes",
+            "Retired"
+        ]
+    ]
+}

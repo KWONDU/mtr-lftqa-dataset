@@ -1,0 +1,151 @@
+{
+    "id": "341a431acaee8596d11f144451eea4dca45a68397e55045485f8891d9923010d",
+    "metadata": "2007-08 Washington Capitals season | November | November",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "November 1",
+            "Washington",
+            "0 - 2",
+            "NY Rangers",
+            "Kolzig",
+            "18200",
+            "5-7-0"
+        ],
+        [
+            "November 2",
+            "Philadelphia",
+            "3 - 2",
+            "Washington",
+            "Kolzig",
+            "16055",
+            "5-8-0"
+        ],
+        [
+            "November 5",
+            "Washington",
+            "0 - 5",
+            "Carolina",
+            "Kolzig",
+            "12171",
+            "5-9-0"
+        ],
+        [
+            "November 6",
+            "Washington",
+            "1 - 2",
+            "Atlanta",
+            "Johnson",
+            "15530",
+            "5-9-1"
+        ],
+        [
+            "November 8",
+            "Washington",
+            "4 - 1",
+            "Ottawa",
+            "Kolzig",
+            "19666",
+            "6-9-1"
+        ],
+        [
+            "November 10",
+            "Tampa Bay",
+            "5 - 2",
+            "Washington",
+            "Kolzig",
+            "14617",
+            "6-10-1"
+        ],
+        [
+            "November 15",
+            "Washington",
+            "1 - 2",
+            "Florida",
+            "Kolzig",
+            "12101",
+            "6-11-1"
+        ],
+        [
+            "November 16",
+            "Washington",
+            "2 - 5",
+            "Tampa Bay",
+            "Kolzig",
+            "19526",
+            "6-12-1"
+        ],
+        [
+            "November 19",
+            "Florida",
+            "4 - 3",
+            "Washington",
+            "Kolzig",
+            "13411",
+            "6-13-1"
+        ],
+        [
+            "November 21",
+            "Atlanta",
+            "5 - 1",
+            "Washington",
+            "Kolzig",
+            "11669",
+            "6-14-1"
+        ],
+        [
+            "November 23",
+            "Washington",
+            "4 - 3",
+            "Philadelphia",
+            "Kolzig",
+            "19727",
+            "7-14-1"
+        ],
+        [
+            "November 24",
+            "Carolina",
+            "2 - 5",
+            "Washington",
+            "Kolzig",
+            "13650",
+            "8-14-1"
+        ],
+        [
+            "November 26",
+            "Buffalo",
+            "3 - 1",
+            "Washington",
+            "Kolzig",
+            "11204",
+            "8-15-1"
+        ],
+        [
+            "November 28",
+            "Florida",
+            "2 - 1",
+            "Washington",
+            "Kolzig",
+            "10526",
+            "8-15-2"
+        ],
+        [
+            "November 30",
+            "Washington",
+            "3 - 4",
+            "Carolina",
+            "Kolzig",
+            "16386",
+            "8-16-2"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "42c4699215b6a8b94b0251c5d3fbafd2e7e1caa275d3bf3254f0f537d7ebe07a",
+    "metadata": "1979 VFL season | Round 12 | Round 12",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "25.16 (166)",
+            "South Melbourne",
+            "16.14 (110)",
+            "MCG",
+            "21216",
+            "23 June 1979"
+        ],
+        [
+            "Hawthorn",
+            "19.18 (132)",
+            "St Kilda",
+            "13.15 (93)",
+            "Princes Park",
+            "13176",
+            "23 June 1979"
+        ],
+        [
+            "Footscray",
+            "18.12 (120)",
+            "Melbourne",
+            "11.15 (81)",
+            "Western Oval",
+            "14308",
+            "23 June 1979"
+        ],
+        [
+            "Essendon",
+            "15.11 (101)",
+            "North Melbourne",
+            "6.18 (54)",
+            "Windy Hill",
+            "30795",
+            "23 June 1979"
+        ],
+        [
+            "Geelong",
+            "15.17 (107)",
+            "Carlton",
+            "14.17 (101)",
+            "Kardinia Park",
+            "29941",
+            "23 June 1979"
+        ],
+        [
+            "Fitzroy",
+            "17.20 (122)",
+            "Collingwood",
+            "11.14 (80)",
+            "VFL Park",
+            "56975",
+            "23 June 1979"
+        ]
+    ]
+}

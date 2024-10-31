@@ -1,0 +1,91 @@
+{
+    "id": "734b48af8e42466793d5824e0154f6975f6f95d589391235c03765409628992b",
+    "metadata": "Integrated Guided Missile Development Program | Agni missile system | Agni missile system",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Missile",
+        "Project",
+        "Type_",
+        "Warhead",
+        "Payload_kg",
+        "Range_km",
+        "Dimension_m",
+        "Fuel_Stages",
+        "Weight_kg",
+        "In_service"
+    ],
+    "cell": [
+        [
+            "Agni-I",
+            "IGMDP",
+            "Strategic",
+            "Nuclear, HE, penetration, sub-munitions, FAE",
+            "1000",
+            "700-1,250",
+            "15X1",
+            "Single stage solid",
+            "12000",
+            "2002"
+        ],
+        [
+            "Agni-II",
+            "IGMDP",
+            "Strategic",
+            "Nuclear, HE, penetration, sub-munitions, FAE",
+            "750-1,000",
+            "2,000-3,500",
+            "20X1",
+            "Two and half stage solid",
+            "16000",
+            "1999"
+        ],
+        [
+            "Agni-III",
+            "IGMDP",
+            "Strategic",
+            "Nuclear, HE, penetration, sub-munitions, FAE",
+            "2,000-2,500",
+            "3,500-5,000",
+            "17X2",
+            "Two stage solid",
+            "44,000 22,000 (latest version)",
+            "2011"
+        ],
+        [
+            "Agni-IV",
+            "Agni-IV",
+            "Strategic",
+            "Nuclear, HE, penetration, sub-munitions, FAE",
+            "800-1,000",
+            "3,000-4,000",
+            "20X1",
+            "Two stage solid",
+            "17000",
+            "Tested"
+        ],
+        [
+            "Agni-V",
+            "Agni-V",
+            "Strategic",
+            "Nuclear, HE, penetration, sub-munitions, FAE",
+            "1,500 (3-10 MIRV)",
+            "5,500-5,800",
+            "17X2",
+            "Three Stage solid",
+            "50000",
+            "Tested"
+        ],
+        [
+            "Agni-VI",
+            "Agni-VI",
+            "Strategic",
+            "Nuclear, HE, penetration, sub-munitions, FAE",
+            "1,000 (10 MIRV)",
+            "8,000 - 10,000",
+            "40X1.1",
+            "Three Stage solid",
+            "55000",
+            "Under development"
+        ]
+    ]
+}

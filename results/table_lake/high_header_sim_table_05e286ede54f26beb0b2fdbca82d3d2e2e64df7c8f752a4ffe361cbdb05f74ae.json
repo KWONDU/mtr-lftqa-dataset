@@ -1,0 +1,135 @@
+{
+    "id": "05e286ede54f26beb0b2fdbca82d3d2e2e64df7c8f752a4ffe361cbdb05f74ae",
+    "metadata": "Turkish Airlines | Incidents and accidents | Turkish Airlines Reported Incidents and Accidents",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Flight",
+        "Aircraft",
+        "Registration",
+        "Location_",
+        "Fatalities"
+    ],
+    "cell": [
+        [
+            "17 February 1959",
+            "N/A",
+            "Vickers Viscount Type 793",
+            "TC-SEV",
+            "London",
+            "14"
+        ],
+        [
+            "23 September 1961",
+            "100",
+            "Fokker F27-100",
+            "TC-TAY",
+            "Ankara",
+            "28"
+        ],
+        [
+            "8 March 1962",
+            "N/A",
+            "Fairchild F-27",
+            "TC-KOP",
+            "Adana",
+            "11"
+        ],
+        [
+            "3 February 1964",
+            "N/A",
+            "Douglas C-47",
+            "TC-ETI",
+            "Ankara",
+            "3"
+        ],
+        [
+            "2 February 1969",
+            "N/A",
+            "Vickers Viscount Type 794",
+            "TC-SET",
+            "Ankara",
+            "0"
+        ],
+        [
+            "26 January 1974",
+            "N/A",
+            "Fokker F28-1000",
+            "TC-JAO",
+            "Izmir",
+            "66"
+        ],
+        [
+            "3 March 1974",
+            "981",
+            "McDonnell Douglas DC-10",
+            "TC-JAV",
+            "Fontaine-Chaalis , Oise",
+            "346"
+        ],
+        [
+            "30 January 1975",
+            "345",
+            "Fokker F28-1000",
+            "TC-JAP",
+            "Istanbul",
+            "42"
+        ],
+        [
+            "19 September 1976",
+            "452",
+            "Boeing 727",
+            "TC-JBH",
+            "Isparta",
+            "154"
+        ],
+        [
+            "23 December 1979",
+            "N/A",
+            "Fokker F28-1000",
+            "TC-JAT",
+            "Ankara",
+            "41"
+        ],
+        [
+            "16 January 1983",
+            "158",
+            "Boeing 727",
+            "TC-JBR",
+            "Ankara",
+            "47"
+        ],
+        [
+            "29 December 1994",
+            "278",
+            "Boeing 737",
+            "TC-JES",
+            "Van",
+            "57"
+        ],
+        [
+            "7 April 1999",
+            "5904",
+            "Boeing 737",
+            "TC-JEP",
+            "Ceyhan",
+            "6"
+        ],
+        [
+            "8 January 2003",
+            "634",
+            "Avro RJ-100",
+            "TC-THG",
+            "Diyarbak\u0131r",
+            "75"
+        ],
+        [
+            "25 February 2009",
+            "1951",
+            "Boeing 737",
+            "TC-JGE",
+            "Amsterdam",
+            "9"
+        ]
+    ]
+}

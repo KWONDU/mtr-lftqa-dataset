@@ -1,0 +1,56 @@
+{
+    "id": "62be8c920066f67c99262c480e5247a69227076a11575d5d75ef77f113f1881e",
+    "metadata": "Polyphenyl ether | Physical properties of PPEs | Table 2: Physical Properties of Polyphenyl Ethers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Polyphenyl_Ether",
+        "Appearance",
+        "Thermal_Stability_F_C",
+        "Viscosity_cSt_at_100_F_38_C",
+        "Viscosity_cSt_at_210_F_99_C"
+    ],
+    "cell": [
+        [
+            "6-Ring 6P5E",
+            "Clear Liquid",
+            "836 (447)",
+            "2000",
+            "25"
+        ],
+        [
+            "5-Ring 5P4E",
+            "Clear Liquid",
+            "847 (453)",
+            "360",
+            "13"
+        ],
+        [
+            "4-Ring 4P3E",
+            "Clear Liquid",
+            "825 (441)",
+            "70",
+            "6"
+        ],
+        [
+            "3- and 4-Ring Oxythio",
+            "Hazy Liquid",
+            "693 (367)",
+            "25",
+            "4"
+        ],
+        [
+            "3-Ring 3P2E",
+            "Solid",
+            "800 (427)",
+            "12",
+            "3"
+        ],
+        [
+            "2-Ring 2P1E",
+            "Solid",
+            ">600 (316)",
+            "2.4",
+            "1.6"
+        ]
+    ]
+}

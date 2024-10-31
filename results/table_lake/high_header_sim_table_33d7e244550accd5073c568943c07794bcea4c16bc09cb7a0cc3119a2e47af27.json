@@ -1,0 +1,70 @@
+{
+    "id": "33d7e244550accd5073c568943c07794bcea4c16bc09cb7a0cc3119a2e47af27",
+    "metadata": "Oulu Airport | Statistics | Annual passenger statistics for Oulu Airport",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Domestic_passengers",
+        "International_passengers",
+        "Total_passengers",
+        "Change_"
+    ],
+    "cell": [
+        [
+            "2006",
+            "764831",
+            "83115",
+            "847946",
+            "+4.6%"
+        ],
+        [
+            "2007",
+            "764674",
+            "75276",
+            "839950",
+            "\u22120.9%"
+        ],
+        [
+            "2008",
+            "709779",
+            "92176",
+            "801955",
+            "\u22124.5%"
+        ],
+        [
+            "2009",
+            "605534",
+            "82424",
+            "687958",
+            "\u221214.3%"
+        ],
+        [
+            "2010",
+            "595457",
+            "105119",
+            "700576",
+            "+1.7%"
+        ],
+        [
+            "2011",
+            "850305",
+            "123607",
+            "973912",
+            "+39.1%"
+        ],
+        [
+            "2012",
+            "899 854",
+            "178679",
+            "1078533",
+            "+10.7%"
+        ],
+        [
+            "2013",
+            "745178",
+            "131902",
+            "877080",
+            "-18.7%"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "ef79956ee9175505e106b8bdf8b8ae6d9d36af7ccc2c26495de6a83ae1d230c1",
+    "metadata": "Minnesota Golden Gophers football under Clarence Spears | Schedule | 1928",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent_",
+        "Site",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "10/06/1928",
+            "Creighton",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W40-0",
+            "20000"
+        ],
+        [
+            "10/13/1928",
+            "Purdue",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W15-0",
+            "25000"
+        ],
+        [
+            "10/20/1928",
+            "Chicago",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W33-7",
+            "58000"
+        ],
+        [
+            "10/27/1928",
+            "at Iowa",
+            "Iowa Field \u2022 Iowa City, IA",
+            "L6-7",
+            "30000"
+        ],
+        [
+            "11/03/1928",
+            "at Northwestern",
+            "Dyche Stadium \u2022 Evanston, IL",
+            "L9-10",
+            "45000"
+        ],
+        [
+            "11/10/1928",
+            "Indiana",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W21-12",
+            "25000"
+        ],
+        [
+            "11/17/1928",
+            "Haskell",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W52-0",
+            "20000"
+        ],
+        [
+            "11/24/1928",
+            "at Wisconsin",
+            "Camp Randall Stadium \u2022 Madison, WI",
+            "W6-0",
+            "10000"
+        ],
+        [
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming."
+        ]
+    ]
+}

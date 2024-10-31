@@ -1,0 +1,70 @@
+{
+    "id": "658e534bf697ceb53dd5c7dffa2ee15e1acbb33b0afd9946a29d923b88da6b61",
+    "metadata": "1963 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "10.12 (72)",
+            "St Kilda",
+            "3.11 (29)",
+            "Kardinia Park",
+            "33084",
+            "18 May 1963"
+        ],
+        [
+            "Footscray",
+            "8.9 (57)",
+            "Hawthorn",
+            "11.10 (76)",
+            "Western Oval",
+            "22251",
+            "18 May 1963"
+        ],
+        [
+            "Collingwood",
+            "15.10 (100)",
+            "Melbourne",
+            "7.10 (52)",
+            "Victoria Park",
+            "30121",
+            "18 May 1963"
+        ],
+        [
+            "South Melbourne",
+            "17.11 (113)",
+            "North Melbourne",
+            "11.9 (75)",
+            "Lake Oval",
+            "14900",
+            "18 May 1963"
+        ],
+        [
+            "Fitzroy",
+            "6.15 (51)",
+            "Essendon",
+            "16.16 (112)",
+            "Brunswick Street Oval",
+            "15504",
+            "18 May 1963"
+        ],
+        [
+            "Richmond",
+            "11.9 (75)",
+            "Carlton",
+            "11.11 (77)",
+            "Punt Road Oval",
+            "25400",
+            "18 May 1963"
+        ]
+    ]
+}

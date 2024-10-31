@@ -1,0 +1,61 @@
+{
+    "id": "2ba9c0847100af67e59a79950f08eedd64509421fb647845b30120f7698026b0",
+    "metadata": "New York City mayoral elections | 1961 | 1961",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "_1961_Democratic_primary",
+        "Manhattan",
+        "The_Bronx",
+        "Brooklyn",
+        "Queens",
+        "Richmond_Staten_Is_",
+        "Total"
+    ],
+    "cell": [
+        [
+            "Robert F. Wagner, Jr.",
+            "122607",
+            "78626",
+            "136440",
+            "102845",
+            "15498",
+            "456016"
+        ],
+        [
+            "Robert F. Wagner, Jr.",
+            "65%",
+            "62%",
+            "57%",
+            "62%",
+            "60%",
+            "456016"
+        ],
+        [
+            "Arthur Levitt",
+            "66917",
+            "47885",
+            "103296",
+            "64157",
+            "10471",
+            "292726"
+        ],
+        [
+            "Arthur Levitt",
+            "35%",
+            "38%",
+            "43%",
+            "38%",
+            "40%",
+            "292726"
+        ],
+        [
+            "subtotal (for Wagner and Levitt only)",
+            "189524",
+            "126511",
+            "239736",
+            "167002",
+            "25969",
+            "748742"
+        ]
+    ]
+}

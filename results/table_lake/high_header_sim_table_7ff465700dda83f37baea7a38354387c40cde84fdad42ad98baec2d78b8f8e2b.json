@@ -1,0 +1,91 @@
+{
+    "id": "7ff465700dda83f37baea7a38354387c40cde84fdad42ad98baec2d78b8f8e2b",
+    "metadata": "Westmorland County, New Brunswick | Census subdivisions | Communities",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Official_Name",
+        "Designation",
+        "Area_km2",
+        "Population",
+        "Parish_"
+    ],
+    "cell": [
+        [
+            "Moncton",
+            "City",
+            "141.17",
+            "69074",
+            "Moncton"
+        ],
+        [
+            "Dieppe",
+            "City",
+            "51.17",
+            "23310",
+            "Moncton"
+        ],
+        [
+            "Beaubassin East",
+            "Rural community",
+            "291.04",
+            "6200",
+            "Shediac"
+        ],
+        [
+            "Shediac",
+            "Town",
+            "11.97",
+            "6053",
+            "Shediac"
+        ],
+        [
+            "Sackville",
+            "Town",
+            "74.32",
+            "5558",
+            "Sackville"
+        ],
+        [
+            "Memramcook",
+            "Village",
+            "185.71",
+            "4831",
+            "Dorchester"
+        ],
+        [
+            "Cap-Pel\u00e9",
+            "Village",
+            "23.78",
+            "2256",
+            "Botsford"
+        ],
+        [
+            "Salisbury",
+            "Village",
+            "13.68",
+            "2208",
+            "Salisbury"
+        ],
+        [
+            "Petitcodiac",
+            "Village",
+            "17.22",
+            "1429",
+            "Salisbury"
+        ],
+        [
+            "Dorchester",
+            "Village",
+            "5.74",
+            "1167",
+            "Dorchester"
+        ],
+        [
+            "Port Elgin",
+            "Village",
+            "2.61",
+            "418",
+            "Westmorland"
+        ]
+    ]
+}

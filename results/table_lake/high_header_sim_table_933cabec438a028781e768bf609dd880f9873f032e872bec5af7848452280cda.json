@@ -1,0 +1,216 @@
+{
+    "id": "933cabec438a028781e768bf609dd880f9873f032e872bec5af7848452280cda",
+    "metadata": "2009 Rally Ireland | Special stages | Special stages",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Day_",
+        "Stage",
+        "Time_GMT",
+        "Name_",
+        "Length_",
+        "Winner",
+        "Time_",
+        "Avg_spd_",
+        "Rally_leader"
+    ],
+    "cell": [
+        [
+            "1 (30 JAN)",
+            "SS1",
+            "08:13",
+            "Glenboy 1",
+            "22.25km",
+            "Jari-Matti Latvala",
+            "12:44.0",
+            "104.8km/h",
+            "Jari-Matti Latvala"
+        ],
+        [
+            "1 (30 JAN)",
+            "SS2",
+            "09:01",
+            "Cavan 1",
+            "15.09km",
+            "S\u00e9bastien Loeb",
+            "8:31.5",
+            "106.2km/h",
+            "Urmo Aava"
+        ],
+        [
+            "1 (30 JAN)",
+            "SS3",
+            "09:42",
+            "Aughnasheelan 1",
+            "25.19km",
+            "S\u00e9bastien Loeb",
+            "14:35.2",
+            "103.6km/h",
+            "Urmo Aava"
+        ],
+        [
+            "1 (30 JAN)",
+            "SS4",
+            "13:02",
+            "Glenboy 2",
+            "22.25km",
+            "S\u00e9bastien Loeb",
+            "11:37.4",
+            "114.9km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "1 (30 JAN)",
+            "SS5",
+            "13:50",
+            "Cavan 2",
+            "15.09km",
+            "S\u00e9bastien Loeb",
+            "7:40.5",
+            "118.0km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "1 (30 JAN)",
+            "SS6",
+            "14:31",
+            "Aughnasheelan 2",
+            "25.19km",
+            "S\u00e9bastien Loeb",
+            "13:44.6",
+            "110.0km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "1 (30 JAN)",
+            "SS7",
+            "18:54",
+            "Murley",
+            "24.70km",
+            "Stage cancelled",
+            "Stage cancelled",
+            "Stage cancelled",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "1 (30 JAN)",
+            "SS8",
+            "19:39",
+            "Fardross",
+            "14.77km",
+            "Stage cancelled",
+            "Stage cancelled",
+            "Stage cancelled",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "2 (31 JAN)",
+            "SS9",
+            "08:13",
+            "Sloughan Glen 1",
+            "27.76km",
+            "S\u00e9bastien Loeb",
+            "14:43.3",
+            "113.1km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "2 (31 JAN)",
+            "SS10",
+            "09:06",
+            "Ballinamallard 1",
+            "25.46km",
+            "S\u00e9bastien Loeb",
+            "13:02.1",
+            "117.2km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "2 (31 JAN)",
+            "SS11",
+            "09:49",
+            "Tempo 1",
+            "13.46km",
+            "S\u00e9bastien Loeb",
+            "7:33.1",
+            "106.9km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "2 (31 JAN)",
+            "SS12",
+            "13:57",
+            "Sloughan Glen 2",
+            "27.76km",
+            "Mikko Hirvonen",
+            "14:33.9",
+            "114.4km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "2 (31 JAN)",
+            "SS13",
+            "14:50",
+            "Ballinamallard 2",
+            "25.46km",
+            "S\u00e9bastien Loeb",
+            "12:51.4",
+            "118.8km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "2 (31 JAN)",
+            "SS14",
+            "15:33",
+            "Tempo 2",
+            "13.46km",
+            "S\u00e9bastien Loeb",
+            "7:30.1",
+            "107.7km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "3 (1 FEB)",
+            "SS15",
+            "08:35",
+            "Geevagh",
+            "11.48km",
+            "Mikko Hirvonen",
+            "6:11.3",
+            "111.3km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "3 (1 FEB)",
+            "SS16",
+            "09:00",
+            "Arigna",
+            "10.88km",
+            "S\u00e9bastien Loeb",
+            "6:03.6",
+            "107.7km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "3 (1 FEB)",
+            "SS17",
+            "09:51",
+            "Lough Gill",
+            "13.51km",
+            "Mikko Hirvonen",
+            "6:27.0",
+            "125.7km/h",
+            "S\u00e9bastien Loeb"
+        ],
+        [
+            "3 (1 FEB)",
+            "SS18",
+            "12:09",
+            "Donegal Bay",
+            "14.47km",
+            "Mikko Hirvonen",
+            "8:09.7",
+            "106.4km/h",
+            "S\u00e9bastien Loeb"
+        ]
+    ]
+}

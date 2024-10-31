@@ -1,0 +1,97 @@
+{
+    "id": "64d98cfae7827612eee3e84bf177438e67d34b459d8121c4b603fd20d55e9134",
+    "metadata": "2002 Italian Formula Three season | Calendar | Calendar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Circuit",
+        "Date_",
+        "Pole_Position",
+        "Winning_driver",
+        "Winning_team",
+        "Trophy_winner_"
+    ],
+    "cell": [
+        [
+            "1",
+            "ACI Vallelunga Circuit, Campagnano di Roma",
+            "7 April",
+            "Milo\u0161 Pavlovi\u0107",
+            "Milo\u0161 Pavlovi\u0107",
+            "Target Racing",
+            "Nino Fam\u00e0"
+        ],
+        [
+            "2",
+            "Misano World Circuit",
+            "28 April",
+            "Milo\u0161 Pavlovi\u0107",
+            "Milo\u0161 Pavlovi\u0107",
+            "Target Racing",
+            "Giovanni Faraonio"
+        ],
+        [
+            "3",
+            "Autodromo di Pergusa, Enna",
+            "19 May",
+            "Milo\u0161 Pavlovi\u0107",
+            "Philip Cloostermans",
+            "Azeta Racing",
+            "Carmine Tancredi"
+        ],
+        [
+            "4",
+            "Autodromo Nazionale Monza",
+            "30 June",
+            "Philip Cloostermans",
+            "Philip Cloostermans",
+            "Azeta Racing",
+            "Carmine Tancredi"
+        ],
+        [
+            "5",
+            "Autodromo Riccardo Paletti, Varano",
+            "21 July",
+            "Milo\u0161 Pavlovi\u0107",
+            "Milo\u0161 Pavlovi\u0107",
+            "Target Racing",
+            "Carmine Tancredi"
+        ],
+        [
+            "6",
+            "Autodromo Enzo e Dino Ferrari, Imola",
+            "1 September",
+            "Vitantonio Liuzzi",
+            "Vitantonio Liuzzi",
+            "Bertram Sch\u00e4fer Racing",
+            "Silvio Alberti"
+        ],
+        [
+            "7",
+            "Autodromo del Levante, Binetto",
+            "8 September",
+            "Christiano Citron",
+            "Milo\u0161 Pavlovi\u0107",
+            "Target Racing",
+            "Carmine Tancredi"
+        ],
+        [
+            "8",
+            "Mugello Circuit, Scarperia",
+            "6 October",
+            "Milo\u0161 Pavlovi\u0107",
+            "Milo\u0161 Pavlovi\u0107",
+            "Target Racing",
+            "Dino Lusuardi"
+        ],
+        [
+            "9",
+            "Autodromo dell`Umbria, Magione",
+            "20 October",
+            "Andreas Zuber",
+            "Christiano Citron",
+            "Target Racing",
+            "Alberto Morelli"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "b015855fed95159334cdc1b2db69358c02b0b1497675020450ba98133ee10a3b",
+    "metadata": "Benin national football team | Recent results and forthcoming fixtures | Recent results and forthcoming fixtures",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Location_",
+        "Opponent",
+        "Score",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "3 June 2012",
+            "Cotonou",
+            "Mali",
+            "1-0",
+            "2014 World Cup qualification"
+        ],
+        [
+            "10 June 2012",
+            "Kigali",
+            "Rwanda",
+            "1-1",
+            "2014 World Cup qualification"
+        ],
+        [
+            "17 June 2012",
+            "Benin",
+            "Ethiopia",
+            "1-1",
+            "2013 ACN qualification"
+        ],
+        [
+            "26 March 2013",
+            "Blida",
+            "Algeria",
+            "1-3",
+            "2014 World Cup qualification"
+        ],
+        [
+            "9 June 2013",
+            "Porto-Novo",
+            "Algeria",
+            "1-3",
+            "2014 World Cup qualification"
+        ],
+        [
+            "16 June 2013",
+            "Bamako",
+            "Mali",
+            "2-2",
+            "2014 World Cup qualification"
+        ],
+        [
+            "8 September 2013",
+            "Porto-Novo",
+            "Rwanda",
+            "2-0",
+            "2014 World Cup qualification"
+        ]
+    ]
+}

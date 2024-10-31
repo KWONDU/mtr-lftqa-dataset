@@ -1,0 +1,55 @@
+{
+    "id": "6852113f5ff563056d87a213d7f2928a24e46242167b3c029c3882316ba9a477",
+    "metadata": "United States House of Representatives elections, 1954 | Florida | Florida",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Florida 2",
+            "Charles Edward Bennett",
+            "Democratic",
+            "1948",
+            "Re-elected",
+            "Charles Edward Bennett (D) Unopposed"
+        ],
+        [
+            "Florida 3",
+            "Robert L. F. Sikes",
+            "Democratic",
+            "1940",
+            "Re-elected",
+            "Robert L. F. Sikes (D) Unopposed"
+        ],
+        [
+            "Florida 4",
+            "William C. Lantaff",
+            "Democratic",
+            "1950",
+            "Retired Democratic hold",
+            "Dante Fascell (D) Unopposed"
+        ],
+        [
+            "Florida 5",
+            "Albert S. Herlong, Jr.",
+            "Democratic",
+            "1948",
+            "Re-elected",
+            "Albert S. Herlong, Jr. (D) Unopposed"
+        ],
+        [
+            "Florida 6",
+            "Dwight L. Rogers",
+            "Democratic",
+            "1944",
+            "Re-elected",
+            "Dwight L. Rogers (D) Unopposed"
+        ]
+    ]
+}

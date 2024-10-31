@@ -1,0 +1,61 @@
+{
+    "id": "aeb65a6b5945b522a69223a21bc9f02d01cd37d2ddebac4d228a3fd9cefa735d",
+    "metadata": "Competition between Airbus and Boeing | Orders and deliveries | Deliveries by decade and fuselage type (through Dec 31, 2012)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Total",
+        "_11502",
+        "_3620",
+        "_15122",
+        "_5432",
+        "_2233",
+        "_7665"
+    ],
+    "cell": [
+        [
+            "1980s",
+            "1747",
+            "624",
+            "2371",
+            "16",
+            "460",
+            "476"
+        ],
+        [
+            "1990s",
+            "2466",
+            "1232",
+            "3698",
+            "1068",
+            "563",
+            "1631"
+        ],
+        [
+            "2000s",
+            "2974",
+            "966",
+            "3940",
+            "2983",
+            "827",
+            "3810"
+        ],
+        [
+            "2010s",
+            "1163",
+            "377",
+            "1540",
+            "1277",
+            "355",
+            "1632"
+        ],
+        [
+            "Total",
+            "11502",
+            "3620",
+            "15122",
+            "5432",
+            "2233",
+            "7665"
+        ]
+    ]
+}

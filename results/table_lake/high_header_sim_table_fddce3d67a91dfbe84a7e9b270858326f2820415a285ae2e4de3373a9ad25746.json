@@ -1,0 +1,61 @@
+{
+    "id": "fddce3d67a91dfbe84a7e9b270858326f2820415a285ae2e4de3373a9ad25746",
+    "metadata": "1896 AHAC season | Final Standing | Final Standing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Games_Played",
+        "Wins",
+        "Losses",
+        "Ties_",
+        "Goals_For",
+        "Goals_Against"
+    ],
+    "cell": [
+        [
+            "Montreal Victorias",
+            "8",
+            "7",
+            "1",
+            "0",
+            "41",
+            "24"
+        ],
+        [
+            "Ottawa HC",
+            "8",
+            "6",
+            "2",
+            "0",
+            "22",
+            "16"
+        ],
+        [
+            "Quebec",
+            "8",
+            "4",
+            "4",
+            "0",
+            "23",
+            "23"
+        ],
+        [
+            "Montreal HC",
+            "8",
+            "2",
+            "6",
+            "0",
+            "24",
+            "33"
+        ],
+        [
+            "Montreal Shamrocks",
+            "8",
+            "1",
+            "7",
+            "0",
+            "16",
+            "30"
+        ]
+    ]
+}

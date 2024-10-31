@@ -1,0 +1,56 @@
+{
+    "id": "bcb43227bfd3331abfebfc91e5f4e681920cbf51a0182bb8ed10f7b74b47afb7",
+    "metadata": "2007-08 Croatian Cup | Calendar | Calendar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Main_date",
+        "Number_of_fixtures",
+        "Clubs",
+        "New_entries_this_round"
+    ],
+    "cell": [
+        [
+            "Preliminary round",
+            "29 August 2007",
+            "16",
+            "48 \u2192 32",
+            "none"
+        ],
+        [
+            "First round",
+            "26 September 2007",
+            "16",
+            "32 \u2192 16",
+            "16"
+        ],
+        [
+            "Second round",
+            "24 October 2007",
+            "8",
+            "16 \u2192 8",
+            "none"
+        ],
+        [
+            "Quarter-finals",
+            "7 and 28 November 2007",
+            "8",
+            "8 \u2192 4",
+            "none"
+        ],
+        [
+            "Semi-finals",
+            "9 and 23 April 2008",
+            "4",
+            "4 \u2192 2",
+            "none"
+        ],
+        [
+            "Final",
+            "7 and 14 May 2008",
+            "2",
+            "2 \u2192 1",
+            "none"
+        ]
+    ]
+}

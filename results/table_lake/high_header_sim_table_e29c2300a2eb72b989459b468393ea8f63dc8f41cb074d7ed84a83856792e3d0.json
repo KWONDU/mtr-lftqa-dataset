@@ -1,0 +1,70 @@
+{
+    "id": "e29c2300a2eb72b989459b468393ea8f63dc8f41cb074d7ed84a83856792e3d0",
+    "metadata": "Symetra Tour Championship | Winners | Winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Dates",
+        "Champion",
+        "Country",
+        "Score",
+        "Purse_",
+        "Winner_s_share_"
+    ],
+    "cell": [
+        [
+            "2013",
+            "Sep 26-30",
+            "Megan McCrystal",
+            "United States",
+            "275 (-13)",
+            "125000",
+            "18750"
+        ],
+        [
+            "2012",
+            "Sep 28-30",
+            "Daniela Iacobelli",
+            "United States",
+            "205 (-11)",
+            "125000",
+            "18750"
+        ],
+        [
+            "2011",
+            "Apr 1-3",
+            "Haru Nomura",
+            "Japan",
+            "207 (-9)",
+            "100000",
+            "14000"
+        ],
+        [
+            "2010",
+            "Apr 9-11",
+            "Kristie Smith",
+            "Australia",
+            "204 (-12)",
+            "100000",
+            "14000"
+        ],
+        [
+            "2009",
+            "Apr 3-5",
+            "Misun Cho",
+            "South Korea",
+            "210 (-6)",
+            "100000",
+            "14000"
+        ],
+        [
+            "2008",
+            "Apr 4-6",
+            "Leah Wigger",
+            "United States",
+            "212 (-4)",
+            "100000",
+            "14000"
+        ]
+    ]
+}

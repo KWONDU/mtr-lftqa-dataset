@@ -1,0 +1,70 @@
+{
+    "id": "2de14e4c8a6ce0ac8f8695d6142777db28515b6792f800bb27c68e0080209278",
+    "metadata": "1973 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "15.13 (103)",
+            "Fitzroy",
+            "10.8 (68)",
+            "Victoria Park",
+            "20822",
+            "26 May 1973"
+        ],
+        [
+            "Richmond",
+            "10.22 (82)",
+            "Hawthorn",
+            "16.23 (119)",
+            "MCG",
+            "32613",
+            "26 May 1973"
+        ],
+        [
+            "St Kilda",
+            "16.10 (106)",
+            "Geelong",
+            "8.12 (60)",
+            "Moorabbin Oval",
+            "15114",
+            "26 May 1973"
+        ],
+        [
+            "North Melbourne",
+            "8.8 (56)",
+            "Footscray",
+            "8.8 (56)",
+            "Arden Street Oval",
+            "16148",
+            "26 May 1973"
+        ],
+        [
+            "South Melbourne",
+            "7.9 (51)",
+            "Carlton",
+            "19.16 (130)",
+            "Lake Oval",
+            "14659",
+            "26 May 1973"
+        ],
+        [
+            "Essendon",
+            "12.9 (81)",
+            "Melbourne",
+            "10.11 (71)",
+            "VFL Park",
+            "25603",
+            "26 May 1973"
+        ]
+    ]
+}

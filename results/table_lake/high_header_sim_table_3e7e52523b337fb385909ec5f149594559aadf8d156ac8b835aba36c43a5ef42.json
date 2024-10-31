@@ -1,0 +1,73 @@
+{
+    "id": "3e7e52523b337fb385909ec5f149594559aadf8d156ac8b835aba36c43a5ef42",
+    "metadata": "Slovak language | Other Slavic languages | Other Slavic languages",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "English_word",
+        "Slovak",
+        "Czech",
+        "Rusyn",
+        "Ukrainian",
+        "Belarusian",
+        "Polish",
+        "Serbo_Croatian",
+        "Bulgarian"
+    ],
+    "cell": [
+        [
+            "to buy",
+            "kupova\u0165",
+            "kupovat",
+            "\u043a\u0443\u043f\u043e\u0432\u0430\u0442\u0438 (kupovati)",
+            "\u043a\u0443\u043f\u0443\u0432\u0430\u0442\u0438 (kupuvaty)",
+            "\u043a\u0443\u043f\u043b\u044f\u0446\u044c (kuplia\u0107)",
+            "kupowa\u0107",
+            "kupovati",
+            "\u043a\u0443\u043f\u0443\u0432\u0430 (kupuva)"
+        ],
+        [
+            "Welcome!",
+            "Vitajte!",
+            "V\u00edtejte",
+            "\u0412\u0456\u0442\u0430\u0439\u0442\u0435! (vitajte!)",
+            "\u0412\u0456\u0442\u0430\u044e! (vitaju!)",
+            "\u0412\u0456\u0442\u0430\u044e! (vitaju!)",
+            "Witajcie",
+            "Dobrodo\u0161li!",
+            "\u0434\u043e\u0431\u0440\u0435 \u0434\u043e\u0448\u043b\u0438 (dobre dosli)"
+        ],
+        [
+            "morning",
+            "r\u00e1no",
+            "r\u00e1no",
+            "\u0440\u0430\u043d\u043e (rano)",
+            "\u0440\u0430\u043d\u043e/\u0440\u0430\u043d\u043e\u043a (rano/ranok)",
+            "\u0440\u0430\u043d\u0430/\u0440\u0430\u043d\u0430\u043a (rana/ranak)",
+            "rano/ranek",
+            "jutro",
+            "\u0443\u0442\u0440\u043e (utro)"
+        ],
+        [
+            "Thank you",
+            "\u010eakujem",
+            "D\u011bkuji",
+            "\u0414\u044f\u043a\u0443\u044e (diakuju)",
+            "\u0414\u044f\u043a\u0443\u044e (diakuju)",
+            "\u0414\u0437\u044f\u043a\u0443\u0439 (dziakuj)",
+            "Dzi\u0119kuj\u0119",
+            "Hvala",
+            "\u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f (blagodarya)"
+        ],
+        [
+            "How are you?",
+            "Ako sa m\u00e1\u0161?",
+            "Jak se m\u00e1\u0161?",
+            "\u042f\u043a \u0441\u044f \u043c\u0430\u0454\u0448/\u043c\u0430\u0448? (jak \u015ba maje\u0161/ma\u0161?)",
+            "\u042f\u043a \u0441\u043f\u0440\u0430\u0432\u0438? (jak spravy?)",
+            "\u042f\u043a \u0441\u043f\u0440\u0430\u0432\u044b? (jak spravy?)",
+            "Jak si\u0119 masz?",
+            "Kako si?",
+            "\u041a\u0430\u043a \u0441\u0438? (Kak si?)"
+        ]
+    ]
+}

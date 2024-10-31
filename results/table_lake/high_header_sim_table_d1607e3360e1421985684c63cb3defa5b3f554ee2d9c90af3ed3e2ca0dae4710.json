@@ -1,0 +1,55 @@
+{
+    "id": "d1607e3360e1421985684c63cb3defa5b3f554ee2d9c90af3ed3e2ca0dae4710",
+    "metadata": "Seven Wonders of the Ancient World | The Seven Ancient Wonders | The Seven Ancient Wonders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Date_of_construction",
+        "Builder",
+        "Date_of_destruction",
+        "Cause_of_destruction",
+        "Modern_location"
+    ],
+    "cell": [
+        [
+            "Great Pyramid of Giza",
+            "2584-2561 BC",
+            "Egyptians",
+            "Still in existence",
+            "Still in existence",
+            "Giza Necropolis , Egypt"
+        ],
+        [
+            "Temple of Artemis at Ephesus",
+            "c. 550 BC; and again at 323 BC",
+            "ns Lydia , Greeks",
+            "356 BC (by Herostratus) AD 262 (by the Goths)",
+            "Arson by Herostratus , plundering",
+            "near Sel\u00e7uk , Izmir Province , Turkey"
+        ],
+        [
+            "Statue of Zeus at Olympia",
+            "466-456 BC (Temple) 435 BC (Statue)",
+            "Greeks",
+            "5th-6th centuries AD",
+            "Disassembled; later destroyed by fire",
+            "Olympia , Greece"
+        ],
+        [
+            "Mausoleum at Halicarnassus",
+            "351 BC",
+            "Carians , Greeks",
+            "by AD 1494",
+            "Earthquakes",
+            "Bodrum , Turkey"
+        ],
+        [
+            "Colossus of Rhodes",
+            "292-280 BC",
+            "Greeks",
+            "226 BC",
+            "226 BC Rhodes earthquake",
+            "Rhodes , Greece"
+        ]
+    ]
+}

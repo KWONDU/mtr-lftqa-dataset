@@ -1,0 +1,311 @@
+{
+    "id": "88157834f9e47e6e825fcb4570397e183a28f761dbf55b33225fb4e57446efe9",
+    "metadata": "List of national parks of Finland | List of national parks | List of national parks",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "National_park",
+        "Region",
+        "Land_area_km\u00b2",
+        "Established",
+        "Visitation_2009",
+        "Coordinates_"
+    ],
+    "cell": [
+        [
+            "Archipelago",
+            "Finland Proper",
+            "500",
+            "1982",
+            "53500",
+            "59\u00b054\u203253\u2033N 21\u00b052\u203239\u2033E\ufeff / \ufeff59.91472\u00b0N 21.87750\u00b0E"
+        ],
+        [
+            "Bothnian Sea",
+            "",
+            "",
+            "2011",
+            "",
+            ""
+        ],
+        [
+            "Eastern Gulf of Finland",
+            "Kymenlaakso",
+            "6.7",
+            "1982",
+            "19000",
+            "60\u00b017\u20325\u2033N 27\u00b016\u203226\u2033E\ufeff / \ufeff60.28472\u00b0N 27.27389\u00b0E"
+        ],
+        [
+            "Eken\u00e4s Archipelago",
+            "Uusimaa",
+            "52",
+            "1989",
+            "44500",
+            "59\u00b049\u203222\u2033N 23\u00b027\u203215\u2033E\ufeff / \ufeff59.82278\u00b0N 23.45417\u00b0E"
+        ],
+        [
+            "Helvetinj\u00e4rvi",
+            "Pirkanmaa",
+            "49.8",
+            "1982",
+            "33000",
+            "62\u00b02\u2032N 23\u00b051\u2032E\ufeff / \ufeff62.033\u00b0N 23.850\u00b0E"
+        ],
+        [
+            "Hiidenportti",
+            "Kainuu",
+            "45",
+            "1982",
+            "12000",
+            "63\u00b052\u203222\u2033N 29\u00b03\u203231\u2033E\ufeff / \ufeff63.87278\u00b0N 29.05861\u00b0E"
+        ],
+        [
+            "Isoj\u00e4rvi",
+            "Central Finland",
+            "19",
+            "1982",
+            "10500",
+            "61\u00b041\u203254\u2033N 25\u00b00\u203239\u2033E\ufeff / \ufeff61.69833\u00b0N 25.01083\u00b0E"
+        ],
+        [
+            "Kauhaneva-Pohjankangas",
+            "Southern Ostrobothnia / Satakunta",
+            "57",
+            "1982",
+            "4500",
+            "62\u00b010\u203245\u2033N 22\u00b024\u203223\u2033E\ufeff / \ufeff62.17917\u00b0N 22.40639\u00b0E"
+        ],
+        [
+            "Koli",
+            "North Karelia",
+            "30",
+            "1991",
+            "127500",
+            "63\u00b03\u203227\u2033N 29\u00b053\u203214\u2033E\ufeff / \ufeff63.05750\u00b0N 29.88722\u00b0E"
+        ],
+        [
+            "Kolovesi",
+            "Southern Savonia",
+            "23",
+            "1990",
+            "7500",
+            "62\u00b015\u203227\u2033N 28\u00b049\u20320\u2033E\ufeff / \ufeff62.25750\u00b0N 28.81667\u00b0E"
+        ],
+        [
+            "Kurjenrahka",
+            "Finland Proper",
+            "29",
+            "1998",
+            "28500",
+            "60\u00b043\u203214\u2033N 22\u00b023\u20321\u2033E\ufeff / \ufeff60.72056\u00b0N 22.38361\u00b0E"
+        ],
+        [
+            "Lauhanvuori",
+            "Southern Ostrobothnia",
+            "53",
+            "1982",
+            "10000",
+            "62\u00b009\u20327\u2033N 22\u00b010\u203230\u2033E\ufeff / \ufeff62.15194\u00b0N 22.17500\u00b0E"
+        ],
+        [
+            "Leivonm\u00e4ki",
+            "Central Finland",
+            "29",
+            "2003",
+            "12500",
+            "61\u00b056\u2032N 26\u00b02\u2032E\ufeff / \ufeff61.933\u00b0N 26.033\u00b0E"
+        ],
+        [
+            "Lemmenjoki",
+            "Lapland",
+            "2850",
+            "1956",
+            "10000",
+            "68\u00b030\u2032N 25\u00b030\u2032E\ufeff / \ufeff68.500\u00b0N 25.500\u00b0E"
+        ],
+        [
+            "Liesj\u00e4rvi",
+            "Tavastia Proper",
+            "22",
+            "1956",
+            "30500",
+            "60\u00b040\u203250\u2033N 23\u00b051\u203230\u2033E\ufeff / \ufeff60.68056\u00b0N 23.85833\u00b0E"
+        ],
+        [
+            "Linnansaari",
+            "Southern Savonia / Northern Savonia",
+            "38",
+            "1956",
+            "31000",
+            "62\u00b06\u203238\u2033N 28\u00b030\u203234\u2033E\ufeff / \ufeff62.11056\u00b0N 28.50944\u00b0E"
+        ],
+        [
+            "Nuuksio",
+            "Uusimaa",
+            "45",
+            "1994",
+            "179500",
+            "60\u00b018\u203227\u2033N 24\u00b029\u203257\u2033E\ufeff / \ufeff60.30750\u00b0N 24.49917\u00b0E"
+        ],
+        [
+            "Oulanka",
+            "Northern Ostrobothnia / Lapland",
+            "270",
+            "1956",
+            "165500",
+            "66\u00b022\u203232\u2033N 29\u00b020\u203219\u2033E\ufeff / \ufeff66.37556\u00b0N 29.33861\u00b0E"
+        ],
+        [
+            "P\u00e4ij\u00e4nne",
+            "P\u00e4ij\u00e4nne Tavastia",
+            "14",
+            "1993",
+            "15000",
+            "61\u00b023\u203212\u2033N 25\u00b023\u203236\u2033E\ufeff / \ufeff61.38667\u00b0N 25.39333\u00b0E"
+        ],
+        [
+            "Pallas-Yll\u00e4stunturi",
+            "Lapland",
+            "1020",
+            "2005",
+            "419000",
+            "68\u00b09\u203232\u2033N 24\u00b02\u203225\u2033E\ufeff / \ufeff68.15889\u00b0N 24.04028\u00b0E"
+        ],
+        [
+            "Patvinsuo",
+            "North Karelia",
+            "105",
+            "1982",
+            "12000",
+            "63\u00b06\u203241\u2033N 30\u00b042\u203216\u2033E\ufeff / \ufeff63.11139\u00b0N 30.70444\u00b0E"
+        ],
+        [
+            "Per\u00e4meri",
+            "Lapland",
+            "2.5",
+            "1991",
+            "9000",
+            "65\u00b037\u203222\u2033N 24\u00b019\u203210\u2033E\ufeff / \ufeff65.62278\u00b0N 24.31944\u00b0E"
+        ],
+        [
+            "Petkelj\u00e4rvi",
+            "North Karelia",
+            "6",
+            "1956",
+            "19500",
+            "62\u00b035\u2032N 31\u00b011\u2032E\ufeff / \ufeff62.583\u00b0N 31.183\u00b0E"
+        ],
+        [
+            "Puurij\u00e4rvi-Isosuo",
+            "Pirkanmaa / Satakunta",
+            "27",
+            "1993",
+            "11500",
+            "61\u00b014\u203257\u2033N 22\u00b034\u20321\u2033E\ufeff / \ufeff61.24917\u00b0N 22.56694\u00b0E"
+        ],
+        [
+            "Pyh\u00e4-H\u00e4kki",
+            "Central Finland",
+            "13",
+            "1956",
+            "17000",
+            "62\u00b050\u203244\u2033N 25\u00b028\u203221\u2033E\ufeff / \ufeff62.84556\u00b0N 25.47250\u00b0E"
+        ],
+        [
+            "Pyh\u00e4-Luosto",
+            "Lapland",
+            "142",
+            "2005",
+            "128000",
+            "67\u00b03\u203259\u2033N 26\u00b058\u203225\u2033E\ufeff / \ufeff67.06639\u00b0N 26.97361\u00b0E"
+        ],
+        [
+            "Repovesi",
+            "Kymenlaakso / Southern Savonia",
+            "15",
+            "2003",
+            "74500",
+            "61\u00b011\u2032N 26\u00b053\u2032E\ufeff / \ufeff61.183\u00b0N 26.883\u00b0E"
+        ],
+        [
+            "Riisitunturi",
+            "Lapland",
+            "77",
+            "1982",
+            "15000",
+            "66\u00b014\u2032N 28\u00b030\u2032E\ufeff / \ufeff66.233\u00b0N 28.500\u00b0E"
+        ],
+        [
+            "Rokua",
+            "Northern Ostrobothnia / Kainuu",
+            "4.3",
+            "1956",
+            "23500",
+            "64\u00b033\u203222\u2033N 26\u00b030\u203236\u2033E\ufeff / \ufeff64.55611\u00b0N 26.51000\u00b0E"
+        ],
+        [
+            "Salamaj\u00e4rvi",
+            "Central Ostrobothnia / Central Finland",
+            "62",
+            "1982",
+            "10500",
+            "63\u00b016\u2032N 24\u00b045\u2032E\ufeff / \ufeff63.267\u00b0N 24.750\u00b0E"
+        ],
+        [
+            "Seitseminen",
+            "Pirkanmaa",
+            "45.5",
+            "1982",
+            "45500",
+            "61\u00b056\u2032N 23\u00b026\u2032E\ufeff / \ufeff61.933\u00b0N 23.433\u00b0E"
+        ],
+        [
+            "Sipoonkorpi",
+            "Uusimaa",
+            "18.6",
+            "2011",
+            "",
+            "60\u00b018\u203254\u2033N 25\u00b013\u20328\u2033E\ufeff / \ufeff60.31500\u00b0N 25.21889\u00b0E"
+        ],
+        [
+            "Sy\u00f6te",
+            "Northern Ostrobothnia / Lapland",
+            "299",
+            "2000",
+            "40000",
+            "65\u00b044\u203251\u2033N 27\u00b054\u203243\u2033E\ufeff / \ufeff65.74750\u00b0N 27.91194\u00b0E"
+        ],
+        [
+            "Tiilikkaj\u00e4rvi",
+            "Northern Savonia / Kainuu",
+            "34",
+            "1982",
+            "7500",
+            "63\u00b040\u2032N 28\u00b018\u2032E\ufeff / \ufeff63.667\u00b0N 28.300\u00b0E"
+        ],
+        [
+            "Torronsuo",
+            "Tavastia Proper",
+            "25.5",
+            "1990",
+            "20500",
+            "60\u00b044\u2032N 23\u00b037\u2032E\ufeff / \ufeff60.733\u00b0N 23.617\u00b0E"
+        ],
+        [
+            "Urho Kekkonen",
+            "Lapland",
+            "2550",
+            "1983",
+            "289000",
+            "68\u00b013\u20325\u2033N 28\u00b08\u203225\u2033E\ufeff / \ufeff68.21806\u00b0N 28.14028\u00b0E"
+        ],
+        [
+            "Valkmusa",
+            "Kymenlaakso",
+            "17",
+            "1996",
+            "7000",
+            "60\u00b034\u2032N 26\u00b044\u2032E\ufeff / \ufeff60.567\u00b0N 26.733\u00b0E"
+        ]
+    ]
+}

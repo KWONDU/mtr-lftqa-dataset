@@ -1,0 +1,84 @@
+{
+    "id": "94a9dbd02cc8f9aefdaaf3f85eddb3dbe029099f0fa1c081787c0aa79de81c7a",
+    "metadata": "Peter Collins (racing driver) | Complete World Championship Formula One results | Complete World Championship Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1952",
+            "HW Motors",
+            "HWM 52",
+            "Alta",
+            "0"
+        ],
+        [
+            "1953",
+            "HW Motors",
+            "HWM 53",
+            "Alta",
+            "0"
+        ],
+        [
+            "1954",
+            "G A Vandervell",
+            "Vanwall Special",
+            "Vanwall",
+            "0"
+        ],
+        [
+            "1955",
+            "Owen Racing Organisation",
+            "Maserati 250F",
+            "Maserati",
+            "0"
+        ],
+        [
+            "1955",
+            "Officine Alfieri Maserati",
+            "Maserati 250F",
+            "Maserati",
+            "0"
+        ],
+        [
+            "1956",
+            "Scuderia Ferrari",
+            "Ferrari 555",
+            "Ferrari",
+            "25"
+        ],
+        [
+            "1956",
+            "Scuderia Ferrari",
+            "Lancia - Ferrari D50",
+            "Ferrari",
+            "25"
+        ],
+        [
+            "1957",
+            "Scuderia Ferrari",
+            "Lancia - Ferrari D50",
+            "Ferrari",
+            "8"
+        ],
+        [
+            "1957",
+            "Scuderia Ferrari",
+            "Ferrari 801",
+            "Ferrari",
+            "8"
+        ],
+        [
+            "1958",
+            "Scuderia Ferrari",
+            "Ferrari Dino 246",
+            "Ferrari",
+            "14"
+        ]
+    ]
+}

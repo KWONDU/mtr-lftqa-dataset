@@ -1,0 +1,106 @@
+{
+    "id": "f007950f68e1053a85ec43bf73c37bf6b3137053e61eca27b8bd59acd286d442",
+    "metadata": "List of urban areas in the United Kingdom | List of most populous urban areas | List of most populous urban areas",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Urban_Area",
+        "Population_2001_Census",
+        "Area_km\u00b2",
+        "Density_People_km\u00b2",
+        "Major_subdivisions",
+        "Metropolitan_Area_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Greater Glasgow",
+            "1168270",
+            "368.47",
+            "3171.0",
+            "Glasgow, Paisley, Coatbridge, Clydebank, Motherwell, Wishaw",
+            "Glasgow"
+        ],
+        [
+            "2",
+            "Edinburgh",
+            "452194",
+            "120.11",
+            "3765.0",
+            "Edinburgh, Musselburgh",
+            "Edinburgh"
+        ],
+        [
+            "3",
+            "Aberdeen",
+            "197328",
+            "60.94",
+            "3238",
+            "Aberdeen, Cove Bay, Dyce",
+            "Aberdeen"
+        ],
+        [
+            "4",
+            "Dundee",
+            "154674",
+            "67",
+            "3298",
+            "Dundee",
+            "Dundee"
+        ],
+        [
+            "5",
+            "Falkirk",
+            "91402",
+            "36.10",
+            "2532",
+            "Falkirk, Grangemouth, Carron, Polmont, Stenhousemuir",
+            "Falkirk"
+        ],
+        [
+            "6",
+            "East Kilbride",
+            "73796",
+            "24.12",
+            "3060",
+            "East Kilbride",
+            "Glasgow"
+        ],
+        [
+            "7",
+            "Greenock",
+            "73595",
+            "20.69",
+            "3557",
+            "Greenock, Gourock, Port Glasgow",
+            "Glasgow"
+        ],
+        [
+            "8",
+            "Blantyre/Hamilton",
+            "65874",
+            "22.63",
+            "2911",
+            "Blantyre, Hamilton",
+            "Glasgow"
+        ],
+        [
+            "9",
+            "Ayr/Prestwick",
+            "61365",
+            "23.57",
+            "2604",
+            "Ayr, Prestwick",
+            "Ayr"
+        ],
+        [
+            "10",
+            "Livingston",
+            "59511",
+            "26.07",
+            "2283",
+            "Livingston, East Calder, Mid Calder",
+            "Edinburgh"
+        ]
+    ]
+}

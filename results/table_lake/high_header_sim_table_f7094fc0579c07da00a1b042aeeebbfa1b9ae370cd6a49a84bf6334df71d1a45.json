@@ -1,0 +1,111 @@
+{
+    "id": "f7094fc0579c07da00a1b042aeeebbfa1b9ae370cd6a49a84bf6334df71d1a45",
+    "metadata": "Good News Network | Full Powered Stations | Full Powered Stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "WLPE",
+            "91.7",
+            "Augusta, GA",
+            "1150",
+            "A",
+            "FCC"
+        ],
+        [
+            "WGPH",
+            "91.5",
+            "Vidalia, GA",
+            "31000",
+            "C2",
+            "FCC"
+        ],
+        [
+            "WWGF",
+            "107.5",
+            "Donalsonville, GA",
+            "6000",
+            "A",
+            "FCC"
+        ],
+        [
+            "WPWB",
+            "90.5",
+            "Byron, GA",
+            "16500",
+            "C2",
+            "FCC"
+        ],
+        [
+            "WLPF",
+            "98.5",
+            "Ocilla, GA",
+            "2300",
+            "A",
+            "FCC"
+        ],
+        [
+            "WZIQ",
+            "106.5",
+            "Smithville, GA",
+            "2450",
+            "A",
+            "[http://www.fcc.gov/fcc-bin/fmq?call= WZIQ FCC]"
+        ],
+        [
+            "WLPG",
+            "91.7",
+            "Florence, SC",
+            "20000",
+            "C2",
+            "FCC"
+        ],
+        [
+            "WPMA",
+            "102.7",
+            "Greensboro, GA",
+            "7500",
+            "C3",
+            "FCC"
+        ],
+        [
+            "WTHP",
+            "94.3",
+            "Gibson, GA",
+            "6300",
+            "C3",
+            "FCC"
+        ],
+        [
+            "WLPT",
+            "88.3",
+            "Jesup, GA",
+            "20000",
+            "C1",
+            "FCC"
+        ],
+        [
+            "WSJA",
+            "91.3",
+            "York, AL",
+            "5000",
+            "A",
+            "FCC"
+        ],
+        [
+            "WLGP",
+            "100.3",
+            "Jacksonville, NC",
+            "100000",
+            "C1",
+            "[http://www.fcc.gov/fcc-bin/fmq?call= WLGP FCC]"
+        ]
+    ]
+}

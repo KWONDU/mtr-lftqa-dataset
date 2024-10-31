@@ -1,0 +1,70 @@
+{
+    "id": "5ed0c396a61595ad6743c629cb799f34157942e26d8472faa5738db8edbe0b16",
+    "metadata": "1955 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "17.20 (122)",
+            "St Kilda",
+            "7.14 (56)",
+            "Punt Road Oval",
+            "12500",
+            "28 May 1955"
+        ],
+        [
+            "Footscray",
+            "10.9 (69)",
+            "North Melbourne",
+            "8.14 (62)",
+            "Western Oval",
+            "26086",
+            "28 May 1955"
+        ],
+        [
+            "Essendon",
+            "9.11 (65)",
+            "Hawthorn",
+            "10.10 (70)",
+            "Windy Hill",
+            "20000",
+            "28 May 1955"
+        ],
+        [
+            "South Melbourne",
+            "10.11 (71)",
+            "Melbourne",
+            "11.6 (72)",
+            "Lake Oval",
+            "24000",
+            "28 May 1955"
+        ],
+        [
+            "Fitzroy",
+            "6.9 (45)",
+            "Collingwood",
+            "16.13 (109)",
+            "Brunswick Street Oval",
+            "30000",
+            "28 May 1955"
+        ],
+        [
+            "Geelong",
+            "12.12 (84)",
+            "Carlton",
+            "10.9 (69)",
+            "Kardinia Park",
+            "21088",
+            "28 May 1955"
+        ]
+    ]
+}

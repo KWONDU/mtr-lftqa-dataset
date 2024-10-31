@@ -1,0 +1,63 @@
+{
+    "id": "f77f8c12e1ead64626173c25de3dd7102d83a5052cd6d014eed94c25fd54320b",
+    "metadata": "Henlopen Conference | 2008 Regular Season Football Standings | Henlopen Northern Division",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Team",
+        "Division_Record",
+        "Overall_Record",
+        "Season_Outcome"
+    ],
+    "cell": [
+        [
+            "Sussex Central",
+            "Golden Knights",
+            "6 - 0",
+            "10 - 2",
+            "Loss in Div. I Championship Game"
+        ],
+        [
+            "Caesar Rodney",
+            "Riders",
+            "5 - 1",
+            "11 - 1",
+            "Won Div. I State Championship"
+        ],
+        [
+            "Dover",
+            "Senators",
+            "4 - 2",
+            "6 - 4",
+            "Failed to make playoffs"
+        ],
+        [
+            "Smyrna",
+            "Eagles",
+            "2 - 4",
+            "5 - 5",
+            "Failed to make playoffs"
+        ],
+        [
+            "Sussex Tech",
+            "Ravens",
+            "2 - 4",
+            "4 - 6",
+            "Failed to make playoffs"
+        ],
+        [
+            "Cape Henlopen",
+            "Vikings",
+            "2 - 4",
+            "3 - 7",
+            "Failed to make playoffs"
+        ],
+        [
+            "Polytech",
+            "Panthers",
+            "0 - 6",
+            "2 - 8",
+            "Failed to make playoffs"
+        ]
+    ]
+}

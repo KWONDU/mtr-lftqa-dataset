@@ -1,0 +1,61 @@
+{
+    "id": "54d521300c88d99827223fb14a9a59602f36228ae12888ad6025d21b3ca6de42",
+    "metadata": "Thomas Bj\u00f8rn | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "0",
+            "0",
+            "2",
+            "10",
+            "6"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "0",
+            "2",
+            "12",
+            "7"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "3",
+            "5",
+            "5",
+            "16",
+            "10"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "2",
+            "2",
+            "2",
+            "13",
+            "7"
+        ],
+        [
+            "Totals",
+            "0",
+            "5",
+            "7",
+            "11",
+            "51",
+            "30"
+        ]
+    ]
+}

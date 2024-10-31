@@ -1,0 +1,84 @@
+{
+    "id": "0ca73a316c59a14e7840368b6c93649f1e060fe58ebe114e98438115a464b37a",
+    "metadata": "Juan Garriga | Motorcycle Grand Prix results | Motorcycle Grand Prix results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Points",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1984",
+            "250cc",
+            "Yamaha",
+            "0",
+            "0"
+        ],
+        [
+            "1985",
+            "250cc",
+            "JJ Cobas",
+            "8",
+            "0"
+        ],
+        [
+            "1986",
+            "500cc",
+            "Cagiva",
+            "4",
+            "0"
+        ],
+        [
+            "1987",
+            "250cc",
+            "Ducados- Yamaha",
+            "46",
+            "0"
+        ],
+        [
+            "1988",
+            "250cc",
+            "Ducados- Yamaha",
+            "221",
+            "3"
+        ],
+        [
+            "1989",
+            "250cc",
+            "Ducados- Yamaha",
+            "98",
+            "0"
+        ],
+        [
+            "1990",
+            "500cc",
+            "Ducados- Yamaha",
+            "121",
+            "0"
+        ],
+        [
+            "1991",
+            "500cc",
+            "Ducados- Yamaha",
+            "121",
+            "0"
+        ],
+        [
+            "1992",
+            "500cc",
+            "Ducados- Yamaha",
+            "61",
+            "0"
+        ],
+        [
+            "1993",
+            "500cc",
+            "Cagiva",
+            "7",
+            "0"
+        ]
+    ]
+}

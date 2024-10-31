@@ -1,0 +1,639 @@
+{
+    "id": "17650951eb2442c6c8a391dfdf7f0860204e67a2d83a142b59d4110b08809a57",
+    "metadata": "Masters Tournament | Winners | Winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Champion",
+        "Country",
+        "To_par",
+        "Margin_of_victory",
+        "Winner_s_share_"
+    ],
+    "cell": [
+        [
+            "2013",
+            "Adam Scott",
+            "Australia",
+            "\u22129",
+            "Playoff (2)",
+            "1440000"
+        ],
+        [
+            "2012",
+            "Bubba Watson",
+            "United States",
+            "\u221210",
+            "Playoff (2)",
+            "1440000"
+        ],
+        [
+            "2011",
+            "Charl Schwartzel",
+            "South Africa",
+            "\u221214",
+            "2",
+            "1440000"
+        ],
+        [
+            "2010",
+            "Phil Mickelson (3)",
+            "United States",
+            "\u221216",
+            "3",
+            "1350000"
+        ],
+        [
+            "2009",
+            "\u00c1ngel Cabrera",
+            "Argentina",
+            "\u221212",
+            "Playoff (3)",
+            "1350000"
+        ],
+        [
+            "2008",
+            "Trevor Immelman",
+            "South Africa",
+            "\u22128",
+            "3",
+            "1350000"
+        ],
+        [
+            "2007",
+            "Zach Johnson",
+            "United States",
+            "+1",
+            "2",
+            "1305000"
+        ],
+        [
+            "2006",
+            "Phil Mickelson (2)",
+            "United States",
+            "\u22127",
+            "2",
+            "1260000"
+        ],
+        [
+            "2005",
+            "Tiger Woods (4)",
+            "United States",
+            "\u221212",
+            "Playoff (2)",
+            "1260000"
+        ],
+        [
+            "2004",
+            "Phil Mickelson",
+            "United States",
+            "\u22129",
+            "1",
+            "1117000"
+        ],
+        [
+            "2003",
+            "Mike Weir",
+            "Canada",
+            "\u22127",
+            "Playoff (2)",
+            "1080000"
+        ],
+        [
+            "2002",
+            "Tiger Woods (3)",
+            "United States",
+            "\u221212",
+            "3",
+            "1008000"
+        ],
+        [
+            "2001",
+            "Tiger Woods (2)",
+            "United States",
+            "\u221216",
+            "2",
+            "1008000"
+        ],
+        [
+            "2000",
+            "Vijay Singh",
+            "Fiji",
+            "\u221210",
+            "3",
+            "828000"
+        ],
+        [
+            "1999",
+            "Jos\u00e9 Mar\u00eda Olaz\u00e1bal (2)",
+            "Spain",
+            "\u22128",
+            "2",
+            "720000"
+        ],
+        [
+            "1998",
+            "Mark O`Meara",
+            "United States",
+            "\u22129",
+            "1",
+            "576000"
+        ],
+        [
+            "1997",
+            "Tiger Woods",
+            "United States",
+            "\u221218",
+            "12",
+            "486000"
+        ],
+        [
+            "1996",
+            "Nick Faldo (3)",
+            "England",
+            "\u221212",
+            "5",
+            "450000"
+        ],
+        [
+            "1995",
+            "Ben Crenshaw (2)",
+            "United States",
+            "\u221214",
+            "1",
+            "396000"
+        ],
+        [
+            "1994",
+            "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
+            "Spain",
+            "\u22129",
+            "2",
+            "360000"
+        ],
+        [
+            "1993",
+            "Bernhard Langer (2)",
+            "Germany",
+            "\u221211",
+            "4",
+            "306000"
+        ],
+        [
+            "1992",
+            "Fred Couples",
+            "United States",
+            "\u221213",
+            "2",
+            "270000"
+        ],
+        [
+            "1991",
+            "Ian Woosnam",
+            "Wales",
+            "\u221211",
+            "1",
+            "243000"
+        ],
+        [
+            "1990",
+            "Nick Faldo (2)",
+            "England",
+            "\u221210",
+            "Playoff (2)",
+            "225000"
+        ],
+        [
+            "1989",
+            "Nick Faldo",
+            "England",
+            "\u22125",
+            "Playoff (2)",
+            "200000"
+        ],
+        [
+            "1988",
+            "Sandy Lyle",
+            "Scotland",
+            "\u22127",
+            "1",
+            "183800"
+        ],
+        [
+            "1987",
+            "Larry Mize",
+            "United States",
+            "\u22123",
+            "Playoff (3)",
+            "162000"
+        ],
+        [
+            "1986",
+            "Jack Nicklaus (6)",
+            "United States",
+            "\u22129",
+            "1",
+            "144000"
+        ],
+        [
+            "1985",
+            "Bernhard Langer",
+            "West Germany",
+            "\u22126",
+            "2",
+            "126000"
+        ],
+        [
+            "1984",
+            "Ben Crenshaw",
+            "United States",
+            "\u221211",
+            "2",
+            "108000"
+        ],
+        [
+            "1983",
+            "Seve Ballesteros (2)",
+            "Spain",
+            "\u22128",
+            "4",
+            "90000"
+        ],
+        [
+            "1982",
+            "Craig Stadler",
+            "United States",
+            "\u22124",
+            "Playoff (2)",
+            "64000"
+        ],
+        [
+            "1981",
+            "Tom Watson (2)",
+            "United States",
+            "\u22128",
+            "2",
+            "60000"
+        ],
+        [
+            "1980",
+            "Seve Ballesteros",
+            "Spain",
+            "\u221213",
+            "4",
+            "55000"
+        ],
+        [
+            "1979",
+            "Fuzzy Zoeller",
+            "United States",
+            "\u22128",
+            "Playoff (3)",
+            "50000"
+        ],
+        [
+            "1978",
+            "Gary Player (3)",
+            "South Africa",
+            "\u221211",
+            "1",
+            "45000"
+        ],
+        [
+            "1977",
+            "Tom Watson",
+            "United States",
+            "\u221212",
+            "2",
+            "40000"
+        ],
+        [
+            "1976",
+            "Raymond Floyd",
+            "United States",
+            "\u221217",
+            "8",
+            "40000"
+        ],
+        [
+            "1975",
+            "Jack Nicklaus (5)",
+            "United States",
+            "\u221212",
+            "1",
+            "40000"
+        ],
+        [
+            "1974",
+            "Gary Player (2)",
+            "South Africa",
+            "\u221210",
+            "2",
+            "35000"
+        ],
+        [
+            "1973",
+            "Tommy Aaron",
+            "United States",
+            "\u22125",
+            "1",
+            "30000"
+        ],
+        [
+            "1972",
+            "Jack Nicklaus (4)",
+            "United States",
+            "\u22122",
+            "3",
+            "25000"
+        ],
+        [
+            "1971",
+            "Charles Coody",
+            "United States",
+            "\u22129",
+            "2",
+            "25000"
+        ],
+        [
+            "1970",
+            "Billy Casper",
+            "United States",
+            "\u22129",
+            "Playoff (2)",
+            "25000"
+        ],
+        [
+            "1969",
+            "George Archer",
+            "United States",
+            "\u22127",
+            "1",
+            "20000"
+        ],
+        [
+            "1968",
+            "Bob Goalby",
+            "United States",
+            "\u221211",
+            "1",
+            "20000"
+        ],
+        [
+            "1967",
+            "Gay Brewer",
+            "United States",
+            "\u22128",
+            "1",
+            "20000"
+        ],
+        [
+            "1966",
+            "Jack Nicklaus (3)",
+            "United States",
+            "E",
+            "Playoff (3)",
+            "20000"
+        ],
+        [
+            "1965",
+            "Jack Nicklaus (2)",
+            "United States",
+            "\u221217",
+            "9",
+            "20000"
+        ],
+        [
+            "1964",
+            "Arnold Palmer (4)",
+            "United States",
+            "\u221212",
+            "6",
+            "20000"
+        ],
+        [
+            "1963",
+            "Jack Nicklaus",
+            "United States",
+            "\u22122",
+            "1",
+            "20000"
+        ],
+        [
+            "1962",
+            "Arnold Palmer (3)",
+            "United States",
+            "\u22128",
+            "Playoff (3)",
+            "20000"
+        ],
+        [
+            "1961",
+            "Gary Player",
+            "South Africa",
+            "\u22128",
+            "1",
+            "20000"
+        ],
+        [
+            "1960",
+            "Arnold Palmer (2)",
+            "United States",
+            "\u22126",
+            "1",
+            "17500"
+        ],
+        [
+            "1959",
+            "Art Wall, Jr.",
+            "United States",
+            "\u22124",
+            "1",
+            "15000"
+        ],
+        [
+            "1958",
+            "Arnold Palmer",
+            "United States",
+            "\u22124",
+            "1",
+            "11250"
+        ],
+        [
+            "1957",
+            "Doug Ford",
+            "United States",
+            "\u22125",
+            "3",
+            "8750"
+        ],
+        [
+            "1956",
+            "Jack Burke, Jr.",
+            "United States",
+            "+1",
+            "1",
+            "6000"
+        ],
+        [
+            "1955",
+            "Cary Middlecoff",
+            "United States",
+            "\u22129",
+            "7",
+            "5000"
+        ],
+        [
+            "1954",
+            "Sam Snead (3)",
+            "United States",
+            "+1",
+            "Playoff (2)",
+            "5000"
+        ],
+        [
+            "1953",
+            "Ben Hogan (2)",
+            "United States",
+            "\u221214",
+            "5",
+            "4000"
+        ],
+        [
+            "1952",
+            "Sam Snead (2)",
+            "United States",
+            "\u22122",
+            "4",
+            "4000"
+        ],
+        [
+            "1951",
+            "Ben Hogan",
+            "United States",
+            "\u22128",
+            "2",
+            "3000"
+        ],
+        [
+            "1950",
+            "Jimmy Demaret (3)",
+            "United States",
+            "\u22125",
+            "2",
+            "2400"
+        ],
+        [
+            "1949",
+            "Sam Snead",
+            "United States",
+            "\u22126",
+            "3",
+            "2750"
+        ],
+        [
+            "1948",
+            "Claude Harmon",
+            "United States",
+            "\u22129",
+            "5",
+            "2500"
+        ],
+        [
+            "1947",
+            "Jimmy Demaret (2)",
+            "United States",
+            "\u22127",
+            "2",
+            "2500"
+        ],
+        [
+            "1946",
+            "Herman Keiser",
+            "United States",
+            "\u22126",
+            "1",
+            "2500"
+        ],
+        [
+            "1943-45: Cancelled due to World War II",
+            "1943-45: Cancelled due to World War II",
+            "1943-45: Cancelled due to World War II",
+            "1943-45: Cancelled due to World War II",
+            "1943-45: Cancelled due to World War II",
+            "1943-45: Cancelled due to World War II"
+        ],
+        [
+            "1942",
+            "Byron Nelson (2)",
+            "United States",
+            "\u22128",
+            "Playoff (2)",
+            "1500"
+        ],
+        [
+            "1941",
+            "Craig Wood",
+            "United States",
+            "\u22128",
+            "3",
+            "1500"
+        ],
+        [
+            "1940",
+            "Jimmy Demaret",
+            "United States",
+            "\u22128",
+            "4",
+            "1500"
+        ],
+        [
+            "1939",
+            "Ralph Guldahl",
+            "United States",
+            "\u22129",
+            "1",
+            "1500"
+        ],
+        [
+            "1938",
+            "Henry Picard",
+            "United States",
+            "\u22123",
+            "2",
+            "1500"
+        ],
+        [
+            "1937",
+            "Byron Nelson",
+            "United States",
+            "\u22125",
+            "2",
+            "1500"
+        ],
+        [
+            "1936",
+            "Horton Smith (2)",
+            "United States",
+            "\u22123",
+            "1",
+            "1500"
+        ],
+        [
+            "1935",
+            "Gene Sarazen",
+            "United States",
+            "\u22126",
+            "Playoff (2)",
+            "1500"
+        ],
+        [
+            "1934",
+            "Horton Smith",
+            "United States",
+            "\u22124",
+            "1",
+            "1500"
+        ]
+    ]
+}

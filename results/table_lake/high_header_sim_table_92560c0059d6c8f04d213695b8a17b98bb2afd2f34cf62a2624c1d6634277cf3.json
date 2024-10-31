@@ -1,0 +1,63 @@
+{
+    "id": "92560c0059d6c8f04d213695b8a17b98bb2afd2f34cf62a2624c1d6634277cf3",
+    "metadata": "United States House of Representatives elections, 1950 | Oklahoma | Oklahoma",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Oklahoma 1",
+            "Dixie Gilmer",
+            "Democratic",
+            "1948",
+            "Lost re-election Republican gain",
+            "George B. Schwabe (R) 52.9% Dixie Gilmer (D) 47.1%"
+        ],
+        [
+            "Oklahoma 2",
+            "William G. Stigler",
+            "Democratic",
+            "1944",
+            "Re-elected",
+            "William G. Stigler (D) 66.2% Cleo Crain (R) 33.8%"
+        ],
+        [
+            "Oklahoma 3",
+            "Carl Albert",
+            "Democratic",
+            "1946",
+            "Re-elected",
+            "Carl Albert (D) 82.8% Charles Powell (R) 17.2%"
+        ],
+        [
+            "Oklahoma 4",
+            "Tom Steed",
+            "Democratic",
+            "1948",
+            "Re-elected",
+            "Tom Steed (D) 68.1% Glenn O. Young (R) 31.9%"
+        ],
+        [
+            "Oklahoma 5",
+            "A. S. Mike Monroney",
+            "Democratic",
+            "1938",
+            "Retired to run for U. S. Senate Democratic hold",
+            "John Jarman (D) 58.8% C. E. Barnes (R) 41.2%"
+        ],
+        [
+            "Oklahoma 6",
+            "Toby Morris",
+            "Democratic",
+            "1946",
+            "Re-elected",
+            "Toby Morris (D) 67.1% George Campbell (R) 32.9%"
+        ]
+    ]
+}

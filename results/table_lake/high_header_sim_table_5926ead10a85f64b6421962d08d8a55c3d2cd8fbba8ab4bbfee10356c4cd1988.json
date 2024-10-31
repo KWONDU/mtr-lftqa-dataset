@@ -1,0 +1,133 @@
+{
+    "id": "5926ead10a85f64b6421962d08d8a55c3d2cd8fbba8ab4bbfee10356c4cd1988",
+    "metadata": "1967-68 Pittsburgh Penguins season | Game log | January",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Attendance",
+        "Record",
+        "Points"
+    ],
+    "cell": [
+        [
+            "January 4",
+            "Kings",
+            "3-4",
+            "Penguins",
+            "4202",
+            "14-17-5",
+            "33"
+        ],
+        [
+            "January 6",
+            "Flyers",
+            "2-2",
+            "Penguins",
+            "7351",
+            "14-17-6",
+            "34"
+        ],
+        [
+            "January 7",
+            "Penguins",
+            "1-3",
+            "Flyers",
+            "7935",
+            "14-18-6",
+            "34"
+        ],
+        [
+            "January 10",
+            "Canadiens",
+            "4-3",
+            "Penguins",
+            "5580",
+            "14-19-6",
+            "34"
+        ],
+        [
+            "January 12",
+            "Maple Leafs",
+            "3-4",
+            "Penguins",
+            "8292",
+            "15-19-6",
+            "36"
+        ],
+        [
+            "January 13",
+            "Penguins",
+            "0-7",
+            "Maple Leafs",
+            "15732",
+            "15-20-6",
+            "36"
+        ],
+        [
+            "January 17",
+            "Penguins",
+            "1-1",
+            "Seals",
+            "2638",
+            "15-20-7",
+            "37"
+        ],
+        [
+            "January 18",
+            "Penguins",
+            "2-3",
+            "Kings",
+            "5755",
+            "15-21-7",
+            "37"
+        ],
+        [
+            "January 20",
+            "Red Wings",
+            "5-8",
+            "Penguins",
+            "10547",
+            "16-21-7",
+            "39"
+        ],
+        [
+            "January 21",
+            "Penguins",
+            "3-4",
+            "North Stars",
+            "9298",
+            "16-22-7",
+            "39"
+        ],
+        [
+            "January 27",
+            "Kings",
+            "5-3",
+            "Penguins",
+            "11156",
+            "16-23-7",
+            "39"
+        ],
+        [
+            "January 28",
+            "Penguins",
+            "1-0",
+            "Bruins",
+            "13909",
+            "17-23-7",
+            "41"
+        ],
+        [
+            "January 31",
+            "Penguins",
+            "4-9",
+            "Blues",
+            "7748",
+            "17-24-7",
+            "41"
+        ]
+    ]
+}

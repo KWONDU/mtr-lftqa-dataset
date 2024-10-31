@@ -1,0 +1,56 @@
+{
+    "id": "3525d1d4d964bf2ae4aec34578e1c08661ee7f9ea4df4c6a63d3595ad4792e66",
+    "metadata": "2001 PGA Championship | Missed the cut | Missed the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "Mark Brooks",
+            "United States",
+            "1996",
+            "142",
+            "+2"
+        ],
+        [
+            "Larry Nelson",
+            "United States",
+            "1981 , 1987",
+            "142",
+            "+2"
+        ],
+        [
+            "Jeff Sluman",
+            "United States",
+            "1988",
+            "148",
+            "+8"
+        ],
+        [
+            "John Daly",
+            "United States",
+            "1991",
+            "149",
+            "+9"
+        ],
+        [
+            "Lanny Wadkins",
+            "United States",
+            "1977",
+            "171",
+            "+31"
+        ],
+        [
+            "Steve Elkington",
+            "Australia",
+            "1995",
+            "77",
+            "+7"
+        ]
+    ]
+}

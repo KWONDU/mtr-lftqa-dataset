@@ -1,0 +1,55 @@
+{
+    "id": "1ff120c7535e83553efc9a79d3e7604d879879e0a02d2db349461cb9e5800f03",
+    "metadata": "Port de Pailh\u00e8res | Appearances in Tour de France | Appearances in Tour de France",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Stage",
+        "Category",
+        "Start_",
+        "Finish",
+        "Leader_at_the_summit"
+    ],
+    "cell": [
+        [
+            "2013",
+            "8",
+            "HC",
+            "Castres",
+            "Ax-3 Domaines",
+            "Nairo Quintana ( COL )"
+        ],
+        [
+            "2010",
+            "14",
+            "HC",
+            "Revel",
+            "Ax-3 Domaines",
+            "Christophe Riblon ( FRA )"
+        ],
+        [
+            "2007",
+            "14",
+            "HC",
+            "Mazamet",
+            "Plateau-de-Beille",
+            "Rub\u00e9n P\u00e9rez ( ESP )"
+        ],
+        [
+            "2005",
+            "14",
+            "HC",
+            "Agde",
+            "Ax-3 Domaines",
+            "Georg Totschnig ( AUT )"
+        ],
+        [
+            "2003",
+            "13",
+            "1",
+            "Toulouse",
+            "Ax-3 Domaines",
+            "Juan Miguel Mercado ( ESP )"
+        ]
+    ]
+}

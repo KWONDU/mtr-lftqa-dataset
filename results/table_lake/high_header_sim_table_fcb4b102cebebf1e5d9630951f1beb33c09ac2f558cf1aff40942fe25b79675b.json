@@ -1,0 +1,73 @@
+{
+    "id": "fcb4b102cebebf1e5d9630951f1beb33c09ac2f558cf1aff40942fe25b79675b",
+    "metadata": "2008 Connecticut Sun season | Regular season | September",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "30",
+            "September 5",
+            "Chicago",
+            "W 80-75",
+            "Whitmore (17)",
+            "Jones (6)",
+            "Whalen (6)",
+            "Mohegan Sun Arena 8,088",
+            "20-10"
+        ],
+        [
+            "31",
+            "September 7",
+            "San Antonio",
+            "L 73-85",
+            "Jones (22)",
+            "Jones (9)",
+            "Abrosimova (6)",
+            "Mohegan Sun Arena 7,956",
+            "20-11"
+        ],
+        [
+            "32",
+            "September 9",
+            "@ Houston",
+            "L 68-75",
+            "Jones (22)",
+            "Whalen (8)",
+            "Whalen (5)",
+            "Reliant Arena 5,769",
+            "20-12"
+        ],
+        [
+            "33",
+            "September 11",
+            "@ San Antonio",
+            "L 74-78",
+            "Jones (18)",
+            "Gardin (14)",
+            "Carey (7)",
+            "AT&T Center 6,791",
+            "20-13"
+        ],
+        [
+            "34",
+            "September 13",
+            "Washington",
+            "W 87-81",
+            "Phillips (18)",
+            "Phillips (8)",
+            "Gruda , Swanier (4)",
+            "Mohegan Sun Arena 8,652",
+            "21-13"
+        ]
+    ]
+}

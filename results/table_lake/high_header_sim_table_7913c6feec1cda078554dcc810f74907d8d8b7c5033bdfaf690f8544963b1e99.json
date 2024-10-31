@@ -1,0 +1,88 @@
+{
+    "id": "7913c6feec1cda078554dcc810f74907d8d8b7c5033bdfaf690f8544963b1e99",
+    "metadata": "Somerset County Cricket Club in 1890 | Batting averages | Batting averages",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Matches",
+        "Innings",
+        "Runs",
+        "Average",
+        "_100s",
+        "_50s_"
+    ],
+    "cell": [
+        [
+            "Herbie Hewett",
+            "10",
+            "15",
+            "543",
+            "38.79",
+            "1",
+            "2"
+        ],
+        [
+            "Lionel Palairet",
+            "10",
+            "14",
+            "408",
+            "29.14",
+            "1",
+            "1"
+        ],
+        [
+            "Bill Roe",
+            "8",
+            "12",
+            "316",
+            "28.73",
+            "0",
+            "1"
+        ],
+        [
+            "George Nichols",
+            "13",
+            "18",
+            "497",
+            "27.61",
+            "1",
+            "3"
+        ],
+        [
+            "John Challen",
+            "9",
+            "14",
+            "286",
+            "20.43",
+            "0",
+            "1"
+        ],
+        [
+            "Ted Tyler",
+            "13",
+            "18",
+            "297",
+            "18.56",
+            "0",
+            "0"
+        ],
+        [
+            "Crescens Robinson",
+            "9",
+            "13",
+            "162",
+            "14.73",
+            "0",
+            "0"
+        ],
+        [
+            "Albert Clapp",
+            "11",
+            "15",
+            "159",
+            "10.60",
+            "0",
+            "0"
+        ]
+    ]
+}

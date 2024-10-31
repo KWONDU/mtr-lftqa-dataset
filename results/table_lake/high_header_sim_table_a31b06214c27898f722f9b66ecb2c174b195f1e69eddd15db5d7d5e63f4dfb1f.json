@@ -1,0 +1,70 @@
+{
+    "id": "a31b06214c27898f722f9b66ecb2c174b195f1e69eddd15db5d7d5e63f4dfb1f",
+    "metadata": "1977 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "13.24 (102)",
+            "Richmond",
+            "19.17 (131)",
+            "MCG",
+            "22272",
+            "30 April 1977"
+        ],
+        [
+            "Footscray",
+            "17.14 (116)",
+            "St Kilda",
+            "17.14 (116)",
+            "Western Oval",
+            "15453",
+            "30 April 1977"
+        ],
+        [
+            "Fitzroy",
+            "12.14 (86)",
+            "Hawthorn",
+            "21.16 (142)",
+            "Junction Oval",
+            "10428",
+            "30 April 1977"
+        ],
+        [
+            "Collingwood",
+            "18.16 (124)",
+            "Geelong",
+            "15.19 (109)",
+            "Victoria Park",
+            "24281",
+            "30 April 1977"
+        ],
+        [
+            "Carlton",
+            "21.8 (134)",
+            "South Melbourne",
+            "16.11 (107)",
+            "Princes Park",
+            "21533",
+            "30 April 1977"
+        ],
+        [
+            "North Melbourne",
+            "18.17 (125)",
+            "Essendon",
+            "15.15 (105)",
+            "VFL Park",
+            "22323",
+            "30 April 1977"
+        ]
+    ]
+}

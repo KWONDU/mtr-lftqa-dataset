@@ -1,0 +1,98 @@
+{
+    "id": "83bae8ee00130e39290c6a7f150c89d3cb0e0200b6f7de8b87875a7be52cb8ee",
+    "metadata": "Reinhold Roth | Motorcycle Grand Prix Results | Motorcycle Grand Prix Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Points",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1979",
+            "350cc",
+            "Yamaha",
+            "3",
+            "0"
+        ],
+        [
+            "1980",
+            "250cc",
+            "Yamaha",
+            "4",
+            "0"
+        ],
+        [
+            "1982",
+            "250cc",
+            "Yamaha",
+            "4",
+            "0"
+        ],
+        [
+            "1982",
+            "500cc",
+            "Suzuki",
+            "0",
+            "0"
+        ],
+        [
+            "1983",
+            "250cc",
+            "Yamaha",
+            "14",
+            "0"
+        ],
+        [
+            "1984",
+            "500cc",
+            "Honda",
+            "14",
+            "0"
+        ],
+        [
+            "1985",
+            "250cc",
+            "Romer-Juchem",
+            "29",
+            "0"
+        ],
+        [
+            "1986",
+            "250cc",
+            "HB - Honda",
+            "10",
+            "0"
+        ],
+        [
+            "1987",
+            "250cc",
+            "HB - Honda",
+            "108",
+            "1"
+        ],
+        [
+            "1988",
+            "250cc",
+            "HB - Honda",
+            "158",
+            "0"
+        ],
+        [
+            "1989",
+            "250cc",
+            "HB - Honda",
+            "190",
+            "2"
+        ],
+        [
+            "1990",
+            "250cc",
+            "HB - Honda",
+            "52",
+            "0"
+        ]
+    ]
+}

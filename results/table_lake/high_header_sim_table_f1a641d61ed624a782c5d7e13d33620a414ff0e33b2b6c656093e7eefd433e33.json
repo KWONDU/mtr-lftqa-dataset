@@ -1,0 +1,55 @@
+{
+    "id": "f1a641d61ed624a782c5d7e13d33620a414ff0e33b2b6c656093e7eefd433e33",
+    "metadata": "Cliff Griffith | Indy 500 results | Indy 500 results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Start_",
+        "Qual",
+        "Rank_",
+        "Finish",
+        "Laps"
+    ],
+    "cell": [
+        [
+            "1951",
+            "18",
+            "133.839",
+            "13",
+            "28",
+            "30"
+        ],
+        [
+            "1952",
+            "9",
+            "136.617",
+            "6",
+            "9",
+            "200"
+        ],
+        [
+            "1956",
+            "30",
+            "141.471",
+            "24",
+            "10",
+            "199"
+        ],
+        [
+            "1961",
+            "30",
+            "145.038",
+            "19",
+            "24",
+            "55"
+        ],
+        [
+            "Totals",
+            "Totals",
+            "Totals",
+            "Totals",
+            "Totals",
+            "484"
+        ]
+    ]
+}

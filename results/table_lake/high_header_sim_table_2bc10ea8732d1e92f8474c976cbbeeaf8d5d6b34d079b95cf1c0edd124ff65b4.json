@@ -1,0 +1,63 @@
+{
+    "id": "2bc10ea8732d1e92f8474c976cbbeeaf8d5d6b34d079b95cf1c0edd124ff65b4",
+    "metadata": "1999-2000 Manchester United F.C. season | Second group stage | Second group stage",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponents",
+        "H_A",
+        "Result_F_A",
+        "Attendance",
+        "Group_position"
+    ],
+    "cell": [
+        [
+            "23 November 1999",
+            "Fiorentina",
+            "A",
+            "0-2",
+            "36002",
+            "3rd"
+        ],
+        [
+            "8 December 1999",
+            "Valencia",
+            "H",
+            "3-0",
+            "54606",
+            "2nd"
+        ],
+        [
+            "1 March 2000",
+            "Bordeaux",
+            "H",
+            "2-0",
+            "59786",
+            "2nd"
+        ],
+        [
+            "7 March 2000",
+            "Bordeaux",
+            "A",
+            "2-1",
+            "30130",
+            "1st"
+        ],
+        [
+            "15 March 2000",
+            "Fiorentina",
+            "H",
+            "3-1",
+            "59926",
+            "1st"
+        ],
+        [
+            "21 March 2000",
+            "Valencia",
+            "A",
+            "0-0",
+            "40419",
+            "1st"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "c19fda09495837f87ee1fb0c9b98126abcee781aa67aaf86740603a9795bc199",
+    "metadata": "1971 Isle of Man TT | 1971 Isle of Man Production 250 cc TT final standings | 1971 Isle of Man Production 250 cc TT final standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Rider",
+        "Team",
+        "Speed",
+        "Time_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bill Smith",
+            "Honda",
+            "84.14mph",
+            "1:47.43.6"
+        ],
+        [
+            "2",
+            "Charlie Williams",
+            "Yamaha",
+            "84.04mph",
+            "1:47.52.0"
+        ],
+        [
+            "3",
+            "Tommy Robb",
+            "Honda",
+            "82.49mph",
+            "1:49.47.6"
+        ],
+        [
+            "4",
+            "Peter Berwick",
+            "Suzuki",
+            "81.27mph",
+            "1:51.26.4"
+        ],
+        [
+            "5",
+            "Gordon Daniels",
+            "Suzuki",
+            "81.09mph",
+            "1:51.41.4"
+        ],
+        [
+            "6",
+            "Lindsay Porter",
+            "Suzuki",
+            "79.14mph",
+            "1:54.26.6"
+        ],
+        [
+            "7",
+            "Roy Simmons",
+            "Suzuki",
+            "76.53mph",
+            "1:58.20.0"
+        ],
+        [
+            "8",
+            "Jim Evans",
+            "Montesa",
+            "74.44mph",
+            "2:01.20.8"
+        ],
+        [
+            "9",
+            "Bill Barker",
+            "Honda",
+            "72.25mph",
+            "2:05.21.0"
+        ]
+    ]
+}

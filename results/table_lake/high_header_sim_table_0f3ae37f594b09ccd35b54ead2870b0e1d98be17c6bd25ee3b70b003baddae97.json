@@ -1,0 +1,56 @@
+{
+    "id": "0f3ae37f594b09ccd35b54ead2870b0e1d98be17c6bd25ee3b70b003baddae97",
+    "metadata": "1995-96 Colorado Avalanche season | Playoffs | Western Conference Semifinals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Series"
+    ],
+    "cell": [
+        [
+            "May 2",
+            "Chicago",
+            "3 - 2",
+            "Colorado",
+            "0 - 1"
+        ],
+        [
+            "May 4",
+            "Chicago",
+            "1 - 5",
+            "Colorado",
+            "1 - 1"
+        ],
+        [
+            "May 6",
+            "Colorado",
+            "3 - 4",
+            "Chicago",
+            "1 - 2"
+        ],
+        [
+            "May 8",
+            "Colorado",
+            "3 - 2",
+            "Chicago",
+            "2 - 2"
+        ],
+        [
+            "May 11",
+            "Chicago",
+            "1 - 4",
+            "Colorado",
+            "3 - 2"
+        ],
+        [
+            "May 13",
+            "Colorado",
+            "4 - 3",
+            "Chicago",
+            "4 - 2"
+        ]
+    ]
+}

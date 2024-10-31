@@ -1,0 +1,55 @@
+{
+    "id": "6cd3522a539a8f6d79eb1fd9f43da2dc8b4207aac11641ae6f6f79b076a219f8",
+    "metadata": "Hughes Hall College Boat Club | Results | Match B",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Finish_position",
+        "_1st_day",
+        "_2nd_day",
+        "_3rd_day",
+        "_4th_Day"
+    ],
+    "cell": [
+        [
+            "2008",
+            "50th",
+            "bumped Emmanuel",
+            "rowed-over",
+            "bumped by Peterhouse",
+            "rowed-over"
+        ],
+        [
+            "2009",
+            "46th",
+            "bumped Trinity Hall",
+            "bumped Jesus",
+            "bumped Robinson",
+            "bumped Girton"
+        ],
+        [
+            "2010",
+            "43rd",
+            "bumped Peterhouse",
+            "rowed-over",
+            "bumped Churchill",
+            "bumped Fitzwilliam"
+        ],
+        [
+            "2011",
+            "39th",
+            "bumped Magdalene",
+            "bumped 1st & 3rd Trinity",
+            "bumped Lady Margaret",
+            "bumped Selwyn"
+        ],
+        [
+            "2012",
+            "36th",
+            "bumped Emmanuel",
+            "bumped St. Catharine`s",
+            "rowed-over",
+            "bumped Darwin"
+        ]
+    ]
+}

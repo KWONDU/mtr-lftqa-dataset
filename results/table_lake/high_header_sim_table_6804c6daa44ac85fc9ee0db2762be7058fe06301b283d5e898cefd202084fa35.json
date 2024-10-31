@@ -1,0 +1,49 @@
+{
+    "id": "6804c6daa44ac85fc9ee0db2762be7058fe06301b283d5e898cefd202084fa35",
+    "metadata": "List of England national rugby union team results 1990-99 | 1993 | 1993",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Teams",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "France",
+            "15",
+            "16/01/1993",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Wales",
+            "10",
+            "06/02/1993",
+            "Cardiff Arms Park , Cardiff",
+            "Five Nations"
+        ],
+        [
+            "Scotland",
+            "12",
+            "06/03/1993",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Ireland",
+            "17",
+            "20/03/1993",
+            "Lansdowne Road , Dublin",
+            "Five Nations"
+        ],
+        [
+            "New Zealand",
+            "9",
+            "27/11/1993",
+            "Twickenham , London",
+            "Test Match"
+        ]
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "17893d32efbf8e9ebc552ed78c865944d87f0d26cd1e7e2b755930e696766186",
+    "metadata": "Thierry Boutsen | Complete 24 Hours of Le Mans results | Complete 24 Hours of Le Mans results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Tyres",
+        "Team",
+        "Co_Drivers",
+        "Laps",
+        "Pos_",
+        "Class_Pos_"
+    ],
+    "cell": [
+        [
+            "1981",
+            "C",
+            "M",
+            "WM A.E.R.E.M.",
+            "Serge Saulnier Michel Pignard",
+            "15",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "1983",
+            "C",
+            "M",
+            "Ford France",
+            "Henri Pescarolo",
+            "174",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "1986",
+            "C1",
+            "M",
+            "Brun Motorsport",
+            "Didier Theys Alain Fert\u00e9",
+            "89",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "1993",
+            "C1",
+            "M",
+            "Peugeot Talbot Sport",
+            "Yannick Dalmas Teo Fabi",
+            "374",
+            "2nd",
+            "2nd"
+        ],
+        [
+            "1994",
+            "GT1",
+            "G",
+            "Le Mans Porsche Team Joest Racing",
+            "Hans Joachim Stuck Danny Sullivan",
+            "343",
+            "3rd",
+            "2nd"
+        ],
+        [
+            "1995",
+            "WSC",
+            "G",
+            "Porsche Kremer Racing",
+            "Hans Joachim Stuck Christophe Bouchut",
+            "289",
+            "6th",
+            "2nd"
+        ],
+        [
+            "1996",
+            "GT1",
+            "M",
+            "Porsche AG",
+            "Hans Joachim Stuck Bob Wollek",
+            "353",
+            "2nd",
+            "1st"
+        ],
+        [
+            "1997",
+            "GT1",
+            "G",
+            "Porsche AG",
+            "Hans Joachim Stuck Bob Wollek",
+            "238",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "1998",
+            "GT1",
+            "M",
+            "Toyota Motorsports Toyota Team Europe",
+            "Ralf Kelleners Geoff Lees",
+            "330",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "1999",
+            "LMGTP",
+            "M",
+            "Toyota Motorsports Toyota Team Europe",
+            "Ralf Kelleners Allan McNish",
+            "173",
+            "DNF",
+            "DNF"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "4d865824d87f47c8e0254beae9e37ef2ba2f285afdfcd3c658ffb37d73c5d709",
+    "metadata": "Rajasthan Royals | Overall results | Summary of results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Matches",
+        "Wins",
+        "Losses",
+        "No_Result",
+        "Success_Rate"
+    ],
+    "cell": [
+        [
+            "14",
+            "11",
+            "3",
+            "0",
+            "78.57%"
+        ],
+        [
+            "14",
+            "6",
+            "7",
+            "1",
+            "46.15%"
+        ],
+        [
+            "14",
+            "6",
+            "8",
+            "0",
+            "42.86%"
+        ],
+        [
+            "16",
+            "7",
+            "9",
+            "0",
+            "43.75%"
+        ],
+        [
+            "16",
+            "10",
+            "6",
+            "0",
+            "62.50%"
+        ],
+        [
+            "88",
+            "46",
+            "40",
+            "2",
+            "54.54%"
+        ]
+    ]
+}

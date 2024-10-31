@@ -1,0 +1,95 @@
+{
+    "id": "0d544559c2436f496abbf6127437a24827c16a879feb6f08cdad725cb3f22977",
+    "metadata": "Politics of Tuscany | Provinces | Provinces",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Province",
+        "Inhabitants",
+        "established",
+        "President",
+        "Party",
+        "Election"
+    ],
+    "cell": [
+        [
+            "Arezzo",
+            "348327",
+            "1826",
+            "Roberto Vasai",
+            "Democratic Party",
+            "2009"
+        ],
+        [
+            "Florence",
+            "991862",
+            "1848",
+            "Andrea Barducci",
+            "Democratic Party",
+            "2009"
+        ],
+        [
+            "Grosseto",
+            "227063",
+            "1766",
+            "Leonardo Marras",
+            "Democratic Party",
+            "2009"
+        ],
+        [
+            "Livorno",
+            "341453",
+            "1861",
+            "Giorgio Kutuf\u00e0",
+            "Democratic Party",
+            "2009"
+        ],
+        [
+            "Lucca",
+            "392182",
+            "1849",
+            "Stefano Baccelli",
+            "Democratic Party",
+            "2011"
+        ],
+        [
+            "Massa",
+            "203642",
+            "1859",
+            "Osvaldo Angeli",
+            "Democratic Party",
+            "2008"
+        ],
+        [
+            "Pisa",
+            "414154",
+            "1849",
+            "Andrea Pieroni",
+            "Democratic Party",
+            "2009"
+        ],
+        [
+            "Pistoia",
+            "292108",
+            "1927",
+            "Federica Fratoni",
+            "Democratic Party",
+            "2009"
+        ],
+        [
+            "Prato",
+            "248174",
+            "1992",
+            "Lambarto Nazzareno Gestri",
+            "Democratic Party",
+            "2009"
+        ],
+        [
+            "Siena",
+            "270333",
+            "1849",
+            "Simone Bezzini",
+            "Democratic Party",
+            "2009"
+        ]
+    ]
+}

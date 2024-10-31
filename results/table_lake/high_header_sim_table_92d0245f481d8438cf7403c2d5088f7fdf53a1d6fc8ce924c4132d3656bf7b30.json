@@ -1,0 +1,77 @@
+{
+    "id": "92d0245f481d8438cf7403c2d5088f7fdf53a1d6fc8ce924c4132d3656bf7b30",
+    "metadata": "Lukoil | Oil refining and petrochemical facilities | Oil refining and petrochemical facilities",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Location_",
+        "Launched",
+        "Acquired",
+        "Capacity_mln_tpa"
+    ],
+    "cell": [
+        [
+            "Lukoil-Nizhegorodnefteorgsintez",
+            "Kstovo",
+            "1958",
+            "2000",
+            "150"
+        ],
+        [
+            "Lukoil-Permnefteorgsintez",
+            "Perm",
+            "1958",
+            "1991",
+            "120"
+        ],
+        [
+            "Lukoil-Volgogradneftepererabotka",
+            "Volgograd",
+            "1957",
+            "1991",
+            "99"
+        ],
+        [
+            "Lukoil-Ukhtaneftepererabotka",
+            "Ukhta",
+            "1934",
+            "2000",
+            "37"
+        ],
+        [
+            "Lukoil-Odessky Neftepererabatyvayuschiy zavod",
+            "Odessa",
+            "1937",
+            "1999",
+            "36"
+        ],
+        [
+            "Lukoil Neftochim Burgas",
+            "Burgas",
+            "1964",
+            "1999",
+            "75"
+        ],
+        [
+            "Petrotel-Lukoil",
+            "Ploie\u015fti",
+            "1904",
+            "1998",
+            "24"
+        ],
+        [
+            "ISAB",
+            "Priolo Gargallo",
+            "1975",
+            "2008*",
+            "16,0*"
+        ],
+        [
+            "TRN",
+            "Vlissingen",
+            "1973",
+            "2009*",
+            "7,9*"
+        ]
+    ]
+}

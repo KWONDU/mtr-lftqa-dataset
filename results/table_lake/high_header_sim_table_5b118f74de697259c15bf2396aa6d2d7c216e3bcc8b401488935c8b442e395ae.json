@@ -1,0 +1,49 @@
+{
+    "id": "5b118f74de697259c15bf2396aa6d2d7c216e3bcc8b401488935c8b442e395ae",
+    "metadata": "Stefan Effenberg | International goals | International goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Venue",
+        "Score",
+        "Result_",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "15 June 1992",
+            "Idrottsparken , Norrk\u00f6ping , Sweden",
+            "2-0",
+            "2-0",
+            "UEFA Euro 1992"
+        ],
+        [
+            "9 September 1992",
+            "Parken Stadium , Copenhagen, Denmark",
+            "2-1",
+            "2-1",
+            "Friendly"
+        ],
+        [
+            "14 April 1993",
+            "Ruhrstadion , Bochum , Germany",
+            "2-1",
+            "6-1",
+            "Friendly"
+        ],
+        [
+            "14 April 1993",
+            "Ruhrstadion, Bochum, Germany",
+            "4-1",
+            "6-1",
+            "Friendly"
+        ],
+        [
+            "19 June 1993",
+            "Silverdome , Detroit , USA",
+            "1-0",
+            "2-1",
+            "U.S. Cup"
+        ]
+    ]
+}

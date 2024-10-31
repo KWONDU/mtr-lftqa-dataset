@@ -1,0 +1,105 @@
+{
+    "id": "351e9504f5bba6c108887fa3d54896d946ef56c1e2e19e9d2f7969729053e713",
+    "metadata": "Immigration to Europe | 2010 data for European Union | 2010 data for European Union",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Total_population_millions",
+        "Total_Foreign_born_millions",
+        "Born_in_other_EU_state_millions",
+        "Born_in_a_non_EU_state_millions"
+    ],
+    "cell": [
+        [
+            "Germany",
+            "81.802",
+            "9.812",
+            "3.396",
+            "6.415"
+        ],
+        [
+            "France",
+            "64.716",
+            "7.196",
+            "2.118",
+            "5.078"
+        ],
+        [
+            "United Kingdom",
+            "62.008",
+            "7.012",
+            "2.245",
+            "4.767"
+        ],
+        [
+            "Spain",
+            "46.000",
+            "6.422",
+            "2.328",
+            "4.094"
+        ],
+        [
+            "Italy",
+            "61.000",
+            "4.798",
+            "1.592",
+            "3.205"
+        ],
+        [
+            "Netherlands",
+            "16.575",
+            "1.832",
+            "0.428",
+            "1.404"
+        ],
+        [
+            "Greece",
+            "11.305",
+            "0.960",
+            "0320",
+            "0.640"
+        ],
+        [
+            "Sweden",
+            "9.340",
+            "1.337",
+            "0.477",
+            "0.859"
+        ],
+        [
+            "Austria",
+            "8.367",
+            "1.276",
+            "0.512",
+            "0.764"
+        ],
+        [
+            "Belgium",
+            "10.666",
+            "1.380",
+            "0.695",
+            "0.685"
+        ],
+        [
+            "Portugal",
+            "10.637",
+            "0.793",
+            "0.191",
+            "0.602"
+        ],
+        [
+            "Denmark",
+            "5.534",
+            "0.500",
+            "0.152",
+            "0.348"
+        ],
+        [
+            "EU 27",
+            "501.098",
+            "47.348",
+            "15.980",
+            "31.368"
+        ]
+    ]
+}

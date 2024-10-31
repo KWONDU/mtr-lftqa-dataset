@@ -1,0 +1,70 @@
+{
+    "id": "e2dfea72e853e7e0222c689fa6f47e215e801d9de0f0c6c5c3f22edb3a465083",
+    "metadata": "1968 VFL season | Round 18 | Round 18",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "14.13 (97)",
+            "Melbourne",
+            "8.11 (59)",
+            "Glenferrie Oval",
+            "14359",
+            "17 August 1968"
+        ],
+        [
+            "Footscray",
+            "6.8 (44)",
+            "St Kilda",
+            "16.13 (109)",
+            "Western Oval",
+            "15211",
+            "17 August 1968"
+        ],
+        [
+            "Fitzroy",
+            "10.12 (72)",
+            "Geelong",
+            "14.10 (94)",
+            "Princes Park",
+            "9782",
+            "17 August 1968"
+        ],
+        [
+            "South Melbourne",
+            "9.14 (68)",
+            "North Melbourne",
+            "11.13 (79)",
+            "Lake Oval",
+            "7412",
+            "17 August 1968"
+        ],
+        [
+            "Richmond",
+            "10.14 (74)",
+            "Essendon",
+            "7.12 (54)",
+            "MCG",
+            "68529",
+            "17 August 1968"
+        ],
+        [
+            "Collingwood",
+            "10.10 (70)",
+            "Carlton",
+            "16.11 (107)",
+            "Victoria Park",
+            "24496",
+            "17 August 1968"
+        ]
+    ]
+}

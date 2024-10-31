@@ -1,0 +1,49 @@
+{
+    "id": "0b61055a0e11482c8d7b98f31947e1006daca2814bc8c0c68a78217747321e33",
+    "metadata": "Rotores de Portugal | Aircraft | Aircraft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Aircraft",
+        "Origin",
+        "Squadron",
+        "Display_Aircraft",
+        "Dates"
+    ],
+    "cell": [
+        [
+            "Sud Aviation Alouette III",
+            "France",
+            "Squadron 33",
+            "4",
+            "1976\u20141980"
+        ],
+        [
+            "Sud Aviation Alouette III",
+            "France",
+            "Squadron 102",
+            "2",
+            "1982\u20141992"
+        ],
+        [
+            "Sud Aviation Alouette III",
+            "France",
+            "Squadron 111",
+            "4",
+            "1993\u20141994"
+        ],
+        [
+            "Sud Aviation Alouette III",
+            "France",
+            "Squadron 552",
+            "2",
+            "2004\u20142005"
+        ],
+        [
+            "Sud Aviation Alouette III",
+            "France",
+            "Squadron 552",
+            "3",
+            "2006\u2014present"
+        ]
+    ]
+}

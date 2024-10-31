@@ -1,0 +1,70 @@
+{
+    "id": "85fd3e58afa968641e017ad541ccba0c0fd58edd203d3339249f9bc10074600b",
+    "metadata": "IQue | iQue Game Boy Advance | iQue Game Boy Advance",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Chinese_Title",
+        "Pinyin",
+        "Released_Date",
+        "Genre",
+        "Game_Modes"
+    ],
+    "cell": [
+        [
+            "\u6781\u901fF-ZERO\u672a\u6765\u8d5b\u8f66",
+            "J\u00eds\u00f9 F-ZERO W\u00e8il\u00e1i S\u00e0ich\u0113",
+            "2007",
+            "Racing",
+            "Single-Player, Muti-Player (1-4)"
+        ],
+        [
+            "\u8d85\u7ea7\u9a6c\u529b\u6b27\u4e16\u754c",
+            "Ch\u0101oj\u00ed M\u01cel\u00ec\u014du Sh\u00ecji\u00e8",
+            "2006",
+            "Platform",
+            "Single-Player, Muti-Player"
+        ],
+        [
+            "\u8000\u897f\u5c9b",
+            "Y\u00e0oxi D\u01ceo",
+            "2006",
+            "Platform",
+            "Single-Player"
+        ],
+        [
+            "\u5bc6\u7279\u7f57\u5fb7 \u878d\u5408",
+            "M\u00ect\u00e8lu\u014dd\u00e9 R\u00f3ngh\u00e9",
+            "2006",
+            "Shooter",
+            "Single-Player"
+        ],
+        [
+            "\u74e6\u529b\u6b27\u5236\u9020",
+            "W\u01cel\u00ec\u014du Zh\u00ecz\u00e0o",
+            "2005",
+            "Minigames",
+            "Single-Player"
+        ],
+        [
+            "\u5bc6\u7279\u7f57\u5fb7\uff1a\u96f6\u70b9\u4efb\u52a1",
+            "M\u00ect\u00e8lu\u014dd\u00e9: L\u00edngdi\u01cen R\u00e8nw\u00f9",
+            "2005",
+            "Shooter",
+            "Single-Player"
+        ],
+        [
+            "\u8d85\u7ea7\u9a6c\u529b\u6b27\uff12",
+            "Ch\u0101oj\u00ed M\u01cel\u00ec\u014du 2",
+            "2004",
+            "Platform",
+            "Single-Player"
+        ],
+        [
+            "\u74e6\u529b\u6b27\u5bfb\u5b9d\u8bb0",
+            "W\u01cel\u00ec\u014du X\u00fanb\u01ceo J\u00ec",
+            "2004",
+            "Platform",
+            "Single-Player"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "b278c5fa797e007e77b5c89a7158dc0655ca0df4dd0b370ae6fa37f44eabff8d",
+    "metadata": "1975 VFL season | Round 20 | Round 20",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "12.16 (88)",
+            "South Melbourne",
+            "15.15 (105)",
+            "Kardinia Park",
+            "10973",
+            "16 August 1975"
+        ],
+        [
+            "Fitzroy",
+            "13.22 (100)",
+            "Melbourne",
+            "13.11 (89)",
+            "Junction Oval",
+            "13181",
+            "16 August 1975"
+        ],
+        [
+            "Essendon",
+            "15.15 (105)",
+            "North Melbourne",
+            "13.13 (91)",
+            "Windy Hill",
+            "16545",
+            "16 August 1975"
+        ],
+        [
+            "St Kilda",
+            "20.17 (137)",
+            "Collingwood",
+            "24.12 (156)",
+            "Moorabbin Oval",
+            "28359",
+            "16 August 1975"
+        ],
+        [
+            "Richmond",
+            "13.20 (98)",
+            "Carlton",
+            "14.11 (95)",
+            "MCG",
+            "49756",
+            "16 August 1975"
+        ],
+        [
+            "Footscray",
+            "14.9 (93)",
+            "Hawthorn",
+            "13.13 (91)",
+            "VFL Park",
+            "15601",
+            "16 August 1975"
+        ]
+    ]
+}

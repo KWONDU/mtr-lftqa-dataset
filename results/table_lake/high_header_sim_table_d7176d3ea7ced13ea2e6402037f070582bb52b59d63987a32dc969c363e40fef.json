@@ -1,0 +1,84 @@
+{
+    "id": "d7176d3ea7ced13ea2e6402037f070582bb52b59d63987a32dc969c363e40fef",
+    "metadata": "2000 U.S. Open (golf) | First round | First round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tiger Woods",
+            "United States",
+            "65",
+            "-6"
+        ],
+        [
+            "2",
+            "Miguel \u00c1ngel Jim\u00e9nez",
+            "Spain",
+            "66",
+            "-5"
+        ],
+        [
+            "3",
+            "John Huston",
+            "United States",
+            "67",
+            "-4"
+        ],
+        [
+            "T4",
+            "Bobby Clampett",
+            "United States",
+            "68",
+            "-3"
+        ],
+        [
+            "T4",
+            "Hale Irwin",
+            "United States",
+            "68",
+            "-3"
+        ],
+        [
+            "T4",
+            "Loren Roberts",
+            "United States",
+            "68",
+            "-3"
+        ],
+        [
+            "T7",
+            "\u00c1ngel Cabrera",
+            "Argentina",
+            "69",
+            "-2"
+        ],
+        [
+            "T7",
+            "Nick Faldo",
+            "England",
+            "69",
+            "-2"
+        ],
+        [
+            "T7",
+            "Rocco Mediate",
+            "United States",
+            "69",
+            "-2"
+        ],
+        [
+            "T7",
+            "Hal Sutton",
+            "United States",
+            "69",
+            "-2"
+        ]
+    ]
+}

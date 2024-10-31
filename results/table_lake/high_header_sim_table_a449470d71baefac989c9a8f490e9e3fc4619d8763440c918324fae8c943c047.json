@@ -1,0 +1,63 @@
+{
+    "id": "a449470d71baefac989c9a8f490e9e3fc4619d8763440c918324fae8c943c047",
+    "metadata": "Tourism in Belize | Wildlife sanctuaries | List of wildlife sanctuaries",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Reserve",
+        "District",
+        "IUCN",
+        "Est_",
+        "Description"
+    ],
+    "cell": [
+        [
+            "Aguacaliente",
+            "Toledo",
+            "IV",
+            "1998",
+            "Terrestrial."
+        ],
+        [
+            "Cockscomb Basin",
+            "Stann Creek / Toledo",
+            "IV",
+            "1997",
+            "Terrestrial."
+        ],
+        [
+            "Corozal Bay",
+            "Belize / Corozal",
+            "IV",
+            "1998",
+            "Marine."
+        ],
+        [
+            "Crooked Tree",
+            "Belize / Orange Walk",
+            "IV",
+            "1984",
+            "Ramsar site . Boundaries ill defined. Terrestrial."
+        ],
+        [
+            "Gales Point",
+            "Belize",
+            "IV",
+            "1998",
+            "Terrestrial."
+        ],
+        [
+            "Spanish Creek",
+            "Belize / Orange Walk",
+            "IV",
+            "2002",
+            "Terrestrial."
+        ],
+        [
+            "Swallow Caye",
+            "Belize",
+            "IV",
+            "2002",
+            "Marine."
+        ]
+    ]
+}

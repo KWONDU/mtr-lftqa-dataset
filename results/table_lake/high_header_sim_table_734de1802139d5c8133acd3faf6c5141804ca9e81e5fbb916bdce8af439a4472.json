@@ -1,0 +1,55 @@
+{
+    "id": "734de1802139d5c8133acd3faf6c5141804ca9e81e5fbb916bdce8af439a4472",
+    "metadata": "Art Cross | Indy 500 results | Indy 500 results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Start_",
+        "Qual",
+        "Rank_",
+        "Finish",
+        "Laps"
+    ],
+    "cell": [
+        [
+            "1952",
+            "20",
+            "134.288",
+            "26",
+            "5",
+            "200"
+        ],
+        [
+            "1953",
+            "12",
+            "137.310",
+            "8",
+            "2",
+            "200"
+        ],
+        [
+            "1954",
+            "27",
+            "138.675",
+            "14",
+            "11",
+            "200"
+        ],
+        [
+            "1955",
+            "24",
+            "138.750",
+            "23",
+            "17",
+            "168"
+        ],
+        [
+            "Totals",
+            "Totals",
+            "Totals",
+            "Totals",
+            "Totals",
+            "768"
+        ]
+    ]
+}

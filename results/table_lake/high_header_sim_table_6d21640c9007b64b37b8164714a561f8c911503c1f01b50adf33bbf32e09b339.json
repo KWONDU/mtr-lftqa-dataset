@@ -1,0 +1,340 @@
+{
+    "id": "6d21640c9007b64b37b8164714a561f8c911503c1f01b50adf33bbf32e09b339",
+    "metadata": "2010 Campeonato Brasileiro S\u00e9rie A | Managerial changes | Managerial changes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Outgoing_manager",
+        "Manner_of_departure",
+        "Date_of_vacancy",
+        "Position_in_table",
+        "Replaced_by",
+        "Date_of_appointment"
+    ],
+    "cell": [
+        [
+            "Vasco da Gama",
+            "V\u00e1gner Mancini",
+            "Sacked",
+            "March 25",
+            "Pre-season",
+            "Ga\u00facho (caretaker)",
+            "March 26"
+        ],
+        [
+            "Goi\u00e1s",
+            "Jorginho",
+            "Sacked",
+            "April 19",
+            "Pre-season",
+            "\u00c9merson Le\u00e3o",
+            "April 24"
+        ],
+        [
+            "Flamengo",
+            "Andrade",
+            "Sacked",
+            "April 23",
+            "Pre-season",
+            "Rog\u00e9rio Louren\u00e7o",
+            "April 24"
+        ],
+        [
+            "Palmeiras",
+            "Ant\u00f4nio Carlos Zago",
+            "Sacked",
+            "May 18",
+            "7th",
+            "Jorge Parraga (caretaker)",
+            "May 19"
+        ],
+        [
+            "Vasco da Gama",
+            "Ga\u00facho (caretaker)",
+            "Replaced",
+            "May 18",
+            "16th",
+            "Celso Roth",
+            "May 18"
+        ],
+        [
+            "Atl\u00e9tico Paranaense",
+            "Leandro Niehues",
+            "Sacked",
+            "May 25",
+            "17th",
+            "Leandro Niehues (caretaker)",
+            "May 25"
+        ],
+        [
+            "Internacional",
+            "Jorge Fossati",
+            "Sacked",
+            "May 28",
+            "18th",
+            "Enderson Moreira (caretaker)",
+            "May 29"
+        ],
+        [
+            "Atl\u00e9tico Paranaense",
+            "Leandro Niehues (caretaker)",
+            "Replaced",
+            "May 31",
+            "19th",
+            "Paulo C\u00e9sar Carpegiani",
+            "May 31"
+        ],
+        [
+            "Cruzeiro",
+            "Ad\u00edlson Batista",
+            "Resigned",
+            "June 2",
+            "6th",
+            "Cuca",
+            "June 8"
+        ],
+        [
+            "Atl\u00e9tico Goianiense",
+            "Geninho",
+            "Resigned",
+            "June 7",
+            "20th",
+            "Roberto Fernandes",
+            "June 14"
+        ],
+        [
+            "Vasco da Gama",
+            "Celso Roth",
+            "Left to sign with Internacional",
+            "June 12",
+            "19th",
+            "PC Gusm\u00e3o",
+            "June 13"
+        ],
+        [
+            "Internacional",
+            "Enderson Moreira (caretaker)",
+            "Replaced",
+            "June 12",
+            "16th",
+            "Celso Roth",
+            "June 12"
+        ],
+        [
+            "Cear\u00e1",
+            "PC Gusm\u00e3o",
+            "Left to sign with Vasco da Gama",
+            "June 13",
+            "2nd",
+            "Estevam Soares",
+            "June 13"
+        ],
+        [
+            "Palmeiras",
+            "Jorge Parraga (caretaker)",
+            "Replaced",
+            "June 13",
+            "10th",
+            "Luis Felipe Scolari",
+            "June 13"
+        ],
+        [
+            "Ava\u00ed",
+            "P\u00e9ricles Chamusca",
+            "Left to sign with Al-Arabi",
+            "July 1",
+            "12th",
+            "Ant\u00f4nio Lopes",
+            "July 5"
+        ],
+        [
+            "Corinthians",
+            "Mano Menezes",
+            "Left to sign with Brazil",
+            "July 24",
+            "2nd",
+            "Ad\u00edlson Batista",
+            "July 24"
+        ],
+        [
+            "Atl\u00e9tico Goianiense",
+            "Roberto Fernandes",
+            "Sacked",
+            "July 30",
+            "20th",
+            "Ren\u00ea Sim\u00f5es",
+            "August 1"
+        ],
+        [
+            "S\u00e3o Paulo",
+            "Ricardo Gomes",
+            "Contract expired",
+            "August 5",
+            "9th",
+            "S\u00e9rgio Baresi",
+            "August 10"
+        ],
+        [
+            "Gr\u00eamio",
+            "Silas",
+            "Sacked",
+            "August 8",
+            "18th",
+            "Renato Ga\u00facho",
+            "August 10"
+        ],
+        [
+            "Cear\u00e1",
+            "Estevam Soares",
+            "Sacked",
+            "August 8",
+            "3rd",
+            "M\u00e1rio S\u00e9rgio",
+            "August 9"
+        ],
+        [
+            "Vit\u00f3ria",
+            "Ricardo Silva",
+            "Sacked",
+            "August 9",
+            "16th",
+            "Toninho Cec\u00edlio",
+            "August 9"
+        ],
+        [
+            "Gr\u00eamio Prudente",
+            "Toninho Cec\u00edlio",
+            "Left to sign with Vit\u00f3ria",
+            "August 9",
+            "14th",
+            "Ant\u00f4nio Carlos Zago",
+            "August 17"
+        ],
+        [
+            "Goi\u00e1s",
+            "\u00c9merson Le\u00e3o",
+            "Sacked",
+            "August 27",
+            "20th",
+            "Jorginho",
+            "August 29"
+        ],
+        [
+            "Flamengo",
+            "Rog\u00e9rio Louren\u00e7o",
+            "Sacked",
+            "August 27",
+            "10th",
+            "Silas",
+            "August 29"
+        ],
+        [
+            "Cear\u00e1",
+            "M\u00e1rio S\u00e9rgio",
+            "Sacked",
+            "September 8",
+            "11th",
+            "Dimas Filgueiras (caretaker)",
+            "September 10"
+        ],
+        [
+            "Vit\u00f3ria",
+            "Toninho Cec\u00edlio",
+            "Sacked",
+            "September 8",
+            "15th",
+            "Ricardo Silva",
+            "September 9"
+        ],
+        [
+            "Gr\u00eamio Prudente",
+            "Ant\u00f4nio Carlos Zago",
+            "Sacked",
+            "September 10",
+            "19th",
+            "Marcelo Rospide",
+            "September 10"
+        ],
+        [
+            "Ava\u00ed",
+            "Ant\u00f4nio Lopes",
+            "Sacked",
+            "September 20",
+            "16th",
+            "Vagner Benazzi",
+            "October 10"
+        ],
+        [
+            "Santos",
+            "Dorival J\u00fanior",
+            "Sacked",
+            "September 21",
+            "6th",
+            "Marcelo Martelotte (caretaker)",
+            "September 21"
+        ],
+        [
+            "Atl\u00e9tico Mineiro",
+            "Vanderlei Luxemburgo",
+            "Sacked",
+            "September 23",
+            "18th",
+            "Dorival J\u00fanior",
+            "September 25"
+        ],
+        [
+            "Gr\u00eamio Prudente",
+            "Marcelo Rospide",
+            "Resigned",
+            "September 27",
+            "20th",
+            "F\u00e1bio Giuntini",
+            "October 5"
+        ],
+        [
+            "Atl\u00e9tico Paranaense",
+            "Paulo C\u00e9sar Carpegiani",
+            "Left to sign with S\u00e3o Paulo",
+            "October 3",
+            "5th",
+            "S\u00e9rgio Soares",
+            "October 4"
+        ],
+        [
+            "S\u00e3o Paulo",
+            "S\u00e9rgio Baresi",
+            "Replaced",
+            "October 3",
+            "11th",
+            "Paulo C\u00e9sar Carpegiani",
+            "October 3"
+        ],
+        [
+            "Flamengo",
+            "Silas",
+            "Sacked",
+            "October 4",
+            "15th",
+            "Vanderlei Luxemburgo",
+            "October 5"
+        ],
+        [
+            "Vit\u00f3ria",
+            "Ricardo Silva",
+            "Sacked",
+            "October 7",
+            "14th",
+            "Ant\u00f4nio Lopes",
+            "October 7"
+        ],
+        [
+            "Corinthians",
+            "Ad\u00edlson Batista",
+            "Mutual consent",
+            "October 10",
+            "3rd",
+            "Tite",
+            "October 17"
+        ]
+    ]
+}

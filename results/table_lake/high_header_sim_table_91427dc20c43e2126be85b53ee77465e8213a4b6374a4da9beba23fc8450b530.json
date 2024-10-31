@@ -1,0 +1,55 @@
+{
+    "id": "91427dc20c43e2126be85b53ee77465e8213a4b6374a4da9beba23fc8450b530",
+    "metadata": "Elimination Chamber (2011) | Elimination Chamber entrances and eliminations (SmackDown) | Elimination Chamber entrances and eliminations (SmackDown)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Eliminated",
+        "Wrestler",
+        "Entered",
+        "Eliminated_by",
+        "Method_of_elimination",
+        "Time_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Wade Barrett",
+            "3",
+            "Big Show",
+            "Pinned after a KO Punch",
+            "18:48"
+        ],
+        [
+            "2",
+            "Big Show",
+            "6",
+            "Kane",
+            "Pinned after a chokeslam",
+            "20:54"
+        ],
+        [
+            "3",
+            "Drew McIntyre",
+            "5",
+            "Kane",
+            "Pinned after a chokeslam",
+            "21:09"
+        ],
+        [
+            "4",
+            "Kane",
+            "4",
+            "Edge",
+            "Pinned after a spear",
+            "22:50"
+        ],
+        [
+            "5",
+            "Rey Mysterio",
+            "2",
+            "Edge",
+            "Pinned after a spear",
+            "31:30"
+        ]
+    ]
+}

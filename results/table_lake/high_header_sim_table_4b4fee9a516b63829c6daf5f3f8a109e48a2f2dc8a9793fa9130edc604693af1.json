@@ -1,0 +1,70 @@
+{
+    "id": "4b4fee9a516b63829c6daf5f3f8a109e48a2f2dc8a9793fa9130edc604693af1",
+    "metadata": "List of Asian Academy Award winners and nominees | Best Supporting Actor | Best Supporting Actor",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Name_",
+        "Film",
+        "Role_",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Year",
+            "Name",
+            "Film",
+            "Role",
+            "Status"
+        ],
+        [
+            "1957",
+            "Sessue Hayakawa",
+            "The Bridge on the River Kwai",
+            "Colonel Saito",
+            "Nominated"
+        ],
+        [
+            "1966",
+            "Mako",
+            "The Sand Pebbles",
+            "Po-Han",
+            "Nominated"
+        ],
+        [
+            "1984",
+            "Pat Morita",
+            "The Karate Kid",
+            "Mr. Miyagi",
+            "Nominated"
+        ],
+        [
+            "1984",
+            "Haing S. Ngor",
+            "The Killing Fields",
+            "Dith Pran",
+            "Won"
+        ],
+        [
+            "1991",
+            "Ben Kingsley",
+            "Bugsy",
+            "Meyer Lansky",
+            "Nominated"
+        ],
+        [
+            "2001",
+            "Ben Kingsley",
+            "Sexy Beast",
+            "Don Logan",
+            "Nominated"
+        ],
+        [
+            "2003",
+            "Ken Watanabe",
+            "The Last Samurai",
+            "Lord Katsumoto",
+            "Nominated"
+        ]
+    ]
+}

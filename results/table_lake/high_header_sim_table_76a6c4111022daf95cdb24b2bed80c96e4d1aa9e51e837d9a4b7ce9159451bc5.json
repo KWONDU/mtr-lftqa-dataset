@@ -1,0 +1,70 @@
+{
+    "id": "76a6c4111022daf95cdb24b2bed80c96e4d1aa9e51e837d9a4b7ce9159451bc5",
+    "metadata": "Pacific 8 Intercollegiate Hockey Conference | Members | Members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Founded",
+        "Enrollment",
+        "Nickname"
+    ],
+    "cell": [
+        [
+            "Arizona State University *",
+            "Tempe, AZ",
+            "1885",
+            "59794",
+            "Sun Devils"
+        ],
+        [
+            "University of California",
+            "Berkeley, CA",
+            "1868",
+            "35409",
+            "Golden Bears"
+        ],
+        [
+            "University of California, Los Angeles",
+            "Los Angeles, CA",
+            "1919",
+            "38000",
+            "Bruins"
+        ],
+        [
+            "University of Oregon",
+            "Eugene, OR",
+            "1876",
+            "22386",
+            "Ducks"
+        ],
+        [
+            "University of Southern California",
+            "Los Angeles, CA",
+            "1880",
+            "32160",
+            "Trojans"
+        ],
+        [
+            "University of Utah",
+            "Salt Lake City, UT",
+            "1850",
+            "30819",
+            "Utes"
+        ],
+        [
+            "University of Washington",
+            "Seattle, WA",
+            "1861",
+            "42708",
+            "Huskies"
+        ],
+        [
+            "Washington State University",
+            "Pullman, WA",
+            "1890",
+            "25135",
+            "Cougars"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "8a60664ae564bc554683355fb0976c3773f1abd914fbd83355a0349f13baeeec",
+    "metadata": "List of NGC objects (6001-7000) | 6001-6100 | 6001-6100",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_",
+        "Apparent_magnitude"
+    ],
+    "cell": [
+        [
+            "6025",
+            "Open cluster",
+            "Triangulum Australe",
+            "16h03m42s",
+            "\u00b030\u203200\u2033",
+            "5.1"
+        ],
+        [
+            "6027",
+            "Interacting galaxy",
+            "Serpens",
+            "15h59m12.7s",
+            "\u00b045\u203247\u2033",
+            "14.7"
+        ],
+        [
+            "6027a",
+            "Interacting galaxy",
+            "Serpens",
+            "15h59m11.5s",
+            "\u00b045\u203214\u2033",
+            "15.1"
+        ],
+        [
+            "6027b",
+            "Interacting galaxy",
+            "Serpens",
+            "15h59m11.0s",
+            "\u00b045\u203242\u2033",
+            "15.4"
+        ],
+        [
+            "6027c",
+            "Interacting galaxy",
+            "Serpens",
+            "15h59m12.1s",
+            "\u00b044\u203247\u2033",
+            "16.0"
+        ],
+        [
+            "6027d",
+            "Spiral galaxy",
+            "Serpens",
+            "15h59m13.2s",
+            "\u00b045\u203233\u2033",
+            "15.6"
+        ],
+        [
+            "6027e",
+            "Interacting galaxy",
+            "Serpens",
+            "15h59m15.1s",
+            "\u00b045\u203255\u2033",
+            "16.5"
+        ],
+        [
+            "6043",
+            "Interacting galaxy",
+            "Hercules",
+            "16h005m01.2s",
+            "\u00b046\u203226\u2033",
+            "15.4"
+        ],
+        [
+            "6087",
+            "Open cluster",
+            "Norma",
+            "16h19m",
+            "\u00b056\u2032",
+            "5.9"
+        ],
+        [
+            "6093",
+            "Globular cluster",
+            "Scorpius",
+            "16h17m02.5s",
+            "\u00b058\u203230\u2033",
+            "8.7"
+        ]
+    ]
+}

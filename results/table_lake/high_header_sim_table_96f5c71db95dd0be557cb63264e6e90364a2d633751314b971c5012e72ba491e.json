@@ -1,0 +1,126 @@
+{
+    "id": "96f5c71db95dd0be557cb63264e6e90364a2d633751314b971c5012e72ba491e",
+    "metadata": "List of the busiest airports in Africa | 2012 statistics (at least 1,000,000 passengers, incomplete) | 2012 statistics (at least 1,000,000 passengers, incomplete)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Airport",
+        "City",
+        "_2012",
+        "Change_12_11"
+    ],
+    "cell": [
+        [
+            "South Africa",
+            "OR Tambo International Airport",
+            "Johannesburg",
+            "18681458",
+            "0 1.2%"
+        ],
+        [
+            "Spain",
+            "Gran Canaria Airport",
+            "Las Palmas de Gran Canaria",
+            "9892067",
+            "0 6.1%"
+        ],
+        [
+            "Spain",
+            "Tenerife Sur",
+            "Granadilla de Abona",
+            "8530729",
+            "0 1.5%"
+        ],
+        [
+            "South Africa",
+            "Cape Town International Airport",
+            "Cape Town",
+            "8505563",
+            "0 0.8%"
+        ],
+        [
+            "Morocco",
+            "Mohammed V International Airport",
+            "Casablanca",
+            "7186331",
+            "0 1.4%"
+        ],
+        [
+            "Spain",
+            "Lanzarote Airport",
+            "San Bartolom\u00e9, Las Palmas",
+            "5168775",
+            "0 6.8%"
+        ],
+        [
+            "South Africa",
+            "King Shaka International Airport",
+            "Durban",
+            "4747224",
+            "0 5.8%"
+        ],
+        [
+            "Spain",
+            "Fuerteventura Airport",
+            "Puerto del Rosario",
+            "4399023",
+            "0 11.1%"
+        ],
+        [
+            "Spain",
+            "Tenerife Norte",
+            "San Crist\u00f3bal de La Laguna",
+            "3717944",
+            "0 9.2%"
+        ],
+        [
+            "Morocco",
+            "Marrakesh Menara Airport",
+            "Marrakesh",
+            "3373475",
+            "0 1.7%"
+        ],
+        [
+            "Mauritius",
+            "Sir Seewoosagur Ramgoolam International Airport",
+            "Mauritius",
+            "2490862",
+            "0 3.7%"
+        ],
+        [
+            "France",
+            "La R\u00e9union Roland Garros Airport",
+            "Saint-Denis",
+            "1997800",
+            "0 4.2%"
+        ],
+        [
+            "Ghana",
+            "Kotoka International Airport",
+            "Accra",
+            "1726051",
+            "0 8.9%"
+        ],
+        [
+            "Morocco",
+            "Agadir-Al Massira Airport",
+            "Agadir",
+            "1384931",
+            "0 8.7%"
+        ],
+        [
+            "South Africa",
+            "Port Elizabeth Airport",
+            "Port Elizabeth",
+            "1316063",
+            "0 3.7%"
+        ],
+        [
+            "Tunisia",
+            "Monastir International Airport",
+            "Monastir",
+            "1238757",
+            "0 23.9%"
+        ]
+    ]
+}

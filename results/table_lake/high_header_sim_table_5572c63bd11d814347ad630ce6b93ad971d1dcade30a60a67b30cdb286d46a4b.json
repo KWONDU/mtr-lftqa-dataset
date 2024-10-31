@@ -1,0 +1,70 @@
+{
+    "id": "5572c63bd11d814347ad630ce6b93ad971d1dcade30a60a67b30cdb286d46a4b",
+    "metadata": "List of England national rugby union team results 1990-99 | 1994 | 1994",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Teams",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Scotland",
+            "14",
+            "05/02/1994",
+            "Murrayfield , Edinburgh",
+            "Five Nations"
+        ],
+        [
+            "Ireland",
+            "13",
+            "19/02/1994",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "France",
+            "14",
+            "05/03/1994",
+            "Parc des Princes , Paris",
+            "Five Nations"
+        ],
+        [
+            "Wales",
+            "8",
+            "19/03/1994",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "South Africa",
+            "15",
+            "04/06/1994",
+            "Loftus Versfeld , Pretoria",
+            "First Test"
+        ],
+        [
+            "South Africa",
+            "27",
+            "11/06/1994",
+            "Newlands , Cape Town",
+            "Second Test"
+        ],
+        [
+            "Romania",
+            "3",
+            "12/11/1994",
+            "Twickenham , London",
+            "Test Match"
+        ],
+        [
+            "Canada",
+            "19",
+            "10/12/1994",
+            "Twickenham , London",
+            "Test Match"
+        ]
+    ]
+}

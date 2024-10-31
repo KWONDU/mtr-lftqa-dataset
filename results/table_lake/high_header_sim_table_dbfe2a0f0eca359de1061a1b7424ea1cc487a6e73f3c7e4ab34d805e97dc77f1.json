@@ -1,0 +1,49 @@
+{
+    "id": "dbfe2a0f0eca359de1061a1b7424ea1cc487a6e73f3c7e4ab34d805e97dc77f1",
+    "metadata": "Paco Godia | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1951",
+            "Scuderia Milano",
+            "Maserati 4CLT/48",
+            "Maserati Straight-4",
+            "0"
+        ],
+        [
+            "1954",
+            "Officine Alfieri Maserati",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1956",
+            "Officine Alfieri Maserati",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "6"
+        ],
+        [
+            "1957",
+            "Francesco Godia Sales",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1958",
+            "Francesco Godia Sales",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ]
+    ]
+}

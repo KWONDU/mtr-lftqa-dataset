@@ -1,0 +1,70 @@
+{
+    "id": "6c19371eb00953de9badea3e56b99b1d52610c2870aed3c432ef0b4552d6d770",
+    "metadata": "1980 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "17.15 (117)",
+            "Essendon",
+            "17.22 (124)",
+            "MCG",
+            "51548",
+            "5 April 1980"
+        ],
+        [
+            "North Melbourne",
+            "7.14 (56)",
+            "Collingwood",
+            "7.19 (61)",
+            "Arden Street Oval",
+            "24363",
+            "5 April 1980"
+        ],
+        [
+            "Melbourne",
+            "22.8 (140)",
+            "Fitzroy",
+            "17.14 (116)",
+            "VFL Park",
+            "28802",
+            "5 April 1980"
+        ],
+        [
+            "Carlton",
+            "14.25 (109)",
+            "Geelong",
+            "15.14 (104)",
+            "Princes Park",
+            "32614",
+            "7 April 1980"
+        ],
+        [
+            "St Kilda",
+            "11.17 (83)",
+            "Hawthorn",
+            "15.26 (116)",
+            "Moorabbin Oval",
+            "22265",
+            "7 April 1980"
+        ],
+        [
+            "South Melbourne",
+            "14.17 (101)",
+            "Footscray",
+            "10.13 (73)",
+            "Lake Oval",
+            "19191",
+            "7 April 1980"
+        ]
+    ]
+}

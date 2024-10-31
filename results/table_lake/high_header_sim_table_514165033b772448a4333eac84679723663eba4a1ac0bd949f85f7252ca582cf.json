@@ -1,0 +1,49 @@
+{
+    "id": "514165033b772448a4333eac84679723663eba4a1ac0bd949f85f7252ca582cf",
+    "metadata": "Silver City, Pinos Altos and Mogollon Railroad | Locomotives | Locomotives",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Number_",
+        "Builder",
+        "Type_",
+        "Date_",
+        "Works_number"
+    ],
+    "cell": [
+        [
+            "1",
+            "Lima Locomotive Works",
+            "2-truck, 2-cylinder 10-ton Shay",
+            "8/1887",
+            "181"
+        ],
+        [
+            "2",
+            "Lima Locomotive Works",
+            "2-truck, 3-cylinder 12-ton Shay",
+            "2/1888",
+            "199"
+        ],
+        [
+            "3",
+            "Lima Locomotive Works",
+            "20-ton Shay",
+            "4/1906",
+            "1672"
+        ],
+        [
+            "4",
+            "Lima Locomotive Works",
+            "20-ton Shay",
+            "4/1906",
+            "1673"
+        ],
+        [
+            "5",
+            "Lima Locomotive Works",
+            "33-ton Shay",
+            "7/1907",
+            "1928"
+        ]
+    ]
+}

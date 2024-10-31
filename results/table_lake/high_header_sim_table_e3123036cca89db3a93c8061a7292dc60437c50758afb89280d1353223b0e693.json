@@ -1,0 +1,63 @@
+{
+    "id": "e3123036cca89db3a93c8061a7292dc60437c50758afb89280d1353223b0e693",
+    "metadata": "United States House of Representatives elections, 1900 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "William Elliott",
+            "Democratic",
+            "1886 1896",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 2",
+            "W. Jasper Talbert",
+            "Democratic",
+            "1892",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 3",
+            "Asbury Latimer",
+            "Democratic",
+            "1892",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 4",
+            "Stanyarne Wilson",
+            "Democratic",
+            "1894",
+            "Lost primary Democratic hold"
+        ],
+        [
+            "South Carolina 5",
+            "David E. Finley",
+            "Democratic",
+            "1898",
+            "Re-elected"
+        ],
+        [
+            "South Carolina 6",
+            "James Norton",
+            "Democratic",
+            "1897 (special)",
+            "Lost primary Democratic hold"
+        ],
+        [
+            "South Carolina 7",
+            "J. William Stokes",
+            "Democratic",
+            "1894",
+            "Re-elected"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "a16df865f3cad8bfede500e7af0b3cdd5fb3af7db0c3761ee9a8ea2fd6e92585",
+    "metadata": "Levanger | General information | Churches",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Parish",
+        "Church_name",
+        "Location_",
+        "Year_built_"
+    ],
+    "cell": [
+        [
+            "Alstadhaug",
+            "Alstadhaug Church",
+            "Alstadhaug",
+            "1180"
+        ],
+        [
+            "Ekne",
+            "Ekne Church",
+            "Ekne",
+            "1893"
+        ],
+        [
+            "Levanger",
+            "Levanger Church",
+            "Levanger",
+            "1902"
+        ],
+        [
+            "Levanger",
+            "Bamberg Church",
+            "Levanger",
+            "1998"
+        ],
+        [
+            "Markabygd",
+            "Markabygda Church",
+            "Markabygd",
+            "1887"
+        ],
+        [
+            "Okkenhaug",
+            "Okkenhaug Chapel",
+            "Okkenhaug",
+            "1893"
+        ],
+        [
+            "Ytter\u00f8y",
+            "Ytter\u00f8y Church",
+            "Ytter\u00f8ya",
+            "1890"
+        ],
+        [
+            "\u00c5sen",
+            "\u00c5sen Church",
+            "\u00c5sen",
+            "1904"
+        ]
+    ]
+}

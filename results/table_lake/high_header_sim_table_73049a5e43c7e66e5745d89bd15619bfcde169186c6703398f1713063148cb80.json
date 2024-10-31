@@ -1,0 +1,205 @@
+{
+    "id": "73049a5e43c7e66e5745d89bd15619bfcde169186c6703398f1713063148cb80",
+    "metadata": "2007-08 Toronto Raptors season | Game log | March",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "58",
+            "March 2",
+            "@ Charlotte",
+            "L 98-110 (OT)",
+            "Anthony Parker (24)",
+            "Kris Humphries , Anthony Parker (6)",
+            "Jos\u00e9 Calder\u00f3n (10)",
+            "Charlotte Bobcats Arena 12,083",
+            "32-26"
+        ],
+        [
+            "59",
+            "March 4",
+            "@ Orlando",
+            "L 87-102 (OT)",
+            "T. J. Ford (20)",
+            "Carlos Delfino , Anthony Parker (9)",
+            "Jos\u00e9 Calder\u00f3n , Carlos Delfino (3)",
+            "Amway Arena 17,519",
+            "32-27"
+        ],
+        [
+            "60",
+            "March 5",
+            "@ Miami",
+            "W 108-83 (OT)",
+            "Radoslav Nesterovi\u0107 (16)",
+            "Radoslav Nesterovi\u0107 (10)",
+            "Jos\u00e9 Calder\u00f3n (13)",
+            "American Airlines Arena 19,143",
+            "33-27"
+        ],
+        [
+            "61",
+            "March 7",
+            "Washington",
+            "L 106-110 (OT)",
+            "Andrea Bargnani (27)",
+            "Radoslav Nesterovi\u0107 (12)",
+            "Jos\u00e9 Calder\u00f3n (9)",
+            "Air Canada Centre 19,800",
+            "33-28"
+        ],
+        [
+            "62",
+            "March 9",
+            "Seattle",
+            "W 114-106 (OT)",
+            "Anthony Parker (23)",
+            "Andrea Bargnani (7)",
+            "Radoslav Nesterovi\u0107 (6)",
+            "Air Canada Centre 19,800",
+            "34-28"
+        ],
+        [
+            "63",
+            "March 11",
+            "@ L.A. Lakers",
+            "L 108-117 (OT)",
+            "T. J. Ford (28)",
+            "Radoslav Nesterovi\u0107 (8)",
+            "Andrea Bargnani , Jos\u00e9 Calder\u00f3n (6)",
+            "Staples Center 18,997",
+            "34-29"
+        ],
+        [
+            "64",
+            "March 12",
+            "@ Golden State",
+            "L 106-117 (OT)",
+            "T. J. Ford (23)",
+            "Anthony Parker (9)",
+            "T. J. Ford (8)",
+            "Oracle Arena 19,596",
+            "34-30"
+        ],
+        [
+            "65",
+            "March 14",
+            "@ Denver",
+            "L 105-137 (OT)",
+            "Anthony Parker (19)",
+            "Carlos Delfino , Jamario Moon (7)",
+            "Jos\u00e9 Calder\u00f3n (7)",
+            "Pepsi Center 17,952",
+            "34-31"
+        ],
+        [
+            "66",
+            "March 16",
+            "@ Sacramento",
+            "L 100-106 (OT)",
+            "Jason Kapono (26)",
+            "Radoslav Nesterovi\u0107 (8)",
+            "Jos\u00e9 Calder\u00f3n (9)",
+            "ARCO Arena 13,963",
+            "34-32"
+        ],
+        [
+            "67",
+            "March 17",
+            "@ Utah",
+            "L 79-96 (OT)",
+            "Jos\u00e9 Calder\u00f3n (16)",
+            "Radoslav Nesterovi\u0107 (12)",
+            "Jos\u00e9 Calder\u00f3n (7)",
+            "EnergySolutions Arena 19,911",
+            "34-33"
+        ],
+        [
+            "68",
+            "March 19",
+            "Miami",
+            "W 96-54 (OT)",
+            "Andrea Bargnani , Anthony Parker (14)",
+            "Jamario Moon (14)",
+            "Jos\u00e9 Calder\u00f3n (10)",
+            "Air Canada Centre 19,800",
+            "35-33"
+        ],
+        [
+            "69",
+            "March 21",
+            "@ Cleveland",
+            "L 83-90 (OT)",
+            "Chris Bosh (24)",
+            "Jamario Moon (10)",
+            "T. J. Ford (5)",
+            "Quicken Loans Arena 20,562",
+            "35-34"
+        ],
+        [
+            "70",
+            "March 23",
+            "Denver",
+            "L 100-109 (OT)",
+            "Chris Bosh , Jos\u00e9 Calder\u00f3n (17)",
+            "Jamario Moon (15)",
+            "Chris Bosh (9)",
+            "Air Canada Centre 19,800",
+            "35-35"
+        ],
+        [
+            "71",
+            "March 26",
+            "Detroit",
+            "W 89-82 (OT)",
+            "Chris Bosh (21)",
+            "Radoslav Nesterovi\u0107 (9)",
+            "T. J. Ford (9)",
+            "Air Canada Centre 19,800",
+            "36-35"
+        ],
+        [
+            "72",
+            "March 28",
+            "New York",
+            "W 103-95 (OT)",
+            "Chris Bosh (29)",
+            "Chris Bosh , Carlos Delfino (10)",
+            "T. J. Ford (9)",
+            "Air Canada Centre 19,800",
+            "37-35"
+        ],
+        [
+            "73",
+            "March 30",
+            "New Orleans",
+            "L 111-118 (OT)",
+            "Chris Bosh (21)",
+            "Chris Bosh , Kris Humphries (7)",
+            "Jos\u00e9 Calder\u00f3n (11)",
+            "Air Canada Centre 19,800",
+            "37-36"
+        ],
+        [
+            "74",
+            "March 31",
+            "@ Charlotte",
+            "W 104-100 (OT)",
+            "Chris Bosh (32)",
+            "Radoslav Nesterovi\u0107 (11)",
+            "T. J. Ford (7)",
+            "Charlotte Bobcats Arena 12,188",
+            "38-36"
+        ]
+    ]
+}

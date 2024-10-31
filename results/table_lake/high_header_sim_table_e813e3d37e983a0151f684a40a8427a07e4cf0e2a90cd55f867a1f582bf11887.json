@@ -1,0 +1,61 @@
+{
+    "id": "e813e3d37e983a0151f684a40a8427a07e4cf0e2a90cd55f867a1f582bf11887",
+    "metadata": "List of MLS Cup broadcasters | 2010s | 2010s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Network",
+        "Play_by_play",
+        "Color_commentator",
+        "Sideline_reporters",
+        "Pregame_host",
+        "Pregame_analysts"
+    ],
+    "cell": [
+        [
+            "2012",
+            "ESPN",
+            "Adrian Healey",
+            "Taylor Twellman",
+            "Monica Gonzalez",
+            "Max Bretos",
+            "Alexi Lalas , Kasey Keller and Alejandro Moreno"
+        ],
+        [
+            "2012",
+            "TSN2",
+            "Adrian Healey",
+            "Taylor Twellman",
+            "Monica Gonzalez",
+            "Max Bretos",
+            "Alexi Lalas , Kasey Keller and Alejandro Moreno"
+        ],
+        [
+            "2011",
+            "ESPN",
+            "Ian Darke",
+            "John Harkes",
+            "Rob Stone and Monica Gonzalez",
+            "Max Bretos",
+            "Alexi Lalas , Taylor Twellman and Alejandro Moreno"
+        ],
+        [
+            "2011",
+            "TSN2",
+            "Ian Darke",
+            "John Harkes",
+            "Rob Stone and Monica Gonzalez",
+            "Max Bretos",
+            "Alexi Lalas , Taylor Twellman and Alejandro Moreno"
+        ],
+        [
+            "2010",
+            "ESPN",
+            "Ian Darke",
+            "John Harkes",
+            "Rob Stone",
+            "Max Bretos",
+            "Alexi Lalas and Steve McManaman"
+        ]
+    ]
+}

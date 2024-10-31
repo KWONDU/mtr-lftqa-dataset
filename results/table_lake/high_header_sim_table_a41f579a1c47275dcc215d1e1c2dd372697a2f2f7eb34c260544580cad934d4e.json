@@ -1,0 +1,87 @@
+{
+    "id": "a41f579a1c47275dcc215d1e1c2dd372697a2f2f7eb34c260544580cad934d4e",
+    "metadata": "Television in Italy | Thematic channels | Thematic channels",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Television_service",
+        "Country",
+        "Language_",
+        "Content",
+        "HDTV",
+        "Package_Option"
+    ],
+    "cell": [
+        [
+            "Rai Storia",
+            "Italy",
+            "Italian",
+            "documentaries",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Rai Scuola",
+            "Italy",
+            "Italian",
+            "educazione",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Rai Gulp",
+            "Italy",
+            "Italian",
+            "ragazzi",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "DMAX",
+            "Italy",
+            "Italian",
+            "documentaries",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Canale Aste",
+            "Italy",
+            "Italian",
+            "aste",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Rai Nettuno Sat Uno",
+            "Italy",
+            "Italian",
+            "e-learning",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Ceramicanda",
+            "Italy",
+            "Italian",
+            "design",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Blu Live",
+            "Italy",
+            "Italian",
+            "gioco d`azzardo",
+            "no",
+            "no ( FTA )"
+        ],
+        [
+            "Reteconomy",
+            "Italy",
+            "Italian",
+            "economia",
+            "no",
+            "no ( FTA )"
+        ]
+    ]
+}

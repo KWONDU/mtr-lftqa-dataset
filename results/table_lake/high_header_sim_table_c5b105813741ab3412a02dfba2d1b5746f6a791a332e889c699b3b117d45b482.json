@@ -1,0 +1,49 @@
+{
+    "id": "c5b105813741ab3412a02dfba2d1b5746f6a791a332e889c699b3b117d45b482",
+    "metadata": "Jiyai Shin | LPGA of Japan Tour (5) | LPGA of Japan Tour (5)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Winning_score",
+        "Margin_of_victory",
+        "Runners_up"
+    ],
+    "cell": [
+        [
+            "23 Mar 2008",
+            "Yokohama Tire PRGR Ladies Cup",
+            "\u22124 (70-69-73=212)",
+            "Playoff",
+            "Sakura Yokomine"
+        ],
+        [
+            "9 Nov 2008",
+            "Mizuno Classic ^",
+            "\u221215 (68-66-67=201)",
+            "6 strokes",
+            "Mayu Hattori"
+        ],
+        [
+            "25 Oct 2009",
+            "Masters GC Ladies",
+            "\u22128 (70-70-68-208)",
+            "Playoff",
+            "Yuko Mitsuka Akiko Fukushima"
+        ],
+        [
+            "2 May 2010",
+            "Cyber Agent Ladies",
+            "\u22128 (72-70-66=208)",
+            "2 strokes",
+            "Akane Iijima Miho Koga"
+        ],
+        [
+            "7 Nov 2009",
+            "Mizuno Classic ^",
+            "\u221218 (65-66-67=198)",
+            "2 strokes",
+            "Yani Tseng"
+        ]
+    ]
+}

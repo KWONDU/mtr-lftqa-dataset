@@ -1,0 +1,70 @@
+{
+    "id": "1afc0d09d96a528f5946e21ed06d80ab1c5e798c9b47e0548edd6f2373402c73",
+    "metadata": "1929 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "13.13 (91)",
+            "St Kilda",
+            "7.11 (53)",
+            "Punt Road Oval",
+            "20000",
+            "13 July 1929"
+        ],
+        [
+            "Hawthorn",
+            "5.13 (43)",
+            "Melbourne",
+            "7.11 (53)",
+            "Glenferrie Oval",
+            "8000",
+            "13 July 1929"
+        ],
+        [
+            "Carlton",
+            "15.20 (110)",
+            "Footscray",
+            "6.7 (43)",
+            "Princes Park",
+            "20000",
+            "13 July 1929"
+        ],
+        [
+            "South Melbourne",
+            "17.14 (116)",
+            "North Melbourne",
+            "12.9 (81)",
+            "Lake Oval",
+            "8000",
+            "13 July 1929"
+        ],
+        [
+            "Geelong",
+            "15.6 (96)",
+            "Fitzroy",
+            "10.11 (71)",
+            "Corio Oval",
+            "7500",
+            "13 July 1929"
+        ],
+        [
+            "Essendon",
+            "11.7 (73)",
+            "Collingwood",
+            "13.14 (92)",
+            "Windy Hill",
+            "17000",
+            "13 July 1929"
+        ]
+    ]
+}

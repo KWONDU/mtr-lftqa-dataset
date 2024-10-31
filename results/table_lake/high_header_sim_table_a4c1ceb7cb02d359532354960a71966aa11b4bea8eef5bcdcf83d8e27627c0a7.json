@@ -1,0 +1,70 @@
+{
+    "id": "a4c1ceb7cb02d359532354960a71966aa11b4bea8eef5bcdcf83d8e27627c0a7",
+    "metadata": "List of tallest buildings in Tampa | Timeline of tallest buildings | Timeline of tallest buildings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Street_address",
+        "Years_as_tallest",
+        "Height_ft_m",
+        "Floors"
+    ],
+    "cell": [
+        [
+            "Citizens Bank Building",
+            "701 North Franklin Street",
+            "1913-1915",
+            "145 (44)",
+            "12"
+        ],
+        [
+            "Tampa City Hall",
+            "315 John F. Kennedy Boulevard",
+            "1915-1926",
+            "160 (49)",
+            "10"
+        ],
+        [
+            "Floridan Hotel",
+            "905 Franklin Street",
+            "1926-1966",
+            "204 (62)",
+            "17"
+        ],
+        [
+            "Franklin Exchange Building",
+            "655 North Franklin Street",
+            "1966-1972",
+            "280 (85)",
+            "22"
+        ],
+        [
+            "Park Tower",
+            "400 North Tampa Street",
+            "1972-1981",
+            "458 (140)",
+            "36"
+        ],
+        [
+            "One Tampa City Center",
+            "201 North Franklin Street",
+            "1981-1986",
+            "537 (164)",
+            "39"
+        ],
+        [
+            "Bank of America Tower",
+            "101 East Kennedy Boulevard",
+            "1986-1992",
+            "577 (176)",
+            "42"
+        ],
+        [
+            "100 North Tampa",
+            "100 North Tampa Street",
+            "1992-present",
+            "579 (177)",
+            "42"
+        ]
+    ]
+}

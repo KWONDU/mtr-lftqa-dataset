@@ -1,0 +1,49 @@
+{
+    "id": "66423897f248d29c6ce059a17aa030d1d098359b4930b6595ada4bb317b721d2",
+    "metadata": "2003-04 Philadelphia Flyers season | Playoffs | Playoffs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Score",
+        "Series"
+    ],
+    "cell": [
+        [
+            "1",
+            "April 8",
+            "New Jersey Devils",
+            "3-2",
+            "Flyers lead 1-0"
+        ],
+        [
+            "2",
+            "April 10",
+            "New Jersey Devils",
+            "3-2",
+            "Flyers lead 2-0"
+        ],
+        [
+            "3",
+            "April 12",
+            "@ New Jersey Devils",
+            "2-4",
+            "Flyers lead 2-1"
+        ],
+        [
+            "4",
+            "April 14",
+            "@ New Jersey Devils",
+            "3-0",
+            "Flyers lead 3-1"
+        ],
+        [
+            "5",
+            "April 17",
+            "New Jersey Devils",
+            "3-1",
+            "Flyers win 4-1"
+        ]
+    ]
+}

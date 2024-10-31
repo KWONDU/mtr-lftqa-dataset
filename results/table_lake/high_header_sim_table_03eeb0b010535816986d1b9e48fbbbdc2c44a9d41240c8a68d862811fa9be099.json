@@ -1,0 +1,137 @@
+{
+    "id": "03eeb0b010535816986d1b9e48fbbbdc2c44a9d41240c8a68d862811fa9be099",
+    "metadata": "Buddhist calendar | Number of days per month | Number of days per month",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Sanskrit",
+        "Pali",
+        "Burmese",
+        "Khmer",
+        "Sinhala",
+        "Thai",
+        "_of_days",
+        "_Gregorian"
+    ],
+    "cell": [
+        [
+            "Caitra",
+            "Citta",
+            "Tagu ( \u1010\u1014\u103a\u1001\u1030\u1038 )",
+            "\u1785\u17c1\u178f\u17d2\u179a",
+            "Bak",
+            "Deuan Ha (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e55)",
+            "29",
+            "March-April"
+        ],
+        [
+            "Vais\u0101kha",
+            "Visakha",
+            "Kason ( \u1000\u1006\u102f\u1014\u103a )",
+            "\u1796\u17b7\u179f\u17b6\u1781",
+            "Vesak",
+            "Deuan Hok (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e56)",
+            "30",
+            "April-May"
+        ],
+        [
+            "Jyai\u1e63\u1e6dha",
+            "Je\u1e6d\u1e6dha",
+            "Nayon ( \u1014\u101a\u102f\u1014\u103a )",
+            "\u1787\u17c1\u179f\u17d2\u178b",
+            "Poson",
+            "Deuan Chet (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e57)",
+            "29 [30]",
+            "May-June"
+        ],
+        [
+            "\u0100\u1e63\u0101\u1e0dha",
+            "\u0100s\u0101\u1e37ha",
+            "Waso ( \u101d\u102b\u1006\u102d\u102f )",
+            "\u17a2\u17b6\u179f\u17b6\u1792",
+            "\u00c6sala",
+            "Deuan Paet (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e58)",
+            "30",
+            "June-July"
+        ],
+        [
+            "\u015ar\u0101va\u1e47a",
+            "S\u0101va\u1e47a",
+            "Wagaung ( \u101d\u102b\u1001\u1031\u102b\u1004\u103a )",
+            "\u179f\u17d2\u179a\u17b6\u1796\u178e\u17cd",
+            "Nikini",
+            "Deuan Kao (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e59)",
+            "29",
+            "July-August"
+        ],
+        [
+            "Bh\u0101drapada",
+            "Po\u1e6d\u1e6dhap\u0101da",
+            "Tawthalin ( \u1010\u1031\u102c\u103a\u101e\u101c\u1004\u103a\u1038 )",
+            "\u1797\u1791\u17d2\u179a\u1794\u1791",
+            "Binara",
+            "Deuan Sip (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e51\u0e50)",
+            "30",
+            "August-September"
+        ],
+        [
+            "\u0100\u015bvina",
+            "Assayuja",
+            "Thadingyut ( \u101e\u102e\u1010\u1004\u103a\u1038\u1000\u103b\u103d\u1010\u103a )",
+            "\u17a2\u179f\u17d2\u179f\u17bb\u1787",
+            "Wap",
+            "Deuan Sip Et (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e51\u0e51)",
+            "29",
+            "September-October"
+        ],
+        [
+            "K\u0101rttika",
+            "Kattik\u0101",
+            "Tazaungmon ( \u1010\u1014\u103a\u1006\u1031\u102c\u1004\u103a\u1019\u102f\u1014\u103a\u1038 )",
+            "\u1780\u1780\u17d2\u178a\u17b7\u1780",
+            "Il",
+            "Deuan Sip Song (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e51\u0e52)",
+            "30",
+            "October-November"
+        ],
+        [
+            "M\u0101rga\u015bir\u1e63a",
+            "M\u0101gasira",
+            "Nadaw ( \u1014\u1010\u103a\u1010\u1031\u102c\u103a )",
+            "\u1798\u17b7\u1782\u179f\u17b7\u179a",
+            "Undhuvap",
+            "Deuan Aai (\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e2d\u0e49\u0e32\u0e22)",
+            "29",
+            "November-December"
+        ],
+        [
+            "Pau\u1e63a",
+            "Phussa",
+            "Pyatho ( \u1015\u103c\u102c\u101e\u102d\u102f )",
+            "\u1794\u17bb\u179f\u17d2\u179f",
+            "Dhuruthu",
+            "Deuan Yi (\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e22\u0e35\u0e48)",
+            "30",
+            "December-January"
+        ],
+        [
+            "M\u0101gha",
+            "M\u0101gha",
+            "Tabodwe ( \u1010\u1015\u102d\u102f\u1037\u1010\u103d\u1032 )",
+            "\u1798\u17b6\u1783",
+            "Navam",
+            "Deuan Sam (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e53)",
+            "29",
+            "January-February"
+        ],
+        [
+            "Ph\u0101lguna",
+            "Phaggu\u1e47a",
+            "Tabaung ( \u1010\u1015\u1031\u102b\u1004\u103a\u1038 )",
+            "\u1795\u179b\u17d2\u1782\u17bb\u1793",
+            "M\u00e6dhin",
+            "Deuan Si (\u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e54)",
+            "30",
+            "February-March"
+        ]
+    ]
+}

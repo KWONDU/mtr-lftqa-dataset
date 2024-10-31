@@ -1,0 +1,70 @@
+{
+    "id": "8d5e946d8c978bed0dac56e2a60d167cc100b2b4ad6cfb949b69320acce0e852",
+    "metadata": "1934 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "11.24 (90)",
+            "North Melbourne",
+            "7.15 (57)",
+            "MCG",
+            "5011",
+            "1 September 1934"
+        ],
+        [
+            "Footscray",
+            "13.20 (98)",
+            "St Kilda",
+            "10.17 (77)",
+            "Western Oval",
+            "5500",
+            "1 September 1934"
+        ],
+        [
+            "Essendon",
+            "13.12 (90)",
+            "Richmond",
+            "15.23 (113)",
+            "Windy Hill",
+            "10000",
+            "1 September 1934"
+        ],
+        [
+            "Collingwood",
+            "16.16 (112)",
+            "Geelong",
+            "16.21 (117)",
+            "Victoria Park",
+            "18000",
+            "1 September 1934"
+        ],
+        [
+            "Carlton",
+            "18.12 (120)",
+            "Fitzroy",
+            "9.15 (69)",
+            "Princes Park",
+            "15500",
+            "1 September 1934"
+        ],
+        [
+            "South Melbourne",
+            "15.11 (101)",
+            "Hawthorn",
+            "10.10 (70)",
+            "Lake Oval",
+            "13000",
+            "1 September 1934"
+        ]
+    ]
+}

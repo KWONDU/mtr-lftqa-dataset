@@ -1,0 +1,56 @@
+{
+    "id": "1d6afd36fffb95fa13ddcbaa3c574d0b36e1c90741216d2136419b0ce7a57a9c",
+    "metadata": "Rowing at the 2008 Summer Olympics - Men's double sculls | Semifinal A/B 2 | Semifinal A/B 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Athlete",
+        "Country",
+        "Time_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jean-Baptiste Macquet , Adrien Hardy",
+            "France",
+            "6:18.86",
+            "FA"
+        ],
+        [
+            "2",
+            "T\u00f5nu Endrekson , J\u00fcri Jaanson",
+            "Estonia",
+            "6:21.11",
+            "FA"
+        ],
+        [
+            "3",
+            "Matthew Wells , Stephen Rowbotham",
+            "Great Britain",
+            "6:21.15",
+            "FA"
+        ],
+        [
+            "4",
+            "Martin Yanakiev , Ivo Yanakiev",
+            "Bulgaria",
+            "6:26.62",
+            "FB"
+        ],
+        [
+            "5",
+            "Alexander Kornilov , Alexey Svirin",
+            "Russia",
+            "6:27.75",
+            "FB"
+        ],
+        [
+            "6",
+            "Dzianis Mihal , Stanislau Shcharbachenia",
+            "Belarus",
+            "6:32.76",
+            "FB"
+        ]
+    ]
+}

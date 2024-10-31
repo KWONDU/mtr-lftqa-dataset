@@ -1,0 +1,84 @@
+{
+    "id": "9eeb4e49ce6a1e758b8f0475418a3fec744d9705c05aafd73b1f10996d7c3d81",
+    "metadata": "1998 Masters Tournament | Second round | Second round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Fred Couples",
+            "United States",
+            "69-70=139",
+            "-5"
+        ],
+        [
+            "T1",
+            "David Duval",
+            "United States",
+            "71-68=139",
+            "-5"
+        ],
+        [
+            "3",
+            "Scott Hoch",
+            "United States",
+            "70-71=141",
+            "-3"
+        ],
+        [
+            "T4",
+            "Paul Azinger",
+            "United States",
+            "71-72=143",
+            "-1"
+        ],
+        [
+            "T4",
+            "Jay Haas",
+            "United States",
+            "72-71=143",
+            "-1"
+        ],
+        [
+            "T4",
+            "Phil Mickelson",
+            "United States",
+            "74-69=143",
+            "-1"
+        ],
+        [
+            "T4",
+            "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
+            "Spain",
+            "70-73=143",
+            "-1"
+        ],
+        [
+            "T4",
+            "Tiger Woods",
+            "United States",
+            "71-72=143",
+            "-1"
+        ],
+        [
+            "T9",
+            "Scott McCarron",
+            "United States",
+            "73-71=144",
+            "E"
+        ],
+        [
+            "T9",
+            "Mark O`Meara",
+            "United States",
+            "74-70=144",
+            "E"
+        ]
+    ]
+}

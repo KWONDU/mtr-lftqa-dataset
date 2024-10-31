@@ -1,0 +1,63 @@
+{
+    "id": "2ca912df4fa4de90d514808c41a6c70954e4ca347a68db2440def5b917b20836",
+    "metadata": "United States House of Representatives elections, 1940 | Mississippi | Mississippi",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Mississippi 1",
+            "John E. Rankin",
+            "Democratic",
+            "1920",
+            "Re-elected",
+            "John E. Rankin (D) Unopposed"
+        ],
+        [
+            "Mississippi 2",
+            "Wall Doxey",
+            "Democratic",
+            "1928",
+            "Re-elected",
+            "Wall Doxey (D) Unopposed"
+        ],
+        [
+            "Mississippi 3",
+            "William Madison Whittington",
+            "Democratic",
+            "1924",
+            "Re-elected",
+            "William Madison Whittington (D) Unopposed"
+        ],
+        [
+            "Mississippi 4",
+            "Aaron L. Ford",
+            "Democratic",
+            "1934",
+            "Re-elected",
+            "Aaron L. Ford (D) Unopposed"
+        ],
+        [
+            "Mississippi 5",
+            "Ross A. Collins",
+            "Democratic",
+            "1936",
+            "Re-elected",
+            "Ross A. Collins (D) Unopposed"
+        ],
+        [
+            "Mississippi 6",
+            "William M. Colmer",
+            "Democratic",
+            "1932",
+            "Re-elected",
+            "William M. Colmer (D) Unopposed"
+        ]
+    ]
+}

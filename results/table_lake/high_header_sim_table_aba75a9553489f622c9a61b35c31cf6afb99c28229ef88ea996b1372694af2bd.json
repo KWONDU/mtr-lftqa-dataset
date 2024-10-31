@@ -1,0 +1,91 @@
+{
+    "id": "aba75a9553489f622c9a61b35c31cf6afb99c28229ef88ea996b1372694af2bd",
+    "metadata": "Iowa Pre-Flight Seahawks football | 1944 | 1944",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "City",
+        "Result_",
+        "Score"
+    ],
+    "cell": [
+        [
+            "September 16",
+            "Michigan",
+            "Ann Arbor",
+            "Loss",
+            "7-12"
+        ],
+        [
+            "September 23",
+            "Minnesota",
+            "Minneapolis",
+            "Win",
+            "19-13"
+        ],
+        [
+            "September 30",
+            "Olathe",
+            "Iowa City",
+            "Win",
+            "45-12"
+        ],
+        [
+            "October 7",
+            "Second Air Force",
+            "Lincoln",
+            "Win",
+            "12-6"
+        ],
+        [
+            "October 14",
+            "Purdue",
+            "West Lafayette",
+            "Win",
+            "13-6"
+        ],
+        [
+            "October 22",
+            "Fort Warren",
+            "Iowa City",
+            "Win",
+            "30-0"
+        ],
+        [
+            "October 29",
+            "Marquette",
+            "Milwaukee",
+            "Win",
+            "26-0"
+        ],
+        [
+            "November 4",
+            "Tulsa",
+            "Tulsa",
+            "Win",
+            "47-27"
+        ],
+        [
+            "November 11",
+            "Bunker Hill",
+            "Iowa City",
+            "Win",
+            "33-7"
+        ],
+        [
+            "November 18",
+            "Missouri",
+            "Columbia",
+            "Win",
+            "51-7"
+        ],
+        [
+            "November 25",
+            "Iowa",
+            "Iowa City",
+            "Win",
+            "30-6"
+        ]
+    ]
+}

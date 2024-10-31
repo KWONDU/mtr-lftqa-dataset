@@ -1,0 +1,55 @@
+{
+    "id": "eaa2f68dcab1b0709d06b962f94814fdc23e1a90b388c60bbbd681d3815810ce",
+    "metadata": "Kalaw Lagaw Ya | Nominal Morphology | Nominal Morphology",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Case_Suffix",
+        "we_two",
+        "you_and_I",
+        "you_two",
+        "them_two_the_two",
+        "who_two"
+    ],
+    "cell": [
+        [
+            "nom-acc-inst",
+            "ngalbe",
+            "ng\u0153ba",
+            "ngipel",
+            "palai (Boigu pale)",
+            "ngawal"
+        ],
+        [
+            "gen.",
+            "ngalben",
+            "ng\u0153ban",
+            "ngipen",
+            "palamun (Boigu palemun)",
+            "(as for singular)"
+        ],
+        [
+            "dat.",
+            "ngalbelpa",
+            "ng\u0153balpa",
+            "ngipelpa",
+            "palamulpa (Boigu palemulpa)",
+            "(as for singular)"
+        ],
+        [
+            "abl.",
+            "ngalbelngu",
+            "ng\u0153balngu",
+            "ngipelngu",
+            "palamulngu (Boigu palemulngu)",
+            "(as for singular)"
+        ],
+        [
+            "loc.",
+            "ngalbeniya",
+            "ng\u0153baniya",
+            "ngipeniya",
+            "palamuniya (Boigu palemuniya)",
+            "(as for singular)"
+        ]
+    ]
+}

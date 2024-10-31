@@ -1,0 +1,84 @@
+{
+    "id": "9a0dc731c6a489fdad45d93951ef5d1e6dec7822ce7fc81adfac33d2bfbd29c5",
+    "metadata": "2008 in chess | April | FIDE April 2008 Top Ten",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Prev",
+        "Player",
+        "Rating",
+        "Chng"
+    ],
+    "cell": [
+        [
+            "1",
+            "2",
+            "Viswanathan Anand ( IND )",
+            "2803",
+            "+4"
+        ],
+        [
+            "2",
+            "1",
+            "Vladimir Kramnik ( RUS )",
+            "2788",
+            "\u221211"
+        ],
+        [
+            "3",
+            "4",
+            "Alexander Morozevich ( RUS )",
+            "2774",
+            "+9"
+        ],
+        [
+            "4",
+            "3",
+            "Veselin Topalov ( BUL )",
+            "2767",
+            "\u221213"
+        ],
+        [
+            "5",
+            "13",
+            "Magnus Carlsen ( NOR )",
+            "2765",
+            "+32"
+        ],
+        [
+            "6",
+            "10",
+            "Levon Aronian ( ARM )",
+            "2763",
+            "+24"
+        ],
+        [
+            "7",
+            "6",
+            "Shakhriyar Mamedyarov ( AZE )",
+            "2752",
+            "\u22128"
+        ],
+        [
+            "8",
+            "12",
+            "Teimour Radjabov ( AZE )",
+            "2751",
+            "+16"
+        ],
+        [
+            "9",
+            "5",
+            "Peter Svidler ( RUS )",
+            "2746",
+            "\u221217"
+        ],
+        [
+            "10",
+            "8",
+            "Peter Leko ( HUN )",
+            "2741",
+            "\u221212"
+        ]
+    ]
+}

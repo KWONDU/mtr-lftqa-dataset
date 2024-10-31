@@ -1,0 +1,61 @@
+{
+    "id": "ae1cfb0df25b2c2a456b356dd0abcb61dc6e779ad223cfad56ec78e532b0ddb7",
+    "metadata": "David Sigachev | Career summary | Career summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Series",
+        "Team_Name",
+        "Races",
+        "Wins",
+        "Points",
+        "Final_Placing"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Formula Renault 2.0 NEC",
+            "SL Formula Racing",
+            "16",
+            "0",
+            "67",
+            "21st"
+        ],
+        [
+            "2007",
+            "Eurocup Formula Renault 2.0",
+            "SL Formula Racing",
+            "2",
+            "0",
+            "N/A",
+            "NC\u2020"
+        ],
+        [
+            "2009",
+            "Porsche Carrera Cup Germany",
+            "tolimit Seyffarth Motorsport",
+            "9",
+            "0",
+            "38",
+            "13th"
+        ],
+        [
+            "2009",
+            "Porsche Supercup",
+            "tolimit Seyffarth Motorsport",
+            "2",
+            "0",
+            "N/A",
+            "NC\u2020"
+        ],
+        [
+            "2010",
+            "Porsche Carrera Cup Germany",
+            "Seyffarth Motorsport",
+            "9",
+            "0",
+            "42",
+            "14th"
+        ]
+    ]
+}

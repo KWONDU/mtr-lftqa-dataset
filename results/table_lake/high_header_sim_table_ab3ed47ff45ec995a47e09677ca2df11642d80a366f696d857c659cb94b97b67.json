@@ -1,0 +1,143 @@
+{
+    "id": "ab3ed47ff45ec995a47e09677ca2df11642d80a366f696d857c659cb94b97b67",
+    "metadata": "1950 Formula One season | Non-Championship race results | Non-Championship race results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Race_Name",
+        "Circuit",
+        "Date_",
+        "Winning_driver",
+        "Constructor_",
+        "Report"
+    ],
+    "cell": [
+        [
+            "XI Pau Grand Prix",
+            "Pau",
+            "10 April",
+            "Juan Manuel Fangio",
+            "Maserati",
+            "Report"
+        ],
+        [
+            "II Richmond Trophy",
+            "Goodwood",
+            "10 April",
+            "Reg Parnell",
+            "Maserati",
+            "Report"
+        ],
+        [
+            "V San Remo Grand Prix",
+            "Sanremo",
+            "16 April",
+            "Juan Manuel Fangio",
+            "Alfa Romeo",
+            "Report"
+        ],
+        [
+            "IV Grand Prix de Paris",
+            "Montlh\u00e9ry",
+            "30 April",
+            "Georges Grignard",
+            "Talbot-Lago",
+            "Report"
+        ],
+        [
+            "XII British Empire Trophy",
+            "Douglas",
+            "15 June",
+            "Bob Gerard",
+            "ERA",
+            "Report"
+        ],
+        [
+            "IV Gran Premio di Bari",
+            "Bari",
+            "9 July",
+            "Giuseppe Farina",
+            "Alfa Romeo",
+            "Report"
+        ],
+        [
+            "IV J.C.C. Jersey Road Race",
+            "Jersey",
+            "13 July",
+            "Peter Whitehead",
+            "Ferrari",
+            "Report"
+        ],
+        [
+            "XII Circuit de l`Albigeois",
+            "Albi",
+            "16 July",
+            "Louis Rosier",
+            "Talbot-Lago",
+            "Report"
+        ],
+        [
+            "I Grote Prijs van Nederland",
+            "Zandvoort",
+            "23 July",
+            "Louis Rosier",
+            "Talbot-Lago",
+            "Report"
+        ],
+        [
+            "III Grand Prix des Nations",
+            "Geneve",
+            "30 July",
+            "Juan Manuel Fangio",
+            "Alfa Romeo",
+            "Report"
+        ],
+        [
+            "I Nottingham Trophy",
+            "Gamston",
+            "7 August",
+            "David Hampshire",
+            "Maserati",
+            "Report"
+        ],
+        [
+            "IV Ulster Trophy",
+            "Dundrod",
+            "12 August",
+            "Peter Whitehead",
+            "Ferrari",
+            "Report"
+        ],
+        [
+            "XIX Coppa Acerbo",
+            "Pescara",
+            "15 August",
+            "Juan Manuel Fangio",
+            "Alfa Romeo",
+            "Report"
+        ],
+        [
+            "I Sheffield Telegraph Trophy",
+            "Gamston",
+            "19 August",
+            "Cuth Harrison",
+            "ERA",
+            "Report"
+        ],
+        [
+            "II BRDC International Trophy",
+            "Silverstone",
+            "26 August",
+            "Giuseppe Farina",
+            "Alfa Romeo",
+            "Report"
+        ],
+        [
+            "III Goodwood Trophy",
+            "Goodwood",
+            "30 September",
+            "Reg Parnell",
+            "BRM",
+            "Report"
+        ]
+    ]
+}

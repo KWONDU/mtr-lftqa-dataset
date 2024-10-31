@@ -1,0 +1,70 @@
+{
+    "id": "0602183a432114028bd53ced8cb425a98e0a400e30f6a9816df847e9d318c59c",
+    "metadata": "1967 VFL season | Round 18 | Round 18",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "15.15 (105)",
+            "Richmond",
+            "18.9 (117)",
+            "Kardinya Park",
+            "34616",
+            "26 August 1967"
+        ],
+        [
+            "Footscray",
+            "7.11 (53)",
+            "North Melbourne",
+            "8.7 (55)",
+            "Western Oval",
+            "10669",
+            "26 August 1967"
+        ],
+        [
+            "Carlton",
+            "10.22 (82)",
+            "South Melbourne",
+            "7.7 (49)",
+            "Princes Park",
+            "15609",
+            "26 August 1967"
+        ],
+        [
+            "Hawthorn",
+            "13.13 (91)",
+            "Fitzroy",
+            "10.14 (74)",
+            "Glenferrie Oval",
+            "13846",
+            "26 August 1967"
+        ],
+        [
+            "Melbourne",
+            "8.12 (60)",
+            "Essendon",
+            "7.14 (56)",
+            "MCG",
+            "24282",
+            "26 August 1967"
+        ],
+        [
+            "St Kilda",
+            "14.16 (100)",
+            "Collingwood",
+            "8.5 (53)",
+            "Moorabbin Oval",
+            "28862",
+            "26 August 1967"
+        ]
+    ]
+}

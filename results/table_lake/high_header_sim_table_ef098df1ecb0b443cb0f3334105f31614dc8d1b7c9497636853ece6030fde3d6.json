@@ -1,0 +1,55 @@
+{
+    "id": "ef098df1ecb0b443cb0f3334105f31614dc8d1b7c9497636853ece6030fde3d6",
+    "metadata": "List of NGC objects (5001-6000) | 5901-6000 | 5901-6000",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_",
+        "Apparent_magnitude"
+    ],
+    "cell": [
+        [
+            "5904",
+            "Globular cluster",
+            "Serpens",
+            "15h18m33.8s",
+            "\u00b004\u203258\u2033",
+            "7.3"
+        ],
+        [
+            "5921",
+            "Spiral galaxy",
+            "Serpens",
+            "15h21m56.4s",
+            "\u00b004\u203211\u2033",
+            "12.7"
+        ],
+        [
+            "5962",
+            "Spiral galaxy",
+            "Serpens",
+            "15h36m31.8s",
+            "\u00b036\u203228\u2033",
+            "12.2"
+        ],
+        [
+            "5964",
+            "Spiral galaxy",
+            "Serpens",
+            "15h37m36.4s",
+            "\u00b058\u203225\u2033",
+            "14.2"
+        ],
+        [
+            "5986",
+            "Globular cluster",
+            "Lupus",
+            "15h46m03.4s",
+            "\u00b047\u203210\u2033",
+            "9.1"
+        ]
+    ]
+}

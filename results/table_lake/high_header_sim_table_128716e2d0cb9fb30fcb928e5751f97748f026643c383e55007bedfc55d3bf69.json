@@ -1,0 +1,55 @@
+{
+    "id": "128716e2d0cb9fb30fcb928e5751f97748f026643c383e55007bedfc55d3bf69",
+    "metadata": "USA Today All-USA high school basketball team | 2008 Boys' team | First Team",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Height",
+        "School",
+        "Hometown",
+        "College",
+        "NBA_Draft"
+    ],
+    "cell": [
+        [
+            "Samardo Samuels",
+            "6-9",
+            "St. Benedict`s Prep",
+            "Trelawny Parish , Jamaica",
+            "Louisville",
+            "Undrafted in the 2010 NBA Draft"
+        ],
+        [
+            "Jrue Holiday",
+            "6-4",
+            "Campbell Hall School",
+            "North Hollywood, CA",
+            "UCLA",
+            "1st Round - 17th Pick of 2009 Draft ( 76ers )"
+        ],
+        [
+            "Brandon Jennings",
+            "6-2",
+            "Oak Hill Academy",
+            "Compton, CA",
+            "Did Not Attend College *",
+            "1st Round - 10th Pick of 2009 Draft ( Bucks )"
+        ],
+        [
+            "B.J. Mullens",
+            "7-1",
+            "Canal Winchester High School",
+            "Canal Winchester, OH",
+            "Ohio State",
+            "1st Round - 24th Pick of 2009 Draft ( Mavs )"
+        ],
+        [
+            "Lance Stephenson \u2021",
+            "6-6",
+            "Lincoln High School",
+            "Brooklyn, NY",
+            "Cincinnati",
+            "2nd Round - 40th Pick of 2010 Draft ( Pacers )"
+        ]
+    ]
+}

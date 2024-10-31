@@ -1,0 +1,115 @@
+{
+    "id": "35489664f1f40ac3db1b654ba24d84f6e22abe08cd348d279a4ca5be99792b0f",
+    "metadata": "Bhawani Dayal Arya College | FSFE examination result analysis - 2009 | FSFE examination result analysis - 2009",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Subject",
+        "No_Sat",
+        "No_Passed",
+        "_Pass",
+        "Highest_mark",
+        "Lowest_mark",
+        "Mean"
+    ],
+    "cell": [
+        [
+            "English",
+            "55",
+            "46",
+            "84",
+            "100",
+            "37",
+            "59"
+        ],
+        [
+            "Mathematics",
+            "55",
+            "39",
+            "71",
+            "83",
+            "36",
+            "58"
+        ],
+        [
+            "Biology",
+            "17",
+            "17",
+            "100",
+            "85",
+            "54",
+            "72"
+        ],
+        [
+            "Chemistry",
+            "20",
+            "16",
+            "80",
+            "84",
+            "43",
+            "64"
+        ],
+        [
+            "Physics",
+            "10",
+            "8",
+            "80",
+            "79",
+            "47",
+            "63"
+        ],
+        [
+            "Accounting",
+            "35",
+            "27",
+            "77",
+            "75",
+            "31",
+            "58"
+        ],
+        [
+            "Economics",
+            "35",
+            "33",
+            "94",
+            "88",
+            "33",
+            "63"
+        ],
+        [
+            "Computer Studies",
+            "25",
+            "19",
+            "76",
+            "78",
+            "35",
+            "56"
+        ],
+        [
+            "Geography",
+            "8",
+            "7",
+            "88",
+            "76",
+            "45",
+            "64"
+        ],
+        [
+            "Introduction To Technology",
+            "3",
+            "3",
+            "100",
+            "69",
+            "50",
+            "61"
+        ],
+        [
+            "Food Technology",
+            "9",
+            "9",
+            "100",
+            "80",
+            "50",
+            "64"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "3ca78e69e7fc8175907b669c6ccabf2f98742a355314b8a6454f44b48c61b7e8",
+    "metadata": "1951 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "8.14 (62)",
+            "St Kilda",
+            "12.9 (81)",
+            "Arden Street Oval",
+            "13000",
+            "28 April 1951"
+        ],
+        [
+            "Fitzroy",
+            "12.11 (83)",
+            "Geelong",
+            "10.7 (67)",
+            "Brunswick Street Oval",
+            "18000",
+            "28 April 1951"
+        ],
+        [
+            "South Melbourne",
+            "5.7 (37)",
+            "Richmond",
+            "14.13 (97)",
+            "Lake Oval",
+            "18000",
+            "28 April 1951"
+        ],
+        [
+            "Hawthorn",
+            "9.7 (61)",
+            "Essendon",
+            "12.14 (86)",
+            "Glenferrie Oval",
+            "12000",
+            "28 April 1951"
+        ],
+        [
+            "Melbourne",
+            "7.15 (57)",
+            "Collingwood",
+            "15.16 (106)",
+            "MCG",
+            "37000",
+            "28 April 1951"
+        ],
+        [
+            "Footscray",
+            "5.11 (41)",
+            "Carlton",
+            "4.16 (40)",
+            "Western Oval",
+            "26000",
+            "28 April 1951"
+        ]
+    ]
+}

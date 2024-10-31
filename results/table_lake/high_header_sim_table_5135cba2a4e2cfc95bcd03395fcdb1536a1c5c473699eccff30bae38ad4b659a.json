@@ -1,0 +1,77 @@
+{
+    "id": "5135cba2a4e2cfc95bcd03395fcdb1536a1c5c473699eccff30bae38ad4b659a",
+    "metadata": "1982 St. Louis Cardinals (NFL) season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 12, 1982",
+            "at New Orleans Saints",
+            "W 21-7",
+            "58673"
+        ],
+        [
+            "2",
+            "September 19, 1982",
+            "Dallas Cowboys",
+            "L 24-7",
+            "50705"
+        ],
+        [
+            "3",
+            "November 21, 1982",
+            "San Francisco 49ers",
+            "L 31-20",
+            "38064"
+        ],
+        [
+            "4",
+            "November 28, 1982",
+            "at Atlanta Falcons",
+            "W 23-20",
+            "33411"
+        ],
+        [
+            "5",
+            "December 5, 1982",
+            "at Philadelphia Eagles",
+            "W 23-20",
+            "63622"
+        ],
+        [
+            "6",
+            "December 12, 1982",
+            "Washington Redskins",
+            "L 12-7",
+            "35308"
+        ],
+        [
+            "7",
+            "December 19, 1982",
+            "at Chicago Bears",
+            "W 10-7",
+            "43270"
+        ],
+        [
+            "8",
+            "December 26, 1982",
+            "New York Giants",
+            "W 24-21",
+            "39824"
+        ],
+        [
+            "9",
+            "January 2, 1983",
+            "at Washington Redskins",
+            "L 28-0",
+            "55045"
+        ]
+    ]
+}

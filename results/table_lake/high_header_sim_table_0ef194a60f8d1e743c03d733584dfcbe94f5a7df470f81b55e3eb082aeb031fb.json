@@ -1,0 +1,77 @@
+{
+    "id": "0ef194a60f8d1e743c03d733584dfcbe94f5a7df470f81b55e3eb082aeb031fb",
+    "metadata": "Dominik Meffert | Doubles (8) | Doubles (8)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Surface",
+        "Partner",
+        "Opponents_in_the_final",
+        "Score_in_the_final"
+    ],
+    "cell": [
+        [
+            "Freudenstadt",
+            "Clay",
+            "Tomas Behrend",
+            "Alexandre Sidorenko Mischa Zverev",
+            "7-5, 7-6 5"
+        ],
+        [
+            "Durban",
+            "Hard",
+            "Rik de Voest",
+            "St\u00e9phane Bohli Noam Okun",
+            "6-4, 6-2"
+        ],
+        [
+            "Tanger",
+            "Clay",
+            "Steve Darcis",
+            "Uladzimir Ignatik Martin Kli\u017ean",
+            "5-7, 7-5, [10-7]"
+        ],
+        [
+            "Pereira",
+            "Clay",
+            "Philipp Oswald",
+            "Gero Kretschmer Alex Satschko",
+            "6-7 4 , 7-6 6 , [10-5]"
+        ],
+        [
+            "Curitiba",
+            "Clay",
+            "Leonardo Tavares",
+            "Ram\u00f3n Delgado Andr\u00e9 S\u00e1",
+            "3-6, 6-2, [10-4]"
+        ],
+        [
+            "Noum\u00e9a",
+            "Hard",
+            "Frederik Nielsen",
+            "Flavio Cipolla Simone Vagnozzi",
+            "7-6 4 , 5-7, [10-5]"
+        ],
+        [
+            "Kyoto",
+            "Carpet (i)",
+            "Simon Stadler",
+            "Andre Begemann James Lemke",
+            "7-5, 2-6, [10-7]"
+        ],
+        [
+            "Dortmund",
+            "Clay",
+            "Bj\u00f6rn Phau",
+            "Teymuraz Gabashvili Andrey Kuznetsov",
+            "6-4, 6-3"
+        ],
+        [
+            "Tunis",
+            "Clay",
+            "Philipp Oswald",
+            "Jamie Delgado Andreas Siljestr\u00f6m",
+            "3-6, 7-6 (7-0) , [10-7]"
+        ]
+    ]
+}

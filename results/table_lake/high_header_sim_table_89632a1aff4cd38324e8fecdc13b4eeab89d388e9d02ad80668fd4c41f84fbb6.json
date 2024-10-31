@@ -1,0 +1,97 @@
+{
+    "id": "89632a1aff4cd38324e8fecdc13b4eeab89d388e9d02ad80668fd4c41f84fbb6",
+    "metadata": "PRR E2 | PRR E2 | PRR E2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Firebox",
+        "Cylinder_size",
+        "Valves",
+        "Valve_gear",
+        "Number_built",
+        "Years_built"
+    ],
+    "cell": [
+        [
+            "E2",
+            "Radial-stay",
+            "20 \u00bd\u201d x 26\u201d",
+            "Slide",
+            "Stephenson",
+            "88",
+            "1901-02"
+        ],
+        [
+            "E2a",
+            "Belpaire",
+            "20 \u00bd\u201d x 26\u201d",
+            "Slide",
+            "Stephenson",
+            "93",
+            "1902-05"
+        ],
+        [
+            "E2b",
+            "Belpaire",
+            "20 \u00bd\u201d x 26\u201d",
+            "Piston",
+            "Stephenson",
+            "70",
+            "1903-04"
+        ],
+        [
+            "E2c",
+            "Belpaire",
+            "20 \u00bd\u201d x 26\u201d",
+            "Slide",
+            "Stephenson",
+            "22",
+            "1903"
+        ],
+        [
+            "E2d",
+            "Belpaire",
+            "20 \u00bd\u201d x 26\u201d",
+            "Piston",
+            "Walschaerts",
+            "32",
+            "1906-08"
+        ],
+        [
+            "E3",
+            "Radial-stay",
+            "22\u201d x 26\u201d",
+            "Slide",
+            "Stephenson",
+            "8",
+            "1901-02"
+        ],
+        [
+            "E3a",
+            "Belpaire",
+            "22\u201d x 26\u201d",
+            "Slide",
+            "Stephenson",
+            "114",
+            "1903-05"
+        ],
+        [
+            "E3d",
+            "Belpaire",
+            "22\u201d x 26\u201d",
+            "Piston",
+            "Walschaerts",
+            "56",
+            "1906-10"
+        ],
+        [
+            "E7s",
+            "Belpaire",
+            "22 \u00bd\u201d x 26\u201d",
+            "Piston",
+            "Stephenson",
+            "90 conv. fr. E2a,b,c",
+            "1916-20"
+        ]
+    ]
+}

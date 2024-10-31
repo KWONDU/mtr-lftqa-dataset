@@ -1,0 +1,67 @@
+{
+    "id": "05b969de3f64d831a7c4822368eca626042e940b4a0da66d1b9eadbb2fa130b1",
+    "metadata": "Elena Reid | Mixed martial arts record | Mixed martial arts record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Res_",
+        "Record",
+        "Opponent",
+        "Method_",
+        "Event",
+        "Round",
+        "Time_",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Loss",
+            "4-1",
+            "Catia Vitoria",
+            "TKO (punches)",
+            "Playboy Fight Night 4",
+            "3",
+            "3:59",
+            "New Town, North Dakota , United States"
+        ],
+        [
+            "Win",
+            "4-0",
+            "Masako Yoshida",
+            "TKO (punches)",
+            "EB - Beatdown at 4 Bears 5",
+            "3",
+            "2:35",
+            "New Town, North Dakota , United States"
+        ],
+        [
+            "Win",
+            "3-0",
+            "Michelle Waterson",
+            "TKO (punches)",
+            "Apache Gold: Extreme Beatdown",
+            "2",
+            "1:50",
+            "Phoenix, Arizona , United States"
+        ],
+        [
+            "Win",
+            "2-0",
+            "Stephanie Palmer",
+            "TKO (liver punch)",
+            "SuperFights MMA - Night of Combat 2",
+            "1",
+            "0:53",
+            "Las Vegas, Nevada , United States"
+        ],
+        [
+            "Win",
+            "1-0",
+            "Tammie Schneider",
+            "TKO (punches)",
+            "IFO - Fireworks in the Cage IV",
+            "2",
+            "2:05",
+            "Las Vegas, Nevada , United States"
+        ]
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "6d3df3a1819adac757ab051a9228057974d2945ef4817ab3859333b43d8fb6f6",
+    "metadata": "WBHY-FM | Broadcast translators | Broadcast translators \n of WBHY-FM",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "W212CA",
+            "90.3 FM",
+            "Bay Minette, Alabama",
+            "27",
+            "D",
+            "FCC"
+        ],
+        [
+            "W214BW",
+            "90.7 FM",
+            "Citronelle, Alabama",
+            "13",
+            "D",
+            "FCC"
+        ],
+        [
+            "W227AP",
+            "93.3 FM",
+            "Lucedale, Mississippi",
+            "1",
+            "D",
+            "FCC"
+        ],
+        [
+            "W279AT",
+            "103.7 FM",
+            "Robertsdale, Alabama",
+            "25",
+            "D",
+            "FCC"
+        ],
+        [
+            "W295AJ",
+            "106.9 FM",
+            "Jackson, Alabama",
+            "55",
+            "D",
+            "FCC"
+        ],
+        [
+            "W295AP",
+            "106.9 FM",
+            "Bay Minette, Alabama",
+            "4",
+            "D",
+            "FCC"
+        ],
+        [
+            "W221CD",
+            "92.1 FM",
+            "Brewton, Alabama",
+            "17",
+            "D",
+            "FCC"
+        ],
+        [
+            "W237BE",
+            "95.3 FM",
+            "Brewton, Alabama",
+            "2",
+            "D",
+            "FCC"
+        ],
+        [
+            "W258AQ",
+            "99.5 FM",
+            "Citronelle, Alabama",
+            "13",
+            "D",
+            "FCC"
+        ],
+        [
+            "W262BL",
+            "100.3 FM",
+            "Gulf Shores, Alabama",
+            "1",
+            "D",
+            "FCC"
+        ],
+        [
+            "W278AP",
+            "103.5 FM",
+            "Daphne, Alabama",
+            "25",
+            "D",
+            "FCC"
+        ]
+    ]
+}

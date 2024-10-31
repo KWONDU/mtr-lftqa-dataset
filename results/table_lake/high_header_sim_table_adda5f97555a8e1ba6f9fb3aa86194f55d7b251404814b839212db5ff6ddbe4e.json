@@ -1,0 +1,70 @@
+{
+    "id": "adda5f97555a8e1ba6f9fb3aa86194f55d7b251404814b839212db5ff6ddbe4e",
+    "metadata": "1982 VFL season | Round 20 | Round 20",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "18.18 (126)",
+            "Swans",
+            "8.14 (62)",
+            "Princes Park",
+            "15743",
+            "14 August 1982"
+        ],
+        [
+            "Collingwood",
+            "17.12 (114)",
+            "Melbourne",
+            "25.18 (168)",
+            "Victoria Park",
+            "20702",
+            "14 August 1982"
+        ],
+        [
+            "Geelong",
+            "5.18 (48)",
+            "Fitzroy",
+            "15.15 (105)",
+            "Kardinia Park",
+            "14597",
+            "14 August 1982"
+        ],
+        [
+            "St Kilda",
+            "10.16 (76)",
+            "Essendon",
+            "13.12 (90)",
+            "Moorabbin Oval",
+            "15705",
+            "14 August 1982"
+        ],
+        [
+            "Richmond",
+            "9.10 (64)",
+            "Carlton",
+            "13.14 (92)",
+            "MCG",
+            "71203",
+            "14 August 1982"
+        ],
+        [
+            "North Melbourne",
+            "17.16 (118)",
+            "Footscray",
+            "16.8 (104)",
+            "VFL Park",
+            "11133",
+            "14 August 1982"
+        ]
+    ]
+}

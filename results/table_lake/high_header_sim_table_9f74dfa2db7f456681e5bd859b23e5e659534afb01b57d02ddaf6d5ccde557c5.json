@@ -1,0 +1,84 @@
+{
+    "id": "9f74dfa2db7f456681e5bd859b23e5e659534afb01b57d02ddaf6d5ccde557c5",
+    "metadata": "Minnesota Golden Gophers football under Bernie Bierman | Schedule | 1947",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent_",
+        "Site",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "09/27/1947",
+            "Washington",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W7-6",
+            "43377"
+        ],
+        [
+            "10/04/1947",
+            "at Nebraska",
+            "Memorial Stadium \u2022 Lincoln, NE",
+            "W28-13",
+            "34000"
+        ],
+        [
+            "10/12/1947",
+            "Northwestern",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W37-21",
+            "59598"
+        ],
+        [
+            "10/18/1947",
+            "at Illinois",
+            "Memorial Stadium \u2022 Champaign, IL",
+            "L13-40",
+            "56048"
+        ],
+        [
+            "10/25/1947",
+            "at 1 Michigan",
+            "Michigan Stadium \u2022 Ann Arbor, MI",
+            "L6-13",
+            "85938"
+        ],
+        [
+            "11/01/1947",
+            "Pittsburgh",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W29-0",
+            "55624"
+        ],
+        [
+            "11/08/1947",
+            "Purdue",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W26-21",
+            "63659"
+        ],
+        [
+            "11/15/1947",
+            "at Iowa",
+            "Iowa Stadium \u2022 Iowa City, IA",
+            "L7-13",
+            "50000"
+        ],
+        [
+            "11/22/1947",
+            "Wisconsin",
+            "Memorial Stadium \u2022 Minneapolis, MN",
+            "W21-0",
+            "63862"
+        ],
+        [
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming.",
+            "*Non-conference game. Homecoming."
+        ]
+    ]
+}

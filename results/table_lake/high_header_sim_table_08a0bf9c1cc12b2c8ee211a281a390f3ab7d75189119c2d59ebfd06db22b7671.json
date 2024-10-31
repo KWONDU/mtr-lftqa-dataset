@@ -1,0 +1,55 @@
+{
+    "id": "08a0bf9c1cc12b2c8ee211a281a390f3ab7d75189119c2d59ebfd06db22b7671",
+    "metadata": "1989 Masters Tournament | Third round | Third round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Hole"
+    ],
+    "cell": [
+        [
+            "1",
+            "Ben Crenshaw",
+            "United States",
+            "71-72-49=192",
+            "-4",
+            "13"
+        ],
+        [
+            "T2",
+            "Nick Faldo",
+            "England",
+            "68-73-50=191",
+            "E",
+            "12"
+        ],
+        [
+            "T2",
+            "Scott Hoch",
+            "United States",
+            "69-74-53=196",
+            "E",
+            "13"
+        ],
+        [
+            "T2",
+            "Greg Norman",
+            "Australia",
+            "74-75-68=217",
+            "E",
+            "F"
+        ],
+        [
+            "T2",
+            "Mike Reid",
+            "United States",
+            "72-71-53=196",
+            "E",
+            "13"
+        ]
+    ]
+}

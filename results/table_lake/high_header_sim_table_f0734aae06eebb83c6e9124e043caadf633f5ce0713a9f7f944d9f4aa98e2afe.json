@@ -1,0 +1,70 @@
+{
+    "id": "f0734aae06eebb83c6e9124e043caadf633f5ce0713a9f7f944d9f4aa98e2afe",
+    "metadata": "1960 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "7.5 (47)",
+            "South Melbourne",
+            "4.7 (31)",
+            "Punt Road Oval",
+            "12500",
+            "21 May 1960"
+        ],
+        [
+            "Hawthorn",
+            "5.7 (37)",
+            "Melbourne",
+            "7.15 (57)",
+            "Glenferrie Oval",
+            "12500",
+            "21 May 1960"
+        ],
+        [
+            "Fitzroy",
+            "11.9 (75)",
+            "Footscray",
+            "5.6 (36)",
+            "Brunswick Street Oval",
+            "17102",
+            "21 May 1960"
+        ],
+        [
+            "North Melbourne",
+            "10.6 (66)",
+            "Geelong",
+            "7.9 (51)",
+            "Arden Street Oval",
+            "8500",
+            "21 May 1960"
+        ],
+        [
+            "St Kilda",
+            "5.9 (39)",
+            "Collingwood",
+            "4.13 (37)",
+            "Junction Oval",
+            "28600",
+            "21 May 1960"
+        ],
+        [
+            "Essendon",
+            "17.13 (115)",
+            "Carlton",
+            "11.14 (80)",
+            "Windy Hill",
+            "26300",
+            "21 May 1960"
+        ]
+    ]
+}

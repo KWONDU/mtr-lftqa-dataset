@@ -1,0 +1,70 @@
+{
+    "id": "e3a3b5c0b171171c4ed7da7bbd4400e02c8e858fa15bc170e7d7f2b9a03fcab6",
+    "metadata": "1955 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "12.18 (90)",
+            "North Melbourne",
+            "8.15 (63)",
+            "MCG",
+            "15486",
+            "30 July 1955"
+        ],
+        [
+            "Essendon",
+            "9.18 (72)",
+            "Footscray",
+            "5.22 (52)",
+            "Windy Hill",
+            "32000",
+            "30 July 1955"
+        ],
+        [
+            "Collingwood",
+            "10.11 (71)",
+            "Hawthorn",
+            "5.6 (36)",
+            "Victoria Park",
+            "16000",
+            "30 July 1955"
+        ],
+        [
+            "Carlton",
+            "11.21 (87)",
+            "St Kilda",
+            "3.13 (31)",
+            "Princes Park",
+            "9742",
+            "30 July 1955"
+        ],
+        [
+            "South Melbourne",
+            "14.9 (93)",
+            "Richmond",
+            "13.16 (94)",
+            "Lake Oval",
+            "16000",
+            "30 July 1955"
+        ],
+        [
+            "Geelong",
+            "12.14 (86)",
+            "Fitzroy",
+            "9.11 (65)",
+            "Kardinia Park",
+            "14033",
+            "30 July 1955"
+        ]
+    ]
+}

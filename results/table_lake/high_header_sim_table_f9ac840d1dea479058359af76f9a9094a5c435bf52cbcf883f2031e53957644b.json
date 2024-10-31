@@ -1,0 +1,67 @@
+{
+    "id": "f9ac840d1dea479058359af76f9a9094a5c435bf52cbcf883f2031e53957644b",
+    "metadata": "List of Oregon ballot measures | 1924 | 1924 General Election",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "meas_num",
+        "passed",
+        "YES_votes",
+        "NO_votes",
+        "_YES",
+        "Const_Amd_",
+        "type_",
+        "description"
+    ],
+    "cell": [
+        [
+            "1",
+            "YES",
+            "184031",
+            "48645",
+            "79.09%",
+            "Yes",
+            "LEG",
+            "Voters` Literacy Amendment"
+        ],
+        [
+            "2",
+            "YES",
+            "134071",
+            "65133",
+            "67.30%",
+            "Yes",
+            "LEG",
+            "Public Use and Welfare Amendment"
+        ],
+        [
+            "3",
+            "YES",
+            "131199",
+            "92446",
+            "58.66%",
+            "Yes",
+            "LEG",
+            "Bonus Amendment"
+        ],
+        [
+            "4",
+            "No",
+            "91597",
+            "157324",
+            "36.80%",
+            "No",
+            "Ref",
+            "Oleomargarine Condensed Milk Bill"
+        ],
+        [
+            "5",
+            "No",
+            "75159",
+            "122839",
+            "37.96%",
+            "No",
+            "Init",
+            "Naturopath Bill"
+        ]
+    ]
+}

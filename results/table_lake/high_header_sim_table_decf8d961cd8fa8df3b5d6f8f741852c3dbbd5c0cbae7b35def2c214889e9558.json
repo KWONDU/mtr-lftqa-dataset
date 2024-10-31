@@ -1,0 +1,106 @@
+{
+    "id": "decf8d961cd8fa8df3b5d6f8f741852c3dbbd5c0cbae7b35def2c214889e9558",
+    "metadata": "Presidents Cup | Results | Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Venue",
+        "Location_",
+        "Winning_team",
+        "Score",
+        "U_S_Captain",
+        "International_Captain"
+    ],
+    "cell": [
+        [
+            "2013",
+            "Muirfield Village",
+            "Dublin, Ohio",
+            "United States",
+            "18\u00bd-15\u00bd",
+            "Fred Couples",
+            "Nick Price"
+        ],
+        [
+            "2011",
+            "Royal Melbourne Golf Club",
+            "Melbourne , Australia",
+            "United States",
+            "19-15",
+            "Fred Couples",
+            "Greg Norman"
+        ],
+        [
+            "2009",
+            "Harding Park Golf Club",
+            "San Francisco, California",
+            "United States",
+            "19\u00bd-14\u00bd",
+            "Fred Couples",
+            "Greg Norman"
+        ],
+        [
+            "2007",
+            "Royal Montreal Golf Club",
+            "Montreal , Canada",
+            "United States",
+            "19\u00bd-14\u00bd",
+            "Jack Nicklaus",
+            "Gary Player"
+        ],
+        [
+            "2005",
+            "Robert Trent Jones Golf Club",
+            "Gainesville, Virginia",
+            "United States",
+            "18\u00bd-15\u00bd",
+            "Jack Nicklaus",
+            "Gary Player"
+        ],
+        [
+            "2003",
+            "Fancourt Hotel and Country Club",
+            "George, Western Cape , South Africa",
+            "Tied",
+            "17-17",
+            "Jack Nicklaus",
+            "Gary Player"
+        ],
+        [
+            "2000",
+            "Robert Trent Jones Golf Club",
+            "Gainesville, Virginia",
+            "United States",
+            "21\u00bd-10\u00bd",
+            "Ken Venturi",
+            "Peter Thomson"
+        ],
+        [
+            "1998",
+            "Royal Melbourne Golf Club",
+            "Melbourne , Australia",
+            "International",
+            "20\u00bd-11\u00bd",
+            "Jack Nicklaus",
+            "Peter Thomson"
+        ],
+        [
+            "1996",
+            "Robert Trent Jones Golf Club",
+            "Gainesville, Virginia",
+            "United States",
+            "16\u00bd-15\u00bd",
+            "Arnold Palmer",
+            "Peter Thomson"
+        ],
+        [
+            "1994",
+            "Robert Trent Jones Golf Club",
+            "Gainesville, Virginia",
+            "United States",
+            "20-12",
+            "Hale Irwin",
+            "David Graham"
+        ]
+    ]
+}

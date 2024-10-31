@@ -1,0 +1,56 @@
+{
+    "id": "e421c9ca2139380c982ffc319484251c42a507a1d5d5f2d84deef2fb51e33e24",
+    "metadata": "Outnumbered | Series 1 | Series 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode_No_",
+        "Airdate",
+        "Total_Viewers",
+        "Share_",
+        "BBC_One_Weekly_Ranking"
+    ],
+    "cell": [
+        [
+            "1",
+            "28 August 2007",
+            "2715000",
+            "18.8%",
+            "N/A"
+        ],
+        [
+            "2",
+            "29 August 2007",
+            "2344000",
+            "17.6%",
+            "N/A"
+        ],
+        [
+            "3",
+            "30 August 2007",
+            "2366000",
+            "15.8%",
+            "N/A"
+        ],
+        [
+            "4",
+            "3 September 2007",
+            "2390000",
+            "17.5%",
+            "N/A"
+        ],
+        [
+            "5",
+            "4 September 2007",
+            "2583000",
+            "19.2%",
+            "N/A"
+        ],
+        [
+            "6",
+            "5 September 2007",
+            "2367000",
+            "19.6%",
+            "N/A"
+        ]
+    ]
+}

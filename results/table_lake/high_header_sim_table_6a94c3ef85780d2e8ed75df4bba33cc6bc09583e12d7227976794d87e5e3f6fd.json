@@ -1,0 +1,55 @@
+{
+    "id": "6a94c3ef85780d2e8ed75df4bba33cc6bc09583e12d7227976794d87e5e3f6fd",
+    "metadata": "2008-09 St. Mirren F.C. season | Scottish Cup | Scottish Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "13/01/2009",
+            "R4",
+            "Brechin City",
+            "Glebe Park",
+            "3-1",
+            "1026"
+        ],
+        [
+            "07/02/2009",
+            "R5",
+            "Motherwell",
+            "Fir Park",
+            "1-1",
+            "5695"
+        ],
+        [
+            "17/02/2009",
+            "R5 (Replay)",
+            "Motherwell",
+            "St. Mirren Park",
+            "1-0",
+            "4555"
+        ],
+        [
+            "07/03/2009",
+            "Quarter-Final",
+            "Celtic",
+            "St. Mirren Park",
+            "1-0",
+            "5925"
+        ],
+        [
+            "25/04/2009",
+            "Semi-Final",
+            "Rangers",
+            "Hampden Park",
+            "0-3",
+            "32431"
+        ]
+    ]
+}

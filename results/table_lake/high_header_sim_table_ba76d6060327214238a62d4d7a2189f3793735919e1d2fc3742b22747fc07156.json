@@ -1,0 +1,70 @@
+{
+    "id": "ba76d6060327214238a62d4d7a2189f3793735919e1d2fc3742b22747fc07156",
+    "metadata": "1966 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "11.6 (72)",
+            "Geelong",
+            "9.4 (58)",
+            "Windy Hill",
+            "31560",
+            "23 April 1966"
+        ],
+        [
+            "Collingwood",
+            "17.13 (115)",
+            "Hawthorn",
+            "9.8 (62)",
+            "Victoria Park",
+            "32741",
+            "23 April 1966"
+        ],
+        [
+            "South Melbourne",
+            "16.19 (115)",
+            "Fitzroy",
+            "9.8 (62)",
+            "Lake Oval",
+            "22376",
+            "23 April 1966"
+        ],
+        [
+            "Melbourne",
+            "4.9 (33)",
+            "St Kilda",
+            "17.7 (109)",
+            "MCG",
+            "64934",
+            "25 April 1966"
+        ],
+        [
+            "Footscray",
+            "11.9 (75)",
+            "North Melbourne",
+            "13.9 (87)",
+            "Western Oval",
+            "23252",
+            "25 April 1966"
+        ],
+        [
+            "Carlton",
+            "14.16 (100)",
+            "Richmond",
+            "16.10 (106)",
+            "Princes Park",
+            "43695",
+            "25 April 1966"
+        ]
+    ]
+}

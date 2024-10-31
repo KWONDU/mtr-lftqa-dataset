@@ -1,0 +1,63 @@
+{
+    "id": "05688bc7ccad9eb63dbe6dd8e00c3a8fa4a33b4f53082c984bca72bbe1a92f74",
+    "metadata": "List of Talyllyn Railway rolling stock | Steam locomotives | Steam locomotives",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Number_",
+        "Name_",
+        "Type_",
+        "Builder",
+        "Works_number",
+        "Date_built"
+    ],
+    "cell": [
+        [
+            "1",
+            "Talyllyn",
+            "0-4-2 ST",
+            "Fletcher,Jennings &Co. , Whitehaven",
+            "42",
+            "1864"
+        ],
+        [
+            "2",
+            "Dolgoch",
+            "0-4-0 WT",
+            "Fletcher,Jennings &Co., Whitehaven",
+            "63",
+            "1866"
+        ],
+        [
+            "3",
+            "Sir Haydn",
+            "0-4-2 ST",
+            "Hughes, Falcon Works , Loughborough",
+            "323",
+            "1878"
+        ],
+        [
+            "4",
+            "Edward Thomas",
+            "0-4-2 ST",
+            "Kerr Stuart , Stoke-on-Trent",
+            "4047",
+            "1921"
+        ],
+        [
+            "6",
+            "Douglas",
+            "0-4-0 WT",
+            "Andrew Barclay , Kilmarnock",
+            "1431",
+            "1918"
+        ],
+        [
+            "7",
+            "Tom Rolt",
+            "0-4-2 T",
+            "Talyllyn Railway",
+            "none given",
+            "1991"
+        ]
+    ]
+}

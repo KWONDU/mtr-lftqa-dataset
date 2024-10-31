@@ -1,0 +1,84 @@
+{
+    "id": "20d631a0830b488706bc940d69942e33b19967fa7a3cd0528360aa63c79b0c97",
+    "metadata": "Barbarossa-class ocean liner | The ships | The ships",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ship",
+        "Tonnage",
+        "Builder",
+        "Original_Operator",
+        "Fate"
+    ],
+    "cell": [
+        [
+            "Friedrich der Grosse",
+            "GT",
+            "AG Vulcan",
+            "NDL",
+            "01922 Sunk after fire, 1922"
+        ],
+        [
+            "Barbarossa",
+            "GT",
+            "Blohm & Voss",
+            "NDL",
+            "01924 Scrapped, 1924"
+        ],
+        [
+            "K\u00f6nigin Luise",
+            "GT",
+            "AG Vulcan",
+            "NDL",
+            "01935 Scrapped, 1935"
+        ],
+        [
+            "Bremen",
+            "GT",
+            "F. Schichau",
+            "NDL",
+            "01929 Scrapped, 1929"
+        ],
+        [
+            "K\u00f6nig Albert",
+            "GT",
+            "AG Vulcan",
+            "NDL",
+            "01926 Scrapped, 1926"
+        ],
+        [
+            "Hamburg",
+            "GT",
+            "AG Vulcan",
+            "HAPAG",
+            "01928 Scrapped, 1928"
+        ],
+        [
+            "Prinzess Irene",
+            "GT",
+            "AG Vulcan",
+            "NDL",
+            "01932 Scrapped, 1932"
+        ],
+        [
+            "Kiautschou",
+            "GT",
+            "AG Vulcan",
+            "HAPAG",
+            "01934 Scrapped, 1934"
+        ],
+        [
+            "Moltke",
+            "GT",
+            "Blohm & Voss",
+            "HAPAG",
+            "01925 Scrapped, 1925"
+        ],
+        [
+            "Bl\u00fccher",
+            "GT",
+            "Blohm & Voss",
+            "HAPAG",
+            "01929 Scrapped, 1929"
+        ]
+    ]
+}

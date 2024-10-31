@@ -1,0 +1,70 @@
+{
+    "id": "b8c1b443a14085f37e6cc7a1cf21b60ed04f7d2dd91e3ec309c6210035619570",
+    "metadata": "Glasgow Cup | Performance by club | Performance by club",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Wins",
+        "Last_win",
+        "Runners_up",
+        "Last_final_lost"
+    ],
+    "cell": [
+        [
+            "Rangers",
+            "48",
+            "2013",
+            "20",
+            "2011"
+        ],
+        [
+            "Celtic",
+            "31",
+            "2011",
+            "31",
+            "2013"
+        ],
+        [
+            "Partick Thistle",
+            "7",
+            "1989",
+            "11",
+            "1969"
+        ],
+        [
+            "Clyde",
+            "5",
+            "1959",
+            "14",
+            "1971"
+        ],
+        [
+            "Third Lanark",
+            "4",
+            "1963",
+            "13",
+            "1962"
+        ],
+        [
+            "Queen`s Park",
+            "4",
+            "1946",
+            "7",
+            "1985"
+        ],
+        [
+            "Cambuslang",
+            "1",
+            "1888",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "Cowlairs",
+            "\u2014",
+            "\u2014",
+            "1",
+            "1894"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "fe6f323739bd226848a4dd51c1adb4a9df740021759ad5da3172f16e7edd6bfb",
+    "metadata": "Bandung Metropolitan Area | Definition | Definition",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Administrative_division",
+        "Area_km\u00b2_2005",
+        "Population_2010_Census",
+        "Population_2011_SIAK_Database",
+        "Population_density_km\u00b2_2010"
+    ],
+    "cell": [
+        [
+            "Bandung City",
+            "167.27",
+            "2394873",
+            "2536649",
+            "14125"
+        ],
+        [
+            "Cimahi City",
+            "41.2",
+            "541177",
+            "606699",
+            "13134"
+        ],
+        [
+            "Bandung Regency",
+            "1756.65",
+            "3178543",
+            "3672994",
+            "1801"
+        ],
+        [
+            "West Bandung Regency *",
+            "1305.77",
+            "1510284",
+            "1854159",
+            "1159"
+        ],
+        [
+            "3 Kecamatan in Sumedang Regency *",
+            "112.0",
+            "264170",
+            "n/a",
+            "2359"
+        ]
+    ]
+}

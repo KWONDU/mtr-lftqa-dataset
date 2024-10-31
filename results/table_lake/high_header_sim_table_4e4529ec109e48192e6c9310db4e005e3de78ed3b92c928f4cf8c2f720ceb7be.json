@@ -1,0 +1,63 @@
+{
+    "id": "4e4529ec109e48192e6c9310db4e005e3de78ed3b92c928f4cf8c2f720ceb7be",
+    "metadata": "Latvian declension | History and exceptions | History and exceptions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Nominative",
+        "Old_orthography",
+        "New_orthography",
+        "_e_or_\u00e6_IPA",
+        "Tone_Latvian_notation_level_broken",
+        "Translation_"
+    ],
+    "cell": [
+        [
+            "m\u0113ris",
+            "m\u0113\u0157a",
+            "m\u0113ra",
+            "/me\u02d0ra/",
+            "/m\u1ebdra/",
+            "Gen.Sing. plague"
+        ],
+        [
+            "m\u0113rs",
+            "m\u0113ra",
+            "m\u0113ra",
+            "/me\u02d0ra/",
+            "/m\u1ebdra/",
+            "Gen.Sing. mayor"
+        ],
+        [
+            "m\u0113rs",
+            "m\u0113ra",
+            "m\u0113ra",
+            "/m\u00e6\u02d0ra/",
+            "/m\u1ebdra/",
+            "Gen.Sing. measure"
+        ],
+        [
+            "m\u0113r\u012bt",
+            "m\u0113ra",
+            "m\u0113ra",
+            "/m\u00e6\u02d0ra/",
+            "/m\u1ebdra/",
+            "3rd Pers.Ind. - he measures"
+        ],
+        [
+            "b\u0113rt",
+            "b\u0113ru",
+            "b\u0113ru",
+            "/be\u02d0ru/",
+            "/b\u00earu/",
+            "I poured (sand, grain, etc.)"
+        ],
+        [
+            "b\u0113res",
+            "b\u0113\u0157u",
+            "b\u0113ru",
+            "/b\u00e6\u02d0ru/",
+            "/b\u00earu/",
+            "Gen.Pl. funeral"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "88923cb04ba7ebf29306ffdc8af9cde5693566f7185c33f6e537a67148f25cf6",
+    "metadata": "1974 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "11.24 (90)",
+            "Richmond",
+            "23.15 (153)",
+            "MCG",
+            "21146",
+            "6 July 1974"
+        ],
+        [
+            "Essendon",
+            "11.9 (75)",
+            "Hawthorn",
+            "23.17 (155)",
+            "Windy Hill",
+            "16493",
+            "6 July 1974"
+        ],
+        [
+            "Collingwood",
+            "24.14 (158)",
+            "Fitzroy",
+            "19.13 (127)",
+            "Victoria Park",
+            "17913",
+            "6 July 1974"
+        ],
+        [
+            "Carlton",
+            "10.12 (72)",
+            "North Melbourne",
+            "18.13 (121)",
+            "Princes Park",
+            "27600",
+            "6 July 1974"
+        ],
+        [
+            "South Melbourne",
+            "19.27 (141)",
+            "Footscray",
+            "12.19 (91)",
+            "Lake Oval",
+            "9739",
+            "6 July 1974"
+        ],
+        [
+            "St Kilda",
+            "12.20 (92)",
+            "Geelong",
+            "11.12 (78)",
+            "VFL Park",
+            "13926",
+            "7 July 1974"
+        ]
+    ]
+}

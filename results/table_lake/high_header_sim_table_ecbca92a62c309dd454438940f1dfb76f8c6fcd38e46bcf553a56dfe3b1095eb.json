@@ -1,0 +1,103 @@
+{
+    "id": "ecbca92a62c309dd454438940f1dfb76f8c6fcd38e46bcf553a56dfe3b1095eb",
+    "metadata": "Scottish Parliament general election, 2007 | SNP targets | SNP targets",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Constituency",
+        "Winning_party_2003",
+        "Swing_to_gain",
+        "SNP_s_place_2003",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Galloway & Upper Nithsdale",
+            "Conservative",
+            "0.17",
+            "2nd",
+            "Con hold"
+        ],
+        [
+            "2",
+            "Tweeddale, Ettrick & Lauderdale",
+            "Liberal Democrats",
+            "1.01",
+            "2nd",
+            "LD hold"
+        ],
+        [
+            "3",
+            "Cumbernauld & Kilsyth",
+            "Labour",
+            "1.07",
+            "2nd",
+            "Lab hold"
+        ],
+        [
+            "4",
+            "Kilmarnock & Loudoun",
+            "Labour",
+            "1.92",
+            "2nd",
+            "SNP gain"
+        ],
+        [
+            "5",
+            "Dundee West",
+            "Labour",
+            "2.13",
+            "2nd",
+            "SNP gain"
+        ],
+        [
+            "6",
+            "Western Isles",
+            "Labour",
+            "2.91",
+            "2nd",
+            "SNP gain"
+        ],
+        [
+            "7",
+            "Glasgow Govan",
+            "Labour",
+            "2.92",
+            "2nd",
+            "SNP gain"
+        ],
+        [
+            "8",
+            "Aberdeen Central",
+            "Labour",
+            "2.96",
+            "2nd",
+            "Lab hold"
+        ],
+        [
+            "9",
+            "Linlithgow",
+            "Labour",
+            "3.56",
+            "2nd",
+            "Lab hold"
+        ],
+        [
+            "10",
+            "West Renfrewshire",
+            "Labour",
+            "4.41",
+            "2nd",
+            "Lab hold"
+        ],
+        [
+            "11",
+            "Paisley South",
+            "Labour",
+            "4.91",
+            "2nd",
+            "Lab hold"
+        ]
+    ]
+}

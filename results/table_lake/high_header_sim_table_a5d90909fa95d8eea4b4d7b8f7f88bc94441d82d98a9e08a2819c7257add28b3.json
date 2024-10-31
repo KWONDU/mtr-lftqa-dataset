@@ -1,0 +1,63 @@
+{
+    "id": "a5d90909fa95d8eea4b4d7b8f7f88bc94441d82d98a9e08a2819c7257add28b3",
+    "metadata": "Alex Lambert | Performances | Performances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week_",
+        "Theme",
+        "Song_choice",
+        "Original_artist",
+        "Order_",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Audition",
+            "Auditioner`s Choice",
+            "Golden Train",
+            "Justin Nozuka",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Hollywood",
+            "First Solo",
+            "Sunday Morning",
+            "Maroon 5",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Hollywood",
+            "Group Round",
+            "Dreams",
+            "Fleetwood Mac",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Hollywood",
+            "Second Solo",
+            "I`m Yours",
+            "Jason Mraz",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Top 24 (12 Men)",
+            "Billboard Hot 100 Hits",
+            "Wonderful World",
+            "James Morrison",
+            "10",
+            "Safe"
+        ],
+        [
+            "Top 20 (10 Men)",
+            "Billboard Hot 100 Hits",
+            "Everybody Knows",
+            "John Legend",
+            "4",
+            "Safe"
+        ]
+    ]
+}

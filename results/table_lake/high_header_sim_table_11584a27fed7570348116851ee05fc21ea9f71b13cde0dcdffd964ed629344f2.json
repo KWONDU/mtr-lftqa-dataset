@@ -1,0 +1,56 @@
+{
+    "id": "11584a27fed7570348116851ee05fc21ea9f71b13cde0dcdffd964ed629344f2",
+    "metadata": "1998 National League Championship Series | Atlanta Braves vs. San Diego Padres | Atlanta Braves vs. San Diego Padres",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 7",
+            "Turner Field",
+            "3:27",
+            "42117"
+        ],
+        [
+            "2",
+            "October 8",
+            "Turner Field",
+            "2:54",
+            "43083"
+        ],
+        [
+            "3",
+            "October 10",
+            "Qualcomm Stadium",
+            "3:00",
+            "62799"
+        ],
+        [
+            "4",
+            "October 11",
+            "Qualcomm Stadium",
+            "2:58",
+            "65042"
+        ],
+        [
+            "5",
+            "October 12",
+            "Qualcomm Stadium",
+            "3:17",
+            "58988"
+        ],
+        [
+            "6",
+            "October 14",
+            "Turner Field",
+            "3:10",
+            "50988"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "4d4c0d55afb2588163c0481634189a513680a58edf2e3183c1f53a5fb1653a68",
+    "metadata": "Provinces of New Zealand | Creation | Creation",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Province",
+        "Formed_date",
+        "Formed_from",
+        "Dissolution_date",
+        "Reason"
+    ],
+    "cell": [
+        [
+            "Auckland",
+            "17 January 1853",
+            "New Ulster",
+            "1 November 1876",
+            "Provinces abolished"
+        ],
+        [
+            "New Plymouth",
+            "17 January 1853",
+            "New Ulster",
+            "1 November 1876",
+            "Provinces abolished"
+        ],
+        [
+            "Hawke`s Bay",
+            "1 November 1858",
+            "Wellington",
+            "1 November 1876",
+            "Provinces abolished"
+        ],
+        [
+            "Wellington",
+            "17 January 1853",
+            "New Munster",
+            "1 November 1876",
+            "Provinces abolished"
+        ],
+        [
+            "Nelson",
+            "17 January 1853",
+            "New Munster",
+            "1 November 1876",
+            "Provinces abolished"
+        ],
+        [
+            "Marlborough",
+            "1 November 1859",
+            "Nelson",
+            "1 November 1876",
+            "Provinces abolished"
+        ],
+        [
+            "Westland",
+            "1 December 1873",
+            "Canterbury",
+            "1 November 1876",
+            "Provinces abolished"
+        ],
+        [
+            "Canterbury",
+            "17 January 1853",
+            "New Munster",
+            "1 November 1876",
+            "Provinces abolished"
+        ],
+        [
+            "Otago",
+            "17 January 1853",
+            "New Munster",
+            "1 November 1876",
+            "Provinces abolished"
+        ]
+    ]
+}

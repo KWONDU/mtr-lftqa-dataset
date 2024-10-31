@@ -1,0 +1,56 @@
+{
+    "id": "5d8f8db54477236fa05121c9b807b7330b37576de26b801806c24d73d913dc1e",
+    "metadata": "Australian American | Sport | Sport",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Born_Died",
+        "Notable_for",
+        "Connection_with_Australia",
+        "Connection_with_America"
+    ],
+    "cell": [
+        [
+            "Darren Bennett",
+            "1965-",
+            "Australian rules and American football",
+            "born, played in AFL",
+            "played in NFL"
+        ],
+        [
+            "Taj Burrow",
+            "1978-",
+            "surfing",
+            "born in Australia",
+            "parents are U.S. citizens"
+        ],
+        [
+            "Taylor Dent",
+            "1981-",
+            "tennis",
+            "father is Australian",
+            "born in the U.S."
+        ],
+        [
+            "Jamie Dundee",
+            "1971-",
+            "professional wrestling",
+            "born in Australia",
+            "moved to U.S. as a child"
+        ],
+        [
+            "Kyrie Irving",
+            "1992-",
+            "basketball",
+            "born in Melbourne",
+            "parents are U.S. citizens"
+        ],
+        [
+            "Robert Machado",
+            "1973-",
+            "surfing",
+            "born in Sydney",
+            "grew up and lives in California"
+        ]
+    ]
+}

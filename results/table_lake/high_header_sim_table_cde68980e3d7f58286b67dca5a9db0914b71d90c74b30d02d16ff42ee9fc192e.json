@@ -1,0 +1,70 @@
+{
+    "id": "cde68980e3d7f58286b67dca5a9db0914b71d90c74b30d02d16ff42ee9fc192e",
+    "metadata": "1925 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "9.9 (63)",
+            "Richmond",
+            "2.12 (24)",
+            "MCG",
+            "16989",
+            "12 September 1925"
+        ],
+        [
+            "Hawthorn",
+            "7.13 (55)",
+            "North Melbourne",
+            "4.6 (30)",
+            "Glenferrie Oval",
+            "8000",
+            "12 September 1925"
+        ],
+        [
+            "Essendon",
+            "10.7 (67)",
+            "St Kilda",
+            "8.10 (58)",
+            "Windy Hill",
+            "15000",
+            "12 September 1925"
+        ],
+        [
+            "Geelong",
+            "14.16 (100)",
+            "Footscray",
+            "9.7 (61)",
+            "Corio Oval",
+            "10800",
+            "12 September 1925"
+        ],
+        [
+            "South Melbourne",
+            "4.6 (30)",
+            "Collingwood",
+            "14.11 (95)",
+            "Lake Oval",
+            "12000",
+            "12 September 1925"
+        ],
+        [
+            "Fitzroy",
+            "7.24 (66)",
+            "Carlton",
+            "9.10 (64)",
+            "Brunswick Street Oval",
+            "20000",
+            "12 September 1925"
+        ]
+    ]
+}

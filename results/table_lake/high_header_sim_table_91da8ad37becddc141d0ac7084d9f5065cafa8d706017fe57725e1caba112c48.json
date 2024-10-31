@@ -1,0 +1,98 @@
+{
+    "id": "91da8ad37becddc141d0ac7084d9f5065cafa8d706017fe57725e1caba112c48",
+    "metadata": "1967-68 FA Cup | Fifth Round Proper | Fifth Round Proper",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Sheffield Wednesday",
+            "2-2",
+            "Chelsea",
+            "9 March 1968"
+        ],
+        [
+            "Replay",
+            "Chelsea",
+            "2-0",
+            "Sheffield Wednesday",
+            "12 March 1968"
+        ],
+        [
+            "2",
+            "Everton",
+            "2-0",
+            "Tranmere Rovers",
+            "9 March 1968"
+        ],
+        [
+            "3",
+            "Tottenham Hotspur",
+            "1-1",
+            "Liverpool",
+            "9 March 1968"
+        ],
+        [
+            "Replay",
+            "Liverpool",
+            "2-1",
+            "Tottenham Hotspur",
+            "12 March 1968"
+        ],
+        [
+            "4",
+            "Portsmouth",
+            "1-2",
+            "West Bromwich Albion",
+            "9 March 1968"
+        ],
+        [
+            "5",
+            "West Ham United",
+            "1-2",
+            "Sheffield United",
+            "9 March 1968"
+        ],
+        [
+            "6",
+            "Arsenal",
+            "1-1",
+            "Birmingham City",
+            "9 March 1968"
+        ],
+        [
+            "Replay",
+            "Birmingham City",
+            "2-1",
+            "Arsenal",
+            "12 March 1968"
+        ],
+        [
+            "7",
+            "Leeds United",
+            "2-0",
+            "Bristol City",
+            "9 March 1968"
+        ],
+        [
+            "8",
+            "Rotherham United",
+            "1-1",
+            "Leicester City",
+            "9 March 1968"
+        ],
+        [
+            "Replay",
+            "Leicester City",
+            "2-0",
+            "Rotherham United",
+            "13 March 1968"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "c7c51c31a0f070dc21719d995acdda462a7af34d0c1c5b58ceda20327bf9f359",
+    "metadata": "1982-83 FA Cup | Sixth round proper | Sixth round proper",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Burnley",
+            "1-1",
+            "Sheffield Wednesday",
+            "12 March 1983"
+        ],
+        [
+            "Replay",
+            "Sheffield Wednesday",
+            "5-0",
+            "Burnley",
+            "16 March 1983"
+        ],
+        [
+            "2",
+            "Brighton & Hove Albion",
+            "1-0",
+            "Norwich City",
+            "12 March 1983"
+        ],
+        [
+            "3",
+            "Manchester United",
+            "1-0",
+            "Everton",
+            "12 March 1983"
+        ],
+        [
+            "4",
+            "Arsenal",
+            "2-0",
+            "Aston Villa",
+            "12 March 1983"
+        ]
+    ]
+}

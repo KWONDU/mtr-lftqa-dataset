@@ -1,0 +1,49 @@
+{
+    "id": "f50bc02aed38b55b64fbf5fe31a1ad1ed42bf7ec30f27375bf2f5ce1f0fd12d7",
+    "metadata": "Mediterranean U-boat Campaign (World War I) | Table | Table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Ships_sunk_Pola",
+        "Tonnage",
+        "U_boats_destroyed_KuK",
+        "U_boats_destroyed_Pola"
+    ],
+    "cell": [
+        [
+            "1914",
+            "n/a",
+            "n/a",
+            "none",
+            "n/a"
+        ],
+        [
+            "1915",
+            "102",
+            "350853",
+            "2",
+            "none"
+        ],
+        [
+            "1916",
+            "415",
+            "1045058",
+            "2",
+            "1"
+        ],
+        [
+            "1917",
+            "(not recorded)",
+            "1514050",
+            "2",
+            "2"
+        ],
+        [
+            "1918",
+            "325",
+            "761060",
+            "3",
+            "10"
+        ]
+    ]
+}

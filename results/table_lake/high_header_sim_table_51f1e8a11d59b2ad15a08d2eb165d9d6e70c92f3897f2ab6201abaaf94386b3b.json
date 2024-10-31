@@ -1,0 +1,79 @@
+{
+    "id": "51f1e8a11d59b2ad15a08d2eb165d9d6e70c92f3897f2ab6201abaaf94386b3b",
+    "metadata": "Kristy Lee Cook | Performances | Performances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week_",
+        "Theme",
+        "Song_choice",
+        "Original_artist",
+        "Order_",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Top 24 (12 Women)",
+            "1960s",
+            "Rescue Me",
+            "Fontella Bass",
+            "1",
+            "Safe"
+        ],
+        [
+            "Top 20 (10 Women)",
+            "1970s",
+            "You`re No Good",
+            "Betty Everett",
+            "5",
+            "Safe"
+        ],
+        [
+            "Top 16 (8 Women)",
+            "1980s",
+            "Faithfully",
+            "Journey",
+            "5",
+            "Safe"
+        ],
+        [
+            "Top 12",
+            "Lennon-McCartney",
+            "Eight Days a Week",
+            "The Beatles",
+            "11",
+            "Bottom 2"
+        ],
+        [
+            "Top 11",
+            "The Beatles",
+            "You`ve Got to Hide Your Love Away",
+            "The Beatles",
+            "2",
+            "Bottom 2"
+        ],
+        [
+            "Top 10",
+            "Year They Were Born",
+            "God Bless the USA",
+            "Lee Greenwood",
+            "9",
+            "Safe"
+        ],
+        [
+            "Top 9",
+            "Dolly Parton",
+            "Coat of Many Colors",
+            "Dolly Parton",
+            "7",
+            "Bottom 2"
+        ],
+        [
+            "Top 8",
+            "Inspirational",
+            "Anyway",
+            "Martina McBride",
+            "4",
+            "Safe"
+        ]
+    ]
+}

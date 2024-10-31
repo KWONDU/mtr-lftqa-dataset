@@ -1,0 +1,49 @@
+{
+    "id": "009105ca0065295eb3c1587d2c7f461c32fe34f23b2f98ee94e0e79e02dd551b",
+    "metadata": "United States Commerce Court | Judges | Judges",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Judge",
+        "State_",
+        "Born_Died",
+        "Began_active_service_",
+        "Ended_active_service"
+    ],
+    "cell": [
+        [
+            "Martin Augustine Knapp",
+            "NY",
+            "1843-1923",
+            "1910",
+            "1913"
+        ],
+        [
+            "Robert Wodrow Archbald",
+            "PA",
+            "1848-1926",
+            "1911",
+            "1913"
+        ],
+        [
+            "John Emmett Carland",
+            "SD",
+            "1853-1922",
+            "1911",
+            "1913"
+        ],
+        [
+            "William Henry Hunt",
+            "MT",
+            "1857-1949",
+            "1911",
+            "1913"
+        ],
+        [
+            "Julian William Mack",
+            "IL",
+            "1866-1943",
+            "1911",
+            "1913"
+        ]
+    ]
+}

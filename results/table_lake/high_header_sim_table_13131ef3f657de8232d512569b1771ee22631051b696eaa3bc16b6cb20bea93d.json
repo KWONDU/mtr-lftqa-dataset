@@ -1,0 +1,61 @@
+{
+    "id": "13131ef3f657de8232d512569b1771ee22631051b696eaa3bc16b6cb20bea93d",
+    "metadata": "Peter Thomson (golfer) | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "1",
+            "1",
+            "5",
+            "8",
+            "6"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "1",
+            "1",
+            "2",
+            "5",
+            "3"
+        ],
+        [
+            "The Open Championship",
+            "5",
+            "10",
+            "18",
+            "23",
+            "30",
+            "26"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "Totals",
+            "5",
+            "12",
+            "20",
+            "30",
+            "43",
+            "35"
+        ]
+    ]
+}

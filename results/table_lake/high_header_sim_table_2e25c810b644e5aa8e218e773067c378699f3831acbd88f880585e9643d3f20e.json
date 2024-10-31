@@ -1,0 +1,117 @@
+{
+    "id": "2e25c810b644e5aa8e218e773067c378699f3831acbd88f880585e9643d3f20e",
+    "metadata": "Mid-Hoosier Conference | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment_08_09",
+        "IHSAA_Class",
+        "County",
+        "Year_Joined",
+        "Previous_Conference"
+    ],
+    "cell": [
+        [
+            "Eastern Hancock",
+            "Charlottesville",
+            "Royals",
+            "338",
+            "A",
+            "30 Hancock",
+            "2012",
+            "Independent"
+        ],
+        [
+            "Edinburgh",
+            "Edinburgh",
+            "Lancers",
+            "276",
+            "A",
+            "41 Johnson",
+            "1965",
+            "Independent"
+        ],
+        [
+            "Hauser",
+            "Hope",
+            "Jets",
+            "343",
+            "AA",
+            "03 Bartholomew",
+            "1965",
+            "Dixie"
+        ],
+        [
+            "Indian Creek",
+            "Trafalgar",
+            "Braves",
+            "599",
+            "AA",
+            "41 Johnson",
+            "1967",
+            "none (new school)"
+        ],
+        [
+            "Knightstown",
+            "Knightstown",
+            "Panthers",
+            "397",
+            "AA",
+            "32 Henry",
+            "2013",
+            "Independent"
+        ],
+        [
+            "Morristown",
+            "Morristown",
+            "Yellow Jackets",
+            "229",
+            "A",
+            "73 Shelby",
+            "1985",
+            "Big Blue River"
+        ],
+        [
+            "North Decatur",
+            "Greensburg",
+            "Chargers",
+            "401",
+            "AA",
+            "16 Decatur",
+            "1980",
+            "Big Blue River"
+        ],
+        [
+            "South Decatur",
+            "Greensburg",
+            "Cougars",
+            "298",
+            "A",
+            "16 Decatur",
+            "1968",
+            "none (new school)"
+        ],
+        [
+            "Southwestern (Shelbyville)",
+            "Shelbyville",
+            "Spartans",
+            "229",
+            "A",
+            "73 Shelby",
+            "1965",
+            "Independent"
+        ],
+        [
+            "Waldron",
+            "Waldron",
+            "Mohawks",
+            "244",
+            "A",
+            "73 Shelby",
+            "1965",
+            "Independent"
+        ]
+    ]
+}

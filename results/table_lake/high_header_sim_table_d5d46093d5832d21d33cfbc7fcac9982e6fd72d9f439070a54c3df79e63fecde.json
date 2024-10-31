@@ -1,0 +1,98 @@
+{
+    "id": "d5d46093d5832d21d33cfbc7fcac9982e6fd72d9f439070a54c3df79e63fecde",
+    "metadata": "Kent County, New Brunswick | Parishes | Parishes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Official_Name",
+        "Status_",
+        "Area_km_2",
+        "Population",
+        "Census_Ranking"
+    ],
+    "cell": [
+        [
+            "Dundas",
+            "Parish",
+            "230.31",
+            "6356",
+            "571 of 5,008"
+        ],
+        [
+            "Wellington",
+            "Parish",
+            "195.31",
+            "3484",
+            "899 of 5,008"
+        ],
+        [
+            "Saint-Charles",
+            "Parish",
+            "174.78",
+            "2093",
+            "1,273 of 5,008"
+        ],
+        [
+            "Richibucto",
+            "Parish",
+            "249.45",
+            "2022",
+            "1,302 of 5,008"
+        ],
+        [
+            "Saint Mary",
+            "Parish",
+            "238.21",
+            "1989",
+            "1,319 of 5,008"
+        ],
+        [
+            "Saint-Louis",
+            "Parish",
+            "258.58",
+            "1901",
+            "1,362 of 5,008"
+        ],
+        [
+            "Weldford",
+            "Parish",
+            "611.41",
+            "1426",
+            "1,653 of 5,008"
+        ],
+        [
+            "Carleton",
+            "Parish",
+            "435.99",
+            "902",
+            "2,195 of 5,008"
+        ],
+        [
+            "Saint-Paul",
+            "Parish",
+            "228.65",
+            "858",
+            "2,268 of 5,008"
+        ],
+        [
+            "Acadieville",
+            "Parish",
+            "331.67",
+            "826",
+            "2,315 of 5,008"
+        ],
+        [
+            "Harcourt",
+            "Parish",
+            "1169.15",
+            "426",
+            "3,232 of 5,008"
+        ],
+        [
+            "Huskisson",
+            "Parish",
+            "369.95",
+            "49",
+            "4,660 of 5,008"
+        ]
+    ]
+}

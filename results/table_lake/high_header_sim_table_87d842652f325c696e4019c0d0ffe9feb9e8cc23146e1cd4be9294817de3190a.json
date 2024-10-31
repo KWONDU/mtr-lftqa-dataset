@@ -1,0 +1,63 @@
+{
+    "id": "87d842652f325c696e4019c0d0ffe9feb9e8cc23146e1cd4be9294817de3190a",
+    "metadata": "Campbell Union High School District | Schools | Schools",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School_Name",
+        "City",
+        "Students",
+        "FTE_Teachers",
+        "Pupil_Teacher_Ratio"
+    ],
+    "cell": [
+        [
+            "Boynton High School",
+            "San Jose",
+            "280",
+            "16.8",
+            "16.7"
+        ],
+        [
+            "Branham High School",
+            "San Jose",
+            "1444",
+            "54.4",
+            "26.5"
+        ],
+        [
+            "Camden Community Day School",
+            "San Jose",
+            "30",
+            "4.6",
+            "6.5"
+        ],
+        [
+            "Del Mar High School",
+            "San Jose",
+            "1278",
+            "55.6",
+            "23.0"
+        ],
+        [
+            "Leigh High School",
+            "San Jose",
+            "1619",
+            "64.6",
+            "25.1"
+        ],
+        [
+            "Prospect High School",
+            "Saratoga",
+            "1213",
+            "53.0",
+            "22.9"
+        ],
+        [
+            "Westmont High School",
+            "Campbell",
+            "1663",
+            "66.6",
+            "25.0"
+        ]
+    ]
+}

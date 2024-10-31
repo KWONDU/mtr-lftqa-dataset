@@ -1,0 +1,49 @@
+{
+    "id": "519ce44918e55d180c3be6b679d5ad60b09a7fedf01ab1b801a476ed150852e5",
+    "metadata": "List of Mexican municipalities | Ranking of municipalities | By area",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "INEGI_code",
+        "Municipality",
+        "Municipal_seat",
+        "Population_2010",
+        "Area_Km2"
+    ],
+    "cell": [
+        [
+            "001",
+            "Ensenada",
+            "Ensenada",
+            "466814",
+            "52482.4"
+        ],
+        [
+            "002",
+            "Mexicali",
+            "Mexicali",
+            "956826",
+            "13700"
+        ],
+        [
+            "003",
+            "Tecate",
+            "Tecate",
+            "101079",
+            "3079"
+        ],
+        [
+            "004",
+            "Tijuana",
+            "Tijuana",
+            "1559683",
+            "879.2"
+        ],
+        [
+            "005",
+            "Playas de Rosarito",
+            "Rosarito",
+            "90668",
+            "513.32"
+        ]
+    ]
+}

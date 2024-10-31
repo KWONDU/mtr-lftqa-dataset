@@ -1,0 +1,119 @@
+{
+    "id": "2876f87b5c4741c7b84d00c5a9e1c63f05db34654746b3885af1251f8858a411",
+    "metadata": "1985 Masters Tournament | Final leaderboard | Final leaderboard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bernhard Langer",
+            "West Germany",
+            "72-74-68-68=282",
+            "-6",
+            "126000"
+        ],
+        [
+            "T2",
+            "Seve Ballesteros",
+            "Spain",
+            "72-71-71-70=284",
+            "-4",
+            "52267"
+        ],
+        [
+            "T2",
+            "Raymond Floyd",
+            "United States",
+            "70-73-69-72=284",
+            "-4",
+            "52267"
+        ],
+        [
+            "T2",
+            "Curtis Strange",
+            "United States",
+            "80-65-68-71=284",
+            "-4",
+            "52267"
+        ],
+        [
+            "5",
+            "Jay Haas",
+            "United States",
+            "73-73-72-67=285",
+            "-3",
+            "28000"
+        ],
+        [
+            "T6",
+            "Gary Hallberg",
+            "United States",
+            "68-73-75-70=286",
+            "-2",
+            "22663"
+        ],
+        [
+            "T6",
+            "Bruce Lietzke",
+            "United States",
+            "72-71-73-70=286",
+            "-2",
+            "22663"
+        ],
+        [
+            "T6",
+            "Jack Nicklaus",
+            "United States",
+            "71-74-72-69=286",
+            "-2",
+            "22663"
+        ],
+        [
+            "T6",
+            "Craig Stadler",
+            "United States",
+            "73-67-76-70=286",
+            "-2",
+            "22663"
+        ],
+        [
+            "T10",
+            "Fred Couples",
+            "United States",
+            "75-73-69-70=287",
+            "-1",
+            "16800"
+        ],
+        [
+            "T10",
+            "David Graham",
+            "Australia",
+            "74-71-71-71=287",
+            "-1",
+            "16800"
+        ],
+        [
+            "T10",
+            "Lee Trevino",
+            "United States",
+            "70-73-72-72=287",
+            "-1",
+            "16800"
+        ],
+        [
+            "T10",
+            "Tom Watson",
+            "United States",
+            "69-71-75-72=287",
+            "-1",
+            "16800"
+        ]
+    ]
+}

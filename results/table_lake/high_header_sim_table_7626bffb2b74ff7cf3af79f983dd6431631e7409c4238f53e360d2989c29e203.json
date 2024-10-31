@@ -1,0 +1,63 @@
+{
+    "id": "7626bffb2b74ff7cf3af79f983dd6431631e7409c4238f53e360d2989c29e203",
+    "metadata": "1974-75 Portland Trail Blazers season | NBA Draft | NBA Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "Nationality",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "Bill Walton",
+            "C",
+            "United States",
+            "UCLA"
+        ],
+        [
+            "2",
+            "20",
+            "Jan van Breda Kolff",
+            "G/F",
+            "United States",
+            "Vanderbilt"
+        ],
+        [
+            "2",
+            "34",
+            "Phil Lumpkin",
+            "G",
+            "United States",
+            "Miami (OH)"
+        ],
+        [
+            "2",
+            "36",
+            "Rubin Collins",
+            "G",
+            "United States",
+            "Maryland-Eastern Shore"
+        ],
+        [
+            "4",
+            "56",
+            "Mickey Johnson",
+            "F",
+            "United States",
+            "Aurora"
+        ],
+        [
+            "6",
+            "92",
+            "Daniel Anderson",
+            "G",
+            "United States",
+            "USC"
+        ]
+    ]
+}

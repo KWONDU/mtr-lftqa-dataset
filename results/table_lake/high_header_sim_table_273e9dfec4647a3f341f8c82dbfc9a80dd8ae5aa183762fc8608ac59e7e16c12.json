@@ -1,0 +1,106 @@
+{
+    "id": "273e9dfec4647a3f341f8c82dbfc9a80dd8ae5aa183762fc8608ac59e7e16c12",
+    "metadata": "1974 Kentucky Wildcats football team | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Wildcats_points",
+        "Opponents",
+        "Record"
+    ],
+    "cell": [
+        [
+            "1",
+            "Sept. 14",
+            "at Virginia Tech",
+            "Win",
+            "38",
+            "7",
+            "1-0"
+        ],
+        [
+            "2",
+            "Sept. 21",
+            "at West Virginia",
+            "Loss",
+            "3",
+            "16",
+            "1-1"
+        ],
+        [
+            "3",
+            "Sept. 28",
+            "Indiana",
+            "Win",
+            "28",
+            "22",
+            "2-1"
+        ],
+        [
+            "4",
+            "Oct. 5",
+            "Miami (Ohio)",
+            "Loss",
+            "10",
+            "14",
+            "2-2"
+        ],
+        [
+            "5",
+            "Oct. 12",
+            "at #10 Auburn",
+            "Loss",
+            "13",
+            "31",
+            "2-3"
+        ],
+        [
+            "6",
+            "Oct. 19",
+            "LSU",
+            "Win",
+            "20",
+            "13",
+            "3-3"
+        ],
+        [
+            "7",
+            "Oct. 26",
+            "Georgia",
+            "Loss",
+            "20",
+            "24",
+            "3-4"
+        ],
+        [
+            "8",
+            "Nov. 2",
+            "at Tulane",
+            "Win",
+            "30",
+            "7",
+            "4-4"
+        ],
+        [
+            "9",
+            "Nov. 9",
+            "Vanderbilt",
+            "Win",
+            "38",
+            "12",
+            "5-4"
+        ],
+        [
+            "10",
+            "Nov. 16",
+            "#9 Florida",
+            "Win",
+            "41",
+            "24",
+            "6-4"
+        ]
+    ]
+}

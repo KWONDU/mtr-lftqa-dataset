@@ -1,0 +1,79 @@
+{
+    "id": "e8f99d0940d625106eb651f32513cb2c15ca13b8da7c32bd4f552cb4f923819d",
+    "metadata": "Gardline group | Current Fleet | Current Fleet",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Vessel",
+        "Built",
+        "Max_Speed",
+        "Length_",
+        "Breadth_",
+        "Flag",
+        "Propulsion"
+    ],
+    "cell": [
+        [
+            "Gallion",
+            "2010",
+            "30 knots",
+            "20 m",
+            "6.5 m",
+            "United Kingdom",
+            "Prop"
+        ],
+        [
+            "Gardian 1",
+            "2010",
+            "30 knots",
+            "20 m",
+            "6.5 m",
+            "United Kingdom",
+            "Prop"
+        ],
+        [
+            "Gardian 2",
+            "2010",
+            "30 knots",
+            "20 m",
+            "6.5 m",
+            "United Kingdom",
+            "Prop"
+        ],
+        [
+            "Gardian 7",
+            "2010",
+            "30 knots",
+            "20 m",
+            "6.5 m",
+            "United Kingdom",
+            "Prop"
+        ],
+        [
+            "Gardian 9",
+            "2010",
+            "30 knots",
+            "20 m",
+            "6.5 m",
+            "United Kingdom",
+            "Prop"
+        ],
+        [
+            "Marianarray",
+            "2011",
+            "26 knots",
+            "17 m",
+            "6 m",
+            "United Kingdom",
+            "Jet"
+        ],
+        [
+            "Smeaton Array",
+            "2011",
+            "30 knots",
+            "20 m",
+            "6 m",
+            "United Kingdom",
+            "Controllable pitch propeller"
+        ]
+    ]
+}

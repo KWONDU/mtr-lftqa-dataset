@@ -1,0 +1,55 @@
+{
+    "id": "b882386d97fbe0f77e401b048b2331dde813855d535615b1ed9f0b4c3883b8af",
+    "metadata": "United States House of Representatives elections, 2000 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "Mark Sanford",
+            "Republican",
+            "1994",
+            "Retired Republican hold",
+            "Henry Brown (R) 60% Andy Brack (D) 36%"
+        ],
+        [
+            "South Carolina 2",
+            "Floyd Spence",
+            "Republican",
+            "1970",
+            "Re-elected",
+            "Floyd Spence (R) 58% Jane Frederick (D) 41%"
+        ],
+        [
+            "South Carolina 3",
+            "Lindsey Graham",
+            "Republican",
+            "1994",
+            "Re-elected",
+            "Lindsey Graham (R) 68% George Brightharp (D) 31%"
+        ],
+        [
+            "South Carolina 4",
+            "Jim DeMint",
+            "Republican",
+            "1998",
+            "Re-elected",
+            "Jim DeMint (R) 80%"
+        ],
+        [
+            "South Carolina 5",
+            "John Spratt",
+            "Democratic",
+            "1982",
+            "Re-elected",
+            "John Spratt (D) 59% Carl Gullick (R) 40%"
+        ]
+    ]
+}

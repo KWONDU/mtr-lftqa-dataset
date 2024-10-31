@@ -1,0 +1,70 @@
+{
+    "id": "aa9b8a575a089bf36dc7177b5c5dc0f86cd658591035cd2049d2bcb31e30f11b",
+    "metadata": "1939 VFL season | Round 18 | Round 18",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "11.13 (79)",
+            "South Melbourne",
+            "6.16 (52)",
+            "Junction Oval",
+            "12000",
+            "2 September 1939"
+        ],
+        [
+            "Footscray",
+            "11.17 (83)",
+            "Hawthorn",
+            "6.7 (43)",
+            "Western Oval",
+            "3500",
+            "2 September 1939"
+        ],
+        [
+            "Collingwood",
+            "13.13 (91)",
+            "Richmond",
+            "8.11 (59)",
+            "Victoria Park",
+            "28000",
+            "2 September 1939"
+        ],
+        [
+            "Carlton",
+            "16.22 (118)",
+            "Essendon",
+            "8.14 (62)",
+            "Princes Park",
+            "10000",
+            "2 September 1939"
+        ],
+        [
+            "North Melbourne",
+            "11.10 (76)",
+            "Geelong",
+            "9.11 (65)",
+            "Arden Street Oval",
+            "3500",
+            "2 September 1939"
+        ],
+        [
+            "Melbourne",
+            "11.15 (81)",
+            "Fitzroy",
+            "4.11 (35)",
+            "MCG",
+            "9043",
+            "2 September 1939"
+        ]
+    ]
+}

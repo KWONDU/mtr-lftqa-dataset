@@ -1,0 +1,55 @@
+{
+    "id": "0c07f1d733891d7c1f15da191cdc12e26cfd7bb9967a441c4e8c7f702da8991d",
+    "metadata": "Benalla & District Football League | 2007 Ladder and Finals | 2007 Ladder and Finals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Benalla_DFL",
+        "Wins",
+        "Losses",
+        "Draws",
+        "Byes",
+        "Against"
+    ],
+    "cell": [
+        [
+            "Goorambat",
+            "13",
+            "3",
+            "0",
+            "4",
+            "1045"
+        ],
+        [
+            "Longwood",
+            "10",
+            "6",
+            "0",
+            "4",
+            "1316"
+        ],
+        [
+            "Bonnie Doon",
+            "10",
+            "6",
+            "0",
+            "4",
+            "1411"
+        ],
+        [
+            "Tatong",
+            "7",
+            "9",
+            "0",
+            "4",
+            "1709"
+        ],
+        [
+            "Swanpool",
+            "0",
+            "16",
+            "0",
+            "4",
+            "1878"
+        ]
+    ]
+}

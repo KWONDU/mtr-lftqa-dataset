@@ -1,0 +1,70 @@
+{
+    "id": "96245c15ed35e9f6f69ad7e3d8a8bdb5471fd2717c48fdaecb169806bcfb38d1",
+    "metadata": "1950 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "10.18 (78)",
+            "South Melbourne",
+            "13.10 (88)",
+            "Junction Oval",
+            "18000",
+            "22 July 1950"
+        ],
+        [
+            "Melbourne",
+            "4.8 (32)",
+            "North Melbourne",
+            "7.13 (55)",
+            "MCG",
+            "34000",
+            "22 July 1950"
+        ],
+        [
+            "Fitzroy",
+            "6.10 (46)",
+            "Richmond",
+            "5.6 (36)",
+            "Brunswick Street Oval",
+            "14000",
+            "22 July 1950"
+        ],
+        [
+            "Essendon",
+            "8.14 (62)",
+            "Geelong",
+            "6.9 (45)",
+            "Windy Hill",
+            "18000",
+            "22 July 1950"
+        ],
+        [
+            "Carlton",
+            "12.7 (79)",
+            "Collingwood",
+            "17.14 (116)",
+            "Princes Park",
+            "30500",
+            "29 July 1950"
+        ],
+        [
+            "Hawthorn",
+            "11.12 (78)",
+            "Footscray",
+            "11.14 (80)",
+            "Glenferrie Oval",
+            "9000",
+            "29 July 1950"
+        ]
+    ]
+}

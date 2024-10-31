@@ -1,0 +1,95 @@
+{
+    "id": "2296ee366237b1953e4565e3d689d9e2ead68dc30872988a91060ffd83cd128d",
+    "metadata": "1986 Open Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Greg Norman",
+            "Australia",
+            "74-63-74-69=280",
+            "E",
+            "70000"
+        ],
+        [
+            "2",
+            "Gordon J. Brand",
+            "England",
+            "71-68-75-71=285",
+            "+5",
+            "50000"
+        ],
+        [
+            "T3",
+            "Bernhard Langer",
+            "West Germany",
+            "72-70-76-68=286",
+            "+6",
+            "35000"
+        ],
+        [
+            "T3",
+            "Ian Woosnam",
+            "Wales",
+            "70-74-70-72=286",
+            "+6",
+            "35000"
+        ],
+        [
+            "5",
+            "Nick Faldo",
+            "England",
+            "71-70-76-70=287",
+            "+7",
+            "25000"
+        ],
+        [
+            "T6",
+            "Seve Ballesteros",
+            "Spain",
+            "76-75-73-64=288",
+            "+8",
+            "22000"
+        ],
+        [
+            "T6",
+            "Gary Koch",
+            "United States",
+            "73-72-72-71=288",
+            "+8",
+            "22000"
+        ],
+        [
+            "T8",
+            "Brian Marchbank",
+            "Scotland",
+            "78-70-72-69=289",
+            "+9",
+            "17333"
+        ],
+        [
+            "T8",
+            "Tsuneyuki Nakajima",
+            "Japan",
+            "74-67-71-77=289",
+            "+9",
+            "17333"
+        ],
+        [
+            "T8",
+            "Fuzzy Zoeller",
+            "United States",
+            "75-73-72-69=289",
+            "+9",
+            "17333"
+        ]
+    ]
+}

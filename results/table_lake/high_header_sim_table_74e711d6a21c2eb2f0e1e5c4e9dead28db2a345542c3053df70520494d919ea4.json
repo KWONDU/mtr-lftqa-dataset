@@ -1,0 +1,70 @@
+{
+    "id": "74e711d6a21c2eb2f0e1e5c4e9dead28db2a345542c3053df70520494d919ea4",
+    "metadata": "Vieques Air Link | Destinations | Destinations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "Country",
+        "IATA",
+        "ICAO",
+        "Airport"
+    ],
+    "cell": [
+        [
+            "Ceiba, Puerto Rico",
+            "Puerto Rico",
+            "RVR",
+            "TJRV",
+            "Jos\u00e9 Aponte de la Torre Airport"
+        ],
+        [
+            "Culebra",
+            "Puerto Rico",
+            "CPX",
+            "TJCP",
+            "Benjam\u00edn Rivera Noriega Airport"
+        ],
+        [
+            "Fajardo",
+            "Puerto Rico",
+            "FAJ",
+            "TJFA",
+            "Diego Jimenez Torres Airport"
+        ],
+        [
+            "Isla Grande",
+            "Puerto Rico",
+            "SIG",
+            "TJIG",
+            "Fernando Luis Ribas Dominicci Airport"
+        ],
+        [
+            "San Juan",
+            "Puerto Rico",
+            "SJU",
+            "TJSJ",
+            "Luis Mu\u00f1oz Mar\u00edn International Airport"
+        ],
+        [
+            "St. Croix",
+            "United States Virgin Islands",
+            "STX",
+            "TISX",
+            "Henry E. Rohlsen Airport"
+        ],
+        [
+            "St. Thomas, USVI",
+            "United States Virgin Islands",
+            "STT",
+            "TIST",
+            "Cyril E. King Airport"
+        ],
+        [
+            "Vieques",
+            "Puerto Rico",
+            "VQS",
+            "TJVQ",
+            "Antonio Rivera Rodr\u00edguez Airport"
+        ]
+    ]
+}

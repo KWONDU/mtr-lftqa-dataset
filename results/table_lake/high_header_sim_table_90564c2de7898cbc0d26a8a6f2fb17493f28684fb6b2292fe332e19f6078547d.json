@@ -1,0 +1,55 @@
+{
+    "id": "90564c2de7898cbc0d26a8a6f2fb17493f28684fb6b2292fe332e19f6078547d",
+    "metadata": "Renata Vor\u00e1\u010dov\u00e1 | Doubles | Doubles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "_2003",
+        "_2007",
+        "_2008",
+        "_2009",
+        "_2011"
+    ],
+    "cell": [
+        [
+            "Australian Open",
+            "2R",
+            "1R",
+            "1R",
+            "1R",
+            "1R"
+        ],
+        [
+            "French Open",
+            "1R",
+            "1R",
+            "2R",
+            "1R",
+            "2R"
+        ],
+        [
+            "Wimbledon",
+            "3R",
+            "1R",
+            "1R",
+            "1R",
+            "2R"
+        ],
+        [
+            "US Open",
+            "1R",
+            "1R",
+            "2R",
+            "1R",
+            "1R"
+        ],
+        [
+            "Win-Loss",
+            "3-4",
+            "0-4",
+            "2-4",
+            "0-4",
+            "2-4"
+        ]
+    ]
+}

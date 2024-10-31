@@ -1,0 +1,49 @@
+{
+    "id": "2c361cd59036bbf10fdf23c70288756a32cb535c671d04c839dded875a42a862",
+    "metadata": "Billy MacKinnon | International goals | International goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Venue",
+        "Score",
+        "Result_",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "4 March 1876",
+            "West of Scotland Cricket Ground , Glasgow",
+            "1-0",
+            "3-0",
+            "Friendly"
+        ],
+        [
+            "25 March 1876",
+            "West of Scotland Cricket Ground , Glasgow",
+            "3-0",
+            "4-0",
+            "Friendly"
+        ],
+        [
+            "2 March 1878",
+            "Hampden Park , Glasgow",
+            "6-0",
+            "7-2",
+            "Friendly"
+        ],
+        [
+            "5 April 1879",
+            "Kennington Oval , London",
+            "1-1",
+            "4-5",
+            "Friendly"
+        ],
+        [
+            "5 April 1879",
+            "Kennington Oval , London",
+            "4-1",
+            "4-5",
+            "Friendly"
+        ]
+    ]
+}

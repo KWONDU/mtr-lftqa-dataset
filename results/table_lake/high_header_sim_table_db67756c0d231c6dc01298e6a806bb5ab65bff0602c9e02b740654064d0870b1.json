@@ -1,0 +1,98 @@
+{
+    "id": "db67756c0d231c6dc01298e6a806bb5ab65bff0602c9e02b740654064d0870b1",
+    "metadata": "1956 New York Giants season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 30, 1956",
+            "at San Francisco 49ers",
+            "W 38-21",
+            "41751"
+        ],
+        [
+            "2",
+            "October 7, 1956",
+            "at Chicago Cardinals",
+            "L 35-27",
+            "21799"
+        ],
+        [
+            "3",
+            "October 14, 1956",
+            "at Cleveland Browns",
+            "W 21-9",
+            "60042"
+        ],
+        [
+            "4",
+            "October 21, 1956",
+            "Pittsburgh Steelers",
+            "W 38-10",
+            "48108"
+        ],
+        [
+            "5",
+            "October 28, 1956",
+            "Philadelphia Eagles",
+            "W 20-3",
+            "40960"
+        ],
+        [
+            "6",
+            "November 4, 1956",
+            "at Pittsburgh Steelers",
+            "W 17-14",
+            "31240"
+        ],
+        [
+            "7",
+            "November 11, 1956",
+            "Chicago Cardinals",
+            "W 23-10",
+            "62410"
+        ],
+        [
+            "8",
+            "November 18, 1956",
+            "at Washington Redskins",
+            "L 33-7",
+            "26261"
+        ],
+        [
+            "9",
+            "November 25, 1956",
+            "Chicago Bears",
+            "T 17-17",
+            "55191"
+        ],
+        [
+            "10",
+            "December 2, 1956",
+            "Washington Redskins",
+            "W 28-14",
+            "26261"
+        ],
+        [
+            "11",
+            "December 9, 1956",
+            "Cleveland Browns",
+            "L 24-7",
+            "27707"
+        ],
+        [
+            "12",
+            "December 15, 1956",
+            "at Philadelphia Eagles",
+            "W 21-7",
+            "16562"
+        ]
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": "e0c244886f663eef4bc6694a293668c35d5ae8741ea5936d91020e03d597a147",
+    "metadata": "EFDA Nations Cup | Champions | Champions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Venue",
+        "Teams",
+        "Drivers",
+        "Champion",
+        "Second_",
+        "Third"
+    ],
+    "cell": [
+        [
+            "1990",
+            "Circuit de Spa-Francorchamps",
+            "17",
+            "34",
+            "Portugal ( Pedro Lamy , Diogo Castro Santos )",
+            "Brazil",
+            "Sweden"
+        ],
+        [
+            "1991",
+            "Circuit Park Zandvoort",
+            "18",
+            "36",
+            "Portugal ( Pedro Lamy , Diogo Castro Santos )",
+            "Germany",
+            "Sweden"
+        ],
+        [
+            "1992",
+            "Aut\u00f3dromo do Estoril",
+            "14",
+            "28",
+            "Netherlands ( Martin Koene , Jos Verstappen )",
+            "Portugal",
+            "Italy"
+        ],
+        [
+            "1993",
+            "Aut\u00f3dromo do Estoril",
+            "15",
+            "30",
+            "Austria ( Martin Albrecht , Hubert Stromberger )",
+            "Belgium",
+            "Brazil"
+        ],
+        [
+            "1994",
+            "Circuit Park Zandvoort",
+            "18",
+            "36",
+            "Netherlands ( Tom Coronel , Donny Crevels )",
+            "Austria",
+            "Portugal"
+        ],
+        [
+            "1995",
+            "Circuit de Nevers Magny-Cours",
+            "15",
+            "30",
+            "Portugal ( Manuel Gi\u00e3o , Andr\u00e9 Couto )",
+            "Netherlands",
+            "Great Britain"
+        ],
+        [
+            "1996",
+            "Donington Park",
+            "13",
+            "26",
+            "Germany ( Pierre Kaffer , Norman Simon )",
+            "United States",
+            "Brazil"
+        ],
+        [
+            "1997",
+            "Donington Park",
+            "13",
+            "26",
+            "Italy ( Giovanni Montanari , Giovanni Anapoli )",
+            "Brazil",
+            "Germany"
+        ],
+        [
+            "1998",
+            "Circuit Park Zandvoort",
+            "5",
+            "10",
+            "Great Britain ( Darren Malkin , Justin Sherwood )",
+            "Netherlands",
+            "United States"
+        ]
+    ]
+}

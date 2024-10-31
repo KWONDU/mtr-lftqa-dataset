@@ -1,0 +1,79 @@
+{
+    "id": "e25fcd11ba5ed3dca025dbd0e0935ff00a5d6b42801b72856b511eeebc216e0f",
+    "metadata": "1994 Super Tourenwagen Cup season | Race calendar and winners | Race calendar and winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Circuit",
+        "Date_",
+        "Pole_Position",
+        "Fastest_Lap",
+        "Winning_Driver",
+        "Winning_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "AVUS",
+            "1 May",
+            "Emanuele Pirro",
+            "Emanuele Pirro",
+            "Frank Biela",
+            "Racing Organisation Course"
+        ],
+        [
+            "2",
+            "Wunstorf",
+            "12 June",
+            "Patrick Bernhardt",
+            "Patrick Bernhardt",
+            "Frank Biela",
+            "Racing Organisation Course"
+        ],
+        [
+            "3",
+            "Zolder",
+            "3 July",
+            "Emanuele Pirro",
+            "Frank Biela",
+            "Johnny Cecotto",
+            "BMW Motorsport"
+        ],
+        [
+            "4",
+            "Zandvoort",
+            "17 July",
+            "Frank Biela",
+            "Rinaldo Capello",
+            "Frank Biela",
+            "Racing Organisation Course"
+        ],
+        [
+            "5",
+            "\u00d6sterreichring",
+            "7 August",
+            "Altfrid Heger",
+            "Ivan Capelli",
+            "Altfrid Heger",
+            "BMW Team Schneider"
+        ],
+        [
+            "6",
+            "Salzburgring",
+            "28 August",
+            "Emanuele Pirro",
+            "Frank Biela",
+            "Johnny Cecotto",
+            "BMW Motorsport"
+        ],
+        [
+            "7",
+            "Spa-Francorchamps",
+            "11 September",
+            "Johnny Cecotto",
+            "Johnny Cecotto",
+            "Johnny Cecotto",
+            "BMW Motorsport"
+        ]
+    ]
+}

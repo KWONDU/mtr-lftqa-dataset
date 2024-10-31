@@ -1,0 +1,79 @@
+{
+    "id": "73d8ab6e3a0d249295786518eddacf811f25949318719069b568b2b6a09e52a6",
+    "metadata": "Western Cape Provincial Parliament | Election | Election",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Event",
+        "Date_",
+        "DP_DA",
+        "NP_NNP",
+        "COPE",
+        "ACDP",
+        "Others_"
+    ],
+    "cell": [
+        [
+            "1994 election",
+            "27 April 1994",
+            "3",
+            "23",
+            "\u2014",
+            "1",
+            "1"
+        ],
+        [
+            "1999 election",
+            "2 June 1999",
+            "5",
+            "17",
+            "\u2014",
+            "1",
+            "1"
+        ],
+        [
+            "2003 floor-crossing",
+            "4 April 2003",
+            "7",
+            "10",
+            "\u2014",
+            "2",
+            "1"
+        ],
+        [
+            "2004 election",
+            "14 April 2004",
+            "12",
+            "5",
+            "\u2014",
+            "2",
+            "1"
+        ],
+        [
+            "2005 floor-crossing",
+            "15 September 2005",
+            "13",
+            "\u2014",
+            "\u2014",
+            "2",
+            "2"
+        ],
+        [
+            "2007 floor-crossing",
+            "15 September 2007",
+            "11",
+            "\u2014",
+            "\u2014",
+            "2",
+            "1"
+        ],
+        [
+            "2009 election",
+            "22 April 2009",
+            "22",
+            "\u2014",
+            "3",
+            "1",
+            "0"
+        ]
+    ]
+}

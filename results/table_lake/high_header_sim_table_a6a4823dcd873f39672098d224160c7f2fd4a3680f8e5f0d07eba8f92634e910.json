@@ -1,0 +1,61 @@
+{
+    "id": "a6a4823dcd873f39672098d224160c7f2fd4a3680f8e5f0d07eba8f92634e910",
+    "metadata": "Anthony Kim | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "1",
+            "1",
+            "2",
+            "3",
+            "2"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "0",
+            "2",
+            "4",
+            "4"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "1",
+            "2",
+            "2",
+            "3",
+            "2"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "0",
+            "0",
+            "5",
+            "3"
+        ],
+        [
+            "Totals",
+            "0",
+            "2",
+            "3",
+            "6",
+            "15",
+            "11"
+        ]
+    ]
+}

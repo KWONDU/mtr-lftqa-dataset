@@ -1,0 +1,97 @@
+{
+    "id": "67fda2678ed132215dc1c4e550d644366e6341361567af9640fc91bf3b3ed451",
+    "metadata": "2008 AFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Ground",
+        "Crowd",
+        "Date_",
+        "Report"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "11.11 (77)",
+            "Geelong",
+            "12.16 (88)",
+            "MCG",
+            "86179",
+            "Friday, 25 July",
+            "AFL.com.au"
+        ],
+        [
+            "Essendon",
+            "19.14 (128)",
+            "Collingwood",
+            "11.14 (80)",
+            "MCG",
+            "64785",
+            "Saturday, 26 July",
+            "AFL.com.au"
+        ],
+        [
+            "West Coast",
+            "15.13 (103)",
+            "St Kilda",
+            "12.14 (86)",
+            "Subiaco",
+            "34037",
+            "Saturday, 26 July",
+            "AFL.com.au"
+        ],
+        [
+            "Richmond",
+            "18.9 (117)",
+            "Brisbane Lions",
+            "16.18 (114)",
+            "Telstra Dome",
+            "31275",
+            "Saturday, 26 July",
+            "AFL.com.au"
+        ],
+        [
+            "Sydney",
+            "6.17 (53)",
+            "Adelaide",
+            "11.11 (77)",
+            "SCG",
+            "26260",
+            "Saturday, 26 July",
+            "AFL.com.au"
+        ],
+        [
+            "Port Adelaide",
+            "15.11 (101)",
+            "Fremantle",
+            "20.9 (129)",
+            "AAMI Stadium",
+            "19072",
+            "Sunday, 27 July",
+            "AFL.com.au"
+        ],
+        [
+            "Melbourne",
+            "10.10 (70)",
+            "North Melbourne",
+            "14.14 (98)",
+            "MCG",
+            "21330",
+            "Sunday, 27 July",
+            "AFL.com.au"
+        ],
+        [
+            "Western Bulldogs",
+            "15.8 (98)",
+            "Carlton",
+            "18.18 (126)",
+            "Telstra Dome",
+            "37879",
+            "Sunday, 27 July",
+            "AFL.com.au"
+        ]
+    ]
+}

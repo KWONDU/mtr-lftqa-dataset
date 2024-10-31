@@ -1,0 +1,55 @@
+{
+    "id": "5caffbb2d5a4e9a9b10bc7a1554c8da3f9f4453a42eceba0c6d176b83a30e006",
+    "metadata": "Frostburg State University | Graduate | States",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "States",
+        "Fall_05",
+        "Fall_06",
+        "Fall_07",
+        "Fall_08",
+        "Fall_09"
+    ],
+    "cell": [
+        [
+            "Maryland",
+            "533",
+            "489",
+            "490",
+            "456",
+            "471"
+        ],
+        [
+            "Pennsylvania",
+            "102",
+            "105",
+            "99",
+            "104",
+            "82"
+        ],
+        [
+            "West Virginia",
+            "52",
+            "39",
+            "40",
+            "36",
+            "41"
+        ],
+        [
+            "Foreign",
+            "11",
+            "7",
+            "8",
+            "8",
+            "14"
+        ],
+        [
+            "Virginia",
+            "3",
+            "5",
+            "6",
+            "5",
+            "5"
+        ]
+    ]
+}

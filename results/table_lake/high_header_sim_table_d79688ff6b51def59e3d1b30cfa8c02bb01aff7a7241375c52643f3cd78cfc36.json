@@ -1,0 +1,49 @@
+{
+    "id": "d79688ff6b51def59e3d1b30cfa8c02bb01aff7a7241375c52643f3cd78cfc36",
+    "metadata": "United States House of Representatives elections, 1882 | California | California",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "California 1",
+            "William Rosecrans",
+            "Democratic",
+            "1880",
+            "Re-elected"
+        ],
+        [
+            "California 2",
+            "Horace F. Page",
+            "Republican",
+            "1872",
+            "Lost re-election Democratic gain"
+        ],
+        [
+            "California 3",
+            "Campbell P. Berry",
+            "Democratic",
+            "1879",
+            "Retired Democratic hold"
+        ],
+        [
+            "California 4",
+            "Romualdo Pacheco",
+            "Republican",
+            "1876",
+            "Retired Democratic gain"
+        ],
+        [
+            "California at-large 2 seats on a general ticket",
+            "None (New seat)",
+            "None (New seat)",
+            "None (New seat)",
+            "New seat Democratic gain"
+        ]
+    ]
+}

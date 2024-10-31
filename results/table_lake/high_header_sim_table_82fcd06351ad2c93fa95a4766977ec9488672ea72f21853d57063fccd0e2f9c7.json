@@ -1,0 +1,1414 @@
+{
+    "id": "82fcd06351ad2c93fa95a4766977ec9488672ea72f21853d57063fccd0e2f9c7",
+    "metadata": "Table of the highest major summits of the United States | Table | The 200 highest summits of the United States with at least 500\u00a0meters of topographic\u00a0prominence",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Mountain_Peak",
+        "State_",
+        "Mountain_Range",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Mount McKinley ( Denali )",
+            "Alaska",
+            "Alaska Range",
+            "63.0690\u00b0N 151.0063\u00b0W"
+        ],
+        [
+            "2",
+            "Mount Saint Elias",
+            "Alaska Yukon",
+            "Saint Elias Mountains",
+            "60.2931\u00b0N 140.9264\u00b0W"
+        ],
+        [
+            "3",
+            "Mount Foraker",
+            "Alaska",
+            "Alaska Range",
+            "62.9604\u00b0N 151.3998\u00b0W"
+        ],
+        [
+            "4",
+            "Mount Bona",
+            "Alaska",
+            "Saint Elias Mountains",
+            "61.3856\u00b0N 141.7495\u00b0W"
+        ],
+        [
+            "5",
+            "Mount Blackburn",
+            "Alaska",
+            "Wrangell Mountains",
+            "61.7305\u00b0N 143.4031\u00b0W"
+        ],
+        [
+            "6",
+            "Mount Sanford",
+            "Alaska",
+            "Wrangell Mountains",
+            "62.2132\u00b0N 144.1292\u00b0W"
+        ],
+        [
+            "7",
+            "Mount Fairweather ( Fairweather Mountain )",
+            "Alaska British Columbia",
+            "Saint Elias Mountains",
+            "58.9064\u00b0N 137.5267\u00b0W"
+        ],
+        [
+            "8",
+            "Mount Hubbard",
+            "Alaska Yukon",
+            "Saint Elias Mountains",
+            "60.3192\u00b0N 139.0714\u00b0W"
+        ],
+        [
+            "9",
+            "Mount Bear",
+            "Alaska",
+            "Saint Elias Mountains",
+            "61.2834\u00b0N 141.1433\u00b0W"
+        ],
+        [
+            "10",
+            "Mount Hunter",
+            "Alaska",
+            "Alaska Range",
+            "62.9504\u00b0N 151.0915\u00b0W"
+        ],
+        [
+            "11",
+            "Mount Alverstone",
+            "Alaska Yukon",
+            "Saint Elias Mountains",
+            "60.3518\u00b0N 139.0749\u00b0W"
+        ],
+        [
+            "12",
+            "Mount Whitney",
+            "California",
+            "Sierra Nevada",
+            "36.5786\u00b0N 118.2920\u00b0W"
+        ],
+        [
+            "13",
+            "University Peak",
+            "Alaska",
+            "Saint Elias Mountains",
+            "61.3272\u00b0N 141.7867\u00b0W"
+        ],
+        [
+            "14",
+            "Mount Elbert",
+            "Colorado",
+            "Sawatch Range",
+            "39.1178\u00b0N 106.4454\u00b0W"
+        ],
+        [
+            "15",
+            "Mount Massive",
+            "Colorado",
+            "Sawatch Range",
+            "39.1875\u00b0N 106.4757\u00b0W"
+        ],
+        [
+            "16",
+            "Mount Harvard",
+            "Colorado",
+            "Sawatch Range",
+            "38.9244\u00b0N 106.3207\u00b0W"
+        ],
+        [
+            "17",
+            "Mount Rainier",
+            "Washington",
+            "Cascade Range",
+            "46.8529\u00b0N 121.7604\u00b0W"
+        ],
+        [
+            "18",
+            "Mount Williamson",
+            "California",
+            "Sierra Nevada",
+            "36.6559\u00b0N 118.3111\u00b0W"
+        ],
+        [
+            "19",
+            "La Plata Peak",
+            "Colorado",
+            "Sawatch Range",
+            "39.0294\u00b0N 106.4729\u00b0W"
+        ],
+        [
+            "20",
+            "Blanca Peak",
+            "Colorado",
+            "Sangre de Cristo Mountains",
+            "37.5775\u00b0N 105.4856\u00b0W"
+        ],
+        [
+            "21",
+            "Uncompahgre Peak",
+            "Colorado",
+            "San Juan Mountains",
+            "38.0717\u00b0N 107.4621\u00b0W"
+        ],
+        [
+            "22",
+            "Crestone Peak",
+            "Colorado",
+            "Sangre de Cristo Mountains",
+            "37.9668\u00b0N 105.5855\u00b0W"
+        ],
+        [
+            "23",
+            "Mount Lincoln",
+            "Colorado",
+            "Mosquito Range",
+            "39.3515\u00b0N 106.1116\u00b0W"
+        ],
+        [
+            "24",
+            "Castle Peak",
+            "Colorado",
+            "Elk Mountains",
+            "39.0097\u00b0N 106.8614\u00b0W"
+        ],
+        [
+            "25",
+            "Grays Peak",
+            "Colorado",
+            "Front Range",
+            "39.6339\u00b0N 105.8176\u00b0W"
+        ],
+        [
+            "26",
+            "Mount Antero",
+            "Colorado",
+            "Sawatch Range",
+            "38.6741\u00b0N 106.2462\u00b0W"
+        ],
+        [
+            "27",
+            "Mount Evans",
+            "Colorado",
+            "Front Range",
+            "39.5883\u00b0N 105.6438\u00b0W"
+        ],
+        [
+            "28",
+            "Longs Peak",
+            "Colorado",
+            "Front Range",
+            "40.2550\u00b0N 105.6151\u00b0W"
+        ],
+        [
+            "29",
+            "Mount Wilson",
+            "Colorado",
+            "San Miguel Mountains",
+            "37.8391\u00b0N 107.9916\u00b0W"
+        ],
+        [
+            "30",
+            "White Mountain Peak",
+            "California",
+            "White Mountains",
+            "37.6341\u00b0N 118.2557\u00b0W"
+        ],
+        [
+            "31",
+            "North Palisade",
+            "California",
+            "Sierra Nevada",
+            "37.0943\u00b0N 118.5145\u00b0W"
+        ],
+        [
+            "32",
+            "Mount Princeton",
+            "Colorado",
+            "Sawatch Range",
+            "38.7492\u00b0N 106.2424\u00b0W"
+        ],
+        [
+            "33",
+            "Mount Yale",
+            "Colorado",
+            "Sawatch Range",
+            "38.8442\u00b0N 106.3138\u00b0W"
+        ],
+        [
+            "34",
+            "Mount Shasta",
+            "California",
+            "Cascade Range",
+            "41.4092\u00b0N 122.1949\u00b0W"
+        ],
+        [
+            "35",
+            "Maroon Peak",
+            "Colorado",
+            "Elk Mountains",
+            "39.0708\u00b0N 106.9890\u00b0W"
+        ],
+        [
+            "36",
+            "Mount Wrangell",
+            "Alaska",
+            "Wrangell Mountains",
+            "62.0059\u00b0N 144.0187\u00b0W"
+        ],
+        [
+            "37",
+            "Mount Sneffels",
+            "Colorado",
+            "Sneffels Range",
+            "38.0038\u00b0N 107.7923\u00b0W"
+        ],
+        [
+            "38",
+            "Capitol Peak",
+            "Colorado",
+            "Elk Mountains",
+            "39.1503\u00b0N 107.0829\u00b0W"
+        ],
+        [
+            "39",
+            "Pikes Peak",
+            "Colorado",
+            "Front Range",
+            "38.8405\u00b0N 105.0442\u00b0W"
+        ],
+        [
+            "40",
+            "Mount Eolus",
+            "Colorado",
+            "Needle Mountains",
+            "37.6218\u00b0N 107.6227\u00b0W"
+        ],
+        [
+            "41",
+            "Mount Augusta",
+            "Alaska Yukon",
+            "Saint Elias Mountains",
+            "60.3078\u00b0N 140.4586\u00b0W"
+        ],
+        [
+            "42",
+            "Handies Peak",
+            "Colorado",
+            "San Juan Mountains",
+            "37.9130\u00b0N 107.5044\u00b0W"
+        ],
+        [
+            "43",
+            "Culebra Peak",
+            "Colorado",
+            "Culebra Range",
+            "37.1224\u00b0N 105.1858\u00b0W"
+        ],
+        [
+            "44",
+            "San Luis Peak",
+            "Colorado",
+            "La Garita Mountains",
+            "37.9868\u00b0N 106.9313\u00b0W"
+        ],
+        [
+            "45",
+            "Mount of the Holy Cross",
+            "Colorado",
+            "Sawatch Range",
+            "39.4668\u00b0N 106.4817\u00b0W"
+        ],
+        [
+            "46",
+            "Grizzly Peak",
+            "Colorado",
+            "Sawatch Range",
+            "39.0425\u00b0N 106.5976\u00b0W"
+        ],
+        [
+            "47",
+            "Mount Humphreys",
+            "California",
+            "Sierra Nevada",
+            "37.2705\u00b0N 118.6730\u00b0W"
+        ],
+        [
+            "48",
+            "Mount Keith",
+            "California",
+            "Sierra Nevada",
+            "36.7001\u00b0N 118.3436\u00b0W"
+        ],
+        [
+            "49",
+            "Mount Ouray",
+            "Colorado",
+            "Sawatch Range",
+            "38.4227\u00b0N 106.2247\u00b0W"
+        ],
+        [
+            "50",
+            "Vermilion Peak",
+            "Colorado",
+            "San Juan Mountains",
+            "37.7993\u00b0N 107.8285\u00b0W"
+        ],
+        [
+            "51",
+            "Atna Peaks",
+            "Alaska",
+            "Wrangell Mountains",
+            "61.7495\u00b0N 143.2414\u00b0W"
+        ],
+        [
+            "52",
+            "Regal Mountain",
+            "Alaska",
+            "Wrangell Mountains",
+            "61.7438\u00b0N 142.8675\u00b0W"
+        ],
+        [
+            "53",
+            "Mount Darwin",
+            "California",
+            "Sierra Nevada",
+            "37.1669\u00b0N 118.6721\u00b0W"
+        ],
+        [
+            "54",
+            "Mount Hayes",
+            "Alaska",
+            "Alaska Range",
+            "63.6203\u00b0N 146.7178\u00b0W"
+        ],
+        [
+            "55",
+            "Mount Silverheels",
+            "Colorado",
+            "Front Range",
+            "39.3394\u00b0N 106.0054\u00b0W"
+        ],
+        [
+            "56",
+            "Rio Grande Pyramid",
+            "Colorado",
+            "San Juan Mountains",
+            "37.6797\u00b0N 107.3924\u00b0W"
+        ],
+        [
+            "57",
+            "Gannett Peak",
+            "Wyoming",
+            "Wind River Range",
+            "43.1842\u00b0N 109.6542\u00b0W"
+        ],
+        [
+            "58",
+            "Mount Kaweah",
+            "California",
+            "Sierra Nevada",
+            "36.5261\u00b0N 118.4785\u00b0W"
+        ],
+        [
+            "59",
+            "Mauna Kea",
+            "Hawaii",
+            "Island of Hawai \u02bb i",
+            "19.8207\u00b0N 155.4680\u00b0W"
+        ],
+        [
+            "60",
+            "Grand Teton",
+            "Wyoming",
+            "Teton Range",
+            "43.7412\u00b0N 110.8024\u00b0W"
+        ],
+        [
+            "61",
+            "Mount Cook",
+            "Alaska Yukon",
+            "Saint Elias Mountains",
+            "60.1819\u00b0N 139.9808\u00b0W"
+        ],
+        [
+            "62",
+            "Mount Morgan",
+            "California",
+            "Sierra Nevada",
+            "37.4053\u00b0N 118.7329\u00b0W"
+        ],
+        [
+            "63",
+            "Mount Gabb",
+            "California",
+            "Sierra Nevada",
+            "37.3769\u00b0N 118.8025\u00b0W"
+        ],
+        [
+            "64",
+            "Bald Mountain",
+            "Colorado",
+            "Front Range",
+            "39.4448\u00b0N 105.9705\u00b0W"
+        ],
+        [
+            "65",
+            "Mount Oso",
+            "Colorado",
+            "San Juan Mountains",
+            "37.6070\u00b0N 107.4936\u00b0W"
+        ],
+        [
+            "66",
+            "Mauna Loa",
+            "Hawaii",
+            "Island of Hawai \u02bb i",
+            "19.4756\u00b0N 155.6054\u00b0W"
+        ],
+        [
+            "67",
+            "Mount Jackson",
+            "Colorado",
+            "Sawatch Range",
+            "39.4853\u00b0N 106.5367\u00b0W"
+        ],
+        [
+            "68",
+            "Mount Tom",
+            "California",
+            "Sierra Nevada",
+            "37.3762\u00b0N 119.1789\u00b0W"
+        ],
+        [
+            "69",
+            "Bard Peak",
+            "Colorado",
+            "Front Range",
+            "39.7204\u00b0N 105.8044\u00b0W"
+        ],
+        [
+            "70",
+            "West Spanish Peak",
+            "Colorado",
+            "Spanish Peaks",
+            "37.3756\u00b0N 104.9934\u00b0W"
+        ],
+        [
+            "71",
+            "Mount Powell",
+            "Colorado",
+            "Gore Range",
+            "39.7601\u00b0N 106.3407\u00b0W"
+        ],
+        [
+            "72",
+            "Hagues Peak",
+            "Colorado",
+            "Mummy Range",
+            "40.4845\u00b0N 105.6464\u00b0W"
+        ],
+        [
+            "73",
+            "Mount Dubois",
+            "California",
+            "White Mountains",
+            "37.7834\u00b0N 118.3432\u00b0W"
+        ],
+        [
+            "74",
+            "Tower Mountain",
+            "Colorado",
+            "San Juan Mountains",
+            "37.8573\u00b0N 107.6230\u00b0W"
+        ],
+        [
+            "75",
+            "Treasure Mountain",
+            "Colorado",
+            "Elk Mountains",
+            "39.0244\u00b0N 107.1228\u00b0W"
+        ],
+        [
+            "76",
+            "Kings Peak (Utah)",
+            "Utah",
+            "Uinta Mountains",
+            "40.7763\u00b0N 110.3729\u00b0W"
+        ],
+        [
+            "77",
+            "North Arapaho Peak",
+            "Colorado",
+            "Front Range",
+            "40.0265\u00b0N 105.6504\u00b0W"
+        ],
+        [
+            "78",
+            "Mount Pinchot",
+            "California",
+            "Sierra Nevada",
+            "36.9473\u00b0N 118.4054\u00b0W"
+        ],
+        [
+            "79",
+            "Mount Natazhat",
+            "Alaska",
+            "Saint Elias Mountains",
+            "61.5217\u00b0N 141.1030\u00b0W"
+        ],
+        [
+            "80",
+            "Mount Jarvis",
+            "Alaska",
+            "Wrangell Mountains",
+            "62.0234\u00b0N 143.6198\u00b0W"
+        ],
+        [
+            "81",
+            "Parry Peak",
+            "Colorado",
+            "Front Range",
+            "39.8381\u00b0N 105.7132\u00b0W"
+        ],
+        [
+            "82",
+            "Bill Williams Peak",
+            "Colorado",
+            "Williams Mountains",
+            "39.1806\u00b0N 106.6102\u00b0W"
+        ],
+        [
+            "83",
+            "Sultan Mountain",
+            "Colorado",
+            "San Juan Mountains",
+            "37.7859\u00b0N 107.7039\u00b0W"
+        ],
+        [
+            "84",
+            "Mount Herard",
+            "Colorado",
+            "Sangre de Cristo Mountains",
+            "37.8492\u00b0N 105.4949\u00b0W"
+        ],
+        [
+            "85",
+            "West Buffalo Peak",
+            "Colorado",
+            "Mosquito Range",
+            "38.9917\u00b0N 106.1249\u00b0W"
+        ],
+        [
+            "86",
+            "Tressider Peak",
+            "Alaska",
+            "Saint Elias Mountains",
+            "61.3590\u00b0N 141.6664\u00b0W"
+        ],
+        [
+            "87",
+            "Summit Peak",
+            "Colorado",
+            "San Juan Mountains",
+            "37.3506\u00b0N 106.6968\u00b0W"
+        ],
+        [
+            "88",
+            "Middle Peak",
+            "Colorado",
+            "San Miguel Mountains",
+            "37.8536\u00b0N 108.1082\u00b0W"
+        ],
+        [
+            "89",
+            "Antora Peak",
+            "Colorado",
+            "Sawatch Range",
+            "38.3250\u00b0N 106.2180\u00b0W"
+        ],
+        [
+            "90",
+            "Henry Mountain",
+            "Colorado",
+            "Sawatch Range",
+            "38.6856\u00b0N 106.6211\u00b0W"
+        ],
+        [
+            "91",
+            "Hesperus Mountain",
+            "Colorado",
+            "La Plata Mountains",
+            "37.4451\u00b0N 108.0890\u00b0W"
+        ],
+        [
+            "92",
+            "Mount Silverthrone",
+            "Alaska",
+            "Alaska Range",
+            "63.1157\u00b0N 150.6755\u00b0W"
+        ],
+        [
+            "93",
+            "Jacque Peak",
+            "Colorado",
+            "Gore Range",
+            "39.4549\u00b0N 106.1970\u00b0W"
+        ],
+        [
+            "94",
+            "Bennett Peak",
+            "Colorado",
+            "San Juan Mountains",
+            "37.4833\u00b0N 106.4343\u00b0W"
+        ],
+        [
+            "95",
+            "Wind River Peak",
+            "Wyoming",
+            "Wind River Range",
+            "42.7085\u00b0N 109.1284\u00b0W"
+        ],
+        [
+            "96",
+            "Conejos Peak",
+            "Colorado",
+            "San Juan Mountains",
+            "37.2887\u00b0N 106.5709\u00b0W"
+        ],
+        [
+            "97",
+            "Mount Marcus Baker",
+            "Alaska",
+            "Chugach Mountains",
+            "61.4374\u00b0N 147.7525\u00b0W"
+        ],
+        [
+            "98",
+            "Cloud Peak",
+            "Wyoming",
+            "Bighorn Mountains",
+            "44.3821\u00b0N 107.1739\u00b0W"
+        ],
+        [
+            "99",
+            "Wheeler Peak",
+            "New Mexico",
+            "Taos Mountains",
+            "36.5569\u00b0N 105.4169\u00b0W"
+        ],
+        [
+            "100",
+            "Francs Peak",
+            "Wyoming",
+            "Absaroka Range",
+            "43.9613\u00b0N 109.3392\u00b0W"
+        ],
+        [
+            "101",
+            "Twilight Peak",
+            "Colorado",
+            "Needle Mountains",
+            "37.6630\u00b0N 107.7270\u00b0W"
+        ],
+        [
+            "102",
+            "Red Slate Mountain",
+            "California",
+            "Sierra Nevada",
+            "37.5075\u00b0N 118.8693\u00b0W"
+        ],
+        [
+            "103",
+            "South River Peak",
+            "Colorado",
+            "San Juan Mountains",
+            "37.5741\u00b0N 106.9815\u00b0W"
+        ],
+        [
+            "104",
+            "Mount Ritter",
+            "California",
+            "Sierra Nevada",
+            "37.6891\u00b0N 119.1996\u00b0W"
+        ],
+        [
+            "105",
+            "Mount Lyell",
+            "California",
+            "Sierra Nevada",
+            "37.7394\u00b0N 119.2716\u00b0W"
+        ],
+        [
+            "106",
+            "Bushnell Peak",
+            "Colorado",
+            "Sangre de Cristo Mountains",
+            "38.3412\u00b0N 105.8892\u00b0W"
+        ],
+        [
+            "107",
+            "Truchas Peak",
+            "New Mexico",
+            "Santa Fe Mountains",
+            "35.9625\u00b0N 105.6450\u00b0W"
+        ],
+        [
+            "108",
+            "Wheeler Peak",
+            "Nevada",
+            "Snake Range",
+            "38.9858\u00b0N 114.3139\u00b0W"
+        ],
+        [
+            "109",
+            "Mount Dana",
+            "California",
+            "Sierra Nevada",
+            "37.8999\u00b0N 119.2211\u00b0W"
+        ],
+        [
+            "110",
+            "West Elk Peak",
+            "Colorado",
+            "West Elk Mountains",
+            "38.7179\u00b0N 107.1994\u00b0W"
+        ],
+        [
+            "111",
+            "Mount Moffit",
+            "Alaska",
+            "Alaska Range",
+            "63.5683\u00b0N 146.3982\u00b0W"
+        ],
+        [
+            "112",
+            "Peak 13,010",
+            "Colorado",
+            "San Juan Mountains",
+            "37.6062\u00b0N 107.2446\u00b0W"
+        ],
+        [
+            "113",
+            "Clark Peak",
+            "Colorado",
+            "Medicine Bow Mountains",
+            "40.6068\u00b0N 105.9300\u00b0W"
+        ],
+        [
+            "114",
+            "Mount Richthofen",
+            "Colorado",
+            "Never Summer Mountains",
+            "40.4695\u00b0N 105.8945\u00b0W"
+        ],
+        [
+            "115",
+            "Lizard Head Peak",
+            "Wyoming",
+            "Wind River Range",
+            "42.7901\u00b0N 109.1978\u00b0W"
+        ],
+        [
+            "116",
+            "Granite Peak",
+            "Montana",
+            "Absaroka Range",
+            "45.1634\u00b0N 109.8075\u00b0W"
+        ],
+        [
+            "117",
+            "Mount Crosson",
+            "Alaska",
+            "Alaska Range",
+            "63.0081\u00b0N 151.2763\u00b0W"
+        ],
+        [
+            "118",
+            "Mount Root",
+            "Alaska British Columbia",
+            "Saint Elias Mountains",
+            "58.9856\u00b0N 137.5003\u00b0W"
+        ],
+        [
+            "119",
+            "Venado Peak",
+            "New Mexico",
+            "Taos Mountains",
+            "36.7917\u00b0N 105.4933\u00b0W"
+        ],
+        [
+            "120",
+            "Chair Mountain",
+            "Colorado",
+            "Elk Mountains",
+            "39.0581\u00b0N 107.2822\u00b0W"
+        ],
+        [
+            "121",
+            "Mount Peale",
+            "Utah",
+            "La Sal Mountains",
+            "38.4385\u00b0N 109.2292\u00b0W"
+        ],
+        [
+            "122",
+            "Mount Crillon",
+            "Alaska",
+            "Saint Elias Mountains",
+            "58.6625\u00b0N 137.1712\u00b0W"
+        ],
+        [
+            "123",
+            "Mount Gunnison",
+            "Colorado",
+            "West Elk Mountains",
+            "38.8121\u00b0N 107.3826\u00b0W"
+        ],
+        [
+            "124",
+            "East Spanish Peak",
+            "Colorado",
+            "Spanish Peaks",
+            "37.3934\u00b0N 104.9201\u00b0W"
+        ],
+        [
+            "125",
+            "Borah Peak",
+            "Idaho",
+            "Lost River Range",
+            "44.1374\u00b0N 113.7811\u00b0W"
+        ],
+        [
+            "126",
+            "Mount Wood",
+            "Montana",
+            "Absaroka Range",
+            "45.2749\u00b0N 109.8075\u00b0W"
+        ],
+        [
+            "127",
+            "Mount Gunnar Naslund",
+            "Alaska",
+            "Saint Elias Mountains",
+            "61.2282\u00b0N 141.3140\u00b0W"
+        ],
+        [
+            "128",
+            "Mount Conness",
+            "California",
+            "Sierra Nevada",
+            "37.9670\u00b0N 119.3213\u00b0W"
+        ],
+        [
+            "129",
+            "Humphreys Peak",
+            "Arizona",
+            "San Francisco Peaks",
+            "35.3464\u00b0N 111.6780\u00b0W"
+        ],
+        [
+            "130",
+            "Santa Fe Baldy",
+            "New Mexico",
+            "Santa Fe Mountains",
+            "35.8322\u00b0N 105.7581\u00b0W"
+        ],
+        [
+            "131",
+            "Gothic Mountain",
+            "Colorado",
+            "Elk Mountains",
+            "38.9562\u00b0N 107.0107\u00b0W"
+        ],
+        [
+            "132",
+            "Castle Mountain",
+            "Montana",
+            "Absaroka Range",
+            "45.0989\u00b0N 109.6305\u00b0W"
+        ],
+        [
+            "133",
+            "Lone Cone",
+            "Colorado",
+            "San Miguel Mountains",
+            "37.8880\u00b0N 108.2556\u00b0W"
+        ],
+        [
+            "134",
+            "Mount Moran",
+            "Wyoming",
+            "Teton Range",
+            "43.8350\u00b0N 110.7765\u00b0W"
+        ],
+        [
+            "135",
+            "Tlingit Peak",
+            "Alaska",
+            "Saint Elias Mountains",
+            "58.8931\u00b0N 137.3938\u00b0W"
+        ],
+        [
+            "136",
+            "Little Costilla Peak",
+            "New Mexico",
+            "Culebra Range",
+            "36.8335\u00b0N 105.2229\u00b0W"
+        ],
+        [
+            "137",
+            "Mount Carpe (Alaska)",
+            "Alaska",
+            "Alaska Range",
+            "63.1521\u00b0N 150.8616\u00b0W"
+        ],
+        [
+            "138",
+            "Needham Mountain",
+            "California",
+            "Sierra Nevada",
+            "36.4545\u00b0N 118.5373\u00b0W"
+        ],
+        [
+            "139",
+            "Graham Peak (Colorado)",
+            "Colorado",
+            "San Juan Mountains",
+            "37.4972\u00b0N 107.3761\u00b0W"
+        ],
+        [
+            "140",
+            "Whetstone Mountain",
+            "Colorado",
+            "West Elk Mountains",
+            "38.8223\u00b0N 106.9799\u00b0W"
+        ],
+        [
+            "141",
+            "Kahiltna Dome",
+            "Alaska",
+            "Alaska Range",
+            "63.0550\u00b0N 151.2394\u00b0W"
+        ],
+        [
+            "142",
+            "Mount Thor",
+            "Alaska",
+            "Chugach Mountains",
+            "61.4854\u00b0N 147.1460\u00b0W"
+        ],
+        [
+            "143",
+            "Mount Watson",
+            "Alaska",
+            "Saint Elias Mountains",
+            "59.0088\u00b0N 137.5541\u00b0W"
+        ],
+        [
+            "144",
+            "Atlantic Peak",
+            "Wyoming",
+            "Wind River Range",
+            "42.6165\u00b0N 109.0013\u00b0W"
+        ],
+        [
+            "145",
+            "Specimen Mountain",
+            "Colorado",
+            "Front Range",
+            "40.4449\u00b0N 105.8081\u00b0W"
+        ],
+        [
+            "146",
+            "Baldy Mountain",
+            "New Mexico",
+            "Cimarron Range",
+            "36.6299\u00b0N 105.2134\u00b0W"
+        ],
+        [
+            "147",
+            "East Beckwith Mountain",
+            "Colorado",
+            "West Elk Mountains",
+            "38.8464\u00b0N 107.2233\u00b0W"
+        ],
+        [
+            "148",
+            "Knobby Crest",
+            "Colorado",
+            "Kenosha Mountains",
+            "39.3681\u00b0N 105.6050\u00b0W"
+        ],
+        [
+            "149",
+            "Bison Peak",
+            "Colorado",
+            "Tarryall Mountains",
+            "39.2384\u00b0N 105.4978\u00b0W"
+        ],
+        [
+            "150",
+            "Anthracite Peak",
+            "Colorado",
+            "West Elk Mountains",
+            "38.8145\u00b0N 107.1445\u00b0W"
+        ],
+        [
+            "151",
+            "Matchless Mountain",
+            "Colorado",
+            "Elk Mountains",
+            "38.8340\u00b0N 106.6451\u00b0W"
+        ],
+        [
+            "152",
+            "Flat Top Mountain",
+            "Colorado",
+            "Flat Tops",
+            "40.0147\u00b0N 107.0833\u00b0W"
+        ],
+        [
+            "153",
+            "Mount Nystrom",
+            "Wyoming",
+            "Wind River Range",
+            "42.6418\u00b0N 109.0939\u00b0W"
+        ],
+        [
+            "154",
+            "Moby Dick",
+            "Alaska",
+            "Alaska Range",
+            "63.5561\u00b0N 146.6026\u00b0W"
+        ],
+        [
+            "155",
+            "Greenhorn Mountain",
+            "Colorado",
+            "Wet Mountains",
+            "37.8815\u00b0N 105.0133\u00b0W"
+        ],
+        [
+            "156",
+            "Elliott Mountain",
+            "Colorado",
+            "San Miguel Mountains",
+            "37.7344\u00b0N 108.0580\u00b0W"
+        ],
+        [
+            "157",
+            "Mount Deborah",
+            "Alaska",
+            "Alaska Range",
+            "63.6377\u00b0N 147.2384\u00b0W"
+        ],
+        [
+            "158",
+            "Twin Peaks",
+            "California",
+            "Sierra Nevada",
+            "38.0836\u00b0N 119.3588\u00b0W"
+        ],
+        [
+            "159",
+            "Carter Mountain",
+            "Wyoming",
+            "Absaroka Range",
+            "44.1972\u00b0N 109.4112\u00b0W"
+        ],
+        [
+            "160",
+            "Parkview Mountain",
+            "Colorado",
+            "Rabbit Ears Range",
+            "40.3303\u00b0N 106.1363\u00b0W"
+        ],
+        [
+            "161",
+            "Mount Adams",
+            "Washington",
+            "Cascade Range",
+            "46.2024\u00b0N 121.4909\u00b0W"
+        ],
+        [
+            "162",
+            "Trout Peak",
+            "Wyoming",
+            "Absaroka Range",
+            "44.6012\u00b0N 109.5253\u00b0W"
+        ],
+        [
+            "163",
+            "Mount Huntington",
+            "Alaska",
+            "Alaska Range",
+            "62.9677\u00b0N 150.8996\u00b0W"
+        ],
+        [
+            "164",
+            "Leatherman Peak",
+            "Idaho",
+            "Lost River Range",
+            "44.0820\u00b0N 113.7330\u00b0W"
+        ],
+        [
+            "165",
+            "Mount Huxley (Alaska)",
+            "Alaska",
+            "Saint Elias Mountains",
+            "60.3279\u00b0N 141.1554\u00b0W"
+        ],
+        [
+            "166",
+            "Diamond Peak",
+            "Idaho",
+            "Lemhi Range",
+            "44.1414\u00b0N 113.0827\u00b0W"
+        ],
+        [
+            "167",
+            "Mount Jordan",
+            "Alaska",
+            "Saint Elias Mountains",
+            "61.3987\u00b0N 141.4700\u00b0W"
+        ],
+        [
+            "168",
+            "Mount Zirkel",
+            "Colorado",
+            "Park Range",
+            "40.8313\u00b0N 106.6631\u00b0W"
+        ],
+        [
+            "169",
+            "Delano Peak",
+            "Utah",
+            "Tushar Mountains",
+            "38.3692\u00b0N 112.3714\u00b0W"
+        ],
+        [
+            "170",
+            "Mount Salisbury",
+            "Alaska",
+            "Saint Elias Mountains",
+            "58.8505\u00b0N 137.3719\u00b0W"
+        ],
+        [
+            "171",
+            "Crested Butte",
+            "Colorado",
+            "Elk Mountains",
+            "38.8835\u00b0N 106.9436\u00b0W"
+        ],
+        [
+            "172",
+            "Younts Peak",
+            "Wyoming",
+            "Absaroka Range",
+            "43.9820\u00b0N 109.8665\u00b0W"
+        ],
+        [
+            "173",
+            "Sawtooth Mountain",
+            "Colorado",
+            "La Garita Mountains",
+            "38.2740\u00b0N 106.8670\u00b0W"
+        ],
+        [
+            "174",
+            "Olancha Peak",
+            "California",
+            "Sierra Nevada",
+            "36.2652\u00b0N 118.1182\u00b0W"
+        ],
+        [
+            "175",
+            "Mount Mather (Alaska)",
+            "Alaska",
+            "Alaska Range",
+            "63.1946\u00b0N 150.4362\u00b0W"
+        ],
+        [
+            "176",
+            "Park Cone",
+            "Colorado",
+            "Sawatch Range",
+            "38.7967\u00b0N 106.6028\u00b0W"
+        ],
+        [
+            "177",
+            "Ibapah Peak",
+            "Utah",
+            "Deep Creek Range",
+            "39.8282\u00b0N 113.9200\u00b0W"
+        ],
+        [
+            "178",
+            "Carbon Peak",
+            "Colorado",
+            "West Elk Mountains",
+            "38.7943\u00b0N 107.0431\u00b0W"
+        ],
+        [
+            "179",
+            "Glover Peak",
+            "Wyoming",
+            "Wind River Range",
+            "43.1589\u00b0N 109.7656\u00b0W"
+        ],
+        [
+            "180",
+            "Mount Moriah",
+            "Nevada",
+            "Snake Range",
+            "39.2732\u00b0N 114.1988\u00b0W"
+        ],
+        [
+            "181",
+            "Mount Guero",
+            "Colorado",
+            "West Elk Mountains",
+            "38.7196\u00b0N 107.3861\u00b0W"
+        ],
+        [
+            "182",
+            "Siris Peak",
+            "Alaska",
+            "Saint Elias Mountains",
+            "60.7340\u00b0N 141.0138\u00b0W"
+        ],
+        [
+            "183",
+            "Red Table Mountain",
+            "Colorado",
+            "Sawatch Range",
+            "39.4181\u00b0N 106.7712\u00b0W"
+        ],
+        [
+            "184",
+            "Chalk Benchmark",
+            "Colorado",
+            "San Juan Mountains",
+            "37.1418\u00b0N 106.7500\u00b0W"
+        ],
+        [
+            "185",
+            "Medicine Bow Peak",
+            "Wyoming",
+            "Medicine Bow Mountains",
+            "41.3603\u00b0N 106.3176\u00b0W"
+        ],
+        [
+            "186",
+            "Hyndman Peak",
+            "Idaho",
+            "Pioneer Mountains",
+            "43.7494\u00b0N 114.1312\u00b0W"
+        ],
+        [
+            "187",
+            "Mount Witherspoon",
+            "Alaska",
+            "Chugach Mountains",
+            "61.3954\u00b0N 147.2010\u00b0W"
+        ],
+        [
+            "188",
+            "Mount Zwischen",
+            "Colorado",
+            "Sangre de Cristo Mountains",
+            "37.7913\u00b0N 105.4554\u00b0W"
+        ],
+        [
+            "189",
+            "Mount Drum",
+            "Alaska",
+            "Wrangell Mountains",
+            "62.1159\u00b0N 144.6394\u00b0W"
+        ],
+        [
+            "190",
+            "Little Cone",
+            "Colorado",
+            "San Miguel Mountains",
+            "37.9275\u00b0N 108.0908\u00b0W"
+        ],
+        [
+            "191",
+            "Sierra Blanca Peak",
+            "New Mexico",
+            "Sacramento Mountains",
+            "33.3743\u00b0N 105.8087\u00b0W"
+        ],
+        [
+            "192",
+            "Mount Hope (Alaska)",
+            "Alaska",
+            "Saint Elias Mountains",
+            "60.7039\u00b0N 141.0614\u00b0W"
+        ],
+        [
+            "193",
+            "Mount Jefferson",
+            "Nevada",
+            "Toquima Range",
+            "38.7519\u00b0N 116.9267\u00b0W"
+        ],
+        [
+            "194",
+            "Hess Mountain",
+            "Alaska",
+            "Alaska Range",
+            "63.6382\u00b0N 147.1482\u00b0W"
+        ],
+        [
+            "195",
+            "Mount Brooks",
+            "Alaska",
+            "Alaska Range",
+            "63.1875\u00b0N 150.6479\u00b0W"
+        ],
+        [
+            "196",
+            "Cerro Vista",
+            "New Mexico",
+            "Sangre de Cristo Mountains",
+            "36.2353\u00b0N 105.4108\u00b0W"
+        ],
+        [
+            "197",
+            "Mount Nebo",
+            "Utah",
+            "Wasatch Range",
+            "39.8219\u00b0N 111.7603\u00b0W"
+        ],
+        [
+            "198",
+            "The Grand Parapet",
+            "Alaska",
+            "Saint Elias Mountains",
+            "61.4103\u00b0N 142.0266\u00b0W"
+        ],
+        [
+            "199",
+            "Lituya Mountain",
+            "Alaska",
+            "Saint Elias Mountains",
+            "58.8054\u00b0N 137.4367\u00b0W"
+        ],
+        [
+            "200",
+            "Haydon Peak",
+            "Alaska",
+            "Saint Elias Mountains",
+            "60.2606\u00b0N 140.9881\u00b0W"
+        ]
+    ]
+}

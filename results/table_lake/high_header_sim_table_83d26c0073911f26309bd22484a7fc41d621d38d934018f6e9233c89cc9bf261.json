@@ -1,0 +1,55 @@
+{
+    "id": "83d26c0073911f26309bd22484a7fc41d621d38d934018f6e9233c89cc9bf261",
+    "metadata": "2008 Women's British Open | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Year_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Lorena Ochoa",
+            "Mexico",
+            "2007",
+            "277",
+            "\u221211",
+            "T7"
+        ],
+        [
+            "Karrie Webb",
+            "Australia",
+            "2002",
+            "278",
+            "\u221210",
+            "T9"
+        ],
+        [
+            "Annika S\u00f6renstam",
+            "Sweden",
+            "2003",
+            "282",
+            "\u22126",
+            "T24"
+        ],
+        [
+            "Karen Stupples",
+            "England",
+            "2004",
+            "282",
+            "\u22126",
+            "T24"
+        ],
+        [
+            "Sherri Steinhauer",
+            "United States",
+            "2006",
+            "290",
+            "+2",
+            "T64"
+        ]
+    ]
+}

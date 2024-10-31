@@ -1,0 +1,124 @@
+{
+    "id": "eb9119a0f0a4040fdde254b00c16d918bf01cb8a2137eeecf4a0aed953434e46",
+    "metadata": "2008 Deutsche Tourenwagen Masters season | Race calendar and winners | Race calendar and winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Circuit",
+        "Date_",
+        "Pole_position",
+        "Fastest_Lap",
+        "Winning_driver",
+        "Winning_team",
+        "Winning_manufacturer"
+    ],
+    "cell": [
+        [
+            "Pr\u00e4sentation D\u00fcsseldorf",
+            "6 April",
+            "no race",
+            "no race",
+            "no race",
+            "no race",
+            "no race"
+        ],
+        [
+            "Hockenheimring",
+            "13 April",
+            "Timo Scheider",
+            "Paul di Resta",
+            "Mattias Ekstr\u00f6m",
+            "Audi Sport Team Abt Sportsline",
+            "Audi"
+        ],
+        [
+            "Oschersleben",
+            "20 April",
+            "Timo Scheider",
+            "Timo Scheider",
+            "Timo Scheider",
+            "Audi Sport Team Abt",
+            "Audi"
+        ],
+        [
+            "Mugello",
+            "4 May",
+            "Timo Scheider",
+            "Jamie Green",
+            "Jamie Green",
+            "Salzgitter AMG Mercedes",
+            "Mercedes"
+        ],
+        [
+            "EuroSpeedway",
+            "18 May",
+            "Paul di Resta",
+            "Paul di Resta",
+            "Paul di Resta",
+            "Mercedes-Benz Bank AMG",
+            "Mercedes"
+        ],
+        [
+            "Norisring",
+            "29 June",
+            "Bruno Spengler",
+            "Bruno Spengler",
+            "Jamie Green",
+            "Salzgitter AMG Mercedes",
+            "Mercedes"
+        ],
+        [
+            "Zandvoort",
+            "13 July",
+            "Mattias Ekstr\u00f6m",
+            "Tom Kristensen",
+            "Mattias Ekstr\u00f6m",
+            "Audi Sport Team Abt Sportsline",
+            "Audi"
+        ],
+        [
+            "N\u00fcrburgring Short",
+            "27 July",
+            "Tom Kristensen",
+            "Martin Tomczyk",
+            "Bernd Schneider",
+            "Original-Teile AMG Mercedes",
+            "Mercedes"
+        ],
+        [
+            "Brands Hatch Indy",
+            "31 August",
+            "Timo Scheider",
+            "Timo Scheider",
+            "Timo Scheider",
+            "Audi Sport Team Abt",
+            "Audi"
+        ],
+        [
+            "Catalunya Short",
+            "21 September",
+            "Bernd Schneider",
+            "Tom Kristensen",
+            "Paul di Resta",
+            "Mercedes-Benz Bank AMG",
+            "Mercedes"
+        ],
+        [
+            "Le Mans Bugatti",
+            "5 October",
+            "Tom Kristensen",
+            "Paul di Resta",
+            "Mattias Ekstr\u00f6m",
+            "Audi Sport Team Abt Sportsline",
+            "Audi"
+        ],
+        [
+            "Hockenheimring",
+            "26 October",
+            "Timo Scheider",
+            "Timo Scheider",
+            "Timo Scheider",
+            "Audi Sport Team Abt",
+            "Audi"
+        ]
+    ]
+}

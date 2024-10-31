@@ -1,0 +1,105 @@
+{
+    "id": "ff344b3203cd9634c2c7f58b00fd80bb65fab2e501406e436283a0b94b11c4c4",
+    "metadata": "Royal Canadian Mint numismatic coins (2000s) | Provincial Flowers | Provincial Flowers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Artist",
+        "Composition",
+        "Mintage",
+        "Issue_Price"
+    ],
+    "cell": [
+        [
+            "1998",
+            "Pierre Leduc",
+            "99.999% pure gold",
+            "1998",
+            "$999.99"
+        ],
+        [
+            "1999",
+            "Henry Purdy",
+            "99.999% pure gold",
+            "1999",
+            "$999.99"
+        ],
+        [
+            "2000",
+            "Caren Heine",
+            "99.999% pure gold",
+            "2000",
+            "$999.99"
+        ],
+        [
+            "2001",
+            "Bonnie Ross",
+            "99.999% pure gold",
+            "2001",
+            "$1,019.99"
+        ],
+        [
+            "2002",
+            "Dr. A. K. Hellum",
+            "99.999% pure gold",
+            "2002",
+            "$1,099.99"
+        ],
+        [
+            "2003",
+            "Pamela Stagg",
+            "99.999% pure gold",
+            "2003",
+            "$1,099.99"
+        ],
+        [
+            "2004",
+            "Catherine Ann Deer",
+            "99.999% pure gold",
+            "2004",
+            "$1,099.99"
+        ],
+        [
+            "2005",
+            "Chris Jordison",
+            "99.999% pure gold",
+            "2005",
+            "$1,295.95"
+        ],
+        [
+            "2006",
+            "Susan Taylor",
+            "99.999% pure gold",
+            "2006",
+            "$1,489.95"
+        ],
+        [
+            "2007",
+            "Sue Rose",
+            "99.999% pure gold",
+            "1400",
+            "$1,520.95"
+        ],
+        [
+            "2008",
+            "Celia Godkin",
+            "99.999% pure gold",
+            "1400",
+            "$1,676.95"
+        ],
+        [
+            "2009",
+            "Julie Wilson",
+            "99.999% pure gold",
+            "1400",
+            "$2,149.95"
+        ],
+        [
+            "2010",
+            "Celia Godkin",
+            "99.999% pure gold",
+            "1400",
+            "$2,599.95"
+        ]
+    ]
+}

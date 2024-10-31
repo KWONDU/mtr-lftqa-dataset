@@ -1,0 +1,63 @@
+{
+    "id": "a8de301d700e812a81fbebba0c8b53d248c4b6f18b4d663a76485579008361d7",
+    "metadata": "1972-73 New York Knicks season | Playoffs | Conference Finals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Team",
+        "Score",
+        "Location_Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "1",
+            "@Boston",
+            "108-134",
+            "Boston Garden",
+            "0-1"
+        ],
+        [
+            "2",
+            "Boston",
+            "129-96",
+            "Madison Square Garden",
+            "1-1"
+        ],
+        [
+            "3",
+            "@Boston",
+            "98-91",
+            "Boston Garden",
+            "2-1"
+        ],
+        [
+            "4",
+            "Boston",
+            "117-110 (2OT)",
+            "Madison Square Garden",
+            "3-1"
+        ],
+        [
+            "5",
+            "@Boston",
+            "97-98",
+            "Boston Garden",
+            "3-2"
+        ],
+        [
+            "6",
+            "Boston",
+            "100-110",
+            "Madison Square Garden",
+            "3-3"
+        ],
+        [
+            "7",
+            "@Boston",
+            "94-78",
+            "Boston Garden",
+            "4-3"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "c1fe166300d33b7ac5e7209d53481c250407d6d373e7c6169b8a9ff7ffeff924",
+    "metadata": "1980 VFL season | Round 12 | Round 12",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "19.20 (134)",
+            "St Kilda",
+            "14.8 (92)",
+            "MCG",
+            "26324",
+            "14 June 1980"
+        ],
+        [
+            "Fitzroy",
+            "18.15 (123)",
+            "Footscray",
+            "25.17 (167)",
+            "Junction Oval",
+            "10681",
+            "14 June 1980"
+        ],
+        [
+            "North Melbourne",
+            "15.11 (101)",
+            "Essendon",
+            "10.12 (72)",
+            "Arden Street Oval",
+            "28068",
+            "14 June 1980"
+        ],
+        [
+            "Carlton",
+            "13.12 (90)",
+            "Collingwood",
+            "11.19 (85)",
+            "Princes Park",
+            "43599",
+            "15 June 1980"
+        ],
+        [
+            "Richmond",
+            "16.12 (108)",
+            "Hawthorn",
+            "11.22 (88)",
+            "MCG",
+            "57572",
+            "16 June 1980"
+        ],
+        [
+            "Geelong",
+            "21.21 (147)",
+            "South Melbourne",
+            "12.12 (84)",
+            "SCG",
+            "13209",
+            "16 June 1980"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "f41de2de79e4d6d6e2fa758e2ddf822524133600b9d3c91b293be980e587ca4d",
+    "metadata": "List of schools in the Wellington Region | Carterton District | Carterton District",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Years",
+        "Gender",
+        "Area",
+        "Authority",
+        "Decile",
+        "Roll"
+    ],
+    "cell": [
+        [
+            "Carterton School",
+            "1-8",
+            "Coed",
+            "Carterton",
+            "State",
+            "4",
+            "356"
+        ],
+        [
+            "Dalefield School",
+            "1-8",
+            "Coed",
+            "Dalefield",
+            "State",
+            "5",
+            "52"
+        ],
+        [
+            "Gladstone School",
+            "1-8",
+            "Coed",
+            "Gladstone",
+            "State",
+            "7",
+            "110"
+        ],
+        [
+            "Ponatahi Christian School",
+            "1-13",
+            "Coed",
+            "Carterton",
+            "Integrated",
+            "7",
+            "81"
+        ],
+        [
+            "South End School",
+            "1-8",
+            "Coed",
+            "Carterton",
+            "State",
+            "5",
+            "126"
+        ],
+        [
+            "St Mary`s School",
+            "1-8",
+            "Coed",
+            "Carterton",
+            "Integrated",
+            "6",
+            "78"
+        ]
+    ]
+}

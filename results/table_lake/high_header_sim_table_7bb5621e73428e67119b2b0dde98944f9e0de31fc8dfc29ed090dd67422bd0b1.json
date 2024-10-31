@@ -1,0 +1,106 @@
+{
+    "id": "7bb5621e73428e67119b2b0dde98944f9e0de31fc8dfc29ed090dd67422bd0b1",
+    "metadata": "Provinces of Korea | Provinces of Joseon | Provinces of Joseon",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "RR_Romaja",
+        "M_R_Romaja",
+        "Hangul",
+        "Hanja",
+        "Name_origin",
+        "Capital",
+        "Region",
+        "Korean_dialect",
+        "Post_1896_Provinces"
+    ],
+    "cell": [
+        [
+            "Chungcheong",
+            "Ch`ungch`\u014fng",
+            "\ucda9\uccad\ub3c4",
+            "\u5fe0\u6df8\u9053",
+            "Chungju ( \ucda9\uc8fc \u5fe0\u5dde ), Cheongju ( \uccad\uc8fc \u6df8\u5dde )",
+            "Gongju",
+            "Hoseo",
+            "Chungcheong dialect",
+            "Chungcheongbuk Chungcheongnam"
+        ],
+        [
+            "Gangwon",
+            "Kangw\u014fn",
+            "\uac15\uc6d0\ub3c4",
+            "\u6c5f\u539f\u9053",
+            "Gangneung ( \uac15\ub989 \u6c5f\u9675 ), Wonju ( \uc6d0\uc8fc \u539f\u5dde )",
+            "Wonju",
+            "Gwandong ( Yeongseo , Yeongdong ( 1 ))",
+            "Gangwon dialect",
+            "Gangwon"
+        ],
+        [
+            "Gyeonggi",
+            "Ky\u014fnggi",
+            "\uacbd\uae30\ub3c4",
+            "\u4eac\u757f\u9053",
+            "( See note )",
+            "Hanseong ( Seoul )",
+            "Gijeon ( 2 )",
+            "Seoul dialect",
+            "Gyeonggi"
+        ],
+        [
+            "Gyeongsang",
+            "Ky\u014fngsang",
+            "\uacbd\uc0c1\ub3c4",
+            "\u6176\u5c19\u9053",
+            "Gyeongju ( \uacbd\uc8fc \u6176\u5dde ), Sangju ( \uc0c1\uc8fc \u5c19\u5dde )",
+            "Daegu",
+            "Yeongnam",
+            "Gyeongsang dialect",
+            "Gyeongsangbuk Gyeongsangnam"
+        ],
+        [
+            "Hamgyeong",
+            "Hamgy\u014fng",
+            "\ud568\uacbd\ub3c4",
+            "\u54b8\u93e1\u9053",
+            "Hamhung ( \ud568\ud765 \u54b8\u8208 ), Kyongsong ( \uacbd\uc131 \u93e1\u57ce )",
+            "Hamhung",
+            "Kwanbuk , Kwannam ( 3 )",
+            "Hamgy\u014fng dialect",
+            "Hamgy\u014fngbuk Hamgy\u014fngnam"
+        ],
+        [
+            "Hwanghae",
+            "Hwanghae",
+            "\ud669\ud574\ub3c4",
+            "\u9ec3\u6d77\u9053",
+            "Hwangju ( \ud669\uc8fc \u9ec3\u5dde ), Haeju ( \ud574\uc8fc \u6d77\u5dde )",
+            "Haeju",
+            "Haeso",
+            "Hwanghae dialect",
+            "Hwanghae ( 4 )"
+        ],
+        [
+            "Jeolla",
+            "Ch\u014flla",
+            "\uc804\ub77c\ub3c4",
+            "\u5168\u7f85\u9053",
+            "Jeonju ( \uc804\uc8fc \u5168\u5dde ), Naju ( \ub098\uc8fc \u7f85\u5dde )( 5 )",
+            "Jeonju",
+            "Honam",
+            "Jeolla dialect ; Jeju language ( 6 )",
+            "Jeollabuk Jeollanam"
+        ],
+        [
+            "Pyeongan",
+            "P`y\u014fngan",
+            "\ud3c9\uc548\ub3c4",
+            "\u5e73\u5b89\u9053",
+            "Pyongyang ( \ud3c9\uc591 \u5e73\u58e4 ), Anju ( \uc548\uc8fc \u5b89\u5dde )",
+            "Pyongyang",
+            "Kwanso",
+            "Pyongan dialect",
+            "P`y\u014fnganbuk P`y\u014fngannam"
+        ]
+    ]
+}

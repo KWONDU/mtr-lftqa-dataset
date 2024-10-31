@@ -1,0 +1,70 @@
+{
+    "id": "ae912af2513b97f862e4c2fac0f193590d22387dd32684710737d01bed5881ca",
+    "metadata": "1945 VFL season | Round 20 | Round 20",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "13.14 (92)",
+            "St Kilda",
+            "9.11 (65)",
+            "Kardinia Park",
+            "7500",
+            "1 September 1945"
+        ],
+        [
+            "Fitzroy",
+            "14.22 (106)",
+            "Melbourne",
+            "15.11 (101)",
+            "Brunswick Street Oval",
+            "5000",
+            "1 September 1945"
+        ],
+        [
+            "South Melbourne",
+            "16.16 (112)",
+            "Hawthorn",
+            "11.10 (76)",
+            "Junction Oval",
+            "12000",
+            "1 September 1945"
+        ],
+        [
+            "North Melbourne",
+            "14.17 (101)",
+            "Essendon",
+            "13.17 (95)",
+            "Arden Street Oval",
+            "12000",
+            "1 September 1945"
+        ],
+        [
+            "Richmond",
+            "8.19 (67)",
+            "Collingwood",
+            "12.15 (87)",
+            "Punt Road Oval",
+            "23000",
+            "1 September 1945"
+        ],
+        [
+            "Footscray",
+            "8.14 (62)",
+            "Carlton",
+            "16.19 (115)",
+            "Western Oval",
+            "30000",
+            "1 September 1945"
+        ]
+    ]
+}

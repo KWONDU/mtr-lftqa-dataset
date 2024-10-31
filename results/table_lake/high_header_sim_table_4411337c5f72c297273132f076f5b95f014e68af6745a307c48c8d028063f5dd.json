@@ -1,0 +1,71 @@
+{
+    "id": "4411337c5f72c297273132f076f5b95f014e68af6745a307c48c8d028063f5dd",
+    "metadata": "Diezel | Current amplifier models | Current amplifier models",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Poweramp",
+        "Dimensions",
+        "Mass",
+        "Form_factors",
+        "Output_"
+    ],
+    "cell": [
+        [
+            "VH4",
+            "Mono , 4\u2009tubes",
+            "29\u2009\u00d7\u200911\u2009\u00d7\u200911\u2009in 74\u2009\u00d7\u200928\u2009\u00d7\u200928\u2009cm",
+            "50\u2009lb (23\u2009kg)",
+            "Head",
+            "90 \u2014 160W"
+        ],
+        [
+            "VH4S",
+            "Stereo , 4\u2009tubes",
+            "29\u2009\u00d7\u200911\u2009\u00d7\u200911\u2009in 74\u2009\u00d7\u200928\u2009\u00d7\u200928\u2009cm",
+            "50\u2009lb (23\u2009kg)",
+            "Head",
+            "2\u2009\u00d7\u200950W"
+        ],
+        [
+            "Herbert",
+            "Mono, 6\u2009tubes",
+            "29\u2009\u00d7\u200911\u2009\u00d7\u200911\u2009in 74\u2009\u00d7\u200928\u2009\u00d7\u200928\u2009cm",
+            "60\u2009lb (27\u2009kg)",
+            "Head",
+            "180W"
+        ],
+        [
+            "Hagen",
+            "Mono, 4\u2009tubes",
+            "29\u2009\u00d7\u200911\u2009\u00d7\u200911\u2009in 74\u2009\u00d7\u200928\u2009\u00d7\u200928\u2009cm",
+            "53\u2009lb (24\u2009kg)",
+            "Head",
+            "100W"
+        ],
+        [
+            "D-Moll",
+            "Mono, 4\u2009tubes",
+            "23\u2009\u00d7\u200912\u2009\u00d7\u200911\u2009in 59\u2009\u00d7\u200929,5\u2009\u00d7\u200927\u2009cm",
+            "51\u2009lb (23\u2009kg)",
+            "Head",
+            "100W"
+        ],
+        [
+            "Schmidt",
+            "Mono, 2\u2009tubes",
+            "20\u2009\u00d7\u200912\u2009\u00d7\u200912\u2009in 50\u2009\u00d7\u200930\u2009\u00d7\u200931\u2009cm",
+            "48,5\u2009lb (22\u2009kg)",
+            "Head",
+            "15-30W"
+        ],
+        [
+            "Lucy (bass amp)",
+            "up to 8\u2009 EL34 500 Watts RMS",
+            "TBA",
+            "TBA",
+            "Head",
+            "TBA"
+        ]
+    ]
+}

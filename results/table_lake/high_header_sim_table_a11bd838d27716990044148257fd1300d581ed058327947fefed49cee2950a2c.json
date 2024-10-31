@@ -1,0 +1,70 @@
+{
+    "id": "a11bd838d27716990044148257fd1300d581ed058327947fefed49cee2950a2c",
+    "metadata": "1960 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Fitzroy",
+            "10.8 (68)",
+            "Melbourne",
+            "16.14 (110)",
+            "Brunswick Street Oval",
+            "23233",
+            "18 June 1960"
+        ],
+        [
+            "Essendon",
+            "13.10 (88)",
+            "South Melbourne",
+            "12.15 (87)",
+            "Windy Hill",
+            "21000",
+            "18 June 1960"
+        ],
+        [
+            "Carlton",
+            "18.12 (120)",
+            "North Melbourne",
+            "8.15 (63)",
+            "Princes Park",
+            "13897",
+            "18 June 1960"
+        ],
+        [
+            "St Kilda",
+            "7.13 (55)",
+            "Hawthorn",
+            "8.19 (67)",
+            "Junction Oval",
+            "23900",
+            "18 June 1960"
+        ],
+        [
+            "Richmond",
+            "11.17 (83)",
+            "Geelong",
+            "12.11 (83)",
+            "Punt Road Oval",
+            "13000",
+            "18 June 1960"
+        ],
+        [
+            "Footscray",
+            "8.19 (67)",
+            "Collingwood",
+            "10.14 (74)",
+            "Western Oval",
+            "28098",
+            "18 June 1960"
+        ]
+    ]
+}

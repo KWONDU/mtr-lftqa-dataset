@@ -1,0 +1,84 @@
+{
+    "id": "ef8d4da3980c07334dd9d0c41c53c089e00b041996f16ea32737671ea87a3c1a",
+    "metadata": "Public toilet | Society and culture | Symbols in unicode",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "Code",
+        "Symbol",
+        "Name_",
+        "Value_"
+    ],
+    "cell": [
+        [
+            "\ud83d\udeb9",
+            "U+1F6B9",
+            "\ud83d\udeb9",
+            "MENS SYMBOL",
+            "men`s restroom"
+        ],
+        [
+            "\ud83d\udeba",
+            "U+1F6BA",
+            "\ud83d\udeba",
+            "WOMENS SYMBOL",
+            "women`s restroom"
+        ],
+        [
+            "\ud83d\udebb",
+            "U+1F6BB",
+            "\ud83d\udebb",
+            "RESTROOM",
+            "restrooms or unisex restroom"
+        ],
+        [
+            "\ud83d\udebc",
+            "U+1F6BC",
+            "\ud83d\udebc",
+            "BABY SYMBOL",
+            "baby changing station"
+        ],
+        [
+            "\u267f",
+            "U+267F",
+            "\u267f",
+            "WHEELCHAIR SYMBOL",
+            "disabled accessible facilities"
+        ],
+        [
+            "\ud83d\udebd",
+            "U+1F6BD",
+            "\ud83d\udebd",
+            "TOILET",
+            "restroom"
+        ],
+        [
+            "\ud83d\udebe",
+            "U+1F6BE",
+            "\ud83d\udebe",
+            "WATER CLOSET",
+            "restroom with flush toilet"
+        ],
+        [
+            "\ud83d\udebf",
+            "U+1F6BF",
+            "\ud83d\udebf",
+            "SHOWER",
+            "shower facilities"
+        ],
+        [
+            "\ud83d\udec0",
+            "U+1F6C0",
+            "\ud83d\udec0",
+            "BATH",
+            "bathing facilities"
+        ],
+        [
+            "\ud83d\udec1",
+            "U+1F6C1",
+            "\ud83d\udec1",
+            "BATHTUB",
+            "bath facilities"
+        ]
+    ]
+}

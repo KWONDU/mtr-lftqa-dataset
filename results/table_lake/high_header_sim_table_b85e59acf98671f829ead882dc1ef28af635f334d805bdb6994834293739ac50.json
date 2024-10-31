@@ -1,0 +1,55 @@
+{
+    "id": "b85e59acf98671f829ead882dc1ef28af635f334d805bdb6994834293739ac50",
+    "metadata": "1988 Senior PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bob Charles",
+            "New Zealand",
+            "533929",
+            "28",
+            "5"
+        ],
+        [
+            "2",
+            "Gary Player",
+            "South Africa",
+            "435914",
+            "20",
+            "5"
+        ],
+        [
+            "3",
+            "Dave Hill",
+            "United States",
+            "415594",
+            "27",
+            "3"
+        ],
+        [
+            "4",
+            "Orville Moody",
+            "United States",
+            "411859",
+            "31",
+            "3"
+        ],
+        [
+            "5",
+            "Harold Henning",
+            "South Africa",
+            "366230",
+            "31",
+            "1"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "c37bc67f25f350ae8e2c233b57fdb7937c181b74498c62f3daec4375fc05a40a",
+    "metadata": "I Feel Free | Single track listings | Single track listings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Location_",
+        "Format",
+        "Record_Label",
+        "Release_Date"
+    ],
+    "cell": [
+        [
+            "I Feel Free b/w N.S.U.",
+            "UK",
+            "7 45rpm",
+            "Reaction 591 011",
+            "December 1966"
+        ],
+        [
+            "I Feel Free b/w N.S.U.",
+            "US",
+            "7 45rpm",
+            "Atco 6462",
+            "December 1966"
+        ],
+        [
+            "I Feel Free b/w N.S.U.",
+            "Europe",
+            "7 45rpm",
+            "Polydor 59 058",
+            "1966-1967"
+        ],
+        [
+            "I Feel Free b/w  White Room",
+            "Germany",
+            "7 45rpm",
+            "RSO 2090 535",
+            "1970"
+        ],
+        [
+            "I Feel Free b/w  Badge",
+            "UK",
+            "7 45rpm",
+            "Polydor POSP 812",
+            "1986"
+        ]
+    ]
+}

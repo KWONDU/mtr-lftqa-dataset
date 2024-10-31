@@ -1,0 +1,70 @@
+{
+    "id": "d50ac4a8f4e0a7335f9908d675d46b4b88d9a037cef542309a0c57a05700e6ec",
+    "metadata": "Swimming at the 2000 Summer Olympics - Men's 200 metre butterfly | Semifinal 2 | Semifinal 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Lane",
+        "Name_",
+        "Nationality",
+        "Time_"
+    ],
+    "cell": [
+        [
+            "1",
+            "4",
+            "Tom Malchow",
+            "United States",
+            "1:56.02"
+        ],
+        [
+            "2",
+            "3",
+            "Anatoly Polyakov",
+            "Russia",
+            "1:56.78"
+        ],
+        [
+            "3",
+            "5",
+            "Michael Phelps",
+            "United States",
+            "1:57.00"
+        ],
+        [
+            "4",
+            "6",
+            "Franck Esposito",
+            "France",
+            "1:57.04"
+        ],
+        [
+            "5",
+            "2",
+            "Denis Pankratov",
+            "Russia",
+            "1:57.24"
+        ],
+        [
+            "6",
+            "8",
+            "Andrew Livingston",
+            "Puerto Rico",
+            "1:58.63"
+        ],
+        [
+            "7",
+            "1",
+            "Stefan Aartsen",
+            "Netherlands",
+            "1:58.66"
+        ],
+        [
+            "8",
+            "7",
+            "Thomas Rupprath",
+            "Germany",
+            "1:58.96"
+        ]
+    ]
+}

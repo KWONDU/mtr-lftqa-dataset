@@ -1,0 +1,49 @@
+{
+    "id": "d383b6c7881ebcd822f85d52abdfa57999917b2c8d0282d4b4d0ff49f0e085aa",
+    "metadata": "1996 Senior PGA Tour | Leaders | Career Money List leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Lee Trevino",
+            "United States",
+            "6715649",
+            "27"
+        ],
+        [
+            "2",
+            "Bob Charles",
+            "New Zealand",
+            "6621207",
+            "23"
+        ],
+        [
+            "3",
+            "Jim Colbert",
+            "United States",
+            "6570797",
+            "18"
+        ],
+        [
+            "4",
+            "Dave Stockton",
+            "United States",
+            "5781417",
+            "13"
+        ],
+        [
+            "5",
+            "Chi Chi Rodriguez",
+            "Puerto Rico",
+            "5696544",
+            "22"
+        ]
+    ]
+}

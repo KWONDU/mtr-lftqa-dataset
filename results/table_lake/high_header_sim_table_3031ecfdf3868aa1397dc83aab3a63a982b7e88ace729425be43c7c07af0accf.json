@@ -1,0 +1,70 @@
+{
+    "id": "3031ecfdf3868aa1397dc83aab3a63a982b7e88ace729425be43c7c07af0accf",
+    "metadata": "1932 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "9.16 (70)",
+            "South Melbourne",
+            "11.7 (73)",
+            "Arden Street Oval",
+            "23000",
+            "21 May 1932"
+        ],
+        [
+            "Footscray",
+            "6.12 (48)",
+            "Richmond",
+            "7.9 (51)",
+            "Western Oval",
+            "19000",
+            "21 May 1932"
+        ],
+        [
+            "Collingwood",
+            "14.22 (106)",
+            "Fitzroy",
+            "11.9 (75)",
+            "Victoria Park",
+            "17000",
+            "21 May 1932"
+        ],
+        [
+            "Carlton",
+            "16.16 (112)",
+            "Hawthorn",
+            "7.7 (49)",
+            "Princes Park",
+            "16000",
+            "21 May 1932"
+        ],
+        [
+            "St Kilda",
+            "7.15 (57)",
+            "Essendon",
+            "12.15 (87)",
+            "Junction Oval",
+            "16000",
+            "21 May 1932"
+        ],
+        [
+            "Geelong",
+            "20.13 (133)",
+            "Melbourne",
+            "14.11 (95)",
+            "Motordrome",
+            "7000",
+            "21 May 1932"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "cb2b2ce6eec77de763261741cdc22c99d9c995b49d96a62e34640c661ebc620b",
+    "metadata": "United States House of Representatives elections, 1952 | Mississippi | Mississippi",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Mississippi 1",
+            "Thomas Abernethy Redistricted from 4th",
+            "Democratic",
+            "1942",
+            "Re-elected",
+            "Thomas Abernethy (D) Unopposed"
+        ],
+        [
+            "Mississippi 1",
+            "John E. Rankin",
+            "Democratic",
+            "1920",
+            "Lost renomination Democratic loss",
+            "Thomas Abernethy (D) Unopposed"
+        ],
+        [
+            "Mississippi 2",
+            "Jamie L. Whitten",
+            "Democratic",
+            "1941",
+            "Re-elected",
+            "Jamie L. Whitten (D) Unopposed"
+        ],
+        [
+            "Mississippi 3",
+            "Frank E. Smith",
+            "Democratic",
+            "1950",
+            "Re-elected",
+            "Frank E. Smith (D) 87.2% Paul Clark (R) 12.8%"
+        ],
+        [
+            "Mississippi 4",
+            "John Bell Williams Redistricted from 7th",
+            "Democratic",
+            "1946",
+            "Re-elected",
+            "John Bell Williams (D) Unopposed"
+        ]
+    ]
+}

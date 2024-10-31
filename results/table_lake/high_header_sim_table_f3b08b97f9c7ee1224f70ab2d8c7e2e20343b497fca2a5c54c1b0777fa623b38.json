@@ -1,0 +1,49 @@
+{
+    "id": "f3b08b97f9c7ee1224f70ab2d8c7e2e20343b497fca2a5c54c1b0777fa623b38",
+    "metadata": "Opinion polling for the United States Senate elections, 2008 | Illinois | Illinois",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Poll_Source",
+        "Dates_administered",
+        "Democrat_Dick_Durbin",
+        "Republican_Steve_Sauerberg",
+        "Lead_Margin"
+    ],
+    "cell": [
+        [
+            "Rasmussen Reports",
+            "October 13, 2008",
+            "62%",
+            "31%",
+            "31"
+        ],
+        [
+            "St. Louis Post Dispatch/ Research 2000",
+            "September 15-September 18, 2008",
+            "56%",
+            "35%",
+            "21"
+        ],
+        [
+            "Rasmussen Reports",
+            "September 17, 2008",
+            "59%",
+            "35%",
+            "24"
+        ],
+        [
+            "Rasmussen Reports",
+            "August 12, 2008",
+            "61%",
+            "33%",
+            "28"
+        ],
+        [
+            "Southern Outreach",
+            "July 12, 2008",
+            "52%",
+            "35%",
+            "17"
+        ]
+    ]
+}

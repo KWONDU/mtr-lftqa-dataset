@@ -1,0 +1,70 @@
+{
+    "id": "f4445072f7a8f908c304fcc350639450b456c64f818269fca1a0c0871afda784",
+    "metadata": "1976 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "15.14 (104)",
+            "St Kilda",
+            "18.13 (121)",
+            "Victoria Park",
+            "22680",
+            "17 July 1976"
+        ],
+        [
+            "North Melbourne",
+            "22.13 (145)",
+            "Geelong",
+            "12.6 (78)",
+            "Arden Street Oval",
+            "19334",
+            "17 July 1976"
+        ],
+        [
+            "Melbourne",
+            "21.20 (146)",
+            "Fitzroy",
+            "15.16 (106)",
+            "MCG",
+            "16187",
+            "17 July 1976"
+        ],
+        [
+            "Hawthorn",
+            "15.17 (107)",
+            "Essendon",
+            "18.15 (123)",
+            "Princes Park",
+            "16257",
+            "17 July 1976"
+        ],
+        [
+            "South Melbourne",
+            "14.10 (94)",
+            "Carlton",
+            "15.10 (100)",
+            "Lake Oval",
+            "17395",
+            "17 July 1976"
+        ],
+        [
+            "Footscray",
+            "15.6 (96)",
+            "Richmond",
+            "12.19 (91)",
+            "VFL Park",
+            "22795",
+            "17 July 1976"
+        ]
+    ]
+}

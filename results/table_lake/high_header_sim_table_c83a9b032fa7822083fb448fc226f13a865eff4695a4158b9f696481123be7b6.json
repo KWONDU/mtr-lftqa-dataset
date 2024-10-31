@@ -1,0 +1,55 @@
+{
+    "id": "c83a9b032fa7822083fb448fc226f13a865eff4695a4158b9f696481123be7b6",
+    "metadata": "2008 OAFL season | Round Twelve | Round Twelve",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_",
+        "Home",
+        "Away",
+        "Score",
+        "Ground"
+    ],
+    "cell": [
+        [
+            "2008-08-16",
+            "10:00",
+            "Toronto Eagles",
+            "High Park Demons",
+            "122-28",
+            "Humber College North"
+        ],
+        [
+            "2008-08-16",
+            "12:00",
+            "Etobicoke Kangaroos",
+            "Central Blues",
+            "119-19",
+            "Humber College North"
+        ],
+        [
+            "2008-08-16",
+            "14:00",
+            "Toronto Rebels",
+            "Hamilton Wildcats",
+            "16-112",
+            "Humber College North"
+        ],
+        [
+            "2008-08-16",
+            "14:00",
+            "Ottawa Swans",
+            "Broadview Hawks",
+            "13-96",
+            "Rideau Carleton Raceway"
+        ],
+        [
+            "2008-08-16",
+            "16:00",
+            "Toronto Downtown Dingos",
+            "Guelph Gargoyles",
+            "44-69",
+            "Humber College North"
+        ]
+    ]
+}

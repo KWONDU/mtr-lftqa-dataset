@@ -1,0 +1,84 @@
+{
+    "id": "f5c8bb197fb5761f266328dd15c3dafc4af466614068db5b6497ca1d2b1f9980",
+    "metadata": "List of countries with McDonald's restaurants | Expansions by region | Expansions by region",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Continent",
+        "Location_",
+        "City",
+        "Date_",
+        "Year_"
+    ],
+    "cell": [
+        [
+            "North America",
+            "United States",
+            "San Bernardino",
+            "May 15",
+            "1940"
+        ],
+        [
+            "Caribbean",
+            "Puerto Rico",
+            "San Juan",
+            "November 10",
+            "1967"
+        ],
+        [
+            "Central America",
+            "Costa Rica",
+            "San Jos\u00e9",
+            "December 28",
+            "1970"
+        ],
+        [
+            "Oceania",
+            "Australia",
+            "Sydney",
+            "May 30",
+            "1971"
+        ],
+        [
+            "Asia 1",
+            "Japan",
+            "Tokyo",
+            "July 20",
+            "1971"
+        ],
+        [
+            "Europe",
+            "Netherlands",
+            "Zaandam",
+            "August 21",
+            "1971"
+        ],
+        [
+            "South America",
+            "Brazil",
+            "Rio de Janeiro",
+            "February 13",
+            "1979"
+        ],
+        [
+            "Asia 2",
+            "Philippines",
+            "Manila",
+            "September 27",
+            "1981"
+        ],
+        [
+            "Africa",
+            "Morocco",
+            "Casablanca",
+            "December 18",
+            "1992"
+        ],
+        [
+            "Middle East",
+            "Israel",
+            "Tel Aviv",
+            "October 14",
+            "1993"
+        ]
+    ]
+}

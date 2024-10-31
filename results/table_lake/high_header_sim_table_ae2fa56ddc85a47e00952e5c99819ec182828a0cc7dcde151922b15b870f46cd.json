@@ -1,0 +1,77 @@
+{
+    "id": "ae2fa56ddc85a47e00952e5c99819ec182828a0cc7dcde151922b15b870f46cd",
+    "metadata": "2008-09 Aberdeen F.C. season | Pre-season friendlies | Pre-season friendlies",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Attendance",
+        "Report"
+    ],
+    "cell": [
+        [
+            "12 July",
+            "Manchester United",
+            "0-2",
+            "20555",
+            "AFC"
+        ],
+        [
+            "15 July",
+            "Dundee",
+            "0-0",
+            "2422",
+            "AFC"
+        ],
+        [
+            "18 July",
+            "Peterhead",
+            "0-4",
+            "3241",
+            "AFC"
+        ],
+        [
+            "21 July",
+            "Brechin City",
+            "1-0",
+            "1589",
+            "AFC"
+        ],
+        [
+            "24 July",
+            "DZC 68",
+            "5-0",
+            "342",
+            "AFC"
+        ],
+        [
+            "27 July",
+            "FC Zwolle",
+            "1-2",
+            "2964",
+            "AFC"
+        ],
+        [
+            "30 July",
+            "Vitesse Arnhem",
+            "1-0",
+            "4103",
+            "AFC"
+        ],
+        [
+            "31 July",
+            "SV Rietvogels",
+            "10-0",
+            "467",
+            "AFC"
+        ],
+        [
+            "5 August",
+            "Inverurie Loco Works",
+            "2-0",
+            "2300",
+            "AFC"
+        ]
+    ]
+}

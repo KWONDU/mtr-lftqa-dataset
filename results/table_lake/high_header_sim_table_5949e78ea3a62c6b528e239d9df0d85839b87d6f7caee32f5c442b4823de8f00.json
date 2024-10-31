@@ -1,0 +1,70 @@
+{
+    "id": "5949e78ea3a62c6b528e239d9df0d85839b87d6f7caee32f5c442b4823de8f00",
+    "metadata": "Economy of Japan | Macro-economic trend | Macro-economic trend",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Gross_domestic_product",
+        "US_dollar_exchange",
+        "Nominal_per_capita_GDP_as_of_USA",
+        "PPP_capita_GDP_as_of_USA"
+    ],
+    "cell": [
+        [
+            "1955",
+            "8369500",
+            "\uffe5360.00",
+            "10.31",
+            "-"
+        ],
+        [
+            "1960",
+            "16009700",
+            "\uffe5360.00",
+            "16.22",
+            "-"
+        ],
+        [
+            "1965",
+            "32866000",
+            "\uffe5360.00",
+            "24.95",
+            "-"
+        ],
+        [
+            "1970",
+            "73344900",
+            "\uffe5360.00",
+            "38.56",
+            "-"
+        ],
+        [
+            "1975",
+            "148327100",
+            "\uffe5297.26",
+            "59.00",
+            "-"
+        ],
+        [
+            "1980",
+            "240707315",
+            "\uffe5225.82",
+            "105.85",
+            "71.87"
+        ],
+        [
+            "2005",
+            "502905400",
+            "\uffe5110.01",
+            "85.04",
+            "71.03"
+        ],
+        [
+            "2010",
+            "477327134",
+            "\uffe588.54",
+            "89.8",
+            "71.49"
+        ]
+    ]
+}

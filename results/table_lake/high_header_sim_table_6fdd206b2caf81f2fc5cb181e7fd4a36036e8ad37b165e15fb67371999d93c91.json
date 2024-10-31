@@ -1,0 +1,71 @@
+{
+    "id": "6fdd206b2caf81f2fc5cb181e7fd4a36036e8ad37b165e15fb67371999d93c91",
+    "metadata": "List of best-selling music artists | 200 million to 249 million records | 200 million to 249 million records",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Artist",
+        "Country_of_origin",
+        "Period_active",
+        "Release_year_of_first_charted_record",
+        "Genre",
+        "Claimed_sales"
+    ],
+    "cell": [
+        [
+            "Mariah Carey",
+            "United States",
+            "1988-present",
+            "1990",
+            "R&B / Pop / Rock",
+            "200 million 175 million"
+        ],
+        [
+            "Celine Dion",
+            "Canada",
+            "1981-present",
+            "1981",
+            "Pop",
+            "200 million 175 million"
+        ],
+        [
+            "Whitney Houston",
+            "United States",
+            "1977-2011",
+            "1984",
+            "R&B / Pop",
+            "200 million 170 million"
+        ],
+        [
+            "AC/DC",
+            "Australia",
+            "1973-present",
+            "1975",
+            "Hard rock / Heavy metal",
+            "200 million 150 million"
+        ],
+        [
+            "Queen",
+            "United Kingdom",
+            "1971-present",
+            "1973",
+            "Rock",
+            "200 million 150 million"
+        ],
+        [
+            "The Rolling Stones",
+            "United Kingdom",
+            "1962-present",
+            "1963",
+            "Rock / Blues rock",
+            "200 million"
+        ],
+        [
+            "ABBA",
+            "Sweden",
+            "1972-1982",
+            "1972",
+            "Pop / Disco",
+            "200 million 100 million"
+        ]
+    ]
+}

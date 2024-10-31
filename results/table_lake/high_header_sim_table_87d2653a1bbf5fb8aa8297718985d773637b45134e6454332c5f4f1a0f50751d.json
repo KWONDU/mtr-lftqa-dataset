@@ -1,0 +1,77 @@
+{
+    "id": "87d2653a1bbf5fb8aa8297718985d773637b45134e6454332c5f4f1a0f50751d",
+    "metadata": "2009-10 Washington Capitals season | Game log | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Score",
+        "Location_",
+        "Attendance",
+        "Record",
+        "Points"
+    ],
+    "cell": [
+        [
+            "56",
+            "February 2",
+            "Boston Bruins",
+            "4 - 1",
+            "TD Garden",
+            "17565",
+            "38-12-6",
+            "82"
+        ],
+        [
+            "57",
+            "February 4",
+            "New York Rangers",
+            "6 - 5",
+            "Madison Square Garden",
+            "18200",
+            "39-12-6",
+            "84"
+        ],
+        [
+            "58",
+            "February 5",
+            "Atlanta Thrashers",
+            "5 - 2",
+            "Verizon Center",
+            "18277",
+            "40-12-6",
+            "86"
+        ],
+        [
+            "59",
+            "February 7",
+            "Pittsburgh Penguins",
+            "5 - 4 OT",
+            "Verizon Center",
+            "18277",
+            "41-12-6",
+            "88"
+        ],
+        [
+            "60",
+            "February 10",
+            "Montreal Canadiens",
+            "6 - 5 OT",
+            "Bell Centre",
+            "21273",
+            "41-12-7",
+            "89"
+        ],
+        [
+            "61",
+            "February 11",
+            "Ottawa Senators",
+            "6 - 5",
+            "Scotiabank Place",
+            "19682",
+            "41-13-7",
+            "89"
+        ]
+    ]
+}

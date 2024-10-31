@@ -1,0 +1,112 @@
+{
+    "id": "c39775fa09c3149b0fe58b62b2bcf43f137164c4e224f6ce16565cec31b7b621",
+    "metadata": "1957 Argentine Grand Prix | Classification | Classification",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Constructor_",
+        "Laps",
+        "Time_Retired",
+        "Grid"
+    ],
+    "cell": [
+        [
+            "Juan Manuel Fangio",
+            "Maserati",
+            "100",
+            "3:00:55.9",
+            "2"
+        ],
+        [
+            "Jean Behra",
+            "Maserati",
+            "100",
+            "+18.3 secs",
+            "3"
+        ],
+        [
+            "Carlos Menditeguy",
+            "Maserati",
+            "99",
+            "+1 Lap",
+            "8"
+        ],
+        [
+            "Harry Schell",
+            "Maserati",
+            "98",
+            "+2 Laps",
+            "9"
+        ],
+        [
+            "Alfonso de Portago Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
+            "Ferrari",
+            "98",
+            "+2 Laps",
+            "10"
+        ],
+        [
+            "Cesare Perdisa Peter Collins Wolfgang von Trips",
+            "Ferrari",
+            "98",
+            "+2 Laps",
+            "11"
+        ],
+        [
+            "Jo Bonnier",
+            "Maserati",
+            "95",
+            "+5 Laps",
+            "13"
+        ],
+        [
+            "Stirling Moss",
+            "Maserati",
+            "93",
+            "+7 Laps",
+            "1"
+        ],
+        [
+            "Alessandro de Tomaso",
+            "Ferrari",
+            "91",
+            "+9 Laps",
+            "12"
+        ],
+        [
+            "Luigi Piotti",
+            "Maserati",
+            "90",
+            "+10 Laps",
+            "14"
+        ],
+        [
+            "Eugenio Castellotti",
+            "Ferrari",
+            "75",
+            "Wheel",
+            "4"
+        ],
+        [
+            "Mike Hawthorn",
+            "Ferrari",
+            "35",
+            "Clutch",
+            "7"
+        ],
+        [
+            "Luigi Musso",
+            "Ferrari",
+            "31",
+            "Clutch",
+            "6"
+        ],
+        [
+            "Peter Collins",
+            "Ferrari",
+            "26",
+            "Clutch",
+            "5"
+        ]
+    ]
+}

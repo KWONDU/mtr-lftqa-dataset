@@ -1,0 +1,55 @@
+{
+    "id": "b774cbb8c6157ebc86be7f96530c12ccbda98f23afc76e62099540f3ccdeb629",
+    "metadata": "KPRD | Translators | Translators",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "K202BP",
+            "88.3",
+            "Bellaire, Smith County, Kansas",
+            "78",
+            "D",
+            "FCC"
+        ],
+        [
+            "K216ED",
+            "91.1",
+            "Phillipsburg, Kansas",
+            "222",
+            "D",
+            "FCC"
+        ],
+        [
+            "K241AN",
+            "96.1",
+            "Pratt, Kansas",
+            "250",
+            "D",
+            "FCC"
+        ],
+        [
+            "K278AP",
+            "103.5",
+            "Lewis, Kansas",
+            "171",
+            "D",
+            "FCC"
+        ],
+        [
+            "K297AI",
+            "107.3",
+            "Hill City, Kansas",
+            "170",
+            "D",
+            "FCC"
+        ]
+    ]
+}

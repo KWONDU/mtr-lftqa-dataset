@@ -1,0 +1,119 @@
+{
+    "id": "0a42045d000019dda1de97c6cd04b3d7a750ca5b31772fa2784928347296b6e4",
+    "metadata": "DDR-Liga | 1971-1984 | 1971-1984",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Staffel_A",
+        "Staffel_B",
+        "Staffel_C",
+        "Staffel_D",
+        "Staffel_E"
+    ],
+    "cell": [
+        [
+            "1971-72",
+            "TSG Wismar",
+            "Dynamo Berlin II",
+            "Chemie Leipzig",
+            "Motor Werdau",
+            "Rot-Wei\u00df Erfurt"
+        ],
+        [
+            "1972-73",
+            "Vorw\u00e4rts Stralsund",
+            "Dynamo Berlin II *",
+            "Vorw\u00e4rts Leipzig",
+            "Dynamo Dresden II *",
+            "Chemie Zeitz"
+        ],
+        [
+            "1973-74",
+            "Vorw\u00e4rts Stralsund",
+            "1. FC Union Berlin",
+            "Hallescher FC Chemie",
+            "Chemie B\u00f6hlen",
+            "Wismut Gera"
+        ],
+        [
+            "1974-75",
+            "Dynamo Schwerin",
+            "1. FC Union Berlin",
+            "Chemie Leipzig",
+            "Energie Cottbus",
+            "Wismut Gera"
+        ],
+        [
+            "1975-76",
+            "Hansa Rostock",
+            "1. FC Union Berlin",
+            "Hallescher FC Chemie II",
+            "Motor Werdau",
+            "FC Carl Zeiss Jena II"
+        ],
+        [
+            "1976-77",
+            "Vorw\u00e4rts Stralsund",
+            "Stahl Hennigsdorf",
+            "Chemie Leipzig",
+            "Chemie B\u00f6hlen",
+            "Wismut Gera"
+        ],
+        [
+            "1977-78",
+            "Hansa Rostock",
+            "Vorw\u00e4rts Neubrandenburg",
+            "Chemie Leipzig",
+            "Lok Dresden",
+            "Stahl Riesa"
+        ],
+        [
+            "1978-79",
+            "TSG Bau Rostock",
+            "Vorw\u00e4rts Frankfurt",
+            "Chemie Leipzig",
+            "Energie Cottbus",
+            "Motor Suhl"
+        ],
+        [
+            "1979-80",
+            "Hansa Rostock",
+            "Dynamo F\u00fcrstenwalde",
+            "Chemie B\u00f6hlen",
+            "Energie Cottbus",
+            "Wismut Gera"
+        ],
+        [
+            "1980-81",
+            "Schiffahrt/Hafen Rostock",
+            "1. FC Union Berlin",
+            "Chemie Schkopau",
+            "Energie Cottbus",
+            "Motor Suhl"
+        ],
+        [
+            "1981-82",
+            "Vorw\u00e4rts Stralsund",
+            "1. FC Union Berlin",
+            "Chemie B\u00f6hlen",
+            "Stahl Riesa",
+            "Motor Nordhausen"
+        ],
+        [
+            "1982-83",
+            "Schiffahrt/Hafen Rostock",
+            "Stahl Brandenburg",
+            "Chemie Leipzig",
+            "Stahl Riesa",
+            "Wismut Gera"
+        ],
+        [
+            "1983-84",
+            "Vorw\u00e4rts Neubrandenburg",
+            "Stahl Brandenburg",
+            "Vorw\u00e4rts Dessau",
+            "Sachsenring Zwickau",
+            "Motor Suhl"
+        ]
+    ]
+}

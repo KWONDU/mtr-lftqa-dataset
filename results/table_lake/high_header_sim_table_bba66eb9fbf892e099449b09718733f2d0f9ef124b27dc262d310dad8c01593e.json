@@ -1,0 +1,70 @@
+{
+    "id": "bba66eb9fbf892e099449b09718733f2d0f9ef124b27dc262d310dad8c01593e",
+    "metadata": "1933 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "7.14 (56)",
+            "Richmond",
+            "9.9 (63)",
+            "Glenferrie Oval",
+            "12000",
+            "27 May 1933"
+        ],
+        [
+            "Essendon",
+            "12.11 (83)",
+            "South Melbourne",
+            "17.15 (117)",
+            "Windy Hill",
+            "18000",
+            "27 May 1933"
+        ],
+        [
+            "St Kilda",
+            "13.19 (97)",
+            "North Melbourne",
+            "11.17 (83)",
+            "Junction Oval",
+            "13000",
+            "27 May 1933"
+        ],
+        [
+            "Melbourne",
+            "10.17 (77)",
+            "Footscray",
+            "14.13 (97)",
+            "MCG",
+            "22029",
+            "27 May 1933"
+        ],
+        [
+            "Geelong",
+            "18.15 (123)",
+            "Fitzroy",
+            "2.7 (19)",
+            "Corio Oval",
+            "15000",
+            "27 May 1933"
+        ],
+        [
+            "Collingwood",
+            "14.20 (104)",
+            "Carlton",
+            "14.16 (100)",
+            "Victoria Park",
+            "25000",
+            "27 May 1933"
+        ]
+    ]
+}

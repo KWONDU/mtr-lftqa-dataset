@@ -1,0 +1,61 @@
+{
+    "id": "6f3dc5c095f6fb022e64b80f4fafa84ee4a6710eadba2f1b9a22365d38520761",
+    "metadata": "Tom Lehman | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "2",
+            "3",
+            "7",
+            "13",
+            "9"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "4",
+            "5",
+            "8",
+            "18",
+            "12"
+        ],
+        [
+            "The Open Championship",
+            "1",
+            "2",
+            "2",
+            "7",
+            "20",
+            "13"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "1",
+            "2",
+            "17",
+            "10"
+        ],
+        [
+            "Totals",
+            "1",
+            "8",
+            "11",
+            "24",
+            "68",
+            "44"
+        ]
+    ]
+}

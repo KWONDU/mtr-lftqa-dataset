@@ -1,0 +1,126 @@
+{
+    "id": "fc1e03a8ba63ecdcbe44b166fab25e2873829d7eb19b9c9fbd0f1217fc984ceb",
+    "metadata": "Aspirin | Other adverse effects | Laboratory findings in various platelet and coagulation disorders ( \n V \n - \n T \n )",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Condition_",
+        "Prothrombin_time",
+        "Partial_thromboplastin_time",
+        "Bleeding_time",
+        "Platelet_count"
+    ],
+    "cell": [
+        [
+            "Vitamin K deficiency or warfarin",
+            "Prolonged",
+            "Normal or mildly prolonged",
+            "Unaffected",
+            "Unaffected"
+        ],
+        [
+            "Disseminated intravascular coagulation",
+            "Prolonged",
+            "Prolonged",
+            "Prolonged",
+            "Decreased"
+        ],
+        [
+            "Von Willebrand disease",
+            "Unaffected",
+            "Prolonged or unaffected",
+            "Prolonged",
+            "Unaffected"
+        ],
+        [
+            "Hemophilia",
+            "Unaffected",
+            "Prolonged",
+            "Unaffected",
+            "Unaffected"
+        ],
+        [
+            "Aspirin",
+            "Unaffected",
+            "Unaffected",
+            "Prolonged",
+            "Unaffected"
+        ],
+        [
+            "Thrombocytopenia",
+            "Unaffected",
+            "Unaffected",
+            "Prolonged",
+            "Decreased"
+        ],
+        [
+            "Liver failure , early",
+            "Prolonged",
+            "Unaffected",
+            "Unaffected",
+            "Unaffected"
+        ],
+        [
+            "Liver failure, end-stage",
+            "Prolonged",
+            "Prolonged",
+            "Prolonged",
+            "Decreased"
+        ],
+        [
+            "Uremia",
+            "Unaffected",
+            "Unaffected",
+            "Prolonged",
+            "Unaffected"
+        ],
+        [
+            "Congenital afibrinogenemia",
+            "Prolonged",
+            "Prolonged",
+            "Prolonged",
+            "Unaffected"
+        ],
+        [
+            "Factor V deficiency",
+            "Prolonged",
+            "Prolonged",
+            "Unaffected",
+            "Unaffected"
+        ],
+        [
+            "Factor X deficiency as seen in amyloid purpura",
+            "Prolonged",
+            "Prolonged",
+            "Unaffected",
+            "Unaffected"
+        ],
+        [
+            "Glanzmann`s thrombasthenia",
+            "Unaffected",
+            "Unaffected",
+            "Prolonged",
+            "Unaffected"
+        ],
+        [
+            "Bernard-Soulier syndrome",
+            "Unaffected",
+            "Unaffected",
+            "Prolonged",
+            "Decreased or unaffected"
+        ],
+        [
+            "Factor XII deficiency",
+            "Unaffected",
+            "Prolonged",
+            "Unaffected",
+            "Unaffected"
+        ],
+        [
+            "C1INH deficiency",
+            "Unaffected",
+            "Shortened",
+            "Unaffected",
+            "Unaffected"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "39c3c7462f0554613986ca03ce8bec608a2d406f414f07762602eb04c18e4b9c",
+    "metadata": "1987 PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jack Nicklaus",
+            "United States",
+            "4976980",
+            "73"
+        ],
+        [
+            "2",
+            "Tom Watson",
+            "United States",
+            "4701629",
+            "37"
+        ],
+        [
+            "3",
+            "Tom Kite",
+            "United States",
+            "3445007",
+            "10"
+        ],
+        [
+            "4",
+            "Raymond Floyd",
+            "United States",
+            "3372339",
+            "21"
+        ],
+        [
+            "5",
+            "Lee Trevino",
+            "United States",
+            "3315502",
+            "29"
+        ]
+    ]
+}

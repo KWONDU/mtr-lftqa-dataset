@@ -1,0 +1,56 @@
+{
+    "id": "2e1d22da32bd535bbebcefa7dd4836778d138e259134000800da048204939ab1",
+    "metadata": "Glasvegas (album) | Accolades | Accolades",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Publication",
+        "Country",
+        "Accolade",
+        "Year_",
+        "Rank_"
+    ],
+    "cell": [
+        [
+            "The Guardian",
+            "UK",
+            "Best Albums of the Year",
+            "2008",
+            "#8"
+        ],
+        [
+            "Q",
+            "UK",
+            "Best Albums of the Year",
+            "2008",
+            "#5"
+        ],
+        [
+            "The Observer Music Monthly",
+            "UK",
+            "Best Albums of the Year",
+            "2008",
+            "#4"
+        ],
+        [
+            "NME",
+            "UK",
+            "Best Albums of the Year",
+            "2008",
+            "#3"
+        ],
+        [
+            "MOJO",
+            "UK",
+            "Best Albums of the Year",
+            "2008",
+            "#7"
+        ],
+        [
+            "The Fly",
+            "UK",
+            "Best Albums of the Year",
+            "2008",
+            "#9"
+        ]
+    ]
+}

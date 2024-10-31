@@ -1,0 +1,56 @@
+{
+    "id": "039f4c43969f5f28d33b41ad74a14cf41fd008e2ed27c11b0d176ff31e44c26a",
+    "metadata": "Migidio Bourifa | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Event"
+    ],
+    "cell": [
+        [
+            "2000",
+            "World Half Marathon Championships",
+            "Veracruz , Mexico",
+            "32nd",
+            "Half marathon"
+        ],
+        [
+            "2000",
+            "World Half Marathon Championships",
+            "Veracruz , Mexico",
+            "5th",
+            "Team"
+        ],
+        [
+            "2001",
+            "Venice Marathon",
+            "Venice, Italy",
+            "6th",
+            "Marathon"
+        ],
+        [
+            "2002",
+            "Paris Marathon",
+            "Paris, France",
+            "3rd",
+            "Marathon"
+        ],
+        [
+            "2007",
+            "World Championships",
+            "Osaka, Japan",
+            "\u2014",
+            "Marathon"
+        ],
+        [
+            "2010",
+            "European Championships",
+            "Barcelona , Spain",
+            "7th",
+            "Marathon"
+        ]
+    ]
+}

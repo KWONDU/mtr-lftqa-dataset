@@ -1,0 +1,70 @@
+{
+    "id": "856adefafbf7e4ea14ab6ef2a1e3a572fd0ccb452c504ba380566a71919c3796",
+    "metadata": "1952 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "14.10 (94)",
+            "Richmond",
+            "9.12 (66)",
+            "Arden Street Oval",
+            "12000",
+            "9 August 1952"
+        ],
+        [
+            "Collingwood",
+            "20.19 (139)",
+            "St Kilda",
+            "8.7 (55)",
+            "Victoria Park",
+            "14100",
+            "9 August 1952"
+        ],
+        [
+            "Carlton",
+            "11.16 (82)",
+            "Essendon",
+            "12.11 (83)",
+            "Princes Park",
+            "34000",
+            "9 August 1952"
+        ],
+        [
+            "South Melbourne",
+            "6.14 (50)",
+            "Hawthorn",
+            "9.14 (68)",
+            "Lake Oval",
+            "12000",
+            "9 August 1952"
+        ],
+        [
+            "Melbourne",
+            "15.17 (107)",
+            "Footscray",
+            "8.12 (60)",
+            "MCG",
+            "17421",
+            "9 August 1952"
+        ],
+        [
+            "Geelong",
+            "12.16 (88)",
+            "Fitzroy",
+            "5.10 (40)",
+            "Kardinia Park",
+            "31314",
+            "9 August 1952"
+        ]
+    ]
+}

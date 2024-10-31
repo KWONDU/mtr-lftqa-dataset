@@ -1,0 +1,133 @@
+{
+    "id": "8d88a3d94cd2aa143e6dcea4cddb30707bb419a400b5b0bf8b013a26d2e0f8eb",
+    "metadata": "2007-08 Carolina Hurricanes season | November | November",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "November 3",
+            "Florida",
+            "2 - 4",
+            "Carolina",
+            "Grahame",
+            "17547",
+            "8-3-3"
+        ],
+        [
+            "November 5",
+            "Washington",
+            "0 - 5",
+            "Carolina",
+            "Ward",
+            "12171",
+            "9-3-3"
+        ],
+        [
+            "November 8",
+            "Tampa Bay",
+            "5 - 1",
+            "Carolina",
+            "Ward",
+            "14017",
+            "9-4-3"
+        ],
+        [
+            "November 10",
+            "Carolina",
+            "5 - 3",
+            "Atlanta",
+            "Ward",
+            "18545",
+            "10-4-3"
+        ],
+        [
+            "November 12",
+            "Carolina",
+            "4 - 3",
+            "Florida",
+            "Ward",
+            "12715",
+            "11-4-3"
+        ],
+        [
+            "November 14",
+            "Carolina",
+            "1 - 6",
+            "Florida",
+            "Grahame",
+            "17444",
+            "11-5-3"
+        ],
+        [
+            "November 16",
+            "Atlanta",
+            "3 - 0",
+            "Carolina",
+            "Ward",
+            "14632",
+            "11-6-3"
+        ],
+        [
+            "November 17",
+            "Florida",
+            "1 - 2",
+            "Carolina",
+            "Ward",
+            "16962",
+            "12-6-3"
+        ],
+        [
+            "November 21",
+            "Philadelphia",
+            "6 - 3",
+            "Carolina",
+            "Ward",
+            "16351",
+            "12-7-3"
+        ],
+        [
+            "November 23",
+            "Tampa Bay",
+            "3 - 4",
+            "Carolina",
+            "Ward",
+            "18033",
+            "13-7-3"
+        ],
+        [
+            "November 24",
+            "Carolina",
+            "2 - 5",
+            "Washington",
+            "Grahame",
+            "13650",
+            "13-8-3"
+        ],
+        [
+            "November 28",
+            "Philadelphia",
+            "3 - 1",
+            "Carolina",
+            "Ward",
+            "15108",
+            "13-9-3"
+        ],
+        [
+            "November 30",
+            "Washington",
+            "3 - 4",
+            "Carolina",
+            "Ward",
+            "16386",
+            "14-9-3"
+        ]
+    ]
+}

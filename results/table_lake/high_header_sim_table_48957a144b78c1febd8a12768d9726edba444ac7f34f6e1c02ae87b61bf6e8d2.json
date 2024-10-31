@@ -1,0 +1,49 @@
+{
+    "id": "48957a144b78c1febd8a12768d9726edba444ac7f34f6e1c02ae87b61bf6e8d2",
+    "metadata": "2007 BC Lions season | Rushing | Rushing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Att_",
+        "Yards",
+        "Avg_",
+        "Fumbles"
+    ],
+    "cell": [
+        [
+            "Joe Smith",
+            "281",
+            "1510",
+            "5.4",
+            "2"
+        ],
+        [
+            "Jarious Jackson",
+            "49",
+            "265",
+            "5.4",
+            "8"
+        ],
+        [
+            "Buck Pierce",
+            "22",
+            "164",
+            "7.5",
+            "0"
+        ],
+        [
+            "Ian Smart",
+            "32",
+            "158",
+            "4.9",
+            "3"
+        ],
+        [
+            "Dave Dickenson",
+            "9",
+            "44",
+            "4.9",
+            "0"
+        ]
+    ]
+}

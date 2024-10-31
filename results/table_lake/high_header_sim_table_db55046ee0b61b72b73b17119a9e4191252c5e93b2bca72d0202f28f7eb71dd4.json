@@ -1,0 +1,63 @@
+{
+    "id": "db55046ee0b61b72b73b17119a9e4191252c5e93b2bca72d0202f28f7eb71dd4",
+    "metadata": "Lipstick Jungle (TV series) | Season 1 | Weekly ratings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode",
+        "Air_Date",
+        "Timeslot",
+        "Viewers",
+        "Weekly_Rank_for_Living"
+    ],
+    "cell": [
+        [
+            "Pilot",
+            "September 22, 2008",
+            "Monday, 10:00pm",
+            "238000",
+            "4"
+        ],
+        [
+            "Chapter Two: Nothing Sacred",
+            "September 29, 2008",
+            "Monday, 10:00pm",
+            "139000",
+            "7"
+        ],
+        [
+            "Chapter Three: Pink Poison",
+            "October 6, 2008",
+            "Monday, 10:00pm",
+            "TBC",
+            "TBC"
+        ],
+        [
+            "Chapter Four: Bombay Highway",
+            "October 13, 2008",
+            "Monday, 10:00pm",
+            "183000",
+            "5"
+        ],
+        [
+            "Chapter Five: Dressed to Kill",
+            "October 20, 2008",
+            "Monday, 10:00pm",
+            "214000",
+            "8"
+        ],
+        [
+            "Chapter Six: Take the High Road",
+            "October 27, 2008",
+            "Monday, 10:00pm",
+            "TBC",
+            "TBC"
+        ],
+        [
+            "Chapter Seven: Carpe Threesome",
+            "November 3, 2008",
+            "Monday, 10:00pm",
+            "178000",
+            "6"
+        ]
+    ]
+}

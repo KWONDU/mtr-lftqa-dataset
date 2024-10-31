@@ -1,0 +1,70 @@
+{
+    "id": "cb473852b6b97be5d28e798b4e96d22c02cebe42ea9c8d00f36da6680dde3d4c",
+    "metadata": "1955 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "8.5 (53)",
+            "South Melbourne",
+            "11.16 (82)",
+            "Junction Oval",
+            "10150",
+            "6 August 1955"
+        ],
+        [
+            "Footscray",
+            "10.13 (73)",
+            "Geelong",
+            "10.16 (76)",
+            "Western Oval",
+            "33902",
+            "6 August 1955"
+        ],
+        [
+            "Fitzroy",
+            "6.17 (53)",
+            "Richmond",
+            "11.9 (75)",
+            "Brunswick Street Oval",
+            "14000",
+            "6 August 1955"
+        ],
+        [
+            "North Melbourne",
+            "8.12 (60)",
+            "Hawthorn",
+            "8.5 (53)",
+            "Arden Street Oval",
+            "9000",
+            "6 August 1955"
+        ],
+        [
+            "Melbourne",
+            "16.23 (119)",
+            "Essendon",
+            "7.12 (54)",
+            "MCG",
+            "49352",
+            "6 August 1955"
+        ],
+        [
+            "Collingwood",
+            "12.17 (89)",
+            "Carlton",
+            "7.10 (52)",
+            "Victoria Park",
+            "28000",
+            "6 August 1955"
+        ]
+    ]
+}

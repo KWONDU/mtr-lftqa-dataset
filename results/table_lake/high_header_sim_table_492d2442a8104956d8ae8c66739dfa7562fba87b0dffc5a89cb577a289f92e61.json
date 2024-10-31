@@ -1,0 +1,56 @@
+{
+    "id": "492d2442a8104956d8ae8c66739dfa7562fba87b0dffc5a89cb577a289f92e61",
+    "metadata": "North Germanic languages | Mutual intelligibility | Mutual intelligibility",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "Comprehension_of_Danish",
+        "Comprehension_of_Swedish",
+        "Comprehension_of_Norwegian",
+        "Average"
+    ],
+    "cell": [
+        [
+            "\u00c5rhus , Denmark",
+            "N/A",
+            "3.74",
+            "4.68",
+            "4.21"
+        ],
+        [
+            "Copenhagen , Denmark",
+            "N/A",
+            "3.60",
+            "4.13",
+            "3.87"
+        ],
+        [
+            "Malm\u00f6 , Sweden",
+            "5.08",
+            "N/A",
+            "4.97",
+            "5.02"
+        ],
+        [
+            "Stockholm , Sweden",
+            "3.46",
+            "N/A",
+            "5.56",
+            "4.51"
+        ],
+        [
+            "Bergen , Norway",
+            "6.50",
+            "6.15",
+            "N/A",
+            "6.32"
+        ],
+        [
+            "Oslo , Norway",
+            "6.57",
+            "7.12",
+            "N/A",
+            "6.85"
+        ]
+    ]
+}

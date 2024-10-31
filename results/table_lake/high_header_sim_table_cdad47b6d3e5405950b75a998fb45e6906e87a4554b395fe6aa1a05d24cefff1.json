@@ -1,0 +1,560 @@
+{
+    "id": "cdad47b6d3e5405950b75a998fb45e6906e87a4554b395fe6aa1a05d24cefff1",
+    "metadata": "Long jump | Records | Men",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Nation",
+        "Distance",
+        "Athlete",
+        "Venue",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "United States",
+            "8.95m(29ft4\u00bcin)",
+            "Mike Powell",
+            "Tokyo",
+            "1991-08-30"
+        ],
+        [
+            "Soviet Union/ Armenia",
+            "8.86m(29ft0\u00bein)",
+            "Robert Emmiyan",
+            "Tsakhkadzor",
+            "1987-05-22"
+        ],
+        [
+            "Panama",
+            "8.73m(28ft7\u00bdin)",
+            "Irving Saladino",
+            "Hengelo",
+            "2008-05-24"
+        ],
+        [
+            "Cuba",
+            "8.71m(28ft6\u00bein)",
+            "Iv\u00e1n Pedroso",
+            "Salamanca",
+            "1995-07-18"
+        ],
+        [
+            "Greece",
+            "8.66m(28ft4\u00bein)",
+            "Louis Tsatoumas",
+            "Kalamata",
+            "2007-06-02"
+        ],
+        [
+            "Jamaica",
+            "8.62m(28ft3\u00bcin)",
+            "James Beckford",
+            "Orlando",
+            "1997-04-05"
+        ],
+        [
+            "Spain",
+            "8.56m(28ft1in)",
+            "Yago Lamela",
+            "Turin",
+            "1999-06-24"
+        ],
+        [
+            "Russia",
+            "8.56m(28ft1in)",
+            "Aleksandr Menkov",
+            "Moscow",
+            "16 August 2013"
+        ],
+        [
+            "East Germany/ Germany",
+            "8.54m(28ft0in)",
+            "Lutz Dombrowski",
+            "Moscow",
+            "1980-07-28"
+        ],
+        [
+            "Australia",
+            "8.54m(28ft0in)",
+            "Mitchell Watt",
+            "Stockholm",
+            "2011-07-29"
+        ],
+        [
+            "South Africa",
+            "8.50m(27ft10\u00bdin)",
+            "Godfrey Mokoena",
+            "Madrid",
+            "2009-07-04"
+        ],
+        [
+            "Saudi Arabia",
+            "8.48m(27ft9\u00bein)",
+            "Mohamed Salman Al-Khuwalidi",
+            "Sotteville-l\u00e8s-Rouen",
+            "2006-07-02"
+        ],
+        [
+            "Italy",
+            "8.47m(27ft9\u00bcin)",
+            "Andrew Howe",
+            "Osaka",
+            "2007-08-30"
+        ],
+        [
+            "Mexico",
+            "8.46m(27ft9in)",
+            "Luis Rivera",
+            "Kazan",
+            "2013-07-12"
+        ],
+        [
+            "Senegal",
+            "8.46m(27ft9in)",
+            "Cheikh Tidiane Tour\u00e9",
+            "Bad Langensalza",
+            "1997-06-15"
+        ],
+        [
+            "Yugoslavia/ Serbia",
+            "8.45m(27ft8\u00bdin)",
+            "Nenad Steki\u0107",
+            "Montreal",
+            "1975-07-25"
+        ],
+        [
+            "Ghana",
+            "8.43m(27ft7\u00bein)",
+            "Ignisious Gaisah",
+            "Rome",
+            "2006-07-14"
+        ],
+        [
+            "France",
+            "8.42m(27ft7\u00bcin)",
+            "Salim Sdiri",
+            "Pierre-B\u00e9nite",
+            "2009-06-12"
+        ],
+        [
+            "Bahamas",
+            "8.41m(27ft7in)",
+            "Craig Hepburn",
+            "Nassau",
+            "1993-06-17"
+        ],
+        [
+            "Zimbabwe",
+            "8.40m(27ft6\u00bdin)",
+            "Ngonidzashe Makusha",
+            "Des Moines",
+            "2011-06-09"
+        ],
+        [
+            "Brazil",
+            "8.40m(27ft6\u00bdin)",
+            "Douglas de Souza",
+            "S\u00e3o Paulo",
+            "1995-02-15"
+        ],
+        [
+            "Slovenia",
+            "8.40m(27ft6\u00bdin)",
+            "Gregor Cankar",
+            "Celje",
+            "1997-05-18"
+        ],
+        [
+            "People`s Republic of China",
+            "8.40m(27ft6\u00bdin)",
+            "Lao Jianfeng",
+            "Zhaoqing",
+            "1997-05-28"
+        ],
+        [
+            "Morocco",
+            "8.40m(27ft6\u00bdin)",
+            "Yahya Berrabah",
+            "Beyrouth",
+            "2009-10-02"
+        ],
+        [
+            "Romania",
+            "8.37m(27ft5\u00bdin)",
+            "Bogdan Tudor",
+            "Bad Cannstatt",
+            "1995-07-09"
+        ],
+        [
+            "Portugal",
+            "8.36m(27ft5in)",
+            "Carlos Calado",
+            "Lisbon",
+            "1997-06-20"
+        ],
+        [
+            "Ukraine",
+            "8.35m(27ft4\u00bdin)",
+            "Sergey Layevskiy",
+            "Dnepropetrovsk",
+            "1988-07-16"
+        ],
+        [
+            "Ukraine",
+            "8.35m(27ft4\u00bdin)",
+            "Roman Shchurenko",
+            "Kiev",
+            "2000-07-25"
+        ],
+        [
+            "United Kingdom",
+            "8.35m(27ft4\u00bdin)",
+            "Christopher Tomlinson",
+            "Paris",
+            "2011-07-08"
+        ],
+        [
+            "Taiwan",
+            "8.34m(27ft4\u00bcin)",
+            "Nai Huei-Fang",
+            "Shanghai",
+            "1993-05-14"
+        ],
+        [
+            "Venezuela",
+            "8.34m(27ft4\u00bcin)",
+            "Victor Castillo",
+            "Cochabamba",
+            "2004-05-30"
+        ],
+        [
+            "Bulgaria",
+            "8.33m(27ft3\u00bein)",
+            "Ivaylo Mladenov",
+            "Seville",
+            "1995-06-03"
+        ],
+        [
+            "Belarus",
+            "8.33m(27ft3\u00bein)",
+            "Aleksandr Glovatskiy",
+            "Sestriere",
+            "1996-08-07"
+        ],
+        [
+            "Egypt",
+            "8.31m(27ft3in)",
+            "Hassine Hatem Moursal",
+            "Oslo",
+            "1999-06-30"
+        ],
+        [
+            "Hungary",
+            "8.30m(27ft2\u00bein)",
+            "L\u00e1szl\u00f3 Szalma",
+            "Budapest",
+            "1985-07-07"
+        ],
+        [
+            "Austria",
+            "8.30m(27ft2\u00bein)",
+            "Andreas Steiner",
+            "Innsbruck",
+            "1988-06-04"
+        ],
+        [
+            "Netherlands",
+            "8.29m(27ft2\u00bcin)",
+            "Ignisious Gaisah",
+            "Moscow",
+            "2013-08-16"
+        ],
+        [
+            "Mauritius",
+            "8.28m(27ft1\u00bein)",
+            "Jonathan Chimier",
+            "Athens",
+            "2004-08-24"
+        ],
+        [
+            "Poland",
+            "8.28m(27ft1\u00bein)",
+            "Grzegorz Marciniszyn",
+            "Mals",
+            "2001-07-14"
+        ],
+        [
+            "Nigeria",
+            "8.27m(27ft1\u00bdin)",
+            "Yussuf Alli",
+            "Lagos",
+            "1989-08-08"
+        ],
+        [
+            "Botswana",
+            "8.27m(27ft1\u00bdin)",
+            "Gable Garenamotse",
+            "Rhede",
+            "2006-08-20"
+        ],
+        [
+            "Algeria",
+            "8.26m(27ft1in)",
+            "Issam Nima",
+            "Zaragoza",
+            "2007-07-28"
+        ],
+        [
+            "Czech Republic",
+            "8.25m(27ft0\u00bein)",
+            "Milan Mikul\u00e1\u0161",
+            "Prague",
+            "1988-07-16"
+        ],
+        [
+            "Republic of Moldova",
+            "8.25m(27ft0\u00bein)",
+            "Sergey Podgainiy",
+            "Chisinau",
+            "1990-08-18"
+        ],
+        [
+            "Japan",
+            "8.25m(27ft0\u00bein)",
+            "Masaki Morinaga",
+            "Shizuoka",
+            "1992-05-05"
+        ],
+        [
+            "Belgium",
+            "8.25m(27ft0\u00bein)",
+            "Erik Nys",
+            "Hechtel",
+            "1996-07-06"
+        ],
+        [
+            "Denmark",
+            "8.25m(27ft0\u00bein)",
+            "Morten Jensen",
+            "Gothenburg",
+            "2005-07-03"
+        ],
+        [
+            "Namibia",
+            "8.24m(27ft0\u00bcin)",
+            "Stephan Louw",
+            "Germiston",
+            "2008-01-12"
+        ],
+        [
+            "Croatia",
+            "8.23m(27ft0in)",
+            "Sini\u0161a Ergoti\u0107",
+            "Zagreb",
+            "2002-06-05"
+        ],
+        [
+            "Sweden",
+            "8.22m(26ft11\u00bdin)",
+            "Michel Torn\u00e9us",
+            "Kuortane",
+            "2012-07-22"
+        ],
+        [
+            "Bermuda",
+            "8.22m(26ft11\u00bdin)",
+            "Tyrone Smith",
+            "Mayag\u00fcez",
+            "2010-07-26"
+        ],
+        [
+            "Finland",
+            "8.22m(26ft11\u00bdin)",
+            "Tommi Evil\u00e4",
+            "Gothenburg",
+            "2008-06-28"
+        ],
+        [
+            "Korea",
+            "8.20m(26ft10\u00bein)",
+            "Kim Deok Hyeon",
+            "Belgrade",
+            "2009-07-12"
+        ],
+        [
+            "Canada",
+            "8.20m(26ft10\u00bein)",
+            "Edrick Floreal",
+            "Sherbrooke",
+            "1991-07-20"
+        ],
+        [
+            "Kazakhstan",
+            "8.16m(26ft9\u00bcin)",
+            "Sergey Vasilenko",
+            "Alma Ata",
+            "1988-06-18"
+        ],
+        [
+            "Qatar",
+            "8.13m(26ft8in)",
+            "Abdulrahman Faraj Al-Nubi",
+            "Manila",
+            "2003-09-21"
+        ],
+        [
+            "Estonia",
+            "8.10m(26ft6\u00bein)",
+            "Erki Nool",
+            "G\u00f6tzis",
+            "1995-05-27"
+        ],
+        [
+            "Peru",
+            "8.10m(26ft6\u00bein)",
+            "Jorge McFarlane",
+            "Sucre",
+            "2009-11-23"
+        ],
+        [
+            "Uzbekistan",
+            "8.10m(26ft6\u00bein)",
+            "Aleksandr Pototskiy",
+            "Bryansk",
+            "1992-06-04"
+        ],
+        [
+            "India",
+            "8.09m(26ft6\u00bdin)",
+            "Kumaravel Prem Kumar",
+            "New Delhi",
+            "5 August 2013"
+        ],
+        [
+            "Turkey",
+            "8.08m(26ft6in)",
+            "Mesut Yava\u015f",
+            "Istanbul",
+            "2000-06-24"
+        ],
+        [
+            "New Zealand",
+            "8.05m(26ft4\u00bein)",
+            "Bob Thomas",
+            "Whangarei",
+            "1968-01-20"
+        ],
+        [
+            "Latvia",
+            "8.05m(26ft4\u00bein)",
+            "Juris Tone",
+            "Moscow",
+            "1983-06-21"
+        ],
+        [
+            "Thailand",
+            "8.04m(26ft4\u00bdin)",
+            "Supanara Sukhasvasti",
+            "Banglore",
+            "2010-06-05"
+        ],
+        [
+            "Norway",
+            "8.02m(26ft3\u00bdin)",
+            "Kristen Fl\u00f8gstad",
+            "Bislett",
+            "1973-08-04"
+        ],
+        [
+            "Philippines",
+            "7.99m(26ft2\u00bdin)",
+            "Henry Dagmil",
+            "Eagle Rock",
+            "2008-06-07"
+        ],
+        [
+            "Israel",
+            "7.99m(26ft2\u00bdin)",
+            "Yochai Halevi",
+            "Tel Aviv",
+            "2010-05-15"
+        ],
+        [
+            "Viet Nam",
+            "7.90m(25ft11in)",
+            "Nguyen Ngoc Quan",
+            "Hanoi",
+            "1997-05-02"
+        ],
+        [
+            "Malaysia",
+            "7.88m(25ft10in)",
+            "Josbert Tinus",
+            "Bangkok",
+            "2007-10-05"
+        ],
+        [
+            "Indonesia",
+            "7.85m(25ft9in)",
+            "Agus Reza Irawan",
+            "Jakarta",
+            "1995-09-21"
+        ],
+        [
+            "United Arab Emirates",
+            "7.79m(25ft6\u00bdin)",
+            "Mousbeh Ali Said",
+            "Latakia",
+            "1992-09-06"
+        ],
+        [
+            "Singapore",
+            "7.62m(25ft0in)",
+            "Matthew Goh Yujie",
+            "Vientiane",
+            "2009-12-05"
+        ],
+        [
+            "Bahrain",
+            "7.47m(24ft6in)",
+            "Mohamed Imam Bakhash",
+            "Manama",
+            "2003-10-16"
+        ],
+        [
+            "Lebanon",
+            "7.43m(24ft4\u00bdin)",
+            "Marc Habib",
+            "Lebanon",
+            "2004-07-22"
+        ],
+        [
+            "Jersey",
+            "7.21m(23ft7\u00bein)",
+            "Ross Jeffs",
+            "Jersey",
+            "2012-07-01"
+        ],
+        [
+            "Laos",
+            "7.20m(23ft7\u00bcin)",
+            "Phouphet Singbandith",
+            "Norwalk",
+            "1990-05-07"
+        ],
+        [
+            "Afghanistan",
+            "7.05m(23ft1\u00bdin)",
+            "Mohammed Anwar",
+            "Kabul",
+            "1940"
+        ],
+        [
+            "Brunei",
+            "7.04m(23ft1in)",
+            "Daniel Chung",
+            "Kota Kinabalu",
+            "1993-08-07"
+        ]
+    ]
+}

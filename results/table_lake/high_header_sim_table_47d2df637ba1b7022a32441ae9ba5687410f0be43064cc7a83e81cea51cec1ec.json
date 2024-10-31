@@ -1,0 +1,63 @@
+{
+    "id": "47d2df637ba1b7022a32441ae9ba5687410f0be43064cc7a83e81cea51cec1ec",
+    "metadata": "List of largest airlines in Central America & the Caribbean | Current fleet size | Current fleet size",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Airline",
+        "Country",
+        "Fleet_size",
+        "Remarks"
+    ],
+    "cell": [
+        [
+            "1",
+            "Caribbean Airlines",
+            "Trinidad and Tobago",
+            "22",
+            "Largest Airline in the Caribbean"
+        ],
+        [
+            "2",
+            "LIAT",
+            "Antigua and Barbuda",
+            "17",
+            "Second Largest Airline in the Caribbean"
+        ],
+        [
+            "3",
+            "Cubana de Aviaci\u00f3n",
+            "Cuba",
+            "14",
+            "Operational since 1929"
+        ],
+        [
+            "4",
+            "InselAir",
+            "Curacao",
+            "12",
+            "Operational since 2006"
+        ],
+        [
+            "5",
+            "Dutch Antilles Express",
+            "Curacao",
+            "4",
+            "Curacao second National Carrier"
+        ],
+        [
+            "6",
+            "Air Jamaica",
+            "Trinidad and Tobago",
+            "5",
+            "Parent Company is Caribbean Airlines"
+        ],
+        [
+            "7",
+            "Tiara Air",
+            "Aruba",
+            "3",
+            "Aruba`s national airline"
+        ]
+    ]
+}

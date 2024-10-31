@@ -1,0 +1,84 @@
+{
+    "id": "caf0de0c99e1d98b2629f88326f82af7634b23910440a5acbd4f1c2fae3dce08",
+    "metadata": "Meteor Music Awards | International awards | International awards",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Male",
+        "Female",
+        "Album",
+        "Live_Performance"
+    ],
+    "cell": [
+        [
+            "2001",
+            "David Gray",
+            "Whitney Houston",
+            "White Ladder",
+            "n/a"
+        ],
+        [
+            "2002",
+            "Robbie Williams",
+            "Dido",
+            "Is This It",
+            "Red Hot Chili Peppers"
+        ],
+        [
+            "2003",
+            "Eminem",
+            "Avril Lavigne",
+            "By the Way",
+            "Red Hot Chili Peppers"
+        ],
+        [
+            "2004",
+            "Justin Timberlake",
+            "Beyonc\u00e9",
+            "Elephant",
+            "Red Hot Chili Peppers"
+        ],
+        [
+            "2005",
+            "Morrissey",
+            "PJ Harvey",
+            "Franz Ferdinand",
+            "The Killers"
+        ],
+        [
+            "2006",
+            "Kanye West",
+            "Gwen Stefani",
+            "Employment",
+            "n/a"
+        ],
+        [
+            "2007",
+            "Justin Timberlake",
+            "Lily Allen",
+            "Whatever People Say I Am, That`s What I`m Not",
+            "n/a"
+        ],
+        [
+            "2008",
+            "Bruce Springsteen",
+            "Amy Winehouse",
+            "Neon Bible",
+            "Muse"
+        ],
+        [
+            "2009",
+            "James Morrison",
+            "Duffy",
+            "Only by the Night",
+            "Leonard Cohen"
+        ],
+        [
+            "2010",
+            "Michael Bubl\u00e9",
+            "Lady Gaga",
+            "Sunny Side Up",
+            "Leonard Cohen"
+        ]
+    ]
+}

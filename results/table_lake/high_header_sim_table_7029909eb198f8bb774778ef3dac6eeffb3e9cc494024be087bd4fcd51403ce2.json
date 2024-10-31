@@ -1,0 +1,95 @@
+{
+    "id": "7029909eb198f8bb774778ef3dac6eeffb3e9cc494024be087bd4fcd51403ce2",
+    "metadata": "1981 U.S. Open (golf) | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "David Graham",
+            "Australia",
+            "68-68-70-67=273",
+            "-7",
+            "55000"
+        ],
+        [
+            "T2",
+            "George Burns",
+            "United States",
+            "69-66-68-73=276",
+            "-4",
+            "24650"
+        ],
+        [
+            "T2",
+            "Bill Rogers",
+            "United States",
+            "70-68-69-69=276",
+            "-4",
+            "24650"
+        ],
+        [
+            "T4",
+            "John Cook",
+            "United States",
+            "68-70-71-70=279",
+            "-1",
+            "16200"
+        ],
+        [
+            "T4",
+            "John Schroeder",
+            "United States",
+            "71-68-69-71=279",
+            "-1",
+            "16200"
+        ],
+        [
+            "T6",
+            "Frank Conner",
+            "United States",
+            "71-72-69-68=280",
+            "E",
+            "9920"
+        ],
+        [
+            "T6",
+            "Lon Hinkle",
+            "United States",
+            "69-71-70-70=280",
+            "E",
+            "9920"
+        ],
+        [
+            "T6",
+            "Jack Nicklaus",
+            "United States",
+            "69-68-71-72=280",
+            "E",
+            "9920"
+        ],
+        [
+            "T6",
+            "Sammy Rachels",
+            "United States",
+            "70-71-69-70=280",
+            "E",
+            "9920"
+        ],
+        [
+            "T6",
+            "Chi-Chi Rodr\u00edguez",
+            "United States",
+            "68-73-67-72=280",
+            "E",
+            "9920"
+        ]
+    ]
+}

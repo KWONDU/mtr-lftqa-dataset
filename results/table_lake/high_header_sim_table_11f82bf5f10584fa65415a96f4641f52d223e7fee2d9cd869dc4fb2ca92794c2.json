@@ -1,0 +1,70 @@
+{
+    "id": "11f82bf5f10584fa65415a96f4641f52d223e7fee2d9cd869dc4fb2ca92794c2",
+    "metadata": "1979 VFL season | Round 19 | Round 19",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "13.19 (97)",
+            "Richmond",
+            "6.5 (41)",
+            "Western Oval",
+            "12537",
+            "11 August 1979"
+        ],
+        [
+            "Fitzroy",
+            "7.12 (54)",
+            "North Melbourne",
+            "17.19 (121)",
+            "Junction Oval",
+            "16659",
+            "11 August 1979"
+        ],
+        [
+            "Essendon",
+            "14.12 (96)",
+            "Geelong",
+            "8.8 (56)",
+            "Windy Hill",
+            "23336",
+            "11 August 1979"
+        ],
+        [
+            "Collingwood",
+            "14.11 (95)",
+            "South Melbourne",
+            "13.9 (87)",
+            "Victoria Park",
+            "18041",
+            "11 August 1979"
+        ],
+        [
+            "Carlton",
+            "22.17 (149)",
+            "St Kilda",
+            "6.9 (45)",
+            "Princes Park",
+            "17127",
+            "11 August 1979"
+        ],
+        [
+            "Hawthorn",
+            "14.11 (95)",
+            "Melbourne",
+            "8.25 (73)",
+            "VFL Park",
+            "12897",
+            "11 August 1979"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "bbc7193fd2736ffd47f4228559601baa2071fa499ffbc90f40b6f0febb51fb06",
+    "metadata": "1969 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "19.20 (134)",
+            "South Melbourne",
+            "11.8 (74)",
+            "Kardinia Park",
+            "15068",
+            "19 April 1969"
+        ],
+        [
+            "Fitzroy",
+            "14.7 (91)",
+            "St Kilda",
+            "19.18 (132)",
+            "Princes Park",
+            "12240",
+            "19 April 1969"
+        ],
+        [
+            "Essendon",
+            "12.13 (85)",
+            "Hawthorn",
+            "14.14 (98)",
+            "Windy Hill",
+            "15800",
+            "19 April 1969"
+        ],
+        [
+            "Collingwood",
+            "19.16 (130)",
+            "Melbourne",
+            "9.8 (62)",
+            "Victoria Park",
+            "18729",
+            "19 April 1969"
+        ],
+        [
+            "Richmond",
+            "13.28 (106)",
+            "North Melbourne",
+            "16.15 (111)",
+            "MCG",
+            "26884",
+            "19 April 1969"
+        ],
+        [
+            "Footscray",
+            "7.10 (52)",
+            "Carlton",
+            "11.15 (81)",
+            "Western Oval",
+            "20250",
+            "19 April 1969"
+        ]
+    ]
+}

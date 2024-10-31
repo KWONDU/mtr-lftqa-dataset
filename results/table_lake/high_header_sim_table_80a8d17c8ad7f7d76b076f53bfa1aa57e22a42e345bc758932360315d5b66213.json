@@ -1,0 +1,79 @@
+{
+    "id": "80a8d17c8ad7f7d76b076f53bfa1aa57e22a42e345bc758932360315d5b66213",
+    "metadata": "Jo\u00e3o Barbosa | 24 Hours of Le Mans results | 24 Hours of Le Mans results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "Co_Drivers",
+        "Class_",
+        "Laps",
+        "Pos_",
+        "Class_Pos_"
+    ],
+    "cell": [
+        [
+            "2004",
+            "Rollcentre Racing",
+            "Martin Short Rob Barff",
+            "LMP1",
+            "230",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2005",
+            "Rollcentre Racing",
+            "Martin Short Vanina Ickx",
+            "LMP1",
+            "318",
+            "16th",
+            "8th"
+        ],
+        [
+            "2006",
+            "Rollcentre Racing",
+            "Martin Short Stuart Moseley",
+            "LMP2",
+            "294",
+            "20th",
+            "5th"
+        ],
+        [
+            "2007",
+            "Rollcentre Racing",
+            "Stuart Hall Martin Short",
+            "LMP1",
+            "347",
+            "4th",
+            "4th"
+        ],
+        [
+            "2008",
+            "Rollcentre Racing",
+            "St\u00e9phan Gr\u00e9goire Vanina Ickx",
+            "LMP1",
+            "352",
+            "11th",
+            "10th"
+        ],
+        [
+            "2009",
+            "Pescarolo Sport",
+            "Christophe Tinseau Bruce Jouanny",
+            "LMP1",
+            "368",
+            "8th",
+            "8th"
+        ],
+        [
+            "2011",
+            "Level 5 Motorsports",
+            "Scott Tucker Christophe Bouchut",
+            "LMP2",
+            "319",
+            "10th",
+            "3rd"
+        ]
+    ]
+}

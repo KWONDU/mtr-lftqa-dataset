@@ -1,0 +1,84 @@
+{
+    "id": "12944dd0cd8e76d33a549927d1a61d4d25465fb8077eeb6923d085c7f2ff28be",
+    "metadata": "Lara Gut | Race podiums | Race podiums",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Date_",
+        "Location_",
+        "Race",
+        "Place"
+    ],
+    "cell": [
+        [
+            "2008",
+            "2 Feb 2008",
+            "St. Moritz , Switzerland",
+            "Downhill",
+            "3rd"
+        ],
+        [
+            "2009",
+            "20 Dec 2008",
+            "St. Moritz, Switzerland",
+            "Super-G",
+            "1st"
+        ],
+        [
+            "2009",
+            "28 Dec 2008",
+            "Semmering , Austria",
+            "Giant Slalom",
+            "3rd"
+        ],
+        [
+            "2011",
+            "18 Dec 2010",
+            "Val d`Is\u00e8re , France",
+            "Downhill",
+            "3rd"
+        ],
+        [
+            "2011",
+            "9 Jan 2011",
+            "Altenmarkt-Zauchensee , Austria",
+            "Super-G",
+            "1st"
+        ],
+        [
+            "2011",
+            "23 Jan 2011",
+            "Cortina d`Ampezzo , Italy",
+            "Super-G",
+            "3rd"
+        ],
+        [
+            "2011",
+            "16 Mar 2011",
+            "Lenzerheide , Switzerland",
+            "Downhill",
+            "2nd"
+        ],
+        [
+            "2013",
+            "14 Dec 2012",
+            "Val-d`Is\u00e8re, France",
+            "Downhill",
+            "1st"
+        ],
+        [
+            "2013",
+            "17 Mar 2013",
+            "Lenzerheide, Switzerland",
+            "Giant Slalom",
+            "3rd"
+        ],
+        [
+            "2014",
+            "26 Oct 2013",
+            "S\u00f6lden , Austria",
+            "Giant Slalom",
+            "1st"
+        ]
+    ]
+}

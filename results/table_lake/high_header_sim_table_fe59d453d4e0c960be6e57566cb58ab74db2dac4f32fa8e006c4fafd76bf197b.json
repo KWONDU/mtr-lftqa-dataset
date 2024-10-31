@@ -1,0 +1,61 @@
+{
+    "id": "fe59d453d4e0c960be6e57566cb58ab74db2dac4f32fa8e006c4fafd76bf197b",
+    "metadata": "Maltese general election, 2013 | Opinion polls | Opinion polls",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Dates_Released",
+        "Polling_institute",
+        "Nationalist",
+        "Labour",
+        "Democratic_Alternative",
+        "Undecided_No_answer",
+        "Lead_"
+    ],
+    "cell": [
+        [
+            "7 January 2012",
+            "The Sunday Times",
+            "25.2% (46.9%)\u00a4",
+            "29.5% (52.1%)\u00a4",
+            "1.0% (1.0%)\u00a4",
+            "44.3%",
+            "4%"
+        ],
+        [
+            "8 July 2012",
+            "Misco International",
+            "22%",
+            "32%",
+            "1%",
+            "45%",
+            "10%"
+        ],
+        [
+            "14 October 2012",
+            "Misco International",
+            "22%",
+            "34%",
+            "1%",
+            "43%",
+            "12%"
+        ],
+        [
+            "13 January 2013",
+            "The Sunday Times",
+            "27% (44%)\u00a4",
+            "33% (54%)\u00a4",
+            "1% (1%)\u00a4",
+            "38%",
+            "6%"
+        ],
+        [
+            "3 March 2013",
+            "Malta Today",
+            "28.2%",
+            "40.2%",
+            "2.4%",
+            "29.2%",
+            "12%"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "eb4e3eff71cb2b43e037bc77dafa4e3c1c9cedfe7651e349d2ccaf25a06ccb35",
+    "metadata": "Tridentine Calendar | Some differences in relation to later editions of the Roman calendar | Some differences in relation to later editions of the Roman calendar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Doubles_I_Class",
+        "Doubles_II_Class",
+        "Greater_Doubles",
+        "Doubles",
+        "Semidoubles",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1568",
+            "19",
+            "17",
+            "0",
+            "53",
+            "60",
+            "149"
+        ],
+        [
+            "1602",
+            "19",
+            "18",
+            "16",
+            "43",
+            "68",
+            "164"
+        ],
+        [
+            "1631",
+            "19",
+            "18",
+            "16",
+            "45",
+            "78",
+            "176"
+        ],
+        [
+            "1882",
+            "21",
+            "18",
+            "24",
+            "128",
+            "74",
+            "275"
+        ],
+        [
+            "1907",
+            "23",
+            "27",
+            "25",
+            "133",
+            "72",
+            "280"
+        ]
+    ]
+}

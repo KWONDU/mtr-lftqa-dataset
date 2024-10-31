@@ -1,0 +1,196 @@
+{
+    "id": "a641524b9e516c33c0a2bfc92ea9cf905b8a11ad94dc448b44b08a3fd992528f",
+    "metadata": "Names of the days of the week | Germanic tradition | Germanic tradition",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Sunday_Sunna_S\u00f3l",
+        "Monday_Mona_M\u00e1ni",
+        "Tuesday_Tiw_Tyr",
+        "Wednesday_Woden_Odin",
+        "Thursday_Thunor_Thor",
+        "Friday_Frige_or_Freya",
+        "Saturday_Saturn"
+    ],
+    "cell": [
+        [
+            "*Sunn\u014dniz dagaz",
+            "*M\u0113niniz dagaz",
+            "*T\u012bwas dagaz / *\u00deingsus dagaz",
+            "*W\u014ddanas dagaz",
+            "*\u00deunras dagaz",
+            "*Frijj\u014dz dagaz",
+            "*Saturnus dagaz / *Laug\u014d dagaz"
+        ],
+        [
+            "Sunnand\u00e6g",
+            "M\u014dnand\u00e6g",
+            "T\u012bwesd\u00e6g",
+            "W\u014ddnesd\u00e6g",
+            "\u00deunresd\u00e6g",
+            "Fr\u012bged\u00e6g",
+            "S\u00e6ternesd\u00e6g"
+        ],
+        [
+            "Sunnundag",
+            "*M\u0101nundag",
+            "*Tiuwesdag or *Thingesdag",
+            "W\u014ddanesdag",
+            "*Thunaresdag",
+            "Fr\u012badag",
+            "*Sunnun\u0101\u0180and or *Satarnesdag"
+        ],
+        [
+            "Sunn\u00fbntag",
+            "M\u00e2netag",
+            "Z\u00eeestag",
+            "W\u00f4danstag (Wuotanstag)",
+            "Donarestag",
+            "Fr\u00eejatag",
+            "Sunn\u00fbn\u00e2band or Sambaztag [\u26441 ]"
+        ],
+        [
+            "Sunnedag",
+            "Manedag",
+            "Dingesdag",
+            "Wodenesdag",
+            "Donersdag",
+            "Vr\u012bdag",
+            "Sunnenavend and Satersdag"
+        ],
+        [
+            "Sonntag",
+            "Montag",
+            "Dienstag [\u26421 ] or Ziestag (Swiss German)",
+            "Mittwoch [\u263f1 ] (older Wutenstag)",
+            "Donnerstag",
+            "Freitag",
+            "Sonnabend [\u26443 ] or Samstag [\u26441 ]"
+        ],
+        [
+            "zondag",
+            "maandag",
+            "dinsdag [\u26421 ]",
+            "woensdag",
+            "donderdag",
+            "vrijdag",
+            "zaterdag"
+        ],
+        [
+            "Saubath/Sunday",
+            "Monanday",
+            "Tysday",
+            "Wadensday",
+            "Fuirsday",
+            "Friday",
+            "Seturday [\u26441 ]"
+        ],
+        [
+            "Sondag",
+            "Maandag",
+            "Dinsdag [\u26421 ]",
+            "Woensdag",
+            "Donderdag",
+            "Vrydag",
+            "Saterdag"
+        ],
+        [
+            "Snein",
+            "Moandei",
+            "Tiisdei",
+            "Woansdei",
+            "Tongersdei",
+            "Freed",
+            "Sneon [\u26443 ] or Saterdei"
+        ],
+        [
+            "S\u00fcnndag",
+            "Maandag",
+            "Dingsdag",
+            "Woonsdag and Middeweek",
+            "D\u00fcnnersdag",
+            "Freedag",
+            "S\u00fcnnavend and Saterdag"
+        ],
+        [
+            "sunnudagr",
+            "m\u00e1nadagr",
+            "tysdagr",
+            "\u00f3\u00f0insdagr",
+            "\u00fe\u00f3rsdagr",
+            "frj\u00e1dagr",
+            "laugardagr [\u26442 ] or sunnun\u00f3tt"
+        ],
+        [
+            "sunnudagur",
+            "m\u00e1nadagur",
+            "t\u00fdsdagur",
+            "mikudagur [\u263f1 ]",
+            "h\u00f3sdagur or t\u00f3rsdagur",
+            "fr\u00edggjadagur",
+            "leygardagur"
+        ],
+        [
+            "sunnudagur",
+            "m\u00e1nudagur",
+            "\u00feri\u00f0judagur",
+            "mi\u00f0vikudagur [\u263f1 ]",
+            "fimmtudagur",
+            "f\u00f6studagur",
+            "laugardagur"
+        ],
+        [
+            "s\u00f8ndag",
+            "mandag",
+            "tirsdag",
+            "onsdag",
+            "torsdag",
+            "fredag",
+            "l\u00f8rdag [\u26442 ]"
+        ],
+        [
+            "sundag",
+            "m\u00e5ndag",
+            "tysdag",
+            "onsdag",
+            "torsdag",
+            "fredag",
+            "laurdag [\u26442 ]"
+        ],
+        [
+            "s\u00f6ndag",
+            "m\u00e5ndag",
+            "tisdag",
+            "onsdag",
+            "torsdag",
+            "fredag",
+            "l\u00f6rdag [\u26442 ]"
+        ],
+        [
+            "sunnuntai",
+            "maanantai",
+            "tiistai",
+            "keskiviikko [\u263f1 ]",
+            "torstai",
+            "perjantai",
+            "lauantai [\u26442 ]"
+        ],
+        [
+            "p\u00fchap\u00e4ev [\u26092 ]",
+            "esmasp\u00e4ev",
+            "teisip\u00e4ev",
+            "kolmap\u00e4ev",
+            "neljap\u00e4ev",
+            "reede",
+            "laup\u00e4ev [\u26442 ]"
+        ],
+        [
+            "wiki /R\u0101tapu",
+            "mane /R\u0101hina",
+            "t\u016brei /R\u0101t\u016b",
+            "wenerei /R\u0101apa",
+            "t\u0101ite /R\u0101pare",
+            "prairie /R\u0101mere",
+            "h\u0101terei /R\u0101horoi"
+        ]
+    ]
+}

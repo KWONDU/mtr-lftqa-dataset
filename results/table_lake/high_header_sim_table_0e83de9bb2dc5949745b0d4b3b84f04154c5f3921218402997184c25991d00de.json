@@ -1,0 +1,70 @@
+{
+    "id": "0e83de9bb2dc5949745b0d4b3b84f04154c5f3921218402997184c25991d00de",
+    "metadata": "1940 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "8.5 (53)",
+            "South Melbourne",
+            "16.23 (119)",
+            "Arden Street Oval",
+            "5000",
+            "24 August 1940"
+        ],
+        [
+            "St Kilda",
+            "10.17 (77)",
+            "Richmond",
+            "20.15 (135)",
+            "Junction Oval",
+            "14000",
+            "24 August 1940"
+        ],
+        [
+            "Melbourne",
+            "26.20 (176)",
+            "Hawthorn",
+            "8.14 (62)",
+            "MCG",
+            "8722",
+            "24 August 1940"
+        ],
+        [
+            "Geelong",
+            "12.17 (89)",
+            "Footscray",
+            "11.18 (84)",
+            "Corio Oval",
+            "10000",
+            "24 August 1940"
+        ],
+        [
+            "Essendon",
+            "12.20 (92)",
+            "Collingwood",
+            "6.16 (52)",
+            "Windy Hill",
+            "13000",
+            "24 August 1940"
+        ],
+        [
+            "Fitzroy",
+            "10.11 (71)",
+            "Carlton",
+            "21.14 (140)",
+            "Brunswick Street Oval",
+            "20000",
+            "24 August 1940"
+        ]
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "id": "ea7cd79b218da9136c0557d0586dad7256c3c520f06f50981820b66e0667edf4",
+    "metadata": "List of schools in the Southland Region | Gore District | Gore District",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Years",
+        "Gender",
+        "Area",
+        "Authority",
+        "Decile",
+        "Roll"
+    ],
+    "cell": [
+        [
+            "East Gore School",
+            "1-6",
+            "Coed",
+            "Gore",
+            "State",
+            "3",
+            "102"
+        ],
+        [
+            "Gore High School",
+            "9-15",
+            "Coed",
+            "Gore",
+            "State",
+            "6",
+            "653"
+        ],
+        [
+            "Gore Main School",
+            "1-6",
+            "Coed",
+            "Gore",
+            "State",
+            "6",
+            "209"
+        ],
+        [
+            "Knapdale School",
+            "1-8",
+            "Coed",
+            "Knapdale",
+            "State",
+            "7",
+            "37"
+        ],
+        [
+            "Longford Intermediate",
+            "7-8",
+            "Coed",
+            "Gore",
+            "State",
+            "5",
+            "250"
+        ],
+        [
+            "Mataura School",
+            "1-6",
+            "Coed",
+            "Mataura",
+            "State",
+            "1",
+            "96"
+        ],
+        [
+            "Otama School",
+            "1-8",
+            "Coed",
+            "Otama",
+            "State",
+            "9",
+            "29"
+        ],
+        [
+            "Pukerau School",
+            "1-6",
+            "Coed",
+            "Pukerau",
+            "State",
+            "8",
+            "45"
+        ],
+        [
+            "St Mary`s School",
+            "1-6",
+            "Coed",
+            "Gore",
+            "State integrated",
+            "7",
+            "182"
+        ],
+        [
+            "St Peter`s College",
+            "7-15",
+            "Coed",
+            "Gore",
+            "State integrated",
+            "8",
+            "414"
+        ],
+        [
+            "Waikaka School",
+            "1-8",
+            "Coed",
+            "Waikaka",
+            "State",
+            "8",
+            "39"
+        ],
+        [
+            "West Gore School",
+            "1-6",
+            "Coed",
+            "Gore",
+            "State",
+            "6",
+            "241"
+        ],
+        [
+            "Willowbank School",
+            "1-6",
+            "Coed",
+            "Maitland",
+            "State",
+            "8",
+            "9"
+        ]
+    ]
+}

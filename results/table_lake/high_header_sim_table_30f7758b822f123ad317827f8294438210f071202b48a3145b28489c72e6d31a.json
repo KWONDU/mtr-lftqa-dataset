@@ -1,0 +1,67 @@
+{
+    "id": "30f7758b822f123ad317827f8294438210f071202b48a3145b28489c72e6d31a",
+    "metadata": "Little East Conference | Associate members | Associate members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Nickname",
+        "Founded",
+        "Type_",
+        "Enrollment",
+        "Primary_Conference",
+        "LEC_Sport"
+    ],
+    "cell": [
+        [
+            "Bridgewater State University",
+            "Bridgewater, Massachusetts",
+            "Bears",
+            "1840",
+            "Public",
+            "11201",
+            "MASCAC",
+            "field hockey tennis"
+        ],
+        [
+            "Fitchburg State University",
+            "Fitchburg, Massachusetts",
+            "Falcons",
+            "1894",
+            "Public",
+            "5201",
+            "MASCAC",
+            "field hockey"
+        ],
+        [
+            "Framingham State University",
+            "Framingham, Massachusetts",
+            "Rams",
+            "1839",
+            "Public",
+            "5903",
+            "MASCAC",
+            "field hockey"
+        ],
+        [
+            "Salem State University",
+            "Salem, Massachusetts",
+            "Vikings",
+            "1854",
+            "Public",
+            "10125",
+            "MASCAC",
+            "field hockey men`s lacrosse tennis"
+        ],
+        [
+            "Westfield State University",
+            "Westfield, Massachusetts",
+            "Owls",
+            "1838",
+            "Public",
+            "5500",
+            "MASCAC",
+            "field hockey"
+        ]
+    ]
+}

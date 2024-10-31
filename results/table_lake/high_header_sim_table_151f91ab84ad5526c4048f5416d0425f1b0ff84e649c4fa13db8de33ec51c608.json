@@ -1,0 +1,70 @@
+{
+    "id": "151f91ab84ad5526c4048f5416d0425f1b0ff84e649c4fa13db8de33ec51c608",
+    "metadata": "Christian Pescatori | 24 Hours of Le Mans results | 24 Hours of Le Mans results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "Co_Drivers",
+        "Class_",
+        "Laps",
+        "Pos_",
+        "Class_Pos_"
+    ],
+    "cell": [
+        [
+            "1997",
+            "BMS Scuderia Italia",
+            "Pierluigi Martini Ant\u00f4nio Hermann de Azevedo",
+            "GT1",
+            "317",
+            "8th",
+            "4th"
+        ],
+        [
+            "1999",
+            "JB Racing",
+            "J\u00e9r\u00f4me Policand Mauro Baldi",
+            "LMP",
+            "71",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2001",
+            "Audi Sport North America",
+            "Laurent A\u00efello Rinaldo Capello",
+            "LMP900",
+            "320",
+            "2nd",
+            "2nd"
+        ],
+        [
+            "2002",
+            "Audi Sport North America",
+            "Johnny Herbert Rinaldo Capello",
+            "LMP900",
+            "374",
+            "2nd",
+            "2nd"
+        ],
+        [
+            "2005",
+            "BMS Scuderia Italia",
+            "Fabrizio Gollin Miguel Ramos",
+            "GT1",
+            "67",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2006",
+            "BMS Scuderia Italia",
+            "Fabrizio Gollin Fabio Babini",
+            "GT1",
+            "3",
+            "DNF",
+            "DNF"
+        ]
+    ]
+}

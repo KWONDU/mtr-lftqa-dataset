@@ -1,0 +1,63 @@
+{
+    "id": "319cc61b71a1f62deed0e7f41b3b1f57e584f94be6d6dd9f54e11cc2a3dc054e",
+    "metadata": "2005-06 Manchester United F.C. season | Group stage | Group stage",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponents",
+        "H_A",
+        "Result_F_A",
+        "Attendance",
+        "Group_position"
+    ],
+    "cell": [
+        [
+            "14 September 2005",
+            "Villarreal",
+            "A",
+            "0-0",
+            "22000",
+            "2nd"
+        ],
+        [
+            "27 September 2005",
+            "Benfica",
+            "H",
+            "2-1",
+            "66112",
+            "1st"
+        ],
+        [
+            "18 October 2005",
+            "Lille",
+            "H",
+            "0-0",
+            "60626",
+            "1st"
+        ],
+        [
+            "2 November 2005",
+            "Lille",
+            "A",
+            "0-1",
+            "65000",
+            "3rd"
+        ],
+        [
+            "22 November 2005",
+            "Villarreal",
+            "H",
+            "0-0",
+            "67471",
+            "3rd"
+        ],
+        [
+            "7 December 2005",
+            "Benfica",
+            "A",
+            "1-2",
+            "61000",
+            "4th"
+        ]
+    ]
+}

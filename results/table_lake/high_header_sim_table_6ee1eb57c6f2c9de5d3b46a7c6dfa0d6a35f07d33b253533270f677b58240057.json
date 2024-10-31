@@ -1,0 +1,103 @@
+{
+    "id": "6ee1eb57c6f2c9de5d3b46a7c6dfa0d6a35f07d33b253533270f677b58240057",
+    "metadata": "2006 PGA Championship | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tiger Woods",
+            "United States",
+            "69-68-65-68=270",
+            "-18",
+            "1224000"
+        ],
+        [
+            "2",
+            "Shaun Micheel",
+            "United States",
+            "69-70-67-69=275",
+            "-13",
+            "734400"
+        ],
+        [
+            "T3",
+            "Luke Donald",
+            "England",
+            "68-68-66-74=276",
+            "-12",
+            "353600"
+        ],
+        [
+            "T3",
+            "Sergio Garc\u00eda",
+            "Spain",
+            "69-70-67-70=276",
+            "-12",
+            "353600"
+        ],
+        [
+            "T3",
+            "Adam Scott",
+            "Australia",
+            "71-69-69-67=276",
+            "-12",
+            "353600"
+        ],
+        [
+            "6",
+            "Mike Weir",
+            "Canada",
+            "72-67-65-73=277",
+            "-11",
+            "244800"
+        ],
+        [
+            "T7",
+            "K.J. Choi",
+            "South Korea",
+            "73-67-67-71=278",
+            "-10",
+            "207788"
+        ],
+        [
+            "T7",
+            "Steve Stricker",
+            "United States",
+            "72-67-70-69=278",
+            "-10",
+            "207788"
+        ],
+        [
+            "T9",
+            "Ryan Moore",
+            "United States",
+            "71-72-67-69=279",
+            "-9",
+            "165000"
+        ],
+        [
+            "T9",
+            "Geoff Ogilvy",
+            "Australia",
+            "69-68-68-74=279",
+            "-9",
+            "165000"
+        ],
+        [
+            "T9",
+            "Ian Poulter",
+            "England",
+            "70-70-68-71=279",
+            "-9",
+            "165000"
+        ]
+    ]
+}

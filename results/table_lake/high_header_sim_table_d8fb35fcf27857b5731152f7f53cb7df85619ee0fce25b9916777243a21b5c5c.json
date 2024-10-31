@@ -1,0 +1,70 @@
+{
+    "id": "d8fb35fcf27857b5731152f7f53cb7df85619ee0fce25b9916777243a21b5c5c",
+    "metadata": "Kabhi Kabhii Pyaar Kabhi Kabhii Yaar | Week 6: August 13 and 14, 2008 | Week 6: August 13 and 14, 2008",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Main_contestant",
+        "Co_contestant_Yaar_vs_Pyaar",
+        "Date_performed",
+        "Scores_by_each_individual_judge",
+        "Total_score_week",
+        "Position_",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Kashmira Shah",
+            "Mukul Dev",
+            "August 13",
+            "6 + 5 + 7 = 18",
+            "48/60",
+            "Bottom 2",
+            "Current"
+        ],
+        [
+            "Kashmira Shah",
+            "Krushna Abhishek",
+            "August 14",
+            "10 + 10 + 10 = 30",
+            "48/60",
+            "Bottom 2",
+            "Current"
+        ],
+        [
+            "Karanvir Bohra",
+            "Tina Parekh",
+            "August 13",
+            "7 + 9 + 8 = 24",
+            "54/60",
+            "Safe",
+            "Current"
+        ],
+        [
+            "Karanvir Bohra",
+            "Teejay Sidhu",
+            "August 14",
+            "10 + 10 + 10 = 30",
+            "54/60",
+            "Safe",
+            "Current"
+        ],
+        [
+            "Mridul Singhvi",
+            "Wasna Ahmed",
+            "August 13",
+            "6 + 7 + 8 = 21",
+            "51/60",
+            "Bottom 2",
+            "Eliminated"
+        ],
+        [
+            "Mridul Singhvi",
+            "Tina Sachdev",
+            "August 14",
+            "10 + 10 + 10 = 30",
+            "51/60",
+            "Bottom 2",
+            "Eliminated"
+        ]
+    ]
+}

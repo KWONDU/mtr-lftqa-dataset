@@ -1,0 +1,112 @@
+{
+    "id": "495cf55aed33c204f46a56dfa66384a7399d574a39f3111476f4ba9ddef341f2",
+    "metadata": "Basque verbs | Compound tense stem forms | Compound tense stems (examples)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Perfect_stem",
+        "Future_stem",
+        "Imperfect_stem",
+        "Short_stem",
+        "Meaning"
+    ],
+    "cell": [
+        [
+            "hartu",
+            "hartuko",
+            "hartzen",
+            "har",
+            "`take`"
+        ],
+        [
+            "garbitu",
+            "garbituko",
+            "garbitzen",
+            "garbi",
+            "`clean`"
+        ],
+        [
+            "kendu",
+            "kenduko",
+            "kentzen",
+            "ken",
+            "`take away, remove`"
+        ],
+        [
+            "poztu",
+            "poztuko",
+            "pozten",
+            "poz",
+            "`be/become happy`"
+        ],
+        [
+            "ibili",
+            "ibiliko",
+            "ibiltzen",
+            "ibil",
+            "`go about`"
+        ],
+        [
+            "ikusi",
+            "ikusiko",
+            "ikusten",
+            "ikus",
+            "`see`"
+        ],
+        [
+            "iritsi",
+            "iritsiko",
+            "iristen",
+            "irits",
+            "`arrive`"
+        ],
+        [
+            "ireki",
+            "irekiko",
+            "irekitzen",
+            "ireki",
+            "`open`"
+        ],
+        [
+            "bete",
+            "beteko",
+            "betetzen",
+            "bete",
+            "`fill`"
+        ],
+        [
+            "jo",
+            "joko",
+            "jotzen",
+            "jo",
+            "`strike`"
+        ],
+        [
+            "hil",
+            "hilko",
+            "hiltzen",
+            "hil",
+            "`die, kill`"
+        ],
+        [
+            "egin",
+            "egingo",
+            "egiten",
+            "egin",
+            "`make, do`"
+        ],
+        [
+            "eman",
+            "emango",
+            "ematen",
+            "eman",
+            "`give`"
+        ],
+        [
+            "esan",
+            "esango",
+            "esaten",
+            "esan",
+            "`say`"
+        ]
+    ]
+}

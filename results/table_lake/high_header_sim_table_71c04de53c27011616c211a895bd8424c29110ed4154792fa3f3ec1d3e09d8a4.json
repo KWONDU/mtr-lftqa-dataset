@@ -1,0 +1,55 @@
+{
+    "id": "71c04de53c27011616c211a895bd8424c29110ed4154792fa3f3ec1d3e09d8a4",
+    "metadata": "List of Get Smart episodes | Series overview | Series overview",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Network",
+        "Episodes",
+        "Premiered",
+        "Ended",
+        "DVD_set_release_date"
+    ],
+    "cell": [
+        [
+            "1",
+            "NBC",
+            "30",
+            "18-Sep-1965",
+            "07-May-1966",
+            "05-Aug-2008"
+        ],
+        [
+            "2",
+            "NBC",
+            "30",
+            "17-Sep-1966",
+            "22-Apr-1967",
+            "10-Mar-2009"
+        ],
+        [
+            "3",
+            "NBC",
+            "26",
+            "16-Sep-1967",
+            "06-Apr-1968",
+            "09-Jun-2009"
+        ],
+        [
+            "4",
+            "NBC",
+            "26",
+            "21-Sep-1968",
+            "29-Mar-1969",
+            "06-Oct-2009"
+        ],
+        [
+            "5",
+            "CBS",
+            "26",
+            "26-Sep-1969",
+            "15-May-1970",
+            "08-Dec-2009"
+        ]
+    ]
+}

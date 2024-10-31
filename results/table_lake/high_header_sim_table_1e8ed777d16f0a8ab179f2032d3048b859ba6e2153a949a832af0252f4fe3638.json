@@ -1,0 +1,91 @@
+{
+    "id": "1e8ed777d16f0a8ab179f2032d3048b859ba6e2153a949a832af0252f4fe3638",
+    "metadata": "Network motif | Classification of Algorithms | Classification of Motif Discovery Algorithms",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Counting_Method",
+        "Basis",
+        "Name_",
+        "Directed_Undirected",
+        "Induced_Non_Induced"
+    ],
+    "cell": [
+        [
+            "Exact",
+            "Network-Centric",
+            "mfinder",
+            "Both",
+            "Induced"
+        ],
+        [
+            "Exact",
+            "Network-Centric",
+            "ESU (FANMOD)",
+            "Both",
+            "Induced"
+        ],
+        [
+            "Exact",
+            "Network-Centric",
+            "Kavosh (used in CytoKavosh)",
+            "Both",
+            "Induced"
+        ],
+        [
+            "Exact",
+            "Network-Centric",
+            "G-Tries",
+            "Both",
+            "Induced"
+        ],
+        [
+            "Exact",
+            "Subgraph-Centric",
+            "FPF (Mavisto)",
+            "Both",
+            "Induced"
+        ],
+        [
+            "Exact",
+            "Subgraph-Centric",
+            "NeMoFinder",
+            "Undirected",
+            "Induced"
+        ],
+        [
+            "Exact",
+            "Subgraph-Centric",
+            "Grochow-Kellis",
+            "Both",
+            "Both"
+        ],
+        [
+            "Exact",
+            "Subgraph-Centric",
+            "MODA",
+            "Both",
+            "Both"
+        ],
+        [
+            "Estimation / Sampling",
+            "Color-Coding Approach",
+            "N. Alon et al.\u2019s Algorithm",
+            "Undirected",
+            "Non-Induced"
+        ],
+        [
+            "Estimation / Sampling",
+            "Other Approaches",
+            "mfinder",
+            "Both",
+            "Induced"
+        ],
+        [
+            "Estimation / Sampling",
+            "Other Approaches",
+            "ESU (FANMOD)",
+            "Both",
+            "Induced"
+        ]
+    ]
+}

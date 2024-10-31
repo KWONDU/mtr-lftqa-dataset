@@ -1,0 +1,49 @@
+{
+    "id": "2d29d7ee5dd11786f71c41122616c4f82a3528d1d64ff7d05ce1e97d715e46c9",
+    "metadata": "2007-08 EuroLeague Women | Rebounds | Rebounds",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Team",
+        "Games",
+        "Rebounds"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Nicole Ohlde",
+            "US Valenciennes Olympic",
+            "13",
+            "124"
+        ],
+        [
+            "2.",
+            "Jennifer Fleischer",
+            "Dexia W Namur",
+            "10",
+            "91"
+        ],
+        [
+            "3.",
+            "Ann Wauters",
+            "CSKA Moscow",
+            "13",
+            "118"
+        ],
+        [
+            "4.",
+            "Iciss Tillis",
+            "TTT Riga",
+            "9",
+            "80"
+        ],
+        [
+            "5.",
+            "Yelena Leuchanka",
+            "TEO Vilnius UMMC Ekaterinburg",
+            "14",
+            "124"
+        ]
+    ]
+}

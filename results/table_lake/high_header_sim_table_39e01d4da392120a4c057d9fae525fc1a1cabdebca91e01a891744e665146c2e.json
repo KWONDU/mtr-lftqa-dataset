@@ -1,0 +1,49 @@
+{
+    "id": "39e01d4da392120a4c057d9fae525fc1a1cabdebca91e01a891744e665146c2e",
+    "metadata": "Mart\u00edn Mach\u00f3n | International goals | International goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Venue",
+        "Score",
+        "Result_",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "16 January 1996",
+            "Edison International Field , Anaheim , USA",
+            "3-0",
+            "3-0",
+            "CONCACAF Gold Cup"
+        ],
+        [
+            "20 April 1997",
+            "Estadio Mateo Flores , Guatemala City , Guatemala",
+            "1-0",
+            "6-1",
+            "Continental qualifier"
+        ],
+        [
+            "7 November 1997",
+            "Estadio Regional , Antofagasta , Chile",
+            "1-3",
+            "1-4",
+            "Friendly match"
+        ],
+        [
+            "17 February 1999",
+            "Estadio Mateo Flores , Guatemala City , Guatemala",
+            "1-1",
+            "1-1",
+            "Friendly match"
+        ],
+        [
+            "28 March 1999",
+            "Estadio Nacional , San Jos\u00e9, Costa Rica",
+            "2-0",
+            "2-0",
+            "Continental qualifier"
+        ]
+    ]
+}

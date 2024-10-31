@@ -1,0 +1,49 @@
+{
+    "id": "bf50ad7e3cf83b7a0eccb5fce8aa18ce1da113c961c1e889fb5c7ddf370f9b61",
+    "metadata": "Miami Marlins | Awards | Awards",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pitcher",
+        "Date_",
+        "Team",
+        "Result_",
+        "Site"
+    ],
+    "cell": [
+        [
+            "Al Leiter",
+            "May 11, 1996",
+            "Rockies",
+            "11-0",
+            "Pro Player Stadium"
+        ],
+        [
+            "Kevin Brown",
+            "June 10, 1997",
+            "Giants",
+            "9-0",
+            "Candlestick Park"
+        ],
+        [
+            "A. J. Burnett",
+            "May 12, 2001",
+            "Padres",
+            "3-0",
+            "Qualcomm Stadium"
+        ],
+        [
+            "An\u00edbal S\u00e1nchez",
+            "September 6, 2006",
+            "Diamondbacks",
+            "2-0",
+            "Dolphin Stadium"
+        ],
+        [
+            "Henderson Alvarez",
+            "September 29, 2013",
+            "Tigers",
+            "1-0",
+            "Marlins Park"
+        ]
+    ]
+}

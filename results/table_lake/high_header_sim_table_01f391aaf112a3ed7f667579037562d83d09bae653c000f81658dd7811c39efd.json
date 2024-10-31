@@ -1,0 +1,55 @@
+{
+    "id": "01f391aaf112a3ed7f667579037562d83d09bae653c000f81658dd7811c39efd",
+    "metadata": "Flin Flon Bombers | Scoring champions | Scoring champions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "League",
+        "Winner",
+        "Goals",
+        "Assists",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1967-68",
+            "WCJHL",
+            "Bobby Clarke",
+            "51",
+            "117",
+            "168"
+        ],
+        [
+            "1968-69",
+            "WCJHL",
+            "Bobby Clarke",
+            "51",
+            "86",
+            "137"
+        ],
+        [
+            "1969-70",
+            "WCHL",
+            "Reggie Leach",
+            "65",
+            "46",
+            "111"
+        ],
+        [
+            "1970-71",
+            "WCHL",
+            "Chuck Arnason",
+            "79",
+            "84",
+            "163"
+        ],
+        [
+            "2007-08",
+            "SJHL",
+            "Reid MacLeod",
+            "47",
+            "42",
+            "89"
+        ]
+    ]
+}

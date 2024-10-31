@@ -1,0 +1,70 @@
+{
+    "id": "7bcd06f72c84ede1a5382d14be8c1e0416e5d5cde4b695ad4e536c05012b0982",
+    "metadata": "1998 CFL Draft | Round four | Round four",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "21",
+            "Hamilton",
+            "Tarek Jayoussi",
+            "WR",
+            "Calgary"
+        ],
+        [
+            "22",
+            "Winnipeg",
+            "Garrett Sutherland",
+            "LB",
+            "Northern Illinois"
+        ],
+        [
+            "23",
+            "Winnipeg",
+            "Jean Daniel Roy",
+            "DL",
+            "Ottawa"
+        ],
+        [
+            "24",
+            "Calgary",
+            "Aubrey Cummings",
+            "WR",
+            "Acadia"
+        ],
+        [
+            "25",
+            "Edmonton",
+            "Chris Evraire",
+            "SB",
+            "Ottawa"
+        ],
+        [
+            "26",
+            "Winnipeg",
+            "Eddie Williams",
+            "WR",
+            "Southwest State"
+        ],
+        [
+            "27",
+            "Saskatchewan",
+            "Jason Van Geel",
+            "LB",
+            "Waterloo"
+        ],
+        [
+            "28",
+            "Toronto",
+            "Brian Mlachak",
+            "K",
+            "Calgary"
+        ]
+    ]
+}

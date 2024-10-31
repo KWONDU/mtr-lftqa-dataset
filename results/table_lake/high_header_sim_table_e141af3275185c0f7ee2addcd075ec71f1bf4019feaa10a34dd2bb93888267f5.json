@@ -1,0 +1,56 @@
+{
+    "id": "e141af3275185c0f7ee2addcd075ec71f1bf4019feaa10a34dd2bb93888267f5",
+    "metadata": "Baltic Basketball League | BBL Cup Winners | BBL Cup Winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Winner",
+        "Finalist",
+        "Score",
+        "Host_City"
+    ],
+    "cell": [
+        [
+            "2008",
+            "Lietuvos rytas",
+            "Barons/LMT",
+            "80-78",
+            "R\u012bga"
+        ],
+        [
+            "2009",
+            "\u017dalgiris Kaunas",
+            "Lietuvos rytas",
+            "83-78",
+            "Kaunas"
+        ],
+        [
+            "2010",
+            "Tartu \u00dclikool/Rock",
+            "Lietuvos rytas",
+            "61-57",
+            "Tartu"
+        ],
+        [
+            "2011",
+            "VEF R\u012bga",
+            "Tartu \u00dclikool",
+            "95-69",
+            "Tartu"
+        ],
+        [
+            "2012",
+            "Rakvere Tarvas",
+            "Liep\u0101ja/Triobet",
+            "80-71",
+            "Rakvere"
+        ],
+        [
+            "2013",
+            "Nev\u0117\u017eis",
+            "Tartu \u00dclikool/Rock",
+            "82-64",
+            "K\u0117dainiai"
+        ]
+    ]
+}

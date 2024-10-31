@@ -1,0 +1,70 @@
+{
+    "id": "5e5065d44e82b8961c1f3d23802541e658ef16eb1342836eb6ffac2f72cc06b7",
+    "metadata": "1927 VFL season | Round 11 | Round 11",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "10.12 (72)",
+            "South Melbourne",
+            "9.12 (66)",
+            "Corio Oval",
+            "13500",
+            "9 July 1927"
+        ],
+        [
+            "Fitzroy",
+            "8.7 (55)",
+            "Richmond",
+            "17.9 (111)",
+            "Brunswick Street Oval",
+            "18000",
+            "9 July 1927"
+        ],
+        [
+            "North Melbourne",
+            "9.18 (72)",
+            "Footscray",
+            "15.10 (100)",
+            "Arden Street Oval",
+            "12000",
+            "9 July 1927"
+        ],
+        [
+            "Hawthorn",
+            "9.17 (71)",
+            "Essendon",
+            "11.12 (78)",
+            "Glenferrie Oval",
+            "6000",
+            "9 July 1927"
+        ],
+        [
+            "Melbourne",
+            "10.12 (72)",
+            "Collingwood",
+            "11.13 (79)",
+            "MCG",
+            "27092",
+            "9 July 1927"
+        ],
+        [
+            "St Kilda",
+            "6.8 (44)",
+            "Carlton",
+            "21.9 (135)",
+            "Junction Oval",
+            "19000",
+            "9 July 1927"
+        ]
+    ]
+}

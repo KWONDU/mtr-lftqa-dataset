@@ -1,0 +1,71 @@
+{
+    "id": "6d26c4fe2cb505414987c4ce26f70a70a484d9c80e91dc64701e402ab7ec9111",
+    "metadata": "List of tallest buildings in Philadelphia | Timeline of tallest buildings | Timeline of tallest buildings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Street_address",
+        "Years_as_tallest",
+        "Height_ft_m",
+        "Floors",
+        "Architect"
+    ],
+    "cell": [
+        [
+            "Independence Hall",
+            "520 Chestnut Street",
+            "1748-1754",
+            "134 (41)",
+            "\u2014",
+            "Edmund Woolley and Andrew Hamilton"
+        ],
+        [
+            "Christ Church",
+            "20 North American Street",
+            "1754-1856",
+            "196 (60)",
+            "\u2014",
+            "Robert Smith"
+        ],
+        [
+            "Tenth Presbyterian Church",
+            "17th & Spruce Streets",
+            "1856-1900",
+            "250 (76)",
+            "\u2014",
+            "John McArthur, Jr."
+        ],
+        [
+            "North American Building",
+            "121 South Broad Street",
+            "1900-1901",
+            "267 (81)",
+            "21",
+            "James H. Windrim"
+        ],
+        [
+            "Philadelphia City Hall",
+            "Broad & Market Streets",
+            "1901-1987",
+            "548 (167)",
+            "9",
+            "John McArthur, Jr."
+        ],
+        [
+            "One Liberty Place",
+            "1650 Market Street",
+            "1987-2008",
+            "945 (288)",
+            "61",
+            "Helmut Jahn"
+        ],
+        [
+            "Comcast Center",
+            "1701 John F. Kennedy Boulevard",
+            "2008-present",
+            "975 (297)",
+            "57",
+            "Robert A. M. Stern Architects"
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "ab05f58a3abfeb7fb6a6c051e98a93d4f41b5298c5b36d9f42fdae8f16ca1f50",
+    "metadata": "Legislative Black Caucus of Maryland | Senators | Senators",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Countys_Represented",
+        "Member_Senator",
+        "Party",
+        "First_Elected",
+        "Committee"
+    ],
+    "cell": [
+        [
+            "10",
+            "Baltimore County",
+            "Delores G. Kelley",
+            "Democratic",
+            "1994",
+            "Finance"
+        ],
+        [
+            "24",
+            "Prince George`s",
+            "Joanne C. Benson",
+            "Democratic",
+            "1998",
+            "Finance"
+        ],
+        [
+            "25",
+            "Prince George`s",
+            "Ulysses Currie",
+            "Democratic",
+            "1994",
+            "Budget and Taxation (Chair)"
+        ],
+        [
+            "26",
+            "Prince George`s",
+            "C. Anthony Muse",
+            "Democratic",
+            "2006",
+            "Judicial Proceedings"
+        ],
+        [
+            "40",
+            "Baltimore City",
+            "Catherine E. Pugh",
+            "Democratic",
+            "2006",
+            "Finance"
+        ],
+        [
+            "41",
+            "Baltimore City",
+            "Lisa A. Gladden",
+            "Democratic",
+            "2002",
+            "Judicial Proceedings"
+        ],
+        [
+            "44",
+            "Baltimore City",
+            "Verna L. Jones",
+            "Democratic",
+            "2002",
+            "Budget and Taxation"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "d1937573faf2d16dea76c8e9d305b6151bb509f72bdf2803ce31b0464f8fcd49",
+    "metadata": "1979 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "16.19 (115)",
+            "South Melbourne",
+            "14.15 (99)",
+            "Windy Hill",
+            "18916",
+            "9 June 1979"
+        ],
+        [
+            "Carlton",
+            "18.15 (123)",
+            "Collingwood",
+            "16.11 (107)",
+            "Princes Park",
+            "46106",
+            "9 June 1979"
+        ],
+        [
+            "St Kilda",
+            "9.11 (65)",
+            "Melbourne",
+            "12.13 (85)",
+            "Moorabbin Oval",
+            "17390",
+            "9 June 1979"
+        ],
+        [
+            "Richmond",
+            "14.17 (101)",
+            "Geelong",
+            "18.19 (127)",
+            "MCG",
+            "24824",
+            "9 June 1979"
+        ],
+        [
+            "Fitzroy",
+            "17.17 (119)",
+            "Footscray",
+            "11.8 (74)",
+            "VFL Park",
+            "14357",
+            "9 June 1979"
+        ],
+        [
+            "Hawthorn",
+            "23.18 (156)",
+            "North Melbourne",
+            "16.9 (105)",
+            "SCG",
+            "31391",
+            "10 June 1979"
+        ]
+    ]
+}

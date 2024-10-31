@@ -1,0 +1,79 @@
+{
+    "id": "1cf678bf6b6e38dceeb5ed526e2f37e44851d22b632b2656f8dc7f8e1c8eb33c",
+    "metadata": "Hyundai Tiburon | Engineering | Engineering",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Engine",
+        "Production",
+        "Transmission",
+        "Power_",
+        "Torque",
+        "Acceleration_0_100km_h_0_62mph",
+        "Top_Speed"
+    ],
+    "cell": [
+        [
+            "1.6L",
+            "2002-2006",
+            "5-speed manual",
+            "PS (kW; bhp)",
+            "N\u00b7m (lb\u00b7ft)",
+            "11.6 s",
+            "km/h (mph)"
+        ],
+        [
+            "2.0L",
+            "2002-2005",
+            "5-speed manual",
+            "PS (kW; bhp)",
+            "N\u00b7m (lb\u00b7ft)",
+            "9.2 s",
+            "km/h (mph)"
+        ],
+        [
+            "2.0L",
+            "2002-2005",
+            "4-speed automatic",
+            "PS (kW; bhp)",
+            "N\u00b7m (lb\u00b7ft)",
+            "10.5 s",
+            "km/h (mph)"
+        ],
+        [
+            "2.0L",
+            "2006-2009",
+            "5-speed manual",
+            "PS (kW; bhp)",
+            "N\u00b7m (lb\u00b7ft)",
+            "9.1 s",
+            "km/h (mph)"
+        ],
+        [
+            "2.0L",
+            "2006-2009",
+            "4-speed automatic",
+            "PS (kW; bhp)",
+            "N\u00b7m (lb\u00b7ft)",
+            "10.4 s",
+            "km/h (mph)"
+        ],
+        [
+            "2.7L",
+            "2002-2009",
+            "5-speed manual 6-speed manual",
+            "PS (kW; bhp)",
+            "N\u00b7m (lb\u00b7ft)",
+            "8.2 s",
+            "km/h (mph)"
+        ],
+        [
+            "2.7L",
+            "2002-2009",
+            "4-speed automatic",
+            "PS (kW; bhp)",
+            "N\u00b7m (lb\u00b7ft)",
+            "8.5 s",
+            "km/h (mph)"
+        ]
+    ]
+}

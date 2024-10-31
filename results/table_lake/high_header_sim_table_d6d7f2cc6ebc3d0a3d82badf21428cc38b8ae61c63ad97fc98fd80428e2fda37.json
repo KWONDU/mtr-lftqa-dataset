@@ -1,0 +1,84 @@
+{
+    "id": "d6d7f2cc6ebc3d0a3d82badf21428cc38b8ae61c63ad97fc98fd80428e2fda37",
+    "metadata": "New York Film Critics Circle Award for Best Foreign Language Film | 1990s | 1990s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "English_title",
+        "Original_title",
+        "Country",
+        "Directors"
+    ],
+    "cell": [
+        [
+            "1990",
+            "The Nasty Girl",
+            "Das Schreckliche M\u00e4dchen",
+            "Germany",
+            "Michael Verhoeven"
+        ],
+        [
+            "1991",
+            "Europa Europe",
+            "Europa Europa",
+            "Germany",
+            "Agnieszka Holland"
+        ],
+        [
+            "1992",
+            "Raise the Red Lantern",
+            "Da hong deng long gao gao gua",
+            "China/Hong Kong/Taiwan",
+            "Zhang Yimou"
+        ],
+        [
+            "1993",
+            "Farewell My Concubine",
+            "Ba wang bie ji",
+            "Hong Kong",
+            "Chen Kaige"
+        ],
+        [
+            "1994",
+            "Three Colours: Red",
+            "Trois couleurs: Rouge",
+            "France/Poland/Switzerland",
+            "Krzysztof Kieslowski"
+        ],
+        [
+            "1995",
+            "Wild Reeds",
+            "Les roseaux sauvages",
+            "France",
+            "Andr\u00e9 T\u00e9chin\u00e9"
+        ],
+        [
+            "1996",
+            "The White Balloon",
+            "Badkonake sefid",
+            "Iran",
+            "Jafar Panahi"
+        ],
+        [
+            "1997",
+            "Ponette",
+            "Ponette",
+            "France",
+            "Jacques Doillon"
+        ],
+        [
+            "1998",
+            "The Celebration",
+            "Festen",
+            "Denmark",
+            "Thomas Vinterberg"
+        ],
+        [
+            "1999",
+            "All About My Mother",
+            "Todo sobre mi madre",
+            "Spain",
+            "Pedro Almod\u00f3var"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "897e496ea5c9708ee16c48f729d2a56332f8c7a03a9185ca330ead98eae065d8",
+    "metadata": "Dahlgren gun | Table of Dahlgren boat howitzers | Table of Dahlgren boat howitzers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Designation",
+        "Bore",
+        "Weight",
+        "Service_Charge",
+        "Range_yards",
+        "Number_Made"
+    ],
+    "cell": [
+        [
+            "12-pdr small",
+            "inches (cm)",
+            "pounds (kg)",
+            "\u2014",
+            "\u2014",
+            "23"
+        ],
+        [
+            "12-pdr light",
+            "inches (cm)",
+            "pounds (kg)",
+            "ounces (g)",
+            "\u2014",
+            "177"
+        ],
+        [
+            "12-pdr heavy",
+            "inches (cm)",
+            "pounds (kg)",
+            "pounds (kg)",
+            "yards (m) at 5\u00b0 elev.",
+            "456"
+        ],
+        [
+            "12-pdr rifled",
+            "inches (cm)",
+            "pounds (kg)",
+            "pounds (kg)",
+            "yards (m) at 6\u00b0 elev.",
+            "424"
+        ],
+        [
+            "24-pdr",
+            "inches (cm)",
+            "pounds (kg)",
+            "pounds (kg)",
+            "yards (m) at 11\u00b0 elev.",
+            "1009"
+        ]
+    ]
+}

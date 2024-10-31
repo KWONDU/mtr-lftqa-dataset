@@ -1,0 +1,63 @@
+{
+    "id": "c155dfa1edf911990c99a51cab14a36c663473aa7b33c0b7b7119e1e1bf26d35",
+    "metadata": "1988-89 Edmonton Oilers season | Los Angeles Kings 4, Edmonton Oilers 3 | Los Angeles Kings 4, Edmonton Oilers 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Record"
+    ],
+    "cell": [
+        [
+            "April 5",
+            "Edmonton Oilers",
+            "4-3",
+            "Los Angeles Kings",
+            "1-0"
+        ],
+        [
+            "April 6",
+            "Edmonton Oilers",
+            "2-5",
+            "Los Angeles Kings",
+            "1-1"
+        ],
+        [
+            "April 8",
+            "Los Angeles Kings",
+            "0-4",
+            "Edmonton Oilers",
+            "2-1"
+        ],
+        [
+            "April 9",
+            "Los Angeles Kings",
+            "3-4",
+            "Edmonton Oilers",
+            "3-1"
+        ],
+        [
+            "April 11",
+            "Edmonton Oilers",
+            "2-4",
+            "Los Angeles Kings",
+            "3-2"
+        ],
+        [
+            "April 13",
+            "Los Angeles Kings",
+            "4-1",
+            "Edmonton Oilers",
+            "3-3"
+        ],
+        [
+            "April 15",
+            "Edmonton Oilers",
+            "3-6",
+            "Los Angeles Kings",
+            "3-4"
+        ]
+    ]
+}

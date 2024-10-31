@@ -1,0 +1,70 @@
+{
+    "id": "b4574791da34185d3f5a3a8bb5ca3ac33d115580629729b130fe09938bcdc96b",
+    "metadata": "Hampden Football Netball League | 1949 Ladder | 1949 Ladder",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Wins",
+        "Losses",
+        "Draws",
+        "Against"
+    ],
+    "cell": [
+        [
+            "Colac",
+            "10",
+            "4",
+            "0",
+            "828"
+        ],
+        [
+            "Cobden",
+            "9",
+            "4",
+            "1",
+            "909"
+        ],
+        [
+            "South Warrnambool",
+            "9",
+            "4",
+            "1",
+            "836"
+        ],
+        [
+            "Warrnambool",
+            "9",
+            "5",
+            "0",
+            "929"
+        ],
+        [
+            "Camperdown",
+            "8",
+            "5",
+            "1",
+            "1173"
+        ],
+        [
+            "Mortlake",
+            "5",
+            "8",
+            "1",
+            "1118"
+        ],
+        [
+            "Terang",
+            "2",
+            "12",
+            "0",
+            "1344"
+        ],
+        [
+            "Port Fairy",
+            "2",
+            "12",
+            "0",
+            "1510"
+        ]
+    ]
+}

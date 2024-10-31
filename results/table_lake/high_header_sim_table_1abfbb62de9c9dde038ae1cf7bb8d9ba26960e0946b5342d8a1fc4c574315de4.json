@@ -1,0 +1,56 @@
+{
+    "id": "1abfbb62de9c9dde038ae1cf7bb8d9ba26960e0946b5342d8a1fc4c574315de4",
+    "metadata": "Planet of the Spiders | Broadcast and reception | Serial details by episode",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode",
+        "Broadcast_date",
+        "Run_time",
+        "Viewers_in_millions",
+        "Archive"
+    ],
+    "cell": [
+        [
+            "Part One",
+            "4May1974",
+            "24:40",
+            "10.1",
+            "PAL 2 colour videotape"
+        ],
+        [
+            "Part Two",
+            "11May1974",
+            "25:02",
+            "8.9",
+            "PAL 2 colour videotape"
+        ],
+        [
+            "Part Three",
+            "18May1974",
+            "24:58",
+            "8.8",
+            "PAL 2 colour videotape"
+        ],
+        [
+            "Part Four",
+            "25May1974",
+            "23:53",
+            "8.2",
+            "PAL 2 colour videotape"
+        ],
+        [
+            "Part Five",
+            "1 June 1974",
+            "24:01",
+            "9.2",
+            "PAL 2 colour videotape"
+        ],
+        [
+            "Part Six",
+            "8 June 1974",
+            "24:43",
+            "8.9",
+            "PAL 2 colour videotape"
+        ]
+    ]
+}

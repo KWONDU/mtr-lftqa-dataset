@@ -1,0 +1,63 @@
+{
+    "id": "9feb3a5a6f1e0e8f7bd564bbc5fb424097f26850c9d09e6de6cd832ec12a3c03",
+    "metadata": "2009 CFL Draft | Round one | Round one",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "1",
+            "Hamilton Tiger-Cats",
+            "Simeon Rottier",
+            "OT",
+            "Alberta"
+        ],
+        [
+            "2",
+            "Toronto Argonauts",
+            "\u00c9tienne L\u00e9gar\u00e9",
+            "DT",
+            "Laval"
+        ],
+        [
+            "3",
+            "BC Lions (via Hamilton via Winnipeg )",
+            "Jamall Lee",
+            "RB",
+            "Bishop`s"
+        ],
+        [
+            "4",
+            "BC Lions (via Toronto via Edmonton )",
+            "James Yurichuk",
+            "LB",
+            "Bishop`s"
+        ],
+        [
+            "5",
+            "BC Lions",
+            "Matt Carter",
+            "WR",
+            "Acadia"
+        ],
+        [
+            "6",
+            "Hamilton Tiger-Cats (via BC via Saskatchewan )",
+            "Darcy Brown",
+            "WR",
+            "St. Mary`s"
+        ],
+        [
+            "7",
+            "Montreal Alouettes",
+            "Dylan Steenbergen",
+            "OL",
+            "Calgary"
+        ]
+    ]
+}

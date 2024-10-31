@@ -1,0 +1,49 @@
+{
+    "id": "3d627af9275cf1d4da44bc4df975bdfe4e9fee642d2119cc1b1a26fa0a7f04e3",
+    "metadata": "1967 Detroit Lions season | NFL Draft | NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "School"
+    ],
+    "cell": [
+        [
+            "1",
+            "7",
+            "Mel Farr",
+            "Running Back",
+            "UCLA"
+        ],
+        [
+            "2",
+            "34",
+            "Lem Barney",
+            "Defensive Back",
+            "Jackson State"
+        ],
+        [
+            "3",
+            "60",
+            "Paul Naumoff",
+            "Linebacker",
+            "Tennessee"
+        ],
+        [
+            "4",
+            "88",
+            "Lew Kamanu",
+            "Defensive End",
+            "Weber State"
+        ],
+        [
+            "6",
+            "141",
+            "Tim Jones",
+            "Quarterback",
+            "Weber State"
+        ]
+    ]
+}

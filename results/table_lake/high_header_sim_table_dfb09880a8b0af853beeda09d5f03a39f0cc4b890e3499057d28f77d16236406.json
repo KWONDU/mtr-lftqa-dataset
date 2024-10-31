@@ -1,0 +1,63 @@
+{
+    "id": "dfb09880a8b0af853beeda09d5f03a39f0cc4b890e3499057d28f77d16236406",
+    "metadata": "Geelong Football League | Former | Former",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Nickname",
+        "Location_",
+        "GFL_Premierships",
+        "Years_in_GFL"
+    ],
+    "cell": [
+        [
+            "Barwon",
+            "Bulldogs",
+            "Belmont, Victoria",
+            "Nil",
+            "1979-1989"
+        ],
+        [
+            "East Geelong",
+            "Eagles",
+            "East Geelong, Victoria",
+            "Nil",
+            "1979"
+        ],
+        [
+            "Geelong Amateur",
+            "Ammos",
+            "Highton, Victoria",
+            "Nil",
+            "1986-1988"
+        ],
+        [
+            "Geelong West Cricket & Football Club",
+            "Cheetahs",
+            "Geelong West, Victoria",
+            "Nil",
+            "1979-85"
+        ],
+        [
+            "North Geelong",
+            "Magpies",
+            "North Geelong, Victoria",
+            "Nil",
+            "1979-1982"
+        ],
+        [
+            "St Peters",
+            "Saints",
+            "Herne Hill, Victoria",
+            "Nil",
+            "1979, 1982-1987"
+        ],
+        [
+            "Thomson",
+            "Tigers",
+            "Thomson, Victoria",
+            "Nil",
+            "1979-1981, 1984"
+        ]
+    ]
+}

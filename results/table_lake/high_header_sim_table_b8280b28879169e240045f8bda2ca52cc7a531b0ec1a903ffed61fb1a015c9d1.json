@@ -1,0 +1,56 @@
+{
+    "id": "b8280b28879169e240045f8bda2ca52cc7a531b0ec1a903ffed61fb1a015c9d1",
+    "metadata": "Rowing at the 2008 Summer Olympics - Men's quadruple sculls | Semifinal A/B 1 | Semifinal A/B 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Rowers",
+        "Country",
+        "Time_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "1",
+            "Wasielewski , Kolbowicz , Jelinski , Korol",
+            "Poland",
+            "5:51.29",
+            "FA"
+        ],
+        [
+            "2",
+            "Morgan , McRae , Long , Noonan",
+            "Australia",
+            "5:52.93",
+            "FA"
+        ],
+        [
+            "3",
+            "Kr\u00fcger , Bertram , Gruhne , Schreiber",
+            "Germany",
+            "5:53.56",
+            "FA"
+        ],
+        [
+            "4",
+            "Vitasek , Dolecek , Hanak , Jirka",
+            "Czech Republic",
+            "5:56.38",
+            "FB"
+        ],
+        [
+            "5",
+            "Morgachev , Fedorovtsev , Salov , Spinev",
+            "Russia",
+            "5:59.56",
+            "FB"
+        ],
+        [
+            "6",
+            "Lemiashkevich , Novikau , Shurmei , Radzevich",
+            "Belarus",
+            "6:06.80",
+            "FB"
+        ]
+    ]
+}

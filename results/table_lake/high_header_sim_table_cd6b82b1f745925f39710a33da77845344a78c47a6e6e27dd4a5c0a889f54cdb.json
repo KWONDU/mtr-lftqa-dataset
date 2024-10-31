@@ -1,0 +1,70 @@
+{
+    "id": "cd6b82b1f745925f39710a33da77845344a78c47a6e6e27dd4a5c0a889f54cdb",
+    "metadata": "1937 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "13.8 (86)",
+            "St Kilda",
+            "15.13 (103)",
+            "Arden Street Oval",
+            "15000",
+            "29 May 1937"
+        ],
+        [
+            "Footscray",
+            "8.8 (56)",
+            "Melbourne",
+            "11.12 (78)",
+            "Western Oval",
+            "17000",
+            "29 May 1937"
+        ],
+        [
+            "South Melbourne",
+            "15.11 (101)",
+            "Hawthorn",
+            "13.20 (98)",
+            "Lake Oval",
+            "10000",
+            "29 May 1937"
+        ],
+        [
+            "Richmond",
+            "15.19 (109)",
+            "Geelong",
+            "12.6 (78)",
+            "Punt Road Oval",
+            "17000",
+            "29 May 1937"
+        ],
+        [
+            "Fitzroy",
+            "11.9 (75)",
+            "Essendon",
+            "8.18 (66)",
+            "Brunswick Street Oval",
+            "14000",
+            "29 May 1937"
+        ],
+        [
+            "Collingwood",
+            "11.16 (82)",
+            "Carlton",
+            "8.7 (55)",
+            "Victoria Park",
+            "24000",
+            "29 May 1937"
+        ]
+    ]
+}

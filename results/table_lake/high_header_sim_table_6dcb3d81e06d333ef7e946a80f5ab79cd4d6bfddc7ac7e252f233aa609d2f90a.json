@@ -1,0 +1,49 @@
+{
+    "id": "6dcb3d81e06d333ef7e946a80f5ab79cd4d6bfddc7ac7e252f233aa609d2f90a",
+    "metadata": "1993 PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tom Kite",
+            "United States",
+            "8500729",
+            "19"
+        ],
+        [
+            "2",
+            "Paul Azinger",
+            "United States",
+            "6761306",
+            "11"
+        ],
+        [
+            "3",
+            "Greg Norman",
+            "Australia",
+            "6607562",
+            "13"
+        ],
+        [
+            "4",
+            "Payne Stewart",
+            "United States",
+            "6377573",
+            "8"
+        ],
+        [
+            "5",
+            "Tom Watson",
+            "United States",
+            "6370949",
+            "37"
+        ]
+    ]
+}

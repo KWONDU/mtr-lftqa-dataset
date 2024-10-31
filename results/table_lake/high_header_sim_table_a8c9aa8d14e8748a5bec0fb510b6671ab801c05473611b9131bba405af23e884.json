@@ -1,0 +1,84 @@
+{
+    "id": "a8c9aa8d14e8748a5bec0fb510b6671ab801c05473611b9131bba405af23e884",
+    "metadata": "1971 U.S. Open (golf) | Second round | Second round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Jim Colbert",
+            "United States",
+            "69-69=138",
+            "-2"
+        ],
+        [
+            "T1",
+            "Bob Erickson",
+            "United States",
+            "71-67=138",
+            "-2"
+        ],
+        [
+            "3",
+            "Jerry McGee",
+            "United States",
+            "72-67=139",
+            "-1"
+        ],
+        [
+            "4",
+            "Gay Brewer",
+            "United States",
+            "70-70=140",
+            "E"
+        ],
+        [
+            "T5",
+            "Arnold Palmer",
+            "United States",
+            "73-68=141",
+            "+1"
+        ],
+        [
+            "T5",
+            "Bruce Devlin",
+            "Australia",
+            "72-69=141",
+            "+1"
+        ],
+        [
+            "T5",
+            "George Archer",
+            "United States",
+            "71-70=141",
+            "+1"
+        ],
+        [
+            "T5",
+            "Chi-Chi Rodr\u00edguez",
+            "United States",
+            "70-71=141",
+            "+1"
+        ],
+        [
+            "T5",
+            "Bobby Nichols",
+            "United States",
+            "69-72=141",
+            "+1"
+        ],
+        [
+            "T5",
+            "Jack Nicklaus",
+            "United States",
+            "69-72=141",
+            "+1"
+        ]
+    ]
+}

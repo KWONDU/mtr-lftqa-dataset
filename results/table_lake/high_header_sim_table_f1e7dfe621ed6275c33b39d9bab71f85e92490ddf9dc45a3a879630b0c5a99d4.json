@@ -1,0 +1,87 @@
+{
+    "id": "f1e7dfe621ed6275c33b39d9bab71f85e92490ddf9dc45a3a879630b0c5a99d4",
+    "metadata": "1993 ATP Super 9 | Singles | Singles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Surface",
+        "Week",
+        "Winner_and_score",
+        "Finalist",
+        "Semifinalists"
+    ],
+    "cell": [
+        [
+            "Indian Wells",
+            "Hard",
+            "March 1",
+            "Jim Courier 6-3, 6-3, 6-1",
+            "Wayne Ferreira",
+            "Michael Chang Alexander Volkov"
+        ],
+        [
+            "Key Biscane",
+            "Hard",
+            "March 8",
+            "Pete Sampras 6-3, 6-2",
+            "MaliVai Washington",
+            "Marcos Ondruska Petr Korda"
+        ],
+        [
+            "Monte Carlo",
+            "Clay",
+            "April 19",
+            "Sergi Bruguera 7-6(2), 6-0",
+            "C\u00e9dric Pioline",
+            "Stefan Edberg Thomas Muster"
+        ],
+        [
+            "Hamburg",
+            "Clay",
+            "May 3",
+            "Michael Stich 6-3, 6-7(1), 7-6(7), 6-4",
+            "Andrei Chesnokov",
+            "Emilio S\u00e1nchez Bernd Karbacher"
+        ],
+        [
+            "Rome",
+            "Clay",
+            "May 10",
+            "Jim Courier 6-1, 6-2, 6-2",
+            "Goran Ivani\u0161evi\u0107",
+            "Pete Sampras Michael Chang"
+        ],
+        [
+            "Montreal",
+            "Hard",
+            "July 26",
+            "Mikael Pernfors 2-6, 6-2, 7-5",
+            "Todd Martin",
+            "Richey Reneberg Petr Korda"
+        ],
+        [
+            "Cincinnati",
+            "Hard",
+            "August 9",
+            "Michael Chang 7-5, 0-6, 6-4",
+            "Stefan Edberg",
+            "Pete Sampras Andre Agassi"
+        ],
+        [
+            "Stockholm",
+            "Carpet (i)",
+            "October 25",
+            "Michael Stich 4-6, 7-6(6), 7-6(3), 6-2",
+            "Goran Ivani\u0161evi\u0107",
+            "MaliVai Washington Marc Rosset"
+        ],
+        [
+            "Paris",
+            "Carpet (i)",
+            "November 1",
+            "Goran Ivani\u0161evi\u0107 6-4, 6-2, 7-6(2)",
+            "Andriy Medvedev",
+            "Stefan Edberg Arnaud Boetsch"
+        ]
+    ]
+}

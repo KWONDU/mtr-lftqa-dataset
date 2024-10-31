@@ -1,0 +1,87 @@
+{
+    "id": "ac77f8b8e8b9a74ec4f15fff957e15c24f3c4be5db8b0243d16b4e2b8696aa83",
+    "metadata": "Steam locomotives of Ireland | Sligo, Leitrim and Northern Counties Railway | Sligo, Leitrim and Northern Counties Railway",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Type_",
+        "Names_",
+        "Quantity_made",
+        "Manufacturer",
+        "Date_made"
+    ],
+    "cell": [
+        [
+            "Pioneer",
+            "0-6-2T",
+            "Pioneer Sligo",
+            "2",
+            "Avonside Engine Co.",
+            "1877"
+        ],
+        [
+            "Leitrim",
+            "0-6-4T",
+            "Fermanagh Leitrim Lurganboy Lissadell Hazlewood",
+            "5",
+            "Beyer, Peacock & Co.",
+            "1882-1899"
+        ],
+        [
+            "Erne",
+            "4-4-0T",
+            "Erne",
+            "1",
+            "Hudswell Clarke",
+            "1883"
+        ],
+        [
+            "Faugh-a-Ballagh",
+            "0-4-0ST",
+            "Faugh-a-Ballagh",
+            "1",
+            "Hunslet Engine Co.",
+            "1878"
+        ],
+        [
+            "Waterford",
+            "0-6-0T",
+            "Waterford",
+            "1",
+            "Hunslet Engine Co.",
+            "1893"
+        ],
+        [
+            "Sir Henry",
+            "0-6-4T",
+            "Sir Henry Enniskillen Lough Gill",
+            "3",
+            "Beyer, Peacock & Co.",
+            "1904-1917"
+        ],
+        [
+            "Glencar",
+            "4-4-0",
+            "Blacklion Glencar",
+            "(2)",
+            "Beyer, Peacock & Co.",
+            "1885-87"
+        ],
+        [
+            "Sligo",
+            "0-6-0",
+            "Glencar \u2018A\u2019 Sligo Sligo",
+            "(3)",
+            "Beyer, Peacock & Co.",
+            "1882-1890"
+        ],
+        [
+            "Lough",
+            "0-6-4T",
+            "Lough Melvin Lough Erne",
+            "2",
+            "Beyer, Peacock & Co.",
+            "1949"
+        ]
+    ]
+}

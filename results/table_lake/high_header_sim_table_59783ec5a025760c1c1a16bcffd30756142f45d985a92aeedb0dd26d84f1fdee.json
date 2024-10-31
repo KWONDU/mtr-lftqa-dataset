@@ -1,0 +1,70 @@
+{
+    "id": "59783ec5a025760c1c1a16bcffd30756142f45d985a92aeedb0dd26d84f1fdee",
+    "metadata": "Teletext | Data transmission | Teletext binary \n NRZ \n encodings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Standard",
+        "Color_system",
+        "Informational_CVBS_Lines",
+        "Bit_rate_Mbit_s_",
+        "Waveform",
+        "Bits_per_line_including_run_in",
+        "Max_Characters_per_page_row"
+    ],
+    "cell": [
+        [
+            "A (France)",
+            "SECAM",
+            "7-18",
+            "6.203",
+            "squared Sine wave",
+            "320",
+            "35"
+        ],
+        [
+            "B (global)",
+            "NTSC",
+            "10-18",
+            "5.727",
+            "Symmetrical about 1/2 bit rate",
+            "296",
+            "32"
+        ],
+        [
+            "B (global)",
+            "PAL",
+            "7-18",
+            "6.938",
+            "Symmetrical about 1/2 bit rate",
+            "360",
+            "40"
+        ],
+        [
+            "C ( NABTS )",
+            "NTSC",
+            "10-18",
+            "5.727",
+            "Raised cosine 100% roll-off",
+            "288",
+            "31"
+        ],
+        [
+            "C ( NABTS )",
+            "PAL",
+            "10-18",
+            "5.734",
+            "Raised cosine 100% roll-off",
+            "288",
+            "31"
+        ],
+        [
+            "D (Japan)",
+            "NTSC",
+            "10-18",
+            "5.727",
+            "Controlled cosine roll-off of 0.6",
+            "296",
+            "32"
+        ]
+    ]
+}

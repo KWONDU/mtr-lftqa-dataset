@@ -1,0 +1,61 @@
+{
+    "id": "a655d9786eddf3df5aa26272293c4d1f32eeb71273d489c37477677e4e027763",
+    "metadata": "Mighty Ships | Season 4 | Season 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "No_in_series",
+        "No_in_season",
+        "Title",
+        "Vessel_Type",
+        "Vessel_Operator",
+        "Narrated_by",
+        "Original_air_date"
+    ],
+    "cell": [
+        [
+            "20",
+            "1",
+            "MV Beluga Bremen",
+            "Cargo Ship",
+            "Beluga Shipping",
+            "Anthony Green",
+            "2011"
+        ],
+        [
+            "21",
+            "2",
+            "USNS Robert E. Peary",
+            "Cargo Ship",
+            "US Navy",
+            "Anthony Green",
+            "2011"
+        ],
+        [
+            "22",
+            "3",
+            "DSV Skandi Arctic",
+            "Diving Support Vessel",
+            "DOF Subsea",
+            "Barbara Budd",
+            "2011"
+        ],
+        [
+            "23",
+            "4",
+            "MS Stena Britannica",
+            "ROPAX Ferry",
+            "Stena Line",
+            "Anthony Green",
+            "2011"
+        ],
+        [
+            "24",
+            "5",
+            "USCGC Bertholf",
+            "National Security Cutter",
+            "US Coast Guard",
+            "Barbara Budd",
+            "2011"
+        ]
+    ]
+}

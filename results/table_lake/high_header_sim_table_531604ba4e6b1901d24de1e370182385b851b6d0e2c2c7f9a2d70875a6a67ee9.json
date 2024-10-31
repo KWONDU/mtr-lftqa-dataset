@@ -1,0 +1,49 @@
+{
+    "id": "531604ba4e6b1901d24de1e370182385b851b6d0e2c2c7f9a2d70875a6a67ee9",
+    "metadata": "1998 PGA Tour | Leaders | Leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Greg Norman",
+            "Australia",
+            "11936443",
+            "20"
+        ],
+        [
+            "2",
+            "Fred Couples",
+            "United States",
+            "10535876",
+            "14"
+        ],
+        [
+            "3",
+            "Tom Kite",
+            "United States",
+            "10447472",
+            "19"
+        ],
+        [
+            "4",
+            "Mark O`Meara",
+            "United States",
+            "10293473",
+            "16"
+        ],
+        [
+            "5",
+            "Davis Love III",
+            "United States",
+            "10012134",
+            "13"
+        ]
+    ]
+}

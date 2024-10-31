@@ -1,0 +1,79 @@
+{
+    "id": "a1d4bfa85313a7aa482b5f1ccb8bb7683d5a5f9c03e77c37dacb80b05f357d82",
+    "metadata": "2008-09 NBL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Venue",
+        "Box_Score",
+        "Report"
+    ],
+    "cell": [
+        [
+            "5 November",
+            "Gold Coast Blaze",
+            "115-106",
+            "Townsville Crocodiles",
+            "Gold Coast Convention Centre",
+            "box score",
+            "report"
+        ],
+        [
+            "6 November",
+            "New Zealand Breakers",
+            "86-96",
+            "Adelaide 36ers",
+            "North Shore Events Centre",
+            "box score",
+            "report"
+        ],
+        [
+            "7 November",
+            "Sydney Spirit",
+            "80-98",
+            "Melbourne Tigers",
+            "State Sports Centre",
+            "box score",
+            "report"
+        ],
+        [
+            "8 November",
+            "Adelaide 36ers",
+            "70-71",
+            "Cairns Taipans",
+            "Distinctive Homes Dome",
+            "box score",
+            "report"
+        ],
+        [
+            "8 November",
+            "Melbourne Tigers",
+            "84-86",
+            "New Zealand Breakers",
+            "State Netball and Hockey Centre",
+            "box score",
+            "report"
+        ],
+        [
+            "8 November",
+            "Perth Wildcats",
+            "115-78",
+            "Townsville Crocodiles",
+            "Challenge Stadium",
+            "box score",
+            "report"
+        ],
+        [
+            "8 November",
+            "South Dragons",
+            "95-83",
+            "Gold Coast Blaze",
+            "Hisense Arena",
+            "box score",
+            "report"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "718580b4f4d5724183fdfc7fd0d6f22d6400ef8ffa85bdf2ae92cf76717b450c",
+    "metadata": "California Jaguars | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Division",
+        "League",
+        "Reg_Season",
+        "Playoffs",
+        "Open_Cup"
+    ],
+    "cell": [
+        [
+            "1995",
+            "3",
+            "USISL Pro League",
+            "1st, Western North",
+            "Sizzling Nine",
+            "Did not qualify"
+        ],
+        [
+            "1996",
+            "3",
+            "USISL Select League",
+            "1st, Pacific",
+            "Champions",
+            "First Round"
+        ],
+        [
+            "1997",
+            "2",
+            "USISL A-League",
+            "1st, Pacific",
+            "Division Semifinals",
+            "Did not qualify"
+        ],
+        [
+            "1998",
+            "2",
+            "USISL A-League",
+            "7th, Pacific",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "1999",
+            "3",
+            "USL D3-Pro League",
+            "4th, Western",
+            "Did not qualify",
+            "Did not qualify"
+        ]
+    ]
+}

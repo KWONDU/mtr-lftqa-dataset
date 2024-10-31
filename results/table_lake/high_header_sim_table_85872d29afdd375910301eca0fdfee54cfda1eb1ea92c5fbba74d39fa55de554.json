@@ -1,0 +1,79 @@
+{
+    "id": "85872d29afdd375910301eca0fdfee54cfda1eb1ea92c5fbba74d39fa55de554",
+    "metadata": "2007 Baseball World Cup | Table | Pool A",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Team",
+        "Wins",
+        "Losses",
+        "Runs_Allowed",
+        "Run_Ratio"
+    ],
+    "cell": [
+        [
+            "1",
+            "United States",
+            "6",
+            "1",
+            "18",
+            "2.70"
+        ],
+        [
+            "2",
+            "Chinese Taipei",
+            "5",
+            "2",
+            "25",
+            "3.69"
+        ],
+        [
+            "3",
+            "Japan",
+            "5",
+            "2",
+            "20",
+            "3.16"
+        ],
+        [
+            "4",
+            "Mexico",
+            "4",
+            "3",
+            "32",
+            "5.24"
+        ],
+        [
+            "5",
+            "Panama",
+            "3",
+            "4",
+            "39",
+            "5.85"
+        ],
+        [
+            "6",
+            "Italy",
+            "3",
+            "4",
+            "31",
+            "4.73"
+        ],
+        [
+            "7",
+            "Spain",
+            "2",
+            "5",
+            "58",
+            "9.49"
+        ],
+        [
+            "8",
+            "South Africa",
+            "0",
+            "7",
+            "72",
+            "11.57"
+        ]
+    ]
+}

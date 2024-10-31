@@ -1,0 +1,91 @@
+{
+    "id": "e61e98c7153b22f4c3fd4168c5395aa58d0f8d0a2ec984d6f0b406504e26520e",
+    "metadata": "Diamonds for Breakfast | Release history | Release history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Release_format",
+        "Country",
+        "Label",
+        "Cat_No_",
+        "Release_date"
+    ],
+    "cell": [
+        [
+            "Vinyl",
+            "West Germany",
+            "Ariola",
+            "203 265-320",
+            "1980"
+        ],
+        [
+            "Cassette",
+            "West Germany",
+            "Ariola",
+            "401 265-352",
+            "1980"
+        ],
+        [
+            "Vinyl",
+            "West Germany",
+            "Ariola",
+            "302 208",
+            "1980"
+        ],
+        [
+            "Vinyl",
+            "Spain",
+            "Ariola",
+            "1-201265",
+            "1980"
+        ],
+        [
+            "Vinyl",
+            "Canada",
+            "Quality",
+            "Sv 2070",
+            "1980"
+        ],
+        [
+            "Vinyl",
+            "Yugoslavia",
+            "RTB",
+            "St 2220164",
+            "1980"
+        ],
+        [
+            "Vinyl",
+            "Italy",
+            "Rca Victor",
+            "PL 31503",
+            "1980"
+        ],
+        [
+            "Cassette",
+            "Italy",
+            "Rca Victor",
+            "PK 31503",
+            "1980"
+        ],
+        [
+            "Vinyl",
+            "Portugal",
+            "Ariola",
+            "72 877",
+            "1980"
+        ],
+        [
+            "Vinyl",
+            "United Kingdom",
+            "Ariola",
+            "ARL 5051",
+            "1980"
+        ],
+        [
+            "Vinyl",
+            "Worldwide",
+            "Ariola",
+            "201 265-352",
+            "1980"
+        ]
+    ]
+}

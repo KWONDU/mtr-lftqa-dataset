@@ -1,0 +1,87 @@
+{
+    "id": "c6cd831cac8f11645f9e6f1c48cea20511518b96f98cda6fa446f7743fe23fad",
+    "metadata": "List of Oregon ballot measures | 1976 | 1976 General Election",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "meas_num_",
+        "passed",
+        "YES_votes",
+        "NO_votes",
+        "_YES",
+        "Const_Amd_",
+        "type_",
+        "description"
+    ],
+    "cell": [
+        [
+            "2",
+            "No",
+            "376489",
+            "536967",
+            "41.22%",
+            "Yes",
+            "LEG",
+            "Allows changing city, county election days"
+        ],
+        [
+            "3",
+            "No",
+            "285777",
+            "679517",
+            "29.61%",
+            "Yes",
+            "LEG",
+            "Lowers minimum age for legislative service"
+        ],
+        [
+            "4",
+            "YES",
+            "507308",
+            "368646",
+            "57.91%",
+            "Yes",
+            "LEG",
+            "Repeals emergency succession provision"
+        ],
+        [
+            "5",
+            "YES",
+            "549126",
+            "377354",
+            "59.27%",
+            "Yes",
+            "LEG",
+            "Permits legislature to call special session"
+        ],
+        [
+            "7",
+            "No",
+            "263738",
+            "659327",
+            "28.57%",
+            "No",
+            "LEG",
+            "Partial public funding of election campaigns"
+        ],
+        [
+            "8",
+            "No",
+            "465143",
+            "505124",
+            "47.94%",
+            "No",
+            "Ref",
+            "Increases motor fuel, ton-mile taxes"
+        ],
+        [
+            "10",
+            "No",
+            "402608",
+            "536502",
+            "42.87%",
+            "No",
+            "Init",
+            "Repeals land use planning coordination statutes"
+        ]
+    ]
+}

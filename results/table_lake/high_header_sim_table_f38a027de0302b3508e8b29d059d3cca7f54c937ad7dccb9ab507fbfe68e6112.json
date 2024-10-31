@@ -1,0 +1,119 @@
+{
+    "id": "f38a027de0302b3508e8b29d059d3cca7f54c937ad7dccb9ab507fbfe68e6112",
+    "metadata": "Color in Chinese culture | Theory of the Five Elements | Theory of the Five Elements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Element_",
+        "Wood",
+        "Fire",
+        "Earth",
+        "Metal",
+        "Water"
+    ],
+    "cell": [
+        [
+            "Color",
+            "Green",
+            "Red",
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        [
+            "Direction",
+            "east",
+            "south",
+            "center",
+            "west",
+            "north"
+        ],
+        [
+            "Planet",
+            "Jupiter",
+            "Mars",
+            "Saturn",
+            "Venus",
+            "Mercury"
+        ],
+        [
+            "Heavenly creature",
+            "Azure Dragon \u9752\u9f8d",
+            "Vermilion Bird \u6731\u96c0",
+            "Yellow Dragon \u9ec3\u9f8d",
+            "White Tiger \u767d\u864e",
+            "Black Tortoise \u7384\u6b66"
+        ],
+        [
+            "Heavenly Stems",
+            "\u7532 , \u4e59",
+            "\u4e19 , \u4e01",
+            "\u620a , \u5df1",
+            "\u5e9a , \u8f9b",
+            "\u58ec , \u7678"
+        ],
+        [
+            "Phase",
+            "New Yang",
+            "Full Yang",
+            "Yin/Yang balance",
+            "New Yin",
+            "Full Yin"
+        ],
+        [
+            "Energy",
+            "Generative",
+            "Expansive",
+            "Stabilizing",
+            "Contracting",
+            "Conserving"
+        ],
+        [
+            "Season",
+            "Spring",
+            "Summer",
+            "Change of seasons (Every third month)",
+            "Autumn",
+            "Winter"
+        ],
+        [
+            "Climate",
+            "Windy",
+            "Hot",
+            "Damp",
+            "Dry",
+            "Cold"
+        ],
+        [
+            "Development",
+            "Sprouting",
+            "Blooming",
+            "Ripening",
+            "Withering",
+            "Dormant"
+        ],
+        [
+            "Livestock",
+            "dog",
+            "sheep / goat",
+            "cattle",
+            "chicken",
+            "pig"
+        ],
+        [
+            "Fruit",
+            "plum",
+            "apricot",
+            "jujube",
+            "peach",
+            "chestnut"
+        ],
+        [
+            "Grain",
+            "wheat",
+            "beans",
+            "rice",
+            "hemp",
+            "millet"
+        ]
+    ]
+}

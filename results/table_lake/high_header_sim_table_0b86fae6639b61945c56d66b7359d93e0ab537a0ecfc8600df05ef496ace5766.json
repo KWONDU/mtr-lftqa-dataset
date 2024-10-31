@@ -1,0 +1,55 @@
+{
+    "id": "0b86fae6639b61945c56d66b7359d93e0ab537a0ecfc8600df05ef496ace5766",
+    "metadata": "\u00c9cole L'Odyss\u00e9e | Schedule | Second semester",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Day_1",
+        "Day_2",
+        "Day_3",
+        "Day_4",
+        "Day_5",
+        "Wednesday"
+    ],
+    "cell": [
+        [
+            "Math",
+            "Fr.",
+            "Math",
+            "Math",
+            "Math",
+            "9:00-10:08"
+        ],
+        [
+            "PAAQ",
+            "PAAQ",
+            "PAAQ",
+            "PAAQ",
+            "PAAQ",
+            "No PAAQ"
+        ],
+        [
+            "H.E.",
+            "H.E.",
+            "Fr.",
+            "H.E.",
+            "H.E.",
+            "10:22-11:30"
+        ],
+        [
+            "Hist.",
+            "Bio.",
+            "Hist.",
+            "Fr.",
+            "Bio.",
+            "12:30-1:38"
+        ],
+        [
+            "Bio.",
+            "Hist.",
+            "Bio.",
+            "Hist",
+            "Fr.",
+            "1:52-3:00"
+        ]
+    ]
+}

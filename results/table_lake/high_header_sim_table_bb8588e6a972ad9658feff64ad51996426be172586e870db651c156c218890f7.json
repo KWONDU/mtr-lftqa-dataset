@@ -1,0 +1,79 @@
+{
+    "id": "bb8588e6a972ad9658feff64ad51996426be172586e870db651c156c218890f7",
+    "metadata": "2008-09 Egyptian Premier League | Governorates | Governorates",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Nr_",
+        "Name_",
+        "Area_km\u00b2",
+        "Population_2006",
+        "Capital",
+        "Clubs_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Alexandria",
+            "2900",
+            "4110015",
+            "Alexandria",
+            "Al Itthad Al Sakandary - El-Olympi - Haras El Hodood"
+        ],
+        [
+            "2",
+            "Asyut",
+            "25926",
+            "3441597",
+            "Asyut",
+            "Petrol Asyout"
+        ],
+        [
+            "3",
+            "Cairo",
+            "3435",
+            "7786640",
+            "Cairo",
+            "Al-Ahly - Al Mokawloon - ENPPI - El-Jaish - El-Shorta - Itesalat"
+        ],
+        [
+            "4",
+            "Gharbia",
+            "25400",
+            "3790670",
+            "Tanta",
+            "Ghazl El-Mehalla"
+        ],
+        [
+            "5",
+            "Giza",
+            "85153",
+            "6272571",
+            "Giza",
+            "Zamalek- Tersana"
+        ],
+        [
+            "6",
+            "Ismailia",
+            "1442",
+            "942832",
+            "Ismailia",
+            "Ismaily"
+        ],
+        [
+            "7",
+            "Port Said",
+            "72",
+            "570768",
+            "Port Said",
+            "Al Masry"
+        ],
+        [
+            "6",
+            "Suez",
+            "17840",
+            "510935",
+            "Suez",
+            "Petrojet"
+        ]
+    ]
+}

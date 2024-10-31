@@ -1,0 +1,115 @@
+{
+    "id": "c5eeb9dd392f49de3d95cdef55114eb90b52b5cb5dc6fe382095563607a3b7ee",
+    "metadata": "1960 American Football League season | Quarterback | Quarterback",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Comp__1",
+        "Att_",
+        "Comp__3",
+        "Yards",
+        "TD_s",
+        "INT_s"
+    ],
+    "cell": [
+        [
+            "Frank Tripucka (DEN)",
+            "248",
+            "478",
+            "51.8",
+            "3038",
+            "24",
+            "34"
+        ],
+        [
+            "Jack Kemp (LA)",
+            "211",
+            "406",
+            "52",
+            "3018",
+            "20",
+            "25"
+        ],
+        [
+            "Al Dorow (NYT)",
+            "201",
+            "396",
+            "50.8",
+            "2748",
+            "26",
+            "26"
+        ],
+        [
+            "Butch Songin (BOS)",
+            "187",
+            "392",
+            "47.7",
+            "2476",
+            "22",
+            "15"
+        ],
+        [
+            "Cotton Davidson (DAL)",
+            "179",
+            "379",
+            "47.2",
+            "2474",
+            "15",
+            "16"
+        ],
+        [
+            "George Blanda (HOU)",
+            "169",
+            "363",
+            "46.6",
+            "2413",
+            "24",
+            "22"
+        ],
+        [
+            "Tom Flores (OAK)",
+            "136",
+            "252",
+            "54",
+            "1738",
+            "12",
+            "12"
+        ],
+        [
+            "Johnny Green (BUF)",
+            "89",
+            "228",
+            "39",
+            "1267",
+            "10",
+            "10"
+        ],
+        [
+            "Babe Parilli (OAK)",
+            "87",
+            "187",
+            "46.5",
+            "1003",
+            "5",
+            "11"
+        ],
+        [
+            "Tommy O`Connell (BUF)",
+            "65",
+            "145",
+            "44.8",
+            "1033",
+            "7",
+            "13"
+        ],
+        [
+            "Dick Jamieson (NYT)",
+            "35",
+            "70",
+            "50",
+            "586",
+            "6",
+            "2"
+        ]
+    ]
+}

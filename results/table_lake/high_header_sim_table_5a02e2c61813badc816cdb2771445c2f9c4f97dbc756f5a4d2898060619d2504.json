@@ -1,0 +1,367 @@
+{
+    "id": "5a02e2c61813badc816cdb2771445c2f9c4f97dbc756f5a4d2898060619d2504",
+    "metadata": "2000 Senior PGA Tour | Tournament results | Tournament results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Location_",
+        "Purse_",
+        "Winner",
+        "Score",
+        "_1st_Prize_"
+    ],
+    "cell": [
+        [
+            "Jan 23",
+            "MasterCard Championship",
+            "Hawaii",
+            "1200000",
+            "George Archer (19)",
+            "207 (-9)",
+            "199000"
+        ],
+        [
+            "Feb 6",
+            "Royal Caribbean Classic",
+            "Florida",
+            "1100000",
+            "Bruce Fleisher (8)",
+            "30 ( Stableford )",
+            "165000"
+        ],
+        [
+            "Feb 13",
+            "ACE Group Classic",
+            "Florida",
+            "1200000",
+            "Lanny Wadkins (1)",
+            "202 (-14)",
+            "180000"
+        ],
+        [
+            "Feb 20",
+            "GTE Classic",
+            "Florida",
+            "1300000",
+            "Bruce Fleisher (9)",
+            "200 (-13)",
+            "195000"
+        ],
+        [
+            "Feb 27",
+            "LiquidGolf.com Invitational",
+            "Florida",
+            "1200000",
+            "Tom Wargo (4)",
+            "202 (-14)",
+            "180000"
+        ],
+        [
+            "Mar 5",
+            "Toshiba Senior Classic",
+            "California",
+            "1300000",
+            "Allen Doyle (5)",
+            "136 (-6)",
+            "195000"
+        ],
+        [
+            "Mar 12",
+            "Audi Senior Classic",
+            "Mexico",
+            "1500000",
+            "Hubert Green (2)",
+            "197 (-19)",
+            "225000"
+        ],
+        [
+            "Mar 26",
+            "Emerald Coast Classic",
+            "Florida",
+            "1250000",
+            "Gil Morgan (16)",
+            "197 (-13)",
+            "187500"
+        ],
+        [
+            "Apr 2",
+            "The Countrywide Tradition",
+            "Arizona",
+            "1600000",
+            "Tom Kite (1)",
+            "280 (-8)",
+            "240000"
+        ],
+        [
+            "Apr 16",
+            "PGA Seniors` Championship",
+            "Florida",
+            "1800000",
+            "Doug Tewell (1)",
+            "201 (-15)",
+            "324000"
+        ],
+        [
+            "Apr 23",
+            "Las Vegas Senior Classic",
+            "Nevada",
+            "1400000",
+            "Larry Nelson (6)",
+            "197 (-19)",
+            "210000"
+        ],
+        [
+            "Apr 30",
+            "Bruno`s Memorial Classic",
+            "Alabama",
+            "1300000",
+            "John Jacobs (3)",
+            "203 (-13)",
+            "195000"
+        ],
+        [
+            "May 7",
+            "The Home Depot Invitational",
+            "North Carolina",
+            "1300000",
+            "Bruce Fleisher (10)",
+            "203 (-13)",
+            "195000"
+        ],
+        [
+            "May 14",
+            "Nationwide Championship",
+            "Georgia",
+            "1450000",
+            "Hale Irwin (26)",
+            "207 (-9)",
+            "217500"
+        ],
+        [
+            "May 21",
+            "TD Waterhouse Championship",
+            "Missouri",
+            "1300000",
+            "Dana Quigley (4)",
+            "198 (-18)",
+            "195000"
+        ],
+        [
+            "May 28",
+            "Boone Valley Classic",
+            "Missouri",
+            "1500000",
+            "Larry Nelson (7)",
+            "200 (-16)",
+            "225000"
+        ],
+        [
+            "Jun 4",
+            "BellSouth Senior Classic at Opryland",
+            "Tennessee",
+            "1500000",
+            "Hale Irwin (27)",
+            "198 (-18)",
+            "225000"
+        ],
+        [
+            "Jun 11",
+            "SBC Senior Open",
+            "Illinois",
+            "1400000",
+            "Tom Kite (2)",
+            "207 (-9)",
+            "210000"
+        ],
+        [
+            "Jun 18",
+            "SBC Championship",
+            "Texas",
+            "1100000",
+            "Doug Tewell (2)",
+            "202 (-14)",
+            "165000"
+        ],
+        [
+            "Jun 25",
+            "Cadillac NFL Golf Classic",
+            "New Jersey",
+            "1100000",
+            "Lee Trevino (29)",
+            "202 (-14)",
+            "165000"
+        ],
+        [
+            "Jul 2",
+            "U.S. Senior Open",
+            "Pennsylvania",
+            "2250000",
+            "Hale Irwin (28)",
+            "267 (-17)",
+            "400000"
+        ],
+        [
+            "Jul 9",
+            "State Farm Senior Classic",
+            "Maryland",
+            "1350000",
+            "Leonard Thompson (2)",
+            "205 (-11)",
+            "202500"
+        ],
+        [
+            "Jul 16",
+            "Ford Senior Players Championship",
+            "Michigan",
+            "2300000",
+            "Raymond Floyd (14)",
+            "273 (-15)",
+            "345000"
+        ],
+        [
+            "Jul 23",
+            "The Instinet Classic",
+            "New Jersey",
+            "1400000",
+            "Gil Morgan (17)",
+            "199 (-17)",
+            "210000"
+        ],
+        [
+            "Jul 30",
+            "Lightpath Long Island Classic",
+            "New York",
+            "1500000",
+            "Bruce Fleisher (11)",
+            "198 (-18)",
+            "225000"
+        ],
+        [
+            "Aug 6",
+            "Coldwell Banker Burnet Classic",
+            "Minnesota",
+            "1600000",
+            "Ed Dougherty (1)",
+            "197 (-19)",
+            "240000"
+        ],
+        [
+            "Aug 13",
+            "AT&T Canada Senior Open Championship",
+            "Canada",
+            "1450000",
+            "Tom Jenkins (2)",
+            "274 (-14)",
+            "217500"
+        ],
+        [
+            "Aug 20",
+            "Novell Utah Showdown",
+            "Utah",
+            "1450000",
+            "Doug Tewell (3)",
+            "199 (-17)",
+            "217500"
+        ],
+        [
+            "Aug 27",
+            "FleetBoston Classic",
+            "Massachusetts",
+            "1300000",
+            "Larry Nelson (8)",
+            "203 (-13)",
+            "195000"
+        ],
+        [
+            "Sep 3",
+            "Foremost Insurance Championship",
+            "Michigan",
+            "1100000",
+            "Larry Nelson (9)",
+            "198 (-18)",
+            "165000"
+        ],
+        [
+            "Sep 10",
+            "Comfort Classic",
+            "Indiana",
+            "1250000",
+            "Gil Morgan (18)",
+            "131 (-13)",
+            "187500"
+        ],
+        [
+            "Sep 17",
+            "Kroger Senior Classic",
+            "Ohio",
+            "1400000",
+            "Hubert Green (3)",
+            "200 (-10)",
+            "210000"
+        ],
+        [
+            "Sep 24",
+            "Bank One Senior Championship",
+            "Texas",
+            "1400000",
+            "Larry Nelson (10)",
+            "203 (-1)",
+            "210000"
+        ],
+        [
+            "Oct 1",
+            "Vantage Championship",
+            "North Carolina",
+            "1500000",
+            "Larry Nelson (11)",
+            "198 (-12)",
+            "225000"
+        ],
+        [
+            "Oct 8",
+            "The Transamerica",
+            "California",
+            "1100000",
+            "Jim Thorpe (1)",
+            "198 (-18)",
+            "165000"
+        ],
+        [
+            "Oct 15",
+            "Gold Rush Classic",
+            "California",
+            "1100000",
+            "Jim Thorpe (2)",
+            "195 (-21)",
+            "165000"
+        ],
+        [
+            "Oct 22",
+            "EMC Kaanapali Classic",
+            "Hawaii",
+            "1100000",
+            "Hale Irwin (29)",
+            "198 (-15)",
+            "165000"
+        ],
+        [
+            "Oct 29",
+            "SBC Senior Classic",
+            "California",
+            "1400000",
+            "Joe Inman (3)",
+            "198 (-15)",
+            "210000"
+        ],
+        [
+            "Nov 5",
+            "IR Senior Tour Championship",
+            "South Carolina",
+            "2100000",
+            "Tom Watson (2)",
+            "270 (-18)",
+            "365000"
+        ]
+    ]
+}

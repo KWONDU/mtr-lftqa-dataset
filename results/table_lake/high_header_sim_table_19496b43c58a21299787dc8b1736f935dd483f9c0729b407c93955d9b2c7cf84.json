@@ -1,0 +1,49 @@
+{
+    "id": "19496b43c58a21299787dc8b1736f935dd483f9c0729b407c93955d9b2c7cf84",
+    "metadata": "Pete Lovely | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1959",
+            "Team Lotus",
+            "Lotus 16",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1960",
+            "Fred Armbruster",
+            "Cooper T45",
+            "Ferrari Straight-4",
+            "0"
+        ],
+        [
+            "1969",
+            "Pete Lovely Volkswagen Inc.",
+            "Lotus 49B",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1970",
+            "Pete Lovely Volkswagen Inc.",
+            "Lotus 49B",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1971",
+            "Pete Lovely Volkswagen Inc.",
+            "Lotus 69 Special",
+            "Cosworth V8",
+            "0"
+        ]
+    ]
+}

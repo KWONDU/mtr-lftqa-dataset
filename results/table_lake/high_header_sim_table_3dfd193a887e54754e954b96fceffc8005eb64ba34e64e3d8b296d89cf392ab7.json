@@ -1,0 +1,49 @@
+{
+    "id": "3dfd193a887e54754e954b96fceffc8005eb64ba34e64e3d8b296d89cf392ab7",
+    "metadata": "Man Booker International Prize | Award winners | Award winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Name_",
+        "Country",
+        "Languages",
+        "Literary_tradition"
+    ],
+    "cell": [
+        [
+            "2005",
+            "Ismail Kadare",
+            "Albania",
+            "Albanian",
+            "Albanian literature"
+        ],
+        [
+            "2007",
+            "Chinua Achebe",
+            "Nigeria",
+            "English",
+            "Nigerian literature"
+        ],
+        [
+            "2009",
+            "Alice Munro",
+            "Canada",
+            "English",
+            "Canadian literature"
+        ],
+        [
+            "2011",
+            "Philip Roth",
+            "United States",
+            "English",
+            "American literature"
+        ],
+        [
+            "2013",
+            "Lydia Davis",
+            "United States",
+            "English",
+            "American literature"
+        ]
+    ]
+}

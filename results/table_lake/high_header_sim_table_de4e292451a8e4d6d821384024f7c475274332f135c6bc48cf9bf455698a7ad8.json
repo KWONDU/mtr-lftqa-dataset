@@ -1,0 +1,56 @@
+{
+    "id": "de4e292451a8e4d6d821384024f7c475274332f135c6bc48cf9bf455698a7ad8",
+    "metadata": "Big Wave Dave's | Episodes | Episodes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Title",
+        "Director",
+        "Writer",
+        "Original_airdate",
+        "Prod_Code"
+    ],
+    "cell": [
+        [
+            "Pilot",
+            "Andy Ackerman",
+            "Ken Levine & David Isaacs",
+            "August9,1993",
+            "40811-001"
+        ],
+        [
+            "The Six Stages of Marshall",
+            "Andy Ackerman",
+            "Ken Levine & David Isaacs",
+            "August16,1993",
+            "40811-002"
+        ],
+        [
+            "Making Up Is Hard to Do",
+            "Andy Ackerman",
+            "Larry Balmagia",
+            "August23,1993",
+            "40811-003"
+        ],
+        [
+            "Dave`s Big Wave",
+            "Andy Ackerman",
+            "Dan Staley & Rob Long",
+            "August30,1993",
+            "40811-004"
+        ],
+        [
+            "The Adventures of Ozzie and Marshall",
+            "Andy Ackerman",
+            "Ken Levine , David Isaacs , Dan Staley & Rob Long",
+            "September6,1993",
+            "40811-005"
+        ],
+        [
+            "The Old Men and the Sea (a.k.a. Him)",
+            "Andy Ackerman",
+            "Ken Levine & David Isaacs",
+            "September13,1993",
+            "40811-006"
+        ]
+    ]
+}

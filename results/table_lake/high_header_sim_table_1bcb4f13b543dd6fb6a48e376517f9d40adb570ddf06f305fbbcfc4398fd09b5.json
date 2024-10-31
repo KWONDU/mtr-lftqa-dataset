@@ -1,0 +1,55 @@
+{
+    "id": "1bcb4f13b543dd6fb6a48e376517f9d40adb570ddf06f305fbbcfc4398fd09b5",
+    "metadata": "Kingco Athletic Conference | 3A Members | 3A Members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Founded",
+        "Affiliation",
+        "Enrollment",
+        "Nickname"
+    ],
+    "cell": [
+        [
+            "Bellevue",
+            "Bellevue",
+            "1923",
+            "Public ( Bellevue S.D. )",
+            "1327",
+            "Wolverines"
+        ],
+        [
+            "Interlake",
+            "Bellevue",
+            "1968",
+            "Public ( Bellevue S.D. )",
+            "1341",
+            "s Saint"
+        ],
+        [
+            "Juanita",
+            "Kirkland",
+            "1971",
+            "Public ( Lake Washington S.D. )",
+            "1010",
+            "Rebels"
+        ],
+        [
+            "Liberty",
+            "Renton",
+            "1977",
+            "Public ( Issaquah S.D. )",
+            "1237",
+            "Patriots"
+        ],
+        [
+            "Mercer Island",
+            "Mercer Island",
+            "1957",
+            "Public ( Mercer Island S.D. )",
+            "1424",
+            "ers Island"
+        ]
+    ]
+}

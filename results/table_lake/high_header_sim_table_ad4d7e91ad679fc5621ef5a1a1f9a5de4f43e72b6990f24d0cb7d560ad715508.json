@@ -1,0 +1,79 @@
+{
+    "id": "ad4d7e91ad679fc5621ef5a1a1f9a5de4f43e72b6990f24d0cb7d560ad715508",
+    "metadata": "Iran Mercantile Exchange | IME Statistics | IME Statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "IME_Exchange_Including_spot_credit_and_forward_transactions",
+        "_2007_08",
+        "_2008_09",
+        "_2009_10",
+        "_2010_11",
+        "_2011_12_"
+    ],
+    "cell": [
+        [
+            "Agricultural - Volume (thousand tons)",
+            "273.0",
+            "173.5",
+            "175.2",
+            "1633.9",
+            "550.0"
+        ],
+        [
+            "Agricultural - Value (billion rials)",
+            "772.6",
+            "3729.7",
+            "484.8",
+            "3729.0",
+            "3793.0"
+        ],
+        [
+            "Manufacturing and Metal - Volume (thousand tons)",
+            "6443.8",
+            "6679.7",
+            "7438.5",
+            "8694.0",
+            "11685.0"
+        ],
+        [
+            "Manufacturing and Metal - Value (billion rials)",
+            "58044.2",
+            "62120.6",
+            "53842.0",
+            "75235.5",
+            "102356.0"
+        ],
+        [
+            "Oil and Petrochemical - Volume (thousand tons)",
+            "89.7",
+            "4339.2",
+            "7052.9",
+            "6662.6",
+            "8117.0"
+        ],
+        [
+            "Oil and Petrochemical - Value (billion rials)",
+            "352.7",
+            "19921.0",
+            "36450.7",
+            "41478.0",
+            "64370.0"
+        ],
+        [
+            "Grand Total - Volume (thousand tons)",
+            "6806.5",
+            "11192.4",
+            "14666.6",
+            "16990.5",
+            "20351.0"
+        ],
+        [
+            "Grand Total - Value (billion rials)",
+            "59169.4",
+            "82685.3",
+            "90777.5",
+            "120443.2",
+            "170519.0"
+        ]
+    ]
+}

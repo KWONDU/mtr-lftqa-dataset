@@ -1,0 +1,55 @@
+{
+    "id": "f0ec0ce9eb23839af355854c1903507b2a85baeb399c1ae4b2ccaa761c8ebe2d",
+    "metadata": "Rugby union at the 2002 Asian Games | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "South Korea (KOR)",
+            "2",
+            "0",
+            "0",
+            "2"
+        ],
+        [
+            "2",
+            "Chinese Taipei (TPE)",
+            "0",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "3",
+            "Japan (JPN)",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "4",
+            "Thailand (THA)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "Total",
+            "Total",
+            "2",
+            "2",
+            "2",
+            "6"
+        ]
+    ]
+}

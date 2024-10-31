@@ -1,0 +1,84 @@
+{
+    "id": "2c6ee017d1bf94b72ac23b55a3f0b33d5ade5dfb0bf85ab20ee98acbd420968a",
+    "metadata": "European Championship (darts) | Final results | Final results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Champion_average_in_final",
+        "Legs",
+        "Runner_up_average_in_final",
+        "Sponsor",
+        "Prize_Fund",
+        "Champion",
+        "Runner_up",
+        "Venue"
+    ],
+    "cell": [
+        [
+            "2008",
+            "Phil Taylor (104.35)",
+            "11 - 5",
+            "Adrian Lewis (96.56)",
+            "PartyPoker.net",
+            "\u00a3200,000",
+            "\u00a350,000",
+            "\u00a325,000",
+            "S\u00fcdbahnhof, Frankfurt"
+        ],
+        [
+            "2009",
+            "Phil Taylor (109.35)",
+            "11 - 3",
+            "Steve Beaton (97.16)",
+            "PartyPoker.net",
+            "\u00a3200,000",
+            "\u00a350,000",
+            "\u00a320,000",
+            "Claus Event Center, Hoofddorp"
+        ],
+        [
+            "2010",
+            "Phil Taylor (105.74)",
+            "11 - 1",
+            "Wayne Jones (94.64)",
+            "PartyPoker.net",
+            "\u00a3200,000",
+            "\u00a350,000",
+            "\u00a320,000",
+            "Stadthalle Dinslaken, Dinslaken"
+        ],
+        [
+            "2011",
+            "Phil Taylor (109.29)",
+            "11 - 8",
+            "Adrian Lewis (98.72)",
+            "PartyPoker.net",
+            "\u00a3200,000",
+            "\u00a350,000",
+            "\u00a320,000",
+            "Maritim Hotel, D\u00fcsseldorf"
+        ],
+        [
+            "2012",
+            "Simon Whitlock (94.91)",
+            "11 - 5",
+            "Wes Newton (89.47)",
+            "PartyPoker.net",
+            "\u00a3200,000",
+            "\u00a350,000",
+            "\u00a320,000",
+            "RWE-Sporthalle, M\u00fclheim"
+        ],
+        [
+            "2013",
+            "Adrian Lewis (103.34)",
+            "11 - 6",
+            "Simon Whitlock (99.59)",
+            "PartyPoker.net",
+            "\u00a3200,000",
+            "\u00a350,000",
+            "\u00a320,000",
+            "RWE-Sporthalle, M\u00fclheim"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "360ae19280738093d44d7a248734d9ddd47dc6887d0fcf19358068f9a3635aac",
+    "metadata": "United States House of Representatives elections, 1938 | Virginia | Virginia",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Virginia 1",
+            "S. Otis Bland",
+            "Democratic",
+            "1918",
+            "Re-elected",
+            "S. Otis Bland (D) Unopposed"
+        ],
+        [
+            "Virginia 2",
+            "Norman R. Hamilton",
+            "Democratic",
+            "1936",
+            "Lost renomination Democratic hold",
+            "Colgate Darden (D) 87.7% Carl P. Spaeth (I) 12.3%"
+        ],
+        [
+            "Virginia 3",
+            "Dave E. Satterfield, Jr.",
+            "Democratic",
+            "1937",
+            "Re-elected",
+            "Dave E. Satterfield, Jr. (D) Unopposed"
+        ],
+        [
+            "Virginia 4",
+            "Patrick H. Drewry",
+            "Democratic",
+            "1920",
+            "Re-elected",
+            "Patrick H. Drewry (D) Unopposed"
+        ],
+        [
+            "Virginia 5",
+            "Thomas G. Burch",
+            "Democratic",
+            "1930",
+            "Re-elected",
+            "Thomas G. Burch (D) Unopposed"
+        ]
+    ]
+}

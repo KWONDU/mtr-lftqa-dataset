@@ -1,0 +1,87 @@
+{
+    "id": "e02b8063fca8ebb1535696d7d327ade6572e95be0786bc9d36f762a057818fdb",
+    "metadata": "2002 WTA Tier I Series | Singles | Singles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Surface",
+        "Week",
+        "Winner",
+        "Finalist",
+        "Semifinalists"
+    ],
+    "cell": [
+        [
+            "Tokyo",
+            "Carpet (i)",
+            "January 28",
+            "Martina Hingis 7-6(6), 4-6, 6-3",
+            "Monica Seles",
+            "Silvia Farina Elia Anna Kournikova"
+        ],
+        [
+            "Indian Wells",
+            "Hard",
+            "March 4",
+            "Daniela Hantuchov\u00e1 6-3, 6-4",
+            "Martina Hingis",
+            "Emmanuelle Gagliardi Monica Seles"
+        ],
+        [
+            "Miami",
+            "Hard",
+            "March 18",
+            "Serena Williams 7-5, 7-6(4)",
+            "Jennifer Capriati",
+            "Monica Seles Venus Williams"
+        ],
+        [
+            "Charleston",
+            "Clay",
+            "April 15",
+            "Iva Majoli 7-6(5), 6-4",
+            "Patty Schnyder",
+            "Jennifer Capriati Sandrine Testud"
+        ],
+        [
+            "Berlin",
+            "Clay",
+            "May 6",
+            "Justine Henin 6-2, 1-6, 7-6(5)",
+            "Serena Williams",
+            "Jennifer Capriati Anna Pistolesi"
+        ],
+        [
+            "Rome",
+            "Clay",
+            "May 13",
+            "Serena Williams 7-6(6), 6-4",
+            "Justine Henin",
+            "Kim Clijsters Jennifer Capriati"
+        ],
+        [
+            "Canada (Montr\u00e9al)",
+            "Hard",
+            "August 12",
+            "Am\u00e9lie Mauresmo 6-4, 6-1",
+            "Jennifer Capriati",
+            "Daniela Hantuchov\u00e1 Jelena Doki\u0107"
+        ],
+        [
+            "Moscow",
+            "Carpet (i)",
+            "September 30",
+            "Magdalena Maleeva 5-7, 6-3, 7-6(4)",
+            "Lindsay Davenport",
+            "Am\u00e9lie Mauresmo Amanda Coetzer"
+        ],
+        [
+            "Zurich",
+            "Carpet (i)",
+            "October 14",
+            "Patty Schnyder 6-7(5), 7-6(8), 6-3",
+            "Lindsay Davenport",
+            "Conchita Mart\u00ednez Justine Henin"
+        ]
+    ]
+}

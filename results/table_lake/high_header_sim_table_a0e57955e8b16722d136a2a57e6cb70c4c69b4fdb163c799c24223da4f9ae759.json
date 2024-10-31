@@ -1,0 +1,105 @@
+{
+    "id": "a0e57955e8b16722d136a2a57e6cb70c4c69b4fdb163c799c24223da4f9ae759",
+    "metadata": "1999 U.S. Open (golf) | Third round | Third round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "1",
+            "Payne Stewart",
+            "United States",
+            "68-69-72=209",
+            "-1"
+        ],
+        [
+            "2",
+            "Phil Mickelson",
+            "United States",
+            "67-70-73=210",
+            "E"
+        ],
+        [
+            "T3",
+            "Tim Herron",
+            "United States",
+            "69-72-70=211",
+            "+1"
+        ],
+        [
+            "T3",
+            "Tiger Woods",
+            "United States",
+            "68-71-72=211",
+            "+1"
+        ],
+        [
+            "T5",
+            "David Duval",
+            "United States",
+            "67-70-75=212",
+            "+2"
+        ],
+        [
+            "T5",
+            "Vijay Singh",
+            "Fiji",
+            "69-70-73=212",
+            "+2"
+        ],
+        [
+            "T5",
+            "Steve Stricker",
+            "United States",
+            "70-73-69=212",
+            "+2"
+        ],
+        [
+            "8",
+            "Billy Mayfair",
+            "United States",
+            "67-72-74=213",
+            "+3"
+        ],
+        [
+            "9",
+            "Jeff Maggert",
+            "United States",
+            "71-69-74=214",
+            "+4"
+        ],
+        [
+            "T10",
+            "Paul Goydos",
+            "United States",
+            "67-74-74=215",
+            "+5"
+        ],
+        [
+            "T10",
+            "John Huston",
+            "United States",
+            "71-69-75=215",
+            "+5"
+        ],
+        [
+            "T10",
+            "Miguel \u00c1ngel Jim\u00e9nez",
+            "Spain",
+            "73-70-72=215",
+            "+5"
+        ],
+        [
+            "T10",
+            "Hal Sutton",
+            "United States",
+            "69-70-76=215",
+            "+5"
+        ]
+    ]
+}

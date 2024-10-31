@@ -1,0 +1,84 @@
+{
+    "id": "30d6aeb1822b22ed73b211a8ad886bf6471dfde498ba9745f72d3b9865b90a97",
+    "metadata": "1995 Louis Vuitton Cup | Round robin | Round robin",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team_name",
+        "Races",
+        "Won",
+        "RR1_Pts_",
+        "RR2_Pts_",
+        "RR3_Pts_",
+        "RR4_Pts_",
+        "Total_Pts_",
+        "Ranking"
+    ],
+    "cell": [
+        [
+            "Team New Zealand",
+            "24",
+            "23",
+            "6",
+            "10",
+            "24",
+            "30",
+            "70",
+            "1"
+        ],
+        [
+            "One Australia",
+            "24",
+            "17",
+            "3",
+            "10",
+            "20",
+            "20*",
+            "53",
+            "2"
+        ],
+        [
+            "Tag Heuer Challenge",
+            "24",
+            "17",
+            "5",
+            "8",
+            "16",
+            "20",
+            "49",
+            "3"
+        ],
+        [
+            "Nippon Challenge",
+            "24",
+            "11",
+            "4",
+            "6",
+            "8",
+            "10",
+            "28",
+            "4"
+        ],
+        [
+            "France America `95",
+            "24",
+            "8",
+            "1",
+            "6",
+            "8",
+            "10",
+            "25",
+            "5"
+        ],
+        [
+            "Spanish Challenge",
+            "24",
+            "3",
+            "0",
+            "0",
+            "4",
+            "10",
+            "14",
+            "6"
+        ]
+    ]
+}

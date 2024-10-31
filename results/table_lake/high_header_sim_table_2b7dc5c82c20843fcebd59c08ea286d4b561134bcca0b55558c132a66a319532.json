@@ -1,0 +1,70 @@
+{
+    "id": "2b7dc5c82c20843fcebd59c08ea286d4b561134bcca0b55558c132a66a319532",
+    "metadata": "National Democratic Congress (Ghana) | Table presidential elections | Table presidential elections",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Election",
+        "Candidate",
+        "Number_of_votes",
+        "Share_of_votes",
+        "Outcome_of_election"
+    ],
+    "cell": [
+        [
+            "2012",
+            "John Dramani Mahama",
+            "5574761",
+            "50.7%",
+            "Mahama NDC government"
+        ],
+        [
+            "2008 (2)",
+            "John Atta Mills",
+            "4501466",
+            "50.1%",
+            "Mills NDC government"
+        ],
+        [
+            "2008 (1)",
+            "John Atta Mills",
+            "4056634",
+            "47.9%",
+            "2nd round election"
+        ],
+        [
+            "2004",
+            "John Atta Mills",
+            "3850368",
+            "44.6%",
+            "NDC opposition"
+        ],
+        [
+            "2000 (2nd)",
+            "John Atta Mills",
+            "2728241",
+            "43.3%",
+            "NDC opposition"
+        ],
+        [
+            "2000 (1st)",
+            "John Atta Mills",
+            "2895575",
+            "44.8%",
+            "2nd round election"
+        ],
+        [
+            "1996",
+            "Jerry Rawlings",
+            "\u2014",
+            "57.4%",
+            "2nd Rawlings NDC government"
+        ],
+        [
+            "1992",
+            "Jerry Rawlings",
+            "2327600",
+            "58.4%",
+            "Rawlings NDC government"
+        ]
+    ]
+}

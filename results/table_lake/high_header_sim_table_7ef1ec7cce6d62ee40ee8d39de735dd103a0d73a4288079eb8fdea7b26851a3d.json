@@ -1,0 +1,63 @@
+{
+    "id": "7ef1ec7cce6d62ee40ee8d39de735dd103a0d73a4288079eb8fdea7b26851a3d",
+    "metadata": "List of artists who reached number one on the French Singles Chart | T | T",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Artist",
+        "Country",
+        "Number_one_singles",
+        "Year_",
+        "Weeks_at_1",
+        "Straight_to_1_"
+    ],
+    "cell": [
+        [
+            "Ten Sharp",
+            "Netherlands",
+            "You",
+            "1992",
+            "2",
+            "No"
+        ],
+        [
+            "Timbaland",
+            "United States",
+            "Dangerous  1",
+            "2008",
+            "1",
+            "Yes"
+        ],
+        [
+            "Trag\u00e9die",
+            "France",
+            "Hey Oh",
+            "2003",
+            "9",
+            "Yes"
+        ],
+        [
+            "Trag\u00e9die",
+            "France",
+            "Sexy pour moi",
+            "2003",
+            "1",
+            "No"
+        ],
+        [
+            "Trag\u00e9die",
+            "France",
+            "Gentleman",
+            "2004",
+            "1",
+            "No"
+        ],
+        [
+            "Tribal King",
+            "France",
+            "Fa\u00e7on Sex",
+            "2006",
+            "5",
+            "No"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "bb9f5c52f5aa64b2356401cf638ce65aeaa833dd8043d89ca087f09a97a0f2f1",
+    "metadata": "Arnold High School | Arnold Today | Arnold Today",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "_09_10_FCAT",
+        "_09_10_Points",
+        "_09_10_Graduation",
+        "_08_09_FCAT"
+    ],
+    "cell": [
+        [
+            "JR Arnold High School",
+            "B",
+            "1305",
+            "88%",
+            "A"
+        ],
+        [
+            "Bay High School",
+            "B",
+            "1228",
+            "87%",
+            "D"
+        ],
+        [
+            "Dean Bozeman School",
+            "B",
+            "1028",
+            "80%",
+            "B"
+        ],
+        [
+            "A. Crawford Mosley High School",
+            "B",
+            "1289",
+            "93%",
+            "B"
+        ],
+        [
+            "Rutherford High School",
+            "B",
+            "1070",
+            "85%",
+            "C"
+        ]
+    ]
+}

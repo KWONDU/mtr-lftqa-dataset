@@ -1,0 +1,63 @@
+{
+    "id": "569e310a5ee8f60ef6279c5f060d56f0a3bc440835f077965598c9695314be23",
+    "metadata": "List of tallest buildings in Baltimore | Timeline of tallest buildings | Timeline of tallest buildings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Street_address",
+        "Years_as_tallest",
+        "Height_ft_m_",
+        "Floors"
+    ],
+    "cell": [
+        [
+            "Fidelity Building",
+            "05.0 210 North Charles Street",
+            "1893-1901",
+            "220 (67)",
+            "15"
+        ],
+        [
+            "One Calvert Plaza",
+            "04.0 201 East Baltimore Street",
+            "1901-1911",
+            "249 (76)",
+            "16"
+        ],
+        [
+            "Emerson Bromo-Seltzer Tower [A ]",
+            "06.0 312 West Lombard Street",
+            "1911-1923",
+            "289 (88)",
+            "15"
+        ],
+        [
+            "Constellation Energy Building [A ]",
+            "02.0 39 West Lexington Street",
+            "1916-1923",
+            "289 (88)",
+            "21"
+        ],
+        [
+            "B&O Railroad Grain Terminal [B ]",
+            "07.0 1700 Beason Street",
+            "1923-1924",
+            "310 (94)",
+            "24"
+        ],
+        [
+            "Baltimore Trust Company Building [C ]",
+            "01.0 10 Light Street",
+            "1924-1973",
+            "509 (155)",
+            "37"
+        ],
+        [
+            "Transamerica Tower",
+            "03.0 100 Light Street",
+            "1973-present",
+            "529 (161)",
+            "40"
+        ]
+    ]
+}

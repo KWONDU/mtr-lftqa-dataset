@@ -1,0 +1,95 @@
+{
+    "id": "308d2cd7f112e08670c695c52e60158dfe342885eeffd0ff11b17558662c83ae",
+    "metadata": "2008-09 Scottish First Division | Attendances | Attendances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Stadium",
+        "Capacity",
+        "Highest",
+        "Lowest",
+        "Average"
+    ],
+    "cell": [
+        [
+            "Dundee",
+            "Dens Park",
+            "11856",
+            "6537",
+            "2831",
+            "3995"
+        ],
+        [
+            "St. Johnstone",
+            "McDiarmid Park",
+            "10673",
+            "7238",
+            "2259",
+            "3502"
+        ],
+        [
+            "Dunfermline Athletic",
+            "East End Park",
+            "11998",
+            "4998",
+            "1371",
+            "3255"
+        ],
+        [
+            "Partick Thistle",
+            "Firhill Stadium",
+            "10887",
+            "3378",
+            "2296",
+            "2956"
+        ],
+        [
+            "Queen of the South",
+            "Palmerston Park",
+            "6412",
+            "3339",
+            "2029",
+            "2720"
+        ],
+        [
+            "Greenock Morton",
+            "Cappielow",
+            "11612",
+            "3323",
+            "1685",
+            "2279"
+        ],
+        [
+            "Ross County",
+            "Victoria Park",
+            "6310",
+            "3444",
+            "1625",
+            "2279"
+        ],
+        [
+            "Livingston",
+            "Almondvale Stadium",
+            "10016",
+            "2169",
+            "1068",
+            "1728"
+        ],
+        [
+            "Airdrie United",
+            "New Broomfield",
+            "10171",
+            "2165",
+            "633",
+            "1356"
+        ],
+        [
+            "Clyde",
+            "Broadwood Stadium",
+            "8006",
+            "2114",
+            "776",
+            "1236"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "e96d57f5c403b6d1c0f6a6d62686094d47ec9cf1dfa26919dca626ad57a6d847",
+    "metadata": "1961 U.S. Open (golf) | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Ben Hogan",
+            "United States",
+            "1948 , 1950 , 1951 , 1953",
+            "289",
+            "+9",
+            "T14"
+        ],
+        [
+            "Arnold Palmer",
+            "United States",
+            "1960",
+            "289",
+            "+9",
+            "T14"
+        ],
+        [
+            "Billy Casper",
+            "United States",
+            "1959",
+            "290",
+            "+10",
+            "T17"
+        ],
+        [
+            "Tommy Bolt",
+            "United States",
+            "1958",
+            "292",
+            "+12",
+            "T22"
+        ],
+        [
+            "Jack Fleck",
+            "United States",
+            "1955",
+            "293",
+            "+13",
+            "T27"
+        ],
+        [
+            "Dick Mayer",
+            "United States",
+            "1957",
+            "298",
+            "+18",
+            "T42"
+        ]
+    ]
+}

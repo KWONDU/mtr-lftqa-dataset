@@ -1,0 +1,71 @@
+{
+    "id": "71746dc0d106365e7f90ba4389f0da1cb0f681c0f0acecb0d4d108cf459feba0",
+    "metadata": "Michael Caruso (racing driver) | Bathurst 1000 results | Bathurst 1000 results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Number_",
+        "Team",
+        "Co_driver",
+        "Position_",
+        "Laps"
+    ],
+    "cell": [
+        [
+            "2006",
+            "12",
+            "Team BOC",
+            "Dale Brede",
+            "DNF",
+            "59"
+        ],
+        [
+            "2007",
+            "10",
+            "WPS Racing",
+            "Grant Denyer",
+            "15th",
+            "159"
+        ],
+        [
+            "2008",
+            "33",
+            "Garry Rogers Motorsport",
+            "Lee Holdsworth",
+            "DNF",
+            "139"
+        ],
+        [
+            "2009",
+            "34",
+            "Garry Rogers Motorsport",
+            "Lee Holdsworth",
+            "3rd",
+            "161"
+        ],
+        [
+            "2010",
+            "34",
+            "Garry Rogers Motorsport",
+            "Greg Ritter",
+            "10th",
+            "161"
+        ],
+        [
+            "2011",
+            "34",
+            "Garry Rogers Motorsport",
+            "Marcus Marshall",
+            "10th",
+            "161"
+        ],
+        [
+            "2012",
+            "34",
+            "Garry Rogers Motorsport",
+            "Greg Ritter",
+            "5th",
+            "161"
+        ]
+    ]
+}

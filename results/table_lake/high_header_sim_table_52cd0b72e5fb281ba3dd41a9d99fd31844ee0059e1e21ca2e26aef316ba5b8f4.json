@@ -1,0 +1,56 @@
+{
+    "id": "52cd0b72e5fb281ba3dd41a9d99fd31844ee0059e1e21ca2e26aef316ba5b8f4",
+    "metadata": "Bo'ness and Kinneil Railway | North British Railway coaches | North British Railway coaches",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Number_name",
+        "Description",
+        "Current_status",
+        "Livery",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "No. 1184",
+            "4-Wheeled Four Compartment",
+            "Stored (body only).",
+            "N/A",
+            "Circa. 1870"
+        ],
+        [
+            "No. DE773090",
+            "6-Wheeled Composite",
+            "Stored out of view (underframe only).",
+            "N/A",
+            "Circa. 1885"
+        ],
+        [
+            "N/A",
+            "Third Class Six Compartment",
+            "Body grounded on the platform at Birkhill.",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "No. 461",
+            "Invalid Saloon",
+            "Stored.",
+            "NBR",
+            "1919"
+        ],
+        [
+            "No. Sc3565E",
+            "Third Class Corridor Compartment",
+            "Used as a mess room.",
+            "N/A",
+            "1921"
+        ],
+        [
+            "No. 467",
+            "Third Class Brake",
+            "Stored.",
+            "N/A",
+            "1921"
+        ]
+    ]
+}

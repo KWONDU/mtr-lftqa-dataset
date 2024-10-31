@@ -1,0 +1,63 @@
+{
+    "id": "37ecd6fad79e50d6a9fb1fbc47e0f862833f692703ec4bea47defee29952a06d",
+    "metadata": "2004-05 Manchester United F.C. season | FA Cup | FA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponents",
+        "Result_F_A",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "8 January 2005",
+            "Round 3",
+            "Exeter City",
+            "0-0",
+            "67551"
+        ],
+        [
+            "19 January 2005",
+            "Round 3 Replay",
+            "Exeter City",
+            "2-0",
+            "9033"
+        ],
+        [
+            "29 January 2005",
+            "Round 4",
+            "Middlesbrough",
+            "3-0",
+            "67251"
+        ],
+        [
+            "19 February 2005",
+            "Round 5",
+            "Everton",
+            "2-0",
+            "38664"
+        ],
+        [
+            "12 March 2005",
+            "Round 6",
+            "Southampton",
+            "4-0",
+            "30971"
+        ],
+        [
+            "17 April 2005",
+            "Semi-final",
+            "Newcastle United",
+            "4-1",
+            "69280"
+        ],
+        [
+            "21 May 2005",
+            "Final",
+            "Arsenal",
+            "0-0 ( a.e.t. ) (4-5 p )",
+            "71876"
+        ]
+    ]
+}

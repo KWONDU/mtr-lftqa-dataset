@@ -1,0 +1,63 @@
+{
+    "id": "4d8ed36333939c3ecd7ef3caa5871314ac730f9908be196226e33ec17bc6819f",
+    "metadata": "Archery at the 1972 Summer Olympics | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "United States (USA)",
+            "2",
+            "0",
+            "0",
+            "2"
+        ],
+        [
+            "2",
+            "Poland (POL)",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "2",
+            "Sweden (SWE)",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "4",
+            "Finland (FIN)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "4",
+            "Soviet Union (URS)",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "Total",
+            "Total",
+            "2",
+            "2",
+            "2",
+            "6"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "32707bfcb9fd8225c3cd7773213657da1d6e8287dc4779055be5b85953a28c3f",
+    "metadata": "S\u00e9bastien Bourdais | CART/Champ Car | CART/Champ Car",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "Chassis",
+        "Engine",
+        "Rank_",
+        "Points"
+    ],
+    "cell": [
+        [
+            "2003",
+            "Newman/Haas Racing",
+            "Lola B02/00",
+            "Ford XFE",
+            "4th",
+            "159"
+        ],
+        [
+            "2004",
+            "Newman/Haas Racing",
+            "Lola B02/00",
+            "Ford XFE",
+            "1st",
+            "369 ^"
+        ],
+        [
+            "2005",
+            "Newman/Haas Racing",
+            "Lola B02/00",
+            "Ford XFE",
+            "1st",
+            "348"
+        ],
+        [
+            "2006",
+            "Newman/Haas Racing",
+            "Lola B02/00",
+            "Ford XFE",
+            "1st",
+            "387"
+        ],
+        [
+            "2007",
+            "Newman/Haas/Lanigan Racing",
+            "Panoz DP01",
+            "Cosworth XFE",
+            "1st",
+            "364"
+        ]
+    ]
+}

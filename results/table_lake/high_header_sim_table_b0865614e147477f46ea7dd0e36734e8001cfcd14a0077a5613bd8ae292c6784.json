@@ -1,0 +1,70 @@
+{
+    "id": "b0865614e147477f46ea7dd0e36734e8001cfcd14a0077a5613bd8ae292c6784",
+    "metadata": "1949 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "21.19 (145)",
+            "Melbourne",
+            "12.11 (83)",
+            "Kardinia Park",
+            "25000",
+            "16 April 1949"
+        ],
+        [
+            "Essendon",
+            "18.12 (120)",
+            "Hawthorn",
+            "9.3 (57)",
+            "Windy Hill",
+            "13500",
+            "16 April 1949"
+        ],
+        [
+            "Collingwood",
+            "19.13 (127)",
+            "North Melbourne",
+            "10.17 (77)",
+            "Victoria Park",
+            "21500",
+            "16 April 1949"
+        ],
+        [
+            "St Kilda",
+            "11.10 (76)",
+            "Fitzroy",
+            "14.14 (98)",
+            "Junction Oval",
+            "18000",
+            "16 April 1949"
+        ],
+        [
+            "Carlton",
+            "16.16 (112)",
+            "South Melbourne",
+            "6.12 (48)",
+            "Princes Park",
+            "29000",
+            "18 April 1949"
+        ],
+        [
+            "Richmond",
+            "19.13 (127)",
+            "Footscray",
+            "8.10 (58)",
+            "Punt Road Oval",
+            "30000",
+            "18 April 1949"
+        ]
+    ]
+}

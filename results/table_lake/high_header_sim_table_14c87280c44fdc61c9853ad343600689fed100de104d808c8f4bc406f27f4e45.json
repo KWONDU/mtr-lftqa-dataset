@@ -1,0 +1,56 @@
+{
+    "id": "14c87280c44fdc61c9853ad343600689fed100de104d808c8f4bc406f27f4e45",
+    "metadata": "Cut Copy | Awards | Awards",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Ceremony",
+        "Category",
+        "Work_",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "2004",
+            "ARIA Awards",
+            "Best Dance Release",
+            "Future",
+            "Nominated"
+        ],
+        [
+            "2008",
+            "ARIA Awards",
+            "Best Dance Release",
+            "In Ghost Colours",
+            "Nominated"
+        ],
+        [
+            "2008",
+            "J Award",
+            "Album Of The Year",
+            "In Ghost Colours",
+            "Nominated"
+        ],
+        [
+            "2011",
+            "ARIA Awards",
+            "Album Of The Year",
+            "Zonoscope",
+            "Nominated"
+        ],
+        [
+            "2011",
+            "ARIA Awards",
+            "Best Dance Release",
+            "Zonoscope",
+            "Won"
+        ],
+        [
+            "2012",
+            "Grammy Awards",
+            "Best Dance/Electronica Release",
+            "Zonoscope",
+            "Nominated"
+        ]
+    ]
+}

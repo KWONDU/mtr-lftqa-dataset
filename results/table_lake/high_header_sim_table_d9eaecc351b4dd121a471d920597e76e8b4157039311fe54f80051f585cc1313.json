@@ -1,0 +1,98 @@
+{
+    "id": "d9eaecc351b4dd121a471d920597e76e8b4157039311fe54f80051f585cc1313",
+    "metadata": "Los Angeles Film Critics Association Award for Best Foreign Language Film | 1980s | 1980s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "English_title",
+        "Original_title",
+        "Country",
+        "Director"
+    ],
+    "cell": [
+        [
+            "1981",
+            "The Tin Drum",
+            "Die Blechtrommel",
+            "West Germany",
+            "Volker Schl\u00f6ndorff"
+        ],
+        [
+            "1982",
+            "Pixote",
+            "Pixote: A lei do mais fraco",
+            "Brazil",
+            "Hector Babenco"
+        ],
+        [
+            "1983",
+            "Mad Max 2: The Road Warrior",
+            "Mad Max 2: The Road Warrior",
+            "Australia",
+            "George Miller"
+        ],
+        [
+            "1984",
+            "Fanny and Alexander",
+            "Fanny och Alexander",
+            "Sweden",
+            "Ingmar Bergman"
+        ],
+        [
+            "1984",
+            "The Fourth Man",
+            "De vierde man",
+            "Netherlands",
+            "Paul Verhoeven"
+        ],
+        [
+            "1985",
+            "Ran",
+            "Ran",
+            "Japan/France",
+            "Akira Kurosawa"
+        ],
+        [
+            "1985",
+            "The Official Story",
+            "La historia oficial",
+            "Argentina",
+            "Luis Puenzo"
+        ],
+        [
+            "1986",
+            "Vagabond",
+            "Sans toit ni loi",
+            "France/UK",
+            "Agn\u00e8s Varda"
+        ],
+        [
+            "1987",
+            "Goodbye, Children",
+            "Au revoir, les enfants",
+            "France/West Germany",
+            "Louis Malle"
+        ],
+        [
+            "1988",
+            "Wings of Desire",
+            "Der Himmel \u00fcber Berlin",
+            "France/West Germany",
+            "Wim Wenders"
+        ],
+        [
+            "1989",
+            "Distant Voices, Still Lives",
+            "Distant Voices, Still Lives",
+            "UK",
+            "Terence Davies"
+        ],
+        [
+            "1989",
+            "Story of Women",
+            "Une affaire de femmes",
+            "France",
+            "Claude Chabrol"
+        ]
+    ]
+}

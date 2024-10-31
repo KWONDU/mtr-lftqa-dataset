@@ -1,0 +1,49 @@
+{
+    "id": "1f219e8ce2e5f5c258d01ee6fb53fccc1a79a9cdbc6504b06e8d6b7ed9bf5213",
+    "metadata": "1964-65 Boston Celtics season | NBA Finals | NBA Finals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Home_Team",
+        "Result_",
+        "Road_Team"
+    ],
+    "cell": [
+        [
+            "Game 1",
+            "April 18",
+            "Boston",
+            "142-110",
+            "Los Angeles"
+        ],
+        [
+            "Game 2",
+            "April 19",
+            "Boston",
+            "129-123",
+            "Los Angeles"
+        ],
+        [
+            "Game 3",
+            "April 21",
+            "Los Angeles",
+            "126-105",
+            "Boston"
+        ],
+        [
+            "Game 4",
+            "April 23",
+            "Los Angeles",
+            "99-112",
+            "Boston"
+        ],
+        [
+            "Game 5",
+            "April 25",
+            "Boston",
+            "129-96",
+            "Los Angeles"
+        ]
+    ]
+}

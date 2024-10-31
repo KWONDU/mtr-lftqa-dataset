@@ -1,0 +1,49 @@
+{
+    "id": "38cd18b9afd7a8a675bfcd2bcd2ee1d59badb26b94c77037a6d85419b3a62177",
+    "metadata": "List of cable Internet providers | Switzerland | Switzerland",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Internet_Plan",
+        "Downstream",
+        "Upstream",
+        "Bandwidth_Included",
+        "Price"
+    ],
+    "cell": [
+        [
+            "Internet 10",
+            "10 Mbps",
+            "1 Mbps",
+            "Unlimited MB",
+            "35 CHF"
+        ],
+        [
+            "Internet 30",
+            "30 Mbps",
+            "3 Mbps",
+            "Unlimited MB",
+            "50 CHF"
+        ],
+        [
+            "Internet 60",
+            "60 Mbps",
+            "6 Mbps",
+            "Unlimited MB",
+            "65 CHF"
+        ],
+        [
+            "Internet 100",
+            "100 Mbps",
+            "10 Mbps",
+            "Unlimited MB",
+            "90 CHF"
+        ],
+        [
+            "Internet 150",
+            "150 Mbps",
+            "10 Mbps",
+            "Unlimited MB",
+            "120 CHF"
+        ]
+    ]
+}

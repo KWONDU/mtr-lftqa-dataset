@@ -1,0 +1,98 @@
+{
+    "id": "fb3c671f7c832f496bfa1f07cb8fa6a361ca04ecae3c905eaa4bb806d46e23d9",
+    "metadata": "Lankan Cargo | Destinations | Destinations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "Country",
+        "IATA",
+        "ICAO",
+        "Airport"
+    ],
+    "cell": [
+        [
+            "Bangalore",
+            "India",
+            "BLR",
+            "VOBL",
+            "Bengaluru International Airport ^"
+        ],
+        [
+            "Chennai",
+            "India",
+            "MAA",
+            "VOMM",
+            "Chennai International Airport ^"
+        ],
+        [
+            "Colombo",
+            "Sri Lanka",
+            "CMB",
+            "VCBI",
+            "Bandaranaike International Airport [Hub]"
+        ],
+        [
+            "Colombo",
+            "Sri Lanka",
+            "RML",
+            "VCCC",
+            "Ratmalana Airport \u2021"
+        ],
+        [
+            "Dubai",
+            "United Arab Emirates",
+            "DXB",
+            "OMDB",
+            "Dubai International Airport [T]"
+        ],
+        [
+            "Jaffna",
+            "Sri Lanka",
+            "JAF",
+            "VCCJ",
+            "Kankesanturai Airport"
+        ],
+        [
+            "Mal\u00e9",
+            "Maldives",
+            "MLE",
+            "VRMM",
+            "Ibrahim Nasir International Airport [T]"
+        ],
+        [
+            "Rome",
+            "Italy",
+            "FCO",
+            "LIRF",
+            "Fiumicino Airport [T]"
+        ],
+        [
+            "Singapore",
+            "Singapore",
+            "SIN",
+            "WSSS",
+            "Changi International Airport [T]"
+        ],
+        [
+            "Thiruvanathapuram",
+            "India",
+            "TRV",
+            "VOTV",
+            "Trivandrum Airport ^"
+        ],
+        [
+            "Tiruchirappalli",
+            "India",
+            "TRZ",
+            "VOTR",
+            "Tiruchirappalli Airport [T]"
+        ],
+        [
+            "Trincomalee",
+            "Sri Lanka",
+            "TRR",
+            "VCCT",
+            "China Bay Airport"
+        ]
+    ]
+}

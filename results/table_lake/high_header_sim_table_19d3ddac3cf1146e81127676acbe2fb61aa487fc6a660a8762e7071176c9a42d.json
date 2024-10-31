@@ -1,0 +1,97 @@
+{
+    "id": "19d3ddac3cf1146e81127676acbe2fb61aa487fc6a660a8762e7071176c9a42d",
+    "metadata": "List of VIA C3 microprocessors | \"Ezra\"/\"Ezra-T\" (130 nm) | \"Ezra\"/\"Ezra-T\" (130 nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Frequency",
+        "L2_Cache",
+        "Front_Side_Bus",
+        "Multiplier",
+        "Voltage",
+        "Socket"
+    ],
+    "cell": [
+        [
+            "C3 800",
+            "800MHz",
+            "64\u2009KiB",
+            "100MHz",
+            "8\u00d7",
+            "1.35V",
+            "Socket 370"
+        ],
+        [
+            "C3 800",
+            "800MHz",
+            "64\u2009KiB",
+            "133MHz",
+            "6\u00d7",
+            "1.35V",
+            "Socket 370"
+        ],
+        [
+            "C3 800T",
+            "800MHz",
+            "64KiB",
+            "133MHz",
+            "6\u00d7",
+            "1.35V",
+            "Socket 370"
+        ],
+        [
+            "C3 850",
+            "850MHz",
+            "64KiB",
+            "100MHz",
+            "8.5\u00d7",
+            "1.35V",
+            "Socket 370"
+        ],
+        [
+            "C3 866",
+            "866\u2009MHz",
+            "64\u2009KiB",
+            "133MHz",
+            "6.5\u00d7",
+            "1.35V",
+            "Socket 370"
+        ],
+        [
+            "C3 866T",
+            "866\u2009MHz",
+            "64\u2009KiB",
+            "133MHz",
+            "6.5\u00d7",
+            "1.35V",
+            "Socket 370"
+        ],
+        [
+            "C3 900",
+            "900MHz",
+            "64KiB",
+            "100MHz",
+            "9\u00d7",
+            "1.35V",
+            "Socket 370"
+        ],
+        [
+            "C3 933T",
+            "933MHz",
+            "64KiB",
+            "133MHz",
+            "7\u00d7",
+            "1.35V",
+            "Socket 370"
+        ],
+        [
+            "C3 1.0T",
+            "1000MHz",
+            "64KiB",
+            "133MHz",
+            "7.5\u00d7",
+            "1.35V",
+            "Socket 370"
+        ]
+    ]
+}

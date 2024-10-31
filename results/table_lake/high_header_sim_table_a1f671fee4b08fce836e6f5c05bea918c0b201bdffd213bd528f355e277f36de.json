@@ -1,0 +1,56 @@
+{
+    "id": "a1f671fee4b08fce836e6f5c05bea918c0b201bdffd213bd528f355e277f36de",
+    "metadata": "1962-63 Boston Celtics season | NBA Finals | NBA Finals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Home_Team",
+        "Result_",
+        "Road_Team"
+    ],
+    "cell": [
+        [
+            "Game 1",
+            "April 14",
+            "Boston",
+            "117-114",
+            "Los Angeles"
+        ],
+        [
+            "Game 2",
+            "April 16",
+            "Boston",
+            "113-106",
+            "Los Angeles"
+        ],
+        [
+            "Game 3",
+            "April 17",
+            "Los Angeles",
+            "119-99",
+            "Boston"
+        ],
+        [
+            "Game 4",
+            "April 19",
+            "Los Angeles",
+            "105-108",
+            "Boston"
+        ],
+        [
+            "Game 5",
+            "April 21",
+            "Boston",
+            "119-126",
+            "Los Angeles"
+        ],
+        [
+            "Game 6",
+            "April 24",
+            "Los Angeles",
+            "109-112",
+            "Boston"
+        ]
+    ]
+}

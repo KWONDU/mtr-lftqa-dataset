@@ -1,0 +1,63 @@
+{
+    "id": "c4641c443c94061633015c3f182534d7cfdd5d642c26295a4782bb7ccb92c831",
+    "metadata": "Origin of hangul | Ledyard's theory of consonant letters | Cognates of core hangul letters",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Hangul",
+        "_Phagspa",
+        "Tibetan",
+        "Phoenician",
+        "Greek",
+        "Latin"
+    ],
+    "cell": [
+        [
+            "\u3142",
+            "\ua84e",
+            "\u0f56",
+            "\ufffd\ufffd",
+            "\u0392",
+            "B"
+        ],
+        [
+            "\u3131",
+            "\ua842",
+            "\u0f42",
+            "\ufffd\ufffd",
+            "\u0393",
+            "C, G"
+        ],
+        [
+            "\u3137",
+            "\ua84a",
+            "\u0f51",
+            "\ufffd\ufffd",
+            "\u0394",
+            "D"
+        ],
+        [
+            "\u3139",
+            "\ua859",
+            "\u0f63",
+            "\ufffd\ufffd",
+            "\u039b",
+            "L"
+        ],
+        [
+            "\u3148",
+            "\ua85b",
+            "\u0f66",
+            "\ufffd\ufffd",
+            "\u03fa",
+            "\u2014"
+        ],
+        [
+            "\u3147 in \u3171 etc.",
+            "\ua867 in \ua864 etc.",
+            "\u0f74",
+            "\ufffd\ufffd\u200e ?",
+            "\u03dc, \u03a5",
+            "F, Y, U/V/W"
+        ]
+    ]
+}

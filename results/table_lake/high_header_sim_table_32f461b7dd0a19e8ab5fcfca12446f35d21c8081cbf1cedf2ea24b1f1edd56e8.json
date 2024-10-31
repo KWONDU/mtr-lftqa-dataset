@@ -1,0 +1,119 @@
+{
+    "id": "32f461b7dd0a19e8ab5fcfca12446f35d21c8081cbf1cedf2ea24b1f1edd56e8",
+    "metadata": "List of the busiest airports in Brazil | 2007 | Brazil's 15 busiest airports by passenger traffic",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Location_",
+        "Total_Passengers",
+        "Annual_change",
+        "Capacity_in_use"
+    ],
+    "cell": [
+        [
+            "1",
+            "S\u00e3o Paulo",
+            "18795596",
+            "19.3%",
+            "113.9%"
+        ],
+        [
+            "2",
+            "S\u00e3o Paulo",
+            "15265433",
+            "17.3%",
+            "127.2%"
+        ],
+        [
+            "3",
+            "Bras\u00edlia",
+            "11119872",
+            "15.0%",
+            "150.3%"
+        ],
+        [
+            "4",
+            "Rio de Janeiro",
+            "10352616",
+            "16.9%",
+            "69.0%"
+        ],
+        [
+            "5",
+            "Salvador",
+            "5932461",
+            "9.3%",
+            "98.9%"
+        ],
+        [
+            "6",
+            "Porto Alegre",
+            "4444748",
+            "15.6%",
+            "72.9%"
+        ],
+        [
+            "7",
+            "Belo Horizonte",
+            "4340129",
+            "16.4%",
+            "86.8%"
+        ],
+        [
+            "8",
+            "Recife",
+            "4188081",
+            "5.9%",
+            "83.8%"
+        ],
+        [
+            "9",
+            "Curitiba",
+            "3907275",
+            "10.6%",
+            "111.6%"
+        ],
+        [
+            "10",
+            "Fortaleza",
+            "3614439",
+            "10.1%",
+            "120.5%"
+        ],
+        [
+            "11",
+            "Rio de Janeiro",
+            "3214415",
+            "9.5%",
+            "100.5%"
+        ],
+        [
+            "12",
+            "Bel\u00e9m",
+            "2119552",
+            "19.3%",
+            "78.5%"
+        ],
+        [
+            "13",
+            "Manaus",
+            "2080342",
+            "23.1%",
+            "114.6%"
+        ],
+        [
+            "14",
+            "Florian\u00f3polis",
+            "1948010",
+            "19.5%",
+            "177.1%"
+        ],
+        [
+            "15",
+            "Vit\u00f3ria",
+            "1894540",
+            "14.0%",
+            "336.3%"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "e48115e8ed8690e15edef9c3856a006485d1463993ae899f15b7db6da1a14dae",
+    "metadata": "Nick Watney | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "1",
+            "4",
+            "6",
+            "6"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "1",
+            "7",
+            "3"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "1",
+            "2",
+            "6",
+            "4"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "2",
+            "6",
+            "2"
+        ],
+        [
+            "Totals",
+            "0",
+            "2",
+            "9",
+            "25",
+            "15"
+        ]
+    ]
+}

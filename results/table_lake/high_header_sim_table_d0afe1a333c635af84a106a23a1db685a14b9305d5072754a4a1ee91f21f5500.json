@@ -1,0 +1,177 @@
+{
+    "id": "d0afe1a333c635af84a106a23a1db685a14b9305d5072754a4a1ee91f21f5500",
+    "metadata": "List of municipalities in Quebec | List of municipalities in Quebec | Region 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Code",
+        "Type_",
+        "Name_",
+        "Area_km_2_",
+        "Population",
+        "Regional_County_Municipality",
+        "Metropolitan_area",
+        "Region"
+    ],
+    "cell": [
+        [
+            "66007",
+            "V",
+            "Montr\u00e9al-Est",
+            "12.36",
+            "3887",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66023",
+            "V",
+            "Montreal",
+            "363.52",
+            "1634547",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66032",
+            "V",
+            "Westmount",
+            "3.96",
+            "19701",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66047",
+            "V",
+            "Montreal West",
+            "1.63",
+            "5339",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66058",
+            "V",
+            "C\u00f4te Saint-Luc",
+            "7.35",
+            "31764",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66062",
+            "V",
+            "Hampstead",
+            "1.76",
+            "7262",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66072",
+            "V",
+            "Mount Royal",
+            "7.43",
+            "19361",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66087",
+            "V",
+            "Dorval",
+            "20.64",
+            "18297",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66092",
+            "V",
+            "L`\u00cele-Dorval",
+            "0.18",
+            "2",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66097",
+            "V",
+            "Pointe-Claire",
+            "19.16",
+            "30624",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66102",
+            "V",
+            "Kirkland",
+            "10.28",
+            "21696",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66107",
+            "V",
+            "Beaconsfield",
+            "10.64",
+            "20262",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66112",
+            "V",
+            "Baie-D`Urf\u00e9",
+            "6.70",
+            "3953",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66117",
+            "V",
+            "Sainte-Anne-de-Bellevue",
+            "15.11",
+            "5379",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66127",
+            "VL",
+            "Senneville",
+            "7.84",
+            "1032",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ],
+        [
+            "66142",
+            "V",
+            "Dollard-des-Ormeaux",
+            "15.20",
+            "50707",
+            "Not part of a RCM",
+            "M",
+            "06"
+        ]
+    ]
+}

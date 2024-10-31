@@ -1,0 +1,63 @@
+{
+    "id": "1384426ceb9430c35c8940c465abb44eb9061c8ef592e903c9de50c1fc1c166f",
+    "metadata": "List of tallest buildings in El Paso | Tallest buildings | Tallest buildings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Height_ft_m_",
+        "Floors",
+        "Year_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Wells Fargo Plaza",
+            "296 (90)",
+            "21",
+            "1972"
+        ],
+        [
+            "2",
+            "Chase Tower",
+            "250 (76)",
+            "20",
+            "1971"
+        ],
+        [
+            "3",
+            "Plaza Hotel",
+            "239 (72)",
+            "19",
+            "1930"
+        ],
+        [
+            "4",
+            "Kayser Building",
+            "232 (70)",
+            "20",
+            "1983"
+        ],
+        [
+            "5",
+            "Bassett Tower",
+            "216 (66)",
+            "15",
+            "1930"
+        ],
+        [
+            "6",
+            "El Paso Natural Gas Company Building",
+            "208 (63)",
+            "18",
+            "1954"
+        ],
+        [
+            "7",
+            "Camino Real Paso del Norte Hotel",
+            "205 (62)",
+            "17",
+            "1986"
+        ]
+    ]
+}

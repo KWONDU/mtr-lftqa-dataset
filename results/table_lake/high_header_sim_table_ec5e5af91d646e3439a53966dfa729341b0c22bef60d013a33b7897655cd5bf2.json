@@ -1,0 +1,103 @@
+{
+    "id": "ec5e5af91d646e3439a53966dfa729341b0c22bef60d013a33b7897655cd5bf2",
+    "metadata": "Flamingo International Airport | Statistics | Statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Items",
+        "_2008_Q1",
+        "_2008_Q2",
+        "_2008_Q3",
+        "extrapol_08",
+        "year_2007"
+    ],
+    "cell": [
+        [
+            "Total movements",
+            "3.892",
+            "3.927",
+            "nyk",
+            "15.638",
+            "15.249"
+        ],
+        [
+            "movements, NATIONAL",
+            "2.397",
+            "2.691",
+            "nyk",
+            "10.176",
+            "9.615"
+        ],
+        [
+            "movements, INTERNATIONAL",
+            "807",
+            "826",
+            "nyk",
+            "3.266",
+            "3.354"
+        ],
+        [
+            "OTHER movements",
+            "668",
+            "410",
+            "nyk",
+            "2.156",
+            "2.280"
+        ],
+        [
+            "TOTAL passengers",
+            "124.624",
+            "117.349",
+            "nyk",
+            "483.946",
+            "513.948"
+        ],
+        [
+            "- departing NAT",
+            "23.365",
+            "23.581",
+            "nyk",
+            "93.892",
+            "94.947"
+        ],
+        [
+            "- departing INT",
+            "21.212",
+            "18.567",
+            "nyk",
+            "79.558",
+            "66.215"
+        ],
+        [
+            "- arrivals NAT",
+            "23.110",
+            "23.547",
+            "nyk",
+            "93.314",
+            "93.382"
+        ],
+        [
+            "- arrivals INT",
+            "21.207",
+            "18.417",
+            "nyk",
+            "79.248",
+            "69.497"
+        ],
+        [
+            "- Transit",
+            "35.730",
+            "33.237",
+            "nyk",
+            "137.934",
+            "187.907"
+        ],
+        [
+            "Freight (ton)",
+            "114",
+            "73",
+            "nyk",
+            "374",
+            "376"
+        ]
+    ]
+}

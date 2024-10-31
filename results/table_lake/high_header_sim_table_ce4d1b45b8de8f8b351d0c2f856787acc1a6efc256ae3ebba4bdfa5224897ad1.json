@@ -1,0 +1,70 @@
+{
+    "id": "ce4d1b45b8de8f8b351d0c2f856787acc1a6efc256ae3ebba4bdfa5224897ad1",
+    "metadata": "1936 VFL season | Round 2 | Round 2",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "St Kilda",
+            "10.11 (71)",
+            "South Melbourne",
+            "12.17 (89)",
+            "Junction Oval",
+            "30000",
+            "9 May 1936"
+        ],
+        [
+            "Footscray",
+            "8.20 (68)",
+            "Hawthorn",
+            "11.7 (73)",
+            "Western Oval",
+            "10000",
+            "9 May 1936"
+        ],
+        [
+            "Collingwood",
+            "16.12 (108)",
+            "Richmond",
+            "10.12 (72)",
+            "Victoria Park",
+            "26500",
+            "9 May 1936"
+        ],
+        [
+            "Carlton",
+            "21.19 (145)",
+            "Essendon",
+            "5.13 (43)",
+            "Princes Park",
+            "25000",
+            "9 May 1936"
+        ],
+        [
+            "North Melbourne",
+            "9.14 (68)",
+            "Geelong",
+            "11.8 (74)",
+            "Arden Street Oval",
+            "9000",
+            "9 May 1936"
+        ],
+        [
+            "Melbourne",
+            "15.17 (107)",
+            "Fitzroy",
+            "8.11 (59)",
+            "MCG",
+            "16245",
+            "9 May 1936"
+        ]
+    ]
+}

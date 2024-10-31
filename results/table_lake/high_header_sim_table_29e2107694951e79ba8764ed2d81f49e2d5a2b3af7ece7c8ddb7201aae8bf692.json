@@ -1,0 +1,91 @@
+{
+    "id": "29e2107694951e79ba8764ed2d81f49e2d5a2b3af7ece7c8ddb7201aae8bf692",
+    "metadata": "Szuperkupa | By club | By club",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Winners",
+        "Finalists",
+        "Winning_editions",
+        "Not_winning_editions"
+    ],
+    "cell": [
+        [
+            "Debrecen",
+            "5",
+            "3",
+            "2005, 2006, 2007, 2009, 2010",
+            "2008, 2012, 2013"
+        ],
+        [
+            "Ferencv\u00e1ros",
+            "4",
+            "2",
+            "1993, 1994, 1995, 2004",
+            "1992, 2003"
+        ],
+        [
+            "MTK Hung\u00e1ria/Bp.",
+            "3",
+            "\u2014",
+            "1997, 2003, 2008",
+            "0 0 0 0 \u2014"
+        ],
+        [
+            "Videoton/Feh\u00e9rvar",
+            "2",
+            "2",
+            "2011, 2012",
+            "2006, 2010"
+        ],
+        [
+            "\u00dajpesti TE / \u00dajpest FC",
+            "2",
+            "\u2014",
+            "1992, 2002",
+            "0 0 0 0 \u2014"
+        ],
+        [
+            "Gy\u0151ri",
+            "1",
+            "\u2014",
+            "2013",
+            "0 0 0 0 \u2014"
+        ],
+        [
+            "Kispest/Bp. Honv\u00e9d",
+            "\u2014",
+            "3",
+            "0 0 0 0 \u2014",
+            "1993, 2007, 2009"
+        ],
+        [
+            "Kecskem\u00e9t",
+            "\u2014",
+            "1",
+            "0 0 0 0 \u2014",
+            "2011"
+        ],
+        [
+            "Sopron",
+            "\u2014",
+            "1",
+            "0 0 0 0 \u2014",
+            "2005"
+        ],
+        [
+            "V\u00e1c",
+            "\u2014",
+            "1",
+            "0 0 0 0 \u2014",
+            "1994"
+        ],
+        [
+            "Zalaegerszeg",
+            "\u2014",
+            "1",
+            "0 0 0 0 \u2014",
+            "2002"
+        ]
+    ]
+}

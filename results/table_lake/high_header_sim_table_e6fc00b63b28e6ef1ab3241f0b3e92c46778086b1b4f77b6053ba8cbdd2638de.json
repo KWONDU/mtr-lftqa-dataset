@@ -1,0 +1,112 @@
+{
+    "id": "e6fc00b63b28e6ef1ab3241f0b3e92c46778086b1b4f77b6053ba8cbdd2638de",
+    "metadata": "1967 Philadelphia Eagles season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 17, 1967",
+            "Washington Redskins",
+            "W 35-24",
+            "60709"
+        ],
+        [
+            "2",
+            "September 24, 1967",
+            "Baltimore Colts",
+            "L 38-6",
+            "60755"
+        ],
+        [
+            "3",
+            "October 1, 1967",
+            "Pittsburgh Steelers",
+            "W 34-24",
+            "60335"
+        ],
+        [
+            "4",
+            "October 8, 1967",
+            "at Atlanta Falcons",
+            "W 38-7",
+            "53868"
+        ],
+        [
+            "5",
+            "October 15, 1967",
+            "San Francisco 49ers",
+            "L 28-27",
+            "60825"
+        ],
+        [
+            "6",
+            "October 22, 1967",
+            "at St. Louis Cardinals",
+            "L 48-14",
+            "46562"
+        ],
+        [
+            "7",
+            "October 29, 1967",
+            "Dallas Cowboys",
+            "W 21-14",
+            "60740"
+        ],
+        [
+            "8",
+            "November 5, 1967",
+            "at New Orleans Saints",
+            "L 31-24",
+            "59596"
+        ],
+        [
+            "9",
+            "November 12, 1967",
+            "at Los Angeles Rams",
+            "L 33-17",
+            "57628"
+        ],
+        [
+            "10",
+            "November 19, 1967",
+            "New Orleans Saints",
+            "W 48-21",
+            "60751"
+        ],
+        [
+            "11",
+            "November 26, 1967",
+            "at New York Giants",
+            "L 44-7",
+            "63027"
+        ],
+        [
+            "12",
+            "December 3, 1967",
+            "at Washington Redskins",
+            "T 35-35",
+            "50451"
+        ],
+        [
+            "13",
+            "December 10, 1967",
+            "at Dallas Cowboys",
+            "L 38-17",
+            "55834"
+        ],
+        [
+            "14",
+            "December 17, 1967",
+            "Cleveland Browns",
+            "W 28-24",
+            "60658"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "c0c2ec1616d110cf248e74ca3db40abaec497085e16614bbfddc5f733d4fbbba",
+    "metadata": "G.D. Estoril Praia | European cup history | European cup history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Competition",
+        "Round",
+        "Opponent",
+        "Home",
+        "Away"
+    ],
+    "cell": [
+        [
+            "2013-14",
+            "UEFA Europa League",
+            "3Q",
+            "Hapoel Ramat Gan",
+            "0-0",
+            "1-0"
+        ],
+        [
+            "2013-14",
+            "UEFA Europa League",
+            "Play-off",
+            "Pasching",
+            "2-0",
+            "2-1"
+        ],
+        [
+            "2013-14",
+            "UEFA Europa League",
+            "Group H",
+            "Sevilla",
+            "1-2",
+            "-"
+        ],
+        [
+            "2013-14",
+            "UEFA Europa League",
+            "Group H",
+            "Slovan Liberec",
+            "-",
+            "1-2"
+        ],
+        [
+            "2013-14",
+            "UEFA Europa League",
+            "Group H",
+            "Freiburg",
+            "-",
+            "1-1"
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "9b17d460dbfdb946ec0c742db91f496a6b0025f841c0ef4a7a41fd46bb3577c0",
+    "metadata": "Tackle (football move) | Allowable tackle types | Allowable tackle types",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "sliding_tackle",
+        "spear_tackle",
+        "dump_tackle",
+        "body_tackle",
+        "ankle_tap",
+        "diving_tackle",
+        "bumping_blocking",
+        "shoulder_charge",
+        "steal_intercept_ball",
+        "Chicken_wing"
+    ],
+    "cell": [
+        [
+            "Yes",
+            "No",
+            "No",
+            "No",
+            "No",
+            "No",
+            "No",
+            "Restricted",
+            "Restricted",
+            "No"
+        ],
+        [
+            "No",
+            "Reportable",
+            "Yes",
+            "Restricted",
+            "No",
+            "Yes",
+            "Yes",
+            "Reportable",
+            "Yes",
+            "No"
+        ],
+        [
+            "No",
+            "No",
+            "No",
+            "No",
+            "No",
+            "No",
+            "Restricted",
+            "No",
+            "No",
+            "Restricted"
+        ],
+        [
+            "Classified as a trip",
+            "Illegal if Leading with Head",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        [
+            "Reportable",
+            "Reportable",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Penalty",
+            "Yes",
+            "Restricted",
+            "Reportable"
+        ],
+        [
+            "Reportable",
+            "Reportable",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Penalty",
+            "No",
+            "Restricted",
+            "Penalty"
+        ]
+    ]
+}

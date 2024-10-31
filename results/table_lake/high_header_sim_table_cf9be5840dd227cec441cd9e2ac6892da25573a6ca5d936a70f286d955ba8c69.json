@@ -1,0 +1,994 @@
+{
+    "id": "cf9be5840dd227cec441cd9e2ac6892da25573a6ca5d936a70f286d955ba8c69",
+    "metadata": "Chronology of Norwegian railway lines | List | List",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Line",
+        "Historic_name",
+        "Segment",
+        "Gauge",
+        "Tracks"
+    ],
+    "cell": [
+        [
+            "Trunk *",
+            "\u2014",
+            "Oslo East - Eidsvoll",
+            "Standard",
+            "Single"
+        ],
+        [
+            "R\u00f8ros",
+            "Hamar-Grundset",
+            "Hamar - Grundset",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Kongsvinger",
+            "\u2014",
+            "Lillestr\u00f8m - Kongsvinger",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Dovre",
+            "Trondhjem-St\u00f8ren",
+            "St\u00f8ren - Trondheim",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Kongsvinger",
+            "Border",
+            "Kongsvinger - Swedish border",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Randsfjorden",
+            "\u2014",
+            "Vikersund - Drammen",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Randsfjorden",
+            "\u2014",
+            "Tyristrand - Vikersund",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Randsfjorden",
+            "\u2014",
+            "Randsfjord - Tyristrand",
+            "CAP",
+            "Single"
+        ],
+        [
+            "R\u00f8ros",
+            "Aamodt",
+            "Grundset - Rena",
+            "CAP",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "Randsfjorden (branch)",
+            "Hokksund - Kongsberg",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Drammen",
+            "\u2014",
+            "Drammen - Oslo West",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Kr\u00f8deren",
+            "\u2014",
+            "Kr\u00f8deren - Vikersund",
+            "CAP",
+            "Single"
+        ],
+        [
+            "R\u00f8ros",
+            "\u2014",
+            "Rena - Koppang",
+            "CAP",
+            "Single"
+        ],
+        [
+            "R\u00f8ros",
+            "\u2014",
+            "Sings\u00e5s - St\u00f8ren",
+            "CAP",
+            "Single"
+        ],
+        [
+            "R\u00f8ros",
+            "\u2014",
+            "R\u00f8ros - Sings\u00e5s",
+            "CAP",
+            "Single"
+        ],
+        [
+            "R\u00f8ros",
+            "\u2014",
+            "Koppang - R\u00f8ros",
+            "CAP",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "J\u00e6ren",
+            "Stavanger - Egersund",
+            "CAP",
+            "Single"
+        ],
+        [
+            "\u00d8stfold",
+            "Smaalenene",
+            "Oslo East - Moss - Halden",
+            "Standard",
+            "Single"
+        ],
+        [
+            "\u00d8stfold",
+            "Smaalenene",
+            "Halden - Swedish border",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Dovre",
+            "Eidsvold-Hamar",
+            "Eidsvoll - Hamar",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Mer\u00e5ker",
+            "\u2014",
+            "Trondheim - Swedish border",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Vestfold",
+            "Jarlsberg",
+            "Larvik - Drammen",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Horten",
+            "\u2014",
+            "Skoppum - Horten",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Vestfold",
+            "Jarlsberg",
+            "Skien - Larvik",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Eastern \u00d8stfold",
+            "Smaalenene",
+            "Ski - Mysen - Sarpsborg",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Bergen",
+            "Voss",
+            "Bergen - Voss",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Dovre",
+            "R\u00f8ros",
+            "Selsbakk - Trondheim",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Sulitjelma *",
+            "\u2014",
+            "Sj\u00f8nst\u00e5 - Fossen",
+            "750 mm",
+            "Single"
+        ],
+        [
+            "Sulitjelma *",
+            "\u2014",
+            "Fossen - Hellarmo",
+            "750 mm",
+            "Single"
+        ],
+        [
+            "Sol\u00f8r",
+            "Kongsvinger-Flisen",
+            "Kongsvinger - Flisa",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nesttun-Os *",
+            "\u2014",
+            "Os\u00f8ren - Nesttun",
+            "750 mm",
+            "Single"
+        ],
+        [
+            "Dovre",
+            "Hamar-Sel",
+            "Hamar - Tretten",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Brevik",
+            "\u2014",
+            "Brevik - Eidanger",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Lillesand-Flaksvand *",
+            "\u2014",
+            "Lillesand - Flaksvand",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Dovre",
+            "Hamar-Sel",
+            "Tretten - Otta",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Urskog-H\u00f8land",
+            "H\u00f8land",
+            "Bingfos - Bj\u00f8rkelangen",
+            "750 mm",
+            "Single"
+        ],
+        [
+            "Setesdal",
+            "\u2014",
+            "Kristiansand - Bygelandsfjord",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Urskog-H\u00f8land *",
+            "\u2014",
+            "Bj\u00f8rkelangen - Skulerud",
+            "750 mm",
+            "Single"
+        ],
+        [
+            "Gj\u00f8vik",
+            "North",
+            "Grefsen - Jaren",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Gj\u00f8vik",
+            "North",
+            "Jaren - R\u00f8ykenvik",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Alnabru-Grefsen",
+            "North",
+            "Grefsen - Alnabru",
+            "Standard",
+            "Single"
+        ],
+        [
+            "T\u00f8nsberg-Eidsfoss *",
+            "\u2014",
+            "T\u00f8nsberg - Eidsfoss",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "Hell-Sunnan",
+            "Hell - Stj\u00f8rdal",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Holmestrand-Vittingfoss *",
+            "\u2014",
+            "Holmestrand - Vittingfoss",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "Hell-Sunnan",
+            "Stj\u00f8rdal - Levanger",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Ofoten",
+            "\u2014",
+            "Narvik - Swedish border",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Gj\u00f8vik",
+            "North",
+            "Oslo East - Grefsen",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Gj\u00f8vik",
+            "North",
+            "Jaren - Gj\u00f8vik",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Skreia",
+            "\u2014",
+            "Reinsvoll - Skreia",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Valdres *",
+            "\u2014",
+            "Eina - Dokka",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Valdres *",
+            "\u2014",
+            "Dokka - Tons\u00e5sen",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Urskog-H\u00f8land *",
+            "\u2014",
+            "S\u00f8rumsand - Bingfos",
+            "750 mm",
+            "Single"
+        ],
+        [
+            "Lier *",
+            "\u2014",
+            "Lier - Svangerstrand",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "Hell-Sunnan",
+            "Levanger - Verdal",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Flekkefjord",
+            "\u2014",
+            "Egersund - Flekkefjord",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Nordland *",
+            "Dunderland",
+            "Tverr\u00e5sen - Storfoshei",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Valdres *",
+            "\u2014",
+            "Tons\u00e5sen - Aurdal",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "Hell-Sunnan",
+            "Verdal - Sunnan",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Valdres *",
+            "\u2014",
+            "Aurdal - Fagernes",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Loenga-Alnabru",
+            "\u2014",
+            "Loenga - Alnabru",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Grimstad *",
+            "\u2014",
+            "Rise - Grimstad",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Oslo Port",
+            "\u2014",
+            "Oslo West - Oslo East",
+            "Dual",
+            "Single"
+        ],
+        [
+            "Bergen",
+            "\u2014",
+            "Voss - Gulsvik",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Thamshavn *",
+            "\u2014",
+            "Svorkmo - Thamshavn",
+            "Meter",
+            "Single"
+        ],
+        [
+            "Rjukan *",
+            "\u2014",
+            "Rjukan - M\u00e6l",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Tinnoset *",
+            "\u2014",
+            "Tinnoset - Notodden",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Bergen",
+            "\u2014",
+            "Gulsvik - Roa",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Thamshavn *",
+            "\u2014",
+            "L\u00f8kken - Svorkmo",
+            "Meter",
+            "Single"
+        ],
+        [
+            "Kirkenes-Bj\u00f8rnevatn *",
+            "\u2014",
+            "Kirkenes - Bj\u00f8rnevatn",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Sol\u00f8r",
+            "\u2014",
+            "Flisa - Elverum",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Arendal",
+            "Arendal-Treungen",
+            "Arendal - \u00c5mli",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Dovre",
+            "\u2014",
+            "Otta - Domb\u00e5s",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Arendal",
+            "Arendal-Treungen",
+            "\u00c5mli - Treungen",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Sulitjelma *",
+            "\u2014",
+            "Hellarmo - Fagerli",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Bratsberg",
+            "\u2014",
+            "Eikonr\u00f8d - Notodden",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Solbergfoss *",
+            "\u2014",
+            "Askim - Solbergfoss",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Vestmarka",
+            "\u2014",
+            "Skotterud - Vestmarka",
+            "Standard",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "\u2014",
+            "Hjukseb\u00f8 - Kongsberg",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Dovre",
+            "\u2014",
+            "Domb\u00e5s - St\u00f8ren",
+            "Standard",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "\u2014",
+            "Gvarv - Nordagutu",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Rauma",
+            "\u2014",
+            "Domb\u00e5s - \u00c5ndalsnes",
+            "Standard",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "\u2014",
+            "B\u00f8 - Gvarv",
+            "Standard",
+            "Single"
+        ],
+        [
+            "\u00c5lg\u00e5rd",
+            "\u2014",
+            "\u00c5lg\u00e5rd - Ganddal",
+            "CAP",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "\u2014",
+            "Lunde - B\u00f8",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Sperillen",
+            "\u2014",
+            "Hen - Sperillen",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Sunnan - Sn\u00e5sa",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Numedal",
+            "\u2014",
+            "Kongsberg - R\u00f8dberg",
+            "Standard",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "\u2014",
+            "Neslandsvatn - Lunde",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Krager\u00f8",
+            "S\u00f8rlandet",
+            "Krager\u00f8 - Neslandsvatn",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Sn\u00e5sa - Grong",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Namsos",
+            "\u2014",
+            "Grong - Namsos",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Hardanger",
+            "\u2014",
+            "Granvin - Voss",
+            "Standard",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "\u2014",
+            "Nelaug - Neslandsvatn",
+            "Standard",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "\u2014",
+            "Grovane - Nelaug",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Grong - Mosj\u00f8en",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Mosj\u00f8en - Elsfjord",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Fl\u00e5m",
+            "\u2014",
+            "Fl\u00e5m - Myrdal",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Elsfjord - Bjerka",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Bjerka - Mo i Rana",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Mo i Rana - Tverr\u00e5nes",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Storforshei - Gr\u00f8nnfjelldal",
+            "Standard",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "\u2014",
+            "Sira - Tronviken",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Flekkefjord",
+            "\u2014",
+            "Sira - Sirnes",
+            "Standard",
+            "Single"
+        ],
+        [
+            "S\u00f8rlandet",
+            "\u2014",
+            "Sira - Kristiansand",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Gr\u00f8nnfjelldal - Dunderland",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Dunderland - L\u00f8nsdal",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "L\u00f8nsdal - R\u00f8kland",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Sulitjelma",
+            "\u2014",
+            "\u00c5glifjell - Finneid",
+            "CAP",
+            "Single"
+        ],
+        [
+            "Stavne-Leangen",
+            "\u2014",
+            "Stavne - Leangen",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "R\u00f8kland - Fauske",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Fauske - Bod\u00f8",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Bergen",
+            "\u2014",
+            "Bergen - Arna",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Drammen",
+            "\u2014",
+            "Braker\u00f8y - Asker",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Drammen",
+            "\u2014",
+            "Sk\u00f8yen - Oslo",
+            "Standard",
+            "Double"
+        ],
+        [
+            "\u00d8stfold",
+            "\u2014",
+            "Tveter- Vestby",
+            "Standard",
+            "Double"
+        ],
+        [
+            "\u00d8stfold",
+            "\u2014",
+            "Vestby -Rustad",
+            "Standard",
+            "Double"
+        ],
+        [
+            "\u00d8stfold",
+            "\u2014",
+            "\u00c5s",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Bergen",
+            "\u2014",
+            "H\u00f8gheller- Finse",
+            "Standard",
+            "Single"
+        ],
+        [
+            "\u00d8stfold",
+            "\u2014",
+            "\u00c5s -Tveter",
+            "Standard",
+            "Double"
+        ],
+        [
+            "\u00d8stfold",
+            "\u2014",
+            "Ski - \u00c5s",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Vestfold",
+            "\u2014",
+            "Skoger",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Bergen",
+            "\u2014",
+            "Kongsnut",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Drammen",
+            "\u2014",
+            "Drammen - Braker\u00f8ya",
+            "Standard",
+            "Double"
+        ],
+        [
+            "\u00d8stfold",
+            "\u2014",
+            "Kambo -Sandbukta",
+            "Standard",
+            "Double"
+        ],
+        [
+            "\u00d8stfold",
+            "\u2014",
+            "Rustad-H\u00f8len",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Bergen",
+            "\u2014",
+            "Uksabotn",
+            "Standard",
+            "Single"
+        ],
+        [
+            "\u00d8stfold",
+            "\u2014",
+            "H\u00f8len- Kambo",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Bergen",
+            "\u2014",
+            "Larsbu",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Bergen",
+            "\u2014",
+            "Storurdi",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Gardermoen",
+            "\u2014",
+            "Lillestr\u00f8m - Eidsvoll",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Gardermoen",
+            "\u2014",
+            "Etterstad - Lillestr\u00f8m",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Bergen",
+            "\u2014",
+            "Gr\u00e5skallen",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Drammen",
+            "\u2014",
+            "Nationaltheatret",
+            "Standard",
+            "Quadruple"
+        ],
+        [
+            "Vestfold",
+            "\u2014",
+            "S\u00e5stad-Haug",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Vestfold",
+            "\u2014",
+            "Nykirke",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Vestfold",
+            "\u2014",
+            "Holm-Bergsenga",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Asker",
+            "\u2014",
+            "Asker - Sandvika",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Nordland",
+            "\u2014",
+            "Hommelvik - Hell",
+            "Standard",
+            "Single"
+        ],
+        [
+            "Asker",
+            "\u2014",
+            "Sandvika - Lysaker",
+            "Standard",
+            "Double"
+        ],
+        [
+            "Vestfold",
+            "\u2014",
+            "T\u00f8nsberg - Bark\u00e5ker",
+            "Standard",
+            "Double"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "0351da9aa8bd2a207275f702a8a4c23624f147794c9c3a64d7e694388891486e",
+    "metadata": "Capital gains tax in the United States | Current law | Current law",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Marginal_Ordinary_Income_Tax_Rate",
+        "Single",
+        "Married_Filing_Jointly_or_Qualified_Widower",
+        "Married_Filing_Separately",
+        "Head_of_Household"
+    ],
+    "cell": [
+        [
+            "10%",
+            "$0-$8,350",
+            "$0-$16,700",
+            "$0-$8,350",
+            "$0-$11,950"
+        ],
+        [
+            "15%",
+            "$8,351- $33,950",
+            "$16,701-$67,900",
+            "$8,351-$33,950",
+            "$11,951-$45,500"
+        ],
+        [
+            "25%",
+            "$33,951-$82,250",
+            "$67,901-$137,050",
+            "$33,951-$68,525",
+            "$45,501-$117,450"
+        ],
+        [
+            "28%",
+            "$82,251-$171,550",
+            "$137,051-$208,850",
+            "$68,525-$104,425",
+            "$117,451-$190,200"
+        ],
+        [
+            "33%",
+            "$171,551-$372,950",
+            "$208,851-$372,950",
+            "$104,426-$186,475",
+            "$190,201-$372,950"
+        ]
+    ]
+}

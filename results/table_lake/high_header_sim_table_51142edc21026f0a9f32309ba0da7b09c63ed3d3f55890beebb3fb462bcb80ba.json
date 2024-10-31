@@ -1,0 +1,56 @@
+{
+    "id": "51142edc21026f0a9f32309ba0da7b09c63ed3d3f55890beebb3fb462bcb80ba",
+    "metadata": "1997 PGA Championship | Missed the cut | Missed the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "Mark Brooks",
+            "United States",
+            "1996",
+            "149",
+            "+9"
+        ],
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1963 , 1971 , 1973 1975 , 1980",
+            "150",
+            "+10"
+        ],
+        [
+            "Jeff Sluman",
+            "United States",
+            "1988",
+            "151",
+            "+11"
+        ],
+        [
+            "Hal Sutton",
+            "United States",
+            "1983",
+            "156",
+            "+16"
+        ],
+        [
+            "Wayne Grady",
+            "Australia",
+            "1990",
+            "158",
+            "+18"
+        ],
+        [
+            "John Mahaffey",
+            "United States",
+            "1978",
+            "78",
+            "+8"
+        ]
+    ]
+}

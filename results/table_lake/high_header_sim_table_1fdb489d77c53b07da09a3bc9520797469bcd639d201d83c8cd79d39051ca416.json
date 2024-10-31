@@ -1,0 +1,70 @@
+{
+    "id": "1fdb489d77c53b07da09a3bc9520797469bcd639d201d83c8cd79d39051ca416",
+    "metadata": "Light rail in Canada | List of Canadian light rail systems by ridership | List of Canadian light rail systems by ridership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "System_",
+        "Category",
+        "Daily_ridership",
+        "As_of",
+        "Opened",
+        "Stations"
+    ],
+    "cell": [
+        [
+            "Vancouver, BC",
+            "SkyTrain (Vancouver)",
+            "ICTS",
+            "354000",
+            "2009",
+            "1985",
+            "47"
+        ],
+        [
+            "Toronto , Ontario",
+            "Toronto streetcar system",
+            "Streetcar",
+            "275200",
+            "4Q2009",
+            "1861",
+            "N/A"
+        ],
+        [
+            "Calgary, Alberta",
+            "C-Train",
+            "Light rail",
+            "269600",
+            "2012",
+            "1981",
+            "44"
+        ],
+        [
+            "Edmonton, Alberta",
+            "Edmonton LRT",
+            "Light rail",
+            "93600",
+            "2010",
+            "1978",
+            "15"
+        ],
+        [
+            "Toronto , Ontario",
+            "Scarborough RT",
+            "ICTS",
+            "42250",
+            "2009",
+            "1985",
+            "6"
+        ],
+        [
+            "Ottawa, Ontario",
+            "O-Train",
+            "Diesel light rail",
+            "12200",
+            "4Q2009",
+            "2001",
+            "5"
+        ]
+    ]
+}

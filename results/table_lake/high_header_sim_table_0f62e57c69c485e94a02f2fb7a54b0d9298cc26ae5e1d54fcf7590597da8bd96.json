@@ -1,0 +1,56 @@
+{
+    "id": "0f62e57c69c485e94a02f2fb7a54b0d9298cc26ae5e1d54fcf7590597da8bd96",
+    "metadata": "United States House of Representatives elections, 2006 | Kentucky | Kentucky",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results"
+    ],
+    "cell": [
+        [
+            "Kentucky 1",
+            "Ed Whitfield",
+            "Republican",
+            "1994",
+            "Re-elected"
+        ],
+        [
+            "Kentucky 2",
+            "Ron Lewis",
+            "Republican",
+            "1994",
+            "Re-elected"
+        ],
+        [
+            "Kentucky 3",
+            "Anne Northup",
+            "Republican",
+            "1996",
+            "Lost re-election Democratic gain"
+        ],
+        [
+            "Kentucky 4",
+            "Geoff Davis",
+            "Republican",
+            "2004",
+            "Re-elected"
+        ],
+        [
+            "Kentucky 5",
+            "Hal Rogers",
+            "Republican",
+            "1980",
+            "Re-elected"
+        ],
+        [
+            "Kentucky 6",
+            "Ben Chandler",
+            "Democratic",
+            "2004",
+            "Re-elected"
+        ]
+    ]
+}

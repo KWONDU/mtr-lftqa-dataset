@@ -1,0 +1,63 @@
+{
+    "id": "185d2b04842f7201f0c3a565c2d992ca67f26065fee507890be6f77bce8a4489",
+    "metadata": "United States House of Representatives elections, 1980 | Pennsylvania | Pennsylvania",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Pennsylvania 6",
+            "Gus Yatron",
+            "Democratic",
+            "1968",
+            "Re-elected",
+            "Gus Yatron (D) 67.1% George Hulshart (R) 32.9%"
+        ],
+        [
+            "Pennsylvania 9",
+            "Bud Shuster",
+            "Republican",
+            "1972",
+            "Re-elected",
+            "Bud Shuster (R) Unopposed"
+        ],
+        [
+            "Pennsylvania 11",
+            "Ray Musto",
+            "Democratic",
+            "1980",
+            "Lost re-election Republican gain",
+            "James L. Nelligan (R) 51.9% Ray Musto (D) 48.1%"
+        ],
+        [
+            "Pennsylvania 12",
+            "John Murtha",
+            "Democratic",
+            "1974",
+            "Re-elected",
+            "John Murtha (D) 59.4% Charles A. Getty (R) 40.6%"
+        ],
+        [
+            "Pennsylvania 18",
+            "Doug Walgren",
+            "Democratic",
+            "1976",
+            "Re-elected",
+            "Doug Walgren (D) 68.5% Steven R. Snyder (R) 31.5%"
+        ],
+        [
+            "Pennsylvania 21",
+            "Donald A. Bailey",
+            "Democratic",
+            "1978",
+            "Re-elected",
+            "Donald A. Bailey (D) 68.4% Dirk Matson (R) 31.6%"
+        ]
+    ]
+}

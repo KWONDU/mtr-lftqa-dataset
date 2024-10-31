@@ -1,0 +1,112 @@
+{
+    "id": "37c015182d3058c95f33e4d2de4fd87497a03cce6a6882dcb32d3e782b25d1f4",
+    "metadata": "2008 Veikkausliiga | Overview | Overview",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Club",
+        "Location_",
+        "Stadium",
+        "Capacity",
+        "Manager"
+    ],
+    "cell": [
+        [
+            "FC Haka",
+            "Valkeakoski",
+            "Tehtaan kentt\u00e4",
+            "3516",
+            "Olli Huttunen"
+        ],
+        [
+            "HJK",
+            "Helsinki",
+            "Finnair Stadium",
+            "10770",
+            "Antti Muurinen"
+        ],
+        [
+            "FC Honka",
+            "Espoo",
+            "Tapiolan Urheilupuisto",
+            "6000",
+            "Mika Lehkosuo"
+        ],
+        [
+            "FC Inter",
+            "Turku",
+            "Veritas Stadion",
+            "10000",
+            "Job Dragtsma"
+        ],
+        [
+            "FF Jaro",
+            "Jakobstad",
+            "Jakobstads Centralplan",
+            "5000",
+            "Mika Laurikainen"
+        ],
+        [
+            "FC KooTeePee",
+            "Kotka",
+            "Arto Tolsa Areena",
+            "4780",
+            "Tommi Kautonen"
+        ],
+        [
+            "KuPS",
+            "Kuopio",
+            "Magnum Areena",
+            "3500",
+            "Kai Nyyss\u00f6nen"
+        ],
+        [
+            "FC Lahti",
+            "Lahti",
+            "Lahden Stadion",
+            "15000",
+            "Ilkka M\u00e4kel\u00e4"
+        ],
+        [
+            "IFK Mariehamn",
+            "Mariehamn",
+            "Wikl\u00f6f Holding Arena",
+            "1600",
+            "Pekka Lyyski"
+        ],
+        [
+            "MYPA",
+            "Anjalankoski",
+            "Saviniemi",
+            "4067",
+            "Janne Lindberg"
+        ],
+        [
+            "RoPS",
+            "Rovaniemi",
+            "Keskuskentt\u00e4",
+            "4000",
+            "Valeri Bondarenko"
+        ],
+        [
+            "Tampere United",
+            "Tampere",
+            "Ratina Stadion",
+            "17000",
+            "Ari Hjelm"
+        ],
+        [
+            "TPS",
+            "Turku",
+            "Veritas Stadion",
+            "10000",
+            "John Allen"
+        ],
+        [
+            "VPS",
+            "Vaasa",
+            "Hietalahti Stadium",
+            "4600",
+            "Tomi K\u00e4rkk\u00e4inen"
+        ]
+    ]
+}

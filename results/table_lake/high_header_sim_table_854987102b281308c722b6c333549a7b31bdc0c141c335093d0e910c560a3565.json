@@ -1,0 +1,79 @@
+{
+    "id": "854987102b281308c722b6c333549a7b31bdc0c141c335093d0e910c560a3565",
+    "metadata": "Leonardo Cordeiro | Career summary | Career summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Series",
+        "Team",
+        "Races",
+        "Wins",
+        "Poles",
+        "F_Laps",
+        "Podiums",
+        "Points",
+        "Position_"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Formula Three Sudamericana",
+            "Lecor Sports",
+            "13",
+            "0",
+            "0",
+            "0",
+            "1",
+            "11",
+            "17th"
+        ],
+        [
+            "2008",
+            "Formula Three Sudamericana",
+            "Cesario F\u00f3rmula",
+            "18",
+            "1",
+            "5",
+            "5",
+            "8",
+            "74",
+            "4th"
+        ],
+        [
+            "2009",
+            "Formula Three Sudamericana",
+            "Cesario F\u00f3rmula",
+            "18",
+            "10",
+            "12",
+            "15",
+            "15",
+            "134",
+            "1st"
+        ],
+        [
+            "2010",
+            "GP3 Series",
+            "MW Arden",
+            "16",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "27th"
+        ],
+        [
+            "2011",
+            "GP3 Series",
+            "Carlin",
+            "16",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "30th"
+        ]
+    ]
+}

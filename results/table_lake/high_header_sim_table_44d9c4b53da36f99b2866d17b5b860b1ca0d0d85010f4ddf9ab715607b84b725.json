@@ -1,0 +1,112 @@
+{
+    "id": "44d9c4b53da36f99b2866d17b5b860b1ca0d0d85010f4ddf9ab715607b84b725",
+    "metadata": "2006-07 Montenegrin Cup | Second round | Attendance",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Venue",
+        "Home",
+        "Guest",
+        "Score",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "Stadion na Koniku",
+            "FK Ribnica",
+            "FK Mladost",
+            "0:1",
+            "500"
+        ],
+        [
+            "Stadion u Bijeloj",
+            "OFK Bijela",
+            "FK Budu\u0107nost",
+            "0:4",
+            "1.000"
+        ],
+        [
+            "Gradski stadion",
+            "FK Berane",
+            "FK Ibar",
+            "3:3 (pen: 4:2)",
+            "3.000"
+        ],
+        [
+            "Stadion Zabjela",
+            "FK Zabjelo",
+            "OFK Grbalj",
+            "1:2",
+            "300"
+        ],
+        [
+            "Stadion Olimpik",
+            "FK Otrant",
+            "FK Mogren",
+            "1:1 (pen: 4:3)",
+            "1.200"
+        ],
+        [
+            "Stadion pod Vrmcem",
+            "FK Bokelj",
+            "FK Jedinstvo",
+            "3:0",
+            "600"
+        ],
+        [
+            "Stadion Tu\u0161ko polje",
+            "FK De\u010di\u0107",
+            "FK \u010celik",
+            "5:0",
+            "400"
+        ],
+        [
+            "Stadion u Radanovi\u0107ima",
+            "FK Arsenal",
+            "FK Sutjeska",
+            "0:2",
+            "400"
+        ],
+        [
+            "Stadion Tre\u0161njica",
+            "FK Zeta",
+            "FK Lov\u0107en",
+            "2:1",
+            "1.000"
+        ],
+        [
+            "Stadion Racina",
+            "FK Jezero",
+            "OFK Petrovac",
+            "0:3",
+            "1.500"
+        ],
+        [
+            "Stadion Topolica",
+            "FK Mornar",
+            "FK Rudar Pljevlja",
+            "0:1",
+            "800"
+        ],
+        [
+            "Stadion bra\u0107a Vela\u0161evi\u0107",
+            "FK Iskra Danilovgrad",
+            "FK Zora",
+            "0:1",
+            "500"
+        ],
+        [
+            "Stadion Cijevna",
+            "FK Bratstvo",
+            "FK Gusinje",
+            "3:0",
+            "140"
+        ],
+        [
+            "Gradski stadion",
+            "FK Prvijenac",
+            "FK Komovi",
+            "0:1",
+            "250"
+        ]
+    ]
+}

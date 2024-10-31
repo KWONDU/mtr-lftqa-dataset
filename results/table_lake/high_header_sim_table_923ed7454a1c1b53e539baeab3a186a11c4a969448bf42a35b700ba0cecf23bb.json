@@ -1,0 +1,70 @@
+{
+    "id": "923ed7454a1c1b53e539baeab3a186a11c4a969448bf42a35b700ba0cecf23bb",
+    "metadata": "Lone Star Alliance | Division II | Division II",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Founded",
+        "Affiliation",
+        "Enrollment",
+        "Team_Nickname",
+        "Primary_conference"
+    ],
+    "cell": [
+        [
+            "University of Houston",
+            "Houston, Texas",
+            "1927",
+            "Public",
+            "40747",
+            "Cougars",
+            "American ( Division I )"
+        ],
+        [
+            "University of Mary Hardin-Baylor",
+            "Belton, Texas",
+            "1845",
+            "Private",
+            "3287",
+            "Crusaders",
+            "ASC ( Division III )"
+        ],
+        [
+            "Sam Houston State University",
+            "Huntsville, Texas",
+            "1879",
+            "Public",
+            "16882",
+            "Bearkats",
+            "Southland ( Division I )"
+        ],
+        [
+            "St. Edward`s University",
+            "Austin, Texas",
+            "1878",
+            "Private/ Catholic",
+            "5400",
+            "Hilltopper",
+            "Heartland ( Division II )"
+        ],
+        [
+            "Stephen F. Austin State University",
+            "Nacogdoches, Texas",
+            "1921",
+            "Public",
+            "12845",
+            "Lumberjacks",
+            "Southland ( Division I )"
+        ],
+        [
+            "University of Texas at Dallas",
+            "Richardson, Texas",
+            "1969",
+            "Public",
+            "19727",
+            "Comets",
+            "ASC ( Division III )"
+        ]
+    ]
+}

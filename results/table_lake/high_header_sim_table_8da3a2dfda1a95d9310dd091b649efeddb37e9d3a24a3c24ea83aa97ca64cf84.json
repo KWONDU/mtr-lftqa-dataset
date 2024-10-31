@@ -1,0 +1,127 @@
+{
+    "id": "8da3a2dfda1a95d9310dd091b649efeddb37e9d3a24a3c24ea83aa97ca64cf84",
+    "metadata": "Port of Hong Kong | Shipping | Container terminals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Terminal",
+        "Operator_",
+        "Depth_m",
+        "Berths",
+        "Quay_length_m",
+        "Quay_cranes",
+        "Area_m\u00b2",
+        "Capacity_kTEUs_"
+    ],
+    "cell": [
+        [
+            "Terminal 1 (CT1)",
+            "MTL",
+            "14",
+            "1",
+            "",
+            "4",
+            "",
+            ""
+        ],
+        [
+            "Terminal 2 (CT2)",
+            "MTL",
+            "14",
+            "1",
+            "",
+            "5",
+            "",
+            ""
+        ],
+        [
+            "Terminal 3 (CT3)",
+            "DPI",
+            "14",
+            "1",
+            "305",
+            "6",
+            "167000",
+            ">1,200"
+        ],
+        [
+            "Terminal 4 (CT4)",
+            "HIT",
+            "12.5",
+            "3",
+            "",
+            "8",
+            "",
+            ""
+        ],
+        [
+            "Terminal 5 (CT5)",
+            "MTL",
+            "14",
+            "1",
+            "",
+            "4",
+            "",
+            ""
+        ],
+        [
+            "Terminal 6 (CT6)",
+            "HIT",
+            "12.5-15.5",
+            "3",
+            "",
+            "11",
+            "",
+            ""
+        ],
+        [
+            "Terminal 7 (CT7)",
+            "HIT",
+            "15.5",
+            "4",
+            "",
+            "15",
+            "",
+            ""
+        ],
+        [
+            "Terminal 8 East (CT8E)",
+            "HIT/COSCO",
+            "15.5",
+            "2",
+            "640",
+            "9",
+            "300000",
+            "1800"
+        ],
+        [
+            "Terminal 8 West (CT8W)",
+            "ACT",
+            "15.5",
+            "2",
+            "740",
+            "8",
+            "285000",
+            ">2,000"
+        ],
+        [
+            "Terminal 9 North (CT9N)",
+            "HIT",
+            "15.5",
+            "2",
+            "700",
+            "9",
+            "190000",
+            ">2,600 (N&S)"
+        ],
+        [
+            "Terminal 9 South (CT9S)",
+            "MTL",
+            "15.5",
+            "4",
+            "1240",
+            "13",
+            "490000",
+            ""
+        ]
+    ]
+}

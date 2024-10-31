@@ -1,0 +1,63 @@
+{
+    "id": "37b15e9f57f7686623a338242b4bb04347333c99f6c3242bd10a4c7e6fc82f8f",
+    "metadata": "1948 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Score",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 6",
+            "Cleveland Indians - 0, Boston Braves - 1",
+            "Braves Field",
+            "1:42",
+            "40135"
+        ],
+        [
+            "2",
+            "October 7",
+            "Cleveland Indians - 4, Boston Braves - 1",
+            "Braves Field",
+            "2:14",
+            "39633"
+        ],
+        [
+            "3",
+            "October 8",
+            "Boston Braves - 0, Cleveland Indians - 2",
+            "Cleveland Stadium",
+            "1:36",
+            "70306"
+        ],
+        [
+            "4",
+            "October 9",
+            "Boston Braves - 1, Cleveland Indians - 2",
+            "Cleveland Stadium",
+            "1:31",
+            "81897"
+        ],
+        [
+            "5",
+            "October 10",
+            "Boston Braves - 11, Cleveland Indians - 5",
+            "Cleveland Stadium",
+            "2:39",
+            "86288"
+        ],
+        [
+            "6",
+            "October 11",
+            "Cleveland Indians - 4, Boston Braves - 3",
+            "Braves Field",
+            "2:16",
+            "40103"
+        ]
+    ]
+}

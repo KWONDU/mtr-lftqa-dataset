@@ -1,0 +1,91 @@
+{
+    "id": "10ed92617d0c28d7c78500cd0475cfa3e1393e3f528ba5517a3e8bba629dd5e9",
+    "metadata": "Euro convergence criteria | Criteria | EU members which have not adopted the euro",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Currency",
+        "Code",
+        "Entry_ERM_II",
+        "Central_rate",
+        "Official_target_date"
+    ],
+    "cell": [
+        [
+            "Bulgarian lev",
+            "BGN",
+            "\u2014",
+            "1.95583",
+            "\u2014"
+        ],
+        [
+            "Croatian kuna",
+            "HRK",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "Czech koruna",
+            "CZK",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "Danish krone",
+            "DKK",
+            "1 January 1999",
+            "7.46038",
+            "Formal opt-out"
+        ],
+        [
+            "Hungarian forint",
+            "HUF",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "Latvian lats",
+            "LVL",
+            "2 May 2005",
+            "0.702804",
+            "1 January 2014"
+        ],
+        [
+            "Lithuanian litas",
+            "LTL",
+            "28 June 2004",
+            "3.45280",
+            "1 January 2015"
+        ],
+        [
+            "Polish z\u0142oty",
+            "PLN",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "Romanian leu",
+            "RON",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "Swedish krona",
+            "SEK",
+            "Not considered",
+            "\u2014",
+            "De facto opt-out"
+        ],
+        [
+            "British pound sterling Gibraltar pound",
+            "GBP GIP",
+            "Not considered",
+            "\u2014",
+            "Formal opt-out"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "56a0efe85c49372d79f71c6b6d635062d1715af9fad9e0d23f1620a9056c3e42",
+    "metadata": "1942 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "12.8 (80)",
+            "South Melbourne",
+            "8.17 (65)",
+            "Arden Street Oval",
+            "12000",
+            "30 May 1942"
+        ],
+        [
+            "Collingwood",
+            "13.9 (87)",
+            "Essendon",
+            "20.16 (136)",
+            "Victoria Park",
+            "6500",
+            "30 May 1942"
+        ],
+        [
+            "Carlton",
+            "13.13 (91)",
+            "Fitzroy",
+            "9.14 (68)",
+            "Princes Park",
+            "14000",
+            "30 May 1942"
+        ],
+        [
+            "St Kilda",
+            "11.17 (83)",
+            "Richmond",
+            "25.13 (163)",
+            "Toorak Park",
+            "9000",
+            "30 May 1942"
+        ],
+        [
+            "Melbourne",
+            "16.15 (111)",
+            "Hawthorn",
+            "8.17 (65)",
+            "Punt Road Oval",
+            "3500",
+            "30 May 1942"
+        ]
+    ]
+}

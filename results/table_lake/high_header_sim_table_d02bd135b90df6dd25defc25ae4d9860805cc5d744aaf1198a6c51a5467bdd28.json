@@ -1,0 +1,63 @@
+{
+    "id": "d02bd135b90df6dd25defc25ae4d9860805cc5d744aaf1198a6c51a5467bdd28",
+    "metadata": "Fitzroy Baseball Club | Club Honour Roll | Fitzroy Baseball Club Honour Roll",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "President",
+        "Secretary",
+        "Treasurer",
+        "Club_Coach",
+        "Best_Player"
+    ],
+    "cell": [
+        [
+            "2012/13",
+            "John King",
+            "Ingar Kirkland",
+            "Chris Wilson",
+            "John Peterson",
+            "Adam Rowe"
+        ],
+        [
+            "2011/12",
+            "John King",
+            "Ingar Kirkland",
+            "Chris Wilson",
+            "Matthew Kemp",
+            "xxx"
+        ],
+        [
+            "2010/11",
+            "John King",
+            "Ingar Kirkland",
+            "Ben Lethborg",
+            "John Edwards",
+            "xxx"
+        ],
+        [
+            "2009/10",
+            "John King",
+            "Ingar Kirkland",
+            "Karen King",
+            "John Edwards",
+            "xxx"
+        ],
+        [
+            "2008/09",
+            "John King",
+            "Ingar Kirkland",
+            "Karen King",
+            "John King",
+            "xxx"
+        ],
+        [
+            "2007/08",
+            "John King",
+            "Ingar Kirkland",
+            "Karen King",
+            "John King",
+            "Alex Turlea"
+        ]
+    ]
+}

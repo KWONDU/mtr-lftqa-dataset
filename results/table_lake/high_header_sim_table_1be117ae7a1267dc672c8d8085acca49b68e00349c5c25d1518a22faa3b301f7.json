@@ -1,0 +1,49 @@
+{
+    "id": "1be117ae7a1267dc672c8d8085acca49b68e00349c5c25d1518a22faa3b301f7",
+    "metadata": "AFC North | Total playoff berths | Total playoff berths",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Teams_With_Division_Titles",
+        "Division_Championships",
+        "Playoff_Berths",
+        "AFC_Titles",
+        "Super_Bowl_Wins"
+    ],
+    "cell": [
+        [
+            "Pittsburgh Steelers",
+            "20",
+            "26",
+            "8",
+            "6"
+        ],
+        [
+            "Cleveland Browns",
+            "9",
+            "15",
+            "0",
+            "0"
+        ],
+        [
+            "Cincinnati Bengals",
+            "8",
+            "11",
+            "2",
+            "0"
+        ],
+        [
+            "Baltimore Ravens",
+            "4",
+            "9",
+            "2",
+            "2"
+        ],
+        [
+            "Tennessee Titans *",
+            "3",
+            "12",
+            "1",
+            "0"
+        ]
+    ]
+}

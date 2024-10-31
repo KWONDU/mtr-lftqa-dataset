@@ -1,0 +1,133 @@
+{
+    "id": "cd5d26d5a28ab0102e96840568ec8ae0ed6e062ae59168d351977858d8924bbb",
+    "metadata": "1994 Alabama Crimson Tide football team | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent_",
+        "Rank_",
+        "Site",
+        "TV",
+        "Result_",
+        "Attendance_"
+    ],
+    "cell": [
+        [
+            "September 3",
+            "Tennessee-Chattanooga*",
+            "#11",
+            "Legion Field \u2022 Birmingham, AL",
+            "",
+            "W 42-13",
+            "82109"
+        ],
+        [
+            "September 10",
+            "Vanderbilt",
+            "#11",
+            "Bryant-Denny Stadium \u2022 Tuscaloosa, AL",
+            "JPS",
+            "W 17-7",
+            "70123"
+        ],
+        [
+            "September 17",
+            "at Arkansas",
+            "#12",
+            "Razorback Stadium \u2022 Fayetteville, AR",
+            "ABC",
+            "W 13-6",
+            "52089"
+        ],
+        [
+            "September 24",
+            "Tulane*",
+            "#11",
+            "Legion Field \u2022 Birmingham, AL",
+            "",
+            "W 20-10",
+            "81421"
+        ],
+        [
+            "October 1",
+            "Georgia",
+            "#11",
+            "Bryant-Denny Stadium \u2022 Tuscaloosa, AL",
+            "ESPN",
+            "W 29-28",
+            "70123"
+        ],
+        [
+            "October 8",
+            "Southern Miss*",
+            "#11",
+            "Bryant-Denny Stadium \u2022 Tuscaloosa, AL",
+            "",
+            "W 14-6",
+            "70123"
+        ],
+        [
+            "October 15",
+            "at Tennessee",
+            "#10",
+            "Neyland Stadium \u2022 Knoxville, TN (Third Saturday in October)",
+            "ESPN",
+            "W 17-13",
+            "96856"
+        ],
+        [
+            "October 22",
+            "Ole Miss",
+            "#8",
+            "Bryant-Denny Stadium \u2022 Tuscaloosa, AL (Rivalry)",
+            "ABC",
+            "W 21-10",
+            "70123"
+        ],
+        [
+            "November 5",
+            "at LSU",
+            "#6",
+            "Tiger Stadium \u2022 Baton Rouge, LA (Rivalry)",
+            "ESPN",
+            "W 35-17",
+            "75453"
+        ],
+        [
+            "November 12",
+            "at #20 Mississippi State",
+            "#6",
+            "Scott Field \u2022 Starkville, MS (Rivalry)",
+            "ABC",
+            "W 29-25",
+            "41358"
+        ],
+        [
+            "November 19",
+            "#6 Auburn",
+            "#4",
+            "Legion Field \u2022 Birmingham, AL (Iron Bowl)",
+            "ABC",
+            "W 21-14",
+            "83091"
+        ],
+        [
+            "December 3",
+            "vs. #6 Florida",
+            "#3",
+            "Georgia Dome \u2022 Atlanta, GA (SEC Championship Game)",
+            "ABC",
+            "L 23-24",
+            "74751"
+        ],
+        [
+            "January 2, 1995",
+            "vs. #13 Ohio State*",
+            "#6",
+            "Citrus Bowl \u2022 Orlando, FL (Florida Citrus Bowl)",
+            "ABC",
+            "W 24-17",
+            "71195"
+        ]
+    ]
+}

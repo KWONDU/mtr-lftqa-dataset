@@ -1,0 +1,70 @@
+{
+    "id": "5ab3badae035c9481adfb232f2aca107792e1bf20da118ed9220beb2a823723c",
+    "metadata": "2005-06 Columbus Blue Jackets season | February | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "February 1",
+            "Columbus",
+            "2 - 1",
+            "Calgary",
+            "Denis",
+            "19289",
+            "21-30-2"
+        ],
+        [
+            "February 2",
+            "Columbus",
+            "2 - 1",
+            "Edmonton",
+            "Denis",
+            "16839",
+            "22-30-2"
+        ],
+        [
+            "February 6",
+            "Columbus",
+            "4 - 7",
+            "Vancouver",
+            "Denis",
+            "18630",
+            "22-31-2"
+        ],
+        [
+            "February 8",
+            "Los Angeles",
+            "4 - 7",
+            "Columbus",
+            "Denis",
+            "16162",
+            "23-31-2"
+        ],
+        [
+            "February 10",
+            "Colorado",
+            "4 - 1",
+            "Columbus",
+            "Denis",
+            "18136",
+            "23-32-2"
+        ],
+        [
+            "February 11",
+            "Columbus",
+            "2 - 5",
+            "Nashville",
+            "Denis",
+            "17113",
+            "23-33-2"
+        ]
+    ]
+}

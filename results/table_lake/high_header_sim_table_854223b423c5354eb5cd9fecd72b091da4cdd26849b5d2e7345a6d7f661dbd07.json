@@ -1,0 +1,87 @@
+{
+    "id": "854223b423c5354eb5cd9fecd72b091da4cdd26849b5d2e7345a6d7f661dbd07",
+    "metadata": "2000 Tennis Masters Series | Doubles | Doubles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Surface",
+        "Week",
+        "Winner",
+        "Finalist",
+        "Semifinalists"
+    ],
+    "cell": [
+        [
+            "Indian Wells",
+            "Hard",
+            "March 13",
+            "Palmer / O`Brien 6-4, 7-6(5)",
+            "Haarhuis / Stolle",
+            "Federer / Hrbat\u00fd W. Ferreira / Kafelnikov"
+        ],
+        [
+            "Key Biscane",
+            "Hard",
+            "March 20",
+            "Woodbridge / Woodforde 6-3, 6-4",
+            "Damm / Hrbat\u00fd",
+            "O`Brien / Palmer Galbraith / MacPhie"
+        ],
+        [
+            "Monte Carlo",
+            "Clay",
+            "April 17",
+            "W. Ferreira / Kafelnikov 6-3, 2-6, 6-1",
+            "Haarhuis / Stolle",
+            "O`Brien / Palmer Escud\u00e9 / Federer"
+        ],
+        [
+            "Rome",
+            "Clay",
+            "May 8",
+            "Damm / Hrbat\u00fd 6-4, 4-6, 6-3",
+            "W. Ferreira / Kafelnikov",
+            "Lapentti / R\u00edos Bertolini / Brandi"
+        ],
+        [
+            "Hamburg",
+            "Clay",
+            "May 15",
+            "Woodbridge / Woodforde 6-7(4) 6-4 6-3",
+            "Arthurs / Stolle",
+            "Hewitt / Rafter Eagle / Florent"
+        ],
+        [
+            "Toronto",
+            "Hard",
+            "July 31",
+            "Lareau / Nestor 6-3 7-6(3)",
+            "Eagle / Florent",
+            "Johnson / Norval Bj\u00f6rkman / Mirnyi"
+        ],
+        [
+            "Cincinnati",
+            "Hard",
+            "August 7",
+            "Woodbridge / Woodforde 7-6(6) 6-4",
+            "E. Ferreira / Leach",
+            "Nov\u00e1k / Rikl Lareau / Nestor"
+        ],
+        [
+            "Stuttgart",
+            "Carpet (i)",
+            "October 30",
+            "Nov\u00e1k / Rikl 3-6, 6-3, 6-4",
+            "Johnson / Norval",
+            "Arthurs / Zimonji\u0107 Bj\u00f6rkman / Prinosil"
+        ],
+        [
+            "Paris",
+            "Carpet (i)",
+            "November 13",
+            "Haarhuis / Nestor 6-4, 7-5",
+            "Kulti / Mirnyi",
+            "Garc\u00eda / Nargiso O`Brien / Palmer"
+        ]
+    ]
+}

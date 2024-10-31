@@ -1,0 +1,56 @@
+{
+    "id": "40f4070bd50122dab11495552c28b257ac73d84f210be1b47496f40fe999ba85",
+    "metadata": "1997-98 Utah Jazz season | NBA Finals | NBA Finals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Home_Team",
+        "Result_",
+        "Road_Team"
+    ],
+    "cell": [
+        [
+            "Game 1",
+            "June 3",
+            "Utah",
+            "88-85 (OT)",
+            "Chicago"
+        ],
+        [
+            "Game 2",
+            "June 5",
+            "Utah",
+            "88-93",
+            "Chicago"
+        ],
+        [
+            "Game 3",
+            "June 7",
+            "Chicago",
+            "96-54",
+            "Utah"
+        ],
+        [
+            "Game 4",
+            "June 10",
+            "Chicago",
+            "86-82",
+            "Utah"
+        ],
+        [
+            "Game 5",
+            "June 12",
+            "Chicago",
+            "81-83",
+            "Utah"
+        ],
+        [
+            "Game 6",
+            "June 14",
+            "Utah",
+            "86-87",
+            "Chicago"
+        ]
+    ]
+}

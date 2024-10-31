@@ -1,0 +1,56 @@
+{
+    "id": "4346c157bb3c7da6d85c77860f34bef871124fe7d4b67c547fe1382312c632f5",
+    "metadata": "1999-2000 Philadelphia Flyers season | Draft picks | Draft picks",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Player",
+        "Position_",
+        "Nationality",
+        "College_Junior_Club_Team_League"
+    ],
+    "cell": [
+        [
+            "1",
+            "Maxime Ouellet",
+            "Goaltender",
+            "Canada",
+            "Quebec Remparts ( QMJHL )"
+        ],
+        [
+            "4",
+            "Jeff Feniak",
+            "Defense",
+            "Canada",
+            "Calgary Hitmen ( WHL )"
+        ],
+        [
+            "6",
+            "Konstantin Rudenko",
+            "Forward",
+            "Russia",
+            "Severstal Cherepovets ( RUS )"
+        ],
+        [
+            "7",
+            "Pavel Kasparik",
+            "Center",
+            "Czech Republic",
+            "IHC Pisek (CZE)"
+        ],
+        [
+            "7",
+            "Vaclav Pletka",
+            "Left Wing",
+            "Czech Republic",
+            "HC Ocel\u00e1\u0159i T\u0159inec ( CZE )"
+        ],
+        [
+            "8",
+            "David Nystrom",
+            "Right Wing",
+            "Sweden",
+            "Fr\u00f6lunda HC ( Elitserien )"
+        ]
+    ]
+}

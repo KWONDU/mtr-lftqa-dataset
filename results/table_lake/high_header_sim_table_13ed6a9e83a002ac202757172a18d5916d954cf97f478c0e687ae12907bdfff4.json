@@ -1,0 +1,70 @@
+{
+    "id": "13ed6a9e83a002ac202757172a18d5916d954cf97f478c0e687ae12907bdfff4",
+    "metadata": "1971 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "13.18 (96)",
+            "North Melbourne",
+            "8.15 (63)",
+            "Windy Hill",
+            "14864",
+            "5 June 1971"
+        ],
+        [
+            "Carlton",
+            "13.12 (90)",
+            "Fitzroy",
+            "10.15 (75)",
+            "Princes Park",
+            "24000",
+            "5 June 1971"
+        ],
+        [
+            "South Melbourne",
+            "9.6 (60)",
+            "St Kilda",
+            "18.23 (131)",
+            "Lake Oval",
+            "16069",
+            "5 June 1971"
+        ],
+        [
+            "Richmond",
+            "15.16 (106)",
+            "Melbourne",
+            "11.9 (75)",
+            "MCG",
+            "48708",
+            "5 June 1971"
+        ],
+        [
+            "Hawthorn",
+            "15.17 (107)",
+            "Collingwood",
+            "7.13 (55)",
+            "Glenferrie Oval",
+            "28450",
+            "5 June 1971"
+        ],
+        [
+            "Footscray",
+            "19.10 (124)",
+            "Geelong",
+            "18.14 (122)",
+            "VFL Park",
+            "11673",
+            "5 June 1971"
+        ]
+    ]
+}

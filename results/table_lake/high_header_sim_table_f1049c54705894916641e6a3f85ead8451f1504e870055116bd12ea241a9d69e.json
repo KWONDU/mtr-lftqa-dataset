@@ -1,0 +1,79 @@
+{
+    "id": "f1049c54705894916641e6a3f85ead8451f1504e870055116bd12ea241a9d69e",
+    "metadata": "United States Senate election in South Carolina, 2010 | Polling | Polling",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Poll_source",
+        "Dates_administered",
+        "Jim_DeMint_R",
+        "Alvin_Greene_D",
+        "Tom_Clements_G",
+        "Other",
+        "Undecided"
+    ],
+    "cell": [
+        [
+            "Rasmussen Reports",
+            "October 19, 2010",
+            "58%",
+            "21%",
+            "--",
+            "15%",
+            "6%"
+        ],
+        [
+            "Winthrop University",
+            "October 5-10, 2010",
+            "58%",
+            "11%",
+            "12%",
+            "3%",
+            "14%"
+        ],
+        [
+            "Crantford & Associates",
+            "October 2, 2010",
+            "58%",
+            "21%",
+            "--",
+            "10%",
+            "5%"
+        ],
+        [
+            "Rasmussen Reports",
+            "September 22, 2010",
+            "64%",
+            "21%",
+            "--",
+            "10%",
+            "5%"
+        ],
+        [
+            "Rasmussen Reports",
+            "August 25, 2010",
+            "63%",
+            "19%",
+            "--",
+            "8%",
+            "10%"
+        ],
+        [
+            "Rasmussen Reports",
+            "August 3, 2010",
+            "62%",
+            "20%",
+            "--",
+            "7%",
+            "10%"
+        ],
+        [
+            "Rasmussen Reports",
+            "June 10, 2010",
+            "58%",
+            "21%",
+            "--",
+            "9%",
+            "13%"
+        ]
+    ]
+}

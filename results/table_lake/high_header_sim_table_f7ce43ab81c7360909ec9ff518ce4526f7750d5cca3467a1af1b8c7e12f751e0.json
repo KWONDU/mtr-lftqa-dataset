@@ -1,0 +1,63 @@
+{
+    "id": "f7ce43ab81c7360909ec9ff518ce4526f7750d5cca3467a1af1b8c7e12f751e0",
+    "metadata": "Royal Canadian Mint numismatic coins (2000s) | NHL Goalie Mask Coins | NHL Goalie Mask Coins",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Theme",
+        "Artist",
+        "Mintage",
+        "Issue_Price",
+        "Special_Notes"
+    ],
+    "cell": [
+        [
+            "2008",
+            "Calgary Flames",
+            "Marcos Hallam",
+            "10000",
+            "74.95",
+            "Includes special lucite stand"
+        ],
+        [
+            "2008",
+            "Edmonton Oilers",
+            "Marcos Hallam",
+            "10000",
+            "74.95",
+            "Includes special lucite stand"
+        ],
+        [
+            "2008",
+            "Ottawa Senators",
+            "Marcos Hallam",
+            "10000",
+            "74.95",
+            "Includes special lucite stand"
+        ],
+        [
+            "2008",
+            "Montreal Canadiens",
+            "Marcos Hallam",
+            "10000",
+            "74.95",
+            "Includes special lucite stand"
+        ],
+        [
+            "2008",
+            "Toronto Maple Leafs",
+            "Marcos Hallam",
+            "10000",
+            "74.95",
+            "Includes special lucite stand"
+        ],
+        [
+            "2008",
+            "Vancouver Canucks",
+            "Marcos Hallam",
+            "10000",
+            "74.95",
+            "Includes special lucite stand"
+        ]
+    ]
+}

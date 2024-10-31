@@ -1,0 +1,2097 @@
+{
+    "id": "a0c019c436e461176b731bb145ece46208865862462854c63984c1c34236bb02",
+    "metadata": "List of cities in China by population | List of major cities by population | Urban population",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City_2010_census",
+        "Chinese",
+        "Built_up_Area",
+        "Urban_Area",
+        "Level_",
+        "Administrative_Area",
+        "Province_level_division",
+        "Remarks_"
+    ],
+    "cell": [
+        [
+            "Guangzhou",
+            "\u5e7f\u5dde",
+            "2.8",
+            "11070654",
+            "Sub-provincial city , Provincial capital , National central city",
+            "12700800",
+            "Guangdong",
+            "Incl. Shenzhen, Dongguan, Macao and part of Foshan, Jiangmen, Zhongshan, Zhuhai and Huizhou."
+        ],
+        [
+            "Shanghai",
+            "\u4e0a\u6d77",
+            "27965403",
+            "22265426",
+            "Municipality , National central city",
+            "23019148",
+            "Shanghai",
+            "Incl. all Suzhou districts but Changshu and Zhangjiagang not yet in built-up area."
+        ],
+        [
+            "Beijing",
+            "\u5317\u4eac",
+            "19785051",
+            "19295000",
+            "Municipality , National central city",
+            "19612368",
+            "Beijing",
+            "Incl. the cities of Zhuozhou and Sanhe and Dachang Hui Autonomous County in Hebei, but not Miyun, Pinggu and Yanqing suburban districts not yet linked to built-up area."
+        ],
+        [
+            "Shantou",
+            "\u6c55\u5934",
+            "11630447",
+            "1346708",
+            "Prefecture-level city , Special Economic Zones",
+            "5391028",
+            "Guangdong",
+            "Incl. most districts of Jieyang and Chaozhou"
+        ],
+        [
+            "Shenzhen",
+            "\u6df1\u5733",
+            "Guangzhou",
+            "10357938",
+            "Sub-provincial city , Special Economic Zones",
+            "10357938",
+            "Guangdong",
+            ""
+        ],
+        [
+            "Tianjin",
+            "\u5929\u6d25",
+            "10290987",
+            "11090314",
+            "Municipality , National central city",
+            "12937954",
+            "Tianjin",
+            "Baodi urban District not yet in built-up area."
+        ],
+        [
+            "Chengdu",
+            "\u6210\u90fd",
+            "9209393",
+            "7677122",
+            "Sub-provincial city , Provincial capital",
+            "14047625",
+            "Sichuan",
+            "Incl. 8 out of 9 urban districts plus Pi and Shuangliu counties being urbanized."
+        ],
+        [
+            "Dongguan",
+            "\u4e1c\u839e",
+            "Guangzhou",
+            "8220937",
+            "Prefecture-level city",
+            "8220937",
+            "Guangdong",
+            ""
+        ],
+        [
+            "Hangzhou",
+            "\u676d\u5dde",
+            "8156600",
+            "6242000",
+            "Sub-provincial city , Provincial capital",
+            "8700400",
+            "Zhejiang",
+            "Incl. Shaoxing and Yuecheng districts of Shaoxing city"
+        ],
+        [
+            "Wuhan",
+            "\u6b66\u6c49",
+            "7297141",
+            "9780644",
+            "Sub-provincial city , Provincial capital",
+            "9785392",
+            "Hubei",
+            "7 central urban districts plus Caidian and Dongxihu districts but not Water region."
+        ],
+        [
+            "Xi`an",
+            "\u897f\u5b89",
+            "7168005",
+            "6501189",
+            "Sub-provincial city , Provincial capital",
+            "8467837",
+            "Shaanxi",
+            "Incl. Qindu and Weicheng urban districts of Xianyang."
+        ],
+        [
+            "Nanjing",
+            "\u5357\u4eac",
+            "7165828",
+            "7165828",
+            "Sub-provincial city , Provincial capital",
+            "8004680",
+            "Jiangsu",
+            "Incl. 6 urban and 3 suburban districts."
+        ],
+        [
+            "Hong Kong",
+            "\u9999\u6e2f",
+            "7055071",
+            "7055071",
+            "Special administrative region , National central city",
+            "7055071",
+            "Hong Kong",
+            "Not included in Guangzhou - Shenzhen built up area."
+        ],
+        [
+            "Chongqing",
+            "\u91cd\u5e86",
+            "6777200",
+            "7457600",
+            "Municipality , National central city",
+            "28846170",
+            "Chongqing",
+            "Incl. 6 urban districts plus Banan and Yubei suburban districts. Beibei District not yet built-up."
+        ],
+        [
+            "Shenyang",
+            "\u6c88\u9633",
+            "6982162",
+            "5967526",
+            "Sub-provincial city , Provincial capital",
+            "8106171",
+            "Liaoning",
+            "Incl. all Shenyang urban districts but Shenbei plus 4 Fushun urban districts."
+        ],
+        [
+            "Quanzhou",
+            "\u6cc9\u5dde",
+            "6070717",
+            "1398427",
+            "Prefecture-level city",
+            "8128530",
+            "Fujian",
+            ""
+        ],
+        [
+            "Wenzhou",
+            "\u6e29\u5dde",
+            "5853500",
+            "3039500",
+            "Prefecture-level city",
+            "9122100",
+            "Zhejiang",
+            "Incl. 3 urban districts plus Ruian and Yueqing cities being urbanized."
+        ],
+        [
+            "Qingdao",
+            "\u9752\u5c9b",
+            "5764400",
+            "4587200",
+            "Sub-provincial city",
+            "8715100",
+            "Shandong",
+            "Incl. 6 urban districts plus Jimo city being urbanized."
+        ],
+        [
+            "Suzhou",
+            "\u82cf\u5dde",
+            "Shanghai",
+            "5349090",
+            "Prefecture-level city",
+            "10465994",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Harbin",
+            "\u54c8\u5c14\u6ee8",
+            "5282083",
+            "4517549",
+            "Sub-provincial city , Provincial capital",
+            "10635971",
+            "Heilongjiang",
+            "Incl. 6 urban districts plus Hulan County being urbanized."
+        ],
+        [
+            "Xiamen",
+            "\u53a6\u95e8",
+            "5114758",
+            "3531347",
+            "Sub-provincial city , Special Economic Zones",
+            "3531147",
+            "Fujian",
+            "Incl. all Xiamen city plus Longwen, Xiacheng Zhangzhou urban districts and Longhai city being urbanized."
+        ],
+        [
+            "Zhengzhou",
+            "\u90d1\u5dde",
+            "4867388",
+            "4253627",
+            "Prefecture-level city , Provincial capital",
+            "8626505",
+            "Henan",
+            "Incl. 6 urban districts plus Xingyang city."
+        ],
+        [
+            "Jinan",
+            "\u6d4e\u5357",
+            "4335900",
+            "4335900",
+            "Sub-provincial city , Provincial capital",
+            "6813800",
+            "Shandong",
+            ""
+        ],
+        [
+            "Nanchang",
+            "\u5357\u660c",
+            "4107962",
+            "2357838",
+            "Prefecture-level city , Provincial capital",
+            "5042565",
+            "Jiangxi",
+            "Incl. Nanchang County being urbanized but not Wanli urban District, not yet in built-up area."
+        ],
+        [
+            "Changsha",
+            "\u957f\u6c99",
+            "4073645",
+            "3093980",
+            "Prefecture-level city , Provincial capital",
+            "7044118",
+            "Hunan",
+            "Incl. 5 urban districts plus Changsha County being urbanized."
+        ],
+        [
+            "Taiyuan",
+            "\u592a\u539f",
+            "4062173",
+            "3426522",
+            "Prefecture-level city , Provincial capital",
+            "4201591",
+            "Shanxi",
+            "Incl. Yuci and Qu urban districts in Jinzhong."
+        ],
+        [
+            "Shijiazhuang",
+            "\u77f3\u5bb6\u5e84",
+            "3995290",
+            "2861784",
+            "Prefecture-level city , Provincial capital",
+            "10163788",
+            "Hebei",
+            "Incl. Luquan City, Zhengding and Luancheng Counties being urbanized."
+        ],
+        [
+            "Dalian",
+            "\u5927\u8fde",
+            "3683941",
+            "3683941",
+            "Sub-provincial city",
+            "6690432",
+            "Liaoning",
+            ""
+        ],
+        [
+            "Kunming",
+            "\u6606\u660e",
+            "3583429",
+            "3583429",
+            "Prefecture-level city , Provincial capital",
+            "6432212",
+            "Yunnan",
+            "Incl. 4 urban districts and Chenggong suburban District."
+        ],
+        [
+            "Wuxi",
+            "\u65e0\u9521",
+            "3542319",
+            "3542319",
+            "Prefecture-level city",
+            "6372624",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Changchun",
+            "\u957f\u6625",
+            "3530115",
+            "3530115",
+            "Sub-provincial city , Provincial capital",
+            "7677089",
+            "Jilin",
+            ""
+        ],
+        [
+            "Ningbo",
+            "\u5b81\u6ce2",
+            "3491597",
+            "3491597",
+            "Sub-provincial city",
+            "7605700",
+            "Zhejiang",
+            ""
+        ],
+        [
+            "Zibo",
+            "\u6dc4\u535a",
+            "3484800",
+            "2980800",
+            "Prefecture-level city",
+            "4530600",
+            "Shandong",
+            "Incl. 5 urban districts plus Huantai Ccounty being urbanized."
+        ],
+        [
+            "Hefei",
+            "\u5408\u80a5",
+            "3352076",
+            "3352076",
+            "Prefecture-level city , Provincial capital",
+            "5702466",
+            "Anhui",
+            ""
+        ],
+        [
+            "Changzhou",
+            "\u5e38\u5dde",
+            "3290548",
+            "3290548",
+            "Prefecture-level city",
+            "4591972",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Taizhou",
+            "\u53f0\u5dde",
+            "3269300",
+            "1902500",
+            "Prefecture-level city",
+            "5968800",
+            "Zhejiang",
+            "Incl. Wenling city now in built-up area."
+        ],
+        [
+            "Tangshan",
+            "\u5510\u5c71",
+            "3187171",
+            "3187171",
+            "Prefecture-level city",
+            "7577284",
+            "Hebei",
+            ""
+        ],
+        [
+            "Nantong",
+            "\u5357\u901a",
+            "3180924",
+            "2273326",
+            "Prefecture-level city",
+            "7282835",
+            "Jiangsu",
+            "Incl. Haimen city now in built-up area."
+        ],
+        [
+            "Nanning",
+            "\u5357\u5b81",
+            "3177450",
+            "3437171",
+            "Prefecture-level city , Provincial capital",
+            "6661600",
+            "Guangxi",
+            "Yongning urban District not yet in built-up area."
+        ],
+        [
+            "Guiyang",
+            "\u8d35\u9633",
+            "3037159",
+            "3037159",
+            "Prefecture-level city , Provincial capital",
+            "4324561",
+            "Guizhou",
+            ""
+        ],
+        [
+            "\u00dcr\u00fcmqi",
+            "\u4e4c\u9c81\u6728\u9f50",
+            "2988715",
+            "3029372",
+            "Prefecture-level city , Provincial capital",
+            "3110280",
+            "Xinjiang",
+            "Dabancheng suburban District not yet in built-up area."
+        ],
+        [
+            "Fuzhou",
+            "\u798f\u5dde",
+            "2921763",
+            "2921763",
+            "Prefecture-level city , Provincial capital",
+            "7115370",
+            "Fujian",
+            ""
+        ],
+        [
+            "Huai`an",
+            "\u6dee\u5b89",
+            "2633420",
+            "2633420",
+            "Prefecture-level city",
+            "4799899",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Xuzhou",
+            "\u5f90\u5dde",
+            "2623066",
+            "3053078",
+            "Prefecture-level city",
+            "8580500",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Linyi",
+            "\u4e34\u6c82",
+            "2600200",
+            "2600200",
+            "Prefecture-level city",
+            "10039400",
+            "Shandong",
+            ""
+        ],
+        [
+            "Lanzhou",
+            "\u5170\u5dde",
+            "2492325",
+            "2492325",
+            "Prefecture-level city , Provincial capital",
+            "3616163",
+            "Gansu",
+            ""
+        ],
+        [
+            "Yangzhou",
+            "\u626c\u5dde",
+            "2399079",
+            "2399079",
+            "Prefecture-level city",
+            "4459760",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Huizhou",
+            "\u60e0\u5dde",
+            "Guangzhou",
+            "2344507",
+            "Prefecture-level city",
+            "4597002",
+            "Guangdong",
+            "2 urban districts part of Guangzhou-Shenzhen built-up area."
+        ],
+        [
+            "Anshan",
+            "\u978d\u5c71",
+            "2238480",
+            "1582742",
+            "Prefecture-level city",
+            "3645884",
+            "Liaoning",
+            "Incl. 4 Liaoning urban districts now in Anshan-Liaoning built-up area."
+        ],
+        [
+            "Haikou",
+            "\u6d77\u53e3",
+            "2046189",
+            "2046189",
+            "Prefecture-level city , Provincial capital",
+            "2046189",
+            "Hainan",
+            ""
+        ],
+        [
+            "Yiwu",
+            "\u4e49\u4e4c",
+            "2038400",
+            "2038400",
+            "County-level city",
+            "Jinhua",
+            "Zhejiang",
+            "Incl. Dongyang City in the Yiwu-Dongyang built-up area."
+        ],
+        [
+            "Baotou",
+            "\u5305\u5934",
+            "2034996",
+            "2070801",
+            "Prefecture-level city",
+            "2650364",
+            "Inner Mongolia",
+            "Shiguai urban District not yet urbanized."
+        ],
+        [
+            "Anyang",
+            "\u5b89\u9633",
+            "1995760",
+            "1146761",
+            "Prefecture-level city",
+            "5172834",
+            "Henan",
+            "Incl. Anyang County now in built-up area."
+        ],
+        [
+            "Liuzhou",
+            "\u67f3\u5dde",
+            "1998950",
+            "1436599",
+            "Prefecture-level city",
+            "3758704",
+            "Guangxi",
+            "Incl. Liujiang County now in built-up area."
+        ],
+        [
+            "Hohhot",
+            "\u547c\u548c\u6d69\u7279",
+            "1980774",
+            "1980774",
+            "Prefecture-level city , Provincial capital",
+            "2866615",
+            "Inner Mongolia",
+            ""
+        ],
+        [
+            "Jilin City",
+            "\u5409\u6797\u5e02",
+            "1975803",
+            "1975803",
+            "Prefecture-level city",
+            "4414681",
+            "Jilin",
+            ""
+        ],
+        [
+            "Putian",
+            "\u8386\u7530",
+            "1953801",
+            "1953801",
+            "Prefecture-level city",
+            "2778508",
+            "Fujian",
+            ""
+        ],
+        [
+            "Xiangtan",
+            "\u6e58\u6f6d",
+            "1875300",
+            "959303",
+            "Prefecture-level city",
+            "2748552",
+            "Hunan",
+            "Incl. Xiangtan County being urbanized. Built-up area of 2,930,673 in progress with 4 urban districts of Zhuzhou."
+        ],
+        [
+            "Yantai",
+            "\u70df\u53f0",
+            "1870600",
+            "1870600",
+            "Prefecture-level city",
+            "6968200",
+            "Shandong",
+            ""
+        ],
+        [
+            "Luoyang",
+            "\u6d1b\u9633",
+            "1856877",
+            "1925948",
+            "Prefecture-level city",
+            "6549486",
+            "Henan",
+            "Jili urban district not yet in built-up area."
+        ],
+        [
+            "Huainan",
+            "\u6dee\u5357",
+            "1835456",
+            "1769582",
+            "Prefecture-level city",
+            "2334000",
+            "Anhui",
+            "Maoji urban District not in built-up area."
+        ],
+        [
+            "Jiangmen",
+            "\u6c5f\u95e8",
+            "Guangzhou",
+            "1822640",
+            "Prefecture-level city",
+            "4448871",
+            "Guangdong",
+            ""
+        ],
+        [
+            "Nanyang",
+            "\u5357\u9633",
+            "1811732",
+            "1811732",
+            "Prefecture-level city",
+            "10263006",
+            "Henan",
+            ""
+        ],
+        [
+            "Baoding",
+            "\u4fdd\u5b9a",
+            "1789550",
+            "1157891",
+            "Prefecture-level city",
+            "11194379",
+            "Hebei",
+            "Incl. Qingyuan Ccounty now in built-up area."
+        ],
+        [
+            "Nanchong",
+            "\u5357\u5145",
+            "1771920",
+            "1771920",
+            "Prefecture-level city",
+            "6278622",
+            "Sichuan",
+            "2000 census for built-up area."
+        ],
+        [
+            "Fuyang",
+            "\u961c\u9633",
+            "1768947",
+            "1768947",
+            "Prefecture-level city",
+            "7599918",
+            "Anhui",
+            ""
+        ],
+        [
+            "Tai`an",
+            "\u6cf0\u5b89",
+            "1735500",
+            "1735500",
+            "Prefecture-level city",
+            "5494200",
+            "Shandong",
+            ""
+        ],
+        [
+            "Suzhou",
+            "\u5bbf\u5dde",
+            "1647642",
+            "1647642",
+            "Prefecture-level city",
+            "5352924",
+            "Anhui",
+            ""
+        ],
+        [
+            "Lu`an",
+            "\u516d\u5b89",
+            "1644344",
+            "1778583",
+            "Prefecture-level city",
+            "5612000",
+            "Anhui",
+            "Yeji urban District not yet urbanized."
+        ],
+        [
+            "Datong",
+            "\u5927\u540c",
+            "1629035",
+            "1737517",
+            "Prefecture-level city",
+            "5612000",
+            "Anhui",
+            "Xinrong urban District not yet urbanized."
+        ],
+        [
+            "Zhanjiang",
+            "\u6e5b\u6c5f",
+            "1612300",
+            "1612300",
+            "Prefecture-level city",
+            "1392493",
+            "Guangdong",
+            ""
+        ],
+        [
+            "Tengzhou",
+            "\u6ed5\u5dde",
+            "1603700",
+            "1603700",
+            "County-level city",
+            "Zaozhuang",
+            "Shandong",
+            ""
+        ],
+        [
+            "Huangshi",
+            "\u9ec4\u77f3",
+            "1601687",
+            "764571",
+            "Prefecture-level city",
+            "2429318",
+            "Hubei",
+            "Incl. Daye city."
+        ],
+        [
+            "Jiangyin",
+            "\u6c5f\u9634",
+            "1594829",
+            "1594829",
+            "County-level city",
+            "Wuxi",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Weifang",
+            "\u6f4d\u574a",
+            "1521600",
+            "1521600",
+            "Prefecture-level city",
+            "9086200",
+            "Shandong",
+            ""
+        ],
+        [
+            "Yinchuan",
+            "\u94f6\u5ddd",
+            "1513151",
+            "1290170",
+            "Prefecture-level city , Provincial capital",
+            "1993088",
+            "Ningxia",
+            "Incl. Helan county within built-up area."
+        ],
+        [
+            "Changshu",
+            "\u5e38\u719f",
+            "1510103",
+            "1510103",
+            "County-level city",
+            "Suzhou",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Zhuhai",
+            "\u73e0\u6d77",
+            "1500000",
+            "1560229",
+            "Prefecture-level city , Special Economic Zones",
+            "1560229",
+            "Guangdong",
+            "Incl. Macau and southern part of Zhongshan but not eastern part of Zhuhai prefecture not yet urbanized. Satellite views show that Zhuhai-Macau conurbation is being included into Guangzhou-Shenzhen built-up area."
+        ],
+        [
+            "Dengzhou",
+            "\u9093\u5dde",
+            "1468061",
+            "1468061",
+            "County-level city",
+            "Nanyang",
+            "Henan",
+            "Built-up area smaller because of the huge city area (2,226 km\u00b2)"
+        ],
+        [
+            "Cixi",
+            "\u6148\u6eaa",
+            "1462383",
+            "1462383",
+            "County-level city",
+            "Ningbo",
+            "Zhejiang",
+            ""
+        ],
+        [
+            "Changde",
+            "\u5e38\u5fb7",
+            "1458536",
+            "1458536",
+            "Prefecture-level city",
+            "5717218",
+            "Hunan",
+            ""
+        ],
+        [
+            "Pizhou",
+            "\u90b3\u5dde",
+            "1458036",
+            "1458036",
+            "County-level city",
+            "Xuzhou",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Zhangzhou",
+            "\u6f33\u5dde",
+            "1453135",
+            "596165",
+            "Prefecture-level city",
+            "4809983",
+            "Fujian",
+            ""
+        ],
+        [
+            "Datong",
+            "\u5927\u540c",
+            "1447550",
+            "1570035",
+            "Prefecture-level city",
+            "3318057",
+            "Shanxi",
+            ""
+        ],
+        [
+            "Baoji",
+            "\u5b9d\u9e21",
+            "1437802",
+            "1437802",
+            "Prefecture-level city",
+            "3716731",
+            "Shaanxi",
+            ""
+        ],
+        [
+            "Suqian",
+            "\u5bbf\u8fc1",
+            "1437686",
+            "1437686",
+            "Prefecture-level city",
+            "4715553",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Daqing",
+            "\u5927\u5e86",
+            "1415268",
+            "1649825",
+            "Prefecture-level city",
+            "2904532",
+            "Heilongjiang",
+            "Datong urban district not yet in built-up area."
+        ],
+        [
+            "Bozhou",
+            "\u4eb3\u5dde",
+            "1409436",
+            "1409436",
+            "Prefecture-level city",
+            "4851000",
+            "Anhui",
+            "Built-up area smaller because of the huge city area (2,226 km\u00b2)."
+        ],
+        [
+            "Handan",
+            "\u90af\u90f8",
+            "1403439",
+            "941427",
+            "Prefecture-level city",
+            "9174679",
+            "Hebei",
+            ""
+        ],
+        [
+            "Panjin",
+            "\u76d8\u9526",
+            "1392493",
+            "666205",
+            "Prefecture-level city",
+            "1392493",
+            "Liaoning",
+            "Incl. 2 urban districts plus Dawa and Panshan counties partly in built-up area."
+        ],
+        [
+            "Wenling",
+            "\u6e29\u5cad\u5e02",
+            "1366800",
+            "1366800",
+            "Prefecture-level city",
+            "Taizhou",
+            "Zhejiang",
+            ""
+        ],
+        [
+            "Ma`anshan",
+            "\u9a6c\u978d\u5c71",
+            "1366302",
+            "741531",
+            "Prefecture-level city",
+            "1366302",
+            "Anhui",
+            "Incl. Dangtu County largely being urbanized."
+        ],
+        [
+            "Zigong",
+            "\u81ea\u8d21",
+            "1362062",
+            "1362062",
+            "Prefecture-level city",
+            "2678898",
+            "Sichuan",
+            ""
+        ],
+        [
+            "Fushun",
+            "\u629a\u987a",
+            "Shenyang",
+            "1356987",
+            "Prefecture-level city",
+            "2138090",
+            "Liaoning",
+            ""
+        ],
+        [
+            "Mianyang",
+            "\u7ef5\u9633",
+            "1355331",
+            "1355331",
+            "Prefecture-level city",
+            "4613862",
+            "Sichuan",
+            ""
+        ],
+        [
+            "Yingkou",
+            "\u8425\u53e3",
+            "1351519",
+            "738128",
+            "Prefecture-level city",
+            "2428534",
+            "Liaoning",
+            "Incl. Dashiqiao city now in built-up area."
+        ],
+        [
+            "Yichang",
+            "\u5b9c\u660c",
+            "1350150",
+            "1411380",
+            "Prefecture-level city",
+            "4059686",
+            "Hubei",
+            "Xiaoting urban District not yet in built-up area."
+        ],
+        [
+            "Heze",
+            "\u83cf\u6cfd",
+            "1346700",
+            "1346700",
+            "Prefecture-level city",
+            "8287800",
+            "Shandong",
+            ""
+        ],
+        [
+            "Chifeng",
+            "\u8d64\u5cf0",
+            "1333526",
+            "1333526",
+            "Prefecture-level city",
+            "4341245",
+            "Inner Mongolia",
+            "Built-up area probably smaller because of the huge city area (7,012 km\u00b2)."
+        ],
+        [
+            "Guilin",
+            "\u6842\u6797",
+            "1326470",
+            "975638",
+            "Prefecture-level city",
+            "4748000",
+            "Guangxi",
+            "Incl. Lingchuang County being urbanized."
+        ],
+        [
+            "Xiangyang",
+            "\u8944\u9633",
+            "1294732",
+            "2199689",
+            "Prefecture-level city",
+            "5500307",
+            "Hubei",
+            "Xiangzhou urban District not yet in built-up area."
+        ],
+        [
+            "Rugao",
+            "\u5982\u768b",
+            "1267066",
+            "1267066",
+            "County-level city",
+            "Nantong",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Xuchang",
+            "\u8bb8\u660c",
+            "1265454",
+            "498058",
+            "Prefecture-level city",
+            "4307199",
+            "Henan",
+            "Incl. Xuchang County being urbanized."
+        ],
+        [
+            "Wuhu",
+            "",
+            "1264539",
+            "1408917",
+            "Prefecture-level city",
+            "3545067",
+            "Henan",
+            "Sanshang urban district not yet in built-up area.."
+        ],
+        [
+            "Neijiang",
+            "\u5185\u6c5f",
+            "1251095",
+            "1251095",
+            "Prefecture-level city",
+            "3702847",
+            "Sichuan",
+            ""
+        ],
+        [
+            "Zhangjiagang",
+            "\u5f20\u5bb6\u6e2f",
+            "1248414",
+            "1248414",
+            "County-level city",
+            "Suzhou",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Yixing",
+            "\u5b9c\u5174",
+            "1235476",
+            "1235476",
+            "County-level city",
+            "Wuxi",
+            "Jiangsu",
+            "Built-up area < 1,000,000 inhabitants as the City is 2039 km\u00b2."
+        ],
+        [
+            "Fuqing",
+            "\u798f\u6e05",
+            "1234838",
+            "1234838",
+            "County-level city",
+            "Fuzhou",
+            "Fujian",
+            "Built-up area < 1,000,000 inhabitants as the City is 1932.4 km\u00b2."
+        ],
+        [
+            "Zhaoqing",
+            "\u8087\u5e86",
+            "1232701",
+            "644045",
+            "Prefecture-level city",
+            "3918085",
+            "Guangdong",
+            "Incl. Gaoyao County being urbanized but not Dinghu urban District not yet in built-up area."
+        ],
+        [
+            "Xinyang",
+            "\u4fe1\u9633",
+            "1229959",
+            "1229959",
+            "Prefecture-level city",
+            "6108683",
+            "Henan",
+            "Built-up area < 1,000,000 inhabitants as the 2 urban districts are 3672 km\u00b2."
+        ],
+        [
+            "Liaocheng",
+            "",
+            "1229800",
+            "1229800",
+            "Prefecture-level city",
+            "5789900",
+            "Shandong",
+            ""
+        ],
+        [
+            "Maoming",
+            "\u8302\u540d",
+            "1217715",
+            "1217715",
+            "Prefecture-level city",
+            "5817753",
+            "Guangdong",
+            ""
+        ],
+        [
+            "Panzhihua",
+            "\u6500\u679d\u82b1",
+            "1214100",
+            "1214100",
+            "Prefecture-level city",
+            "5817753",
+            "Sichuan",
+            ""
+        ],
+        [
+            "Jiaxing",
+            "\u5609\u5174",
+            "1201900",
+            "1201900",
+            "Prefecture-level city",
+            "4501600",
+            "Zhejiang",
+            ""
+        ],
+        [
+            "Haicheng",
+            "\u6d77\u57ce",
+            "1201209",
+            "1201209",
+            "County-level city",
+            "Anshan",
+            "Liaoning",
+            "Built-up area < 1,000,000 inhabitants as the City is 2732 km\u00b2."
+        ],
+        [
+            "Zhenjiang",
+            "\u9547\u6c5f",
+            "1200400",
+            "1200400",
+            "Prefecture-level city",
+            "3113384",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Xining",
+            "\u897f\u5b81",
+            "1198304",
+            "1198304",
+            "Prefecture-level city , Provincial capital",
+            "2208708",
+            "Qinghai",
+            ""
+        ],
+        [
+            "Tianshui",
+            "\u5929\u6c34",
+            "1197174",
+            "1197174",
+            "Prefecture-level city",
+            "3262548",
+            "Gansu",
+            ""
+        ],
+        [
+            "Taixing",
+            "\u6cf0\u5174\u5e02",
+            "1192213",
+            "1192213",
+            "County-level city",
+            "Taizhou",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Huazhou",
+            "\u5316\u5dde",
+            "1178873",
+            "1178873",
+            "County-level city",
+            "Maoming",
+            "Guangdong",
+            "Built-up area < 1,000,000 inhabitants as the City is 2354 km\u00b2."
+        ],
+        [
+            "Qujing",
+            "\u66f2\u9756",
+            "1171805",
+            "740925",
+            "Prefecture-level city",
+            "5855055",
+            "Yunnan",
+            "Incl. Zhanyi County in built-up area."
+        ],
+        [
+            "Dingzhou",
+            "\u5b9a\u5dde",
+            "1165182",
+            "1165182",
+            "County-level city",
+            "Baoding",
+            "Hebei",
+            ""
+        ],
+        [
+            "Zhangqiu",
+            "\u7ae0\u4e18",
+            "1064200",
+            "1064200",
+            "County-level city",
+            "Jinan",
+            "Shandong",
+            "Built-up area < 1,000,000 inhabitants as the City is 1855 km\u00b2"
+        ],
+        [
+            "Zhuji",
+            "\u8bf8\u66a8",
+            "1157900",
+            "1157900",
+            "County-level city",
+            "Shaoxing",
+            "Zhejiang",
+            "Built-up area < 1,000,000 inhabitants as the City is 2311 km\u00b2"
+        ],
+        [
+            "Xingtai",
+            "\u90a2\u53f0",
+            "1155199",
+            "688876",
+            "Prefecture-level city",
+            "7104114",
+            "Hebei",
+            "Incl. Xingtai County now in built-up area."
+        ],
+        [
+            "Jingzhou",
+            "\u8346\u5dde",
+            "1154086",
+            "1154086",
+            "Prefecture-level city",
+            "5691707",
+            "Hubei",
+            ""
+        ],
+        [
+            "Shouguang",
+            "\u5bff\u5149",
+            "1139400",
+            "1139400",
+            "County-level city",
+            "Weifang",
+            "Shandong",
+            "Built-up area < 1,000,000 inhabitants as the City is 2180 km\u00b2"
+        ],
+        [
+            "Yuzhou",
+            "\u79b9\u5dde",
+            "1131819",
+            "1131819",
+            "County-level city",
+            "Xuchang",
+            "Henan",
+            "Built-up area < 1,000,000 inhabitants as the City is 1472 km\u00b2"
+        ],
+        [
+            "Bazhong",
+            "\u5df4\u4e2d",
+            "1126790",
+            "1126790",
+            "Prefecture-level city",
+            "3283771",
+            "Sichuan",
+            "Built-up area < 1,000,000 inhabitants as Bazhou urban District is 2566 km\u00b2"
+        ],
+        [
+            "Zoucheng",
+            "\u90b9\u57ce\u5e02",
+            "1116700",
+            "1116700",
+            "County-level city",
+            "Jining",
+            "Shandong",
+            "Built-up area < 1,000,000 inhabitants as the City is 1619 km\u00b2"
+        ],
+        [
+            "Jining",
+            "\u6d4e\u5b81",
+            "1115300",
+            "1115300",
+            "Prefecture-level city",
+            "8081900",
+            "Shandong",
+            ""
+        ],
+        [
+            "Huaibei",
+            "\u6dee\u5317",
+            "1113321",
+            "1113321",
+            "Prefecture-level city",
+            "2114276",
+            "Anhui",
+            ""
+        ],
+        [
+            "Zunyi",
+            "\u9075\u4e49",
+            "1095189",
+            "1095189",
+            "Prefecture-level city",
+            "6127009",
+            "Guizhou",
+            ""
+        ],
+        [
+            "Guigang",
+            "\u8d35\u6e2f",
+            "1086327",
+            "1493874",
+            "Prefecture-level city",
+            "4118808",
+            "Guangxi",
+            "Incl. Gangbei and Gangnan urban districts only."
+        ],
+        [
+            "Zhucheng",
+            "\u6d4e\u5b81",
+            "1086200",
+            "1086200",
+            "county-level city",
+            "8081900",
+            "Shandong",
+            "Built-up area < 1,000,000 inhabitants as the City is 2183 km\u00b2"
+        ],
+        [
+            "Jinhua",
+            "\u91d1\u534e",
+            "1077300",
+            "1077300",
+            "Prefecture-level city",
+            "5361600",
+            "Zhejiang",
+            ""
+        ],
+        [
+            "Hengyang",
+            "\u8861\u9633",
+            "1075516",
+            "1135166",
+            "Prefecture-level city",
+            "7141462",
+            "Hunan",
+            "Nanyue urban district not yet in built-up area."
+        ],
+        [
+            "Zhuzhou",
+            "\u682a\u6d32",
+            "1055373",
+            "1055373",
+            "Prefecture-level city",
+            "3855609",
+            "Hunan",
+            "Built-up area of 2,930,673 in progress with 3 urban districts of Xiangtan."
+        ],
+        [
+            "Lianyungang",
+            "\u8fde\u4e91\u6e2f",
+            "1049831",
+            "1049831",
+            "Prefecture-level city",
+            "4393914",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Ezhou",
+            "\u9102\u5dde",
+            "1035975",
+            "1048672",
+            "Prefecture-level city",
+            "1048672",
+            "Hubei",
+            "Incl. only Echeng urban district plus Huangzhou district of Huanggang Prefecture."
+        ],
+        [
+            "Pingdingshan",
+            "\u5e73\u9876\u5c71",
+            "1033975",
+            "1033975",
+            "Prefecture-level city",
+            "4904367",
+            "Henan",
+            ""
+        ],
+        [
+            "Qinhuangdao",
+            "\u79e6\u7687\u5c9b",
+            "1029670",
+            "1029670",
+            "Prefecture-level city",
+            "2987605",
+            "Hebei",
+            ""
+        ],
+        [
+            "Linhai",
+            "\u4e34\u6d77",
+            "1028800",
+            "1028800",
+            "County-level city",
+            "Taizhou",
+            "Zhejiang",
+            "Built-up area < 1,000,000 inhabitants as the city is 2331 km\u00b2."
+        ],
+        [
+            "Wuwei",
+            "\u6b66\u5a01",
+            "1010295",
+            "1010295",
+            "Prefecture-level city",
+            "1815054",
+            "Gansu",
+            "Built-up area < 1,000,000 inhabitants as the Liangzhou urban district is 5081 km\u00b2."
+        ],
+        [
+            "Hezhou",
+            "\u8d3a\u5dde",
+            "1005500",
+            "1005500",
+            "Prefecture-level city",
+            "1954100",
+            "Guangxi",
+            "Built-up area < 1,000,000 inhabitants as the Babu urban district is 5334 km\u00b2"
+        ],
+        [
+            "Zaoyang",
+            "\u67a3\u9633",
+            "1004741",
+            "1004741",
+            "County-level city",
+            "Xianyang",
+            "Hubei",
+            "Built-up area < 1,000,000 inhabitants as the city is 3277 km\u00b2."
+        ],
+        [
+            "Xiangcheng",
+            "\u9879\u57ce",
+            "1003626",
+            "1003626",
+            "County-level city",
+            "Zhoukou",
+            "Henan",
+            ""
+        ],
+        [
+            "Dongying",
+            "\u4e1c\u8425",
+            "999000",
+            "756700",
+            "Prefecture-level city",
+            "2035300",
+            "Shandong",
+            "Incl. Kenli county partly within built-up area."
+        ],
+        [
+            "Yueyang",
+            "\u5cb3\u9633",
+            "991465",
+            "1232133",
+            "Prefecture-level city",
+            "5477911",
+            "Hunan",
+            "Junshan urban districts not yet in built-up area."
+        ],
+        [
+            "Laiwu",
+            "\u83b1\u829c",
+            "989500",
+            "1298500",
+            "Prefecture-level city",
+            "1298500",
+            "Shandong",
+            "Gangcheng urban district not yet in built-up area."
+        ],
+        [
+            "Qiqihar",
+            "\u9f50\u9f50\u54c8\u5c14",
+            "979517",
+            "1481637",
+            "Prefecture-level city",
+            "5611000",
+            "Heilongjiang",
+            "Incl. Longsha, Jianhua and Tiefeng urban districts only."
+        ],
+        [
+            "Benxi",
+            "\u672c\u6eaa",
+            "972932",
+            "972932",
+            "Prefecture-level city",
+            "1709538",
+            "Liaoning",
+            ""
+        ],
+        [
+            "Bengbu",
+            "\u868c\u57e0",
+            "972784",
+            "972784",
+            "Prefecture-level city",
+            "3164467",
+            "Anhui",
+            ""
+        ],
+        [
+            "Qidong",
+            "\u542f\u4e1c",
+            "972525",
+            "972525",
+            "County-level city",
+            "Nantong",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Mudanjiang",
+            "\u7261\u4e39\u6c5f",
+            "965154",
+            "965154",
+            "Prefecture-level city",
+            "2798723",
+            "Heilongjiang",
+            ""
+        ],
+        [
+            "Danyang",
+            "\u4e39\u9633\u5e02",
+            "960418",
+            "960418",
+            "County-level city",
+            "Zhenjiang",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Wuchuan",
+            "\u5434\u5ddd",
+            "947499",
+            "947499",
+            "County-level city",
+            "Zhanjiang",
+            "Guangdong",
+            ""
+        ],
+        [
+            "Feicheng",
+            "\u80a5\u57ce",
+            "946600",
+            "946600",
+            "County-level city",
+            "Tai`an",
+            "Shandong",
+            ""
+        ],
+        [
+            "Xianyang",
+            "\u54b8\u9633",
+            "Xi`an",
+            "945420",
+            "Prefecture-level city",
+            "5096006",
+            "Shaanxi",
+            ""
+        ],
+        [
+            "Linfen",
+            "\u4e34\u6c7e",
+            "944050",
+            "944050",
+            "Prefecture-level city",
+            "4316612",
+            "Shanxi",
+            ""
+        ],
+        [
+            "Xinyi",
+            "\u65b0\u6c82",
+            "920610",
+            "920610",
+            "County-level city",
+            "Xuzhou",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Weihai",
+            "\u5a01\u6d77",
+            "908200",
+            "908200",
+            "Prefecture-level city",
+            "2804800",
+            "Shandong",
+            ""
+        ],
+        [
+            "Haimen",
+            "\u6d77\u95e8",
+            "Nantong",
+            "907598",
+            "County-level city",
+            "Nantong",
+            "Jiangsu",
+            "Incl. in Nantong built-up area in 2012."
+        ],
+        [
+            "Xinxiang",
+            "\u65b0\u4e61",
+            "902731",
+            "1047020",
+            "Prefecture-level city",
+            "5707801",
+            "Henan",
+            "Fengquan urban District not yet linked to built-up area."
+        ],
+        [
+            "Zaozhuang",
+            "\u67a3\u5e84",
+            "899700",
+            "2125136",
+            "Prefecture-level city",
+            "3729300",
+            "Shandong",
+            "Xuecheng, Shanting and Tai`erzhuang urban districts not in built-up area."
+        ],
+        [
+            "Kaifeng",
+            "\u5f00\u5c01",
+            "896057",
+            "896057",
+            "Prefecture-level city",
+            "4676159",
+            "Henan",
+            ""
+        ],
+        [
+            "Hengyang",
+            "\u8861\u9633",
+            "886424",
+            "936789",
+            "Prefecture-level city",
+            "7141462",
+            "Hunan",
+            ""
+        ],
+        [
+            "Shaoxing",
+            "\u7ecd\u5174",
+            "Hangzhou",
+            "883800",
+            "Prefecture-level city",
+            "4912200",
+            "Zhejiang",
+            "Yuecheng urban district and Shaoxing County in Hangzhou built-up area."
+        ],
+        [
+            "Jiamusi",
+            "\u4f73\u6728\u65af",
+            "881711",
+            "881711",
+            "Prefecture-level city",
+            "2552097",
+            "Heilongjiang",
+            ""
+        ],
+        [
+            "Suihua",
+            "\u7ee5\u5316",
+            "877682",
+            "877682",
+            "Prefecture-level city",
+            "5416339",
+            "Heilongjiang",
+            ""
+        ],
+        [
+            "Jinzhou",
+            "\u9526\u5dde",
+            "875955",
+            "875955",
+            "Prefecture-level city",
+            "3126463",
+            "Liaoning",
+            ""
+        ],
+        [
+            "Langfang",
+            "\u5eca\u574a",
+            "868066",
+            "868066",
+            "Prefecture-level city",
+            "4358839",
+            "Hebei",
+            "Sanhe City and Dachang Hui Autonomous County included in Beijing built-up area."
+        ],
+        [
+            "Jiaozuo",
+            "\u7126\u4f5c",
+            "865356",
+            "865356",
+            "Prefecture-level city",
+            "3539860",
+            "Henan",
+            ""
+        ],
+        [
+            "Rizhao",
+            "\u65e5\u7167",
+            "865032",
+            "1143078",
+            "Prefecture-level city",
+            "2801100",
+            "Shandong",
+            "Lanshan urban District not in built-up area."
+        ],
+        [
+            "Wuhu",
+            "\u829c\u6e56",
+            "864932",
+            "1009824",
+            "Prefecture-level city",
+            "2263123",
+            "Anhui",
+            ""
+        ],
+        [
+            "Zhoushan",
+            "\u821f\u5c71",
+            "843000",
+            "843000",
+            "Prefecture-level city",
+            "1121300",
+            "Zhejiang",
+            ""
+        ],
+        [
+            "Yibin",
+            "\u5b9c\u5bbe",
+            "836383",
+            "836383",
+            "Prefecture-level city",
+            "4472001",
+            "Sichuan",
+            ""
+        ],
+        [
+            "Kashgar",
+            "\u5580\u4ec0",
+            "819095",
+            "396795",
+            "County-level city , Special Economic Zones",
+            "3979321",
+            "Xinjiang",
+            "Incl. Shule County being urbanized."
+        ],
+        [
+            "Dandong",
+            "\u4e39\u4e1c",
+            "798364",
+            "798364",
+            "Prefecture-level city",
+            "2444697",
+            "Liaoning",
+            ""
+        ],
+        [
+            "Anqing",
+            "\u5b89\u5e86",
+            "780514",
+            "780514",
+            "Prefecture-level city",
+            "5311000",
+            "Anhui",
+            ""
+        ],
+        [
+            "Huludao",
+            "\u846b\u82a6\u5c9b",
+            "777682",
+            "777682",
+            "Prefecture-level city",
+            "2623541",
+            "Liaoning",
+            ""
+        ],
+        [
+            "Shaoyang",
+            "\u90b5\u9633",
+            "753194",
+            "753194",
+            "Prefecture-level city",
+            "7071741",
+            "Hunan",
+            ""
+        ],
+        [
+            "Binzhou",
+            "\u6ee8\u5dde",
+            "709700",
+            "709700",
+            "Prefecture-level city",
+            "3748500",
+            "Shandong",
+            ""
+        ],
+        [
+            "Zhangzhou",
+            "\u6c5f",
+            "Xiamen",
+            "705649",
+            "Prefecture-level city",
+            "4809983",
+            "Guangdong",
+            "Longwen, Xiacheng Zhangzhou urban districts and Longhai city now in Xiamen built-up area."
+        ],
+        [
+            "Fuxin",
+            "\u961c\u65b0",
+            "686848",
+            "686848",
+            "Prefecture-level city",
+            "1819339",
+            "Liaoning",
+            ""
+        ],
+        [
+            "Dezhou",
+            "\u5fb7\u5dde",
+            "679600",
+            "679600",
+            "Prefecture-level city",
+            "5568200",
+            "Shandong",
+            ""
+        ],
+        [
+            "Yangjiang",
+            "\u9633\u6c5f",
+            "676858",
+            "676858",
+            "Prefecture-level city",
+            "2421812",
+            "Guangdong",
+            ""
+        ],
+        [
+            "Tieling",
+            "\u94c1\u5cad",
+            "666755",
+            "328555",
+            "Prefecture-level city",
+            "2717732",
+            "Liaoning",
+            "Incl. Tieling County now in built-up area."
+        ],
+        [
+            "Liaoyang",
+            "\u8fbd\u9633",
+            "Anshan",
+            "655738",
+            "Prefecture-level city",
+            "1859768",
+            "Liaoning",
+            ""
+        ],
+        [
+            "Puyang",
+            "\u6fee\u9633",
+            "655631",
+            "655631",
+            "Prefecture-level city",
+            "3598494",
+            "Henan",
+            ""
+        ],
+        [
+            "Yulin",
+            "\u7389\u6797",
+            "637617",
+            "637617",
+            "Prefecture-level city",
+            "3351437",
+            "Guangxi",
+            "Incl. largely rural areas."
+        ],
+        [
+            "Jingjiang",
+            "\u9756\u6c5f",
+            "617277",
+            "617277",
+            "County-level city",
+            "Taizhou",
+            "Jiangsu",
+            ""
+        ],
+        [
+            "Jiujiang",
+            "\u4e5d\u6c5f",
+            "592381",
+            "592381",
+            "Prefecture-level city",
+            "4728764",
+            "Jiangxi",
+            ""
+        ],
+        [
+            "Taizhou",
+            "\u6cf0\u5dde",
+            "586392",
+            "1417567",
+            "Prefecture-level city",
+            "4618558",
+            "Jiangsu",
+            "Jiangyan suburban District not yet in built-up area."
+        ],
+        [
+            "Chuzhou",
+            "\u6ec1\u5dde",
+            "562321",
+            "562321",
+            "Prefecture-level city",
+            "3937868",
+            "Anhui",
+            ""
+        ],
+        [
+            "Macau",
+            "\u6fb3\u95e8",
+            "Zhuhai",
+            "552503",
+            "Special administrative region",
+            "541200",
+            "Macau",
+            ""
+        ],
+        [
+            "Cangzhou",
+            "\u6ca7\u5dde",
+            "536793",
+            "536793",
+            "Prefecture-level city",
+            "7134053",
+            "Hebei",
+            ""
+        ],
+        [
+            "Aksu",
+            "\u963f\u514b\u82cf",
+            "535657",
+            "535657",
+            "County-level city",
+            "2370887",
+            "Xinjiang",
+            "Incl. largely rural areas."
+        ],
+        [
+            "Beihai",
+            "\u5317\u6d77",
+            "525385",
+            "668085",
+            "Prefecture-level city",
+            "1539300",
+            "Guangxi",
+            "Incl. Haicheng and Yinhai urban districts."
+        ],
+        [
+            "Zhoukou",
+            "\u5468\u53e3",
+            "505139",
+            "505139",
+            "Prefecture-level city",
+            "8953172",
+            "Henan",
+            ""
+        ],
+        [
+            "Hegang",
+            "\u9e64\u5c97",
+            "489232",
+            "489232",
+            "Prefecture-level city",
+            "1058665",
+            "Heilongjiang",
+            "Dongshan District not yet in built-up area."
+        ],
+        [
+            "Nanping",
+            "\u5357\u5e73",
+            "467875",
+            "467875",
+            "Prefecture-level city",
+            "2645549",
+            "Fujian",
+            ""
+        ],
+        [
+            "Chaozhou",
+            "\u6f6e\u5dde",
+            "Shantou",
+            "452472",
+            "Prefecture-level city",
+            "2669844",
+            "Guangdong",
+            ""
+        ],
+        [
+            "Lishui",
+            "\u4e3d\u6c34",
+            "451400",
+            "451400",
+            "Prefecture-level city",
+            "2117000",
+            "Zhejiang",
+            ""
+        ],
+        [
+            "Lhasa",
+            "\u62c9\u8428",
+            "279074",
+            "279074",
+            "Prefecture-level city , Provincial capital",
+            "559423",
+            "Tibet",
+            ""
+        ],
+        [
+            "Karamay",
+            "\u514b\u62c9\u739b\u4f9d",
+            "261445",
+            "261445",
+            "Prefecture-level city",
+            "391008",
+            "Xinjiang",
+            ""
+        ],
+        [
+            "Altay",
+            "\u963f\u52d2\u6cf0",
+            "190064",
+            "190064",
+            "County-level city",
+            "603280",
+            "Xinjiang",
+            ""
+        ],
+        [
+            "Lijiang",
+            "\u4e3d\u6c5f",
+            "155540",
+            "155540",
+            "Prefecture-level city",
+            "1244769",
+            "Yunnan",
+            ""
+        ]
+    ]
+}

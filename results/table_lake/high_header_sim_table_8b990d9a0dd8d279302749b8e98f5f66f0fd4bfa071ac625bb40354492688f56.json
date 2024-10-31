@@ -1,0 +1,119 @@
+{
+    "id": "8b990d9a0dd8d279302749b8e98f5f66f0fd4bfa071ac625bb40354492688f56",
+    "metadata": "Pedro Rodr\u00edguez (racing driver) | Formula One World Championship results | Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Pts_"
+    ],
+    "cell": [
+        [
+            "1963",
+            "Team Lotus",
+            "Lotus 25",
+            "Climax V8",
+            "0"
+        ],
+        [
+            "1964",
+            "North American Racing Team",
+            "Ferrari 156 Aero",
+            "Ferrari V6",
+            "1"
+        ],
+        [
+            "1965",
+            "North American Racing Team",
+            "Ferrari 1512",
+            "Ferrari V12",
+            "2"
+        ],
+        [
+            "1966",
+            "Team Lotus",
+            "Lotus 33",
+            "Climax V8",
+            "0"
+        ],
+        [
+            "1966",
+            "Team Lotus",
+            "Lotus F2 44",
+            "Cosworth Straight-4",
+            "0"
+        ],
+        [
+            "1966",
+            "Team Lotus",
+            "Lotus 33",
+            "BRM V8",
+            "0"
+        ],
+        [
+            "1967",
+            "Cooper Car Company",
+            "Cooper T81",
+            "Maserati V12",
+            "15"
+        ],
+        [
+            "1968",
+            "Owen Racing Organisation",
+            "BRM P126",
+            "BRM V12",
+            "18"
+        ],
+        [
+            "1968",
+            "Owen Racing Organisation",
+            "BRM P133",
+            "BRM V12",
+            "18"
+        ],
+        [
+            "1968",
+            "Owen Racing Organisation",
+            "BRM P138",
+            "BRM V12",
+            "18"
+        ],
+        [
+            "1969",
+            "Reg Parnell Racing",
+            "BRM P126",
+            "BRM V12",
+            "3"
+        ],
+        [
+            "1969",
+            "Scuderia Ferrari",
+            "Ferrari 312",
+            "Ferrari V12",
+            "3"
+        ],
+        [
+            "1969",
+            "North American Racing Team",
+            "Ferrari 312",
+            "Ferrari V12",
+            "3"
+        ],
+        [
+            "1970",
+            "Yardley Team BRM",
+            "BRM P153",
+            "BRM V12",
+            "23"
+        ],
+        [
+            "1971",
+            "Yardley Team BRM",
+            "BRM P160",
+            "BRM V12",
+            "9"
+        ]
+    ]
+}

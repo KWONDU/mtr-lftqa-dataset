@@ -1,0 +1,106 @@
+{
+    "id": "22fd0460820e189725e52796d539b12be38086136c63804afd2878593e21cd5d",
+    "metadata": "Gran Turismo official steering wheel | Model comparison | Model comparison",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Feature",
+        "GT_Force",
+        "Driving_Force_EX",
+        "Driving_Force_Pro",
+        "Driving_Force_GT",
+        "G25_Racing_Wheel",
+        "G27_Racing_Wheel"
+    ],
+    "cell": [
+        [
+            "Currently available",
+            "no",
+            "no",
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ],
+        [
+            "Clutch pedal",
+            "no",
+            "no",
+            "no",
+            "no",
+            "yes",
+            "yes"
+        ],
+        [
+            "Gear stick",
+            "no",
+            "no",
+            "yes",
+            "yes",
+            "yes",
+            "yes"
+        ],
+        [
+            "Six-speed shifter",
+            "no",
+            "no",
+            "no",
+            "no",
+            "yes",
+            "yes"
+        ],
+        [
+            "Sequential shifter",
+            "yes",
+            "yes",
+            "yes",
+            "yes",
+            "yes",
+            "no"
+        ],
+        [
+            "Real-Time Adjustments Dial",
+            "no",
+            "no",
+            "no",
+            "yes",
+            "no",
+            "no"
+        ],
+        [
+            "Wheel size",
+            "TBC",
+            "25cm (10-inch)",
+            "25cm (10-inch)",
+            "28cm (11-inch)",
+            "28cm (11-inch)",
+            "28cm (11-inch)"
+        ],
+        [
+            "Steering range (degrees)",
+            "200",
+            "200",
+            "900",
+            "900",
+            "900",
+            "900"
+        ],
+        [
+            "Steering wheel cover",
+            "Rubber",
+            "Rubber",
+            "Rubber",
+            "Rubber",
+            "Leather",
+            "Leather"
+        ],
+        [
+            "D-pad / action buttons",
+            "yes",
+            "yes",
+            "yes",
+            "yes",
+            "12",
+            "16"
+        ]
+    ]
+}

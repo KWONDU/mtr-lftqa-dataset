@@ -1,0 +1,87 @@
+{
+    "id": "65d54e8f8d8941bf801553e8b452391544df9ee143c42e2c32698519ff5e8cbb",
+    "metadata": "Obsolete Russian units of measurement | Dry measures | Dry measures",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Unit",
+        "Russian",
+        "Translation_",
+        "Ratio",
+        "Cubic_inches_exact",
+        "Metric_value",
+        "Imperial_value",
+        "US_Customary"
+    ],
+    "cell": [
+        [
+            "chast",
+            "\u0447\u0430\u0441\u0442\u044c",
+            "part",
+            "1/30",
+            "20/3",
+            "109.33ml",
+            "0.219 pt",
+            "0.263 pt"
+        ],
+        [
+            "kruzhka",
+            "\u043a\u0440\u0443\u0301\u0436\u043a\u0430",
+            "mug",
+            "2/5",
+            "80",
+            "1.312 L",
+            "2.309 pt",
+            "2.773 pt"
+        ],
+        [
+            "garnets",
+            "\u0433\u0430\u0301\u0440\u043d\u0435\u0446",
+            "pot",
+            "1",
+            "200",
+            "3.279842 L",
+            "2.886 qt",
+            "3.466 qt"
+        ],
+        [
+            "vedro",
+            "\u0432\u0435\u0434\u0440\u043e\u0301",
+            "bucket",
+            "4",
+            "800",
+            "13.12 L",
+            "2.886 gal.",
+            "3.466 gal."
+        ],
+        [
+            "chetverik",
+            "\u0447\u0435\u0442\u0432\u0435\u0440\u0438\u0301\u043a",
+            "quarter",
+            "8",
+            "1600",
+            "26.239 L",
+            "2.886 p.",
+            "2.978 p."
+        ],
+        [
+            "osmina",
+            "\u043e\u0441\u044c\u043c\u0438\u0301\u043d\u0430",
+            "one-eighth",
+            "32",
+            "6400",
+            "104.955 L",
+            "2.886 bsh.",
+            "2.978 bsh."
+        ],
+        [
+            "chetvert",
+            "\u0447\u0435\u0301\u0442\u0432\u0435\u0440\u0442\u044c",
+            "quarter",
+            "64",
+            "1280",
+            "209.91 L",
+            "5.772 bsh.",
+            "5.957 bsh."
+        ]
+    ]
+}

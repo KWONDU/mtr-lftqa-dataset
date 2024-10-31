@@ -1,0 +1,79 @@
+{
+    "id": "2215f0d3ef44fc8620d28c73efe408c77f7c30f1923594179ed251737c21c893",
+    "metadata": "Hideo Kanaya | Grand Prix motorcycle racing results | Grand Prix motorcycle racing results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Points",
+        "Rank_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1967",
+            "125cc",
+            "Kawasaki",
+            "4",
+            "12th",
+            "0"
+        ],
+        [
+            "1972",
+            "250cc",
+            "Yamaha",
+            "26",
+            "11th",
+            "1"
+        ],
+        [
+            "1972",
+            "350cc",
+            "Yamaha",
+            "41",
+            "8th",
+            "0"
+        ],
+        [
+            "1972",
+            "500cc",
+            "Yamaha",
+            "8",
+            "22nd",
+            "0"
+        ],
+        [
+            "1973",
+            "250cc",
+            "Yamaha",
+            "36",
+            "7th",
+            "0"
+        ],
+        [
+            "1973",
+            "500cc",
+            "Yamaha",
+            "22",
+            "8th",
+            "0"
+        ],
+        [
+            "1975",
+            "350cc",
+            "Yamaha",
+            "25",
+            "10th",
+            "1"
+        ],
+        [
+            "1975",
+            "500cc",
+            "Yamaha",
+            "45",
+            "3rd",
+            "1"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "7bdefa7cda3615bd3e60e51ec30ef1d24d1a73f82cab3497de9b123ad6410e6e",
+    "metadata": "English Open (table tennis) | English Open Championships | 1995-present",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Host_",
+        "Mens_Singles",
+        "Womens_Singles",
+        "Mens_Doubles",
+        "Womens_Doubles"
+    ],
+    "cell": [
+        [
+            "1995/96",
+            "Kettering",
+            "Kong Linghui",
+            "Yang Ying",
+            "Werner Schlager Karl Jindrak",
+            "Yang Ying Wang Hui"
+        ],
+        [
+            "1996/97",
+            "Kettering",
+            "Jean-Michel Saive",
+            "Chen-Tong Fei-Ming",
+            "Christophe Legout Patrick Chila",
+            "Chai Po Wa Qiao Yunping"
+        ],
+        [
+            "1998/99",
+            "Hopton-on-Sea",
+            "Ma Wenge",
+            "Jie Schoepp",
+            "Trinko Keen Danny Heister",
+            "Lee Eun-Sil Ryu Ji-Hae"
+        ],
+        [
+            "2000/01",
+            "Chatham",
+            "Wang Liqin",
+            "Yoshie Takada",
+            "Timo Boll Zoltan Fejer-Konnerth",
+            "Kim Hyang Mi Kim Hyon Hui"
+        ],
+        [
+            "2008/09",
+            "Sheffield",
+            "Ma Long",
+            "Guo Yan",
+            "Ma Long Wang Liqin",
+            "Kim Kyung Ah Park Mi Young"
+        ]
+    ]
+}

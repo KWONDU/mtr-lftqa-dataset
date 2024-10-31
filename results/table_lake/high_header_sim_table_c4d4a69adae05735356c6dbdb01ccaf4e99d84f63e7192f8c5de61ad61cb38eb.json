@@ -1,0 +1,55 @@
+{
+    "id": "c4d4a69adae05735356c6dbdb01ccaf4e99d84f63e7192f8c5de61ad61cb38eb",
+    "metadata": "2007-08 Aston Villa F.C. season | Pre-season results | Pre-season results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Venue",
+        "Result_F_A",
+        "Competition",
+        "Scorers"
+    ],
+    "cell": [
+        [
+            "25 July 2007",
+            "Toronto FC",
+            "A",
+            "4-2",
+            "Friendly match",
+            "Moore ( 3 ), Carew"
+        ],
+        [
+            "28 July 2007",
+            "Columbus Crew",
+            "A",
+            "3-1",
+            "Friendly match",
+            "Young , Barry , Moore"
+        ],
+        [
+            "01/08/2007",
+            "Stoke City",
+            "A",
+            "2-0",
+            "Friendly match",
+            "Berger , Agbonlahor"
+        ],
+        [
+            "04/08/2007",
+            "Inter Milan",
+            "H",
+            "3-0",
+            "Friendly match",
+            "Barry (2), Lausren"
+        ],
+        [
+            "07/08/2007",
+            "Walsall",
+            "A",
+            "1-1",
+            "Friendly match",
+            "Boertien ( og )"
+        ]
+    ]
+}

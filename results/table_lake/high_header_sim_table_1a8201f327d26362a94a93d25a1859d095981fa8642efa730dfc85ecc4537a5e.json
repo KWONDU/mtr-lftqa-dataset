@@ -1,0 +1,79 @@
+{
+    "id": "1a8201f327d26362a94a93d25a1859d095981fa8642efa730dfc85ecc4537a5e",
+    "metadata": "Italian verbs | Imperfect (L\u2019imperfetto) | Imperfect (L\u2019imperfetto)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "parlare",
+        "vendere",
+        "capire",
+        "finire",
+        "essere",
+        "avere",
+        "andare",
+        "stare",
+        "fare"
+    ],
+    "cell": [
+        [
+            "io",
+            "parlavo /par`la\u02d0vo/",
+            "vendevo /ven`de\u02d0vo/",
+            "capivo /ka`pi\u02d0vo/",
+            "finivo /fi`ni\u02d0vo/",
+            "ero /`\u025b\u02d0ro/",
+            "avevo /a`ve\u02d0vo/",
+            "andavo /an`da\u02d0vo/",
+            "stavo /`sta\u02d0vo/",
+            "facevo /fa`t\u0283e\u02d0vo/"
+        ],
+        [
+            "tu",
+            "parlavi /par`la\u02d0vi/",
+            "vendevi /ven`de\u02d0vi/",
+            "capivi /ka`pi\u02d0vi/",
+            "finivi /fi`ni\u02d0vi/",
+            "eri /`\u025b\u02d0ri/",
+            "avevi /a`ve\u02d0vi/",
+            "andavi /an`da\u02d0vi/",
+            "stavi /`sta\u02d0vi/",
+            "facevi /fa`t\u0283e\u02d0vi/"
+        ],
+        [
+            "lui / lei / Lei",
+            "parlava /par`la\u02d0va/",
+            "vendeva /ven`de\u02d0va/",
+            "capiva /ka`pi\u02d0va/",
+            "finiva /fi`ni\u02d0va/",
+            "era /`\u025b\u02d0ra/",
+            "aveva /a`ve\u02d0va/",
+            "andava /an`da\u02d0va/",
+            "stava /`sta\u02d0va/",
+            "faceva /fa`t\u0283e\u02d0va/"
+        ],
+        [
+            "noi",
+            "parlavamo /parla`va\u02d0mo/",
+            "vendevamo /vende`va\u02d0mo/",
+            "capivamo /kapi`va\u02d0mo/",
+            "finivamo /fini`va\u02d0mo/",
+            "eravamo /era`va\u02d0mo/",
+            "avevamo /ave`va\u02d0mo/",
+            "andavamo /anda`va\u02d0mo/",
+            "stavamo /sta`va\u02d0mo/",
+            "facevamo /fat\u0283e`va\u02d0mo/"
+        ],
+        [
+            "voi / Voi",
+            "parlavate /parla`va\u02d0te/",
+            "vendevate /vende`va\u02d0te/",
+            "capivate /kapi`va\u02d0te/",
+            "finivate /fini`va\u02d0te/",
+            "eravate /era`va\u02d0te/",
+            "avevate /ave`va\u02d0te/",
+            "andavate /anda`va\u02d0te/",
+            "stavate /sta`va\u02d0te/",
+            "facevate /fat\u0283e`va\u02d0te/"
+        ]
+    ]
+}

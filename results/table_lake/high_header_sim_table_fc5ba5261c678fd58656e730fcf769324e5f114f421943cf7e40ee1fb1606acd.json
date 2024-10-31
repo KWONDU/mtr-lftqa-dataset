@@ -1,0 +1,111 @@
+{
+    "id": "fc5ba5261c678fd58656e730fcf769324e5f114f421943cf7e40ee1fb1606acd",
+    "metadata": "The Metropolitan Area of the Aburr\u00e1 Valley | Municipalities | Municipalities",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Municipalities",
+        "Extension_km\u00b2",
+        "Population_hab",
+        "Density_hab_km\u00b2_",
+        "Altitude_m",
+        "Distance_Medell\u00edn_Downtown_km_"
+    ],
+    "cell": [
+        [
+            "Medell\u00edn",
+            "38064",
+            "2 368 282*",
+            "6 221,8",
+            "1538",
+            "0"
+        ],
+        [
+            "Bello",
+            "14236",
+            "421 522*",
+            "2 960,9",
+            "1450",
+            "10"
+        ],
+        [
+            "Envigado",
+            "7880",
+            "202 310*",
+            "3504",
+            "1575",
+            "10"
+        ],
+        [
+            "Itag\u00fc\u00ed",
+            "1700",
+            "255 369*",
+            "15 021,7",
+            "1550",
+            "11"
+        ],
+        [
+            "Sabaneta",
+            "1500",
+            "48 997*",
+            "3 266,4",
+            "1550",
+            "14"
+        ],
+        [
+            "Barbosa",
+            "20600",
+            "46 951*",
+            "2279",
+            "1300",
+            "42"
+        ],
+        [
+            "Caldas",
+            "13340",
+            "74 072*",
+            "5552",
+            "1750",
+            "22"
+        ],
+        [
+            "La Estrella",
+            "3500",
+            "58 414*",
+            "1 668,9",
+            "1775",
+            "16"
+        ],
+        [
+            "Girardota",
+            "7800",
+            "49 381*",
+            "6630",
+            "1425",
+            "26"
+        ],
+        [
+            "Copacabana",
+            "7000",
+            "66 665*",
+            "9523",
+            "1454",
+            "18"
+        ],
+        [
+            "Total",
+            "1 157,39",
+            "3 591 963*",
+            "3 104",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "* DANE",
+            "* DANE",
+            "* DANE",
+            "* DANE",
+            "* DANE",
+            "* DANE"
+        ]
+    ]
+}

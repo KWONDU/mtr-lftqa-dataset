@@ -1,0 +1,133 @@
+{
+    "id": "9f3ad00bc5b2a5c99f007cf7a6fd17d7e306a2a9f9b058ab4f3882ac83b0e003",
+    "metadata": "2010-11 FA Cup | Calendar | Calendar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Main_date",
+        "Number_of_fixtures",
+        "Clubs",
+        "New_entries_this_round",
+        "Prize_money",
+        "Player_of_the_Round"
+    ],
+    "cell": [
+        [
+            "Extra Preliminary Round",
+            "14 August 2010",
+            "201",
+            "759 \u2192 558",
+            "402: 358th-759th",
+            "\u00a3750",
+            "n/a"
+        ],
+        [
+            "Preliminary Round",
+            "28 August 2010",
+            "166",
+            "558 \u2192 392",
+            "131: 227th-357th",
+            "\u00a31,500",
+            "n/a"
+        ],
+        [
+            "First Round Qualifying",
+            "11 September 2010",
+            "116",
+            "392 \u2192 276",
+            "66: 161st-226th",
+            "\u00a33,000",
+            "Sam Styles ( Oxhey Jets )"
+        ],
+        [
+            "Second Round Qualifying",
+            "25 September 2010",
+            "80",
+            "276 \u2192 196",
+            "44: 117th-160th",
+            "\u00a34,500",
+            "Sam Higgins ( Chelmsford City )"
+        ],
+        [
+            "Third Round Qualifying",
+            "9 October 2010",
+            "40",
+            "196 \u2192 156",
+            "none",
+            "\u00a37,500",
+            "Justin Marsden ( Nuneaton Town )"
+        ],
+        [
+            "Fourth Round Qualifying",
+            "23 October 2010",
+            "32",
+            "156 \u2192 124",
+            "24: 93rd-116th",
+            "\u00a312,500",
+            "Amari Morgan-Smith ( Luton Town )"
+        ],
+        [
+            "First round proper",
+            "6 November 2010",
+            "40",
+            "124 \u2192 84",
+            "48: 45th-92nd",
+            "\u00a318,000",
+            "Jake Cottrell ( FC United of Manchester )"
+        ],
+        [
+            "Second round proper",
+            "27 November 2010",
+            "20",
+            "84 \u2192 64",
+            "none",
+            "\u00a327,000",
+            "Sam Ashton ( FC United of Manchester )"
+        ],
+        [
+            "Third round proper",
+            "8 January 2011",
+            "32",
+            "64 \u2192 32",
+            "44: 1st-44th",
+            "\u00a367,500",
+            "Kasper Schmeichel ( Leeds United )"
+        ],
+        [
+            "Fourth round proper",
+            "29 January 2011",
+            "16",
+            "32 \u2192 16",
+            "none",
+            "\u00a390,000",
+            "Neal Bishop ( Notts County )"
+        ],
+        [
+            "Fifth round proper",
+            "19 February 2011",
+            "8",
+            "16 \u2192 8",
+            "none",
+            "\u00a3180,000",
+            "Matthew Mills ( Reading F.C. )"
+        ],
+        [
+            "Sixth round proper",
+            "12-13 March 2011",
+            "4",
+            "8 \u2192 4",
+            "none",
+            "\u00a3360,000",
+            "Kevin Davies ( Bolton Wanderers F.C. )"
+        ],
+        [
+            "Semi-Finals",
+            "16-17 April 2011",
+            "2",
+            "4 \u2192 2",
+            "none",
+            "\u00a3450,000",
+            "Joe Hart ( Manchester City )"
+        ]
+    ]
+}

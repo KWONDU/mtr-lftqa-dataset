@@ -1,0 +1,55 @@
+{
+    "id": "49af50efb095d3dd6677088aa673be9d63c743d4a717d60c7cc5dae03797bd17",
+    "metadata": "2000 Washington Redskins season | Rushing | Rushing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Attempts",
+        "Yards",
+        "Average",
+        "Long_",
+        "Touchdowns"
+    ],
+    "cell": [
+        [
+            "Stephen Davis",
+            "332",
+            "1318",
+            "4.0",
+            "50",
+            "11"
+        ],
+        [
+            "Larry Centers",
+            "19",
+            "103",
+            "5.4",
+            "14",
+            "0"
+        ],
+        [
+            "James Thrash",
+            "10",
+            "82",
+            "8.2",
+            "34",
+            "0"
+        ],
+        [
+            "Skip Hicks",
+            "29",
+            "78",
+            "2.7",
+            "12",
+            "1"
+        ],
+        [
+            "Brad Johnson",
+            "22",
+            "58",
+            "2.6",
+            "21",
+            "1"
+        ]
+    ]
+}

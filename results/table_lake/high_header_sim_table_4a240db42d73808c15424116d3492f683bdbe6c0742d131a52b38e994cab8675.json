@@ -1,0 +1,49 @@
+{
+    "id": "4a240db42d73808c15424116d3492f683bdbe6c0742d131a52b38e994cab8675",
+    "metadata": "List of W\u00fcrttemberg locomotives and railbuses | Railbuses | Railbuses",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Railway_numbers",
+        "Quantity",
+        "Years_of_manufacture",
+        "Type_"
+    ],
+    "cell": [
+        [
+            "BW",
+            "1-5",
+            "5",
+            "1887-1900",
+            "A1 bm"
+        ],
+        [
+            "DW ( de )",
+            "1-5",
+            "5",
+            "1895-1901",
+            "A1 n2"
+        ],
+        [
+            "DW ( de )",
+            "6-17",
+            "12",
+            "1903-1909",
+            "A1 h2"
+        ],
+        [
+            "AW",
+            "1",
+            "(1)",
+            "(1897)",
+            "Bo\u20322\u2032 g2t"
+        ],
+        [
+            "DWss ( de )",
+            "1",
+            "1",
+            "1907",
+            "(1A)2\u2032 h2"
+        ]
+    ]
+}

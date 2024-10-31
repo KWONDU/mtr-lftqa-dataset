@@ -1,0 +1,61 @@
+{
+    "id": "bc6b8d51239e442be33eab216dfadc6c075d251f576a9fd12d66d81482ee86d8",
+    "metadata": "Canon Open | Winners | Winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Dates",
+        "Champion",
+        "Country",
+        "Score",
+        "Purse_",
+        "Winner_s_share_"
+    ],
+    "cell": [
+        [
+            "2012",
+            "Oct 4-7",
+            "Yuta Ikeda",
+            "Japan",
+            "271 (-17)",
+            "150000000",
+            "30000000"
+        ],
+        [
+            "2011",
+            "Oct 6-9",
+            "Kenichi Kuboya",
+            "Japan",
+            "274 (-14)",
+            "150000000",
+            "30000000"
+        ],
+        [
+            "2010",
+            "Oct 7-10",
+            "Shinichi Yokota",
+            "Japan",
+            "274 (-14)",
+            "150000000",
+            "30000000"
+        ],
+        [
+            "2009",
+            "Oct 8-11",
+            "Yuta Ikeda",
+            "Japan",
+            "200 (-16)",
+            "150000000",
+            "30000000"
+        ],
+        [
+            "2008",
+            "Oct 9-12",
+            "Makoto Inoue",
+            "Japan",
+            "275 (-13)",
+            "200000000",
+            "40000000"
+        ]
+    ]
+}

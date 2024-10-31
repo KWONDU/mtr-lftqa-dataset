@@ -1,0 +1,56 @@
+{
+    "id": "bc9464c4fc3825ebffeb314bc47a2186f1c88068f81b1526c69fa8a9f516da34",
+    "metadata": "Homograph | Old Chinese | Old Chinese",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Word",
+        "Pronunciation_a",
+        "Meaning_a",
+        "Pronunciation_b",
+        "Meaning_b"
+    ],
+    "cell": [
+        [
+            "\u50b3",
+            "*dron",
+            "transmit",
+            "*drons",
+            "(n.) record"
+        ],
+        [
+            "\u78e8",
+            "*maj",
+            "grind",
+            "*majs",
+            "grindstone"
+        ],
+        [
+            "\u585e",
+            "*s\u0268k",
+            "(v.) block",
+            "*s\u0268ks",
+            "border, frontier"
+        ],
+        [
+            "\u8863",
+            "*\u0294j\u0268j",
+            "clothing",
+            "*\u0294j\u0268js",
+            "wear, clothe"
+        ],
+        [
+            "\u738b",
+            "*wja\u014b",
+            "king",
+            "*wja\u014bs",
+            "be king"
+        ],
+        [
+            "All data from Baxter, 1992.",
+            "All data from Baxter, 1992.",
+            "All data from Baxter, 1992.",
+            "All data from Baxter, 1992.",
+            "All data from Baxter, 1992."
+        ]
+    ]
+}

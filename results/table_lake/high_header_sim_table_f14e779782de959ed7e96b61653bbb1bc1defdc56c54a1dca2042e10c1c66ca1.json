@@ -1,0 +1,77 @@
+{
+    "id": "f14e779782de959ed7e96b61653bbb1bc1defdc56c54a1dca2042e10c1c66ca1",
+    "metadata": "2007-08 FA Cup | Fifth Round Proper | Fifth Round Proper",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bristol Rovers",
+            "1 - 0",
+            "Southampton",
+            "11920"
+        ],
+        [
+            "2",
+            "Cardiff City",
+            "2 - 0",
+            "Wolverhampton Wanderers",
+            "15339"
+        ],
+        [
+            "3",
+            "Sheffield United",
+            "0 - 0",
+            "Middlesbrough",
+            "22210"
+        ],
+        [
+            "replay",
+            "Middlesbrough",
+            "1 - 0",
+            "Sheffield United",
+            "28108"
+        ],
+        [
+            "4",
+            "Liverpool",
+            "1 - 2",
+            "Barnsley",
+            "42449"
+        ],
+        [
+            "5",
+            "Manchester United",
+            "4 - 0",
+            "Arsenal",
+            "75550"
+        ],
+        [
+            "6",
+            "Preston North End",
+            "0 - 1",
+            "Portsmouth",
+            "11840"
+        ],
+        [
+            "7",
+            "Coventry City",
+            "0 - 5",
+            "West Bromwich Albion",
+            "28163"
+        ],
+        [
+            "8",
+            "Chelsea",
+            "3 - 1",
+            "Huddersfield Town",
+            "41324"
+        ]
+    ]
+}

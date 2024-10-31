@@ -1,0 +1,49 @@
+{
+    "id": "d4cbc2ae22a0dc3fbdbc46b0cb8d6afc806d05bd6b51542d513da6a221931a72",
+    "metadata": "List of Game of the Year awards | G4 | G4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Game",
+        "Genre",
+        "Platforms",
+        "Developers"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Gears of War",
+            "( Third-Person ) Shooter",
+            "Xbox 360 , Windows",
+            "Epic Games"
+        ],
+        [
+            "2008",
+            "Metal Gear Solid 4: Guns of the Patriots",
+            "Stealth : ( Third-Person ) Shooter",
+            "PlayStation 3",
+            "Kojima Productions"
+        ],
+        [
+            "2009",
+            "Fallout 3",
+            "Role-Playing Game",
+            "Windows , PlayStation 3 , Xbox 360",
+            "Bethesda Game Studios"
+        ],
+        [
+            "2010",
+            "StarCraft II: Wings of Liberty",
+            "Real-Time Strategy",
+            "Windows",
+            "Blizzard"
+        ],
+        [
+            "2011",
+            "The Legend of Zelda: Skyward Sword",
+            "Action-Adventure : Open World",
+            "Wii",
+            "Nintendo EAD , Monolith Soft"
+        ]
+    ]
+}

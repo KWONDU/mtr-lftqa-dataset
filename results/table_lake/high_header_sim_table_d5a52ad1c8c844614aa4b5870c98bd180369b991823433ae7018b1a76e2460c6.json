@@ -1,0 +1,61 @@
+{
+    "id": "d5a52ad1c8c844614aa4b5870c98bd180369b991823433ae7018b1a76e2460c6",
+    "metadata": "Christian Uflacker | Mixed martial arts record | Mixed martial arts record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Res_",
+        "Record",
+        "Opponent",
+        "Method_",
+        "Round",
+        "Time_",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Win",
+            "5-0",
+            "Cliff Wright",
+            "Technical decision (unanimous)",
+            "3",
+            "2:26",
+            "Hammond, Indiana , United States"
+        ],
+        [
+            "Win",
+            "4-0",
+            "LC Davis",
+            "Decision (split)",
+            "3",
+            "5:00",
+            "Valparaiso , United States"
+        ],
+        [
+            "Win",
+            "3-0",
+            "Jonatas Novaes",
+            "Decision (unanimous)",
+            "3",
+            "5:00",
+            "Hoffman Estates, Illinois , United States"
+        ],
+        [
+            "Win",
+            "2-0",
+            "Mark Sinclair",
+            "Submission (rear naked choke)",
+            "1",
+            "1:22",
+            "Hammond, Indiana , United States"
+        ],
+        [
+            "Win",
+            "1-0",
+            "Kori Trussell",
+            "Submission (rear naked choke)",
+            "1",
+            "2:20",
+            "Hammond, Indiana , United States"
+        ]
+    ]
+}

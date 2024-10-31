@@ -1,0 +1,88 @@
+{
+    "id": "ffaa9f6f8dedb3949c9f6d92b3bedf6459f2edcd656475a393543180a882f899",
+    "metadata": "Middle Atlantic Conferences | Member schools | MAC Freedom",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Institution",
+        "Location_",
+        "Nickname",
+        "Founded",
+        "Type_",
+        "Enrollment",
+        "Joined_MAC_"
+    ],
+    "cell": [
+        [
+            "Delaware Valley College",
+            "Doylestown, Pennsylvania",
+            "Aggies",
+            "1917",
+            "Private/Non-sectarian",
+            "2241",
+            "1965"
+        ],
+        [
+            "DeSales University",
+            "Center Valley, Pennsylvania",
+            "Bulldogs",
+            "1965",
+            "Private/Catholic",
+            "3199",
+            "1997"
+        ],
+        [
+            "Eastern University",
+            "St. Davids, Pennsylvania",
+            "Eagles",
+            "1952",
+            "Private/Baptist",
+            "4235",
+            "2008"
+        ],
+        [
+            "Fairleigh Dickinson University-Florham",
+            "Madison, New Jersey",
+            "Devils",
+            "1942",
+            "Private/Non-sectarian",
+            "3288",
+            "1977"
+        ],
+        [
+            "King`s College",
+            "Wilkes-Barre, Pennsylvania",
+            "Monarchs",
+            "1946",
+            "Private/Catholic",
+            "2725",
+            "1977"
+        ],
+        [
+            "Manhattanville College",
+            "Purchase, New York",
+            "Valiants",
+            "1841",
+            "Private/Non-sectarian",
+            "2695",
+            "2007"
+        ],
+        [
+            "Misericordia University",
+            "Dallas, Pennsylvania",
+            "Cougars",
+            "1924",
+            "Private/Catholic",
+            "2830",
+            "2008"
+        ],
+        [
+            "Wilkes University",
+            "Wilkes-Barre, Pennsylvania",
+            "Colonels",
+            "1933",
+            "Private/Non-sectarian",
+            "5136",
+            "1946*"
+        ]
+    ]
+}

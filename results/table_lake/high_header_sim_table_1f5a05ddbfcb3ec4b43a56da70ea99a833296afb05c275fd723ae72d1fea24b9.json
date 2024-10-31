@@ -1,0 +1,79 @@
+{
+    "id": "1f5a05ddbfcb3ec4b43a56da70ea99a833296afb05c275fd723ae72d1fea24b9",
+    "metadata": "Bobsleigh at the 1932 Winter Olympics - Four-man | Results | Results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Team",
+        "Run_1",
+        "Run_2",
+        "Run_3",
+        "Run_4",
+        "Final_"
+    ],
+    "cell": [
+        [
+            "Gold",
+            "United States (USA) USA I",
+            "2:00.52",
+            "1:59.16",
+            "1:57.41",
+            "1:56.59",
+            "7:53.68"
+        ],
+        [
+            "Silver",
+            "United States (USA) USA II",
+            "2:01.77",
+            "2:01.09",
+            "1:58.56",
+            "1:54.28",
+            "7:55.70"
+        ],
+        [
+            "Bronze",
+            "Germany (GER) Germany I",
+            "2:03.11",
+            "2:01.34",
+            "1:58.19",
+            "1:57.40",
+            "8:00.04"
+        ],
+        [
+            "4",
+            "Switzerland (SUI) Switzerland II",
+            "2:06.81",
+            "2:03.40",
+            "2:01.47",
+            "2:00.50",
+            "8:12.18"
+        ],
+        [
+            "5",
+            "Italy (ITA) Italy I",
+            "2:07.87",
+            "2:06.62",
+            "2:07.94",
+            "2:01.78",
+            "8:24.21"
+        ],
+        [
+            "6",
+            "Romania (ROU) Romania I",
+            "2:09.09",
+            "2:14.32",
+            "2:02.00",
+            "1:58.81",
+            "8:24.21"
+        ],
+        [
+            "7",
+            "Germany (GER) Germany II",
+            "2:11.59",
+            "2:11.72",
+            "2:07.89",
+            "2:04.25",
+            "8:35.45"
+        ]
+    ]
+}

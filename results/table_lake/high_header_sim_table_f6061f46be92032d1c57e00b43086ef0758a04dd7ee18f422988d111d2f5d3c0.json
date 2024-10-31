@@ -1,0 +1,112 @@
+{
+    "id": "f6061f46be92032d1c57e00b43086ef0758a04dd7ee18f422988d111d2f5d3c0",
+    "metadata": "1971 San Diego Chargers season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 19, 1971",
+            "Kansas City Chiefs",
+            "W 21-14",
+            "54061"
+        ],
+        [
+            "2",
+            "September 26, 1971",
+            "Oakland Raiders",
+            "L 34-0",
+            "54084"
+        ],
+        [
+            "3",
+            "October 3, 1971",
+            "at Pittsburgh Steelers",
+            "L 21-17",
+            "44339"
+        ],
+        [
+            "4",
+            "October 10, 1971",
+            "at Kansas City Chiefs",
+            "L 31-10",
+            "50514"
+        ],
+        [
+            "5",
+            "October 17, 1971",
+            "at Denver Broncos",
+            "L 20-16",
+            "51200"
+        ],
+        [
+            "6",
+            "October 23, 1971",
+            "Buffalo Bills",
+            "W 20-3",
+            "49261"
+        ],
+        [
+            "7",
+            "October 31, 1971",
+            "New York Jets",
+            "W 49-21",
+            "44786"
+        ],
+        [
+            "8",
+            "November 7, 1971",
+            "at New York Giants",
+            "L 35-17",
+            "62905"
+        ],
+        [
+            "9",
+            "November 15, 1971",
+            "St. Louis Cardinals",
+            "W 20-17",
+            "46486"
+        ],
+        [
+            "10",
+            "November 21, 1971",
+            "at Oakland Raiders",
+            "L 34-33",
+            "54681"
+        ],
+        [
+            "11",
+            "November 28, 1971",
+            "at Cincinnati Bengals",
+            "L 31-0",
+            "59580"
+        ],
+        [
+            "12",
+            "December 5, 1971",
+            "Minnesota Vikings",
+            "W 30-14",
+            "54505"
+        ],
+        [
+            "13",
+            "December 12, 1971",
+            "Denver Broncos",
+            "W 45-17",
+            "44347"
+        ],
+        [
+            "14",
+            "December 19, 1971",
+            "at Houston Oilers",
+            "L 49-33",
+            "35959"
+        ]
+    ]
+}

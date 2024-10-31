@@ -1,0 +1,84 @@
+{
+    "id": "e9701912cb389b4193ad20d4b7939a025cf7ae11c3c93b744413198c07aa4af4",
+    "metadata": "State Duma (Russian Empire) | Seats held in Imperial Dumas | Seats held in Imperial Dumas",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Party",
+        "First_Duma",
+        "Second_Duma",
+        "Third_Duma",
+        "Fourth_Duma_"
+    ],
+    "cell": [
+        [
+            "Russian Social Democratic Party",
+            "18 (Mensheviks)",
+            "47 (Mensheviks)",
+            "19 (Bolsheviks)",
+            "15 (Bolsheviks)"
+        ],
+        [
+            "Socialist-Revolutionary Party",
+            "-",
+            "37",
+            "-",
+            "-"
+        ],
+        [
+            "Labour group",
+            "136",
+            "104",
+            "13",
+            "10"
+        ],
+        [
+            "Progressist Party",
+            "27",
+            "28",
+            "28",
+            "41"
+        ],
+        [
+            "Constitutional Democratic Party (Kadets)",
+            "179",
+            "92",
+            "52",
+            "57"
+        ],
+        [
+            "Non-Russian National Groups",
+            "121",
+            "-",
+            "26",
+            "21"
+        ],
+        [
+            "Centre Party",
+            "-",
+            "-",
+            "-",
+            "33"
+        ],
+        [
+            "Octobrist Party",
+            "17",
+            "42",
+            "154",
+            "95"
+        ],
+        [
+            "Nationalists",
+            "60",
+            "93",
+            "26",
+            "22"
+        ],
+        [
+            "Rightists",
+            "8",
+            "10",
+            "147",
+            "154"
+        ]
+    ]
+}

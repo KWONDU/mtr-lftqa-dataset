@@ -1,0 +1,79 @@
+{
+    "id": "a51a665dfab1505f3c596dd263d795ca75505adc3dc0ffecca931712d8b52c64",
+    "metadata": "2007 Weber Cup | 2007 results | Day 3, evening session",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Match_no_",
+        "Match_Type",
+        "Team_Europe",
+        "Score",
+        "Team_USA",
+        "Progressive_Total_"
+    ],
+    "cell": [
+        [
+            "25",
+            "Singles",
+            "Mika Koivuniemi",
+            "217 - 279",
+            "Chris Barnes",
+            "14 - 11"
+        ],
+        [
+            "26",
+            "Singles",
+            "Osku Palermaa",
+            "217 - 244",
+            "Tommy Jones",
+            "14 - 12"
+        ],
+        [
+            "27",
+            "Singles",
+            "Paul Moor",
+            "210 - 199",
+            "Tim Mack",
+            "15 - 12"
+        ],
+        [
+            "28",
+            "Singles",
+            "Tore Torgersen",
+            "206 - 275",
+            "Doug Kent",
+            "15 - 13"
+        ],
+        [
+            "29",
+            "Singles",
+            "Tomas Leandersson",
+            "176 - 258",
+            "Bill Hoffman",
+            "15 - 14"
+        ],
+        [
+            "30",
+            "Baker",
+            "Team Europe",
+            "202 - 203",
+            "Team USA",
+            "15 - 15"
+        ],
+        [
+            "31",
+            "Singles",
+            "Tore Torgersen",
+            "202 - 264",
+            "Chris Barnes",
+            "15 - 16"
+        ],
+        [
+            "32",
+            "Singles",
+            "Osku Palermaa",
+            "196 - 235",
+            "Tommy Jones",
+            "15 - 17"
+        ]
+    ]
+}

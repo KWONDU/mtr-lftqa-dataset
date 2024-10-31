@@ -1,0 +1,70 @@
+{
+    "id": "d0bed4a8a33d7687255c231688a07000b8a33f6b93fae7e58d7aafcfb145b077",
+    "metadata": "1956 VFL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "3.13 (31)",
+            "Richmond",
+            "8.6 (54)",
+            "Glenferrie Oval",
+            "13000",
+            "14 July 1956"
+        ],
+        [
+            "Footscray",
+            "11.13 (79)",
+            "St Kilda",
+            "13.2 (80)",
+            "Western Oval",
+            "25414",
+            "14 July 1956"
+        ],
+        [
+            "Essendon",
+            "9.13 (67)",
+            "Fitzroy",
+            "8.10 (58)",
+            "Windy Hill",
+            "14000",
+            "14 July 1956"
+        ],
+        [
+            "North Melbourne",
+            "7.5 (47)",
+            "Geelong",
+            "19.15 (129)",
+            "Arden Street Oval",
+            "9000",
+            "14 July 1956"
+        ],
+        [
+            "South Melbourne",
+            "10.9 (69)",
+            "Collingwood",
+            "11.9 (75)",
+            "Lake Oval",
+            "25000",
+            "14 July 1956"
+        ],
+        [
+            "Melbourne",
+            "14.10 (94)",
+            "Carlton",
+            "12.7 (79)",
+            "MCG",
+            "46022",
+            "14 July 1956"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "709ddf4004ae928621172671fe14a11375b1aa35fb0fb5e9a0e1a5f6158b575b",
+    "metadata": "1970 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Carlton",
+            "16.14 (110)",
+            "St Kilda",
+            "10.11 (71)",
+            "Princes Park",
+            "22988",
+            "18 July 1970"
+        ],
+        [
+            "South Melbourne",
+            "11.9 (75)",
+            "Richmond",
+            "12.17 (89)",
+            "Lake Oval",
+            "25651",
+            "18 July 1970"
+        ],
+        [
+            "North Melbourne",
+            "13.17 (95)",
+            "Fitzroy",
+            "18.14 (122)",
+            "Arden Street Oval",
+            "8443",
+            "18 July 1970"
+        ],
+        [
+            "Geelong",
+            "15.16 (106)",
+            "Essendon",
+            "8.17 (65)",
+            "Kardinia Park",
+            "17220",
+            "18 July 1970"
+        ],
+        [
+            "Melbourne",
+            "7.19 (61)",
+            "Collingwood",
+            "10.16 (76)",
+            "MCG",
+            "36044",
+            "18 July 1970"
+        ],
+        [
+            "Hawthorn",
+            "23.9 (147)",
+            "Footscray",
+            "6.12 (48)",
+            "VFL Park",
+            "14151",
+            "18 July 1970"
+        ]
+    ]
+}

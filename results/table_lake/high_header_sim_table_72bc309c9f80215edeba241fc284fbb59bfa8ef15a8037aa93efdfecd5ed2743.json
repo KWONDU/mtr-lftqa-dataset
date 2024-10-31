@@ -1,0 +1,91 @@
+{
+    "id": "72bc309c9f80215edeba241fc284fbb59bfa8ef15a8037aa93efdfecd5ed2743",
+    "metadata": "Papal election, December 1187 | Absentee cardinals | Absentee cardinals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Elector",
+        "Place_of_birth",
+        "Cardinalatial_title",
+        "Elevated",
+        "Elevator"
+    ],
+    "cell": [
+        [
+            "Konrad von Wittelsbach",
+            "Bavaria",
+            "Bishop of Sabina and Archbishop of Mainz",
+            "December 18, 1165",
+            "Alexander III"
+        ],
+        [
+            "Henri de Marsiac , O.Cist.",
+            "Ch\u00e2teau de Marcy , France",
+            "Bishop of Albano",
+            "March 1179",
+            "Aleksander III"
+        ],
+        [
+            "Giovanni Conti da Anagni",
+            "Anagni",
+            "Priest of S. Marco",
+            "1158/1159",
+            "Adrian IV"
+        ],
+        [
+            "Ruggiero di San Severino",
+            "San Severino",
+            "Priest of S. Eusebio and Archbishop of Benevento",
+            "Ca. 1178-1180",
+            "Alexander III"
+        ],
+        [
+            "Guillaume aux Blanches Mains",
+            "France",
+            "Priest of S. Sabina and Archbishop of Reims",
+            "March 1179",
+            "Alexander III"
+        ],
+        [
+            "Albino , C.R.S.F.",
+            "Gaeta (?)",
+            "Priest of S. Croce in Gerusalemme",
+            "December 18, 1182",
+            "Lucius III"
+        ],
+        [
+            "Pandolfo",
+            "Lucca",
+            "Priest of SS. XII Apostoli",
+            "December 18, 1182",
+            "Lucius III"
+        ],
+        [
+            "Adelardo Cattaneo",
+            "Verona",
+            "Priest of S. Marcello",
+            "March 16, 1185",
+            "Lucius III"
+        ],
+        [
+            "Soffredo",
+            "Pistoia",
+            "Deacon of S. Maria in Via Lata",
+            "December 18, 1182",
+            "Lucius III"
+        ],
+        [
+            "Bobo",
+            "Rome",
+            "Deacon of S. Angelo in Pescheria",
+            "December 18, 1182",
+            "Lucius III"
+        ],
+        [
+            "Gerardo",
+            "Lucca",
+            "Deacon of S. Adriano",
+            "December 18, 1182",
+            "Lucius III"
+        ]
+    ]
+}

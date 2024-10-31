@@ -1,0 +1,77 @@
+{
+    "id": "daa2e4b31c2a158abceb66a9fdc4804b11301624479a70ea95e998669191f487",
+    "metadata": "Honor Oak Park railway station | Services | Services",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Platform",
+        "Frequency_per_hour",
+        "Destination",
+        "Operator_",
+        "Line"
+    ],
+    "cell": [
+        [
+            "1",
+            "4",
+            "Highbury & Islington",
+            "London Overground",
+            "East London"
+        ],
+        [
+            "1",
+            "4",
+            "Dalston Junction",
+            "London Overground",
+            "East London"
+        ],
+        [
+            "1",
+            "4",
+            "London Bridge",
+            "Southern",
+            "Metro"
+        ],
+        [
+            "2",
+            "4",
+            "Crystal Palace",
+            "London Overground",
+            "East London"
+        ],
+        [
+            "2",
+            "4",
+            "West Croydon",
+            "London Overground",
+            "East London"
+        ],
+        [
+            "2",
+            "2",
+            "London Victoria (Mon-Sat)",
+            "Southern",
+            "Metro"
+        ],
+        [
+            "2",
+            "2",
+            "Caterham (Mon-Sat)",
+            "Southern",
+            "Metro"
+        ],
+        [
+            "2",
+            "2",
+            "West Croydon (Peaks & Sun only)",
+            "Southern",
+            "Metro"
+        ],
+        [
+            "2",
+            "2",
+            "Tattenham Corner (Sun only)",
+            "Southern",
+            "Metro"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "cbf85bbecf0d836d5eb0e8352f620028f2ef38909f840af0231de0688817440f",
+    "metadata": "Aromanian language | Future tense | Future tense",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Aromanian_gramustean_farshirot",
+        "Romanian_archaic",
+        "Romanian_colloquial",
+        "Romanian_modern",
+        "English"
+    ],
+    "cell": [
+        [
+            "va s-c\u00e3ntu / u s-chentu",
+            "va s\u0103 c\u00e2nt",
+            "o s\u0103 c\u00e2nt",
+            "voi c\u00e2nta",
+            "I will sing"
+        ],
+        [
+            "va s-c\u00e3nts / u s-chents",
+            "va s\u0103 c\u00e2n\u0163i",
+            "o s\u0103 c\u00e2n\u0163i",
+            "vei c\u00e2nta",
+            "you (sg.) will sing"
+        ],
+        [
+            "va s-c\u00e3nt\u00e3 / u s-chente",
+            "va s\u0103 c\u00e2nte",
+            "o s\u0103 c\u00e2nte",
+            "va c\u00e2nta",
+            "(s)he will sing"
+        ],
+        [
+            "va s-c\u00e3nt\u00e3m / u s-c\u0103ntem",
+            "va s\u0103 c\u00e2nt\u0103m",
+            "o s\u0103 c\u00e2nt\u0103m",
+            "vom c\u00e2nta",
+            "we will sing"
+        ],
+        [
+            "va s-c\u00e3ntats / u s-c\u0103ntats",
+            "va s\u0103 c\u00e2nta\u0163i",
+            "o s\u0103 c\u00e2nta\u0163i",
+            "ve\u0163i c\u00e2nta",
+            "you (pl.) will sing"
+        ]
+    ]
+}

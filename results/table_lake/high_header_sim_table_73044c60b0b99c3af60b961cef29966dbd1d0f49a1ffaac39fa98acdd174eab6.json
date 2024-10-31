@@ -1,0 +1,49 @@
+{
+    "id": "73044c60b0b99c3af60b961cef29966dbd1d0f49a1ffaac39fa98acdd174eab6",
+    "metadata": "Jay Staggs | High school statistics | High school statistics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "TCKL",
+        "SACK",
+        "P_KO_RET",
+        "YARDS"
+    ],
+    "cell": [
+        [
+            "1999",
+            "40",
+            "2",
+            "8",
+            "238"
+        ],
+        [
+            "2000",
+            "51",
+            "0",
+            "14",
+            "371"
+        ],
+        [
+            "2001",
+            "68",
+            "2",
+            "11",
+            "256"
+        ],
+        [
+            "2002",
+            "74",
+            "4",
+            "7",
+            "237"
+        ],
+        [
+            "Total",
+            "233",
+            "8",
+            "40",
+            "1102"
+        ]
+    ]
+}

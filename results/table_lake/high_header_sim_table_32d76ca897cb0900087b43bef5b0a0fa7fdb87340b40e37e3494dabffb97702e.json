@@ -1,0 +1,84 @@
+{
+    "id": "32d76ca897cb0900087b43bef5b0a0fa7fdb87340b40e37e3494dabffb97702e",
+    "metadata": "Iowa Pre-Flight Seahawks football | 1942 | 1942",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "City",
+        "Result_",
+        "Score"
+    ],
+    "cell": [
+        [
+            "September 19",
+            "Kansas",
+            "Lawrence",
+            "Win",
+            "61-0"
+        ],
+        [
+            "September 26",
+            "Northwestern",
+            "Evanston",
+            "Win",
+            "20-12"
+        ],
+        [
+            "October 3",
+            "Minnesota",
+            "Minneapolis",
+            "Win",
+            "7-6"
+        ],
+        [
+            "October 10",
+            "Michigan",
+            "Ann Arbor",
+            "Win",
+            "26-14"
+        ],
+        [
+            "October 17",
+            "Notre Dame",
+            "South Bend",
+            "Loss",
+            "0-28"
+        ],
+        [
+            "October 31",
+            "Indiana",
+            "Bloomington",
+            "Win",
+            "26-6"
+        ],
+        [
+            "November 7",
+            "Fort Knox",
+            "Louisville",
+            "Win",
+            "13-7"
+        ],
+        [
+            "November 21",
+            "Nebraska",
+            "Iowa City",
+            "Win",
+            "46-0"
+        ],
+        [
+            "November 28",
+            "Ohio State",
+            "Columbus",
+            "Loss",
+            "12-41"
+        ],
+        [
+            "December 5",
+            "Missouri",
+            "Kansas City",
+            "Loss",
+            "0-7"
+        ]
+    ]
+}

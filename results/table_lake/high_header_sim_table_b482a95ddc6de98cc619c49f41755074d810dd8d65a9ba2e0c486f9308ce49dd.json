@@ -1,0 +1,70 @@
+{
+    "id": "b482a95ddc6de98cc619c49f41755074d810dd8d65a9ba2e0c486f9308ce49dd",
+    "metadata": "List of European ultra prominent peaks | and neighbouring islands | and neighbouring islands",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Peak",
+        "Country",
+        "Elevation_m",
+        "Prominence_m",
+        "Col_m"
+    ],
+    "cell": [
+        [
+            "Mount Etna",
+            "Italy ( Sicily )",
+            "3323",
+            "3323",
+            "0"
+        ],
+        [
+            "Monte Cinto",
+            "France ( Corsica )",
+            "2706",
+            "2706",
+            "0"
+        ],
+        [
+            "Corno Grande",
+            "Italy",
+            "2912",
+            "2476",
+            "436"
+        ],
+        [
+            "Punta La Marmora",
+            "Italy ( Sardinia )",
+            "1834",
+            "1834",
+            "0"
+        ],
+        [
+            "Monte Amaro",
+            "Italy",
+            "2795",
+            "1812",
+            "983"
+        ],
+        [
+            "Monte Dolcedorme",
+            "Italy",
+            "2267",
+            "1715",
+            "552"
+        ],
+        [
+            "Montalto",
+            "Italy",
+            "1955",
+            "1709",
+            "246"
+        ],
+        [
+            "Monte Cimone",
+            "Italy",
+            "2165",
+            "1577",
+            "588"
+        ]
+    ]
+}

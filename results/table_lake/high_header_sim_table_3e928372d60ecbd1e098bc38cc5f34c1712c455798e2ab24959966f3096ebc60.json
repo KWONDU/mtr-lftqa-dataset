@@ -1,0 +1,49 @@
+{
+    "id": "3e928372d60ecbd1e098bc38cc5f34c1712c455798e2ab24959966f3096ebc60",
+    "metadata": "2006 in paleontology | Newly named birds | Newly named birds",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Status_",
+        "Authors",
+        "Unit",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Anas cheuen",
+            "Valid",
+            "Agnol\u00edn",
+            "Miramar Formation",
+            "Argentina"
+        ],
+        [
+            "Archaeorhynchus",
+            "Valid",
+            "Zhou Zhang",
+            "Yixian Formation",
+            "China"
+        ],
+        [
+            "Dalingheornis",
+            "Valid",
+            "Zhang Hou Hasegawa O`Connor Martin Chiappe",
+            "Yixian Formation",
+            "China"
+        ],
+        [
+            "Dapingfangornis",
+            "Valid",
+            "Li Duan Hu Wang Cheng Hou",
+            "Jiufotang Formation",
+            "China"
+        ],
+        [
+            "Pleistoanser",
+            "Valid",
+            "Agnol\u00edn",
+            "Miramar Formation",
+            "Argentina"
+        ]
+    ]
+}

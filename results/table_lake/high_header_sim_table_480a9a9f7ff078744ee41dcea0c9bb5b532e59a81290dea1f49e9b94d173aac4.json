@@ -1,0 +1,91 @@
+{
+    "id": "480a9a9f7ff078744ee41dcea0c9bb5b532e59a81290dea1f49e9b94d173aac4",
+    "metadata": "Los Angeles Film Critics Association Award for Best Foreign Language Film | 1990s | 1990s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "English_title",
+        "Original_title",
+        "Country",
+        "Director"
+    ],
+    "cell": [
+        [
+            "1990",
+            "Life and Nothing But",
+            "La vie et rien d`autre",
+            "France",
+            "Bertrand Tavernier"
+        ],
+        [
+            "1991",
+            "The Beautiful Troublemaker",
+            "La belle noiseuse",
+            "France/Switzerland",
+            "Jacques Rivette"
+        ],
+        [
+            "1992",
+            "The Crying Game",
+            "The Crying Game",
+            "UK/Japan",
+            "Neil Jordan"
+        ],
+        [
+            "1993",
+            "Farewell My Concubine",
+            "Ba wang bie ji",
+            "China/Hong Kong",
+            "Chen Kaige"
+        ],
+        [
+            "1994",
+            "Three Colours: Red",
+            "Trois couleurs: Rouge",
+            "France/Poland",
+            "Krzysztof Kieslowski"
+        ],
+        [
+            "Best Foreign Language Film",
+            "Best Foreign Language Film",
+            "Best Foreign Language Film",
+            "Best Foreign Language Film",
+            "Best Foreign Language Film"
+        ],
+        [
+            "1995",
+            "Wild Reeds",
+            "Les roseaux sauvages",
+            "France",
+            "Andr\u00e9 T\u00e9chin\u00e9"
+        ],
+        [
+            "1996",
+            "A Judgement in Stone",
+            "La c\u00e9r\u00e9monie",
+            "France",
+            "Claude Chabrol"
+        ],
+        [
+            "1997",
+            "The Promise",
+            "La promesse",
+            "Belgium",
+            "Jean-Pierre and Luc Dardenne"
+        ],
+        [
+            "1998",
+            "The Celebration",
+            "Festen",
+            "Denmark",
+            "Thomas Vinterberg"
+        ],
+        [
+            "1999",
+            "All About My Mother",
+            "Todo sobre mi madre",
+            "Spain",
+            "Pedro Almod\u00f3var"
+        ]
+    ]
+}

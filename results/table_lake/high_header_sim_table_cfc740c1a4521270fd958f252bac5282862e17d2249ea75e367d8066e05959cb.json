@@ -1,0 +1,61 @@
+{
+    "id": "cfc740c1a4521270fd958f252bac5282862e17d2249ea75e367d8066e05959cb",
+    "metadata": "2002 Anaheim Angels season | Game Log | Game Log",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Attendance",
+        "Record",
+        "Stadium"
+    ],
+    "cell": [
+        [
+            "October 8",
+            "@ Twins",
+            "2-1",
+            "Appier (0-1)",
+            "55562",
+            "0-1",
+            "HHH Metrodome"
+        ],
+        [
+            "October 9",
+            "@ Twins",
+            "6-3",
+            "Reed (0-2)",
+            "55990",
+            "1-1",
+            "HHH Metrodome"
+        ],
+        [
+            "October 11",
+            "Twins",
+            "2-1",
+            "Romero (0-1)",
+            "44234",
+            "2-1",
+            "Edison International Field"
+        ],
+        [
+            "October 12",
+            "Twins",
+            "7-1",
+            "Radke (2-1)",
+            "44830",
+            "3-1",
+            "Edison International Field"
+        ],
+        [
+            "October 13",
+            "Twins",
+            "13-5",
+            "Santana (0-1)",
+            "44835",
+            "4-1",
+            "Edison International Field"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "6febd162e7b74dcee9171841b4073888485dd2e73dbe904165b3cbc9467dd55a",
+    "metadata": "1955 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "12.9 (81)",
+            "St Kilda",
+            "6.7 (43)",
+            "Glenferrie Oval",
+            "10500",
+            "25 June 1955"
+        ],
+        [
+            "Fitzroy",
+            "5.9 (39)",
+            "Melbourne",
+            "10.11 (71)",
+            "Brunswick Street Oval",
+            "21000",
+            "25 June 1955"
+        ],
+        [
+            "Carlton",
+            "6.7 (43)",
+            "Footscray",
+            "11.15 (81)",
+            "Princes Park",
+            "20576",
+            "25 June 1955"
+        ],
+        [
+            "South Melbourne",
+            "10.10 (70)",
+            "North Melbourne",
+            "8.10 (58)",
+            "Lake Oval",
+            "16000",
+            "25 June 1955"
+        ],
+        [
+            "Geelong",
+            "10.5 (65)",
+            "Essendon",
+            "7.10 (52)",
+            "Kardinia Park",
+            "23654",
+            "25 June 1955"
+        ],
+        [
+            "Richmond",
+            "6.12 (48)",
+            "Collingwood",
+            "14.14 (98)",
+            "Punt Road Oval",
+            "29000",
+            "25 June 1955"
+        ]
+    ]
+}

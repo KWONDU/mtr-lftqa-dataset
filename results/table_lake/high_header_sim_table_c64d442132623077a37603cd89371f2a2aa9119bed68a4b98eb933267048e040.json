@@ -1,0 +1,223 @@
+{
+    "id": "c64d442132623077a37603cd89371f2a2aa9119bed68a4b98eb933267048e040",
+    "metadata": "2008 Houston Astros season | Game log | June",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "June 1",
+            "@ Brewers",
+            "10-1",
+            "Chac\u00f3n (2-1)",
+            "44613",
+            "30-28"
+        ],
+        [
+            "June 3",
+            "@ Pirates",
+            "2-0",
+            "Dumatrait (2-3)",
+            "13183",
+            "31-28"
+        ],
+        [
+            "June 4",
+            "@ Pirates",
+            "5-2",
+            "Oswalt (4-6)",
+            "9392",
+            "31-29"
+        ],
+        [
+            "June 5",
+            "@ Pirates",
+            "4-3",
+            "Backe (4-7)",
+            "10728",
+            "31-30"
+        ],
+        [
+            "June 6",
+            "Cardinals",
+            "6-1",
+            "Looper (7-5)",
+            "38596",
+            "32-30"
+        ],
+        [
+            "June 7",
+            "Cardinals",
+            "8-4",
+            "Chac\u00f3n (2-2)",
+            "39811",
+            "32-31"
+        ],
+        [
+            "June 8",
+            "Cardinals",
+            "5-4",
+            "Rodr\u00edguez (2-2)",
+            "39923",
+            "32-32"
+        ],
+        [
+            "June 10",
+            "Brewers",
+            "6-1",
+            "McClung (3-3)",
+            "35058",
+            "33-32"
+        ],
+        [
+            "June 11",
+            "Brewers",
+            "10-6",
+            "Backe (4-8)",
+            "33806",
+            "33-33"
+        ],
+        [
+            "June 12",
+            "Brewers",
+            "9-6",
+            "Moehler (3-3)",
+            "35709",
+            "33-34"
+        ],
+        [
+            "June 13",
+            "Yankees \u2020",
+            "2-1",
+            "Brocail (2-1)",
+            "43095",
+            "33-35"
+        ],
+        [
+            "June 14",
+            "Yankees \u2020",
+            "8-4",
+            "Rodr\u00edguez (2-3)",
+            "43409",
+            "33-36"
+        ],
+        [
+            "June 15",
+            "Yankees \u2020",
+            "13-0",
+            "Oswalt (5-7)",
+            "43165",
+            "33-37"
+        ],
+        [
+            "June 17",
+            "@ Orioles \u2020",
+            "6-5",
+            "Brocail (2-2)",
+            "21535",
+            "33-38"
+        ],
+        [
+            "June 18",
+            "@ Orioles \u2020",
+            "2 - 1 (10)",
+            "Valverde (4-2)",
+            "21112",
+            "33-39"
+        ],
+        [
+            "June 19",
+            "@ Orioles \u2020",
+            "7-5",
+            "Chac\u00f3n (2-3)",
+            "31480",
+            "33-40"
+        ],
+        [
+            "June 20",
+            "@ Rays \u2020",
+            "4-3",
+            "Garza (5-4)",
+            "14741",
+            "34-40"
+        ],
+        [
+            "June 21",
+            "@ Rays \u2020",
+            "4-3",
+            "Brocail (2-3)",
+            "29953",
+            "34-41"
+        ],
+        [
+            "June 22",
+            "@ Rays \u2020",
+            "3-2",
+            "Kazmir (6-3)",
+            "19778",
+            "35-41"
+        ],
+        [
+            "June 24",
+            "Rangers \u2020",
+            "4-3",
+            "Hurley (0-1)",
+            "40052",
+            "36-41"
+        ],
+        [
+            "June 25",
+            "Rangers \u2020",
+            "3-2",
+            "Oswalt (6-8)",
+            "32567",
+            "36-42"
+        ],
+        [
+            "June 26",
+            "Rangers \u2020",
+            "7-2",
+            "Millwood (5-4)",
+            "36506",
+            "37-42"
+        ],
+        [
+            "June 27",
+            "Red Sox \u2020",
+            "6-1",
+            "Hern\u00e1ndez (0-1)",
+            "42327",
+            "37-43"
+        ],
+        [
+            "June 28",
+            "Red Sox \u2020",
+            "11-10",
+            "Delcarmen (0-2)",
+            "43073",
+            "38-43"
+        ],
+        [
+            "June 29",
+            "Red Sox \u2020",
+            "3-2",
+            "Aardsma (2-2)",
+            "42066",
+            "39-43"
+        ],
+        [
+            "June 30",
+            "Dodgers",
+            "4-1",
+            "Stults (2-1)",
+            "28827",
+            "40-44"
+        ]
+    ]
+}

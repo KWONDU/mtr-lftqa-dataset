@@ -1,0 +1,61 @@
+{
+    "id": "f0f8013335c50bfebda7495711876fc46c1b2d1b579883e9e37b84e1e80bd267",
+    "metadata": "New York state election, 1966 | Result | 1966 state election results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Office",
+        "Republican_ticket",
+        "Democratic_ticket",
+        "Conservative_ticket",
+        "Liberal_ticket",
+        "Socialist_Labor_ticket",
+        "Socialist_Workers_ticket"
+    ],
+    "cell": [
+        [
+            "Governor",
+            "Nelson A. Rockefeller",
+            "Frank D. O`Connor",
+            "Paul L. Adams",
+            "Franklin D. Roosevelt, Jr.",
+            "Milton Herder",
+            "Judith White"
+        ],
+        [
+            "Lieutenant Governor",
+            "Malcolm Wilson",
+            "Howard J. Samuels",
+            "Kieran O`Doherty",
+            "Donald S. Harrington",
+            "Doris Ballantyne",
+            "Richard Garza"
+        ],
+        [
+            "Comptroller",
+            "Charles T. Lanigan",
+            "Arthur Levitt",
+            "Benjamin R. Crosby",
+            "Arthur Levitt",
+            "John Emanuel",
+            "Ralph Levitt"
+        ],
+        [
+            "Attorney General",
+            "Louis J. Lefkowitz",
+            "Frank A. Sedita",
+            "Mason L. Hampton, Jr.",
+            "Simeon Golar",
+            "(none)",
+            "Paul Boutelle"
+        ],
+        [
+            "Chief Judge",
+            "Stanley H. Fuld",
+            "Stanley H. Fuld",
+            "Stanley H. Fuld",
+            "Stanley H. Fuld",
+            "(none)",
+            "(none)"
+        ]
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "id": "abda87420a1d2abe68d83a12081e5df40bedb7260dcd9874b9d60786e292944c",
+    "metadata": "2006 Bradford Bulls season | Table | Table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Played",
+        "Drawn",
+        "Lost",
+        "Against",
+        "Points_Diff",
+        "Points"
+    ],
+    "cell": [
+        [
+            "St Helens",
+            "28",
+            "0",
+            "4",
+            "430",
+            "509",
+            "48"
+        ],
+        [
+            "Hull",
+            "28",
+            "0",
+            "8",
+            "578",
+            "142",
+            "40"
+        ],
+        [
+            "Leeds Rhinos",
+            "28",
+            "0",
+            "9",
+            "543",
+            "326",
+            "38"
+        ],
+        [
+            "Bradford Bulls \u2020\u2020",
+            "28",
+            "2",
+            "10",
+            "568",
+            "234",
+            "32"
+        ],
+        [
+            "Salford City Reds",
+            "28",
+            "0",
+            "15",
+            "539",
+            "61",
+            "26"
+        ],
+        [
+            "Warrington Wolves",
+            "28",
+            "0",
+            "15",
+            "721",
+            "22",
+            "26"
+        ],
+        [
+            "Harlequins RL",
+            "28",
+            "1",
+            "16",
+            "823",
+            "-267",
+            "23"
+        ],
+        [
+            "Wigan Warriors \u2020\u2020",
+            "28",
+            "0",
+            "16",
+            "715",
+            "-71",
+            "22"
+        ],
+        [
+            "Huddersfield Giants",
+            "28",
+            "0",
+            "17",
+            "753",
+            "-114",
+            "22"
+        ],
+        [
+            "Wakefield Wildcats",
+            "28",
+            "0",
+            "18",
+            "717",
+            "-126",
+            "20"
+        ],
+        [
+            "Castleford Tigers",
+            "28",
+            "1",
+            "18",
+            "968",
+            "-393",
+            "19"
+        ],
+        [
+            "Catalans Dragons \u2020",
+            "28",
+            "0",
+            "20",
+            "894",
+            "-293",
+            "16"
+        ]
+    ]
+}

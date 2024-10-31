@@ -1,0 +1,55 @@
+{
+    "id": "52cee5381eedd99c6303edc736c3c0c6748646567b88138972e00699469b5161",
+    "metadata": "Bobby Riggs | Grand Slam | Grand Slam",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Outcome",
+        "Year_",
+        "Championship",
+        "Surface",
+        "Opponent_in_the_final",
+        "Score_in_the_final"
+    ],
+    "cell": [
+        [
+            "Runner-up",
+            "1939",
+            "French Championships",
+            "Clay",
+            "Don McNeill",
+            "5-7, 0-6, 3-6"
+        ],
+        [
+            "Winner",
+            "1939",
+            "Wimbledon",
+            "Grass",
+            "Elwood Cooke",
+            "2-6, 8-6, 3-6, 6-3, 6-2"
+        ],
+        [
+            "Winner",
+            "1939",
+            "US Championships",
+            "Grass",
+            "Welby Van Horn",
+            "6-4, 6-2, 6-4"
+        ],
+        [
+            "Runner-up",
+            "1940",
+            "US Championships",
+            "Grass",
+            "Don McNeill",
+            "6-4, 8-6, 3-6, 3-6, 5-7"
+        ],
+        [
+            "Winner",
+            "1941",
+            "US Championships",
+            "Grass",
+            "Frank Kovacs",
+            "5-7, 6-1, 6-3, 6-3"
+        ]
+    ]
+}

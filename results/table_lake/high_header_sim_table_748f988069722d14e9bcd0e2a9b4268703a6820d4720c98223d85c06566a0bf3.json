@@ -1,0 +1,63 @@
+{
+    "id": "748f988069722d14e9bcd0e2a9b4268703a6820d4720c98223d85c06566a0bf3",
+    "metadata": "Olivier Grouillard | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1989",
+            "Ligier Loto",
+            "Ligier JS33",
+            "Cosworth V8",
+            "1"
+        ],
+        [
+            "1990",
+            "Osella Squadra Corse",
+            "Osella FA1M",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1990",
+            "Osella Squadra Corse",
+            "Osella FA1ME",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1991",
+            "Fondmetal F1 SpA",
+            "Fomet FA1M-E90",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1991",
+            "Fondmetal F1 SpA",
+            "Fomet F1",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1991",
+            "Automobiles Gonfaronnaises Sportives",
+            "AGS JH27",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1992",
+            "Tyrrell Racing Organisation",
+            "Tyrrell 020B",
+            "Ilmor V10",
+            "0"
+        ]
+    ]
+}

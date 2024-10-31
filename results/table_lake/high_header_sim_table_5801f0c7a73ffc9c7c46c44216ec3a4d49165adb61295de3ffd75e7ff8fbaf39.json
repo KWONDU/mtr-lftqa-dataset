@@ -1,0 +1,55 @@
+{
+    "id": "5801f0c7a73ffc9c7c46c44216ec3a4d49165adb61295de3ffd75e7ff8fbaf39",
+    "metadata": "United States House of Representatives elections, 2000 | Oklahoma | Oklahoma",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Oklahoma 1",
+            "Steve Largent",
+            "Republican",
+            "1994",
+            "Re-elected",
+            "Steve Largent (R) 70% Dan Lowe (D) 30%"
+        ],
+        [
+            "Oklahoma 2",
+            "Tom Coburn",
+            "Republican",
+            "1994",
+            "Retired Democratic gain",
+            "Brad Carson (D) 55% Andy Ewing (R) 42%"
+        ],
+        [
+            "Oklahoma 3",
+            "Wes Watkins",
+            "Republican",
+            "1976 , 1996",
+            "Re-elected",
+            "Wes Watkins (R) 87%"
+        ],
+        [
+            "Oklahoma 4",
+            "J. C. Watts",
+            "Republican",
+            "1994",
+            "Re-elected",
+            "J. C. Watts (R) 65% Larry Weatherford (D) 32%"
+        ],
+        [
+            "Oklahoma 5",
+            "Ernest Istook",
+            "Republican",
+            "1992",
+            "Re-elected",
+            "Ernest Istook (R) 69% Garland McWatters (D) 28%"
+        ]
+    ]
+}

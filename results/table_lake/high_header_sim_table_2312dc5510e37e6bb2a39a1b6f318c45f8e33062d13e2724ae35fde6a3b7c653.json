@@ -1,0 +1,70 @@
+{
+    "id": "2312dc5510e37e6bb2a39a1b6f318c45f8e33062d13e2724ae35fde6a3b7c653",
+    "metadata": "1904 Michigan Wolverines football team | Michigan 72, Physicians  &  Surgeons 0 | Michigan 72, Physicians  &  Surgeons 0",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Position_",
+        "Starter",
+        "Touchdowns",
+        "Extra_points",
+        "Field_goals",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Tom Hammond",
+            "Right tackle",
+            "Yes",
+            "2",
+            "12",
+            "0",
+            "22"
+        ],
+        [
+            "Norcross",
+            "Quarterback",
+            "Yes",
+            "4",
+            "0",
+            "0",
+            "20"
+        ],
+        [
+            "Heston",
+            "Left halfback",
+            "Yes",
+            "3",
+            "0",
+            "0",
+            "15"
+        ],
+        [
+            "Curtis",
+            "Left tackle",
+            "Yes",
+            "1",
+            "0",
+            "0",
+            "5"
+        ],
+        [
+            "Clark",
+            "Right end",
+            "Yes",
+            "1",
+            "0",
+            "0",
+            "5"
+        ],
+        [
+            "H. Hammond",
+            "Right halfback",
+            "Yes",
+            "1",
+            "0",
+            "0",
+            "5"
+        ]
+    ]
+}

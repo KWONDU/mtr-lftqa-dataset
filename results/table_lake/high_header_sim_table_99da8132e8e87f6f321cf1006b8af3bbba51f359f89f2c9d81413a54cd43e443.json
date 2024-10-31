@@ -1,0 +1,70 @@
+{
+    "id": "99da8132e8e87f6f321cf1006b8af3bbba51f359f89f2c9d81413a54cd43e443",
+    "metadata": "Mike Hailwood | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Pts_"
+    ],
+    "cell": [
+        [
+            "1963",
+            "Reg Parnell Racing",
+            "Lotus 24",
+            "Climax",
+            "0"
+        ],
+        [
+            "1963",
+            "Reg Parnell Racing",
+            "Lola Mk4",
+            "Climax",
+            "0"
+        ],
+        [
+            "1964",
+            "Reg Parnell Racing",
+            "Lotus 25",
+            "BRM",
+            "1"
+        ],
+        [
+            "1965",
+            "Reg Parnell Racing",
+            "Lotus 25",
+            "BRM",
+            "0"
+        ],
+        [
+            "1971",
+            "Team Surtees",
+            "Surtees TS9",
+            "Ford",
+            "3"
+        ],
+        [
+            "1972",
+            "Brooke Bond Oxo Team Surtees",
+            "Surtees TS9B",
+            "Ford",
+            "13"
+        ],
+        [
+            "1973",
+            "Brooke Bond Oxo Team Surtees",
+            "Surtees TS14A",
+            "Ford",
+            "0"
+        ],
+        [
+            "1974",
+            "Yardley Team McLaren",
+            "McLaren M23",
+            "Ford",
+            "12"
+        ]
+    ]
+}

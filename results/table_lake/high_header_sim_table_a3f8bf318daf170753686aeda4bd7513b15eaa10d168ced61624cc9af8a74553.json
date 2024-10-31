@@ -1,0 +1,63 @@
+{
+    "id": "a3f8bf318daf170753686aeda4bd7513b15eaa10d168ced61624cc9af8a74553",
+    "metadata": "2001 in paleontology | Non-mammalian | Non-mammalian",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Status_",
+        "Authors",
+        "Unit",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Delectosaurus",
+            "Valid",
+            "Kurkin",
+            "Vyazniki Assemblage",
+            "Russia"
+        ],
+        [
+            "Interpresosaurus",
+            "Valid",
+            "Kurkin",
+            "Vyazniki Assemblage",
+            "Russia"
+        ],
+        [
+            "Lumkuia",
+            "Valid",
+            "Hopson Kitching",
+            "Burgersdorp Formation",
+            "South Africa"
+        ],
+        [
+            "Malasaurus",
+            "Valid",
+            "Tatarinov",
+            "Vyazniki Assemblage",
+            "Russia"
+        ],
+        [
+            "Mitredon",
+            "Valid",
+            "Shapiro Jenkins",
+            "Fleming Fjord Formation",
+            "Greenland"
+        ],
+        [
+            "Prozostrodon",
+            "Valid",
+            "Bonaparte Barberena",
+            "Santa Maria Formation",
+            "Brazil"
+        ],
+        [
+            "Riograndia",
+            "Valid",
+            "Bonaparte Ferigolo Ribeiro",
+            "Caturrita Formation",
+            "Brazil"
+        ]
+    ]
+}

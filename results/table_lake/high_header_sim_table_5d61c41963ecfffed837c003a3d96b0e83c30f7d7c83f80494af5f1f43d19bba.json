@@ -1,0 +1,63 @@
+{
+    "id": "5d61c41963ecfffed837c003a3d96b0e83c30f7d7c83f80494af5f1f43d19bba",
+    "metadata": "SWAT (series) | series | series",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Title",
+        "Year_",
+        "Platform",
+        "Developer",
+        "Publisher"
+    ],
+    "cell": [
+        [
+            "SWAT 3: Close Quarters Battle",
+            "1999",
+            "Microsoft Windows",
+            "Sierra Northwest",
+            "Sierra Entertainment"
+        ],
+        [
+            "SWAT: Global Strike Team",
+            "2003",
+            "PlayStation 2 , Xbox",
+            "Argonaut Games",
+            "Argonaut Games Sierra Entertainment"
+        ],
+        [
+            "SWAT 4",
+            "2005",
+            "Microsoft Windows",
+            "Irrational Games",
+            "Vivendi Universal Games Sierra Entertainment"
+        ],
+        [
+            "SWAT 4: The Stetchkov Syndicate",
+            "2006",
+            "Microsoft Windows",
+            "Irrational Games",
+            "Vivendi Universal Games Sierra Entertainment"
+        ],
+        [
+            "SWAT Force",
+            "2006",
+            "Mobile phones",
+            "Kaolink",
+            "Vivendi Games Mobile"
+        ],
+        [
+            "SWAT: Target Liberty",
+            "2007",
+            "PlayStation Portable",
+            "3G Studios",
+            "Sierra Entertainment"
+        ],
+        [
+            "SWAT Elite Troops",
+            "2008",
+            "Mobile phones",
+            "Rovio Mobile",
+            "Vivendi Games Mobile"
+        ]
+    ]
+}

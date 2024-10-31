@@ -1,0 +1,56 @@
+{
+    "id": "f2e87f7e7fbd98297ff9e9bca378f8835354e086cc8edceee2ffea909fb55325",
+    "metadata": "1952-53 FA Cup | Sixth Round Proper | Sixth Round Proper",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Aston Villa",
+            "0-1",
+            "Everton",
+            "28 February 1953"
+        ],
+        [
+            "2",
+            "Arsenal",
+            "1-2",
+            "Blackpool",
+            "28 February 1953"
+        ],
+        [
+            "3",
+            "Gateshead",
+            "0-1",
+            "Bolton Wanderers",
+            "28 February 1953"
+        ],
+        [
+            "4",
+            "Birmingham City",
+            "1-1",
+            "Tottenham Hotspur",
+            "28 February 1953"
+        ],
+        [
+            "Replay",
+            "Tottenham Hotspur",
+            "2-2",
+            "Birmingham City",
+            "4 March 1953"
+        ],
+        [
+            "Replay",
+            "Birmingham City",
+            "0-1",
+            "Tottenham Hotspur",
+            "9 March 1953"
+        ]
+    ]
+}

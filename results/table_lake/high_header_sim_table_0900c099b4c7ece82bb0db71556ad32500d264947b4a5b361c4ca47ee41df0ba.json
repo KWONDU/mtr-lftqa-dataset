@@ -1,0 +1,97 @@
+{
+    "id": "0900c099b4c7ece82bb0db71556ad32500d264947b4a5b361c4ca47ee41df0ba",
+    "metadata": "Montfortian dialect | Fifth conjugation | Fifth conjugation",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "Present_SV",
+        "Past_SV",
+        "Present_VS",
+        "Past_VS",
+        "Subjunctive_SV",
+        "Subjunctive_VS"
+    ],
+    "cell": [
+        [
+            "First person singular",
+            "ich doup",
+            "ich doupdje",
+            "doup ich",
+            "doupe-n ich",
+            "ich doupe",
+            "doupe-n ich"
+        ],
+        [
+            "Second person singular",
+            "doe d\u00f6ps",
+            "doe doupdjes",
+            "d\u00f6ps se",
+            "doupdjes se",
+            "doe doupe",
+            "douper-doe"
+        ],
+        [
+            "Third person singular",
+            "dae d\u00f6p",
+            "dae doupdje",
+            "d\u00f6p t`r",
+            "doupdje d`r",
+            "dae doupe",
+            "douper-dae"
+        ],
+        [
+            "First person plural",
+            "weer doupe",
+            "weer doupdje",
+            "d\u00f6ptj v`r",
+            "doupdje v`r",
+            "weer doupe",
+            "doupe v`r"
+        ],
+        [
+            "Second person plural",
+            "geer d\u00f6p(tj)",
+            "geer doupdje",
+            "d\u00f6p(tj) g`r",
+            "doupdje g`r",
+            "geer doupe",
+            "doupetj g`r"
+        ],
+        [
+            "Third person plural",
+            "die doupe",
+            "die doupdje",
+            "doupe die",
+            "doupdje die",
+            "die doupe",
+            "douper-die"
+        ],
+        [
+            "Other:",
+            "Infinitive",
+            "Gerund",
+            "Present particle",
+            "Past particle",
+            "Adjective",
+            "Adverb"
+        ],
+        [
+            "Conjugation:",
+            "(t\u00f6) doupe",
+            "`t doupe n",
+            "doupendj",
+            "gedoup",
+            "gedoup(dje/dje-n/djer/djes)",
+            "gedoup(djelik)"
+        ],
+        [
+            "Other:",
+            "Noun",
+            "Imperative singular impolite",
+            "Imperative singular polite",
+            "Imperative dual",
+            "Imperative plural",
+            "\u00c8nkelzief"
+        ]
+    ]
+}

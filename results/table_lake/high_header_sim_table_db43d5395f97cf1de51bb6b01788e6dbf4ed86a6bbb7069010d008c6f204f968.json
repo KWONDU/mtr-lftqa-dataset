@@ -1,0 +1,88 @@
+{
+    "id": "db43d5395f97cf1de51bb6b01788e6dbf4ed86a6bbb7069010d008c6f204f968",
+    "metadata": "Multiple sclerosis research | Summary table | Summary table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Interferon_beta_1a",
+        "Betaseron_beta_1b",
+        "Copaxone",
+        "Mitoxantrone",
+        "Tysabri",
+        "Fingolimod_Gylenya",
+        "Teriflunomide"
+    ],
+    "cell": [
+        [
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "NO",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "YES",
+            "NO",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "NO",
+            "NO",
+            "YES",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "YES (linked to PML)",
+            "NO",
+            "YES",
+            "NO",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "NO",
+            "NO",
+            "NO",
+            "NO",
+            "NO",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "YES",
+            "NO",
+            "NO",
+            "NO",
+            "NO",
+            "NO",
+            "\u2014"
+        ],
+        [
+            "NO",
+            "YES",
+            "NO",
+            "NO",
+            "NO",
+            "NO",
+            "\u2014"
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "4d38fff0a8dc036fbcc195f4600070a4ad50067a00eb81b3158ae44e37350c67",
+    "metadata": "2006-07 Manchester United F.C. season | FA Cup | FA Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponents",
+        "H_A",
+        "Result_F_A",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "7 January 2007",
+            "Round 3",
+            "Aston Villa",
+            "H",
+            "2-1",
+            "74924"
+        ],
+        [
+            "27 January 2007",
+            "Round 4",
+            "Portsmouth",
+            "H",
+            "2-1",
+            "71137"
+        ],
+        [
+            "17 February 2007",
+            "Round 5",
+            "Reading",
+            "H",
+            "1-1",
+            "70608"
+        ],
+        [
+            "27 February 2007",
+            "Round 5 Replay",
+            "Reading",
+            "A",
+            "3-2",
+            "23821"
+        ],
+        [
+            "10 March 2007",
+            "Round 6",
+            "Middlesbrough",
+            "A",
+            "2-2",
+            "33308"
+        ],
+        [
+            "19 March 2007",
+            "Round 6 Replay",
+            "Middlesbrough",
+            "H",
+            "1-0",
+            "61325"
+        ],
+        [
+            "14 April 2007",
+            "Semi-final",
+            "Watford",
+            "N",
+            "4-1",
+            "37425"
+        ],
+        [
+            "19 May 2007",
+            "Final",
+            "Chelsea",
+            "N",
+            "0-1 ( a.e.t. )",
+            "89826"
+        ]
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": "a302a2dd2aab21496ad6571d4b4aa13693568153e35908704870ed8fb78137ef",
+    "metadata": "Royal Canadian Mint numismatic coins (2000s) | 18K Gold Proof Lunar Hologram Coin Series | 18K Gold Proof Lunar Hologram Coin Series",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Theme",
+        "Artist",
+        "Composition",
+        "Mintage",
+        "Issue_Price"
+    ],
+    "cell": [
+        [
+            "2000",
+            "Year of the Dragon",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "8874",
+            "$388.88"
+        ],
+        [
+            "2001",
+            "Year of the Snake",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "6571",
+            "$388.88"
+        ],
+        [
+            "2002",
+            "Year of the Horse",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "6843",
+            "$388.88"
+        ],
+        [
+            "2003",
+            "Year of the Goat",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "3927",
+            "$398.88"
+        ],
+        [
+            "2004",
+            "Year of the Monkey",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "3318",
+            "$398.88"
+        ],
+        [
+            "2005",
+            "Year of the Rooster",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "4888",
+            "$398.88"
+        ],
+        [
+            "2006",
+            "Year of the Dog",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "4888",
+            "$448.88"
+        ],
+        [
+            "2007",
+            "Year of the Pig",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "4888",
+            "$498.95"
+        ],
+        [
+            "2008",
+            "Year of the Rat",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "4888",
+            "$508.95"
+        ],
+        [
+            "2009",
+            "Year of the Ox",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "4888",
+            "$638.88"
+        ],
+        [
+            "2010",
+            "Year of the Tiger",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "4888",
+            "$555.55"
+        ],
+        [
+            "2011",
+            "Year of the Rabbit",
+            "Harvey Chan",
+            "75% gold, 25% silver",
+            "4888",
+            "$638.88"
+        ]
+    ]
+}

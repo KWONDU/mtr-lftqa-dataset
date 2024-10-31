@@ -1,0 +1,88 @@
+{
+    "id": "f91e0b5219c18ec6288936b1a076a447373cb048767d0d540412daa5e75618c7",
+    "metadata": "Pidie Jaya Regency | Administrative divisions | Administrative divisions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Subdistrict_kecamatan_",
+        "Capital",
+        "Land_area_Km_2_",
+        "Total_area_Km_2_",
+        "Percentage_",
+        "Subdistrict_divisions",
+        "Villages"
+    ],
+    "cell": [
+        [
+            "Bandar Dua",
+            "Ulee Glee",
+            "17626",
+            "17626",
+            "1499",
+            "5",
+            "45"
+        ],
+        [
+            "Bandar Baru",
+            "Leung Putu",
+            "22364",
+            "28124",
+            "2419",
+            "8",
+            "43"
+        ],
+        [
+            "Jangka Buya",
+            "Jangka Buya",
+            "788",
+            "2964",
+            "255",
+            "2",
+            "18"
+        ],
+        [
+            "Meurah Dua",
+            "Meurah Dua",
+            "27620",
+            "29220",
+            "2513",
+            "3",
+            "19"
+        ],
+        [
+            "Meureudu",
+            "Meureudu",
+            "13914",
+            "15674",
+            "1348",
+            "7",
+            "30"
+        ],
+        [
+            "Pante Raja",
+            "Pante Raja",
+            "1380",
+            "4004",
+            "344",
+            "2",
+            "10"
+        ],
+        [
+            "Trienggadeng",
+            "Trienggadeng",
+            "7619",
+            "12800",
+            "1101",
+            "5",
+            "27"
+        ],
+        [
+            "Ulim",
+            "Ulim",
+            "4089",
+            "6073",
+            "522",
+            "5",
+            "30"
+        ]
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "id": "3b406b6a624b4c893686ab660bd4c50fc6abd17c0545b3dce871bcc31a785612",
+    "metadata": "2006 American Le Mans Series season | Season results | Season results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rnd",
+        "Circuit",
+        "LMP1_Winning_Team_LMP1_Winning_Drivers",
+        "LMP2_Winning_Team_LMP2_Winning_Drivers",
+        "GT1_Winning_Team_GT1_Winning_Drivers",
+        "GT2_Winning_Team_GT2_Winning_Drivers",
+        "Results_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Sebring",
+            "#2 Audi Sport North America",
+            "#37 Intersport Racing",
+            "#4 Corvette Racing",
+            "#50 Multimatic Motorsports",
+            "Results"
+        ],
+        [
+            "1",
+            "Sebring",
+            "Rinaldo Capello ,  Tom Kristensen ,  Allan McNish",
+            "Clint Field ,  Liz Halliday ,  Jon Field",
+            "Oliver Gavin ,  Olivier Beretta ,  Jan Magnussen",
+            "Scott Maxwell ,  David Brabham ,  S\u00e9bastien Bourdais",
+            "Results"
+        ],
+        [
+            "2",
+            "Reliant Park",
+            "#2 Audi Sport North America",
+            "#37 Intersport Racing",
+            "#4 Corvette Racing",
+            "#23 Alex Job Racing",
+            "Results"
+        ],
+        [
+            "2",
+            "Reliant Park",
+            "Allan McNish ,  Rinaldo Capello",
+            "Clint Field ,  Liz Halliday",
+            "Oliver Gavin ,  Olivier Beretta",
+            "Mike Rockenfeller ,  Klaus Graf",
+            "Results"
+        ],
+        [
+            "3",
+            "Mid-Ohio",
+            "#2 Audi Sport North America",
+            "#7 Penske Racing",
+            "#4 Corvette Racing",
+            "#45 Flying Lizard Motorsports",
+            "Results"
+        ],
+        [
+            "3",
+            "Mid-Ohio",
+            "Allan McNish ,  Rinaldo Capello",
+            "Timo Bernhard ,  Romain Dumas",
+            "Oliver Gavin ,  Olivier Beretta",
+            "Johannes van Overbeek ,  Wolf Henzler",
+            "Results"
+        ],
+        [
+            "4",
+            "Lime Rock",
+            "#2 Audi Sport North America",
+            "#7 Penske Racing",
+            "#009 Aston Martin Racing",
+            "#31 Petersen/White Lightning",
+            "Results"
+        ],
+        [
+            "4",
+            "Lime Rock",
+            "Allan McNish ,  Rinaldo Capello",
+            "Timo Bernhard ,  Romain Dumas",
+            "St\u00e9phane Sarrazin ,  Pedro Lamy",
+            "J\u00f6rg Bergmeister ,  Patrick Long",
+            "Results"
+        ],
+        [
+            "5",
+            "Miller",
+            "#1 Audi Sport North America",
+            "#6 Penske Racing",
+            "#007 Aston Martin Racing",
+            "#62 Risi Competizione",
+            "Results"
+        ],
+        [
+            "5",
+            "Miller",
+            "Frank Biela ,  Emanuele Pirro",
+            "Sascha Maassen ,  Lucas Luhr",
+            "Darren Turner ,  Tom\u00e1\u0161 Enge",
+            "Jaime Melo ,  Mika Salo",
+            "Results"
+        ],
+        [
+            "6",
+            "Portland",
+            "#2 Audi Sport North America",
+            "#37 Intersport Racing",
+            "#4 Corvette Racing",
+            "#62 Risi Competizione",
+            "Results"
+        ],
+        [
+            "6",
+            "Portland",
+            "Allan McNish ,  Rinaldo Capello",
+            "Clint Field ,  Liz Halliday",
+            "Oliver Gavin ,  Olivier Beretta",
+            "Jaime Melo ,  Mika Salo",
+            "Results"
+        ],
+        [
+            "7",
+            "Road America",
+            "#1 Audi Sport North America",
+            "#6 Penske Racing",
+            "#3 Corvette Racing",
+            "#31 Petersen/White Lightning",
+            "Results"
+        ],
+        [
+            "7",
+            "Road America",
+            "Frank Biela ,  Emanuele Pirro",
+            "Sascha Maassen ,  Timo Bernhard",
+            "Ron Fellows ,  Johnny O`Connell",
+            "J\u00f6rg Bergmeister ,  Patrick Long ,  Michael Petersen",
+            "Results"
+        ],
+        [
+            "8",
+            "Mosport",
+            "#2 Audi Sport North America",
+            "#7 Penske Racing",
+            "#009 Aston Martin Racing",
+            "#62 Risi Competizione",
+            "Results"
+        ],
+        [
+            "8",
+            "Mosport",
+            "Allan McNish ,  Rinaldo Capello",
+            "Lucas Luhr ,  Romain Dumas",
+            "St\u00e9phane Sarrazin ,  Pedro Lamy",
+            "Stephane Ortelli ,  Johnny Mowlem",
+            "Results"
+        ],
+        [
+            "9",
+            "Road Atlanta",
+            "#2 Audi Sport North America",
+            "#6 Penske Racing",
+            "#007 Aston Martin Racing",
+            "#31 Petersen/White Lightning",
+            "Results"
+        ],
+        [
+            "9",
+            "Road Atlanta",
+            "Allan McNish ,  Rinaldo Capello",
+            "Sascha Maassen ,  Timo Bernhard ,  Emmanuel Collard",
+            "Tom\u00e1\u0161 Enge ,  Darren Turner",
+            "J\u00f6rg Bergmeister ,  Patrick Long ,  Niclas J\u00f6nsson",
+            "Results"
+        ],
+        [
+            "10",
+            "Mazda Raceway Laguna Seca",
+            "#2 Audi Sport North America",
+            "#7 Penske Racing",
+            "#009 Aston Martin Racing",
+            "#62 Risi Competizione",
+            "Results"
+        ],
+        [
+            "10",
+            "Mazda Raceway Laguna Seca",
+            "Allan McNish ,  Rinaldo Capello",
+            "Lucas Luhr ,  Romain Dumas",
+            "St\u00e9phane Sarrazin ,  Pedro Lamy",
+            "Mika Salo ,  Stephane Ortelli",
+            "Results"
+        ]
+    ]
+}

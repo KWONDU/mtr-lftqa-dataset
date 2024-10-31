@@ -1,0 +1,119 @@
+{
+    "id": "5aa789bc855aef5b1beaa4de9d2be64531c24a72282e90fcd1dba8dca8798d57",
+    "metadata": "1967 French Grand Prix | Classification | Classification",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Constructor_",
+        "Laps",
+        "Time_Retired",
+        "Grid"
+    ],
+    "cell": [
+        [
+            "Jack Brabham",
+            "Brabham - Repco",
+            "80",
+            "2:13:21.3",
+            "2"
+        ],
+        [
+            "Denny Hulme",
+            "Brabham - Repco",
+            "80",
+            "+ 49.5",
+            "6"
+        ],
+        [
+            "Jackie Stewart",
+            "BRM",
+            "79",
+            "+ 1 Lap",
+            "10"
+        ],
+        [
+            "Jo Siffert",
+            "Cooper - Maserati",
+            "77",
+            "+ 3 Laps",
+            "11"
+        ],
+        [
+            "Chris Irwin",
+            "BRM",
+            "76",
+            "Engine",
+            "9"
+        ],
+        [
+            "Pedro Rodr\u00edguez",
+            "Cooper - Maserati",
+            "76",
+            "+ 4 Laps",
+            "13"
+        ],
+        [
+            "Guy Ligier",
+            "Cooper - Maserati",
+            "68",
+            "Not Classified",
+            "15"
+        ],
+        [
+            "Chris Amon",
+            "Ferrari",
+            "47",
+            "Throttle",
+            "7"
+        ],
+        [
+            "Dan Gurney",
+            "Eagle - Weslake",
+            "40",
+            "Fuel Leak",
+            "3"
+        ],
+        [
+            "Jochen Rindt",
+            "Cooper - Maserati",
+            "33",
+            "Engine",
+            "8"
+        ],
+        [
+            "Bruce McLaren",
+            "Eagle - Weslake",
+            "26",
+            "Ignition",
+            "5"
+        ],
+        [
+            "Jim Clark",
+            "Lotus - Ford",
+            "23",
+            "Differential",
+            "4"
+        ],
+        [
+            "Bob Anderson",
+            "Brabham - Climax",
+            "16",
+            "Ignition",
+            "14"
+        ],
+        [
+            "Graham Hill",
+            "Lotus - Ford",
+            "13",
+            "Differential",
+            "1"
+        ],
+        [
+            "Mike Spence",
+            "BRM",
+            "9",
+            "Halfshaft",
+            "12"
+        ]
+    ]
+}

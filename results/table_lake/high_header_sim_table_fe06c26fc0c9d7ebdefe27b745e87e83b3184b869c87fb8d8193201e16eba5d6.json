@@ -1,0 +1,111 @@
+{
+    "id": "fe06c26fc0c9d7ebdefe27b745e87e83b3184b869c87fb8d8193201e16eba5d6",
+    "metadata": "Julian calendar | Leap year error | Leap year error",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Scholar",
+        "Date_",
+        "Triennial_leap_years_BC",
+        "First_Julian_day",
+        "First_aligned_day",
+        "Quadriennial_leap_year_resumes"
+    ],
+    "cell": [
+        [
+            "Candidate solutions which may be correct",
+            "Candidate solutions which may be correct",
+            "Candidate solutions which may be correct",
+            "Candidate solutions which may be correct",
+            "Candidate solutions which may be correct",
+            "Candidate solutions which may be correct"
+        ],
+        [
+            "Scaliger",
+            "1583",
+            "42, 39, 36, 33, 30, 27, 24, 21, 18, 15, 12, 9",
+            "2 Jan. 45 BC",
+            "25 Feb. AD 4",
+            "AD 8"
+        ],
+        [
+            "Bennett",
+            "2003",
+            "44, 41, 38, 35, 32, 29, 26, 23, 20, 17, 14, 11, 8",
+            "31 Dec. 46 BC",
+            "25 Feb. 1 BC",
+            "AD 4"
+        ],
+        [
+            "Candidate solutions proven to be incorrect",
+            "Candidate solutions proven to be incorrect",
+            "Candidate solutions proven to be incorrect",
+            "Candidate solutions proven to be incorrect",
+            "Candidate solutions proven to be incorrect",
+            "Candidate solutions proven to be incorrect"
+        ],
+        [
+            "B\u00fcnting",
+            "1590",
+            "45, 42, 39, 36, 33, 30, 27, 24, 21, 18, 15, 12",
+            "1 Jan. 45 BC",
+            "25 Feb. 1 BC",
+            "AD 4"
+        ],
+        [
+            "Christmann",
+            "1590",
+            "43, 40, 37, 34, 31, 28, 25, 22, 19, 16, 13, 10",
+            "2 Jan. 45 BC",
+            "25 Feb. AD 4",
+            "AD 7"
+        ],
+        [
+            "Harriot",
+            "after 1610",
+            "43, 40, 37, 34, 31, 28, 25, 22, 19, 16, 13, 10",
+            "1 Jan. 45 BC",
+            "25 Feb. 1 BC",
+            "AD 4"
+        ],
+        [
+            "Kepler",
+            "1614",
+            "43, 40, 37, 34, 31, 28, 25, 22, 19, 16, 13, 10",
+            "2 Jan. 45 BC",
+            "25 Feb. AD 4",
+            "AD 8"
+        ],
+        [
+            "Ideler",
+            "1825",
+            "45, 42, 39, 36, 33, 30, 27, 24, 21, 18, 15, 12, 9",
+            "1 Jan. 45 BC",
+            "25 Feb. AD 4",
+            "AD 8"
+        ],
+        [
+            "Matzat",
+            "1883",
+            "44, 41, 38, 35, 32, 29, 26, 23, 20, 17, 14, 11",
+            "1 Jan. 45 BC",
+            "25 Feb. 1 BC",
+            "AD 4"
+        ],
+        [
+            "Soltau",
+            "1889",
+            "45, 41, 38, 35, 32, 29, 26, 23, 20, 17, 14, 11",
+            "2 Jan. 45 BC",
+            "25 Feb. AD 4",
+            "AD 8"
+        ],
+        [
+            "Radke",
+            "1960",
+            "45, 42, 39, 36, 33, 30, 27, 24, 21, 18, 15, 12",
+            "1 Jan. 45 BC",
+            "25 Feb. 1 BC",
+            "AD 4"
+        ]
+    ]
+}

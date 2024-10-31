@@ -1,0 +1,63 @@
+{
+    "id": "490a3cd522bf94192f8d6e9b05f9394e4d61530546ea798055db5de9bf13ecee",
+    "metadata": "List of NGC objects (6001-7000) | 6401-6500 | 6401-6500",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_",
+        "Apparent_magnitude"
+    ],
+    "cell": [
+        [
+            "6402",
+            "Globular cluster",
+            "Ophiuchus",
+            "17h37m36.2s",
+            "\u00b014\u203245\u2033",
+            "9.6"
+        ],
+        [
+            "6405",
+            "Open cluster",
+            "Scorpius",
+            "17h40m",
+            "\u00b012\u2032",
+            "4.5"
+        ],
+        [
+            "6475",
+            "Open cluster",
+            "Scorpius",
+            "17h54m",
+            "\u00b047\u2032",
+            "3.5"
+        ],
+        [
+            "6494",
+            "Open cluster",
+            "Sagittarius",
+            "17h57m",
+            "\u00b059\u2032",
+            "6.0"
+        ],
+        [
+            "6496",
+            "Globular cluster",
+            "Scorpius",
+            "17h59m02.0s",
+            "\u00b015\u203255\u2033",
+            "10.0"
+        ],
+        [
+            "6500",
+            "Spiral galaxy",
+            "Hercules",
+            "17h55m59.8s",
+            "\u00b020\u203218\u2033",
+            "13.4"
+        ]
+    ]
+}

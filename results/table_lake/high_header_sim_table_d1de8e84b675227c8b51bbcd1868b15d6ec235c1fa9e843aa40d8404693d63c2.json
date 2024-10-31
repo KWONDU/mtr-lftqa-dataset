@@ -1,0 +1,71 @@
+{
+    "id": "d1de8e84b675227c8b51bbcd1868b15d6ec235c1fa9e843aa40d8404693d63c2",
+    "metadata": "Alexander Wurz | Le Mans 24 Hours results | Le Mans 24 Hours results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "Co_Drivers",
+        "Class_",
+        "Laps",
+        "Pos_"
+    ],
+    "cell": [
+        [
+            "1996",
+            "Joest Racing",
+            "Davy Jones Manuel Reuter",
+            "LMP1",
+            "354",
+            "1st"
+        ],
+        [
+            "2008",
+            "Team Peugeot Total",
+            "St\u00e9phane Sarrazin Pedro Lamy",
+            "LMP1",
+            "368",
+            "5th"
+        ],
+        [
+            "2009",
+            "Team Peugeot Total",
+            "David Brabham Marc Gen\u00e9",
+            "LMP1",
+            "382",
+            "1st"
+        ],
+        [
+            "2010",
+            "Team Peugeot Total",
+            "Marc Gen\u00e9 Anthony Davidson",
+            "LMP1",
+            "360",
+            "DNF"
+        ],
+        [
+            "2011",
+            "Peugeot Sport Total",
+            "Anthony Davidson Marc Gen\u00e9",
+            "LMP1",
+            "351",
+            "4th"
+        ],
+        [
+            "2012",
+            "Toyota Racing",
+            "Nicolas Lapierre Kazuki Nakajima",
+            "LMP1",
+            "134",
+            "DNF"
+        ],
+        [
+            "2013",
+            "Toyota Racing",
+            "Nicolas Lapierre Kazuki Nakajima",
+            "LMP1",
+            "341",
+            "4th"
+        ]
+    ]
+}

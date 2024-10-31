@@ -1,0 +1,55 @@
+{
+    "id": "a7a4b6e98ee43cb83d166a8c50ef56d1078c12854496a0e3b62e0b1e316fb9b5",
+    "metadata": "Benalla & District Football League | 2009 Ladder and Finals | 2009 Ladder and Finals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Benalla_DFL",
+        "Wins",
+        "Losses",
+        "Draws",
+        "Byes",
+        "Against"
+    ],
+    "cell": [
+        [
+            "Bonnie Doon",
+            "16",
+            "0",
+            "0",
+            "4",
+            "382"
+        ],
+        [
+            "Swanpool",
+            "12",
+            "4",
+            "0",
+            "4",
+            "1017"
+        ],
+        [
+            "Goorambat",
+            "7",
+            "8",
+            "1",
+            "4",
+            "1258"
+        ],
+        [
+            "Longwood",
+            "4",
+            "11",
+            "1",
+            "4",
+            "1944"
+        ],
+        [
+            "Tatong",
+            "0",
+            "16",
+            "0",
+            "4",
+            "3163"
+        ]
+    ]
+}

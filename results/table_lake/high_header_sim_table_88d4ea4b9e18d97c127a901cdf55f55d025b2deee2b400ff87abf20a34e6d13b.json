@@ -1,0 +1,49 @@
+{
+    "id": "88d4ea4b9e18d97c127a901cdf55f55d025b2deee2b400ff87abf20a34e6d13b",
+    "metadata": "Brian Naylor | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1957",
+            "J B Naylor",
+            "Cooper T43 F2",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1958",
+            "J B Naylor",
+            "Cooper T45 F2",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1959",
+            "J B Naylor",
+            "JBW",
+            "Maserati Straight-4",
+            "0"
+        ],
+        [
+            "1960",
+            "J B Naylor",
+            "JBW",
+            "Maserati Straight-4",
+            "0"
+        ],
+        [
+            "1961",
+            "J B Naylor",
+            "JBW",
+            "Climax Straight-4",
+            "0"
+        ]
+    ]
+}

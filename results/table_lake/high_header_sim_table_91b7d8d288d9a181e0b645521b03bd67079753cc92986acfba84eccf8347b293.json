@@ -1,0 +1,88 @@
+{
+    "id": "91b7d8d288d9a181e0b645521b03bd67079753cc92986acfba84eccf8347b293",
+    "metadata": "Northern State Conference (IHSAA) | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School_IHSAA_ID_",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "_County",
+        "Year_Joined"
+    ],
+    "cell": [
+        [
+            "Bremen",
+            "Bremen",
+            "Lions",
+            "505",
+            "AA",
+            "50 Marshall",
+            "1989"
+        ],
+        [
+            "Culver Community",
+            "Culver",
+            "Cavaliers",
+            "306",
+            "A",
+            "50 Marshall",
+            "1977"
+        ],
+        [
+            "Glenn",
+            "Walkerton",
+            "Falcons",
+            "613",
+            "AAA",
+            "71 St. Joseph",
+            "1966"
+        ],
+        [
+            "Jimtown",
+            "Elkhart",
+            "Jimmies",
+            "642",
+            "AAA",
+            "20 Elkhart",
+            "1966"
+        ],
+        [
+            "Knox Community",
+            "Knox",
+            "Redskins",
+            "632",
+            "AAA",
+            "75 Starke",
+            "1982"
+        ],
+        [
+            "LaVille",
+            "Lakeville",
+            "Lancers",
+            "413",
+            "A",
+            "71 St. Joseph",
+            "1966"
+        ],
+        [
+            "New Prairie",
+            "New Carlisle",
+            "Cougars",
+            "859",
+            "AAAA",
+            "46 LaPorte 71 St. Joseph",
+            "1968"
+        ],
+        [
+            "Triton",
+            "Bourbon",
+            "Trojans",
+            "333",
+            "A",
+            "50 Marshall",
+            "1980"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "ee3e9ab2a4548b8636639d47f384d01abaf42e7b78a3869c9102ab30094673b2",
+    "metadata": "1966 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "17.16 (118)",
+            "North Melbourne",
+            "11.13 (79)",
+            "Kardinia Park",
+            "19654",
+            "20 August 1966"
+        ],
+        [
+            "Fitzroy",
+            "5.10 (40)",
+            "St Kilda",
+            "17.22 (124)",
+            "Brunswick Street Oval",
+            "12165",
+            "20 August 1966"
+        ],
+        [
+            "South Melbourne",
+            "10.11 (71)",
+            "Richmond",
+            "10.12 (72)",
+            "Lake Oval",
+            "20200",
+            "20 August 1966"
+        ],
+        [
+            "Hawthorn",
+            "11.13 (79)",
+            "Essendon",
+            "15.10 (100)",
+            "Glenferrie Oval",
+            "21520",
+            "20 August 1966"
+        ],
+        [
+            "Melbourne",
+            "12.12 (84)",
+            "Collingwood",
+            "21.15 (141)",
+            "MCG",
+            "46319",
+            "20 August 1966"
+        ],
+        [
+            "Footscray",
+            "4.1 (25)",
+            "Carlton",
+            "12.14 (86)",
+            "Western Oval",
+            "14516",
+            "20 August 1966"
+        ]
+    ]
+}

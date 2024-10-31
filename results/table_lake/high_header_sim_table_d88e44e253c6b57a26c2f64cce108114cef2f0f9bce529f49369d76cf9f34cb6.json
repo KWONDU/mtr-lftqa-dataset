@@ -1,0 +1,56 @@
+{
+    "id": "d88e44e253c6b57a26c2f64cce108114cef2f0f9bce529f49369d76cf9f34cb6",
+    "metadata": "1976 Cleveland Browns season | Exhibition schedule | Exhibition schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "July 31, 1976",
+            "vs. Baltimore Colts at Lincoln, Nebraska",
+            "L 21-0",
+            "20304"
+        ],
+        [
+            "2",
+            "August 7, 1976",
+            "vs. Atlanta Falcons at Stillwater, Oklahoma",
+            "W 31-7",
+            "24227"
+        ],
+        [
+            "3",
+            "August 16, 1976",
+            "Minnesota Vikings",
+            "W 31-7",
+            "44336"
+        ],
+        [
+            "4",
+            "August 23, 1976",
+            "at Philadelphia Eagles",
+            "W 21-17",
+            "20600"
+        ],
+        [
+            "5",
+            "August 30, 1976",
+            "New England Patriots",
+            "W 30-27",
+            "36016"
+        ],
+        [
+            "6",
+            "September 3, 1976",
+            "at Buffalo Bills",
+            "L 28-10",
+            "37951"
+        ]
+    ]
+}

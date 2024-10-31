@@ -1,0 +1,67 @@
+{
+    "id": "fb5157edbcee1e0ca7a783866fb4919a33e6a54300f62e0b43424a239a3096f6",
+    "metadata": "2001 Seattle Mariners season | Postseason Game log | Postseason Game log",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Opponent",
+        "Score",
+        "Loss",
+        "Save_",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 9",
+            "Indians",
+            "0-5",
+            "Garc\u00eda (0-1)",
+            "-",
+            "48033",
+            "0-1"
+        ],
+        [
+            "2",
+            "October 11",
+            "Indians",
+            "5-1",
+            "Finley (0-1)",
+            "-",
+            "48052",
+            "1-1"
+        ],
+        [
+            "3",
+            "October 13",
+            "@ Indians",
+            "2-17",
+            "Sele (0-1)",
+            "-",
+            "45069",
+            "1-2"
+        ],
+        [
+            "4",
+            "October 14",
+            "@ Indians",
+            "6-2",
+            "Col\u00f3n (1-1)",
+            "-",
+            "45025",
+            "2-2"
+        ],
+        [
+            "5",
+            "October 15",
+            "Indians",
+            "3-1",
+            "Finley (0-2)",
+            "Sasaki (1)",
+            "47867",
+            "3-2"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "3563a4820f487f7a1bf22989ac5ac9505af6cff98999348b5ad90f37df260d45",
+    "metadata": "1984 Masters Tournament | Final leaderboard | Final leaderboard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Ben Crenshaw",
+            "United States",
+            "67-72-70-68=277",
+            "-11",
+            "108000"
+        ],
+        [
+            "2",
+            "Tom Watson",
+            "United States",
+            "74-67-69-69=279",
+            "-9",
+            "64800"
+        ],
+        [
+            "T3",
+            "David Edwards",
+            "United States",
+            "71-70-72-67=280",
+            "-8",
+            "34800"
+        ],
+        [
+            "T3",
+            "Gil Morgan",
+            "United States",
+            "73-71-69-67=280",
+            "-8",
+            "34800"
+        ],
+        [
+            "5",
+            "Larry Nelson",
+            "United States",
+            "76-69-66-70=281",
+            "-7",
+            "24000"
+        ],
+        [
+            "T6",
+            "Ronnie Black",
+            "United States",
+            "71-74-69-68=282",
+            "-6",
+            "19425"
+        ],
+        [
+            "T6",
+            "David Graham",
+            "Australia",
+            "69-70-70-73=282",
+            "-6",
+            "19425"
+        ],
+        [
+            "T6",
+            "Tom Kite",
+            "United States",
+            "70-68-69-75=282",
+            "-6",
+            "19425"
+        ],
+        [
+            "T6",
+            "Mark Lye",
+            "United States",
+            "69-66-73-74=282",
+            "-6",
+            "19425"
+        ],
+        [
+            "10",
+            "Fred Couples",
+            "United States",
+            "71-73-67-72=283",
+            "-5",
+            "16200"
+        ]
+    ]
+}

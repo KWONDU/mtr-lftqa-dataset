@@ -1,0 +1,87 @@
+{
+    "id": "c63a498dd4737a43723ce7a675cd1ea1eea0ca3e03af5a042602bffc5fa576a9",
+    "metadata": "2008-09 NBL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Venue",
+        "Crowd",
+        "Box_Score",
+        "Report"
+    ],
+    "cell": [
+        [
+            "7 January",
+            "Adelaide 36ers",
+            "106-99",
+            "Wollongong Hawks",
+            "Distinctive Homes Dome",
+            "6307",
+            "box score",
+            "report"
+        ],
+        [
+            "9 January",
+            "Perth Wildcats",
+            "77-81",
+            "Cairns Taipans",
+            "Challenge Stadium",
+            "4100",
+            "box score",
+            "report"
+        ],
+        [
+            "10 January",
+            "Adelaide 36ers",
+            "107-86",
+            "Cairns Taipans",
+            "Distinctive Homes Dome",
+            "5039",
+            "box score",
+            "report"
+        ],
+        [
+            "10 January",
+            "South Dragons",
+            "115-112",
+            "New Zealand Breakers",
+            "Melbourne Sports and Aquatic Centre",
+            "1994",
+            "box score",
+            "report"
+        ],
+        [
+            "10 January",
+            "Sydney Spirit",
+            "88-79",
+            "Wollongong Hawks",
+            "State Sports Centre",
+            "1469",
+            "box score",
+            "report"
+        ],
+        [
+            "11 January",
+            "Melbourne Tigers",
+            "108-81",
+            "Perth Wildcats",
+            "State Netball and Hockey Centre",
+            "2930",
+            "box score",
+            "report"
+        ],
+        [
+            "11 January",
+            "Townsville Crocodiles",
+            "115-92",
+            "Gold Coast Blaze",
+            "Townsville Entertainment Centre",
+            "4457",
+            "box score",
+            "report"
+        ]
+    ]
+}

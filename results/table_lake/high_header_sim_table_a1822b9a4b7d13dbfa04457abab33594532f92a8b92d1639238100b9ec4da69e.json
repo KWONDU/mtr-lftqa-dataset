@@ -1,0 +1,105 @@
+{
+    "id": "a1822b9a4b7d13dbfa04457abab33594532f92a8b92d1639238100b9ec4da69e",
+    "metadata": "1969 French Grand Prix | Classification | Classification",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Constructor_",
+        "Laps",
+        "Time_Retired",
+        "Grid"
+    ],
+    "cell": [
+        [
+            "Jackie Stewart",
+            "Matra - Ford",
+            "38",
+            "1:56:47.4",
+            "1"
+        ],
+        [
+            "Jean-Pierre Beltoise",
+            "Matra - Ford",
+            "38",
+            "+ 57.1",
+            "5"
+        ],
+        [
+            "Jacky Ickx",
+            "Brabham - Ford",
+            "38",
+            "+ 57.3",
+            "4"
+        ],
+        [
+            "Bruce McLaren",
+            "McLaren - Ford",
+            "37",
+            "+ 1 Lap",
+            "7"
+        ],
+        [
+            "Vic Elford",
+            "McLaren - Ford",
+            "37",
+            "+ 1 Lap",
+            "10"
+        ],
+        [
+            "Graham Hill",
+            "Lotus - Ford",
+            "37",
+            "+ 1 Lap",
+            "8"
+        ],
+        [
+            "Silvio Moser",
+            "Brabham - Ford",
+            "36",
+            "+ 2 Laps",
+            "13"
+        ],
+        [
+            "Denny Hulme",
+            "McLaren - Ford",
+            "35",
+            "+ 3 Laps",
+            "2"
+        ],
+        [
+            "Jo Siffert",
+            "Lotus - Ford",
+            "34",
+            "+ 4 Laps",
+            "9"
+        ],
+        [
+            "Chris Amon",
+            "Ferrari",
+            "30",
+            "Engine",
+            "6"
+        ],
+        [
+            "Jochen Rindt",
+            "Lotus - Ford",
+            "22",
+            "Physical",
+            "3"
+        ],
+        [
+            "Piers Courage",
+            "Brabham - Ford",
+            "21",
+            "Chassis",
+            "11"
+        ],
+        [
+            "John Miles",
+            "Lotus - Ford",
+            "1",
+            "Fuel Pump",
+            "12"
+        ]
+    ]
+}

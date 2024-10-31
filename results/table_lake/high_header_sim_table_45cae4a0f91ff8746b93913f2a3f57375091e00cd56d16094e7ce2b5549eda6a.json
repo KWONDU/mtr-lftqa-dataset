@@ -1,0 +1,73 @@
+{
+    "id": "45cae4a0f91ff8746b93913f2a3f57375091e00cd56d16094e7ce2b5549eda6a",
+    "metadata": "2007-08 Orlando Magic season | Playoffs | Playoffs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "1",
+            "May 3",
+            "@ Detroit",
+            "72-91",
+            "Two-Way Tie (18)",
+            "Howard (8)",
+            "Nelson (5)",
+            "The Palace of Auburn Hills 22,076",
+            "0-1"
+        ],
+        [
+            "2",
+            "May 5",
+            "@ Detroit",
+            "93-100",
+            "Howard , Nelson (22)",
+            "Howard (18)",
+            "T\u00fcrko\u011flu (7)",
+            "The Palace of Auburn Hills 22,076",
+            "0-2"
+        ],
+        [
+            "3",
+            "May 7",
+            "Detroit",
+            "111-86",
+            "Lewis (33)",
+            "Howard (12)",
+            "T\u00fcrko\u011flu (6)",
+            "Amway Arena 17,519",
+            "1-2"
+        ],
+        [
+            "4",
+            "May 10",
+            "Detroit",
+            "89-90",
+            "T\u00fcrko\u011flu (20)",
+            "Howard (12)",
+            "Nelson (6)",
+            "Amway Arena 17,519",
+            "1-3"
+        ],
+        [
+            "5",
+            "May 13",
+            "@ Detroit",
+            "86-91",
+            "T\u00fcrko\u011flu (18)",
+            "Howard (17)",
+            "T\u00fcrko\u011flu (7)",
+            "The Palace of Auburn Hills 22,076",
+            "1-4"
+        ]
+    ]
+}

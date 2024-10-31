@@ -1,0 +1,79 @@
+{
+    "id": "cc52b2c4c547d10b25220db3b9e6b8eff2d988ff977fe335c2577f27bba4fe14",
+    "metadata": "1972 U.S. Open (golf) | Past champions in the field | Past champions in the field",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1962 , 1967",
+            "290",
+            "+2",
+            "1"
+        ],
+        [
+            "Arnold Palmer",
+            "United States",
+            "1960",
+            "294",
+            "+6",
+            "3"
+        ],
+        [
+            "Lee Trevino",
+            "United States",
+            "1968 , 1971",
+            "295",
+            "+7",
+            "T4"
+        ],
+        [
+            "Billy Casper",
+            "United States",
+            "1959 , 1966",
+            "300",
+            "+12",
+            "T11"
+        ],
+        [
+            "Orville Moody",
+            "United States",
+            "1969",
+            "301",
+            "+13",
+            "T15"
+        ],
+        [
+            "Gary Player",
+            "South Africa",
+            "1965",
+            "301",
+            "+13",
+            "T15"
+        ],
+        [
+            "Julius Boros",
+            "United States",
+            "1952 , 1963",
+            "305",
+            "+17",
+            "T29"
+        ],
+        [
+            "Tony Jacklin",
+            "England",
+            "1970",
+            "307",
+            "+19",
+            "T40"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": "ad31cad6eca302f43fce8f4a05a3373cda35ed54eb621b7c75b187cdab0f071a",
+    "metadata": "TradeWars 2002 | Planets | Citadel Creation: Days to construct by planet",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Lv_1",
+        "Lv_2",
+        "Lv_3",
+        "Lv_4",
+        "Lv_5",
+        "Lv_6",
+        "Total"
+    ],
+    "cell": [
+        [
+            "C, Glacial",
+            "5",
+            "5",
+            "7",
+            "5",
+            "4",
+            "8",
+            "34"
+        ],
+        [
+            "H, Volcanic",
+            "4",
+            "5",
+            "8",
+            "12",
+            "5",
+            "18",
+            "52"
+        ],
+        [
+            "K, Desert",
+            "6",
+            "5",
+            "8",
+            "5",
+            "4",
+            "8",
+            "36"
+        ],
+        [
+            "L, Mountain",
+            "2",
+            "5",
+            "5",
+            "8",
+            "5",
+            "12",
+            "37"
+        ],
+        [
+            "M, Earth",
+            "4",
+            "4",
+            "5",
+            "10",
+            "5",
+            "15",
+            "43"
+        ],
+        [
+            "O, Oceanic",
+            "6",
+            "5",
+            "8",
+            "5",
+            "4",
+            "8",
+            "36"
+        ],
+        [
+            "U, Vap/Gas",
+            "8",
+            "4",
+            "5",
+            "5",
+            "4",
+            "8",
+            "34"
+        ]
+    ]
+}

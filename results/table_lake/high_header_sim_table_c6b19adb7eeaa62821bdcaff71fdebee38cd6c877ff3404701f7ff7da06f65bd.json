@@ -1,0 +1,49 @@
+{
+    "id": "c6b19adb7eeaa62821bdcaff71fdebee38cd6c877ff3404701f7ff7da06f65bd",
+    "metadata": "USA Today All-USA high school basketball team | 2006 Boys' team | Second Team",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Height",
+        "School",
+        "Hometown",
+        "College"
+    ],
+    "cell": [
+        [
+            "Wayne Ellington",
+            "6-5",
+            "Episcopal Academy",
+            "Merion, PA",
+            "North Carolina"
+        ],
+        [
+            "Brandan Wright",
+            "6-9",
+            "Brentwood Academy",
+            "Nashville, TN",
+            "North Carolina"
+        ],
+        [
+            "Thaddeus Young",
+            "6-8",
+            "Mitchell High School",
+            "Memphis, TN",
+            "Georgia Tech"
+        ],
+        [
+            "Sherron Collins",
+            "5-11",
+            "Crane Tech Prep",
+            "Chicago, IL",
+            "Kansas"
+        ],
+        [
+            "Paul Harris",
+            "6-4",
+            "Niagara Falls High School",
+            "Niagara Falls, NY",
+            "Syracuse"
+        ]
+    ]
+}

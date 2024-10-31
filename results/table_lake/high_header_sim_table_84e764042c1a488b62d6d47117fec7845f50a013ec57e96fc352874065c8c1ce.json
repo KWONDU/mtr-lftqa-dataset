@@ -1,0 +1,77 @@
+{
+    "id": "84e764042c1a488b62d6d47117fec7845f50a013ec57e96fc352874065c8c1ce",
+    "metadata": "Toyota Land Cruiser (J40) | Engines | Diesel",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Engine",
+        "Capacity_l",
+        "Power_hp",
+        "Torque",
+        "Used"
+    ],
+    "cell": [
+        [
+            "B",
+            "3.0",
+            "85",
+            "lb\u00b7ft (N\u00b7m)",
+            "1974-1979"
+        ],
+        [
+            "2B",
+            "3.2",
+            "93",
+            "lb\u00b7ft (N\u00b7m)",
+            "1979-1981"
+        ],
+        [
+            "3B",
+            "3.4",
+            "98",
+            "lb\u00b7ft (N\u00b7m)",
+            "1979-1984"
+        ],
+        [
+            "H",
+            "3.6",
+            "90",
+            "lb\u00b7ft (N\u00b7m)",
+            "1972-1980"
+        ],
+        [
+            "2H",
+            "4.0",
+            "105",
+            "lb\u00b7ft (N\u00b7m)",
+            "1980-1984"
+        ],
+        [
+            "OM324",
+            "3.4",
+            "78",
+            "lb\u00b7ft (N\u00b7m)",
+            "1961-1973 (Bandeirante)"
+        ],
+        [
+            "OM314",
+            "3.8",
+            "85",
+            "lb\u00b7ft (N\u00b7m)",
+            "1973-1989 (Bandeirante)"
+        ],
+        [
+            "OM364",
+            "4.0",
+            "90",
+            "lb\u00b7ft (N\u00b7m)",
+            "1989-1994 (Bandeirante)"
+        ],
+        [
+            "14B",
+            "3.7",
+            "96",
+            "lb\u00b7ft (N\u00b7m)",
+            "1994-2001 (Bandeirante)"
+        ]
+    ]
+}

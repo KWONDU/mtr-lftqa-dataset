@@ -1,0 +1,70 @@
+{
+    "id": "9d27f84e2ed3d952a52e377137e8f613becbae1cc6864a229e99da05449c4df5",
+    "metadata": "2008-09 Philadelphia Flyers season | Playoffs | Playoffs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "April 15",
+            "Philadelphia",
+            "1 - 4",
+            "Pittsburgh",
+            "Biron",
+            "17132",
+            "Penguins lead 1-0"
+        ],
+        [
+            "April 17",
+            "Philadelphia",
+            "2 - 3",
+            "Pittsburgh",
+            "Biron",
+            "17132",
+            "Penguins lead 2-0"
+        ],
+        [
+            "April 19",
+            "Pittsburgh",
+            "3 - 6",
+            "Philadelphia",
+            "Biron",
+            "19745",
+            "Penguins lead 2-1"
+        ],
+        [
+            "April 21",
+            "Pittsburgh",
+            "3 - 1",
+            "Philadelphia",
+            "Biron",
+            "19883",
+            "Penguins lead 3-1"
+        ],
+        [
+            "April 23",
+            "Philadelphia",
+            "3 - 0",
+            "Pittsburgh",
+            "Biron",
+            "17132",
+            "Penguins lead 3-2"
+        ],
+        [
+            "April 25",
+            "Pittsburgh",
+            "5 - 3",
+            "Philadelphia",
+            "Biron",
+            "20072",
+            "Penguins win 4-2"
+        ]
+    ]
+}

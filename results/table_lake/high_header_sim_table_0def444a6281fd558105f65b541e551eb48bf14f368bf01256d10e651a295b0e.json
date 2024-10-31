@@ -1,0 +1,112 @@
+{
+    "id": "0def444a6281fd558105f65b541e551eb48bf14f368bf01256d10e651a295b0e",
+    "metadata": "2007-08 Montenegrin Cup | Second round | Attendance",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Venue",
+        "Home",
+        "Guest",
+        "Score",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "Stadion na Koniku",
+            "FK Ribnica",
+            "OFK Bar",
+            "1:1 - 5:6 (pen)",
+            "400"
+        ],
+        [
+            "Stadion na Koniku",
+            "FK Grafi\u010dar",
+            "FK Budu\u0107nost",
+            "0:2",
+            "500"
+        ],
+        [
+            "Stadion Topolica",
+            "FK Mornar",
+            "FK Mladost",
+            "0:1",
+            "600"
+        ],
+        [
+            "Stadion pod Golubinjom",
+            "FK Pljevlja 97",
+            "FK Mogren",
+            "0:5",
+            "2.000"
+        ],
+        [
+            "Stadion Zabjela",
+            "FK Zabjelo",
+            "FK Lov\u0107en",
+            "0:0 - 2:4 (pen)",
+            "400"
+        ],
+        [
+            "Stadion Olimpik",
+            "FK Otrant",
+            "FK Jezero",
+            "1:1 - 5:3 (pen)",
+            "700"
+        ],
+        [
+            "Stadion pod Vrmcem",
+            "FK Bokelj",
+            "FK Berane",
+            "1:1 - 1:4 (pen)",
+            "400"
+        ],
+        [
+            "Stadion Gradski park",
+            "FK Arsenal",
+            "FK Jedinstvo",
+            "0:0 - 4:1 (pen)",
+            "500"
+        ],
+        [
+            "Stadion u Radanovi\u0107ima",
+            "FK Grbalj",
+            "FK \u010celik",
+            "4:0",
+            "300"
+        ],
+        [
+            "Stadion Tre\u0161njica",
+            "FK Zeta",
+            "FK Tekstilac",
+            "3:1",
+            "600"
+        ],
+        [
+            "Stadion Band\u017eovo brdo",
+            "FK Ibar",
+            "FK Crvena Stijena",
+            "1:0",
+            "1.000"
+        ],
+        [
+            "Stadion pod Malim brdom",
+            "OFK Petrovac",
+            "FK Gusinje",
+            "3:0",
+            "400"
+        ],
+        [
+            "Stadion Tu\u0161ko polje",
+            "FK De\u010di\u0107",
+            "FK Bratstvo",
+            "3:0",
+            "400"
+        ],
+        [
+            "Gradski stadion",
+            "FK Prvijenac",
+            "FK Kom",
+            "0:3",
+            "500"
+        ]
+    ]
+}

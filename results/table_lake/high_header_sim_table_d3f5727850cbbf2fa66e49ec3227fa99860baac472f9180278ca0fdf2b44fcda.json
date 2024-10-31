@@ -1,0 +1,55 @@
+{
+    "id": "d3f5727850cbbf2fa66e49ec3227fa99860baac472f9180278ca0fdf2b44fcda",
+    "metadata": "United States House of Representatives elections, 1960 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "South Carolina 1",
+            "L. Mendel Rivers",
+            "Democratic",
+            "1940",
+            "Re-elected",
+            "L. Mendel Rivers (D) Unopposed"
+        ],
+        [
+            "South Carolina 2",
+            "John J. Riley",
+            "Democratic",
+            "1950",
+            "Re-elected",
+            "John J. Riley (D) Unopposed"
+        ],
+        [
+            "South Carolina 3",
+            "William Jennings Bryan Dorn",
+            "Democratic",
+            "1950",
+            "Re-elected",
+            "William Jennings Bryan Dorn (D) Unopposed"
+        ],
+        [
+            "South Carolina 4",
+            "Robert T. Ashmore",
+            "Democratic",
+            "1953",
+            "Re-elected",
+            "Robert T. Ashmore (D) Unopposed"
+        ],
+        [
+            "South Carolina 5",
+            "Robert W. Hemphill",
+            "Democratic",
+            "1956",
+            "Re-elected",
+            "Robert W. Hemphill (D) Unopposed"
+        ]
+    ]
+}

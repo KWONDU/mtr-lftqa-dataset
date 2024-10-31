@@ -1,0 +1,70 @@
+{
+    "id": "9026ed641b2db222c9ee6a9387bfbe0dfa6c247a853ec34a37d6408f57d0fb31",
+    "metadata": "NHPC Limited | Hydro Power Stations Under construction | Hydro Power Stations Under construction",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "S_no_",
+        "Power_Plant",
+        "State_",
+        "Total_Capacity_MW",
+        "Completion_Schedule"
+    ],
+    "cell": [
+        [
+            "1",
+            "Kishenganga",
+            "Jammu & Kashmir",
+            "330",
+            "2016"
+        ],
+        [
+            "2",
+            "Parbati-II",
+            "Himachal Pradesh",
+            "800",
+            "2013"
+        ],
+        [
+            "3",
+            "Subansiri (Lower)",
+            "Assam",
+            "2000",
+            "2014"
+        ],
+        [
+            "4",
+            "Teesta Low Dam-IV",
+            "West Bengal",
+            "160",
+            "2011(?)"
+        ],
+        [
+            "5",
+            "Parbati-III",
+            "Himachal Pradesh",
+            "520",
+            "2012(?)"
+        ],
+        [
+            "6",
+            "Nimmo-Bazgo",
+            "Jammu & Kashmir",
+            "45",
+            "2011(?)"
+        ],
+        [
+            "7",
+            "Chutak",
+            "Jammu & Kashmir",
+            "44",
+            "2011(?)"
+        ],
+        [
+            "8",
+            "Uri-II",
+            "Jammu & Kashmir",
+            "240",
+            "2011(?)"
+        ]
+    ]
+}

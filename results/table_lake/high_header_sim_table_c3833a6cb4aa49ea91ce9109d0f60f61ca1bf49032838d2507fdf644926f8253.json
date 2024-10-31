@@ -1,0 +1,55 @@
+{
+    "id": "c3833a6cb4aa49ea91ce9109d0f60f61ca1bf49032838d2507fdf644926f8253",
+    "metadata": "United States House of Representatives elections, 1958 | Massachusetts | Massachusetts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Massachusetts 2",
+            "Edward Boland",
+            "Democratic",
+            "1952",
+            "Re-elected",
+            "Edward Boland (D) Unopposed"
+        ],
+        [
+            "Massachusetts 3",
+            "Philip Philbin",
+            "Democratic",
+            "1942",
+            "Re-elected",
+            "Philip Philbin (D) Unopposed"
+        ],
+        [
+            "Massachusetts 6",
+            "William H. Bates",
+            "Republican",
+            "1950",
+            "Re-elected",
+            "William H. Bates (R) Unopposed"
+        ],
+        [
+            "Massachusetts 7",
+            "Thomas J. Lane",
+            "Democratic",
+            "1941",
+            "Re-elected",
+            "Thomas J. Lane (D) 75.6% Robert T. Breed (R) 24.4%"
+        ],
+        [
+            "Massachusetts 11",
+            "Tip O`Neill",
+            "Democratic",
+            "1952",
+            "Re-elected",
+            "Tip O`Neill (D) 80.4% Elliott H. Stone (R) 19.6%"
+        ]
+    ]
+}

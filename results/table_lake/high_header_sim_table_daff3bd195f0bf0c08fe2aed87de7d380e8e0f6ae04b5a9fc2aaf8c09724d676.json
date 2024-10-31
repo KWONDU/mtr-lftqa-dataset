@@ -1,0 +1,56 @@
+{
+    "id": "daff3bd195f0bf0c08fe2aed87de7d380e8e0f6ae04b5a9fc2aaf8c09724d676",
+    "metadata": "2008 North America 4 | Round-Robin Play Schedule | Round-Robin Play Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Away",
+        "Score",
+        "Home",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "May 17",
+            "Canada West",
+            "20 - 15",
+            "Canada East",
+            "Fletchers Field, Markham, ON"
+        ],
+        [
+            "July 10",
+            "USA Falcons",
+            "39 - 24",
+            "USA Hawks",
+            "Mt. Hood Community College , Gresham, Oregon"
+        ],
+        [
+            "July 15",
+            "USA Hawks",
+            "0 - 48",
+            "Canada West",
+            "Shawnigan Lake School , Shawnigan Lake, BC"
+        ],
+        [
+            "July 15",
+            "USA Falcons",
+            "26 - 22",
+            "Canada East",
+            "Shawnigan Lake School , Shawnigan Lake, BC"
+        ],
+        [
+            "July 19",
+            "USA Hawks",
+            "32 - 5",
+            "Canada East",
+            "Shawnigan Lake School , Shawnigan Lake, BC"
+        ],
+        [
+            "July 19",
+            "USA Falcons",
+            "3 - 55",
+            "Canada West",
+            "Shawnigan Lake School , Shawnigan Lake, BC"
+        ]
+    ]
+}

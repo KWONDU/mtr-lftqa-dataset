@@ -1,0 +1,84 @@
+{
+    "id": "f09c53ad4bd7f6c152a80910aa9b763815c8e75df000d547427c52c4e4dfafc0",
+    "metadata": "Gloucester County, New Brunswick | Parishes | Parishes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Official_Name",
+        "Status_",
+        "Area_km_2",
+        "Population",
+        "Census_Ranking"
+    ],
+    "cell": [
+        [
+            "Saumarez",
+            "Parish",
+            "326.76",
+            "6837",
+            "528 of 5,008"
+        ],
+        [
+            "Beresford",
+            "Parish",
+            "455.93",
+            "6301",
+            "576 of 5,008"
+        ],
+        [
+            "Shippagan",
+            "Parish",
+            "207.25",
+            "5370",
+            "648 of 5,008"
+        ],
+        [
+            "Bathurst",
+            "Parish",
+            "1504.23",
+            "5144",
+            "676 of 5,008"
+        ],
+        [
+            "Inkerman",
+            "Parish",
+            "191.05",
+            "4268",
+            "757 of 5,008"
+        ],
+        [
+            "Paquetville",
+            "Parish",
+            "220.30",
+            "2457",
+            "1,156 of 5,008"
+        ],
+        [
+            "Allardville",
+            "Parish",
+            "655.11",
+            "2151",
+            "1,257 of 5,008"
+        ],
+        [
+            "Saint-Isidore",
+            "Parish",
+            "189.49",
+            "1652",
+            "1,497 of 5,008"
+        ],
+        [
+            "Caraquet",
+            "Parish",
+            "109.20",
+            "1511",
+            "1,585 of 5,008"
+        ],
+        [
+            "New Bandon",
+            "Parish",
+            "369.58",
+            "1422",
+            "1,656 of 5,008"
+        ]
+    ]
+}

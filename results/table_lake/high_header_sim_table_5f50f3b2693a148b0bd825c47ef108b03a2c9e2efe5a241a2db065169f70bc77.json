@@ -1,0 +1,70 @@
+{
+    "id": "5f50f3b2693a148b0bd825c47ef108b03a2c9e2efe5a241a2db065169f70bc77",
+    "metadata": "1982 VFL season | Round 21 | Round 21",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Fitzroy",
+            "19.17 (131)",
+            "Footscray",
+            "12.11 (83)",
+            "Junction Oval",
+            "8280",
+            "21 August 1982"
+        ],
+        [
+            "Essendon",
+            "14.12 (96)",
+            "Geelong",
+            "12.13 (85)",
+            "Windy Hill",
+            "17587",
+            "21 August 1982"
+        ],
+        [
+            "Carlton",
+            "26.24 (180)",
+            "North Melbourne",
+            "17.8 (110)",
+            "Princes Park",
+            "28309",
+            "21 August 1982"
+        ],
+        [
+            "Melbourne",
+            "14.8 (92)",
+            "Hawthorn",
+            "14.19 (103)",
+            "MCG",
+            "26049",
+            "21 August 1982"
+        ],
+        [
+            "St Kilda",
+            "22.16 (148)",
+            "Collingwood",
+            "16.16 (112)",
+            "VFL Park",
+            "25816",
+            "21 August 1982"
+        ],
+        [
+            "Swans",
+            "16.14 (110)",
+            "Richmond",
+            "19.13 (127)",
+            "SCG",
+            "21083",
+            "22 August 1982"
+        ]
+    ]
+}

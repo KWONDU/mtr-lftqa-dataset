@@ -1,0 +1,55 @@
+{
+    "id": "63506d78b8e97f31e57f08b5c320702038c1b481c2206711aa446b2f78b199fb",
+    "metadata": "Buttonwood Covered Bridge | Dimensions | Dimensions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Length_feet_m",
+        "Width_feet_m",
+        "Load_short_tons_MT",
+        "Truss_types",
+        "Year_built",
+        "Source_Year"
+    ],
+    "cell": [
+        [
+            "feet (m)",
+            "feet 6inches (m)",
+            "short tons (t)",
+            "Queen post",
+            "1878",
+            "Landis (1966)"
+        ],
+        [
+            "feet 2inches (m)",
+            "feet 5inches (m)",
+            "short tons (t)",
+            "Wood or Timber",
+            "Pre-1900",
+            "NBI (2009)"
+        ],
+        [
+            "feet (m)",
+            "feet 5inches (m)",
+            "short tons (t)",
+            "Multiple kingpost and queenpost Burr arch",
+            "1898",
+            "NRHP (1980)"
+        ],
+        [
+            "feet 4inches (m)",
+            "feet 8.5inches (m)",
+            "NA",
+            "Queenpost with kingpost",
+            "1898",
+            "Evans (2001)"
+        ],
+        [
+            "feet (m)",
+            "feet 5inches (m)",
+            "NA",
+            "Burr",
+            "1898",
+            "Zacher (1994)"
+        ]
+    ]
+}

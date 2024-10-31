@@ -1,0 +1,63 @@
+{
+    "id": "c56a58d1a95c5c9a54ff6a649be7bb87d4774864b33efe562c66e009d0bb7d31",
+    "metadata": "Harry Hinton | Motorcycle Grand Prix results | Motorcycle Grand Prix results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Points",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1949",
+            "350cc",
+            "Norton",
+            "0",
+            "0"
+        ],
+        [
+            "1949",
+            "500cc",
+            "Norton",
+            "0",
+            "0"
+        ],
+        [
+            "1950",
+            "350cc",
+            "Norton",
+            "9",
+            "0"
+        ],
+        [
+            "1950",
+            "500cc",
+            "Norton",
+            "5",
+            "0"
+        ],
+        [
+            "1951",
+            "350cc",
+            "Norton",
+            "0",
+            "0"
+        ],
+        [
+            "1958",
+            "350cc",
+            "Velocette",
+            "0",
+            "0"
+        ],
+        [
+            "1958",
+            "500cc",
+            "Norton",
+            "0",
+            "0"
+        ]
+    ]
+}

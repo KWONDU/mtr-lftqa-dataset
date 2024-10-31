@@ -1,0 +1,70 @@
+{
+    "id": "c5b9b31bfa63f115ee5641a24c7c4c13f29f5631b53e8221539d12bfcc3b14ea",
+    "metadata": "1966 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "14.11 (95)",
+            "St Kilda",
+            "10.12 (72)",
+            "Kardinia Park",
+            "28729",
+            "6 August 1966"
+        ],
+        [
+            "Fitzroy",
+            "13.17 (95)",
+            "Footscray",
+            "13.11 (89)",
+            "Brunswick Street Oval",
+            "8795",
+            "6 August 1966"
+        ],
+        [
+            "South Melbourne",
+            "18.17 (125)",
+            "Melbourne",
+            "15.19 (109)",
+            "Lake Oval",
+            "14200",
+            "6 August 1966"
+        ],
+        [
+            "North Melbourne",
+            "11.16 (82)",
+            "Hawthorn",
+            "12.11 (83)",
+            "Arden Street Oval",
+            "5835",
+            "6 August 1966"
+        ],
+        [
+            "Richmond",
+            "13.8 (86)",
+            "Collingwood",
+            "16.9 (105)",
+            "MCG",
+            "73834",
+            "6 August 1966"
+        ],
+        [
+            "Essendon",
+            "18.7 (115)",
+            "Carlton",
+            "10.13 (73)",
+            "Windy Hill",
+            "28000",
+            "6 August 1966"
+        ]
+    ]
+}

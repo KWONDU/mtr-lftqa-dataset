@@ -1,0 +1,49 @@
+{
+    "id": "268bcd4559538b9aad544a15986824f498887f263cf2eec7af520b17f3163ff9",
+    "metadata": "Dragons' Den | Ireland | Ireland",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Seat",
+        "Series_1",
+        "Series_3",
+        "Series_4",
+        "Series_5"
+    ],
+    "cell": [
+        [
+            "1",
+            "Niall O`Farrell",
+            "Niall O`Farrell",
+            "Niall O`Farrell",
+            "Peter Casey (businessman)"
+        ],
+        [
+            "2",
+            "Bobby Kerr",
+            "Bobby Kerr",
+            "Bobby Kerr",
+            "Ramona Nicholas"
+        ],
+        [
+            "3",
+            "Sarah Newman",
+            "Norah Casey",
+            "Sean O`Sullivan",
+            "Sean O`Sullivan"
+        ],
+        [
+            "4",
+            "Gavin Duffy",
+            "Gavin Duffy",
+            "Gavin Duffy",
+            "Gavin Duffy"
+        ],
+        [
+            "5",
+            "Se\u00e1n Gallagher",
+            "Se\u00e1n Gallagher",
+            "Norah Casey",
+            "Barry O`Sullivan"
+        ]
+    ]
+}

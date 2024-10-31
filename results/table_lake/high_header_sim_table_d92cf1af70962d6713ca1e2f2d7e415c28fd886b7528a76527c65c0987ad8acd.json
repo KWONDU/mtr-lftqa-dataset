@@ -1,0 +1,55 @@
+{
+    "id": "d92cf1af70962d6713ca1e2f2d7e415c28fd886b7528a76527c65c0987ad8acd",
+    "metadata": "Solids with icosahedral symmetry | Achiral Catalan solids | Achiral Catalan solids",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "picture",
+        "Dual_Archimedean_solid",
+        "Faces",
+        "Edges",
+        "Vertices",
+        "Face_Polygon"
+    ],
+    "cell": [
+        [
+            "( Video )",
+            "icosidodecahedron",
+            "30",
+            "60",
+            "32",
+            "rhombus"
+        ],
+        [
+            "( Video )",
+            "truncated dodecahedron",
+            "60",
+            "90",
+            "32",
+            "isosceles triangle"
+        ],
+        [
+            "( Video )",
+            "truncated icosahedron",
+            "60",
+            "90",
+            "32",
+            "isosceles triangle"
+        ],
+        [
+            "( Video )",
+            "rhombicosidodecahedron",
+            "60",
+            "120",
+            "62",
+            "kite"
+        ],
+        [
+            "( Video )",
+            "truncated icosidodecahedron",
+            "120",
+            "180",
+            "62",
+            "scalene triangle"
+        ]
+    ]
+}

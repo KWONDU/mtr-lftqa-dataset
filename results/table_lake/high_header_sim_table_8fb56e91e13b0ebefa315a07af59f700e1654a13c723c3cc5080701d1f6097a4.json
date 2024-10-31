@@ -1,0 +1,55 @@
+{
+    "id": "8fb56e91e13b0ebefa315a07af59f700e1654a13c723c3cc5080701d1f6097a4",
+    "metadata": "1989 Senior PGA Tour | Leaders | Money List leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bob Charles",
+            "New Zealand",
+            "725887",
+            "27",
+            "5"
+        ],
+        [
+            "2",
+            "Orville Moody",
+            "United States",
+            "647985",
+            "31",
+            "2"
+        ],
+        [
+            "3",
+            "Al Geiberger",
+            "United States",
+            "527033",
+            "26",
+            "1"
+        ],
+        [
+            "4",
+            "Gary Player",
+            "South Africa",
+            "514116",
+            "18",
+            "2"
+        ],
+        [
+            "5",
+            "Dave Hill",
+            "United States",
+            "488541",
+            "26",
+            "2"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "61fc2c3767f4abd9e4f797ea62d05a0ef3ea45f960078917e92d7524f1b377ec",
+    "metadata": "Chessington World of Adventures | Childrens Rides | Childrens Rides",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Ride_Name",
+        "Type_",
+        "Opened_in",
+        "Themed_Land",
+        "Manufacture"
+    ],
+    "cell": [
+        [
+            "Flying Jumbos",
+            "Mini Jet Red Baron",
+            "1987",
+            "Zufari",
+            "Zamperla"
+        ],
+        [
+            "Tiny Truckers",
+            "Convoy Ride",
+            "1994",
+            "Market Square",
+            "Zamperla"
+        ],
+        [
+            "Carousel",
+            "Carousel",
+            "1996",
+            "Market Square",
+            "Bertazzon"
+        ],
+        [
+            "Jungle Bouncers",
+            "Mini Drop Tower",
+            "2001",
+            "Africa",
+            "Zamperla"
+        ],
+        [
+            "Toadie`s Crazy Cars",
+            "Convoy Ride",
+            "2001",
+            "Africa",
+            "Zamperla"
+        ],
+        [
+            "Canopy Capers",
+            "Tree House Attraction",
+            "2004",
+            "Land of the Dragons",
+            "Tussauds Studios"
+        ],
+        [
+            "Sea Dragons",
+            "Spinning Boat Ride",
+            "2004",
+            "Land of the Dragons",
+            "Mack Rides"
+        ],
+        [
+            "Griffin`s Galleon",
+            "Rock n Tug ride",
+            "2004",
+            "Land of the Dragons",
+            "Zierer"
+        ],
+        [
+            "Jungle Bus",
+            "Crazy Bus",
+            "2001",
+            "Wild Asia",
+            "Zamperla"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "79e2e3d6f7784a5c598fd2c85d6bfd31b7277ab93963a1e4b39ceac52bd73e5a",
+    "metadata": "Jim Rathmann | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1950",
+            "Pioneer Auto Repair",
+            "Wetteroth",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1952",
+            "Grancor-Wynn`s Oil",
+            "Kurtis Kraft 3000",
+            "Offenhauser L4",
+            "6"
+        ],
+        [
+            "1953",
+            "Travelon Trailer",
+            "Kurtis Kraft 500B",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1954",
+            "Bardahl",
+            "Kurtis Kraft 500C",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1955",
+            "Belond Miracle Power",
+            "Epperly",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1956",
+            "Hopkins",
+            "Kurtis Kraft 500C",
+            "Offenhauser L4",
+            "0"
+        ],
+        [
+            "1957",
+            "Chiropractic",
+            "Epperly Indy Roadster",
+            "Offenhauser L4",
+            "7"
+        ],
+        [
+            "1958",
+            "Leader Card 500 Roadster",
+            "Epperly Indy Roadster",
+            "Offenhauser L4",
+            "2"
+        ],
+        [
+            "1959",
+            "Simoniz",
+            "Watson Indy Roadster",
+            "Offenhauser L4",
+            "6"
+        ],
+        [
+            "1960",
+            "Ken-Paul",
+            "Watson Indy Roadster",
+            "Offenhauser L4",
+            "8"
+        ]
+    ]
+}

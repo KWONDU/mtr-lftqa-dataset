@@ -1,0 +1,91 @@
+{
+    "id": "eb5f03e6bff841b13ed076f4db5dcfc3194190b8c1d4df637452d8ef5b2a0f16",
+    "metadata": "Canterbury's Law | U.S. Nielsen Ratings | Weekly ratings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode",
+        "Air_Date",
+        "Timeslot",
+        "Rating",
+        "Share_",
+        "_18_49_Rating_Share",
+        "Viewers_m",
+        "Rank_Timeslot",
+        "Rank_Night",
+        "Rank_Overall"
+    ],
+    "cell": [
+        [
+            "Pilot",
+            "March 10, 2008",
+            "8:00 P.M.",
+            "4.9",
+            "8",
+            "1.7/5",
+            "7.62",
+            "3",
+            "8",
+            "29"
+        ],
+        [
+            "Baggage",
+            "March 17, 2008",
+            "8:00 P.M.",
+            "3.6",
+            "6",
+            "1.7/5",
+            "5.66",
+            "4",
+            "11",
+            "57"
+        ],
+        [
+            "What Goes Around...",
+            "March 28, 2008",
+            "9:00 P.M.",
+            "3.3",
+            "6",
+            "1.2/4",
+            "4.87",
+            "4",
+            "7",
+            "70"
+        ],
+        [
+            "Sweet Sixteen",
+            "April 4, 2008",
+            "9:00 P.M.",
+            "3.9",
+            "7",
+            "1.4/4",
+            "6.07",
+            "3",
+            "5",
+            "48"
+        ],
+        [
+            "Trade-Off",
+            "April 11, 2008",
+            "9:00 P.M.",
+            "3.4",
+            "6",
+            "1.2/4",
+            "5.29",
+            "3",
+            "7",
+            "63"
+        ],
+        [
+            "Sick as Your Secrets",
+            "April 18, 2008",
+            "9:00 P.M.",
+            "3.2",
+            "6",
+            "1.0/4",
+            "4.68",
+            "3",
+            "8",
+            "68"
+        ]
+    ]
+}

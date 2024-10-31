@@ -1,0 +1,97 @@
+{
+    "id": "5fef5a50cde078895fc16a2747255a1193544252c31ff453b8aea4f3d09fea21",
+    "metadata": "2012-13 ASB Premiership | Clubs | Clubs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Location_",
+        "Stadium",
+        "Capacity",
+        "Manager",
+        "Captain",
+        "Kit_manufacturer",
+        "Shirt_sponsor_"
+    ],
+    "cell": [
+        [
+            "Auckland City FC",
+            "Auckland",
+            "Kiwitea Street",
+            "3500",
+            "Ramon Tribulietx",
+            "Ivan Vicelich",
+            "Nike",
+            "Trillian Trust Inc."
+        ],
+        [
+            "Canterbury United",
+            "Christchurch",
+            "ASB Football Park",
+            "9000",
+            "Keith Braithwaite",
+            "Dan Terris",
+            "Samurai",
+            "Robbie`s Bar and Bistro"
+        ],
+        [
+            "Hawke`s Bay United",
+            "Napier",
+            "Bluewater Stadium",
+            "5000",
+            "Chris Greatholder",
+            "Bill Robertson",
+            "Samurai",
+            "Kinetic Electrical"
+        ],
+        [
+            "Otago United",
+            "Dunedin",
+            "Forsyth Barr Stadium",
+            "30500",
+            "Richard Murray",
+            "Tristan Prattley",
+            "Canterbury",
+            "Gran`s Remedy"
+        ],
+        [
+            "Team Wellington",
+            "Wellington",
+            "David Farrington Park",
+            "3000",
+            "Matt Calcott",
+            "Karl Whalen",
+            "adidas",
+            "Exodus Health & Fitness Club"
+        ],
+        [
+            "Waikato FC",
+            "Hamilton",
+            "Porritt Stadium",
+            "2700",
+            "Mark Cossey",
+            "Adam Thomas",
+            "Nike",
+            "The Soccer Shop"
+        ],
+        [
+            "Waitakere United",
+            "Waitakere City",
+            "Fred Taylor Park",
+            "2500",
+            "Paul Marshall",
+            "Jake Butler",
+            "Lotto Sport Italia",
+            "Cuesports Foundation"
+        ],
+        [
+            "YoungHeart Manawatu",
+            "Palmerston North",
+            "Memorial Park",
+            "8000",
+            "Stu Jacobs",
+            "Nathan Cooksley",
+            "Nike",
+            "New Zealand Pharmaceuticals"
+        ]
+    ]
+}

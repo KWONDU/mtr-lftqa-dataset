@@ -1,0 +1,56 @@
+{
+    "id": "1182a7feb008963045d504424f7612a8744e407a8a5e8a15423e81dfbbe955af",
+    "metadata": "List of locomotives in China | Diesel-electric transmission | Imported",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Build_year",
+        "Top_speed_In_operation_km_h_",
+        "Power_output_kW_",
+        "Total_production"
+    ],
+    "cell": [
+        [
+            "6Y2",
+            "1958\u20141961",
+            "101",
+            "4740",
+            "25"
+        ],
+        [
+            "6G1",
+            "1971",
+            "120",
+            "5100",
+            "2"
+        ],
+        [
+            "6G",
+            "1973",
+            "112",
+            "5400",
+            "40"
+        ],
+        [
+            "6K",
+            "1986-1987",
+            "100",
+            "5100",
+            "85"
+        ],
+        [
+            "8G",
+            "1987-1990",
+            "100",
+            "2\u00d73200",
+            "100"
+        ],
+        [
+            "8K",
+            "1987",
+            "100",
+            "2\u00d73200",
+            "150"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "7a97d96a8a1c60351c635f5ca056aeee108de14b36f718715d9bd8875fc0aa0b",
+    "metadata": "Patty Schnyder | Winner (5) | Winner (5)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Surface",
+        "Partner",
+        "Opponent_in_the_final",
+        "Score"
+    ],
+    "cell": [
+        [
+            "3 May 1998",
+            "Hamburg , Germany",
+            "Clay",
+            "Barbara Schett",
+            "Martina Hingis Jana Novotn\u00e1",
+            "7-6, 3-6, 6-3"
+        ],
+        [
+            "17 February 2002",
+            "Antwerp , Belgium",
+            "Carpet",
+            "Magdalena Maleeva",
+            "Nathalie Dechy Meilen Tu",
+            "6-3, 6-7, 6-3"
+        ],
+        [
+            "9 February 2003",
+            "Paris , France",
+            "Carpet",
+            "Barbara Schett",
+            "Marion Bartoli St\u00e9phanie Cohen-Aloro",
+            "2-6, 6-2, 7-6"
+        ],
+        [
+            "15 February 2004",
+            "Paris , France",
+            "Carpet",
+            "Barbara Schett",
+            "Silvia Farina Elia Francesca Schiavone",
+            "6-3, 6-2"
+        ],
+        [
+            "5 October 2008",
+            "Stuttgart , Germany",
+            "Hard",
+            "Anna-Lena Gr\u00f6nefeld",
+            "Kv\u011bta Peschke Rennae Stubbs",
+            "6-2, 6-4"
+        ]
+    ]
+}

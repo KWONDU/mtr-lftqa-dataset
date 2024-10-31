@@ -1,0 +1,63 @@
+{
+    "id": "204f0a0a9fdbc5cc717d4a887c7d6849a48ca6e53baf04f9c0e235ff2df87443",
+    "metadata": "Macleans College | Whanau House system | Whanau House system",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "House_name",
+        "House_mascot",
+        "House_colour",
+        "Year_opened",
+        "House_leader"
+    ],
+    "cell": [
+        [
+            "Hillary",
+            "Yeti",
+            "Green",
+            "1980",
+            "Mrs Wong"
+        ],
+        [
+            "Kupe",
+            "Kiwi",
+            "Yellow",
+            "1981",
+            "Mr Goodyer"
+        ],
+        [
+            "Rutherford",
+            "Elephant",
+            "Red",
+            "1982",
+            "Mr Morrisson"
+        ],
+        [
+            "Mansfield",
+            "`Dog` from Footrot Flats",
+            "Purple",
+            "1984",
+            "Mr Davidson"
+        ],
+        [
+            "Te Kanawa",
+            "Taniwha",
+            "Blue",
+            "1987",
+            "Mr Norris"
+        ],
+        [
+            "Batten",
+            "Buzzy Bee",
+            "White",
+            "1998",
+            "Ms Dorey"
+        ],
+        [
+            "Snell",
+            "Black panther",
+            "Black",
+            "2001",
+            "Mr Mackenzie"
+        ]
+    ]
+}

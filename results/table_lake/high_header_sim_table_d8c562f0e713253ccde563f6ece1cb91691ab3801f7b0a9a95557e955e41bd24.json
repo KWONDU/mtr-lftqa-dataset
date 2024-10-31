@@ -1,0 +1,87 @@
+{
+    "id": "d8c562f0e713253ccde563f6ece1cb91691ab3801f7b0a9a95557e955e41bd24",
+    "metadata": "Valanto Trifonos | Performances | Performances",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week_",
+        "Theme",
+        "Song_choice",
+        "Original_artist",
+        "Order_",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "Audition",
+            "N/A",
+            "Stereotipa",
+            "Dimitra Galani",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Athens recall",
+            "N/A",
+            "Paparazzi  Dithesio Me Tin Porta Anihti",
+            "Lady Gaga Alkistis Protopsalti Antonis Remos",
+            "N/A",
+            "Advanced"
+        ],
+        [
+            "Top 15",
+            "Contestant`s favorite",
+            "Trava Skandali",
+            "Alkistis Protopsalti",
+            "7",
+            "Advanced"
+        ],
+        [
+            "Top 10",
+            "Dance hits",
+            "Don`t Leave Me This Way",
+            "Thelma Houston",
+            "6",
+            "Safe"
+        ],
+        [
+            "Top 9",
+            "Movie hits",
+            "To Fili Tis Zois",
+            "Elena Paparizou",
+            "1",
+            "Safe"
+        ],
+        [
+            "Top 8",
+            "Today`s hits",
+            "Empire State of Mind (Part II) Broken Down",
+            "Alicia Keys",
+            "5",
+            "Safe"
+        ],
+        [
+            "Top 7",
+            "Contestant`s idol",
+            "Den Thelo Na Ksereis",
+            "Anna Vissi",
+            "3",
+            "Safe"
+        ],
+        [
+            "Top 6",
+            "Rock hits",
+            "Piece of My Heart  Poula Me",
+            "Big Brother and the Holding Company Pyx Lax",
+            "4 10",
+            "Safe"
+        ],
+        [
+            "Top 5",
+            "Summer hits , Dedications",
+            "Alejandro   Forever Young",
+            "Lady Gaga Youth Group",
+            "4 7",
+            "Safe"
+        ]
+    ]
+}

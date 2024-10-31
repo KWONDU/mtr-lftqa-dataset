@@ -1,0 +1,111 @@
+{
+    "id": "cc26209ba1e1df423d6538d8c21fea6e3de7bf4710cb5f2db2a49ae1ed73dd8f",
+    "metadata": "1990 Masters Tournament | Final leaderboard | Final leaderboard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Nick Faldo",
+            "England",
+            "71-72-66-69=278",
+            "-10",
+            "Playoff"
+        ],
+        [
+            "T1",
+            "Raymond Floyd",
+            "United States",
+            "70-68-68-72=278",
+            "-10",
+            "Playoff"
+        ],
+        [
+            "T3",
+            "John Huston",
+            "United States",
+            "66-74-68-75=283",
+            "-5",
+            "72500"
+        ],
+        [
+            "T3",
+            "Lanny Wadkins",
+            "United States",
+            "72-73-70-68=283",
+            "-5",
+            "72500"
+        ],
+        [
+            "5",
+            "Fred Couples",
+            "United States",
+            "74-69-72-69=284",
+            "-4",
+            "50000"
+        ],
+        [
+            "6",
+            "Jack Nicklaus",
+            "United States",
+            "72-70-69-74=285",
+            "-3",
+            "45000"
+        ],
+        [
+            "T7",
+            "Seve Ballesteros",
+            "Spain",
+            "74-73-68-71=286",
+            "-2",
+            "35150"
+        ],
+        [
+            "T7",
+            "Bill Britton",
+            "United States",
+            "68-74-71-73=286",
+            "-2",
+            "35150"
+        ],
+        [
+            "T7",
+            "Bernhard Langer",
+            "West Germany",
+            "70-73-69-74=286",
+            "-2",
+            "35150"
+        ],
+        [
+            "T7",
+            "Scott Simpson",
+            "United States",
+            "74-71-68-73=286",
+            "-2",
+            "35150"
+        ],
+        [
+            "T7",
+            "Curtis Strange",
+            "United States",
+            "70-73-71-72=286",
+            "-2",
+            "35150"
+        ],
+        [
+            "T7",
+            "Tom Watson",
+            "United States",
+            "77-71-67-71=286",
+            "-2",
+            "35150"
+        ]
+    ]
+}

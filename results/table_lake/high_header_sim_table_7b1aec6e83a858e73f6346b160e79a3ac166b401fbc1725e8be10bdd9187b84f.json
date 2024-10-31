@@ -1,0 +1,70 @@
+{
+    "id": "7b1aec6e83a858e73f6346b160e79a3ac166b401fbc1725e8be10bdd9187b84f",
+    "metadata": "1965 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Fitzroy",
+            "8.16 (64)",
+            "Essendon",
+            "11.18 (84)",
+            "Brunswick Street Oval",
+            "17500",
+            "17 April 1965"
+        ],
+        [
+            "St Kilda",
+            "8.12 (60)",
+            "Collingwood",
+            "8.6 (54)",
+            "Moorabbin Oval",
+            "51370",
+            "17 April 1965"
+        ],
+        [
+            "Hawthorn",
+            "8.6 (54)",
+            "Carlton",
+            "12.19 (91)",
+            "Glenferrie Oval",
+            "36000",
+            "17 April 1965"
+        ],
+        [
+            "North Melbourne",
+            "4.12 (36)",
+            "South Melbourne",
+            "6.10 (46)",
+            "City of Coburg Oval",
+            "13774",
+            "19 April 1965"
+        ],
+        [
+            "Richmond",
+            "6.5 (41)",
+            "Melbourne",
+            "7.5 (47)",
+            "MCG",
+            "36283",
+            "19 April 1965"
+        ],
+        [
+            "Geelong",
+            "5.5 (35)",
+            "Footscray",
+            "5.3 (33)",
+            "Kardinia Park",
+            "23233",
+            "19 April 1965"
+        ]
+    ]
+}

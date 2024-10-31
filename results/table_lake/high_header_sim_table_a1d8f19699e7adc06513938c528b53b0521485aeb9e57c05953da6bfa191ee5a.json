@@ -1,0 +1,84 @@
+{
+    "id": "a1d8f19699e7adc06513938c528b53b0521485aeb9e57c05953da6bfa191ee5a",
+    "metadata": "List of corporations by market capitalization | 1998 | 1998",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Headquarters",
+        "Primary_industry",
+        "Market_value_USD_million"
+    ],
+    "cell": [
+        [
+            "1",
+            "General Electric",
+            "United States",
+            "Conglomerate",
+            "222748"
+        ],
+        [
+            "2",
+            "Royal Dutch Shell",
+            "The Netherlands",
+            "Oil and gas",
+            "191002"
+        ],
+        [
+            "3",
+            "Microsoft",
+            "United States",
+            "Software industry",
+            "159660"
+        ],
+        [
+            "4",
+            "Exxon Mobil",
+            "United States",
+            "Oil and gas",
+            "157970"
+        ],
+        [
+            "5",
+            "The Coca-Cola Company",
+            "United States",
+            "Beverage",
+            "151288"
+        ],
+        [
+            "6",
+            "Intel Corporation",
+            "United States",
+            "Computer hardware",
+            "150838"
+        ],
+        [
+            "7",
+            "Nippon Telegraph and Telephone",
+            "Japan",
+            "Telecommunications",
+            "146139"
+        ],
+        [
+            "8",
+            "Merck",
+            "United States",
+            "Health care",
+            "120757"
+        ],
+        [
+            "9",
+            "Toyota Motor Corporation",
+            "Japan",
+            "Automotive",
+            "116585"
+        ],
+        [
+            "10",
+            "Novartis",
+            "Switzerland",
+            "Health care",
+            "104468"
+        ]
+    ]
+}

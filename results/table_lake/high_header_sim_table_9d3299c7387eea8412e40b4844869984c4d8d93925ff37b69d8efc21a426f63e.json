@@ -1,0 +1,77 @@
+{
+    "id": "9d3299c7387eea8412e40b4844869984c4d8d93925ff37b69d8efc21a426f63e",
+    "metadata": "Andrey Krivov | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Venue",
+        "Position_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "2008",
+            "World Race Walking Cup",
+            "Cheboksary , Russia",
+            "5th",
+            "20 km"
+        ],
+        [
+            "2009",
+            "European Race Walking Cup",
+            "Metz, France",
+            "27th",
+            "20 km"
+        ],
+        [
+            "2009",
+            "World Championships",
+            "Berlin, Germany",
+            "17th",
+            "20 km"
+        ],
+        [
+            "2010",
+            "World Race Walking Cup",
+            "Chihuahua , Mexico",
+            "3rd",
+            "20 km"
+        ],
+        [
+            "2010",
+            "European Championships",
+            "Barcelona , Spain",
+            "6th",
+            "20 km"
+        ],
+        [
+            "2011",
+            "Universiade",
+            "Shenzhen , China",
+            "1st",
+            "20 km"
+        ],
+        [
+            "2011",
+            "Universiade",
+            "Shenzhen, China",
+            "1st",
+            "Team 20 km"
+        ],
+        [
+            "2013",
+            "Universiade",
+            "Kazan , Russia",
+            "1st",
+            "20 km"
+        ],
+        [
+            "2013",
+            "Universiade",
+            "Kazan, Russia",
+            "1st",
+            "Team 20 km"
+        ]
+    ]
+}

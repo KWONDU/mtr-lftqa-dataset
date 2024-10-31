@@ -1,0 +1,133 @@
+{
+    "id": "ca7463620563d336cd83e9298718dbe05ac29b3847b96531f53546787fc5e3c6",
+    "metadata": "1995 Atlanta Falcons season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 3, 1995",
+            "Carolina Panthers",
+            "W 23-20",
+            "58808"
+        ],
+        [
+            "2",
+            "September 10, 1995",
+            "at San Francisco 49ers",
+            "L 41-10",
+            "63627"
+        ],
+        [
+            "3",
+            "September 17, 1995",
+            "at New Orleans Saints",
+            "W 27-24",
+            "57442"
+        ],
+        [
+            "4",
+            "September 24, 1995",
+            "New York Jets",
+            "W 13-3",
+            "40778"
+        ],
+        [
+            "5",
+            "October 1, 1995",
+            "New England Patriots",
+            "W 30-17",
+            "47114"
+        ],
+        [
+            "6",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "7",
+            "October 12, 1995",
+            "at St. Louis Rams",
+            "L 21-19",
+            "59700"
+        ],
+        [
+            "8",
+            "October 22, 1995",
+            "at Tampa Bay Buccaneers",
+            "W 24-21",
+            "66135"
+        ],
+        [
+            "9",
+            "October 29, 1995",
+            "Dallas Cowboys",
+            "L 28-13",
+            "70089"
+        ],
+        [
+            "10",
+            "November 5, 1995",
+            "Detroit Lions",
+            "W 34-22",
+            "49619"
+        ],
+        [
+            "11",
+            "November 12, 1995",
+            "at Buffalo Bills",
+            "L 23-17",
+            "62690"
+        ],
+        [
+            "12",
+            "November 19, 1995",
+            "St. Louis Rams",
+            "W 31-6",
+            "46309"
+        ],
+        [
+            "13",
+            "November 26, 1995",
+            "at Arizona Cardinals",
+            "L 40-37",
+            "35147"
+        ],
+        [
+            "14",
+            "December 3, 1995",
+            "at Miami Dolphins",
+            "L 21-20",
+            "63395"
+        ],
+        [
+            "15",
+            "December 10, 1995",
+            "New Orleans Saints",
+            "W 19-14",
+            "54603"
+        ],
+        [
+            "16",
+            "December 17, 1995",
+            "at Carolina Panthers",
+            "L 21-17",
+            "53833"
+        ],
+        [
+            "17",
+            "December 24, 1995",
+            "San Francisco 49ers",
+            "W 28-27",
+            "51785"
+        ]
+    ]
+}

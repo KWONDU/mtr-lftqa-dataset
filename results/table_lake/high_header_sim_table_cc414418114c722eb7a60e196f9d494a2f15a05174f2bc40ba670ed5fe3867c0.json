@@ -1,0 +1,63 @@
+{
+    "id": "cc414418114c722eb7a60e196f9d494a2f15a05174f2bc40ba670ed5fe3867c0",
+    "metadata": "Aquatics at the 1982 Commonwealth Games | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Australia",
+            "13",
+            "13",
+            "8",
+            "34"
+        ],
+        [
+            "2",
+            "Canada",
+            "9",
+            "6",
+            "9",
+            "24"
+        ],
+        [
+            "3",
+            "England",
+            "7",
+            "7",
+            "8",
+            "22"
+        ],
+        [
+            "4",
+            "Scotland",
+            "-",
+            "3",
+            "3",
+            "6"
+        ],
+        [
+            "5",
+            "New Zealand",
+            "-",
+            "-",
+            "1",
+            "1"
+        ],
+        [
+            "Total",
+            "Total",
+            "29",
+            "29",
+            "29",
+            "87"
+        ]
+    ]
+}

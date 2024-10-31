@@ -1,0 +1,63 @@
+{
+    "id": "a9ce43660089d3253f3c04fd487f2cb5ba74291bd25b3254c719e1f56c13cc95",
+    "metadata": "United States House of Representatives elections, 1946 | Mississippi | Mississippi",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Mississippi 1",
+            "John E. Rankin",
+            "Democratic",
+            "1920",
+            "Re-elected",
+            "John E. Rankin (D) Unopposed"
+        ],
+        [
+            "Mississippi 2",
+            "Jamie L. Whitten",
+            "Democratic",
+            "1941",
+            "Re-elected",
+            "Jamie L. Whitten (D) Unopposed"
+        ],
+        [
+            "Mississippi 3",
+            "William Madison Whittington",
+            "Democratic",
+            "1924",
+            "Re-elected",
+            "William Madison Whittington (D) Unopposed"
+        ],
+        [
+            "Mississippi 4",
+            "Thomas Abernethy",
+            "Democratic",
+            "1942",
+            "Re-elected",
+            "Thomas Abernethy (D) Unopposed"
+        ],
+        [
+            "Mississippi 5",
+            "W. Arthur Winstead",
+            "Democratic",
+            "1942",
+            "Re-elected",
+            "W. Arthur Winstead (D) Unopposed"
+        ],
+        [
+            "Mississippi 6",
+            "William M. Colmer",
+            "Democratic",
+            "1932",
+            "Re-elected",
+            "William M. Colmer (D) Unopposed"
+        ]
+    ]
+}

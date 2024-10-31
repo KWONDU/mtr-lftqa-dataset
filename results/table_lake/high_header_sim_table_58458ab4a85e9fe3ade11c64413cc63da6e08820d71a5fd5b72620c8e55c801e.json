@@ -1,0 +1,111 @@
+{
+    "id": "58458ab4a85e9fe3ade11c64413cc63da6e08820d71a5fd5b72620c8e55c801e",
+    "metadata": "1957 Green Bay Packers season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Venue",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 29, 1957",
+            "Chicago Bears",
+            "W 21-17",
+            "City Stadium",
+            "32132"
+        ],
+        [
+            "2",
+            "October 6, 1957",
+            "Detroit Lions",
+            "L 24-14",
+            "City Stadium",
+            "32120"
+        ],
+        [
+            "3",
+            "October 13, 1957",
+            "Baltimore Colts",
+            "L 45-17",
+            "Milwaukee County Stadium",
+            "26322"
+        ],
+        [
+            "4",
+            "October 20, 1957",
+            "San Francisco 49ers",
+            "L 24-14",
+            "Milwaukee County Stadium",
+            "18919"
+        ],
+        [
+            "5",
+            "October 27, 1957",
+            "at Baltimore Colts",
+            "W 24-21",
+            "Memorial Stadium",
+            "48510"
+        ],
+        [
+            "6",
+            "November 3, 1957",
+            "New York Giants",
+            "L 31-17",
+            "City Stadium",
+            "32070"
+        ],
+        [
+            "7",
+            "November 10, 1957",
+            "at Chicago Bears",
+            "L 21-14",
+            "Wrigley Field",
+            "47153"
+        ],
+        [
+            "8",
+            "November 17, 1957",
+            "Los Angeles Rams",
+            "L 31-27",
+            "Milwaukee County Stadium",
+            "19540"
+        ],
+        [
+            "9",
+            "November 24, 1957",
+            "at Pittsburgh Steelers",
+            "W 27-10",
+            "Forbes Field",
+            "29701"
+        ],
+        [
+            "10",
+            "November 28, 1957",
+            "at Detroit Lions",
+            "L 18-6",
+            "Briggs Stadium",
+            "54301"
+        ],
+        [
+            "11",
+            "December 8, 1957",
+            "at Los Angeles Rams",
+            "L 42-17",
+            "Los Angeles Memorial Coliseum",
+            "70572"
+        ],
+        [
+            "12",
+            "December 15, 1957",
+            "at San Francisco 49ers",
+            "L 27-20",
+            "Kezar Stadium",
+            "59100"
+        ]
+    ]
+}

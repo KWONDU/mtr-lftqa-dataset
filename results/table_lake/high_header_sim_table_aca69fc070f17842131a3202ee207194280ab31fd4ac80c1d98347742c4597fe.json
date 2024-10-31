@@ -1,0 +1,189 @@
+{
+    "id": "aca69fc070f17842131a3202ee207194280ab31fd4ac80c1d98347742c4597fe",
+    "metadata": "List of busiest Amtrak stations | List | List",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Station",
+        "City",
+        "State_",
+        "Boardings_and_deboardings"
+    ],
+    "cell": [
+        [
+            "1",
+            "Penn Station",
+            "New York City",
+            "New York",
+            "8995551"
+        ],
+        [
+            "2",
+            "Union Station",
+            "Washington",
+            "District of Columbia",
+            "4850685"
+        ],
+        [
+            "3",
+            "30th Street Station",
+            "Philadelphia",
+            "Pennsylvania",
+            "3872392"
+        ],
+        [
+            "4",
+            "Union Station",
+            "Chicago",
+            "Illinois",
+            "3393695"
+        ],
+        [
+            "5",
+            "Union Station",
+            "Los Angeles",
+            "California",
+            "1606121"
+        ],
+        [
+            "6",
+            "South Station",
+            "Boston",
+            "Massachusetts",
+            "1360162"
+        ],
+        [
+            "7",
+            "Sacramento Valley Station",
+            "Sacramento",
+            "California",
+            "1175046"
+        ],
+        [
+            "8",
+            "Penn Station",
+            "Baltimore",
+            "Maryland",
+            "953170"
+        ],
+        [
+            "9",
+            "Albany-Rensselaer Station",
+            "Rensselaer",
+            "New York",
+            "769626"
+        ],
+        [
+            "10",
+            "Union Station",
+            "San Diego",
+            "California",
+            "753739"
+        ],
+        [
+            "11",
+            "Union Station",
+            "New Haven",
+            "Connecticut",
+            "740902"
+        ],
+        [
+            "12",
+            "Wilmington Station",
+            "Wilmington",
+            "Delaware",
+            "717772"
+        ],
+        [
+            "14",
+            "King Street Station",
+            "Seattle",
+            "Washington",
+            "672485"
+        ],
+        [
+            "15",
+            "Union Station",
+            "Portland",
+            "Oregon",
+            "665677"
+        ],
+        [
+            "13",
+            "Penn Station",
+            "Newark",
+            "New Jersey",
+            "683626"
+        ],
+        [
+            "17",
+            "BWI Airport Station",
+            "Linthicum",
+            "Maryland",
+            "662453"
+        ],
+        [
+            "16",
+            "Irvine Station",
+            "Irvine",
+            "California",
+            "664263"
+        ],
+        [
+            "18",
+            "Providence Station",
+            "Providence",
+            "Rhode Island",
+            "625995"
+        ],
+        [
+            "19",
+            "Milwaukee Intermodal Station",
+            "Milwaukee",
+            "Wisconsin",
+            "617800"
+        ],
+        [
+            "21",
+            "Harrisburg Transportation Center",
+            "Harrisburg",
+            "Pennsylvania",
+            "543423"
+        ],
+        [
+            "20",
+            "Emeryville Station",
+            "Emeryville",
+            "California",
+            "583865"
+        ],
+        [
+            "22",
+            "Lancaster Station",
+            "Lancaster",
+            "Pennsylvania",
+            "539338"
+        ],
+        [
+            "23",
+            "Back Bay",
+            "Boston",
+            "Massachusetts",
+            "479951"
+        ],
+        [
+            "24",
+            "Bakersfield",
+            "Bakersfield",
+            "California",
+            "476767"
+        ],
+        [
+            "25",
+            "North Station",
+            "Boston",
+            "Massachusetts",
+            "456198"
+        ]
+    ]
+}

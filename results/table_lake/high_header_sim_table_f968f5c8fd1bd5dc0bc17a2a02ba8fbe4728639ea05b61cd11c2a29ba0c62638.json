@@ -1,0 +1,56 @@
+{
+    "id": "f968f5c8fd1bd5dc0bc17a2a02ba8fbe4728639ea05b61cd11c2a29ba0c62638",
+    "metadata": "Poland Fed Cup team | 1960-1969 | 1960-1969",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Competition",
+        "Date_",
+        "Location_",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "1969",
+            "World Group, 2nd Round",
+            "22 May",
+            "Athens",
+            "W/O"
+        ],
+        [
+            "1968",
+            "World Group, 2nd Round",
+            "23 May",
+            "Paris",
+            "Loss"
+        ],
+        [
+            "1968",
+            "World Group, 1st Round",
+            "21 May",
+            "Paris",
+            "Win"
+        ],
+        [
+            "1967",
+            "World Group, 1st Round",
+            "07 Jun",
+            "Berlin",
+            "W/O"
+        ],
+        [
+            "1966",
+            "World Group, 2nd Round",
+            "12 May",
+            "Turin",
+            "Loss"
+        ],
+        [
+            "1966",
+            "World Group, 1st Round",
+            "10 May",
+            "Turin",
+            "W/O"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "8132f57cfd311a5700216a8c8b7601b1cc531a0050e505158ab8e1fcefda8fba",
+    "metadata": "1942 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "18.20 (128)",
+            "St Kilda",
+            "8.8 (56)",
+            "Punt Road Oval",
+            "7000",
+            "15 August 1942"
+        ],
+        [
+            "Hawthorn",
+            "7.15 (57)",
+            "Melbourne",
+            "16.22 (118)",
+            "Glenferrie Oval",
+            "2500",
+            "15 August 1942"
+        ],
+        [
+            "South Melbourne",
+            "22.13 (145)",
+            "North Melbourne",
+            "12.15 (87)",
+            "Princes Park",
+            "5000",
+            "15 August 1942"
+        ],
+        [
+            "Essendon",
+            "11.17 (83)",
+            "Collingwood",
+            "9.10 (64)",
+            "Windy Hill",
+            "8000",
+            "15 August 1942"
+        ],
+        [
+            "Fitzroy",
+            "13.20 (98)",
+            "Carlton",
+            "17.13 (115)",
+            "Brunswick Street Oval",
+            "13000",
+            "15 August 1942"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "cf2b435795a82703d474f1186ba1a433d7c00af60b1cace0940d5f4aee04de7d",
+    "metadata": "Television in China | Animation Channels | Animation Channels",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Hanzi",
+        "Origin",
+        "Launch",
+        "Owner_"
+    ],
+    "cell": [
+        [
+            "Aniworld",
+            "\u91d1\u9e70\u5361\u901a\u536b\u89c6",
+            "Hunan",
+            "2005",
+            "Hunan Broadcasting System (HBS)"
+        ],
+        [
+            "Kaku",
+            "\u5361\u9177\u52a8\u753b\u536b\u89c6",
+            "Beijing",
+            "2004",
+            "Beijing Television (BTV)"
+        ],
+        [
+            "Toonmax",
+            "\u70ab\u52a8\u5361\u901a\u536b\u89c6",
+            "Shanghai",
+            "2005",
+            "Shanghai Media Group (SMG)"
+        ],
+        [
+            "Jiajia",
+            "\u5609\u4f73\u5361\u901a\u536b\u89c6",
+            "Guangdong",
+            "2007",
+            "Southern Media Corporation (SMC)"
+        ],
+        [
+            "Youman",
+            "\u4f18\u6f2b\u5361\u901a\u536b\u89c6",
+            "Jiangsu",
+            "2010",
+            "Jiangsu Broadcasting Corporation (JSBC)"
+        ]
+    ]
+}

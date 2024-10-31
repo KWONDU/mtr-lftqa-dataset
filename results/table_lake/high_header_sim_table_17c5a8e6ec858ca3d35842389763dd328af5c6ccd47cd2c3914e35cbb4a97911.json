@@ -1,0 +1,63 @@
+{
+    "id": "17c5a8e6ec858ca3d35842389763dd328af5c6ccd47cd2c3914e35cbb4a97911",
+    "metadata": "1981 England rugby union tour of Argentina | Matches | Matches",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Team",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "San Isidro Club",
+            "14",
+            "16/05/1981",
+            "Buenos Aires",
+            "Tour Match"
+        ],
+        [
+            "Northern Region XV",
+            "12",
+            "19/05/1981",
+            "C\u00f3rdoba",
+            "Tour Match"
+        ],
+        [
+            "Buenos Aires Selection",
+            "25",
+            "23/05/1981",
+            "Buenos Aires",
+            "Tour Match"
+        ],
+        [
+            "Southern Region XV",
+            "3",
+            "25/05/1981",
+            "Mar del Plata",
+            "Tour Match"
+        ],
+        [
+            "Argentina",
+            "19",
+            "30/05/1981",
+            "Ferrocarril Stadium , Buenos Aires",
+            "First Test"
+        ],
+        [
+            "Litoral Region XV",
+            "21",
+            "02/06/1981",
+            "Rosario",
+            "Tour Match"
+        ],
+        [
+            "Argentina",
+            "6",
+            "06/06/1981",
+            "Ferrocarril Stadium , Buenos Aires",
+            "Second Test"
+        ]
+    ]
+}

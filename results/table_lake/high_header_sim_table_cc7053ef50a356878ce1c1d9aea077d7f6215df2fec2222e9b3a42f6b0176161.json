@@ -1,0 +1,63 @@
+{
+    "id": "cc7053ef50a356878ce1c1d9aea077d7f6215df2fec2222e9b3a42f6b0176161",
+    "metadata": "EliteXC: Street Certified | Preliminary card | Preliminary card",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Weight_Division",
+        "Winner",
+        "Loser",
+        "Method_",
+        "Round",
+        "Time_"
+    ],
+    "cell": [
+        [
+            "Light Heavyweight",
+            "Rafael Cavalcante",
+            "John Doyle",
+            "TKO (Knee)",
+            "1",
+            "2:17"
+        ],
+        [
+            "Middleweight",
+            "Yosmany Cabezas",
+            "Jon Kirk",
+            "Submission (Rear Naked Choke)",
+            "2",
+            "0:58"
+        ],
+        [
+            "Heavyweight",
+            "Dave Herman",
+            "Mario Rinaldi",
+            "TKO (knees and punches)",
+            "3",
+            "0:33"
+        ],
+        [
+            "Welterweight",
+            "Eric Bradley",
+            "Mikey Gomez",
+            "Decision (Unanimous)",
+            "3",
+            "5:00"
+        ],
+        [
+            "Welterweight",
+            "Lorenzo Borgomeo",
+            "Mike Bernhard",
+            "Submission (Triangle Choke)",
+            "2",
+            "4:11"
+        ],
+        [
+            "Catchweight (210 lb.)",
+            "Moyses Gabin",
+            "Jirka Hlavati",
+            "TKO (punches)",
+            "1",
+            "2:32"
+        ]
+    ]
+}

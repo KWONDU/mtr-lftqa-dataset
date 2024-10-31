@@ -1,0 +1,95 @@
+{
+    "id": "c48bcab8b04e07c7d346db81732d6a3073370cdbe335303efccc900b14ca5f37",
+    "metadata": "1999 Masters Tournament | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jos\u00e9 Mar\u00eda Olaz\u00e1bal",
+            "Spain",
+            "70-66-73-71=280",
+            "-8",
+            "720000"
+        ],
+        [
+            "2",
+            "Davis Love III",
+            "United States",
+            "69-72-70-71=282",
+            "-6",
+            "432000"
+        ],
+        [
+            "3",
+            "Greg Norman",
+            "Australia",
+            "71-68-71-73=283",
+            "-5",
+            "272000"
+        ],
+        [
+            "T4",
+            "Bob Estes",
+            "United States",
+            "71-72-69-72=284",
+            "-4",
+            "176000"
+        ],
+        [
+            "T4",
+            "Steve Pate",
+            "United States",
+            "71-75-65-73=284",
+            "-4",
+            "176000"
+        ],
+        [
+            "T6",
+            "David Duval",
+            "United States",
+            "71-74-70-70=285",
+            "-3",
+            "125200"
+        ],
+        [
+            "T6",
+            "Carlos Franco",
+            "Paraguay",
+            "72-72-68-73=285",
+            "-3",
+            "125200"
+        ],
+        [
+            "T6",
+            "Phil Mickelson",
+            "United States",
+            "74-69-71-71=285",
+            "-3",
+            "125200"
+        ],
+        [
+            "T6",
+            "Nick Price",
+            "Zimbabwe",
+            "69-72-72-72=285",
+            "-3",
+            "125200"
+        ],
+        [
+            "T6",
+            "Lee Westwood",
+            "England",
+            "75-71-68-71=285",
+            "-3",
+            "125200"
+        ]
+    ]
+}

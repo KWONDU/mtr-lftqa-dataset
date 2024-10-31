@@ -1,0 +1,49 @@
+{
+    "id": "a3a9e426c09bee646ca4baa8d7fb9220aded537faeafbe053a203b3935ded5fe",
+    "metadata": "2004 Champions Tour | Leaders | Career Money List leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "Hale Irwin",
+            "United States",
+            "20592965",
+            "40"
+        ],
+        [
+            "2",
+            "Gil Morgan",
+            "United States",
+            "14319252",
+            "23"
+        ],
+        [
+            "3",
+            "Larry Nelson",
+            "United States",
+            "12023819",
+            "19"
+        ],
+        [
+            "4",
+            "Bruce Fleisher",
+            "United States",
+            "12005344",
+            "18"
+        ],
+        [
+            "5",
+            "Jim Colbert",
+            "United States",
+            "11310740",
+            "20"
+        ]
+    ]
+}

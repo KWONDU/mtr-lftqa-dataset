@@ -1,0 +1,49 @@
+{
+    "id": "c2de4df3b278861442bb554e99f9fadea68a3625cdae378845f784723fdc927e",
+    "metadata": "Dragons' Den | Czech Republic | Czech Republic",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Seat",
+        "Series_1",
+        "Series_2",
+        "Series_3",
+        "Series_4"
+    ],
+    "cell": [
+        [
+            "1",
+            "Ivan Piln\u00fd",
+            "Michael Rostock",
+            "Michael Rostock",
+            "Michael Rostock"
+        ],
+        [
+            "2",
+            "Ond\u0159ej Barto\u0161",
+            "Ond\u0159ej Barto\u0161",
+            "Ivan Piln\u00fd",
+            "Margareta K\u0159\u00ed\u017eov\u00e1"
+        ],
+        [
+            "3",
+            "Dana B\u00e9rov\u00e1",
+            "Dana B\u00e9rov\u00e1",
+            "Dana B\u00e9rov\u00e1",
+            "Petra Rychnovsk\u00e1"
+        ],
+        [
+            "4",
+            "Marta Nov\u00e1kov\u00e1",
+            "Marta Nov\u00e1kov\u00e1",
+            "Marta Nov\u00e1kov\u00e1",
+            "John Vanhara"
+        ],
+        [
+            "5",
+            "Tomio Okamura",
+            "Tomio Okamura",
+            "Tomio Okamura",
+            "Michal Hanus"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "40879da9c5de063549cc7a1a97ac9994c7c62be75eed5a545c79e6489d215660",
+    "metadata": "Anqing | Administration | Administration",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "English_Name",
+        "Chinese_Name_Simplified_Traditional",
+        "Pinyin",
+        "Population",
+        "Post_Code"
+    ],
+    "cell": [
+        [
+            "Yingjiang District",
+            "\u8fce\u6c5f\u533a / \u8fce\u6c5f\u5340",
+            "Y\u00edngji\u0101ng Q\u016b",
+            "251000",
+            "246000"
+        ],
+        [
+            "Daguan District",
+            "\u5927\u89c2\u533a / \u5927\u89c0\u5340",
+            "D\u00e0gu\u0101n Q\u016b",
+            "275000",
+            "246000"
+        ],
+        [
+            "Yixiu District",
+            "\u5b9c\u79c0\u533a / \u5b9c\u79c0\u5340",
+            "Y\u00edxi\u00f9 Q\u016b",
+            "254000",
+            "246000"
+        ],
+        [
+            "Tongcheng City",
+            "\u6850\u57ce\u5e02",
+            "T\u00f3ngch\u00e9ng Sh\u00ec",
+            "664000",
+            "231400"
+        ],
+        [
+            "Huaining County",
+            "\u6000\u5b81\u53bf / \u61f7\u5be7\u7e23",
+            "Hu\u00e1in\u00edng Xi\u00e0n",
+            "593000",
+            "246100"
+        ],
+        [
+            "Zongyang County",
+            "\u679e\u9633\u53bf / \u6a05\u967d\u7e23",
+            "Z\u014dngy\u00e1ng Xi\u00e0n",
+            "839000",
+            "246700"
+        ],
+        [
+            "Taihu County",
+            "\u592a\u6e56\u53bf / \u592a\u6e56\u7e23",
+            "T\u00e0ih\u00fa Xi\u00e0n",
+            "515000",
+            "246400"
+        ],
+        [
+            "Qianshan County",
+            "\u6f5c\u5c71\u53bf / \u6f5b\u5c71\u7e23",
+            "Qi\u00e1nsh\u0101n Xi\u00e0n",
+            "500000",
+            "246300"
+        ],
+        [
+            "Susong County",
+            "\u5bbf\u677e\u53bf / \u5bbf\u677e\u7e23",
+            "S\u00f9s\u014dng Xi\u00e0n",
+            "571000",
+            "246500"
+        ],
+        [
+            "Wangjiang County",
+            "\u671b\u6c5f\u53bf / \u671b\u6c5f\u7e23",
+            "W\u00e0ngji\u0101ng Xi\u00e0n",
+            "527000",
+            "246200"
+        ]
+    ]
+}

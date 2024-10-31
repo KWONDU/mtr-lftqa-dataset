@@ -1,0 +1,63 @@
+{
+    "id": "d79e1177a3e09a63c81c5f1e24f334053f5ba9c84f38bbdd44332b022c2c2f15",
+    "metadata": "Alessandro Nannini | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1986",
+            "Minardi Team",
+            "Minardi M185B",
+            "MM V6",
+            "0"
+        ],
+        [
+            "1987",
+            "Minardi Team",
+            "Minardi M187",
+            "MM V6",
+            "0"
+        ],
+        [
+            "1988",
+            "Benetton Formula Ltd.",
+            "Benetton B188",
+            "Cosworth V8",
+            "12"
+        ],
+        [
+            "1989",
+            "Benetton Formula Ltd.",
+            "Benetton B188",
+            "Cosworth V8",
+            "32"
+        ],
+        [
+            "1989",
+            "Benetton Formula Ltd.",
+            "Benetton B189",
+            "Ford V8",
+            "32"
+        ],
+        [
+            "1990",
+            "Benetton Formula Ltd.",
+            "Benetton B189B",
+            "Ford V8",
+            "21"
+        ],
+        [
+            "1990",
+            "Benetton Formula Ltd.",
+            "Benetton B190",
+            "Ford V8",
+            "21"
+        ]
+    ]
+}

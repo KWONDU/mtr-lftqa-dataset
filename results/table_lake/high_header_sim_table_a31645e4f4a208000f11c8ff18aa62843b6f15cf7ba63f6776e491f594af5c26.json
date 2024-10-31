@@ -1,0 +1,70 @@
+{
+    "id": "a31645e4f4a208000f11c8ff18aa62843b6f15cf7ba63f6776e491f594af5c26",
+    "metadata": "1950 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "14.13 (97)",
+            "St Kilda",
+            "10.11 (71)",
+            "Punt Road Oval",
+            "28000",
+            "17 June 1950"
+        ],
+        [
+            "Fitzroy",
+            "11.18 (84)",
+            "Footscray",
+            "6.15 (51)",
+            "Brunswick Street Oval",
+            "13000",
+            "17 June 1950"
+        ],
+        [
+            "Essendon",
+            "22.15 (147)",
+            "Hawthorn",
+            "9.7 (61)",
+            "Windy Hill",
+            "14000",
+            "17 June 1950"
+        ],
+        [
+            "Collingwood",
+            "9.12 (66)",
+            "North Melbourne",
+            "14.14 (98)",
+            "Victoria Park",
+            "24500",
+            "17 June 1950"
+        ],
+        [
+            "South Melbourne",
+            "8.12 (60)",
+            "Melbourne",
+            "13.16 (94)",
+            "Lake Oval",
+            "16000",
+            "17 June 1950"
+        ],
+        [
+            "Geelong",
+            "13.20 (98)",
+            "Carlton",
+            "15.9 (99)",
+            "Kardinia Park",
+            "23500",
+            "17 June 1950"
+        ]
+    ]
+}

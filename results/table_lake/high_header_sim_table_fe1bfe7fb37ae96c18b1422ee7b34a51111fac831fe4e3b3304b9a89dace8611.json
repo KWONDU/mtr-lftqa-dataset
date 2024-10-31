@@ -1,0 +1,70 @@
+{
+    "id": "fe1bfe7fb37ae96c18b1422ee7b34a51111fac831fe4e3b3304b9a89dace8611",
+    "metadata": "Nicolas Lapierre | 24 Hours of Le Mans results | 24 Hours of Le Mans results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "Co_Drivers",
+        "Class_",
+        "Laps",
+        "Pos_",
+        "Class_Pos_"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Team Oreca",
+            "St\u00e9phane Ortelli Soheil Ayari",
+            "GT1",
+            "318",
+            "16th",
+            "9th"
+        ],
+        [
+            "2009",
+            "Team Oreca -Matmut AIM",
+            "Olivier Panis Soheil Ayari",
+            "LMP1",
+            "370",
+            "5th",
+            "5th"
+        ],
+        [
+            "2010",
+            "Team Oreca -Matmut",
+            "Olivier Panis Lo\u00efc Duval",
+            "LMP1",
+            "373",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2011",
+            "Team Oreca -Matmut",
+            "Olivier Panis Lo\u00efc Duval",
+            "LMP1",
+            "339",
+            "5th",
+            "5th"
+        ],
+        [
+            "2012",
+            "Toyota Racing",
+            "Alexander Wurz Kazuki Nakajima",
+            "LMP1",
+            "134",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2013",
+            "Toyota Racing",
+            "Alexander Wurz Kazuki Nakajima",
+            "LMP1",
+            "341",
+            "4th",
+            "4th"
+        ]
+    ]
+}

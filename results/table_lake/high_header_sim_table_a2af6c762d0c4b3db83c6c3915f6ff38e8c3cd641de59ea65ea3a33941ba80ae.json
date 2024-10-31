@@ -1,0 +1,70 @@
+{
+    "id": "a2af6c762d0c4b3db83c6c3915f6ff38e8c3cd641de59ea65ea3a33941ba80ae",
+    "metadata": "1972 VFL season | Round 21 | Round 21",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "17.22 (124)",
+            "North Melbourne",
+            "14.7 (91)",
+            "MCG",
+            "11241",
+            "26 August 1972"
+        ],
+        [
+            "Footscray",
+            "17.21 (123)",
+            "Richmond",
+            "18.17 (125)",
+            "Western Oval",
+            "18117",
+            "26 August 1972"
+        ],
+        [
+            "Collingwood",
+            "22.17 (149)",
+            "South Melbourne",
+            "11.6 (72)",
+            "Victoria Park",
+            "19934",
+            "26 August 1972"
+        ],
+        [
+            "Carlton",
+            "24.12 (156)",
+            "Hawthorn",
+            "11.22 (88)",
+            "Princes Park",
+            "32048",
+            "26 August 1972"
+        ],
+        [
+            "Fitzroy",
+            "14.20 (104)",
+            "Essendon",
+            "18.11 (119)",
+            "Junction Oval",
+            "17252",
+            "26 August 1972"
+        ],
+        [
+            "St Kilda",
+            "11.10 (76)",
+            "Geelong",
+            "8.13 (61)",
+            "VFL Park",
+            "25663",
+            "26 August 1972"
+        ]
+    ]
+}

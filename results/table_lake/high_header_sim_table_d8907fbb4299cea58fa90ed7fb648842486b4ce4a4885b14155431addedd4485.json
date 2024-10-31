@@ -1,0 +1,63 @@
+{
+    "id": "d8907fbb4299cea58fa90ed7fb648842486b4ce4a4885b14155431addedd4485",
+    "metadata": "1982 U.S. Open (golf) | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1962 , 1967 , 1972 , 1980",
+            "284",
+            "-4",
+            "2"
+        ],
+        [
+            "David Graham",
+            "Australia",
+            "1981",
+            "287",
+            "-1",
+            "T6"
+        ],
+        [
+            "Andy North",
+            "United States",
+            "1978",
+            "292",
+            "+4",
+            "T22"
+        ],
+        [
+            "Lou Graham",
+            "United States",
+            "1975",
+            "296",
+            "+8",
+            "T39"
+        ],
+        [
+            "Hale Irwin",
+            "United States",
+            "1974 , 1979",
+            "296",
+            "+8",
+            "T39"
+        ],
+        [
+            "Johnny Miller",
+            "United States",
+            "1973",
+            "297",
+            "+9",
+            "T45"
+        ]
+    ]
+}

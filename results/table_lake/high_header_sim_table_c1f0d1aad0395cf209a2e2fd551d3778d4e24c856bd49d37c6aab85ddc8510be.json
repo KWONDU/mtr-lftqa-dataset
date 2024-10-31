@@ -1,0 +1,49 @@
+{
+    "id": "c1f0d1aad0395cf209a2e2fd551d3778d4e24c856bd49d37c6aab85ddc8510be",
+    "metadata": "Nyk\u00f6ping | Buses | Buses",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Number_",
+        "Origin",
+        "Final_destination",
+        "Frequency",
+        "Distance"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bryngelstorp",
+            "Harg",
+            "Every 15 minutes",
+            "km (mi)"
+        ],
+        [
+            "2",
+            "Arn\u00f6",
+            "Brandk\u00e4rr",
+            "Every 15 minutes",
+            "km (mi)"
+        ],
+        [
+            "3",
+            "Bus station",
+            "Brandholmen",
+            "Twice an hour",
+            "km (mi)"
+        ],
+        [
+            "161",
+            "Bus station",
+            "Bus station",
+            "10 times/day",
+            "NA"
+        ],
+        [
+            "162",
+            "Bus station",
+            "Bus station",
+            "10 times/day",
+            "NA"
+        ]
+    ]
+}

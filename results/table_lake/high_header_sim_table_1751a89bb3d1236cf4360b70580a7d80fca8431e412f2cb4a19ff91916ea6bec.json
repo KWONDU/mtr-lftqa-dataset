@@ -1,0 +1,87 @@
+{
+    "id": "1751a89bb3d1236cf4360b70580a7d80fca8431e412f2cb4a19ff91916ea6bec",
+    "metadata": "Atlantic hurricane season | 1860s | 1860s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Number_of_tropical_storms",
+        "Number_of_hurricanes",
+        "Number_of_major_hurricanes",
+        "Deaths",
+        "Strongest_storm"
+    ],
+    "cell": [
+        [
+            "1860",
+            "1",
+            "5",
+            "1",
+            "60+",
+            "One"
+        ],
+        [
+            "1861",
+            "2",
+            "6",
+            "0",
+            "22+",
+            "One and Three"
+        ],
+        [
+            "1862",
+            "3",
+            "3",
+            "0",
+            "3",
+            "Two and Three"
+        ],
+        [
+            "1863",
+            "4",
+            "5",
+            "0",
+            "90",
+            "One, Two, Three & Four"
+        ],
+        [
+            "1864",
+            "2",
+            "3",
+            "0",
+            "None",
+            "One, Three & Five"
+        ],
+        [
+            "1865",
+            "4",
+            "3",
+            "0",
+            "326",
+            "Four & Seven"
+        ],
+        [
+            "1866",
+            "1",
+            "5",
+            "1",
+            "383",
+            "Six"
+        ],
+        [
+            "1867",
+            "2",
+            "6",
+            "0",
+            "811",
+            "`San Narciso`"
+        ],
+        [
+            "1868",
+            "1",
+            "3",
+            "0",
+            "2",
+            "One, Two & Four"
+        ]
+    ]
+}

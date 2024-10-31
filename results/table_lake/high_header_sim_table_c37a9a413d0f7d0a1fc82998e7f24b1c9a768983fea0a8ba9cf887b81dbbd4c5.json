@@ -1,0 +1,49 @@
+{
+    "id": "c37a9a413d0f7d0a1fc82998e7f24b1c9a768983fea0a8ba9cf887b81dbbd4c5",
+    "metadata": "2008 BC Lions season | Rushing | Rushing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Att_",
+        "Yards",
+        "Avg_",
+        "Fumbles"
+    ],
+    "cell": [
+        [
+            "Stefan Logan",
+            "122",
+            "889",
+            "7.3",
+            "4"
+        ],
+        [
+            "Jarious Jackson",
+            "63",
+            "362",
+            "5.7",
+            "4"
+        ],
+        [
+            "Charles Roberts",
+            "65",
+            "298",
+            "4.6",
+            "1"
+        ],
+        [
+            "Joe Smith",
+            "55",
+            "236",
+            "4.3",
+            "0"
+        ],
+        [
+            "Buck Pierce",
+            "29",
+            "177",
+            "6.1",
+            "2"
+        ]
+    ]
+}

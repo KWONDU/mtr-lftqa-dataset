@@ -1,0 +1,70 @@
+{
+    "id": "f6d7bded5fb76b39941bd1ec87d55944c9f7709dc6c36aaa78dc100d938f1baf",
+    "metadata": "1977 VFL season | Round 20 | Round 20",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "27.13 (175)",
+            "St Kilda",
+            "15.14 (104)",
+            "MCG",
+            "12967",
+            "13 August 1977"
+        ],
+        [
+            "Geelong",
+            "5.16 (46)",
+            "Richmond",
+            "19.18 (132)",
+            "Kardinia Park",
+            "17081",
+            "13 August 1977"
+        ],
+        [
+            "Footscray",
+            "9.19 (73)",
+            "South Melbourne",
+            "14.12 (96)",
+            "Western Oval",
+            "18514",
+            "13 August 1977"
+        ],
+        [
+            "Collingwood",
+            "13.21 (99)",
+            "Hawthorn",
+            "15.15 (105)",
+            "Victoria Park",
+            "30184",
+            "13 August 1977"
+        ],
+        [
+            "Carlton",
+            "22.14 (146)",
+            "Essendon",
+            "16.15 (111)",
+            "Princes Park",
+            "20120",
+            "13 August 1977"
+        ],
+        [
+            "North Melbourne",
+            "10.19 (79)",
+            "Fitzroy",
+            "9.11 (65)",
+            "VFL Park",
+            "12350",
+            "13 August 1977"
+        ]
+    ]
+}

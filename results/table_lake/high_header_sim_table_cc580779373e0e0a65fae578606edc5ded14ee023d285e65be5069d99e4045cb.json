@@ -1,0 +1,91 @@
+{
+    "id": "cc580779373e0e0a65fae578606edc5ded14ee023d285e65be5069d99e4045cb",
+    "metadata": "Global Challenge | BT Global Challenge 2000/1 | BT Global Challenge 2000/1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Overall_place",
+        "Yacht_name",
+        "Skipper",
+        "Points",
+        "Combined_elapsed_time"
+    ],
+    "cell": [
+        [
+            "1",
+            "LG Flatron",
+            "Conrad Humphreys",
+            "95",
+            "171d 13h 33m 49s"
+        ],
+        [
+            "2",
+            "Compaq",
+            "Will Oxley",
+            "86",
+            "173d 14h 59m 43s"
+        ],
+        [
+            "3",
+            "BP",
+            "Mark Denton",
+            "78",
+            "175d 09h 54m 33s"
+        ],
+        [
+            "4",
+            "Logica",
+            "Jeremy Troughton",
+            "71",
+            "175d 20h 46m 04s"
+        ],
+        [
+            "5",
+            "TeamSpirit",
+            "Andy Dare, John Read",
+            "68",
+            "176d 22h 34m 43s"
+        ],
+        [
+            "6=",
+            "Spirit of Hong Kong",
+            "Stephen Wilkins",
+            "62",
+            "178d 21h 34m 43s"
+        ],
+        [
+            "6=",
+            "Quadstone",
+            "Alex Phillips, Richard Chenery",
+            "64*",
+            "179d 11h 58m 14s"
+        ],
+        [
+            "8",
+            "Norwich Union",
+            "Neil Murray",
+            "60",
+            "180d 07h 58m 14s"
+        ],
+        [
+            "9=",
+            "Isle of Man",
+            "Lin Parker",
+            "56",
+            "180d 21h 41m 18s"
+        ],
+        [
+            "9=",
+            "Save the Children",
+            "Nick Fenton",
+            "56*",
+            "176d"
+        ],
+        [
+            "10",
+            "Olympic",
+            "Manley Hopkinson",
+            "37*",
+            "183d"
+        ]
+    ]
+}

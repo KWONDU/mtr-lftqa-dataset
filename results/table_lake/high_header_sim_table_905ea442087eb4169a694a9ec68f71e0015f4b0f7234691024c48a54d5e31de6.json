@@ -1,0 +1,56 @@
+{
+    "id": "905ea442087eb4169a694a9ec68f71e0015f4b0f7234691024c48a54d5e31de6",
+    "metadata": "Viktor Leonenko | International goals | International goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Venue",
+        "Score",
+        "Result_",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "18 May 1993",
+            "Vilnius , Lithuania",
+            "1-1",
+            "1-2",
+            "Friendly"
+        ],
+        [
+            "16 October 1993",
+            "High Point , United States",
+            "1-1",
+            "1-2",
+            "Friendly"
+        ],
+        [
+            "16 October 1993",
+            "High Point , United States",
+            "1-2",
+            "1-2",
+            "Friendly"
+        ],
+        [
+            "25 May 1994",
+            "Kyiv , Ukraine",
+            "1-1",
+            "3-1",
+            "Friendly"
+        ],
+        [
+            "13 August 1996",
+            "Kyiv , Ukraine",
+            "1-1",
+            "5-2",
+            "Friendly"
+        ],
+        [
+            "13 August 1996",
+            "Kyiv , Ukraine",
+            "3-1",
+            "5-2",
+            "Friendly"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "c5c53542c12c90ab6a2704b693fc4921525cb07fa7b3b09572b536f3401c3353",
+    "metadata": "Test matches (1991-2000) | Results | 1990",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "23,24,25 November 1990",
+            "Allan Border",
+            "Allan Lamb",
+            "Brisbane Cricket Ground",
+            "AUS by 10 wkts"
+        ],
+        [
+            "26,27,28,29,30 December 1990",
+            "Allan Border",
+            "Graham Gooch",
+            "Melbourne Cricket Ground",
+            "AUS by 8 wkts"
+        ],
+        [
+            "4,5,6,7,8 January 1991",
+            "Allan Border",
+            "Graham Gooch",
+            "Sydney Cricket Ground",
+            "DRAW"
+        ],
+        [
+            "25,26,27,28,29 January 1991",
+            "Allan Border",
+            "Graham Gooch",
+            "Adelaide Oval",
+            "DRAW"
+        ],
+        [
+            "1,2,3,4,5 February 1991",
+            "Allan Border",
+            "Graham Gooch",
+            "WACA Ground",
+            "AUS by 9 wkts"
+        ]
+    ]
+}

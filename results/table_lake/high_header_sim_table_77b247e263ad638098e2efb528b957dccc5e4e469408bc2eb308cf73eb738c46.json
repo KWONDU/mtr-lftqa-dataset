@@ -1,0 +1,819 @@
+{
+    "id": "77b247e263ad638098e2efb528b957dccc5e4e469408bc2eb308cf73eb738c46",
+    "metadata": "Swiss International Air Lines destinations | Destinations | Destinations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "Country",
+        "IATA",
+        "ICAO",
+        "Airport"
+    ],
+    "cell": [
+        [
+            "Abu Dhabi",
+            "United Arab Emirates",
+            "AUH",
+            "OMAA",
+            "Abu Dhabi Airport"
+        ],
+        [
+            "Accra",
+            "Ghana",
+            "ACC",
+            "DGAA",
+            "Kotoka Airport"
+        ],
+        [
+            "Amsterdam",
+            "Netherlands",
+            "AMS",
+            "EHAM",
+            "Amsterdam Airport Schiphol"
+        ],
+        [
+            "Athens",
+            "Greece",
+            "ATH",
+            "LGAV",
+            "Eleftherios Venizelos Airport"
+        ],
+        [
+            "Atlanta",
+            "United States",
+            "ATL",
+            "KATL",
+            "Hartsfield-Jackson Airport"
+        ],
+        [
+            "Bangkok",
+            "Thailand",
+            "BKK",
+            "VTBS",
+            "Suvarnabhumi Airport"
+        ],
+        [
+            "Barcelona",
+            "Spain",
+            "BCN",
+            "LEBL",
+            "Barcelona-El Prat Airport"
+        ],
+        [
+            "Basel Mulhouse Freiburg",
+            "Switzerland France Germany",
+            "BSL MLH EAP",
+            "LFSB",
+            "Euro Airport"
+        ],
+        [
+            "Beijing",
+            "China",
+            "PEK",
+            "ZBAA",
+            "Capital Airport"
+        ],
+        [
+            "Beirut",
+            "Lebanon",
+            "BEY",
+            "OLBA",
+            "Rafic Hariri Airport"
+        ],
+        [
+            "Belgrade",
+            "Serbia",
+            "BEG",
+            "LYBE",
+            "Nikola Tesla Airport"
+        ],
+        [
+            "Benghazi",
+            "Libya",
+            "BEN",
+            "HLLB",
+            "Benina Airport"
+        ],
+        [
+            "Berlin",
+            "Germany",
+            "TXL",
+            "EDDT",
+            "Tegel Airport"
+        ],
+        [
+            "Bilbao",
+            "Spain",
+            "BIO",
+            "LEBB",
+            "Bilbao Airport"
+        ],
+        [
+            "Birmingham",
+            "United Kingdom",
+            "BHX",
+            "EGBB",
+            "Birmingham Airport"
+        ],
+        [
+            "Boston",
+            "United States",
+            "BOS",
+            "KBOS",
+            "Logan Airport"
+        ],
+        [
+            "Brussels",
+            "Belgium",
+            "BRU",
+            "EBBR",
+            "Brussels Airport"
+        ],
+        [
+            "Bucharest",
+            "Romania",
+            "OTP",
+            "LROP",
+            "Otopeni Airport"
+        ],
+        [
+            "Budapest",
+            "Hungary",
+            "BUD",
+            "LHBP",
+            "Ferihegy Airport"
+        ],
+        [
+            "Buenos Aires",
+            "Argentina",
+            "EZE",
+            "SAEZ",
+            "Ministro Pistarini Airport (Ezeiza)"
+        ],
+        [
+            "Cairo",
+            "Egypt",
+            "CAI",
+            "HECA",
+            "Cairo Airport"
+        ],
+        [
+            "Caracas",
+            "Venezuela",
+            "CCS",
+            "SVMI",
+            "Sim\u00f3n Bol\u00edvar Airport"
+        ],
+        [
+            "Casablanca",
+            "Morocco",
+            "CMN",
+            "GMMN",
+            "Mohammed V Airport"
+        ],
+        [
+            "Chicago",
+            "United States",
+            "ORD",
+            "KORD",
+            "O`Hare Airport"
+        ],
+        [
+            "Copenhagen",
+            "Denmark",
+            "CPH",
+            "EKCH",
+            "Kastrup Airport"
+        ],
+        [
+            "Dar es Salaam",
+            "Tanzania",
+            "DAR",
+            "HTDA",
+            "Julius Nyerere Airport"
+        ],
+        [
+            "Delhi",
+            "India",
+            "DEL",
+            "VIDP",
+            "Indira Gandhi Airport"
+        ],
+        [
+            "Douala",
+            "Cameroon",
+            "DLA",
+            "FKKD",
+            "Douala Airport"
+        ],
+        [
+            "Dubai",
+            "United Arab Emirates",
+            "DXB",
+            "OMDB",
+            "Dubai Airport"
+        ],
+        [
+            "Dublin",
+            "Ireland",
+            "DUB",
+            "EIDW",
+            "Dublin Airport"
+        ],
+        [
+            "D\u00fcsseldorf",
+            "Germany",
+            "DUS",
+            "EDDL",
+            "Lohausen Airport"
+        ],
+        [
+            "Florence",
+            "Italy",
+            "FLR",
+            "LIRQ",
+            "Peretola Airport"
+        ],
+        [
+            "Frankfurt",
+            "Germany",
+            "FRA",
+            "EDDF",
+            "Frankfurt am Main Airport"
+        ],
+        [
+            "Geneva",
+            "Switzerland",
+            "GVA",
+            "LSGG",
+            "Cointrin Airport"
+        ],
+        [
+            "Genoa",
+            "Italy",
+            "GOA",
+            "LIMJ",
+            "Cristoforo Colombo Airport"
+        ],
+        [
+            "Gothenburg [begins 2013-12-14]",
+            "Sweden",
+            "GOT",
+            "ESGG",
+            "Gothenburg-Landvetter Airport"
+        ],
+        [
+            "Hamburg",
+            "Germany",
+            "HAM",
+            "EDDH",
+            "Fuhlsb\u00fcttel Airport"
+        ],
+        [
+            "Hannover",
+            "Germany",
+            "HAJ",
+            "EDDV",
+            "Langenhagen Airport"
+        ],
+        [
+            "Helsinki",
+            "Finland",
+            "HEL",
+            "EFHK",
+            "Vantaa Airport"
+        ],
+        [
+            "Ho Chi Minh City",
+            "Vietnam",
+            "SGN",
+            "VVTS",
+            "Tan Son Nhat Airport"
+        ],
+        [
+            "Hong Kong",
+            "Hong Kong",
+            "HKG",
+            "VHHH",
+            "Chek Lap Kok Airport"
+        ],
+        [
+            "Istanbul",
+            "Turkey",
+            "IST",
+            "LTBA",
+            "Atat\u00fcrk Airport"
+        ],
+        [
+            "Jakarta",
+            "Indonesia",
+            "CGK",
+            "WIII",
+            "Soekarno-Hatta Airport"
+        ],
+        [
+            "Jeddah",
+            "Saudi Arabia",
+            "JED",
+            "OEJN",
+            "King Abdulaziz Airport"
+        ],
+        [
+            "Johannesburg",
+            "South Africa",
+            "JNB",
+            "FAJS",
+            "OR Tambo Airport"
+        ],
+        [
+            "Karachi",
+            "Pakistan",
+            "KHI",
+            "OPKC",
+            "Jinnah Airport"
+        ],
+        [
+            "Kiev",
+            "Ukraine",
+            "KBP",
+            "UKBB",
+            "Boryspil International Airport"
+        ],
+        [
+            "Lagos",
+            "Nigeria",
+            "LOS",
+            "DNMM",
+            "Murtala Muhammed Airport"
+        ],
+        [
+            "Libreville",
+            "Gabon",
+            "LBV",
+            "FOOL",
+            "Leon M`ba Airport"
+        ],
+        [
+            "Lisbon",
+            "Portugal",
+            "LIS",
+            "LPPT",
+            "Portela Airport"
+        ],
+        [
+            "London",
+            "United Kingdom",
+            "LCY",
+            "EGLC",
+            "City Airport"
+        ],
+        [
+            "London [begins 2013-12-14]",
+            "United Kingdom",
+            "LGW",
+            "EGKK",
+            "Gatwick Airport"
+        ],
+        [
+            "London",
+            "United Kingdom",
+            "LHR",
+            "EGLL",
+            "Heathrow Airport"
+        ],
+        [
+            "Los Angeles",
+            "United States",
+            "LAX",
+            "KLAX",
+            "Los Angeles International Airport"
+        ],
+        [
+            "Lugano",
+            "Switzerland",
+            "LUG",
+            "LSZA",
+            "Agno Airport"
+        ],
+        [
+            "Luxembourg City",
+            "Luxembourg",
+            "LUX",
+            "ELLX",
+            "Findel Airport"
+        ],
+        [
+            "Lyon",
+            "France",
+            "LYS",
+            "LFLL",
+            "Saint-Exup\u00e9ry Airport"
+        ],
+        [
+            "Madrid",
+            "Spain",
+            "MAD",
+            "LEMD",
+            "Madrid-Barajas Airport"
+        ],
+        [
+            "Malabo",
+            "Equatorial Guinea",
+            "SSG",
+            "FGSL",
+            "Saint Isabel Airport"
+        ],
+        [
+            "Malaga",
+            "Spain",
+            "AGP",
+            "LEMG",
+            "M\u00e1laga-Costa del Sol Airport"
+        ],
+        [
+            "Manchester",
+            "United Kingdom",
+            "MAN",
+            "EGCC",
+            "Ringway Airport"
+        ],
+        [
+            "Manila",
+            "Philippines",
+            "MNL",
+            "RPLL",
+            "Ninoy Aquino Airport"
+        ],
+        [
+            "Marrakech [begins 2013-11-01]",
+            "Morocco",
+            "RAK",
+            "GMMX",
+            "Menara Airport"
+        ],
+        [
+            "Miami",
+            "United States",
+            "MIA",
+            "KMIA",
+            "Miami Airport"
+        ],
+        [
+            "Milan",
+            "Italy",
+            "MXP",
+            "LIMC",
+            "Malpensa Airport"
+        ],
+        [
+            "Minneapolis",
+            "United States",
+            "MSP",
+            "KMSP",
+            "Minneapolis Airport"
+        ],
+        [
+            "Montreal",
+            "Canada",
+            "YUL",
+            "CYUL",
+            "Pierre Elliott Trudeau Airport"
+        ],
+        [
+            "Moscow",
+            "Russia",
+            "DME",
+            "UUDD",
+            "Domodedovo Airport"
+        ],
+        [
+            "Mumbai",
+            "India",
+            "BOM",
+            "VABB",
+            "Chhatrapati Shivaji Airport"
+        ],
+        [
+            "Munich",
+            "Germany",
+            "MUC",
+            "EDDM",
+            "Franz Josef Strauss Airport"
+        ],
+        [
+            "Muscat",
+            "Oman",
+            "MCT",
+            "OOMS",
+            "Seeb Airport"
+        ],
+        [
+            "Nairobi",
+            "Kenya",
+            "NBO",
+            "HKJK",
+            "Jomo Kenyatta Airport"
+        ],
+        [
+            "Newark",
+            "United States",
+            "EWR",
+            "KEWR",
+            "Liberty Airport"
+        ],
+        [
+            "New York City",
+            "United States",
+            "JFK",
+            "KJFK",
+            "John F Kennedy Airport"
+        ],
+        [
+            "Nice",
+            "France",
+            "NCE",
+            "LFMN",
+            "C\u00f4te d`Azur Airport"
+        ],
+        [
+            "Nuremberg",
+            "Germany",
+            "NUE",
+            "EDDN",
+            "Nuremberg Airport"
+        ],
+        [
+            "Oslo",
+            "Norway",
+            "OSL",
+            "ENGM",
+            "Gardermoen Airport"
+        ],
+        [
+            "Palma de Mallorca",
+            "Spain",
+            "PMI",
+            "LFPA",
+            "Palma de Mallorca Airport"
+        ],
+        [
+            "Paris",
+            "France",
+            "CDG",
+            "LFPG",
+            "Charles de Gaulle Airport"
+        ],
+        [
+            "Porto",
+            "Portugal",
+            "OPO",
+            "LPPR",
+            "Francisco de Sa Carneiro Airport"
+        ],
+        [
+            "Prague",
+            "Czech Republic",
+            "PRG",
+            "LKPR",
+            "Ruzyn\u011b Airport"
+        ],
+        [
+            "Riga",
+            "Latvia",
+            "RIX",
+            "EVRA",
+            "Riga Airport"
+        ],
+        [
+            "Rio de Janeiro [resumes 2014-7-14]",
+            "Brazil",
+            "GIG",
+            "SBGL",
+            "Gale\u00e3o Airport"
+        ],
+        [
+            "Riyadh",
+            "Saudi Arabia",
+            "RUH",
+            "OERK",
+            "King Khalid Airport"
+        ],
+        [
+            "Rome",
+            "Italy",
+            "FCO",
+            "LIRF",
+            "Leonardo da Vinci Airport"
+        ],
+        [
+            "Saint Petersburg",
+            "Russia",
+            "LED",
+            "ULLI",
+            "Pulkovo Airport"
+        ],
+        [
+            "San Francisco",
+            "United States",
+            "SFO",
+            "KSFO",
+            "San Francisco Airport"
+        ],
+        [
+            "Santiago",
+            "Chile",
+            "SCL",
+            "SCEL",
+            "Comodoro Arturo Benitez Airport"
+        ],
+        [
+            "S\u00e3o Paulo",
+            "Brazil",
+            "GRU",
+            "SBGR",
+            "Guarulhos Airport"
+        ],
+        [
+            "Sarajevo",
+            "Bosnia and Herzegovina",
+            "SJJ",
+            "LQSA",
+            "Butmir Airport"
+        ],
+        [
+            "Seattle",
+            "United States",
+            "SEA",
+            "KSEA",
+            "Sea-Tac Airport"
+        ],
+        [
+            "Shanghai",
+            "China",
+            "PVG",
+            "ZSPD",
+            "Pudong Airport"
+        ],
+        [
+            "Singapore",
+            "Singapore",
+            "SIN",
+            "WSSS",
+            "Changi Airport"
+        ],
+        [
+            "Skopje",
+            "Republic of Macedonia",
+            "SKP",
+            "LWSK",
+            "Alexander the Great Airport"
+        ],
+        [
+            "Sofia",
+            "Bulgaria",
+            "SOF",
+            "LBSF",
+            "Vrazhdebna Airport"
+        ],
+        [
+            "Stockholm",
+            "Sweden",
+            "ARN",
+            "ESSA",
+            "Arlanda Airport"
+        ],
+        [
+            "Stuttgart",
+            "Germany",
+            "STR",
+            "EDDS",
+            "Echterdingen Airport"
+        ],
+        [
+            "Taipei",
+            "Taiwan",
+            "TPE",
+            "RCTP",
+            "Taoyuan Airport"
+        ],
+        [
+            "Tehran",
+            "Iran",
+            "IKA",
+            "OIIE",
+            "Imam Khomeini Airport"
+        ],
+        [
+            "Tel Aviv",
+            "Israel",
+            "TLV",
+            "LLBG",
+            "Ben Gurion Airport"
+        ],
+        [
+            "Thessaloniki",
+            "Greece",
+            "SKG",
+            "LGTS",
+            "Macedonia Airport"
+        ],
+        [
+            "Tirana",
+            "Albania",
+            "TIA",
+            "LATI",
+            "N\u00ebn\u00eb Tereza Airport"
+        ],
+        [
+            "Tokyo",
+            "Japan",
+            "NRT",
+            "RJAA",
+            "Narita Airport"
+        ],
+        [
+            "Toronto",
+            "Canada",
+            "YYZ",
+            "CYYZ",
+            "Pearson Airport"
+        ],
+        [
+            "Tripoli",
+            "Libya",
+            "TIP",
+            "HLLT",
+            "Tripoli Airport"
+        ],
+        [
+            "Tunis",
+            "Tunisia",
+            "TUN",
+            "DTTA",
+            "Carthage Airport"
+        ],
+        [
+            "Turin",
+            "Italy",
+            "TRN",
+            "LIMF",
+            "Sandro Pertini Airport"
+        ],
+        [
+            "Valencia",
+            "Spain",
+            "VLC",
+            "LEVC",
+            "Valencia Airport"
+        ],
+        [
+            "Venice",
+            "Italy",
+            "VCE",
+            "LIPZ",
+            "Marco Polo Airport"
+        ],
+        [
+            "Vienna",
+            "Austria",
+            "VIE",
+            "LOWW",
+            "Schwechat Airport"
+        ],
+        [
+            "Warsaw",
+            "Poland",
+            "WAW",
+            "EPWA",
+            "Frederic Chopin Airport"
+        ],
+        [
+            "Washington DC",
+            "United States",
+            "IAD",
+            "KIAD",
+            "Dulles Airport"
+        ],
+        [
+            "Yaounde",
+            "Cameroon",
+            "NSI",
+            "FKYS",
+            "Yaounde Nsimalen Airport"
+        ],
+        [
+            "Yerevan",
+            "Armenia",
+            "EVN",
+            "UDYZ",
+            "Zvartnots Airport"
+        ],
+        [
+            "Zurich",
+            "Switzerland",
+            "ZRH",
+            "LSZH",
+            "Zurich Airport"
+        ]
+    ]
+}

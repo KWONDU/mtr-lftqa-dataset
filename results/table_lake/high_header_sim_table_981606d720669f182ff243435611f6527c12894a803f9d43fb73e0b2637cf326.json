@@ -1,0 +1,63 @@
+{
+    "id": "981606d720669f182ff243435611f6527c12894a803f9d43fb73e0b2637cf326",
+    "metadata": "United States House of Representatives elections, 2006 | Louisiana | Louisiana",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Results"
+    ],
+    "cell": [
+        [
+            "Louisiana 1",
+            "Bobby Jindal",
+            "Republican",
+            "2004",
+            "Re-elected"
+        ],
+        [
+            "Louisiana 2",
+            "Bill Jefferson",
+            "Democratic",
+            "1990",
+            "Re-elected In Runoff"
+        ],
+        [
+            "Louisiana 3",
+            "Charlie Melancon",
+            "Democratic",
+            "2004",
+            "Re-elected"
+        ],
+        [
+            "Louisiana 4",
+            "Jim McCrery",
+            "Republican",
+            "1988",
+            "Re-elected"
+        ],
+        [
+            "Louisiana 5",
+            "Rodney Alexander",
+            "Republican",
+            "2002",
+            "Re-elected"
+        ],
+        [
+            "Louisiana 6",
+            "Richard Baker",
+            "Republican",
+            "1986",
+            "Re-elected"
+        ],
+        [
+            "Louisiana 7",
+            "Charles Boustany",
+            "Republican",
+            "2004",
+            "Re-elected"
+        ]
+    ]
+}

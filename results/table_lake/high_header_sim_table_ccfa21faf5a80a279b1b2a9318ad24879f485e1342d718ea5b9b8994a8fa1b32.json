@@ -1,0 +1,49 @@
+{
+    "id": "ccfa21faf5a80a279b1b2a9318ad24879f485e1342d718ea5b9b8994a8fa1b32",
+    "metadata": "Commerzbank-Arena | 2006 FIFA World Cup | 2006 FIFA World Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_CET",
+        "Result_",
+        "Round",
+        "Spectators"
+    ],
+    "cell": [
+        [
+            "10 June 2006",
+            "15.00",
+            "1 - 0",
+            "Group B",
+            "48000"
+        ],
+        [
+            "13 June 2006",
+            "15.00",
+            "2 - 1",
+            "Group G",
+            "48000"
+        ],
+        [
+            "17 June 2006",
+            "15.00",
+            "2 - 0",
+            "Group D",
+            "48000"
+        ],
+        [
+            "21 June 2006",
+            "21.00",
+            "0 - 0",
+            "Group C",
+            "48000"
+        ],
+        [
+            "1 July 2006",
+            "21.00",
+            "0 - 1",
+            "Quarter-finals",
+            "48000"
+        ]
+    ]
+}

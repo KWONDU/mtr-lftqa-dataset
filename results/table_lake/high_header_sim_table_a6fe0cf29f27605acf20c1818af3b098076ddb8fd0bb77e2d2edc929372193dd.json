@@ -1,0 +1,49 @@
+{
+    "id": "a6fe0cf29f27605acf20c1818af3b098076ddb8fd0bb77e2d2edc929372193dd",
+    "metadata": "Ronald Vink | Runner-ups (5) | Runner-ups (5)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Championship",
+        "Partnering",
+        "Opponents_in_Final",
+        "Score_in_Final"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Australian Open",
+            "Maikel Scheffers",
+            "Shingo Kunieda Robin Ammerlaan",
+            "6-2, 6-0"
+        ],
+        [
+            "2008",
+            "Australian Open",
+            "Robin Ammerlaan",
+            "Shingo Kunieda Satoshi Saida",
+            "6-4, 6-3"
+        ],
+        [
+            "2008",
+            "French Open",
+            "Robin Ammerlaan",
+            "Shingo Kunieda Maikel Scheffers",
+            "6-2, 7-5"
+        ],
+        [
+            "2009",
+            "US Open",
+            "Maikel Scheffers",
+            "Stephane Houdet Stefan Olsson",
+            "6-4, 4-6, 6-4"
+        ],
+        [
+            "2011",
+            "US Open",
+            "Maikel Scheffers",
+            "Stephane Houdet Nicolas Peiffer",
+            "6-3, 6-1"
+        ]
+    ]
+}

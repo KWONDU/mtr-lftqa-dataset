@@ -1,0 +1,70 @@
+{
+    "id": "dbc0800619e8039a62b007d60f9e7e565a032e311b31745dfc279d2f45b2ca0e",
+    "metadata": "1964 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "8.16 (64)",
+            "Richmond",
+            "5.4 (34)",
+            "Western Oval",
+            "23965",
+            "18 April 1964"
+        ],
+        [
+            "Essendon",
+            "12.13 (85)",
+            "St Kilda",
+            "11.13 (79)",
+            "Windy Hill",
+            "29500",
+            "18 April 1964"
+        ],
+        [
+            "Collingwood",
+            "14.15 (99)",
+            "Fitzroy",
+            "10.11 (71)",
+            "Victoria Park",
+            "29255",
+            "18 April 1964"
+        ],
+        [
+            "Carlton",
+            "10.16 (76)",
+            "North Melbourne",
+            "10.8 (68)",
+            "Princes Park",
+            "23053",
+            "18 April 1964"
+        ],
+        [
+            "South Melbourne",
+            "10.13 (73)",
+            "Hawthorn",
+            "14.13 (97)",
+            "Lake Oval",
+            "20260",
+            "18 April 1964"
+        ],
+        [
+            "Melbourne",
+            "14.13 (97)",
+            "Geelong",
+            "17.8 (110)",
+            "MCG",
+            "66250",
+            "18 April 1964"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "8dda66adc72ee0a6f14bd2c8b63d11c983fc1e2f11cb87ae44545e5ac492bee5",
+    "metadata": "1910 in Brazilian football | Campeonato Paulista | Campeonato Paulista",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Team",
+        "Points",
+        "Played",
+        "Drawn",
+        "Lost",
+        "Against",
+        "Difference"
+    ],
+    "cell": [
+        [
+            "1",
+            "AA das Palmeiras",
+            "18",
+            "10",
+            "0",
+            "1",
+            "12",
+            "31"
+        ],
+        [
+            "2",
+            "Americano-SP",
+            "16",
+            "10",
+            "0",
+            "2",
+            "18",
+            "7"
+        ],
+        [
+            "3",
+            "S\u00e3o Paulo Athletic",
+            "11",
+            "10",
+            "1",
+            "4",
+            "26",
+            "- 2"
+        ],
+        [
+            "4",
+            "Paulistano",
+            "8",
+            "10",
+            "2",
+            "5",
+            "17",
+            "2"
+        ],
+        [
+            "5",
+            "Ypiranga-SP",
+            "4",
+            "10",
+            "2",
+            "7",
+            "32",
+            "- 21"
+        ],
+        [
+            "6",
+            "Germ\u00e2nia",
+            "3",
+            "10",
+            "1",
+            "8",
+            "31",
+            "- 17"
+        ]
+    ]
+}

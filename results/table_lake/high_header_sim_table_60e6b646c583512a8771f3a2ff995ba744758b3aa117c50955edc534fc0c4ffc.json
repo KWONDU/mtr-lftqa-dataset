@@ -1,0 +1,97 @@
+{
+    "id": "60e6b646c583512a8771f3a2ff995ba744758b3aa117c50955edc534fc0c4ffc",
+    "metadata": "Mercedes-Benz OM611 engine | Technical specifications | Technical specifications",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Displacement",
+        "Bore",
+        "Stroke",
+        "Cylinders",
+        "Valves",
+        "Power_",
+        "Torque",
+        "Applications"
+    ],
+    "cell": [
+        [
+            "cc (L; cu in)",
+            "88.0mm",
+            "88.4mm",
+            "straight-4",
+            "16",
+            "PS (kW; hp) @4200 rpm",
+            "N\u00b7m (lb\u00b7ft) @1500 rpm",
+            "1998 W202 C-Class , 1998 W210 E-Class"
+        ],
+        [
+            "cc (L; cu in)",
+            "88.0mm",
+            "88.4mm",
+            "straight-4",
+            "16",
+            "PS (kW; hp) @4200 rpm",
+            "N\u00b7m (lb\u00b7ft) @1800 rpm",
+            "1998 W202 C-Class , 1998 W210 E-Class"
+        ],
+        [
+            "cc (L; cu in)",
+            "88.0mm",
+            "88.3mm",
+            "straight-4",
+            "16",
+            "PS (kW; hp) @3800 rpm",
+            "N\u00b7m (lb\u00b7ft) @1400-2600 rpm",
+            "2000 W90x Sprinter"
+        ],
+        [
+            "cc (L; cu in)",
+            "88.0mm",
+            "88.3mm",
+            "straight-4",
+            "16",
+            "PS (kW; hp) @3800 rpm",
+            "N\u00b7m (lb\u00b7ft) @1400-2400 rpm",
+            "2000 W90x Sprinter"
+        ],
+        [
+            "cc (L; cu in)",
+            "88.0mm",
+            "88.3mm",
+            "straight-4",
+            "16",
+            "PS (kW; hp) @4200 rpm",
+            "N\u00b7m (lb\u00b7ft) @1400-2600 rpm",
+            "1999 W210 E-Class , 2000 W203 C-Class"
+        ],
+        [
+            "cc (L; cu in)",
+            "88.0mm",
+            "88.3mm",
+            "straight-4",
+            "16",
+            "PS (kW; hp) @3800 rpm",
+            "N\u00b7m (lb\u00b7ft) @1600-2400 rpm",
+            "2003 W211 E-Class , 2003 W203 C-Class"
+        ],
+        [
+            "cc (L; cu in)",
+            "88.0mm",
+            "88.3mm",
+            "straight-4",
+            "16",
+            "PS (kW; hp) @3800 rpm",
+            "N\u00b7m (lb\u00b7ft) @1600-2400 rpm",
+            "2000 W90x Sprinter"
+        ],
+        [
+            "cc (L; cu in)",
+            "88.0mm",
+            "88.3mm",
+            "straight-4",
+            "16",
+            "PS (kW; hp) @4200 rpm",
+            "N\u00b7m (lb\u00b7ft) @1800-2600 rpm",
+            "1999 W210 E-Class for Belgium"
+        ]
+    ]
+}

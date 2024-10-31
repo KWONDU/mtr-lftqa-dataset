@@ -1,0 +1,63 @@
+{
+    "id": "3711d294c1530c8a4bcf5c7678147b019731639ff154d36431e577e5b5591b94",
+    "metadata": "Wolfgang Seidel | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1953",
+            "Wolfgang Seidel",
+            "Veritas RS",
+            "Veritas Straight-6",
+            "0"
+        ],
+        [
+            "1958",
+            "Scuderia Centro Sud",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1958",
+            "RRC Walker Racing Team",
+            "Cooper T43 (F2)",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1960",
+            "Wolfgang Seidel",
+            "Cooper T45",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1961",
+            "Scuderia Colonia",
+            "Lotus 18",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1962",
+            "Ecurie Maarsbergen",
+            "Emeryson 1006",
+            "Climax Straight-4",
+            "0"
+        ],
+        [
+            "1962",
+            "Autosport Team Wolfgang Seidel",
+            "Lotus 24",
+            "BRM V8",
+            "0"
+        ]
+    ]
+}

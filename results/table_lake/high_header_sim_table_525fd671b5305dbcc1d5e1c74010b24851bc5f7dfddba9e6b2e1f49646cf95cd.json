@@ -1,0 +1,63 @@
+{
+    "id": "525fd671b5305dbcc1d5e1c74010b24851bc5f7dfddba9e6b2e1f49646cf95cd",
+    "metadata": "KJLT-FM | Translators | Translators",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "K210CB",
+            "89.9",
+            "Broken Bow, Nebraska",
+            "250",
+            "D",
+            "FCC"
+        ],
+        [
+            "K211DP",
+            "90.1",
+            "Alma, Nebraska",
+            "250",
+            "D",
+            "FCC"
+        ],
+        [
+            "K214DK",
+            "90.7",
+            "Holdrege, Nebraska",
+            "250",
+            "D",
+            "FCC"
+        ],
+        [
+            "K218DY",
+            "91.5",
+            "Holyoke, Colorado",
+            "203",
+            "D",
+            "FCC"
+        ],
+        [
+            "K230AP",
+            "93.9",
+            "Hyannis, Nebraska",
+            "250",
+            "D",
+            "FCC"
+        ],
+        [
+            "K281AR",
+            "104.1",
+            "Chappell, Nebraska",
+            "205",
+            "D",
+            "FCC"
+        ]
+    ]
+}

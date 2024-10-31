@@ -1,0 +1,88 @@
+{
+    "id": "3877ff7cc4ff700a7f384d5bb5914228c32a213d55e7ef7b781425b1724557fb",
+    "metadata": "Swiss Locomotive and Machine Works | United Kingdom | United Kingdom",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Built",
+        "Number_",
+        "Type_",
+        "SLM_Number",
+        "Wheel_arrangement",
+        "Location_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "1895",
+            "1",
+            "Mountain Railway Rack Steam Locomotive",
+            "923",
+            "0-4-2 T",
+            "Snowdon Mountain Railway",
+            "\u201cL.A.D.A.S\u201d"
+        ],
+        [
+            "1895",
+            "2",
+            "Mountain Railway Rack Steam Locomotive",
+            "924",
+            "0-4-2 T",
+            "Snowdon Mountain Railway",
+            "\u201cEnid\u201d"
+        ],
+        [
+            "1895",
+            "3",
+            "Mountain Railway Rack Steam Locomotive",
+            "925",
+            "0-4-2 T",
+            "Snowdon Mountain Railway",
+            "\u201cWyddfa\u201d"
+        ],
+        [
+            "1896",
+            "4",
+            "Mountain Railway Rack Steam Locomotive",
+            "988",
+            "0-4-2 T",
+            "Snowdon Mountain Railway",
+            "\u201cSnowdon\u201d"
+        ],
+        [
+            "1896",
+            "5",
+            "Mountain Railway Rack Steam Locomotive",
+            "989",
+            "0-4-2 T",
+            "Snowdon Mountain Railway",
+            "\u201cMoel Siabod\u201d"
+        ],
+        [
+            "1922",
+            "6",
+            "Mountain Railway Rack Steam Locomotive",
+            "2838",
+            "0-4-2 T",
+            "Snowdon Mountain Railway",
+            "\u201cPadarn\u201d"
+        ],
+        [
+            "1923",
+            "7",
+            "Mountain Railway Rack Steam Locomotive",
+            "2869",
+            "0-4-2 T",
+            "Snowdon Mountain Railway",
+            "\u201cRalph\u201d"
+        ],
+        [
+            "1923",
+            "8",
+            "Mountain Railway Rack Steam Locomotive",
+            "2870",
+            "0-4-2 T",
+            "Snowdon Mountain Railway",
+            "\u201cEryri\u201d"
+        ]
+    ]
+}

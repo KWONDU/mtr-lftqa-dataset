@@ -1,0 +1,63 @@
+{
+    "id": "ed89cd626d0a9486132b111910dd8cd4831aec18a57853c512d14333d076abf1",
+    "metadata": "List of computer system emulators | 32-bit guest systems | 32-bit guest systems",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Actual_version",
+        "System_",
+        "Platform",
+        "License"
+    ],
+    "cell": [
+        [
+            "MESS",
+            "0.147",
+            "Various computers and consoles",
+            "Cross-platform",
+            "Custom"
+        ],
+        [
+            "Fellow",
+            "0.5.1",
+            "Amiga",
+            "Windows",
+            "GPL"
+        ],
+        [
+            "UAE",
+            "0.8.29",
+            "Amiga",
+            "Unix, BeOS , NextStep",
+            "GPL"
+        ],
+        [
+            "E-UAE",
+            "0.8.29wip4",
+            "Amiga",
+            "Unix, OS X, BeOS",
+            "GPL"
+        ],
+        [
+            "WinUAE",
+            "2.6.0",
+            "Amiga",
+            "Windows",
+            "GPL"
+        ],
+        [
+            "UAE4All",
+            "rc1",
+            "Amiga",
+            "Windows, Linux, Dreamcast , Dingoo",
+            "GPL"
+        ],
+        [
+            "PocketUAE",
+            "20060121",
+            "Amiga",
+            "Pocket PC",
+            "GPL"
+        ]
+    ]
+}

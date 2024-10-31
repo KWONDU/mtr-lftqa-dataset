@@ -1,0 +1,56 @@
+{
+    "id": "9d69627f0d5a6146d7f69c56c68e116853f3d5a285b4e5191e6f3808c4091e31",
+    "metadata": "Kicks after the siren in Australian rules football | Goal to draw | Goal to draw",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Team",
+        "Opponent",
+        "Year_",
+        "Score"
+    ],
+    "cell": [
+        [
+            "Alan Ryan",
+            "Collingwood",
+            "Fitzroy",
+            "1935",
+            "93-93"
+        ],
+        [
+            "Ron Baggott",
+            "Melbourne",
+            "Collingwood",
+            "1935",
+            "79-79"
+        ],
+        [
+            "Stephen MacPherson",
+            "Footscray",
+            "North Melbourne",
+            "1987",
+            "125-125"
+        ],
+        [
+            "Ray Windsor",
+            "Brisbane Bears",
+            "West Coast",
+            "1992",
+            "92-92"
+        ],
+        [
+            "Ashley Sampi",
+            "West Coast",
+            "Western Bulldogs",
+            "2003",
+            "124-124"
+        ],
+        [
+            "Daniel Bradshaw",
+            "Brisbane Lions",
+            "Essendon",
+            "2009",
+            "87-87"
+        ]
+    ]
+}

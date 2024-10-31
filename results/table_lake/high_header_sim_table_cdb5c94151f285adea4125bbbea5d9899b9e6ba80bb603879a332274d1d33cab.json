@@ -1,0 +1,106 @@
+{
+    "id": "cdb5c94151f285adea4125bbbea5d9899b9e6ba80bb603879a332274d1d33cab",
+    "metadata": "Duneland Athletic Conference | Current members | Current members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "County",
+        "Enrollment_08_09",
+        "IHSAA_Class",
+        "IHSAA_Class_Football",
+        "Year_Joined",
+        "Previous_Conference"
+    ],
+    "cell": [
+        [
+            "Chesterton",
+            "Chesterton",
+            "Trojans",
+            "64 Porter",
+            "1921",
+            "4A",
+            "6A",
+            "1970",
+            "Calumet"
+        ],
+        [
+            "Crown Point",
+            "Crown Point",
+            "Bulldogs",
+            "45 Lake",
+            "2426",
+            "4A",
+            "6A",
+            "1993",
+            "Lake Suburban"
+        ],
+        [
+            "Lake Central",
+            "Saint John",
+            "Indians",
+            "45 Lake",
+            "3141",
+            "4A",
+            "6A",
+            "2003",
+            "Independents"
+        ],
+        [
+            "LaPorte",
+            "LaPorte",
+            "Slicers",
+            "46 LaPorte",
+            "1956",
+            "4A",
+            "5A",
+            "1976",
+            "Northern Indiana"
+        ],
+        [
+            "Merrillville",
+            "Merrillville",
+            "Pirates",
+            "45 Lake",
+            "2241",
+            "4A",
+            "6A",
+            "1975",
+            "Lake Suburban"
+        ],
+        [
+            "Michigan City",
+            "Michigan City",
+            "Wolves",
+            "46 LaPorte",
+            "1919",
+            "4A",
+            "5A",
+            "1995",
+            "none (new school)"
+        ],
+        [
+            "Portage",
+            "Portage",
+            "Indians",
+            "64 Porter",
+            "2618",
+            "4A",
+            "6A",
+            "1970",
+            "Calumet"
+        ],
+        [
+            "Valparaiso",
+            "Valparaiso",
+            "Vikings",
+            "64 Porter",
+            "2072",
+            "4A",
+            "6A",
+            "1970",
+            "Independents"
+        ]
+    ]
+}

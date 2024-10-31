@@ -1,0 +1,340 @@
+{
+    "id": "f99dafffdce914c5d06606e9ca68a87e2849a5601ac4a9f5615b05e6d85e9de8",
+    "metadata": "1989 Senior PGA Tour | Tournament results | Tournament results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Location_",
+        "Purse_",
+        "Winner",
+        "Score",
+        "_1st_Prize_"
+    ],
+    "cell": [
+        [
+            "Jan 8",
+            "MONY Senior Tournament of Champions",
+            "California",
+            "250000",
+            "Miller Barber (23)",
+            "280 (-8)",
+            "50000"
+        ],
+        [
+            "Feb 12",
+            "General Foods PGA Seniors` Championship",
+            "Florida",
+            "400000",
+            "Larry Mowry (4)",
+            "281 (-7)",
+            "72000"
+        ],
+        [
+            "Feb 19",
+            "GTE Suncoast Classic",
+            "Florida",
+            "300000",
+            "Bob Charles (9)",
+            "207 (-9)",
+            "45000"
+        ],
+        [
+            "Feb 26",
+            "Aetna Challenge",
+            "Florida",
+            "300000",
+            "Gene Littler (8)",
+            "209 (-7)",
+            "45000"
+        ],
+        [
+            "Mar 5",
+            "Vintage Chrysler Invitational",
+            "California",
+            "370000",
+            "Miller Barber (24)",
+            "281 (-7)",
+            "55500"
+        ],
+        [
+            "Mar 12",
+            "MONY Arizona Classic",
+            "Arizona",
+            "300000",
+            "Bruce Crampton (14)",
+            "200 (-16)",
+            "45000"
+        ],
+        [
+            "Apr 2",
+            "Murata Seniors Reunion",
+            "Texas",
+            "300000",
+            "Don Bies (3)",
+            "208 (-8)",
+            "45000"
+        ],
+        [
+            "Apr 16",
+            "The Tradition at Desert Mountain",
+            "Arizona",
+            "600000",
+            "Don Bies (4)",
+            "275 (-13)",
+            "90000"
+        ],
+        [
+            "May 7",
+            "RJR at The Dominion",
+            "Texas",
+            "250000",
+            "Larry Mowry (5)",
+            "201 (-15)",
+            "37500"
+        ],
+        [
+            "May 14",
+            "Bell Atlantic/St. Christopher`s Classic",
+            "Pennsylvania",
+            "400000",
+            "Dave Hill (5)",
+            "206 (-4)",
+            "60000"
+        ],
+        [
+            "May 21",
+            "NYNEX/Golf Digest Commemorative",
+            "New York",
+            "300000",
+            "Bob Charles (10)",
+            "193 (-17)",
+            "45000"
+        ],
+        [
+            "May 28",
+            "Southwestern Bell Classic",
+            "Oklahoma",
+            "300000",
+            "Bobby Nichols (1)",
+            "209 (-7)",
+            "45000"
+        ],
+        [
+            "Jun 4",
+            "Doug Sanders Kingwood Celebrity Classic",
+            "Texas",
+            "300000",
+            "Homero Blancas (1)",
+            "208 (-8)",
+            "45000"
+        ],
+        [
+            "Jun 11",
+            "Mazda Senior Tournament Players Championship",
+            "Florida",
+            "700000",
+            "Orville Moody (8)",
+            "271 (-17)",
+            "105000"
+        ],
+        [
+            "Jun 18",
+            "Northville Long Island Classic",
+            "New York",
+            "350000",
+            "Butch Baird (2)",
+            "183 (-9)",
+            "52500"
+        ],
+        [
+            "Jun 25",
+            "MONY Syracuse Senior Classic",
+            "New York",
+            "300000",
+            "Jim Dent (1)",
+            "201 (-15)",
+            "45000"
+        ],
+        [
+            "Jul 2",
+            "U.S. Senior Open",
+            "Pennsylvania",
+            "450000",
+            "Orville Moody (9)",
+            "279 (-9)",
+            "80000"
+        ],
+        [
+            "Jul 9",
+            "Digital Seniors Classic",
+            "Massachusetts",
+            "300000",
+            "Bob Charles (11)",
+            "200 (-16)",
+            "45000"
+        ],
+        [
+            "Jul 16",
+            "Greater Grand Rapids Open",
+            "Michigan",
+            "300000",
+            "John Paul Cain (1)",
+            "203 (-10)",
+            "45000"
+        ],
+        [
+            "Jul 23",
+            "Ameritech Senior Open",
+            "Ohio",
+            "500000",
+            "Bruce Crampton (15)",
+            "205 (-11)",
+            "75000"
+        ],
+        [
+            "Jul 30",
+            "Newport Cup",
+            "Rhode Island",
+            "275000",
+            "Jim Dent (2)",
+            "206 (-10)",
+            "41500"
+        ],
+        [
+            "Aug 6",
+            "Showdown Classic",
+            "Utah",
+            "350000",
+            "Tom Shaw (1)",
+            "207 (-9)",
+            "52500"
+        ],
+        [
+            "Aug 13",
+            "Rancho Murieta Senior Gold Rush",
+            "California",
+            "350000",
+            "Dave Hill (6)",
+            "207 (-9)",
+            "52500"
+        ],
+        [
+            "Aug 20",
+            "GTE Northwest Classic",
+            "Washington",
+            "350000",
+            "Al Geiberger (5)",
+            "204 (-12)",
+            "52500"
+        ],
+        [
+            "Aug 27",
+            "Sunwest Bank Charley Pride Senior Golf Classic",
+            "New Mexico",
+            "300000",
+            "Bob Charles (12)",
+            "203 (-13)",
+            "45000"
+        ],
+        [
+            "Sep 3",
+            "RJR Bank One Classic",
+            "Kentucky",
+            "300000",
+            "Rives McBee (1)",
+            "202 (-8)",
+            "45000"
+        ],
+        [
+            "Sep 10",
+            "GTE North Classic",
+            "Indiana",
+            "350000",
+            "Gary Player (13)",
+            "135 (-9)",
+            "52500"
+        ],
+        [
+            "Sep 17",
+            "Crestar Classic",
+            "Virginia",
+            "350000",
+            "Chi Chi Rodriguez (13)",
+            "203 (-13)",
+            "52500"
+        ],
+        [
+            "Sep 24",
+            "PaineWebber Invitational",
+            "North Carolina",
+            "325000",
+            "Canceled due to Hurricane Hugo",
+            "Canceled due to Hurricane Hugo",
+            "Canceled due to Hurricane Hugo"
+        ],
+        [
+            "Oct 1",
+            "Fairfield Barnett Space Coast Classic",
+            "Florida",
+            "300000",
+            "Bob Charles (13)",
+            "203 (-13)",
+            "45000"
+        ],
+        [
+            "Oct 8",
+            "RJR Championship",
+            "North Carolina",
+            "1500000",
+            "Gary Player (14)",
+            "207 (-3)",
+            "202500"
+        ],
+        [
+            "Oct 15",
+            "Gatlin Brothers Southwest Senior Classic",
+            "Texas",
+            "300000",
+            "George Archer (1)",
+            "209 (-7)",
+            "45000"
+        ],
+        [
+            "Oct 22",
+            "Transamerica Senior Golf Championship",
+            "California",
+            "400000",
+            "Billy Casper (9)",
+            "207 (-9)",
+            "60000"
+        ],
+        [
+            "Nov 12",
+            "General Tire Las Vegas Classic",
+            "Nevada",
+            "300000",
+            "Charles Coody (1)",
+            "205 (-11)",
+            "45000"
+        ],
+        [
+            "Dec 2",
+            "GTE West Classic",
+            "California",
+            "350000",
+            "Walt Zembriski (3)",
+            "197 (-13)",
+            "52500"
+        ],
+        [
+            "Dec 9",
+            "GTE Kaanapali Classic",
+            "Hawaii",
+            "300000",
+            "Don Bies (5)",
+            "132 (-12)",
+            "45000"
+        ]
+    ]
+}

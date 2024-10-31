@@ -1,0 +1,49 @@
+{
+    "id": "94f9d2a27e78ba7a593f6f339233ce1bf518ef64c1d0ec056066dd5a4286609a",
+    "metadata": "2007-08 KFC Twenty20 Big Bash | Best Bowling Figures | Best Bowling Figures",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Overs",
+        "Figures",
+        "Opponent",
+        "Ground"
+    ],
+    "cell": [
+        [
+            "Ben Edmondson (Western Australia)",
+            "4.0",
+            "4/14",
+            "South Australia",
+            "Adelaide Oval"
+        ],
+        [
+            "Steven Smith (New South Wales)",
+            "3.3",
+            "4/15",
+            "Queensland",
+            "ANZ Stadium"
+        ],
+        [
+            "Dirk Nannes (Victoria)",
+            "4.0",
+            "4/23",
+            "Western Australia",
+            "WACA Ground"
+        ],
+        [
+            "Steven Smith (New South Wales)",
+            "3.3",
+            "3/18",
+            "Western Australia",
+            "ANZ Stadium"
+        ],
+        [
+            "Brett Dorey (Western Australia)",
+            "4.0",
+            "3/19",
+            "Queensland",
+            "WACA Ground"
+        ]
+    ]
+}

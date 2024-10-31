@@ -1,0 +1,87 @@
+{
+    "id": "e6662682bc7f7f6dcb52804c9fb9f0e610a06c2b85cad3a0ab2679e41d6d0fe4",
+    "metadata": "List of Oregon ballot measures | 1970s | 1970 General Election",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "meas_num_",
+        "passed",
+        "YES_votes",
+        "NO_votes",
+        "_YES",
+        "Const_Amd_",
+        "type_",
+        "description"
+    ],
+    "cell": [
+        [
+            "2",
+            "YES",
+            "342138",
+            "269467",
+            "55.94%",
+            "Yes",
+            "LEG",
+            "Automatic Adoption, Federal Income Tax Amendments"
+        ],
+        [
+            "4",
+            "YES",
+            "332188",
+            "268588",
+            "55.29%",
+            "Yes",
+            "LEG",
+            "Investing Funds Donated to Higher Education"
+        ],
+        [
+            "5",
+            "YES",
+            "481031",
+            "133564",
+            "78.27%",
+            "Yes",
+            "LEG",
+            "Veterans` Loan Amendment"
+        ],
+        [
+            "6",
+            "YES",
+            "436897",
+            "158409",
+            "73.39%",
+            "Yes",
+            "LEG",
+            "Limits Term of Defeated Incumbents"
+        ],
+        [
+            "8",
+            "YES",
+            "352771",
+            "260100",
+            "57.56%",
+            "Yes",
+            "LEG",
+            "Allows Penal Institutions Anywhere in Oregon"
+        ],
+        [
+            "9",
+            "YES",
+            "406315",
+            "214243",
+            "65.48%",
+            "No",
+            "Init",
+            "Scenic Waterways Bill"
+        ],
+        [
+            "10",
+            "No",
+            "223735",
+            "405437",
+            "35.56%",
+            "Yes",
+            "Init",
+            "New Property Tax Bases for Schools"
+        ]
+    ]
+}

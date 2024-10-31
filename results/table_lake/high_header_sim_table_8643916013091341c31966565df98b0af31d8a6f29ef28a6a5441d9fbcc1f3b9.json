@@ -1,0 +1,55 @@
+{
+    "id": "8643916013091341c31966565df98b0af31d8a6f29ef28a6a5441d9fbcc1f3b9",
+    "metadata": "Norske Talenter (series 1) | Final | Final",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place_came",
+        "Artist",
+        "Category",
+        "Act",
+        "Semi_final",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "1st Place (Won the Series)",
+            "Erlend Bratland",
+            "Singing",
+            "Performance of Lost by Anouk",
+            "5 (public`s choice)",
+            "Winner"
+        ],
+        [
+            "3rd Place",
+            "Nora Foss al-Jabri",
+            "Singing",
+            "Performance of Anthem from Chess",
+            "3 (public`s choice)",
+            "3rd Place"
+        ],
+        [
+            "Unknown",
+            "Draup",
+            "Music",
+            "Playing on Glasses",
+            "5 (judges` choice)",
+            "4th-10th Place"
+        ],
+        [
+            "Unknown",
+            "Mats D. Weinholdt",
+            "Football",
+            "Tricked with a Burning Football",
+            "4 (public`s choice)",
+            "4th-10th Place"
+        ],
+        [
+            "Unknown",
+            "Thomi & Dani",
+            "Comedy & Magic",
+            "Performed a Comic Magic Routine",
+            "4 (judges` choice)",
+            "4th-10th Place"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "b34cfa5d071e5775930c10863c2e260baa045dda25f24787583309fa9c700648",
+    "metadata": "List of floppy disk formats | Physical composition | Floppy disk physical characteristics (capacity and tracks are nominal, per side)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Size_",
+        "Density",
+        "Tracks",
+        "Coercivity",
+        "Unformatted_capacity_per_side"
+    ],
+    "cell": [
+        [
+            "3\u00bdin",
+            "single",
+            "40",
+            "600Oe",
+            "250KB"
+        ],
+        [
+            "3\u00bdin",
+            "double",
+            "80",
+            "600Oe (300Oe)",
+            "500KB"
+        ],
+        [
+            "3\u00bdin",
+            "high",
+            "80",
+            "750Oe (600Oe)",
+            "1000KB"
+        ],
+        [
+            "3\u00bdin",
+            "extended",
+            "80",
+            "900Oe",
+            "2000KB"
+        ],
+        [
+            "5\u00bcin",
+            "single/double",
+            "40",
+            "300Oe",
+            "250KB"
+        ],
+        [
+            "5\u00bcin",
+            "quad",
+            "80",
+            "300Oe",
+            "500KB"
+        ],
+        [
+            "5\u00bcin",
+            "high",
+            "80",
+            "600Oe",
+            "750KB"
+        ],
+        [
+            "8in",
+            "single/double",
+            "77",
+            "300Oe",
+            "1000 KB"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "7150ef6b794ed06dd46a2e9be59f47e17ab6b6a9b889ce6fa8eed85c85c6c91d",
+    "metadata": "1982 San Francisco 49ers season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 12, 1982",
+            "Los Angeles Raiders",
+            "L 23-17",
+            "59748"
+        ],
+        [
+            "2",
+            "September 19, 1982",
+            "at Denver Broncos",
+            "L 24-21",
+            "73899"
+        ],
+        [
+            "3",
+            "November 21, 1982",
+            "at St. Louis Cardinals",
+            "W 31-20",
+            "38064"
+        ],
+        [
+            "4",
+            "November 28, 1982",
+            "New Orleans Saints",
+            "L 23-20",
+            "51611"
+        ],
+        [
+            "5",
+            "December 2, 1982",
+            "at Los Angeles Rams",
+            "W 30-24",
+            "58574"
+        ],
+        [
+            "6",
+            "December 11, 1982",
+            "San Diego Chargers",
+            "L 41-37",
+            "55988"
+        ],
+        [
+            "7",
+            "December 19, 1982",
+            "Atlanta Falcons",
+            "L 17-7",
+            "53234"
+        ],
+        [
+            "8",
+            "December 26, 1982",
+            "at Kansas City Chiefs",
+            "W 26-13",
+            "24319"
+        ],
+        [
+            "9",
+            "January 2, 1983",
+            "Los Angeles Rams",
+            "L 21-20",
+            "54256"
+        ]
+    ]
+}

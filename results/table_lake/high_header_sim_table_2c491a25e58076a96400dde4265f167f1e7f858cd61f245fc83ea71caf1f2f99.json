@@ -1,0 +1,49 @@
+{
+    "id": "2c491a25e58076a96400dde4265f167f1e7f858cd61f245fc83ea71caf1f2f99",
+    "metadata": "JBW | Complete Formula One World Championship results | Complete Formula One World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Chassis",
+        "Engine",
+        "Tyres",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1957",
+            "Cooper T43",
+            "Climax L-4",
+            "D",
+            "n/a1"
+        ],
+        [
+            "1958",
+            "Cooper T45",
+            "Climax L4",
+            "D",
+            "n/a2"
+        ],
+        [
+            "1959",
+            "JBW Type 1",
+            "Maserati L4",
+            "D",
+            "0"
+        ],
+        [
+            "1960",
+            "JBW Type 1",
+            "Maserati L4",
+            "D",
+            "0"
+        ],
+        [
+            "1961",
+            "JBW Type 2",
+            "Climax L4",
+            "D",
+            "0"
+        ]
+    ]
+}

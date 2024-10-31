@@ -1,0 +1,63 @@
+{
+    "id": "fc449a603b93eb5fddb76fb7008d5778483ef1d848a95c0395b603789f3fd172",
+    "metadata": "Real Salt Lake | Shutouts | Shutouts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Nation",
+        "Shutouts",
+        "Games",
+        "Years"
+    ],
+    "cell": [
+        [
+            "1",
+            "Nick Rimando",
+            "USA",
+            "72",
+            "201",
+            "2007-present"
+        ],
+        [
+            "2",
+            "Scott Garlick",
+            "USA",
+            "4",
+            "31",
+            "2006-2007"
+        ],
+        [
+            "2",
+            "D.J. Countess",
+            "USA",
+            "4",
+            "27",
+            "2005"
+        ],
+        [
+            "2",
+            "Kyle Reynish",
+            "USA",
+            "4",
+            "8",
+            "2007-2012"
+        ],
+        [
+            "5",
+            "Chris Seitz",
+            "USA",
+            "1",
+            "7",
+            "2007-2009"
+        ],
+        [
+            "5",
+            "Jeff Attinella",
+            "USA",
+            "1",
+            "5",
+            "2013-present"
+        ]
+    ]
+}

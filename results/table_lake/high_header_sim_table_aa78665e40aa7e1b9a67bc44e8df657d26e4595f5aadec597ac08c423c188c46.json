@@ -1,0 +1,87 @@
+{
+    "id": "aa78665e40aa7e1b9a67bc44e8df657d26e4595f5aadec597ac08c423c188c46",
+    "metadata": "I-class destroyer | Ships | Ships",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pennant_number",
+        "Ship",
+        "Builder",
+        "Laid_down",
+        "Launched",
+        "Commissioned"
+    ],
+    "cell": [
+        [
+            "D03",
+            "Icarus \u2020",
+            "John Brown & Company , Clydebank",
+            "9 March 1936",
+            "26 November 1936",
+            "3 May 1937"
+        ],
+        [
+            "D61",
+            "Ilex",
+            "John Brown & Company , Clydebank",
+            "9 March 1936",
+            "28 January 1937",
+            "7 July 1937"
+        ],
+        [
+            "D44",
+            "Imogen",
+            "Hawthorn Leslie & Company , Hebburn",
+            "18 January 1936",
+            "30 October 1936",
+            "2 June 1937"
+        ],
+        [
+            "D09",
+            "Imperial",
+            "Hawthorn Leslie & Company , Hebburn",
+            "29 January 1936",
+            "11 December 1936",
+            "30 June 1937"
+        ],
+        [
+            "D11",
+            "Impulsive \u2020",
+            "J. Samuel White , Cowes",
+            "9 March 1936",
+            "1 March 1936",
+            "29 January 1938"
+        ],
+        [
+            "D02",
+            "Inglefield",
+            "Cammell Laird & Company , Birkenhead",
+            "29 April 1936",
+            "15 October 1936",
+            "25 June 1937"
+        ],
+        [
+            "D10",
+            "Intrepid \u2020",
+            "John I. Thornycroft & Company , Woolston",
+            "6 January 1936",
+            "17 December 1936",
+            "29 July 1937"
+        ],
+        [
+            "D87",
+            "Isis",
+            "Yarrow & Company , Scotstoun",
+            "5 February 1936",
+            "12 December 1936",
+            "2 June 1937"
+        ],
+        [
+            "D16",
+            "Ivanhoe \u2020",
+            "Yarrow & Company , Scotstoun",
+            "12 February 1936",
+            "11 February 1937",
+            "24 August 1937"
+        ]
+    ]
+}

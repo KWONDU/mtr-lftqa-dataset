@@ -1,0 +1,70 @@
+{
+    "id": "d82b10334503e9a09c0ada063fd1e73f7f063220e9d6735fffc410b5e1c7e9dd",
+    "metadata": "1960 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "9.15 (69)",
+            "Melbourne",
+            "10.11 (71)",
+            "Windy Hill",
+            "32500",
+            "4 June 1960"
+        ],
+        [
+            "Collingwood",
+            "12.16 (88)",
+            "North Melbourne",
+            "16.8 (104)",
+            "Victoria Park",
+            "23740",
+            "4 June 1960"
+        ],
+        [
+            "Carlton",
+            "11.13 (79)",
+            "South Melbourne",
+            "13.13 (91)",
+            "Princes Park",
+            "24465",
+            "4 June 1960"
+        ],
+        [
+            "Hawthorn",
+            "14.15 (99)",
+            "Geelong",
+            "14.13 (97)",
+            "Glenferrie Oval",
+            "16500",
+            "4 June 1960"
+        ],
+        [
+            "Richmond",
+            "6.13 (49)",
+            "Footscray",
+            "11.15 (81)",
+            "Punt Road Oval",
+            "16000",
+            "4 June 1960"
+        ],
+        [
+            "St Kilda",
+            "13.12 (90)",
+            "Fitzroy",
+            "9.12 (66)",
+            "Junction Oval",
+            "26250",
+            "4 June 1960"
+        ]
+    ]
+}

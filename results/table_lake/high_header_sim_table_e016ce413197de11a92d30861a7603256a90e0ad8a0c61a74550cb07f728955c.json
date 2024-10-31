@@ -1,0 +1,61 @@
+{
+    "id": "e016ce413197de11a92d30861a7603256a90e0ad8a0c61a74550cb07f728955c",
+    "metadata": "Names of the days of the week | East Asian Seven Luminaries | East Asian Seven Luminaries",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+    ],
+    "cell": [
+        [
+            "Sun (\u65e5)",
+            "Moon (\u6708)",
+            "Fire (\u706b)",
+            "Water (\u6c34)",
+            "Tree/Wood (\u6728)",
+            "Gold/Metal (\u91d1)",
+            "Earth (\u571f)"
+        ],
+        [
+            "\u661f\u671f\u65e5 Xingqiri",
+            "\u661f\u671f\u4e00 Xingqiyi",
+            "\u661f\u671f\u4e8c Xingqi`er",
+            "\u661f\u671f\u4e09 Xingqisen",
+            "\u661f\u671f\u56db Xingqisi",
+            "\u661f\u671f\u4e94 Xingqiwu",
+            "\u661f\u671f\u516d Xingqiliu"
+        ],
+        [
+            "\u65e5\u66dc\u65e5 Nichiy\u014dbi",
+            "\u6708\u66dc\u65e5 Getsuy\u014dbi",
+            "\u706b\u66dc\u65e5 Kay\u014dbi",
+            "\u6c34\u66dc\u65e5 Suiy\u014dbi",
+            "\u6728\u66dc\u65e5 Mokuy\u014dbi",
+            "\u91d1\u66dc\u65e5 Kin`y\u014dbi",
+            "\u571f\u66dc\u65e5 Doy\u014dbi"
+        ],
+        [
+            "\uc77c\uc694\uc77c Iryoil",
+            "\uc6d4\uc694\uc77c Woryoil",
+            "\ud654\uc694\uc77c Hwayoil",
+            "\uc218\uc694\uc77c Suyoil",
+            "\ubaa9\uc694\uc77c Mogyoil",
+            "\uae08\uc694\uc77c Geumyoil",
+            "\ud1a0\uc694\uc77c Toyoil"
+        ],
+        [
+            "\u0f42\u0f5f\u0f60\u0f0b\u0f49\u0f72\u0f0b\u0f58\u0f0d",
+            "\u0f42\u0f5f\u0f60\u0f0b\u0f5f\u0fb3\u0f0b\u0f56\u0f0d",
+            "\u0f42\u0f5f\u0f60\u0f0b\u0f58\u0f72\u0f42\u0f0b\u0f51\u0f58\u0f62\u0f0d",
+            "\u0f42\u0f5f\u0f60\u0f0b\u0f63\u0fb7\u0f42\u0f0b\u0f54\u0f0d",
+            "\u0f42\u0f5f\u0f60\u0f0b\u0f55\u0f74\u0f62\u0f0b\u0f56\u0f74\u0f0d",
+            "\u0f42\u0f5f\u0f60\u0f0b\u0f54\u0f0b\u0f66\u0f44\u0f66\u0f0d",
+            "\u0f42\u0f5f\u0f60\u0f0b\u0f66\u0fa4\u0f7a\u0f53\u0f0b\u0f54\u0f0d"
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "8124a788fed0a5b54133aceff3e1a9818fbedeb38800d449087b55b8521bbd2c",
+    "metadata": "2008-09 Manchester United F.C. season | Knockout phase | Knockout phase",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponents",
+        "H_A",
+        "Result_F_A",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "24 February 2009",
+            "First knockout round First leg",
+            "Internazionale",
+            "A",
+            "0-0",
+            "80018"
+        ],
+        [
+            "11 March 2009",
+            "First knockout round Second leg",
+            "Internazionale",
+            "H",
+            "2-0",
+            "74769"
+        ],
+        [
+            "7 April 2009",
+            "Quarter-final First leg",
+            "Porto",
+            "H",
+            "2-2",
+            "74517"
+        ],
+        [
+            "15 April 2009",
+            "Quarter-final Second leg",
+            "Porto",
+            "A",
+            "1-0",
+            "50010"
+        ],
+        [
+            "29 April 2009",
+            "Semi-final First leg",
+            "Arsenal",
+            "H",
+            "1-0",
+            "74733"
+        ],
+        [
+            "5 May 2009",
+            "Semi-final Second leg",
+            "Arsenal",
+            "A",
+            "3-1",
+            "59867"
+        ],
+        [
+            "27 May 2009",
+            "Final",
+            "Barcelona",
+            "N",
+            "0-2",
+            "62467"
+        ]
+    ]
+}

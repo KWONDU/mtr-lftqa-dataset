@@ -1,0 +1,103 @@
+{
+    "id": "4e34c23462dbb63e1ef338d2955aeacfee4c46306ecbfa8692986636c89aec94",
+    "metadata": "2007-08 Rugby-Bundesliga | Bundesliga table | Bundesliga table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "Club",
+        "Played",
+        "Won",
+        "Drawn",
+        "Lost",
+        "Points_for",
+        "Points_against",
+        "Difference",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1",
+            "SC 1880 Frankfurt",
+            "14",
+            "12",
+            "0",
+            "2",
+            "561",
+            "195",
+            "366",
+            "38"
+        ],
+        [
+            "2",
+            "RG Heidelberg",
+            "14",
+            "9",
+            "1",
+            "4",
+            "490",
+            "242",
+            "248",
+            "33"
+        ],
+        [
+            "3",
+            "TSV Handschuhsheim",
+            "14",
+            "9",
+            "1",
+            "4",
+            "276",
+            "276",
+            "0",
+            "33"
+        ],
+        [
+            "4",
+            "Berliner RC",
+            "14",
+            "7",
+            "0",
+            "7",
+            "301",
+            "340",
+            "-39",
+            "30"
+        ],
+        [
+            "5",
+            "SC Neuenheim",
+            "14",
+            "4",
+            "3",
+            "7",
+            "204",
+            "236",
+            "-32",
+            "25"
+        ],
+        [
+            "6",
+            "Heidelberger RK",
+            "14",
+            "4",
+            "3",
+            "7",
+            "228",
+            "274",
+            "-46",
+            "25"
+        ],
+        [
+            "7",
+            "DRC Hannover",
+            "14",
+            "4",
+            "0",
+            "10",
+            "228",
+            "410",
+            "-182",
+            "22"
+        ]
+    ]
+}

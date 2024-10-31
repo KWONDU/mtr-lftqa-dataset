@@ -1,0 +1,55 @@
+{
+    "id": "1137d2ff961222a1d42103f7aec7c3895b84dcd11a162952211548ef49b0abbf",
+    "metadata": "WHRV | Repeaters | Repeaters",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "WHRE",
+            "91.9",
+            "Eastville, Virginia",
+            "4400",
+            "A",
+            "FCC"
+        ],
+        [
+            "WHRG",
+            "88.5",
+            "Gloucester Point, Virginia",
+            "9600",
+            "B1",
+            "FCC"
+        ],
+        [
+            "WHRL",
+            "88.1",
+            "Emporia, Virginia",
+            "4200",
+            "A",
+            "FCC"
+        ],
+        [
+            "WHRX",
+            "90.1",
+            "Nassawadox, Virginia",
+            "46000",
+            "B",
+            "FCC"
+        ],
+        [
+            "W269BQ",
+            "101.7",
+            "Virginia Beach, Virginia",
+            "250",
+            "D",
+            "FCC"
+        ]
+    ]
+}

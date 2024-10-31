@@ -167,8 +167,9 @@ def main(source_dataset_name, sample_n, classification, logger):
                     }
                 )
     
-    with open(f'results/{classification}_table_lake.json', 'w') as file:
-        json.dump(table_lake, file, indent=4)
+    for table_id, table in table_lake.items():
+        with open(f'results/table_lake/{classification}_table_{table_id}.json', 'w') as file:
+            json.dump(table, file, indent=4)
 
     with open(f'results/{classification}_dataset.json', 'w') as file:
         json.dump(dataset, file, indent=4)

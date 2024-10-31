@@ -1,0 +1,70 @@
+{
+    "id": "caa7904430b7e727d05918998ad415e59efdc3f3c4a223a54e462444f8c1d5bf",
+    "metadata": "1929 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Fitzroy",
+            "12.8 (80)",
+            "St Kilda",
+            "16.21 (117)",
+            "Brunswick Street Oval",
+            "14000",
+            "18 May 1929"
+        ],
+        [
+            "North Melbourne",
+            "6.5 (41)",
+            "Melbourne",
+            "14.15 (99)",
+            "Arden Street Oval",
+            "9000",
+            "18 May 1929"
+        ],
+        [
+            "Richmond",
+            "14.19 (103)",
+            "Footscray",
+            "11.19 (85)",
+            "Punt Road Oval",
+            "22000",
+            "18 May 1929"
+        ],
+        [
+            "Hawthorn",
+            "10.10 (70)",
+            "Essendon",
+            "10.15 (75)",
+            "Glenferrie Oval",
+            "12000",
+            "18 May 1929"
+        ],
+        [
+            "Geelong",
+            "6.13 (49)",
+            "Collingwood",
+            "12.13 (85)",
+            "Corio Oval",
+            "20499",
+            "18 May 1929"
+        ],
+        [
+            "South Melbourne",
+            "9.19 (73)",
+            "Carlton",
+            "10.19 (79)",
+            "Lake Oval",
+            "25000",
+            "18 May 1929"
+        ]
+    ]
+}

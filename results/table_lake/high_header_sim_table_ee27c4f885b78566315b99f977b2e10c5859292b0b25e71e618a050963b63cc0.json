@@ -1,0 +1,49 @@
+{
+    "id": "ee27c4f885b78566315b99f977b2e10c5859292b0b25e71e618a050963b63cc0",
+    "metadata": "Christy Ekpukhon | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournament",
+        "Venue",
+        "Result_",
+        "Extra"
+    ],
+    "cell": [
+        [
+            "2006",
+            "Commonwealth Games",
+            "Melbourne , Australia",
+            "2nd",
+            "4x400 m relay"
+        ],
+        [
+            "2006",
+            "African Championships",
+            "Bambous , Mauritius",
+            "5th",
+            "400 m"
+        ],
+        [
+            "2006",
+            "World Cup",
+            "Athens , Greece",
+            "6th",
+            "4x400 m relay"
+        ],
+        [
+            "2007",
+            "All-Africa Games",
+            "Algiers , Algeria",
+            "5th",
+            "400 m"
+        ],
+        [
+            "2007",
+            "All-Africa Games",
+            "Algiers , Algeria",
+            "1st",
+            "4x400 m relay"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "fb7797263230592787c1d81ec835e8a4c955e1e9b5d6400b017557ef5c701479",
+    "metadata": "1957 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "12.16 (88)",
+            "St Kilda",
+            "8.9 (57)",
+            "Victoria Park",
+            "23458",
+            "1 June 1957"
+        ],
+        [
+            "Carlton",
+            "13.9 (87)",
+            "Essendon",
+            "7.20 (62)",
+            "Princes Park",
+            "34740",
+            "1 June 1957"
+        ],
+        [
+            "South Melbourne",
+            "11.9 (75)",
+            "North Melbourne",
+            "11.13 (79)",
+            "Lake Oval",
+            "15000",
+            "1 June 1957"
+        ],
+        [
+            "Richmond",
+            "7.10 (52)",
+            "Melbourne",
+            "6.14 (50)",
+            "Punt Road Oval",
+            "16000",
+            "1 June 1957"
+        ],
+        [
+            "Hawthorn",
+            "11.11 (77)",
+            "Footscray",
+            "7.8 (50)",
+            "Glenferrie Oval",
+            "26000",
+            "1 June 1957"
+        ],
+        [
+            "Geelong",
+            "14.15 (99)",
+            "Fitzroy",
+            "17.11 (113)",
+            "Kardinia Park",
+            "17240",
+            "1 June 1957"
+        ]
+    ]
+}

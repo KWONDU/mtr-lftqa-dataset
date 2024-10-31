@@ -1,0 +1,84 @@
+{
+    "id": "23182c02561f1401bec5e1eb67dd67223e70e920ba5f9847bd5e3847d82c5542",
+    "metadata": "2008-09 Denver Nuggets season | Game log | April",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "76",
+            "April 2",
+            "Utah",
+            "W 114-104 (OT)",
+            "J. R. Smith (28)",
+            "Chris Andersen (10)",
+            "J. R. Smith (7)",
+            "Pepsi Center 17,969",
+            "50-26"
+        ],
+        [
+            "77",
+            "April 4",
+            "L.A. Clippers",
+            "W 120-104 (OT)",
+            "J. R. Smith (34)",
+            "Chris Andersen (8)",
+            "Chauncey Billups (9)",
+            "Pepsi Center 17,880",
+            "51-26"
+        ],
+        [
+            "78",
+            "April 5",
+            "@ Minnesota",
+            "W 110-87 (OT)",
+            "Carmelo Anthony (23)",
+            "Carmelo Anthony , Chris Andersen (8)",
+            "Chauncey Billups (7)",
+            "Target Center 16,839",
+            "52-26"
+        ],
+        [
+            "79",
+            "April 8",
+            "Oklahoma City",
+            "W 122-112 (OT)",
+            "Carmelo Anthony (31)",
+            "Nen\u00ea (10)",
+            "Chauncey Billups (9)",
+            "Pepsi Center 16,536",
+            "53-26"
+        ],
+        [
+            "80",
+            "April 9",
+            "@ L.A. Lakers",
+            "L 102-116 (OT)",
+            "Carmelo Anthony (23)",
+            "Nen\u00ea (10)",
+            "Chauncey Billups (8)",
+            "Staples Center 18,997",
+            "53-27"
+        ],
+        [
+            "81",
+            "April 13",
+            "Sacramento",
+            "W 118-98 (OT)",
+            "J. R. Smith (45)",
+            "Chris Andersen (10)",
+            "Carmelo Anthony (9)",
+            "Pepsi Center 15,823",
+            "54-27"
+        ]
+    ]
+}

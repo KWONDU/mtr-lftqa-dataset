@@ -1,0 +1,70 @@
+{
+    "id": "c57e45fec63f1d8bfa6876c5287aa45209bd4c22e0403a8d3591988e74bf1776",
+    "metadata": "1970 VFL season | Round 1 | Round 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Carlton",
+            "21.19 (145)",
+            "Essendon",
+            "14.12 (96)",
+            "Princes Park",
+            "23948",
+            "4 April 1970"
+        ],
+        [
+            "St Kilda",
+            "14.16 (100)",
+            "North Melbourne",
+            "7.6 (48)",
+            "Moorabbin Oval",
+            "21429",
+            "4 April 1970"
+        ],
+        [
+            "South Melbourne",
+            "9.14 (68)",
+            "Melbourne",
+            "14.9 (93)",
+            "Lake Oval",
+            "15242",
+            "4 April 1970"
+        ],
+        [
+            "Hawthorn",
+            "19.12 (126)",
+            "Geelong",
+            "21.9 (135)",
+            "Glenferrie Oval",
+            "20509",
+            "4 April 1970"
+        ],
+        [
+            "Footscray",
+            "12.12 (84)",
+            "Collingwood",
+            "23.10 (148)",
+            "Western Oval",
+            "26596",
+            "4 April 1970"
+        ],
+        [
+            "Richmond",
+            "14.12 (96)",
+            "Fitzroy",
+            "16.20 (116)",
+            "MCG",
+            "38617",
+            "5 April 1970"
+        ]
+    ]
+}

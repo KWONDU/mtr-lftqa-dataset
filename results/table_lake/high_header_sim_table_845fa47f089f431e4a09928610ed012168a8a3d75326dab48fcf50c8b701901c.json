@@ -1,0 +1,67 @@
+{
+    "id": "845fa47f089f431e4a09928610ed012168a8a3d75326dab48fcf50c8b701901c",
+    "metadata": "AMD Turion | \"Champlain\" (45 nm, Dual-core) | \"Champlain\" (45 nm, Dual-core)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_number",
+        "Frequency",
+        "L2_cache",
+        "FPU_width",
+        "Multiplier_1",
+        "Socket",
+        "Release_date",
+        "Order_part_number"
+    ],
+    "cell": [
+        [
+            "Turion II P520",
+            "2.3GHz",
+            "2 \u00d7 1 MB",
+            "128-bit",
+            "11.5\u00d7",
+            "g Socket S1 4",
+            "May 12, 2010",
+            "TMP520SGR23GM"
+        ],
+        [
+            "Turion II P540",
+            "2.4GHz",
+            "2 \u00d7 1 MB",
+            "128-bit",
+            "12\u00d7",
+            "Socket S1g4",
+            "October 4, 2010",
+            "TMP540SGR23GM"
+        ],
+        [
+            "Turion II P560",
+            "2.5GHz",
+            "2 \u00d7 1 MB",
+            "128-bit",
+            "12.5\u00d7",
+            "Socket S1g4",
+            "October 19, 2010",
+            "TMP560SGR23GM"
+        ],
+        [
+            "Turion II N530",
+            "2.5GHz",
+            "2 \u00d7 1 MB",
+            "128-bit",
+            "12.5\u00d7",
+            "Socket S1g4",
+            "May 12, 2010",
+            "TMN530DCR23GM"
+        ],
+        [
+            "Turion II N550",
+            "2.6GHz",
+            "2 \u00d7 1 MB",
+            "128-bit",
+            "13\u00d7",
+            "Socket S1g4",
+            "October 4, 2010",
+            "TMN550DCR23GM"
+        ]
+    ]
+}

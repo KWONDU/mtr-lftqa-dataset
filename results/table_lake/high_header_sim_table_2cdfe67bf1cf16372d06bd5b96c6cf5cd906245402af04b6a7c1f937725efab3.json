@@ -1,0 +1,97 @@
+{
+    "id": "2cdfe67bf1cf16372d06bd5b96c6cf5cd906245402af04b6a7c1f937725efab3",
+    "metadata": "Montfortian dialect | First conjugation | First conjugation",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "blank",
+        "Present_SV",
+        "Past_SV",
+        "Present_VS",
+        "Past_VS",
+        "Subjunctive_SV",
+        "Subjunctive_VS"
+    ],
+    "cell": [
+        [
+            "First person singular",
+            "ich kal",
+            "ich kaldje",
+            "kal ich",
+            "kaldje-n ich",
+            "ich kalle",
+            "kalle-n ich"
+        ],
+        [
+            "Second person singular",
+            "doe kals",
+            "doe kaldjes",
+            "kals se",
+            "kaldjes se",
+            "doe kalle",
+            "kaller-doe"
+        ],
+        [
+            "Third person singular",
+            "dae kaltj",
+            "dae kaldje",
+            "kaltj`r",
+            "kaldje d`r",
+            "dae kalle",
+            "kaller-dae"
+        ],
+        [
+            "First person plural",
+            "weer kalle",
+            "weer kaldje",
+            "kaltj v`r",
+            "kaldje v`r",
+            "weer kalle",
+            "kalle v`r"
+        ],
+        [
+            "Second person plural",
+            "geer kaltj",
+            "geer kaldje",
+            "kaltj g`r",
+            "kaldje g`r",
+            "geer kalle",
+            "kalletj g`r"
+        ],
+        [
+            "Third person plural",
+            "die kalle",
+            "die kaldje",
+            "kalle die",
+            "kaldje die",
+            "die kalle",
+            "kaller-die"
+        ],
+        [
+            "Other:",
+            "Infinitive",
+            "Gerund",
+            "Present particle",
+            "Past particle",
+            "Adjective",
+            "Adverb"
+        ],
+        [
+            "Conjugation:",
+            "(t\u00f6) kalle",
+            "`t kalle n",
+            "kallendj",
+            "gekaldj",
+            "gekaldj(e/e-n/er/es)",
+            "gekaldj(elik)"
+        ],
+        [
+            "Other:",
+            "Noun",
+            "Imperative singular impolite",
+            "Imperative singular polite",
+            "Imperative dual",
+            "Imperative plural",
+            "\u00c8nkelzief"
+        ]
+    ]
+}

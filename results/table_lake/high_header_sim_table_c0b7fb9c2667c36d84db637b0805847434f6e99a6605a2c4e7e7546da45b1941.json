@@ -1,0 +1,227 @@
+{
+    "id": "c0b7fb9c2667c36d84db637b0805847434f6e99a6605a2c4e7e7546da45b1941",
+    "metadata": "Smithsonian Astrophysical Observatory | History | Remote stations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Station",
+        "Type_",
+        "Latitude",
+        "Longitude",
+        "El_m",
+        "Opened",
+        "Closed",
+        "Coordinates_"
+    ],
+    "cell": [
+        [
+            "Mount Wilson, California",
+            "Solar",
+            "34\u00ba13`N",
+            "118\u00ba56`W",
+            "1737",
+            "1908",
+            "1920",
+            "34\u00b013\u2032S 118\u00b056\u2032W\ufeff / \ufeff34.217\u00b0S 118.933\u00b0W"
+        ],
+        [
+            "Hump Mountain, North Carolina",
+            "Solar",
+            "36\u00ba8`N",
+            "82\u00ba0`W",
+            "1500",
+            "1917",
+            "1918",
+            "36\u00b08\u2032N 82\u00b00\u2032W\ufeff / \ufeff36.133\u00b0N 82.000\u00b0W"
+        ],
+        [
+            "Calama, Chile",
+            "Solar",
+            "22\u00ba28`S",
+            "68\u00ba56`W",
+            "2250",
+            "1918",
+            "1920",
+            "22\u00b028\u2032S 68\u00b056\u2032W\ufeff / \ufeff22.467\u00b0S 68.933\u00b0W"
+        ],
+        [
+            "Mount Montezuma, Chile",
+            "Solar",
+            "22\u00ba40`S",
+            "68\u00ba56`W",
+            "2711",
+            "1920",
+            "?",
+            "22\u00b040\u2032S 68\u00b056\u2032W\ufeff / \ufeff22.667\u00b0S 68.933\u00b0W"
+        ],
+        [
+            "Mount Harquahala, Arizona",
+            "Solar",
+            "33\u00ba48`N",
+            "113\u00ba20`W",
+            "1721",
+            "1920",
+            "1925",
+            "33\u00b048\u2032N 113\u00b020\u2032W\ufeff / \ufeff33.800\u00b0N 113.333\u00b0W"
+        ],
+        [
+            "Table Mountain, California",
+            "Solar",
+            "34\u00ba22`N",
+            "117\u00ba41`W",
+            "2286",
+            "1925",
+            "1962",
+            "34\u00b022\u2032N 117\u00b041\u2032W\ufeff / \ufeff34.367\u00b0N 117.683\u00b0W"
+        ],
+        [
+            "Mount Brukkaros, Namibia",
+            "Solar",
+            "25\u00ba52`S",
+            "17\u00ba48`E",
+            "1586",
+            "1926",
+            "1931",
+            "25\u00b052\u2032S 17\u00b048\u2032E\ufeff / \ufeff25.867\u00b0S 17.800\u00b0E"
+        ],
+        [
+            "Mount Saint Catherine, Egypt",
+            "Solar",
+            "28\u00ba31`N",
+            "33\u00ba56`E",
+            "2591",
+            "1934",
+            "1937",
+            "28\u00b031\u2032N 33\u00b056\u2032E\ufeff / \ufeff28.517\u00b0N 33.933\u00b0E"
+        ],
+        [
+            "Burro Mountain, New Mexico",
+            "Solar",
+            "32\u00ba40`N",
+            "108\u00ba33`W",
+            "2440",
+            "1938",
+            "1946",
+            "32\u00b040\u2032N 108\u00b033\u2032W\ufeff / \ufeff32.667\u00b0N 108.550\u00b0W"
+        ],
+        [
+            "Organ Pass, New Mexico",
+            "Space Track",
+            "32\u00ba25`N",
+            "253\u00ba27`E",
+            "",
+            "",
+            "",
+            "32\u00b025\u2032N 106\u00b033\u2032W\ufeff / \ufeff32.417\u00b0N 106.550\u00b0W"
+        ],
+        [
+            "Olifantsfontein, South Africa",
+            "Space Track",
+            "25\u00ba58`S",
+            "28\u00ba15`E",
+            "",
+            "",
+            "",
+            "25\u00b058\u2032S 28\u00b015\u2032E\ufeff / \ufeff25.967\u00b0S 28.250\u00b0E"
+        ],
+        [
+            "Woomera, Australia",
+            "Space Track",
+            "31\u00ba06`S",
+            "136\u00ba46`E",
+            "",
+            "",
+            "",
+            "31\u00b006\u2032S 136\u00b046\u2032E\ufeff / \ufeff31.100\u00b0S 136.767\u00b0E"
+        ],
+        [
+            "Cadiz, Spain",
+            "Space Track",
+            "36\u00ba28`N",
+            "353\u00ba48`E",
+            "",
+            "",
+            "",
+            "36\u00b028\u2032N 6\u00b012\u2032W\ufeff / \ufeff36.467\u00b0N 6.200\u00b0W"
+        ],
+        [
+            "Shiraz, Iran",
+            "Space Track",
+            "29\u00ba38`N",
+            "52\u00ba31`E",
+            "",
+            "",
+            "",
+            "29\u00b038\u2032N 52\u00b031\u2032E\ufeff / \ufeff29.633\u00b0N 52.517\u00b0E"
+        ],
+        [
+            "Cura\u00e7ao, Netherlands West Indies",
+            "Space Track",
+            "12\u00ba05`N",
+            "291\u00ba10`E",
+            "",
+            "",
+            "",
+            "12\u00b005\u2032N 68\u00b050\u2032W\ufeff / \ufeff12.083\u00b0N 68.833\u00b0W"
+        ],
+        [
+            "Jupiter, Florida",
+            "Space Track",
+            "27\u00ba01`N",
+            "279\u00ba53`E",
+            "",
+            "",
+            "",
+            "27\u00b001\u2032N 80\u00b007\u2032W\ufeff / \ufeff27.017\u00b0N 80.117\u00b0W"
+        ],
+        [
+            "Haleakala, Hawaii",
+            "Space Track",
+            "20\u00ba43`N",
+            "203\u00ba45`E",
+            "",
+            "",
+            "",
+            "20\u00b043\u2032N 156\u00b015\u2032W\ufeff / \ufeff20.717\u00b0N 156.250\u00b0W"
+        ],
+        [
+            "Villa Dolores, Argentina",
+            "Space Track",
+            "31\u00ba57`N",
+            "294\u00ba54`E",
+            "",
+            "",
+            "",
+            "31\u00b057\u2032N 65\u00b006\u2032E\ufeff / \ufeff31.950\u00b0N 65.100\u00b0E"
+        ],
+        [
+            "Mitaka, Japan",
+            "Space Track",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Nani Tal, India",
+            "Space Track",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Arequipa, Peru",
+            "Solar, , Space Track",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ]
+}

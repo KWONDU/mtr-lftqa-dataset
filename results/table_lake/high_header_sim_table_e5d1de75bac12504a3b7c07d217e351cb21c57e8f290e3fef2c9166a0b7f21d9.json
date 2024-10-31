@@ -1,0 +1,67 @@
+{
+    "id": "e5d1de75bac12504a3b7c07d217e351cb21c57e8f290e3fef2c9166a0b7f21d9",
+    "metadata": "List of Pittsburgh Steelers starting quarterbacks | Team Career Passing Records | Team Career Passing Records",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Completions",
+        "Attempts",
+        "Completion_",
+        "Yards",
+        "Touchdowns",
+        "Interceptions",
+        "QB_Rating"
+    ],
+    "cell": [
+        [
+            "Ben Roethlisberger 1",
+            "2359",
+            "3739",
+            "63.1%",
+            "29710",
+            "428",
+            "108",
+            "92.5"
+        ],
+        [
+            "Bobby Layne",
+            "569",
+            "1159",
+            "49.2%",
+            "9030",
+            "66",
+            "78",
+            "65.5"
+        ],
+        [
+            "Bubby Brister",
+            "776",
+            "1477",
+            "52.5%",
+            "10104",
+            "51",
+            "57",
+            "69.8"
+        ],
+        [
+            "Kordell Stewart",
+            "1190",
+            "2107",
+            "56.5%",
+            "13328",
+            "70",
+            "72",
+            "72.3"
+        ],
+        [
+            "Neil O`Donnell",
+            "1069",
+            "1871",
+            "57.1%",
+            "12867",
+            "68",
+            "39",
+            "81.8"
+        ]
+    ]
+}

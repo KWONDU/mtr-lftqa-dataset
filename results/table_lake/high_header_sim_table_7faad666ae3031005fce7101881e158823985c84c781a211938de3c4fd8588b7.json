@@ -1,0 +1,70 @@
+{
+    "id": "7faad666ae3031005fce7101881e158823985c84c781a211938de3c4fd8588b7",
+    "metadata": "1932 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Collingwood",
+            "16.5 (101)",
+            "Melbourne",
+            "11.17 (83)",
+            "Victoria Park",
+            "7000",
+            "18 June 1932"
+        ],
+        [
+            "Carlton",
+            "17.16 (118)",
+            "St Kilda",
+            "7.12 (54)",
+            "Princes Park",
+            "15000",
+            "18 June 1932"
+        ],
+        [
+            "South Melbourne",
+            "14.21 (105)",
+            "Geelong",
+            "14.12 (96)",
+            "Lake Oval",
+            "38000",
+            "18 June 1932"
+        ],
+        [
+            "North Melbourne",
+            "9.8 (62)",
+            "Footscray",
+            "13.13 (91)",
+            "Arden Street Oval",
+            "18000",
+            "18 June 1932"
+        ],
+        [
+            "Richmond",
+            "14.16 (100)",
+            "Fitzroy",
+            "8.13 (61)",
+            "Punt Road Oval",
+            "13000",
+            "18 June 1932"
+        ],
+        [
+            "Hawthorn",
+            "7.9 (51)",
+            "Essendon",
+            "8.17 (65)",
+            "Glenferrie Oval",
+            "7000",
+            "18 June 1932"
+        ]
+    ]
+}

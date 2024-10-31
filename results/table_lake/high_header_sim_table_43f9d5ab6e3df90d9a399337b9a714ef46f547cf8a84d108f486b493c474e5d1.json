@@ -1,0 +1,175 @@
+{
+    "id": "43f9d5ab6e3df90d9a399337b9a714ef46f547cf8a84d108f486b493c474e5d1",
+    "metadata": "Milionerzy | Broadcasting | Broadcasting",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Small_season_number",
+        "Time_of_broadcast",
+        "Days_of_the_week",
+        "Hours",
+        "Length_of_episode",
+        "Picture_format"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 1999-May 2000",
+            "Monday, Friday",
+            "20:30",
+            "30 minutes",
+            "4:3"
+        ],
+        [
+            "1",
+            "September 1999-May 2000",
+            "Saturday, Sunday",
+            "19:30",
+            "60 minutes",
+            "4:3"
+        ],
+        [
+            "1",
+            "June 2000",
+            "Monday, Thursday, Friday",
+            "20:30",
+            "30 minutes",
+            "4:3"
+        ],
+        [
+            "1",
+            "June 2000",
+            "Saturday, Sunday",
+            "19:30",
+            "60 minutes",
+            "4:3"
+        ],
+        [
+            "2",
+            "September 2000-February 2001",
+            "Monday, Wednesday, Friday",
+            "20:30",
+            "60 minutes",
+            "4:3"
+        ],
+        [
+            "2",
+            "September 2000-February 2001",
+            "Saturday, Sunday",
+            "19:35",
+            "60 minutes",
+            "4:3"
+        ],
+        [
+            "2",
+            "February-June 2001",
+            "Monday, Friday",
+            "20:50",
+            "60 minutes",
+            "4:3"
+        ],
+        [
+            "2",
+            "February-June 2001",
+            "Saturday, Sunday",
+            "19:35",
+            "60 minutes",
+            "4:3"
+        ],
+        [
+            "3",
+            "September 2001-May 2002",
+            "Monday",
+            "20:50",
+            "45 minutes",
+            "4:3"
+        ],
+        [
+            "3",
+            "September 2001-May 2002",
+            "Saturday, Sunday",
+            "19:35",
+            "45 minutes",
+            "4:3"
+        ],
+        [
+            "3",
+            "January-February, June 2002",
+            "Saturday, Sunday",
+            "20:00",
+            "45 minutes",
+            "4:3"
+        ],
+        [
+            "4",
+            "September-December 2002",
+            "Monday",
+            "21:20",
+            "45 minutes",
+            "4:3"
+        ],
+        [
+            "4",
+            "September-December 2002",
+            "Sunday",
+            "20:00",
+            "45 minutes",
+            "4:3"
+        ],
+        [
+            "4",
+            "January 2003",
+            "Sunday",
+            "20:00",
+            "45 minutes",
+            "4:3"
+        ],
+        [
+            "5",
+            "January-June 2008",
+            "Saturday, Sunday",
+            "18:00",
+            "60 minutes",
+            "16:9"
+        ],
+        [
+            "6",
+            "September-December 2008",
+            "Saturday, Sunday",
+            "18:00",
+            "60 minutes",
+            "16:9"
+        ],
+        [
+            "7",
+            "March-June 2009",
+            "Saturday, Sunday",
+            "18:00",
+            "60 minutes",
+            "16:9"
+        ],
+        [
+            "8",
+            "September-December 2009",
+            "Sunday",
+            "18:00",
+            "60 minutes",
+            "16:9"
+        ],
+        [
+            "9",
+            "March-June 2010",
+            "Sunday",
+            "18:00",
+            "60 minutes",
+            "16:9 HD"
+        ],
+        [
+            "10",
+            "September-December 2010",
+            "Sunday",
+            "18:00",
+            "60 minutes",
+            "16:9 HD"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "38cc89bc5eca59492c887f1715fd6810ec1dbd2c52943ec4f21aa4aea4c44743",
+    "metadata": "SNS Reaal | Financial results | Financial results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Turnover",
+        "Net_income",
+        "Balance_sheet_total",
+        "Employees"
+    ],
+    "cell": [
+        [
+            "2011",
+            "\u20ac6,119,000",
+            "\u20ac87 million",
+            "\u20ac132,174,000",
+            "6928"
+        ],
+        [
+            "2010",
+            "\u20ac7,068,000",
+            "- \u20ac260 million",
+            "\u20ac127,713,000",
+            "7113"
+        ],
+        [
+            "2009",
+            "\u20ac8,497,000",
+            "\u20ac17 million",
+            "\u20ac128,900,000",
+            "7520"
+        ],
+        [
+            "2008",
+            "\u20ac5,137,000",
+            "- \u20ac504 million",
+            "\u20ac125,359,000",
+            "7535"
+        ],
+        [
+            "2007",
+            "\u20ac4,543,000",
+            "\u20ac465 million",
+            "\u20ac103,074,000",
+            "6713"
+        ]
+    ]
+}

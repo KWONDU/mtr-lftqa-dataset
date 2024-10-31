@@ -1,0 +1,55 @@
+{
+    "id": "0cff83d895e72d2d88ec0acc52f68bb63217da9809ac3b08dcf8b0b30904c238",
+    "metadata": "1908 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "University",
+            "13.18 (96)",
+            "Geelong",
+            "6.8 (44)",
+            "EMCG",
+            "15 August 1908"
+        ],
+        [
+            "St Kilda",
+            "4.7 (31)",
+            "Fitzroy",
+            "3.4 (22)",
+            "Junction Oval",
+            "15 August 1908"
+        ],
+        [
+            "South Melbourne",
+            "5.8 (38)",
+            "Essendon",
+            "3.14 (32)",
+            "Lake Oval",
+            "15 August 1908"
+        ],
+        [
+            "Melbourne",
+            "4.8 (32)",
+            "Collingwood",
+            "6.9 (45)",
+            "MCG",
+            "15 August 1908"
+        ],
+        [
+            "Richmond",
+            "4.17 (41)",
+            "Carlton",
+            "6.12 (48)",
+            "Punt Road Oval",
+            "15 August 1908"
+        ]
+    ]
+}

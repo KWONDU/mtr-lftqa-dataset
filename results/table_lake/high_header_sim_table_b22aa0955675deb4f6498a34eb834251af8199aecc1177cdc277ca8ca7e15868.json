@@ -1,0 +1,55 @@
+{
+    "id": "b22aa0955675deb4f6498a34eb834251af8199aecc1177cdc277ca8ca7e15868",
+    "metadata": "Hughes Hall College Boat Club | Results | Match A",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Finish_position",
+        "_1st_day",
+        "_2nd_day",
+        "_3rd_day",
+        "_4th_Day"
+    ],
+    "cell": [
+        [
+            "2008",
+            "33rd",
+            "bumped Corpus Christi / Newnham",
+            "rowed-over",
+            "rowed-over",
+            "bumped Wolfson"
+        ],
+        [
+            "2009",
+            "31st",
+            "bumped St Edmund`s",
+            "rowed-over",
+            "bumped Darwin",
+            "rowed-over"
+        ],
+        [
+            "2010",
+            "31st",
+            "bumped by Corpus Christi",
+            "rowed-over",
+            "bumped Caius",
+            "rowed-over"
+        ],
+        [
+            "2011",
+            "27th",
+            "bumped Anglia Ruskin",
+            "bumped Pembroke",
+            "bumped Homerton",
+            "bumped Robinson"
+        ],
+        [
+            "2012",
+            "27th",
+            "bumped Jesus",
+            "rowed-over",
+            "bumped by Robinson",
+            "bumped by Homerton"
+        ]
+    ]
+}

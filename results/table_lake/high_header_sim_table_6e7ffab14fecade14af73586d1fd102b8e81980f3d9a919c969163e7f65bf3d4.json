@@ -1,0 +1,49 @@
+{
+    "id": "6e7ffab14fecade14af73586d1fd102b8e81980f3d9a919c969163e7f65bf3d4",
+    "metadata": "Ambient 4: On Land | Versions | Versions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Country",
+        "Label",
+        "Cat_No_",
+        "Media",
+        "Release_Date"
+    ],
+    "cell": [
+        [
+            "US",
+            "Editions EG",
+            "EGED 20",
+            "LP",
+            "1982"
+        ],
+        [
+            "France",
+            "Polydor",
+            "2311 107",
+            "LP",
+            "1982"
+        ],
+        [
+            "Australia & NZ",
+            "Editions EG",
+            "2311 107",
+            "LP",
+            "1982"
+        ],
+        [
+            "UK",
+            "Editions EG",
+            "EEGCD 20",
+            "CD",
+            "1986"
+        ],
+        [
+            "UK",
+            "Virgin",
+            "ENOCD 8 7243 8 66499 2 8",
+            "CD",
+            "2004"
+        ]
+    ]
+}

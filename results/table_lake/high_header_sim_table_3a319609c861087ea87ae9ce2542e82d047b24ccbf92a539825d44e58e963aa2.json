@@ -1,0 +1,61 @@
+{
+    "id": "3a319609c861087ea87ae9ce2542e82d047b24ccbf92a539825d44e58e963aa2",
+    "metadata": "Nottingham Forest F.C. | European records | European records",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Competition",
+        "Appearances",
+        "Played",
+        "Drawn",
+        "Lost",
+        "Goals_for",
+        "Goals_against"
+    ],
+    "cell": [
+        [
+            "European Cup",
+            "3",
+            "20",
+            "4",
+            "4",
+            "32",
+            "12"
+        ],
+        [
+            "UEFA Cup",
+            "3",
+            "20",
+            "5",
+            "5",
+            "18",
+            "16"
+        ],
+        [
+            "Inter-Cities Fairs Cup",
+            "2",
+            "6",
+            "0",
+            "3",
+            "8",
+            "9"
+        ],
+        [
+            "UEFA Super Cup",
+            "2",
+            "4",
+            "1",
+            "1",
+            "4",
+            "3"
+        ],
+        [
+            "Total",
+            "10",
+            "50",
+            "10",
+            "13",
+            "62",
+            "40"
+        ]
+    ]
+}

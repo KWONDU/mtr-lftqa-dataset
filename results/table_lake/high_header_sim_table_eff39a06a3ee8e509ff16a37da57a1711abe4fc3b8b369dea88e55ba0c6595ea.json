@@ -1,0 +1,55 @@
+{
+    "id": "eff39a06a3ee8e509ff16a37da57a1711abe4fc3b8b369dea88e55ba0c6595ea",
+    "metadata": "United States House of Representatives elections, 1964 | Tennessee | Tennessee",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Tennessee 1",
+            "Jimmy Quillen",
+            "Republican",
+            "1962",
+            "Re-elected",
+            "Jimmy Quillen (R) 71.7% Arthur Bright (D) 28.3%"
+        ],
+        [
+            "Tennessee 3",
+            "Bill Brock",
+            "Republican",
+            "1962",
+            "Re-elected",
+            "Bill Brock (R) 54.6% Robert M. Summitt (D) 45.4%"
+        ],
+        [
+            "Tennessee 4",
+            "Joe L. Evins",
+            "Democratic",
+            "1946",
+            "Re-elected",
+            "Joe L. Evins (D) Unopposed"
+        ],
+        [
+            "Tennessee 5",
+            "Richard Fulton",
+            "Democratic",
+            "1946",
+            "Re-elected",
+            "Richard Fulton (D) 59.8% Bill R. Wills (R) 40.2%"
+        ],
+        [
+            "Tennessee 6",
+            "Ross Bass",
+            "Democratic",
+            "1954",
+            "Retired to run for U. S. Senate Democratic hold",
+            "William Anderson (D) 78.2% Cecil R. Hill (R) 21.8%"
+        ]
+    ]
+}

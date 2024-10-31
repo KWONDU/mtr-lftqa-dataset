@@ -1,0 +1,79 @@
+{
+    "id": "ef3360a735577c09b249d913839c43fa22084d4ba90c24555b8564036f06b461",
+    "metadata": "4-6-4+4-6-4 | Overview | 4-6-4+4-6-4 Garratt production list - All manufacturers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Gauge",
+        "Railway",
+        "Class_",
+        "Works_no_",
+        "Year_",
+        "Builder"
+    ],
+    "cell": [
+        [
+            "3 ft 6 in",
+            "Rhodesia Railways",
+            "15th",
+            "6936-6939",
+            "1940",
+            "Beyer, Peacock"
+        ],
+        [
+            "3 ft 6 in",
+            "Rhodesia Railways",
+            "15th",
+            "7228-7237",
+            "1947",
+            "Beyer, Peacock"
+        ],
+        [
+            "3 ft 6 in",
+            "Rhodesia Railways",
+            "15th",
+            "7260-7279",
+            "1948-49",
+            "Beyer, Peacock"
+        ],
+        [
+            "3 ft 6 in",
+            "Rhodesia Railways",
+            "15A",
+            "7326-7340",
+            "1949-50",
+            "Beyer, Peacock"
+        ],
+        [
+            "3 ft 6 in",
+            "Rhodesia Railways",
+            "15A",
+            "7351-7365",
+            "1950",
+            "Beyer, Peacock"
+        ],
+        [
+            "3 ft 6 in",
+            "Rhodesia Railways",
+            "15A",
+            "2963-2972",
+            "1952",
+            "Franco-Belge , France"
+        ],
+        [
+            "3 ft 6 in",
+            "Sudan Railways",
+            "250",
+            "6798-6801",
+            "1936",
+            "Beyer, Peacock"
+        ],
+        [
+            "3 ft 6 in",
+            "Sudan Railways",
+            "250",
+            "6870-6875",
+            "1937",
+            "Beyer, Peacock"
+        ]
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "b220fed87939ce254c5ff6df92c61a9484a78728ba2e7176d60f5a6a82c7b46a",
+    "metadata": "Ian Poulter | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "0",
+            "2",
+            "5",
+            "9",
+            "8"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "0",
+            "3",
+            "10",
+            "7"
+        ],
+        [
+            "The Open Championship",
+            "0",
+            "2",
+            "3",
+            "5",
+            "13",
+            "10"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "1",
+            "2",
+            "4",
+            "12",
+            "10"
+        ],
+        [
+            "Totals",
+            "0",
+            "3",
+            "7",
+            "17",
+            "44",
+            "35"
+        ]
+    ]
+}

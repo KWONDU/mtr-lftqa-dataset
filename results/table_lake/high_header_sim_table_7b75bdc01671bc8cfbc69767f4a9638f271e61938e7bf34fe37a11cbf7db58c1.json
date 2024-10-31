@@ -1,0 +1,49 @@
+{
+    "id": "7b75bdc01671bc8cfbc69767f4a9638f271e61938e7bf34fe37a11cbf7db58c1",
+    "metadata": "List of awards and nominations received by Grey's Anatomy | ALMA Awards | ALMA Awards",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Recipient",
+        "Role_",
+        "Category",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Sara Ramirez",
+            "Callie Torres",
+            "Outstanding Actress - Television Series",
+            "Nominated"
+        ],
+        [
+            "2008",
+            "Sara Ramirez",
+            "Callie Torres",
+            "Outstanding Actress-Drama Television Series",
+            "Nominated"
+        ],
+        [
+            "2009",
+            "Sara Ramirez",
+            "Callie Torres",
+            "Outstanding Actress-Drama Television Series",
+            "Nominated"
+        ],
+        [
+            "2011",
+            "Sara Ramirez",
+            "Callie Torres",
+            "Favorite TV Actress-Leading Role in a Drama",
+            "Nominated"
+        ],
+        [
+            "2012",
+            "Sara Ramirez",
+            "Callie Torres",
+            "Favorite TV Actress-Supporting Role",
+            "Nominated"
+        ]
+    ]
+}

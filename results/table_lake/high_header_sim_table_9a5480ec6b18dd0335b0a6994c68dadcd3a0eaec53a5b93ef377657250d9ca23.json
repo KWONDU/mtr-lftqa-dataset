@@ -1,0 +1,103 @@
+{
+    "id": "9a5480ec6b18dd0335b0a6994c68dadcd3a0eaec53a5b93ef377657250d9ca23",
+    "metadata": "Jewish Talmudic Calendar | The Year | The Year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Month_Sequence",
+        "Numbered_Month",
+        "Month_Name",
+        "Regular_Year",
+        "Defective_Year",
+        "Excessive_Year"
+    ],
+    "cell": [
+        [
+            "1",
+            "Seventh",
+            "Tishri",
+            "30 days",
+            "30",
+            "30"
+        ],
+        [
+            "2",
+            "Eighth",
+            "Heshvan",
+            "29 days",
+            "29",
+            "30"
+        ],
+        [
+            "3",
+            "Ninth",
+            "Kislev",
+            "30 days",
+            "29",
+            "30"
+        ],
+        [
+            "4",
+            "Tenth",
+            "Tevet",
+            "29 days",
+            "29",
+            "29"
+        ],
+        [
+            "5",
+            "Eleventh",
+            "Shevat",
+            "30 days",
+            "30",
+            "30"
+        ],
+        [
+            "6",
+            "Twelfth",
+            "Adar",
+            "29 days",
+            "29",
+            "29"
+        ],
+        [
+            "7",
+            "First",
+            "Nisan",
+            "30 days",
+            "30",
+            "30"
+        ],
+        [
+            "8",
+            "Second",
+            "Iyyar",
+            "29 days",
+            "29",
+            "29"
+        ],
+        [
+            "9",
+            "Third",
+            "Sivan",
+            "30 days",
+            "30",
+            "30"
+        ],
+        [
+            "10",
+            "Fourth",
+            "Tammuz",
+            "29 days",
+            "29",
+            "29"
+        ],
+        [
+            "11",
+            "Fifth",
+            "Av",
+            "30 days",
+            "30",
+            "30"
+        ]
+    ]
+}

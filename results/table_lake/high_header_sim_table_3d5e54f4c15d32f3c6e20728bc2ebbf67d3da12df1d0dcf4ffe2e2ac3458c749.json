@@ -1,0 +1,56 @@
+{
+    "id": "3d5e54f4c15d32f3c6e20728bc2ebbf67d3da12df1d0dcf4ffe2e2ac3458c749",
+    "metadata": "List of windmills in Belgium | Li\u00e8ge | Li\u00e8ge",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Location_",
+        "Name_of_mill",
+        "Type_",
+        "Built",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "Coswarem",
+            "Le Vieux Molen",
+            "Grondzeiler",
+            "1840",
+            "Molenechos (Dutch)"
+        ],
+        [
+            "Donceel",
+            "Moulin Bertrand",
+            "Grondzeiler",
+            "1890",
+            "Molenechos (Dutch)"
+        ],
+        [
+            "Fexhe-le-haut-Clocher",
+            "Moulin de Fexhe",
+            "Grondzeiler",
+            "1843",
+            "Molenechos (Dutch)"
+        ],
+        [
+            "Momalle",
+            "Moulin de Momalle",
+            "Bergmolen",
+            "1850",
+            "Molenechos (Dutch)"
+        ],
+        [
+            "Oth\u00e9e",
+            "Moulin du Ch\u00e2teau",
+            "Grondzeiler",
+            "1856",
+            "Molenechos (Dutch)"
+        ],
+        [
+            "Pousset",
+            "Moulin de Pousset",
+            "Grondzeiler",
+            "1819",
+            "Molenechos (Dutch)"
+        ]
+    ]
+}

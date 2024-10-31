@@ -1,0 +1,119 @@
+{
+    "id": "e83e9f35a00cf92a90ae6f87e71ba6e903e1bff661d7556715088f7fb64758fa",
+    "metadata": "Noble metal | Electrochemistry | Electrochemistry",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "element_",
+        "group_",
+        "period",
+        "reaction",
+        "potential"
+    ],
+    "cell": [
+        [
+            "Gold",
+            "11",
+            "6",
+            "Au 3+ + 3e \u2212 \u2192 Au",
+            "1.56 V"
+        ],
+        [
+            "Platinum",
+            "10",
+            "6",
+            "Pt 2+ + 2e \u2212 \u2192 Pt",
+            "1.18 V"
+        ],
+        [
+            "Iridium",
+            "9",
+            "6",
+            "Ir 3+ + 3e \u2212 \u2192 Ir",
+            "1.156 V"
+        ],
+        [
+            "Palladium",
+            "10",
+            "5",
+            "Pd 2+ + 2e \u2212 \u2192 Pd",
+            "0.987 V"
+        ],
+        [
+            "Osmium",
+            "8",
+            "6",
+            "OsO 4 + 8 H + + 8e \u2212 \u2192 Os + 4 H 2 O",
+            "0.838 V"
+        ],
+        [
+            "Silver",
+            "11",
+            "5",
+            "Ag + + e \u2212 \u2192 Ag",
+            "0.7996 V"
+        ],
+        [
+            "Mercury",
+            "12",
+            "6",
+            "Hg 2+ 2 + 2e \u2212 \u2192 2 Hg",
+            "0.7973 V"
+        ],
+        [
+            "Polonium",
+            "16",
+            "6",
+            "Po 2+ + 2e \u2212 \u2192 Po",
+            "0.65 V"
+        ],
+        [
+            "Rhodium",
+            "9",
+            "5",
+            "Rh 2+ + 2e \u2212 \u2192 Rh",
+            "0.600 V"
+        ],
+        [
+            "Ruthenium",
+            "8",
+            "5",
+            "Ru 2+ + 2e \u2212 \u2192 Ru",
+            "0.455 V"
+        ],
+        [
+            "Copper",
+            "11",
+            "4",
+            "Cu 2+ + 2e \u2212 \u2192 Cu",
+            "0.337 V"
+        ],
+        [
+            "Bismuth",
+            "15",
+            "6",
+            "Bi 3+ + 3e \u2212 \u2192 Bi",
+            "0.308 V"
+        ],
+        [
+            "Technetium",
+            "7",
+            "5",
+            "TcO 2 + 4 H + + 4e \u2212 \u2192 Tc + 2 H 2 O",
+            "0.272 V"
+        ],
+        [
+            "Rhenium",
+            "7",
+            "6",
+            "ReO 2 + 4 H + + 4e \u2212 \u2192 Re + 2 H 2 O",
+            "0.259 V"
+        ],
+        [
+            "Antimony",
+            "15",
+            "5",
+            "Sb 2 O 3 + 6 H + + 6e \u2212 \u2192 2 Sb + 3 H 2 O",
+            "0.152 V"
+        ]
+    ]
+}

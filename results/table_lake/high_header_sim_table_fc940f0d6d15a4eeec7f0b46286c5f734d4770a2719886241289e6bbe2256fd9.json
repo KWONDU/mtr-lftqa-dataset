@@ -1,0 +1,55 @@
+{
+    "id": "fc940f0d6d15a4eeec7f0b46286c5f734d4770a2719886241289e6bbe2256fd9",
+    "metadata": "2008 National League Championship Series | Philadelphia Phillies vs. Los Angeles Dodgers | Philadelphia Phillies vs. Los Angeles Dodgers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Score",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 9",
+            "Los Angeles Dodgers - 2, Philadelphia Phillies - 3",
+            "Citizens Bank Park",
+            "2:36",
+            "45839"
+        ],
+        [
+            "2",
+            "October 10",
+            "Los Angeles Dodgers - 5, Philadelphia Phillies - 8",
+            "Citizens Bank Park",
+            "3:33",
+            "45883"
+        ],
+        [
+            "3",
+            "October 12",
+            "Philadelphia Phillies - 2, Los Angeles Dodgers - 7",
+            "Dodger Stadium",
+            "2:57",
+            "56800"
+        ],
+        [
+            "4",
+            "October 13",
+            "Philadelphia Phillies - 7, Los Angeles Dodgers - 5",
+            "Dodger Stadium",
+            "3:44",
+            "56800"
+        ],
+        [
+            "5",
+            "October 15",
+            "Philadelphia Phillies - 5, Los Angeles Dodgers - 1",
+            "Dodger Stadium",
+            "3:14",
+            "56800"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": "43dd91d5ccfefdd9deef3a59b128ccf4e8495d740cfaac6758d156ff0bf2500b",
+    "metadata": "M6 Toll | History | Historical toll rates",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_introduced",
+        "Class_1_e_g_Motorbike",
+        "Class_2_e_g_Car",
+        "Class_3_e_g_Car_with_trailer",
+        "Class_4_e_g_Van",
+        "Class_5_e_g_HGV_"
+    ],
+    "cell": [
+        [
+            "9 December 2003",
+            "\u00a31.00",
+            "\u00a32.00",
+            "\u00a35.00",
+            "\u00a35.00",
+            "\u00a310.00"
+        ],
+        [
+            "23 July 2004",
+            "\u00a31.00",
+            "\u00a32.00",
+            "\u00a35.00",
+            "\u00a35.00",
+            "\u00a36.00"
+        ],
+        [
+            "16 August 2004",
+            "\u00a32.00",
+            "\u00a33.00",
+            "\u00a36.00",
+            "\u00a36.00",
+            "\u00a36.00"
+        ],
+        [
+            "14 June 2005",
+            "\u00a32.50",
+            "\u00a33.50",
+            "\u00a37.00",
+            "\u00a37.00",
+            "\u00a37.00"
+        ],
+        [
+            "1 January 2008",
+            "\u00a32.50",
+            "\u00a34.50",
+            "\u00a38.00",
+            "\u00a39.00",
+            "\u00a39.00"
+        ],
+        [
+            "1 January 2009",
+            "\u00a32.70",
+            "\u00a34.70",
+            "\u00a38.40",
+            "\u00a39.40",
+            "\u00a39.40"
+        ],
+        [
+            "1 March 2010",
+            "\u00a32.70",
+            "\u00a35.00",
+            "\u00a39.00",
+            "\u00a310.00",
+            "\u00a310.00"
+        ],
+        [
+            "1 March 2011",
+            "\u00a33.00",
+            "\u00a35.30",
+            "\u00a39.60",
+            "\u00a310.60",
+            "\u00a310.60"
+        ],
+        [
+            "1 March 2012",
+            "\u00a33.00",
+            "\u00a35.50",
+            "\u00a310.00",
+            "\u00a311.00",
+            "\u00a311.00"
+        ]
+    ]
+}

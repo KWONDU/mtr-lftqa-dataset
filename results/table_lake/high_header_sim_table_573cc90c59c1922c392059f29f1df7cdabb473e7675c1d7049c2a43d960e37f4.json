@@ -1,0 +1,63 @@
+{
+    "id": "573cc90c59c1922c392059f29f1df7cdabb473e7675c1d7049c2a43d960e37f4",
+    "metadata": "Henlopen Conference | 2006 Regular Season Football Standings | Henlopen Southern Division",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Team",
+        "Division_Record",
+        "Overall_Record",
+        "Season_Outcome"
+    ],
+    "cell": [
+        [
+            "Delmar",
+            "Wildcats",
+            "6 - 0",
+            "11 - 1",
+            "Loss in Div. II Championship Game"
+        ],
+        [
+            "Indian River",
+            "Indians",
+            "5 - 1",
+            "8 - 3",
+            "Loss in first round of Div. II playoffs"
+        ],
+        [
+            "Woodbridge",
+            "Blue Raiders",
+            "4 - 2",
+            "6 - 4",
+            "Failed to make playoffs"
+        ],
+        [
+            "Laurel",
+            "Bulldogs",
+            "3 - 3",
+            "6 - 4",
+            "Failed to make playoffs"
+        ],
+        [
+            "Smyrna",
+            "Eagles",
+            "2 - 4",
+            "3 - 7",
+            "Failed to make playoffs"
+        ],
+        [
+            "Seaford",
+            "Blue Jays",
+            "1 - 5",
+            "2 - 8",
+            "Failed to make playoffs"
+        ],
+        [
+            "Lake Forest",
+            "Spartans",
+            "1 - 5",
+            "1 - 9",
+            "Failed to make playoffs"
+        ]
+    ]
+}

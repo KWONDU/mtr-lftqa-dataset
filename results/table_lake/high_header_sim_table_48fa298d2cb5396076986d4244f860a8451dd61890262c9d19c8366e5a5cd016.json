@@ -1,0 +1,63 @@
+{
+    "id": "48fa298d2cb5396076986d4244f860a8451dd61890262c9d19c8366e5a5cd016",
+    "metadata": "UCI Track Cycling World Championships - Women's team sprint | Winners by country | Winners by country",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Australia",
+            "3",
+            "1",
+            "1",
+            "5"
+        ],
+        [
+            "2",
+            "Great Britain",
+            "2",
+            "2",
+            "1",
+            "5"
+        ],
+        [
+            "3",
+            "Germany",
+            "2",
+            "0",
+            "1",
+            "3"
+        ],
+        [
+            "4",
+            "China",
+            "0",
+            "3",
+            "2",
+            "5"
+        ],
+        [
+            "5",
+            "Netherlands",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "6",
+            "Lithuania",
+            "0",
+            "0",
+            "2",
+            "2"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "6db34ae073f11bedd28722bc65aa01c57b201de8e0ff7174d8b2a3e3b63572db",
+    "metadata": "Air Armenia | Destinations | Destinations",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "City",
+        "Country",
+        "IATA",
+        "ICAO",
+        "Airport"
+    ],
+    "cell": [
+        [
+            "Krasnodar",
+            "Russia",
+            "KRR",
+            "URKK",
+            "Pashkovsky Airport"
+        ],
+        [
+            "Moscow",
+            "Russia",
+            "VKO",
+            "UUWW",
+            "Vnukovo International Airport"
+        ],
+        [
+            "Rostov-on-Don",
+            "Russia",
+            "ROV",
+            "URRR",
+            "Rostov-on-Don Airport"
+        ],
+        [
+            "Saint Petersburg",
+            "Russia",
+            "LED",
+            "ULLI",
+            "Pulkovo Airport"
+        ],
+        [
+            "Samara",
+            "Russia",
+            "KUF",
+            "UWWW",
+            "Kurumoch International Airport"
+        ],
+        [
+            "Sochi",
+            "Russia",
+            "AER",
+            "URSS",
+            "Sochi International Airport"
+        ],
+        [
+            "Yerevan",
+            "Armenia",
+            "EVN",
+            "UDYZ",
+            "Zvartnots International Airport"
+        ]
+    ]
+}

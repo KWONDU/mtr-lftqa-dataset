@@ -1,0 +1,70 @@
+{
+    "id": "48ab980d569319c54b82e40665848745d6ff58419220b5bb3d2f96e0d7a23958",
+    "metadata": "1945 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "9.11 (65)",
+            "Richmond",
+            "13.7 (85)",
+            "Punt Road Oval",
+            "23000",
+            "12 May 1945"
+        ],
+        [
+            "Geelong",
+            "9.13 (67)",
+            "South Melbourne",
+            "10.23 (83)",
+            "Kardinia Park",
+            "10500",
+            "12 May 1945"
+        ],
+        [
+            "Footscray",
+            "11.13 (79)",
+            "North Melbourne",
+            "14.8 (92)",
+            "Western Oval",
+            "15000",
+            "12 May 1945"
+        ],
+        [
+            "Collingwood",
+            "13.23 (101)",
+            "Hawthorn",
+            "9.9 (63)",
+            "Victoria Park",
+            "11000",
+            "12 May 1945"
+        ],
+        [
+            "Carlton",
+            "12.12 (84)",
+            "Fitzroy",
+            "11.11 (77)",
+            "Princes Park",
+            "12000",
+            "12 May 1945"
+        ],
+        [
+            "St Kilda",
+            "14.17 (101)",
+            "Essendon",
+            "23.18 (156)",
+            "Junction Oval",
+            "12000",
+            "12 May 1945"
+        ]
+    ]
+}

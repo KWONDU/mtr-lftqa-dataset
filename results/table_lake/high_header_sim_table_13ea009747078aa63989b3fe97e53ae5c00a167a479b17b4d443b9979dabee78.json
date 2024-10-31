@@ -1,0 +1,49 @@
+{
+    "id": "13ea009747078aa63989b3fe97e53ae5c00a167a479b17b4d443b9979dabee78",
+    "metadata": "Hiroo, Shibuya | Demography | Population of Hiroo District (July 2008)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Number_of_Households",
+        "Total_Population",
+        "Male",
+        "Female"
+    ],
+    "cell": [
+        [
+            "Hiroo 1-ch\u014dme",
+            "1666",
+            "2566",
+            "1184",
+            "1382"
+        ],
+        [
+            "Hiroo 2-ch\u014dme",
+            "821",
+            "1713",
+            "789",
+            "924"
+        ],
+        [
+            "Hiroo 3-ch\u014dme",
+            "1127",
+            "2195",
+            "993",
+            "1202"
+        ],
+        [
+            "Hiroo 4-ch\u014dme",
+            "1530",
+            "2740",
+            "1063",
+            "1677"
+        ],
+        [
+            "Hiroo 5-ch\u014dme",
+            "2008",
+            "3357",
+            "1390",
+            "1967"
+        ]
+    ]
+}

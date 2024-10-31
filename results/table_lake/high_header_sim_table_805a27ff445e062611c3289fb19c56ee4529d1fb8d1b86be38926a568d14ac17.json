@@ -1,0 +1,196 @@
+{
+    "id": "805a27ff445e062611c3289fb19c56ee4529d1fb8d1b86be38926a568d14ac17",
+    "metadata": "2001 Honda Indy 300 | Race | Race",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Team",
+        "Laps",
+        "Time_Retired",
+        "Grid"
+    ],
+    "cell": [
+        [
+            "Cristiano da Matta",
+            "Newman-Haas Racing",
+            "65",
+            "1:51:47.260",
+            "3"
+        ],
+        [
+            "Michael Andretti",
+            "Team Green",
+            "65",
+            "+5.8 secs",
+            "6"
+        ],
+        [
+            "Alex Tagliani",
+            "Forsythe Racing",
+            "65",
+            "+7.5 secs",
+            "7"
+        ],
+        [
+            "Gil de Ferran",
+            "Team Penske",
+            "65",
+            "+20.9 secs",
+            "2"
+        ],
+        [
+            "Kenny Brack",
+            "Team Rahal",
+            "65",
+            "+22.6 secs",
+            "13"
+        ],
+        [
+            "Jimmy Vasser",
+            "Patrick Racing",
+            "65",
+            "+24.7 secs",
+            "10"
+        ],
+        [
+            "Michel Jourdain, Jr.",
+            "Bettenhausen Racing",
+            "65",
+            "+39.5 secs",
+            "16"
+        ],
+        [
+            "Christian Fittipaldi",
+            "Newman-Haas Racing",
+            "65",
+            "+40.5 secs",
+            "15"
+        ],
+        [
+            "Max Papis",
+            "Team Rahal",
+            "65",
+            "+42.6 secs",
+            "14"
+        ],
+        [
+            "Memo Gidley",
+            "Chip Ganassi Racing",
+            "65",
+            "+42.9 secs",
+            "23"
+        ],
+        [
+            "Patrick Carpentier",
+            "Forsythe Racing",
+            "65",
+            "+46.7 secs",
+            "9"
+        ],
+        [
+            "Shinji Nakano",
+            "Fern\u00e1ndez Racing",
+            "65",
+            "+46.9 secs",
+            "18"
+        ],
+        [
+            "Alex Barron",
+            "Arciero-Blair Racing",
+            "65",
+            "+46.9 secs",
+            "26"
+        ],
+        [
+            "Paul Tracy",
+            "Team Green",
+            "65",
+            "+62.6 secs",
+            "4"
+        ],
+        [
+            "Scott Dixon",
+            "PacWest Racing",
+            "65",
+            "+72.0 secs",
+            "8"
+        ],
+        [
+            "Tora Takagi",
+            "Walker Racing",
+            "65",
+            "+81.8 secs",
+            "20"
+        ],
+        [
+            "Tony Kanaan",
+            "Mo Nunn Racing",
+            "65",
+            "+82.0 secs",
+            "3"
+        ],
+        [
+            "Bryan Herta",
+            "Forsythe Racing",
+            "65",
+            "+82.4 secs",
+            "22"
+        ],
+        [
+            "Adri\u00e1n Fern\u00e1ndez",
+            "Fern\u00e1ndez Racing",
+            "65",
+            "+100.3 secs",
+            "17"
+        ],
+        [
+            "H\u00e9lio Castroneves",
+            "Team Penske",
+            "64",
+            "+ 1 lap",
+            "11"
+        ],
+        [
+            "Bruno Junqueira",
+            "Chip Ganassi Racing",
+            "56",
+            "Contact",
+            "21"
+        ],
+        [
+            "Roberto Moreno",
+            "Patrick Racing",
+            "54",
+            "Mechanical",
+            "1"
+        ],
+        [
+            "Dario Franchitti",
+            "Team Green",
+            "35",
+            "Mechanical",
+            "5"
+        ],
+        [
+            "Maur\u00edcio Gugelmin",
+            "PacWest Racing",
+            "34",
+            "Mechanical",
+            "25"
+        ],
+        [
+            "Oriol Servi\u00e0",
+            "Sigma Autosport",
+            "10",
+            "Mechanical",
+            "12"
+        ],
+        [
+            "Casey Mears",
+            "Mo Nunn Racing",
+            "0",
+            "Contact",
+            "24"
+        ]
+    ]
+}

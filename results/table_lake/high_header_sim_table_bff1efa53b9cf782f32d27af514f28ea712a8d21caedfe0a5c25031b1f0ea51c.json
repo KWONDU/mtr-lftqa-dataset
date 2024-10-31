@@ -1,0 +1,49 @@
+{
+    "id": "bff1efa53b9cf782f32d27af514f28ea712a8d21caedfe0a5c25031b1f0ea51c",
+    "metadata": "TFC Academy | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "The_Year",
+        "Division",
+        "League",
+        "Regular_Season",
+        "Playoffs"
+    ],
+    "cell": [
+        [
+            "2008",
+            "3",
+            "CSL",
+            "6th, National",
+            "Did not qualify"
+        ],
+        [
+            "2009",
+            "3",
+            "CSL",
+            "4th, National",
+            "Quarterfinals"
+        ],
+        [
+            "2010",
+            "3",
+            "CSL",
+            "6th",
+            "Quarterfinals"
+        ],
+        [
+            "2011",
+            "3",
+            "CSL",
+            "10th",
+            "Did not qualify"
+        ],
+        [
+            "2012",
+            "3",
+            "CSL",
+            "7th",
+            "Quarterfinals"
+        ]
+    ]
+}

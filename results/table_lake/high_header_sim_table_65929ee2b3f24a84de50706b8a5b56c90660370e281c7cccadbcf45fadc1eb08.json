@@ -1,0 +1,63 @@
+{
+    "id": "65929ee2b3f24a84de50706b8a5b56c90660370e281c7cccadbcf45fadc1eb08",
+    "metadata": "2007-08 Bavarian ice hockey season | Relegation round | Landesliga Nord",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Name_",
+        "Played",
+        "Drawn",
+        "Lost",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1",
+            "EV Pegnitz",
+            "9",
+            "0",
+            "2",
+            "14"
+        ],
+        [
+            "2",
+            "ERSC Amberg",
+            "9",
+            "0",
+            "3",
+            "12"
+        ],
+        [
+            "3",
+            "EV Regensburg II",
+            "10",
+            "1",
+            "4",
+            "11"
+        ],
+        [
+            "4",
+            "EV Weiden II",
+            "10",
+            "0",
+            "5",
+            "10"
+        ],
+        [
+            "5",
+            "EHC Stiftland-Mitterteich",
+            "10",
+            "0",
+            "6",
+            "8"
+        ],
+        [
+            "6",
+            "ESV W\u00fcrzburg",
+            "10",
+            "1",
+            "8",
+            "3"
+        ]
+    ]
+}

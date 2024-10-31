@@ -1,0 +1,97 @@
+{
+    "id": "35723ed0f745903adc4fa8aec715973358d09282f669f006eae05cd980a3a4af",
+    "metadata": "Three Rivers Conference (Indiana) | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "_County",
+        "Year_joined",
+        "Previous_conference"
+    ],
+    "cell": [
+        [
+            "Manchester",
+            "North Manchester",
+            "Squires",
+            "434",
+            "AA",
+            "85 Wabash",
+            "1976",
+            "Northern Lakes"
+        ],
+        [
+            "Northfield",
+            "Wabash",
+            "Norsemen",
+            "380",
+            "AA",
+            "85 Wabash",
+            "1971",
+            "none (new school)"
+        ],
+        [
+            "North Miami",
+            "Denver",
+            "Warriors",
+            "348",
+            "A",
+            "52 Miami",
+            "1971",
+            "Mid-Indiana"
+        ],
+        [
+            "Rochester Community",
+            "Rochester",
+            "Zebras",
+            "615",
+            "AAA",
+            "25 Fulton",
+            "1987",
+            "Northern Lakes"
+        ],
+        [
+            "Southwood",
+            "Wabash",
+            "Knights",
+            "427",
+            "AA",
+            "85 Wabash",
+            "1976",
+            "Mid-Indiana"
+        ],
+        [
+            "Tippecanoe Valley",
+            "Akron",
+            "Vikings",
+            "600",
+            "AAA",
+            "43 Kosciusko",
+            "1976",
+            "Independents"
+        ],
+        [
+            "Wabash",
+            "Wabash",
+            "Apaches",
+            "455",
+            "AA",
+            "85 Wabash",
+            "2006",
+            "Central Indiana"
+        ],
+        [
+            "Whitko",
+            "South Whitley",
+            "Wildcats",
+            "613",
+            "AA",
+            "92 Whitley",
+            "1976",
+            "Independents"
+        ]
+    ]
+}

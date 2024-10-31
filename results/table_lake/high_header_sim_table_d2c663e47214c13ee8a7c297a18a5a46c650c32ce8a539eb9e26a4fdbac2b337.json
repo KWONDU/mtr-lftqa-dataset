@@ -1,0 +1,91 @@
+{
+    "id": "d2c663e47214c13ee8a7c297a18a5a46c650c32ce8a539eb9e26a4fdbac2b337",
+    "metadata": "Atherton, Greater Manchester | Education | List of schools in Atherton",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Locality",
+        "Description",
+        "Ofsted",
+        "Website"
+    ],
+    "cell": [
+        [
+            "Atherton St George`s C.E. Primary School",
+            "Atherton",
+            "Primary school",
+            "130300",
+            "website"
+        ],
+        [
+            "Chowbent Primary School",
+            "Atherton",
+            "Primary school",
+            "106443",
+            "website"
+        ],
+        [
+            "Hindsford C.E. Primary School",
+            "Hindsford, Atherton",
+            "Primary school",
+            "106441",
+            "website"
+        ],
+        [
+            "Meadowbank Primary and Nursery School",
+            "Atherton",
+            "Primary school",
+            "106425",
+            "website"
+        ],
+        [
+            "Parklee Community School",
+            "Atherton",
+            "Primary school",
+            "106426",
+            "website"
+        ],
+        [
+            "Sacred Heart R.C. Primary School",
+            "Hindsford, Atherton",
+            "Primary school",
+            "106499",
+            "website"
+        ],
+        [
+            "St Michael`s C.E. Primary School, Howe Bridge",
+            "Howe Bridge, Atherton",
+            "Primary school",
+            "106478",
+            "website"
+        ],
+        [
+            "St Philip`s C.E. Primary School",
+            "Atherton",
+            "Primary school",
+            "106515",
+            "website"
+        ],
+        [
+            "St Richard`s Catholic Primary School",
+            "Atherton",
+            "Primary school",
+            "106498",
+            "website"
+        ],
+        [
+            "Hesketh Fletcher C.E. High School (closed)",
+            "Atherton",
+            "Secondary school",
+            "106536",
+            "website"
+        ],
+        [
+            "New Greenhall School",
+            "Atherton",
+            "Special school",
+            "131295",
+            "website"
+        ]
+    ]
+}

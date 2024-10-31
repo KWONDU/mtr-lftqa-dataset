@@ -1,0 +1,55 @@
+{
+    "id": "396ff6ab744d83c37d0bc28e1d08128743930573aa8d0f890a7d29be2242309a",
+    "metadata": "1964 U.S. Open (golf) | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Billy Casper",
+            "United States",
+            "1959",
+            "285",
+            "+5",
+            "T4"
+        ],
+        [
+            "Arnold Palmer",
+            "United States",
+            "1960",
+            "286",
+            "+6",
+            "T5"
+        ],
+        [
+            "Gene Littler",
+            "United States",
+            "1961",
+            "291",
+            "+11",
+            "T11"
+        ],
+        [
+            "Ed Furgol",
+            "United States",
+            "1954",
+            "292",
+            "+12",
+            "T14"
+        ],
+        [
+            "Jack Nicklaus",
+            "United States",
+            "1962",
+            "295",
+            "+15",
+            "T23"
+        ]
+    ]
+}

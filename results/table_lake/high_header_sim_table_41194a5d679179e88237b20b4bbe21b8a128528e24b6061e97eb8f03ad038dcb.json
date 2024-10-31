@@ -1,0 +1,49 @@
+{
+    "id": "41194a5d679179e88237b20b4bbe21b8a128528e24b6061e97eb8f03ad038dcb",
+    "metadata": "CONCACAF Champions League | Top countries | Top countries",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Country",
+        "Winner",
+        "Runner_up",
+        "Losing_Semi_finalist"
+    ],
+    "cell": [
+        [
+            "1",
+            "Mexico",
+            "5",
+            "4",
+            "5"
+        ],
+        [
+            "2",
+            "United States",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "3",
+            "Canada",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "3",
+            "Costa Rica",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "3",
+            "Puerto Rico",
+            "0",
+            "0",
+            "1"
+        ]
+    ]
+}

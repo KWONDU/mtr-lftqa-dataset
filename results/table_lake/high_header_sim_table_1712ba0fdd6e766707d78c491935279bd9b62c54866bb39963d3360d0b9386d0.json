@@ -1,0 +1,91 @@
+{
+    "id": "1712ba0fdd6e766707d78c491935279bd9b62c54866bb39963d3360d0b9386d0",
+    "metadata": "1954-55 Segunda Divisi\u00f3n | Promotion playoff | Promotion playoff",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Club",
+        "Played",
+        "Points",
+        "Wins",
+        "Draws",
+        "Losses",
+        "Goals_for",
+        "Goals_against",
+        "Goal_Difference"
+    ],
+    "cell": [
+        [
+            "1",
+            "Espanyol",
+            "10",
+            "15",
+            "7",
+            "1",
+            "2",
+            "17",
+            "8",
+            "+9"
+        ],
+        [
+            "2",
+            "Real Sociedad",
+            "10",
+            "13",
+            "6",
+            "1",
+            "3",
+            "20",
+            "14",
+            "+6"
+        ],
+        [
+            "3",
+            "Real Oviedo",
+            "10",
+            "10",
+            "5",
+            "1",
+            "4",
+            "22",
+            "20",
+            "+2"
+        ],
+        [
+            "4",
+            "Atl\u00e9tico Tetu\u00e1n",
+            "10",
+            "10",
+            "4",
+            "2",
+            "4",
+            "17",
+            "15",
+            "+2"
+        ],
+        [
+            "5",
+            "Zaragoza",
+            "10",
+            "6",
+            "3",
+            "0",
+            "7",
+            "13",
+            "17",
+            "-4"
+        ],
+        [
+            "6",
+            "Granada",
+            "10",
+            "5",
+            "2",
+            "1",
+            "7",
+            "13",
+            "28",
+            "-15"
+        ]
+    ]
+}

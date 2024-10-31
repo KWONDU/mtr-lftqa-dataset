@@ -1,0 +1,63 @@
+{
+    "id": "a74c5b99930d9a8d257fe55fd8d7f6041b62b7b46c18acca4447f542a2de582e",
+    "metadata": "United States House of Representatives elections, 1814 | South Carolina | South Carolina",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "South Carolina 2",
+            "William Lowndes",
+            "Democratic-Republican",
+            "1810",
+            "Re-elected",
+            "William Lowndes (DR) 100%"
+        ],
+        [
+            "South Carolina 4",
+            "John J. Chappell",
+            "Democratic-Republican",
+            "1812",
+            "Re-elected",
+            "John J. Chappell (DR)"
+        ],
+        [
+            "South Carolina 5",
+            "David R. Evans",
+            "Democratic-Republican",
+            "1812",
+            "Retired Democratic-Republican hold",
+            "William Woodward (DR)"
+        ],
+        [
+            "South Carolina 6",
+            "John C. Calhoun",
+            "Democratic-Republican",
+            "1810",
+            "Re-elected",
+            "John C. Calhoun (DR) Benjamin C. Yancey (DR)"
+        ],
+        [
+            "South Carolina 7",
+            "Elias Earle",
+            "Democratic-Republican",
+            "1804 1810",
+            "Lost re-election Democratic-Republican hold",
+            "John Taylor (DR) 75.4% Elias Earle (DR) 24.1%"
+        ],
+        [
+            "South Carolina 8",
+            "Samuel Farrow",
+            "Democratic-Republican",
+            "1812",
+            "Retired? Democratic-Republican hold",
+            "Thomas Moore (DR) Bowen (F) Samuel Farrow (DR)"
+        ]
+    ]
+}

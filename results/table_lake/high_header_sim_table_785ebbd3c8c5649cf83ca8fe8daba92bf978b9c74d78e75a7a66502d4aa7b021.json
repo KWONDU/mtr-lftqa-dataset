@@ -1,0 +1,49 @@
+{
+    "id": "785ebbd3c8c5649cf83ca8fe8daba92bf978b9c74d78e75a7a66502d4aa7b021",
+    "metadata": "2008 Indian Premier League | Best batting strike rate | Best batting strike rate",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Team",
+        "Inns",
+        "Runs",
+        "Balls"
+    ],
+    "cell": [
+        [
+            "Virender Sehwag",
+            "Delhi Daredevils",
+            "14",
+            "406",
+            "220"
+        ],
+        [
+            "Yusuf Pathan",
+            "Rajasthan Royals",
+            "15",
+            "435",
+            "243"
+        ],
+        [
+            "Sanath Jayasuriya",
+            "Mumbai Indians",
+            "14",
+            "514",
+            "309"
+        ],
+        [
+            "Yuvraj Singh",
+            "Kings XI Punjab",
+            "14",
+            "299",
+            "184"
+        ],
+        [
+            "Kumar Sangakkara",
+            "Kings XI Punjab",
+            "9",
+            "320",
+            "198"
+        ]
+    ]
+}

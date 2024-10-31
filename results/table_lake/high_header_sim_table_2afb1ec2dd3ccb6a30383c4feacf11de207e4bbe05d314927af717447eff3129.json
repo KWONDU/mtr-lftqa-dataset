@@ -1,0 +1,56 @@
+{
+    "id": "2afb1ec2dd3ccb6a30383c4feacf11de207e4bbe05d314927af717447eff3129",
+    "metadata": "The Cube (game show) | Transmissions | Transmissions",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Series",
+        "Start_date",
+        "End_date",
+        "Episodes",
+        "Average_viewers_millions"
+    ],
+    "cell": [
+        [
+            "1",
+            "22 August 2009",
+            "3 October 2009",
+            "7",
+            "5.09"
+        ],
+        [
+            "2",
+            "19 September 2010",
+            "2 January 2011",
+            "12",
+            "4.95"
+        ],
+        [
+            "3",
+            "3 April 2011",
+            "11 June 2011",
+            "9",
+            "3.72"
+        ],
+        [
+            "4",
+            "30 October 2011",
+            "31 December 2011",
+            "9",
+            "4.2"
+        ],
+        [
+            "5",
+            "14 April 2012",
+            "23 December 2012",
+            "9",
+            "3.26"
+        ],
+        [
+            "6",
+            "2 March 2013",
+            "30 June 2013",
+            "13",
+            "3.66"
+        ]
+    ]
+}

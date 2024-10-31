@@ -1,0 +1,71 @@
+{
+    "id": "b088579a3615546f76e4ab3e52e940a8193b8e73115ec9401a1d4a5a9d9b27a1",
+    "metadata": "1939 U.S. Open (golf) | Made the cut | Made the cut",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Country",
+        "Years_won",
+        "Total",
+        "To_par",
+        "Finish"
+    ],
+    "cell": [
+        [
+            "Ralph Guldahl",
+            "United States",
+            "1937 , 1938",
+            "288",
+            "+12",
+            "T7"
+        ],
+        [
+            "Olin Dutra",
+            "United States",
+            "1934",
+            "292",
+            "+16",
+            "T16"
+        ],
+        [
+            "Tommy Armour",
+            "United States",
+            "1927",
+            "294",
+            "+18",
+            "T22"
+        ],
+        [
+            "Sam Parks, Jr.",
+            "United States",
+            "1935",
+            "299",
+            "+23",
+            "T38"
+        ],
+        [
+            "Billy Burke",
+            "United States",
+            "1931",
+            "300",
+            "+24",
+            "T42"
+        ],
+        [
+            "Gene Sarazen",
+            "United States",
+            "1922 , 1932",
+            "301",
+            "+25",
+            "T47"
+        ],
+        [
+            "Tony Manero",
+            "United States",
+            "1936",
+            "304",
+            "+28",
+            "T5"
+        ]
+    ]
+}

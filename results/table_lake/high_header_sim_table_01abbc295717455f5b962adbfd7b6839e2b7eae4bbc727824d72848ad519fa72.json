@@ -1,0 +1,56 @@
+{
+    "id": "01abbc295717455f5b962adbfd7b6839e2b7eae4bbc727824d72848ad519fa72",
+    "metadata": "2000 Baltimore Ravens season | 2000 NFL Draft | 2000 NFL Draft",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Pick",
+        "Player",
+        "Position_",
+        "School_Club_Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "5",
+            "Jamal Lewis",
+            "Running Back",
+            "Tennessee"
+        ],
+        [
+            "1",
+            "10",
+            "Travis Taylor",
+            "Wide Receiver",
+            "Florida"
+        ],
+        [
+            "3",
+            "75",
+            "Chris Redman",
+            "Quarterback",
+            "Louisville"
+        ],
+        [
+            "5",
+            "148",
+            "Richard Mercier",
+            "Offensive Guard",
+            "Miami (FL)"
+        ],
+        [
+            "6",
+            "186",
+            "Adalius Thomas",
+            "Linebacker",
+            "Southern Mississippi"
+        ],
+        [
+            "6",
+            "191",
+            "Cedric Woodard",
+            "Defensive Tackle",
+            "Texas"
+        ]
+    ]
+}

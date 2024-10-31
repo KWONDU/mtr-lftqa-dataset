@@ -1,0 +1,112 @@
+{
+    "id": "74262a1ee75a918b06833bb1a9aff65f051ebd1f5c82c8c9c2d8893ecd6f3f67",
+    "metadata": "Japanese pitch accent | Kyoto-Osaka (Keihan type) | Kyoto-Osaka (Keihan type)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "_accented_mora",
+        "one_mora",
+        "two_mora_word",
+        "three_mora_word",
+        "gloss"
+    ],
+    "cell": [
+        [
+            "high tone",
+            "0 (no accent)",
+            "/ki/ [k\u00ed\u00ed]",
+            "/ki\u0261a/ [k\u00ed\u0261\u00e1]",
+            "/kikara/ [k\u00edk\u00e1\u027d\u00e1]"
+        ],
+        [
+            "high tone",
+            "0 (no accent)",
+            "\u2014",
+            "/kaze/ [k\u00e1z\u00e9]",
+            "/kaze\u0261a/ [k\u00e1z\u00e9\u0261\u00e1]"
+        ],
+        [
+            "high tone",
+            "0 (no accent)",
+            "\u2014",
+            "\u2014",
+            "/jameru/ [j\u00e1m\u00e9\u027d\u026f\u0301]"
+        ],
+        [
+            "high tone",
+            "1",
+            "/hi\ua71c/ [\u00e7\u00ed\u00ec]",
+            "/hi\ua71c\u0261a/ [\u00e7\u00ed\u0261\u00e0]",
+            "/hi\ua71ckara/ [\u00e7\u00edk\u00e0\u027d\u00e0]"
+        ],
+        [
+            "high tone",
+            "1",
+            "\u2014",
+            "/ka\ua71cwa/ [k\u00e1w\u00e0]",
+            "/ka\ua71cwa\u0261a/ [k\u00e1w\u00e0\u0261\u00e0]"
+        ],
+        [
+            "high tone",
+            "1",
+            "\u2014",
+            "\u2014",
+            "/si\ua71croi/ [\u0255\u00ed\u027d\u00f2\u00ec]"
+        ],
+        [
+            "high tone",
+            "2",
+            "\u2014",
+            "(none)",
+            "/ata\ua71cma/ [\u00e1t\u00e1m\u00e0]"
+        ],
+        [
+            "high tone",
+            "3",
+            "\u2014",
+            "\u2014",
+            "(few words, if any)"
+        ],
+        [
+            "low tone",
+            "0 (no accent)",
+            "/\u02e9ki/ [k\u00ec\u00ed]",
+            "/\u02e9ki\u0261a/ [k\u00ec\u0261\u00e1]",
+            "/\u02e9kikara/ [k\u00eck\u00e0\u027d\u00e1]"
+        ],
+        [
+            "low tone",
+            "0 (no accent)",
+            "\u2014",
+            "/\u02e9ito/ [\u00ect\u00f3]",
+            "/\u02e9ito\u0261a/ [\u00ect\u00f2\u0261\u00e1]"
+        ],
+        [
+            "low tone",
+            "0 (no accent)",
+            "\u2014",
+            "\u2014",
+            "/\u02e9okiru/ [\u00f2k\u00ec\u027d\u026f\u0301]"
+        ],
+        [
+            "low tone",
+            "2",
+            "\u2014",
+            "/\u02e9haru\ua71c/ [h\u00e0\u027d\u026f\u0301 ~ h\u00e0\u027d\u026f\u0302]",
+            "/\u02e9haru\ua71cga/ [h\u00e0r\u00fa\u0261\u00e0]"
+        ],
+        [
+            "low tone",
+            "2",
+            "\u2014",
+            "\u2014",
+            "/\u02e9kusu\ua71cri/ [k\u026f\u0300s\u026f\u0301\u027d\u00ec]"
+        ],
+        [
+            "low tone",
+            "3",
+            "\u2014",
+            "\u2014",
+            "/\u02e9maQti\ua71c/ [m\u00e0t\u02d0\u0255\u00ed ~ m\u00e0t\u02d0\u0255\u00ee]"
+        ]
+    ]
+}

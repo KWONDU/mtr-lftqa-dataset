@@ -1,0 +1,56 @@
+{
+    "id": "e5691e2bc3a88e112d122b68a913143f191460cbe7f66ab2ed9bd3637f68007a",
+    "metadata": "Christian Poulsen | International goals | International goals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Venue",
+        "Score",
+        "Result_",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "26 March 2005",
+            "Parken Stadium , Copenhagen",
+            "2-0",
+            "3-0",
+            "2006 World Cup qualification"
+        ],
+        [
+            "7 September 2005",
+            "Parken Stadium, Copenhagen",
+            "2-0",
+            "6-1",
+            "2006 World Cup qualification"
+        ],
+        [
+            "29 May 2008",
+            "Philips Stadion , Eindhoven",
+            "1-1",
+            "1-1",
+            "Friendly match"
+        ],
+        [
+            "10 September 2008",
+            "Est\u00e1dio Jos\u00e9 Alvalade , Lisbon",
+            "2-2",
+            "3-2",
+            "2010 World Cup qualification"
+        ],
+        [
+            "1 April 2009",
+            "Parken Stadium, Copenhagen",
+            "3-0",
+            "3-0",
+            "2010 World Cup qualification"
+        ],
+        [
+            "27 May 2010",
+            "Nordjyske Arena , Aalborg",
+            "1-0",
+            "2-0",
+            "Friendly match"
+        ]
+    ]
+}

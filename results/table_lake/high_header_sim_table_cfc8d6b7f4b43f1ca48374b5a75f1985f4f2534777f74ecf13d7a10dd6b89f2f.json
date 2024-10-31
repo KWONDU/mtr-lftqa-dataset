@@ -1,0 +1,70 @@
+{
+    "id": "cfc8d6b7f4b43f1ca48374b5a75f1985f4f2534777f74ecf13d7a10dd6b89f2f",
+    "metadata": "1944 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "9.13 (67)",
+            "St Kilda",
+            "13.14 (92)",
+            "Kardinia Park",
+            "7000",
+            "24 June 1944"
+        ],
+        [
+            "Essendon",
+            "21.18 (144)",
+            "North Melbourne",
+            "8.12 (60)",
+            "Windy Hill",
+            "16000",
+            "24 June 1944"
+        ],
+        [
+            "Carlton",
+            "17.12 (114)",
+            "Collingwood",
+            "12.11 (83)",
+            "Princes Park",
+            "21000",
+            "24 June 1944"
+        ],
+        [
+            "South Melbourne",
+            "11.11 (77)",
+            "Richmond",
+            "17.10 (112)",
+            "Junction Oval",
+            "25000",
+            "24 June 1944"
+        ],
+        [
+            "Hawthorn",
+            "9.10 (64)",
+            "Footscray",
+            "14.18 (102)",
+            "Glenferrie Oval",
+            "12000",
+            "24 June 1944"
+        ],
+        [
+            "Melbourne",
+            "7.10 (52)",
+            "Fitzroy",
+            "10.17 (77)",
+            "Punt Road Oval",
+            "13000",
+            "24 June 1944"
+        ]
+    ]
+}

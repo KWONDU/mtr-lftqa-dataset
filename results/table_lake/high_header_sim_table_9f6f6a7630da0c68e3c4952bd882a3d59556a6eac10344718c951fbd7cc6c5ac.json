@@ -1,0 +1,61 @@
+{
+    "id": "9f6f6a7630da0c68e3c4952bd882a3d59556a6eac10344718c951fbd7cc6c5ac",
+    "metadata": "1943 VFL season | Round 10 | Round 10",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "9.23 (77)",
+            "North Melbourne",
+            "12.14 (86)",
+            "Western Oval",
+            "8000",
+            "10 July 1943"
+        ],
+        [
+            "Essendon",
+            "9.16 (70)",
+            "Melbourne",
+            "13.7 (85)",
+            "Windy Hill",
+            "8000",
+            "10 July 1943"
+        ],
+        [
+            "Collingwood",
+            "9.6 (60)",
+            "South Melbourne",
+            "16.14 (110)",
+            "Victoria Park",
+            "8000",
+            "10 July 1943"
+        ],
+        [
+            "Carlton",
+            "16.9 (105)",
+            "Hawthorn",
+            "11.14 (80)",
+            "Princes Park",
+            "12000",
+            "10 July 1943"
+        ],
+        [
+            "St Kilda",
+            "10.11 (71)",
+            "Fitzroy",
+            "14.14 (98)",
+            "Toorak Park",
+            "6000",
+            "10 July 1943"
+        ]
+    ]
+}

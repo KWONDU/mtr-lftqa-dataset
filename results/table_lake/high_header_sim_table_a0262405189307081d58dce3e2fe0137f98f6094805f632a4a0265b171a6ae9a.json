@@ -1,0 +1,91 @@
+{
+    "id": "a0262405189307081d58dce3e2fe0137f98f6094805f632a4a0265b171a6ae9a",
+    "metadata": "Comparison of Nvidia chipsets | nForce Professional | nForce Professional",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model",
+        "Processors_Supported",
+        "FSB_HT_Frequency_MHz",
+        "Memory",
+        "PCI_Express",
+        "SATA",
+        "PATA",
+        "Sound",
+        "Network",
+        "Features"
+    ],
+    "cell": [
+        [
+            "nForce3 Professional 150/250",
+            "AMD Opteron",
+            "HT 1.0 1.6 GHz",
+            "DDR 266/333/400 Registered/ECC",
+            "N/A",
+            "4",
+            "4",
+            "Enhanced AC`97 2.1",
+            "GbE: 1 connections",
+            "MediaShield"
+        ],
+        [
+            "nForce Professional 2200 MCP",
+            "AMD Opteron",
+            "HT 1.0 1.6 GHz",
+            "DDR 266/333/400 Registered/ECC",
+            "20 lanes, 4 links flexible x16: 2 slots",
+            "4",
+            "4",
+            "Enhanced AC`97 2.3",
+            "GbE: 1 connections",
+            "MediaShield"
+        ],
+        [
+            "nForce Professional 2200 MCP and 2050",
+            "AMD Opteron",
+            "HT 1.0 1.6 GHz",
+            "DDR 266/333/400 Registered/ECC",
+            "40 lanes, 8 links flexible x16: 2 slots",
+            "8",
+            "4",
+            "Enhanced AC`97 2.3",
+            "GbE: 2 connections",
+            "MediaShield"
+        ],
+        [
+            "nForce Professional 3400 MCP",
+            "AMD Opteron",
+            "HT 1 GHz 2000 MT/s",
+            "DDR2 667 Registered/ECC",
+            "28 lanes, 6 links fixed x16: 2 slots",
+            "6",
+            "2",
+            "HDA Azalia",
+            "GbE: 2 connections",
+            "MediaShield"
+        ],
+        [
+            "nForce Professional 3600 MCP",
+            "AMD Opteron",
+            "HT 1 GHz 2000 MT/s",
+            "DDR2 667 Registered/ECC",
+            "28 lanes, 6 links fixed x16: 2 slots",
+            "6",
+            "2",
+            "HDA Azalia",
+            "GbE: 2 connections",
+            "MediaShield"
+        ],
+        [
+            "nForce Professional 3600 MCP and 3050",
+            "AMD Opteron",
+            "HT 1 GHz 2000 MT/s",
+            "DDR2 667 Registered/ECC",
+            "56 lanes, 12 links flexible x16: 2 slots",
+            "12",
+            "4",
+            "HDA Azalia",
+            "GbE: 4 connections",
+            "MediaShield"
+        ]
+    ]
+}

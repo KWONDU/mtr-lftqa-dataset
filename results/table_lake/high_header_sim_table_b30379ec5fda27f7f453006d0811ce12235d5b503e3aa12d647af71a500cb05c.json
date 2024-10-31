@@ -1,0 +1,63 @@
+{
+    "id": "b30379ec5fda27f7f453006d0811ce12235d5b503e3aa12d647af71a500cb05c",
+    "metadata": "Multijunction photovoltaic cell | Comparison with other technologies | Comparison with other technologies",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Technology",
+        "\u03b7_",
+        "V_OC_V",
+        "I_SC_A",
+        "W_m\u00b2",
+        "t_\u00b5m"
+    ],
+    "cell": [
+        [
+            "u c-Si",
+            "24.7",
+            "0.5",
+            "0.8",
+            "63",
+            "100"
+        ],
+        [
+            "p c-Si",
+            "20.3",
+            "0.615",
+            "8.35",
+            "211",
+            "200"
+        ],
+        [
+            "a-Si",
+            "11.1",
+            "6.3",
+            "0.0089",
+            "33",
+            "1"
+        ],
+        [
+            "CdTe",
+            "16.5",
+            "0.86",
+            "0.029",
+            "-",
+            "5"
+        ],
+        [
+            "CIGS",
+            "19.5",
+            "-",
+            "-",
+            "-",
+            "1"
+        ],
+        [
+            "MJ",
+            "40.7",
+            "2.6",
+            "1.81",
+            "476",
+            "140"
+        ]
+    ]
+}

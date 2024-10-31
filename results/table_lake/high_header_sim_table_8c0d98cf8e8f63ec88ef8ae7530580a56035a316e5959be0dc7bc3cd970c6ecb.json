@@ -1,0 +1,61 @@
+{
+    "id": "8c0d98cf8e8f63ec88ef8ae7530580a56035a316e5959be0dc7bc3cd970c6ecb",
+    "metadata": "Nick Price | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "0",
+            "1",
+            "4",
+            "11",
+            "20",
+            "13"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "3",
+            "5",
+            "12",
+            "20",
+            "15"
+        ],
+        [
+            "The Open Championship",
+            "1",
+            "3",
+            "5",
+            "8",
+            "27",
+            "20"
+        ],
+        [
+            "PGA Championship",
+            "2",
+            "5",
+            "7",
+            "10",
+            "20",
+            "16"
+        ],
+        [
+            "Totals",
+            "3",
+            "12",
+            "21",
+            "41",
+            "87",
+            "64"
+        ]
+    ]
+}

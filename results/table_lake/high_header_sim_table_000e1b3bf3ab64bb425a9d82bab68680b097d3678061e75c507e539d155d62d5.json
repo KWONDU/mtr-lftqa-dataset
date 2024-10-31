@@ -1,0 +1,71 @@
+{
+    "id": "000e1b3bf3ab64bb425a9d82bab68680b097d3678061e75c507e539d155d62d5",
+    "metadata": "Peruvian Amazon | Biodiversity | Biodiversity",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Taxonomy",
+        "Species_in_the_world",
+        "Species_in_Peru",
+        "Species_in_the_Peruvian_Amazon",
+        "Peru_Vs_world_Percent",
+        "Peruvian_Amazon_Vs_Peru_Percent"
+    ],
+    "cell": [
+        [
+            "Amphibians",
+            "5125",
+            "403",
+            "262",
+            "8",
+            "65"
+        ],
+        [
+            "Birds",
+            "9672",
+            "1816",
+            "806",
+            "19",
+            "54"
+        ],
+        [
+            "Flowering plants (Angiosperms)",
+            "263537",
+            "17144",
+            "7372",
+            "7",
+            "43"
+        ],
+        [
+            "s Fern ( Pteridophyta )",
+            "10000",
+            "1000",
+            "700",
+            "10",
+            "70"
+        ],
+        [
+            "Mammals",
+            "4629",
+            "462",
+            "293",
+            "10",
+            "63"
+        ],
+        [
+            "Butterflies ( Lepidoptera )",
+            "16000",
+            "3366",
+            "2500",
+            "21",
+            "74"
+        ],
+        [
+            "Fish (river fish)",
+            "8411",
+            "900",
+            "697",
+            "11",
+            "77"
+        ]
+    ]
+}

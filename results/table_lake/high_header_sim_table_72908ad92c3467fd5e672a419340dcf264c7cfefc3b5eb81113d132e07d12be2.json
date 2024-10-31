@@ -1,0 +1,49 @@
+{
+    "id": "72908ad92c3467fd5e672a419340dcf264c7cfefc3b5eb81113d132e07d12be2",
+    "metadata": "2004-05 Manchester United F.C. season | League Cup | League Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponents",
+        "Result_F_A",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "26 October 2004",
+            "Round 3",
+            "Crewe Alexandra",
+            "3-0",
+            "10103"
+        ],
+        [
+            "10 November 2004",
+            "Round 4",
+            "Crystal Palace",
+            "2-0",
+            "48891"
+        ],
+        [
+            "1 December 2004",
+            "Quarter-final",
+            "Arsenal",
+            "1-0",
+            "67103"
+        ],
+        [
+            "12 January 2005",
+            "Semi-final First leg",
+            "Chelsea",
+            "0-0",
+            "41492"
+        ],
+        [
+            "26 January 2005",
+            "Semi-final Second leg",
+            "Chelsea",
+            "1-2",
+            "67000"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "3e31ce9aacfb4da822f52acbe2a251b2196a1c9369ef42aa11e0efc99e1330ca",
+    "metadata": "Coast Province | Population data | Population data",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Code",
+        "County",
+        "Former_Province",
+        "Area_km2",
+        "Population_Census_2009",
+        "Capital_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Mombasa",
+            "Coast",
+            "212.5",
+            "939370",
+            "Mombasa (City)"
+        ],
+        [
+            "2",
+            "Kwale",
+            "Coast",
+            "8270.3",
+            "649931",
+            "Kwale"
+        ],
+        [
+            "3",
+            "Kilifi",
+            "Coast",
+            "12245.9",
+            "1109735",
+            "Kilifi"
+        ],
+        [
+            "4",
+            "Tana River",
+            "Coast",
+            "35375.8",
+            "240075",
+            "Hola"
+        ],
+        [
+            "5",
+            "Lamu",
+            "Coast",
+            "6497.7",
+            "101539",
+            "Lamu"
+        ],
+        [
+            "6",
+            "Taita-Taveta",
+            "Coast",
+            "17083.9",
+            "284657",
+            "Voi"
+        ]
+    ]
+}

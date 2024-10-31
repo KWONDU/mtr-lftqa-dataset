@@ -1,0 +1,55 @@
+{
+    "id": "537a66f2bbba27fcf1f3b86a01f1adba239d86c8123d12b5aca1f39179c189eb",
+    "metadata": "FIFA Beach Soccer World Cup | Yearly Basis | Yearly Basis",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Location_",
+        "Number_of_teams",
+        "Player_of_the_tournament",
+        "Top_goalscorers",
+        "Best_goalkeeper"
+    ],
+    "cell": [
+        [
+            "2009 Details",
+            "Jumeirah Beach , Dubai , United Arab Emirates",
+            "Dejan Stankovic ( SUI )",
+            "16 goals Dejan Stankovic ( SUI )",
+            "M\u00e3o ( BRA )",
+            "269 (8.7)"
+        ],
+        [
+            "2008 Details",
+            "Plage du Prado , Marseille , France",
+            "Amarelle ( ESP )",
+            "13 goals Madjer ( POR )",
+            "Roberto Valeiro ( ESP )",
+            "258 (8.3)"
+        ],
+        [
+            "2007 Details",
+            "Copacabana Beach , Rio de Janeiro , Brazil",
+            "Buru ( BRA )",
+            "10 goals Buru ( BRA )",
+            "Not awarded",
+            "261 (8.2)"
+        ],
+        [
+            "2006 Details",
+            "Copacabana Beach , Rio de Janeiro , Brazil",
+            "Madjer ( POR )",
+            "21 goals Madjer ( POR )",
+            "Not awarded",
+            "286 (8.9)"
+        ],
+        [
+            "2005 Details",
+            "Copacabana Beach , Rio de Janeiro , Brazil",
+            "Madjer ( POR )",
+            "12 goals Madjer ( POR )",
+            "Not awarded",
+            "164 (8.2)"
+        ]
+    ]
+}

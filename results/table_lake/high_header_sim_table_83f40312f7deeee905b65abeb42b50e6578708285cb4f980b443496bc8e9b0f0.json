@@ -1,0 +1,49 @@
+{
+    "id": "83f40312f7deeee905b65abeb42b50e6578708285cb4f980b443496bc8e9b0f0",
+    "metadata": "2004 Iowa Hawkeyes football team | Team players in the NFL | Team players in the NFL",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Position_",
+        "Round",
+        "Pick",
+        "NFL_Club"
+    ],
+    "cell": [
+        [
+            "Matt Roth",
+            "Defensive End",
+            "2",
+            "46",
+            "Miami Dolphins"
+        ],
+        [
+            "Jonathan Babineaux",
+            "Defensive Tackle",
+            "2",
+            "59",
+            "Atlanta Falcons"
+        ],
+        [
+            "Sean Considine",
+            "Defensive Back",
+            "4",
+            "102",
+            "Philadelphia Eagles"
+        ],
+        [
+            "Tony Jackson",
+            "Tight End",
+            "6",
+            "196",
+            "Seattle Seahawks"
+        ],
+        [
+            "Pete McMahon",
+            "Tackle",
+            "6",
+            "214",
+            "Oakland Raiders"
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "c6ddecd105840cf8cbe29c1fc98fe93f7c433dad309e71df114b2f425b923f9a",
+    "metadata": "1953-54 Segunda Divisi\u00f3n | Promotion playoff | Promotion playoff",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Club",
+        "Played",
+        "Points",
+        "Wins",
+        "Draws",
+        "Losses",
+        "Goals_for",
+        "Goals_against",
+        "Goal_Difference"
+    ],
+    "cell": [
+        [
+            "1",
+            "M\u00e1laga",
+            "10",
+            "15",
+            "6",
+            "3",
+            "1",
+            "21",
+            "15",
+            "+6"
+        ],
+        [
+            "2",
+            "H\u00e9rcules",
+            "10",
+            "13",
+            "5",
+            "3",
+            "2",
+            "16",
+            "10",
+            "+6"
+        ],
+        [
+            "3",
+            "Osasuna",
+            "10",
+            "11",
+            "4",
+            "3",
+            "3",
+            "23",
+            "20",
+            "+3"
+        ],
+        [
+            "4",
+            "Barakaldo",
+            "10",
+            "9",
+            "3",
+            "3",
+            "4",
+            "18",
+            "20",
+            "-2"
+        ],
+        [
+            "5",
+            "L\u00e9rida",
+            "10",
+            "8",
+            "3",
+            "2",
+            "5",
+            "27",
+            "30",
+            "-3"
+        ],
+        [
+            "6",
+            "Real Ja\u00e9n",
+            "10",
+            "4",
+            "1",
+            "2",
+            "7",
+            "15",
+            "25",
+            "-10"
+        ]
+    ]
+}

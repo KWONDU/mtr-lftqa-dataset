@@ -1,0 +1,70 @@
+{
+    "id": "cbabeda4caffc56bdc8d9a059e5c3d959e8e937c962d05198d7405f5bc1bfbd8",
+    "metadata": "1948 VFL season | Round 3 | Round 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "10.11 (71)",
+            "South Melbourne",
+            "13.16 (94)",
+            "Arden Street Oval",
+            "19000",
+            "1 May 1948"
+        ],
+        [
+            "Footscray",
+            "12.12 (84)",
+            "Hawthorn",
+            "6.9 (45)",
+            "Western Oval",
+            "13000",
+            "1 May 1948"
+        ],
+        [
+            "St Kilda",
+            "11.12 (78)",
+            "Richmond",
+            "15.16 (106)",
+            "Junction Oval",
+            "14000",
+            "1 May 1948"
+        ],
+        [
+            "Melbourne",
+            "6.12 (48)",
+            "Fitzroy",
+            "12.14 (86)",
+            "MCG",
+            "31000",
+            "1 May 1948"
+        ],
+        [
+            "Essendon",
+            "16.12 (108)",
+            "Collingwood",
+            "14.9 (93)",
+            "Windy Hill",
+            "30000",
+            "1 May 1948"
+        ],
+        [
+            "Geelong",
+            "12.15 (87)",
+            "Carlton",
+            "13.11 (89)",
+            "Kardinia Park",
+            "23000",
+            "1 May 1948"
+        ]
+    ]
+}

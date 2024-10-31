@@ -1,0 +1,67 @@
+{
+    "id": "551bd5464b48dce2b69018d6ed23b875b47de9f8576fb0b855084e8cd4a6f11c",
+    "metadata": "2007-08 FIS Ski Jumping World Cup | Lillehammer | Lillehammer",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Nationality",
+        "_1st_m",
+        "_2nd_m",
+        "Points",
+        "Overall_NT_points",
+        "Overall_WC_points_Rank"
+    ],
+    "cell": [
+        [
+            "1",
+            "Gregor Schlierenzauer",
+            "AUT",
+            "132.0",
+            "129.5",
+            "257.9",
+            "632.3 (3)",
+            "1261 (2)"
+        ],
+        [
+            "2",
+            "Andreas K\u00fcttel",
+            "SUI",
+            "126.5",
+            "133.0",
+            "255.8",
+            "573.3 (12)",
+            "739 (6)"
+        ],
+        [
+            "3",
+            "Janne Happonen",
+            "FIN",
+            "124.5",
+            "135.0",
+            "255.3",
+            "634.2 (1)",
+            "614 (10)"
+        ],
+        [
+            "4",
+            "Janne Ahonen",
+            "FIN",
+            "126.5",
+            "133.0",
+            "253.8",
+            "632.5 (2)",
+            "1148 (3)"
+        ],
+        [
+            "5",
+            "Tom Hilde",
+            "NOR",
+            "133.5",
+            "123.0",
+            "248.9",
+            "622.1 (4)",
+            "1072 (4)"
+        ]
+    ]
+}

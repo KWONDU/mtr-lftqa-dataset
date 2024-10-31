@@ -1,0 +1,70 @@
+{
+    "id": "026422c5183664c005222eb4c3999c9bc8cb097e4d34fa5a42be0315d12792d6",
+    "metadata": "1967 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "North Melbourne",
+            "10.8 (68)",
+            "Richmond",
+            "11.22 (88)",
+            "Arden Street Oval",
+            "12750",
+            "6 May 1967"
+        ],
+        [
+            "Hawthorn",
+            "10.6 (66)",
+            "St Kilda",
+            "15.11 (101)",
+            "Glenferrie Oval",
+            "20352",
+            "6 May 1967"
+        ],
+        [
+            "Fitzroy",
+            "9.10 (64)",
+            "Geelong",
+            "22.13 (145)",
+            "Princes Park",
+            "9747",
+            "6 May 1967"
+        ],
+        [
+            "Collingwood",
+            "13.17 (95)",
+            "Footscray",
+            "5.7 (37)",
+            "Victoria Park",
+            "21855",
+            "6 May 1967"
+        ],
+        [
+            "South Melbourne",
+            "18.19 (127)",
+            "Essendon",
+            "13.10 (88)",
+            "Lake Oval",
+            "18756",
+            "6 May 1967"
+        ],
+        [
+            "Melbourne",
+            "5.15 (45)",
+            "Carlton",
+            "16.8 (104)",
+            "MCG",
+            "48513",
+            "6 May 1967"
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": "f20b947f3d9b5344033465fa12d02e17c7461aa667fdd0710f265dadd5f5c5c9",
+    "metadata": "2009-10 Portland Trail Blazers season | Game log | April",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "77",
+            "April 3",
+            "@ Sacramento",
+            "W 98-87 (OT)",
+            "Brandon Roy (24)",
+            "Marcus Camby (15)",
+            "Brandon Roy (6)",
+            "ARCO Arena 12,875",
+            "47-30"
+        ],
+        [
+            "78",
+            "April 7",
+            "@ LA Clippers",
+            "W 93-85 (OT)",
+            "LaMarcus Aldridge (27)",
+            "LaMarcus Aldridge (12)",
+            "Brandon Roy (6)",
+            "Staples Center 16,790",
+            "48-30"
+        ],
+        [
+            "79",
+            "April 9",
+            "Dallas",
+            "L 77-83 (OT)",
+            "LaMarcus Aldridge (27)",
+            "Marcus Camby (18)",
+            "Brandon Roy (6)",
+            "Rose Garden 20,693",
+            "48-31"
+        ],
+        [
+            "80",
+            "April 11",
+            "@ LA Lakers",
+            "W 91-88 (OT)",
+            "LaMarcus Aldridge (24)",
+            "Marcus Camby (17)",
+            "Andre Miller (7)",
+            "Staples Center 18,997",
+            "49-31"
+        ],
+        [
+            "81",
+            "April 12",
+            "Oklahoma City",
+            "W 103-95 (OT)",
+            "Marcus Camby (30)",
+            "Marcus Camby (13)",
+            "Andre Miller (7)",
+            "Rose Garden 20,691",
+            "50-31"
+        ]
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "id": "bf8e3ce996efd865aa97266aa2cb413c4511a31045beb85856d7350e766b6802",
+    "metadata": "Area (LDS Church) | Area details | Area details",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Area",
+        "Membership",
+        "Missions",
+        "Stakes_Districts",
+        "Congregations_wards_branches"
+    ],
+    "cell": [
+        [
+            "Africa Southeast",
+            "164491",
+            "11",
+            "30 stakes 23 districts",
+            "210 wards 296 branches"
+        ],
+        [
+            "Africa West",
+            "187021",
+            "9",
+            "30 stakes 33 districts",
+            "241 wards 296 branches"
+        ],
+        [
+            "Asia",
+            "160959",
+            "10",
+            "19 stakes 48 districts",
+            "132 wards 271 branches"
+        ],
+        [
+            "Asia North",
+            "218525",
+            "10",
+            "46 stakes 25 districts",
+            "255 wards 191 branches"
+        ],
+        [
+            "Brazil",
+            "1173258",
+            "27",
+            "242 stakes 49 districts",
+            "1,473 wards 466 branches"
+        ],
+        [
+            "Caribbean",
+            "182050",
+            "7",
+            "27 stakes 17 districts",
+            "169 wards 191 branches"
+        ],
+        [
+            "Central America",
+            "659010",
+            "14",
+            "99 stakes 46 districts",
+            "640 wards 426 branches"
+        ],
+        [
+            "Europe",
+            "456093",
+            "30",
+            "114 stakes 40 districts",
+            "716 wards 564 branches"
+        ],
+        [
+            "Europe East",
+            "41957",
+            "14",
+            "2 stakes 7 districts",
+            "14 wards 199 branches"
+        ],
+        [
+            "Idaho",
+            "382817",
+            "2",
+            "113 stakes 0 districts",
+            "915 wards 76 branches"
+        ],
+        [
+            "Mexico",
+            "1273199",
+            "24",
+            "222 stakes 36 districts",
+            "1543 wards 457 branches"
+        ],
+        [
+            "Middle East/Africa North",
+            "3907",
+            "0",
+            "1 stake 4 districts",
+            "6 wards 29 branches"
+        ],
+        [
+            "North America Central",
+            "575801",
+            "16",
+            "134 stakes 2 districts",
+            "1,018 wards 367 branches"
+        ],
+        [
+            "North America Northeast",
+            "589491",
+            "22",
+            "119 stakes 6 districts",
+            "883 wards 393 branches"
+        ],
+        [
+            "North America Northwest",
+            "493015",
+            "9",
+            "109 stakes 1 district",
+            "831 wards 175 branches"
+        ],
+        [
+            "North America Southeast",
+            "518431",
+            "17",
+            "101 stakes 0 districts",
+            "705 wards 293 branches"
+        ],
+        [
+            "North America Southwest",
+            "1037216",
+            "18",
+            "212 stakes 3 districts",
+            "1,704 wards 345 branches"
+        ],
+        [
+            "North America West",
+            "832409",
+            "17",
+            "171 stakes 0 districts",
+            "1,297 wards 167 branches"
+        ],
+        [
+            "Pacific",
+            "475043",
+            "13",
+            "110 stakes 35 districts",
+            "746 wards 371 branches"
+        ],
+        [
+            "Philippines",
+            "661598",
+            "17",
+            "83 stakes 85 districts",
+            "518 wards 600 branches"
+        ],
+        [
+            "South America Northwest",
+            "1219326",
+            "24",
+            "218 stakes 62 districts",
+            "1,413 wards 493 branches"
+        ],
+        [
+            "South America South",
+            "1150434",
+            "23",
+            "171 stakes 74 districts",
+            "1,071 wards 681 branches"
+        ],
+        [
+            "Utah North",
+            "547517",
+            "1",
+            "160 stakes 0 districts",
+            "1,289 wards 79 branches"
+        ],
+        [
+            "Utah Salt Lake City",
+            "691756",
+            "3",
+            "188 stakes 1 district",
+            "1,406 wards 139 branches"
+        ],
+        [
+            "Utah South",
+            "746082",
+            "2",
+            "225 stakes 0 districts",
+            "1,906 wards 118 branches"
+        ]
+    ]
+}

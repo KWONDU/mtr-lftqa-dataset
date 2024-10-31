@@ -1,0 +1,49 @@
+{
+    "id": "5511013fc59942dc9188afc82db5dc02510a6618e027dc7c22a7889a8086ff87",
+    "metadata": "Somali Airlines | Accidents and incidents | Accidents and incidents",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Location_",
+        "Aircraft",
+        "Tail_number",
+        "Aircraft_damage",
+        "Fatalities"
+    ],
+    "cell": [
+        [
+            "Mogadishu",
+            "Viscount 700",
+            "6O-AAJ",
+            "W/O",
+            "5/30"
+        ],
+        [
+            "Bosaso",
+            "Douglas C-47A",
+            "6O-SAC",
+            "W/O",
+            "0/11"
+        ],
+        [
+            "Balad",
+            "F-27-600RF",
+            "6O-SAY",
+            "W/O",
+            "50/50"
+        ],
+        [
+            "Nairobi",
+            "Boeing 707-320B",
+            "6O-SBT",
+            "W/O",
+            "0/70"
+        ],
+        [
+            "Hargeisa",
+            "F-27-600RF",
+            "6O-SAZ",
+            "W/O",
+            "30/30"
+        ]
+    ]
+}

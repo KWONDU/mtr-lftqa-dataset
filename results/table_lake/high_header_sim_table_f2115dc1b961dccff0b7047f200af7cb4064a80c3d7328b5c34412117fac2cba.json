@@ -1,0 +1,95 @@
+{
+    "id": "f2115dc1b961dccff0b7047f200af7cb4064a80c3d7328b5c34412117fac2cba",
+    "metadata": "1952 Winter Olympics | Medal count | Medal count",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Norway (host nation)",
+            "7",
+            "3",
+            "6",
+            "16"
+        ],
+        [
+            "2",
+            "United States",
+            "4",
+            "6",
+            "1",
+            "11"
+        ],
+        [
+            "3",
+            "Finland",
+            "3",
+            "4",
+            "2",
+            "9"
+        ],
+        [
+            "4",
+            "Germany",
+            "3",
+            "2",
+            "2",
+            "7"
+        ],
+        [
+            "5",
+            "Austria",
+            "2",
+            "4",
+            "2",
+            "8"
+        ],
+        [
+            "6",
+            "Canada",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "6",
+            "Italy",
+            "1",
+            "0",
+            "1",
+            "2"
+        ],
+        [
+            "8",
+            "Great Britain",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "9",
+            "Netherlands",
+            "0",
+            "3",
+            "0",
+            "3"
+        ],
+        [
+            "10",
+            "Sweden",
+            "0",
+            "0",
+            "4",
+            "4"
+        ]
+    ]
+}

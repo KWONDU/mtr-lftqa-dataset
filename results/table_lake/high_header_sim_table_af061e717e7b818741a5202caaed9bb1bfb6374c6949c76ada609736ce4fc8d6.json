@@ -1,0 +1,73 @@
+{
+    "id": "af061e717e7b818741a5202caaed9bb1bfb6374c6949c76ada609736ce4fc8d6",
+    "metadata": "2002-03 Boston Celtics season | Playoffs | Playoffs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Team",
+        "Score",
+        "High_points",
+        "High_rebounds",
+        "High_assists",
+        "Location_Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "1",
+            "April 19",
+            "@ Indiana Pacers",
+            "W 103-100",
+            "P. Pierce (40)",
+            "P. Pierce (11)",
+            "P. Pierce (6)",
+            "Conseco Fieldhouse",
+            "1-0"
+        ],
+        [
+            "2",
+            "April 21",
+            "@ Indiana Pacers",
+            "L 77-89",
+            "A. Walker (19)",
+            "T. Battie (11)",
+            "P. Pierce (6)",
+            "Conseco Fieldhouse",
+            "1-1"
+        ],
+        [
+            "3",
+            "April 24",
+            "Indiana Pacers",
+            "W 101-83",
+            "P. Pierce (21)",
+            "P. Pierce (12)",
+            "W. McCarty (6)",
+            "FleetCenter",
+            "2-1"
+        ],
+        [
+            "4",
+            "April 26",
+            "Indiana Pacers",
+            "W 102-92",
+            "P. Pierce (37)",
+            "A. Walker (11)",
+            "P. Pierce (7)",
+            "FleetCenter",
+            "3-1"
+        ],
+        [
+            "5",
+            "May 3",
+            "@ Indiana Pacers",
+            "L 88-93",
+            "A. Walker (21)",
+            "E. Williams (8)",
+            "P. Pierce (8)",
+            "Conseco Fieldhouse",
+            "3-2"
+        ]
+    ]
+}

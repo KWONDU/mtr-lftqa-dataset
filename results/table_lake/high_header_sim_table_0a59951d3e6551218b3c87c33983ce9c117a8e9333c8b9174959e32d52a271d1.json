@@ -1,0 +1,133 @@
+{
+    "id": "0a59951d3e6551218b3c87c33983ce9c117a8e9333c8b9174959e32d52a271d1",
+    "metadata": "1990 Denver Broncos season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 9, 1990",
+            "at Los Angeles Raiders",
+            "L 14-9",
+            "54206"
+        ],
+        [
+            "2",
+            "September 17, 1990",
+            "Kansas City Chiefs",
+            "W 24-23",
+            "75277"
+        ],
+        [
+            "3",
+            "September 23, 1990",
+            "Seattle Seahawks",
+            "W 34-31",
+            "75290"
+        ],
+        [
+            "4",
+            "September 30, 1990",
+            "at Buffalo Bills",
+            "L 29-28",
+            "74393"
+        ],
+        [
+            "5",
+            "October 8, 1990",
+            "Cleveland Browns",
+            "L 30-29",
+            "74814"
+        ],
+        [
+            "6",
+            "October 14, 1990",
+            "Pittsburgh Steelers",
+            "L 34-17",
+            "74285"
+        ],
+        [
+            "7",
+            "October 21, 1990",
+            "at Indianapolis Colts",
+            "W 27-17",
+            "59850"
+        ],
+        [
+            "8",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "9",
+            "November 4, 1990",
+            "at Minnesota Vikings",
+            "L 27-22",
+            "57331"
+        ],
+        [
+            "10",
+            "November 11, 1990",
+            "at San Diego Chargers",
+            "L 19-7",
+            "59557"
+        ],
+        [
+            "11",
+            "November 18, 1990",
+            "Chicago Bears",
+            "L 16-13",
+            "75013"
+        ],
+        [
+            "12",
+            "November 22, 1990",
+            "at Detroit Lions",
+            "L 40-27",
+            "73896"
+        ],
+        [
+            "13",
+            "December 2, 1990",
+            "Los Angeles Raiders",
+            "L 23-20",
+            "74162"
+        ],
+        [
+            "14",
+            "December 9, 1990",
+            "at Kansas City Chiefs",
+            "L 31-20",
+            "74347"
+        ],
+        [
+            "15",
+            "December 16, 1990",
+            "San Diego Chargers",
+            "W 20-10",
+            "64919"
+        ],
+        [
+            "16",
+            "December 23, 1990",
+            "at Seattle Seahawks",
+            "L 17-12",
+            "55845"
+        ],
+        [
+            "17",
+            "December 30, 1990",
+            "Green Bay Packers",
+            "W 22-13",
+            "46943"
+        ]
+    ]
+}

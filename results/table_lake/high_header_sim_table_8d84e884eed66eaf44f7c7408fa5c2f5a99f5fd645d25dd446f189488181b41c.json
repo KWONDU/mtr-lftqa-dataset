@@ -1,0 +1,63 @@
+{
+    "id": "8d84e884eed66eaf44f7c7408fa5c2f5a99f5fd645d25dd446f189488181b41c",
+    "metadata": "List of England national rugby union team results 1980-89 | 1985 | 1985",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Teams",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Romania",
+            "15",
+            "05/01/1985",
+            "Twickenham , London",
+            "Test Match"
+        ],
+        [
+            "France",
+            "9",
+            "02/02/1985",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Scotland",
+            "7",
+            "16/03/1985",
+            "Twickenham , London",
+            "Five Nations"
+        ],
+        [
+            "Ireland",
+            "13",
+            "30/03/1985",
+            "Lansdowne Road , Dublin",
+            "Five Nations"
+        ],
+        [
+            "Wales",
+            "24",
+            "20/04/1985",
+            "Cardiff Arms Park , Cardiff",
+            "Five Nations"
+        ],
+        [
+            "New Zealand",
+            "18",
+            "01/06/1985",
+            "Lancaster Park , Christchurch",
+            "First Test"
+        ],
+        [
+            "New Zealand",
+            "42",
+            "08/06/1985",
+            "Athletic Park , Wellington",
+            "Second Test"
+        ]
+    ]
+}

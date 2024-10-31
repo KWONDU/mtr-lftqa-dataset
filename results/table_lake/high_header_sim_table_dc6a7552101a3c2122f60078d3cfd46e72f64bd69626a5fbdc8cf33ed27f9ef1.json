@@ -1,0 +1,84 @@
+{
+    "id": "dc6a7552101a3c2122f60078d3cfd46e72f64bd69626a5fbdc8cf33ed27f9ef1",
+    "metadata": "Vittorio Brambilla | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1974",
+            "Beta Tools / March Engineering",
+            "March 741",
+            "Cosworth V8",
+            "1"
+        ],
+        [
+            "1975",
+            "Beta Team March",
+            "March 741",
+            "Cosworth V8",
+            "6.5"
+        ],
+        [
+            "1975",
+            "Beta Team March",
+            "March 751",
+            "Cosworth V8",
+            "6.5"
+        ],
+        [
+            "1976",
+            "Beta Team March",
+            "March 761",
+            "Cosworth V8",
+            "1"
+        ],
+        [
+            "1977",
+            "Beta Team Surtees",
+            "Surtees TS19",
+            "Cosworth V8",
+            "6"
+        ],
+        [
+            "1978",
+            "Beta Team Surtees",
+            "Surtees TS19",
+            "Cosworth V8",
+            "1"
+        ],
+        [
+            "1978",
+            "Beta Team Surtees",
+            "Surtees TS20",
+            "Cosworth V8",
+            "1"
+        ],
+        [
+            "1979",
+            "Autodelta",
+            "Alfa Romeo 177",
+            "Alfa Romeo Flat-12",
+            "0"
+        ],
+        [
+            "1979",
+            "Autodelta",
+            "Alfa Romeo 179",
+            "Alfa Romeo Flat-12",
+            "0"
+        ],
+        [
+            "1980",
+            "Marlboro Team Alfa Romeo",
+            "Alfa Romeo 179",
+            "Alfa Romeo V12",
+            "0"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "4e7540af809dfdf275b5e9edf827f8fa8961dac5558ac336baee31d774680dbe",
+    "metadata": "1970 VFL season | Round 8 | Round 8",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "15.10 (100)",
+            "Richmond",
+            "18.19 (127)",
+            "MCG",
+            "36064",
+            "23 May 1970"
+        ],
+        [
+            "Hawthorn",
+            "21.20 (146)",
+            "South Melbourne",
+            "12.12 (84)",
+            "Glenferrie Oval",
+            "17063",
+            "23 May 1970"
+        ],
+        [
+            "Geelong",
+            "14.5 (89)",
+            "St Kilda",
+            "12.9 (81)",
+            "Kardinia Park",
+            "20942",
+            "23 May 1970"
+        ],
+        [
+            "North Melbourne",
+            "9.13 (67)",
+            "Footscray",
+            "13.18 (96)",
+            "Arden Street Oval",
+            "13475",
+            "23 May 1970"
+        ],
+        [
+            "Fitzroy",
+            "9.14 (68)",
+            "Essendon",
+            "11.5 (71)",
+            "Junction Oval",
+            "12264",
+            "23 May 1970"
+        ],
+        [
+            "Carlton",
+            "12.13 (85)",
+            "Collingwood",
+            "16.12 (108)",
+            "VFL Park",
+            "55332",
+            "23 May 1970"
+        ]
+    ]
+}

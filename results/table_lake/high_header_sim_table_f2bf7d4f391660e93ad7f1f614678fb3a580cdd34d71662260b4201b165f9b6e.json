@@ -1,0 +1,95 @@
+{
+    "id": "f2bf7d4f391660e93ad7f1f614678fb3a580cdd34d71662260b4201b165f9b6e",
+    "metadata": "1998 Super Tourenwagen Cup season | Race calendar and winners | Race calendar and winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Race",
+        "Circuit",
+        "Date_",
+        "Event",
+        "Winning_driver"
+    ],
+    "cell": [
+        [
+            "1",
+            "Int. ADAC-Preis Hockenheim",
+            "Hockenheimring",
+            "19 April",
+            "Sprint Race",
+            "Uwe Alzen Manuel Reuter"
+        ],
+        [
+            "2",
+            "60. Int. ADAC Eifelrennen",
+            "N\u00fcrburgring",
+            "10 May",
+            "Sprint Race",
+            "Roland Asch Johnny Cecotto"
+        ],
+        [
+            "3",
+            "Sachsenring",
+            "Sachsenring",
+            "24 May",
+            "Sprint Race",
+            "Johnny Cecotto Johnny Cecotto"
+        ],
+        [
+            "4",
+            "200 Meilen von N\u00fcrnberg",
+            "Norisring",
+            "6 July",
+            "Sprint Race",
+            "J\u00f6rg van Ommen Laurent Aiello"
+        ],
+        [
+            "5",
+            "ADAC-Regio-Preis Lahr",
+            "Regio-Ring",
+            "19 July",
+            "Sprint Race",
+            "Uwe Alzen Gabriele Tarquini"
+        ],
+        [
+            "6",
+            "35. Int. ADAC - Flugplatzrennen",
+            "Wunstorf",
+            "2 August",
+            "Sprint Race",
+            "Laurent Aiello Manuel Reuter"
+        ],
+        [
+            "7",
+            "Int. ADAC Preis von Zweibr\u00fccken",
+            "Zweibr\u00fccken",
+            "16 August",
+            "Sprint Race",
+            "Johnny Cecotto Johnny Cecotto"
+        ],
+        [
+            "8",
+            "Int. ADAC Alpentroph\u00e4e",
+            "Salzburgring",
+            "30 August",
+            "Sprint Race",
+            "Laurent Aiello Laurent Aiello"
+        ],
+        [
+            "9",
+            "Int. ADAC-Preis der Tourenwagen von Sachsen-Anhalt",
+            "Motorsport Arena Oschersleben",
+            "13 September",
+            "Sprint Race",
+            "Laurent Aiello Laurent Aiello"
+        ],
+        [
+            "10",
+            "25. ADAC Bilstein Supersprint",
+            "N\u00fcrburgring",
+            "4 October",
+            "Sprint Race",
+            "Manuel Reuter Eric H\u00e9lary"
+        ]
+    ]
+}

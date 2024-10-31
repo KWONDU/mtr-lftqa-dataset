@@ -1,0 +1,103 @@
+{
+    "id": "6b9b6fd004523880b0dd42099ff3f987e95bd2e8c490920d025bf2f1695f3c9e",
+    "metadata": "J/80 | World championships | World championships",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Location_",
+        "Entries",
+        "Winning_Boat",
+        "Country",
+        "Skipper"
+    ],
+    "cell": [
+        [
+            "2013",
+            "Marseille , France",
+            "117",
+            "New territoriess",
+            "POR",
+            "Hugo Rocha"
+        ],
+        [
+            "2012",
+            "Dartmouth , UK",
+            "76",
+            "Nilfisk",
+            "ESP",
+            "Jos\u00e9 van der Ploeg"
+        ],
+        [
+            "2011",
+            "Copenhagen , Denmark",
+            "67",
+            "Nextel Engineering",
+            "ESP",
+            "Ignacio Camino"
+        ],
+        [
+            "2010",
+            "Newport , USA",
+            "61",
+            "ECC Viviendas",
+            "ESP",
+            "Jose Maria Torcida"
+        ],
+        [
+            "2009",
+            "Santander , Spain",
+            "134",
+            "Princesa Yaiza",
+            "ESP",
+            "Rayco Tabares"
+        ],
+        [
+            "2008",
+            "Kiel , Baltic Sea",
+            "64",
+            "Nextel Engineering",
+            "ESP",
+            "Ignacio Camino"
+        ],
+        [
+            "2007",
+            "La Trinit\u00e9 sur Mer , France",
+            "125",
+            "ECC Viviendas",
+            "ESP",
+            "Jose Maria Torcida"
+        ],
+        [
+            "2006",
+            "Corpus Christi, TX , USA",
+            "34",
+            "L`Glide",
+            "USA",
+            "Glenn Darden"
+        ],
+        [
+            "2005",
+            "Falmouth , UK",
+            "52",
+            "Volvo",
+            "GBR",
+            "Ruairidh Scott"
+        ],
+        [
+            "2004",
+            "Royal Swedish Yacht Club, Stockholm",
+            "56",
+            "Out of Space",
+            "SWE",
+            "Peder Arvefors"
+        ],
+        [
+            "2003",
+            "Ft. Worth , Texas , USA",
+            "49",
+            "Synergy",
+            "USA",
+            "Jay Lutz"
+        ]
+    ]
+}

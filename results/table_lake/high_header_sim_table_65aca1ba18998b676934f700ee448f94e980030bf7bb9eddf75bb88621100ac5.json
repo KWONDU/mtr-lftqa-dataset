@@ -1,0 +1,77 @@
+{
+    "id": "65aca1ba18998b676934f700ee448f94e980030bf7bb9eddf75bb88621100ac5",
+    "metadata": "List of VIA C7 microprocessors | (90 nm) | (90 nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Frequency",
+        "L2_Cache",
+        "Front_Side_Bus",
+        "Multiplier",
+        "Voltage",
+        "Socket",
+        "Release_Date"
+    ],
+    "cell": [
+        [
+            "C7 1.0",
+            "1000\u2009MHz",
+            "128\u2009KiB",
+            "400\u2009MT/s",
+            "10\u00d7",
+            "V",
+            "NanoBGA2",
+            "May 27, 2005"
+        ],
+        [
+            "C7 1.3",
+            "1300\u2009MHz",
+            "128\u2009KiB",
+            "400\u2009MT/s",
+            "13\u00d7",
+            "1.004\u2009V",
+            "NanoBGA2",
+            "May 27, 2005"
+        ],
+        [
+            "C7 1.5",
+            "1500\u2009MHz",
+            "128\u2009KiB",
+            "400\u2009MT/s",
+            "15\u00d7",
+            "V",
+            "NanoBGA2",
+            "May 27, 2005"
+        ],
+        [
+            "C7 1.6",
+            "1600\u2009MHz",
+            "128\u2009KiB",
+            "400\u2009MT/s",
+            "16\u00d7",
+            "V",
+            "NanoBGA2",
+            "May 27, 2005"
+        ],
+        [
+            "C7 1.8",
+            "1800\u2009MHz",
+            "128\u2009KiB",
+            "800\u2009MT/s",
+            "9\u00d7",
+            "V",
+            "NanoBGA2",
+            "May 27, 2005"
+        ],
+        [
+            "C7 2.0",
+            "2000\u2009MHz",
+            "128\u2009KiB",
+            "800\u2009MT/s",
+            "10\u00d7",
+            "V",
+            "NanoBGA2",
+            "May 27, 2005"
+        ]
+    ]
+}

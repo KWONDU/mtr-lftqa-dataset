@@ -1,0 +1,49 @@
+{
+    "id": "7760defff2448187867b839715ad9666cafe105eee35f7cfbaea4093133486ed",
+    "metadata": "History of Test cricket from 1901 to 1914 | Australia in England 1902 | Australia in England 1902",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "29,30-31 May 1902",
+            "Archie MacLaren",
+            "Joe Darling",
+            "Edgbaston",
+            "DRAW"
+        ],
+        [
+            "12,13,14 Jun 1902",
+            "Archie MacLaren",
+            "Joe Darling",
+            "Lord`s",
+            "DRAW"
+        ],
+        [
+            "3,4,5 Jul 1902",
+            "Archie MacLaren",
+            "Joe Darling",
+            "Bramall Lane",
+            "AUS by 143 runs"
+        ],
+        [
+            "24,25,26 Jul 1902",
+            "Archie MacLaren",
+            "Joe Darling",
+            "Old Trafford",
+            "AUS by 3 runs"
+        ],
+        [
+            "11,12,13 Aug 1902",
+            "Archie MacLaren",
+            "Joe Darling",
+            "Oval",
+            "ENG by 1 wkt"
+        ]
+    ]
+}

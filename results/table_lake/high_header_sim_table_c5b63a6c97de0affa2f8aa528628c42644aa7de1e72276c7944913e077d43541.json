@@ -1,0 +1,70 @@
+{
+    "id": "c5b63a6c97de0affa2f8aa528628c42644aa7de1e72276c7944913e077d43541",
+    "metadata": "Paula Mataele | Boxing record | Boxing record",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Result_",
+        "Record",
+        "Opponent",
+        "Method_",
+        "Event",
+        "Round",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Win",
+            "6-0",
+            "Phillip Hellesoe",
+            "TKO",
+            "Sky City Convention Centre",
+            "2",
+            "Auckland, New Zealand"
+        ],
+        [
+            "Win",
+            "5-0",
+            "Jeremiah Constant",
+            "TKO",
+            "Caesars Tahoe",
+            "1",
+            "Stateline, Nevada, USA"
+        ],
+        [
+            "Win",
+            "4-0",
+            "James Auimatagi",
+            "TKO",
+            "ABA Stadium",
+            "2",
+            "Kohimarama, New Zealand"
+        ],
+        [
+            "Win",
+            "3-0",
+            "Richard Tutaki",
+            "KO",
+            "ASB Stadium",
+            "2",
+            "Auckland, New Zealand"
+        ],
+        [
+            "Win",
+            "2-0",
+            "Bob Gasio",
+            "TKO",
+            "ABA Stadium",
+            "3",
+            "Auckland, New Zealand"
+        ],
+        [
+            "Win",
+            "1-0",
+            "Toa Naketoatama",
+            "Decision",
+            "ABA Stadium",
+            "4",
+            "Kohimarama, New Zealand"
+        ]
+    ]
+}

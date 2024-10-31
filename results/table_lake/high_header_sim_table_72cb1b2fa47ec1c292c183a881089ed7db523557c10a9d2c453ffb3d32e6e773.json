@@ -1,0 +1,91 @@
+{
+    "id": "72cb1b2fa47ec1c292c183a881089ed7db523557c10a9d2c453ffb3d32e6e773",
+    "metadata": "Kevin Mirocha | Career summary | Career summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Series",
+        "Team",
+        "Races",
+        "Wins",
+        "Poles",
+        "F_Laps",
+        "Podiums",
+        "Points",
+        "Position_"
+    ],
+    "cell": [
+        [
+            "2007",
+            "Formula BMW ADAC",
+            "ADAC Berlin-Brandenburg",
+            "18",
+            "0",
+            "0",
+            "0",
+            "1",
+            "389",
+            "8th"
+        ],
+        [
+            "2007",
+            "Formula BMW World Final",
+            "Josef Kaufmann Racing",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "N/A",
+            "22nd"
+        ],
+        [
+            "2008",
+            "ATS Formel 3 Cup",
+            "Josef Kaufmann Racing",
+            "18",
+            "0",
+            "0",
+            "0",
+            "4",
+            "56",
+            "6th"
+        ],
+        [
+            "2009",
+            "Formula 3 Euro Series",
+            "HBR Motorsport",
+            "6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "29th"
+        ],
+        [
+            "2010",
+            "Formula Renault 2.0 NEC",
+            "SL Formula Racing",
+            "8",
+            "1",
+            "0",
+            "2",
+            "3",
+            "137",
+            "9th"
+        ],
+        [
+            "2011",
+            "GP2 Series",
+            "Ocean Racing Technology",
+            "14",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "22nd"
+        ]
+    ]
+}

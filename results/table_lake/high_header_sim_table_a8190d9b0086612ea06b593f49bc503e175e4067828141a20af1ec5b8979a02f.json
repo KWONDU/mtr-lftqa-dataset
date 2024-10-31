@@ -1,0 +1,49 @@
+{
+    "id": "a8190d9b0086612ea06b593f49bc503e175e4067828141a20af1ec5b8979a02f",
+    "metadata": "Third Eye (Monsoon album) | Release history | Release history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Region",
+        "Date_",
+        "Label",
+        "Format",
+        "Catalog_"
+    ],
+    "cell": [
+        [
+            "United Kingdom",
+            "1983",
+            "The Mobile Suit Corporation",
+            "stereo LP",
+            "MOBIL 1"
+        ],
+        [
+            "United Kingdom",
+            "1983",
+            "Great Expectations",
+            "LP",
+            "PIPLP 001"
+        ],
+        [
+            "Netherlands",
+            "1983",
+            "Mercury",
+            "LP",
+            "812 897-1"
+        ],
+        [
+            "France",
+            "1988",
+            "Great Expectations",
+            "CD",
+            "PIPCD 001"
+        ],
+        [
+            "United States",
+            "1995",
+            "Mercury",
+            "CD as Monsoon featuring Sheila Chandra",
+            "314 526 527-2"
+        ]
+    ]
+}

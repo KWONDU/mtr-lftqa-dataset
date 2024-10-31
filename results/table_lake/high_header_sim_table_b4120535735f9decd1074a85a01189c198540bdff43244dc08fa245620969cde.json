@@ -1,0 +1,106 @@
+{
+    "id": "b4120535735f9decd1074a85a01189c198540bdff43244dc08fa245620969cde",
+    "metadata": "Hoosier Crossroads Conference | Member schools | Member schools",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "County",
+        "_2013_2014_Size",
+        "Year_Joined",
+        "Previous_Conference"
+    ],
+    "cell": [
+        [
+            "Avon",
+            "Avon",
+            "Orioles",
+            "32 Hendricks",
+            "2608",
+            "2000",
+            "Mid-State"
+        ],
+        [
+            "Brownsburg",
+            "Brownsburg",
+            "Bulldogs",
+            "32 Hendricks",
+            "2370",
+            "2000",
+            "Olympic"
+        ],
+        [
+            "Fishers",
+            "Fishers",
+            "Tigers",
+            "29 Hamilton",
+            "2582",
+            "2006",
+            "none (new school)"
+        ],
+        [
+            "Hamilton Southeastern",
+            "Fishers",
+            "Royals",
+            "29 Hamilton",
+            "3009",
+            "2000",
+            "Olympic"
+        ],
+        [
+            "Harrison (West Lafayette)",
+            "West Lafayette",
+            "Raiders",
+            "79 Tippecanoe",
+            "1740",
+            "2000",
+            "Olympic"
+        ],
+        [
+            "Lafayette Jeff",
+            "Lafayette",
+            "Bronchos",
+            "79 Tippecanoe",
+            "1935",
+            "2004",
+            "North Central"
+        ],
+        [
+            "McCutcheon",
+            "Lafayette",
+            "Mavericks",
+            "79 Tippecanoe",
+            "1809",
+            "2000",
+            "Olympic"
+        ],
+        [
+            "Noblesville",
+            "Noblesville",
+            "Millers",
+            "29 Hamilton",
+            "2637",
+            "2000",
+            "Olympic"
+        ],
+        [
+            "Westfield",
+            "Westfield",
+            "Shamrocks",
+            "29 Hamilton",
+            "1821",
+            "2000",
+            "Rangeline"
+        ],
+        [
+            "Zionsville",
+            "Zionsville",
+            "Eagles",
+            "06 Boone",
+            "1808",
+            "2000",
+            "Rangeline"
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "ff117063cf6fcb827c318a00fd7c5cbd639bba00d865fddc6cc6d18c6246adad",
+    "metadata": "Racquetball at the World Games | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "United States",
+            "9",
+            "6",
+            "4",
+            "19"
+        ],
+        [
+            "2",
+            "Mexico",
+            "3",
+            "2",
+            "2",
+            "7"
+        ],
+        [
+            "3",
+            "Canada",
+            "0",
+            "2",
+            "4",
+            "6"
+        ],
+        [
+            "5",
+            "Netherlands",
+            "0",
+            "1",
+            "1",
+            "2"
+        ],
+        [
+            "4",
+            "Colombia",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Chile",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "Total",
+            "Total",
+            "12",
+            "12",
+            "12",
+            "36"
+        ]
+    ]
+}

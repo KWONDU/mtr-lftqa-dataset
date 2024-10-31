@@ -1,0 +1,70 @@
+{
+    "id": "421fdb211b666bd4d1483df9f3119c36c22f6734988f92207f292c29005e377a",
+    "metadata": "Bergen Tramway | Trams | Trams",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Class_",
+        "Quantity",
+        "Manufacturer",
+        "Motor",
+        "Seats"
+    ],
+    "cell": [
+        [
+            "BS 1897",
+            "16",
+            "Falkenried",
+            "UEG",
+            "16"
+        ],
+        [
+            "BS 1910",
+            "6",
+            "Unknown",
+            "AEG",
+            "16"
+        ],
+        [
+            "BS 1913",
+            "8",
+            "Nordwaggon",
+            "AEG",
+            "24"
+        ],
+        [
+            "BS 1915",
+            "10",
+            "P. Herbrand & Cie",
+            "AEG",
+            "18"
+        ],
+        [
+            "BS 1921",
+            "19",
+            "Nordwaggon",
+            "AEG",
+            "24"
+        ],
+        [
+            "KES 1909",
+            "1",
+            "P. Herbrand & Cie",
+            "Siemens",
+            "24"
+        ],
+        [
+            "KSS 1913",
+            "1",
+            "Falkenried",
+            "Siemens",
+            "16"
+        ],
+        [
+            "BS 1947",
+            "10",
+            "Str\u00f8mmen",
+            "Norsk Elektrisk og Brown Boveri",
+            "23"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1dd867e95c7ecd76877d51f794caa331edcfb64dbb2dcf76c3128b321e349a3f",
+    "metadata": "Jhalak Dikhhla Jaa (Indian Dance Series) | Series winners | Series winners",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Season_Premiere_Date",
+        "Season_Finale_Date",
+        "Winner",
+        "_1st_Runner_Up",
+        "_2nd_Runner_Up"
+    ],
+    "cell": [
+        [
+            "1",
+            "8 September 2006",
+            "4 November 2006",
+            "Mona Singh",
+            "Shweta Salve",
+            "Mahesh Manjrekar"
+        ],
+        [
+            "2",
+            "28 September 2007",
+            "15 December 2007",
+            "Prachi Desai",
+            "Sandhya Mridul",
+            "Jay Bhanushali"
+        ],
+        [
+            "3",
+            "27 February 2009",
+            "31 May 2009",
+            "Baichung Bhutia",
+            "Gauhar Khan",
+            "Karan Singh Grover"
+        ],
+        [
+            "4",
+            "12 December 2010",
+            "8 March 2011",
+            "Meiyang Chang",
+            "Sushant Singh Rajput",
+            "Yana Gupta"
+        ],
+        [
+            "5",
+            "16 June 2012",
+            "30 September 2012",
+            "Gurmeet Choudhary",
+            "Rashmi Desai",
+            "Rithvik Dhanjani"
+        ]
+    ]
+}

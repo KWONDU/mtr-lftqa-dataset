@@ -1,0 +1,63 @@
+{
+    "id": "4a1635ca3e0ce0819d357ec62b2cf589e89e875374ff6b4ddb98341412d7064c",
+    "metadata": "Gil Morgan | PGA Tour wins (7) | PGA Tour wins (7)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Winning_score",
+        "Margin_of_victory",
+        "Runners_up"
+    ],
+    "cell": [
+        [
+            "Sep 11, 1977",
+            "B.C. Open",
+            "\u221214 (67-65-69-69=270)",
+            "5 strokes",
+            "Lee Elder"
+        ],
+        [
+            "Feb 19, 1978",
+            "Glen Campbell-Los Angeles Open",
+            "\u22126 (66-69-73-70=278)",
+            "2 strokes",
+            "Jack Nicklaus"
+        ],
+        [
+            "Jan 9, 1978",
+            "World Series of Golf",
+            "\u22122 (71-72-67-68=278)",
+            "Playoff",
+            "Hubert Green"
+        ],
+        [
+            "Jul 1, 1979",
+            "Danny Thomas Memphis Classic",
+            "\u221210 (72-71-69-66=278)",
+            "Playoff",
+            "Larry Nelson"
+        ],
+        [
+            "Jan 9, 1983",
+            "Joe Garagiola-Tucson Open",
+            "\u22129 (65-71-68-67=271)",
+            "Playoff",
+            "Curtis Strange , Lanny Wadkins"
+        ],
+        [
+            "Jan 16, 1983",
+            "Glen Campbell-Los Angeles Open",
+            "\u221214 (71-68-63-68=270)",
+            "2 strokes",
+            "Lanny Wadkins"
+        ],
+        [
+            "Jun 3, 1990",
+            "Kemper Open",
+            "\u221213 (68-67-70-69=274)",
+            "1 stroke",
+            "Ian Baker-Finch"
+        ]
+    ]
+}

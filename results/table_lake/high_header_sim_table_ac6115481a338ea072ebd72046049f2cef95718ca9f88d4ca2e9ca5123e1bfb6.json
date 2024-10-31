@@ -1,0 +1,49 @@
+{
+    "id": "ac6115481a338ea072ebd72046049f2cef95718ca9f88d4ca2e9ca5123e1bfb6",
+    "metadata": "Vienna U-Bahn | U-Bahn network | U-Bahn network",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Line",
+        "Colour",
+        "Route",
+        "Length_",
+        "Stations"
+    ],
+    "cell": [
+        [
+            "U 1",
+            "red",
+            "Reumannplatz - Leopoldau",
+            "14.6km (9.1mi)",
+            "19"
+        ],
+        [
+            "U 2",
+            "purple",
+            "Karlsplatz - Seestadt",
+            "16.7km (10.4mi)",
+            "20"
+        ],
+        [
+            "U 3",
+            "orange",
+            "Ottakring - Simmering",
+            "13.5km (8.4mi)",
+            "21"
+        ],
+        [
+            "U 4",
+            "green",
+            "H\u00fctteldorf - Heiligenstadt",
+            "16.5km (10.3mi)",
+            "20"
+        ],
+        [
+            "U 6",
+            "brown",
+            "Siebenhirten - Floridsdorf",
+            "17.4km (10.8mi)",
+            "24"
+        ]
+    ]
+}

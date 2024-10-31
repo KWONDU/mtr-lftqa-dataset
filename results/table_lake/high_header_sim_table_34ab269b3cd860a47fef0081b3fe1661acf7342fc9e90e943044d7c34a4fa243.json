@@ -1,0 +1,55 @@
+{
+    "id": "34ab269b3cd860a47fef0081b3fe1661acf7342fc9e90e943044d7c34a4fa243",
+    "metadata": "1998 PGA Tour | Leaders | Money leaders",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Player",
+        "Country",
+        "Earnings_",
+        "Events",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1",
+            "David Duval",
+            "United States",
+            "2591031",
+            "23",
+            "4"
+        ],
+        [
+            "2",
+            "Vijay Singh",
+            "Fiji",
+            "2238998",
+            "26",
+            "2"
+        ],
+        [
+            "3",
+            "Jim Furyk",
+            "United States",
+            "2054334",
+            "28",
+            "1"
+        ],
+        [
+            "4",
+            "Tiger Woods",
+            "United States",
+            "1841117",
+            "20",
+            "1"
+        ],
+        [
+            "5",
+            "Hal Sutton",
+            "United States",
+            "1838740",
+            "30",
+            "2"
+        ]
+    ]
+}

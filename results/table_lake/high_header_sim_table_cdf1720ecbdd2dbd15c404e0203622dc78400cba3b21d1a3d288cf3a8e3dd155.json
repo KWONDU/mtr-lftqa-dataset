@@ -1,0 +1,95 @@
+{
+    "id": "cdf1720ecbdd2dbd15c404e0203622dc78400cba3b21d1a3d288cf3a8e3dd155",
+    "metadata": "1954 Masters Tournament | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "T1",
+            "Sam Snead",
+            "United States",
+            "74-73-70-72=289",
+            "+1",
+            "Playoff"
+        ],
+        [
+            "T1",
+            "Ben Hogan",
+            "United States",
+            "72-73-69-75=289",
+            "+1",
+            "Playoff"
+        ],
+        [
+            "3",
+            "Billy Joe Patton (a)",
+            "United States",
+            "70-74-75-71=290",
+            "+2",
+            "0"
+        ],
+        [
+            "T4",
+            "E.J. Dutch Harrison",
+            "United States",
+            "70-79-74-68=291",
+            "+3",
+            "1937"
+        ],
+        [
+            "T4",
+            "Lloyd Mangrum",
+            "United States",
+            "71-75-76-69=291",
+            "+3",
+            "1937"
+        ],
+        [
+            "T6",
+            "Jerry Barber",
+            "United States",
+            "74-76-71-71=292",
+            "+4",
+            "1041"
+        ],
+        [
+            "T6",
+            "Jack Burke, Jr.",
+            "United States",
+            "71-77-73-71=292",
+            "+4",
+            "1041"
+        ],
+        [
+            "T6",
+            "Bob Rosburg",
+            "United States",
+            "73-73-76-70=292",
+            "+4",
+            "1041"
+        ],
+        [
+            "T9",
+            "Al Besselink",
+            "United States",
+            "74-74-74-72=294",
+            "+6",
+            "781"
+        ],
+        [
+            "T9",
+            "Cary Middlecoff",
+            "United States",
+            "73-76-70-75=294",
+            "+6",
+            "781"
+        ]
+    ]
+}

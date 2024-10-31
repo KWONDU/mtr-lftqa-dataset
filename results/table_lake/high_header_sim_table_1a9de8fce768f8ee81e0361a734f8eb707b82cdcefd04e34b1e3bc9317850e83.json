@@ -1,0 +1,98 @@
+{
+    "id": "1a9de8fce768f8ee81e0361a734f8eb707b82cdcefd04e34b1e3bc9317850e83",
+    "metadata": "Greg Sacks | NASCAR Nationwide Series | NASCAR Nationwide Series",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Starts",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Poles",
+        "Avg_Start",
+        "Avg_Finish",
+        "Winnings",
+        "Position_",
+        "Teams"
+    ],
+    "cell": [
+        [
+            "1989",
+            "3",
+            "0",
+            "0",
+            "0",
+            "1",
+            "4.7",
+            "29.3",
+            "$7,210",
+            "69th",
+            "#87 Frank Cicci Racing"
+        ],
+        [
+            "1995",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "25.5",
+            "36.0",
+            "$17,380",
+            "70th",
+            "#33 Daytona Speed Inc."
+        ],
+        [
+            "1996",
+            "2",
+            "1",
+            "1",
+            "1",
+            "0",
+            "11.5",
+            "16.0",
+            "$40,065",
+            "57th",
+            "#29 Diamond Ridge Motorsports #7 BACE Motorsports"
+        ],
+        [
+            "1997",
+            "15",
+            "0",
+            "0",
+            "2",
+            "0",
+            "27.7",
+            "23.0",
+            "$120,401",
+            "34th",
+            "#45 Laughlin Racing #49 Shaver Motorsports"
+        ],
+        [
+            "1999",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "22.0",
+            "34.0",
+            "$10,160",
+            "123rd",
+            "#90 GTS Motorsports"
+        ],
+        [
+            "2004",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "43.0",
+            "40.0",
+            "$12,745",
+            "144th",
+            "#0 JD Motorsports"
+        ]
+    ]
+}

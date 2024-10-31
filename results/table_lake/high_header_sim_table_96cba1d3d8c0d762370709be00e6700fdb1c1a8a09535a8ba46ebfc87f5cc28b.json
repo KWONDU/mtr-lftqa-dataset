@@ -1,0 +1,63 @@
+{
+    "id": "96cba1d3d8c0d762370709be00e6700fdb1c1a8a09535a8ba46ebfc87f5cc28b",
+    "metadata": "Big-bang firing order | Four-cylinder engines | Four-cylinder engines",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Engine",
+        "Crankshaft",
+        "Ignition_timing",
+        "Graphical",
+        "Example"
+    ],
+    "cell": [
+        [
+            "I4",
+            "180\u00b0",
+            "180-180-180-180",
+            "1-0-1-0-1-0-1-0-",
+            "Honda CB750"
+        ],
+        [
+            "I4 `Long bang`",
+            "180\u00b0",
+            "180-540",
+            "2-0-2-0-0-0-0-0-",
+            "Shinya Nakano`s Kawasaki Ninja ZX-RR"
+        ],
+        [
+            "I4 `Uneven bang`",
+            "crossplane",
+            "180-90-180-270",
+            "1-0-1-1-0-1-0-0-",
+            "2009 Yamaha YZF-R1"
+        ],
+        [
+            "70\u00b0 V4 90\u00b0 V4",
+            "180\u00b0",
+            "180-70-180-290 180-90-180-270",
+            "1-0-1-1-0-1-0-0-",
+            "1985-2007 Yamaha V-Max Honda VFR800"
+        ],
+        [
+            "90\u00b0 V4 `Twin pulse`",
+            "70\u00b0",
+            "90-200-90-340",
+            "1-1-0-1-1-0-0-0-",
+            "Ducati Desmosedici RR"
+        ],
+        [
+            "90\u00b0 V4 `Droner`",
+            "360\u00b0",
+            "90-270-90-270",
+            "1-1-0-0-1-1-0-0-",
+            "Honda VF / RC30 / RC45"
+        ],
+        [
+            "112\u00b0 V4 `Big bang` (2-stroke)",
+            "180\u00b0",
+            "68-292-68-292",
+            "2-2-0-0-2-2-0-0-",
+            "1990 Honda NSR500"
+        ]
+    ]
+}

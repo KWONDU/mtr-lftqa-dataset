@@ -1,0 +1,49 @@
+{
+    "id": "eafd70550c2d6ba9ab029a67fe29c17656be1350dcc24385fbce6dff8bfddfe7",
+    "metadata": "Politics of Trentino-Alto Adige/S\u00fcdtirol | Municipalities in Trentino | Municipalities in Trentino",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Municipality",
+        "Inhabitants",
+        "Mayor",
+        "Party",
+        "Election"
+    ],
+    "cell": [
+        [
+            "Trento",
+            "116298",
+            "Alessandro Andreatta",
+            "Democratic Party",
+            "2009"
+        ],
+        [
+            "Rovereto",
+            "38167",
+            "Andrea Miorandi",
+            "Democratic Party",
+            "2010"
+        ],
+        [
+            "Pergine Valsugana",
+            "20582",
+            "Silvano Corradi",
+            "Union for Trentino",
+            "2009"
+        ],
+        [
+            "Arco",
+            "16901",
+            "Paolo Mattei",
+            "Democratic Party",
+            "2010"
+        ],
+        [
+            "Riva del Garda",
+            "16170",
+            "Adalberto Mosaner",
+            "Democratic Party",
+            "2010"
+        ]
+    ]
+}

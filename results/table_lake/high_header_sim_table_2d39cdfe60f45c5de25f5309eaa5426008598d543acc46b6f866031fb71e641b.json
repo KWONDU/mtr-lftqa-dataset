@@ -1,0 +1,70 @@
+{
+    "id": "2d39cdfe60f45c5de25f5309eaa5426008598d543acc46b6f866031fb71e641b",
+    "metadata": "1934 VFL season | Round 6 | Round 6",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "14.17 (101)",
+            "St Kilda",
+            "20.14 (134)",
+            "MCG",
+            "18102",
+            "9 June 1934"
+        ],
+        [
+            "Essendon",
+            "14.11 (95)",
+            "Geelong",
+            "11.16 (82)",
+            "Windy Hill",
+            "15000",
+            "9 June 1934"
+        ],
+        [
+            "Collingwood",
+            "16.15 (111)",
+            "Fitzroy",
+            "13.18 (96)",
+            "Victoria Park",
+            "22000",
+            "9 June 1934"
+        ],
+        [
+            "Carlton",
+            "20.25 (145)",
+            "North Melbourne",
+            "12.11 (83)",
+            "Princes Park",
+            "15000",
+            "9 June 1934"
+        ],
+        [
+            "South Melbourne",
+            "9.10 (64)",
+            "Richmond",
+            "16.12 (108)",
+            "Lake Oval",
+            "32000",
+            "9 June 1934"
+        ],
+        [
+            "Hawthorn",
+            "11.11 (77)",
+            "Footscray",
+            "10.11 (71)",
+            "Glenferrie Oval",
+            "8000",
+            "9 June 1934"
+        ]
+    ]
+}

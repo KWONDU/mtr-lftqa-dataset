@@ -1,0 +1,63 @@
+{
+    "id": "e658cdfc9b3ba9f5ca598fa586033654077e1b2d69bb3b6c6405555e66f56ae3",
+    "metadata": "2009 CFL Draft | Round three | Round three",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Pick_",
+        "CFL_Team",
+        "Player",
+        "Position_",
+        "College"
+    ],
+    "cell": [
+        [
+            "17",
+            "Saskatchewan Roughriders (via Hamilton)",
+            "Nick Hutchins",
+            "OL",
+            "Regina"
+        ],
+        [
+            "18",
+            "Toronto Argonauts",
+            "James Green",
+            "LB",
+            "Calgary"
+        ],
+        [
+            "19",
+            "Winnipeg Blue Bombers",
+            "Mike Morris",
+            "OL",
+            "UBC"
+        ],
+        [
+            "20",
+            "Edmonton Eskimos",
+            "Andrea Bonaventura",
+            "LB",
+            "Calgary"
+        ],
+        [
+            "21",
+            "BC Lions",
+            "Matt Morencie",
+            "OL",
+            "Windsor"
+        ],
+        [
+            "22",
+            "Hamilton Tiger-Cats (via Saskatchewan)",
+            "Scott McCuaig",
+            "LB",
+            "UBC"
+        ],
+        [
+            "23",
+            "Montreal Alouettes",
+            "Nickolas Morin-Soucy",
+            "DL",
+            "Montreal"
+        ]
+    ]
+}

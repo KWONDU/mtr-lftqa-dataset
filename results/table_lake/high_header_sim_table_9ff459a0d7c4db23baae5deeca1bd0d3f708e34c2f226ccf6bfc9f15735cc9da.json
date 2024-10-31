@@ -1,0 +1,55 @@
+{
+    "id": "9ff459a0d7c4db23baae5deeca1bd0d3f708e34c2f226ccf6bfc9f15735cc9da",
+    "metadata": "New York state election, 1930 | Result | 1930 state election results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Office",
+        "Democratic_ticket",
+        "Republican_ticket",
+        "Law_Preservation_ticket",
+        "Socialist_ticket",
+        "Socialist_Labor_ticket"
+    ],
+    "cell": [
+        [
+            "Governor",
+            "Franklin D. Roosevelt",
+            "Charles H. Tuttle",
+            "Robert P. Carroll",
+            "Louis Waldman",
+            "Jeremiah D. Crowley"
+        ],
+        [
+            "Lieutenant Governor",
+            "Herbert H. Lehman",
+            "Caleb H. Baumes",
+            "(none)",
+            "Elizabeth C. Roth",
+            "Charles M. Carlson"
+        ],
+        [
+            "Comptroller",
+            "Morris S. Tremaine",
+            "Daniel H. Conway",
+            "(none)",
+            "William H. Hilsdorf",
+            "John E. DeLee"
+        ],
+        [
+            "Attorney General",
+            "John J. Bennett, Jr.",
+            "Isadore Bookstein",
+            "(none)",
+            "William Karlin",
+            "August Gillhaus"
+        ],
+        [
+            "Judge of the Court of Appeals",
+            "Cuthbert W. Pound",
+            "Cuthbert W. Pound",
+            "(none)",
+            "Darwin J. Meserole",
+            "Belle J. Rosen"
+        ]
+    ]
+}

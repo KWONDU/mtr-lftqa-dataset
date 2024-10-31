@@ -1,0 +1,61 @@
+{
+    "id": "72ffb9707f1b67fde9b6812f3dde0e18e915de52ccba0f9457ff8be4ab1a48b6",
+    "metadata": "2007-08 Philadelphia Flyers season | Playoffs | Eastern Conference Semifinals",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "April 24",
+            "Philadelphia",
+            "3 - 4",
+            "Montreal",
+            "Biron",
+            "21273",
+            "Canadiens lead 1-0"
+        ],
+        [
+            "April 26",
+            "Philadelphia",
+            "4 - 2",
+            "Montreal",
+            "Biron",
+            "21273",
+            "Series tied 1-1"
+        ],
+        [
+            "April 28",
+            "Montreal",
+            "2 - 3",
+            "Philadelphia",
+            "Biron",
+            "19849",
+            "Flyers lead 2-1"
+        ],
+        [
+            "April 30",
+            "Montreal",
+            "2 - 4",
+            "Philadelphia",
+            "Biron",
+            "19872",
+            "Flyers lead 3-1"
+        ],
+        [
+            "May 3",
+            "Philadelphia",
+            "6 - 4",
+            "Montreal",
+            "Biron",
+            "21273",
+            "Flyers win 4-1"
+        ]
+    ]
+}

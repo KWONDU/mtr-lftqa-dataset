@@ -1,0 +1,70 @@
+{
+    "id": "3abddfd5a9f6c0034cfd184be190f57e5e5626283ebd6eedf21513c98796b717",
+    "metadata": "1959 VFL season | Round 5 | Round 5",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Footscray",
+            "17.11 (113)",
+            "South Melbourne",
+            "13.8 (86)",
+            "Western Oval",
+            "19475",
+            "23 May 1959"
+        ],
+        [
+            "Essendon",
+            "11.18 (84)",
+            "Geelong",
+            "7.12 (54)",
+            "Windy Hill",
+            "18000",
+            "23 May 1959"
+        ],
+        [
+            "Carlton",
+            "10.13 (73)",
+            "Melbourne",
+            "9.7 (61)",
+            "Princes Park",
+            "36120",
+            "23 May 1959"
+        ],
+        [
+            "St Kilda",
+            "10.21 (81)",
+            "Hawthorn",
+            "11.11 (77)",
+            "Junction Oval",
+            "21500",
+            "23 May 1959"
+        ],
+        [
+            "North Melbourne",
+            "11.10 (76)",
+            "Fitzroy",
+            "9.19 (73)",
+            "Arden Street Oval",
+            "15000",
+            "23 May 1959"
+        ],
+        [
+            "Richmond",
+            "13.20 (98)",
+            "Collingwood",
+            "11.13 (79)",
+            "Punt Road Oval",
+            "24000",
+            "23 May 1959"
+        ]
+    ]
+}

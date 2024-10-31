@@ -1,0 +1,56 @@
+{
+    "id": "e94b3302f585805f1bed9b1df19782d191859e60bebad9d4b76744aba9e2c34a",
+    "metadata": "Blue Ridge Hockey Conference | Former teams | Atlantic Division- North Region",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Founded",
+        "Affiliation",
+        "Nickname"
+    ],
+    "cell": [
+        [
+            "American University",
+            "Washington D.C.",
+            "1893",
+            "Private/Methodist",
+            "Eagles"
+        ],
+        [
+            "Catholic University",
+            "Washington D.C.",
+            "1887",
+            "Private/Roman Catholic",
+            "Cardinals"
+        ],
+        [
+            "George Mason University",
+            "Fairfax, VA",
+            "1957",
+            "Public",
+            "Patriots"
+        ],
+        [
+            "University of Maryland",
+            "College Park, MD",
+            "1856",
+            "Public Flagship ( University System of Maryland )",
+            "Terrapins"
+        ],
+        [
+            "Northern Virginia Community College",
+            "Annandale, VA",
+            "1964",
+            "Community College",
+            "Raiders"
+        ],
+        [
+            "College of William & Mary",
+            "Williamsburg, VA",
+            "1693",
+            "Public",
+            "Tribe"
+        ]
+    ]
+}

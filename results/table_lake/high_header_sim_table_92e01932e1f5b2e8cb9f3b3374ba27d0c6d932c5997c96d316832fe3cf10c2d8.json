@@ -1,0 +1,88 @@
+{
+    "id": "92e01932e1f5b2e8cb9f3b3374ba27d0c6d932c5997c96d316832fe3cf10c2d8",
+    "metadata": "1902 Michigan Wolverines football team | Michigan 86, Ohio State 0 | Michigan 86, Ohio State 0",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Position_",
+        "Starter",
+        "Touchdowns",
+        "Extra_points",
+        "Field_goals",
+        "Points"
+    ],
+    "cell": [
+        [
+            "Albert Herrnstein",
+            "Halfback",
+            "Yes",
+            "5",
+            "0",
+            "0",
+            "25"
+        ],
+        [
+            "James Lawrence",
+            "Fullback",
+            "Yes",
+            "2",
+            "7",
+            "0",
+            "17"
+        ],
+        [
+            "Willie Heston",
+            "Halfback",
+            "Yes",
+            "2",
+            "0",
+            "0",
+            "10"
+        ],
+        [
+            "Palmer",
+            "Tackle",
+            "Yes",
+            "2",
+            "0",
+            "0",
+            "10"
+        ],
+        [
+            "Dan McGugin",
+            "Guard",
+            "Yes",
+            "2",
+            "0",
+            "0",
+            "10"
+        ],
+        [
+            "Paul Jones",
+            "Fullback",
+            "No",
+            "1",
+            "0",
+            "0",
+            "5"
+        ],
+        [
+            "Joe Maddock",
+            "Tackle",
+            "Yes",
+            "1",
+            "0",
+            "0",
+            "5"
+        ],
+        [
+            "Everett Sweeley",
+            "End",
+            "Yes",
+            "0",
+            "4",
+            "0",
+            "4"
+        ]
+    ]
+}

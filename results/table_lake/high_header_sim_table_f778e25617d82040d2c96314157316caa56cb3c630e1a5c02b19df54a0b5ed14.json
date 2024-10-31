@@ -1,0 +1,87 @@
+{
+    "id": "f778e25617d82040d2c96314157316caa56cb3c630e1a5c02b19df54a0b5ed14",
+    "metadata": "Vilnius Marathon | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Lithuania",
+            "20",
+            "20",
+            "22",
+            "62"
+        ],
+        [
+            "2",
+            "Belarus",
+            "5",
+            "3",
+            "3",
+            "11"
+        ],
+        [
+            "3",
+            "Latvia",
+            "1",
+            "1",
+            "2",
+            "4"
+        ],
+        [
+            "4",
+            "Kenya",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "5",
+            "Poland",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Germany",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Australia",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "8",
+            "Estonia",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "8",
+            "United Kingdom",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

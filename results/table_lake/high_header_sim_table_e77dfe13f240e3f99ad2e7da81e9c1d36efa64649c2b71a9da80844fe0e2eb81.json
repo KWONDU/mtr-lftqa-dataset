@@ -1,0 +1,49 @@
+{
+    "id": "e77dfe13f240e3f99ad2e7da81e9c1d36efa64649c2b71a9da80844fe0e2eb81",
+    "metadata": "Powerade Tigers all-time roster | H | H",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Position_",
+        "Number_",
+        "Season",
+        "Acquisition_via"
+    ],
+    "cell": [
+        [
+            "Ron Hale",
+            "Forward",
+            "22",
+            "2002",
+            "Import"
+        ],
+        [
+            "Rudy Hatfield",
+            "Forward",
+            "99",
+            "2002-2005",
+            "Free Agency"
+        ],
+        [
+            "Bong Hawkins",
+            "Forward",
+            "16",
+            "2002",
+            "Free Agency"
+        ],
+        [
+            "Bakari Hendrix",
+            "Forward",
+            "23",
+            "2005",
+            "Import"
+        ],
+        [
+            "Reynel Hugnatan",
+            "Forward",
+            "21",
+            "2003-2005",
+            "Rookie Draft"
+        ]
+    ]
+}

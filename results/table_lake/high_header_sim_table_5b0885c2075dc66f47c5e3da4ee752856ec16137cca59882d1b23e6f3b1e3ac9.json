@@ -1,0 +1,191 @@
+{
+    "id": "5b0885c2075dc66f47c5e3da4ee752856ec16137cca59882d1b23e6f3b1e3ac9",
+    "metadata": "1950 French Grand Prix | Entries | Entries",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Driver",
+        "Entrant",
+        "Constructor_",
+        "Chassis",
+        "Engine",
+        "Tyre"
+    ],
+    "cell": [
+        [
+            "Nino Farina",
+            "SA Alfa Romeo",
+            "Alfa Romeo",
+            "Alfa Romeo 158",
+            "Alfa Romeo L8s",
+            "P"
+        ],
+        [
+            "Luigi Fagioli",
+            "SA Alfa Romeo",
+            "Alfa Romeo",
+            "Alfa Romeo 158",
+            "Alfa Romeo L8s",
+            "P"
+        ],
+        [
+            "Juan Manuel Fangio",
+            "SA Alfa Romeo",
+            "Alfa Romeo",
+            "Alfa Romeo 158",
+            "Alfa Romeo L8s",
+            "P"
+        ],
+        [
+            "Luigi Villoresi",
+            "Scuderia Ferrari",
+            "Ferrari",
+            "Ferrari 125",
+            "Ferrari V12s",
+            "P"
+        ],
+        [
+            "Alberto Ascari",
+            "Scuderia Ferrari",
+            "Ferrari",
+            "Ferrari 125",
+            "Ferrari V12s",
+            "P"
+        ],
+        [
+            "Raymond Sommer",
+            "Automobiles Talbot-Darracq SA",
+            "Talbot-Lago",
+            "Talbot-Lago T26C-GS",
+            "Talbot L6",
+            "D"
+        ],
+        [
+            "Peter Whitehead",
+            "Private",
+            "Ferrari",
+            "Ferrari 125",
+            "Ferrari V12s",
+            "P"
+        ],
+        [
+            "Philippe \u00c9tancelin",
+            "Private",
+            "Talbot-Lago",
+            "Talbot-Lago T26C-DA",
+            "Talbot L6",
+            "D"
+        ],
+        [
+            "Yves Giraud Cabantous",
+            "Automobiles Talbot-Darracq SA",
+            "Talbot-Lago",
+            "Talbot-Lago T26C-DA",
+            "Talbot L6",
+            "D"
+        ],
+        [
+            "Louis Rosier",
+            "Automobiles Talbot-Darracq SA",
+            "Talbot-Lago",
+            "Talbot-Lago T26C-DA",
+            "Talbot L6",
+            "D"
+        ],
+        [
+            "Pierre Levegh",
+            "Private",
+            "Talbot-Lago",
+            "Talbot-Lago T26C",
+            "Talbot L6",
+            "D"
+        ],
+        [
+            "Eug\u00e8ne Chaboud",
+            "Ecurie Lutetia",
+            "Talbot-Lago",
+            "Talbot-Lago T26C",
+            "Talbot L6",
+            "D"
+        ],
+        [
+            "Charles Pozzi",
+            "Private",
+            "Talbot-Lago",
+            "Talbot-Lago T26C",
+            "Talbot L6",
+            "D"
+        ],
+        [
+            "Franco Rol",
+            "Officine Alfieri Maserati",
+            "Maserati",
+            "Maserati 4CLT-48",
+            "Maserati L4s",
+            "P"
+        ],
+        [
+            "Louis Chiron",
+            "Officine Alfieri Maserati",
+            "Maserati",
+            "Maserati 4CLT-48",
+            "Maserati L4s",
+            "P"
+        ],
+        [
+            "Reg Parnell",
+            "Scuderia Ambrosiana",
+            "Maserati",
+            "Maserati 4CLT-48",
+            "Maserati L4s",
+            "D"
+        ],
+        [
+            "David Hampshire",
+            "Scuderia Ambrosiana",
+            "Maserati",
+            "Maserati 4CLT-48",
+            "Maserati L4s",
+            "D"
+        ],
+        [
+            "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
+            "Scuderia Achille Varzi",
+            "Maserati",
+            "Maserati 4CLT-48",
+            "Maserati L4s",
+            "P"
+        ],
+        [
+            "Gianfranco Comotti",
+            "Scuderia Achille Varzi",
+            "Maserati",
+            "Maserati 4CLT-48",
+            "Maserati L4s",
+            "P"
+        ],
+        [
+            "Felice Bonetto",
+            "Scuderia Milano",
+            "Maserati",
+            "Maserati 4CLT-50",
+            "Milano L4s",
+            "P"
+        ],
+        [
+            "Johnny Claes",
+            "Ecurie Belge",
+            "Talbot-Lago",
+            "Talbot-Lago T26C",
+            "Talbot L6",
+            "D"
+        ],
+        [
+            "Robert Manzon",
+            "Equipe Gordini",
+            "Simca-Gordini",
+            "Simca-Gordini T15",
+            "Gordini L4s",
+            "E"
+        ]
+    ]
+}

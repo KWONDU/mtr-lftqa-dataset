@@ -1,0 +1,322 @@
+{
+    "id": "d17764d7edfbb777f8c6d9e4e17e5f43833c9b230bc02681f8eb328a1867cc0e",
+    "metadata": "List of football stadiums in Argentina | List | List",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Stadium",
+        "Capacity",
+        "City",
+        "Province",
+        "Home_teams"
+    ],
+    "cell": [
+        [
+            "Monumental Antonio V. Liberti",
+            "67664",
+            "Buenos Aires",
+            "( autonomous city )",
+            "River Plate and Argentina"
+        ],
+        [
+            "Mario Alberto Kempes",
+            "57878",
+            "C\u00f3rdoba",
+            "C\u00f3rdoba",
+            "-"
+        ],
+        [
+            "Ciudad de La Plata",
+            "53000",
+            "La Plata",
+            "Buenos Aires",
+            "Estudiantes (LP)"
+        ],
+        [
+            "Presidente Juan Domingo Per\u00f3n",
+            "51389",
+            "Avellaneda",
+            "Buenos Aires",
+            "Racing Club"
+        ],
+        [
+            "Jos\u00e9 Amalfitani",
+            "49540",
+            "Buenos Aires",
+            "( autonomous city )",
+            "V\u00e9lez S\u00e1rsfield"
+        ],
+        [
+            "Alberto J. Armando",
+            "49000",
+            "Buenos Aires",
+            "( autonomous city )",
+            "Boca Juniors"
+        ],
+        [
+            "Tom\u00e1s Adolfo Duc\u00f3",
+            "48314",
+            "Buenos Aires",
+            "( autonomous city )",
+            "Hurac\u00e1n"
+        ],
+        [
+            "Ciudad de Lan\u00fas",
+            "47027",
+            "Lan\u00fas",
+            "Buenos Aires",
+            "Lan\u00fas"
+        ],
+        [
+            "Libertadores de Am\u00e9rica",
+            "44000",
+            "Avellaneda",
+            "Buenos Aires",
+            "Independiente"
+        ],
+        [
+            "Pedro Bidegain",
+            "43963",
+            "Buenos Aires",
+            "( autonomous city )",
+            "San Lorenzo"
+        ],
+        [
+            "Jos\u00e9 Mar\u00eda Minella",
+            "43542",
+            "Mar del Plata",
+            "Buenos Aires",
+            "Aldosivi"
+        ],
+        [
+            "Gigante de Arroyito",
+            "41654",
+            "Rosario",
+            "Santa Fe",
+            "Rosario Central"
+        ],
+        [
+            "Malvinas Argentinas",
+            "40268",
+            "Mendoza",
+            "Mendoza",
+            "Godoy Cruz"
+        ],
+        [
+            "Brigadier General Estanislao L\u00f3pez",
+            "40000",
+            "Santa Fe",
+            "Santa Fe",
+            "Col\u00f3n"
+        ],
+        [
+            "Marcelo Bielsa",
+            "38095",
+            "Rosario",
+            "Santa Fe",
+            "Newell`s Old Boys"
+        ],
+        [
+            "Eduardo Gallard\u00f3n",
+            "36542",
+            "Lomas de Zamora",
+            "Buenos Aires",
+            "Los Andes"
+        ],
+        [
+            "Presidente Per\u00f3n",
+            "35535",
+            "C\u00f3rdoba",
+            "C\u00f3rdoba",
+            "Instituto"
+        ],
+        [
+            "Florencio Sola",
+            "34901",
+            "Banfield",
+            "Buenos Aires",
+            "Banfield"
+        ],
+        [
+            "Ciudad de Vicente L\u00f3pez",
+            "33051",
+            "Vicente L\u00f3pez",
+            "Buenos Aires",
+            "Platense"
+        ],
+        [
+            "Centenario Jos\u00e9 Luis Meiszner",
+            "33000",
+            "Quilmes",
+            "Buenos Aires",
+            "Quilmes"
+        ],
+        [
+            "Monumental Jos\u00e9 Fierro",
+            "32700",
+            "San Miguel de Tucum\u00e1n",
+            "Tucum\u00e1n",
+            "Atl\u00e9tico Tucum\u00e1n"
+        ],
+        [
+            "Nueva Espa\u00f1a",
+            "32500",
+            "Buenos Aires",
+            "( autonomous city )",
+            "Deportivo Espa\u00f1ol"
+        ],
+        [
+            "Coliseo de Victoria",
+            "32100",
+            "Victoria",
+            "Buenos Aires",
+            "Tigre"
+        ],
+        [
+            "Nueva Chicago",
+            "29000",
+            "Buenos Aires",
+            "( autonomous city )",
+            "Nueva Chicago"
+        ],
+        [
+            "23 de Agosto",
+            "29000",
+            "San Salvador de Jujuy",
+            "Jujuy",
+            "Gimnasia y Esgrima (J)"
+        ],
+        [
+            "Gigante de Alberdi",
+            "28000",
+            "C\u00f3rdoba",
+            "C\u00f3rdoba",
+            "Belgrano"
+        ],
+        [
+            "La Ciudadela",
+            "25622",
+            "San Miguel de Tucum\u00e1n",
+            "Tucum\u00e1n",
+            "San Mart\u00edn (T)"
+        ],
+        [
+            "Bicentenario",
+            "25286",
+            "San Juan",
+            "San Juan",
+            "San Mart\u00edn (SJ)"
+        ],
+        [
+            "Centenario",
+            "25000",
+            "Resistencia",
+            "Chaco",
+            "Sarmiento"
+        ],
+        [
+            "Chacarita Juniors",
+            "24800",
+            "Villa Maip\u00fa",
+            "Buenos Aires",
+            "Chacarita Juniors"
+        ],
+        [
+            "Juan Carmelo Zerillo",
+            "24544",
+            "La Plata",
+            "Buenos Aires",
+            "Gimnasia y Esgrima (LP)"
+        ],
+        [
+            "Don Le\u00f3n Kolbowsky",
+            "24500",
+            "Buenos Aires",
+            "( autonomous city )",
+            "Atlanta"
+        ],
+        [
+            "Diego Armando Maradona",
+            "24380",
+            "Buenos Aires",
+            "( autonomous city )",
+            "Argentinos Juniors"
+        ],
+        [
+            "Arq. Ricardo Etcheverry",
+            "24268",
+            "Buenos Aires",
+            "( autonomous city )",
+            "Ferro Carril Oeste"
+        ],
+        [
+            "Gigante del Norte",
+            "24300",
+            "Salta",
+            "Salta",
+            "Gimnasia y Tiro"
+        ],
+        [
+            "Jorge Luis Hirschi",
+            "23000",
+            "La Plata",
+            "Buenos Aires",
+            "Estudiantes (LP)"
+        ],
+        [
+            "15 de Abril",
+            "22500",
+            "Santa Fe",
+            "Santa Fe",
+            "Uni\u00f3n (SF)"
+        ],
+        [
+            "Presb\u00edtero Bartolom\u00e9 Grella",
+            "22000",
+            "Paran\u00e1",
+            "Entre R\u00edos",
+            "Patronato"
+        ],
+        [
+            "Eva Per\u00f3n",
+            "22000",
+            "Jun\u00edn",
+            "Buenos Aires",
+            "Sarmiento (J)"
+        ],
+        [
+            "Estadio Islas Malvinas",
+            "21500",
+            "Buenos Aires",
+            "( autonomous city )",
+            "All Boys"
+        ],
+        [
+            "Miguel \u00c1ngel Sancho",
+            "21000",
+            "C\u00f3rdoba",
+            "C\u00f3rdoba",
+            "Racing (C)"
+        ],
+        [
+            "Feliciano Gambarte",
+            "21000",
+            "Mendoza",
+            "Mendoza",
+            "Godoy Cruz"
+        ],
+        [
+            "Padre Ernesto Martearena",
+            "20408",
+            "Salta",
+            "Salta",
+            "Central Norte and Juventud Antoniana"
+        ],
+        [
+            "Estadio Fragata Presidente Sarmiento",
+            "20000",
+            "Isidro Casanova",
+            "Buenos Aires",
+            "Almirante Brown"
+        ]
+    ]
+}

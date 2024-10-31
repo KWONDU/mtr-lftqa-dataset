@@ -1,0 +1,63 @@
+{
+    "id": "05544e7061bb35d6e464e60e0b3922149dc085a887db4cf6682095d057f72a2c",
+    "metadata": "1979 England rugby union tour of Japan, Fiji and Tonga | Matches | Matches",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Opposing_Team",
+        "Against",
+        "Date_",
+        "Venue",
+        "Status_"
+    ],
+    "cell": [
+        [
+            "Japan `B`",
+            "7",
+            "10/05/1979",
+            "Tokyo",
+            "Tour Match"
+        ],
+        [
+            "Japan",
+            "19",
+            "13/05/1979",
+            "Kintetsu Hanazono Stadium , Osaka",
+            "First `Test`"
+        ],
+        [
+            "Ky\u016bsh\u016b",
+            "3",
+            "16/05/1979",
+            "Fukuoka",
+            "Tour Match"
+        ],
+        [
+            "Japan",
+            "18",
+            "20/05/1979",
+            "Olympic Stadium , Tokyo",
+            "Second `Test`"
+        ],
+        [
+            "Fiji Juniors",
+            "22",
+            "25/05/1979",
+            "Lautoka",
+            "Tour Match"
+        ],
+        [
+            "Fiji",
+            "7",
+            "29/05/1979",
+            "National Stadium , Suva",
+            "`Test` Match"
+        ],
+        [
+            "Tonga",
+            "17",
+            "01/06/1979",
+            "Teufaiva Sport Stadium , Nuku \u02bb alofa",
+            "`Test` Match"
+        ]
+    ]
+}

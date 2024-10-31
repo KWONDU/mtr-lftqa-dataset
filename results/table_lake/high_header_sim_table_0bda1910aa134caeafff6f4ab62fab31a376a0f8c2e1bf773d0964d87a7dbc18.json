@@ -1,0 +1,70 @@
+{
+    "id": "0bda1910aa134caeafff6f4ab62fab31a376a0f8c2e1bf773d0964d87a7dbc18",
+    "metadata": "1970 VFL season | Round 13 | Round 13",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "16.17 (113)",
+            "Melbourne",
+            "11.8 (74)",
+            "Glenferrie Oval",
+            "13196",
+            "27 June 1970"
+        ],
+        [
+            "Carlton",
+            "12.21 (93)",
+            "Geelong",
+            "11.14 (80)",
+            "Princes Park",
+            "25519",
+            "27 June 1970"
+        ],
+        [
+            "South Melbourne",
+            "16.9 (105)",
+            "North Melbourne",
+            "14.12 (96)",
+            "Lake Oval",
+            "12407",
+            "27 June 1970"
+        ],
+        [
+            "St Kilda",
+            "11.14 (80)",
+            "Fitzroy",
+            "8.11 (59)",
+            "Moorabbin Oval",
+            "17073",
+            "27 June 1970"
+        ],
+        [
+            "Footscray",
+            "11.12 (78)",
+            "Essendon",
+            "9.8 (62)",
+            "Western Oval",
+            "18817",
+            "27 June 1970"
+        ],
+        [
+            "Richmond",
+            "11.13 (79)",
+            "Collingwood",
+            "9.13 (67)",
+            "VFL Park",
+            "23939",
+            "27 June 1970"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "01503d026d27b644e4ecb751226c9cf563731592e7a0021075f94fbde6dc3af1",
+    "metadata": "1964 VFL season | Round 14 | Round 14",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "13.21 (99)",
+            "South Melbourne",
+            "5.4 (34)",
+            "Punt Road Oval",
+            "12500",
+            "25 July 1964"
+        ],
+        [
+            "Collingwood",
+            "14.15 (99)",
+            "Footscray",
+            "5.5 (35)",
+            "Victoria Park",
+            "22233",
+            "25 July 1964"
+        ],
+        [
+            "Carlton",
+            "9.14 (68)",
+            "Melbourne",
+            "12.8 (80)",
+            "Princes Park",
+            "17831",
+            "25 July 1964"
+        ],
+        [
+            "St Kilda",
+            "11.15 (81)",
+            "Hawthorn",
+            "7.9 (51)",
+            "Junction Oval",
+            "18600",
+            "25 July 1964"
+        ],
+        [
+            "Geelong",
+            "10.22 (82)",
+            "Fitzroy",
+            "4.3 (27)",
+            "Kardinia Park",
+            "13854",
+            "25 July 1964"
+        ],
+        [
+            "North Melbourne",
+            "7.14 (56)",
+            "Essendon",
+            "12.13 (85)",
+            "Arden Street Oval",
+            "15878",
+            "25 July 1964"
+        ]
+    ]
+}

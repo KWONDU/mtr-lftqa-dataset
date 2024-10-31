@@ -1,0 +1,55 @@
+{
+    "id": "a23c8e00d92128c31da576cf78dc41e1f8cc70a9014bf80ee78406ab82561437",
+    "metadata": "Keith Turner (motorcyclist) | Grand Prix motorcycle racing results | Grand Prix motorcycle racing results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Points",
+        "Rank_",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1969",
+            "250cc",
+            "Aermacchi",
+            "2",
+            "45th",
+            "0"
+        ],
+        [
+            "1969",
+            "500cc",
+            "Linto",
+            "6",
+            "36th",
+            "0"
+        ],
+        [
+            "1970",
+            "250cc",
+            "Yamaha",
+            "6",
+            "28th",
+            "0"
+        ],
+        [
+            "1971",
+            "350cc",
+            "Yamaha",
+            "3",
+            "40th",
+            "0"
+        ],
+        [
+            "1971",
+            "500cc",
+            "Suzuki",
+            "58",
+            "2nd",
+            "0"
+        ]
+    ]
+}

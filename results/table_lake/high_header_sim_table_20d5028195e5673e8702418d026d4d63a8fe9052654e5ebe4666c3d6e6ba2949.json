@@ -1,0 +1,49 @@
+{
+    "id": "20d5028195e5673e8702418d026d4d63a8fe9052654e5ebe4666c3d6e6ba2949",
+    "metadata": "North Wales Narrow Gauge Railways | Locomotives | Locomotives",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Builder",
+        "Type_",
+        "Date_",
+        "Works_number"
+    ],
+    "cell": [
+        [
+            "Snowdon Ranger",
+            "Vulcan Foundry",
+            "0-6-4T",
+            "1875",
+            "739"
+        ],
+        [
+            "Moel Tryfan",
+            "Vulcan Foundry",
+            "0-6-4T",
+            "1875",
+            "738"
+        ],
+        [
+            "Beddgelert",
+            "Hunslet",
+            "0-6-4ST",
+            "1878",
+            "206"
+        ],
+        [
+            "Russell",
+            "Hunslet",
+            "2-6-2T",
+            "1906",
+            "901"
+        ],
+        [
+            "Gowrie",
+            "Hunslet",
+            "0-6-4T",
+            "1908",
+            "979"
+        ]
+    ]
+}

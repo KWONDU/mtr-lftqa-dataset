@@ -1,0 +1,63 @@
+{
+    "id": "a680aae14de0290454986d352500ce5e9b30fec9ad1ba6b73ca9971f3a2716be",
+    "metadata": "1954 World Fencing Championships | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Italy",
+            "3",
+            "3",
+            "2",
+            "8"
+        ],
+        [
+            "2",
+            "Hungary",
+            "3",
+            "2",
+            "2",
+            "7"
+        ],
+        [
+            "3",
+            "France",
+            "1",
+            "1",
+            "4",
+            "6"
+        ],
+        [
+            "4",
+            "Denmark",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Poland",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "Sweden",
+            "0",
+            "1",
+            "0",
+            "1"
+        ]
+    ]
+}

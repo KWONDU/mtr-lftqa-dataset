@@ -1,0 +1,63 @@
+{
+    "id": "31dc8278869845a37ee2ab89f9b52599d483a94dac87ba373848fe580bbaa7f3",
+    "metadata": "1946 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 6",
+            "Sportsman`s Park (III)",
+            "2:39",
+            "36218"
+        ],
+        [
+            "2",
+            "October 7",
+            "Sportsman`s Park (III)",
+            "1:56",
+            "35815"
+        ],
+        [
+            "3",
+            "October 9",
+            "Fenway Park",
+            "1:54",
+            "34500"
+        ],
+        [
+            "4",
+            "October 10",
+            "Fenway Park",
+            "2:31",
+            "35645"
+        ],
+        [
+            "5",
+            "October 11",
+            "Fenway Park",
+            "2:23",
+            "35982"
+        ],
+        [
+            "6",
+            "October 13",
+            "Sportsman`s Park (III)",
+            "1:56",
+            "35768"
+        ],
+        [
+            "7",
+            "October 15",
+            "Sportsman`s Park (III)",
+            "2:17",
+            "36143"
+        ]
+    ]
+}

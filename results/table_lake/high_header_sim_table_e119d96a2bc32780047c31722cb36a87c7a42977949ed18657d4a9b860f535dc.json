@@ -1,0 +1,63 @@
+{
+    "id": "e119d96a2bc32780047c31722cb36a87c7a42977949ed18657d4a9b860f535dc",
+    "metadata": "Jersey Express S.C. | Year-by-year | Year-by-year",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Division",
+        "League",
+        "Regular_Season",
+        "Playoffs",
+        "Open_Cup"
+    ],
+    "cell": [
+        [
+            "2008",
+            "4",
+            "USL PDL",
+            "2nd, Northeast",
+            "Conference Semifinals",
+            "Did not qualify"
+        ],
+        [
+            "2009",
+            "4",
+            "USL PDL",
+            "5th, Northeast",
+            "Did not qualify",
+            "Did not qualify"
+        ],
+        [
+            "2010",
+            "4",
+            "USL PDL",
+            "2nd, Mid Atlantic",
+            "Conference Semifinals",
+            "Did not qualify"
+        ],
+        [
+            "2011",
+            "4",
+            "USL PDL",
+            "3rd, Mid Atlantic",
+            "Conference Finals",
+            "Did not qualify"
+        ],
+        [
+            "2012",
+            "4",
+            "USL PDL",
+            "3rd, Mid Atlantic",
+            "Conference Quarterfinals",
+            "Did not qualify"
+        ],
+        [
+            "2013",
+            "4",
+            "USL PDL",
+            "4th, Mid Atlantic",
+            "Did not qualify",
+            "Did not qualify"
+        ]
+    ]
+}

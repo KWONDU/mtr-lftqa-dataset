@@ -1,0 +1,105 @@
+{
+    "id": "21da0a81a316e0ff4138d52fde2349240fe7a4bb89b6f967d56ef0add50e96b5",
+    "metadata": "1960 Los Angeles Rams season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 23, 1960",
+            "St. Louis Cardinals",
+            "L 43-21",
+            "47448"
+        ],
+        [
+            "2",
+            "October 2, 1960",
+            "at San Francisco 49ers",
+            "L 13-9",
+            "53633"
+        ],
+        [
+            "3",
+            "October 9, 1960",
+            "at Chicago Bears",
+            "L 34-27",
+            "47776"
+        ],
+        [
+            "4",
+            "October 16, 1960",
+            "at Baltimore Colts",
+            "L 31-17",
+            "57808"
+        ],
+        [
+            "5",
+            "October 23, 1960",
+            "Chicago Bears",
+            "T 24-24",
+            "63438"
+        ],
+        [
+            "6",
+            "October 30, 1960",
+            "Detroit Lions",
+            "W 48-35",
+            "53295"
+        ],
+        [
+            "7",
+            "November 6, 1960",
+            "at Dallas Cowboys",
+            "W 38-13",
+            "16000"
+        ],
+        [
+            "8",
+            "November 13, 1960",
+            "at Detroit Lions",
+            "L 12-10",
+            "54019"
+        ],
+        [
+            "9",
+            "November 20, 1960",
+            "at Green Bay Packers",
+            "W 33-31",
+            "35763"
+        ],
+        [
+            "10",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "11",
+            "December 4, 1960",
+            "San Francisco 49ers",
+            "L 23-7",
+            "77254"
+        ],
+        [
+            "12",
+            "December 11, 1960",
+            "Baltimore Colts",
+            "W 10-3",
+            "75461"
+        ],
+        [
+            "13",
+            "December 17, 1960",
+            "Green Bay Packers",
+            "L 35-21",
+            "53445"
+        ]
+    ]
+}

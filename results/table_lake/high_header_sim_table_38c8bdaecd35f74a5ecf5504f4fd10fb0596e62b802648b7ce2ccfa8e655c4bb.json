@@ -1,0 +1,56 @@
+{
+    "id": "38c8bdaecd35f74a5ecf5504f4fd10fb0596e62b802648b7ce2ccfa8e655c4bb",
+    "metadata": "Rowing at the 2008 Summer Olympics - Men's single sculls | Semifinal A/B 1 | Semifinal A/B 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Athlete",
+        "Country",
+        "Time_",
+        "Notes"
+    ],
+    "cell": [
+        [
+            "1",
+            "Lassi Karonen",
+            "Sweden",
+            "6:57.28",
+            "FA"
+        ],
+        [
+            "2",
+            "Olaf Tufte",
+            "Norway",
+            "6:58.23",
+            "FA"
+        ],
+        [
+            "3",
+            "Tim Maeyens",
+            "Belgium",
+            "6:59.65",
+            "FA"
+        ],
+        [
+            "4",
+            "Marcel Hacker",
+            "Germany",
+            "7:03.05",
+            "FB"
+        ],
+        [
+            "5",
+            "Andre Vonarburg",
+            "Switzerland",
+            "7:14.64",
+            "FB"
+        ],
+        [
+            "6",
+            "Peter Hardcastle",
+            "Australia",
+            "7:32.79",
+            "FB"
+        ]
+    ]
+}

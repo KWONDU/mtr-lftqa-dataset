@@ -1,0 +1,63 @@
+{
+    "id": "de621c5b711b6e85fed54d8180011ac2046eef4325adf3adfd70e6ba6d07ff04",
+    "metadata": "KSTP-TV | Digital channels | Digital channels",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Channel",
+        "Station",
+        "Video",
+        "Aspect",
+        "PSIP_Short_Name",
+        "Programming"
+    ],
+    "cell": [
+        [
+            "5.1",
+            "KSTP-TV",
+            "720p",
+            "16:9",
+            "KSTPDT1",
+            "Main KSTP-TV programming / ABC"
+        ],
+        [
+            "5.2",
+            "KSTC-TV",
+            "720p",
+            "16:9",
+            "KSTCDT2",
+            "Main KSTC-TV programming"
+        ],
+        [
+            "5.3",
+            "KSTC-TV",
+            "480i",
+            "16:9",
+            "KSTCDT3",
+            "Me-TV"
+        ],
+        [
+            "5.4",
+            "KSTC-TV",
+            "480i",
+            "16:9",
+            "KSTCDT4",
+            "Antenna TV"
+        ],
+        [
+            "5.5",
+            "KSTC-TV",
+            "480i",
+            "16:9",
+            "KSTPDT2",
+            "Live Well Network"
+        ],
+        [
+            "5.6",
+            "KSTC-TV",
+            "480i",
+            "16:9",
+            "KSTCDT6",
+            "This TV"
+        ]
+    ]
+}

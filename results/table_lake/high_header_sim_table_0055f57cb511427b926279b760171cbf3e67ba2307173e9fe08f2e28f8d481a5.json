@@ -1,0 +1,56 @@
+{
+    "id": "0055f57cb511427b926279b760171cbf3e67ba2307173e9fe08f2e28f8d481a5",
+    "metadata": "Ken Wharton | Complete World Championship results | Complete World Championship results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1952",
+            "Scuderia Franera",
+            "Frazer-Nash FN48",
+            "Bristol Straight-6",
+            "3"
+        ],
+        [
+            "1952",
+            "Scuderia Franera",
+            "Frazer-Nash 421",
+            "Bristol Straight-6",
+            "3"
+        ],
+        [
+            "1952",
+            "Scuderia Franera",
+            "Cooper T20",
+            "Bristol Straight-6",
+            "3"
+        ],
+        [
+            "1953",
+            "Ken Wharton",
+            "Cooper T23",
+            "Bristol Straight-6",
+            "0"
+        ],
+        [
+            "1954",
+            "Owen Racing Organisation",
+            "Maserati 250F",
+            "Maserati Straight-6",
+            "0"
+        ],
+        [
+            "1955",
+            "Vandervell Products Ltd",
+            "Vanwall",
+            "Vanwall Straight-4",
+            "0"
+        ]
+    ]
+}

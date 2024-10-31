@@ -1,0 +1,49 @@
+{
+    "id": "c02ed37e812b357ae277bc2e93eba0cde64e4a20d6615f069b6df3e43da5cb14",
+    "metadata": "2008 Universitario de Deportes season | Out | Out",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Nat_",
+        "Name_",
+        "Moving_to",
+        "Type_",
+        "Transfer_window"
+    ],
+    "cell": [
+        [
+            "PER",
+            "Rivas",
+            "G\u00f3rnik Zabrze",
+            "Transfer",
+            "Winter"
+        ],
+        [
+            "PER",
+            "V. Zapata",
+            "Alianza Atl\u00e9tico",
+            "Transfer",
+            "Winter"
+        ],
+        [
+            "PER",
+            "Tragodara",
+            "Atl\u00e9tico Minero",
+            "Loaned out",
+            "Winter"
+        ],
+        [
+            "PER",
+            "Correa",
+            "Melgar",
+            "Loaned out",
+            "Winter"
+        ],
+        [
+            "PER",
+            "Curiel",
+            "Alianza Atl\u00e9tico",
+            "Transfer",
+            "Winter"
+        ]
+    ]
+}

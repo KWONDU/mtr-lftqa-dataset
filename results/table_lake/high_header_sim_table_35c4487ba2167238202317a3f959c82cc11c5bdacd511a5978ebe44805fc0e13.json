@@ -1,0 +1,71 @@
+{
+    "id": "35c4487ba2167238202317a3f959c82cc11c5bdacd511a5978ebe44805fc0e13",
+    "metadata": "Travis Webb | Indy 500 results | Indy 500 results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Start_",
+        "Qual",
+        "Rank_",
+        "Finish",
+        "Laps"
+    ],
+    "cell": [
+        [
+            "1948",
+            "30",
+            "125.545",
+            "12",
+            "27",
+            "27"
+        ],
+        [
+            "1949",
+            "26",
+            "127.002",
+            "26",
+            "33",
+            "0"
+        ],
+        [
+            "1950",
+            "14",
+            "129.748",
+            "26",
+            "20",
+            "126"
+        ],
+        [
+            "1952",
+            "29",
+            "135.962",
+            "11",
+            "22",
+            "162"
+        ],
+        [
+            "1953",
+            "18",
+            "136.168",
+            "17",
+            "19",
+            "166"
+        ],
+        [
+            "1954",
+            "29",
+            "137.979",
+            "26",
+            "30",
+            "104"
+        ],
+        [
+            "Totals",
+            "Totals",
+            "Totals",
+            "Totals",
+            "Totals",
+            "585"
+        ]
+    ]
+}

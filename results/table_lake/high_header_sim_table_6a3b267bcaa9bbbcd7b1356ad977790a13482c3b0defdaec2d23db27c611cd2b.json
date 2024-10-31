@@ -1,0 +1,70 @@
+{
+    "id": "6a3b267bcaa9bbbcd7b1356ad977790a13482c3b0defdaec2d23db27c611cd2b",
+    "metadata": "Swimming at the 2000 Summer Olympics - Men's 100 metre freestyle | Semifinal 1 | Semifinal 1",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Lane",
+        "Name_",
+        "Nationality",
+        "Time_"
+    ],
+    "cell": [
+        [
+            "1",
+            "4",
+            "Michael Klim",
+            "Australia",
+            "48.80"
+        ],
+        [
+            "2",
+            "5",
+            "Alexander Popov",
+            "Russia",
+            "48.84"
+        ],
+        [
+            "3",
+            "3",
+            "Denis Pimankov",
+            "Russia",
+            "49.43"
+        ],
+        [
+            "4",
+            "7",
+            "Jos\u00e9 Meolans",
+            "Argentina",
+            "49.66"
+        ],
+        [
+            "5",
+            "2",
+            "Lorenzo Vismara",
+            "Italy",
+            "49.67"
+        ],
+        [
+            "5",
+            "8",
+            "Duje Draganja",
+            "Croatia",
+            "49.67"
+        ],
+        [
+            "7",
+            "6",
+            "Salim Iles",
+            "Algeria",
+            "49.70"
+        ],
+        [
+            "8",
+            "1",
+            "Christian Tr\u00f6ger",
+            "Germany",
+            "49.80"
+        ]
+    ]
+}

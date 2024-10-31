@@ -1,0 +1,70 @@
+{
+    "id": "6e7a2824960329a5bedace4c546e230c082132d0f6e3205b91e4dda1079c4afa",
+    "metadata": "1972 VFL season | Round 4 | Round 4",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "18.19 (127)",
+            "South Melbourne",
+            "8.8 (56)",
+            "MCG",
+            "18594",
+            "22 April 1972"
+        ],
+        [
+            "Footscray",
+            "15.10 (100)",
+            "North Melbourne",
+            "12.14 (86)",
+            "Western Oval",
+            "12827",
+            "22 April 1972"
+        ],
+        [
+            "Fitzroy",
+            "11.17 (83)",
+            "Hawthorn",
+            "9.10 (64)",
+            "Junction Oval",
+            "16937",
+            "22 April 1972"
+        ],
+        [
+            "Essendon",
+            "17.27 (129)",
+            "Geelong",
+            "12.14 (86)",
+            "Windy Hill",
+            "15000",
+            "22 April 1972"
+        ],
+        [
+            "Carlton",
+            "15.14 (104)",
+            "Richmond",
+            "15.19 (109)",
+            "Princes Park",
+            "28536",
+            "22 April 1972"
+        ],
+        [
+            "St Kilda",
+            "12.15 (87)",
+            "Collingwood",
+            "9.13 (67)",
+            "VFL Park",
+            "40201",
+            "22 April 1972"
+        ]
+    ]
+}

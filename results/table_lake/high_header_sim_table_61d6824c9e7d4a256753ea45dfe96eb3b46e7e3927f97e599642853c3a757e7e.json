@@ -1,0 +1,49 @@
+{
+    "id": "61d6824c9e7d4a256753ea45dfe96eb3b46e7e3927f97e599642853c3a757e7e",
+    "metadata": "Gildesk\u00e5l | General information | Churches",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Parish_Sokn",
+        "Church_Name",
+        "Location_of_the_Church",
+        "Year_Built_"
+    ],
+    "cell": [
+        [
+            "Gildesk\u00e5l",
+            "Gildesk\u00e5l Church",
+            "Inndyr",
+            "1881"
+        ],
+        [
+            "Gildesk\u00e5l",
+            "Old Gildesk\u00e5l Church",
+            "Inndyr",
+            "1100s"
+        ],
+        [
+            "Gildesk\u00e5l",
+            "Saura Church",
+            "Saura",
+            "1884"
+        ],
+        [
+            "Gildesk\u00e5l",
+            "Mevik Chapel",
+            "Mevik",
+            "1910"
+        ],
+        [
+            "Gildesk\u00e5l",
+            "Nordstranda Chapel",
+            "Lekanger",
+            "1963"
+        ],
+        [
+            "Gildesk\u00e5l",
+            "S\u00f8rfjorden Chapel",
+            "S\u00f8rfinnset",
+            "1957"
+        ]
+    ]
+}

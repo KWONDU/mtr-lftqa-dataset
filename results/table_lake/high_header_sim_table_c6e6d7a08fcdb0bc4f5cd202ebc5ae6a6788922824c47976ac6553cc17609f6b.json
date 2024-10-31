@@ -1,0 +1,79 @@
+{
+    "id": "c6e6d7a08fcdb0bc4f5cd202ebc5ae6a6788922824c47976ac6553cc17609f6b",
+    "metadata": "Portuguese Inquisition | Table of sentences | Table of sentences",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tribunal",
+        "Number_of_autos_da_f\u00e9_with_known_sentences",
+        "Executions_in_persona",
+        "Executions_in_effigie",
+        "Penanced",
+        "Total"
+    ],
+    "cell": [
+        [
+            "Lisbon",
+            "248 (1540-1794)",
+            "461",
+            "181",
+            "7024",
+            "7666"
+        ],
+        [
+            "\u00c9vora",
+            "164 (1536-1781)",
+            "344",
+            "163",
+            "9466",
+            "9973"
+        ],
+        [
+            "Coimbra",
+            "277 (1541-1781)",
+            "313",
+            "234",
+            "9000",
+            "9547"
+        ],
+        [
+            "Goa",
+            "71 (1600-1773)",
+            "57",
+            "64",
+            "4046",
+            "4167"
+        ],
+        [
+            "Tomar",
+            "2 (1543-1544)",
+            "4",
+            "0",
+            "17",
+            "21"
+        ],
+        [
+            "Porto",
+            "1 (1543)",
+            "4",
+            "21",
+            "58",
+            "83"
+        ],
+        [
+            "Lamego",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        [
+            "Total",
+            "763",
+            "1183 (3.76%)",
+            "663 (2.11%)",
+            "29611 (94.13%)",
+            "31457 (100%)"
+        ]
+    ]
+}

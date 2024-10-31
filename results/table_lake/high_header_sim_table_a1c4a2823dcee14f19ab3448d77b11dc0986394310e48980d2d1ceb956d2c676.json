@@ -1,0 +1,63 @@
+{
+    "id": "a1c4a2823dcee14f19ab3448d77b11dc0986394310e48980d2d1ceb956d2c676",
+    "metadata": "2001 World Figure Skating Championships | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Russia",
+            "1",
+            "3",
+            "1",
+            "5"
+        ],
+        [
+            "2",
+            "United States",
+            "1",
+            "0",
+            "2",
+            "3"
+        ],
+        [
+            "3",
+            "Canada",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "3",
+            "Italy",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "France",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "6",
+            "China",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": "e9c8dd1d51cd8b9a65abd8899980100c0c50839997d094a22ae8be5a3f9098f7",
+    "metadata": "Mid-State Conference (IHSAA) | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "County",
+        "Year_Joined",
+        "Previous_Conference"
+    ],
+    "cell": [
+        [
+            "Decatur Central",
+            "Indianapolis, IN",
+            "Hawks",
+            "1856",
+            "AAAAA",
+            "49 Marion",
+            "2006",
+            "Conference Indiana"
+        ],
+        [
+            "Franklin",
+            "Franklin, IN",
+            "Grizzly Cubs",
+            "1592",
+            "AAAAA",
+            "41 Johnson",
+            "1981",
+            "South Central"
+        ],
+        [
+            "Greenwood",
+            "Greenwood, IN",
+            "Woodmen",
+            "1389",
+            "AAAA",
+            "41 Johnson",
+            "1942",
+            "independent"
+        ],
+        [
+            "Martinsville",
+            "Martinsville, IN",
+            "Artesians",
+            "2012",
+            "AAAAA",
+            "55 Morgan",
+            "2006",
+            "Conference Indiana"
+        ],
+        [
+            "Mooresville",
+            "Mooresville, IN",
+            "Pioneers",
+            "1428",
+            "AAAA",
+            "55 Morgan",
+            "1942",
+            "independent"
+        ],
+        [
+            "Plainfield",
+            "Plainfield, IN",
+            "Quakers",
+            "1304",
+            "AAAA",
+            "32 Hendricks",
+            "1942",
+            "independent"
+        ],
+        [
+            "Whiteland",
+            "Whiteland, IN",
+            "Warriors",
+            "1785",
+            "AAAAA",
+            "41 Johnson",
+            "1968",
+            "Mid-Hoosier"
+        ]
+    ]
+}

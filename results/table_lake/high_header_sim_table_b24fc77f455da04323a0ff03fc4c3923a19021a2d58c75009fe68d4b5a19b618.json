@@ -1,0 +1,79 @@
+{
+    "id": "b24fc77f455da04323a0ff03fc4c3923a19021a2d58c75009fe68d4b5a19b618",
+    "metadata": "1998-99 Chelsea F.C. season | UEFA Cup Winners' Cup | UEFA Cup Winners' Cup",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Round",
+        "Opponent",
+        "Venue",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "17 September 1998",
+            "R1",
+            "Helsingborg",
+            "H",
+            "1-0",
+            "17714"
+        ],
+        [
+            "1 October 1998",
+            "R1",
+            "Helsingborg",
+            "A",
+            "0-0",
+            "12348"
+        ],
+        [
+            "22 October 1998",
+            "R2",
+            "Copenhagen",
+            "H",
+            "1-1",
+            "21207"
+        ],
+        [
+            "5 November 1998",
+            "R2",
+            "Copenhagen",
+            "A",
+            "1-0",
+            "24188"
+        ],
+        [
+            "4 March 1999",
+            "QF",
+            "V\u00e5lerenga",
+            "H",
+            "3-0",
+            "34177"
+        ],
+        [
+            "18 March 1999",
+            "QF",
+            "V\u00e5lerenga",
+            "A",
+            "3-2",
+            "17936"
+        ],
+        [
+            "8 April 1999",
+            "SF",
+            "Mallorca",
+            "H",
+            "1-1",
+            "35524"
+        ],
+        [
+            "22 April 1999",
+            "SF",
+            "Mallorca",
+            "A",
+            "0-1",
+            "18848"
+        ]
+    ]
+}

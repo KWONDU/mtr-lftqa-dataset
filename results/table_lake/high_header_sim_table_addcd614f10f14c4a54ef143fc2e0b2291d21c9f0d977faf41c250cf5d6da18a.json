@@ -1,0 +1,87 @@
+{
+    "id": "addcd614f10f14c4a54ef143fc2e0b2291d21c9f0d977faf41c250cf5d6da18a",
+    "metadata": "New York gubernatorial election, 2014 | General election | Polling",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Poll_source",
+        "Dates_administered",
+        "Sample_size",
+        "Margin_of_error",
+        "Andrew_Cuomo_D",
+        "Rob_Astorino_R",
+        "Other",
+        "Undecided_"
+    ],
+    "cell": [
+        [
+            "Siena",
+            "March 16-20, 2014",
+            "813",
+            "\u00b1 3.4%",
+            "61%",
+            "26%",
+            "\u2014",
+            "13%"
+        ],
+        [
+            "Marist",
+            "February 28-March 3, 2014",
+            "658",
+            "\u00b1 3.8%",
+            "65%",
+            "25%",
+            "\u2014",
+            "10%"
+        ],
+        [
+            "Quinnipiac",
+            "February 6-10, 2014",
+            "1488",
+            "\u00b1 2.5%",
+            "58%",
+            "24%",
+            "2%",
+            "16%"
+        ],
+        [
+            "Siena",
+            "January 12-16, 2014",
+            "808",
+            "\u00b1 3.4%",
+            "67%",
+            "19%",
+            "3%",
+            "11%"
+        ],
+        [
+            "Quinnipiac",
+            "November 20-24, 2013",
+            "1337",
+            "\u00b1 2.7%",
+            "56%",
+            "25%",
+            "2%",
+            "17%"
+        ],
+        [
+            "Marist",
+            "November 18-20, 2013",
+            "675",
+            "\u00b1 3.8%",
+            "65%",
+            "23%",
+            "\u2014",
+            "12%"
+        ],
+        [
+            "Siena",
+            "November 11-14, 2013",
+            "806",
+            "\u00b1 3.5%",
+            "63%",
+            "24%",
+            "\u2014",
+            "13%"
+        ]
+    ]
+}

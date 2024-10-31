@@ -1,0 +1,87 @@
+{
+    "id": "753dd812379880c0f3d03be8a02734c1bfb4e8a2d35a0ff61d8df4c3e22f3a65",
+    "metadata": "1961 Ohio State Buckeyes football team | 1962 Pro draftees | 1962 Pro draftees",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "Draft",
+        "Round",
+        "Pick",
+        "Position_",
+        "NFL_Club"
+    ],
+    "cell": [
+        [
+            "Bob Ferguson",
+            "NFL",
+            "1",
+            "5",
+            "Fullback",
+            "Pittsburgh Steelers"
+        ],
+        [
+            "Bob Ferguson",
+            "AFL",
+            "1",
+            "8",
+            "Fullback",
+            "San Diego Chargers"
+        ],
+        [
+            "Chuck Bryant",
+            "NFL",
+            "3",
+            "34",
+            "End",
+            "St. Louis Cardinals"
+        ],
+        [
+            "Chuck Bryant",
+            "AFL",
+            "13",
+            "104",
+            "End",
+            "San Diego Chargers"
+        ],
+        [
+            "Sam Tidmore",
+            "NFL",
+            "6",
+            "81",
+            "Linebacker",
+            "Cleveland Browns"
+        ],
+        [
+            "Sam Tidmore",
+            "AFL",
+            "20",
+            "156",
+            "Linebacker",
+            "Buffalo Bills"
+        ],
+        [
+            "John Havlicek",
+            "NFL",
+            "7",
+            "95",
+            "End",
+            "Cleveland Browns"
+        ],
+        [
+            "Jack Roberts",
+            "NFL",
+            "20",
+            "273",
+            "Tackle",
+            "Chicago Bears"
+        ],
+        [
+            "Mike Ingram",
+            "AFL",
+            "31",
+            "246",
+            "Guard",
+            "Boston Patriots"
+        ]
+    ]
+}

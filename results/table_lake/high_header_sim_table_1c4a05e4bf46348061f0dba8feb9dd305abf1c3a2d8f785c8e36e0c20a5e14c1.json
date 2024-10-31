@@ -1,0 +1,49 @@
+{
+    "id": "1c4a05e4bf46348061f0dba8feb9dd305abf1c3a2d8f785c8e36e0c20a5e14c1",
+    "metadata": "Hans Binder | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1976",
+            "Team Ensign",
+            "Ensign N176",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1976",
+            "Walter Wolf Racing",
+            "Williams FW05",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1977",
+            "Durex Team Surtees",
+            "Surtees TS19",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1977",
+            "ATS Racing Team",
+            "Penske PC4",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1978",
+            "ATS Racing Team",
+            "ATS HS1",
+            "Cosworth V8",
+            "0"
+        ]
+    ]
+}

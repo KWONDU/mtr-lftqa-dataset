@@ -1,0 +1,71 @@
+{
+    "id": "72075261dd85d92b2f078cc5a096fdd7f8aab6c2a6541d7ffbbbab75da5f8127",
+    "metadata": "Figure skating at the 1968 Winter Olympics | Medal table | Medal table",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Nation",
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Total"
+    ],
+    "cell": [
+        [
+            "1",
+            "Soviet Union",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "1",
+            "United States",
+            "1",
+            "1",
+            "0",
+            "2"
+        ],
+        [
+            "2",
+            "Austria",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        [
+            "2",
+            "East Germany",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "2",
+            "France",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "2",
+            "West Germany",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        [
+            "2",
+            "Czechoslovakia",
+            "0",
+            "0",
+            "1",
+            "1"
+        ]
+    ]
+}

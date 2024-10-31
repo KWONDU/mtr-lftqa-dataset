@@ -1,0 +1,61 @@
+{
+    "id": "f69da6b12cc1b966ae9620d37489887ba83822593bc3e90d253520fb7935d2a7",
+    "metadata": "Sandy Lyle | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tournament",
+        "Wins",
+        "Top_5",
+        "Top_10",
+        "Top_25",
+        "Events",
+        "Cuts_made"
+    ],
+    "cell": [
+        [
+            "Masters Tournament",
+            "1",
+            "1",
+            "1",
+            "6",
+            "32",
+            "16"
+        ],
+        [
+            "U.S. Open",
+            "0",
+            "0",
+            "0",
+            "2",
+            "10",
+            "6"
+        ],
+        [
+            "The Open Championship",
+            "1",
+            "1",
+            "3",
+            "11",
+            "38",
+            "22"
+        ],
+        [
+            "PGA Championship",
+            "0",
+            "0",
+            "0",
+            "1",
+            "6",
+            "4"
+        ],
+        [
+            "Totals",
+            "2",
+            "2",
+            "4",
+            "20",
+            "86",
+            "48"
+        ]
+    ]
+}

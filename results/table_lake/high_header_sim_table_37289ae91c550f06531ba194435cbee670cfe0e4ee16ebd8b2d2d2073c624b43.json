@@ -1,0 +1,70 @@
+{
+    "id": "37289ae91c550f06531ba194435cbee670cfe0e4ee16ebd8b2d2d2073c624b43",
+    "metadata": "1938 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "17.15 (117)",
+            "South Melbourne",
+            "9.20 (74)",
+            "Glenferrie Oval",
+            "7000",
+            "20 August 1938"
+        ],
+        [
+            "Geelong",
+            "20.17 (137)",
+            "Richmond",
+            "12.12 (84)",
+            "Corio Oval",
+            "19500",
+            "20 August 1938"
+        ],
+        [
+            "Essendon",
+            "15.17 (107)",
+            "Fitzroy",
+            "15.6 (96)",
+            "Windy Hill",
+            "9000",
+            "20 August 1938"
+        ],
+        [
+            "Collingwood",
+            "22.18 (150)",
+            "North Melbourne",
+            "14.12 (96)",
+            "Victoria Park",
+            "14000",
+            "20 August 1938"
+        ],
+        [
+            "St Kilda",
+            "17.17 (119)",
+            "Footscray",
+            "12.9 (81)",
+            "Junction Oval",
+            "17000",
+            "20 August 1938"
+        ],
+        [
+            "Melbourne",
+            "14.12 (96)",
+            "Carlton",
+            "11.13 (79)",
+            "MCG",
+            "25241",
+            "20 August 1938"
+        ]
+    ]
+}

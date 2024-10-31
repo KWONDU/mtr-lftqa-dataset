@@ -1,0 +1,70 @@
+{
+    "id": "dcb940de29315ea6f0da56a5de623c2ab0f7bf7cf69d2da04bfb6fcc33e61ae6",
+    "metadata": "1954 VFL season | Round 15 | Round 15",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Richmond",
+            "12.15 (87)",
+            "South Melbourne",
+            "6.16 (52)",
+            "Punt Road Oval",
+            "12000",
+            "7 August 1954"
+        ],
+        [
+            "Hawthorn",
+            "9.5 (59)",
+            "North Melbourne",
+            "10.22 (82)",
+            "Glenferrie Oval",
+            "7000",
+            "7 August 1954"
+        ],
+        [
+            "Fitzroy",
+            "8.11 (59)",
+            "Melbourne",
+            "6.12 (48)",
+            "Brunswick Street Oval",
+            "10000",
+            "7 August 1954"
+        ],
+        [
+            "St Kilda",
+            "7.17 (59)",
+            "Geelong",
+            "18.13 (121)",
+            "Junction Oval",
+            "12000",
+            "7 August 1954"
+        ],
+        [
+            "Essendon",
+            "10.11 (71)",
+            "Collingwood",
+            "6.16 (52)",
+            "Windy Hill",
+            "23000",
+            "7 August 1954"
+        ],
+        [
+            "Footscray",
+            "6.7 (43)",
+            "Carlton",
+            "8.12 (60)",
+            "Western Oval",
+            "22000",
+            "7 August 1954"
+        ]
+    ]
+}

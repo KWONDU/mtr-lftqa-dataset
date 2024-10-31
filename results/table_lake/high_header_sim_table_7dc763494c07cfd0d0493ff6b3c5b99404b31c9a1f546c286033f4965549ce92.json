@@ -1,0 +1,79 @@
+{
+    "id": "7dc763494c07cfd0d0493ff6b3c5b99404b31c9a1f546c286033f4965549ce92",
+    "metadata": "1981 Australian Touring Car Championship | Race Calendar | Race Calendar",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Race_Title",
+        "Circuit",
+        "City_State",
+        "Date_",
+        "Winner",
+        "Team"
+    ],
+    "cell": [
+        [
+            "Launceston",
+            "Symmons Plains Raceway",
+            "Launceston , Tasmania",
+            "1 Mar",
+            "Dick Johnson",
+            "Dick Johnson Racing"
+        ],
+        [
+            "Calder",
+            "Calder Park Raceway",
+            "Melbourne , Victoria",
+            "15 Mar",
+            "Peter Brock",
+            "Holden Dealer Team"
+        ],
+        [
+            "Oran Park",
+            "Oran Park Raceway",
+            "Sydney , New South Wales",
+            "22 Mar",
+            "Dick Johnson",
+            "Dick Johnson Racing"
+        ],
+        [
+            "Sandown",
+            "Sandown Raceway",
+            "Melbourne, Victoria",
+            "12 Apr",
+            "Dick Johnson",
+            "Dick Johnson Racing"
+        ],
+        [
+            "Perth",
+            "Wanneroo Park",
+            "Perth , Western Australia",
+            "26 Apr",
+            "Peter Brock",
+            "Holden Dealer Team"
+        ],
+        [
+            "Adelaide",
+            "Adelaide International Raceway",
+            "Adelaide , South Australia",
+            "3 May",
+            "Peter Brock",
+            "Holden Dealer Team"
+        ],
+        [
+            "Surfers Paradise",
+            "Surfers Paradise Raceway",
+            "Surfers Paradise , Queensland",
+            "17 May",
+            "Dick Johnson",
+            "Dick Johnson Racing"
+        ],
+        [
+            "Lakeside",
+            "Lakeside International Raceway",
+            "Brisbane , Queensland",
+            "21 Jun",
+            "Dick Johnson",
+            "Dick Johnson Racing"
+        ]
+    ]
+}

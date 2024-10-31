@@ -1,0 +1,91 @@
+{
+    "id": "ad71fcc36ab89000d066fc6d0ab62d88562866ac990cda42732165ada437e39c",
+    "metadata": "Shirley Englehorn | LPGA Tour wins (11) | LPGA Tour wins (11)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Tournament",
+        "Winning_score",
+        "Margin_of_victory",
+        "Runners_up"
+    ],
+    "cell": [
+        [
+            "Jul 22, 1962",
+            "Lady Carling Open",
+            "+4 (74-77-75=226)",
+            "3 strokes",
+            "Mary Mills"
+        ],
+        [
+            "Sep 9, 1962",
+            "Eugene Open",
+            "\u22124 (75-69-79-69=292)",
+            "7 strokes",
+            "Jackie Pung"
+        ],
+        [
+            "Jul 7, 1963",
+            "Lady Carling Eastern Open",
+            "+4 (71-79-71=221)",
+            "2 strokes",
+            "JoAnne Carner (a)"
+        ],
+        [
+            "Aug 9, 1964",
+            "Waterloo Women`s Open Invitational",
+            "\u22125 (72-71-68=211)",
+            "4 strokes",
+            "Ruth Jessen"
+        ],
+        [
+            "May 22, 1966",
+            "Babe Zaharias Open",
+            "\u22121 (71-68-70=209)",
+            "2 strokes",
+            "Kathy Whitworth"
+        ],
+        [
+            "Sep 17, 1967",
+            "Shirley Englehorn Invitational",
+            "\u22123 (71-70-69=210)",
+            "Playoff",
+            "Kathy Whitworth"
+        ],
+        [
+            "Aug 10, 1968",
+            "Concord Open",
+            "\u22122 (77-76-76=229)",
+            "3 strokes",
+            "Sandra Haynie"
+        ],
+        [
+            "May 17, 1970",
+            "Johnny Londoff Chevrolet Tournament",
+            "E (74-74-68=216)",
+            "2 strokes",
+            "Carol Mann"
+        ],
+        [
+            "May 31, 1970",
+            "O`Sullivan Ladies Open",
+            "\u22126 (71-68-71=210)",
+            "Playoff",
+            "Margie Masters"
+        ],
+        [
+            "Jun 7, 1970",
+            "Lady Carling Open",
+            "\u22129 (72-67-71=210)",
+            "1 stroke",
+            "Carol Mann"
+        ],
+        [
+            "Jun 13, 1970",
+            "LPGA Championship",
+            "\u22127 (70-70-75-70=285)",
+            "Playoff",
+            "Kathy Whitworth"
+        ]
+    ]
+}

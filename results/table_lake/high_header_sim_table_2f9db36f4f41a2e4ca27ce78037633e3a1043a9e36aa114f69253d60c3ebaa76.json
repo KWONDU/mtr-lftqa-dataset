@@ -1,0 +1,79 @@
+{
+    "id": "2f9db36f4f41a2e4ca27ce78037633e3a1043a9e36aa114f69253d60c3ebaa76",
+    "metadata": "NFL Network Thursday Night Football results (2006-present) | 2009 season | 2009 season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Visiting_team",
+        "Final_score",
+        "Host_team",
+        "Stadium"
+    ],
+    "cell": [
+        [
+            "10",
+            "November 12",
+            "Chicago Bears",
+            "6-10",
+            "San Francisco 49ers",
+            "Candlestick Park"
+        ],
+        [
+            "11",
+            "November 19",
+            "Miami Dolphins",
+            "24-17",
+            "Carolina Panthers",
+            "Bank of America Stadium"
+        ],
+        [
+            "12",
+            "November 26",
+            "New York Giants",
+            "6-26",
+            "Denver Broncos",
+            "Invesco Field at Mile High"
+        ],
+        [
+            "13",
+            "December 3",
+            "New York Jets",
+            "19-13",
+            "Buffalo Bills",
+            "Rogers Centre"
+        ],
+        [
+            "14",
+            "December 10",
+            "Pittsburgh Steelers",
+            "6-13",
+            "Cleveland Browns",
+            "Cleveland Browns Stadium"
+        ],
+        [
+            "15",
+            "December 17",
+            "Indianapolis Colts",
+            "35-31",
+            "Jacksonville Jaguars",
+            "Jacksonville Municipal Stadium"
+        ],
+        [
+            "15",
+            "December 19",
+            "Dallas Cowboys",
+            "24-17",
+            "New Orleans Saints",
+            "Louisiana Superdome"
+        ],
+        [
+            "16",
+            "December 25",
+            "San Diego Chargers",
+            "42-17",
+            "Tennessee Titans",
+            "LP Field"
+        ]
+    ]
+}

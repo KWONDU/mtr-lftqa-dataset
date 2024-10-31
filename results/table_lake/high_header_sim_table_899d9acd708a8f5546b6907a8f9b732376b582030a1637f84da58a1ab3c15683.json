@@ -1,0 +1,95 @@
+{
+    "id": "899d9acd708a8f5546b6907a8f9b732376b582030a1637f84da58a1ab3c15683",
+    "metadata": "1946 Masters Tournament | Final leaderboard | Final leaderboard",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Herman Keiser",
+            "United States",
+            "69-68-71-74=282",
+            "-6",
+            "2500"
+        ],
+        [
+            "2",
+            "Ben Hogan",
+            "United States",
+            "74-70-69-70=283",
+            "-5",
+            "1500"
+        ],
+        [
+            "3",
+            "Bob Hamilton",
+            "United States",
+            "75-69-71-72=287",
+            "-1",
+            "1000"
+        ],
+        [
+            "T4",
+            "Jimmy Demaret",
+            "United States",
+            "75-70-71-73=289",
+            "+1",
+            "683"
+        ],
+        [
+            "T4",
+            "Jim Ferrier",
+            "Australia",
+            "74-72-68-75=289",
+            "+1",
+            "683"
+        ],
+        [
+            "T4",
+            "Ky Laffoon",
+            "United States",
+            "74-73-70-72=289",
+            "+1",
+            "683"
+        ],
+        [
+            "T7",
+            "Chick Harbert",
+            "United States",
+            "69-75-76-70=290",
+            "+2",
+            "356"
+        ],
+        [
+            "T7",
+            "Clayton Heafner",
+            "United States",
+            "74-69-71-76=290",
+            "+2",
+            "356"
+        ],
+        [
+            "T7",
+            "Byron Nelson",
+            "United States",
+            "72-73-71-74=290",
+            "+2",
+            "356"
+        ],
+        [
+            "T7",
+            "Sam Snead",
+            "United States",
+            "74-75-70-71=290",
+            "+2",
+            "356"
+        ]
+    ]
+}

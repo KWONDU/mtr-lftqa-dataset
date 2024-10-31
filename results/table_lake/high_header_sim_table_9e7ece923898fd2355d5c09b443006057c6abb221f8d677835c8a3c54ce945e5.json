@@ -1,0 +1,49 @@
+{
+    "id": "9e7ece923898fd2355d5c09b443006057c6abb221f8d677835c8a3c54ce945e5",
+    "metadata": "Best Fiction | Charts | Charts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Release_",
+        "Chart",
+        "Peak_Position",
+        "Sales_Total",
+        "Chart_Run"
+    ],
+    "cell": [
+        [
+            "July 30, 2008",
+            "Oricon Daily Albums Chart",
+            "1",
+            "1540088",
+            "83 weeks"
+        ],
+        [
+            "July 30, 2008",
+            "Oricon Weekly Albums Chart",
+            "1",
+            "1540088",
+            "83 weeks"
+        ],
+        [
+            "July 30, 2008",
+            "Oricon Monthly Albums Chart",
+            "1",
+            "1540088",
+            "83 weeks"
+        ],
+        [
+            "July 30, 2008",
+            "Oricon Yearly Albums Chart (2008)",
+            "2",
+            "1540088",
+            "83 weeks"
+        ],
+        [
+            "July 30, 2008",
+            "Oricon Yearly Albums Chart (2009)",
+            "95",
+            "1540088",
+            "83 weeks"
+        ]
+    ]
+}

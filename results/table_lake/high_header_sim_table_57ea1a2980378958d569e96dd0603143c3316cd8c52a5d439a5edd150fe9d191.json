@@ -1,0 +1,77 @@
+{
+    "id": "57ea1a2980378958d569e96dd0603143c3316cd8c52a5d439a5edd150fe9d191",
+    "metadata": "2003-04 Arsenal F.C. season | Transfers | Transfers",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Player",
+        "Loaned_to",
+        "Date_",
+        "Loan_expires"
+    ],
+    "cell": [
+        [
+            "DF",
+            "Juan",
+            "Millwall",
+            "1 August 2003",
+            "24 September 2003"
+        ],
+        [
+            "DF",
+            "Sebastian Sv\u00e4rd",
+            "Copenhagen",
+            "3 August 2003",
+            "20 December 2003"
+        ],
+        [
+            "DF",
+            "Moritz Volz",
+            "Fulham",
+            "7 August 2003",
+            "End of the season"
+        ],
+        [
+            "DF",
+            "Igors Stepanovs",
+            "Beveren",
+            "14 August 2003",
+            "End of the season"
+        ],
+        [
+            "MF",
+            "Jermaine Pennant",
+            "Leeds United",
+            "20 August 2003",
+            "15 May 2004"
+        ],
+        [
+            "MF",
+            "Giovanni van Bronckhorst",
+            "Barcelona",
+            "26 August 2003",
+            "End of the season"
+        ],
+        [
+            "FW",
+            "Francis Jeffers",
+            "Everton",
+            "1 September 2003",
+            "End of the season"
+        ],
+        [
+            "DF",
+            "Sebastian Sv\u00e4rd",
+            "Stoke City",
+            "29 December 2003",
+            "10 May 2004"
+        ],
+        [
+            "GK",
+            "Rami Shaaban",
+            "West Ham United",
+            "16 January 2004",
+            "Week beginning 16 February 2004"
+        ]
+    ]
+}

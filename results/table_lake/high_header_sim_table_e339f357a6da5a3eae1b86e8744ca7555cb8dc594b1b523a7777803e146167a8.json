@@ -1,0 +1,55 @@
+{
+    "id": "e339f357a6da5a3eae1b86e8744ca7555cb8dc594b1b523a7777803e146167a8",
+    "metadata": "2009 ATP World Tour | Best 5 Matches by ATPWorldTour.com | Best 5 Matches by ATPWorldTour.com",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "_Event",
+        "Round",
+        "Surface",
+        "Winner",
+        "Opponent",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Wimbledon",
+            "Final",
+            "Grass",
+            "Roger Federer",
+            "Andy Roddick"
+        ],
+        [
+            "2.",
+            "Madrid",
+            "Semifinal",
+            "Clay",
+            "Rafael Nadal",
+            "Novak Djokovic"
+        ],
+        [
+            "3.",
+            "Australian Open",
+            "Semifinal",
+            "Hard",
+            "Rafael Nadal",
+            "Fernando Verdasco"
+        ],
+        [
+            "4.",
+            "US Open",
+            "2nd Round",
+            "Hard",
+            "Taylor Dent",
+            "Iv\u00e1n Navarro"
+        ],
+        [
+            "5.",
+            "Tour Finals",
+            "Semifinal",
+            "Hard (i)",
+            "Nikolay Davydenko",
+            "Roger Federer"
+        ]
+    ]
+}

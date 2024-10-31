@@ -1,0 +1,70 @@
+{
+    "id": "f18321953d0b9aa1206cddb0fe211da259c6e198ae81dfb62ef44c9944ea70e2",
+    "metadata": "1964 VFL season | Round 7 | Round 7",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "13.11 (89)",
+            "Richmond",
+            "7.16 (58)",
+            "Glenferrie Oval",
+            "22000",
+            "30 May 1964"
+        ],
+        [
+            "Geelong",
+            "11.23 (89)",
+            "St Kilda",
+            "13.8 (86)",
+            "Kardinia Park",
+            "28000",
+            "30 May 1964"
+        ],
+        [
+            "Collingwood",
+            "22.18 (150)",
+            "North Melbourne",
+            "6.6 (42)",
+            "Victoria Park",
+            "34222",
+            "30 May 1964"
+        ],
+        [
+            "Carlton",
+            "8.12 (60)",
+            "Fitzroy",
+            "8.11 (59)",
+            "Princes Park",
+            "18945",
+            "30 May 1964"
+        ],
+        [
+            "Melbourne",
+            "12.14 (86)",
+            "Footscray",
+            "6.8 (44)",
+            "MCG",
+            "33129",
+            "30 May 1964"
+        ],
+        [
+            "South Melbourne",
+            "11.18 (84)",
+            "Essendon",
+            "14.12 (96)",
+            "Lake Oval",
+            "20470",
+            "30 May 1964"
+        ]
+    ]
+}

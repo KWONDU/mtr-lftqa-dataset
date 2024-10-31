@@ -1,0 +1,49 @@
+{
+    "id": "7e47dc66d8976805d7d5d39d4fc01e28636e06c944774c86a504ded2d2280998",
+    "metadata": "Family Life Radio | Texas | Texas",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "KAMY",
+            "90.1",
+            "Lubbock, Texas",
+            "63000",
+            "[http://www.fcc.gov/fcc-bin/fmq?call= KAMY FCC]"
+        ],
+        [
+            "KFLB",
+            "88.1",
+            "Midland, Texas",
+            "100000",
+            "[http://www.fcc.gov/fcc-bin/fmq?call= KFLB FCC]"
+        ],
+        [
+            "KFLB",
+            "920",
+            "Odessa, Texas",
+            "1,000 day 500 night",
+            "[http://www.fcc.gov/fcc-bin/fmq?call= KFLB FCC]"
+        ],
+        [
+            "KRGN",
+            "102.9",
+            "Amarillo, Texas",
+            "100000",
+            "[http://www.fcc.gov/fcc-bin/fmq?call= KRGN FCC]"
+        ],
+        [
+            "K297AU",
+            "107.3",
+            "Big Spring, Texas",
+            "62",
+            "FCC"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "e9a3b061be43a7a84d88d6ee727852be62c58eae8dc628c2a7c3a56666a87c10",
+    "metadata": "1982 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "32.14 (206)",
+            "North Melbourne",
+            "15.22 (112)",
+            "Princes Park",
+            "18760",
+            "10 July 1982"
+        ],
+        [
+            "Footscray",
+            "25.7 (157)",
+            "Geelong",
+            "17.13 (115)",
+            "Western Oval",
+            "14004",
+            "10 July 1982"
+        ],
+        [
+            "Carlton",
+            "21.13 (139)",
+            "St Kilda",
+            "9.9 (63)",
+            "VFL Park",
+            "27829",
+            "10 July 1982"
+        ],
+        [
+            "Melbourne",
+            "9.18 (72)",
+            "Richmond",
+            "23.9 (147)",
+            "MCG",
+            "36161",
+            "17 July 1982"
+        ],
+        [
+            "Essendon",
+            "12.10 (82)",
+            "Swans",
+            "17.13 (115)",
+            "Windy Hill",
+            "22278",
+            "17 July 1982"
+        ],
+        [
+            "Fitzroy",
+            "10.24 (84)",
+            "Collingwood",
+            "9.10 (64)",
+            "VFL Park",
+            "26105",
+            "17 July 1982"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": "98820c4f07239b498bd86b8da6c888bb2495d0f398ab5d52fd982569ba3b6de0",
+    "metadata": "Atlantic hurricane season | 1870s | 1870s",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Number_of_tropical_storms",
+        "Number_of_hurricanes",
+        "Number_of_major_hurricanes",
+        "Deaths",
+        "Strongest_storm"
+    ],
+    "cell": [
+        [
+            "1870",
+            "11",
+            "10",
+            "2",
+            "2052",
+            "Four"
+        ],
+        [
+            "1871",
+            "8",
+            "6",
+            "2",
+            "30",
+            "Three and Four"
+        ],
+        [
+            "1872",
+            "5",
+            "4",
+            "0",
+            "Unknown",
+            "Two"
+        ],
+        [
+            "1873",
+            "5",
+            "3",
+            "2",
+            "626",
+            "Five"
+        ],
+        [
+            "1874",
+            "7",
+            "4",
+            "0",
+            "Unknown",
+            "Seven"
+        ],
+        [
+            "1875",
+            "6",
+            "5",
+            "1",
+            "800",
+            "Three"
+        ],
+        [
+            "1876",
+            "5",
+            "4",
+            "2",
+            "19",
+            "San Felipe"
+        ],
+        [
+            "1877",
+            "8",
+            "3",
+            "1",
+            "34",
+            "Four"
+        ],
+        [
+            "1878",
+            "12",
+            "10",
+            "1",
+            "108",
+            "Seven"
+        ]
+    ]
+}

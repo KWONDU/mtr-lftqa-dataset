@@ -1,0 +1,49 @@
+{
+    "id": "884e7c87818a63f2a8d6f0ad36b1f77db0c142940fbdbc45f6f57568cc739c4b",
+    "metadata": "Test matches (1991-2000) | South Africa in England | South Africa in England",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Home_captain",
+        "Away_captain",
+        "Venue",
+        "Result_"
+    ],
+    "cell": [
+        [
+            "4,5,6,7,8 June 1998",
+            "Alec Stewart",
+            "Hansie Cronje",
+            "Edgbaston",
+            "DRAW"
+        ],
+        [
+            "18,19,20,21 June 1998",
+            "Alec Stewart",
+            "Hansie Cronje",
+            "Lord`s",
+            "SA by 10 wkts"
+        ],
+        [
+            "2,3,4,5,6 July 1998",
+            "Alec Stewart",
+            "Hansie Cronje",
+            "Old Trafford",
+            "DRAW"
+        ],
+        [
+            "23,24,25,26,27 July 1998",
+            "Alec Stewart",
+            "Hansie Cronje",
+            "Trent Bridge",
+            "ENG by 8 wkts"
+        ],
+        [
+            "6,7,8,9,10 August 1998",
+            "Alec Stewart",
+            "Hansie Cronje",
+            "Headingley",
+            "ENG by 23 runs"
+        ]
+    ]
+}

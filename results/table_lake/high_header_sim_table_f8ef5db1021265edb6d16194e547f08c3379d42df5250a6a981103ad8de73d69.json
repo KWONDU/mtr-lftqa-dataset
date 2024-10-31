@@ -1,0 +1,77 @@
+{
+    "id": "f8ef5db1021265edb6d16194e547f08c3379d42df5250a6a981103ad8de73d69",
+    "metadata": "Queens County, New Brunswick | Parishes | Parishes",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Official_Name",
+        "Status_",
+        "Area_km_2",
+        "Population",
+        "Census_Ranking"
+    ],
+    "cell": [
+        [
+            "Chipman",
+            "Parish",
+            "482.81",
+            "962",
+            "2,135 of 5,008"
+        ],
+        [
+            "Canning",
+            "Parish",
+            "173.40",
+            "952",
+            "2,145 of 5,008"
+        ],
+        [
+            "Waterborough",
+            "Parish",
+            "444.87",
+            "851",
+            "2,290 of 5,008"
+        ],
+        [
+            "Petersville",
+            "Parish",
+            "588.42",
+            "723",
+            "2,520 of 5,008"
+        ],
+        [
+            "Johnston",
+            "Parish",
+            "359.18",
+            "660",
+            "2,649 of 5,008"
+        ],
+        [
+            "Cambridge",
+            "Parish",
+            "113.97",
+            "651",
+            "2,662 of 5,008"
+        ],
+        [
+            "Wickham",
+            "Parish",
+            "159.78",
+            "426",
+            "3,211 of 5,008"
+        ],
+        [
+            "Gagetown",
+            "Parish",
+            "234.89",
+            "316",
+            "3,574 of 5,008"
+        ],
+        [
+            "Hampstead",
+            "Parish",
+            "212.63",
+            "294",
+            "3,665 of 5,008"
+        ]
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "1f4b577b05ef49816d2a685a15fe29bde7a85b8623194259f3154850be8c296e",
+    "metadata": "Nadia Fanchini | World Cup results | Season standings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Season",
+        "Age",
+        "Overall",
+        "Slalom",
+        "Giant_Slalom",
+        "Super_G",
+        "Downhill",
+        "Combined_"
+    ],
+    "cell": [
+        [
+            "2004",
+            "17",
+            "112",
+            "-",
+            "-",
+            "51",
+            "-",
+            "\u2014"
+        ],
+        [
+            "2005",
+            "18",
+            "37",
+            "-",
+            "27",
+            "18",
+            "49",
+            "\u2014"
+        ],
+        [
+            "2006",
+            "19",
+            "22",
+            "-",
+            "18",
+            "37",
+            "15",
+            "\u2014"
+        ],
+        [
+            "2007",
+            "20",
+            "33",
+            "-",
+            "50",
+            "15",
+            "23",
+            "\u2014"
+        ],
+        [
+            "2008",
+            "21",
+            "38",
+            "-",
+            "-",
+            "35",
+            "13",
+            "\u2014"
+        ],
+        [
+            "2009",
+            "22",
+            "9",
+            "-",
+            "40",
+            "2",
+            "5",
+            "50"
+        ],
+        [
+            "2010",
+            "23",
+            "28",
+            "-",
+            "-",
+            "13",
+            "23",
+            "\u2014"
+        ],
+        [
+            "2011",
+            "24",
+            "Injured, did not compete",
+            "Injured, did not compete",
+            "Injured, did not compete",
+            "Injured, did not compete",
+            "Injured, did not compete",
+            "Injured, did not compete"
+        ],
+        [
+            "2012",
+            "25",
+            "75",
+            "-",
+            "28",
+            "-",
+            "-",
+            "\u2014"
+        ],
+        [
+            "2013",
+            "26",
+            "37",
+            "-",
+            "17",
+            "28",
+            "30",
+            "\u2014"
+        ]
+    ]
+}

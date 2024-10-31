@@ -1,0 +1,95 @@
+{
+    "id": "d4fcb31c027826e00a9c95dcf3ff23e19a974c905e029bbc2fa1f35a58628a5c",
+    "metadata": "2000 Masters Tournament | Final round | Final round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par",
+        "Money_"
+    ],
+    "cell": [
+        [
+            "1",
+            "Vijay Singh",
+            "Fiji",
+            "72-67-70-69=278",
+            "-10",
+            "828000"
+        ],
+        [
+            "2",
+            "Ernie Els",
+            "South Africa",
+            "72-67-74-68=281",
+            "-7",
+            "496800"
+        ],
+        [
+            "T3",
+            "David Duval",
+            "United States",
+            "73-65-74-70=282",
+            "-6",
+            "266800"
+        ],
+        [
+            "T3",
+            "Loren Roberts",
+            "United States",
+            "73-69-71-69=282",
+            "-6",
+            "266800"
+        ],
+        [
+            "5",
+            "Tiger Woods",
+            "United States",
+            "75-72-68-69=284",
+            "-4",
+            "184000"
+        ],
+        [
+            "6",
+            "Tom Lehman",
+            "United States",
+            "69-72-75-69=285",
+            "-3",
+            "165600"
+        ],
+        [
+            "T7",
+            "Carlos Franco",
+            "Paraguay",
+            "79-68-70-69=286",
+            "-2",
+            "143367"
+        ],
+        [
+            "T7",
+            "Davis Love III",
+            "United States",
+            "75-72-68-71=286",
+            "-2",
+            "143367"
+        ],
+        [
+            "T7",
+            "Phil Mickelson",
+            "United States",
+            "71-68-76-71=286",
+            "-2",
+            "143367"
+        ],
+        [
+            "10",
+            "Hal Sutton",
+            "United States",
+            "72-75-71-69=287",
+            "-1",
+            "124200"
+        ]
+    ]
+}

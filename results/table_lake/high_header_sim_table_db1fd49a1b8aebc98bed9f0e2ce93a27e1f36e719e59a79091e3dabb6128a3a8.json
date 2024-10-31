@@ -1,0 +1,128 @@
+{
+    "id": "db1fd49a1b8aebc98bed9f0e2ce93a27e1f36e719e59a79091e3dabb6128a3a8",
+    "metadata": "2011 Star Mazda Championship season | Race calendar and results | Race calendar and results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rnd",
+        "Circuit",
+        "Location_",
+        "Date_",
+        "Pole_position",
+        "Fastest_lap",
+        "Winning_driver",
+        "Winning_team",
+        "Supporting"
+    ],
+    "cell": [
+        [
+            "1",
+            "Streets of St. Petersburg",
+            "St. Petersburg, Florida",
+            "March 26",
+            "Martin Scuncio",
+            "Connor De Phillippi",
+            "Connor De Phillippi",
+            "Team Pelfrey",
+            "IndyCar Series"
+        ],
+        [
+            "2",
+            "Barber Motorsports Park",
+            "Birmingham, Alabama",
+            "April 10",
+            "Tristan Vautier",
+            "Tristan Vautier",
+            "Tristan Vautier",
+            "JDC MotorSports",
+            "IndyCar Series"
+        ],
+        [
+            "3",
+            "Lucas Oil Raceway at Indianapolis",
+            "Clermont, Indiana",
+            "May 28",
+            "Connor De Phillippi",
+            "Nick Andries",
+            "Connor De Phillippi",
+            "Team Pelfrey",
+            "USAC Midgets"
+        ],
+        [
+            "4",
+            "Milwaukee Mile",
+            "West Allis, Wisconsin",
+            "June 19",
+            "Nick Andries",
+            "Sage Karam",
+            "Sage Karam",
+            "Andretti Autosport",
+            "IndyCar Series"
+        ],
+        [
+            "5",
+            "Iowa Speedway",
+            "Newton, Iowa",
+            "June 25",
+            "Sage Karam",
+            "Sage Karam",
+            "Sage Karam",
+            "Andretti Autosport",
+            "IndyCar Series"
+        ],
+        [
+            "6",
+            "Mosport International Raceway",
+            "Bowmanville, Ontario",
+            "July 24",
+            "Sage Karam",
+            "Nick Andries",
+            "Jo\u00e3o Victor Horto",
+            "Juncos Racing",
+            "American Le Mans Series"
+        ],
+        [
+            "7",
+            "Circuit Trois-Rivi\u00e8res",
+            "Trois-Rivi\u00e8res , Quebec",
+            "August 6",
+            "Tristan Vautier",
+            "Tristan Vautier",
+            "Tristan Vautier",
+            "JDC MotorSports",
+            "Firestone Indy Lights"
+        ],
+        [
+            "8",
+            "Circuit Trois-Rivi\u00e8res",
+            "Trois-Rivi\u00e8res , Quebec",
+            "August 7",
+            "Tristan Vautier",
+            "Connor De Phillippi",
+            "Connor De Phillippi",
+            "Team Pelfrey",
+            "Firestone Indy Lights"
+        ],
+        [
+            "9",
+            "Infineon Raceway",
+            "Sonoma, California",
+            "August 27",
+            "Tristan Vautier",
+            "Tristan Vautier",
+            "Tristan Vautier",
+            "JDC MotorSports",
+            "IndyCar Series"
+        ],
+        [
+            "10",
+            "Streets of Baltimore",
+            "Baltimore , Maryland",
+            "September 4",
+            "Tristan Vautier",
+            "Tristan Vautier",
+            "Tristan Vautier",
+            "JDC MotorSports",
+            "IndyCar Series"
+        ]
+    ]
+}

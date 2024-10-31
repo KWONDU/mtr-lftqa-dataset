@@ -1,5 +1,5 @@
 let isLoading = false;
-let table_lake = [];
+let table = {};
 let dataset = [];
 let currentIndex = 0;
 
@@ -13,12 +13,8 @@ function loadData(classification) {
     const buttons = document.querySelectorAll("#load-buttons button");
     buttons.forEach(button => button.disabled = true);
 
-    Promise.all([
-        fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/${classification}_table_lake.json`).then(response => response.json()),
-        fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/${classification}_dataset.json`).then(response => response.json())
-    ])
-    .then(([tableData, dataSet]) => {
-        table_lake = tableData;
+    fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/${classification}_table_lake.json`).then(response => response.json())
+    .then((dataSet) => {
         dataset = dataSet;
         currentIndex = 0;
         renderData(currentIndex);
@@ -52,9 +48,14 @@ function renderData(index) {
     goldTableIDSet.forEach((table_id, idx) => {
         const tableDiv = document.createElement("div");
         tableDiv.classList.add("table-responsive", "mb-4");
+        fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/table_lake_${classification}_table_${table_id}.json`).then(response => response.json())
+        .then((tb) => {
+            table = tb;
+        })
+        .catch(error => console.error("[Error] loading table:", error))
 
         const title = document.createElement("h4");
-        title.textContent = `Table ${idx + 1}: ${table_lake[table_id]['metadata']}`;
+        title.textContent = `Table ${idx + 1}: ${table['metadata']}`;
         tableDiv.appendChild(title);
 
         const tableEl = document.createElement("table");
@@ -62,7 +63,7 @@ function renderData(index) {
 
         const thead = document.createElement("thead");
         const headerRow = document.createElement("tr");
-        table_lake[table_id]['header'].forEach(header => {
+        table['header'].forEach(header => {
             const th = document.createElement("th");
             th.textContent = header;
             headerRow.appendChild(th);
@@ -71,7 +72,7 @@ function renderData(index) {
         tableEl.appendChild(thead);
 
         const tbody = document.createElement("tbody");
-        table_lake[table_id]['cell'].forEach(row => {
+        table['cell'].forEach(row => {
             const tr = document.createElement("tr");
             row.forEach(cellData => {
                 const td = document.createElement("td");

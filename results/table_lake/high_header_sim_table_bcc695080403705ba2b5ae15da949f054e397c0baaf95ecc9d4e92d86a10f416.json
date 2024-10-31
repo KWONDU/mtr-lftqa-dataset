@@ -1,0 +1,111 @@
+{
+    "id": "bcc695080403705ba2b5ae15da949f054e397c0baaf95ecc9d4e92d86a10f416",
+    "metadata": "Lesser Antilles | Sovereign states | Sovereign states",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Name_",
+        "Subdivisions",
+        "Area_km\u00b2",
+        "Population_1_July_2005_est_",
+        "Population_density_per_km\u00b2",
+        "Capital"
+    ],
+    "cell": [
+        [
+            "Antigua and Barbuda",
+            "Parishes",
+            "440",
+            "85632",
+            "195",
+            "St. John`s"
+        ],
+        [
+            "Antigua and Barbuda",
+            "Barbuda",
+            "161",
+            "1370",
+            "9.65",
+            "Codrington"
+        ],
+        [
+            "Antigua and Barbuda",
+            "Redonda",
+            "2",
+            "0",
+            "0",
+            "n/a"
+        ],
+        [
+            "Barbados",
+            "Parishes",
+            "431",
+            "284589",
+            "660",
+            "Bridgetown"
+        ],
+        [
+            "Dominica",
+            "Parishes",
+            "754",
+            "72660",
+            "96.3",
+            "Roseau"
+        ],
+        [
+            "Grenada",
+            "Parishes",
+            "344",
+            "110000",
+            "319.8",
+            "St. George\u2019s"
+        ],
+        [
+            "Saint Kitts and Nevis",
+            "Parishes",
+            "261",
+            "42696",
+            "163.5",
+            "Basseterre"
+        ],
+        [
+            "Saint Kitts and Nevis",
+            "Nevis",
+            "93",
+            "12106",
+            "130.1",
+            "Charlestown"
+        ],
+        [
+            "Saint Lucia",
+            "Quarters",
+            "616",
+            "173765",
+            "282",
+            "Castries"
+        ],
+        [
+            "Saint Vincent and the Grenadines",
+            "Parishes",
+            "389",
+            "120000",
+            "308.4",
+            "Kingstown"
+        ],
+        [
+            "Trinidad and Tobago",
+            "Regional corporations",
+            "5131",
+            "1299953",
+            "253.3",
+            "Port of Spain"
+        ],
+        [
+            "Trinidad and Tobago",
+            "Tobago",
+            "300",
+            "54000",
+            "180",
+            "Scarborough"
+        ]
+    ]
+}

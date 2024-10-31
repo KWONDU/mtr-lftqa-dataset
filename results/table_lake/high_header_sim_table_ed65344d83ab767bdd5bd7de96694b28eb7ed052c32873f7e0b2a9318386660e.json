@@ -1,0 +1,87 @@
+{
+    "id": "ed65344d83ab767bdd5bd7de96694b28eb7ed052c32873f7e0b2a9318386660e",
+    "metadata": "Irrigation in Bolivia | Investment and financing | Investment and financing",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Department",
+        "Projects",
+        "Municipalities",
+        "Farmers",
+        "Irrigated_Ha",
+        "BID_PRONAR_Investment_US_",
+        "Local_Investment_US_",
+        "Total"
+    ],
+    "cell": [
+        [
+            "Cochabamba",
+            "20",
+            "16",
+            "3210",
+            "1983",
+            "2365141",
+            "626798",
+            "2991939"
+        ],
+        [
+            "Chuquisaca",
+            "34",
+            "16",
+            "1612",
+            "2367",
+            "2719142",
+            "780009",
+            "3499151"
+        ],
+        [
+            "La Paz",
+            "32",
+            "19",
+            "3077",
+            "4584",
+            "3, 201,460",
+            "979723",
+            "4, 181,183"
+        ],
+        [
+            "Oruro",
+            "26",
+            "7",
+            "1326",
+            "1885",
+            "1, 740,746",
+            "548554",
+            "2, 289,300"
+        ],
+        [
+            "Potosi",
+            "12",
+            "4",
+            "1300",
+            "706",
+            "1, 047,322",
+            "359058",
+            "1, 406, 380"
+        ],
+        [
+            "Santa Cruz",
+            "9",
+            "8",
+            "554",
+            "699",
+            "912185",
+            "265932",
+            "1, 1778,117"
+        ],
+        [
+            "Tarija",
+            "25",
+            "13",
+            "1477",
+            "2170",
+            "2, 727,255",
+            "897, 336",
+            "3, 624,590"
+        ]
+    ]
+}

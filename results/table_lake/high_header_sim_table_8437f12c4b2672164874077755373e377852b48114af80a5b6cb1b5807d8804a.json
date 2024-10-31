@@ -1,0 +1,61 @@
+{
+    "id": "8437f12c4b2672164874077755373e377852b48114af80a5b6cb1b5807d8804a",
+    "metadata": "Mika Salo | 24 Hours of Le Mans results | 24 Hours of Le Mans results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Team",
+        "Co_Drivers",
+        "Class_",
+        "Laps",
+        "Pos_",
+        "Class_Pos_"
+    ],
+    "cell": [
+        [
+            "2003",
+            "Audi Sport UK Arena Motorsport",
+            "Frank Biela Perry McCarthy",
+            "LMP900",
+            "28",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2007",
+            "Risi Competizione",
+            "Johnny Mowlem Jaime Melo",
+            "GT2",
+            "223",
+            "DNF",
+            "DNF"
+        ],
+        [
+            "2008",
+            "Risi Competizione",
+            "Gianmaria Bruni Jaime Melo",
+            "GT2",
+            "326",
+            "19th",
+            "1st"
+        ],
+        [
+            "2009",
+            "Risi Competizione",
+            "Jaime Melo Pierre Kaffer",
+            "GT2",
+            "329",
+            "18th",
+            "1st"
+        ],
+        [
+            "2010",
+            "AF Corse",
+            "Lu\u00eds P\u00e9rez Companc Mat\u00edas Russo",
+            "GT2",
+            "0",
+            "DNS",
+            "DNS"
+        ]
+    ]
+}

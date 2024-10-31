@@ -1,0 +1,61 @@
+{
+    "id": "aec49c2fec8c5db8532d6de9624af26d60f5b429842b94fea09515b9669a7b8a",
+    "metadata": "Huancayo | Demographics | Demographics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Municipalities_of_the_city",
+        "Area_km\u00b2",
+        "Population_censo_2007hab",
+        "Population_under_1_year_old_Censo_2007hab",
+        "Households_2007",
+        "Density_hab_km\u00b2_",
+        "Elevation_msnm"
+    ],
+    "cell": [
+        [
+            "Chilca",
+            "8,3km\u00b2",
+            "77.392*",
+            "1.358*",
+            "17.509",
+            "9.32433",
+            "3.275 msnm"
+        ],
+        [
+            "El Tambo",
+            "73,56km\u00b2",
+            "146.847*",
+            "2.365*",
+            "36.982",
+            "1.99628",
+            "3.260 msnm"
+        ],
+        [
+            "Huancayo",
+            "237,55km\u00b2",
+            "112.054*",
+            "1,789*",
+            "27.552",
+            "47170",
+            "3.249 msnm"
+        ],
+        [
+            "Total",
+            "319,41km\u00b2",
+            "336.293*",
+            "5.512*",
+            "82.043",
+            "1.05285",
+            "\u2014"
+        ],
+        [
+            "* Data from the census taken by the INEI",
+            "* Data from the census taken by the INEI",
+            "* Data from the census taken by the INEI",
+            "* Data from the census taken by the INEI",
+            "* Data from the census taken by the INEI",
+            "* Data from the census taken by the INEI",
+            "* Data from the census taken by the INEI"
+        ]
+    ]
+}

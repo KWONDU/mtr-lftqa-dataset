@@ -1,0 +1,71 @@
+{
+    "id": "cac6d0d94712ac74494959c247ed9e1b11b78103ee769d4db35db37de220e2e0",
+    "metadata": "Northwest Crossroads Conference (IHSAA) | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Enrollment",
+        "IHSAA_Class",
+        "_County"
+    ],
+    "cell": [
+        [
+            "Andrean",
+            "Merrillville",
+            "Fighting `59ers",
+            "671",
+            "2A Football, 3A Basketball",
+            "45 Lake"
+        ],
+        [
+            "Griffith",
+            "Griffith",
+            "Panthers",
+            "961",
+            "4A Football, 3A Basketball",
+            "45 Lake"
+        ],
+        [
+            "Highland",
+            "Highland",
+            "Trojans",
+            "1224",
+            "4A Football, 4A Basketball",
+            "45 Lake"
+        ],
+        [
+            "Hobart",
+            "Hobart",
+            "Brickies",
+            "1249",
+            "4A Football, 4A Basketball",
+            "45 Lake"
+        ],
+        [
+            "Kankakee Valley",
+            "Wheatfield",
+            "Kougars",
+            "1185",
+            "4A Football, 3A Basketball",
+            "37 Jasper"
+        ],
+        [
+            "Lowell",
+            "Lowell",
+            "Red Devils",
+            "1206",
+            "4A Football, 4A Basketball",
+            "45 Lake"
+        ],
+        [
+            "Munster",
+            "Munster",
+            "Mustangs",
+            "1637",
+            "5A Football, 4A Basketball",
+            "45 Lake"
+        ]
+    ]
+}

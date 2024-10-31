@@ -1,0 +1,71 @@
+{
+    "id": "7ee8a2bae9162a635bc486efe94e3ea976d0f2978fb9a435e067f9fb9746bdda",
+    "metadata": "1985 World Series | Summary | Summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Game",
+        "Date_",
+        "Score",
+        "Location_",
+        "Time_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "October 19",
+            "St. Louis Cardinals - 3, Kansas City Royals - 1",
+            "Royals Stadium",
+            "2:48",
+            "41650"
+        ],
+        [
+            "2",
+            "October 20",
+            "St. Louis Cardinals - 4, Kansas City Royals - 2",
+            "Royals Stadium",
+            "2:44",
+            "41656"
+        ],
+        [
+            "3",
+            "October 22",
+            "Kansas City Royals - 6, St. Louis Cardinals - 1",
+            "Busch Stadium (II)",
+            "2:59",
+            "53634"
+        ],
+        [
+            "4",
+            "October 23",
+            "Kansas City Royals - 0, St. Louis Cardinals - 3",
+            "Busch Stadium (II)",
+            "2:19",
+            "53634"
+        ],
+        [
+            "5",
+            "October 24",
+            "Kansas City Royals - 6, St. Louis Cardinals - 1",
+            "Busch Stadium (II)",
+            "2:52",
+            "53634"
+        ],
+        [
+            "6",
+            "October 26",
+            "St. Louis Cardinals - 1, Kansas City Royals - 2",
+            "Royals Stadium",
+            "2:47",
+            "41628"
+        ],
+        [
+            "7",
+            "October 27",
+            "St. Louis Cardinals - 0, Kansas City Royals - 11",
+            "Royals Stadium",
+            "2:46",
+            "41658"
+        ]
+    ]
+}

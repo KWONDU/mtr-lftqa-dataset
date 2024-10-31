@@ -1,0 +1,84 @@
+{
+    "id": "3beecfbaa2c59970cfb5e869370e35cfd1c99479c371901df769ef0a67550484",
+    "metadata": "1989 Masters Tournament | First round | First round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Place",
+        "Player",
+        "Country",
+        "Score",
+        "To_par"
+    ],
+    "cell": [
+        [
+            "1",
+            "Lee Trevino",
+            "United States",
+            "67",
+            "-5"
+        ],
+        [
+            "2",
+            "Nick Faldo",
+            "England",
+            "68",
+            "-4"
+        ],
+        [
+            "3",
+            "Scott Hoch",
+            "United States",
+            "69",
+            "-3"
+        ],
+        [
+            "T4",
+            "Andy Bean",
+            "United States",
+            "70",
+            "-2"
+        ],
+        [
+            "T4",
+            "Don Pooley",
+            "United States",
+            "70",
+            "-2"
+        ],
+        [
+            "T6",
+            "Seve Ballesteros",
+            "Spain",
+            "71",
+            "-1"
+        ],
+        [
+            "T6",
+            "T.C. Chen",
+            "Taiwan",
+            "71",
+            "-1"
+        ],
+        [
+            "T6",
+            "Ben Crenshaw",
+            "United States",
+            "71",
+            "-1"
+        ],
+        [
+            "T6",
+            "Jumbo Ozaki",
+            "Japan",
+            "71",
+            "-1"
+        ],
+        [
+            "T6",
+            "Tom Purtzer",
+            "United States",
+            "71",
+            "-1"
+        ]
+    ]
+}

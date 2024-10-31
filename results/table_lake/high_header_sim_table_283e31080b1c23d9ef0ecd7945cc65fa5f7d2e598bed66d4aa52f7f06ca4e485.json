@@ -1,0 +1,97 @@
+{
+    "id": "283e31080b1c23d9ef0ecd7945cc65fa5f7d2e598bed66d4aa52f7f06ca4e485",
+    "metadata": "Tri-Eastern Conference (IHSAA) | Membership | Membership",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "Size_",
+        "IHSAA_Class",
+        "_County",
+        "Year_Joined",
+        "Previous_Conference"
+    ],
+    "cell": [
+        [
+            "Cambridge City Lincoln",
+            "Cambridge City",
+            "Golden Eagles",
+            "367",
+            "AA",
+            "89 Wayne",
+            "1965",
+            "none (new school)"
+        ],
+        [
+            "Centerville",
+            "Centerville",
+            "Bulldogs",
+            "530",
+            "AA",
+            "89 Wayne",
+            "1962",
+            "East Central"
+        ],
+        [
+            "Hagerstown",
+            "Hagerstown",
+            "Tigers",
+            "401",
+            "AA",
+            "89 Wayne",
+            "1966",
+            "Mississinewa Valley"
+        ],
+        [
+            "Northeastern",
+            "Fountain City",
+            "Knights",
+            "379",
+            "AA",
+            "89 Wayne",
+            "1974",
+            "Mid-Eastern"
+        ],
+        [
+            "Tri",
+            "Straughn",
+            "Titans",
+            "274",
+            "A",
+            "33 Henry",
+            "1989",
+            "Big Blue River"
+        ],
+        [
+            "Union City Community",
+            "Union City",
+            "Indians",
+            "287",
+            "A",
+            "68 Randolph",
+            "1962",
+            "East Central"
+        ],
+        [
+            "Union County",
+            "Liberty",
+            "Patriots",
+            "535",
+            "AA",
+            "81 Union",
+            "1973",
+            "none (new school)"
+        ],
+        [
+            "Winchester Community",
+            "Winchester",
+            "Golden Falcons",
+            "494",
+            "AA",
+            "68 Randolph",
+            "1972",
+            "Mississinewa Valley"
+        ]
+    ]
+}

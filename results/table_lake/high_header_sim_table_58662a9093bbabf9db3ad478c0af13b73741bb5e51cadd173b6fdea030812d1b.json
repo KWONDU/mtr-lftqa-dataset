@@ -1,0 +1,98 @@
+{
+    "id": "58662a9093bbabf9db3ad478c0af13b73741bb5e51cadd173b6fdea030812d1b",
+    "metadata": "Galician language | Examples | Examples",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "English",
+        "Galician_Official_",
+        "Galician_Reintegrationist_",
+        "Portuguese",
+        "Spanish"
+    ],
+    "cell": [
+        [
+            "Good morning",
+            "Bo d\u00eda / Bos d\u00edas",
+            "Bom Dia",
+            "Bom Dia / Bons dias",
+            "Buenos d\u00edas"
+        ],
+        [
+            "What is your name?",
+            "Como te chamas?",
+            "Como te chamas?",
+            "Como te chamas?",
+            "\u00bfC\u00f3mo te llamas?"
+        ],
+        [
+            "I love you",
+            "Qu\u00e9rote / \u00c1mote",
+            "Amo-te",
+            "Amo-te",
+            "Te quiero / Te amo"
+        ],
+        [
+            "Excuse me",
+            "Desculpe",
+            "Desculpe",
+            "Desculpe",
+            "Perd\u00f3n / Disculpe"
+        ],
+        [
+            "Thanks / Thank you",
+            "Grazas",
+            "Obrigado",
+            "Obrigado",
+            "Gracias"
+        ],
+        [
+            "Welcome",
+            "Benvido",
+            "Bem-vido",
+            "Bem-vindo",
+            "Bienvenido"
+        ],
+        [
+            "Goodbye",
+            "Adeus*",
+            "Adeus*",
+            "Adeus*",
+            "Adi\u00f3s"
+        ],
+        [
+            "Yes",
+            "Si",
+            "Sim",
+            "Sim",
+            "S\u00ed"
+        ],
+        [
+            "No",
+            "Non",
+            "Nom",
+            "N\u00e3o",
+            "No"
+        ],
+        [
+            "Dog",
+            "Can",
+            "Cam",
+            "C\u00e3o",
+            "Perro (rarely, Can)"
+        ],
+        [
+            "Grandfather",
+            "Av\u00f3 /a\u02c8bo/",
+            "Av\u00f4 /\u0250\u02c8vo/",
+            "Av\u00f4 /\u0250\u02c8vo/",
+            "Abuelo"
+        ],
+        [
+            "Newspaper",
+            "Peri\u00f3dico / Xornal",
+            "Jornal",
+            "Jornal",
+            "Peri\u00f3dico"
+        ]
+    ]
+}

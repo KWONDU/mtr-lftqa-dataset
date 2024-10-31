@@ -1,0 +1,70 @@
+{
+    "id": "ff3754009079e54a5c87375f7e11b3d3b3ef7c700066011f4ea77f4fd69a9eca",
+    "metadata": "1931 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "18.15 (123)",
+            "North Melbourne",
+            "11.13 (79)",
+            "MCG",
+            "3944",
+            "5 September 1931"
+        ],
+        [
+            "Hawthorn",
+            "5.13 (43)",
+            "Richmond",
+            "13.21 (99)",
+            "Glenferrie Oval",
+            "11000",
+            "5 September 1931"
+        ],
+        [
+            "Geelong",
+            "16.12 (108)",
+            "South Melbourne",
+            "8.11 (59)",
+            "Corio Oval",
+            "10500",
+            "5 September 1931"
+        ],
+        [
+            "Essendon",
+            "15.7 (97)",
+            "Fitzroy",
+            "12.8 (80)",
+            "Windy Hill",
+            "10000",
+            "5 September 1931"
+        ],
+        [
+            "Carlton",
+            "6.14 (50)",
+            "Footscray",
+            "7.12 (54)",
+            "Princes Park",
+            "39000",
+            "5 September 1931"
+        ],
+        [
+            "St Kilda",
+            "21.16 (142)",
+            "Collingwood",
+            "20.8 (128)",
+            "Junction Oval",
+            "17000",
+            "5 September 1931"
+        ]
+    ]
+}

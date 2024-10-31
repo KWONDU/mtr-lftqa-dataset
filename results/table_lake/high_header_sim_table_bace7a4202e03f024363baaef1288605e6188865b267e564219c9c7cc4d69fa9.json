@@ -1,0 +1,49 @@
+{
+    "id": "bace7a4202e03f024363baaef1288605e6188865b267e564219c9c7cc4d69fa9",
+    "metadata": "Euroleague 2007-08 Individual Statistics | Full Season | Rebounds",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Team",
+        "Games",
+        "Rebounds"
+    ],
+    "cell": [
+        [
+            "1.",
+            "Jeremiah Massey",
+            "Aris Thessaloniki",
+            "20",
+            "169"
+        ],
+        [
+            "2.",
+            "Terence Morris",
+            "Maccabi Tel Aviv",
+            "25",
+            "208"
+        ],
+        [
+            "3.",
+            "Felipe Reyes",
+            "Real Madrid",
+            "19",
+            "135"
+        ],
+        [
+            "4.",
+            "Nikola Pekovi\u0107",
+            "Partizan Belgrade",
+            "23",
+            "158"
+        ],
+        [
+            "5.",
+            "Novica Veli\u010dkovi\u0107",
+            "Partizan Belgrade",
+            "22",
+            "151"
+        ]
+    ]
+}

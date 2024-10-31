@@ -1,0 +1,63 @@
+{
+    "id": "a2e6ec33ce4cfdd22bd1f57d5a33e92b34258ae970a2ccba025136feec37e45e",
+    "metadata": "2008 All-Ireland Senior Football Championship | Single game | Single game",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Player",
+        "County",
+        "Tally",
+        "Total",
+        "Matches",
+        "Average"
+    ],
+    "cell": [
+        [
+            "John Doyle",
+            "Kildare",
+            "2-26",
+            "32",
+            "5",
+            "6.4"
+        ],
+        [
+            "Colm Cooper",
+            "Kerry",
+            "2-25",
+            "31",
+            "7",
+            "4.43"
+        ],
+        [
+            "Sean Cavanagh",
+            "Tyrone",
+            "2-24",
+            "30",
+            "8",
+            "3.75"
+        ],
+        [
+            "Ian Ryan",
+            "Limerick",
+            "3-20",
+            "29",
+            "4",
+            "7.25"
+        ],
+        [
+            "Mattie Forde",
+            "Wexford",
+            "1-24",
+            "27",
+            "6",
+            "4.5"
+        ],
+        [
+            "Ciaran Lyng",
+            "Wexford",
+            "2-21",
+            "27",
+            "6",
+            "4.5"
+        ]
+    ]
+}

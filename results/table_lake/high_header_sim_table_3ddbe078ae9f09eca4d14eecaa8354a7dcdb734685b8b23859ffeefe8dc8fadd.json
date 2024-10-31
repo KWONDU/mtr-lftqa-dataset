@@ -1,0 +1,70 @@
+{
+    "id": "3ddbe078ae9f09eca4d14eecaa8354a7dcdb734685b8b23859ffeefe8dc8fadd",
+    "metadata": "1948 VFL season | Round 17 | Round 17",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Melbourne",
+            "15.13 (103)",
+            "South Melbourne",
+            "7.12 (54)",
+            "MCG",
+            "13500",
+            "21 August 1948"
+        ],
+        [
+            "Geelong",
+            "11.14 (80)",
+            "Hawthorn",
+            "11.15 (81)",
+            "Kardinia Park",
+            "10000",
+            "21 August 1948"
+        ],
+        [
+            "Fitzroy",
+            "9.9 (63)",
+            "Footscray",
+            "11.15 (81)",
+            "Brunswick Street Oval",
+            "12000",
+            "21 August 1948"
+        ],
+        [
+            "Collingwood",
+            "15.18 (108)",
+            "Richmond",
+            "10.12 (72)",
+            "Victoria Park",
+            "28000",
+            "21 August 1948"
+        ],
+        [
+            "St Kilda",
+            "8.10 (58)",
+            "North Melbourne",
+            "7.19 (61)",
+            "Junction Oval",
+            "5000",
+            "21 August 1948"
+        ],
+        [
+            "Essendon",
+            "16.15 (111)",
+            "Carlton",
+            "11.11 (77)",
+            "Windy Hill",
+            "28000",
+            "21 August 1948"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "efe6a72d5126227c9e77aa5126540ca18719e4affda03ce9248699d92f372ba7",
+    "metadata": "1955 Team Speedway Polish Championship | First League | First League",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Match_",
+        "Points",
+        "Draw",
+        "Lost"
+    ],
+    "cell": [
+        [
+            "Gwardia Bydgoszcz",
+            "10",
+            "18",
+            "0",
+            "1"
+        ],
+        [
+            "Kolejarz Rawicz",
+            "10",
+            "14",
+            "0",
+            "3"
+        ],
+        [
+            "Sparta Wroc\u0142aw",
+            "10",
+            "12",
+            "0",
+            "4"
+        ],
+        [
+            "Budowlani Warszawa",
+            "10",
+            "11",
+            "1",
+            "4"
+        ],
+        [
+            "Unia Leszno",
+            "10",
+            "5",
+            "1",
+            "7"
+        ],
+        [
+            "CWKS Wroc\u0142aw",
+            "10",
+            "0",
+            "0",
+            "10"
+        ]
+    ]
+}

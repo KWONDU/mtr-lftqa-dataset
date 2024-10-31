@@ -1,0 +1,77 @@
+{
+    "id": "23fca2f56542f7ff500bb5a829f76064fc54c184360cc463c17f95d4809b3156",
+    "metadata": "Roberto Colombo (motorcyclist) | Motorcycle Grand Prix results | Motorcycle Grand Prix results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Class_",
+        "Team",
+        "Points",
+        "Wins"
+    ],
+    "cell": [
+        [
+            "1952",
+            "250cc",
+            "NSU",
+            "2",
+            "0"
+        ],
+        [
+            "1954",
+            "125cc",
+            "MV Agusta",
+            "6",
+            "0"
+        ],
+        [
+            "1954",
+            "250cc",
+            "Moto Guzzi",
+            "5",
+            "0"
+        ],
+        [
+            "1955",
+            "350cc",
+            "Moto Guzzi",
+            "7",
+            "0"
+        ],
+        [
+            "1956",
+            "125cc",
+            "MV Agusta",
+            "0",
+            "0"
+        ],
+        [
+            "1956",
+            "250cc",
+            "MV Agusta",
+            "9",
+            "0"
+        ],
+        [
+            "1956",
+            "350cc",
+            "MV Agusta",
+            "4",
+            "0"
+        ],
+        [
+            "1957",
+            "125cc",
+            "MV Agusta",
+            "11",
+            "0"
+        ],
+        [
+            "1957",
+            "250cc",
+            "MV Agusta",
+            "10",
+            "0"
+        ]
+    ]
+}

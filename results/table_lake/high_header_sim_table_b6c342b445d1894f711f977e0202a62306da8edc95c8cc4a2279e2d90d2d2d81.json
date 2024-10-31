@@ -1,0 +1,84 @@
+{
+    "id": "b6c342b445d1894f711f977e0202a62306da8edc95c8cc4a2279e2d90d2d2d81",
+    "metadata": "Batangas State University | Campuses | Campuses",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Campus",
+        "Executive_Director",
+        "Founded",
+        "Type_",
+        "Location_"
+    ],
+    "cell": [
+        [
+            "Governor Pablo Borbon Campus I",
+            "Rogelio A. Antenor",
+            "1903",
+            "Main (flagship)",
+            "Poblacion, Batangas City"
+        ],
+        [
+            "Governor Pablo Borbon Campus II",
+            "Expedito V. Acorda",
+            "1984",
+            "Main",
+            "Brgy. Alangilan, Batangas City"
+        ],
+        [
+            "Apolinario R. Apacible School of Fisheries Campus",
+            "Enrico M. Dalangin",
+            "1952",
+            "Satellite",
+            "Nasugbu, Batangas"
+        ],
+        [
+            "Jose P. Laurel Polytechnic College Campus",
+            "Jessie A. Montalbo",
+            "1968",
+            "Satellite",
+            "Malvar, Batangas"
+        ],
+        [
+            "Claro M. Recto Campus",
+            "Edgard E. Valdez",
+            "2000",
+            "Extension",
+            "Lipa City"
+        ],
+        [
+            "Balayan Campus",
+            "Israel P. Pe\u00f1ero",
+            "1994",
+            "Extension",
+            "Balayan, Batangas"
+        ],
+        [
+            "Lemery Campus",
+            "Israel P. Pe\u00f1ero",
+            "2003",
+            "Extension",
+            "Lemery, Batangas"
+        ],
+        [
+            "Lobo Campus",
+            "Rogelio A. Antenor",
+            "2003",
+            "Extension",
+            "Lobo, Batangas"
+        ],
+        [
+            "Rosario Campus",
+            "Edgard E. Valdez",
+            "2000",
+            "Extension",
+            "Rosario, Batangas"
+        ],
+        [
+            "San Juan Campus",
+            "Edgard E. Valdez",
+            "2000",
+            "Extension",
+            "San Juan, Batangas"
+        ]
+    ]
+}

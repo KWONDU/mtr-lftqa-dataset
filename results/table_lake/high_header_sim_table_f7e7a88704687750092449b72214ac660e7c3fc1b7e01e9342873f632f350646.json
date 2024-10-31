@@ -1,0 +1,67 @@
+{
+    "id": "f7e7a88704687750092449b72214ac660e7c3fc1b7e01e9342873f632f350646",
+    "metadata": "Al-Wehdat SC | Derbi Amman | Derbi Amman",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "_",
+        "Tournament",
+        "Al_Faisaly_Wins",
+        "Al_Wehdat_Wins",
+        "Draws",
+        "Total",
+        "Al_Faisaly_Goals",
+        "Al_Wehdat_Goals"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jordan Premier League",
+            "25",
+            "26",
+            "22",
+            "73",
+            "66",
+            "69"
+        ],
+        [
+            "2",
+            "Jordan FA Cup",
+            "6",
+            "7",
+            "5",
+            "18",
+            "23",
+            "23"
+        ],
+        [
+            "3",
+            "Jordan FA Shield",
+            "8",
+            "5",
+            "3",
+            "16",
+            "19",
+            "14"
+        ],
+        [
+            "4",
+            "Jordan Super Cup",
+            "4",
+            "5",
+            "2",
+            "11",
+            "13",
+            "13"
+        ],
+        [
+            "5",
+            "AFC Cup",
+            "3",
+            "0",
+            "1",
+            "4",
+            "4",
+            "2"
+        ]
+    ]
+}

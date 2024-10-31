@@ -1,0 +1,70 @@
+{
+    "id": "1c94db04d03d37803906d5cfaacb264f19803dfbbafec50f2df74a459a3b05a7",
+    "metadata": "Beverly, Alberta | Demographics | Demographics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Neighbourhood",
+        "Population_2012",
+        "Population_2009",
+        "Change_",
+        "Dwellings",
+        "Area_km_2_",
+        "Density_people_km_2_"
+    ],
+    "cell": [
+        [
+            "Abbottsfield",
+            "1888",
+            "1815",
+            "4",
+            "735",
+            "0.41",
+            "4604.9"
+        ],
+        [
+            "Beacon Heights",
+            "3023",
+            "2984",
+            "1.3",
+            "1405",
+            "1.15",
+            "2628.7"
+        ],
+        [
+            "Bergman",
+            "1454",
+            "1433",
+            "1.5",
+            "577",
+            "0.71",
+            "2047.9"
+        ],
+        [
+            "Beverly Heights",
+            "3200",
+            "3375",
+            "-5.2",
+            "1777",
+            "1.38",
+            "2318.8"
+        ],
+        [
+            "Rundle Heights",
+            "3359",
+            "3405",
+            "-1.4",
+            "1426",
+            "0.82",
+            "4096.3"
+        ],
+        [
+            "Total Beverly",
+            "12924",
+            "13012",
+            "-0.7",
+            "5920",
+            "4.47",
+            "2891.3"
+        ]
+    ]
+}

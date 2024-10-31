@@ -1,0 +1,63 @@
+{
+    "id": "a468019c3bb92dfc38d02766416768ca7e92126325335b4c66d855a7d75c67f9",
+    "metadata": "1992-93 UE Lleida season | Competitions | Copa del Rey",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Round",
+        "Kick_Off",
+        "Opponents",
+        "H_A",
+        "Result_",
+        "Referee"
+    ],
+    "cell": [
+        [
+            "R3",
+            "1992-10-01 21:15",
+            "H\u00e9rcules",
+            "A",
+            "1 - 1",
+            "Panadero Mart\u00ednez"
+        ],
+        [
+            "R3",
+            "1992-11-05 20:30",
+            "H\u00e9rcules",
+            "H",
+            "1 - 0",
+            "Garc\u00eda Prieto"
+        ],
+        [
+            "R5",
+            "1993-01-13 20:30",
+            "Palam\u00f3s",
+            "H",
+            "0 - 0",
+            "Daud\u00e9n Ib\u00e1\u00f1ez"
+        ],
+        [
+            "R5",
+            "1993-01-20 20:30",
+            "Palam\u00f3s",
+            "A",
+            "1 - 1",
+            "Vel\u00e1zquez Carrillo"
+        ],
+        [
+            "L16",
+            "1993-02-03 20:30",
+            "Real Sociedad",
+            "H",
+            "0 - 0",
+            "Garc\u00eda Aranda"
+        ],
+        [
+            "L16",
+            "1993-02-17 20:30",
+            "Real Sociedad",
+            "A",
+            "0 - 3",
+            "L\u00f3pez Nieto"
+        ]
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "id": "e82ac66d2831dc56c5649b5fe29b90123cce1abedd76c145cadda7fea3cf74b4",
+    "metadata": "1960 New York Titans season | Regular season | Regular season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Game_site",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "1960-09-11",
+            "Buffalo Bills",
+            "W 27-3",
+            "Polo Grounds",
+            "10250"
+        ],
+        [
+            "2",
+            "1960-09-17",
+            "Boston Patriots",
+            "L 28-24",
+            "Polo Grounds",
+            "19200"
+        ],
+        [
+            "3",
+            "1960-09-23",
+            "Denver Broncos",
+            "W 28-24",
+            "Polo Grounds",
+            "20982"
+        ],
+        [
+            "4",
+            "1960-10-02",
+            "at Dallas Texans",
+            "W 37-35",
+            "Cotton Bowl",
+            "37500"
+        ],
+        [
+            "5",
+            "1960-10-09",
+            "at Houston Oilers",
+            "L 27-21",
+            "Jeppesen Stadium",
+            "16156"
+        ],
+        [
+            "6",
+            "1960-10-16",
+            "at Buffalo Bills",
+            "W 17-13",
+            "War Memorial Stadium",
+            "14998"
+        ],
+        [
+            "7",
+            "1960-10-23",
+            "Houston Oilers",
+            "L 42-28",
+            "Polo Grounds",
+            "21000"
+        ],
+        [
+            "8",
+            "1960-10-28",
+            "Oakland Raiders",
+            "L 28-27",
+            "Polo Grounds",
+            "10000"
+        ],
+        [
+            "9",
+            "1960-11-04",
+            "Los Angeles Chargers",
+            "L 21-7",
+            "Polo Grounds",
+            "19402"
+        ],
+        [
+            "10",
+            "1960-11-11",
+            "at Boston Patriots",
+            "L 38-21",
+            "Nickerson Field",
+            "11653"
+        ],
+        [
+            "11",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye",
+            "Bye"
+        ],
+        [
+            "12",
+            "1960-11-24",
+            "Dallas Texans",
+            "W 41-35",
+            "Polo Grounds",
+            "14344"
+        ],
+        [
+            "13",
+            "1960-12-04",
+            "at Denver Broncos",
+            "W 30-27",
+            "Bears Stadium",
+            "5861"
+        ],
+        [
+            "14",
+            "1960-12-11",
+            "at Oakland Raiders",
+            "W 31-28",
+            "Candlestick Park",
+            "9037"
+        ],
+        [
+            "15",
+            "1960-12-18",
+            "at Los Angeles Chargers",
+            "L 50-43",
+            "Los Angeles Memorial Coliseum",
+            "11457"
+        ]
+    ]
+}

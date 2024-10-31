@@ -1,0 +1,79 @@
+{
+    "id": "9d417a061b6e06aee4f2a812bd9a5af7a7aaff26c60f1b8fd4c5bf2dc360dcce",
+    "metadata": "1998-99 European Challenge Cup | Pool 3 | Pool 3",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Team",
+        "Tries_for",
+        "Tries_against",
+        "Try_diff",
+        "Points_for",
+        "Points_against",
+        "Points_diff"
+    ],
+    "cell": [
+        [
+            "Brive",
+            "35",
+            "14",
+            "+21",
+            "241",
+            "102",
+            "+139"
+        ],
+        [
+            "Agen",
+            "30",
+            "11",
+            "+19",
+            "231",
+            "93",
+            "+138"
+        ],
+        [
+            "Pau",
+            "25",
+            "8",
+            "+17",
+            "211",
+            "87",
+            "+124"
+        ],
+        [
+            "Biarritz",
+            "30",
+            "14",
+            "+16",
+            "187",
+            "124",
+            "+63"
+        ],
+        [
+            "Bridgend RFC",
+            "19",
+            "28",
+            "\u22129",
+            "158",
+            "206",
+            "\u221248"
+        ],
+        [
+            "Dinamo Bucure\u015fti",
+            "19",
+            "31",
+            "\u221212",
+            "131",
+            "246",
+            "\u2212115"
+        ],
+        [
+            "Portugal XV",
+            "8",
+            "60",
+            "\u221252",
+            "73",
+            "374",
+            "\u2212301"
+        ]
+    ]
+}

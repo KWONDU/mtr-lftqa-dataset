@@ -1,0 +1,55 @@
+{
+    "id": "fdedafab5a561a0e38f81bffcb3c4c89609d9d6427f5e8ad2a512b48a3c19958",
+    "metadata": "United States House of Representatives elections, 1920 | Iowa | Iowa",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "Iowa 1",
+            "Charles A. Kennedy",
+            "Republican",
+            "1906",
+            "Retired Republican hold",
+            "William F. Kopp (R) 64.5% E. W. McManus (D) 35.5%"
+        ],
+        [
+            "Iowa 3",
+            "Burton E. Sweet",
+            "Republican",
+            "1914",
+            "Re-elected",
+            "Burton E. Sweet (R) 97.2% Roy Jacobs ( FL ) 2.8%"
+        ],
+        [
+            "Iowa 4",
+            "Gilbert N. Haugen",
+            "Republican",
+            "1898",
+            "Re-elected",
+            "Gilbert N. Haugen (R) 74.6% Carl Evans (D) 25.4%"
+        ],
+        [
+            "Iowa 5",
+            "James W. Good",
+            "Republican",
+            "1908",
+            "Re-elected",
+            "James W. Good (R) Unopposed"
+        ],
+        [
+            "Iowa 7",
+            "Cassius C. Dowell",
+            "Republican",
+            "1914",
+            "Re-elected",
+            "Cassius C. Dowell (R) 98.1% Charles Gay ( S ) 1.9%"
+        ]
+    ]
+}

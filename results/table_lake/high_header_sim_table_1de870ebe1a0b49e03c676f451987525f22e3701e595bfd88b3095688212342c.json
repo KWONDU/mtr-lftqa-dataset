@@ -1,0 +1,70 @@
+{
+    "id": "1de870ebe1a0b49e03c676f451987525f22e3701e595bfd88b3095688212342c",
+    "metadata": "SM-65A Atlas | Launch history | Launch history",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_GMT_",
+        "Serial",
+        "Apogee",
+        "Outcome"
+    ],
+    "cell": [
+        [
+            "1957-06-11",
+            "19:37",
+            "4A",
+            "kilometres (mi)",
+            "Failure"
+        ],
+        [
+            "1957-09-25",
+            "19:57",
+            "6A",
+            "kilometres (mi)",
+            "Failure"
+        ],
+        [
+            "1957-12-17",
+            "17:39",
+            "12A",
+            "kilometres (mi)",
+            "Success"
+        ],
+        [
+            "1958-01-10",
+            "15:48",
+            "10A",
+            "kilometres (mi)",
+            "Success"
+        ],
+        [
+            "1958-02-07",
+            "19:37",
+            "13A",
+            "kilometres (mi)",
+            "Failure[ citation needed ]"
+        ],
+        [
+            "1958-02-20",
+            "17:46",
+            "11A",
+            "kilometres (mi)",
+            "Failure"
+        ],
+        [
+            "1958-04-05",
+            "17:01",
+            "15A",
+            "kilometres (mi)",
+            "Failure"
+        ],
+        [
+            "1958-06-03",
+            "21:28",
+            "16A",
+            "kilometres (mi)",
+            "Success"
+        ]
+    ]
+}

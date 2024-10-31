@@ -1,0 +1,77 @@
+{
+    "id": "28564c66074f3c6b6186dbb96db9a135cd5ee6d22733429d16c32bcf0a29209d",
+    "metadata": "Cupid (2009 TV series) | US Nielsen ratings | US Nielsen ratings",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Episode_Number",
+        "Episode",
+        "Rating",
+        "Share_",
+        "Rating_Share_18_49",
+        "Viewers_millions",
+        "Rank_Timeslot",
+        "Rank_Overall"
+    ],
+    "cell": [
+        [
+            "1",
+            "Pilot",
+            "4.8",
+            "8",
+            "2.3/6",
+            "7.56",
+            "TBA",
+            "#35"
+        ],
+        [
+            "2",
+            "Live and Let Spy",
+            "3.8",
+            "6",
+            "1.8/5",
+            "6.22",
+            "3",
+            "47"
+        ],
+        [
+            "3",
+            "The Great Right Hope",
+            "4.1",
+            "7",
+            "1.8/5",
+            "6.59",
+            "3",
+            "45"
+        ],
+        [
+            "4",
+            "The Tommy Brown Affair",
+            "3.8",
+            "6",
+            "1.8/5",
+            "6.16",
+            "3",
+            "45"
+        ],
+        [
+            "5",
+            "Shipping Out",
+            "3.5",
+            "6",
+            "1.7/5",
+            "5.14",
+            "TBA",
+            "59"
+        ],
+        [
+            "6",
+            "Left of the Dial",
+            "3.6",
+            "6",
+            "1.4/4",
+            "5.50",
+            "4",
+            "54"
+        ]
+    ]
+}

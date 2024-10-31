@@ -1,0 +1,63 @@
+{
+    "id": "689b356ac0564e50be06757c8ba36d08e61eeec1523c6bc4f9c7a7c93d113ddb",
+    "metadata": "Vik | Churches | Churches in Vik",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Parish_Prestegjeld",
+        "Sub_Parish_Sokn",
+        "Church_Name",
+        "Year_Built",
+        "Location_of_the_Church"
+    ],
+    "cell": [
+        [
+            "Vik Parish",
+            "Arnafjord",
+            "Arnafjord kyrkje",
+            "1645",
+            "Arnafjord"
+        ],
+        [
+            "Vik Parish",
+            "Feios",
+            "Feios kyrkje",
+            "1866",
+            "Feios"
+        ],
+        [
+            "Vik Parish",
+            "Fresvik",
+            "Fresvik kyrkje",
+            "1881",
+            "Fresvik"
+        ],
+        [
+            "Vik Parish",
+            "Vangsnes",
+            "Vangsnes kyrkje",
+            "1877",
+            "Vangsnes"
+        ],
+        [
+            "Vik Parish",
+            "Vik",
+            "Vik kyrkje",
+            "1877",
+            "Vik\u00f8yri"
+        ],
+        [
+            "Vik Parish",
+            "Vik",
+            "Hove steinkyrkje",
+            "1170",
+            "Vik\u00f8yri"
+        ],
+        [
+            "Vik Parish",
+            "Vik",
+            "Hopperstad stavkyrkje",
+            "c . 1140",
+            "Vik\u00f8yri"
+        ]
+    ]
+}

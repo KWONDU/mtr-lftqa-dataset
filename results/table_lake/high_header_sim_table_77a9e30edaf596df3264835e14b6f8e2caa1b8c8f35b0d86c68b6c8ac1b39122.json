@@ -1,0 +1,61 @@
+{
+    "id": "77a9e30edaf596df3264835e14b6f8e2caa1b8c8f35b0d86c68b6c8ac1b39122",
+    "metadata": "Tiffany Joh | LPGA Tour career summary | LPGA Tour career summary",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournaments_played",
+        "Cuts_made",
+        "Wins",
+        "Best_finish",
+        "Earnings_",
+        "Scoring_average"
+    ],
+    "cell": [
+        [
+            "2007",
+            "1",
+            "1",
+            "0",
+            "T22",
+            "n/a",
+            "71.66"
+        ],
+        [
+            "2009",
+            "1",
+            "1",
+            "0",
+            "T21",
+            "n/a",
+            "72.50"
+        ],
+        [
+            "2010",
+            "2",
+            "0",
+            "0",
+            "MC",
+            "0",
+            "79.00"
+        ],
+        [
+            "2011",
+            "14",
+            "12",
+            "0",
+            "2",
+            "237365",
+            "72.75"
+        ],
+        [
+            "2012",
+            "20",
+            "10",
+            "0",
+            "T33",
+            "48695",
+            "74.09"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "01c106924be2436f6853b201bae888824efb4da36e590166d14aff6071f9e5c7",
+    "metadata": "2007-08 FIS Ski Jumping World Cup | Harrachov | Harrachov",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Nationality",
+        "_1st_m",
+        "Points",
+        "Overall_WC_points_Rank"
+    ],
+    "cell": [
+        [
+            "1",
+            "Janne Ahonen",
+            "FIN",
+            "199.5",
+            "187.9",
+            "810 (2)"
+        ],
+        [
+            "2",
+            "Tom Hilde",
+            "NOR",
+            "193.0",
+            "185.6",
+            "682 (4)"
+        ],
+        [
+            "3",
+            "Anders Jacobsen",
+            "NOR",
+            "191.0",
+            "181.2",
+            "283 (13)"
+        ],
+        [
+            "4",
+            "Dmitry Vassiliev",
+            "RUS",
+            "191.0",
+            "178.2",
+            "236 (16)"
+        ],
+        [
+            "5",
+            "Thomas Morgenstern",
+            "AUT",
+            "188.0",
+            "177.6",
+            "1115 (1)"
+        ]
+    ]
+}

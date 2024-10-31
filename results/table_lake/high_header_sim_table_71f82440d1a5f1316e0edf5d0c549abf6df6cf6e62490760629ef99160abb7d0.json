@@ -1,0 +1,56 @@
+{
+    "id": "71f82440d1a5f1316e0edf5d0c549abf6df6cf6e62490760629ef99160abb7d0",
+    "metadata": "1953 Cleveland Browns season | Exhibition Schedule | Exhibition Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "August 23, 1953",
+            "at San Francisco 49ers",
+            "W 20-7",
+            "36273"
+        ],
+        [
+            "2",
+            "August 28, 1953",
+            "at Los Angeles Rams",
+            "L 27-9",
+            "21440"
+        ],
+        [
+            "3",
+            "September 4, 1953",
+            "at Detroit Lions",
+            "T 24-24",
+            "39985"
+        ],
+        [
+            "4",
+            "September 7, 1953",
+            "vs. Baltimore Colts at Akron",
+            "W 23-21",
+            "20000"
+        ],
+        [
+            "5",
+            "September 11, 1953",
+            "at Chicago Bears",
+            "W 20-14",
+            "36796"
+        ],
+        [
+            "6",
+            "September 19, 1953",
+            "Green Bay Packers",
+            "W 21-13",
+            "22336"
+        ]
+    ]
+}

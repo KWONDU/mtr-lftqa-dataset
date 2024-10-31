@@ -1,0 +1,49 @@
+{
+    "id": "7b46ce8f4c314765ded74a467371186e09d6c0c745581214d0496d6e2a1f37a3",
+    "metadata": "Georgios Theodoridis | Achievements | Achievements",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Tournament",
+        "Venue",
+        "Result_",
+        "Extra"
+    ],
+    "cell": [
+        [
+            "1998",
+            "European Indoor Championships",
+            "Valencia , Spain",
+            "6th",
+            "60 m"
+        ],
+        [
+            "1999",
+            "World Indoor Championships",
+            "Maebashi , Japan",
+            "9th (sf)",
+            "60 m"
+        ],
+        [
+            "2000",
+            "European Indoor Championships",
+            "Ghent , Belgium",
+            "2nd",
+            "60 m"
+        ],
+        [
+            "2001",
+            "World Indoor Championships",
+            "Lisbon , Portugal",
+            "7th",
+            "60 m"
+        ],
+        [
+            "2004",
+            "World Indoor Championships",
+            "Budapest , Hungary",
+            "3rd",
+            "60 m"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": "e2e6aaa48f811450f25bd177131b0103fc651be3b625d98471ef963992f1adb9",
+    "metadata": "2010 Southeastern Conference football season | Week Three | Week Three",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Time_",
+        "Visiting_team",
+        "Home_team",
+        "Site",
+        "Broadcast",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "September 18",
+            "12:00pm",
+            "#12 Arkansas",
+            "Georgia",
+            "Sanford Stadium \u2022 Athens, GA",
+            "ESPN",
+            "ARK 31-24",
+            "92746"
+        ],
+        [
+            "September 18",
+            "12:21pm",
+            "Vanderbilt",
+            "Ole Miss",
+            "Vaught-Hemingway Stadium \u2022 Oxford, MS",
+            "SEC Network",
+            "VAN 28-14",
+            "51667"
+        ],
+        [
+            "September 18",
+            "3:30pm",
+            "#10 Florida",
+            "Tennessee",
+            "Neyland Stadium \u2022 Knoxville, TN",
+            "CBS",
+            "FLA 31-17",
+            "102455"
+        ],
+        [
+            "September 18",
+            "3:30pm",
+            "#1 Alabama",
+            "Duke",
+            "Wallace Wade Stadium \u2022 Durham, NC",
+            "ABC",
+            "W 62-13",
+            "39042"
+        ],
+        [
+            "September 18",
+            "7:00pm",
+            "Mississippi State",
+            "#15 LSU",
+            "Tiger Stadium \u2022 Baton Rouge, LA",
+            "ESPNU",
+            "LSU 29-7",
+            "92538"
+        ],
+        [
+            "September 18",
+            "7:00pm",
+            "Clemson",
+            "#16 Auburn",
+            "Jordan-Hare Stadium \u2022 Auburn, AL",
+            "ESPN",
+            "W 27-24 OT",
+            "87451"
+        ],
+        [
+            "September 18",
+            "7:00pm",
+            "Akron",
+            "Kentucky",
+            "Commonwealth Stadium \u2022 Lexington, KY",
+            "FSN",
+            "W 47-10",
+            "64014"
+        ]
+    ]
+}

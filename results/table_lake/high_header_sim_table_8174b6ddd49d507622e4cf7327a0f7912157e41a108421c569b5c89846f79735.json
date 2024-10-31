@@ -1,0 +1,55 @@
+{
+    "id": "8174b6ddd49d507622e4cf7327a0f7912157e41a108421c569b5c89846f79735",
+    "metadata": "Comparison of top chess players throughout history | Chessmetrics | Chessmetrics",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "_1_year_peak",
+        "_5_year_peak",
+        "_10_year_peak",
+        "_15_year_peak",
+        "_20_year_peak"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bobby Fischer , 2881",
+            "Garry Kasparov, 2875",
+            "Garry Kasparov, 2863",
+            "Garry Kasparov, 2862",
+            "Garry Kasparov, 2856"
+        ],
+        [
+            "2",
+            "Garry Kasparov , 2879",
+            "Emanuel Lasker, 2854",
+            "Emanuel Lasker, 2847",
+            "Anatoly Karpov, 2820",
+            "Anatoly Karpov, 2818"
+        ],
+        [
+            "3",
+            "Mikhail Botvinnik , 2871",
+            "Jos\u00e9 Capablanca, 2843",
+            "Anatoly Karpov, 2821",
+            "Emanuel Lasker, 2816",
+            "Emanuel Lasker, 2809"
+        ],
+        [
+            "4",
+            "Jos\u00e9 Capablanca , 2866",
+            "Mikhail Botvinnik, 2843",
+            "Jos\u00e9 Capablanca, 2813",
+            "Jos\u00e9 Capablanca, 2798",
+            "Alexander Alekhine, 2781"
+        ],
+        [
+            "5",
+            "Emanuel Lasker , 2863",
+            "Bobby Fischer, 2841",
+            "Bobby Fischer, 2810",
+            "Alexander Alekhine, 2794",
+            "Viktor Korchnoi , 2766"
+        ]
+    ]
+}

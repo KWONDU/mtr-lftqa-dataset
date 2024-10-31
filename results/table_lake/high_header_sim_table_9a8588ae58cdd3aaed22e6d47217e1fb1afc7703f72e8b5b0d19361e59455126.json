@@ -1,0 +1,84 @@
+{
+    "id": "9a8588ae58cdd3aaed22e6d47217e1fb1afc7703f72e8b5b0d19361e59455126",
+    "metadata": "Golf Magazine | Top 100 in the World | Top 100 in the World",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Location_",
+        "Country",
+        "Designer_Year"
+    ],
+    "cell": [
+        [
+            "1",
+            "Pine Valley",
+            "Pine Valley",
+            "United States",
+            "George Crump / Harry Colt , 1918"
+        ],
+        [
+            "2",
+            "Cypress Point",
+            "Pebble Beach",
+            "United States",
+            "Alister MacKenzie , 1918"
+        ],
+        [
+            "3",
+            "St Andrews (Old Course)",
+            "St Andrews",
+            "Scotland",
+            "Nature"
+        ],
+        [
+            "4",
+            "Augusta National",
+            "Augusta",
+            "United States",
+            "Alister MacKenzie / Bobby Jones , 1933"
+        ],
+        [
+            "5",
+            "Pebble Beach",
+            "Pebble Beach",
+            "United States",
+            "Jack Neville/Douglas Grant, 1919"
+        ],
+        [
+            "6",
+            "Shinnecock Hills",
+            "Southampton",
+            "United States",
+            "William Flynn, 1931"
+        ],
+        [
+            "7",
+            "Royal County Down",
+            "Newcastle",
+            "Northern Ireland",
+            "Tom Morris , 1889"
+        ],
+        [
+            "8",
+            "Muirfield",
+            "Gullane",
+            "Scotland",
+            "Tom Morris / Harry Colt , 1891/1925"
+        ],
+        [
+            "9",
+            "Oakmont",
+            "Oakmont",
+            "United States",
+            "Henry Fownes, 1903"
+        ],
+        [
+            "10",
+            "Merion (East)",
+            "Ardmore",
+            "United States",
+            "Hugh Wilson, 1912"
+        ]
+    ]
+}

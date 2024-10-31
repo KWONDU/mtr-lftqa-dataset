@@ -1,0 +1,111 @@
+{
+    "id": "e7eafe8b9b721d1f47052c785b49697235744e3799b5ba871f25e84fb087c5e4",
+    "metadata": "Germany | Economy | Economy",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Headquarters",
+        "Revenue_Mil_",
+        "Profit_Mil_",
+        "Employees_World"
+    ],
+    "cell": [
+        [
+            "0 1.",
+            "Volkswagen AG",
+            "Wolfsburg",
+            "159.000",
+            "15.800",
+            "502.000"
+        ],
+        [
+            "0 2.",
+            "E.ON SE",
+            "D\u00fcsseldorf",
+            "113.000",
+            "\u22121.900",
+            "79.000"
+        ],
+        [
+            "0 3.",
+            "Daimler AG",
+            "Stuttgart",
+            "107.000",
+            "6.000",
+            "271.000"
+        ],
+        [
+            "0 4.",
+            "Siemens AG",
+            "Berlin , M\u00fcnchen",
+            "74.000",
+            "6.300",
+            "360.000"
+        ],
+        [
+            "0 5.",
+            "BASF SE",
+            "Ludwigshafen am Rhein",
+            "73.000",
+            "6.600",
+            "111.000"
+        ],
+        [
+            "0 6.",
+            "BMW AG",
+            "M\u00fcnchen",
+            "69.000",
+            "4.900",
+            "100.000"
+        ],
+        [
+            "0 7.",
+            "Metro AG",
+            "D\u00fcsseldorf",
+            "67.000",
+            "740",
+            "288.000"
+        ],
+        [
+            "0 8.",
+            "Schwarz-Gruppe ( Lidl / Kaufland )",
+            "Neckarsulm",
+            "63.000",
+            "N/A",
+            "315.000"
+        ],
+        [
+            "0 9.",
+            "Deutsche Telekom AG",
+            "Bonn",
+            "59.000",
+            "670",
+            "235.000"
+        ],
+        [
+            "0 10.",
+            "Deutsche Post AG",
+            "Bonn",
+            "53.000",
+            "1.300",
+            "471.000"
+        ],
+        [
+            "\u2014",
+            "Allianz SE",
+            "M\u00fcnchen",
+            "104.000",
+            "2.800",
+            "141.000"
+        ],
+        [
+            "\u2014",
+            "Deutsche Bank AG",
+            "Frankfurt am Main",
+            "2.160.000",
+            "4.300",
+            "101.000"
+        ]
+    ]
+}

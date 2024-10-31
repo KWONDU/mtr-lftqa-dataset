@@ -1,0 +1,49 @@
+{
+    "id": "9e0f600964d6c4655d89e0dc82341063814540b43672073f61332c1615c1b5a3",
+    "metadata": "Blue Ridge Hockey Conference | Former teams | Colonial Division",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Founded",
+        "Affiliation",
+        "Nickname"
+    ],
+    "cell": [
+        [
+            "James Madison University",
+            "Harrisonburg, VA",
+            "1908",
+            "Public",
+            "Dukes"
+        ],
+        [
+            "Old Dominion University",
+            "Norfolk, VA",
+            "1930",
+            "Public",
+            "Monarchs"
+        ],
+        [
+            "Radford University",
+            "Radford, VA",
+            "1910",
+            "Public",
+            "Highlanders"
+        ],
+        [
+            "University of Virginia",
+            "Charlottesville, VA",
+            "1819",
+            "Public Flagship",
+            "Cavaliers"
+        ],
+        [
+            "Virginia Commonwealth University",
+            "Richmond, VA",
+            "1838",
+            "Public",
+            "Rams"
+        ]
+    ]
+}

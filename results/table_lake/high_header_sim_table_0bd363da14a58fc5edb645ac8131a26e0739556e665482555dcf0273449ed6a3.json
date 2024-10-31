@@ -1,0 +1,126 @@
+{
+    "id": "0bd363da14a58fc5edb645ac8131a26e0739556e665482555dcf0273449ed6a3",
+    "metadata": "1979 Buffalo Bills season | Schedule | Schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 2, 1979",
+            "Miami Dolphins",
+            "L 9-7",
+            "69441"
+        ],
+        [
+            "2",
+            "September 9, 1979",
+            "Cincinnati Bengals",
+            "W 51-24",
+            "43504"
+        ],
+        [
+            "3",
+            "September 16, 1979",
+            "at San Diego Chargers",
+            "L 27-19",
+            "50709"
+        ],
+        [
+            "4",
+            "September 23, 1979",
+            "New York Jets",
+            "W 46-31",
+            "68731"
+        ],
+        [
+            "5",
+            "September 30, 1979",
+            "at Baltimore Colts",
+            "W 31-13",
+            "31904"
+        ],
+        [
+            "6",
+            "October 7, 1979",
+            "Chicago Bears",
+            "L 7-0",
+            "73383"
+        ],
+        [
+            "7",
+            "October 14, 1979",
+            "at Miami Dolphins",
+            "L 17-7",
+            "45597"
+        ],
+        [
+            "8",
+            "October 21, 1979",
+            "Baltimore Colts",
+            "L 14-13",
+            "50581"
+        ],
+        [
+            "9",
+            "October 28, 1979",
+            "at Detroit Lions",
+            "W 20-17",
+            "61911"
+        ],
+        [
+            "10",
+            "November 4, 1979",
+            "New England Patriots",
+            "L 26-6",
+            "67935"
+        ],
+        [
+            "11",
+            "November 11, 1979",
+            "at New York Jets",
+            "W 14-12",
+            "50647"
+        ],
+        [
+            "12",
+            "November 18, 1979",
+            "Green Bay Packers",
+            "W 19-12",
+            "39679"
+        ],
+        [
+            "13",
+            "November 25, 1979",
+            "at New England Patriots",
+            "W 16-13",
+            "60991"
+        ],
+        [
+            "14",
+            "December 2, 1979",
+            "Denver Broncos",
+            "L 19-16",
+            "37886"
+        ],
+        [
+            "15",
+            "December 9, 1979",
+            "at Minnesota Vikings",
+            "L 10-3",
+            "42239"
+        ],
+        [
+            "16",
+            "December 16, 1979",
+            "at Pittsburgh Steelers",
+            "L 28-0",
+            "48002"
+        ]
+    ]
+}

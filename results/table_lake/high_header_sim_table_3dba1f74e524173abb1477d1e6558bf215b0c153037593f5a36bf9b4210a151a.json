@@ -1,0 +1,63 @@
+{
+    "id": "3dba1f74e524173abb1477d1e6558bf215b0c153037593f5a36bf9b4210a151a",
+    "metadata": "Temperature (meat) | Temperature | Temperatures for beef, veal and lamb steaks and roasts",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Term_French",
+        "Description",
+        "Temperature_range_2",
+        "Temperature_range_3",
+        "USDA_recommended_"
+    ],
+    "cell": [
+        [
+            "Extra-rare or Blue (bleu)",
+            "very red and cold",
+            "46-49 \u00b0C",
+            "115-120 \u00b0F",
+            ""
+        ],
+        [
+            "Rare (saignant)",
+            "cold red center; soft",
+            "52-55 \u00b0C",
+            "125-130 \u00b0F",
+            ""
+        ],
+        [
+            "Medium rare (\u00e0 point)",
+            "warm red center; firmer",
+            "55-60 \u00b0C",
+            "130-140 \u00b0F",
+            "145 \u00b0F"
+        ],
+        [
+            "Medium (demi-anglais)",
+            "pink and firm",
+            "60-65 \u00b0C",
+            "140-150 \u00b0F",
+            "160 \u00b0F"
+        ],
+        [
+            "Medium well (cuit)",
+            "small amount of pink in the center",
+            "65-69 \u00b0C",
+            "150-155 \u00b0F",
+            ""
+        ],
+        [
+            "Well done (bien cuit)",
+            "gray-brown throughout; firm",
+            "71-100 \u00b0C",
+            "160-212 \u00b0F",
+            "170 \u00b0F"
+        ],
+        [
+            "Over cooked (trop cuit, carbonis\u00e9)`",
+            "blacken throughout; hard",
+            "> 100 \u00b0C",
+            "> 212 \u00b0F",
+            "300 \u00b0F"
+        ]
+    ]
+}

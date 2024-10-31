@@ -1,0 +1,126 @@
+{
+    "id": "078d0b4947bd3d3b3a0c799e2fe7bf92ba74443aa11a693e2b05752526a18e52",
+    "metadata": "2007-08 FA Cup | Fourth Round Proper | Fourth Round Proper",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "Arsenal",
+            "3 - 0",
+            "Newcastle United",
+            "60046"
+        ],
+        [
+            "2",
+            "Coventry City",
+            "2 - 1",
+            "Millwall",
+            "17268"
+        ],
+        [
+            "3",
+            "Oldham Athletic",
+            "0 - 1",
+            "Huddersfield Town",
+            "12749"
+        ],
+        [
+            "4",
+            "Barnet",
+            "0 - 1",
+            "Bristol Rovers",
+            "5190"
+        ],
+        [
+            "5",
+            "Liverpool",
+            "5 - 2",
+            "Havant & Waterlooville",
+            "42566"
+        ],
+        [
+            "6",
+            "Southend United",
+            "0 - 1",
+            "Barnsley",
+            "7212"
+        ],
+        [
+            "7",
+            "Wigan Athletic",
+            "1 - 2",
+            "Chelsea",
+            "14166"
+        ],
+        [
+            "8",
+            "Derby County",
+            "1 - 4",
+            "Preston North End",
+            "17344"
+        ],
+        [
+            "9",
+            "Manchester United",
+            "3 - 1",
+            "Tottenham Hotspur",
+            "75369"
+        ],
+        [
+            "10",
+            "Portsmouth",
+            "2 - 1",
+            "Plymouth Argyle",
+            "19612"
+        ],
+        [
+            "11",
+            "Southampton",
+            "2 - 0",
+            "Bury",
+            "25449"
+        ],
+        [
+            "12",
+            "Hereford United",
+            "1 - 2",
+            "Cardiff City",
+            "6885"
+        ],
+        [
+            "13",
+            "Peterborough United",
+            "0 - 3",
+            "West Bromwich Albion",
+            "12701"
+        ],
+        [
+            "14",
+            "Mansfield Town",
+            "0 - 2",
+            "Middlesbrough",
+            "6258"
+        ],
+        [
+            "15",
+            "Sheffield United",
+            "2 - 1",
+            "Manchester City",
+            "20800"
+        ],
+        [
+            "16",
+            "Watford",
+            "1 - 4",
+            "Wolverhampton Wanderers",
+            "12719"
+        ]
+    ]
+}

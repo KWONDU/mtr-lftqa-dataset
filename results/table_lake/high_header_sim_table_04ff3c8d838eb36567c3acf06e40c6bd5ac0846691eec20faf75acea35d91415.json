@@ -1,0 +1,70 @@
+{
+    "id": "04ff3c8d838eb36567c3acf06e40c6bd5ac0846691eec20faf75acea35d91415",
+    "metadata": "2008-09 Detroit Red Wings season | Game log | April",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "April 2",
+            "St. Louis",
+            "5 - 4",
+            "Detroit",
+            "Conklin",
+            "19935",
+            "49-19-9"
+        ],
+        [
+            "April 5",
+            "Minnesota",
+            "2 - 3",
+            "Detroit",
+            "Osgood",
+            "20066",
+            "50-19-9"
+        ],
+        [
+            "April 6",
+            "Detroit",
+            "4 - 1",
+            "Buffalo",
+            "Osgood",
+            "18690",
+            "51-19-9"
+        ],
+        [
+            "April 9",
+            "Nashville",
+            "4 - 3",
+            "Detroit",
+            "Osgood",
+            "20066",
+            "51-19-10"
+        ],
+        [
+            "April 11",
+            "Chicago",
+            "4 - 2",
+            "Detroit",
+            "Conklin",
+            "20066",
+            "51-20-11"
+        ],
+        [
+            "April 12",
+            "Detroit",
+            "0 - 3",
+            "Chicago",
+            "Osgood",
+            "22376",
+            "51-21-11"
+        ]
+    ]
+}

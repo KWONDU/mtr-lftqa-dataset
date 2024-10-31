@@ -1,0 +1,49 @@
+{
+    "id": "dbec124d61f2aee561131cefc6a5b3197f812597a14d106b8491db432f37e9f2",
+    "metadata": "Vanity (performer) | Solo | Solo",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Title",
+        "U_S_",
+        "U_S_R_B",
+        "U_S_dance"
+    ],
+    "cell": [
+        [
+            "1984",
+            "Pretty Mess",
+            "75",
+            "15",
+            "13"
+        ],
+        [
+            "1985",
+            "Mechanical Emotion",
+            "107",
+            "23",
+            "\u2014"
+        ],
+        [
+            "1986",
+            "Under the Influence",
+            "56",
+            "9",
+            "6"
+        ],
+        [
+            "1986",
+            "Animals",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ],
+        [
+            "1988",
+            "Undress",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+        ]
+    ]
+}

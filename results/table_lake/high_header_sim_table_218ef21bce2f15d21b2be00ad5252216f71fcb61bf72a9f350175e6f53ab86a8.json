@@ -1,0 +1,55 @@
+{
+    "id": "218ef21bce2f15d21b2be00ad5252216f71fcb61bf72a9f350175e6f53ab86a8",
+    "metadata": "Dragons' Den (UK) | The \"Dragons\" | The \"Dragons\"",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Series_1",
+        "Series_2",
+        "Series_3",
+        "Series_5",
+        "Series_9",
+        "Series_11"
+    ],
+    "cell": [
+        [
+            "Peter Jones",
+            "Peter Jones",
+            "Peter Jones",
+            "Peter Jones",
+            "Peter Jones",
+            "Peter Jones"
+        ],
+        [
+            "Simon Woodroffe",
+            "Theo Paphitis",
+            "Theo Paphitis",
+            "Theo Paphitis",
+            "Theo Paphitis",
+            "Piers Linney"
+        ],
+        [
+            "Doug Richards",
+            "Doug Richards",
+            "Deborah Meaden",
+            "Deborah Meaden",
+            "Deborah Meaden",
+            "Deborah Meaden"
+        ],
+        [
+            "Duncan Bannatyne",
+            "Duncan Bannatyne",
+            "Duncan Bannatyne",
+            "Duncan Bannatyne",
+            "Duncan Bannatyne",
+            "Duncan Bannatyne"
+        ],
+        [
+            "Rachel Elnaugh",
+            "Rachel Elnaugh",
+            "Richard Farleigh",
+            "James Caan",
+            "Hilary Devey",
+            "Kelly Hoppen"
+        ]
+    ]
+}

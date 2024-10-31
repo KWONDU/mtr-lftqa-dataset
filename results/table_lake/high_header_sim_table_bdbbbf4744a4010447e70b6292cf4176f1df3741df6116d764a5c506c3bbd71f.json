@@ -1,0 +1,49 @@
+{
+    "id": "bdbbbf4744a4010447e70b6292cf4176f1df3741df6116d764a5c506c3bbd71f",
+    "metadata": "WD ex-LMS Fowler Class 3F | Career | Career",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "LMS_No_",
+        "WD_No_",
+        "Builder",
+        "Serial_No_",
+        "Date_built"
+    ],
+    "cell": [
+        [
+            "7620",
+            "23",
+            "William Beardmore & Co.",
+            "368",
+            "1928"
+        ],
+        [
+            "7624",
+            "24",
+            "William Beardmore & Co.",
+            "372",
+            "1928"
+        ],
+        [
+            "7629",
+            "22",
+            "William Beardmore & Co.",
+            "377",
+            "1928"
+        ],
+        [
+            "7631",
+            "20",
+            "William Beardmore & Co.",
+            "379",
+            "1928"
+        ],
+        [
+            "7638",
+            "19",
+            "William Beardmore & Co.",
+            "386",
+            "1928"
+        ]
+    ]
+}

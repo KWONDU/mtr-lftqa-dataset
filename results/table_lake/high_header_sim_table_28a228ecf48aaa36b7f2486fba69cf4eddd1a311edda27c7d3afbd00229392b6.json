@@ -1,0 +1,55 @@
+{
+    "id": "28a228ecf48aaa36b7f2486fba69cf4eddd1a311edda27c7d3afbd00229392b6",
+    "metadata": "United States House of Representatives elections, 1946 | New York | New York",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "District",
+        "Incumbent",
+        "Party",
+        "First_elected",
+        "Result_",
+        "Candidates"
+    ],
+    "cell": [
+        [
+            "New York 16",
+            "Ellsworth B. Buck",
+            "Republican",
+            "1944",
+            "Re-elected",
+            "Ellsworth B. Buck (R) 61.2% John Burry (D) 38.8%"
+        ],
+        [
+            "New York 20",
+            "Sol Bloom",
+            "Democratic",
+            "1923",
+            "Re-elected",
+            "Sol Bloom (D) 61.1% Jules J. Justin (R) 38.9%"
+        ],
+        [
+            "New York 28",
+            "Ralph A. Gamble",
+            "Republican",
+            "1937",
+            "Re-elected",
+            "Ralph A. Gamble (R) 75.4% Morris Karnes (D) 24.6%"
+        ],
+        [
+            "New York 30",
+            "Jay Le Fevre",
+            "Republican",
+            "1942",
+            "Re-elected",
+            "Jay Le Fevre (R) 69.5% John F. Killgrew (D) 30.5%"
+        ],
+        [
+            "New York 35",
+            "Hadwen C. Fuller",
+            "Republican",
+            "1943",
+            "Re-elected",
+            "Hadwen C. Fuller (R) 54.3% Frank A. Emma (D) 45.7%"
+        ]
+    ]
+}

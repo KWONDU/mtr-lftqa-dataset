@@ -1,0 +1,63 @@
+{
+    "id": "6db8e796371eba034dcd8fc3086c8f5c1f27951d9c586c35d1589fcf3f434c71",
+    "metadata": "Royal Canadian Mint numismatic coins (2000s) | Canadian Floral Collection | Canadian Floral Collection",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Theme",
+        "Artist",
+        "Finish",
+        "Issue_Price",
+        "Total_Mintage"
+    ],
+    "cell": [
+        [
+            "2002",
+            "Golden Tulip",
+            "Anthony Testa",
+            "Proof (selectively gold plated)",
+            "$24.95",
+            "19986"
+        ],
+        [
+            "2003",
+            "Golden Daffodil",
+            "Christie Paquet",
+            "Proof (selectively gold plated)",
+            "$34.95",
+            "36293"
+        ],
+        [
+            "2004",
+            "Golden Easter Lily",
+            "Christie Paquet",
+            "Proof (selectively gold plated)",
+            "$34.95",
+            "23486"
+        ],
+        [
+            "2005",
+            "Golden Rose",
+            "Christie Paquet",
+            "Proof (selectively gold plated)",
+            "$34.95",
+            "23000"
+        ],
+        [
+            "2006",
+            "Golden Daisy",
+            "Christie Paquet",
+            "Proof (selectively gold plated)",
+            "$34.95",
+            "23000"
+        ],
+        [
+            "2007",
+            "Golden Forget-Me-Not",
+            "Christie Paquet",
+            "Proof (selectively gold plated)",
+            "$38.95",
+            "20000"
+        ]
+    ]
+}

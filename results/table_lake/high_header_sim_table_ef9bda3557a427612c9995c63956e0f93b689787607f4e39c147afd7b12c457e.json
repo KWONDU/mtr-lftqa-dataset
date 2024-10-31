@@ -1,0 +1,73 @@
+{
+    "id": "ef9bda3557a427612c9995c63956e0f93b689787607f4e39c147afd7b12c457e",
+    "metadata": "Sharkrunners | Encounters | Encounters",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "_1_person_dive",
+        "_2_person_dive",
+        "_3_person_dive",
+        "Surface",
+        "Cage_dive",
+        "Seal_turtle_decoy",
+        "Catch_release",
+        "Attached_camera",
+        "Remote_camera"
+    ],
+    "cell": [
+        [
+            "none",
+            "none",
+            "none",
+            "raft",
+            "cage",
+            "seal/turtle decoy",
+            "fishing gear",
+            "attached camera",
+            "remote drone camera"
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "0"
+        ],
+        [
+            "VH",
+            "H",
+            "M",
+            "VL",
+            "M",
+            "L",
+            "L",
+            "M",
+            "none"
+        ],
+        [
+            "VH",
+            "VH",
+            "VH",
+            "L",
+            "H",
+            "M",
+            "M",
+            "H",
+            "VL"
+        ],
+        [
+            "FE, SO, AG, SE, HA",
+            "FE, SO, AG, SE, HA",
+            "FE, SO, AG, SE, HA",
+            "FE",
+            "FE, SO, AG, SE, HA",
+            "FE",
+            "RE, HE",
+            "FE, SO, RE, HA",
+            "FE, SO, RE, HA"
+        ]
+    ]
+}

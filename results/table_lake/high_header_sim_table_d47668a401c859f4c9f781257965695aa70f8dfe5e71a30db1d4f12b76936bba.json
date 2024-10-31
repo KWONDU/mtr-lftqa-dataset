@@ -1,0 +1,115 @@
+{
+    "id": "d47668a401c859f4c9f781257965695aa70f8dfe5e71a30db1d4f12b76936bba",
+    "metadata": "2008-09 Philadelphia Flyers season | Regular season | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "February 4",
+            "Boston",
+            "3 - 1",
+            "Philadelphia",
+            "Biron",
+            "19748",
+            "26-15-9"
+        ],
+        [
+            "February 7",
+            "Philadelphia",
+            "4 - 3",
+            "Boston",
+            "Niittymaki",
+            "17565",
+            "27-15-9"
+        ],
+        [
+            "February 8",
+            "Philadelphia",
+            "3 - 2",
+            "Atlanta",
+            "Niittymaki",
+            "14175",
+            "28-15-9"
+        ],
+        [
+            "February 12",
+            "Ottawa",
+            "5 - 2",
+            "Philadelphia",
+            "Niittymaki",
+            "19679",
+            "28-16-9"
+        ],
+        [
+            "February 14",
+            "NY Islanders",
+            "1 - 5",
+            "Philadelphia",
+            "Biron",
+            "19789",
+            "29-16-9"
+        ],
+        [
+            "February 15",
+            "Philadelphia",
+            "5 - 2",
+            "NY Rangers",
+            "Biron",
+            "18200",
+            "30-16-9"
+        ],
+        [
+            "February 19",
+            "Buffalo",
+            "3 - 6",
+            "Philadelphia",
+            "Biron",
+            "19642",
+            "31-16-9"
+        ],
+        [
+            "February 21",
+            "Pittsburgh",
+            "5 - 4",
+            "Philadelphia",
+            "Biron",
+            "19992",
+            "31-17-9"
+        ],
+        [
+            "February 24",
+            "Philadelphia",
+            "4 - 2",
+            "Washington",
+            "Biron",
+            "18277",
+            "32-17-9"
+        ],
+        [
+            "February 25",
+            "Los Angeles",
+            "0 - 2",
+            "Philadelphia",
+            "Biron",
+            "19568",
+            "33-17-9"
+        ],
+        [
+            "February 27",
+            "Montreal",
+            "4 - 3",
+            "Philadelphia",
+            "Niittymaki",
+            "19881",
+            "33-17-10"
+        ]
+    ]
+}

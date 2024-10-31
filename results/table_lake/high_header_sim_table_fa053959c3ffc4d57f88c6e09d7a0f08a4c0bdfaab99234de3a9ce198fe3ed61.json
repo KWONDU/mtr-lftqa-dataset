@@ -1,0 +1,87 @@
+{
+    "id": "fa053959c3ffc4d57f88c6e09d7a0f08a4c0bdfaab99234de3a9ce198fe3ed61",
+    "metadata": "KLVM | Translators | Translators",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Call_sign",
+        "Frequency_MHz",
+        "City_of_license",
+        "ERP_W",
+        "Class_",
+        "FCC_info"
+    ],
+    "cell": [
+        [
+            "K206CC",
+            "89.1",
+            "Lockwood, California",
+            "10",
+            "D",
+            "FCC"
+        ],
+        [
+            "K205BN",
+            "88.9",
+            "Los Gatos, California",
+            "77",
+            "D",
+            "FCC"
+        ],
+        [
+            "K257BE",
+            "99.3",
+            "Los Gatos, California",
+            "10",
+            "D",
+            "FCC"
+        ],
+        [
+            "K208CW",
+            "89.5",
+            "Monterey, California",
+            "74",
+            "D",
+            "FCC"
+        ],
+        [
+            "K272CG",
+            "102.3",
+            "Morro Bay, California",
+            "7",
+            "D",
+            "FCC"
+        ],
+        [
+            "K220BV",
+            "91.9",
+            "San Jose, California",
+            "10",
+            "D",
+            "FCC"
+        ],
+        [
+            "K276BR",
+            "103.1",
+            "Santa Cruz, California",
+            "5",
+            "D",
+            "FCC"
+        ],
+        [
+            "K236AJ",
+            "95.1",
+            "Soledad, California",
+            "10",
+            "D",
+            "FCC"
+        ],
+        [
+            "K217CO",
+            "91.3",
+            "Carmel, California",
+            "10",
+            "D",
+            "FCC"
+        ]
+    ]
+}

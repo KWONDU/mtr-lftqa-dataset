@@ -1,0 +1,61 @@
+{
+    "id": "e5139dcd3f103b2c9a14e4783ff2284895e12a7efe96819fe538fda4077c31b2",
+    "metadata": "List of VIA C3 microprocessors | \"Samuel 2\" (150 nm) | \"Samuel 2\" (150 nm)",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Model_Number",
+        "Frequency",
+        "L2_Cache",
+        "Front_Side_Bus",
+        "Multiplier",
+        "Voltage",
+        "Socket"
+    ],
+    "cell": [
+        [
+            "C3 667",
+            "667MHz",
+            "64KiB",
+            "133MHz",
+            "5\u00d7",
+            "1.6V",
+            "Socket 370"
+        ],
+        [
+            "C3 733",
+            "733MHz",
+            "64KiB",
+            "133MHz",
+            "5.5\u00d7",
+            "1.6V",
+            "Socket 370"
+        ],
+        [
+            "C3 750",
+            "750MHz",
+            "64KiB",
+            "100MHz",
+            "7.5\u00d7",
+            "1.6V",
+            "Socket 370"
+        ],
+        [
+            "C3 800",
+            "800MHz",
+            "64KiB",
+            "100MHz",
+            "8\u00d7",
+            "1.6V",
+            "Socket 370"
+        ],
+        [
+            "C3 800",
+            "800MHz",
+            "64KiB",
+            "133MHz",
+            "6\u00d7",
+            "1.6V",
+            "EBGA"
+        ]
+    ]
+}

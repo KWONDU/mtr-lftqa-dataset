@@ -1,0 +1,142 @@
+{
+    "id": "74e5144ea341babd1889761b05a84cc94c6a6a3be0d42810ed3b28ea582141bf",
+    "metadata": "2007-08 Dallas Stars season | February | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "February 1",
+            "Dallas",
+            "4 - 1",
+            "Edmonton",
+            "Turco",
+            "16839",
+            "30-20-5"
+        ],
+        [
+            "February 2",
+            "Dallas",
+            "2 - 1",
+            "Calgary",
+            "Turco",
+            "19289",
+            "31-20-5"
+        ],
+        [
+            "February 5",
+            "Vancouver",
+            "2 - 3",
+            "Dallas",
+            "Turco",
+            "17642",
+            "32-20-5"
+        ],
+        [
+            "February 7",
+            "Dallas",
+            "1 - 0",
+            "Minnesota",
+            "Smith",
+            "18568",
+            "33-20-5"
+        ],
+        [
+            "February 9",
+            "St. Louis",
+            "2 - 6",
+            "Dallas",
+            "Smith",
+            "18584",
+            "34-20-5"
+        ],
+        [
+            "February 11",
+            "Phoenix",
+            "1 - 2",
+            "Dallas",
+            "Turco",
+            "17622",
+            "35-20-5"
+        ],
+        [
+            "February 14",
+            "Dallas",
+            "2 - 5",
+            "Phoenix",
+            "Turco",
+            "12885",
+            "35-21-5"
+        ],
+        [
+            "February 15",
+            "Dallas",
+            "4 - 2",
+            "Anaheim",
+            "Turco",
+            "17323",
+            "36-21-5"
+        ],
+        [
+            "February 17",
+            "Detroit",
+            "0 - 1",
+            "Dallas",
+            "Turco",
+            "18584",
+            "37-21-5"
+        ],
+        [
+            "February 20",
+            "Calgary",
+            "3 - 2",
+            "Dallas",
+            "Turco",
+            "18584",
+            "37-22-5"
+        ],
+        [
+            "February 22",
+            "Edmonton",
+            "2 - 5",
+            "Dallas",
+            "Turco",
+            "18564",
+            "38-22-5"
+        ],
+        [
+            "February 23",
+            "Dallas",
+            "6 - 2",
+            "Nashville",
+            "Smith",
+            "17113",
+            "39-22-5"
+        ],
+        [
+            "February 26",
+            "Dallas",
+            "3 - 1",
+            "St. Louis",
+            "Turco",
+            "19150",
+            "40-22-5"
+        ],
+        [
+            "February 28",
+            "Chicago",
+            "4 - 7",
+            "Dallas",
+            "Turco",
+            "18584",
+            "41-22-5"
+        ]
+    ]
+}

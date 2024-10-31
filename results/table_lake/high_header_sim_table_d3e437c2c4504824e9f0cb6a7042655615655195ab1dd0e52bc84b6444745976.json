@@ -1,0 +1,88 @@
+{
+    "id": "d3e437c2c4504824e9f0cb6a7042655615655195ab1dd0e52bc84b6444745976",
+    "metadata": "List of Country Fire Authority brigades | Beeac Group | Beeac Group",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Brigade",
+        "Type_",
+        "Pumpers",
+        "Tankers",
+        "Slip_Ons",
+        "Cars",
+        "Hazmat"
+    ],
+    "cell": [
+        [
+            "Beeac,Victoria (Volunteers) 2",
+            "Rural",
+            "-",
+            "2",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "Colac,Victoria (Volunteers) 1",
+            "Urban",
+            "1",
+            "2",
+            "-",
+            "2",
+            "-"
+        ],
+        [
+            "Forrest,Victoria (Volunteers) 1",
+            "Rural",
+            "-",
+            "1",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "Gerangamete,Victoria (Volunteers) 2",
+            "Rural",
+            "-",
+            "1",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "Irrewarra,Victoria (Volunteers)",
+            "Rural",
+            "-",
+            "1",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "Weering-Eurack,Victoria (Volunteers)",
+            "Rural",
+            "-",
+            "1",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "Yeo,Victoria (Volunteers) 1",
+            "Rural",
+            "-",
+            "1",
+            "-",
+            "-",
+            "-"
+        ],
+        [
+            "Yeodene.Victoria (Volunteers) 2",
+            "Rural",
+            "-",
+            "1",
+            "-",
+            "-",
+            "-"
+        ]
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "6ee05e68f8407da473a2abd5aaecfd4776acaaff598c9862d08850a631bf67c5",
+    "metadata": "1961 Oakland Raiders season | Season schedule | Season schedule",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Week",
+        "Date_",
+        "Opponent",
+        "Result_",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "September 9, 1961",
+            "at Houston Oilers",
+            "L 55-0",
+            "16231"
+        ],
+        [
+            "2",
+            "September 17, 1961",
+            "at San Diego Chargers",
+            "L 44-0",
+            "20216"
+        ],
+        [
+            "3",
+            "September 24, 1961",
+            "Dallas Texans",
+            "L 42-35",
+            "6737"
+        ],
+        [
+            "4",
+            "October 1, 1961",
+            "Denver Broncos",
+            "W 33-19",
+            "8361"
+        ],
+        [
+            "5",
+            "October 15, 1961",
+            "at Denver Broncos",
+            "L 27-24",
+            "11129"
+        ],
+        [
+            "6",
+            "October 22, 1961",
+            "San Diego Chargers",
+            "L 41-10",
+            "12014"
+        ],
+        [
+            "7",
+            "October 29, 1961",
+            "New York Titans",
+            "L 14-6",
+            "7138"
+        ],
+        [
+            "8",
+            "November 5, 1961",
+            "at Buffalo Bills",
+            "W 31-22",
+            "17027"
+        ],
+        [
+            "9",
+            "November 11, 1961",
+            "at New York Titans",
+            "L 23-12",
+            "16811"
+        ],
+        [
+            "10",
+            "November 17, 1961",
+            "at Boston Patriots",
+            "L 20-17",
+            "18169"
+        ],
+        [
+            "11",
+            "November 26, 1961",
+            "at Dallas Texans",
+            "L 43-11",
+            "14500"
+        ],
+        [
+            "12",
+            "December 3, 1961",
+            "Buffalo Bills",
+            "L 26-21",
+            "6500"
+        ],
+        [
+            "13",
+            "December 9, 1961",
+            "Boston Patriots",
+            "L 35-21",
+            "6500"
+        ],
+        [
+            "14",
+            "December 17, 1961",
+            "Houston Oilers",
+            "L 47-16",
+            "4821"
+        ]
+    ]
+}

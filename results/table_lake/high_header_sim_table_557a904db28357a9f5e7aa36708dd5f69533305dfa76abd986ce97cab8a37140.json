@@ -1,0 +1,70 @@
+{
+    "id": "557a904db28357a9f5e7aa36708dd5f69533305dfa76abd986ce97cab8a37140",
+    "metadata": "1965 VFL season | Round 16 | Round 16",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Hawthorn",
+            "9.14 (68)",
+            "Richmond",
+            "16.14 (110)",
+            "Glenferrie Oval",
+            "15000",
+            "14 August 1965"
+        ],
+        [
+            "Essendon",
+            "9.15 (69)",
+            "St Kilda",
+            "9.10 (64)",
+            "Windy Hill",
+            "28700",
+            "14 August 1965"
+        ],
+        [
+            "Carlton",
+            "11.16 (82)",
+            "Collingwood",
+            "16.11 (107)",
+            "Princes Park",
+            "36730",
+            "14 August 1965"
+        ],
+        [
+            "Melbourne",
+            "11.7 (73)",
+            "Geelong",
+            "16.11 (107)",
+            "MCG",
+            "44753",
+            "14 August 1965"
+        ],
+        [
+            "South Melbourne",
+            "10.18 (78)",
+            "Footscray",
+            "13.14 (92)",
+            "Lake Oval",
+            "13600",
+            "14 August 1965"
+        ],
+        [
+            "North Melbourne",
+            "12.10 (82)",
+            "Fitzroy",
+            "12.11 (83)",
+            "City of Coburg Oval",
+            "7788",
+            "14 August 1965"
+        ]
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "a2f8afc40f346dbcfac980a3a4467d2a2ea0c6005b2a9e43199797cfe03b70a8",
+    "metadata": "Snowy Mountains Scheme | Major dams and reservoirs | Major dams and reservoirs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Dam_constructed",
+        "Year_completed",
+        "Impounded_body_of_water",
+        "Reservoir_capacity",
+        "Dam_wall_height",
+        "Dam_type"
+    ],
+    "cell": [
+        [
+            "Blowering Dam",
+            "1968",
+            "Blowering Reservoir",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Rockfill embankment"
+        ],
+        [
+            "Deep Creek Dam",
+            "1961",
+            "Deep Creek Reservoir",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Concrete gravity"
+        ],
+        [
+            "Eucumbene Dam",
+            "1958",
+            "Lake Eucumbene",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Earthfill embankment"
+        ],
+        [
+            "Geehi Dam",
+            "1966",
+            "Geehi Reservoir",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Rockfill embankment"
+        ],
+        [
+            "Guthega Dam",
+            "1955",
+            "Guthega Reservoir",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Concrete gravity"
+        ],
+        [
+            "Happy Jacks Dam",
+            "1959",
+            "Happy Jacks Pondage",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Concrete gravity"
+        ],
+        [
+            "Island Bend Dam",
+            "1965",
+            "Island Bend Pondage",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Concrete gravity"
+        ],
+        [
+            "Jindabyne Dam",
+            "1967",
+            "Lake Jindabyne",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Rockfill embankment"
+        ],
+        [
+            "Jounama Dam",
+            "1968",
+            "Jounama Pondage",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Rockfill embankment"
+        ],
+        [
+            "Khancoban Dam",
+            "1966",
+            "Khancoban Reservoir",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Earthfill embankment"
+        ],
+        [
+            "Murray Two Dam",
+            "1968",
+            "Murray Two Pondage",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Concrete arch"
+        ],
+        [
+            "Talbingo Dam",
+            "1970",
+            "Talbingo Reservoir",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Rockfill embankment"
+        ],
+        [
+            "Tantangara Dam",
+            "1960",
+            "Tantangara Reservoir",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Concrete gravity"
+        ],
+        [
+            "Tooma Dam",
+            "1961",
+            "Tooma Reservoir",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Concrete embankment"
+        ],
+        [
+            "Tumut Pond Dam",
+            "1959",
+            "Tumut Pond Reservoir",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Concrete arch"
+        ],
+        [
+            "Tumut Two Dam",
+            "1961",
+            "Tumut Two Pondage",
+            "ML ( \u00d7 10 ^6cuft)",
+            "m (ft)",
+            "Concrete gravity"
+        ]
+    ]
+}

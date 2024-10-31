@@ -1,0 +1,70 @@
+{
+    "id": "98810452e1336df1759f55fb993322c97d1e6fdafadbec6b3a01e41d903746cf",
+    "metadata": "1938 VFL season | Round 9 | Round 9",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Geelong",
+            "11.23 (89)",
+            "Hawthorn",
+            "6.13 (49)",
+            "Corio Oval",
+            "7000",
+            "18 June 1938"
+        ],
+        [
+            "Fitzroy",
+            "16.12 (108)",
+            "South Melbourne",
+            "8.8 (56)",
+            "Brunswick Street Oval",
+            "12000",
+            "18 June 1938"
+        ],
+        [
+            "St Kilda",
+            "14.12 (96)",
+            "Melbourne",
+            "16.16 (112)",
+            "Junction Oval",
+            "14000",
+            "18 June 1938"
+        ],
+        [
+            "Richmond",
+            "15.14 (104)",
+            "Essendon",
+            "15.9 (99)",
+            "Punt Road Oval",
+            "20000",
+            "18 June 1938"
+        ],
+        [
+            "Footscray",
+            "13.9 (87)",
+            "Collingwood",
+            "10.5 (65)",
+            "Western Oval",
+            "18000",
+            "18 June 1938"
+        ],
+        [
+            "North Melbourne",
+            "11.5 (71)",
+            "Carlton",
+            "16.25 (121)",
+            "Arden Street Oval",
+            "13000",
+            "18 June 1938"
+        ]
+    ]
+}

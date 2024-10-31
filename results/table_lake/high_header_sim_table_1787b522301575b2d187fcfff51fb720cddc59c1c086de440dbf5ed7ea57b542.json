@@ -1,0 +1,55 @@
+{
+    "id": "1787b522301575b2d187fcfff51fb720cddc59c1c086de440dbf5ed7ea57b542",
+    "metadata": "List of NGC objects (5001-6000) | 5701-5800 | 5701-5800",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "NGC_number",
+        "Object_type",
+        "Constellation",
+        "Right_ascension_J2000_",
+        "Declination_J2000_",
+        "Apparent_magnitude"
+    ],
+    "cell": [
+        [
+            "5705",
+            "Spiral galaxy",
+            "Virgo",
+            "14h39m49.6s",
+            "\u00b043\u203208\u2033",
+            "14.5"
+        ],
+        [
+            "5713",
+            "Spiral galaxy",
+            "Virgo",
+            "14h40m11.5s",
+            "\u00b017\u203225\u2033",
+            "11.7"
+        ],
+        [
+            "5749",
+            "Open cluster",
+            "Lupus",
+            "14h49m",
+            "\u00b030\u2032",
+            "8.8"
+        ],
+        [
+            "5750",
+            "Spiral galaxy",
+            "Virgo",
+            "14h46m11.3s",
+            "\u00b013\u203223\u2033",
+            "13.1"
+        ],
+        [
+            "5777",
+            "Spiral galaxy",
+            "Draco",
+            "14h51m18s",
+            "\u00b058\u203239\u2033",
+            "13.1"
+        ]
+    ]
+}

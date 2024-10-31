@@ -1,0 +1,61 @@
+{
+    "id": "4105bafd23b70b97cccb3fb4f9654f85458d6607c8de9e4f7e692ba0763bc639",
+    "metadata": "John McEnroe career statistics | Legends Over 45 Doubles | Legends Over 45 Doubles",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Outcome",
+        "Year_",
+        "Championship",
+        "Surface",
+        "Partner",
+        "Opponents_in_the_final",
+        "Score_in_the_final"
+    ],
+    "cell": [
+        [
+            "Winner",
+            "2007",
+            "French Open",
+            "Clay",
+            "J\u00e4rryd",
+            "Fitzgerald Vilas",
+            "6-1, 6-2"
+        ],
+        [
+            "Winner",
+            "2008",
+            "French Open",
+            "Clay",
+            "J\u00e4rryd",
+            "Bahrami Leconte",
+            "6-4, 7-6 2"
+        ],
+        [
+            "Winner",
+            "2009",
+            "French Open",
+            "Clay",
+            "J\u00e4rryd",
+            "Bahrami Leconte",
+            "7-6 2 , 6-1"
+        ],
+        [
+            "Winner",
+            "2010",
+            "French Open",
+            "Clay",
+            "G\u00f3mez",
+            "Bahrami Leconte",
+            "6-1, 6-1"
+        ],
+        [
+            "Runner-up",
+            "2011",
+            "French Open",
+            "Clay",
+            "G\u00f3mez",
+            "Forget Leconte",
+            "6-3, 5-7, [10-8]"
+        ]
+    ]
+}

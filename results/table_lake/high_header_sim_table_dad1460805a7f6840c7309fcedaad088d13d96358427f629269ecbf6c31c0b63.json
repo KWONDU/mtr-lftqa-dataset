@@ -1,0 +1,49 @@
+{
+    "id": "dad1460805a7f6840c7309fcedaad088d13d96358427f629269ecbf6c31c0b63",
+    "metadata": "Mike Beuttler | Complete Formula One results | Complete Formula One results",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_",
+        "Entrant",
+        "Chassis",
+        "Engine",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1971",
+            "Clarke-Mordaunt-Guthrie Racing",
+            "March 711",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1971",
+            "STP March",
+            "March 711",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1972",
+            "Clarke-Mordaunt-Guthrie Racing",
+            "March 721G",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1973",
+            "Clarke-Mordaunt-Guthrie-Durlacher",
+            "March 721G",
+            "Cosworth V8",
+            "0"
+        ],
+        [
+            "1973",
+            "Clarke-Mordaunt-Guthrie-Durlacher",
+            "March 721G/731",
+            "Cosworth V8",
+            "0"
+        ]
+    ]
+}

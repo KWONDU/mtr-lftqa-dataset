@@ -1,0 +1,70 @@
+{
+    "id": "d75162c00f73dc71840438d13f6144d11b704c0c8bb31704fe96e311234ac902",
+    "metadata": "1978 VFL season | Round 20 | Round 20",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Home_team",
+        "Home_team_score",
+        "Away_team",
+        "Away_team_score",
+        "Venue",
+        "Crowd",
+        "Date_"
+    ],
+    "cell": [
+        [
+            "Essendon",
+            "19.16 (130)",
+            "Melbourne",
+            "21.10 (136)",
+            "Windy Hill",
+            "11984",
+            "19 August 1978"
+        ],
+        [
+            "South Melbourne",
+            "24.11 (155)",
+            "Geelong",
+            "26.11 (167)",
+            "Lake Oval",
+            "15259",
+            "19 August 1978"
+        ],
+        [
+            "Footscray",
+            "9.17 (71)",
+            "Fitzroy",
+            "21.13 (139)",
+            "Western Oval",
+            "12525",
+            "19 August 1978"
+        ],
+        [
+            "Richmond",
+            "16.13 (109)",
+            "Collingwood",
+            "19.9 (123)",
+            "MCG",
+            "59580",
+            "19 August 1978"
+        ],
+        [
+            "North Melbourne",
+            "9.16 (70)",
+            "Carlton",
+            "19.17 (131)",
+            "Arden Street Oval",
+            "28965",
+            "19 August 1978"
+        ],
+        [
+            "St Kilda",
+            "21.13 (139)",
+            "Hawthorn",
+            "12.11 (83)",
+            "VFL Park",
+            "31677",
+            "19 August 1978"
+        ]
+    ]
+}

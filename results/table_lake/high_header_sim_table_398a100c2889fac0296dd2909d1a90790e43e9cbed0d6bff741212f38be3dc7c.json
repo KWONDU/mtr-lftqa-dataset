@@ -1,0 +1,63 @@
+{
+    "id": "398a100c2889fac0296dd2909d1a90790e43e9cbed0d6bff741212f38be3dc7c",
+    "metadata": "2007-08 Bavarian ice hockey season | Relegation round | Landesliga West",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Position_",
+        "Name_",
+        "Played",
+        "Drawn",
+        "Lost",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1",
+            "EA Schongau",
+            "10",
+            "0",
+            "0",
+            "20"
+        ],
+        [
+            "2",
+            "SC Forst",
+            "10",
+            "1",
+            "3",
+            "13"
+        ],
+        [
+            "3",
+            "ESV Burgau",
+            "10",
+            "1",
+            "5",
+            "9"
+        ],
+        [
+            "4",
+            "ERC Lechbruck",
+            "10",
+            "0",
+            "6",
+            "8"
+        ],
+        [
+            "5",
+            "EV Bad W\u00f6rishofen",
+            "10",
+            "2",
+            "5",
+            "8"
+        ],
+        [
+            "6",
+            "EHC M\u00fcnchen II",
+            "10",
+            "0",
+            "9",
+            "2"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "e6c6b7b207c8a26baabe4769e7aa3a7a1de977367bf4f4bc4f9f232bc78cd887",
+    "metadata": "2007-08 FIS Ski Jumping World Cup | Oslo | Oslo",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "Name_",
+        "Nationality",
+        "_1st_m",
+        "_2nd_m",
+        "Points",
+        "Overall_NT_points",
+        "Overall_WC_points_Rank"
+    ],
+    "cell": [
+        [
+            "1",
+            "Gregor Schlierenzauer",
+            "AUT",
+            "125.0",
+            "123.5",
+            "265.3",
+            "897.6 (1)",
+            "1361 (2)"
+        ],
+        [
+            "2",
+            "Tom Hilde",
+            "NOR",
+            "119.5",
+            "123.5",
+            "256.4",
+            "878.5 (2)",
+            "1152 (4)"
+        ],
+        [
+            "3",
+            "Bj\u00f8rn Einar Rom\u00f8ren",
+            "NOR",
+            "117.5",
+            "122.0",
+            "247.1",
+            "769.6 (11)",
+            "630 (11)"
+        ],
+        [
+            "4",
+            "Thomas Morgenstern",
+            "AUT",
+            "122.0",
+            "116.5",
+            "246.3",
+            "842.2 (6)",
+            "1768 (1)"
+        ],
+        [
+            "5",
+            "Janne Happonen",
+            "FIN",
+            "111.5",
+            "125.5",
+            "242.6",
+            "876.8 (3)",
+            "659 (10)"
+        ]
+    ]
+}

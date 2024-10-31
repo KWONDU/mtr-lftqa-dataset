@@ -1,0 +1,142 @@
+{
+    "id": "ac37bcba5da5e192f5cfcd857a913299c1ce57478006a900cdd1f0a0f383f3b5",
+    "metadata": "2005-06 Philadelphia Flyers season | Regular season | December",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "December 3",
+            "Philadelphia",
+            "3 - 4",
+            "Nashville",
+            "Niittymaki",
+            "16116",
+            "15-6-4"
+        ],
+        [
+            "December 6",
+            "Calgary",
+            "0 - 1",
+            "Philadelphia",
+            "Niittymaki",
+            "19542",
+            "16-6-4"
+        ],
+        [
+            "December 8",
+            "Edmonton",
+            "3 - 2",
+            "Philadelphia",
+            "Niittymaki",
+            "19411",
+            "16-7-4"
+        ],
+        [
+            "December 10",
+            "Minnesota",
+            "2 - 3",
+            "Philadelphia",
+            "Niittymaki",
+            "19592",
+            "17-7-4"
+        ],
+        [
+            "December 13",
+            "Philadelphia",
+            "3 - 1",
+            "Columbus",
+            "Esche",
+            "16263",
+            "18-7-4"
+        ],
+        [
+            "December 15",
+            "Vancouver",
+            "5 - 4",
+            "Philadelphia",
+            "Esche",
+            "n/a",
+            "18-8-4"
+        ],
+        [
+            "December 17",
+            "Philadelphia",
+            "5 - 2",
+            "St. Louis",
+            "Niittymaki",
+            "15299",
+            "19-8-4"
+        ],
+        [
+            "December 19",
+            "Buffalo",
+            "2 - 1",
+            "Philadelphia",
+            "Niittymaki",
+            "19572",
+            "19-8-5"
+        ],
+        [
+            "December 22",
+            "Ottawa",
+            "3 - 4",
+            "Philadelphia",
+            "Niittymaki",
+            "19817",
+            "20-8-5"
+        ],
+        [
+            "December 23",
+            "Philadelphia",
+            "5 - 4",
+            "Pittsburgh",
+            "Niittymaki",
+            "17132",
+            "21-8-5"
+        ],
+        [
+            "December 26",
+            "Philadelphia",
+            "3 - 2",
+            "Florida",
+            "Niittymaki",
+            "18791",
+            "22-8-5"
+        ],
+        [
+            "December 28",
+            "Philadelphia",
+            "4 - 3",
+            "Atlanta",
+            "Niittymaki",
+            "18545",
+            "23-8-5"
+        ],
+        [
+            "December 29",
+            "Philadelphia",
+            "4 - 3",
+            "Carolina",
+            "Niittymaki",
+            "18730",
+            "24-8-5"
+        ],
+        [
+            "December 31",
+            "Philadelphia",
+            "3 - 4",
+            "Washington",
+            "Niittymaki",
+            "16492",
+            "24-8-6"
+        ]
+    ]
+}

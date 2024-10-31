@@ -1,0 +1,98 @@
+{
+    "id": "d19e1fd994505d7d5c94e67c262287d7993bdb09695d424da276d1a7be77b0be",
+    "metadata": "1998-99 FA Cup | Fifth round | Fifth round",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Tie_no",
+        "Home_team",
+        "Score",
+        "Away_team",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "Sheffield Wednesday",
+            "0-1",
+            "Chelsea",
+            "13 February 1999"
+        ],
+        [
+            "2",
+            "Everton",
+            "2-1",
+            "Coventry City",
+            "13 February 1999"
+        ],
+        [
+            "3",
+            "Newcastle United",
+            "0-0",
+            "Blackburn Rovers",
+            "14 February 1999"
+        ],
+        [
+            "Replay",
+            "Blackburn Rovers",
+            "0-1",
+            "Newcastle United",
+            "24 February 1999"
+        ],
+        [
+            "4",
+            "Barnsley",
+            "4-1",
+            "Bristol Rovers",
+            "13 February 1999"
+        ],
+        [
+            "5",
+            "Manchester United",
+            "1-0",
+            "Fulham",
+            "14 February 1999"
+        ],
+        [
+            "6",
+            "Huddersfield Town",
+            "2-2",
+            "Derby County",
+            "13 February 1999"
+        ],
+        [
+            "Replay",
+            "Derby County",
+            "3-1",
+            "Huddersfield Town",
+            "24 February 1999"
+        ],
+        [
+            "7",
+            "Arsenal",
+            "2-1",
+            "Sheffield United",
+            "13 February 1999"
+        ],
+        [
+            "Replay",
+            "Arsenal",
+            "2-1",
+            "Sheffield United",
+            "23 February 1999"
+        ],
+        [
+            "8",
+            "Leeds United",
+            "1-1",
+            "Tottenham Hotspur",
+            "13 February 1999"
+        ],
+        [
+            "Replay",
+            "Tottenham Hotspur",
+            "2-0",
+            "Leeds United",
+            "24 February 1999"
+        ]
+    ]
+}

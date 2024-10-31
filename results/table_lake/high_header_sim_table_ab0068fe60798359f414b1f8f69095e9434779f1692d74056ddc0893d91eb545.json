@@ -1,0 +1,79 @@
+{
+    "id": "ab0068fe60798359f414b1f8f69095e9434779f1692d74056ddc0893d91eb545",
+    "metadata": "2005-06 Ottawa Senators season | February | February",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Record"
+    ],
+    "cell": [
+        [
+            "February 1",
+            "Ottawa",
+            "3-5",
+            "New Jersey Devils",
+            "Hasek",
+            "10142",
+            "34-12-4"
+        ],
+        [
+            "February 2",
+            "Ottawa",
+            "7-2",
+            "Pittsburgh Penguins",
+            "Hasek",
+            "14714",
+            "35-12-4"
+        ],
+        [
+            "February 4",
+            "Ottawa",
+            "1-2",
+            "Buffalo Sabres",
+            "Hasek",
+            "17451",
+            "35-12-5"
+        ],
+        [
+            "February 6",
+            "Pittsburgh Penguins",
+            "2-5",
+            "Ottawa",
+            "Emery",
+            "19877",
+            "36-12-5"
+        ],
+        [
+            "February 8",
+            "Ottawa",
+            "1-5",
+            "New York Rangers",
+            "Hasek",
+            "18200",
+            "36-13-5"
+        ],
+        [
+            "February 9",
+            "Atlanta Thrashers",
+            "2-1",
+            "Ottawa",
+            "Hasek",
+            "19604",
+            "36-14-5"
+        ],
+        [
+            "February 11",
+            "Philadelphia Flyers",
+            "2-3",
+            "Ottawa",
+            "Hasek",
+            "19834",
+            "37-14-5"
+        ]
+    ]
+}

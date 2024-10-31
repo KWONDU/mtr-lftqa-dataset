@@ -1,0 +1,88 @@
+{
+    "id": "b39f4877b6db389e92ec102089c4a7dd4f3294d47281e32a444bd47bfdf8a92f",
+    "metadata": "Ohio River Valley Conference | Former Members | Former Members",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "School",
+        "Location_",
+        "Mascot",
+        "County",
+        "Year_Joined",
+        "Year_Left",
+        "Conference_Joined"
+    ],
+    "cell": [
+        [
+            "Hanover",
+            "Hanover",
+            "Bulldogs",
+            "39 Jefferson",
+            "1952",
+            "1960",
+            "none (consolidated into Southwestern )"
+        ],
+        [
+            "North (Madison)",
+            "Madison",
+            "Tigers",
+            "39 Jefferson",
+            "1952",
+            "1953",
+            "none (colsolidated into Madison )"
+        ],
+        [
+            "Osgood",
+            "Osgood",
+            "Cowboys",
+            "69 Ripley",
+            "1952",
+            "1960",
+            "none (consolidated into Jac-Cen-Del )"
+        ],
+        [
+            "Versailles",
+            "Versailles",
+            "Lions",
+            "69 Ripley",
+            "1952",
+            "1966",
+            "none (consolidated into South Ripley )"
+        ],
+        [
+            "Dillsboro",
+            "Dillsboro",
+            "Bulldogs",
+            "15 Dearborn",
+            "1953",
+            "1978",
+            "none (consolidated into South Dearborn )"
+        ],
+        [
+            "Moores Hill",
+            "Moores Hill",
+            "Knights",
+            "15 Dearborn",
+            "1953",
+            "1978",
+            "none (consolidated into South Dearborn )"
+        ],
+        [
+            "Sunman",
+            "Sunman",
+            "Trojans",
+            "69 Ripley",
+            "1953",
+            "1973",
+            "none (consolidated into East Central )"
+        ],
+        [
+            "Vevay",
+            "Vevay",
+            "Warriors",
+            "78 Switzerland",
+            "1953",
+            "1968",
+            "none (consolidated into Switzerland County )"
+        ]
+    ]
+}

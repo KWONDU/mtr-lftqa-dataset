@@ -1,0 +1,98 @@
+{
+    "id": "374ab761313de371ee899d0365050185da909ab5ef6fb71b0edf072550895e15",
+    "metadata": "Astrology and the classical elements | Triplicities by season | Triplicities by season",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Sign",
+        "Element_",
+        "Qualities",
+        "Season_North",
+        "Season_South"
+    ],
+    "cell": [
+        [
+            "Aries",
+            "Fire",
+            "Hot & Dry",
+            "Hot & Wet (Spring/Air)",
+            "Cold & Dry (Autumn/Earth)"
+        ],
+        [
+            "Taurus",
+            "Earth",
+            "Cold & Dry",
+            "Hot & Wet (Spring/Air)",
+            "Cold & Dry (Autumn/Earth)"
+        ],
+        [
+            "Gemini",
+            "Air",
+            "Hot & Wet",
+            "Hot & Wet (Spring/Air)",
+            "Cold & Dry (Autumn/Earth)"
+        ],
+        [
+            "Cancer",
+            "Water",
+            "Cold & Wet",
+            "Hot & Dry (Summer/Fire)",
+            "Cold & Wet (Winter/Water)"
+        ],
+        [
+            "Leo",
+            "Fire",
+            "Hot & Dry",
+            "Hot & Dry (Summer/Fire)",
+            "Cold & Wet (Winter/Water)"
+        ],
+        [
+            "Virgo",
+            "Earth",
+            "Cold & Dry",
+            "Hot & Dry (Summer/Fire)",
+            "Cold & Wet (Winter/Water)"
+        ],
+        [
+            "Libra",
+            "Air",
+            "Hot & Wet",
+            "Cold & Dry (Autumn/Earth)",
+            "Hot & Wet (Spring/Air)"
+        ],
+        [
+            "Scorpio",
+            "Water",
+            "Cold & Wet",
+            "Cold & Dry (Autumn/Earth)",
+            "Hot & Wet (Spring/Air)"
+        ],
+        [
+            "Sagittarius",
+            "Fire",
+            "Hot & Dry",
+            "Cold & Dry (Autumn/Earth)",
+            "Hot & Wet (Spring/Air)"
+        ],
+        [
+            "Capricorn",
+            "Earth",
+            "Cold & Dry",
+            "Cold & Wet (Winter/Water)",
+            "Hot & Dry (Summer/Fire)"
+        ],
+        [
+            "Aquarius",
+            "Air",
+            "Hot & Wet",
+            "Cold & Wet (Winter/Water)",
+            "Hot & Dry (Summer/Fire)"
+        ],
+        [
+            "Pisces",
+            "Water",
+            "Cold & Wet",
+            "Cold & Wet (Winter/Water)",
+            "Hot & Dry (Summer/Fire)"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "50f882f8bcd9d444829d5ef405006e445abe7a719bea69c99bb8500b18bee5e5",
+    "metadata": "Demographics of Imperial Japan | Urban population in overseas territories | Urban population in overseas territories",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Rank_",
+        "City",
+        "_1890_census",
+        "_1910_census",
+        "_1920_census",
+        "_1930_census",
+        "_1940_census"
+    ],
+    "cell": [
+        [
+            "1",
+            "Keij\u014d",
+            "1165000",
+            "230000",
+            "247000",
+            "350000",
+            "1100000"
+        ],
+        [
+            "2",
+            "Fuzan",
+            "NA",
+            "81000",
+            "74000",
+            "130000",
+            "400000"
+        ],
+        [
+            "3",
+            "Heij\u014d",
+            "NA",
+            "40000",
+            "60000",
+            "137000",
+            "286000"
+        ],
+        [
+            "4",
+            "Jinsen",
+            "NA",
+            "30000",
+            "40000",
+            "54000",
+            "171000"
+        ],
+        [
+            "5",
+            "Taihoku",
+            "78000",
+            "95000",
+            "164000",
+            "249000",
+            "326000"
+        ],
+        [
+            "6",
+            "Tainan",
+            "NA",
+            "44000",
+            "112000",
+            "166000",
+            "296000"
+        ]
+    ]
+}

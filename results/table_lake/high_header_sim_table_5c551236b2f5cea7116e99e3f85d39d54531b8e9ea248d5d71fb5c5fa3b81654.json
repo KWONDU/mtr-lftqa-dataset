@@ -1,0 +1,70 @@
+{
+    "id": "5c551236b2f5cea7116e99e3f85d39d54531b8e9ea248d5d71fb5c5fa3b81654",
+    "metadata": "2007-08 Colorado Avalanche season | Playoffs | Playoffs",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Date_",
+        "Visitor",
+        "Score",
+        "Home",
+        "Decision",
+        "Attendance",
+        "Series"
+    ],
+    "cell": [
+        [
+            "April 9",
+            "Colorado",
+            "3 - 2",
+            "Minnesota",
+            "Theodore",
+            "19352",
+            "1-0"
+        ],
+        [
+            "April 11",
+            "Colorado",
+            "2 - 3",
+            "Minnesota",
+            "Theodore",
+            "19360",
+            "1-1"
+        ],
+        [
+            "April 14",
+            "Minnesota",
+            "3 - 2",
+            "Colorado",
+            "Theodore",
+            "18007",
+            "1-2"
+        ],
+        [
+            "April 15",
+            "Minnesota",
+            "1 - 5",
+            "Colorado",
+            "Theodore",
+            "18007",
+            "2-2"
+        ],
+        [
+            "April 17",
+            "Colorado",
+            "3 - 2",
+            "Minnesota",
+            "Theodore",
+            "19364",
+            "3-2"
+        ],
+        [
+            "April 19",
+            "Minnesota",
+            "1 - 2",
+            "Colorado",
+            "Theodore",
+            "18007",
+            "4-2"
+        ]
+    ]
+}

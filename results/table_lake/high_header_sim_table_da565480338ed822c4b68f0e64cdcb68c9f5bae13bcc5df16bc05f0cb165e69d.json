@@ -1,0 +1,49 @@
+{
+    "id": "da565480338ed822c4b68f0e64cdcb68c9f5bae13bcc5df16bc05f0cb165e69d",
+    "metadata": "Royal Canadian Mint tokens and medallions | Ten Cent Test Tokens | Ten Cent Test Tokens",
+    "metadata_info": "Concatenation of page title, section title and table caption.",
+    "header": [
+        "Year_of_Issue",
+        "Weight",
+        "Diameter",
+        "Thickness",
+        "Edge"
+    ],
+    "cell": [
+        [
+            "1965",
+            "2.09grams",
+            "17.8mm",
+            "1.2mm",
+            "Reeded"
+        ],
+        [
+            "1976",
+            "1.75grams",
+            "17.95mm",
+            "1.2mm",
+            "Reeded"
+        ],
+        [
+            "1983",
+            "1.92grams",
+            "17.9mm",
+            "1.0mm",
+            "Reeded"
+        ],
+        [
+            "1983",
+            "1.78grams",
+            "17.9mm",
+            "1.0mm",
+            "Reeded"
+        ],
+        [
+            "1983",
+            "2.00grams",
+            "17.9mm",
+            "1.0mm",
+            "Reeded"
+        ]
+    ]
+}
