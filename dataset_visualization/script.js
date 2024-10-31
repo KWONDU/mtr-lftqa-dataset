@@ -1,10 +1,13 @@
 let isLoading = false;
+let classification = "";
 let table = {};
 let dataset = [];
 let currentIndex = 0;
 
 function loadData(classification) {
     if (isLoading) return;
+
+    classification = classification;
 
     isLoading = true;
     const container = document.getElementById("dataset-container");
