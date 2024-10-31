@@ -48,7 +48,7 @@ function renderData(index) {
     goldTableIDSet.forEach((table_id, idx) => {
         const tableDiv = document.createElement("div");
         tableDiv.classList.add("table-responsive", "mb-4");
-        fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/table_lake_${classification}_table_${table_id}.json`).then(response => response.json())
+        fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/table_lake/${classification}_table_${table_id}.json`).then(response => response.json())
         .then((tb) => {
             table = tb;
         })
