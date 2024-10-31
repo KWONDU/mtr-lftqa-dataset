@@ -30,7 +30,7 @@ function loadData(classify) {
         });
 }
 
-function renderData(index) {
+async function renderData(index) {
     const container = document.getElementById("dataset-container");
     container.innerHTML = '';
 
@@ -90,7 +90,7 @@ function renderData(index) {
             .catch(error => console.error("[Error] loading table:", error))
     );
 
-    const tableDivs = Promise.all(tableFetchPromises);
+    const tableDivs = await Promise.all(tableFetchPromises);
     tableDivs.forEach(tableDiv => tableContainer.appendChild(tableDiv));
     container.appendChild(tableContainer);
 
