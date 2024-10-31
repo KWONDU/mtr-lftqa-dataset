@@ -139,4 +139,4 @@
 
 ## 4. Visualize dataset
 
-    http://{server_address}/dataset_visualization/index.html
+    dataset_visualization/index.html
