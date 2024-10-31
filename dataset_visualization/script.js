@@ -13,7 +13,7 @@ function loadData(classification) {
     const buttons = document.querySelectorAll("#load-buttons button");
     buttons.forEach(button => button.disabled = true);
 
-    fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/${classification}_table_lake.json`).then(response => response.json())
+    fetch(`https://kwondu.github.io/mtr-lftqa-dataset/results/${classification}_dataset.json`).then(response => response.json())
     .then((dataSet) => {
         dataset = dataSet;
         currentIndex = 0;
