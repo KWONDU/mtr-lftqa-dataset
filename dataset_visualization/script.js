@@ -4,10 +4,10 @@ let table = {};
 let dataset = [];
 let currentIndex = 0;
 
-function loadData(classification) {
+function loadData(classify) {
     if (isLoading) return;
 
-    classification = classification;
+    classification = classify;
 
     isLoading = true;
     const container = document.getElementById("dataset-container");
