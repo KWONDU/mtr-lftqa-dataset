@@ -1,0 +1,77 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 8px;
+}
+
+h2 {
+    font-size: 1.3rem;
+}
+
+h3, h4 {
+    font-size: 1.1rem;
+}
+
+p {
+    font-size: 0.8rem;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.header-title {
+    margin: 0;
+}
+
+.btn {
+    border: none;
+    outline: none;
+}
+
+.btn:disabled {
+    background-color: #cccccc;
+    color: #666666;
+    cursor: not-allowed;
+}
+
+.container {
+    padding: 1%;
+    max-width: 100%;
+}
+
+#dataset-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.table-container {
+    display: flex;
+    gap: 15px;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.table-responsive {
+    max-height: 300px;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.table td, .table th {
+    white-space: normal;
+    word-break: break-word;
+}
+
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

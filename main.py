@@ -164,6 +164,9 @@ def main(source_dataset_name, sample_n, classification, logger):
                         'validation': annotation['validation']
                     }
                 )
+    
+    with open(f'results/{classification}_table_lake.json', 'w') as file:
+        json.dump(table_lake, file, indent=4)
 
     with open(f'results/{classification}_dataset.json', 'w') as file:
         json.dump(dataset, file, indent=4)
@@ -193,7 +196,7 @@ if __name__ == '__main__':
     add_openai_api_key(api_key=api_key)
     """
 
-    FLAG = [None, False, None, True, True, True]
+    FLAG = [None, False, None, False, False, False]
     FILTER_FLAG = True
 
     CLASS = {

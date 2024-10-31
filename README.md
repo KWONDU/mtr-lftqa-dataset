@@ -11,12 +11,12 @@
 
     .gitignore
     *__pycache__
-    *.html
     *.yaml
     *temp*
     */buffer/*.json # construct source dataset
     buffer/*_header_sim/*.json # annotate dataset
     buffer/*_header_sim/*.txt # annotate dataset
+    results/*_table_lake.json # annotate dataset
     results/*_error_cases.json # annotate dataset
 
 ### utils/.gitignore
@@ -128,13 +128,15 @@
     print(original_dataset[i / i:j]) # return i'th / (i ~ j-1)'th data; train, validation, test set in order
     print(len(original_dataset)) # return total original dataset size
 
-## 3. Run 'main'
+## 3. Annotate dataset
 
     python3 main.py \
         -d {source_dataset_name, SourceOpenWikiTable or SourceSpiderTableQA}
         -n {number_of_sampled_data}
 
+    python3 translate_dataset.py \
+        -d {source_dataset_name, SourceOpenWikiTable or SourceSpiderTableQA}
+
 ## 4. Visualize dataset
 
-    python3 dataset_visualization.py \
-        -d {source_dataset_name, SourceOpenWikiTable or SourceSpiderTableQA}
+    http://{server_address}/dataset_visualization/index.html
