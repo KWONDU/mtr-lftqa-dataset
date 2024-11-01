@@ -138,4 +138,4 @@
 
 ## 4. Visualize dataset
 
-    https://kwondu.github.io/mtr-lftqa-dataset/dataset_visualization/
+    https://kwondu.github.io/mtr-lftqa-dataset-viewer/

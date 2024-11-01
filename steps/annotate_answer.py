@@ -24,6 +24,7 @@ async def annotate_answer_task(
     model_output_list : List[Dict[str, Any]]
     cost              : int
     """
+    ###
     if classification == 'high_header_sim':
         tasks = [
             get_async_openai_response(
@@ -50,10 +51,7 @@ async def annotate_answer_task(
     
     elif classification == 'low_header_sim':
         None
-    
-    else:
-        exit()
-        
+    ###
 
     model_output_list = []
 
@@ -115,6 +113,7 @@ def annotate_answer(
     # Main task
     model_input = []
     for idx, instance in enumerate(high_level_question_set):
+        ###
         if classification == 'high_header_sim':
             gold_table_document_set = []
             for table_id in instance['gold_table_id_set']:
@@ -137,9 +136,7 @@ def annotate_answer(
                             'nl_document_list': tb_doc['nl_document_list']
                         }
                     )
-        
-        else:
-            exit()
+        ###
 
         for jdx, question in enumerate(instance['question_list']):
             model_input.append({

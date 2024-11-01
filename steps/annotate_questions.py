@@ -26,12 +26,14 @@ async def annotate_questions_task(
     model_output_list : List[Dict[str, Any]]
     cost              : int
     """
+    ###
     if classification == 'high_header_sim':
         tasks = [
             get_async_openai_response(
                 semaphore=semaphore,
                 system_prompt=load_prompt(role='system', task='annotate_questions_with_high_header_sim'),
                 user_prompt=load_prompt(role='user', task='annotate_questions_with_high_header_sim').format(
+                    shots=input_data['shots'],
                     gold_table_set_titles="\n".join([
                     table_serialization(
                         table_num=tdx + 1,
@@ -40,10 +42,14 @@ async def annotate_questions_task(
                         cell=None
                     )
                     for tdx, gold_table in enumerate(input_data['gold_table_set'])
-                ]),
-                    statement_pattern_set="\n".join([
-                        f"Statement {ddx + 1}: {statement_pattern}"
-                        for ddx, statement_pattern in enumerate(input_data['statement_pattern_set'])
+                    ]),
+                    overlapping_cell_values="\n".join([
+                        f"Column {col}: {', '.join(cell for cell in cell_values)}"
+                        for col, cell_values in input_data['overlapping_cell_values'].items()
+                    ]),
+                    statement_pattern_set=" ".join([
+                        statement_pattern
+                        for _, statement_pattern in enumerate(input_data['statement_pattern_set'])
                     ])
                 ),
                 model_name=model_name,
@@ -54,9 +60,7 @@ async def annotate_questions_task(
     
     elif classification == 'low_header_sim':
         None
-    
-    else:
-        exit()
+    ###
 
     model_output_list = []
 
@@ -73,11 +77,23 @@ async def annotate_questions_task(
     return sorted(model_output_list, key=lambda x: x['key']), cost
 
 
+def regularize_pattern(pattern, table_metadata_list):
+    regularized_pattern = pattern.replace('{', '').replace('}', '').replace('\"', '')
+    
+    for metadata in table_metadata_list:
+        for title in metadata.split('|'):
+            for word in title.split(' '):
+                regularized_pattern = regularized_pattern.replace(word.strip(), '')
+
+    return regularized_pattern
+
+
 def annotate_questions(
         table_lake: Dict[str, Dict[str, Any]],
         instance_set: List[Dict[str, Any]],
         table_document_set: List[Dict[str, Any]],
         classification: Literal['high_header_sim', 'low_header_sim'],
+        load_shot: object,
         model_name: str,
         semaphore: asyncio.Semaphore
     ) -> Tuple[List[Dict[str, Any]], int, int, int]:
@@ -88,6 +104,7 @@ def annotate_questions(
     instance_set       : List[Dict[str, Any]]
     table_document_set : List[Dict[str, Any]]
     classification     : Literal['high_header_sim', 'low_header_sim']
+    load_shot          : object
     model_name         : str
     semaphore          : asyncio.Semaphore
 
@@ -114,17 +131,31 @@ def annotate_questions(
     for idx, instance in enumerate(instance_set):
         gold_table_set = [table_lake[t_id] for t_id in instance['gold_table_id_set']]
 
+        ###
         if classification == 'high_header_sim':
+            are_cell_values_overlap = defaultdict(set)
+            for table in gold_table_set:
+                for cdx, col in enumerate(table['header']):
+                    for rdx, _ in enumerate(table['cell']):
+                        are_cell_values_overlap[(col.lower().strip(), table['cell'][rdx][cdx])].add(table['id']) # don't modify table cell
+            
+            overlapping_cell_values = defaultdict(list)
+            for (col, cell), table_ids in are_cell_values_overlap.items():
+                if len(table_ids) == len(instance['gold_table_id_set']):
+                    overlapping_cell_values[col].append(cell)
+
             model_input.append({
                 'gold_table_set': gold_table_set,
                 'statement_pattern_set': [
-                    pattern
+                    regularize_pattern(pattern, [tb['metadata'] for tb in gold_table_set])
                     for t_id in instance['gold_table_id_set']
                     for tb_doc in table_document_set
                     if t_id == tb_doc['table_id']
                     for pattern in tb_doc['statement_pattern_set']
                 ],
-                'key': idx
+                'overlapping_cell_values': overlapping_cell_values,
+                'key': idx,
+                'shots': load_shot()
             })
         
         elif classification == 'low_header_sim':
@@ -138,9 +169,7 @@ def annotate_questions(
                 ],
                 'key': idx
             })
-        
-        else:
-            exit()
+        ###
     
     task_output_list, cost = asyncio.run(annotate_questions_task(
         semaphore=semaphore,

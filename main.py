@@ -23,8 +23,6 @@ def main(source_dataset_name, sample_n, classification, logger):
             from get_shots import get_expand_statement_with_high_header_sim_task_shots as get_expand_statement_task_shots
         elif classification == 'low_header_sim':
             from get_shots import get_expand_statement_with_low_header_sim_task_shots as get_expand_statement_task_shots
-        else:
-            exit()
 
         logger.info("> Step 1")
         logger.info(f"[{'Start':<7}]: expand statement.")
@@ -53,6 +51,10 @@ def main(source_dataset_name, sample_n, classification, logger):
     ### STEP 3 ### : Question annotation
     if FLAG[3]:
         from steps.annotate_questions import annotate_questions
+        if classification == 'high_header_sim':
+            from get_shots import get_annotate_questions_with_high_header_sim_task_shots as annotate_questions_task_shots
+        elif classification == 'low_header_sim':
+            from get_shots import get_annotate_questions_with_low_header_sim_task_shots as annotate_questions_task_shots
         with open(f'results/storage/{classification}/table_document_set.json', 'r') as file:
             table_document_set = json.load(file)
     
@@ -63,6 +65,7 @@ def main(source_dataset_name, sample_n, classification, logger):
             instance_set=instance_set,
             table_document_set=table_document_set,
             classification=classification,
+            load_shot=annotate_questions_task_shots,
             model_name=MODEL_NAME,
             semaphore=semaphore
         )
@@ -152,9 +155,7 @@ def main(source_dataset_name, sample_n, classification, logger):
                     {
                         'gold_table_id_set': sorted(instance['gold_table_id_set']),
                         'question': annotation['question'].strip().replace('\n', ' '),
-                        'answer': annotation['answer'].strip().replace('\n', ' '),
-                        'translated_question': "",
-                        'translated_answer': ""
+                        'answer': annotation['answer'].strip().replace('\n', ' ')
                     }
                 )
             else:
@@ -195,7 +196,7 @@ if __name__ == '__main__':
     add_openai_api_key(api_key=api_key)
     """
 
-    FLAG = [None, True, None, False, False, False]
+    FLAG = [None, False, None, False, True, True]
     FILTER_FLAG = False
 
     CLASS = {

@@ -27,6 +27,7 @@ async def expand_statement_task(
     model_output_list : List[Dict[str, Any]]
     cost              : int
     """
+    ###
     if classification == 'high_header_sim':
         tasks = [
             get_async_openai_response(
@@ -75,9 +76,7 @@ async def expand_statement_task(
             )
             for input_data in model_input
         ]
-    
-    else:
-        exit()
+    ###
 
     model_output_list = []
 
@@ -134,6 +133,7 @@ def expand_statement(
         gold_table_set = [table_lake[t_id] for t_id in instance['gold_table_id_set']]
         data_list = instance['data_list']
 
+        ###
         if classification == 'high_header_sim':
             for jdx, data in enumerate(data_list):
                 silver_table = next(tb for tb in gold_table_set if tb['id'] in data['entailed_table_id_set'])
@@ -164,9 +164,7 @@ def expand_statement(
                     'key': (idx, jdx),
                     'shots': load_shot()
                 })
-        
-        else:
-            exit()
+        ###
         
     task_output_list, cost = asyncio.run(expand_statement_task(
         semaphore=semaphore,
@@ -183,6 +181,7 @@ def expand_statement(
     for task_output in tqdm(task_output_list, desc=f"[{'Storage':<7}]"):
         idx, jdx = task_output['key']
 
+        ###
         if classification == 'high_header_sim':
             table_id = next(t_id for t_id in instance_set[idx]['data_list'][jdx]['entailed_table_id_set'])
             table = table_lake[table_id]
@@ -195,11 +194,10 @@ def expand_statement(
             nl_document_list[table_id_set].append(
                 instance_set[idx]['data_list'][jdx]['statement']
             ) # given statement
-        
-        else:
-            exit()
+        ###
 
         try:
+            ###
             if classification == 'high_header_sim':
                 local_vars = {'df': pd.DataFrame(data=table['cell'], columns=table['header'])}
                 code = re.search(r"```python\s+([\s\S]+?)```", task_output['response']).group(1)
@@ -218,13 +216,12 @@ def expand_statement(
                     , globals(),
                     local_vars
                 )
-            
-            else:
-                exit()
+            ###
 
             statement_pattern = local_vars['statement_pattern']
             expanded_statement_list = local_vars['expanded_statement_list']
 
+            ###
             if classification == 'high_header_sim':
                 statement_pattern_set[table_id].append(statement_pattern)
                 nl_document_list[table_id].extend(expanded_statement_list)
@@ -232,9 +229,7 @@ def expand_statement(
             elif classification == 'low_header_sim':
                 statement_pattern_set[table_id_set].append(statement_pattern)
                 nl_document_list[table_id_set].extend(expanded_statement_list)
-            
-            else:
-                exit()
+            ###
             
             success_cnt += 1
         
@@ -247,22 +242,30 @@ def expand_statement(
     # Buffer
     with open(f'buffer/{classification}/expand_statement.json', 'w') as file:
         json.dump(task_output_list, file, indent=4)
+    
+    ###
+    if classification == 'high_header_sim':
+        table_document_set = [
+            {
+                'table_id': table_id,
+                'statement_pattern_set': list(set(statement_pattern_set[table_id])), # remain unique patterns
+                'nl_document_list': list(set(nl_document_list[table_id])) # remain unique statements
+            }
+            for table_id in nl_document_list.keys()
+        ]
 
-    return [
-        {
-            'table_id': table_id,
-            'statement_pattern_set': list(set(statement_pattern_set[table_id])), # remain unique patterns
-            'nl_document_list': list(set(nl_document_list[table_id])) # remain unique statements
-        }
-        for table_id in nl_document_list.keys()
-    ] if classification == 'high_header_sim' else [
-        {
-            'table_id_set': list(table_id_set),
-            'statement_pattern_set': list(set(statement_pattern_set[table_id_set])), # remain unique patterns
-            'nl_document_list': list(set(nl_document_list[table_id_set])) # remain unique statements
-        }
-        for table_id_set in nl_document_list.keys()
-    ] if classification == 'low_header_sim' else None, success_cnt, fail_cnt, cost
+    elif classification == 'low_header_sim':
+        table_document_set = [
+            {
+                'table_id_set': list(table_id_set),
+                'statement_pattern_set': list(set(statement_pattern_set[table_id_set])), # remain unique patterns
+                'nl_document_list': list(set(nl_document_list[table_id_set])) # remain unique statements
+            }
+            for table_id_set in nl_document_list.keys()
+        ]
+    ###
+
+    return table_document_set, success_cnt, fail_cnt, cost
 
 
 if __name__ == 'steps.expand_statement':

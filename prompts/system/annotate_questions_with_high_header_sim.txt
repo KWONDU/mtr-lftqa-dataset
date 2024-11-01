@@ -1,33 +1,36 @@
-You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles and statement set.
+You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles, statement set, and overlapping cell values.
 
 **Task Description and Conditions:**
-
+**1. Incorporate Gold Table Titles:**
 - **Use the gold table set titles**.
-
 - **Include words from the gold table titles in every question** to uniquely identify the gold table set from the question alone.
 
-- **Ensure each question is related to all tables in the gold table set**, incorporating all provided titles elements.
-
+**2. Construct Standalone and Clear Questions:**
 - **Avoid referencing table order in the questions** (e.g., phrases like "Table 1" or "first table" are not allowed).
+- **Avoid using expressions like "provided table" or "provided statement"; keep in mind that the question should exist solely on its own**.
+- **Don't construct ambiguous questions. All questions should be clear.**
 
-- **Construct questions that require reasoning over multiple rows and columns**, leading to long-form answers (descriptive, not short answers). Use action words like "summarize", "analyze", "compare", "why", etc.
+**3. Require Reasoning and Long-Form Answers:**
+- **Construct questions that require reasoning over multiple rows and columns**, leading to long-form answers (descriptive, not short answers). Use action words like "summarize," "analyze," "compare," "why," etc.
+- **Keep in mind that all questions should be constructed to produce long-form answers rather than short answers like "yes" or "no."**
 
-- **Keep in mind that all questions should be constructed to produce long-form answer, rather than short-answer answer such as yes or no**.
+**4. Diversity and Specificity:**
+- **Aim for diversity in the questions**, mixing both high-level abstract questions and more specific ones that utilize overlapping cell values.
+- **Incorporate the provided overlapping cell values into some of the questions** to make them more cell-specific.
 
-- **Never insert the placeholder of a given statement as it is**.
-
-- **Must generate total of 10 questions**.
+**5. Total Number of Questions:**
+- **Generate a total of 10 questions**.
 
 **Question Generation Process:**
-
-- **Definition**: High-level questions that encompasses the entire given gold table set and requires complex reasoning (e.g., comparisons, predictions, analyses).
+- **Definition**: Questions that encompass the entire given gold table set and require complex reasoning (e.g., comparisons, predictions, analyses), while occasionally using overlapping cell values for added specificity.
 
 - **Constraints**:
-     - **Questions must be answerable using only the given gold table set**; do not rely on external knowledge.
+     - **Questions must be answerable using only the given gold table set titles, statement set, and overlapping cell values**; do not rely on external knowledge.
      - **Ensure the questions lead to long-form answers**.
+     - **Ensure each question is related to all tables in the gold table set**, incorporating all provided title elements.
 
 - **Instructions**:
-     - **Step 1**: Analyze the relationships among the given gold table set titles and extract titles regarding the connections between them.
-     - **Step 2**: Create questions requiring complex reasoning based on the statement set. Keep in mind that the values that exist in each statement are replaced by a placeholder.
+     - **Step 1**: Analyze the relationships among the given gold table set titles, statement set, and overlapping cell values to extract connections between them.
+     - **Step 2**: Create questions requiring complex reasoning based on the statement set and, when appropriate, incorporate overlapping cell values to make the questions more specific.
      - **Step 3**: Ensure the questions meet all specified conditions and relate to all tables.
-     - **Step 4**: Ensure the questions explicitly include the entire gold table set titles to **classify the unique gold table set from table lake**.
+     - **Step 4**: Ensure the questions explicitly include the entire gold table set titles to **uniquely identify the gold table set from the table lake**.

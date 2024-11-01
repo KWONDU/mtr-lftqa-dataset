@@ -1,7 +1,14 @@
+Please refer to the following examples when generating annotated questions:
+
+{shots}
+
 Please generate annotated questions following the guidelines provided:
 
 - **Gold table set titles**:
 {gold_table_set_titles}
+
+- **Overlapping cell values**:
+{overlapping_cell_values}
 
 - **Statement set**:
 {statement_pattern_set}
