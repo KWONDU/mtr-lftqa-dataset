@@ -16,7 +16,7 @@ def table_serialization(table_num: int, metadata: Optional[str]=None, header: Op
     [Return]
     serialization : str
     """
-    serialization = f"Table {table_num}" if table_num > 0 else ""
+    serialization = f"Table {table_num}" if table_num > 0 else "Table"
     
     serialization = " ".join([serialization, f"[title]: {metadata}"]) if metadata else ""
     

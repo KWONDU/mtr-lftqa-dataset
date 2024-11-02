@@ -4,10 +4,7 @@ You are a helpful assistant that writes Python code to process a DataFrame and g
 Your task is to write Python code that, given a DataFrame schema, a SQL query, and a statement, extracts a statement pattern and generates expanded statements.
 
 **Input Explanation:**
-- **DataFrame schema**:
-    - **Caption**: The caption of the DataFrame.
-    - **Columns**: The names of the DataFrame columns.
-    - **First row**: The first row of the DataFrame, used to infer data types and data composition.
+- **DataFrame schema**: DataFrame schema consists of DataFrame caption, columns, and first row of DataFrame which used to infer data types and data composition.
 - **SQL query**: The SQL query used to generate the given statement from the given DataFrame.
 - **Statement**: A sentence containing information related to the given DataFrame.
 
@@ -24,8 +21,8 @@ Your task is to write Python code that, given a DataFrame schema, a SQL query, a
             2. Aggregated data over the entire DataFrame, such as counts, sums, or joins of specific column values.
             3. Ordinal expressions like "top-n", "last-n", and "first" elements (e.g., "top three", "last five", "first ten"). In these cases, also replace the corresponding values (e.g., the items listed) with placeholders. When numbers are expressed in words, you can import and use the `num2words` library to handle them.
             4. Comparative and superlative terms like "maximum", "higher", and "smallest". Replace both the comparative terms and the items being compared with placeholders. You can import and use the `itertools` library’s `permutations` or `combinations` methods for this purpose. Limit replacements to words with opposite meanings; for example, if the original statement contains "maximum", when replacing it with a placeholder, only allow words like "maximum" and "minimum" to fill that placeholder, using code like: `for comparative in ['maximum', 'minimum']:`.
-        - Information that *can't* be replaced with placeholders includes:
-            1. Content of the statement located in the DataFrame caption.
+        - Information that *never* be replaced with placeholders includes:
+            1. Content of the statement located in the DataFrame caption; **Never use DataFrame caption as key**.
     - **Replace as much information as possible** with placeholders.
     - **Note**:
         - In the process of creating the statement pattern, you don't need to use the statement exactly as it is. It's acceptable to make slight modifications as long as the provided information remains the same.

@@ -1,187 +1,190 @@
 [
     {
         "gold_table_id_set": [
-            "1fefca754fc21b505ca11ca0f74cf2f6939809cabe9ca144c904cf8c0ff49ae2",
-            "14f82f3917580fecdb098c8c2686460f3bb5ee72365bb0fb234554472d196fc5",
-            "63bc500993d4691b6255fb30dfa6abb8f424e15ef38774f0a4e055a94008d79b"
+            "fd3d211369e79ded9d3cdb51b53095b74a60474773e42e359c25dc1ddbd1a50e",
+            "7f3947d72ef639ec86d8d3069fda533ee679a972982c967d6e7f4cd309632847"
         ],
         "question_list": [
-            "Who was the victorious driver in the 1906 Grand Prix season at the Madonie circuit, and what can be inferred about their performance based on the report provided?",
-            "Compare the winning constructors and drivers in the Targa Florio races across the 1906, 1907, and 1908 Grand Prix seasons, highlighting any notable trends or changes.",
-            "Analyze the differences in the race reports for the Targa Florio events in the 1906, 1907, and 1908 Grand Prix seasons, focusing on the details provided and their implications for the races.",
-            "How did the winning driver in the 1907 Grand Prix season at the Madonie circuit differ from the victorious driver in the 1908 Grand Prix season, and what factors may have contributed to these differences?",
-            "Summarize the key information about the winning constructor and driver in the Targa Florio race of the 1906 Grand Prix season, including details about the circuit and the significance of their victory.",
-            "Compare the race reports for the Targa Florio events in the 1906, 1907, and 1908 Grand Prix seasons, identifying any common themes or variations in the descriptions provided.",
-            "How did the performance of the winning driver in the 1908 Grand Prix season at the Madonie circuit compare to their success in the previous seasons, and what insights can be gained from this comparison?",
-            "Analyze the relationship between the winning constructor and driver in the Targa Florio races across the 1906, 1907, and 1908 Grand Prix seasons, considering any patterns or collaborations that emerge.",
-            "Explore the significance of the circuit location on the outcomes of the Targa Florio races in the 1906, 1907, and 1908 Grand Prix seasons, and discuss any potential advantages or challenges posed by the circuit.",
-            "How did the race reports for the Targa Florio events in the 1906, 1907, and 1908 Grand Prix seasons contribute to the overall narrative of each season, and what role did these reports play in documenting the history of the races?"
+            "How did the New Jersey Devils perform in terms of scores when playing at home versus being the visiting team in February during the 1982-83 and 2007-08 seasons? Provide a detailed analysis of the outcomes for each game.",
+            "Which specific dates in February saw the New Jersey Devils playing against the NY Islanders, Washington, and Buffalo during the 1982-83 and 2007-08 seasons, and what were the corresponding scores for each match?",
+            "Compare the performance of the New Jersey Devils when they were the visiting team against the NY Islanders in February 1982-83 and 2007-08 seasons. Analyze the scores and any notable trends in their gameplay.",
+            "Analyze the differences in scores when the New Jersey Devils played against Washington at home in February during the 1982-83 and 2007-08 seasons. What factors may have contributed to these score variations?",
+            "How did the New Jersey Devils fare in terms of scores when facing Buffalo in February during the 1982-83 and 2007-08 seasons? Provide insights into the outcomes of these matchups and any significant changes over the years.",
+            "Compare the overall performance of the New Jersey Devils in February 1982-83 and 2007-08 seasons based on their scores as the visiting team. Highlight any improvements or declines in their gameplay during this specific period.",
+            "Analyze the impact of specific dates, such as February 6, 9, 15, 20, 24, and 26, on the New Jersey Devils' scores during the 1982-83 and 2007-08 seasons. Identify any patterns or anomalies in their performance on these dates.",
+            "How did the New Jersey Devils' scores vary between wins (1 - 5) and losses (3 - 2) when playing in February during the 1982-83 and 2007-08 seasons? Discuss the significance of these score ranges in determining the team's success.",
+            "Compare the New Jersey Devils' performance in February as the visiting team against the NY Islanders, Washington, and Buffalo in the 1982-83 and 2007-08 seasons. Evaluate any consistent trends or changes in their gameplay against these opponents.",
+            "Analyze the overall scoring trends for the New Jersey Devils when playing at home versus being the visiting team in February during the 1982-83 and 2007-08 seasons. Discuss how their performance in different settings may have influenced their outcomes."
         ]
     },
     {
         "gold_table_id_set": [
-            "47c2309de0075a28caa8c8e9a1b96aec53c481da8217afcd2588aa4cdf19409a",
-            "d8e93af2a61b57eac275127840e89828dc08388b0c0dbf64120ea16e1059cbcd"
+            "fabee8e572f2c1fa96c16911b2a3a050164a2922a78f3d06f17b6d446aa3ef5c",
+            "d9b3852721e9721cbb665f53a02e0e01280a7e5914f7b4b7f9474fa407b1de23",
+            "15152476dc7f40597640ad7b2175619ddff07847cfe3a8aa0971601f2d285b7f",
+            "4e246136e41bfed242ca0d97cc0924a41df5291e124459251f0f279998dda85f"
         ],
         "question_list": [
-            "How did the 1961 New York Yankees season compare to the 1998-99 Houston Rockets season based on their win-loss records of 28-19, 29-19, and 30-19, and what might these records indicate about the performance of each team during those seasons?",
-            "Which opponent did the 1961 New York Yankees have a record of 28-19 against, and how did this compare to the opponent that the 1998-99 Houston Rockets had a record of 28-19 against?",
-            "Summarize the game results, scores, and opponents for the 1961 New York Yankees and the 1998-99 Houston Rockets based on the overlapping cell values of 28-19, 29-19, and 30-19.",
-            "What can be inferred about the competitiveness of the games played by the 1961 New York Yankees and the 1998-99 Houston Rockets based on the overlapping cell values of 28-19, 29-19, and 30-19 in their game logs?",
-            "How did the 1961 New York Yankees and the 1998-99 Houston Rockets perform against the same opponent with a record of 29-19, and what might this reveal about the strengths and weaknesses of each team in those specific matchups?",
-            "Analyze the significance of the game results, scores, and opponents for the 1961 New York Yankees and the 1998-99 Houston Rockets with a record of 30-19, and how might these specific games have impacted the overall performance of each team?",
-            "Compare the win-loss records of the 1961 New York Yankees and the 1998-99 Houston Rockets in the context of their respective seasons, focusing on the games with scores corresponding to the overlapping cell values of 28-19, 29-19, and 30-19.",
-            "How did the 1961 New York Yankees and the 1998-99 Houston Rockets fare against opponents with specific results and scores, as indicated by the overlapping cell values, and what strategies or strengths might have influenced these outcomes?",
-            "Based on the game logs and overlapping cell values, analyze the consistency of performance for the 1961 New York Yankees and the 1998-99 Houston Rockets throughout their seasons, and how did this consistency impact their overall standings?",
-            "What patterns can be observed in the game results, scores, and opponents for the 1961 New York Yankees and the 1998-99 Houston Rockets, particularly in games where the records were 28-19, 29-19, and 30-19, and how might these patterns reflect the teams' strengths and weaknesses during those seasons?"
+            "How did the performance of the Philadelphia Flyers vary in terms of wins, losses, and points across the months of December, January, March, and October during the 2002-03 season? Provide a detailed analysis of the team's game log data for each month.",
+            "Which players were the top goal scorers for the Philadelphia Flyers in the months of December, January, March, and October of the 2002-03 season? Compare their goal-scoring consistency and impact on the team's overall performance.",
+            "What patterns can be observed in the penalty minutes accrued by the Philadelphia Flyers players in the games played in December, January, March, and October of the 2002-03 season? Analyze the potential impact of penalty minutes on the team's gameplay and outcomes.",
+            "How did the Philadelphia Flyers' performance at home games compare to their performance in away games during the months of December, January, March, and October in the 2002-03 season? Discuss any significant differences in their gameplay strategies based on location.",
+            "What were the key factors contributing to the Philadelphia Flyers' success or struggles in the months of December, January, March, and October of the 2002-03 season? Analyze aspects such as player injuries, lineup changes, or opponent strengths that influenced the team's performance.",
+            "How did the Philadelphia Flyers' goal differentials vary in the games played in December, January, March, and October of the 2002-03 season? Discuss the team's offensive and defensive strengths based on these goal differentials.",
+            "Which opponents posed the greatest challenges for the Philadelphia Flyers in the months of December, January, March, and October during the 2002-03 season? Analyze the team's performance against these specific opponents and identify any recurring trends.",
+            "How did the Philadelphia Flyers' power play and penalty kill percentages fluctuate in the games played in December, January, March, and October of the 2002-03 season? Evaluate the team's special teams' effectiveness and its impact on game outcomes.",
+            "What trends can be observed in the Philadelphia Flyers' shot attempts and shooting percentages in the months of December, January, March, and October of the 2002-03 season? Discuss the team's offensive efficiency and scoring capabilities based on these metrics.",
+            "How did the Philadelphia Flyers' standings in the league change throughout the 2002-03 season based on their performance in the months of December, January, March, and October? Analyze the team's overall progression and competitiveness in the league during that season."
         ]
     },
     {
         "gold_table_id_set": [
-            "6de054689c16553838028b4bf7d84872a5f1ee9559c2dfc43d1cfdbe87c3dcb3",
-            "8fb297a0f12e4fc9a28c55820e5dd1fee97505471c2f0bd71d78c077160e2809",
-            "316d80787fea0793311f7e072837dd2e7059bc4cfce26b819af095150199bfab",
-            "a295491b2cdff5c6a167e8bbaa0300382128f461ee2d9d147ca5c08254134894"
+            "d5caca62544b753fc0b0283aaade5b1695007a5a5cb04adf222885fdcf98bd66",
+            "4ba5bdb63a0b3b3a8900ec740de0d9c2ae21199aece099ae7f577e0272fba5f5",
+            "b9aecb26de06b9ce7db2e3ddbd584ab79aaab33f98b94d1593b8379ca12d80a7",
+            "4b6ef8caaed51833e747be37d0dd8105e284f96baa8bf30eb935544db303e4c4"
         ],
         "question_list": [
-            "In the 1977 VFL season, which team was the away team when the home team scored home_team_score in Round 17, and what can be inferred about the match dynamics from this scenario?",
-            "Describe the performance of the away team that scored away_score at venue in Round 18 of the 1977 VFL season, and how did this impact their overall standing in the competition?",
-            "What was the away team's away score in Round 19 of the 1977 VFL season, and how did this performance compare to their previous matches?",
-            "If the away team scores away_team_score points in Round 2 of the 1977 VFL season, which team would be the home team, and what factors might influence the home team's strategy in this situation?",
-            "Identify the home team with the away_team away team that attracted a viewership exceeding crowd_threshold in Round 17 of the 1977 VFL season, and discuss the significance of this viewership milestone.",
-            "What was the away team's score for the away team away_team in Round 18 of the 1977 VFL season, and how did this performance contribute to the team's overall season trajectory?",
-            "How did the performance of the home team in Round 19 of the 1977 VFL season differ when the away team scored away_team_score points, and what implications does this have for the home team's defensive strategies?",
-            "Analyze the relationship between the away team's scores and the home team's performances in Round 2 of the 1977 VFL season, and discuss how these interactions shape the competitive dynamics of the league.",
-            "Considering the away team's away score in Round 17 of the 1977 VFL season, which team was the home team, and how did the home team's defensive capabilities influence the match outcome?",
-            "How did the away team's performance in Round 18 of the 1977 VFL season impact their positioning in the league standings, and what insights can be gained about their offensive strategies from this match?"
+            "How does the total number of Big 12 Conference wrestling titles by team compare between Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia? Provide a detailed analysis of the tournament and regular season performances for each team in wrestling.",
+            "Which team in the Big 12 Conference has the highest average total of tournament titles for women's tennis, surpassing the threshold values in both tournament wins and regular season victories? Explain the significance of this achievement and its impact on the overall standings.",
+            "Compare the tournament titles won by each school in the Big 12 Conference for men's basketball. Analyze the performance of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in terms of tournament victories and regular season success.",
+            "How does the total number of Big 12 Conference baseball titles by school vary among Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia? Provide insights into the tournament and regular season performances of each school in baseball.",
+            "Analyze the performance of teams with a specific number of tournaments in the Big 12 Conference wrestling champions list. Compare the average total achievements of these teams and discuss any trends or patterns that emerge from this analysis.",
+            "Which team in the Big 12 Conference has the highest total count of women's tennis titles by school, exceeding the tournament and regular season thresholds? Explain the significance of this team's success in women's tennis within the conference.",
+            "Discuss the tournament titles won by each team in the Big 12 Conference wrestling champions list. Compare the tournament victories and regular season titles of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in wrestling.",
+            "How does the total number of Big 12 Conference wrestling titles by team compare to the regular season and tournament thresholds set for Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia? Provide a detailed breakdown of each team's performance.",
+            "Analyze the regular season titles received by each team in the Big 12 Conference champions list. Compare the regular season successes of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in their respective sports.",
+            "Compare the tournament titles won by each school in the Big 12 Conference men's basketball champions list. Analyze the tournament victories and regular season achievements of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in men's basketball."
         ]
     },
     {
         "gold_table_id_set": [
-            "7667e95cb31fcedc488e7010d26ce30823d7648d988751fd38e209477025f2f4",
-            "4fe33d6b081c62b8f23fc7c501283558b93559d94e40451cadaec56e9dce2290"
+            "d21307728070dd122653eef28a07917ae4f9e4bd83e790993f9d711baaf0db1b",
+            "75b940f122fcbea7d96c7fa1a062f3fbf683b54e4b182b280cb250411c866e81",
+            "8c9e5519f934a689b37bc2f3609ffc76347f481316b31a1713970a487e2cac01",
+            "c6278d0db3bbaea224258afe029aea856fabcd39f8faf94680147b52a844e609"
         ],
         "question_list": [
-            "Who is the oldest living Test cricketer from South Africa listed in the Lists of oldest cricketers, and when did they make their debut in Test cricket?",
-            "Compare the debut dates of Norman Gordon and Lindsay Tuckett in Test cricket, and analyze how these dates reflect the historical context of cricket during their respective eras.",
-            "Summarize the basic information of the oldest Test cricketers from England, Australia, and West Indies listed in the Lists of oldest cricketers, including their date of birth and last match played.",
-            "Analyze the significance of Norman Gordon's debut in Test cricket on 24 December 1938, considering the historical events surrounding that period in cricket history.",
-            "How does the date of birth of Lindsay Tuckett in the Oldest living Test cricketers list compare to the debut date of Norman Gordon, and what insights can be drawn from this chronological difference?",
-            "Compare the debut dates of the oldest living Test cricketers from India and South Africa listed in the Lists of oldest cricketers, and discuss the potential impact of these players on their respective cricketing nations.",
-            "Provide an analysis of the last match played by Norman Gordon in relation to the debut dates of other Test cricketers in the Oldest Test cricketers list, highlighting any notable trends or patterns.",
-            "How does the debut date of Lindsay Tuckett in Test cricket compare to the last match date of Norman Gordon, and what implications might this have on their respective cricketing careers?",
-            "Discuss the historical significance of the debut dates of the oldest Test cricketers from Australia and West Indies listed in the Oldest Test cricketers table, considering the evolution of cricket during that time.",
-            "Analyze the relationship between the debut dates and last match dates of the oldest living Test cricketers from England and Australia listed in the Oldest living Test cricketers table, and speculate on the factors that may have influenced their longevity in the sport."
+            "Who were the candidates representing the Democratic party in the United States House of Representatives elections for Alabama in 1946, 1950, 1952, and 1956? Provide a detailed summary of their backgrounds and political history.",
+            "Compare the first election years of the incumbents Frank W. Boykin, George M. Grant, George W. Andrews, and Albert Rains in the United States House of Representatives elections for Alabama. How did their political careers evolve over time?",
+            "Analyze the district-wise performance of the candidates in the United States House of Representatives elections for Alabama across the years 1946, 1950, 1952, and 1956. What patterns or trends can be observed in their electoral success?",
+            "Explain the significance of the re-election of the incumbents in the United States House of Representatives elections for Alabama in 1946, 1950, 1952, and 1956. How did their continued presence impact the political landscape of the state?",
+            "Detail the outcomes of the United States House of Representatives elections in Alabama where the incumbents were re-elected. How did these results influence the representation and governance of the state at the federal level?",
+            "Describe the role and impact of candidate Frank W. Boykin in the United States House of Representatives elections for Alabama from 1946 to 1956. How did his contributions shape the political narrative of the state during this period?",
+            "Compare the electoral performance of the Democratic party candidates in the United States House of Representatives elections for Alabama between 1946 and 1956. What factors may have influenced their success or failure in different election years?",
+            "Explore the district-specific details of the United States House of Representatives elections in Alabama, focusing on the candidates and their campaigns in districts 1 to 6. How did the electoral dynamics vary across these districts over the years?",
+            "Investigate the evolution of the political landscape in Alabama based on the United States House of Representatives elections from 1946 to 1956. How did the candidates, parties, and incumbents shape the state's representation in Congress during this period?",
+            "Reflect on the overall impact of the United States House of Representatives elections in Alabama from 1946 to 1956. What insights can be gained about the state's political history, representation, and electoral trends from this decade-long period?"
         ]
     },
     {
         "gold_table_id_set": [
-            "b042acbda51a820ed7b85b2f0c4213f48d99e2af32477098f457009cd03175d2",
-            "71683f3ad4c533993b268ef78921f41382e7dadeb13349bd9eb25c7c42e1d6c3",
-            "3ea0a5b74f1a41824c33f012991b2ddfae60d59816b848e7be27335556bdeab2"
+            "54fff2aeac89a90ee2bcd9c21ea04d527c4721f02ea985102dbde4577ab3b70f",
+            "69280e8ff8c514e902d2ffd16b6f5ceedb47c7509d0468913e257fefdbab8a1b"
         ],
         "question_list": [
-            "In the 1980, 1982, and 1983 PGA Championships, who secured the first and second positions on the final leaderboards, and what were their respective scores and countries of origin?",
-            "How does the total prize money awarded to the top two players in the 1980, 1982, and 1983 PGA Championships compare, and what might this difference indicate about the financial rewards in professional golf during those years?",
-            "Analyze the performance of United States players who achieved first and second place in the 1980, 1982, and 1983 PGA Championships, considering their scores, prize money, and overall dominance in the tournaments.",
-            "What similarities can be observed in the final leaderboard of the 1980, 1982, and 1983 PGA Championships regarding the countries represented in the top two positions, and how does this reflect on the global competitiveness of professional golf during that period?",
-            "Compare the final scores of the players from the United States who secured first and second place in the 1980, 1982, and 1983 PGA Championships, and discuss any trends or improvements in performance over the three years.",
-            "How did the prize money distribution for the top two positions in the 1980, 1982, and 1983 PGA Championships vary, and what factors might have influenced these financial rewards for professional golfers during that time?",
-            "Analyze the consistency of United States players achieving top positions in the 1980, 1982, and 1983 PGA Championships, considering their scores, prize money earnings, and the competitive landscape of professional golf in those years.",
-            "What impact did the performance of United States players have on the overall leaderboard standings in the 1980, 1982, and 1983 PGA Championships, and how did their success contribute to the narrative of American dominance in golf during that era?",
-            "Compare the final leaderboard standings of the 1980, 1982, and 1983 PGA Championships, focusing on the performance of players from the United States in securing the top two positions and the implications of their success on the sport.",
-            "How did the final leaderboard rankings of the 1980, 1982, and 1983 PGA Championships reflect the competitive landscape of professional golf, particularly in terms of the representation of United States players and their performance consistency in these prestigious tournaments?"
+            "Summarize the basic information of the Zune applications and Zune HD applications developed by Dino Games and Babaroga, including the versions, release dates, and genres.",
+            "Compare the release dates and versions of the Zune HD games developed by Dino Games and Babaroga, highlighting any significant differences or similarities.",
+            "Analyze the developer distribution across the List of Zune applications, List of Zune HD applications, and Zune HD games, focusing on the roles of Dino Games and Babaroga in each category.",
+            "Explain the significance of the release dates 2010-12-16, 2009-09-01, and 2011-07-29 in the context of the Zune applications and Zune HD games, considering the evolution of these applications over time.",
+            "Compare the genres of the Zune applications and Zune HD games released on 2010-10-20, 2011-04-01, and 2011-06-23, and discuss how these genres contribute to the overall diversity of applications.",
+            "Analyze the relationship between the versions 1.1, 1.0, and 1.2 in the Zune applications and Zune HD games, exploring any improvements or changes introduced in each version.",
+            "Discuss the impact of the developer Babaroga on the List of Zune applications, List of Zune HD applications, and Zune HD games, considering the variety of applications created by this developer.",
+            "Compare the titles of the Zune applications with the versions 1.1, 1.0, and 1.2, examining how the titles reflect the content or purpose of each application.",
+            "Analyze the developer Dino Games' contributions to the Zune applications and Zune HD games, focusing on the innovation or uniqueness brought by this developer to the application market.",
+            "Explain the significance of the genres associated with the titles in the List of Zune applications, List of Zune HD applications, and Zune HD games, highlighting any patterns or trends in genre preferences across different applications."
         ]
     },
     {
         "gold_table_id_set": [
-            "30ea9cee334b96506fad8ecdd569abdedc0a04e02a2acce398bfa9d29be6ceba",
-            "b1f6cf280a16deeeb4e7be74408afb89c4215e8d6bf68c099ee723f98d51ffe7",
-            "64561c1b68c0051475bb11dbfc6839244013d3cc4902fd1f684b10b8744762b2"
+            "d121517976d589a6bccd2ad564e75bbec69bba4cbdbacec4bda3140c1cd0a0a1",
+            "b57c2190cd8e9038f1b95ee73b2ec3869e4d3a85d64c8d5d1344098f0fe4bf08",
+            "7ba89088428a4cdb90c63cfa0634d4dd1aadf76e9ca2965f8dce3af3a63c9458"
         ],
         "question_list": [
-            "Who were the players from Australia and the United States with the best performance in the third round of the 1989, 1990, and 1991 Open Championships? Provide details about their scores and rankings.",
-            "Compare the To Par scores of the players who achieved a specific score in the third round of the 1989, 1990, and 1991 Open Championships. What can be inferred from these scores?",
-            "Analyze the performance of the top-ranked players from Australia and the United States in the third round of the 1989, 1990, and 1991 Open Championships. How did their scores and rankings vary?",
-            "How did the players from Australia and the United States perform in terms of score and ranking in the third round of the 1989, 1990, and 1991 Open Championships? Discuss any notable trends or differences.",
-            "Summarize the performance of the players who achieved a specific score in the third round of the 1989, 1990, and 1991 Open Championships. How did their scores compare to the overall competition?",
-            "Compare the country-wise performance in the third round of the 1989, 1990, and 1991 Open Championships. What patterns can be observed in the scores and rankings of players from different countries?",
-            "Analyze the performance of the players who scored the same in the third round of the 1989, 1990, and 1991 Open Championships. How did their rankings and To Par values differ?",
-            "How did the players from Australia and the United States fare in the third round of the 1989, 1990, and 1991 Open Championships compared to players from other countries? Discuss any significant disparities.",
-            "Discuss the performance of the players who represented Australia and the United States in the third round of the 1989, 1990, and 1991 Open Championships. How did their scores and rankings reflect their nationalities?",
-            "Compare the scores and rankings of players from Australia and the United States in the third round of the 1989, 1990, and 1991 Open Championships. What insights can be drawn regarding the players' performances based on their nationalities?"
+            "How did the teams Tauro, San Francisco, \u00c1rabe Unido, Plaza Amador, and El Chorrillo perform in the 2005 ANAPROF Apertura and Clausura tournaments, and what were their final standings in each tournament?",
+            "Which team faced relegation in the 2005 ANAPROF Relegation table after conceding goals and losing more than 5 times, and what was their final place in the standings?",
+            "Describe the team that scored points and placed higher than a specific place in the 2005 ANAPROF Relegation table, and explain why they did not have an average goals scored.",
+            "What can be inferred about the team caption in the 2005 ANAPROF tournaments based on having a tie with a specific number of draws and games played?",
+            "Analyze the performance of the teams in the 2005 ANAPROF standings that did not have any draws with points and fewer than a certain number of goals conceded, and discuss the implications of these results.",
+            "Compare the goals scored and lost among the ANAPROF teams in the 2005 tournaments, focusing on instances where goals scored were below a certain threshold and losses exceeded a specific value.",
+            "Investigate the teams in the 2005 ANAPROF tournaments that had the highest number of goals scored while meeting specific criteria related to goals conceded, losses, and draws, and discuss their performance.",
+            "Examine the highest place achieved by a team in the 2005 ANAPROF standings with a draw below a certain limit and a specific goal value, and discuss the significance of this achievement.",
+            "Identify the team that secured the superlative place in the 2005 ANAPROF standings by meeting criteria related to goals scored, goals conceded, and draws, and analyze their performance in that season.",
+            "Discuss the total draw entry for the team caption in the 2005 ANAPROF tournaments, considering their losses, and explain the implications of this draw total in their overall performance."
         ]
     },
     {
         "gold_table_id_set": [
-            "ccf1e0aee4f3f00eaf021680f3d64686a9deb6d8617e16cadca3846ef24f2144",
-            "7aa5126597815985c8e3404e8de105caa0bce648697573a9ccbffc8651633be9"
+            "f3f1d7676eb8373c6c1cf1cca8ef9d26648139a3406322307e68ccb29700b3a4",
+            "f95481ab9b44356d50b9460899dc95e068f53a4057ca5ad92835784706e5b82c"
         ],
         "question_list": [
-            "How do the types of schools differ between the current members of the Great South Athletic Conference with the nicknames Tigers and Lions? Provide an overview of the school types for each nickname.",
-            "Which institution, founded in 1897 and joining in 2002, is located in location_state among the current members of the Great South Athletic Conference with the nickname Tigers?",
-            "How many different dates did the current members of the Great South Athletic Conference from location attend the conference, and what might this indicate about their participation history?",
-            "What is the nickname of the school in location_state among the former members of the Great South Athletic Conference, and how does this school rank within the former members?",
-            "Among the former members of the Great South Athletic Conference, which private/Methodist school with the nickname Lions ranks in location, and what distinguishes this institution?",
-            "How does the school_type vary among the current members of the Great South Athletic Conference with the nickname Lions, and what implications might this have for the conference's diversity?",
-            "What can be inferred about the historical development of the Great South Athletic Conference based on the founding years of the institutions among the former members with the nicknames Tigers and Lions?",
-            "How do the former members of the Great South Athletic Conference differ in terms of the type of schools they represent (Private/Presbyterian, Private/Methodist), and what insights can be drawn from these differences?",
-            "Which institution among the former members of the Great South Athletic Conference has the longest tenure, and how does this longevity impact the conference's overall legacy?",
-            "How does the enrollment size of the former members of the Great South Athletic Conference compare, and what factors might influence the variation in institution size within the conference's history?"
+            "How do the heights of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics compare, and what insights can be drawn from these height differences in terms of team composition and strategy?",
+            "Which players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics had the highest spike measurements, and how might these players' spike abilities have influenced their respective team performances?",
+            "What are the average weights of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics, and how do these weight differences potentially impact the playing styles and positions within each team?",
+            "How do the spike measurements of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics correlate with their respective heights, and what can be inferred about the relationship between height and spiking ability in volleyball?",
+            "Analyze the distribution of player heights among the Women's Volleyball teams from China and Venezuela in Group A at the 2008 Summer Olympics, and discuss how these height distributions may reflect different team strategies or playing tactics.",
+            "Compare the weights of key players in the Women's Volleyball teams from China and Venezuela in Group A at the 2008 Summer Olympics, and evaluate how these weight variations could influence the overall team dynamics and performance on the court.",
+            "How do the spike measurements of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics align with the typical standards for spiking abilities in professional volleyball, and what implications does this have for the competitive edge of each team?",
+            "Summarize the variations in player attributes (height, weight, spike) between the Women's Volleyball teams from China and Venezuela in Group A at the 2008 Summer Olympics, and discuss how these differences contribute to the overall balance and effectiveness of each team.",
+            "Analyze the relationship between player height and spike measurements for the Women's Volleyball teams from China and Venezuela in Group A at the 2008 Summer Olympics, and speculate on how these physical attributes may influence the strategic gameplay and performance outcomes for each team.",
+            "How do the physical attributes (height, weight, spike) of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics reflect the diverse skill sets and playing styles present within each team, and how might these attributes impact the overall competitiveness of the teams in the tournament?"
         ]
     },
     {
         "gold_table_id_set": [
-            "c3bdd201b4d06d26eaa305af74b781ee1b0768e790b45abc40c8450445f987c5",
-            "be673b37b410779d4768c09092157c5c6e98f9f1b946f87e53da84ede1fd8b92"
+            "f3b5c52a3d4f9dcae3900692758a30a8bd1d4454b98eb16c84b8b79d8fb6107b",
+            "3502786ff70484a479d2207c8180b4449ce841212acca3a34db706b271dae06e"
         ],
         "question_list": [
-            "How many studio albums have been released by Disturbed (band) and Skid Row (American band) in total, and what are the titles of these albums?",
-            "Which studio album by Disturbed (band) and Skid Row (American band) received a Gold certification from RIAA, and what might this certification indicate about the popularity and success of these albums?",
-            "What is the average release date for the studio albums of Disturbed (band) and Skid Row (American band), and how does this timeline reflect the evolution of their musical careers over time?",
-            "Which label released the studio albums of Disturbed (band) and Skid Row (American band), and how might the choice of label influence the production and promotion of these albums?",
-            "What was the label that released the studio album with a release year date for Skid Row (American band), and how does this specific label association contribute to the band's overall discography?",
-            "How does the number of Gold-certified studio albums compare between Disturbed (band) and Skid Row (American band), and what insights can be drawn from this comparison regarding the commercial success of the bands?",
-            "What trends can be observed in the release dates of studio albums by Disturbed (band) and Skid Row (American band), and how might these trends reflect changes in musical styles or industry influences over time?",
-            "How does the presence of Gold-certified albums impact the overall discography of Disturbed (band) and Skid Row (American band), and what significance does this certification hold in the context of their musical achievements?",
-            "What similarities and differences can be identified in the labels that released the studio albums of Disturbed (band) and Skid Row (American band), and how might these label choices have shaped the bands' artistic direction and commercial success?",
-            "How does the Gold certification status of specific studio albums by Disturbed (band) and Skid Row (American band) reflect the reception and impact of these albums within the music industry, and what implications does this have for the bands' reputations and legacies?"
+            "In the context of Marta Domachowska and Meghann Shaughnessy's doubles matches, analyze the performance differences between the winners and runners-up in terms of their partnership dynamics, playing styles, and overall success based on the provided statement set and overlapping values.",
+            "How did the outcomes of the doubles matches for Marta Domachowska and Meghann Shaughnessy in tournaments held in Bali, Indonesia, on Hard and Clay surfaces respectively, impact their overall career trajectories and achievements as professional tennis players? Provide a detailed analysis supported by the overlapping values.",
+            "Compare and contrast the partnership strategies and match outcomes of Marta Domachowska and Meghann Shaughnessy in their respective doubles matches where Nadia Petrova was involved as a partner. How did these partnerships influence their performance in tournaments and their standings within the tennis circuit?",
+            "Analyze the significance of the tournament finals played by Marta Domachowska and Meghann Shaughnessy in terms of the locations (Bali, Indonesia), surfaces (Hard and Clay), and the specific opponents they faced. How did these final matches contribute to their overall professional profiles and competitive experiences?",
+            "Explore the impact of the doubles matches' outcomes on Marta Domachowska and Meghann Shaughnessy's rankings and standings within the tennis circuit, considering the specific tournaments, surfaces, and opponents mentioned in the statement set. How did these results shape their careers and competitive reputations?",
+            "Investigate the role of the tournament finals in Bali, Indonesia, on Hard and Clay surfaces for Marta Domachowska and Meghann Shaughnessy in showcasing their skills, adaptability to different playing conditions, and ability to perform under pressure. How did these final matches contribute to their overall doubles match strategies and game plans?",
+            "Examine the partnership dynamics between Marta Domachowska and Meghann Shaughnessy in their doubles matches, focusing on the specific roles of the winners and runners-up, the strategies employed during the matches, and the impact of these partnerships on their overall performance and achievements in professional tennis.",
+            "Evaluate the outcomes of the doubles matches involving Marta Domachowska and Meghann Shaughnessy in relation to the specific tournaments held in Bali, Indonesia, the surfaces they played on (Hard and Clay), and the opponents they faced in the finals. How did these matches contribute to their competitive experiences and skill development?",
+            "Analyze the performance trends of Marta Domachowska and Meghann Shaughnessy in doubles matches based on the outcomes of the specific tournament finals mentioned in the statement set. How did their results in these finals impact their overall success, playing styles, and competitiveness in the professional tennis circuit?",
+            "Reflect on the strategic approaches adopted by Marta Domachowska and Meghann Shaughnessy in their doubles matches, considering the specific tournaments, surfaces, and opponents highlighted in the statement set. How did these strategies contribute to their overall performance, achievements, and competitiveness in the tennis doubles category?"
         ]
     },
     {
         "gold_table_id_set": [
-            "1fbb494a91f071364e63804c19f567f1107f1ea3b3e095ac3d98ba945b2091f5",
-            "d45e1573cee095a190e190432d86f558bdfc103197f706596e2956ac95260e43"
+            "bc82c57fea053fd88c671036e9177cb7a0f7866a0f800237a82a9f0bdccc57fd",
+            "b7a571cf41263cafd6edf743439c7b42f20f1907277c9db8bceff52de7e1ea7d",
+            "a4be2b623c9dae32afaafd69f2eb7879c085cb8d273c4c0a72d9d0f5539bedc1"
         ],
         "question_list": [
-            "How did the managerial changes at Hamburger SV differ between the 2008-09 Bundesliga season and the 2010-11 Bundesliga season, and what impact did these changes have on the team's performance in the league standings?",
-            "Describe the circumstances surrounding Michael Skibbe's departure from Borussia M\u00f6nchengladbach in the 2008-09 Bundesliga season and how his replacement, Bruno Labbadia, influenced the team's position in the table.",
-            "Analyze the managerial changes at FC Schalke 04 during the 2008-09 and 2010-11 Bundesliga seasons, focusing on the reasons for Armin Veh's departure and the outcomes of his replacement.",
-            "Compare the managerial changes at VfB Stuttgart in the 2008-09 and 2010-11 Bundesliga seasons, specifically looking at the manner of departure for Michael Frontzeck and the subsequent impact on the team's league position.",
-            "How did the managerial changes at Borussia M\u00f6nchengladbach in the 2008-09 Bundesliga season differ from those in the 2010-11 season, and what managerial strategies were implemented by Bruno Labbadia to improve the team's performance?",
-            "Analyze the managerial changes at Hamburger SV and FC Schalke 04 in the 2008-09 and 2010-11 Bundesliga seasons, highlighting the similarities and differences in the manner of departure and the subsequent replacements.",
-            "Discuss the impact of the managerial changes at VfB Stuttgart in the 2008-09 Bundesliga season, where the outgoing manager was sacked, and how the replacement, Bruno Labbadia, influenced the team's position in the league table.",
-            "Compare the managerial changes at Borussia M\u00f6nchengladbach and VfB Stuttgart in the 2008-09 Bundesliga season, focusing on the reasons for the departures of Michael Frontzeck and the subsequent replacements, and how these changes affected the teams' performances.",
-            "Analyze the managerial changes at FC Schalke 04 and Borussia M\u00f6nchengladbach in the 2010-11 Bundesliga season, highlighting the reasons for the departures of the outgoing managers and the impact of the replacements on the teams' positions in the league standings.",
-            "How did the managerial changes at Hamburger SV and VfB Stuttgart in the 2010-11 Bundesliga season compare in terms of the manner of departure of the outgoing managers and the performance improvements or setbacks under the new replacements?"
+            "How did the number of games played in March vary between the 1953-54, 1956-57, and 1967-68 New York Rangers seasons, and what impact might this have had on the team's overall performance during this month?",
+            "Summarize the results of the games played by the New York Rangers against the Toronto Maple Leafs, Chicago Black Hawks, and Boston Bruins in March across the 1953-54, 1956-57, and 1967-68 seasons, highlighting any notable trends or outcomes.",
+            "What was the significance of the game played after a specific date and finishing with a score of 4-2 in the March schedules of the 1953-54, 1956-57, and 1967-68 New York Rangers seasons, and how did this result impact the team's standings?",
+            "Compare the earliest and latest game dates in March for the New York Rangers when facing the Boston Bruins during the 1953-54, 1956-57, and 1967-68 seasons, and analyze any potential reasons for the scheduling differences.",
+            "How many games did the Montreal Canadiens play against the New York Rangers in March across the 1953-54, 1956-57, and 1967-68 seasons, and what insights can be gained from examining their matchups during this period?",
+            "Analyze the performance of the New York Rangers against the Detroit Red Wings in March during the 1953-54, 1956-57, and 1967-68 seasons, focusing on any recurring patterns or changes in outcomes over the years.",
+            "What was the total number of games played by the New York Rangers in March across the 1953-54, 1956-57, and 1967-68 seasons, and how did this compare to their overall performance throughout these months?",
+            "Discuss the game numbers 62 to 70 in the March schedules of the 1953-54, 1956-57, and 1967-68 New York Rangers seasons, highlighting any particular games that stood out in terms of results or significance for the team.",
+            "How did the New York Rangers' scores against various opponents, including the Toronto Maple Leafs, Chicago Black Hawks, and Boston Bruins, evolve across the 1953-54, 1956-57, and 1967-68 seasons in March, and what factors may have influenced these changes?",
+            "Compare the performance of the New York Rangers in March based on the number of games played and the scores achieved in the 1953-54, 1956-57, and 1967-68 seasons, and evaluate the team's consistency and success during this period."
         ]
     },
     {
         "gold_table_id_set": [
-            "127cea0fc78f0d54c15496f438cb5680f327a25927166f99fba66bea88ac6914",
-            "6233f804c7decbefe3695b6d5786175e74b2ebb9ede22259142828c0e53a5565"
+            "020bf9bfd7acec5e704d5cd3b1e7b25ab560a35e0b0dedc2b004477a599bece5",
+            "34589da58b27d64753b50050bde0e62adddd589f843e6d4c2a4cb9ccf45febfc"
         ],
         "question_list": [
-            "Which teams did Sheffield Wednesday F.C. face during the 2000-01 season, and what were the outcomes of these matches? Provide details about the venues where these games took place.",
-            "How did the attendance numbers vary for Sheffield Wednesday F.C. home games against Wolverhampton Wanderers and Grimsby Town during the 2000-01 season, and what might have influenced these attendance figures?",
-            "Analyze the performance of Sheffield Wednesday F.C. in away games against Nottingham Forest, Preston North End, and Gillingham during the 2001-02 season. What factors could have contributed to the varying results in these matches?",
-            "Compare the results of the matches between Sheffield Wednesday F.C. and West Bromwich Albion in the 2000-01 and 2001-02 seasons. How did the outcomes reflect the performance of the teams in these encounters?",
-            "How did the attendance numbers for Sheffield Wednesday F.C. games against Portsmouth and Burnley differ in the 2000-01 and 2001-02 seasons, and what factors may have influenced these attendance variations?",
-            "Analyze the performance of Sheffield Wednesday F.C. in matches against Birmingham City and Crystal Palace at home during the 2000-01 season. How did the results impact the team's overall standing in the league?",
-            "Compare the outcomes of the games between Sheffield Wednesday F.C. and Watford in the 2000-01 and 2001-02 seasons. How did the results reflect the teams' strategies and performance during these encounters?",
-            "How did Sheffield Wednesday F.C. fare in matches against Norwich City and Barnsley during the 2000-01 season, considering both home and away games? Analyze the team's performance and the factors influencing the results.",
-            "Analyze the performance of Sheffield Wednesday F.C. in matches against Crewe Alexandra and Stockport County during the 2001-02 season. How did the team's strategies and gameplay contribute to the outcomes of these games?",
-            "Compare the attendance numbers for Sheffield Wednesday F.C. games against Sheffield United in the 2000-01 and 2001-02 seasons. How did the attendance figures reflect the significance of these local rival matches for the fans and the team's morale?"
+            "How did the roles and responsibilities of Greek royal consorts differ between the periods 1863-1924 and since 1862? Provide a detailed comparison of their influence and contributions to the monarchy during these times.",
+            "Who were the notable Greek royal consorts during the periods 1863-1924 and since 1862, and what significant events or actions were associated with their time as consorts?",
+            "How did the public perception of Greek royal consorts change from the historical period of 1863-1924 to the modern era since 1862, and what factors influenced these shifts in perception?",
+            "What were the key challenges faced by Greek royal consorts in maintaining their status and influence within the monarchy during the periods 1863-1924 and since 1862? How did they navigate these challenges?",
+            "Compare the cultural and societal expectations placed on Greek royal consorts during the historical period of 1863-1924 with those in the contemporary period since 1862. How have these expectations evolved over time?",
+            "Analyze the marriages of Greek royal consorts during the periods 1863-1924 and since 1862. How did these marriages impact the monarchy and public perception of the royal family?",
+            "How did the political roles and involvements of Greek royal consorts change from the era of 1863-1924 to the present period since 1862? Discuss the influence of these consorts on political affairs.",
+            "Explore the personal lives and backgrounds of Greek royal consorts from the historical period of 1863-1924 and the contemporary period since 1862. How did their personal experiences shape their roles within the monarchy?",
+            "Discuss the diplomatic engagements and international relations initiatives undertaken by Greek royal consorts during the periods 1863-1924 and since 1862. How did these consorts represent the Greek monarchy on the global stage?",
+            "How have the portrayals of Greek royal consorts in historical records and modern narratives differed between the periods 1863-1924 and since 1862? Analyze the changing perspectives on these consorts over time."
         ]
     }
 ]

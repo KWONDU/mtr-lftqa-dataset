@@ -35,9 +35,9 @@ async def expand_statement_task(
                 system_prompt=load_prompt(role='system', task='expand_statement_with_high_header_sim'),
                 user_prompt=load_prompt(role='user', task='expand_statement_with_high_header_sim').format(
                     shots=input_data['shots'],
-                    df_caption=input_data['df_caption'],
-                    df_columns=" | ".join(input_data['df_columns']),
-                    df_first_row=' | '.join(input_data['df_first_row']),
+                    dataframe_schema=f"DataFrame [caption] {input_data['df_caption']} " + \
+                        f"[columns] {' | '.join(input_data['df_columns'])} " + \
+                        f"[first row] {' | '.join(input_data['df_first_row'])}",
                     sql_query=input_data['sql_query'],
                     statement=input_data['statement']
                 ),
@@ -196,6 +196,8 @@ def expand_statement(
             ) # given statement
         ###
 
+        clear_storage(storage_path=f"buffer/{classification}/expand_statement", extension="txt")
+
         try:
             ###
             if classification == 'high_header_sim':
@@ -234,7 +236,7 @@ def expand_statement(
             success_cnt += 1
         
         except:
-            with open(f'buffer/{classification}/expand_statement_{idx+1}_{jdx+1}_error.txt', 'w') as file:
+            with open(f'buffer/{classification}/expand_statement/{idx+1}_{jdx+1}_error.txt', 'w') as file:
                 file.write(traceback.format_exc())
 
             fail_cnt += 1

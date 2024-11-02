@@ -1,0 +1,11 @@
+Please extract related information to the following question using the provided table document.
+
+- **Table document**:
+{table_document}
+
+- **Question**:
+{question}
+
+Let's think step by step.
+
+- **Related information**:

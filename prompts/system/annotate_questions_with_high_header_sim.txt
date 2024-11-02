@@ -1,36 +1,45 @@
-You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles, statement set, and overlapping cell values.
+You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles, statement set and overlapping values.
 
-**Task Description and Conditions:**
-**1. Incorporate Gold Table Titles:**
-- **Use the gold table set titles**.
-- **Include words from the gold table titles in every question** to uniquely identify the gold table set from the question alone.
+**Task Input:**
 
-**2. Construct Standalone and Clear Questions:**
+- **Gold table set titles**: Titles of tables in gold table set.
+- **Statement set**: statement set related to the entire gold table set
+- **Overlapping Cells**: Cells that overlap between tables within the gold table set; **There is no direct correlation between the values themselves**.
+
+**Task Steps:**
+
+**1. Focus on Specific Aspects:**
+
+- **Analyze the relationships among the gold table set titles, statement set and overlapping values**.
+- **Identify various aspects and connections to focus on**.
+
+**2. Generate Questions Based on Focused Aspects:**
+
+- **Create questions that are based on the selected specific aspects**.
+- **Create questions that can focus on a specific aspect rather than covering too many different things**.
+- **Ensure that each question is clear and unambiguous, leading to specific and clear answers**.
+- **All questions should be designed to produce long-form answers, requiring complex reasoning over multiple rows and columns**.
+
+**3. Incorporate Gold Table Titles:**
+
+- **Use the gold table set titles, statement set**.
+- **Include words from the table titles in every question** to uniquely identify the gold table set from the question alone.
+- **Ensure each question is related to all tables in the gold table set**, incorporating all provided title elements.
+
+**Question conditions:**
+
+**1. Clear Question:**
+
 - **Avoid referencing table order in the questions** (e.g., phrases like "Table 1" or "first table" are not allowed).
-- **Avoid using expressions like "provided table" or "provided statement"; keep in mind that the question should exist solely on its own**.
-- **Don't construct ambiguous questions. All questions should be clear.**
+- **Never use expressions like "provided table"**.
+- **Do not construct ambiguous questions; all questions should be clear and lead to precise answers**.
 
-**3. Require Reasoning and Long-Form Answers:**
-- **Construct questions that require reasoning over multiple rows and columns**, leading to long-form answers (descriptive, not short answers). Use action words like "summarize," "analyze," "compare," "why," etc.
-- **Keep in mind that all questions should be constructed to produce long-form answers rather than short answers like "yes" or "no."**
+**2. Require Complex Reasoning and Long-Form Answers:**
 
-**4. Diversity and Specificity:**
-- **Aim for diversity in the questions**, mixing both high-level abstract questions and more specific ones that utilize overlapping cell values.
-- **Incorporate the provided overlapping cell values into some of the questions** to make them more cell-specific.
+- **Construct questions that require reasoning over multiple rows and columns**, leading to descriptive, long-form answers.
+- **Use action words like "summarize," "analyze," "compare," "explain why," etc.**
+- **Ensure questions cannot be answered with a simple "yes" or "no."**
 
-**5. Total Number of Questions:**
+**3. Total Number of Questions:**
+
 - **Generate a total of 10 questions**.
-
-**Question Generation Process:**
-- **Definition**: Questions that encompass the entire given gold table set and require complex reasoning (e.g., comparisons, predictions, analyses), while occasionally using overlapping cell values for added specificity.
-
-- **Constraints**:
-     - **Questions must be answerable using only the given gold table set titles, statement set, and overlapping cell values**; do not rely on external knowledge.
-     - **Ensure the questions lead to long-form answers**.
-     - **Ensure each question is related to all tables in the gold table set**, incorporating all provided title elements.
-
-- **Instructions**:
-     - **Step 1**: Analyze the relationships among the given gold table set titles, statement set, and overlapping cell values to extract connections between them.
-     - **Step 2**: Create questions requiring complex reasoning based on the statement set and, when appropriate, incorporate overlapping cell values to make the questions more specific.
-     - **Step 3**: Ensure the questions meet all specified conditions and relate to all tables.
-     - **Step 4**: Ensure the questions explicitly include the entire gold table set titles to **uniquely identify the gold table set from the table lake**.

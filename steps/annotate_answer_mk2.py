@@ -29,17 +29,11 @@ async def annotate_answer_task(
         tasks = [
             get_async_openai_response(
                 semaphore=semaphore,
-                system_prompt=load_prompt(role='system', task='annotate_answer_with_high_header_sim'),
-                user_prompt=load_prompt(role='user', task='annotate_answer_with_high_header_sim').format(
-                    gold_table_document_set="\n".join([
-                        table_serialization(
-                            table_num=tdx + 1,
-                            metadata=gold_tb_doc['table']['metadata'],
-                            header=gold_tb_doc['table']['header'],
-                            cell=gold_tb_doc['table']['cell']
-                        )
-                        + f" [document]: {' '.join(gold_tb_doc['nl_document_list'])}"
-                        for tdx, gold_tb_doc in enumerate(input_data['gold_table_document_set'])
+                system_prompt=load_prompt(role='system', task='annotate_answer_mk2_with_high_header_sim'),
+                user_prompt=load_prompt(role='user', task='annotate_answer_mk2_with_high_header_sim').format(
+                    document_set=" ".join([
+                        f"[document {ddx + 1}] {doc}"
+                        for ddx, doc in enumerate(input_data['document_set'])
                     ]),
                     question=input_data['question']
                 ),
@@ -70,8 +64,7 @@ async def annotate_answer_task(
 
 def annotate_answer(
         table_lake: Dict[str, Dict[str, Any]],
-        table_document_set: List[Dict[str, Any]],
-        high_level_question_set: List[Dict[str, Any]],
+        related_information_set: List[Dict[str, Any]],
         classification: Literal['high_header_sim', 'low_header_sim'],
         model_name: str,
         semaphore: asyncio.Semaphore
@@ -80,8 +73,7 @@ def annotate_answer(
 
     [Params]
     table_lake              : Dict[str, Dict[str, Any]]
-    table_document_set      : List[Dict[str, Any]]
-    high_level_question_set : List[Dict[str, Any]]
+    related_information_set : List[Dict[str, Any]]
     classification          : Literal['high_header_sim', 'low_header_sim']
     model_name              : str
     semaphore               : asyncio.Semaphore
@@ -97,53 +89,37 @@ def annotate_answer(
             'gold_table_id_set': instance['gold_table_id_set'],
             'annotation': [
                 {
-                    'question': question,
+                    'question': data['question'],
                     'answer': ""
                 }
-                for question in instance['question_list']
+                for data in instance['annotation']
             ]
         }
-        for instance in high_level_question_set
+        for instance in related_information_set
     ] # Output
 
     for role in ['system', 'user']:
-        task = f'annotate_answer_with_{classification}'
+        task = f'annotate_answer_mk2_with_{classification}'
         save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
 
     # Main task
     model_input = []
-    for idx, instance in enumerate(high_level_question_set):
+    for idx, instance in enumerate(related_information_set):
         ###
         if classification == 'high_header_sim':
-            gold_table_document_set = []
-            for table_id in instance['gold_table_id_set']:
-                for tb_doc in table_document_set:
-                    if tb_doc['table_id'] == table_id:
-                        gold_table_document_set.append(
-                            {
-                                'table': table_lake[table_id],
-                                'nl_document_list': tb_doc['nl_document_list']
-                            }
-                        )
+            for jdx, data in enumerate(instance['annotation']):
+                model_input.append({
+                    'document_set': [
+                        info['information']
+                        for info in data['information_set']
+                    ],
+                    'question': data['question'],
+                    'key': (idx, jdx)
+                })
         
         elif classification == 'low_header_sim':
-            gold_table_document_set = []
-            for tb_doc in table_document_set:
-                if tb_doc['table_id_set'] == instance['gold_table_id_set']:
-                    gold_table_document_set.append(
-                        {
-                            'table_set': [table_lake[t_id] for t_id in instance['gold_table_id_set']],
-                            'nl_document_list': tb_doc['nl_document_list']
-                        }
-                    )
+            None
         ###
-
-        for jdx, question in enumerate(instance['question_list']):
-            model_input.append({
-                'gold_table_document_set': gold_table_document_set,
-                'question': question,
-                'key': (idx, jdx)
-            })
     
     task_output_list, cost = asyncio.run(annotate_answer_task(
         semaphore=semaphore,
@@ -152,13 +128,12 @@ def annotate_answer(
         model_name=model_name
     ))
 
-    clear_storage(storage_path=f"buffer/{classification}/annotate_answer", extension="txt")
+    # clear_storage(storage_path=f"buffer/{classification}/annotate_answer", extension="txt")
 
     # Storage
     success_cnt, fail_cnt = 0, 0
     for task_output in tqdm(task_output_list, desc=f"[{'Storage':<7}]"):
         idx, jdx = task_output['key']
-        question = high_level_question_set[idx]['question_list'][jdx]
 
         try:
             high_level_qa_pair_set[idx]['annotation'][jdx]['answer'] = task_output['response'].strip().replace('\n', ' ')
@@ -166,18 +141,18 @@ def annotate_answer(
             success_cnt += 1
         
         except:
-            with open(f'buffer/{classification}/annotate_answer/{idx+1}_{jdx+1}_error.txt', 'w') as file:
-                file.write(traceback.format_exc())
+            # with open(f'buffer/{classification}/annotate_answer/{idx+1}_{jdx+1}_error.txt', 'w') as file:
+            #     file.write(traceback.format_exc())
 
             fail_cnt += 1
 
     # Buffer
-    with open(f'buffer/{classification}/annotate_answer.json', 'w') as file:
+    with open(f'buffer/{classification}/annotate_answer_mk2.json', 'w') as file:
         json.dump(task_output_list, file, indent=4)
 
     return high_level_qa_pair_set, success_cnt, fail_cnt, cost
 
 
-if __name__ == 'steps.annotate_answer':
-    from utils.display import clear_storage, table_serialization
+if __name__ == 'steps.annotate_answer_mk2':
+    from utils.display import clear_storage
     from utils.openai import get_async_openai_response, load_prompt, save_prompt

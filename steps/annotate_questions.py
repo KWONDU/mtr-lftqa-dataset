@@ -35,22 +35,19 @@ async def annotate_questions_task(
                 user_prompt=load_prompt(role='user', task='annotate_questions_with_high_header_sim').format(
                     shots=input_data['shots'],
                     gold_table_set_titles="\n".join([
-                    table_serialization(
-                        table_num=tdx + 1,
-                        metadata=gold_table['metadata'],
-                        header=None,
-                        cell=None
-                    )
-                    for tdx, gold_table in enumerate(input_data['gold_table_set'])
+                        table_serialization(
+                            table_num=tdx + 1,
+                            metadata=table['metadata'],
+                            header=None,
+                            cell=None
+                        )
+                        for tdx, table in enumerate(input_data['gold_table_set']) 
                     ]),
-                    overlapping_cell_values="\n".join([
-                        f"Column {col}: {', '.join(cell for cell in cell_values)}"
-                        for col, cell_values in input_data['overlapping_cell_values'].items()
-                    ]),
-                    statement_pattern_set=" ".join([
-                        statement_pattern
-                        for _, statement_pattern in enumerate(input_data['statement_pattern_set'])
-                    ])
+                    statement_pattern_set=" ".join(input_data['statement_pattern_set']),
+                    overlapping_values=", ".join([
+                        f"{cell['value']} about {cell['col']}"
+                        for cdx, cell in enumerate(input_data['overlapping_cells'])
+                    ]) + "."
                 ),
                 model_name=model_name,
                 key=input_data['key']
@@ -79,12 +76,24 @@ async def annotate_questions_task(
 
 def regularize_pattern(pattern, table_metadata_list):
     regularized_pattern = pattern.replace('{', '').replace('}', '').replace('\"', '')
-    
-    for metadata in table_metadata_list:
-        for title in metadata.split('|'):
-            for word in title.split(' '):
-                regularized_pattern = regularized_pattern.replace(word.strip(), '')
 
+    table1_titles = table_metadata_list[0].split('|')
+    table2_titles = table_metadata_list[1].split('|')
+
+    flag = -1
+    for idx, (title1, title2) in enumerate(zip(table1_titles, table2_titles)):
+        if title1 != title2:
+            flag = idx
+            break # page | section | table
+    
+    if flag == -1:
+        return regularized_pattern
+    
+    for table_metadata in table_metadata_list:
+        title = table_metadata.split('|')[flag].strip()
+        for word in title.split(' '):
+            regularized_pattern = regularized_pattern.replace(word.strip(), "\{gold_table_set_titles\}")
+    
     return regularized_pattern
 
 
@@ -133,27 +142,29 @@ def annotate_questions(
 
         ###
         if classification == 'high_header_sim':
-            are_cell_values_overlap = defaultdict(set)
+            are_cells_overlap = defaultdict(set)
             for table in gold_table_set:
                 for cdx, col in enumerate(table['header']):
                     for rdx, _ in enumerate(table['cell']):
-                        are_cell_values_overlap[(col.lower().strip(), table['cell'][rdx][cdx])].add(table['id']) # don't modify table cell
-            
-            overlapping_cell_values = defaultdict(list)
-            for (col, cell), table_ids in are_cell_values_overlap.items():
-                if len(table_ids) == len(instance['gold_table_id_set']):
-                    overlapping_cell_values[col].append(cell)
+                        are_cells_overlap[(col.lower().strip(), table['cell'][rdx][cdx])].add(table['id']) # don't modify table cell
 
             model_input.append({
                 'gold_table_set': gold_table_set,
                 'statement_pattern_set': [
                     regularize_pattern(pattern, [tb['metadata'] for tb in gold_table_set])
-                    for t_id in instance['gold_table_id_set']
                     for tb_doc in table_document_set
+                    for t_id in instance['gold_table_id_set']
                     if t_id == tb_doc['table_id']
                     for pattern in tb_doc['statement_pattern_set']
                 ],
-                'overlapping_cell_values': overlapping_cell_values,
+                'overlapping_cells': [
+                    {
+                        'col': col,
+                        'value': value
+                    }
+                    for (col, value), table_ids in are_cells_overlap.items()
+                    if len(table_ids) == len(instance['gold_table_id_set'])
+                ],
                 'key': idx,
                 'shots': load_shot()
             })
@@ -178,8 +189,7 @@ def annotate_questions(
         model_name=model_name
     ))
 
-    # Clear
-    clear_storage(storage_path=f'buffer/{classification}/annotate_questions', extension='txt')
+    clear_storage(storage_path=f"buffer/{classification}/annotate_questions", extension="txt")
 
     # Storage
     success_cnt, fail_cnt = 0, 0
@@ -197,7 +207,7 @@ def annotate_questions(
             success_cnt += 1
         
         except:
-            with open(f'buffer/{classification}/annotate_questions_{idx+1}_error.txt', 'w') as file:
+            with open(f'buffer/{classification}/annotate_questions/{idx+1}_error.txt', 'w') as file:
                 file.write(traceback.format_exc())
 
             fail_cnt += 1

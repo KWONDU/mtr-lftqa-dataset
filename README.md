@@ -133,8 +133,8 @@
         -d {source_dataset_name, SourceOpenWikiTable or SourceSpiderTableQA}
         -n {number_of_sampled_data}
 
-    python3 translate_dataset.py \
-        -d {source_dataset_name, SourceOpenWikiTable or SourceSpiderTableQA} # translate QA pair
+    python3 postprocess_dataset.py \
+        -d {source_dataset_name, SourceOpenWikiTable or SourceSpiderTableQA}
 
 ## 4. Visualize dataset
 

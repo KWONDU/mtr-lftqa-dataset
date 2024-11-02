@@ -5,9 +5,7 @@ Please refer to the following examples when writing your Python function:
 Please write the Python function following the guidelines provided:
 
 - **DataFrame schema**:
-    - **Caption**: {df_caption}
-    - **Columns**: {df_columns}
-    - **First row**: {df_first_row}
+{dataframe_schema}
 
 - **SQL query**:
 {sql_query}

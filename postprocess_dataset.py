@@ -32,6 +32,7 @@ def translate_text(text: str, translator: Translator, src: str='en', dest: str='
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-d', type=str, required=True, choices=['SourceOpenWikiTable', 'SourceSpiderTableQA'], help='dataset name')
+    parser.add_argument('-t', type=str, default='T', choices=['T', 'F'], help='translate process')
 
     args, _ = parser.parse_known_args()
 
@@ -48,12 +49,15 @@ if __name__ == '__main__':
     with open(f'results/{classification}_dataset.json', 'r') as file:
         dataset = json.load(file)
     
-    translated_dataset = []
-    for data in tqdm(dataset):
-        translated_data = data.copy()
-        translated_data['translated_question'] = translate_text(text=data['question'], translator=translator)
-        translated_data['translated_answer'] = translate_text(text=data['answer'], translator=translator)
-        translated_dataset.append(translated_data)
+    if args.t == 'T':
+        translated_dataset = []
+        for data in tqdm(dataset, desc="[Translate]"):
+            translated_data = data.copy()
+            translated_data['translated_question'] = translate_text(text=data['question'], translator=translator)
+            translated_data['translated_answer'] = translate_text(text=data['answer'], translator=translator)
+            translated_dataset.append(translated_data)
+    elif args.t == 'F':
+        translated_dataset = dataset
 
     # 2. View dataset
     """

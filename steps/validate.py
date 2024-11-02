@@ -134,8 +134,7 @@ def validate(
         model_name=model_name
     ))
 
-    # Clear
-    clear_storage(storage_path=f'buffer/{classification}/validate', extension='txt')
+    clear_storage(storage_path=f"buffer/{classification}/validate", extension="txt")
 
     # Storage
     success_cnt, fail_cnt = 0, 0
@@ -157,7 +156,7 @@ def validate(
             success_cnt += 1
         
         except:
-            with open(f'buffer/{classification}/validate_{idx+1}_{jdx+1}_{task_type}_error.txt', 'w') as file:
+            with open(f'buffer/{classification}/validate/{idx+1}_{jdx+1}_{task_type}_error.txt', 'w') as file:
                 file.write(traceback.format_exc())
 
             fail_cnt += 1
