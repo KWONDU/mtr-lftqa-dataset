@@ -44,9 +44,10 @@ async def annotate_questions_task(
                         for tdx, table in enumerate(input_data['gold_table_set']) 
                     ]),
                     statement_pattern_set=" ".join(input_data['statement_pattern_set']),
+                    table_headers="Table headers are " + ", ".join(input_data['table_headers']) + ".",
                     overlapping_values=", ".join([
                         f"{cell['value']} about {cell['col']}"
-                        for cdx, cell in enumerate(input_data['overlapping_cells'])
+                        for cell in input_data['overlapping_cells']
                     ]) + "."
                 ),
                 model_name=model_name,
@@ -142,6 +143,11 @@ def annotate_questions(
 
         ###
         if classification == 'high_header_sim':
+            are_headers_overlap = defaultdict(int)
+            for table in gold_table_set:
+                for col in table['header']:
+                    are_headers_overlap[col] += 1
+
             are_cells_overlap = defaultdict(set)
             for table in gold_table_set:
                 for cdx, col in enumerate(table['header']):
@@ -156,6 +162,11 @@ def annotate_questions(
                     for t_id in instance['gold_table_id_set']
                     if t_id == tb_doc['table_id']
                     for pattern in tb_doc['statement_pattern_set']
+                ],
+                'table_headers': [
+                    header
+                    for header, overlap_cnt in are_headers_overlap.items()
+                    if overlap_cnt == len(instance['gold_table_id_set'])
                 ],
                 'overlapping_cells': [
                     {

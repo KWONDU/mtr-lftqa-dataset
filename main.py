@@ -44,7 +44,7 @@ def main(source_dataset_name, sample_n, classification, logger):
     from steps.regularize import regularize_source_dataset
     source_dataset = regularize_source_dataset(source_dataset=load_source_dataset(dataset_name=source_dataset_name))
 
-    random.seed(42)
+    random.seed(4242)
     table_lake = {tb['id']: tb for tb in source_dataset.tables}
     instance_set = random.sample(source_dataset[:], sample_n)
     semaphore = asyncio.Semaphore(100)
@@ -112,63 +112,43 @@ def main(source_dataset_name, sample_n, classification, logger):
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
     ### STEP 3 ###
 
-    """
-    from steps.extract_information import extract_information
-    with open(f'results/storage/{classification}/table_document_set.json', 'r') as file:
-        table_document_set = json.load(file)
-    
-    with open(f'results/storage/{classification}/high_level_question_set.json', 'r') as file:
-        high_level_question_set = json.load(file)
-    
-    related_information_set, success_cnt, fail_cnt, cost = extract_information(
-        table_lake=table_lake,
-        table_document_set=table_document_set,
-        high_level_question_set=high_level_question_set,
-        classification=classification,
-        model_name=MODEL_NAME,
-        semaphore=semaphore
-    )
-
-    with open(f'results/storage/{classification}/related_information_set.json', 'w') as file:
-        json.dump(related_information_set, file, indent=4)
-    
-    print(cost)
-    print(success_cnt, fail_cnt)
-    """
-
-    from steps.annotate_answer_mk2 import annotate_answer
-    with open(f'results/storage/{classification}/related_information_set.json', 'r') as file:
-        related_information_set = json.load(file)
-
-    high_level_qa_pair_set, success_cnt, fail_cnt, cost = annotate_answer(
-        table_lake=table_lake,
-        related_information_set=related_information_set,
-        classification=classification,
-        model_name=MODEL_NAME,
-        semaphore=semaphore
-    )
-
-    with open(f'results/storage/{classification}/high_level_qa_pair_set.json', 'w') as file:
-        json.dump(high_level_qa_pair_set, file, indent=4)
-
-    print(cost)
-    print(success_cnt, fail_cnt)
-
-    ### STEP 4 ### : Answer annotation
+    ### STEP 4 ###
     if FLAG[4]:
-        from steps.annotate_answer import annotate_answer
+        from steps.extract_information import extract_information
         with open(f'results/storage/{classification}/table_document_set.json', 'r') as file:
             table_document_set = json.load(file)
-
         with open(f'results/storage/{classification}/high_level_question_set.json', 'r') as file:
             high_level_question_set = json.load(file)
-
+        
         logger.info("> Step 4")
-        logger.info(f"[{'Start':<7}]: annotate answer.")
-        high_level_qa_pair_set, success_cnt, fail_cnt, cost = annotate_answer(
+        logger.info(f"[{'Start':<7}]: extract information.")
+        related_information_set, success_cnt, fail_cnt, cost = extract_information(
             table_lake=table_lake,
             table_document_set=table_document_set,
             high_level_question_set=high_level_question_set,
+            classification=classification,
+            model_name=MODEL_NAME,
+            semaphore=semaphore
+        )
+
+        with open(f'results/storage/{classification}/related_information_set.json', 'w') as file:
+            json.dump(related_information_set, file, indent=4)
+        
+        logger.info(f"[{'Done':<7}]: extract information.")
+        logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
+        logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
+    ### STEP 4 ###
+
+    ### STEP 5 ### : Answer annotation
+    if FLAG[5]:
+        from steps.annotate_answer import annotate_answer
+        with open(f'results/storage/{classification}/related_information_set.json', 'r') as file:
+            related_information_set = json.load(file)
+
+        logger.info("> Step 5")
+        logger.info(f"[{'Start':<7}]: annotate answer.")
+        high_level_qa_pair_set, success_cnt, fail_cnt, cost = annotate_answer(
+            related_information_set=related_information_set,
             classification=classification,
             model_name=MODEL_NAME,
             semaphore=semaphore
@@ -180,15 +160,15 @@ def main(source_dataset_name, sample_n, classification, logger):
         logger.info(f"[{'Done':<7}]: annotate answer.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
-    ### STEP 4 ###
+    ### STEP 5 ###
 
-    ### STEP 5 ### : Validation
+    ### STEP 6 ### : Validation
     if FLAG[5]:
         from steps.validate import validate
         with open(f'results/storage/{classification}/high_level_qa_pair_set.json', 'r') as file:
             high_level_qa_pair_set = json.load(file)
     
-        logger.info("> Step 5")
+        logger.info("> Step 6")
         logger.info(f"[{'Start':<7}]: validate.")
         high_level_qa_pair_set_with_validation, success_cnt, fail_cnt, cost = validate(
             table_lake=table_lake,
@@ -204,7 +184,7 @@ def main(source_dataset_name, sample_n, classification, logger):
         logger.info(f"[{'Done':<7}]: validate.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}")
-    ### STEP 5 ###
+    ### STEP 6 ###
 
     ### Filtering ###
     if not FILTER_FLAG:
@@ -274,7 +254,7 @@ if __name__ == '__main__':
     add_openai_api_key(api_key=api_key)
     """
 
-    FLAG = [None, False, None, False, False, True]
+    FLAG = [None, False, None, False, True, True, True]
     FILTER_FLAG = True
 
     CLASS = {

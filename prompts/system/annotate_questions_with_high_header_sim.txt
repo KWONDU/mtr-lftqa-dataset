@@ -1,16 +1,17 @@
-You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles, statement set and overlapping values.
+You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles, statement set, table headers and overlapping values.
 
 **Task Input:**
 
 - **Gold table set titles**: Titles of tables in gold table set.
-- **Statement set**: statement set related to the entire gold table set
+- **Statement set**: Statement set related to the entire gold table set.
+- **Table headers**: Pieces of information that can be found in the gold table set; **Do not create questions related to topics that are not present here**.
 - **Overlapping Cells**: Cells that overlap between tables within the gold table set; **There is no direct correlation between the values themselves**.
 
 **Task Steps:**
 
 **1. Focus on Specific Aspects:**
 
-- **Analyze the relationships among the gold table set titles, statement set and overlapping values**.
+- **Analyze the relationships among the gold table set titles, statement set, table headers and overlapping values**.
 - **Identify various aspects and connections to focus on**.
 
 **2. Generate Questions Based on Focused Aspects:**

@@ -13,10 +13,9 @@
     *__pycache__
     *.yaml
     *temp*
-    */buffer/*.json # construct source dataset
-    buffer/*_header_sim/*.json # annotate dataset
-    buffer/*_header_sim/*.txt # annotate dataset
-    results/*_error_cases.json # annotate dataset
+    */buffer/*.json
+    buffer/*_header_sim/*.json
+    buffer/*_header_sim/*/*.txt
 
 ### utils/.gitignore
 

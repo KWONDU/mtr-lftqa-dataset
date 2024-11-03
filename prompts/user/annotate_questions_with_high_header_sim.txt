@@ -10,6 +10,9 @@ Please generate annotated questions following the guidelines provided:
 - **Statement set**:
 {statement_pattern_set}
 
+- **Table headers**:
+{table_headers}
+
 - **Overlapping values**:
 {overlapping_values}
 

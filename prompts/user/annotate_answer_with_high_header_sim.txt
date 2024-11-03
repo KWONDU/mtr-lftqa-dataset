@@ -1,7 +1,7 @@
-Please generate a high-level answer to the following question using the provided gold table document set.
+Please generate answer to the following question using the provided document set.
 
-- **Gold table document set**:
-{gold_table_document_set}
+- **Document set**:
+{document_set}
 
 - **Question**:
 {question}

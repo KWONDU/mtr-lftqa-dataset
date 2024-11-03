@@ -1,80 +1,172 @@
 [
     {
         "gold_table_id_set": [
-            "fd3d211369e79ded9d3cdb51b53095b74a60474773e42e359c25dc1ddbd1a50e",
-            "7f3947d72ef639ec86d8d3069fda533ee679a972982c967d6e7f4cd309632847"
+            "9902fd2b7aea9c1a2900c5b8a25325261e4b1a7df212be99f07087e0a1535d11",
+            "c40e9c250953b59bda2d9c69adb6782096fb3f93d4dd3e84e731f429ad833506",
+            "9dbc2fb2edf50688dad74ee3aaf2302364dbf5fc08347a9995c04898a9092f01",
+            "30a3c38942f29e78cf3684a89586e4a749dcea003c6c5b05f2f2a9dfff985425"
         ],
         "question_list": [
-            "How did the New Jersey Devils perform in terms of scores when playing at home versus being the visiting team in February during the 1982-83 and 2007-08 seasons? Provide a detailed analysis of the outcomes for each game.",
-            "Which specific dates in February saw the New Jersey Devils playing against the NY Islanders, Washington, and Buffalo during the 1982-83 and 2007-08 seasons, and what were the corresponding scores for each match?",
-            "Compare the performance of the New Jersey Devils when they were the visiting team against the NY Islanders in February 1982-83 and 2007-08 seasons. Analyze the scores and any notable trends in their gameplay.",
-            "Analyze the differences in scores when the New Jersey Devils played against Washington at home in February during the 1982-83 and 2007-08 seasons. What factors may have contributed to these score variations?",
-            "How did the New Jersey Devils fare in terms of scores when facing Buffalo in February during the 1982-83 and 2007-08 seasons? Provide insights into the outcomes of these matchups and any significant changes over the years.",
-            "Compare the overall performance of the New Jersey Devils in February 1982-83 and 2007-08 seasons based on their scores as the visiting team. Highlight any improvements or declines in their gameplay during this specific period.",
-            "Analyze the impact of specific dates, such as February 6, 9, 15, 20, 24, and 26, on the New Jersey Devils' scores during the 1982-83 and 2007-08 seasons. Identify any patterns or anomalies in their performance on these dates.",
-            "How did the New Jersey Devils' scores vary between wins (1 - 5) and losses (3 - 2) when playing in February during the 1982-83 and 2007-08 seasons? Discuss the significance of these score ranges in determining the team's success.",
-            "Compare the New Jersey Devils' performance in February as the visiting team against the NY Islanders, Washington, and Buffalo in the 1982-83 and 2007-08 seasons. Evaluate any consistent trends or changes in their gameplay against these opponents.",
-            "Analyze the overall scoring trends for the New Jersey Devils when playing at home versus being the visiting team in February during the 1982-83 and 2007-08 seasons. Discuss how their performance in different settings may have influenced their outcomes."
+            "In the 1961 VFL season, which team played as the away team in Round 15, Round 16, Round 17, and Round 18? Provide a summary of their performance in each round, including scores and venues.",
+            "Compare the attendance figures for the games where the home team scored the highest points in Round 15, Round 16, Round 17, and Round 18 of the 1961 VFL season. Analyze any trends or differences in crowd numbers for these high-scoring games.",
+            "Describe the venues where the home team played in Round 15, Round 16, Round 17, and Round 18 of the 1961 VFL season. Discuss any patterns or changes in the locations of these games and their potential impact on team performance.",
+            "Identify the home team that consistently scored the highest points in Round 15, Round 16, Round 17, and Round 18 of the 1961 VFL season. Provide an overview of their scoring performance and discuss any notable achievements or challenges they faced during these rounds.",
+            "Discuss the variations in crowd attendance for the games played in Round 15, Round 16, Round 17, and Round 18 of the 1961 VFL season. Analyze any fluctuations in crowd numbers and explore possible reasons for these changes throughout the rounds.",
+            "How did the away team's performance differ in Round 15, Round 16, Round 17, and Round 18 of the 1961 VFL season? Provide a detailed comparison of their scores, venues, and overall gameplay in these consecutive rounds.",
+            "Analyze the relationship between the home team's scores and the crowd attendance in Round 15, Round 16, Round 17, and Round 18 of the 1961 VFL season. Discuss any correlations or patterns between scoring outcomes and audience turnout during these rounds.",
+            "Compare the venues where the away team competed in Round 15, Round 16, Round 17, and Round 18 of the 1961 VFL season. Discuss any differences in venue characteristics and their potential influence on the away team's gameplay and results.",
+            "How did the crowd attendance fluctuate across Round 15, Round 16, Round 17, and Round 18 of the 1961 VFL season? Provide an overview of attendance numbers in each round and discuss any notable trends or anomalies observed throughout the season.",
+            "Discuss the overall performance trends of the home teams in Round 15, Round 16, Round 17, and Round 18 of the 1961 VFL season. Analyze any consistent patterns or variations in their gameplay, scores, and outcomes across these consecutive rounds."
         ]
     },
     {
         "gold_table_id_set": [
-            "fabee8e572f2c1fa96c16911b2a3a050164a2922a78f3d06f17b6d446aa3ef5c",
-            "d9b3852721e9721cbb665f53a02e0e01280a7e5914f7b4b7f9474fa407b1de23",
-            "15152476dc7f40597640ad7b2175619ddff07847cfe3a8aa0971601f2d285b7f",
-            "4e246136e41bfed242ca0d97cc0924a41df5291e124459251f0f279998dda85f"
+            "333a67ed89afc55c5e7c2ab9838022f714c98813e31b80f6b451f34202810129",
+            "7381ddb4f349cda9e886643eee2a477071f2f9f99d9fdd9e4e633a3301615847",
+            "70b5234cea7ee1666de4a94e99d179d952a980812480d32ade185ea6db5e3650"
         ],
         "question_list": [
-            "How did the performance of the Philadelphia Flyers vary in terms of wins, losses, and points across the months of December, January, March, and October during the 2002-03 season? Provide a detailed analysis of the team's game log data for each month.",
-            "Which players were the top goal scorers for the Philadelphia Flyers in the months of December, January, March, and October of the 2002-03 season? Compare their goal-scoring consistency and impact on the team's overall performance.",
-            "What patterns can be observed in the penalty minutes accrued by the Philadelphia Flyers players in the games played in December, January, March, and October of the 2002-03 season? Analyze the potential impact of penalty minutes on the team's gameplay and outcomes.",
-            "How did the Philadelphia Flyers' performance at home games compare to their performance in away games during the months of December, January, March, and October in the 2002-03 season? Discuss any significant differences in their gameplay strategies based on location.",
-            "What were the key factors contributing to the Philadelphia Flyers' success or struggles in the months of December, January, March, and October of the 2002-03 season? Analyze aspects such as player injuries, lineup changes, or opponent strengths that influenced the team's performance.",
-            "How did the Philadelphia Flyers' goal differentials vary in the games played in December, January, March, and October of the 2002-03 season? Discuss the team's offensive and defensive strengths based on these goal differentials.",
-            "Which opponents posed the greatest challenges for the Philadelphia Flyers in the months of December, January, March, and October during the 2002-03 season? Analyze the team's performance against these specific opponents and identify any recurring trends.",
-            "How did the Philadelphia Flyers' power play and penalty kill percentages fluctuate in the games played in December, January, March, and October of the 2002-03 season? Evaluate the team's special teams' effectiveness and its impact on game outcomes.",
-            "What trends can be observed in the Philadelphia Flyers' shot attempts and shooting percentages in the months of December, January, March, and October of the 2002-03 season? Discuss the team's offensive efficiency and scoring capabilities based on these metrics.",
-            "How did the Philadelphia Flyers' standings in the league change throughout the 2002-03 season based on their performance in the months of December, January, March, and October? Analyze the team's overall progression and competitiveness in the league during that season."
+            "How did the Phoenix Suns' performance in April games differ during the 1992-93, 2005-06, and 2008-09 seasons based on the team's scores, high points, high rebounds, and high assists? Analyze the trends and key differences in their game log data for this month.",
+            "Which players achieved the highest points, rebounds, and assists for the Phoenix Suns in April games across the 1992-93, 2005-06, and 2008-09 seasons? Compare the performance of these key players in the different seasons.",
+            "What were the attendance figures like for the Phoenix Suns' April games in the 1992-93, 2005-06, and 2008-09 seasons, and how did the location of the games impact the attendance numbers? Analyze the relationship between game location and attendance.",
+            "How did the Phoenix Suns' win-loss record in April games vary between the 1992-93, 2005-06, and 2008-09 seasons, and what factors might have contributed to these differences in performance? Provide a detailed analysis of the team's outcomes in this month across the three seasons.",
+            "Compare the overall team performance in April games for the 1992-93, 2005-06, and 2008-09 Phoenix Suns seasons based on the distribution of high points, rebounds, and assists. Identify any consistent patterns or changes in the team's gameplay over these seasons.",
+            "How did the Phoenix Suns' performance at home versus away games in April differ across the 1992-93, 2005-06, and 2008-09 seasons, considering factors like scores, player statistics, and attendance? Analyze the team's home-court advantage and its impact on April games.",
+            "What similarities and differences can be observed in the opponents faced by the Phoenix Suns in April games during the 1992-93, 2005-06, and 2008-09 seasons? Analyze the variety of teams played against and the outcomes of these matchups.",
+            "How did the Phoenix Suns' offensive and defensive strategies evolve in April games from the 1992-93 season to the 2008-09 season, as reflected in the distribution of high points, rebounds, and assists? Discuss any changes in gameplay style over the years.",
+            "Analyze the consistency of player performance for the Phoenix Suns in April games across the 1992-93, 2005-06, and 2008-09 seasons based on high points, rebounds, and assists. Identify any standout players or trends in individual contributions.",
+            "How did the Phoenix Suns' overall ranking in the league standings at the end of each April in the 1992-93, 2005-06, and 2008-09 seasons reflect their performance during that month? Discuss the team's positioning and performance compared to other NBA teams in these specific periods."
         ]
     },
     {
         "gold_table_id_set": [
-            "d5caca62544b753fc0b0283aaade5b1695007a5a5cb04adf222885fdcf98bd66",
-            "4ba5bdb63a0b3b3a8900ec740de0d9c2ae21199aece099ae7f577e0272fba5f5",
-            "b9aecb26de06b9ce7db2e3ddbd584ab79aaab33f98b94d1593b8379ca12d80a7",
-            "4b6ef8caaed51833e747be37d0dd8105e284f96baa8bf30eb935544db303e4c4"
+            "9393ba220d41a6a043b93e893ff03cdf47700f88a6a3692427bd8febf0d8d167",
+            "ff74b10cceb5a88f26a5f8c8fa684c36b869897cc22d3f49b597cf4e9026408c"
         ],
         "question_list": [
-            "How does the total number of Big 12 Conference wrestling titles by team compare between Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia? Provide a detailed analysis of the tournament and regular season performances for each team in wrestling.",
-            "Which team in the Big 12 Conference has the highest average total of tournament titles for women's tennis, surpassing the threshold values in both tournament wins and regular season victories? Explain the significance of this achievement and its impact on the overall standings.",
-            "Compare the tournament titles won by each school in the Big 12 Conference for men's basketball. Analyze the performance of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in terms of tournament victories and regular season success.",
-            "How does the total number of Big 12 Conference baseball titles by school vary among Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia? Provide insights into the tournament and regular season performances of each school in baseball.",
-            "Analyze the performance of teams with a specific number of tournaments in the Big 12 Conference wrestling champions list. Compare the average total achievements of these teams and discuss any trends or patterns that emerge from this analysis.",
-            "Which team in the Big 12 Conference has the highest total count of women's tennis titles by school, exceeding the tournament and regular season thresholds? Explain the significance of this team's success in women's tennis within the conference.",
-            "Discuss the tournament titles won by each team in the Big 12 Conference wrestling champions list. Compare the tournament victories and regular season titles of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in wrestling.",
-            "How does the total number of Big 12 Conference wrestling titles by team compare to the regular season and tournament thresholds set for Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia? Provide a detailed breakdown of each team's performance.",
-            "Analyze the regular season titles received by each team in the Big 12 Conference champions list. Compare the regular season successes of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in their respective sports.",
-            "Compare the tournament titles won by each school in the Big 12 Conference men's basketball champions list. Analyze the tournament victories and regular season achievements of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in men's basketball."
+            "How do the system requirements differ between the free multiplayer online games developed by different developers in the list of free multiplayer online games that are free to play and free and open-source? Provide a detailed comparison based on the required operating systems.",
+            "Analyze the release dates of the 3D multiplayer online games in the list of free multiplayer online games that are free to play and free and open-source. How do these release dates vary across different developers?",
+            "Compare the types of games (2D or 3D) released by each developer in the free multiplayer online games that are free to play and free and open-source. How does the game type vary within and between the two categories?",
+            "How does the choice of operating system (Windows, OS X, Linux) for the free multiplayer online games differ between the free to play and free and open-source categories? Provide insights into the distribution of operating systems for each category.",
+            "Examine the relationship between the release dates and game types (2D or 3D) for the free multiplayer online games developed by a specific developer in both the free to play and free and open-source categories. How does the game type correlate with the release date for this developer?",
+            "Provide an overview of the system requirements (required OS) for the free multiplayer online games released by a developer across both the free to play and free and open-source categories. How do the system requirements vary for this developer's games in each category?",
+            "How do the release dates of the free multiplayer online games in the list of free multiplayer online games that are free to play and free and open-source align with the types of games (2D or 3D) offered? Discuss any patterns or trends observed in the relationship between release dates and game types.",
+            "Compare the distribution of operating systems (Windows, OS X, Linux) required for the free multiplayer online games across different developers in the free to play and free and open-source categories. How do the operating system preferences vary among developers in each category?",
+            "Analyze how the game types (2D or 3D) offered by developers in the free multiplayer online games that are free to play and free and open-source have evolved over time. Discuss any shifts or trends in the types of games released by developers in each category.",
+            "How does the choice of operating system (Windows, OS X, Linux) for the free multiplayer online games vary based on the game type (2D or 3D) in the free to play and free and open-source categories? Provide insights into the intersection between operating systems and game types within each category."
         ]
     },
     {
         "gold_table_id_set": [
-            "d21307728070dd122653eef28a07917ae4f9e4bd83e790993f9d711baaf0db1b",
-            "75b940f122fcbea7d96c7fa1a062f3fbf683b54e4b182b280cb250411c866e81",
-            "8c9e5519f934a689b37bc2f3609ffc76347f481316b31a1713970a487e2cac01",
-            "c6278d0db3bbaea224258afe029aea856fabcd39f8faf94680147b52a844e609"
+            "640782828da4b729fe9477e2f8991a9573c91ea9faf345a8a9c8ca40a721081f",
+            "440eb794546aab075eab235029dba0a14e4e9cab90ff08a0a4083df722e0afcc",
+            "2f03eb9606be5965868a5d955e8e8246a71b32a3eece4ca4df3f1c6a44dca15b"
         ],
         "question_list": [
-            "Who were the candidates representing the Democratic party in the United States House of Representatives elections for Alabama in 1946, 1950, 1952, and 1956? Provide a detailed summary of their backgrounds and political history.",
-            "Compare the first election years of the incumbents Frank W. Boykin, George M. Grant, George W. Andrews, and Albert Rains in the United States House of Representatives elections for Alabama. How did their political careers evolve over time?",
-            "Analyze the district-wise performance of the candidates in the United States House of Representatives elections for Alabama across the years 1946, 1950, 1952, and 1956. What patterns or trends can be observed in their electoral success?",
-            "Explain the significance of the re-election of the incumbents in the United States House of Representatives elections for Alabama in 1946, 1950, 1952, and 1956. How did their continued presence impact the political landscape of the state?",
-            "Detail the outcomes of the United States House of Representatives elections in Alabama where the incumbents were re-elected. How did these results influence the representation and governance of the state at the federal level?",
-            "Describe the role and impact of candidate Frank W. Boykin in the United States House of Representatives elections for Alabama from 1946 to 1956. How did his contributions shape the political narrative of the state during this period?",
-            "Compare the electoral performance of the Democratic party candidates in the United States House of Representatives elections for Alabama between 1946 and 1956. What factors may have influenced their success or failure in different election years?",
-            "Explore the district-specific details of the United States House of Representatives elections in Alabama, focusing on the candidates and their campaigns in districts 1 to 6. How did the electoral dynamics vary across these districts over the years?",
-            "Investigate the evolution of the political landscape in Alabama based on the United States House of Representatives elections from 1946 to 1956. How did the candidates, parties, and incumbents shape the state's representation in Congress during this period?",
-            "Reflect on the overall impact of the United States House of Representatives elections in Alabama from 1946 to 1956. What insights can be gained about the state's political history, representation, and electoral trends from this decade-long period?"
+            "In the context of the NHL All-Star Game broadcasters in the 1960s, 1980s, and 1990s, who were the color commentators when the play-by-play announcers were specified, and what unique insights did they bring to the broadcasts?",
+            "How did the role of the studio host vary across the decades covered in the List of NHL All-Star Game broadcasters tables, specifically in terms of interacting with the play-by-play announcers and color commentators?",
+            "Analyze the evolution of network coverage for the NHL All-Star Game broadcasters from the 1960s to the 1990s, focusing on the changes in play-by-play announcers, color commentators, and studio hosts associated with different networks.",
+            "Compare and contrast the broadcasting teams for the NHL All-Star Game in the 1960s, 1980s, and 1990s, highlighting the key differences in play-by-play styles, color commentary, and studio hosting across these decades.",
+            "Explore the influence of CBC as a network on the NHL All-Star Game broadcasters in the 1990s, considering the specific roles played by play-by-play announcers, color commentators, and studio hosts associated with this network.",
+            "Summarize the contributions of the play-by-play announcers, color commentators, and studio hosts in the List of NHL All-Star Game broadcasters tables across the 1960s, 1980s, and 1990s, emphasizing their unique styles and impact on the viewing experience.",
+            "Investigate the partnerships between play-by-play announcers, color commentators, and studio hosts within the NHL All-Star Game broadcaster rosters of the 1960s, 1980s, and 1990s, highlighting how these collaborations enhanced the broadcast quality.",
+            "Examine the role of studio hosts in anchoring the NHL All-Star Game broadcasts on different networks throughout the 1960s, 1980s, and 1990s, and discuss how their presence influenced the overall presentation of the events.",
+            "Compare the broadcasting dynamics of the NHL All-Star Game in the 1960s, 1980s, and 1990s, focusing on the interactions between play-by-play announcers, color commentators, and studio hosts, and how these interactions shaped the narrative of the games.",
+            "Evaluate the impact of changing broadcasting trends on the NHL All-Star Game coverage over the decades, specifically examining how the roles of play-by-play announcers, color commentators, and studio hosts evolved to meet the demands of viewership and engagement."
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "49e96690558c06c78c27ef161d69a5378d66ad96199d18b5af069e3fa0ac51e6",
+            "4d9809e5076ee24eb132c19b805506913afe5ae0f5f3cca763de096a5f396a40"
+        ],
+        "question_list": [
+            "How has the natural change (per 1000) in the demographics of Qatar and the Maldives evolved from 1975 to 2009? Provide a detailed analysis of the trends observed over this period.",
+            "Compare the crude birth rates (per 1000) in Qatar and the Maldives for the years 2000 to 2009. What factors might contribute to any differences or similarities in these rates between the two countries?",
+            "Analyze the crude death rates (per 1000) in Qatar and the Maldives from 1975 to 2009. How have these rates impacted the overall demographic trends in each country over time?",
+            "Describe the natural change (per 1000) in the demographics of Qatar and the Maldives for the years 2000 to 2009. What implications can be drawn from the differences or similarities in natural change rates between the two countries?",
+            "How does the average population (in thousands) in Qatar and the Maldives vary over the years 1975 to 2009? Discuss any significant fluctuations and potential reasons behind these population changes.",
+            "Compare the demographic trends related to live births in Qatar and the Maldives for the years 2000 to 2009. What insights can be gained from the differences or similarities in the number of live births in these two countries?",
+            "Examine the natural change (per 1000) in the demographics of Qatar and the Maldives for the years 1990 to 2000. How do these rates reflect the overall population dynamics and growth patterns in each country during this period?",
+            "Discuss the crude death rates (per 1000) in Qatar and the Maldives from 1980 to 1990. How might the variations in these death rates impact the demographic structures and age distributions in the two countries?",
+            "Analyze the natural change (per 1000) in the demographics of Qatar and the Maldives for the years 1980 to 1990. What implications can be drawn from the changes in natural change rates during this specific decade?",
+            "Compare the crude birth rates (per 1000) in Qatar and the Maldives for the years 1980 to 1990. How do these rates contribute to the understanding of fertility patterns and reproductive health in each country during that period?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "99065fce0a33f31d4cceb1adb7b5be5104dd5a66d72a60e197b5a2c6e0ef9149",
+            "2713c4aaa12814b39b60308f4ac80e8b8d240060a543d2f848e1afeacd9b2efa"
+        ],
+        "question_list": [
+            "How does the average rank by average score compare between Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8)? Provide a detailed analysis of the ranking differences based on the provided data.",
+            "Which couple achieved the highest total points in Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8)? Compare their performances and discuss any notable trends in scoring.",
+            "Analyze the number of dances performed by couples in Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8). How does the frequency of performances impact the overall competition, and what insights can be drawn from this data?",
+            "Compare the average scores of couples from Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8). Identify any significant differences in performance levels and discuss the potential factors influencing these variations.",
+            "Which couple had the highest average score in Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8)? Evaluate their consistency and performance quality based on the provided average score data.",
+            "Discuss the distribution of rankings by average score for couples in Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8). Identify any patterns or outliers in the ranking system and explain their significance.",
+            "How does the placement of couples differ between Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8)? Analyze the variations in placements and discuss the potential impact on the overall competition dynamics.",
+            "Explore the relationship between the number of dances performed and the total points accumulated by couples in Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8). How does dance frequency correlate with scoring outcomes?",
+            "Compare the performance consistency of couples in Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8) based on their average scores. Discuss any trends or deviations in performance levels over the seasons.",
+            "Analyze the variations in the number of dances performed by couples in Dancing with the Stars (U.S. season 7) and Dancing with the Stars (U.S. season 8). How does the diversity in dance routines impact the overall competition experience for both participants and viewers?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "331c1857329d02889ae7c86ff5bc525d95984bef39edf94a53d79731a5f5d274",
+            "beda3086db180c9220114bbe400888023d7be8037f41776f470a075fa4124440",
+            "fd60f5f7cf03591c9dfaa872134b7b8e628ac56da525050cd4986e2a68d7425a"
+        ],
+        "question_list": [
+            "How do the number of caps and goals scored by players from Australia compare across Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC in the Internationally Capped Players tables? Provide a detailed analysis of the players' performances in each team.",
+            "Which player had the highest number of caps among all Internationally Capped Players tables for Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC, and how did their goal-scoring record reflect their experience and performance on the field?",
+            "Compare the years of activity for players with over 200 caps in the Internationally Capped Players tables for Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC. What trends can be observed regarding the longevity of these players' careers?",
+            "Analyze the relationship between the number of goals scored and the country of origin for players in the Internationally Capped Players tables of Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC. How does the performance of players from different countries vary within each team?",
+            "How does the distribution of caps among players in the Internationally Capped Players tables of Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC reflect the team's focus on experienced or emerging talent? Provide insights into the team's strategy based on this distribution.",
+            "Compare the goal-scoring efficiency (goals per cap) of players in the Internationally Capped Players tables for Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC. What can this efficiency metric reveal about the attacking prowess of players in each team?",
+            "Identify the player who had the highest goal-scoring rate (goals per year) in the Internationally Capped Players tables of Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC. How does this player's performance stand out in terms of consistency and impact?",
+            "Examine the overlap in player performance for those who have scored goals for more than one team within the Internationally Capped Players tables of Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC. What insights can be gained from players who have showcased their skills across multiple teams?",
+            "Investigate the correlation between the number of caps and the years of activity for players in the Internationally Capped Players tables of Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC. How does the duration of a player's career align with their international playing opportunities?",
+            "How does the distribution of players from Australia in terms of caps and goals differ among Adelaide United FC, Central Coast Mariners FC, and Perth Glory FC in the Internationally Capped Players tables? What factors may contribute to these variations in player representation and performance?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "8b1ab313a3e3363cf98608155ce253ae592805123145bd135e945739d7972077",
+            "559eebd58eefa2089207f89dedfcbaa7497cb71a2992de8a0856b540efcdcc2e",
+            "c4932e7bb43bbe13f8dd9ef1b7675bfc007dee383502308f990fa76c961d8704",
+            "7021b04fd5eba708d61414b6b7f1c8e9d1c08bcf056be8e4adfea5a11e0c2d27",
+            "2b77e3c2adc84df7f3b5bc9d7d386e2311d0e1dcfb8e1e29b73abd4421a80abb"
+        ],
+        "question_list": [
+            "How does the average number of appearances for Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev compare across their club careers in the Premier League in Kazakhstan? What insights can be drawn from these comparisons regarding their consistency and contribution to their respective teams?",
+            "Which team had the highest level of play in the Premier League in Kazakhstan since 2006 among Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev? How did the level of play impact the performance and success of each player within their teams?",
+            "Compare the club career statistics of Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev in terms of the number of appearances and levels achieved in the Premier League in Kazakhstan. How do these statistics reflect the players' consistency and progression over the seasons?",
+            "Analyze the variations in the number of appearances for Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev across different seasons in the Premier League in Kazakhstan. What factors may have influenced the fluctuations in their participation levels over time?",
+            "How does the country of origin impact the club career statistics of Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev in the Premier League in Kazakhstan? Discuss any trends or differences in performance based on the players' nationalities.",
+            "Compare the league performances of Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev in the Premier League in Kazakhstan. How do their individual contributions reflect on the overall success of their respective teams?",
+            "Investigate the relationship between the level of play and the number of appearances for Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev in the Premier League in Kazakhstan. How does the players' skill level correlate with their consistency in participating in matches?",
+            "Examine the club career statistics of Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev in the Premier League in Kazakhstan to identify any patterns in their performance over the years. How have their roles and contributions evolved within their teams?",
+            "Compare the league levels achieved by Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev in the Premier League in Kazakhstan. Discuss how the players' skill progression and development may have influenced their team dynamics and success.",
+            "Analyze the variations in the number of appearances for Ali Aliyev, Maksat Baizhanov, Maksim Zhalmagambetov, Sabyrkhan Ibraev, and Zhambyl Kukeyev in the Premier League in Kazakhstan. How do these differences in playing time reflect on the players' impact on their teams and overall performance?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "6cfba462ae67bf89c48b092dfca21be2722023274d795b76ddbc7b540ef38ed7",
+            "975b405990e15d9de14a00f02903dd7ed19b8251c268faa5caa3ac7c4f6c8d5b"
+        ],
+        "question_list": [
+            "In the tables of Antonio Zugarelli and C\u00e1ssio Motta's doubles matches, who were the partners with the most wins, and against which opponents did they achieve these victories? Provide a detailed summary of their performance in the doubles matches.",
+            "Compare the outcomes of the doubles matches for Antonio Zugarelli and C\u00e1ssio Motta. How do the number of runner-up and winner titles differ between the two players, and what does this suggest about their overall performance in championships?",
+            "Analyze the matches played on Carpet and Clay surfaces in the doubles events for Antonio Zugarelli and C\u00e1ssio Motta. How did their performance vary on these surfaces, and what strategies might they have employed based on the surface type?",
+            "Summarize the key details of the doubles matches in which Brussels, Belgium was the location of the championship for both Antonio Zugarelli and C\u00e1ssio Motta. What were the outcomes of these matches, and how did the players perform in these specific tournaments?",
+            "Explore the partnerships in the doubles matches for Antonio Zugarelli and C\u00e1ssio Motta. How did the choice of partners impact their overall performance, and what can be inferred about the compatibility and success of these pairings?",
+            "Investigate the performance of Antonio Zugarelli and C\u00e1ssio Motta in doubles matches over time. How did the outcomes of their matches evolve, and what factors may have contributed to any changes in their success rates?",
+            "Examine the results of the doubles matches in which the same opponents appeared in the final against both Antonio Zugarelli and C\u00e1ssio Motta. How did the players fare against these specific opponents, and what strategies or strengths did they demonstrate in these matchups?",
+            "Compare the championship outcomes for Antonio Zugarelli and C\u00e1ssio Motta. How did the number of titles won in different championships vary between the two players, and what insights can be gained from this comparison?",
+            "Analyze the impact of the date of matches on the performance of Antonio Zugarelli and C\u00e1ssio Motta in doubles events. Were there any trends or patterns in their results based on the timing of the matches, and what external factors may have influenced their performances on specific dates?",
+            "Evaluate the overall success of Antonio Zugarelli and C\u00e1ssio Motta in doubles matches based on the surface types they played on. How did their performances on Carpet and Clay surfaces contribute to their achievements, and what playing styles or skills were advantageous on each surface for the players?"
         ]
     },
     {
@@ -83,108 +175,16 @@
             "69280e8ff8c514e902d2ffd16b6f5ceedb47c7509d0468913e257fefdbab8a1b"
         ],
         "question_list": [
-            "Summarize the basic information of the Zune applications and Zune HD applications developed by Dino Games and Babaroga, including the versions, release dates, and genres.",
-            "Compare the release dates and versions of the Zune HD games developed by Dino Games and Babaroga, highlighting any significant differences or similarities.",
-            "Analyze the developer distribution across the List of Zune applications, List of Zune HD applications, and Zune HD games, focusing on the roles of Dino Games and Babaroga in each category.",
-            "Explain the significance of the release dates 2010-12-16, 2009-09-01, and 2011-07-29 in the context of the Zune applications and Zune HD games, considering the evolution of these applications over time.",
-            "Compare the genres of the Zune applications and Zune HD games released on 2010-10-20, 2011-04-01, and 2011-06-23, and discuss how these genres contribute to the overall diversity of applications.",
-            "Analyze the relationship between the versions 1.1, 1.0, and 1.2 in the Zune applications and Zune HD games, exploring any improvements or changes introduced in each version.",
-            "Discuss the impact of the developer Babaroga on the List of Zune applications, List of Zune HD applications, and Zune HD games, considering the variety of applications created by this developer.",
-            "Compare the titles of the Zune applications with the versions 1.1, 1.0, and 1.2, examining how the titles reflect the content or purpose of each application.",
-            "Analyze the developer Dino Games' contributions to the Zune applications and Zune HD games, focusing on the innovation or uniqueness brought by this developer to the application market.",
-            "Explain the significance of the genres associated with the titles in the List of Zune applications, List of Zune HD applications, and Zune HD games, highlighting any patterns or trends in genre preferences across different applications."
-        ]
-    },
-    {
-        "gold_table_id_set": [
-            "d121517976d589a6bccd2ad564e75bbec69bba4cbdbacec4bda3140c1cd0a0a1",
-            "b57c2190cd8e9038f1b95ee73b2ec3869e4d3a85d64c8d5d1344098f0fe4bf08",
-            "7ba89088428a4cdb90c63cfa0634d4dd1aadf76e9ca2965f8dce3af3a63c9458"
-        ],
-        "question_list": [
-            "How did the teams Tauro, San Francisco, \u00c1rabe Unido, Plaza Amador, and El Chorrillo perform in the 2005 ANAPROF Apertura and Clausura tournaments, and what were their final standings in each tournament?",
-            "Which team faced relegation in the 2005 ANAPROF Relegation table after conceding goals and losing more than 5 times, and what was their final place in the standings?",
-            "Describe the team that scored points and placed higher than a specific place in the 2005 ANAPROF Relegation table, and explain why they did not have an average goals scored.",
-            "What can be inferred about the team caption in the 2005 ANAPROF tournaments based on having a tie with a specific number of draws and games played?",
-            "Analyze the performance of the teams in the 2005 ANAPROF standings that did not have any draws with points and fewer than a certain number of goals conceded, and discuss the implications of these results.",
-            "Compare the goals scored and lost among the ANAPROF teams in the 2005 tournaments, focusing on instances where goals scored were below a certain threshold and losses exceeded a specific value.",
-            "Investigate the teams in the 2005 ANAPROF tournaments that had the highest number of goals scored while meeting specific criteria related to goals conceded, losses, and draws, and discuss their performance.",
-            "Examine the highest place achieved by a team in the 2005 ANAPROF standings with a draw below a certain limit and a specific goal value, and discuss the significance of this achievement.",
-            "Identify the team that secured the superlative place in the 2005 ANAPROF standings by meeting criteria related to goals scored, goals conceded, and draws, and analyze their performance in that season.",
-            "Discuss the total draw entry for the team caption in the 2005 ANAPROF tournaments, considering their losses, and explain the implications of this draw total in their overall performance."
-        ]
-    },
-    {
-        "gold_table_id_set": [
-            "f3f1d7676eb8373c6c1cf1cca8ef9d26648139a3406322307e68ccb29700b3a4",
-            "f95481ab9b44356d50b9460899dc95e068f53a4057ca5ad92835784706e5b82c"
-        ],
-        "question_list": [
-            "How do the heights of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics compare, and what insights can be drawn from these height differences in terms of team composition and strategy?",
-            "Which players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics had the highest spike measurements, and how might these players' spike abilities have influenced their respective team performances?",
-            "What are the average weights of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics, and how do these weight differences potentially impact the playing styles and positions within each team?",
-            "How do the spike measurements of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics correlate with their respective heights, and what can be inferred about the relationship between height and spiking ability in volleyball?",
-            "Analyze the distribution of player heights among the Women's Volleyball teams from China and Venezuela in Group A at the 2008 Summer Olympics, and discuss how these height distributions may reflect different team strategies or playing tactics.",
-            "Compare the weights of key players in the Women's Volleyball teams from China and Venezuela in Group A at the 2008 Summer Olympics, and evaluate how these weight variations could influence the overall team dynamics and performance on the court.",
-            "How do the spike measurements of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics align with the typical standards for spiking abilities in professional volleyball, and what implications does this have for the competitive edge of each team?",
-            "Summarize the variations in player attributes (height, weight, spike) between the Women's Volleyball teams from China and Venezuela in Group A at the 2008 Summer Olympics, and discuss how these differences contribute to the overall balance and effectiveness of each team.",
-            "Analyze the relationship between player height and spike measurements for the Women's Volleyball teams from China and Venezuela in Group A at the 2008 Summer Olympics, and speculate on how these physical attributes may influence the strategic gameplay and performance outcomes for each team.",
-            "How do the physical attributes (height, weight, spike) of players from China and Venezuela in Group A of the Women's Volleyball teams at the 2008 Summer Olympics reflect the diverse skill sets and playing styles present within each team, and how might these attributes impact the overall competitiveness of the teams in the tournament?"
-        ]
-    },
-    {
-        "gold_table_id_set": [
-            "f3b5c52a3d4f9dcae3900692758a30a8bd1d4454b98eb16c84b8b79d8fb6107b",
-            "3502786ff70484a479d2207c8180b4449ce841212acca3a34db706b271dae06e"
-        ],
-        "question_list": [
-            "In the context of Marta Domachowska and Meghann Shaughnessy's doubles matches, analyze the performance differences between the winners and runners-up in terms of their partnership dynamics, playing styles, and overall success based on the provided statement set and overlapping values.",
-            "How did the outcomes of the doubles matches for Marta Domachowska and Meghann Shaughnessy in tournaments held in Bali, Indonesia, on Hard and Clay surfaces respectively, impact their overall career trajectories and achievements as professional tennis players? Provide a detailed analysis supported by the overlapping values.",
-            "Compare and contrast the partnership strategies and match outcomes of Marta Domachowska and Meghann Shaughnessy in their respective doubles matches where Nadia Petrova was involved as a partner. How did these partnerships influence their performance in tournaments and their standings within the tennis circuit?",
-            "Analyze the significance of the tournament finals played by Marta Domachowska and Meghann Shaughnessy in terms of the locations (Bali, Indonesia), surfaces (Hard and Clay), and the specific opponents they faced. How did these final matches contribute to their overall professional profiles and competitive experiences?",
-            "Explore the impact of the doubles matches' outcomes on Marta Domachowska and Meghann Shaughnessy's rankings and standings within the tennis circuit, considering the specific tournaments, surfaces, and opponents mentioned in the statement set. How did these results shape their careers and competitive reputations?",
-            "Investigate the role of the tournament finals in Bali, Indonesia, on Hard and Clay surfaces for Marta Domachowska and Meghann Shaughnessy in showcasing their skills, adaptability to different playing conditions, and ability to perform under pressure. How did these final matches contribute to their overall doubles match strategies and game plans?",
-            "Examine the partnership dynamics between Marta Domachowska and Meghann Shaughnessy in their doubles matches, focusing on the specific roles of the winners and runners-up, the strategies employed during the matches, and the impact of these partnerships on their overall performance and achievements in professional tennis.",
-            "Evaluate the outcomes of the doubles matches involving Marta Domachowska and Meghann Shaughnessy in relation to the specific tournaments held in Bali, Indonesia, the surfaces they played on (Hard and Clay), and the opponents they faced in the finals. How did these matches contribute to their competitive experiences and skill development?",
-            "Analyze the performance trends of Marta Domachowska and Meghann Shaughnessy in doubles matches based on the outcomes of the specific tournament finals mentioned in the statement set. How did their results in these finals impact their overall success, playing styles, and competitiveness in the professional tennis circuit?",
-            "Reflect on the strategic approaches adopted by Marta Domachowska and Meghann Shaughnessy in their doubles matches, considering the specific tournaments, surfaces, and opponents highlighted in the statement set. How did these strategies contribute to their overall performance, achievements, and competitiveness in the tennis doubles category?"
-        ]
-    },
-    {
-        "gold_table_id_set": [
-            "bc82c57fea053fd88c671036e9177cb7a0f7866a0f800237a82a9f0bdccc57fd",
-            "b7a571cf41263cafd6edf743439c7b42f20f1907277c9db8bceff52de7e1ea7d",
-            "a4be2b623c9dae32afaafd69f2eb7879c085cb8d273c4c0a72d9d0f5539bedc1"
-        ],
-        "question_list": [
-            "How did the number of games played in March vary between the 1953-54, 1956-57, and 1967-68 New York Rangers seasons, and what impact might this have had on the team's overall performance during this month?",
-            "Summarize the results of the games played by the New York Rangers against the Toronto Maple Leafs, Chicago Black Hawks, and Boston Bruins in March across the 1953-54, 1956-57, and 1967-68 seasons, highlighting any notable trends or outcomes.",
-            "What was the significance of the game played after a specific date and finishing with a score of 4-2 in the March schedules of the 1953-54, 1956-57, and 1967-68 New York Rangers seasons, and how did this result impact the team's standings?",
-            "Compare the earliest and latest game dates in March for the New York Rangers when facing the Boston Bruins during the 1953-54, 1956-57, and 1967-68 seasons, and analyze any potential reasons for the scheduling differences.",
-            "How many games did the Montreal Canadiens play against the New York Rangers in March across the 1953-54, 1956-57, and 1967-68 seasons, and what insights can be gained from examining their matchups during this period?",
-            "Analyze the performance of the New York Rangers against the Detroit Red Wings in March during the 1953-54, 1956-57, and 1967-68 seasons, focusing on any recurring patterns or changes in outcomes over the years.",
-            "What was the total number of games played by the New York Rangers in March across the 1953-54, 1956-57, and 1967-68 seasons, and how did this compare to their overall performance throughout these months?",
-            "Discuss the game numbers 62 to 70 in the March schedules of the 1953-54, 1956-57, and 1967-68 New York Rangers seasons, highlighting any particular games that stood out in terms of results or significance for the team.",
-            "How did the New York Rangers' scores against various opponents, including the Toronto Maple Leafs, Chicago Black Hawks, and Boston Bruins, evolve across the 1953-54, 1956-57, and 1967-68 seasons in March, and what factors may have influenced these changes?",
-            "Compare the performance of the New York Rangers in March based on the number of games played and the scores achieved in the 1953-54, 1956-57, and 1967-68 seasons, and evaluate the team's consistency and success during this period."
-        ]
-    },
-    {
-        "gold_table_id_set": [
-            "020bf9bfd7acec5e704d5cd3b1e7b25ab560a35e0b0dedc2b004477a599bece5",
-            "34589da58b27d64753b50050bde0e62adddd589f843e6d4c2a4cb9ccf45febfc"
-        ],
-        "question_list": [
-            "How did the roles and responsibilities of Greek royal consorts differ between the periods 1863-1924 and since 1862? Provide a detailed comparison of their influence and contributions to the monarchy during these times.",
-            "Who were the notable Greek royal consorts during the periods 1863-1924 and since 1862, and what significant events or actions were associated with their time as consorts?",
-            "How did the public perception of Greek royal consorts change from the historical period of 1863-1924 to the modern era since 1862, and what factors influenced these shifts in perception?",
-            "What were the key challenges faced by Greek royal consorts in maintaining their status and influence within the monarchy during the periods 1863-1924 and since 1862? How did they navigate these challenges?",
-            "Compare the cultural and societal expectations placed on Greek royal consorts during the historical period of 1863-1924 with those in the contemporary period since 1862. How have these expectations evolved over time?",
-            "Analyze the marriages of Greek royal consorts during the periods 1863-1924 and since 1862. How did these marriages impact the monarchy and public perception of the royal family?",
-            "How did the political roles and involvements of Greek royal consorts change from the era of 1863-1924 to the present period since 1862? Discuss the influence of these consorts on political affairs.",
-            "Explore the personal lives and backgrounds of Greek royal consorts from the historical period of 1863-1924 and the contemporary period since 1862. How did their personal experiences shape their roles within the monarchy?",
-            "Discuss the diplomatic engagements and international relations initiatives undertaken by Greek royal consorts during the periods 1863-1924 and since 1862. How did these consorts represent the Greek monarchy on the global stage?",
-            "How have the portrayals of Greek royal consorts in historical records and modern narratives differed between the periods 1863-1924 and since 1862? Analyze the changing perspectives on these consorts over time."
+            "Summarize the basic information of the applications developed by Dino Games and Babaroga in the List of Zune applications | List of Zune HD applications | Zune HD applications and List of Zune applications | List of Zune HD applications | Zune HD games tables, including details such as the release date, version, and title.",
+            "Which Zune application in the List of Zune applications | List of Zune HD applications | Zune HD applications has the version 1.1, and who is the developer of this application? Provide a summary of the key information related to this application.",
+            "Compare the release dates of the applications developed by Dino Games in the List of Zune applications | List of Zune HD applications | Zune HD applications table with those developed by Babaroga. What insights can be drawn from these release dates?",
+            "Analyze the relationship between the developer and title of the applications released on 2010-12-16, 2009-09-01, and 2011-07-29 in the List of Zune applications | List of Zune HD applications | Zune HD applications table. What patterns or differences can be observed?",
+            "Describe the version of the Zune application titled \"titles\" developed by Dino Games in the List of Zune applications | List of Zune HD applications | Zune HD applications table. How does this version compare to other applications in the same table?",
+            "Provide a detailed overview of the developer for the Zune application with the release date 2010-10-20 and the title \"titles\" in the List of Zune applications | List of Zune HD applications | Zune HD applications table. What can be inferred about the developer based on this information?",
+            "Which Zune HD game has the version 1.0, and what is its genre? Summarize the key details of this game from the List of Zune applications | List of Zune HD applications | Zune HD games table.",
+            "Explore the relationship between the developer \"developer\" and the titles of the applications in the List of Zune applications | List of Zune HD applications | Zune HD applications table. How does the developer's name correlate with the titles of the applications?",
+            "Investigate the version of the Zune HD game with the genre \"genre\" and the title \"titles\" in the List of Zune applications | List of Zune HD applications | Zune HD games table. What insights can be gained from understanding this specific version in relation to the game's genre?",
+            "How does the version 1.2 of the Zune application \"titles\" compare to the versions of other applications in the List of Zune applications | List of Zune HD applications | Zune HD applications and List of Zune applications | List of Zune HD applications | Zune HD games tables? Provide a comprehensive analysis of this version in the context of the overall application versions."
         ]
     }
 ]
