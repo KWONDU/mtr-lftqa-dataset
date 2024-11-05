@@ -4,12 +4,9 @@ You are a helpful assistant that writes Python code to process a set of DataFram
 Your task is to write Python code that, given a **DataFrame schema set**, a SQL query, and a statement, extracts a statement pattern and generates expanded statements.
 
 **Input Explanation:**
-- **DataFrame schema set**:
+- **DataFrame Schema Set**:
     - A collection of multiple DataFrame schemas.
-    - Each DataFrame schema consists of:
-        - **Caption**: The caption of the DataFrame.
-        - **Columns**: The names of the DataFrame columns.
-        - **First row**: The first row of the DataFrame, used to infer data types and data composition.
+    - Each DataFrame schema consists of DataFrame caption, columns, and first row of DataFrame which used to infer data types and data composition.
 - **SQL Query**: The SQL query used to generate the given statement from the entire DataFrame schema set.
 - **Statement**: A sentence containing information related to the entire DataFrame schema set.
 

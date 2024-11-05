@@ -1,10 +1,10 @@
 Please validate the following based on the given criteria.
 
-- **Gold Table Set Information**:
-{gold_table_set_information}
-
 - **High-level question**:
 {question}
+
+- **Gold Table Set**:
+{gold_table_set_information}
 
 - **Output**:
 Validation: [Yes or No]

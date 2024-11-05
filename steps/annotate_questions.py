@@ -34,7 +34,7 @@ async def annotate_questions_task(
                 system_prompt=load_prompt(role='system', task='annotate_questions_with_high_header_sim'),
                 user_prompt=load_prompt(role='user', task='annotate_questions_with_high_header_sim').format(
                     shots=input_data['shots'],
-                    gold_table_set_titles="\n".join([
+                    table_title_set="\n".join([
                         table_serialization(
                             table_num=tdx + 1,
                             metadata=table['metadata'],
@@ -43,9 +43,8 @@ async def annotate_questions_task(
                         )
                         for tdx, table in enumerate(input_data['gold_table_set']) 
                     ]),
-                    statement_pattern_set=" ".join(input_data['statement_pattern_set']),
                     table_headers="Table headers are " + ", ".join(input_data['table_headers']) + ".",
-                    overlapping_values=", ".join([
+                    overlapping_cells=", ".join([
                         f"{cell['value']} about {cell['col']}"
                         for cell in input_data['overlapping_cells']
                     ]) + "."
@@ -73,29 +72,6 @@ async def annotate_questions_task(
         )
 
     return sorted(model_output_list, key=lambda x: x['key']), cost
-
-
-def regularize_pattern(pattern, table_metadata_list):
-    regularized_pattern = pattern.replace('{', '').replace('}', '').replace('\"', '')
-
-    table1_titles = table_metadata_list[0].split('|')
-    table2_titles = table_metadata_list[1].split('|')
-
-    flag = -1
-    for idx, (title1, title2) in enumerate(zip(table1_titles, table2_titles)):
-        if title1 != title2:
-            flag = idx
-            break # page | section | table
-    
-    if flag == -1:
-        return regularized_pattern
-    
-    for table_metadata in table_metadata_list:
-        title = table_metadata.split('|')[flag].strip()
-        for word in title.split(' '):
-            regularized_pattern = regularized_pattern.replace(word.strip(), "\{gold_table_set_titles\}")
-    
-    return regularized_pattern
 
 
 def annotate_questions(
@@ -156,13 +132,6 @@ def annotate_questions(
 
             model_input.append({
                 'gold_table_set': gold_table_set,
-                'statement_pattern_set': [
-                    regularize_pattern(pattern, [tb['metadata'] for tb in gold_table_set])
-                    for tb_doc in table_document_set
-                    for t_id in instance['gold_table_id_set']
-                    if t_id == tb_doc['table_id']
-                    for pattern in tb_doc['statement_pattern_set']
-                ],
                 'table_headers': [
                     header
                     for header, overlap_cnt in are_headers_overlap.items()

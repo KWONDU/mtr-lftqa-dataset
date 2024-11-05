@@ -1,9 +1,9 @@
-Please extract related information to the following question using the provided table document.
+Please extract related information to the following query using the provided table document.
 
 - **Table document**:
 {table_document}
 
-- **Question**:
+- **Query**:
 {question}
 
 Let's think step by step.

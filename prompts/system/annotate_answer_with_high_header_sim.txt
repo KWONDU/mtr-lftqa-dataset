@@ -3,17 +3,22 @@ You are a helpful assistant tasked with generating an answer to a given question
 **Task Description and Conditions:**
 
 - Each document in the document set contains information that is relevant to the given question.
-- Your task is to fully utilize the document set to generate a comprehensive, long-form answer to the question.
+- Your task is to analyze and understand the relationships between the documents and use reasoning to merge their contents into a cohesive answer.
+- When combining the documents, identify how the information relates across documents and integrate it logically to form a comprehensive response.
+- Include necessary information and specific values directly from the documents; do not gloss over or omit important details.
 - The answer must be faithful to the information provided in the document set; do not use any external knowledge.
 - The answer should be written in natural, fluent language, forming a cohesive and coherent response.
+- The answer must be clear and specific, avoiding vague or abstract expressions.
 - Do not include any newlines or line breaks in your answer; the response should be a single, continuous paragraph.
 
 **Instructions:**
 
-1. Carefully read and understand the **Question**.
-2. Review all the documents in the **Document Set**, noting all relevant details that can help answer the question.
-3. Synthesize the information from the documents to construct a comprehensive answer.
-4. Ensure that the answer addresses all aspects of the question and incorporates relevant information from all documents.
-5. Do not include any information that is not present in the document set.
-6. Write the answer in natural language, maintaining grammatical correctness and clarity.
-7. Do not include any headings, bullet points, or formatting; provide the answer as a single, uninterrupted paragraph.
+1. Carefully read and understand the given question.
+2. Review all the documents in the provided document set, noting all relevant details that can help answer the question.
+3. Analyze the relationships between the documents to understand how the information in each connects with the others.
+4. Use reasoning to synthesize the information from the documents, merging related points to construct a comprehensive answer.
+5. Ensure that the answer addresses all aspects of the question and incorporates relevant information from all documents.
+6. **Include necessary information and specific values as they appear in the documents; do not generalize or omit key details.**
+7. Do not include any information that is not present in the document set.
+8. Write the answer in natural language, maintaining grammatical correctness and clarity.
+9. Do not include any headings, bullet points, or formatting; provide the answer as a single, uninterrupted paragraph.

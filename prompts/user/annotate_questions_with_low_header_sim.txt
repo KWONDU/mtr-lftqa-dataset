@@ -1,0 +1,13 @@
+Please refer to the following examples when generationg questions:
+
+{shots}
+
+Please generate annotated questions following the guidelines provided:
+
+- **Gold table set titles**:
+{gold_table_set_titles}
+
+- **Statement set**:
+{statement_pattern_set}
+
+- **Output**:

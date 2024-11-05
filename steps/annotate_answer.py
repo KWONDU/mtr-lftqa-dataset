@@ -31,8 +31,8 @@ async def annotate_answer_task(
                 semaphore=semaphore,
                 system_prompt=load_prompt(role='system', task='annotate_answer_with_high_header_sim'),
                 user_prompt=load_prompt(role='user', task='annotate_answer_with_high_header_sim').format(
-                    document_set=" ".join([
-                        f"[document {ddx + 1}] {doc}"
+                    document_set="\n".join([
+                        f"Document {ddx + 1} [title] {doc['title']} [content] {doc['content']}"
                         for ddx, doc in enumerate(input_data['document_set'])
                     ]),
                     question=input_data['question']
@@ -63,6 +63,7 @@ async def annotate_answer_task(
 
 
 def annotate_answer(
+        table_lake: Dict[str, Dict[str, Any]],
         related_information_set: List[Dict[str, Any]],
         classification: Literal['high_header_sim', 'low_header_sim'],
         model_name: str,
@@ -71,6 +72,7 @@ def annotate_answer(
     """Task: annotate answer
 
     [Params]
+    table_lake              : Dict[str, Dict[str, Any]]
     related_information_set : List[Dict[str, Any]]
     classification          : Literal['high_header_sim', 'low_header_sim']
     model_name              : str
@@ -108,7 +110,10 @@ def annotate_answer(
             for jdx, data in enumerate(instance['annotation']):
                 model_input.append({
                     'document_set': [
-                        info['information']
+                        {
+                            'title': table_lake[info['table_id']]['metadata'],
+                            'content': info['information']
+                        }
                         for info in data['information_set']
                     ],
                     'question': data['question'],

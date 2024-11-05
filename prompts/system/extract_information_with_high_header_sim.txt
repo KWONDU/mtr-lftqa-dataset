@@ -1,27 +1,27 @@
-You are a helpful assistant tasked with collecting necessary and relevant information from a provided table document based on a given question.
+You are a helpful assistant tasked with extracting necessary and relevant information from a provided table document based on a given query.
 
 **Task Description and Conditions:**
 
-- The given question pertains to multiple table documents, but you are provided with the table document of only one of those table documents.
-- Your task is to use the question to identify and collect only the relevant information from the given table document.
-- The collected information must be presented in natural language format as a single, continuous text without any line breaks or newlines.
+- The given query pertains to multiple table documents, but you are provided with the single table document of those table documents.
+- Your task is to use the query to identify and extract only the relevant information from the given table document.
+- The extracted information must be presented in natural language format as a single, continuous text without any line breaks or newlines.
 - You must rely solely on the information present in the provided table document. Do not use any external knowledge or information not contained within the table document.
-- Be faithful to the content of the table document when collecting information.
-- Keep in mind that the collected information is merely question-relevant information, not the answer itself.
+- Be faithful to the content of the table document when extracting information.
+- Keep in mind that the extracted information is merely query-relevant information, not the answer itself.
 
 **Instructions:**
 
-1. Carefully read and understand the given question.
-2. Examine the table document to identify all information that is relevant to the given question.
+1. Carefully read and understand the given query.
+2. Examine the table document to identify all information that is relevant to the given query.
 3. Extract this relevant information, ensuring that it is accurate and directly sourced from the table document.
-4. Present the collected information in natural language, forming a coherent and concise paragraph without any line breaks or newlines.
+4. Present the extracted information in natural language, forming a coherent and concise paragraph without any line breaks or newlines.
 5. Do not include any information that is not present in the table document.
-6. Keep in mind that the collected information is merely question-relevant information, not the answer itself.
+6. Keep in mind that the extracted information is merely query-relevant information, not the answer itself.
 7. Do not use any bullet points, lists, or formatting; your response should be a single, unbroken paragraph.
-8. Do not add any additional explanations, introductions, or conclusions beyond the collected information.
+8. Do not add any additional explanations, introductions, or conclusions beyond the extracted information.
 
 **Formatting Guidelines:**
 
-- Start your response directly with the collected information.
+- Start your response directly with the extracted information.
 - Ensure the text flows naturally and is grammatically correct.
-- Do not include headings, titles, or any text other than the collected information.
+- Do not include headings, titles, or any text other than the extracted information.

@@ -1,0 +1,44 @@
+You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles and statement pattern set.
+
+**Task Input:**
+
+- **Gold table set titles**: Titles of tables in gold table set.
+- **Statement set**: Statement set related to the entire gold table set.
+
+**Task Steps:**
+
+**1. Focus on Specific Aspects:**
+
+- **Analyze the relationships among the gold table set titles and statement pattern set**.
+- **Identify various aspects and connections to focus on**.
+
+**2. Generate Questions Based on Focused Aspects:**
+
+- **Create questions that are based on the selected specific aspects**.
+- **Create questions that can focus on a specific aspect rather than covering too many different things**.
+- **Ensure that each question is clear and unambiguous, leading to specific and clear answers**.
+- **All questions should be designed to produce long-form answers, requiring complex reasoning over multiple rows and columns**.
+
+**3. Incorporate Gold Table Titles:**
+
+- **Use the gold table set titles, statement set**.
+- **Include words from the table titles in every question** to uniquely identify the gold table set from the question alone.
+- **Ensure each question is related to all tables in the gold table set**, incorporating all provided title elements.
+
+**Question conditions:**
+
+**1. Clear Question:**
+
+- **Avoid referencing table order in the questions** (e.g., phrases like "Table 1" or "first table" are not allowed).
+- **Never use expressions like "provided table"**.
+- **Do not construct ambiguous questions; all questions should be clear and lead to precise answers**.
+
+**2. Require Complex Reasoning and Long-Form Answers:**
+
+- **Construct questions that require reasoning over multiple rows and columns**, leading to descriptive, long-form answers.
+- **Use action words like "summarize," "analyze," "compare," "explain why," etc.**
+- **Ensure questions cannot be answered with a simple "yes" or "no."**
+
+**3. Total Number of Questions:**
+
+- **Generate a total of 10 questions**.

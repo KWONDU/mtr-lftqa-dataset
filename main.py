@@ -49,6 +49,7 @@ def main(source_dataset_name, sample_n, classification, logger):
     instance_set = random.sample(source_dataset[:], sample_n)
     semaphore = asyncio.Semaphore(100)
     MODEL_NAME = 'gpt-3.5-turbo'
+    total_cost = 0
 
     ### STEP 1 ### : Table document construction
     if FLAG[1]:
@@ -71,6 +72,8 @@ def main(source_dataset_name, sample_n, classification, logger):
 
         with open(f'results/storage/{classification}/table_document_set.json', 'w') as file:
             json.dump(table_document_set, file, indent=4)
+        
+        total_cost += cost
         
         logger.info(f"[{'Done':<7}]: expand statement.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
@@ -107,6 +110,8 @@ def main(source_dataset_name, sample_n, classification, logger):
         with open(f'results/storage/{classification}/high_level_question_set.json', 'w') as file:
             json.dump(high_level_question_set, file, indent=4)
         
+        total_cost += cost
+        
         logger.info(f"[{'Done':<7}]: annotate questions.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
@@ -134,6 +139,8 @@ def main(source_dataset_name, sample_n, classification, logger):
         with open(f'results/storage/{classification}/related_information_set.json', 'w') as file:
             json.dump(related_information_set, file, indent=4)
         
+        total_cost += cost
+        
         logger.info(f"[{'Done':<7}]: extract information.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
@@ -148,6 +155,7 @@ def main(source_dataset_name, sample_n, classification, logger):
         logger.info("> Step 5")
         logger.info(f"[{'Start':<7}]: annotate answer.")
         high_level_qa_pair_set, success_cnt, fail_cnt, cost = annotate_answer(
+            table_lake=table_lake,
             related_information_set=related_information_set,
             classification=classification,
             model_name=MODEL_NAME,
@@ -157,13 +165,15 @@ def main(source_dataset_name, sample_n, classification, logger):
         with open(f'results/storage/{classification}/high_level_qa_pair_set.json', 'w') as file:
             json.dump(high_level_qa_pair_set, file, indent=4)
         
+        total_cost += cost
+        
         logger.info(f"[{'Done':<7}]: annotate answer.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
     ### STEP 5 ###
 
     ### STEP 6 ### : Validation
-    if FLAG[5]:
+    if FLAG[6]:
         from steps.validate import validate
         with open(f'results/storage/{classification}/high_level_qa_pair_set.json', 'r') as file:
             high_level_qa_pair_set = json.load(file)
@@ -180,11 +190,15 @@ def main(source_dataset_name, sample_n, classification, logger):
 
         with open(f'results/storage/{classification}/high_level_qa_pair_set_with_validation.json', 'w') as file:
             json.dump(high_level_qa_pair_set_with_validation, file, indent=4)
+        
+        total_cost += cost
 
         logger.info(f"[{'Done':<7}]: validate.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}")
     ### STEP 6 ###
+
+    logger.info(f"Total cost: {total_cost}")
 
     ### Filtering ###
     if not FILTER_FLAG:
@@ -254,7 +268,7 @@ if __name__ == '__main__':
     add_openai_api_key(api_key=api_key)
     """
 
-    FLAG = [None, False, None, False, True, True, True]
+    FLAG = [None, True, None, True, True, True, True]
     FILTER_FLAG = True
 
     CLASS = {

@@ -55,13 +55,9 @@ async def expand_statement_task(
                 user_prompt=load_prompt(role='user', task='expand_statement_with_low_header_sim').format(
                     shots=input_data['shots'],
                     df_schema_set="\n".join([
-                        "\n".join([
-                            f"\t- **DataFrame {tdx + 1}**:",
-                            f"\t- **Caption**: {df_caption}",
-                            f"\t- **Columns**: {' | '.join(df_columns)}",
-                            f"\t- **First Row**: {' | '.join(df_first_row)}",
-                            ""
-                        ])
+                        f"DataFrame {tdx + 1} [caption] {df_caption}" + \
+                        f"[columns] {' | '.join(df_columns)}" + \
+                        f"[first row] {' | '.join(df_first_row)}"
                         for tdx, (df_caption, df_columns, df_first_row) in enumerate(zip(
                             input_data['df_caption_set'],
                             input_data['df_columns_set'],
@@ -155,6 +151,9 @@ def expand_statement(
         
         elif classification == 'low_header_sim':
             for jdx, data in enumerate(data_list):
+                if len(data['entailed_table_id_set']) == 1:
+                    continue
+
                 model_input.append({
                     'df_caption_set': [tb['metadata'] for tb in gold_table_set],
                     'df_columns_set': [tb['header'] for tb in gold_table_set],

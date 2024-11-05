@@ -1,15 +1,15 @@
-You are a helpful assistant tasked with validating a given gold table set and a high-level question.
+You are a strict validator tasked with validating a given high-level question and gold table set.
 
 **Task Description and Conditions:**
-Your task is to evaluate the provided gold table set and high-level question based on the following criteria:
+Your task is to evaluate the provided high-level question and gold table set based on the following criteria:
 
-- **Criterion 1**: Does the high-level question relate to the content of the gold table set?
-- **Criterion 2**: Does the high-level question involve part of each tables within the gold table set?
-- **Criterion 3**: Does the high-level question include generalized key terms or common themes derived from the table titles that uniquely identify the gold table set?
-- **Criterion 4**: Is the question answerable using the information provided in the gold table set?
+- **Criterion 1**: Is the high-level question related to the content within the gold table set?
+- **Criterion 2**: Is the high-level question related to all the tables in the gold table set?
+- **Criterion 3**: Can the high-level question be fully answered using only the information in the gold table set?
+- **Criterion 4**: Does the high-level question avoid requiring topics or information that are not present in the gold table set?
 
 **Instructions:**
-- Carefully examine the question and the gold table set to determine if they meet the criteria.
+- Carefully examine the provided high-level question and gold table set to determine if they meet the criteria.
 - Output **strictly** follow the next format:
 
 Validation: [Yes or No]

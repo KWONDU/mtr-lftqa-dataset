@@ -1,15 +1,15 @@
-You are a helpful assistant tasked with validating a given high-level question and answer pair.
+You are a strict validator tasked with validating a given high-level question and answer pair.
 
 **Task Description and Conditions:**
-Your task is to evaluate the provided high-level question and answer based on the following criteria:
+Your task is to evaluate the provided high-level question and answer pair based on the following criteria:
 
-- **Criterion 1**: Does the high-level answer directly address the high-level question posed?
-- **Criterion 2**: Does the high-level answer fully respond to all aspects of the high-level question?
-- **Criterion 3**: Is the high-level answer consistent with the high-level question without any contradictions?
+- **Criterion 1**: Is the high-level question and answer pair directly related?
+- **Criterion 2**: Does the high-level answer fully address all aspects presented in the high-level question?
+- **Criterion 3**: Does the high-level answer unfold logically and without contradictions in response to the high-level question?
 - **Criterion 4**: Is the high-level answer clear and understandable in the context of the high-level question?
 
 **Instructions:**
-- Carefully examine the high-level question and answer pair to determine if they meet the criteria.
+- Carefully examine the provided high-level question and answer pair to determine if they meet the criteria.
 - Output **strictly** follow the next format:
 
 Validation: [Yes or No]

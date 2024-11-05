@@ -1,49 +1,128 @@
 [
     {
         "table_id_set": [
-            "73805ca3b7e530e9609a9a281fbeb2e643ba630bd2ef1a458aa58ebc4b35e431",
-            "8374b0414dde97505ade584e0774dbceaebe3db8a44f71f132669cd4ae70d1c4",
-            "f06da14e8a44b078739c187abcdfc5cbb4602e109ad9c6cad6c02ee681a22de8"
+            "e46c1b433291b5f1b27088c8fdabbda0924115dd3562e409f67c7bca60459e20",
+            "efe1dde303598ae8212d695c54954617d5aa4325c370d21c0149d0a9e6790f01"
+        ],
+        "statement_pattern_set": [
+            "The states or counties of the address of the stores with marketing region code {region_code} are {locations}.",
+            "The city where the store named \"{store_name}\" is located is {city_name}."
         ],
         "nl_document_list": [
-            "Product names that are colored 'white' but do not have a unit of measurement \"Handful\" are Peper, Catnip, and Laurel.",
-            "Product names that are colored 'yellow' but do not have a unit of measurement \"Weight - pound,kilo.\" are .",
-            "Product names that are colored 'red' but do not have a unit of measurement \"Weight - pound,kilo.\" are sesame.",
-            "Product names that are colored 'black' but do not have a unit of measurement \"Weight - pound,kilo.\" are .",
-            "Product names that are colored 'blue' but do not have a unit of measurement \"Weight - pound,kilo.\" are cumin, chili, ginger, voluptatem, lotus.",
-            "Product names that are colored 'white' but do not have a unit of measurement \"Weight - pound,kilo.\" are peper.",
-            "Product names that are colored 'green' but do not have a unit of measurement \"Weight - pound,kilo.\" are flax, cinnam."
+            "The city where the store named \"Carmol Photo\" is located is East Aracely.",
+            "The city where the store named \"Rob Dinning\" is located is Macejkovicchester.",
+            "The city where the store named \"Lur Photo\" is located is Feliciaberg.",
+            "The states or counties of the address of the stores with marketing region code \"CA\" are Alaska, Delaware, and Alabama.",
+            "The city where the store named \"Ewi Filming\" is located is Macejkovicchester.",
+            "The city where the store named \"FJA Filming\" is located is New Lonzoville.",
+            "The city where the store named \"Adam Photo\" is located is Jasthaven.",
+            "The states or counties of the address of the stores with marketing region code ES are Florida, SouthCarolina, Delaware.",
+            "The states or counties of the address of the stores with marketing region code IN are Nebraska.",
+            "The states or counties of the address of the stores with marketing region code CN are Florida.",
+            "The city where the store named \"Adan Dinning\" is located is Purdyville.",
+            "The states or counties of the address of the stores with marketing region code CA are Alaska, Delaware, Alabama.",
+            "The city where the store named \"Fred Dinning\" is located is Lindberg.",
+            "The states or counties of the address of the stores with marketing region code RU are Alaska.",
+            "The states or counties of the address of the stores with marketing region code FR are Oklahoma.",
+            "The city where the store named \"FK Filming\" is located is Feliciaberg.",
+            "The city where the store named \"Shery Photo\" is located is Jasthaven."
         ]
     },
     {
         "table_id_set": [
-            "6453340ddf88d6c138ab5db830352b9f5dbd88e6d71730a457299d9757b4cc60",
-            "7394898455a4b15bae1fab26ba4559ccb735bfd734fd0c2bf389462dc70de3f3",
-            "d066861c87b9a19cd92c0c52c384180408c29b73a149019d2632dc1bf202043c"
+            "03098a59c0fa73116c9b4ac2a7e400e7cb7e7a44161c06352d4e71b7b179fd20",
+            "704b70adb7b044805302ce8f139acbc34e168fe20d230f0b37abf175c31feb48",
+            "7b2fd02793cb4529661c9dee5e3b1096bb50ee6d0f86972a1d9d940eac168f44"
+        ],
+        "statement_pattern_set": [],
+        "nl_document_list": [
+            "The names of the stations which serve both \"Ananthapuri Express\" and \"Guruvayur Express\" trains are London Waterloo.",
+            "The train names and station names for each train are London Waterloo - Ananthapuri Express, London Waterloo - Guruvayur Express, London Victoria - Ananthapuri Express, London Bridge - Jayanthi Janatha Express, London Euston - Island Express, London King's Cross - Madurai Fast Passenger, Glasgow Central - Quilon Fast Passenger, Glasgow Central - Island Express, East Croydon - Jayanthi Janatha Express, and East Croydon - Parasuram Express.",
+            "Train names and times in stations in London, in descending order by train time, are Guruvayur Express at 4:49, Guruvayur Express at 22:10, Madurai Fast Passenger at 21:49, Ananthapuri Express at 17:15, Ananthapuri Express at 11:35, Island Express at 11:15, Jayanthi Janatha Express at 10:38, Jayanthi Janatha Express at 06:30, and Parasuram Express at 04:20.",
+            "The names of the trains that do not pass any station located in London are Quilon Fast Passenger and Island Express."
+        ]
+    },
+    {
+        "table_id_set": [
+            "32bfefb1bc18d069389b9e6efd2aed77786b6e71fc0a1b7e02a7e049881c6bf2",
+            "e3027213f1fc1207a96d06d3323c3ff4c464a486d2721ebd6898dd0befa69008",
+            "ecbac12703c3882168d1f1bdf052e333c058354c7061a7f91c94fb1ac65f3484"
+        ],
+        "statement_pattern_set": [
+            "In alphabetical order, the course names and their instructors' names in the year {year} are {course_instructor_pairs}."
         ],
         "nl_document_list": [
-            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Aripiprazole' is an inhibitor.",
-            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Aripiprazole' is inhibitor.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III decarboxylase' and the medicine named 'Ziprasidone' is activitor.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III decarboxylase' and the medicine named 'Sulpiride' is activitor.",
-            "The interaction type between the enzyme named 'Coproporphyrinogen III oxidase' and the medicine named 'Ziprasidone' is activitor.",
-            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Iloperidone' is inhibitor.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Asenapine' is activitor.",
-            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Aripiprazole' is inhibitor.",
-            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Asenapine' is inhibitor.",
-            "The names of enzymes in the medicine named 'Amisulpride' that can serve as an 'inhibitor' are ALA synthase.",
-            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Aripiprazole' is inhibitor.",
-            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Amisulpride' is inhibitor.",
-            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Lurasidone' is activitor.",
-            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Clocapramine' is inhibitor.",
-            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Clozapine' is inhibitor.",
-            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Blonanserin' is inhibitor.",
-            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Carpipramine' is inhibitor.",
-            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Asenapine' is inhibitor.",
-            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Iloperidone' is activitor.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Paliperidone' is activitor.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Melperone' is activitor.",
-            "Medicine names and trade names that cannot interact with the enzyme with product 'Heme' are Amisulpride with trade name Solian, Aripiprazole with trade name Abilify, Asenapine with trade name Saphris, Blonanserin with trade name Lonasen, Carpipramine with trade name Prazinil, Clocapramine with trade name Clofekton, Clozapine with trade name Clozaril, Iloperidone with trade name Fanapt, Lurasidone with trade name Latuda, Melperone with trade name Buronil, Mosapramine with trade name Cremin, Olanzapine with trade name Zyprexa, Paliperidone with trade name Invega, Perospirone with trade name Lullan, Quetiapine with trade name Seroquel, Remoxipride with trade name Roxiam, Risperidone with trade name Risperdal, Sertindole with trade name Serdolect, Sulpiride with trade name Sulpirid, and Zotepine with trade name Nipolept."
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Race Car Driving with Ullman.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Surfing with Dale.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Elastic Structures with Bietzk, Dale.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Transaction Processing with DAgostino.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Marine Mammals with Mahmoud.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are World History with Jaekel.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Animal Behavior with DAgostino, Elastic Structures with Bietzk and Dale, Embedded Systems with Mingoz, Marine Mammals with Mahmoud, Networking with Mingoz, Race Car Driving with Ullman, Surfing with Dale, Transaction Processing with DAgostino, and World History with Jaekel.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Animal Behavior with DAgostino.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Networking with Mingoz.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Embedded Systems with Mingoz."
+        ]
+    },
+    {
+        "table_id_set": [
+            "c4ba3563c04320ead573562400d2c445867dd316a10644ac73ac9b348e33fc19",
+            "fb9662c0a9d6a60d6844501b3e025527879449e5250db7da383d6f92d1527bda"
+        ],
+        "statement_pattern_set": [],
+        "nl_document_list": [
+            "The first names and last names of the students who minor in the department with DNO 140 are Susan Lee."
+        ]
+    },
+    {
+        "table_id_set": [
+            "e937b0168dcd5aee4afac1a0bd9b5210917eff40943247ee6eb7060ceb596f4b",
+            "e3164e0e81b8de2b0062d25ed85dafda25f5d6b08aa4b7c84c698ea7a578234f"
+        ],
+        "statement_pattern_set": [
+            "Products and the number of events they are in, sorted by the number of events in descending order, are {product_names}.",
+            "Products and the number of events they are in are {product_names}."
+        ],
+        "nl_document_list": [
+            "Products and the number of events they are in, sorted by the number of events in descending order, are Trading Policy B (1 event).",
+            "Products and the number of events they are in are Trading Policy.",
+            "Products and the number of events they are in, sorted by the number of events in descending order, are TV Equipments (5 events), Special Dinning (4 events), Men suits (2 events), Conference Equipments (1 event), Dinning (1 event), Trading Policy (1 event), and Trading Policy B (1 event).",
+            "Products and the number of events they are in, sorted by the number of events in descending order, are Dinning (1 event).",
+            "Products and the number of events they are in are Special Dinning (4).",
+            "Products and the number of events they are in are Conference Equipments (1), Dinning (1), Men suits (2), Special Dinning (4), TV Equipments (5), Trading Policy (1), and Trading Policy B (1).",
+            "Products and the number of events they are in are TV Equipments (5).",
+            "Products and the number of events they are in are Trading Policy B.",
+            "Products and the number of events they are in are Conference Equipments.",
+            "Products and the number of events they are in are Men suits (2).",
+            "Products and the number of events they are in, sorted by the number of events in descending order, are Men suits (2 events).",
+            "Products and the number of events they are in, sorted by the number of events in descending order, are Conference Equipments (1 event).",
+            "Products that are not in any event are Business Policy, Men suits, Business Policy B, and Dinning.",
+            "Products and the number of events they are in are Dinning.",
+            "Products and the number of events they are in, sorted by the number of events in descending order, are Trading Policy (1 event).",
+            "Products that are in at least two events are Men suits, Special Dinning, and TV Equipments.",
+            "Products and the number of events they are in, sorted by the number of events in descending order, are Special Dinning (4 events).",
+            "Products and the number of events they are in, sorted by the number of events in descending order, are TV Equipments (5 events)."
+        ]
+    },
+    {
+        "table_id_set": [
+            "4f282762d78ac4e76928d87a149de36e0afde2aa86a948f1314f38ce5ba42e59",
+            "18b3fface9270a3c564945ade7af5e010fda08163949743bb1b852128ffbfb7d"
+        ],
+        "statement_pattern_set": [
+            "The name and average GPA of the department with the {comparative} average GPA is {dept_name} with an average GPA of {avg_gpa}.",
+            "The department with the {ordinal} number of students is {dept_name} located at {dept_address}.",
+            "The department name of the student with the {ordinal} GPA belongs to is {dept_name}."
+        ],
+        "nl_document_list": [
+            "The department name of the student with the lowest GPA belongs to is Accounting.",
+            "The department with the third number of students is Accounting located at KLR 211, Box 52.",
+            "The name and average GPA of the department with the highest average GPA is Computer Info. Systems with an average GPA of 3.1799999999999997.",
+            "The department with the highest number of students is Accounting located at KLR 211, Box 52.",
+            "The departments with the top 3 highest number of students are Accounting at KLR 211, Box 52 with 3 students, Computer Info. Systems at KLR 333, Box 56 with 2 students, and Biology at AAK 230, Box 415 1 student.",
+            "The department with the second number of students is Accounting located at KLR 211, Box 52.",
+            "The department with the first number of students is Accounting located at KLR 211, Box 52.",
+            "The name and average GPA of the department with the highest average GPA is Computer Information Systems with an average GPA of 3.18."
         ]
     },
     {
@@ -51,137 +130,52 @@
             "ba4186902f124f3003a8ac7f7de3f921a888cbbdda750ba7e8c6650e4b14bb95",
             "c6f40e9322b594e79c8743f517c3764f25117771e5bf5174b5e3059ee9a91b39"
         ],
+        "statement_pattern_set": [],
         "nl_document_list": [
-            "The CMI cross reference IDs related to at least one council tax entry are 101, 102, 103, 104, 105, 106 with source system code Tax.",
             "The CMI cross reference IDs related to at least one council tax entry are 101, 102, 103, 104, 105, and 106 with source system code Tax."
         ]
     },
     {
         "table_id_set": [
-            "5a2e10a9dfd97712ae0f6c09b350705e096b5460f1917bc63131703ea7ef9ae2",
-            "648e86ff0c6ea0767644862ebcb519a52298dab3d2744209d12a0f010461fa66"
+            "8a2ec4a1c7e0412e08ebb72d909169094eb61ee375215d03eeb1e247701a4dcc",
+            "31c9b7ccb4a313ba630e10a1dee3cc714f3700faf23cb4d1df4d94d2f4283c26"
+        ],
+        "statement_pattern_set": [
+            "Users who do not have a first notification of loss record are {customer_names}."
         ],
         "nl_document_list": [
-            "The ID and the amount of refund for the booking that incurred the most times of payments are 5 and 191.31.",
-            "The ID and the amount of refund for the booking that incurred the most times of payments are 6 and 192.02."
+            "Users who do not have a first notification of loss record are Cai Zhang, Mrs. Liza Heller V, Dayana Robel, America Jaskolski, Mr. Randal Lynch III, Mr. Edwardo Blanda I, David Ross, Mrs. Hanna Willms, Dr. Diana Rath, Miss Felicita Reichel.",
+            "Users who do not have a first notification of loss record are America Jaskolski, Cai Zhang, David Ross, Dayana Robel, Dr. Diana Rath, Miss Felicita Reichel, Mr. Edwardo Blanda I, Mr. Randal Lynch III, Mrs. Hanna Willms, and Mrs. Liza Heller V."
         ]
     },
     {
         "table_id_set": [
-            "6f0bc5bbbd37d4d1464077f6ea8f0b6e830ec55e37f5af3717290c81a9fe78ab",
-            "94a05d0d2e99c973f02d1bc2281d986687aaa7eafc79be6626c83e9f45e3126c"
+            "1852d629f8f46ae170716574a689dafe03d7dbb85df48941dfc64d816f35e852",
+            "5c2dac197253e909b22234b79a027b308232b2de630f664dc2ba06dee7f62b52"
+        ],
+        "statement_pattern_set": [
+            "The order was placed on {order_date} at {order_time}.",
+            "The placement date of the order with invoice number {invoice_number} is {order_dates}."
         ],
         "nl_document_list": [
-            "The theme, date, and attendance for the exhibition in the year 2004 are Santa Claus, December 2, 965, Santa Claus, December 5, 1098, and Santa Claus, December 7, 2983.",
-            "The Santa Claus and Rudolph the Red-Nosed Reindeer, February 21, and 9089 for the exhibition in the year 2004 are Santa Claus and Rudolph the Red-Nosed Reindeer, February 21, 9089.",
-            "The Santa Claus, December 7, and 2983 for the exhibition in the year 2004 are Santa Claus, December 7, 2983.",
-            "The Spring, February 26, and 13142 for the exhibition in the year 2004 are Spring, February 26, 13142.",
-            "The Spring, February 28, and 4231 for the exhibition in the year 2004 are Spring, February 28, 4231.",
-            "The Christmas Tree, February 23, and 3139 for the exhibition in the year 2004 are Christmas Tree, February 23, 3139.",
-            "The Christmas stocking, December 13, and 10908 for the exhibition in the year 2004 are Christmas stocking, December 13, 10908.",
-            "The Santa Claus and Rudolph the Red-Nosed Reindeer, December 16, and 1134 for the exhibition in the year 2004 are Santa Claus and Rudolph the Red-Nosed Reindeer, December 16, 1134.",
-            "The Christmas stocking, December 9, and 1239 for the exhibition in the year 2004 are Christmas stocking, December 9, 1239.",
-            "The Santa Claus and Rudolph the Red-Nosed Reindeer, February 19, and 1233 for the exhibition in the year 2004 are Santa Claus and Rudolph the Red-Nosed Reindeer, February 19, 1233.",
-            "The Christmas stocking, December 12, and 1313 for the exhibition in the year 2004 are Christmas stocking, December 12, 1313.",
-            "There are 13 exhibitions with an attendance more than 100 or a ticket price below 10.",
-            "The Spring, February 25, and 24808 for the exhibition in the year 2004 are Spring, February 25, 24808.",
-            "The Santa Claus, December 2, and 965 for the exhibition in the year 2004 are Santa Claus, December 2, 965.",
-            "The Santa Claus, December 5, and 1098 for the exhibition in the year 2004 are Santa Claus, December 5, 1098."
+            "The placement date of the order with invoice number 10 is 1982-12-29 21:10:11, 1997-01-27 19:12:01, 1983-09-08 12:32:49.",
+            "The placement date of the order with invoice number 10 is 1983-09-08 12:32:49, 1997-01-27 19:12:01, and 1982-12-29 21:10:11.",
+            "The order was placed on June 08, 2010 at 02:20:49.",
+            "The order was placed on June 8, 2010 at 02:20:49."
         ]
     },
     {
         "table_id_set": [
-            "2dcb5ead6c2f6a37b472409cd0d4ba02ff1ae6c7f74ac7acf0761bdd80920b98",
-            "5081f9a68d47805bdabcf122fb6dd2554d40bc20f19a44ede6f0281a5dc5259b",
-            "c2f4969f3d1908f56eafaa2c941e8dc26518b5ea4dec38071557a46e59e1a5e2"
+            "771e6529089485375b8ddf90e4b81c496ea9a44ecdde012ccc186cead923b6db",
+            "716cdb4be226b098e43f01f401a1263ba06dabfcdb28497d4a2630ef2cba0c31"
+        ],
+        "statement_pattern_set": [
+            "The statement details \"{statement_details}\" and the corresponding document name is \"{document_name}\"."
         ],
         "nl_document_list": [
-            "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 5, CountryName italy.",
-            "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 2, CountryName germany.",
-            "Thirteen car models are produced in the USA.",
-            "13 car models are produced in USA.",
-            "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 4, CountryName japan.",
-            "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 1, CountryName usa.",
-            "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 1, CountryName USA, CountryId 2, CountryName Germany, CountryId 4, CountryName Japan, and CountryId 5, CountryName Italy."
-        ]
-    },
-    {
-        "table_id_set": [
-            "3a92e49624e82144c8636927f79c3f91235b1a1d08e45b5de271a84a6d4193a9",
-            "90a6e9ea1a0c158eb4dc5e7195709ae8a77e882fd5cdbed11b9a31c6fccbf405",
-            "93b00ff543aa312c3032889b596a7c96651856e1f54e87e8f02e69b3dfa22cdb"
-        ],
-        "nl_document_list": [
-            "The city with the most number of stores is Khanewal City.",
-            "The number of stores in each city are as follows: Bahawalpur City has 1 store, Bhakkar City has 1 store, Hafizabad City has 1 store, and Khanewal City has 2 stores.",
-            "The number of stores in each city are as follows: Khanewal City has 2 stores.",
-            "The number of stores in each city are as follows: Hafizabad City has 1 store.",
-            "Stores in Khanewal District are Miramichi and Neguac.",
-            "The city that is the headquarters of the store named \"Neguac\" is Khanewal City.",
-            "The number of stores in each city are as follows: Bhakkar City has 1 store.",
-            "The city that is the headquarters of the store named \"Doaktown\" is Bahawalpur City.",
-            "Stores in Khanewal District are Miramichi, Neguac.",
-            "The city that is the headquarters of the store named \"Rogersville\" is Hafizabad City.",
-            "Stores in Bhakkar District are Blackville.",
-            "The number of stores in each city are as follows: Bahawalpur City has 1 store.",
-            "Stores in Hafizabad District are Rogersville.",
-            "Districts where there are both city mall and village store type stores are Khanewal District.",
-            "Stores in Bahawalpur District are Doaktown.",
-            "The city that is the headquarters of the store named \"Miramichi\" is Khanewal City.",
-            "The city that is the headquarters of the store named \"Blackville\" is Bhakkar City."
-        ]
-    },
-    {
-        "table_id_set": [
-            "578ada8a2be27f787dd61e404764154540105ff8cc538b8a655ba59e9e08dca7",
-            "6bc4e83f039aa281e23d3cde4556cdd32d9166593dc382cdcf0d50898a5c5fa4"
-        ],
-        "nl_document_list": [
-            "The TV channel for the TV series with the episode \"The Legend of Dylan McCleen\" is myDeejay.",
-            "The episodes of TV series shown on the TV Channel with the series name Radio Capital TiV\u00c3\u00b9 are The Year of the Rabbit.",
-            "The TV channel for the TV series with the episode \"Keepers\" is Sky Radio.",
-            "The episodes of TV series shown on the TV Channel with the series name Rock TV are Emily.",
-            "The episodes of TV series shown on the TV Channel with the series name Classica are Home By Another Way.",
-            "The episodes of TV series shown on the TV Channel with the series name \"Sky Radio\" are \"A Love of a Lifetime\" and \"Keepers\".",
-            "The episodes of TV series shown on the TV Channel with the series name Sky Radio are A Love of a Lifetime, Keepers.",
-            "The TV channel for the TV series with the episode \"The Hanged Man\" is myDeejay.",
-            "The episodes of TV series shown on the TV Channel with the series name Sky Music are Friendly Skies.",
-            "The episodes of TV series shown on the TV Channel with the series name MTV Music are Double Down.",
-            "The TV channel for the TV series with the episode \"Home By Another Way\" is Classica.",
-            "The TV channel for the TV series with the episode \"Blowback\" is Hip Hop TV.",
-            "The TV channel for the TV series with the episode \"Game Three\" is MTV Dance.",
-            "The TV channel for the TV series with the episode \"Double Down\" is MTV Music.",
-            "The episodes of TV series shown on the TV Channel with the series name myDeejay are The Legend of Dylan McCleen, The Hanged Man.",
-            "The episodes of TV series shown on the TV Channel with the series name MTV Dance are Game Three, Winterland.",
-            "The episodes of TV series shown on the TV Channel with the series name Hip Hop TV are Blowback.",
-            "The TV channel for the TV series with the episode \"Emily\" is Rock TV.",
-            "The TV channel for the TV series with the episode \"The Year of the Rabbit\" is Radio Capital TiV\u00c3\u00b9.",
-            "The TV channel for the TV series with the episode \"Winterland\" is MTV Dance.",
-            "The TV channel for the TV series with the episode \"A Love of a Lifetime\" is Sky Radio.",
-            "The TV channel for the TV series with the episode \"Friendly Skies\" is Sky Music."
-        ]
-    },
-    {
-        "table_id_set": [
-            "13edf3d562e1c61cd1b145d108049b8064a05a871303730662f33748d0497126",
-            "15f57d670e01cf1ad3d4c7d1e191a36fa5277e1e1651e825219e363099f39aeb",
-            "fe1b50486ebfaa477746e003af27e6bc976e93f6f4df508621db4ea0d338c6ba"
-        ],
-        "nl_document_list": [
-            "The response received dates for the documents described as 'Regular' or granted with more than 100 are 1977-12-01 02:18:53, 1995-09-12 13:13:48, 1986-05-23 07:17:59, 1976-10-04 22:13:27, 1986-05-18 01:54:56, 1987-10-29 15:35:50, 1994-03-13 01:52:45, 1977-01-27 07:14:11, 1971-08-28 11:20:56, and 1999-06-01 18:41:00.",
-            "The start dates for grants with both documents described as 'Regular' and documents described as 'Initial Application' are 1979-10-29 07:44:22, 1982-04-07 00:07:43, and 2004-11-10 02:26:01.",
-            "The response received dates for the documents described as 'Regular' or granted with more than 100 are 1976-10-04 22:13:27, 1977-01-27 07:14:11, 1995-09-12 13:13:48, 1971-08-28 11:20:56, 1994-03-13 01:52:45, 1999-06-01 18:41:00, 1977-12-01 02:18:53, 1986-05-18 01:54:56, 1986-05-23 07:17:59, 1987-10-29 15:35:50."
-        ]
-    },
-    {
-        "table_id_set": [
-            "32fddcacdb65c3460e8d4d9736ed78e5e955c2bada9590bb9151ce8699c45c74",
-            "bc12e34fa1321da420f86b077979b88b43d3820a70e3bc4725fc8e697e2c6327"
-        ],
-        "nl_document_list": [
-            "Workshop groups with bookings having status code \"good\" are Amely Cafe, Veda Film, Queen Art, Hansen Print, Welch Flower, Orn News, Warino Photo.",
-            "Workshop groups with bookings having status code \"stop\" are Bednar Film, Kling Workshop, Warino Photo, and Queen Art.",
-            "Workshop groups with bookings having status code \"stop\" are Queen Art, Kling Workshop, Bednar Film, Warino Photo."
+            "The statement details \"Private Project\" and the corresponding document name is \"Book on USA files\".",
+            "The statement details \"Private Project\" and the corresponding document name is \"Book on USA files.\"",
+            "The statement details \"Open Project\" and the corresponding document name is \"Review on French files\"."
         ]
     }
 ]

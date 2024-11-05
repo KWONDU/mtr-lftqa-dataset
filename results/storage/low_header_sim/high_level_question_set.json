@@ -1,38 +1,112 @@
 [
     {
         "gold_table_id_set": [
-            "73805ca3b7e530e9609a9a281fbeb2e643ba630bd2ef1a458aa58ebc4b35e431",
-            "8374b0414dde97505ade584e0774dbceaebe3db8a44f71f132669cd4ae70d1c4",
-            "f06da14e8a44b078739c187abcdfc5cbb4602e109ad9c6cad6c02ee681a22de8"
+            "e46c1b433291b5f1b27088c8fdabbda0924115dd3562e409f67c7bca60459e20",
+            "efe1dde303598ae8212d695c54954617d5aa4325c370d21c0149d0a9e6790f01"
         ],
         "question_list": [
-            "How do the typical buying and selling prices of products colored 'white' without the unit of measurement \"Handful\" compare across different product categories, and what factors might influence these price variations?",
-            "What is the significance of the color 'white' in product differentiation, and how does this color choice impact consumer preferences and pricing strategies for products without the unit of measurement \"Handful\"?",
-            "How does the absence of the unit of measurement \"Handful\" affect the product descriptions and other details of products colored 'white', and what insights can be drawn regarding consumer perception and marketing strategies?",
-            "What are the unique characteristics of products colored 'white' that do not have the unit of measurement \"Handful\", and how do these characteristics contribute to the overall product categories they belong to?",
-            "How do the product names of items colored 'white' but lacking the unit of measurement \"Handful\" reflect the diversity in product categories, and what implications does this have on inventory management and sales strategies?",
-            "What is the relationship between the color 'white' and the typical buying and selling prices of products without the unit of measurement \"Handful\", and how does this relationship vary across different product categories?",
-            "How do the product descriptions and other details of items colored 'white' without the unit of measurement \"Handful\" differ based on their respective product categories, and what role does color play in consumer perception?",
-            "What factors influence the typical buying and selling prices of products colored 'white' that do not have the unit of measurement \"Handful\", and how do these factors vary across different product categories?",
-            "How does the color 'white' impact the typical buying and selling prices of products across various categories, especially those without the unit of measurement \"Handful\", and what market trends does this color choice reflect?"
+            "How do the addresses of drama workshop groups in the marketing region with code region_code vary across different states or counties, and what insights can be drawn from this distribution?",
+            "What are the specific addresses of drama workshop groups associated with the store named store_name, and how do these addresses relate to the city_name where the store is located?",
+            "How do the addresses of drama workshop groups in the marketing region with code region_code compare to the addresses of stores in terms of location diversity and distribution?",
+            "What is the relationship between the addresses of drama workshop groups and the stores in terms of proximity and clustering within specific cities or counties?",
+            "How do the addresses of drama workshop groups in the marketing region with code region_code reflect the urban-rural distribution within different states or counties?",
+            "What factors influence the selection of addresses for drama workshop groups in comparison to the locations of stores, and how does this impact accessibility and visibility?",
+            "How does the distribution of drama workshop group addresses correlate with the population density and demographic characteristics of the areas where the stores are situated?",
+            "What insights can be gained from comparing the addresses of drama workshop groups to the locations of stores in terms of market reach and customer engagement?",
+            "How do the addresses of drama workshop groups and stores contribute to the cultural and economic landscape of the cities or counties where they are located?",
+            "What role do the addresses of drama workshop groups and stores play in shaping community engagement and artistic expression within the regions identified by the marketing region code region_code?"
         ]
     },
     {
         "gold_table_id_set": [
-            "6453340ddf88d6c138ab5db830352b9f5dbd88e6d71730a457299d9757b4cc60",
-            "7394898455a4b15bae1fab26ba4559ccb735bfd734fd0c2bf389462dc70de3f3",
-            "d066861c87b9a19cd92c0c52c384180408c29b73a149019d2632dc1bf202043c"
+            "03098a59c0fa73116c9b4ac2a7e400e7cb7e7a44161c06352d4e71b7b179fd20",
+            "704b70adb7b044805302ce8f139acbc34e168fe20d230f0b37abf175c31feb48",
+            "7b2fd02793cb4529661c9dee5e3b1096bb50ee6d0f86972a1d9d940eac168f44"
         ],
         "question_list": [
-            "How do the interactions between enzymes and medicines, specifically focusing on the enzyme 'ALA synthase' and the medicine 'Aripiprazole', vary in terms of their interaction types, and what implications does this have for drug metabolism and efficacy?",
-            "What is the relationship between the location of enzymes and the products of medicines they interact with, and how does this relationship influence the potential treatment of diseases related to Porphyria?",
-            "How do the FDA approval statuses of medicines impact the types of interactions they can have with enzymes, particularly in the context of enzyme inhibitors for the medicine 'Amisulpride'?",
-            "What are the implications of enzyme interactions on the trade names of medicines, especially for medicines that cannot interact with enzymes associated with the product 'Heme'?",
-            "How do the chromosome locations of enzymes relate to the OMIM entries of medicines, and what insights can be gained about genetic disorders and their treatment through these relationships?",
-            "What is the significance of enzyme interactions in the context of Porphyria, and how do these interactions differ between medicines approved by the FDA and those that are not?",
-            "How do the interactions between enzymes and medicines influence the potential treatment options for diseases related to Porphyria, and what role does the enzyme 'ALA synthase' play in these interactions?",
-            "What are the enzyme names associated with medicines that serve as inhibitors, and how do these interactions impact the effectiveness of the medicines in treating specific conditions?",
-            "How do the interactions between enzymes and medicines affect the trade names of medications, particularly in cases where the enzyme location and medicine product are closely related?"
+            "How do the types of trains available at train stations in the dataset \"train_station\" vary in terms of speed, capacity, and frequency of service, and what impact does this have on passenger preferences and travel patterns?",
+            "What are the main differences in the services provided at train stations with high passenger traffic compared to those with low passenger traffic, and how do these differences affect the overall efficiency of the train network?",
+            "How does the location of train stations influence the choice of transportation mode for commuters, and what factors contribute to the popularity of certain train stations over others in the dataset \"train_station\"?",
+            "What is the relationship between the size of a train station and the number of trains serving that station, and how does this impact the overall connectivity and accessibility of the train network?",
+            "How do the amenities and facilities available at different train stations, such as parking, waiting areas, and food services, contribute to the overall passenger experience and satisfaction with the train services provided?",
+            "What are the peak hours for train services at the various train stations in the dataset \"train_station,\" and how does the frequency of trains during these hours affect passenger congestion and service reliability?",
+            "How do the arrival and departure schedules of trains at different train stations in the dataset \"train_station\" impact the overall efficiency of the train network and the ability to transfer between different train lines?",
+            "What role do train stations play in promoting local tourism and economic development, and how do factors like proximity to tourist attractions and business districts influence the number of passengers using a particular station?",
+            "How does the design and layout of train stations affect passenger flow, accessibility for individuals with disabilities, and overall safety and security within the station premises?",
+            "What are the key challenges faced by train stations in terms of maintenance, capacity management, and service disruptions, and how do these challenges impact the reliability and quality of train services provided to passengers in the dataset \"train_station\"?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "32bfefb1bc18d069389b9e6efd2aed77786b6e71fc0a1b7e02a7e049881c6bf2",
+            "e3027213f1fc1207a96d06d3323c3ff4c464a486d2721ebd6898dd0befa69008",
+            "ecbac12703c3882168d1f1bdf052e333c058354c7061a7f91c94fb1ac65f3484"
+        ],
+        "question_list": [
+            "How do the course offerings at College 2 in the year year vary in terms of subject areas, and what are the instructors' names associated with each course?",
+            "Which instructors at College 2 teach multiple courses in the year year, and what are the subjects of these courses?",
+            "How does the distribution of courses among instructors at College 2 in the year year reflect specialization or diversity in teaching areas?",
+            "What is the relationship between the number of courses taught by an instructor at College 2 in the year year and the variety of subjects they cover?",
+            "How do the instructors' teaching assignments at College 2 in the year year compare in terms of course load and subject diversity?",
+            "What factors might influence the assignment of instructors to specific courses at College 2 in the year year, and how does this impact the overall course offerings?",
+            "How do the course enrollment numbers in the year year at College 2 correlate with the instructors' teaching assignments and subject areas?",
+            "What are the teaching patterns of instructors at College 2 in the year year, and how do these patterns contribute to the overall academic experience for students?",
+            "How does the distribution of courses among instructors at College 2 in the year year reflect the institution's academic priorities or faculty expertise?",
+            "What insights can be gained from analyzing the course-instructor pairs at College 2 in the year year regarding the institution's curriculum design and faculty allocation strategies?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "c4ba3563c04320ead573562400d2c445867dd316a10644ac73ac9b348e33fc19",
+            "fb9662c0a9d6a60d6844501b3e025527879449e5250db7da383d6f92d1527bda"
+        ],
+        "question_list": [
+            "How does the choice of minor vary among students majoring in Computer Science, Business, and Psychology at the college, and what are the most common minor subjects for each major?",
+            "What is the distribution of students across different majors who have chosen Economics as their minor, and how does this distribution compare to the overall student population at the college?",
+            "How do the number of students pursuing a minor in Mathematics differ between the junior and senior years, and what factors might contribute to this difference?",
+            "Which majors have the highest percentage of students opting for a minor in Biology, and how does this percentage vary across different academic years?",
+            "What is the relationship between the popularity of a minor in Psychology and the total number of students enrolled in each major at the college?",
+            "How does the choice of minor in Computer Science compare between male and female students, and what insights can be drawn from this comparison?",
+            "What are the most common minor subjects chosen by students majoring in Engineering, and how do these choices differ from those of students majoring in Liberal Arts?",
+            "How does the number of students pursuing a minor in Environmental Studies change over the academic years, and what implications does this trend have for the college's curriculum planning?",
+            "What is the impact of offering a minor in Business on the overall enrollment distribution across different majors at the college, and how does this minor contribute to academic diversity?",
+            "How do the preferences for minors in Fine Arts and Literature vary among students majoring in different fields, and what does this reveal about interdisciplinary interests among the student body?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "e937b0168dcd5aee4afac1a0bd9b5210917eff40943247ee6eb7060ceb596f4b",
+            "e3164e0e81b8de2b0062d25ed85dafda25f5d6b08aa4b7c84c698ea7a578234f"
+        ],
+        "question_list": [
+            "How do the products in the Solvency II dataset vary in terms of the number of events they are associated with, and what insights can be drawn from this distribution regarding product popularity and usage in events?",
+            "Which product has the highest number of events it is involved in, and how does this product compare to the product with the lowest number of events in terms of market presence and event relevance?",
+            "What is the relationship between the types of products listed in the Solvency II dataset and the frequency of their occurrence in events, and how does this impact the overall risk assessment and management process?",
+            "How many events involve products that are common across both tables in the Solvency II dataset, and what are these products, highlighting their significance in risk evaluation and event analysis?",
+            "What are the key differences in the products listed in the Solvency II dataset based on their participation in events, and how does this reflect on the diversity and complexity of risk factors considered in the insurance industry?",
+            "How does the presence of certain products in a higher number of events influence the overall risk exposure and mitigation strategies within the Solvency II framework, and what implications does this have for regulatory compliance?",
+            "What insights can be gained from analyzing the products that are consistently present in events across the Solvency II dataset, and how does this information contribute to enhancing risk modeling and scenario analysis?",
+            "How do the products with the highest occurrence in events compare to those with moderate involvement, and what factors contribute to the varying levels of exposure and impact on risk assessment within the insurance sector?",
+            "What patterns emerge when examining the relationship between specific products and the events they are associated with in the Solvency II dataset, and how can these patterns inform decision-making processes in risk management and regulatory reporting?",
+            "How do the products listed in the Solvency II dataset align with the requirements of regulatory frameworks, considering their distribution across different events and the implications for ensuring financial stability and solvency in the insurance market?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "4f282762d78ac4e76928d87a149de36e0afde2aa86a948f1314f38ce5ba42e59",
+            "18b3fface9270a3c564945ade7af5e010fda08163949743bb1b852128ffbfb7d"
+        ],
+        "question_list": [
+            "How does the average GPA of the department with the highest number of students compare to the department with the lowest number of students, and what factors might contribute to this difference in academic performance?",
+            "What is the relationship between the number of students enrolled in the department with the highest average GPA and the department with the lowest average GPA, and how does this impact the overall academic environment of the college?",
+            "Which department has the highest average GPA, and how does the number of students in this department compare to the department with the second-highest average GPA?",
+            "How does the location of departments within the college influence the distribution of students across different academic programs, and what implications does this have on student engagement and success?",
+            "What is the average GPA of the department located at dept_address, and how does it compare to the average GPA of the department with the highest number of students?",
+            "How does the department with the highest average GPA accommodate students compared to the department with the lowest average GPA, and what strategies might be in place to maintain academic excellence?",
+            "What are the factors that contribute to the academic performance of students in the department with the highest number of students, and how does this department compare to others in terms of GPA and student engagement?",
+            "How does the department with the highest average GPA support student success compared to the department with the second-highest average GPA, and what initiatives are in place to enhance academic outcomes?",
+            "What is the impact of department size on the average GPA of students, and how does this influence the overall academic reputation of the college?",
+            "How do the departments with the highest and lowest average GPAs differ in terms of student demographics, faculty support, and academic resources, and what implications does this have on student achievement and satisfaction?"
         ]
     },
     {
@@ -41,122 +115,70 @@
             "c6f40e9322b594e79c8743f517c3764f25117771e5bf5174b5e3059ee9a91b39"
         ],
         "question_list": [
-            "How does the cmi cross-reference id associated with council tax entries in the local government master data management system correlate with the source system codes, and what insights can be derived from this relationship regarding data integration and management within local government entities?",
-            "What is the significance of the master customer ids linked to council tax entries in the local government master data management system, and how does this linkage impact the accuracy and efficiency of council tax administration?",
-            "How do the source system codes in the cmi cross-references table of the local government master data management system relate to the council tax ids, and what implications does this relationship have on data retrieval and system interoperability?",
-            "What factors influence the assignment of council tax ids in the local government master data management system, and how does this process contribute to maintaining data integrity and consistency across different local government functions?",
-            "How does the presence of multiple source system codes in the cmi cross-references table of the local government master data management system impact the management of council tax data, and what challenges does this pose for data governance and standardization?",
-            "What insights can be gained from analyzing the relationship between master customer ids and council tax ids in the local government master data management system, particularly in terms of customer data management and service delivery optimization?",
-            "How do the council tax entries in the local government master data management system contribute to the establishment of cmi cross-reference ids, and what role do these cross-reference ids play in data linkage and information retrieval within local government operations?",
-            "What are the implications of the council tax ids associated with cmi cross-reference ids in the local government master data management system, and how does this association facilitate data mapping and record linkage for efficient data processing?",
-            "How do the council tax entries in the local government master data management system align with the cmi cross-reference ids, and what measures are in place to ensure data accuracy and consistency in cross-referencing processes?"
+            "How do cross-references in the local government master data management table relate to council tax information, and what insights can be derived from this connection?",
+            "What are the key data elements shared between the CMI cross-references and council tax tables in the local government master data management dataset, and how do these elements impact decision-making processes?",
+            "In what ways do the cross-references in the local government master data management table influence the calculation and distribution of council tax rates, and what are the implications of these influences?",
+            "How does the council tax information in the local government master data management dataset align with the cross-references provided, and what patterns can be observed from this alignment?",
+            "What relationships exist between the council tax data and the cross-references in the local government master data management table, and how do these relationships contribute to data integrity and accuracy?",
+            "Analyze how the cross-references in the local government master data management table impact the council tax calculations and billing processes, highlighting any dependencies and their effects.",
+            "Compare the utilization of cross-references in the local government master data management table for different types of council tax categories, and discuss the variations in data structure and content.",
+            "Explain the role of cross-references in ensuring consistency and coherence between the local government master data management table and the council tax information, emphasizing the importance of data synchronization.",
+            "How do the cross-references in the local government master data management table facilitate data retrieval and analysis for council tax purposes, and what challenges may arise from this interconnectedness?",
+            "Evaluate the impact of incorporating council tax data into the local government master data management system, considering the cross-references provided and their implications on data quality and governance."
         ]
     },
     {
         "gold_table_id_set": [
-            "5a2e10a9dfd97712ae0f6c09b350705e096b5460f1917bc63131703ea7ef9ae2",
-            "648e86ff0c6ea0767644862ebcb519a52298dab3d2744209d12a0f010461fa66"
+            "8a2ec4a1c7e0412e08ebb72d909169094eb61ee375215d03eeb1e247701a4dcc",
+            "31c9b7ccb4a313ba630e10a1dee3cc714f3700faf23cb4d1df4d94d2f4283c26"
         ],
         "question_list": [
-            "How does the number of times a booking is paid for relate to the amount of refund issued for that booking, and what factors may influence this payment behavior in the context of product rentals?",
-            "What is the impact of the payment type on the amount of outstanding payment for bookings, and how does this influence the financial transactions between customers and the rental service provider?",
-            "How do the booking start and end dates affect the amount payable for a rental product, and what insights can be drawn from the duration of the booking period in terms of customer behavior?",
-            "What is the relationship between the booking status code and the amount of discount offered for product rentals, and how does this impact customer decisions and overall revenue for the rental service?",
-            "How does the payment date correlate with the amount due for bookings, and what implications does this have on the financial management of product rentals?",
-            "What factors contribute to the decision of customers to return products damaged, and how does this influence the amount of refund issued by the rental service provider?",
-            "How does the count of products hired by customers impact the amount paid in full for bookings, and what patterns can be observed in customer spending behavior based on this data?",
-            "What is the significance of the customer ID in determining the amount of outstanding payment for bookings, and how does customer loyalty or behavior affect the financial transactions in the rental service industry?",
-            "How does the amount of discount offered for product rentals affect the amount paid by customers, and what strategies can rental services implement to optimize revenue while providing discounts?"
+            "How do the customers without a first notification of loss record in the insurance_fnol table differ from those with a record, and what implications does this have on customer service and claims processing?",
+            "What information can be derived from the first notification of loss records in the insurance_fnol table regarding the types of incidents reported by customers, and how does this impact risk assessment and policy pricing?",
+            "How do the customer names in the insurance_fnol table correlate with the first notification of loss records, and what insights can be gained about customer behavior and claims history?",
+            "What factors influence the frequency of first notification of loss submissions by customers in the insurance_fnol table, and how does this affect the efficiency of claims handling and resolution?",
+            "How does the absence of a first notification of loss record impact the customer profiles in the insurance_fnol table, and what strategies can be implemented to engage these customers effectively?",
+            "What trends can be observed in the time taken by customers to submit their first notification of loss, and how does this relate to customer satisfaction and retention?",
+            "How do the customer demographics in the insurance_fnol table align with the types of incidents reported in the first notification of loss records, and what measures can be taken to tailor insurance products to specific customer segments?",
+            "What insights can be gained from analyzing the reasons for delayed first notification of loss submissions by customers, and how can this information be used to streamline claims processing workflows?",
+            "How does the presence or absence of a first notification of loss record impact the customer lifetime value and overall profitability for the insurance company, and what retention strategies can be implemented based on this analysis?",
+            "What are the key challenges faced by insurance companies in managing first notification of loss data for customers, and how can technological advancements improve data accuracy and processing efficiency in claims management?"
         ]
     },
     {
         "gold_table_id_set": [
-            "6f0bc5bbbd37d4d1464077f6ea8f0b6e830ec55e37f5af3717290c81a9fe78ab",
-            "94a05d0d2e99c973f02d1bc2281d986687aaa7eafc79be6626c83e9f45e3126c"
+            "1852d629f8f46ae170716574a689dafe03d7dbb85df48941dfc64d816f35e852",
+            "5c2dac197253e909b22234b79a027b308232b2de630f664dc2ba06dee7f62b52"
         ],
         "question_list": [
-            "How does the theme of the exhibitions in the year 2004 correlate with the attendance numbers, and what insights can be drawn about the popularity of specific themes during that year?",
-            "What factors contribute to the attendance numbers at exhibitions with more than 100 attendees or ticket prices below $10, and how do these factors vary across different themes and years?",
-            "How does the ticket price of exhibitions impact the attendance levels, particularly for exhibitions with themes that resonate with a wide audience?",
-            "What trends can be observed in the attendance records of exhibitions with varying themes, and how do these trends relate to the ticket prices set for each exhibition?",
-            "How do the attendance figures for exhibitions with ticket prices below $10 compare to those with higher ticket prices, and what role does the theme play in attracting attendees?",
-            "What insights can be gained by analyzing the relationship between the attendance records and exhibition themes across different years, especially focusing on the years with significant attendance numbers?",
-            "How do the themes of the exhibitions influence the attendance levels, and what strategies can be implemented to increase attendance for exhibitions with lower ticket prices?",
-            "What is the impact of the exhibition themes on attendance numbers, and how does this impact vary based on the ticket prices set for each exhibition?",
-            "How do the attendance figures for exhibitions with themes related to specific artists compare to those with broader themes, and what implications does this have for curating future exhibitions?"
+            "How does the number of orders placed on weekdays compare to those placed on weekends, and what impact does this have on the shipment frequency and delivery times in the tracking_orders dataset?",
+            "What is the relationship between the order dates and the shipment dates in the tracking_orders dataset, and how does this affect the efficiency of order processing and delivery?",
+            "How do the shipment methods vary for orders with different invoice numbers in the tracking_orders dataset, and what factors influence the choice of shipment method for each order?",
+            "What is the average time taken for shipments to reach their destinations after the order placement date, and how does this vary based on the type of products ordered in the tracking_orders dataset?",
+            "How do the order quantities impact the shipment sizes and frequencies in the tracking_orders dataset, and what patterns can be observed in the relationship between orders and shipments?",
+            "What are the common characteristics of orders that experience delays in shipment, and how do these delays affect customer satisfaction and retention in the tracking_orders dataset?",
+            "How does the order processing time vary for orders with different invoice numbers, and what are the factors that contribute to delays or expedited processing in the tracking_orders dataset?",
+            "What is the distribution of shipment distances for orders with varying invoice numbers, and how does this distribution impact the choice of shipping carriers and delivery routes in the tracking_orders dataset?",
+            "How do the order quantities and shipment frequencies change over different months of the year, and what seasonal trends can be identified in the tracking_orders dataset?",
+            "What are the key performance indicators used to evaluate the efficiency of order tracking and shipment processes, and how do these metrics help in optimizing inventory management and customer service in the tracking_orders dataset?"
         ]
     },
     {
         "gold_table_id_set": [
-            "2dcb5ead6c2f6a37b472409cd0d4ba02ff1ae6c7f74ac7acf0761bdd80920b98",
-            "5081f9a68d47805bdabcf122fb6dd2554d40bc20f19a44ede6f0281a5dc5259b",
-            "c2f4969f3d1908f56eafaa2c941e8dc26518b5ea4dec38071557a46e59e1a5e2"
+            "771e6529089485375b8ddf90e4b81c496ea9a44ecdde012ccc186cead923b6db",
+            "716cdb4be226b098e43f01f401a1263ba06dabfcdb28497d4a2630ef2cba0c31"
         ],
         "question_list": [
-            "How does the diversity of car makers in countries producing the 'Fiat' model compare to those producing cars in the USA, and what factors contribute to this variation in car model production?",
-            "What is the relationship between the continents where car makers are located and the variety of car models they produce, specifically focusing on countries with more than three car makers or those producing the 'Fiat' model?",
-            "How do the countries with a high number of car makers differ in terms of the models they produce compared to the USA, and what implications does this have for the global automotive industry?",
-            "What influences the choice of car models produced by countries with more than three car makers, and how does this selection process impact the market competitiveness of these countries?",
-            "How does the presence of car makers in different countries affect the variety of car models available, and what role does the 'Fiat' model play in this global automotive landscape?",
-            "What are the unique characteristics of the car makers producing the 'Fiat' model, and how do these characteristics differ from those of car makers in the USA?",
-            "How does the distribution of car makers across continents influence the production of specific car models, especially models like 'Fiat' that are produced in multiple countries?",
-            "What factors contribute to the concentration of car makers in certain countries producing the 'Fiat' model, and how does this concentration impact the overall market dynamics of the automotive industry?",
-            "How do the countries producing the 'Fiat' model compare in terms of the number of car makers present, and what insights can be drawn regarding the relationship between car production and country development?"
+            "How do the types of documents in the \"cre_docs_and_expenses\" table set relate to the corresponding statements, and what insights can be gained from analyzing this relationship in terms of financial record-keeping?",
+            "What specific details are included in the documents related to \"cre_docs_and_expenses,\" and how do these details contribute to the accuracy and transparency of the financial statements?",
+            "How does the format and structure of the statements in the \"cre_docs_and_expenses\" table set impact the organization and presentation of the associated documents, and what advantages does this alignment offer in financial reporting?",
+            "What are the key differences between the various types of documents stored in the \"cre_docs_and_expenses\" table set, and how do these differences influence the preparation and analysis of financial statements?",
+            "How are the statements in the \"cre_docs_and_expenses\" table set linked to the specific details provided in the documents, and what challenges or benefits arise from this interconnectedness in financial documentation?",
+            "In what ways do the documents in the \"cre_docs_and_expenses\" table set support the accuracy and reliability of the financial statements, and how can discrepancies between the two be identified and resolved?",
+            "What role do the statements play in summarizing and interpreting the information contained in the documents within the \"cre_docs_and_expenses\" table set, and how does this process contribute to financial analysis and decision-making?",
+            "How do the statements and documents in the \"cre_docs_and_expenses\" table set work together to provide a comprehensive overview of financial transactions and expenses, and what considerations are essential for maintaining data integrity and consistency?",
+            "What insights can be gained from comparing the details included in the documents with the information presented in the statements within the \"cre_docs_and_expenses\" table set, and how can this analysis inform strategic financial planning?",
+            "How does the documentation process within the \"cre_docs_and_expenses\" table set ensure compliance with regulatory requirements and financial standards, and what measures are in place to guarantee the accuracy and completeness of the recorded information?"
         ]
-    },
-    {
-        "gold_table_id_set": [
-            "3a92e49624e82144c8636927f79c3f91235b1a1d08e45b5de271a84a6d4193a9",
-            "90a6e9ea1a0c158eb4dc5e7195709ae8a77e882fd5cdbed11b9a31c6fccbf405",
-            "93b00ff543aa312c3032889b596a7c96651856e1f54e87e8f02e69b3dfa22cdb"
-        ],
-        "question_list": [
-            "How does the population and area size of cities where stores are located in Khanewal District compare to cities in other districts, and what factors might influence the distribution of stores in these areas?",
-            "What impact does the city population and area size have on the headquarters location of stores like \"Blackville,\" and how does this reflect the strategic placement of stores in urban centers?",
-            "How does the number of product categories offered in stores correlate with the city distribution of stores, and what insights can be drawn from the distribution pattern across different cities?",
-            "What factors contribute to a city having the highest number of stores, and how does the ranking of stores in this city compare to those in other cities?"
-        ]
-    },
-    {
-        "gold_table_id_set": [
-            "578ada8a2be27f787dd61e404764154540105ff8cc538b8a655ba59e9e08dca7",
-            "6bc4e83f039aa281e23d3cde4556cdd32d9166593dc382cdcf0d50898a5c5fa4"
-        ],
-        "question_list": [
-            "How does the viewership and weekly ranking of TV series like \"A Love of a Lifetime\" on different TV channels compare, and what factors contribute to their ratings and shares in the 18-49 demographic?",
-            "What impact does the language and content of TV series on channels like \"Sky Radio\" have on their viewership ratings, and how does this influence the selection of package options for viewers?",
-            "How do the pixel aspect ratios and high-definition TV options of TV series affect their ratings and viewership, particularly in the context of pay-per-view services and weekly rankings?",
-            "What is the relationship between the air dates of TV series episodes and their ratings on different channels, and how does this impact the overall viewership and share of the series?",
-            "How do the content genres and language preferences of TV series influence their popularity and viewership on various channels, and how does this reflect in the 18-49 rating shares?",
-            "What are the factors that contribute to the weekly ranking and viewership of TV series episodes like \"A Love of a Lifetime\" across different channels, and how do these factors vary based on the pixel aspect ratios?",
-            "How do the package options available for TV series impact their viewership and ratings, especially in comparison to the 18-49 rating shares and pay-per-view services offered?",
-            "What is the correlation between the pixel aspect ratios of TV series and their high-definition options, and how does this affect the selection of package options and pay-per-view services?",
-            "How do the ratings and shares of TV series on channels like \"Sky Radio\" compare to those of other series, and what role does the language of the content play in this comparison?"
-        ]
-    },
-    {
-        "gold_table_id_set": [
-            "13edf3d562e1c61cd1b145d108049b8064a05a871303730662f33748d0497126",
-            "15f57d670e01cf1ad3d4c7d1e191a36fa5277e1e1651e825219e363099f39aeb",
-            "fe1b50486ebfaa477746e003af27e6bc976e93f6f4df508621db4ea0d338c6ba"
-        ],
-        "question_list": [
-            "How do the response received dates for documents described as 'Regular' compare to those for documents associated with grants exceeding $100, and what insights can be drawn regarding document processing times and grant amounts?",
-            "What factors influence the start dates of grants that have both 'Regular' and 'Initial Application' documents, and how do these factors impact the grant application process and timeline?",
-            "How does the description of documents as 'Regular' or 'Initial Application' relate to the grant amounts and start dates, and what implications does this have for the research grant allocation process?",
-            "What are the differences in response received dates for documents labeled as 'Regular' compared to those for documents associated with grants exceeding $100, and how do these differences affect grant management efficiency?",
-            "How do the start dates of grants with 'Regular' documents differ from those with 'Initial Application' documents, and what role do these differences play in the research grant lifecycle?",
-            "What insights can be gained by comparing the response received dates for documents described as 'Regular' to those for documents linked to grants with amounts greater than $100, regarding grant processing and document submission timelines?",
-            "How do the start dates of grants that have both 'Regular' and 'Initial Application' documents reflect the grant management process, and what challenges or advantages arise from this dual document requirement?",
-            "What patterns emerge in the response received dates for documents labeled as 'Regular' versus those for documents associated with grants exceeding $100, and how do these patterns impact grant tracking and evaluation?",
-            "How does the presence of 'Regular' and 'Initial Application' documents influence the start dates of grants, and what considerations should be made in managing grants with diverse document requirements?"
-        ]
-    },
-    {
-        "gold_table_id_set": [
-            "32fddcacdb65c3460e8d4d9736ed78e5e955c2bada9590bb9151ce8699c45c74",
-            "bc12e34fa1321da420f86b077979b88b43d3820a70e3bc4725fc8e697e2c6327"
-        ],
-        "question_list": []
     }
 ]

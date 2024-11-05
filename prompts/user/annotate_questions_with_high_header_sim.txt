@@ -4,16 +4,11 @@ Please refer to the following examples when generationg questions:
 
 Please generate annotated questions following the guidelines provided:
 
-- **Gold table set titles**:
-{gold_table_set_titles}
+- **Table Title Set**:
+{table_title_set}
 
-- **Statement set**:
-{statement_pattern_set}
-
-- **Table headers**:
+- **Overlapping Values**:
 {table_headers}
-
-- **Overlapping values**:
-{overlapping_values}
+{overlapping_cells}
 
 - **Output**:
