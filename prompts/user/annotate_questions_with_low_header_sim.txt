@@ -4,10 +4,10 @@ Please refer to the following examples when generationg questions:
 
 Please generate annotated questions following the guidelines provided:
 
-- **Gold table set titles**:
-{gold_table_set_titles}
+- **Table Schema Set**:
+{table_schema_set}
 
-- **Statement set**:
-{statement_pattern_set}
+- **Low-level Queries**:
+{queries}
 
 - **Output**:

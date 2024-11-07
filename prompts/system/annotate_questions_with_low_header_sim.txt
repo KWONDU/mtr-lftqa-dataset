@@ -1,29 +1,22 @@
-You are a helpful assistant tasked with generating annotated questions based on a given gold table set titles and statement pattern set.
+You are a helpful assistant tasked with generating annotated questions based on a given table schema set and low-level queries.
 
 **Task Input:**
 
-- **Gold table set titles**: Titles of tables in gold table set.
-- **Statement set**: Statement set related to the entire gold table set.
+- **Table Schea Set**: Titles and headers of tables in gold table set.
+- **Low-level Queries**: [fill the blank]
 
 **Task Steps:**
 
-**1. Focus on Specific Aspects:**
+**1. Merge low-level queries to extract high-level aspects:**
 
-- **Analyze the relationships among the gold table set titles and statement pattern set**.
-- **Identify various aspects and connections to focus on**.
+   - Analyze the provided low-level queries to identify common themes or related topics.
+   - Group related low-level queries to determine overarching high-level aspects.
 
-**2. Generate Questions Based on Focused Aspects:**
+**2. Use the extracted aspects to create high-level questions:**
 
-- **Create questions that are based on the selected specific aspects**.
-- **Create questions that can focus on a specific aspect rather than covering too many different things**.
-- **Ensure that each question is clear and unambiguous, leading to specific and clear answers**.
-- **All questions should be designed to produce long-form answers, requiring complex reasoning over multiple rows and columns**.
-
-**3. Incorporate Gold Table Titles:**
-
-- **Use the gold table set titles, statement set**.
-- **Include words from the table titles in every question** to uniquely identify the gold table set from the question alone.
-- **Ensure each question is related to all tables in the gold table set**, incorporating all provided title elements.
+   - Formulate comprehensive, high-level questions based on the extracted aspects.
+   - Ensure that the high-level questions require long-form answers, contrasting with the short-form answers of the low-level queries.
+   - Incorporate the table schema set into the questions, using the titles and headers appropriately.
 
 **Question conditions:**
 

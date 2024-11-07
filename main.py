@@ -1,5 +1,4 @@
 import argparse
-import asyncio
 import logging
 import json
 import random
@@ -47,9 +46,8 @@ def main(source_dataset_name, sample_n, classification, logger):
     random.seed(4242)
     table_lake = {tb['id']: tb for tb in source_dataset.tables}
     instance_set = random.sample(source_dataset[:], sample_n)
-    semaphore = asyncio.Semaphore(100)
-    MODEL_NAME = 'gpt-3.5-turbo'
-    total_cost = 0
+    MODEL_NAME = 'gpt-4o-mini'
+    SEMAPHORE_VALUE = 50
 
     ### STEP 1 ### : Table document construction
     if FLAG[1]:
@@ -67,13 +65,11 @@ def main(source_dataset_name, sample_n, classification, logger):
             classification=classification,
             load_shot=get_expand_statement_task_shots,
             model_name=MODEL_NAME,
-            semaphore=semaphore
+            semaphore_value=SEMAPHORE_VALUE
         )
 
         with open(f'results/storage/{classification}/table_document_set.json', 'w') as file:
             json.dump(table_document_set, file, indent=4)
-        
-        total_cost += cost
         
         logger.info(f"[{'Done':<7}]: expand statement.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
@@ -92,56 +88,49 @@ def main(source_dataset_name, sample_n, classification, logger):
             from get_shots import get_annotate_questions_with_high_header_sim_task_shots as annotate_questions_task_shots
         elif classification == 'low_header_sim':
             from get_shots import get_annotate_questions_with_low_header_sim_task_shots as annotate_questions_task_shots
-        with open(f'results/storage/{classification}/table_document_set.json', 'r') as file:
-            table_document_set = json.load(file)
     
         logger.info("> Step 3")
         logger.info(f"[{'Start':<7}]: annotate questions.")
         high_level_question_set, success_cnt, fail_cnt, cost = annotate_questions(
             table_lake=table_lake,
             instance_set=instance_set,
-            table_document_set=table_document_set,
             classification=classification,
             load_shot=annotate_questions_task_shots,
             model_name=MODEL_NAME,
-            semaphore=semaphore
+            semaphore_value=SEMAPHORE_VALUE
         )
 
         with open(f'results/storage/{classification}/high_level_question_set.json', 'w') as file:
             json.dump(high_level_question_set, file, indent=4)
-        
-        total_cost += cost
         
         logger.info(f"[{'Done':<7}]: annotate questions.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
     ### STEP 3 ###
 
-    ### STEP 4 ###
+    ### STEP 4 ### : Relevant data extraction
     if FLAG[4]:
-        from steps.extract_information import extract_information
-        with open(f'results/storage/{classification}/table_document_set.json', 'r') as file:
+        from steps.extract_relevant_data import extract_relevant_data
+        with open(f'results/storage/high_header_sim/table_document_set.json', 'r') as file:
             table_document_set = json.load(file)
-        with open(f'results/storage/{classification}/high_level_question_set.json', 'r') as file:
+        with open(f'results/storage/high_header_sim/high_level_question_set.json', 'r') as file:
             high_level_question_set = json.load(file)
-        
+            
         logger.info("> Step 4")
-        logger.info(f"[{'Start':<7}]: extract information.")
-        related_information_set, success_cnt, fail_cnt, cost = extract_information(
+        logger.info(f"[{'Start':<7}]: extract relevant data.")
+        relevant_data_set, success_cnt, fail_cnt, cost = extract_relevant_data(
             table_lake=table_lake,
             table_document_set=table_document_set,
             high_level_question_set=high_level_question_set,
             classification=classification,
             model_name=MODEL_NAME,
-            semaphore=semaphore
+            semaphore_value=SEMAPHORE_VALUE
         )
 
-        with open(f'results/storage/{classification}/related_information_set.json', 'w') as file:
-            json.dump(related_information_set, file, indent=4)
+        with open(f'results/storage/high_header_sim/relevant_data_set.json', 'w') as file:
+            json.dump(relevant_data_set, file, indent=4)
         
-        total_cost += cost
-        
-        logger.info(f"[{'Done':<7}]: extract information.")
+        logger.info(f"[{'Done':<7}]: extract relevant data.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}.")
     ### STEP 4 ###
@@ -149,23 +138,21 @@ def main(source_dataset_name, sample_n, classification, logger):
     ### STEP 5 ### : Answer annotation
     if FLAG[5]:
         from steps.annotate_answer import annotate_answer
-        with open(f'results/storage/{classification}/related_information_set.json', 'r') as file:
-            related_information_set = json.load(file)
+        with open(f'results/storage/{classification}/relevant_data_set.json', 'r') as file:
+            relevant_data_set = json.load(file)
 
         logger.info("> Step 5")
         logger.info(f"[{'Start':<7}]: annotate answer.")
         high_level_qa_pair_set, success_cnt, fail_cnt, cost = annotate_answer(
             table_lake=table_lake,
-            related_information_set=related_information_set,
+            relevant_data_set=relevant_data_set,
             classification=classification,
             model_name=MODEL_NAME,
-            semaphore=semaphore
+            semaphore_value=SEMAPHORE_VALUE
         )
 
         with open(f'results/storage/{classification}/high_level_qa_pair_set.json', 'w') as file:
             json.dump(high_level_qa_pair_set, file, indent=4)
-        
-        total_cost += cost
         
         logger.info(f"[{'Done':<7}]: annotate answer.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
@@ -185,20 +172,16 @@ def main(source_dataset_name, sample_n, classification, logger):
             high_level_qa_pair_set=high_level_qa_pair_set,
             classification=classification,
             model_name=MODEL_NAME,
-            semaphore=semaphore
+            semaphore_value=SEMAPHORE_VALUE
         )
 
         with open(f'results/storage/{classification}/high_level_qa_pair_set_with_validation.json', 'w') as file:
             json.dump(high_level_qa_pair_set_with_validation, file, indent=4)
-        
-        total_cost += cost
 
         logger.info(f"[{'Done':<7}]: validate.")
         logger.info(f"[{'Cost':<7}]: ${cost:.2f}.")
         logger.info(f"[{'Results':<7}]: success {success_cnt}, fail {fail_cnt}")
     ### STEP 6 ###
-
-    logger.info(f"Total cost: {total_cost}")
 
     ### Filtering ###
     if not FILTER_FLAG:
@@ -263,13 +246,13 @@ if __name__ == '__main__':
     logger.info(args)
 
     """
-    api_key = '___YOUR_OWN_API_KEY___'
+    api_key = '___YOUR_OPENAI_API_KEY___'
     from utils.openai import add_openai_api_key
     add_openai_api_key(api_key=api_key)
     """
-
-    FLAG = [None, True, None, True, True, True, True]
-    FILTER_FLAG = True
+    
+    FLAG = [None, False, None, False, False, False, False]
+    FILTER_FLAG = False
 
     CLASS = {
         'SourceOpenWikiTable': 'high_header_sim',

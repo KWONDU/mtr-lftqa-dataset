@@ -43,7 +43,7 @@ def get_annotate_questions_with_high_header_sim_task_shots():
             "- **Output**:",
             "\n".join([
                 f"Question {qdx + 1}: {annotation['question']}"
-                for qdx, annotation in enumerate(shot['annotation'][::2])
+                for qdx, annotation in enumerate(shot['annotation'])
             ]),
             ""
         ])

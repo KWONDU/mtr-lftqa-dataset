@@ -7,7 +7,22 @@ from tqdm.asyncio import tqdm_asyncio
 from typing import Any, Dict, List, Literal, Tuple
 
 
-async def validate_task(semaphore, model_input, model_name):
+async def validate_task(
+        model_input: List[Dict[str, Any]],
+        model_name: str,
+        semaphore: asyncio.Semaphore
+    ) -> Tuple[List[Dict[str, Any]], int]:
+    """OpenAI response: validate
+
+    [Params]
+    model_input    : List[Dict[str, Any]]
+    model_name     : str
+    semaphore      : asyncio.Semaphore
+
+    [Return]
+    model_output_list : List[Dict[str, Any]]
+    cost              : int
+    """
     tasks = [
         get_async_openai_response(
             semaphore=semaphore,
@@ -66,7 +81,7 @@ def validate(
         high_level_qa_pair_set: List[Dict[str, Any]],
         classification: Literal['high_header_sim', 'low_header_sim'],
         model_name: str,
-        semaphore: asyncio.Semaphore
+        semaphore_value: int
     ) -> Tuple[List[Dict[str, Any]], int, int, int]:
     """Task: validate
 
@@ -75,7 +90,7 @@ def validate(
     high_level_qa_pair_set : List[Dict[str, Any]]
     classification         : Literal['high_header_sim', 'low_header_sim']
     model_name             : str
-    semaphore              : asyncio.Semaphore
+    semaphore_value        : int
 
     [Returns]
     high_level_qa_pair_set_with_validation : List[Dict[str, Any]]
@@ -127,11 +142,11 @@ def validate(
                     'key': (idx, jdx)
                 })
     
-    semaphore = asyncio.Semaphore(100)
+    semaphore = asyncio.Semaphore(semaphore_value)
     task_output_list, cost = asyncio.run(validate_task(
-        semaphore=semaphore,
         model_input=model_input,
-        model_name=model_name
+        model_name=model_name,
+        semaphore=semaphore
     ))
 
     clear_storage(storage_path=f"buffer/{classification}/validate", extension="txt")

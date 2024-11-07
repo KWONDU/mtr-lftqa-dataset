@@ -6,19 +6,19 @@ from tqdm.asyncio import tqdm_asyncio
 from typing import Any, Dict, List, Literal, Tuple
     
 
-async def extract_information_task(
-        semaphore: asyncio.Semaphore,
+async def extract_relevant_data_task(
         model_input: List[Dict[str, Any]],
         classification: Literal['high_header_sim', 'low_header_sim'],
-        model_name: str
+        model_name: str,
+        semaphore: asyncio.Semaphore
     ) -> Tuple[List[Dict[str, Any]], int]:
-    """OpenAI response: extract information
+    """OpenAI response: extract relevant data
 
     [Params]
-    semaphore      : asyncio.Semaphore
     model_input    : List[Dict[str, Any]]
     classification : Literal['high_header_sim', 'low_header_sim']
     model_name     : str
+    semaphore      : asyncio.Semaphore
 
     [Return]
     model_output_list : List[Dict[str, Any]]
@@ -29,8 +29,8 @@ async def extract_information_task(
         tasks = [
             get_async_openai_response(
                 semaphore=semaphore,
-                system_prompt=load_prompt(role='system', task='extract_information_with_high_header_sim'),
-                user_prompt=load_prompt(role='user', task='extract_information_with_high_header_sim').format(
+                system_prompt=load_prompt(role='system', task=f'extract_relevant_data_with_{classification}'),
+                user_prompt=load_prompt(role='user', task=f'extract_relevant_data_with_{classification}').format(
                     table_document=table_serialization(
                             table_num=-1,
                             metadata=input_data['table']['metadata'],
@@ -64,15 +64,15 @@ async def extract_information_task(
     return sorted(model_output_list, key=lambda x: x['key']), cost
 
 
-def extract_information(
+def extract_relevant_data(
         table_lake: Dict[str, Dict[str, Any]],
         table_document_set: List[Dict[str, Any]],
         high_level_question_set: List[Dict[str, Any]],
         classification: Literal['high_header_sim', 'low_header_sim'],
         model_name: str,
-        semaphore: asyncio.Semaphore
+        semaphore_value: int
     ) -> Tuple[List[Dict[str, Any]], int, int, int]:
-    """Task: extract information
+    """Task: extract relevant data
 
     [Params]
     table_lake              : Dict[str, Dict[str, Any]]
@@ -80,27 +80,21 @@ def extract_information(
     high_level_question_set : List[Dict[str, Any]]
     classification          : Literal['high_header_sim', 'low_header_sim']
     model_name              : str
-    semaphore               : asyncio.Semaphore
+    semaphore_value         : int
 
     [Returns]
-    related_information_set : List[Dict[str, Any]]
+    relevant_data_set : List[Dict[str, Any]]
     success_cnt             : int
     fail_cnt                : int
     cost                    : int
     """
-    related_information_set = [
+    relevant_data_set = [
         {
             'gold_table_id_set': instance['gold_table_id_set'],
             'annotation': [
                 {
                     'question': question,
-                    'information_set': [
-                        {
-                            'table_id': table_id,
-                            'information': ""
-                        }
-                        for table_id in instance['gold_table_id_set']
-                    ]
+                    'relevant_data_set': []
                 }
                 for question in instance['question_list']
             ]
@@ -109,15 +103,15 @@ def extract_information(
     ] # Output
 
     for role in ['system', 'user']:
-        task = f'extract_information_with_{classification}'
+        task = f'extract_relevant_data_with_{classification}'
         save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
 
     # Main task
     model_input = []
     for idx, instance in enumerate(high_level_question_set):
-        ###
-        if classification == 'high_header_sim':
-            for jdx, question in enumerate(instance['question_list']):
+        for jdx, question in enumerate(instance['question_list']):
+            ###
+            if classification == 'high_header_sim':
                 for kdx, table_id in enumerate(instance['gold_table_id_set']):
                     model_input.append({
                         'table': table_lake[table_id],
@@ -131,44 +125,63 @@ def extract_information(
                         'question': question,
                         'key': (idx, jdx, kdx)
                     })
-        
-        elif classification == 'low_header_sim':
-            None
-        ###
+            
+            elif classification == 'low_header_sim':
+                model_input.append({
+                    'table_set': [table_lake[t_id] for t_id in instance['gold_table_id_set']],
+                    'question': question,
+                    'key': (idx, jdx)
+                })
+            ###
     
-    task_output_list, cost = asyncio.run(extract_information_task(
-        semaphore=semaphore,
+    semaphore = asyncio.Semaphore(semaphore_value)
+    task_output_list, cost = asyncio.run(extract_relevant_data_task(
         model_input=model_input,
         classification=classification,
-        model_name=model_name
+        model_name=model_name,
+        semaphore=semaphore
     ))
 
-    clear_storage(storage_path=f"buffer/{classification}/extract_information", extension="txt")
+    clear_storage(storage_path=f"buffer/{classification}/extract_relevant_data", extension="txt")
 
     # Storage
     success_cnt, fail_cnt = 0, 0
     for task_output in tqdm(task_output_list, desc=f"[{'Storage':<7}]"):
-        idx, jdx, kdx = task_output['key']
-        question = high_level_question_set[idx]['question_list'][jdx]
-
         try:
-            related_information_set[idx]['annotation'][jdx]['information_set'][kdx]['information'] = task_output['response'].strip().replace('\n', ' ')
+            ###
+            if classification == 'high_header_sim':
+                idx, jdx, kdx = task_output['key']
+                question = high_level_question_set[idx]['question_list'][jdx]
 
+                relevant_data_set[idx]['annotation'][jdx]['relevant_data_set'].append(
+                    {
+                        'table_id': high_level_question_set[idx]['gold_table_id_set'][kdx],
+                        'information': task_output['response'].strip().replace('\n', ' ')
+                    }
+                )
+            
+            elif classification == 'low_header_sim':
+                None
+            
             success_cnt += 1
         
         except:
-            with open(f'buffer/{classification}/extract_information/{idx+1}_{jdx+1}_error.txt', 'w') as file:
-                file.write(traceback.format_exc())
+            if classification == 'high_header_sim':
+                with open(f'buffer/{classification}/extract_relevant_data/{idx+1}_{jdx+1}_{kdx+1}_error.txt', 'w') as file:
+                    file.write(traceback.format_exc())
+            
+            elif classification == 'low_header_sim':
+                None
 
             fail_cnt += 1
 
     # Buffer
-    with open(f'buffer/{classification}/extract_information.json', 'w') as file:
+    with open(f'buffer/{classification}/extract_relevant_data.json', 'w') as file:
         json.dump(task_output_list, file, indent=4)
 
-    return related_information_set, success_cnt, fail_cnt, cost
+    return relevant_data_set, success_cnt, fail_cnt, cost
 
 
-if __name__ == 'steps.extract_information':
+if __name__ == 'steps.extract_relevant_data':
     from utils.display import clear_storage, table_serialization
     from utils.openai import get_async_openai_response, load_prompt, save_prompt

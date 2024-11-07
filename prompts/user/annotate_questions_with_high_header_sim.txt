@@ -8,7 +8,7 @@ Please generate annotated questions following the guidelines provided:
 {table_title_set}
 
 - **Overlapping Values**:
-{table_headers}
+{overlapping_headers}
 {overlapping_cells}
 
 - **Output**:

@@ -10,18 +10,18 @@ from typing import Any, Dict, List, Literal, Tuple
 
 
 async def expand_statement_task(
-        semaphore: asyncio.Semaphore,
         model_input: List[Dict[str, Any]],
         model_name: str,
-        classification: Literal['high_header_sim', 'low_header_sim']
+        classification: Literal['high_header_sim', 'low_header_sim'],
+        semaphore: asyncio.Semaphore
     ) -> Tuple[List[Dict[str, Any]], int]:
     """OpenAI response: expand statement with high header sim
 
     [Params]
-    semaphore      : asyncio.Semaphore
     model_input    : List[Dict[str, Any]]
     model_name     : str
     classification : Literal['high_header_sim', 'low_header_sim']
+    semaphore      : asyncio.Semaphore
 
     [Return]
     model_output_list : List[Dict[str, Any]]
@@ -95,17 +95,17 @@ def expand_statement(
         classification: Literal['high_header_sim', 'low_header_sim'],
         load_shot: object,
         model_name: str,
-        semaphore: asyncio.Semaphore
+        semaphore_value: int
     ):
     """Task: expand statement
 
     [Params]
-    table_lake     : Dict[str, Dict[str, Any]]
-    instance_set   : List[Dict[str, Any]]
-    classification : Literal['high_header_sim', 'low_header_sim']
-    load_shot      : object
-    model_name     : str
-    semaphore      : asyncio.Semaphore
+    table_lake      : Dict[str, Dict[str, Any]]
+    instance_set    : List[Dict[str, Any]]
+    classification  : Literal['high_header_sim', 'low_header_sim']
+    load_shot       : object
+    model_name      : str
+    semaphore_value : int
 
     [Returns]
     table_document_set : List[Dict[str, Any]]
@@ -164,12 +164,13 @@ def expand_statement(
                     'shots': load_shot()
                 })
         ###
-        
+
+    semaphore = asyncio.Semaphore(semaphore_value)   
     task_output_list, cost = asyncio.run(expand_statement_task(
-        semaphore=semaphore,
         model_input=model_input,
         classification=classification,
-        model_name=model_name
+        model_name=model_name,
+        semaphore=semaphore
     ))
 
     # Clear

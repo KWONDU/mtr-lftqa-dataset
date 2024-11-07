@@ -4,11 +4,11 @@ from typing import Literal
 from ._load_openai_api_key import _load_openai_api_key
 
 
-def load_llm(model_name: Literal['gpt-3.5-turbo', 'gpt-3.5-turbo-16k']) -> ChatOpenAI:
+def load_llm(model_name: Literal['gpt-3.5-turbo', 'gpt-3.5-turbo-16k', 'gpt-4o-mini']) -> ChatOpenAI:
     """Load OpenAI LLM model
 
     [Param]
-    model_name: Literal['gpt-3.5-turbo', 'gpt-3.5-turbo-16k']
+    model_name: Literal['gpt-3.5-turbo', 'gpt-3.5-turbo-16k', 'gpt-4o-mini']
 
     [Return]
     llm : ChatOpenAI

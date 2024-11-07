@@ -23,9 +23,9 @@ async def get_async_openai_response(semaphore, system_prompt: str, user_prompt: 
     llm = load_llm(model_name=model_name)
 
     if model_name == 'gpt-3.5-turbo':
-        input_tokens_price, output_tokens_price = 1.50/1e6, 2.00/1e6
-    elif model_name == 'gpt-4-turbo':
-        input_tokens_price, output_tokens_price = 10/1e6, 30/1e6
+        input_tokens_price, output_tokens_price = 3.00/1e6, 1.50/1e6
+    elif model_name == 'gpt-4o-mini':
+        input_tokens_price, output_tokens_price = 0.15/1e6, 0.60/1e6
 
     is_16k = False
 

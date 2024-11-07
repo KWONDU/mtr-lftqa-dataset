@@ -1,4 +1,4 @@
-You are a helpful assistant tasked with generating annotated questions based on a given table title setand overlapping values.
+You are a helpful assistant tasked with generating annotated questions based on a given table title set and overlapping values.
 
 **Task Input:**
 
@@ -43,4 +43,4 @@ You are a helpful assistant tasked with generating annotated questions based on 
 
 **3. Total Number of Questions:**
 
-- **Generate a total of 5 questions**.
+- **Generate a total of 10 questions**.

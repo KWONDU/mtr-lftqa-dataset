@@ -7,18 +7,18 @@ from typing import Any, Dict, List, Literal, Tuple
     
 
 async def annotate_answer_task(
-        semaphore: asyncio.Semaphore,
         model_input: List[Dict[str, Any]],
         classification: Literal['high_header_sim', 'low_header_sim'],
-        model_name: str
+        model_name: str,
+        semaphore: asyncio.Semaphore
     ) -> Tuple[List[Dict[str, Any]], int]:
     """OpenAI response: annotate answer
 
     [Params]
-    semaphore      : asyncio.Semaphore
     model_input    : List[Dict[str, Any]]
     classification : Literal['high_header_sim', 'low_header_sim']
     model_name     : str
+    semaphore      : asyncio.Semaphore
 
     [Return]
     model_output_list : List[Dict[str, Any]]
@@ -64,19 +64,19 @@ async def annotate_answer_task(
 
 def annotate_answer(
         table_lake: Dict[str, Dict[str, Any]],
-        related_information_set: List[Dict[str, Any]],
+        relevant_data_set: List[Dict[str, Any]],
         classification: Literal['high_header_sim', 'low_header_sim'],
         model_name: str,
-        semaphore: asyncio.Semaphore
+        semaphore_value: int
     ) -> Tuple[List[Dict[str, Any]], int, int, int]:
     """Task: annotate answer
 
     [Params]
     table_lake              : Dict[str, Dict[str, Any]]
-    related_information_set : List[Dict[str, Any]]
+    relevant_data_set : List[Dict[str, Any]]
     classification          : Literal['high_header_sim', 'low_header_sim']
     model_name              : str
-    semaphore               : asyncio.Semaphore
+    semaphore_value         : int
 
     [Returns]
     high_level_qa_pair_set : List[Dict[str, Any]]
@@ -95,7 +95,7 @@ def annotate_answer(
                 for data in instance['annotation']
             ]
         }
-        for instance in related_information_set
+        for instance in relevant_data_set
     ] # Output
 
     for role in ['system', 'user']:
@@ -104,7 +104,7 @@ def annotate_answer(
 
     # Main task
     model_input = []
-    for idx, instance in enumerate(related_information_set):
+    for idx, instance in enumerate(relevant_data_set):
         ###
         if classification == 'high_header_sim':
             for jdx, data in enumerate(instance['annotation']):
@@ -114,7 +114,7 @@ def annotate_answer(
                             'title': table_lake[info['table_id']]['metadata'],
                             'content': info['information']
                         }
-                        for info in data['information_set']
+                        for info in data['relevant_data_set']
                     ],
                     'question': data['question'],
                     'key': (idx, jdx)
@@ -124,14 +124,15 @@ def annotate_answer(
             None
         ###
     
+    semaphore = asyncio.Semaphore(semaphore_value)
     task_output_list, cost = asyncio.run(annotate_answer_task(
-        semaphore=semaphore,
         model_input=model_input,
         classification=classification,
-        model_name=model_name
+        model_name=model_name,
+        semaphore=semaphore
     ))
 
-    # clear_storage(storage_path=f"buffer/{classification}/annotate_answer", extension="txt")
+    clear_storage(storage_path=f"buffer/{classification}/annotate_answer", extension="txt")
 
     # Storage
     success_cnt, fail_cnt = 0, 0
@@ -144,8 +145,8 @@ def annotate_answer(
             success_cnt += 1
         
         except:
-            # with open(f'buffer/{classification}/annotate_answer/{idx+1}_{jdx+1}_error.txt', 'w') as file:
-            #     file.write(traceback.format_exc())
+            with open(f'buffer/{classification}/annotate_answer/{idx+1}_{jdx+1}_error.txt', 'w') as file:
+                file.write(traceback.format_exc())
 
             fail_cnt += 1
 
