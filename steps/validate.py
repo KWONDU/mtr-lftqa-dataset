@@ -81,7 +81,7 @@ def validate(
         high_level_qa_pair_set: List[Dict[str, Any]],
         classification: Literal['high_header_sim', 'low_header_sim'],
         model_name: str,
-        semaphore_value: int
+        batch_size: int
     ) -> Tuple[List[Dict[str, Any]], int, int, int]:
     """Task: validate
 
@@ -90,7 +90,7 @@ def validate(
     high_level_qa_pair_set : List[Dict[str, Any]]
     classification         : Literal['high_header_sim', 'low_header_sim']
     model_name             : str
-    semaphore_value        : int
+    batch_size             : int
 
     [Returns]
     high_level_qa_pair_set_with_validation : List[Dict[str, Any]]
@@ -142,7 +142,7 @@ def validate(
                     'key': (idx, jdx)
                 })
     
-    semaphore = asyncio.Semaphore(semaphore_value)
+    semaphore = asyncio.Semaphore(batch_size)
     task_output_list, cost = asyncio.run(validate_task(
         model_input=model_input,
         model_name=model_name,

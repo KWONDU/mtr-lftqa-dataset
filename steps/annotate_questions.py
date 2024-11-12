@@ -5,12 +5,11 @@ import traceback
 from collections import defaultdict
 from tqdm import tqdm
 from tqdm.asyncio import tqdm_asyncio
-from typing import Any, Dict, List, Literal, Tuple
+from typing import Any, Dict, List, Tuple
 
 
 async def annotate_questions_task(
         model_input: List[Dict[str, Any]],
-        classification: Literal['high_header_sim', 'low_header_sim'],
         model_name: str,
         semaphore: asyncio.Semaphore
     ) -> Tuple[List[Dict[str, Any]], int]:
@@ -18,7 +17,6 @@ async def annotate_questions_task(
 
     [Params]
     model_input    : List[Dict[str, Any]]
-    classification : Literal['high_header_sim', 'low_header_sim']
     model_name     : str
     semaphore      : asyncio.Semaphore
 
@@ -26,59 +24,32 @@ async def annotate_questions_task(
     model_output_list : List[Dict[str, Any]]
     cost              : int
     """
-    ###
-    if classification == 'high_header_sim':
-        tasks = [
-            get_async_openai_response(
-                semaphore=semaphore,
-                system_prompt=load_prompt(role='system', task='annotate_questions_with_high_header_sim'),
-                user_prompt=load_prompt(role='user', task='annotate_questions_with_high_header_sim').format(
-                    shots=input_data['shots'],
-                    table_title_set="\n".join([
-                        table_serialization(
-                            table_num=tdx + 1,
-                            metadata=table['metadata'],
-                            header=None,
-                            cell=None
-                        )
-                        for tdx, table in enumerate(input_data['gold_table_set']) 
-                    ]),
-                    overlapping_headers="Table headers are " + ", ".join(input_data['overlapping_headers']) + ".",
-                    overlapping_cells="Overlapping cells are " + ", ".join([
-                        f"{cell['value']} about {cell['col']}"
-                        for cell in input_data['overlapping_cells']
-                    ]) + "."
-                ),
-                model_name=model_name,
-                key=input_data['key']
-            )
-            for input_data in model_input
-        ]
-    
-    elif classification == 'low_header_sim':
-        tasks = [
-            get_async_openai_response(
-                semaphore=semaphore,
-                system_prompt=load_prompt(role='system', task='annotate_questions_with_low_header_sim'),
-                user_prompt=load_prompt(role='user', task='annotate_questions_with_low_header_sim').format(
-                    shots=input_data['shots'],
-                    table_schema_set="\n".join([
-                        table_serialization(
-                            table_num=tdx + 1,
-                            metadata=table['metadata'],
-                            header=table['header'],
-                            cell=None
-                        )
-                        for tdx, table in enumerate(input_data['gold_table_set'])
-                    ]),
-                    queries=" ".join(input_data['nl_query_set'])
-                ),
-                model_name=model_name,
-                key=input_data['key']
-            )
-            for input_data in model_input
-        ]
-    ###
+    tasks = [
+        get_async_openai_response(
+            semaphore=semaphore,
+            system_prompt=load_prompt(role='system', task='annotate_questions_with_high_header_sim'),
+            user_prompt=load_prompt(role='user', task='annotate_questions_with_high_header_sim').format(
+                shots=input_data['shots'],
+                table_title_set="\n".join([
+                    table_serialization(
+                        table_num=tdx + 1,
+                        metadata=table['metadata'],
+                        header=None,
+                        cell=None
+                    )
+                    for tdx, table in enumerate(input_data['gold_table_set']) 
+                ]),
+                overlapping_headers="Table headers are " + ", ".join(input_data['overlapping_headers']) + ".",
+                overlapping_cells="Overlapping cells are " + ", ".join([
+                    f"{cell['value']} about {cell['col']}"
+                    for cell in input_data['overlapping_cells']
+                ]) + "."
+            ),
+            model_name=model_name,
+            key=input_data['key']
+        )
+        for input_data in model_input
+    ]
 
     model_output_list = []
 
@@ -98,20 +69,18 @@ async def annotate_questions_task(
 def annotate_questions(
         table_lake: Dict[str, Dict[str, Any]],
         instance_set: List[Dict[str, Any]],
-        classification: Literal['high_header_sim', 'low_header_sim'],
         load_shot: object,
         model_name: str,
-        semaphore_value: int
+        batch_size: int
     ) -> Tuple[List[Dict[str, Any]], int, int, int]:
     """Task: annotate questions
 
     [Params]
-    table_lake         : Dict[str, Dict[str, Any]]
-    instance_set       : List[Dict[str, Any]]
-    classification     : Literal['high_header_sim', 'low_header_sim']
-    load_shot          : object
-    model_name         : str
-    semaphore_value    : int
+    table_lake     : Dict[str, Dict[str, Any]]
+    instance_set   : List[Dict[str, Any]]
+    load_shot      : object
+    model_name     : str
+    batch_size     : int
 
     [Returns]
     high_level_question_set : List[Dict[str, Any]]
@@ -128,7 +97,7 @@ def annotate_questions(
     ] # Output
 
     for role in ['system', 'user']:
-        task = f'annotate_questions_with_{classification}'
+        task = 'annotate_questions_with_high_header_sim'
         save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
 
     # Main task
@@ -136,60 +105,44 @@ def annotate_questions(
     for idx, instance in enumerate(instance_set):
         gold_table_set = [table_lake[t_id] for t_id in instance['gold_table_id_set']]
 
-        ###
-        if classification == 'high_header_sim':
-            are_headers_overlap = defaultdict(int)
-            for table in gold_table_set:
-                for col in table['header']:
-                    are_headers_overlap[col] += 1
+        are_headers_overlap = defaultdict(int)
+        for table in gold_table_set:
+            for col in table['header']:
+                are_headers_overlap[col] += 1
 
-            are_cells_overlap = defaultdict(set)
-            for table in gold_table_set:
-                for cdx, col in enumerate(table['header']):
-                    for rdx, _ in enumerate(table['cell']):
-                        are_cells_overlap[(col, table['cell'][rdx][cdx])].add(table['id'])
+        are_cells_overlap = defaultdict(set)
+        for table in gold_table_set:
+            for cdx, col in enumerate(table['header']):
+                for rdx, _ in enumerate(table['cell']):
+                    are_cells_overlap[(col, table['cell'][rdx][cdx])].add(table['id'])
 
-            model_input.append({
-                'gold_table_set': gold_table_set,
-                'overlapping_headers': [
-                    header
-                    for header, overlap_cnt in are_headers_overlap.items()
-                    if overlap_cnt == len(instance['gold_table_id_set'])
-                ],
-                'overlapping_cells': [
-                    {
-                        'col': col,
-                        'value': value
-                    }
-                    for (col, value), table_ids in are_cells_overlap.items()
-                    if len(table_ids) == len(instance['gold_table_id_set'])
-                ],
-                'key': idx,
-                'shots': load_shot()
-            })
-        
-        elif classification == 'low_header_sim':
-            model_input.append({
-                'gold_table_set': gold_table_set,
-                'nl_query_set': [
-                    data['nl_query']
-                    for data in instance['data_list']
-                    if len(data['entailed_table_id_set']) > 1
-                ],
-                'key': idx,
-                'shots': load_shot()
-            })
-        ###
+        model_input.append({
+            'gold_table_set': gold_table_set,
+            'overlapping_headers': [
+                header
+                for header, overlap_cnt in are_headers_overlap.items()
+                if overlap_cnt == len(instance['gold_table_id_set'])
+            ],
+            'overlapping_cells': [
+                {
+                    'col': col,
+                    'value': value
+                }
+                for (col, value), table_ids in are_cells_overlap.items()
+                if len(table_ids) == len(instance['gold_table_id_set'])
+            ],
+            'key': idx,
+            'shots': load_shot()
+        })
     
-    semaphore = asyncio.Semaphore(semaphore_value)
+    semaphore = asyncio.Semaphore(batch_size)
     task_output_list, cost = asyncio.run(annotate_questions_task(
         model_input=model_input,
-        classification=classification,
         model_name=model_name,
         semaphore=semaphore
     ))
 
-    clear_storage(storage_path=f"buffer/{classification}/annotate_questions", extension="txt")
+    clear_storage(storage_path="buffer/high_header_sim/annotate_questions", extension="txt")
 
     # Storage
     success_cnt, fail_cnt = 0, 0
@@ -207,13 +160,13 @@ def annotate_questions(
             success_cnt += 1
         
         except:
-            with open(f'buffer/{classification}/annotate_questions/{idx+1}_error.txt', 'w') as file:
+            with open(f'buffer/high_header_sim/annotate_questions/{idx+1}_error.txt', 'w') as file:
                 file.write(traceback.format_exc())
 
             fail_cnt += 1
 
     # Buffer
-    with open(f'buffer/{classification}/annotate_questions.json', 'w') as file:
+    with open('buffer/high_header_sim/annotate_questions.json', 'w') as file:
         json.dump(task_output_list, file, indent=4)
 
     return high_level_question_set, success_cnt, fail_cnt, cost

@@ -94,6 +94,7 @@ if __name__ == '__main__':
                     }
                 )
         
+        """ # DON'T USE
         # Single table
         else:
             entailed_table_id = next(table_id for table_id in instance['gold_table_id_set'])
@@ -108,6 +109,7 @@ if __name__ == '__main__':
                                 'statement': data['statement']
                             }
                         )
+        """
     
     source_dataset._instances = [
         {

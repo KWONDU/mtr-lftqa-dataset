@@ -1,9 +1,0 @@
-Please generate a high-level answer to the following question using the provided gold table set document.
-
-- **Gold table set document**:
-{gold_table_set_document}
-
-- **Question**:
-{question}
-
-- **Answer**:

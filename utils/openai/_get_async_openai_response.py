@@ -1,24 +1,31 @@
+import asyncio
 from langchain.schema import AIMessage, HumanMessage, SystemMessage
 from openai import OpenAIError
 from typing import Any, Dict
 from ._load_llm import load_llm
 
 
-async def get_async_openai_response(semaphore, system_prompt: str, user_prompt: str, model_name: str, key: Any) -> Dict[str, Any]:
+async def get_async_openai_response(
+        semaphore: asyncio.Semaphore,
+        system_prompt: str,
+        user_prompt: str,
+        model_name: str,
+        key: Any
+    ) -> Dict[str, Any]:
     """Get asynchronous OpenAI response
 
     e.g.
     dict(system_prompt, user_prompt, reponse, input_tokens_cost, output_tokens_cost, key)
 
     [Params]
-    semaphore: Semaphore
-    system_prompt: str
-    user_prompt: str
-    model_name: str
-    key: Any
+    semaphore     : asyncio.Semaphore
+    system_prompt : str
+    user_prompt   : str
+    model_name    : str
+    key           : Any
 
     [Return]
-    instance: Dict[str, Any]
+    instance : Dict[str, Any]
     """
     llm = load_llm(model_name=model_name)
 

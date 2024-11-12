@@ -95,17 +95,17 @@ def expand_statement(
         classification: Literal['high_header_sim', 'low_header_sim'],
         load_shot: object,
         model_name: str,
-        semaphore_value: int
+        batch_size: int
     ):
     """Task: expand statement
 
     [Params]
-    table_lake      : Dict[str, Dict[str, Any]]
-    instance_set    : List[Dict[str, Any]]
-    classification  : Literal['high_header_sim', 'low_header_sim']
-    load_shot       : object
-    model_name      : str
-    semaphore_value : int
+    table_lake     : Dict[str, Dict[str, Any]]
+    instance_set   : List[Dict[str, Any]]
+    classification : Literal['high_header_sim', 'low_header_sim']
+    load_shot      : object
+    model_name     : str
+    batch_size     : int
 
     [Returns]
     table_document_set : List[Dict[str, Any]]
@@ -151,9 +151,6 @@ def expand_statement(
         
         elif classification == 'low_header_sim':
             for jdx, data in enumerate(data_list):
-                if len(data['entailed_table_id_set']) == 1:
-                    continue
-
                 model_input.append({
                     'df_caption_set': [tb['metadata'] for tb in gold_table_set],
                     'df_columns_set': [tb['header'] for tb in gold_table_set],
@@ -165,7 +162,7 @@ def expand_statement(
                 })
         ###
 
-    semaphore = asyncio.Semaphore(semaphore_value)   
+    semaphore = asyncio.Semaphore(batch_size)   
     task_output_list, cost = asyncio.run(expand_statement_task(
         model_input=model_input,
         classification=classification,
