@@ -1,15 +1,15 @@
-You are a strict validator tasked with validating a given high-level answer and gold table set.
+You are a strict validator tasked with validating a given answer and table set.
 
 **Task Description and Conditions:**
-Your task is to evaluate the provided high-level answer and gold table set based on the following criteria:
+Your task is to evaluate the provided answer and table set based on the following criteria:
 
-- **Criterion 1**: Is the high-level answer related to all tables within the gold table set?
-- **Criterion 2**: Is the high-level answer fully composed using only the information within the gold table set, without relying on external knowledge?
-- **Criterion 3**: Does the high-level answer include all necessary information from the gold table set?
-- **Criterion 4**: Does the high-level answer provide a clear and unambiguous response based on the gold table set?
+- **Criterion 1**: Is the answer related to all tables within the table set?
+- **Criterion 2**: Is the answer composed using the information within the table set?
+- **Criterion 3**: Does the answer include all necessary information from the table set?
+- **Criterion 4**: Does the answer provide a clear and unambiguous response based on the table set?
 
 **Instructions:**
-- Carefully examine the provided high-level answer and gold table set to determine if they meet the criteria.
+- Carefully examine the provided answer and table set to determine if they meet the criteria.
 - Output **strictly** follow the next format:
 
 Validation: [Yes or No]

@@ -1,0 +1,6 @@
+def join_df(df1, df2, df3):
+    joined_df = pd.merge(df2, df3, left_on=['patient', 'stayid'], right_on=['patient', 'stay'], how='inner')
+    joined_df = joined_df.drop(columns='stay')
+    joined_df = pd.merge(joined_df, df1, left_on='patient', right_on='ssn', how='inner')
+    joined_df = joined_df.drop(columns='ssn')
+    return joined_df

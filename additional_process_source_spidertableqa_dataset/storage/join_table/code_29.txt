@@ -1,0 +1,6 @@
+def join_df(df1, df2, df3, df4):
+    joined_df = pd.merge(df3, df4, on='emp_num', how='inner')
+    joined_df = pd.merge(joined_df, df1, left_on='emp_num', right_on='prof_num', how='inner')
+    joined_df = joined_df.drop(columns='emp_num')
+    joined_df = pd.merge(joined_df, df2, on='dept_code', how='inner')
+    return joined_df

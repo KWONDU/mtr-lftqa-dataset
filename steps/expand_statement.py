@@ -170,8 +170,7 @@ def expand_statement(
         semaphore=semaphore
     ))
 
-    # Clear
-    clear_storage(storage_path=f'buffer/{classification}/expand_statement', extension='txt')
+    clear_storage(storage_path=f"buffer/{classification}/expand_statement", extension='txt')
 
     # Storage
     success_cnt, fail_cnt = 0, 0
@@ -192,8 +191,6 @@ def expand_statement(
                 instance_set[idx]['data_list'][jdx]['statement']
             ) # given statement
         ###
-
-        clear_storage(storage_path=f"buffer/{classification}/expand_statement", extension="txt")
 
         try:
             ###

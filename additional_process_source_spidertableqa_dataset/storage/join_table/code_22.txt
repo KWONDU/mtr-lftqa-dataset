@@ -1,0 +1,5 @@
+def join_df(df1, df2):
+    joined_df = pd.merge(df1, df2.add_suffix('_destruction_authorised'), left_on='destruction_authorised_by_employee_id', right_on='employee_id_destruction_authorised', how='inner')
+    joined_df = pd.merge(joined_df, df2.add_suffix('_destroyed'), left_on='destroyed_by_employee_id', right_on='employee_id_destroyed', how='inner')
+    joined_df = joined_df.drop(columns=['employee_id_destruction_authorised', 'employee_id_destroyed'])
+    return joined_df

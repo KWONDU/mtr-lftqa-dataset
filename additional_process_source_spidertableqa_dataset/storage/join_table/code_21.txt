@@ -1,0 +1,5 @@
+def join_df(df1, df2):
+    joined_df = pd.merge(df1.add_suffix('_male'), df2, left_on='people_id_male', right_on='male_id', how='inner')
+    joined_df = pd.merge(df1.add_suffix('_female'), joined_df, left_on='people_id_female', right_on='female_id', how='inner')
+    joined_df = joined_df.drop(columns=['people_id_male', 'people_id_female', 'is_male_male', 'is_male_female'])
+    return joined_df

@@ -1,0 +1,16 @@
+Please refer to the following examples when generating questions:
+
+{shots}
+
+Please generate annotated questions following the guidelines provided:
+
+- **Table Title Set**:
+{table_title_set}
+
+- **Columns**:
+{header}
+
+- **JOIN information**:
+{join_info_set}
+
+- **Output**:

@@ -1,9 +1,9 @@
 Please validate the following based on the given criteria.
 
-- **High-level question**:
+- **Qeustion**:
 {question}
 
-- **Gold Table Set**:
+- **Table Set**:
 {gold_table_set_information}
 
 - **Output**:

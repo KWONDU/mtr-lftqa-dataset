@@ -1,0 +1,3 @@
+def join_df(df1, df2):
+    joined_df = pd.merge(df1, df2, on='course_id', how='inner')
+    return joined_df

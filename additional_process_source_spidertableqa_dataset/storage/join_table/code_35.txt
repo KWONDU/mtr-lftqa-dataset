@@ -1,0 +1,9 @@
+def join_df(df1, df2, df3, df4):
+    df1 = df1.rename(columns={'id': 'event_id', 'name': 'event_name'})
+    df2 = df2.rename(columns={'id': 'record_id'})
+    df3 = df3.rename(columns={'id': 'stadium_id', 'name': 'stadium_name'})
+    df4 = df4.rename(columns={'id': 'swimmer_id', 'name': 'swimmer_name'})
+    joined_df = pd.merge(df1, df2, on='event_id', how='inner')
+    joined_df = pd.merge(joined_df, df3, on='stadium_id', how='inner')
+    joined_df = pd.merge(joined_df, df4, on='swimmer_id', how='inner')
+    return joined_df

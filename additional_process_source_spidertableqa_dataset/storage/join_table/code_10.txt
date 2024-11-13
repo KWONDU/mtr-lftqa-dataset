@@ -1,0 +1,2 @@
+def join_df(df1, df2):
+    return pd.DataFrame()

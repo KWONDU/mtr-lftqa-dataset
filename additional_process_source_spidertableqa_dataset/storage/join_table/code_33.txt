@@ -1,0 +1,5 @@
+def join_df(df1, df2, df3, df4):
+    joined_df = pd.merge(df3, df4, on='product_id', how='inner')
+    joined_df = pd.merge(joined_df, df1, on='order_id', how='inner')
+    joined_df = pd.merge(joined_df, df2, on='customer_id', how='inner')
+    return joined_df

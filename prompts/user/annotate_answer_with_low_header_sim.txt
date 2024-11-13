@@ -1,0 +1,12 @@
+Please generate answer to the following question using the provided document set.
+
+- **Table Document**:
+{joined_table}
+{nl_document}
+
+- **Question**:
+{question}
+
+Let's think step by step.
+
+- **Answer**:

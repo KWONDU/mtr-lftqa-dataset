@@ -1,0 +1,7 @@
+def join_df(df1, df2, df3):
+    df1 = df1.rename(columns={'id': 'architect_id', 'name': 'architect_name'})
+    df2 = df2.rename(columns={'id': 'bridge_id', 'name': 'bridge_name', 'location': 'bridge_location'})
+    df3 = df3.rename(columns={'id': 'mill_id', 'name': 'mill_name', 'location': 'mill_location'})
+    joined_df = pd.merge(df1, df2, on='architect_id', how='inner')
+    joined_df = pd.merge(joined_df, df3, on='architect_id', how='inner')
+    return joined_df

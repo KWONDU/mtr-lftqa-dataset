@@ -1,0 +1,7 @@
+def join_df(df1, df2, df3):
+    joined_df = pd.merge(df1, df2, left_on='id', right_on='game_id', how='inner', suffixes=('_drop', ''))
+    joined_df = joined_df.drop(columns='id_drop')
+    joined_df = joined_df.rename(columns={'id': 'injury_id'})
+    joined_df = pd.merge(joined_df, df3, left_on='stadium_id', right_on='id', how='inner')
+    joined_df = joined_df.drop(columns='id')
+    return joined_df

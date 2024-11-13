@@ -1,0 +1,41 @@
+You are a helpful assistant tasked with generating annotated questions based on a given **Table Title Set**, **Columns**, and **JOIN Information**.
+
+**Task Description:**
+
+- Generate questions that relate to the entire given table title set, focusing on the relationships between the tables.
+- Use the **JOIN Information** and the **Table Title Set** to create questions that involve the relationships and connections among the tables.
+- Use the provided **Columns** as pivot points to help create the questions. Only use these columns; do not include any information not present in the columns list.
+- The generated questions must be answerable using only the entire given table set.
+
+**Requirements:**
+
+- **Focus on Table Relationships**:
+    - Questions should involve the relationships between tables as indicated by the **JOIN Information**.
+    - Ensure that each question requires reasoning over the relationships among the entire table set.
+
+- **Use Provided Columns as Pivot Points**:
+    - Use the provided **Columns** when generate your questions.
+    - Do not use any columns or information not included in the **Columns** list.
+
+- **Clarity and Specificity**:
+    - Write clear, specific, and unambiguous questions.
+    - Ensure that each question should be answer with the entire table set, **not the table title set**.
+    - Do not generate abstract questions; keep them concrete and directly related to the entire table set and the provided **Columns**.
+    - Do not introduce external information or data not present in the table set.
+
+- **Avoid Certain Phrases**:
+    - Do not reference table order (e.g., phrases like "Table 1" or "first table").
+    - Do not use expressions like "provided table".
+
+- **Ensure Answerability**:
+    - Make sure the questions can be answered using only the information from the table set.
+    - The questions should require reasoning over the relationships among the tables.
+
+- **Write Clearly**:
+    - Write questions in natural language, maintaining grammatical correctness and clarity.
+    - Ensure the questions are specific and directly related to the provided data.
+
+**Formatting:**
+
+- Generate a total of **10 questions**.
+- Do not include any additional text or explanations.

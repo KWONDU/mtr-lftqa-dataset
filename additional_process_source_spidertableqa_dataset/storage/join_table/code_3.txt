@@ -1,0 +1,6 @@
+def join_df(df1, df2, df3):
+    joined_df = pd.merge(df1, df2, left_on='id', right_on='campus', suffixes=('', '_id'))
+    joined_df = joined_df.drop(columns='campus_id')
+    joined_df = pd.merge(joined_df, df3, left_on=['id', 'year'], right_on=['campus', 'year'], suffixes=('', '_drop'))
+    joined_df = joined_df.drop(columns=['campus_drop'])
+    return joined_df

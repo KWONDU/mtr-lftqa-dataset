@@ -1,0 +1,5 @@
+def join_df(df1, df2):
+    merged_f1 = pd.merge(df1, df2, left_on='f1', right_on='uid', suffixes=('_f1', '_f2'))
+    joined_df = pd.merge(merged_f1, df2, left_on='f2', right_on='uid', suffixes=('_f1', '_f2'))
+    joined_df = joined_df[['f1', 'name_f1', 'email_f1', 'followers_f1', 'f2', 'name_f2', 'email_f2', 'followers_f2']]
+    return joined_df

@@ -1,0 +1,6 @@
+def join_df(df1, df2, df3):
+    joined_df = pd.merge(df1, df2, on='debate_id', how='inner')
+    joined_df = pd.merge(joined_df, df3.add_suffix('_affirmative'), left_on='affirmative', right_on='people_id_affirmative', how='inner')
+    joined_df = pd.merge(joined_df, df3.add_suffix('_negative'), left_on='negative', right_on='people_id_negative', how='inner')
+    joined_df = joined_df.drop(columns=['affirmative', 'negative', 'people_id_affirmative', 'people_id_negative'])
+    return joined_df

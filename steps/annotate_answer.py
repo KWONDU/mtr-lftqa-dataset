@@ -3,12 +3,14 @@ import json
 import traceback
 from tqdm import tqdm
 from tqdm.asyncio import tqdm_asyncio
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Literal, Tuple
+from utils.display import table_serialization
     
 
 async def annotate_answer_task(
         model_input: List[Dict[str, Any]],
         model_name: str,
+        classification: Literal['high_header_sim', 'low_header_sim'],
         semaphore: asyncio.Semaphore
     ) -> Tuple[List[Dict[str, Any]], int]:
     """OpenAI response: annotate answer
@@ -16,28 +18,53 @@ async def annotate_answer_task(
     [Params]
     model_input    : List[Dict[str, Any]]
     model_name     : str
+    classification : Literal['high_header_sim', 'low_header_sim']
     semaphore      : asyncio.Semaphore
 
     [Return]
     model_output_list : List[Dict[str, Any]]
     cost              : int
     """
-    tasks = [
-        get_async_openai_response(
-            semaphore=semaphore,
-            system_prompt=load_prompt(role='system', task='annotate_answer_with_high_header_sim'),
-            user_prompt=load_prompt(role='user', task='annotate_answer_with_high_header_sim').format(
-                document_set="\n".join([
-                    f"Document {ddx + 1} [title] {doc['title']} [content] {doc['content']}"
-                    for ddx, doc in enumerate(input_data['document_set'])
-                ]),
-                question=input_data['question']
-            ),
-            model_name=model_name,
-            key=input_data['key']
-        )
-        for input_data in model_input
-    ]
+    ###
+    if classification == 'high_header_sim':
+        tasks = [
+            get_async_openai_response(
+                semaphore=semaphore,
+                system_prompt=load_prompt(role='system', task='annotate_answer_with_high_header_sim'),
+                user_prompt=load_prompt(role='user', task='annotate_answer_with_high_header_sim').format(
+                    document_set="\n".join([
+                        f"Document {ddx + 1} [title] {doc['title']} [content] {doc['content']}"
+                        for ddx, doc in enumerate(input_data['document_set'])
+                    ]),
+                    question=input_data['question']
+                ),
+                model_name=model_name,
+                key=input_data['key']
+            )
+            for input_data in model_input
+        ]
+    
+    elif classification == 'low_header_sim':
+        tasks = [
+            get_async_openai_response(
+                semaphore=semaphore,
+                system_prompt=load_prompt(role='system', task='annotate_answer_with_low_header_sim'),
+                user_prompt=load_prompt(role='user', task='annotate_answer_with_low_header_sim').format(
+                    joined_table=table_serialization(
+                        table_num=-1,
+                        metadata=None,
+                        header=input_data['joined_table']['header'],
+                        cell=input_data['joined_table']['cell']
+                    ),
+                    nl_document=" ".join(input_data['nl_document_list']),
+                    question=input_data['question']
+                ),
+                model_name=model_name,
+                key=input_data['key']
+            )
+            for input_data in model_input
+        ]
+    ###
 
     model_output_list = []
 
@@ -57,6 +84,7 @@ async def annotate_answer_task(
 def annotate_answer(
         table_lake: Dict[str, Dict[str, Any]],
         relevant_data_set: List[Dict[str, Any]],
+        classification: Literal['high_header_sim', 'low_header_sim'],
         model_name: str,
         batch_size: int
     ) -> Tuple[List[Dict[str, Any]], int, int, int]:
@@ -65,6 +93,7 @@ def annotate_answer(
     [Params]
     table_lake        : Dict[str, Dict[str, Any]]
     relevant_data_set : List[Dict[str, Any]]
+    classification    : Literal['high_header_sim', 'low_header_sim']
     model_name        : str
     batch_size        : int
 
@@ -89,33 +118,45 @@ def annotate_answer(
     ] # Output
 
     for role in ['system', 'user']:
-        task = 'annotate_answer_with_high_header_sim'
+        task = f'annotate_answer_with_{classification}'
         save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
 
     # Main task
     model_input = []
     for idx, instance in enumerate(relevant_data_set):
         for jdx, data in enumerate(instance['annotation']):
-            model_input.append({
-                'document_set': [
-                    {
-                        'title': table_lake[info['table_id']]['metadata'],
-                        'content': info['information']
-                    }
-                    for info in data['relevant_data_set']
-                ],
-                'question': data['question'],
-                'key': (idx, jdx)
-            })
+            ###
+            if classification == 'high_header_sim':
+                model_input.append({
+                    'document_set': [
+                        {
+                            'title': table_lake[info['table_id']]['metadata'],
+                            'content': info['information']
+                        }
+                        for info in data['relevant_data_set']
+                    ],
+                    'question': data['question'],
+                    'key': (idx, jdx)
+                })
+            
+            elif classification == 'low_header_sim':
+                model_input.append({
+                    'joined_table': data['relevant_data_set']['joined_table'],
+                    'nl_document_list': data['relevant_data_set']['nl_document_list'],
+                    'question': data['question'],
+                    'key': (idx, jdx)
+                })
+            ###
     
     semaphore = asyncio.Semaphore(batch_size)
     task_output_list, cost = asyncio.run(annotate_answer_task(
         model_input=model_input,
         model_name=model_name,
+        classification=classification,
         semaphore=semaphore
     ))
 
-    clear_storage(storage_path="buffer/high_header_sim/annotate_answer", extension="txt")
+    clear_storage(storage_path=f"buffer/{classification}/annotate_answer", extension="txt")
 
     # Storage
     success_cnt, fail_cnt = 0, 0
@@ -128,13 +169,13 @@ def annotate_answer(
             success_cnt += 1
         
         except:
-            with open(f'buffer/high_header_sim/annotate_answer/{idx+1}_{jdx+1}_error.txt', 'w') as file:
+            with open(f'buffer/{classification}/annotate_answer/{idx+1}_{jdx+1}_error.txt', 'w') as file:
                 file.write(traceback.format_exc())
 
             fail_cnt += 1
 
     # Buffer
-    with open('buffer/high_header_sim/annotate_answer.json', 'w') as file:
+    with open(f'buffer/{classification}/annotate_answer.json', 'w') as file:
         json.dump(task_output_list, file, indent=4)
 
     return high_level_qa_pair_set, success_cnt, fail_cnt, cost

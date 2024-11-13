@@ -1,0 +1,4 @@
+def join_df(df1, df2):
+    joined_df = pd.merge(df1, df2, left_on='clubid', right_on='club_id', how='inner')
+    joined_df = joined_df.drop(columns='clubid')
+    return joined_df

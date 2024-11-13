@@ -1,0 +1,6 @@
+def join_df(df1, df2, df3, df4, df5):
+    joined_df = pd.merge(df1, df3, on='dormid', how='inner')
+    joined_df = pd.merge(joined_df, df2, on='amenid', how='inner')
+    joined_df = pd.merge(joined_df, df4, on='dormid', how='inner')
+    joined_df = pd.merge(joined_df, df5, on='stuid', how='inner')
+    return joined_df

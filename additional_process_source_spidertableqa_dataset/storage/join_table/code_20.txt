@@ -1,0 +1,6 @@
+def join_df(df1, df2, df3):
+    joined_df = pd.merge(df1, df3, on='church_id', how='inner')
+    joined_df = pd.merge(joined_df, df2.add_suffix('_male'), left_on='male_id', right_on='people_id_male', how='inner')
+    joined_df = pd.merge(joined_df, df2.add_suffix('_female'), left_on='female_id', right_on='people_id_female', how='inner')
+    joined_df = joined_df.drop(columns=['people_id_male', 'people_id_female', 'is_male_male', 'is_male_female'])
+    return joined_df
