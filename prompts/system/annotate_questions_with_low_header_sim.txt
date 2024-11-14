@@ -11,7 +11,7 @@ You are a helpful assistant tasked with generating annotated questions based on 
 
 - **Focus on Table Relationships**:
     - Questions should involve the relationships between tables as indicated by the **JOIN Information**.
-    - Ensure that each question requires reasoning over the relationships among the entire table set.
+    - Ensure that each question requires **human-like reasoning** over the relationships among the entire table set.
 
 - **Use Provided Columns as Pivot Points**:
     - Use the provided **Columns** when generate your questions.
@@ -19,7 +19,7 @@ You are a helpful assistant tasked with generating annotated questions based on 
 
 - **Clarity and Specificity**:
     - Write clear, specific, and unambiguous questions.
-    - Ensure that each question should be answer with the entire table set, **not the table title set**.
+    - Ensure that each question should be answer with the entire table set, **not the table title or metadata set**.
     - Do not generate abstract questions; keep them concrete and directly related to the entire table set and the provided **Columns**.
     - Do not introduce external information or data not present in the table set.
 
@@ -29,7 +29,8 @@ You are a helpful assistant tasked with generating annotated questions based on 
 
 - **Ensure Answerability**:
     - Make sure the questions can be answered using only the information from the table set.
-    - The questions should require reasoning over the relationships among the tables.
+    - The questions should require **human-like reasoning** over the relationships among the tables.
+    - Construct the questions in a way that requires information not only from the table metadata set but also from the table cell details to be answered.
 
 - **Write Clearly**:
     - Write questions in natural language, maintaining grammatical correctness and clarity.

@@ -5,16 +5,16 @@
             "efe1dde303598ae8212d695c54954617d5aa4325c370d21c0149d0a9e6790f01"
         ],
         "question_list": [
-            "What are the addresses associated with the stores that belong to the drama workshop groups, and how do these addresses vary in terms of location?",
-            "How many unique addresses are linked to the stores in the drama workshop groups, and what is the significance of these addresses in relation to the groups?",
-            "What is the relationship between the metadata of the addresses and the stores in the drama workshop groups, and how does this impact the organization of the groups?",
-            "How do the metadata info of the addresses compare to the metadata of the stores, and what insights can be drawn about the locations of the drama workshop groups?",
-            "What is the distribution of stores across different addresses for the drama workshop groups, and how does this distribution reflect the accessibility of the workshops?",
-            "How does the id of the addresses correlate with the id of the stores in the drama workshop groups, and what does this reveal about the structure of the data?",
-            "What patterns can be observed in the cell data of the addresses and stores related to the drama workshop groups, and how do these patterns inform group activities?",
-            "How do the addresses of the stores influence the participation rates in the drama workshop groups, based on the metadata provided?",
-            "What are the implications of the address metadata on the operational efficiency of the stores associated with the drama workshop groups?",
-            "How do the relationships between the addresses and stores in the drama workshop groups affect the overall management of the workshops?"
+            "What are the addresses associated with the stores that are part of the drama workshop groups, and how do these addresses vary in terms of location?",
+            "How many stores are linked to each address in the drama workshop groups, and what are the specific addresses for those stores?",
+            "What is the relationship between the addresses of the stores and the number of drama workshop groups they serve, and how does this impact accessibility for participants?",
+            "Which addresses have the highest concentration of stores related to the drama workshop groups, and what are the names of those stores?",
+            "How do the addresses of the stores correlate with the types of drama workshop groups they support, and what insights can be drawn from this relationship?",
+            "What are the unique addresses that host stores for the drama workshop groups, and how do these addresses compare in terms of their geographical distribution?",
+            "How does the presence of multiple stores at a single address affect the drama workshop groups operating in that area, and what are the implications for participants?",
+            "What patterns can be observed in the addresses of stores associated with the drama workshop groups, particularly in terms of urban versus suburban locations?",
+            "How do the addresses of the stores influence the demographic makeup of participants in the drama workshop groups, and what factors contribute to this?",
+            "What is the significance of the address data in understanding the reach and impact of the stores on the drama workshop groups, and how does this inform future planning?"
         ]
     },
     {
@@ -24,16 +24,16 @@
             "7b2fd02793cb4529661c9dee5e3b1096bb50ee6d0f86972a1d9d940eac168f44"
         ],
         "question_list": [
-            "What is the relationship between the metadata of train stations and the trains that operate at those stations, specifically focusing on the station IDs and train IDs?",
-            "How do the metadata and header information of train stations compare across different stations, and what insights can be drawn from their respective IDs?",
-            "What are the unique identifiers for trains that serve the stations with the most comprehensive metadata, and how do these identifiers relate to the station IDs?",
-            "How does the metadata info for a specific train station correlate with the types of trains that stop there, particularly in terms of their train IDs?",
-            "What patterns can be observed in the metadata of train stations that have the same station ID, and how does this relate to the trains that service those stations?",
-            "How do the header and metadata of train stations influence the scheduling and operation of trains at those stations, based on their respective IDs?",
-            "What is the significance of the station ID in linking the metadata of train stations to the trains that operate at those locations?",
-            "How does the metadata info for trains compare across different train stations, and what implications does this have for understanding train operations?",
-            "What are the common metadata attributes shared by train stations that have multiple trains associated with them, and how do these attributes relate to their station IDs?",
-            "How do the relationships between station IDs and train IDs impact the overall efficiency of train operations at various train stations?"
+            "What are the different train services available at each train station, and how do their schedules compare in terms of frequency and duration?",
+            "How does the number of trains operating at a specific train station relate to the overall passenger traffic at that station?",
+            "What is the relationship between the types of trains available at a station and the station's metadata information, such as its location and facilities?",
+            "How do the train schedules at the busiest train station compare to those at the least busy station in terms of peak hours and service frequency?",
+            "What are the characteristics of the trains that serve the station with the highest passenger volume, and how do these characteristics influence travel times?",
+            "How does the metadata information of a train station correlate with the types of trains that stop there, particularly in terms of service quality and amenities?",
+            "What patterns can be observed in the train services offered at stations with similar metadata information, such as geographic location or station size?",
+            "How do the train schedules at stations with the same train services differ, and what factors contribute to these differences?",
+            "What is the impact of the number of trains servicing a station on the overall efficiency of the station's operations and passenger experience?",
+            "How do the characteristics of the trains that operate at a station influence the station's metadata, such as its capacity and infrastructure needs?"
         ]
     },
     {
@@ -43,16 +43,16 @@
             "ecbac12703c3882168d1f1bdf052e333c058354c7061a7f91c94fb1ac65f3484"
         ],
         "question_list": [
-            "What are the details of the courses taught by instructors who have the highest number of courses assigned to them, and how do these courses compare in terms of metadata information?",
-            "How does the metadata associated with the courses taught by a specific instructor relate to the overall performance of those courses in terms of student enrollment?",
-            "What is the relationship between the course IDs and the instructors who teach them, and how does this relationship affect the metadata information provided for each course?",
-            "Which instructors are associated with the courses that have the most comprehensive metadata, and what does this metadata reveal about the course structure?",
-            "How do the metadata details of courses taught by instructors with the same ID compare, and what implications does this have for course offerings?",
-            "What patterns can be observed in the metadata information of courses when analyzed alongside the instructors who teach them, particularly focusing on course IDs?",
-            "How does the cell information for courses taught by different instructors vary, and what does this indicate about the teaching methods employed?",
-            "What is the significance of the course ID in linking instructors to their respective courses, and how does this affect the metadata associated with those courses?",
-            "How do the metadata and cell information for courses taught by the same instructor differ, and what might this suggest about the instructor's teaching style?",
-            "In what ways does the relationship between course IDs and instructor IDs influence the overall organization of courses within the college, particularly in terms of metadata presentation?"
+            "What are the names of the instructors who teach courses with the highest and lowest enrollment, and how do their teaching styles differ based on course evaluations?",
+            "How many courses are taught by each instructor, and what is the average course rating for those instructors?",
+            "Which courses have the most instructors assigned to them, and how does this affect the overall student satisfaction ratings for those courses?",
+            "What is the relationship between the course IDs and the instructors who teach them, and how does this impact the course offerings for students?",
+            "How do the teaching loads of instructors compare across different courses, and what factors contribute to any disparities observed?",
+            "What are the most popular courses based on enrollment numbers, and who are the instructors responsible for teaching these courses?",
+            "How does the average rating of courses taught by a specific instructor compare to the overall average rating of all courses in the college?",
+            "What trends can be observed in the types of courses offered by instructors with the highest teaching loads, and how does this relate to student performance?",
+            "How do the course IDs correlate with the instructors' teaching experience, and what implications does this have for course quality?",
+            "What is the distribution of course ratings among instructors teaching the same course, and what factors might explain any variations in these ratings?"
         ]
     },
     {
@@ -61,16 +61,16 @@
             "fb9662c0a9d6a60d6844501b3e025527879449e5250db7da383d6f92d1527bda"
         ],
         "question_list": [
-            "What is the relationship between the students who have declared a minor and their respective student IDs, and how does this reflect on the overall distribution of minors among students?",
-            "How many students are enrolled in each minor program, and what are the corresponding student IDs for those enrolled in the most popular minor?",
-            "What are the unique student IDs of students who have declared a minor, and how do these IDs compare to the total number of students in the college?",
-            "How does the distribution of minors among students correlate with the metadata information provided for each minor program?",
-            "What is the significance of the metadata associated with each minor in relation to the students who have chosen them, particularly focusing on the student IDs?",
-            "How do the student IDs of those pursuing a minor compare to the overall student population in terms of academic performance or other metadata attributes?",
-            "What trends can be observed in the choice of minors among students based on the metadata information, and how do these trends relate to specific student IDs?",
-            "How does the number of students pursuing each minor program relate to the metadata info provided, and what implications does this have for academic advising?",
-            "What is the impact of the metadata associated with each minor on the decision-making process of students when selecting their minors, as reflected in their student IDs?",
-            "How do the student IDs of those who have declared a minor differ from those who have not, and what does this reveal about the overall academic engagement of students in the college?"
+            "What is the distribution of students pursuing different minors, and how does this relate to the overall student population in the college?",
+            "How many students are enrolled in each minor, and what percentage of the total student body does this represent?",
+            "What are the most popular minors among students, and how do the numbers of students in these minors compare to those in less popular ones?",
+            "How does the choice of minor correlate with the academic performance of students, based on their enrollment status?",
+            "What is the relationship between the number of students pursuing a specific minor and the availability of related courses in the college?",
+            "How do the demographics of students enrolled in different minors compare, particularly in terms of gender and academic standing?",
+            "What trends can be observed in the enrollment of students in minors over the past few years, and how do these trends reflect changes in student interests?",
+            "How does the distribution of students across various minors impact the resources allocated to those programs within the college?",
+            "What factors influence a student's decision to choose a particular minor, and how do these factors vary among different student groups?",
+            "How do the enrollment numbers in minors compare to the overall enrollment in major programs, and what implications does this have for academic advising?"
         ]
     },
     {
@@ -79,16 +79,16 @@
             "e3164e0e81b8de2b0062d25ed85dafda25f5d6b08aa4b7c84c698ea7a578234f"
         ],
         "question_list": [
-            "What is the relationship between the metadata of products and the events they are associated with, specifically focusing on the product IDs that link these two tables?",
-            "How does the header information of products correlate with the metadata info of products in events, and what insights can be drawn from this relationship?",
-            "What are the unique product IDs present in both the products table and the products in events table, and how do their corresponding metadata and metadata info differ?",
-            "How do the cell values in the products table compare to those in the products in events table for the same product IDs, and what implications does this have for event management?",
-            "What patterns can be observed in the metadata of products that are frequently involved in events, and how does this relate to their product IDs?",
-            "How does the header of a product influence its participation in events, as indicated by the product IDs in both tables?",
-            "What is the significance of the metadata info for products that are linked to events, and how does this affect the overall understanding of product performance?",
-            "How do the product IDs serve as a bridge between the two tables, and what can be inferred about the relationship between products and their events based on the metadata?",
-            "What trends can be identified in the cell data of products that are commonly featured in events, and how do these trends relate to their metadata?",
-            "How does the information in the products table enhance the understanding of the events listed in the products in events table, particularly through the lens of product IDs and their associated metadata?"
+            "What are the different products associated with events in the solvency II framework, and how do their respective metadata details compare?",
+            "How many unique products are linked to events in the solvency II data set, and what are their corresponding IDs?",
+            "What is the relationship between the product IDs of the products and the events they are associated with in the solvency II context?",
+            "How do the metadata details of products compare to those of products in events, particularly in terms of their identification and categorization?",
+            "What are the specific metadata attributes for products that are involved in events, and how do these attributes differ from those of standalone products?",
+            "How does the presence of certain products in events affect their metadata information, and what implications does this have for solvency II reporting?",
+            "What trends can be observed in the product IDs of products that frequently appear in events, and how do these trends relate to their metadata?",
+            "How do the characteristics of products in events influence the overall solvency II product offerings, based on their metadata?",
+            "What is the significance of the product ID in linking products to events within the solvency II framework, and how does this affect data integrity?",
+            "How do the metadata details of products in events enhance our understanding of the product landscape in solvency II, and what insights can be drawn from this comparison?"
         ]
     },
     {
@@ -97,16 +97,16 @@
             "18b3fface9270a3c564945ade7af5e010fda08163949743bb1b852128ffbfb7d"
         ],
         "question_list": [
-            "What is the relationship between the number of students enrolled in each department and the metadata information associated with those departments in college 1?",
-            "How does the metadata info for each department correlate with the student IDs of those enrolled in the respective departments at college 1?",
-            "What are the unique department codes for each department in college 1, and how many students are associated with each of these codes?",
-            "How does the header information for each department relate to the student populations within those departments at college 1?",
-            "What is the distribution of students across different departments in college 1, and how does this distribution reflect in the metadata info provided for each department?",
-            "How do the student IDs from college 1 vary across departments, and what does this indicate about the enrollment trends in relation to department metadata?",
-            "What insights can be drawn from the metadata associated with departments in college 1 regarding the academic performance of students in those departments?",
-            "How does the cell information for each department in college 1 reflect the diversity of the student body within those departments?",
-            "What patterns emerge when comparing the department codes with the student IDs in college 1, particularly in terms of enrollment numbers?",
-            "How does the metadata info for departments in college 1 influence the overall student experience and academic offerings within those departments?"
+            "What is the relationship between the number of students enrolled in each department and the department codes, and how does this reflect on the overall departmental structure of the college?",
+            "How do the student populations in different departments compare, particularly focusing on the department with the highest enrollment and its corresponding department code?",
+            "What are the department codes for departments that have more students than the average number of students across all departments, and how does this impact departmental resources?",
+            "How does the distribution of students across various departments correlate with the specific department codes, and what trends can be observed in this distribution?",
+            "What is the total number of students in the department with the lowest enrollment, and what is its corresponding department code?",
+            "How do the department codes of the departments with the highest and lowest student enrollments compare, and what implications does this have for departmental funding?",
+            "What patterns emerge when analyzing the relationship between department codes and student demographics within each department?",
+            "How does the enrollment in each department, as indicated by the department codes, influence the academic offerings and resources available to students?",
+            "What is the significance of the department code in identifying trends in student enrollment across different departments within the college?",
+            "How do the department codes relate to the overall academic performance of students in each department, and what insights can be drawn from this relationship?"
         ]
     },
     {
@@ -115,16 +115,16 @@
             "c6f40e9322b594e79c8743f517c3764f25117771e5bf5174b5e3059ee9a91b39"
         ],
         "question_list": [
-            "What metadata is associated with the council tax entries that have the highest and lowest header values in the cmi cross references table, and how do these entries compare in terms of their respective IDs?",
-            "How does the metadata info for the council tax entries relate to the headers in the cmi cross references, and what patterns can be observed in their IDs?",
-            "What are the differences in metadata between the council tax entries that share the same cmi cross reference ID, and how does this affect the overall understanding of the local government data?",
-            "How do the header values in the cmi cross references correlate with the cell values in the council tax table, and what implications does this have for local government data analysis?",
-            "What is the relationship between the metadata info of council tax entries and their corresponding headers in the cmi cross references, particularly for those with unique IDs?",
-            "How do the IDs of council tax entries that reference the same cmi cross reference differ in terms of their metadata and cell values, and what insights can be drawn from this comparison?",
-            "What trends can be identified in the metadata associated with council tax entries when compared to the headers in the cmi cross references, especially regarding their respective IDs?",
-            "How does the presence of specific metadata in the council tax entries influence the interpretation of the headers in the cmi cross references, and what are the key differences in their IDs?",
-            "What are the implications of the metadata info for understanding the relationship between council tax entries and their corresponding cmi cross references, particularly in terms of header significance?",
-            "How do the cell values in the council tax table reflect the metadata and headers from the cmi cross references, and what does this reveal about the local government data structure?"
+            "What are the different council tax rates associated with each unique CMI cross-reference ID, and how do these rates vary across different local government areas?",
+            "How does the metadata information for each CMI cross-reference ID relate to the council tax data, and what insights can be drawn from this relationship?",
+            "What is the total number of council tax entries linked to each CMI cross-reference ID, and how does this number reflect on the local government's tax policies?",
+            "How do the header and cell information for CMI cross-references correlate with the council tax data, and what patterns emerge from this analysis?",
+            "What is the significance of the metadata associated with each council tax entry in understanding the local government's financial management?",
+            "How do the IDs of CMI cross-references compare with the IDs of council tax entries, and what does this reveal about the structure of local government data?",
+            "What trends can be identified in the council tax data when analyzed alongside the metadata information from the CMI cross-references?",
+            "How does the relationship between CMI cross-reference IDs and council tax rates impact the overall revenue generation for local governments?",
+            "What are the implications of the metadata info for local governments when it comes to adjusting council tax rates based on CMI cross-reference data?",
+            "How do variations in council tax rates across different local government areas reflect the underlying CMI cross-reference data, and what conclusions can be drawn from this analysis?"
         ]
     },
     {
@@ -133,16 +133,16 @@
             "31c9b7ccb4a313ba630e10a1dee3cc714f3700faf23cb4d1df4d94d2f4283c26"
         ],
         "question_list": [
-            "What is the relationship between the metadata of customers and the first notifications of loss they have reported, and how does this affect the overall claims process?",
-            "How do the header and metadata information of customers correlate with the number of first notifications of loss they submit?",
-            "What patterns can be observed in the metadata info of customers who have multiple first notifications of loss, and how does this impact their insurance claims?",
-            "How does the id of a customer relate to the specific first notification of loss they filed, and what insights can be drawn from this relationship?",
-            "What trends can be identified in the cell data of first notifications of loss when compared to the metadata of the corresponding customers?",
-            "How does the customer_id serve as a key link between the customer metadata and their first notifications of loss, and what implications does this have for data analysis?",
-            "In what ways do the header and cell information of first notifications of loss reflect the characteristics of the customers who reported them?",
-            "How can the metadata info of customers be used to predict the likelihood of a first notification of loss being filed?",
-            "What is the significance of the id in tracking customer interactions with first notifications of loss, and how does it facilitate better customer service?",
-            "How do the various elements of metadata and cell data contribute to understanding the relationship between customers and their first notifications of loss?"
+            "How many customers have submitted a first notification of loss, and what is the relationship between their customer IDs and the notifications they filed?",
+            "What is the total number of first notifications of loss associated with each customer, and how does this reflect on their respective customer IDs?",
+            "Which customer has the highest number of first notifications of loss, and what is the corresponding customer ID for this individual?",
+            "How do the customer IDs correlate with the frequency of first notifications of loss, and what patterns can be observed in this relationship?",
+            "What is the distribution of first notifications of loss across different customer IDs, and how does this distribution inform us about customer engagement?",
+            "How many unique customer IDs are associated with multiple first notifications of loss, and what does this indicate about their claims history?",
+            "What is the relationship between the metadata information of customers and the first notifications of loss they have submitted?",
+            "How does the information in the header and cell columns of the first notification of loss relate to the customer IDs in the customers table?",
+            "What insights can be drawn from the metadata of customers in relation to the first notifications of loss they have filed?",
+            "How do the customer IDs in the customers table help in tracking the history of first notifications of loss, and what implications does this have for customer service?"
         ]
     },
     {
@@ -151,16 +151,16 @@
             "5c2dac197253e909b22234b79a027b308232b2de630f664dc2ba06dee7f62b52"
         ],
         "question_list": [
-            "What is the relationship between the metadata of orders and the corresponding shipments, specifically focusing on the order IDs and their associated metadata info?",
-            "How do the headers of the orders compare to the headers of the shipments in terms of the information they provide about each order?",
-            "What are the unique identifiers (IDs) for orders that have been shipped, and how do these IDs relate to the metadata associated with those shipments?",
-            "How does the metadata info for a specific order correlate with the shipment details, and what insights can be drawn from this relationship?",
-            "What is the significance of the cell values in the orders table when compared to the corresponding cell values in the shipments table for the same order IDs?",
-            "How do the metadata and header information in the orders table enhance the understanding of the shipment process for each order?",
-            "What patterns can be observed in the metadata info of orders that have multiple shipments associated with them, based on their order IDs?",
-            "How does the tracking of orders through their IDs affect the efficiency of the shipment process, as reflected in the metadata and cell information?",
-            "What discrepancies, if any, exist between the metadata of orders and the corresponding shipments, particularly in relation to their IDs?",
-            "How can the analysis of cell values in both the orders and shipments tables provide insights into the overall order fulfillment process?"
+            "What is the relationship between the order IDs in the orders table and the corresponding shipment details, and how do they affect the tracking of each order?",
+            "How many shipments are associated with each order ID, and what is the distribution of these shipments across different orders?",
+            "What metadata information is available for each order, and how does it correlate with the shipment data for those orders?",
+            "How does the tracking information for shipments relate to the order IDs, and what insights can be drawn from the metadata associated with these orders?",
+            "What are the common metadata attributes found in both the orders and shipments tables, and how do they enhance the understanding of order tracking?",
+            "How do the shipment details vary for orders with the same order ID, and what implications does this have for order fulfillment?",
+            "What patterns can be observed in the shipment data when analyzed alongside the order IDs, particularly in terms of delivery times and tracking updates?",
+            "How does the metadata associated with orders influence the tracking process of shipments, and what specific information is most critical for effective tracking?",
+            "What is the significance of the order ID in linking the orders and shipments tables, and how does this relationship facilitate order tracking?",
+            "How can the analysis of order IDs and their corresponding shipments improve the efficiency of the tracking system for orders?"
         ]
     },
     {
@@ -169,16 +169,16 @@
             "716cdb4be226b098e43f01f401a1263ba06dabfcdb28497d4a2630ef2cba0c31"
         ],
         "question_list": [
-            "What is the relationship between the metadata of documents and the corresponding statements, and how does this relationship affect the overall understanding of the expenses recorded?",
-            "How do the headers of documents correlate with the metadata info in statements, and what insights can be drawn from this correlation regarding the nature of the expenses?",
-            "What are the unique identifiers (id) for documents that have corresponding statements, and how do these ids help in tracking the expenses associated with each document?",
-            "How does the cell information in documents relate to the metadata of statements, and what implications does this have for analyzing the financial data?",
-            "What patterns can be observed in the metadata of documents when compared to the statements, particularly in terms of expense categorization?",
-            "How do the headers in the documents influence the structure and content of the statements, and what does this reveal about the documentation process?",
-            "What is the significance of the document_id in linking documents to their respective statements, and how does this linkage enhance the clarity of expense reporting?",
-            "How do the metadata and metadata info in documents provide context for the statements, and what role do they play in understanding the financial implications?",
-            "What are the commonalities and differences in the cell data across various documents and their linked statements, and how do these affect the interpretation of expenses?",
-            "How does the integration of document ids and statement ids facilitate a comprehensive overview of the expenses, and what challenges might arise in this integration?"
+            "What is the relationship between the metadata information of documents and the corresponding statements, and how does this affect the understanding of each document's purpose?",
+            "How do the IDs of documents correlate with the IDs of statements, and what implications does this have for tracking document revisions?",
+            "What types of metadata are associated with documents, and how do these metadata elements enhance the clarity of the statements linked to those documents?",
+            "How does the content of the header in documents relate to the information presented in the statements, and what patterns can be observed?",
+            "What are the common metadata attributes found in both documents and statements, and how do these attributes facilitate better document management?",
+            "How do the cell values in documents compare to the corresponding cell values in statements, and what insights can be drawn from these comparisons?",
+            "In what ways do the document IDs serve as a reference point for understanding the context of the statements, and how does this impact data retrieval?",
+            "How does the structure of the header in documents influence the organization of the statements, and what best practices can be derived from this?",
+            "What role does the metadata play in differentiating between various documents and their associated statements, and how does this affect data integrity?",
+            "How can the relationship between document IDs and statement IDs be utilized to improve the efficiency of document processing and statement generation?"
         ]
     }
 ]
