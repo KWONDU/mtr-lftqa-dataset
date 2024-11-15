@@ -2753,6 +2753,31 @@
                 ]
             }
         ],
+        "joined_table": {
+            "metadata": "geoquery | state, city",
+            "header": [
+                "state_name",
+                "population_city",
+                "area",
+                "country_name",
+                "capital",
+                "density",
+                "city_name",
+                "population_state"
+            ],
+            "cell": [
+                [
+                    "alabama",
+                    "3894000",
+                    "51700.0",
+                    "usa",
+                    "montgomery",
+                    "75.3191489362",
+                    "birmingham",
+                    "284413"
+                ]
+            ]
+        },
         "data_list": [
             {
                 "idx": 1,
@@ -2764,7 +2789,7 @@
                 "statement": "The major city in the smallest state in the US is Washington.",
                 "short_statement": "The major city in the smallest state in the US is Washington.",
                 "sql_query": "SELECT city.city_name FROM city WHERE city.population>150000 AND city.state_name=(SELECT state.state_name FROM state WHERE state.area=(SELECT min(state.area) FROM state ));",
-                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df1, df2):\n\tstatement_pattern = \"The {city_type} city in the {comparative} state in the US is {city_name}.\"\n\texpanded_statement_list = []\n\n\tdf = pd.merge(df1, df2, on=\"state_name\", suffixes=('_city', '_state'))\n\n\tdf[\"population_city\"] = pd.to_numeric(df[\"population_city\"], errors=\"coerce\")\n\tdf[\"area\"] = pd.to_numeric(df[\"area\"], errors=\"coerce\")\n\n\tfor city_type in ['minor', 'major']:\n\t\tfor comparative in ['smallest', 'largest']:\n\t\t\tif comparative == 'smallest':\n\t\t\t\ttarget_state = df.loc[df[\"area\"].idxmin()]\n\t\t\telse:\n\t\t\t\ttarget_state = df.loc[df[\"area\"].idxmax()]\n\t\t\tstate_name = target_state[\"state_name\"]\n\n\t\t\tcity_population_threshold = 150000\n\t\t\tif city_type == 'major':\n\t\t\t\tcities = df[(df[\"state_name\"] == state_name) & (df[\"population_city\"] > city_population_threshold)]\n\t\t\telse:\n\t\t\t\tcities = df[(df[\"state_name\"] == state_name) & (df[\"population_city\"] <= city_population_threshold)]\n\n\t\t\tfor _, city in cities.iterrows():\n\t\t\t\tcity_name = city[\"city_name\"]\n\t\t\t\texpanded_statement = statement_pattern.format(city_type=city_type, comparative=comparative, city_name=city_name)\n\t\t\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
+                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df):\n\tstatement_pattern = \"The {city_type} city in the {comparative} state in the US is {city_name}.\"\n\texpanded_statement_list = []\n\n\tdf[\"population_city\"] = pd.to_numeric(df[\"population_city\"], errors=\"coerce\")\n\tdf[\"area\"] = pd.to_numeric(df[\"area\"], errors=\"coerce\")\n\n\tfor city_type in ['minor', 'major']:\n\t\tfor comparative in ['smallest', 'largest']:\n\t\t\tif comparative == 'smallest':\n\t\t\t\ttarget_state = df.loc[df[\"area\"].idxmin()]\n\t\t\telse:\n\t\t\t\ttarget_state = df.loc[df[\"area\"].idxmax()]\n\t\t\tstate_name = target_state[\"state_name\"]\n\n\t\t\tcity_population_threshold = 150000\n\t\t\tif city_type == 'major':\n\t\t\t\tcities = df[(df[\"state_name\"] == state_name) & (df[\"population_city\"] > city_population_threshold)]\n\t\t\telse:\n\t\t\t\tcities = df[(df[\"state_name\"] == state_name) & (df[\"population_city\"] <= city_population_threshold)]\n\n\t\t\tfor _, city in cities.iterrows():\n\t\t\t\tcity_name = city[\"city_name\"]\n\t\t\t\texpanded_statement = statement_pattern.format(city_type=city_type, comparative=comparative, city_name=city_name)\n\t\t\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
             },
             {
                 "idx": 2,
@@ -2776,7 +2801,7 @@
                 "statement": "The population of the largest city in the state with the largest area is 174,431.",
                 "short_statement": "The population of the largest city in the state with the largest area is 174,431.",
                 "sql_query": "SELECT city.population FROM city WHERE city.population=(SELECT max(city.population) FROM city WHERE city.state_name IN(SELECT state.state_name FROM state WEHRE state.area=(SELECT max(state.area) FROM state))) and city.state_name IN(SELECT state.state_name FROM state WHERE state.area=(SELECT max(state.area) FROM state));",
-                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df1, df2):\n\tstatement_pattern = \"The population of the {city_comparative} city in the state with the {area_comparative} area is {population}.\"\n\texpanded_statement_list = []\n\n\tdf = pd.merge(df1, df2, on=\"state_name\", suffixes=('_city', '_state'))\n\n\tdf[\"population_city\"] = pd.to_numeric(df[\"population_city\"], errors=\"coerce\")\n\tdf[\"area\"] = pd.to_numeric(df[\"area\"], errors=\"coerce\")\n\n\tfor city_comparative in ['smallest', 'largest']:\n\t\tfor area_comparative in ['smallest', 'largest']:\n\t\t\tif area_comparative == 'smallest':\n\t\t\t\ttarget_state = df.loc[df[\"area\"].idxmin()]\n\t\t\telse:\n\t\t\t\ttarget_state = df.loc[df[\"area\"].idxmax()]\n\t\t\tstate_name = target_state[\"state_name\"]\n\n\t\t\tif city_comparative == 'largest':\n\t\t\t\ttarget_city = df[(df[\"state_name\"] == state_name)].loc[df[\"population_city\"].idxmax()]\n\t\t\telse:\n\t\t\t\ttarget_city = df[(df[\"state_name\"] == state_name)].loc[df[\"population_city\"].idxmin()]\n\t\t\tpopulation = target_city[\"population_city\"]\n\n\t\t\texpanded_statement = statement_pattern.format(city_comparative=city_comparative, area_comparative=area_comparative, population=population)\n\t\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
+                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df):\n\tstatement_pattern = \"The population of the {city_comparative} city in the state with the {area_comparative} area is {population}.\"\n\texpanded_statement_list = []\n\n\tdf[\"population_city\"] = pd.to_numeric(df[\"population_city\"], errors=\"coerce\")\n\tdf[\"area\"] = pd.to_numeric(df[\"area\"], errors=\"coerce\")\n\n\tfor city_comparative in ['smallest', 'largest']:\n\t\tfor area_comparative in ['smallest', 'largest']:\n\t\t\tif area_comparative == 'smallest':\n\t\t\t\ttarget_state = df.loc[df[\"area\"].idxmin()]\n\t\t\telse:\n\t\t\t\ttarget_state = df.loc[df[\"area\"].idxmax()]\n\t\t\tstate_name = target_state[\"state_name\"]\n\n\t\tfiltered_cities = df[df[\"state_name\"] == state_name]\n\n\t\t\tif city_comparative == 'largest':\n\t\t\t\ttarget_city = filtered_cities.loc[filtered_cities[\"population_city\"].idxmax()]\n\t\t\telse:\n\t\t\t\t\n\t\t\t\ttarget_city = filtered_cities.loc[filtered_cities[\"population_city\"].idxmin()]\n\t\t\tpopulation = target_city[\"population_city\"]\n\n\t\t\texpanded_statement = statement_pattern.format(city_comparative=city_comparative, area_comparative=area_comparative, population=population)\n\t\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
             },
             {
                 "idx": 3,
@@ -4411,6 +4436,35 @@
                 ]
             }
         ],
+        "joined_table": {
+            "metadata": "airline_travel | ground_service, airport",
+            "header": [
+                "city_code",
+                "airport_code",
+                "transport_type",
+                "ground_fare",
+                "airport_name",
+                "airport_location",
+                "state_code",
+                "country_name",
+                "time_zone_code",
+                "minimum_connect_time"
+            ],
+            "cell": [
+                [
+                    "BBNA",
+                    "BNA",
+                    "LIMOUSINE",
+                    "6.0",
+                    "NASHVILLE INTERNATIONAL",
+                    "NASHVILLE, TENNESSEE",
+                    "TN",
+                    "USA",
+                    "CST",
+                    "30"
+                ]
+            ]
+        },
         "data_list": [
             {
                 "idx": 1,
@@ -4422,7 +4476,7 @@
                 "statement": "There is limousine service available at Pittsburgh airport.",
                 "short_statement": "There is limousine service available at Pittsburgh airport.",
                 "sql_query": "SELECT DISTINCT ground_service_1.transport_type FROM ground_service AS ground_service_1 , airport AS airport_1 WHERE ground_service_1.transport_type = 'LIMOUSINE' AND ground_service_1.airport_code = airport_1.airport_code AND airport_1.airport_code = 'PIT';",
-                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df1, df2):\n\tstatement_pattern = \"There is {transport_type} service available at {airport_name} airport.\"\n\texpanded_statement_list = []\n\n\tdf = pd.merge(df1, df2, on=\"airport_code\", suffixes=('_ground', '_airport'))\n\n\tfor _, row in df.iterrows():\n\t\ttransport_type = row[\"transport_type\"].lower()\n\t\tairport_name = row[\"airport_name\"]\n\t\t\n\t\texpanded_statement = statement_pattern.format(transport_type=transport_type, airport_name=airport_name)\n\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
+                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df):\n\tstatement_pattern = \"There is {transport_type} service available at {airport_name} airport.\"\n\texpanded_statement_list = []\n\n\tfor _, row in df.iterrows():\n\t\ttransport_type = row[\"transport_type\"].lower()\n\t\tairport_name = row[\"airport_name\"]\n\t\t\n\t\texpanded_statement = statement_pattern.format(transport_type=transport_type, airport_name=airport_name)\n\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
             },
             {
                 "idx": 2,
@@ -4434,7 +4488,7 @@
                 "statement": "Both air taxi and limousine services are available at Boston airport.",
                 "short_statement": "Air taxi and limousine services are available at Boston airport.",
                 "sql_query": "SELECT DISTINCT ground_service_1.transport_type FROM ground_service AS ground_service_1 , airport AS airport_1 WHERE ground_service_1.airport_code = airport_1.airport_code AND airport_1.airport_code = 'BOS' AND ( ground_service_1.transport_type LIKE '%LIMOUSINE%' OR ground_service_1.transport_type LIKE '%TAXI%' );",
-                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df1, df2):\n\tstatement_pattern = \"{transport_types} services are available at {airport_name} airport.\"\n\texpanded_statement_list = []\n\n\tdf = pd.merge(df1, df2, on=\"airport_code\", suffixes=('_ground', '_airport'))\n\n\tfor airport_code in df['airport_code'].unique():\n\t\tairport_df = df[df[\"airport_code\"] == airport_code]\n\t\tairport_name = airport_df.iloc[0][\"airport_name\"]\n\n\t\ttransport_types = \", \".join(airport_df[\"transport_type\"].unique())\n\t\t\n\t\texpanded_statement = statement_pattern.format(transport_types=transport_types, airport_name=airport_name)\n\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
+                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df):\n\tstatement_pattern = \"{transport_types} services are available at {airport_name} airport.\"\n\texpanded_statement_list = []\n\n\tfor airport_code in df['airport_code'].unique():\n\t\tairport_df = df[df[\"airport_code\"] == airport_code]\n\t\tairport_name = airport_df.iloc[0][\"airport_name\"]\n\n\t\ttransport_types = \", \".join(airport_df[\"transport_type\"].unique())\n\t\t\n\t\texpanded_statement = statement_pattern.format(transport_types=transport_types, airport_name=airport_name)\n\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
             },
             {
                 "idx": 3,
@@ -5422,7 +5476,7 @@
             },
             {
                 "id": "56a1b0d04e7cd90709839811ca8029b055fb2062f00bd522471bd71411e18ca3",
-                "metadata": "geoquery | river",
+                "metadata": "geography | river",
                 "header": [
                     "river_name",
                     "length",
@@ -6328,7 +6382,7 @@
             },
             {
                 "id": "623de4bca397fb2710a85141323d0df13944ba3a658e1b678f0a97f4be32c77f",
-                "metadata": "geoquery | state",
+                "metadata": "geography | state",
                 "metadata_info": "Table name.",
                 "header": [
                     "state_name",
@@ -6750,6 +6804,33 @@
                 ]
             }
         ],
+        "joined_table": {
+            "metadata": "geography | border_info, river, state",
+            "header": [
+                "state_name",
+                "border",
+                "river_name",
+                "length",
+                "country_name",
+                "population",
+                "area",
+                "capital",
+                "density"
+            ],
+            "cell": [
+                [
+                    "alabama",
+                    "tennessee",
+                    "tennessee",
+                    "1049",
+                    "usa",
+                    "3894000",
+                    "51700.0",
+                    "montgomery",
+                    "75.3191489362"
+                ]
+            ]
+        },
         "data_list": [
             {
                 "idx": 1,
@@ -6762,7 +6843,7 @@
                 "statement": "Rivers that flow through states that border the state with the largest population are Colorado, Snake, Columbia, and Gila.",
                 "short_statement": "Rivers that flow through states that border the state with the largest population are Colorado, Snake, Columbia, and Gila.",
                 "sql_query": "SELECT river.river_name FROM river WHERE river.traverse IN(SELECT border_info.border FROM border_info WHERE border_info.state_name IN(SELECT state.state_name FROM state WHERE state.population=(SELECT max(state.population) FROM state )));",
-                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df1, df2, df3):\n\tstatement_pattern = \"Rivers that flow through states that border the state with the {comparative} population are {river_names}.\"\n\texpanded_statement_list = []\n\n\tdf = df1.merge(df3, on=\"state_name\", suffixes=('_border', '_state')).merge(df2, left_on=\"border\", right_on=\"traverse\")\n\n\tdf[\"population\"] = pd.to_numeric(df[\"population\"], errors=\"coerce\")\n\n\tfor comparative in ['smallest', 'largest']:\n\t\tif comparative == 'largest':\n\t\t\ttarget_population = df['population'].max()\n\t\telse:\n\t\t\ttarget_population = df['population'].min()\n\n\t\ttarget_states = df[df[\"population\"] == target_population][\"border\"].unique()\n\t\trivers = df[df[\"traverse\"].isin(target_states)][\"river_name\"].unique()\n\t\triver_names = \", \".join(rivers)\n\t\t\n\t\texpanded_statement = statement_pattern.format(comparative=comparative, river_names=river_names)\n\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
+                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df):\n\tstatement_pattern = \"Rivers that flow through states that border the state with the {comparative} population are {river_names}.\"\n\texpanded_statement_list = []\n\n\tdf[\"population\"] = pd.to_numeric(df[\"population\"], errors=\"coerce\")\n\n\tfor comparative in ['smallest', 'largest']:\n\t\tif comparative == 'largest':\n\t\t\ttarget_population = df['population'].max()\n\t\telse:\n\t\t\ttarget_population = df[\"population\"].min()\n\n\t\ttarget_states = df[df[\"population\"] == target_population][\"border\"].unique()\n\t\trivers = df[df[\"traverse\"].isin(target_states)][\"river_name\"].unique()\n\t\triver_names = \", \".join(rivers)\n\t\t\n\t\texpanded_statement = statement_pattern.format(comparative=comparative, river_names=river_names)\n\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
             },
             {
                 "idx": 2,
@@ -6775,7 +6856,7 @@
                 "statement": "Rivers that run through the states that border the state with the capital Atlanta are Mississippi, Chattahoochee, Tennessee, Cumberland, Roanoke, Tombigbee, and Wateree catawba.",
                 "short_statement": "Rivers that run through the states that border the state with the capital Atlanta are Mississippi, Chattahoochee, Tennessee, Cumberland, Roanoke, Tombigbee, and Wateree catawba.",
                 "sql_query": "SELECT river.river_name FROM river WHERE river.traverse IN(SELECT border_info.border FROM border_info WHERE border_info.state_name IN(SELECT state.state_name FROM state WHERE state.capital='atlanta'));",
-                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df1, df2, df3):\n\tstatement_pattern = \"Rivers that run through the states that border the state with the capital {capital} are {river_names}.\"\n\texpanded_statement_list = []\n\n\tdf = df1.merge(df3, on=\"state_name\", suffixes=('_border', '_state')).merge(df2, left_on=\"border\", right_on=\"traverse\")\n\n\tfor capital in df['capital'].unique():\n\t\ttarget_state_name = df[df['capital'] == capital][\"state_name\"].iloc[0]\n\t\tbordering_states = df[df[\"state_name\"] == target_state_name][\"border\"].unique()\n\n\t\trivers = df[df[\"traverse\"].isin(bordering_states)][\"river_name\"].unique()\n\t\triver_names = \", \".join(rivers)\n\n\t\texpanded_statement = statement_pattern.format(capital=capital, river_names=river_names)\n\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
+                "python_code": "```python\nimport pandas as pd\n\ndef expand_statement_pattern(df):\n\tstatement_pattern = \"Rivers that run through the states that border the state with the capital {capital} are {river_names}.\"\n\texpanded_statement_list = []\n\n\tfor capital in df['capital'].unique():\n\t\ttarget_state_name = df[df['capital'] == capital][\"state_name\"].iloc[0]\n\t\tbordering_states = df[df[\"state_name\"] == target_state_name][\"border\"].unique()\n\n\t\trivers = df[df[\"traverse\"].isin(bordering_states)][\"river_name\"].unique()\n\t\triver_names = \", \".join(rivers)\n\n\t\texpanded_statement = statement_pattern.format(capital=capital, river_names=river_names)\n\t\texpanded_statement_list.append(expanded_statement)\n\n\treturn statement_pattern, expanded_statement_list```"
             },
             {
                 "idx": 3,

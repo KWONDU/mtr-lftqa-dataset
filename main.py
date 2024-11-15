@@ -266,7 +266,7 @@ if __name__ == '__main__':
         'SourceSpiderTableQA': 'low_header_sim'
     }
     
-    FLAG = [None, None, True, False, True, True, True, True]
+    FLAG = [None, None, False, False, False, False, False, False]
 
     main(
         table_lake=table_lake,

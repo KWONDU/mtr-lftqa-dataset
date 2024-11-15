@@ -4,8 +4,8 @@ Please refer to the following examples when writing your Python function:
 
 Please write the Python function following the guidelines provided:
 
-- **DataFrame Schema Set**:
-{df_schema_set}
+- **DataFrame Schema**:
+{dataframe_schema}
 
 - **SQL Query**:
 {sql_query}

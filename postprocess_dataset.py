@@ -58,9 +58,10 @@ if __name__ == '__main__':
             translated_dataset.append(translated_data)
     elif args.t == 'F':
         translated_dataset = dataset
-
-    # 2. View dataset
+    
     """
+    # 2. View dataset
+    
     from utils.dataset import load_source_dataset
     from steps.regularize import regularize_source_dataset
     source_dataset = regularize_source_dataset(source_dataset=load_source_dataset(dataset_name=args.d))

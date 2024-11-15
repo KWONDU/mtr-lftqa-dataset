@@ -51,19 +51,12 @@ async def expand_statement_task(
         tasks = [
             get_async_openai_response(
                 semaphore=semaphore,
-                system_prompt=load_prompt(role='system', task='expand_statement_with_low_header_sim'),
-                user_prompt=load_prompt(role='user', task='expand_statement_with_low_header_sim').format(
+                system_prompt=load_prompt(role='system', task='expand_statement_with_high_header_sim'),
+                user_prompt=load_prompt(role='user', task='expand_statement_with_high_header_sim').format(
                     shots=input_data['shots'],
-                    df_schema_set="\n".join([
-                        f"DataFrame {tdx + 1} [caption] {df_caption}" + \
-                        f"[columns] {' | '.join(df_columns)}" + \
-                        f"[first row] {' | '.join(df_first_row)}"
-                        for tdx, (df_caption, df_columns, df_first_row) in enumerate(zip(
-                            input_data['df_caption_set'],
-                            input_data['df_columns_set'],
-                            input_data['df_first_row_set']
-                        ))
-                    ]),
+                    dataframe_schema=f"DataFrame [caption] {input_data['df_caption']} " + \
+                        f"[columns] {' | '.join(input_data['df_columns'])} " + \
+                        f"[first row] {' | '.join(input_data['df_first_row'])}",
                     sql_query=input_data['sql_query'],
                     statement=input_data['statement']
                 ),
@@ -120,6 +113,10 @@ def expand_statement(
     for role in ['system', 'user']:
         task = f'expand_statement_with_{classification}'
         save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
+    
+    if classification == 'low_header_sim':
+        with open('additional_process_source_spidertableqa_dataset/storage/joined_table_set.json', 'r') as file:
+                joined_table_set = json.load(file)
 
     # Main task
     appended = set()
@@ -150,11 +147,17 @@ def expand_statement(
                 })
         
         elif classification == 'low_header_sim':
+            joined_table = next(tb for tb in joined_table_set if tb['table_id_set'] == instance['gold_table_id_set'])
+            
+            db_name = gold_table_set[0]['metadata'].split('|')[0].strip()
+            table_name_set = [table['metadata'].split('|')[1].strip() for table in gold_table_set]
+            joined_table_metadata = f"{db_name} | {', '.join(table_name_set)}"
+
             for jdx, data in enumerate(data_list):
                 model_input.append({
-                    'df_caption_set': [tb['metadata'] for tb in gold_table_set],
-                    'df_columns_set': [tb['header'] for tb in gold_table_set],
-                    'df_first_row_set': [tb['cell'][0] for tb in gold_table_set],
+                    'df_caption': joined_table_metadata,
+                    'df_columns': joined_table['header'],
+                    'df_first_row': joined_table['cell'][0],
                     'sql_query': data['sql_query'],
                     'statement': data['statement'],
                     'key': (idx, jdx),
@@ -193,6 +196,9 @@ def expand_statement(
         ###
 
         try:
+            import num2words
+            from itertools import permutations, combinations
+
             ###
             if classification == 'high_header_sim':
                 local_vars = {'df': pd.DataFrame(data=table['cell'], columns=table['header'])}
@@ -200,18 +206,11 @@ def expand_statement(
                 exec(f"{code}\nstatement_pattern, expanded_statement_list = expand_statement_pattern(df=df)", globals(), local_vars)
             
             elif classification == 'low_header_sim':
-                local_vars = {
-                    f'df{tdx + 1}': pd.DataFrame(data=table_lake[t_id]['cell'], columns=table_lake[t_id]['header'])
-                    for tdx, t_id in enumerate(table_id_set)
-                }
+                joined_table = next(tb for tb in joined_table_set if tuple(tb['table_id_set']) == table_id_set)
+
+                local_vars = {'df': pd.DataFrame(data=joined_table['cell'], columns=joined_table['header'])}
                 code = re.search(r"```python\s+([\s\S]+?)```", task_output['response']).group(1)
-                exec(
-                    f"{code}\nstatement_pattern, expanded_statement_list = expand_statement_pattern("
-                    + ", ".join([f"df{tdx + 1}=df{tdx + 1}" for tdx, _ in enumerate(table_id_set)])
-                    + ")"
-                    , globals(),
-                    local_vars
-                )
+                exec(f"{code}\nstatement_pattern, expanded_statement_list = expand_statement_pattern(df=df)", globals(), local_vars)
             ###
 
             statement_pattern = local_vars['statement_pattern']

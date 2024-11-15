@@ -118,6 +118,10 @@ def extract_relevant_data(
         task = f'extract_relevant_data_with_{classification}'
         save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
     
+    if classification == 'low_header_sim':
+        with open('additional_process_source_spidertableqa_dataset/storage/joined_table_set.json', 'r') as file:
+            joined_table_set = json.load(file)
+    
     # Main task
     model_input = []
     for idx, instance in enumerate(high_level_question_set):
@@ -139,9 +143,6 @@ def extract_relevant_data(
                     })
             
             elif classification == 'low_header_sim':
-                with open('additional_process_source_spidertableqa_dataset/storage/joined_table_set.json', 'r') as file:
-                    joined_table_set = json.load(file)
-                
                 joined_table = next(tb for tb in joined_table_set if tb['table_id_set'] == instance['gold_table_id_set'])
                 model_input.append({
                     'header': joined_table['header'],
@@ -181,7 +182,6 @@ def extract_relevant_data(
                 idx, jdx = task_output['key']
                 question = high_level_question_set[idx]['question_list'][jdx]
 
-                # Already load
                 joined_table = next(tb for tb in joined_table_set if tb['table_id_set'] == high_level_question_set[idx]['gold_table_id_set'])
 
                 relevant_columns = [col.strip() for col in task_output['response'].split(',')]

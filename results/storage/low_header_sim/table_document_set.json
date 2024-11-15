@@ -9,24 +9,10 @@
             "The states or counties of the address of the stores with marketing region code {region_code} are {state_counties}."
         ],
         "nl_document_list": [
-            "The city where the store named Ewi Filming is located is Macejkovicchester.",
-            "The city where the store named \"FJA Filming\" is located is New Lonzoville.",
-            "The city where the store named FK Filming is located is Feliciaberg.",
-            "The city where the store named Adam Photo is located is Jasthaven.",
-            "The city where the store named Rob Dinning is located is Macejkovicchester.",
-            "The city where the store named Shery Photo is located is Jasthaven.",
-            "The city where the store named Fred Dinning is located is Lindberg.",
-            "The city where the store named Adan Dinning is located is Purdyville.",
-            "The city where the store named Carmol Photo is located is East Aracely.",
-            "The states or counties of the address of the stores with marketing region code \"CA\" are Alaska, Delaware, and Alabama.",
-            "The states or counties of the address of the stores with marketing region code ES are Florida, SouthCarolina, Delaware.",
-            "The states or counties of the address of the stores with marketing region code FR are Oklahoma.",
-            "The city where the store named FJA Filming is located is New Lonzoville.",
-            "The states or counties of the address of the stores with marketing region code CN are Florida.",
-            "The city where the store named Lur Photo is located is Feliciaberg.",
             "The states or counties of the address of the stores with marketing region code CA are Alaska, Delaware, Alabama.",
-            "The states or counties of the address of the stores with marketing region code IN are Nebraska.",
-            "The states or counties of the address of the stores with marketing region code RU are Alaska."
+            "The city where the store named FJA Filming is located is New Lonzoville.",
+            "The states or counties of the address of the stores with marketing region code \"CA\" are Alaska, Delaware, and Alabama.",
+            "The city where the store named \"FJA Filming\" is located is New Lonzoville."
         ]
     },
     {
@@ -36,14 +22,21 @@
             "7b2fd02793cb4529661c9dee5e3b1096bb50ee6d0f86972a1d9d940eac168f44"
         ],
         "statement_pattern_set": [
+            "The names of the stations which serve both {train_1} and {train_2} trains are {station_names}.",
+            "The names of the trains that do not pass any station located in {location} are {train_names}.",
+            "Train names and times in stations in {location}, in descending order by train time, are {train_info}.",
             "The train names and station names for each train are {train_station_pairs}."
         ],
         "nl_document_list": [
-            "The names of the stations which serve both \"Ananthapuri Express\" and \"Guruvayur Express\" trains are London Waterloo.",
-            "The train names and station names for each train are London Waterloo - Ananthapuri Express, London Waterloo - Guruvayur Express, London Victoria - Ananthapuri Express, London Bridge - Jayanthi Janatha Express, London Euston - Island Express, London King's Cross - Madurai Fast Passenger, Glasgow Central - Quilon Fast Passenger, Glasgow Central - Island Express, East Croydon - Jayanthi Janatha Express, and East Croydon - Parasuram Express.",
+            "The names of the stations which serve both Guruvayur Express and Ananthapuri Express trains are London Waterloo.",
             "The train names and station names for each train are London Waterloo - Ananthapuri Express, London Waterloo - Guruvayur Express, London Waterloo - Guruvayur Express, London Victoria - Ananthapuri Express, London Bridge - Jayanthi Janatha Express, London Euston - Island Express, London King's Cross - Madurai Fast Passenger, Glasgow Central - Quilon Fast Passenger, Glasgow Central - Island Express, East Croydon - Jayanthi Janatha Express, East Croydon - Parasuram Express.",
+            "Train names and times in stations in London, in descending order by train time, are Guruvayur Express at 22:10, Madurai Fast Passenger at 21:49, Ananthapuri Express at 17:15, Ananthapuri Express at 11:35, Island Express at 11:15, Jayanthi Janatha Express at 10:38, Jayanthi Janatha Express at 06:30, Guruvayur Express at 04:49, Parasuram Express at 04:20.",
+            "The names of the trains that do not pass any station located in London are Glasgow Central.",
             "The names of the trains that do not pass any station located in London are Quilon Fast Passenger and Island Express.",
-            "Train names and times in stations in London, in descending order by train time, are Guruvayur Express at 4:49, Guruvayur Express at 22:10, Madurai Fast Passenger at 21:49, Ananthapuri Express at 17:15, Ananthapuri Express at 11:35, Island Express at 11:15, Jayanthi Janatha Express at 10:38, Jayanthi Janatha Express at 06:30, and Parasuram Express at 04:20."
+            "Train names and times in stations in London, in descending order by train time, are Guruvayur Express at 4:49, Guruvayur Express at 22:10, Madurai Fast Passenger at 21:49, Ananthapuri Express at 17:15, Ananthapuri Express at 11:35, Island Express at 11:15, Jayanthi Janatha Express at 10:38, Jayanthi Janatha Express at 06:30, and Parasuram Express at 04:20.",
+            "The names of the stations which serve both Ananthapuri Express and Guruvayur Express trains are London Waterloo.",
+            "The train names and station names for each train are London Waterloo - Ananthapuri Express, London Waterloo - Guruvayur Express, London Victoria - Ananthapuri Express, London Bridge - Jayanthi Janatha Express, London Euston - Island Express, London King's Cross - Madurai Fast Passenger, Glasgow Central - Quilon Fast Passenger, Glasgow Central - Island Express, East Croydon - Jayanthi Janatha Express, and East Croydon - Parasuram Express.",
+            "The names of the stations which serve both \"Ananthapuri Express\" and \"Guruvayur Express\" trains are London Waterloo."
         ]
     },
     {
@@ -52,9 +45,21 @@
             "e3027213f1fc1207a96d06d3323c3ff4c464a486d2721ebd6898dd0befa69008",
             "ecbac12703c3882168d1f1bdf052e333c058354c7061a7f91c94fb1ac65f3484"
         ],
-        "statement_pattern_set": [],
+        "statement_pattern_set": [
+            "In alphabetical order, the course names and their instructors' names in the year {year} are {course_instructor_list}."
+        ],
         "nl_document_list": [
-            "In alphabetical order, the course names and their instructors' names in the year 2008 are Animal Behavior with DAgostino, Elastic Structures with Bietzk and Dale, Embedded Systems with Mingoz, Marine Mammals with Mahmoud, Networking with Mingoz, Race Car Driving with Ullman, Surfing with Dale, Transaction Processing with DAgostino, and World History with Jaekel."
+            "In alphabetical order, the course names and their instructors' names in the year 2010 are Cat Herding with Tung, Environmental Law with Lembr, Greek Tragedy with Mahmoud, International Communication with Romero, International Trade with Morris, Journalism with Voronina, Music of the 50s with Mahmoud, Music of the 90s with Sakurai, Numerical Methods with Valtchev, The Beatles with Luo, The IBM 360 Architecture with Sarkar.",
+            "In alphabetical order, the course names and their instructors' names in the year 2007 are Bankruptcy with Ullman, Colloid and Surface Chemistry with Sakurai, Fractal Geometry with Shuming, Graph Theory with DAgostino, Japanese with Bourrier, Journalism with Romero, Marine Mammals with Gustafsson, Mobile Computing with Voronina, Plasma Physics with Gustafsson, Systems Software with Dale, The Music of the Ramones with Lembr, Visual BASIC with DAgostino.",
+            "In alphabetical order, the course names and their instructors' names in the year 2004 are Aquatic Chemistry with Tung, Death and Taxes with Morris, Graphics with Mingoz, How to Groom your Cat with Ullman, International Practicum with Bondi, Plastics with Bondi, Video Gaming with DAgostino.",
+            "In alphabetical order, the course names and their instructors' names in the year 2009 are Accounting with Mahmoud, Greek Tragedy with DAgostino, Image Processing with Romero, International Trade with Jaekel, Music 2 New for your Instructor with Mingoz, Rock and Roll with Morris, Surfing with Dale, Tort Law with Bourrier, UNIX System Programmming with Atanassov.",
+            "In alphabetical order, the course names and their instructors' names in the year 2006 are Bacteriology with Voronina, Compiler Design with DAgostino, Cost Accounting with Voronina, Embedded Systems with Mingoz, Graph Theory with DAgostino, Heat Transfer with Mahmoud, Multimedia Design with Lent, Operating Systems with Morris, The IBM 360 Architecture with DAgostino, The Music of Donovan with Gustafsson, The Music of the Ramones with Voronina, Tort Law with Sakurai, Video Gaming with Mingoz.",
+            "In alphabetical order, the course names and their instructors' names in the year 2001 are Aquatic Chemistry with Dale, Arabic with Valtchev, Biostatistics with Mingoz, International Practicum with Wieland, Systems Software with Bawa.",
+            "In alphabetical order, the course names and their instructors' names in the year 2003 are African History with Dale, Astronautics with Ullman, Bankruptcy with Ullman, Care and Feeding of Cats with Atanassov, Finite Element Analysis with Dale, Greek Tragedy with Mahmoud, Mechanics with DAgostino, Organic Chemistry with Kean, Sanitary Engineering with Tung, Tort Law with Dale, Visual BASIC with DAgostino, World History with Mingoz.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Animal Behavior with DAgostino, Elastic Structures with Bietzk and Dale, Embedded Systems with Mingoz, Marine Mammals with Mahmoud, Networking with Mingoz, Race Car Driving with Ullman, Surfing with Dale, Transaction Processing with DAgostino, and World History with Jaekel.",
+            "In alphabetical order, the course names and their instructors' names in the year 2005 are Bioinformatics with Pimenta, Calculus with Wieland, Computational Biology with Kean, Embedded Systems with Mingoz, FOCAL Programming with DAgostino, Fractal Geometry with Sakurai, Geology with DAgostino, Shakespeare with Wieland.",
+            "In alphabetical order, the course names and their instructors' names in the year 2002 are Corporate Law with Bondi, Decison Support Systems with Vicentino, Differential Geometry with Dale, Drama with Liley, Heat Transfer with Morris, Image Processing with Romero, Journalism with Voronina, Manufacturing with Mingoz, Marine Mammals with Gustafsson, Martian History with Queiroz, Optics with Sullivan, Physical Chemistry with Choll, The Music of the Ramones with Ullman.",
+            "In alphabetical order, the course names and their instructors' names in the year 2008 are Animal Behavior with DAgostino, Elastic Structures with Bietzk, Elastic Structures with Dale, Embedded Systems with Mingoz, Marine Mammals with Mahmoud, Networking with Mingoz, Race Car Driving with Ullman, Surfing with Dale, Transaction Processing with DAgostino, World History with Jaekel."
         ]
     },
     {
@@ -66,14 +71,14 @@
             "The first names and last names of the students who minor in the department with DNO {dno} are {student_names}."
         ],
         "nl_document_list": [
-            "The first names and last names of the students who minor in the department with DNO 530 are Paul Brody.",
-            "The first names and last names of the students who minor in the department with DNO 550 are Paul Gompers, Jandy Nelson.",
-            "The first names and last names of the students who minor in the department with DNO 140 are Susan Lee.",
-            "The first names and last names of the students who minor in the department with DNO 190 are Mark Schwartz.",
             "The first names and last names of the students who minor in the department with DNO 520 are Dinesh Kumar, Lisa Apap.",
+            "The first names and last names of the students who minor in the department with DNO 50 are Andy Schultz.",
+            "The first names and last names of the students who minor in the department with DNO 550 are Paul Gompers, Jandy Nelson.",
             "The first names and last names of the students who minor in the department with DNO 90 are Charles Norris.",
+            "The first names and last names of the students who minor in the department with DNO 530 are Paul Brody.",
             "The first names and last names of the students who minor in the department with DNO 540 are Sarah Smith.",
-            "The first names and last names of the students who minor in the department with DNO 50 are Andy Schultz."
+            "The first names and last names of the students who minor in the department with DNO 140 are Susan Lee.",
+            "The first names and last names of the students who minor in the department with DNO 190 are Mark Schwartz."
         ]
     },
     {
@@ -82,20 +87,20 @@
             "e3164e0e81b8de2b0062d25ed85dafda25f5d6b08aa4b7c84c698ea7a578234f"
         ],
         "statement_pattern_set": [
-            "Products and the number of events they are in, sorted by the number of events in descending order, are {product_events}.",
             "Products and the number of events they are in are {product_events}.",
             "Products that are not in any event are {product_names}.",
+            "Products and the number of events they are in, sorted by the number of events in descending order, are {product_events}.",
             "Products that are in at least {event_count} events are {product_names}."
         ],
         "nl_document_list": [
-            "Products that are in at least two events are Men suits, Special Dinning, and TV Equipments.",
-            "Products and the number of events they are in are Conference Equipments (1), Dinning (1), Men suits (2), Special Dinning (4), TV Equipments (5), Trading Policy (1), and Trading Policy B (1).",
-            "Products that are not in any event are Business Policy, Men suits, Business Policy B, and Dinning.",
-            "Products that are in at least 2 events are TV Equipments, Special Dinning, Men suits.",
-            "Products and the number of events they are in, sorted by the number of events in descending order, are TV Equipments (5 events), Special Dinning (4 events), Men suits (2 events), Conference Equipments (1 event), Dinning (1 event), Trading Policy (1 event), and Trading Policy B (1 event).",
+            "Products and the number of events they are in, sorted by the number of events in descending order, are TV Equipments (5 events), Special Dinning (4 events), Men suits (2 events), Dinning (1 events), Conference Equipments (1 events), Trading Policy (1 events), Trading Policy B (1 events).",
+            "Products that are not in any event are Special Dinning, TV Equipments, Conference Equipments, Trading Policy, Trading Policy B, Dinning, Men suits.",
             "Products and the number of events they are in are Conference Equipments (1), Dinning (1), Men suits (2), Special Dinning (4), TV Equipments (5), Trading Policy (1), Trading Policy B (1).",
-            "Products that are not in any event are Business Policy, Dinning, Men suits, Business Policy B.",
-            "Products and the number of events they are in, sorted by the number of events in descending order, are TV Equipments (5 events), Special Dinning (4 events), Men suits (2 events), Dinning (1 events), Conference Equipments (1 events), Trading Policy (1 events), Trading Policy B (1 events)."
+            "Products and the number of events they are in, sorted by the number of events in descending order, are TV Equipments (5 events), Special Dinning (4 events), Men suits (2 events), Conference Equipments (1 event), Dinning (1 event), Trading Policy (1 event), and Trading Policy B (1 event).",
+            "Products that are in at least 2 events are Men suits, Special Dinning, TV Equipments.",
+            "Products that are not in any event are Business Policy, Men suits, Business Policy B, and Dinning.",
+            "Products and the number of events they are in are Conference Equipments (1), Dinning (1), Men suits (2), Special Dinning (4), TV Equipments (5), Trading Policy (1), and Trading Policy B (1).",
+            "Products that are in at least two events are Men suits, Special Dinning, and TV Equipments."
         ]
     },
     {
@@ -105,17 +110,18 @@
         ],
         "statement_pattern_set": [
             "The department with the highest number of students is {dept_name} located at {dept_address}.",
-            "The departments with the top {n} highest number of students are {department_info}.",
-            "The department name of the student with the {gpa_comparative} GPA belongs to is {dept_name}.",
-            "The name and average GPA of the department with the highest average GPA is {dept_name} with an average GPA of {avg_gpa}."
+            "The name and average GPA of the department with the {comparative} average GPA is {dept_name} with an average GPA of {avg_gpa}.",
+            "The departments with the top {n} highest number of students are {departments}.",
+            "The department name of the student with the {gpa_comparative} GPA belongs to is {dept_name}."
         ],
         "nl_document_list": [
             "The departments with the top 3 highest number of students are Accounting at KLR 211, Box 52 with 3 students, Computer Info. Systems at KLR 333, Box 56 with 2 students, and Biology at AAK 230, Box 415 1 student.",
-            "The department with the highest number of students is Accounting located at KLR 211, Box 52.",
-            "The name and average GPA of the department with the highest average GPA is Computer Info. Systems with an average GPA of 3.1799999999999997.",
-            "The departments with the top 3 highest number of students are Accounting at KLR 211, Box 52 with 3 students, Computer Info. Systems at KLR 333, Box 56 with 2 students, Biology at AAK 230, Box 415 with 1 students.",
+            "The department name of the student with the highest GPA belongs to is Computer Info. Systems.",
             "The department name of the student with the lowest GPA belongs to is Accounting.",
-            "The name and average GPA of the department with the highest average GPA is Computer Information Systems with an average GPA of 3.18."
+            "The name and average GPA of the department with the highest average GPA is Computer Info. Systems with an average GPA of 3.1799999999999997.",
+            "The name and average GPA of the department with the highest average GPA is Computer Information Systems with an average GPA of 3.18.",
+            "The department with the highest number of students is Accounting located at KLR 211, Box 52.",
+            "The departments with the top 3 highest number of students are Accounting at KLR 211, Box 52 with 972831 students, Computer Info. Systems at KLR 333, Box 56 with 648526 students, Biology at AAK 230, Box 415 with 321452 students."
         ]
     },
     {
@@ -140,8 +146,8 @@
             "Users who do not have a first notification of loss record are {customer_names}."
         ],
         "nl_document_list": [
-            "Users who do not have a first notification of loss record are America Jaskolski, Mrs. Hanna Willms, Dr. Diana Rath, Dayana Robel, Mr. Edwardo Blanda I, Mr. Randal Lynch III, Mrs. Liza Heller V, Miss Felicita Reichel, David Ross, Cai Zhang.",
-            "Users who do not have a first notification of loss record are America Jaskolski, Cai Zhang, David Ross, Dayana Robel, Dr. Diana Rath, Miss Felicita Reichel, Mr. Edwardo Blanda I, Mr. Randal Lynch III, Mrs. Hanna Willms, and Mrs. Liza Heller V."
+            "Users who do not have a first notification of loss record are America Jaskolski, Cai Zhang, David Ross, Dayana Robel, Dr. Diana Rath, Miss Felicita Reichel, Mr. Edwardo Blanda I, Mr. Randal Lynch III, Mrs. Hanna Willms, and Mrs. Liza Heller V.",
+            "Users who do not have a first notification of loss record are ."
         ]
     },
     {
@@ -150,31 +156,31 @@
             "5c2dac197253e909b22234b79a027b308232b2de630f664dc2ba06dee7f62b52"
         ],
         "statement_pattern_set": [
-            "The placement date of the order with invoice number {invoice_number} is {order_dates}.",
-            "The order was placed on {order_date}."
+            "The order was placed on {order_date}.",
+            "The placement date of the order with invoice number {invoice_number} is {order_dates}."
         ],
         "nl_document_list": [
-            "The placement date of the order with invoice number 15 is 1975-12-23 15:59:43, 2002-12-06 14:13:30, 2002-09-13 07:38:09.",
-            "The order was placed on January 27, 1997 at 19:12:01.",
-            "The order was placed on June 24, 1974 at 22:10:26.",
-            "The placement date of the order with invoice number 10 is 1983-09-08 12:32:49, 1997-01-27 19:12:01, and 1982-12-29 21:10:11.",
-            "The order was placed on September 13, 2002 at 07:38:09.",
-            "The placement date of the order with invoice number 13 is 2010-06-08 02:20:49.",
-            "The order was placed on June 8, 2010 at 02:20:49.",
-            "The placement date of the order with invoice number 3 is 1974-08-10 08:15:16, 1976-01-18 08:09:12.",
-            "The order was placed on September 08, 1983 at 12:32:49.",
-            "The order was placed on January 18, 1976 at 08:09:12.",
-            "The placement date of the order with invoice number 2 is 2010-06-08 02:20:49, 1976-09-01 09:27:00, 1997-01-27 19:12:01.",
-            "The order was placed on June 08, 2010 at 02:20:49.",
-            "The order was placed on December 23, 1975 at 15:59:43.",
-            "The placement date of the order with invoice number 5 is 1982-12-09 09:42:23.",
             "The order was placed on September 01, 1976 at 09:27:00.",
-            "The placement date of the order with invoice number 9 is 1974-06-24 22:10:26, 1976-09-01 09:27:00.",
             "The order was placed on December 06, 2002 at 14:13:30.",
-            "The placement date of the order with invoice number 10 is 1982-12-29 21:10:11, 1997-01-27 19:12:01, 1983-09-08 12:32:49.",
+            "The order was placed on December 23, 1975 at 15:59:43.",
             "The order was placed on December 29, 1982 at 21:10:11.",
+            "The order was placed on January 18, 1976 at 08:09:12.",
+            "The placement date of the order with invoice number 10 is 1983-09-08 12:32:49, 1997-01-27 19:12:01, and 1982-12-29 21:10:11.",
+            "The placement date of the order with invoice number 9 is 1974-06-24 22:10:26, 1976-09-01 09:27:00.",
+            "The order was placed on December 09, 1982 at 09:42:23.",
+            "The order was placed on June 8, 2010 at 02:20:49.",
+            "The placement date of the order with invoice number 13 is 2010-06-08 02:20:49.",
+            "The order was placed on June 24, 1974 at 22:10:26.",
+            "The order was placed on September 13, 2002 at 07:38:09.",
+            "The order was placed on September 08, 1983 at 12:32:49.",
+            "The placement date of the order with invoice number 15 is 1975-12-23 15:59:43, 2002-12-06 14:13:30, 2002-09-13 07:38:09.",
+            "The placement date of the order with invoice number 10 is 1982-12-29 21:10:11, 1997-01-27 19:12:01, 1983-09-08 12:32:49.",
+            "The order was placed on June 08, 2010 at 02:20:49.",
+            "The placement date of the order with invoice number 3 is 1974-08-10 08:15:16, 1976-01-18 08:09:12.",
             "The order was placed on August 10, 1974 at 08:15:16.",
-            "The order was placed on December 09, 1982 at 09:42:23."
+            "The placement date of the order with invoice number 2 is 2010-06-08 02:20:49, 1976-09-01 09:27:00, 1997-01-27 19:12:01.",
+            "The order was placed on January 27, 1997 at 19:12:01.",
+            "The placement date of the order with invoice number 5 is 1982-12-09 09:42:23."
         ]
     },
     {
@@ -186,7 +192,6 @@
             "The statement details \"{statement_details}\" and the corresponding document name is \"{document_name}.\""
         ],
         "nl_document_list": [
-            "The statement details \"Open Project\" and the corresponding document name is \"Review on French files.\"",
             "The statement details \"Private Project\" and the corresponding document name is \"Book on USA files.\""
         ]
     }

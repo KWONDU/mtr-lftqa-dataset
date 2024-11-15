@@ -58,13 +58,11 @@ def get_expand_statement_with_low_header_sim_task_shots():
     return "\n".join([
         "\n".join([
             f"**Example {idx * 2 + ddx + 1}:**",
-            "- **DataFrame Schema Set**:",
-            "\n".join([
-                f"DataFrame {tdx + 1} [caption] {table['metadata']}" + \
-                f"[columns] {' | '.join(table['header'])}" + \
-                f"[first row] {' | '.join(table['cell'][0])}"
-                for tdx, table in enumerate(shot['gold_table_set'])
-            ]),
+            "- **DataFrame Schema**:",
+            f"DataFrame [caption] {shot['joined_table']['metadata']} " + \
+            f"[columns] {' | '.join(shot['joined_table']['header'])} " + \
+            f"[first row] {' | '.join(shot['joined_table']['cell'][0])}",
+            "",
             "- **SQL Query**:",
             shot['data_list'][ddx]['sql_query'],
             "",
