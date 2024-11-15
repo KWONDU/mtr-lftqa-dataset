@@ -48,12 +48,41 @@ if __name__ == '__main__':
     # All Open-WikiTable tables exist at single split set
 
     openwikitable = load_dataset(dataset_name='Open-WikiTable')
+    table_lake = {tb['id']: tb for tb in openwikitable.tables}
     
     with open('storage/gold_table_set.json', 'r') as file:
         gold_table_set = json.load(file)
     
     with open('storage/generated_statements.json', 'r') as file:
         generated_statements = json.load(file)
+    
+    ### Filter tables (size > 1000)
+    filtered_table_ids = []
+    for table in openwikitable.tables:
+        row_len = len(table['cell']) + 1
+        col_len = len(table['header'])
+        if row_len * col_len > 1000:
+            filtered_table_ids.append(table['id'])
+    
+    unique_tables = [
+        table
+        for table in openwikitable.tables
+        if table['id'] not in filtered_table_ids
+    ]
+
+    filtered_gold_table_set = []
+    for table_set in gold_table_set:
+        flag = True
+        for table_id in table_set['gold_table_id_set']:
+            row_len = len(table_lake[table_id]['cell']) + 1
+            col_len = len(table_lake[table_id]['header'])
+            if row_len * col_len > 1000:
+                flag = False
+                break
+        
+        if flag:
+            filtered_gold_table_set.append(table_set)
+    ###
 
     source_dataset = SourceOpenWikiTableDataset()
 
@@ -65,12 +94,12 @@ if __name__ == '__main__':
             'header': table['header'],
             'cell': table['cell']
         }
-        for table in openwikitable.tables
+        for table in unique_tables
     ]
 
     instance_set = {
         tuple(gt_set['gold_table_id_set']): []
-        for gt_set in gold_table_set
+        for gt_set in filtered_gold_table_set
     }
 
     for statement, data in tqdm(zip(generated_statements, openwikitable[:]), total=len(openwikitable)):
