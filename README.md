@@ -1,6 +1,6 @@
 # README
 
-![Main](results/main.png) # TBD
+![Main](results/main.png)
 
 ## Package 'utils'
 
