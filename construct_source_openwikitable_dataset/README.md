@@ -1,4 +1,4 @@
-# Wikipedia domain
+# Open-WikiTable
 
     generate_statements.py
     -> construct_gold_table_set.py

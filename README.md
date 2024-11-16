@@ -14,8 +14,8 @@
     *.yaml
     *temp*
     */buffer/*.json
-    buffer/*_header_sim/*.json
-    buffer/*_header_sim/*/*.txt
+    buffer/*/*.json
+    buffer/*/*/*.txt
 
 ### utils/.gitignore
 
@@ -28,7 +28,7 @@
 
 ## 1. Setup
 
-    TBD
+    pip install -r requirements.txt
 
 ### 1.1 Setup token/key
 

@@ -1,4 +1,4 @@
-# Spider-tableQA
+# spider-tableQA
 
     modify_multitabqa_dataset.py
     -> generate_statements.py
