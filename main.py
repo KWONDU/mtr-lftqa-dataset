@@ -251,9 +251,17 @@ if __name__ == '__main__':
     add_openai_api_key(api_key=api_key)
     """
 
+    """
     from steps.regularize import regularize_source_dataset
+    from utils.dataset import load_source_dataset, save_source_dataset
+    save_source_dataset(
+        dataset=regularize_source_dataset(source_dataset=load_source_dataset(dataset_name=args.d)),
+        dataset_name=args.d
+    )
+    """
+
     from utils.dataset import load_source_dataset
-    source_dataset = regularize_source_dataset(source_dataset=load_source_dataset(dataset_name=args.d))
+    source_dataset = load_source_dataset(dataset_name=args.d)
 
     random.seed(4242)
     table_lake = {tb['id']: tb for tb in source_dataset.tables}
