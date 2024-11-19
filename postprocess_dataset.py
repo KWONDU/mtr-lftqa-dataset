@@ -32,7 +32,7 @@ def translate_text(text: str, translator: Translator, src: str='en', dest: str='
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-d', type=str, required=True, choices=['SourceOpenWikiTable', 'SourceSpiderTableQA'], help='dataset name')
-    parser.add_argument('-t', type=str, default='T', choices=['T', 'F'], help='translate process')
+    # parser.add_argument('-t', type=str, default='T', choices=['T', 'F'], help='translate process')
 
     args, _ = parser.parse_known_args()
 
@@ -49,6 +49,7 @@ if __name__ == '__main__':
     with open(f'results/{classification}_dataset.json', 'r') as file:
         dataset = json.load(file)
     
+    """
     if args.t == 'T':
         translated_dataset = []
         for data in tqdm(dataset, desc="[Translate]"):
@@ -58,6 +59,7 @@ if __name__ == '__main__':
             translated_dataset.append(translated_data)
     elif args.t == 'F':
         translated_dataset = dataset
+    """
     
     """
     # 2. View dataset
@@ -72,6 +74,7 @@ if __name__ == '__main__':
             json.dump(table, file, indent=4)
     """
 
+    translated_dataset = dataset
     with open(f'../mtr-lftqa-dataset-viewer/{classification}_dataset.json', 'w') as file:
         json.dump(translated_dataset, file, indent=4)
     

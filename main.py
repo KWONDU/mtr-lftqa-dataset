@@ -263,7 +263,7 @@ if __name__ == '__main__':
     from utils.dataset import load_source_dataset
     source_dataset = load_source_dataset(dataset_name=args.d)
 
-    random.seed(4242)
+    random.seed(42)
     table_lake = {tb['id']: tb for tb in source_dataset.tables}
     instance_set = random.sample(source_dataset[:], args.n)
     MODEL_NAME = 'gpt-4o-mini'
