@@ -30,57 +30,43 @@ def translate_text(text: str, translator: Translator, src: str='en', dest: str='
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-d', type=str, required=True, choices=['SourceOpenWikiTable', 'SourceSpiderTableQA'], help='dataset name')
-    # parser.add_argument('-t', type=str, default='T', choices=['T', 'F'], help='translate process')
+    total_dataset = []
 
-    args, _ = parser.parse_known_args()
-
-    CLASS = {
-        'SourceOpenWikiTable': 'high_header_sim',
-        'SourceSpiderTableQA': 'low_header_sim'
-    }
-
-    classification = CLASS[args.d]
-
-    # 1. Translate QA pair
-    translator = Translator()
-
-    with open(f'results/{classification}_dataset.json', 'r') as file:
-        dataset = json.load(file)
+    for classification in ['high_header_sim', 'low_header_sim']:
+        with open(f'results/{classification}_dataset.json', 'r') as file:
+            dataset = json.load(file)
     
-    """
-    if args.t == 'T':
-        translated_dataset = []
-        for data in tqdm(dataset, desc="[Translate]"):
-            translated_data = data.copy()
-            translated_data['translated_question'] = translate_text(text=data['question'], translator=translator)
-            translated_data['translated_answer'] = translate_text(text=data['answer'], translator=translator)
-            translated_dataset.append(translated_data)
-    elif args.t == 'F':
-        translated_dataset = dataset
-    """
-    
-    """
-    # 2. View dataset
-    
-    from utils.dataset import load_source_dataset
-    from steps.regularize import regularize_source_dataset
-    source_dataset = regularize_source_dataset(source_dataset=load_source_dataset(dataset_name=args.d))
-    table_lake = {tb['id']: tb for tb in source_dataset.tables}
+        """
+        # Table lake
+        
+        from utils.dataset import load_source_dataset
+        from steps.regularize import regularize_source_dataset
+        source_dataset = regularize_source_dataset(source_dataset=load_source_dataset(dataset_name=args.d))
 
-    for table_id, table in table_lake.items():
-        with open(f'../mtr-lftqa-dataset-viewer/table_lake/{classification}_table_{table_id}.json', 'w') as file:
-            json.dump(table, file, indent=4)
-    """
+        for table in source_dataset.tables:
+            table['source'] = 'Open-WikiTable' if classification == 'high_header_sim' else \
+                'spider-tableQA' if classification == 'low_header_sim' else \
+                None
+            
+            if table['source'] is not None:
+                with open(f'../mtr-lftqa-dataset-viewer/table_lake/table_{table_id}.json', 'w') as file:
+                    json.dump(table, file, indent=4)
+        """
 
-    translated_dataset = dataset
-    with open(f'../mtr-lftqa-dataset-viewer/{classification}_dataset.json', 'w') as file:
-        json.dump(translated_dataset, file, indent=4)
+        for data in dataset:
+            data['source'] = 'Open-WikiTable' if classification == 'high_header_sim' else \
+                'spider-tableQA' if classification == 'low_header_sim' else \
+                None
+            
+            if data['source'] is not None:
+                total_dataset.append(data)
+        
+    with open(f'../mtr-lftqa-dataset-viewer/dataset.json', 'w') as file:
+        json.dump(total_dataset, file, indent=4)
     
     try:
-        subprocess.run(["git", "add", f"{classification}_dataset.json"], cwd='../mtr-lftqa-dataset-viewer', check=True)
-        subprocess.run(["git", "commit", "-m", f"modify {classification} dataset"], cwd='../mtr-lftqa-dataset-viewer', check=True)
+        subprocess.run(["git", "add", f"dataset.json"], cwd='../mtr-lftqa-dataset-viewer', check=True)
+        subprocess.run(["git", "commit", "-m", f"modify dataset"], cwd='../mtr-lftqa-dataset-viewer', check=True)
         subprocess.run(["git", "push"], cwd='../mtr-lftqa-dataset-viewer', check=True)
     except subprocess.CalledProcessError as e:
         print(e)
