@@ -56,7 +56,7 @@ async def annotate_answer_task(
                         header=input_data['joined_table']['header'],
                         cell=input_data['joined_table']['cell']
                     ),
-                    nl_document=" ".join(input_data['nl_document_list']),
+                    nl_document=input_data['nl_document'],
                     question=input_data['question']
                 ),
                 model_name=model_name,
@@ -142,7 +142,7 @@ def annotate_answer(
             elif classification == 'low_header_sim':
                 model_input.append({
                     'joined_table': data['relevant_data_set']['joined_table'],
-                    'nl_document_list': data['relevant_data_set']['nl_document_list'],
+                    'nl_document': data['relevant_data_set']['nl_document'],
                     'question': data['question'],
                     'key': (idx, jdx)
                 })

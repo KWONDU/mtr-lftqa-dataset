@@ -46,11 +46,11 @@ async def extract_relevant_data_task(
         ]
     
     elif classification == 'low_header_sim':
-        tasks = [
+        sub_tasks1 = [
             get_async_openai_response(
                 semaphore=semaphore,
-                system_prompt=load_prompt(role='system', task='extract_relevant_data_with_low_header_sim'),
-                user_prompt=load_prompt(role='user', task='extract_relevant_data_with_low_header_sim').format(
+                system_prompt=load_prompt(role='system', task='extract_relevant_columns_with_low_header_sim'),
+                user_prompt=load_prompt(role='user', task='extract_relevant_columns_with_low_header_sim').format(
                     header="Columns are " + ", ".join(input_data['header']) + ".",
                     question=input_data['question']
                 ),
@@ -58,8 +58,26 @@ async def extract_relevant_data_task(
                 key=input_data['key']
             )
             for input_data in model_input
+            if input_data['key'][-1] == 1 # sub_task
         ]
-    ### 
+
+        sub_tasks2 = [
+            get_async_openai_response(
+                semaphore=semaphore,
+                system_prompt=load_prompt(role='system', task='extract_relevant_statements_with_low_header_sim'),
+                user_prompt=load_prompt(role='user', task='extract_relevant_statements_with_low_header_sim').format(
+                    nl_document_list=" ".join(input_data['nl_document_list']),
+                    question=input_data['question']
+                ),
+                model_name=model_name,
+                key=input_data['key']
+            )
+            for input_data in model_input
+            if input_data['key'][-1] == 2 # sub_task
+        ]
+
+        tasks = sub_tasks1 + sub_tasks2
+    ###
 
     model_output_list = []
 
@@ -115,8 +133,15 @@ def extract_relevant_data(
     ] # Output
 
     for role in ['system', 'user']:
-        task = f'extract_relevant_data_with_{classification}'
-        save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
+        if classification == 'high_header_sim':
+            task = f'extract_relevant_data_with_{classification}'
+            save_prompt(file_path=f'prompts/{role}/{task}.txt', role=role, task=task)
+        
+        elif classification == 'low_header_sim':
+            sub_task1 = f'extract_relevant_columns_with_{classification}'
+            save_prompt(file_path=f'prompts/{role}/{sub_task1}.txt', role=role, task=sub_task1)
+            sub_task2 = f'extract_relevant_statements_with_{classification}'
+            save_prompt(file_path=f'prompts/{role}/{sub_task2}.txt', role=role, task=sub_task2)
     
     if classification == 'low_header_sim':
         with open('additional_process_source_spidertableqa_dataset/storage/joined_table_set.json', 'r') as file:
@@ -147,7 +172,19 @@ def extract_relevant_data(
                 model_input.append({
                     'header': joined_table['header'],
                     'question': question,
-                    'key': (idx, jdx)
+                    'key': (idx, jdx, 1) # + sub_task
+                })
+
+                model_input.append({
+                    'nl_document_list': next(
+                        (
+                            tb_doc['nl_document_list']
+                            for tb_doc in table_document_set
+                            if tb_doc['table_id_set'] == instance['gold_table_id_set']
+                        )
+                    ),
+                    'question': question,
+                    'key': (idx, jdx, 2) # + sub_task
                 })
             ###
 
@@ -179,34 +216,34 @@ def extract_relevant_data(
                 )
             
             elif classification == 'low_header_sim':
-                idx, jdx = task_output['key']
+                idx, jdx, sub_task = task_output['key']
                 question = high_level_question_set[idx]['question_list'][jdx]
 
-                joined_table = next(tb for tb in joined_table_set if tb['table_id_set'] == high_level_question_set[idx]['gold_table_id_set'])
+                if sub_task == 1:
+                    joined_table = next(tb for tb in joined_table_set if tb['table_id_set'] == high_level_question_set[idx]['gold_table_id_set'])
 
-                relevant_columns = [col.strip() for col in task_output['response'].split(',')]
-                relevant_cdx_list = [
-                    cdx
-                    for cdx, col in enumerate(joined_table['header'])
-                    if col in relevant_columns
-                ]
+                    relevant_columns = [col.strip() for col in task_output['response'].split(',')]
+                    relevant_cdx_list = [
+                        cdx
+                        for cdx, col in enumerate(joined_table['header'])
+                        if col in relevant_columns
+                    ]
 
-                relevant_header = [joined_table['header'][cdx] for cdx in relevant_cdx_list]
-                unique_relevant_rows = set(tuple(row[cdx] for cdx in relevant_cdx_list) for row in joined_table['cell'])
+                    relevant_header = [joined_table['header'][cdx] for cdx in relevant_cdx_list]
+                    unique_relevant_rows = set(tuple(row[cdx] for cdx in relevant_cdx_list) for row in joined_table['cell'])
 
-                relevant_data_set[idx]['annotation'][jdx]['relevant_data_set'] = {
-                    'joined_table': {
-                        'header': relevant_header,
-                        'cell': [list(row) for row in unique_relevant_rows]
-                    },
-                    'nl_document_list': next(
-                        (
-                            tb_doc['nl_document_list']
-                            for tb_doc in table_document_set
-                            if tb_doc['table_id_set'] == high_level_question_set[idx]['gold_table_id_set']
-                        ), []
-                    )
-                }
+                    relevant_data_set[idx]['annotation'][jdx]['relevant_data_set'] = {
+                        'joined_table': {
+                            'header': relevant_header,
+                            'cell': [list(row) for row in unique_relevant_rows]
+                        }
+                    }
+
+                elif sub_task == 2:
+                    relevant_statements = task_output['response'].strip().replace('\n', ' ')
+
+                    # sub_task1 always located in front of sub_task2 (sort)
+                    relevant_data_set[idx]['annotation'][jdx]['relevant_data_set']['nl_document'] = relevant_statements
             ###
             
             success_cnt += 1

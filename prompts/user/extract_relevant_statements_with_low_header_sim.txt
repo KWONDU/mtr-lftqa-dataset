@@ -1,0 +1,9 @@
+Please perform extractive summarization based on the following question and document.
+
+- **Document**:
+{nl_document_list}
+
+- **Question**:
+{question}
+
+- **Output**:
