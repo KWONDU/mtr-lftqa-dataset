@@ -9,13 +9,13 @@
             "Product names that are colored '{color}' but do not have a unit of measurement '{unit}' are {product_names}."
         ],
         "nl_document_list": [
-            "Product names that are colored 'green' but do not have a unit of measurement 'Weight - pound,kilo.' are flax, cinnam.",
-            "Product names that are colored 'red' but do not have a unit of measurement 'Weight - pound,kilo.' are sesame.",
-            "Product names that are colored 'white' but do not have a unit of measurement \"Handful\" are Peper, Catnip, and Laurel.",
-            "Product names that are colored 'yellow' but do not have a unit of measurement 'Weight - pound,kilo.' are .",
             "Product names that are colored 'white' but do not have a unit of measurement 'Weight - pound,kilo.' are peper.",
+            "Product names that are colored 'red' but do not have a unit of measurement 'Weight - pound,kilo.' are sesame.",
             "Product names that are colored 'blue' but do not have a unit of measurement 'Weight - pound,kilo.' are cumin, chili, ginger, voluptatem, lotus.",
-            "Product names that are colored 'black' but do not have a unit of measurement 'Weight - pound,kilo.' are ."
+            "Product names that are colored 'yellow' but do not have a unit of measurement 'Weight - pound,kilo.' are .",
+            "Product names that are colored 'black' but do not have a unit of measurement 'Weight - pound,kilo.' are .",
+            "Product names that are colored 'white' but do not have a unit of measurement \"Handful\" are Peper, Catnip, and Laurel.",
+            "Product names that are colored 'green' but do not have a unit of measurement 'Weight - pound,kilo.' are flax, cinnam."
         ]
     },
     {
@@ -25,41 +25,59 @@
             "d066861c87b9a19cd92c0c52c384180408c29b73a149019d2632dc1bf202043c"
         ],
         "statement_pattern_set": [
-            "The names of enzymes in the medicine named '{medicine_name}' that can serve as an '{interaction_type}' are {enzyme_names}.",
             "The interaction type between the enzyme named '{enzyme_name}' and the medicine named '{medicine_name}' is {interaction_type}.",
-            "Medicine names and trade names that cannot interact with the enzyme with product '{product}' are {medicines}."
+            "Medicine names and trade names that cannot interact with the enzyme with product '{product}' are {medicine_list}.",
+            "The names of enzymes in the medicine named '{medicine_name}' that can serve as an '{interaction_type}' are {enzyme_names}."
         ],
         "nl_document_list": [
+            "The names of enzymes in the medicine named 'Paliperidone' that can serve as an 'activator' are .",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III decarboxylase' and the medicine named 'Sulpiride' is activitor.",
+            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Aripiprazole' is inhibitor.",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Paliperidone' is activitor.",
+            "The names of enzymes in the medicine named 'Sulpiride' that can serve as an 'activator' are .",
             "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Clocapramine' is inhibitor.",
+            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Asenapine' is inhibitor.",
+            "The names of enzymes in the medicine named 'Carpipramine' that can serve as an 'inhibitor' are ALA dehydratase.",
+            "The names of enzymes in the medicine named 'Aripiprazole' that can serve as an 'activator' are .",
+            "The names of enzymes in the medicine named 'Lurasidone' that can serve as an 'inhibitor' are .",
             "The names of enzymes in the medicine named 'Blonanserin' that can serve as an 'inhibitor' are ALA synthase.",
             "The names of enzymes in the medicine named 'Clocapramine' that can serve as an 'inhibitor' are ALA dehydratase.",
-            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Asenapine' is inhibitor.",
-            "The names of enzymes in the medicine named 'Asenapine' that can serve as an 'inhibitor' are ALA synthase, ALA dehydratase.",
-            "The names of enzymes in the medicine named 'Amisulpride' that can serve as an 'inhibitor' are ALA synthase.",
-            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Blonanserin' is inhibitor.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Asenapine' is activitor.",
-            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Clozapine' is inhibitor.",
-            "Medicine names and trade names that cannot interact with the enzyme with product 'Heme' are Amisulpride with trade name Solian, Aripiprazole with trade name Abilify, Asenapine with trade name Saphris, Blonanserin with trade name Lonasen, Carpipramine with trade name Prazinil, Clocapramine with trade name Clofekton, Clozapine with trade name Clozaril, Iloperidone with trade name Fanapt, Lurasidone with trade name Latuda, Melperone with trade name Buronil, Mosapramine with trade name Cremin, Olanzapine with trade name Zyprexa, Paliperidone with trade name Invega, Perospirone with trade name Lullan, Quetiapine with trade name Seroquel, Remoxipride with trade name Roxiam, Risperidone with trade name Risperdal, Sertindole with trade name Serdolect, Sulpiride with trade name Sulpirid, and Zotepine with trade name Nipolept.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III decarboxylase' and the medicine named 'Ziprasidone' is activitor.",
-            "The names of enzymes in the medicine named 'Clozapine' that can serve as an 'inhibitor' are ALA dehydratase.",
-            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Asenapine' is inhibitor.",
-            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Amisulpride' is inhibitor.",
-            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Aripiprazole' is inhibitor.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Melperone' is activitor.",
-            "The names of enzymes in the medicine named 'Carpipramine' that can serve as an 'inhibitor' are ALA dehydratase.",
+            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Lurasidone' is activitor.",
+            "The names of enzymes in the medicine named 'Sulpiride' that can serve as an 'inhibitor' are .",
             "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Carpipramine' is inhibitor.",
             "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Iloperidone' is activitor.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Paliperidone' is activitor.",
-            "The names of enzymes in the medicine named 'Iloperidone' that can serve as an 'inhibitor' are ALA dehydratase.",
-            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Lurasidone' is activitor.",
-            "The names of enzymes in the medicine named 'Aripiprazole' that can serve as an 'inhibitor' are ALA synthase, ALA dehydratase, PBG deaminase.",
-            "Medicine names and trade names that cannot interact with the enzyme with product 'Heme' are Amisulpride with trade name Solian, Aripiprazole with trade name Abilify, Aripiprazole with trade name Abilify, Aripiprazole with trade name Abilify, Asenapine with trade name Saphris, Asenapine with trade name Saphris, Asenapine with trade name Saphris, Blonanserin with trade name Lonasen, Carpipramine with trade name Prazinil, Clocapramine with trade name Clofekton, Clozapine with trade name Clozaril, Iloperidone with trade name Fanapt, Iloperidone with trade name Fanapt, Lurasidone with trade name Latuda, Melperone with trade name Buronil, Paliperidone with trade name Invega, Sulpiride with trade name Sulpirid, Ziprasidone with trade name Geodon, Ziprasidone with trade name Geodon.",
+            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Asenapine' is inhibitor.",
+            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Amisulpride' is inhibitor.",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Melperone' is activitor.",
             "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Aripiprazole' is an inhibitor.",
-            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Iloperidone' is inhibitor.",
-            "The interaction type between the enzyme named 'Coproporphyrinogen III oxidase' and the medicine named 'Ziprasidone' is activitor.",
+            "The names of enzymes in the medicine named 'Blonanserin' that can serve as an 'activator' are .",
+            "The names of enzymes in the medicine named 'Carpipramine' that can serve as an 'activator' are .",
             "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Aripiprazole' is inhibitor.",
-            "The interaction type between the enzyme named 'Uroporphyrinogen III decarboxylase' and the medicine named 'Sulpiride' is activitor.",
-            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Aripiprazole' is inhibitor."
+            "The names of enzymes in the medicine named 'Iloperidone' that can serve as an 'activator' are .",
+            "The names of enzymes in the medicine named 'Lurasidone' that can serve as an 'activator' are .",
+            "The names of enzymes in the medicine named 'Amisulpride' that can serve as an 'activator' are .",
+            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Iloperidone' is inhibitor.",
+            "The names of enzymes in the medicine named 'Clozapine' that can serve as an 'activator' are .",
+            "The names of enzymes in the medicine named 'Clocapramine' that can serve as an 'activator' are .",
+            "The names of enzymes in the medicine named 'Melperone' that can serve as an 'activator' are .",
+            "The names of enzymes in the medicine named 'Ziprasidone' that can serve as an 'activator' are .",
+            "The names of enzymes in the medicine named 'Iloperidone' that can serve as an 'inhibitor' are ALA dehydratase.",
+            "The names of enzymes in the medicine named 'Asenapine' that can serve as an 'inhibitor' are ALA synthase, ALA dehydratase.",
+            "The names of enzymes in the medicine named 'Melperone' that can serve as an 'inhibitor' are .",
+            "The names of enzymes in the medicine named 'Paliperidone' that can serve as an 'inhibitor' are .",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III synthase' and the medicine named 'Asenapine' is activitor.",
+            "The names of enzymes in the medicine named 'Clozapine' that can serve as an 'inhibitor' are ALA dehydratase.",
+            "Medicine names and trade names that cannot interact with the enzyme with product 'Heme' are Amisulpride with trade name Solian, Aripiprazole with trade name Abilify, Asenapine with trade name Saphris, Blonanserin with trade name Lonasen, Carpipramine with trade name Prazinil, Clocapramine with trade name Clofekton, Clozapine with trade name Clozaril, Iloperidone with trade name Fanapt, Lurasidone with trade name Latuda, Melperone with trade name Buronil, Mosapramine with trade name Cremin, Olanzapine with trade name Zyprexa, Paliperidone with trade name Invega, Perospirone with trade name Lullan, Quetiapine with trade name Seroquel, Remoxipride with trade name Roxiam, Risperidone with trade name Risperdal, Sertindole with trade name Serdolect, Sulpiride with trade name Sulpirid, and Zotepine with trade name Nipolept.",
+            "The interaction type between the enzyme named 'PBG deaminase' and the medicine named 'Aripiprazole' is inhibitor.",
+            "The names of enzymes in the medicine named 'Asenapine' that can serve as an 'activator' are .",
+            "The names of enzymes in the medicine named 'Amisulpride' that can serve as an 'inhibitor' are ALA synthase.",
+            "The interaction type between the enzyme named 'ALA synthase' and the medicine named 'Blonanserin' is inhibitor.",
+            "The interaction type between the enzyme named 'ALA dehydratase' and the medicine named 'Clozapine' is inhibitor.",
+            "Medicine names and trade names that cannot interact with the enzyme with product 'Heme' are Amisulpride with trade name Solian, Aripiprazole with trade name Abilify, Aripiprazole with trade name Abilify, Aripiprazole with trade name Abilify, Asenapine with trade name Saphris, Asenapine with trade name Saphris, Asenapine with trade name Saphris, Blonanserin with trade name Lonasen, Carpipramine with trade name Prazinil, Clocapramine with trade name Clofekton, Clozapine with trade name Clozaril, Iloperidone with trade name Fanapt, Iloperidone with trade name Fanapt, Lurasidone with trade name Latuda, Melperone with trade name Buronil, Paliperidone with trade name Invega, Sulpiride with trade name Sulpirid, Ziprasidone with trade name Geodon, and Ziprasidone with trade name Geodon.",
+            "The interaction type between the enzyme named 'Uroporphyrinogen III decarboxylase' and the medicine named 'Ziprasidone' is activitor.",
+            "The names of enzymes in the medicine named 'Aripiprazole' that can serve as an 'inhibitor' are ALA synthase, ALA dehydratase, PBG deaminase.",
+            "The interaction type between the enzyme named 'Coproporphyrinogen III oxidase' and the medicine named 'Ziprasidone' is activitor.",
+            "The names of enzymes in the medicine named 'Ziprasidone' that can serve as an 'inhibitor' are ."
         ]
     },
     {
@@ -71,8 +89,8 @@
             "The CMI cross reference IDs related to at least one council tax entry are {cmi_ids} with source system code {source_code}."
         ],
         "nl_document_list": [
-            "The CMI cross reference IDs related to at least one council tax entry are 101, 102, 103, 104, 105, and 106 with source system code Tax.",
-            "The CMI cross reference IDs related to at least one council tax entry are 101, 102, 103, 104, 105, 106 with source system code Tax."
+            "The CMI cross reference IDs related to at least one council tax entry are 101, 102, 103, 104, 105, 106 with source system code Tax.",
+            "The CMI cross reference IDs related to at least one council tax entry are 101, 102, 103, 104, 105, and 106 with source system code Tax."
         ]
     },
     {
@@ -93,13 +111,13 @@
             "94a05d0d2e99c973f02d1bc2281d986687aaa7eafc79be6626c83e9f45e3126c"
         ],
         "statement_pattern_set": [
-            "There are {count} exhibitions with an attendance more than {attendance_threshold} or a ticket price below {ticket_price_threshold}.",
-            "The theme, date, and attendance for the exhibition in the year {year} are {details}."
+            "The theme, date, and attendance for the exhibition in the year {year} are {details}.",
+            "There are {count} exhibitions with an attendance more than {attendance_threshold} or a ticket price below {ticket_price_threshold}."
         ],
         "nl_document_list": [
+            "The theme, date, and attendance for the exhibition in the year 2004 are Santa Claus, December 2, 965, Santa Claus, December 5, 1098, Santa Claus, December 7, 2983.",
             "The theme, date, and attendance for the exhibition in the year 2004 are Santa Claus, December 2, 965, Santa Claus, December 5, 1098, and Santa Claus, December 7, 2983.",
-            "There are 13 exhibitions with an attendance more than 100 or a ticket price below 10.",
-            "The theme, date, and attendance for the exhibition in the year 2004 are Santa Claus, December 2, 965, Santa Claus, December 5, 1098, Santa Claus, December 7, 2983."
+            "There are 13 exhibitions with an attendance more than 100 or a ticket price below 10."
         ]
     },
     {
@@ -109,14 +127,14 @@
             "5081f9a68d47805bdabcf122fb6dd2554d40bc20f19a44ede6f0281a5dc5259b"
         ],
         "statement_pattern_set": [
-            "The countries with more than {count_threshold} car makers or that produce the '{model}' model are: {country_info}.",
-            "{model_count} car models are produced in the {country}."
+            "{model_count} car models are produced in the {country}.",
+            "The countries with more than {maker_threshold} car makers or that produce the '{model}' model are: {country_info}."
         ],
         "nl_document_list": [
+            "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 2, CountryName germany, CountryId 5, CountryName italy, CountryId 1, CountryName usa, CountryId 4, CountryName japan.",
             "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 1, CountryName USA, CountryId 2, CountryName Germany, CountryId 4, CountryName Japan, and CountryId 5, CountryName Italy.",
-            "13 car models are produced in the USA.",
             "Thirteen car models are produced in the USA.",
-            "The countries with more than 3 car makers or that produce the 'fiat' model are: CountryId 1, CountryName usa, CountryId 2, CountryName germany, CountryId 2, CountryName germany, CountryId 2, CountryName germany, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 1, CountryName usa, CountryId 4, CountryName japan, CountryId 4, CountryName japan, CountryId 5, CountryName italy, CountryId 4, CountryName japan, CountryId 4, CountryName japan, CountryId 2, CountryName germany, CountryId 2, CountryName germany, CountryId 2, CountryName germany, CountryId 4, CountryName japan, CountryId 4, CountryName japan, CountryId 4, CountryName japan."
+            "13 car models are produced in the usa."
         ]
     },
     {
@@ -126,31 +144,30 @@
             "3a92e49624e82144c8636927f79c3f91235b1a1d08e45b5de271a84a6d4193a9"
         ],
         "statement_pattern_set": [
-            "Stores in {district_name} are {store_names}.",
-            "The number of stores in each city are as follows: {city_info}.",
             "Districts where there are both {store_type_1} and {store_type_2} type stores are {district_names}.",
-            "The city that is the headquarters of the store named {store_name} is {headquartered_city}.",
-            "The city with the most number of stores is {headquartered_city}."
+            "Stores in {district_name} are {store_names}.",
+            "The number of stores in each city are as follows: {city_stores}.",
+            "The city with the most number of stores is {headquartered_city}.",
+            "The city that is the headquarters of the store named {store_name} is {headquartered_city}."
         ],
         "nl_document_list": [
+            "Stores in Khanewal District are Miramichi, Neguac.",
+            "The city that is the headquarters of the store named Miramichi is Khanewal City.",
             "The city that is the headquarters of the store named Doaktown is Bahawalpur City.",
-            "The city with the most number of stores is Bahawalpur City.",
-            "Districts where there are both City Mall and Village Store type stores are Khanewal District.",
+            "The number of stores in each city are as follows: Bahawalpur City has 1 store, Bhakkar City has 1 store, Hafizabad City has 1 store, Khanewal City has 2 stores.",
+            "The city that is the headquarters of the store named Neguac is Khanewal City.",
             "Stores in Hafizabad District are Rogersville.",
             "Districts where there are both city mall and village store type stores are Khanewal District.",
             "The city that is the headquarters of the store named Blackville is Bhakkar City.",
+            "Stores in Bahawalpur District are Doaktown.",
+            "Districts where there are both City Mall and Village Store type stores are Khanewal District.",
+            "The city with the most number of stores is Khanewal City.",
+            "Districts where there are both Village Store and City Mall type stores are Khanewal District.",
             "Stores in Bhakkar District are Blackville.",
             "The number of stores in each city are as follows: Bahawalpur City has 1 store, Bhakkar City has 1 store, Hafizabad City has 1 store, and Khanewal City has 2 stores.",
-            "The number of stores in each city are as follows: Khanewal City has 2 stores, Bahawalpur City has 1 store, Bhakkar City has 1 store, Hafizabad City has 1 store.",
-            "Districts where there are both Village Store and City Mall type stores are Khanewal District.",
-            "The city that is the headquarters of the store named Rogersville is Hafizabad City.",
-            "The city that is the headquarters of the store named Neguac is Khanewal City.",
-            "Stores in Khanewal District are Miramichi, Neguac.",
             "Stores in Khanewal District are Miramichi and Neguac.",
-            "The city with the most number of stores is Khanewal City.",
-            "The city that is the headquarters of the store named Miramichi is Khanewal City.",
-            "The city that is the headquarters of the store named \"Blackville\" is Bhakkar City.",
-            "Stores in Bahawalpur District are Doaktown."
+            "The city that is the headquarters of the store named Rogersville is Hafizabad City.",
+            "The city that is the headquarters of the store named \"Blackville\" is Bhakkar City."
         ]
     },
     {
@@ -159,33 +176,33 @@
             "6bc4e83f039aa281e23d3cde4556cdd32d9166593dc382cdcf0d50898a5c5fa4"
         ],
         "statement_pattern_set": [
-            "The episodes of TV series shown on the TV Channel with the series name \"{series_name}\" are {episode_names}.",
+            "The episodes of TV series shown on the TV Channel with the series name {series_name} are {episode_names}.",
             "The TV channel for the TV series with the episode \"{episode}\" is {channel}."
         ],
         "nl_document_list": [
-            "The TV channel for the TV series with the episode \"Blowback\" is 719.",
-            "The TV channel for the TV series with the episode \"Friendly Skies\" is 701.",
-            "The TV channel for the TV series with the episode \"Double Down\" is 708.",
+            "The episodes of TV series shown on the TV Channel with the series name Sky Radio are A Love of a Lifetime, Keepers.",
+            "The episodes of TV series shown on the TV Channel with the series name Sky Music are Friendly Skies.",
             "The TV channel for the TV series with the episode \"Game Three\" is 707.",
-            "The episodes of TV series shown on the TV Channel with the series name \"Rock TV\" are Emily.",
+            "The episodes of TV series shown on the TV Channel with the series name MTV Music are Double Down.",
+            "The episodes of TV series shown on the TV Channel with the series name myDeejay are The Legend of Dylan McCleen, The Hanged Man.",
+            "The episodes of TV series shown on the TV Channel with the series name Rock TV are Emily.",
+            "The episodes of TV series shown on the TV Channel with the series name Classica are Home By Another Way.",
+            "The episodes of TV series shown on the TV Channel with the series name Hip Hop TV are Blowback.",
+            "The TV channel for the TV series with the episode \"Keepers\" is 700.",
+            "The TV channel for the TV series with the episode \"The Year of the Rabbit\" is 713.",
+            "The TV channel for the TV series with the episode \"The Hanged Man\" is 714.",
+            "The TV channel for the TV series with the episode \"Friendly Skies\" is 701.",
             "The TV channel for the TV series with the episode \"A Love of a Lifetime\" is Sky Radio.",
             "The TV channel for the TV series with the episode \"Winterland\" is 707.",
-            "The episodes of TV series shown on the TV Channel with the series name \"Hip Hop TV\" are Blowback.",
-            "The TV channel for the TV series with the episode \"Keepers\" is 700.",
+            "The episodes of TV series shown on the TV Channel with the series name Radio Capital TiV\u00c3\u00b9 are The Year of the Rabbit.",
+            "The episodes of TV series shown on the TV Channel with the series name MTV Dance are Game Three, Winterland.",
             "The episodes of TV series shown on the TV Channel with the series name \"Sky Radio\" are \"A Love of a Lifetime\" and \"Keepers\".",
-            "The episodes of TV series shown on the TV Channel with the series name \"Classica\" are Home By Another Way.",
-            "The TV channel for the TV series with the episode \"The Hanged Man\" is 714.",
-            "The episodes of TV series shown on the TV Channel with the series name \"myDeejay\" are The Legend of Dylan McCleen, The Hanged Man.",
-            "The TV channel for the TV series with the episode \"Emily\" is 717.",
-            "The episodes of TV series shown on the TV Channel with the series name \"MTV Dance\" are Game Three, Winterland.",
-            "The episodes of TV series shown on the TV Channel with the series name \"Sky Music\" are Friendly Skies.",
-            "The episodes of TV series shown on the TV Channel with the series name \"Radio Capital TiV\u00c3\u00b9\" are The Year of the Rabbit.",
+            "The TV channel for the TV series with the episode \"Double Down\" is 708.",
             "The TV channel for the TV series with the episode \"Home By Another Way\" is 728.",
-            "The TV channel for the TV series with the episode \"The Year of the Rabbit\" is 713.",
+            "The TV channel for the TV series with the episode \"A Love of a Lifetime\" is 700.",
+            "The TV channel for the TV series with the episode \"Blowback\" is 719.",
             "The TV channel for the TV series with the episode \"The Legend of Dylan McCleen\" is 714.",
-            "The episodes of TV series shown on the TV Channel with the series name \"Sky Radio\" are A Love of a Lifetime, Keepers.",
-            "The episodes of TV series shown on the TV Channel with the series name \"MTV Music\" are Double Down.",
-            "The TV channel for the TV series with the episode \"A Love of a Lifetime\" is 700."
+            "The TV channel for the TV series with the episode \"Emily\" is 717."
         ]
     },
     {
@@ -195,15 +212,15 @@
             "15f57d670e01cf1ad3d4c7d1e191a36fa5277e1e1651e825219e363099f39aeb"
         ],
         "statement_pattern_set": [
-            "The response received dates for the documents described as '{document_description}' or granted with more than {grant_amount_threshold} are {response_dates}.",
-            "The start dates for grants with both documents described as '{document_description_1}' and documents described as '{document_description_2}' are {start_dates}."
+            "The start dates for grants with both documents described as '{document_description_1}' and documents described as '{document_description_2}' are {start_dates}.",
+            "The response received dates for the documents described as '{document_description}' or granted with more than {amount_threshold} are {response_dates}."
         ],
         "nl_document_list": [
-            "The start dates for grants with both documents described as 'Regular' and documents described as 'Initial Application' are 1979-10-29 07:44:22, 2004-11-10 02:26:01, 1986-10-31 17:11:29, 1982-04-07 00:07:43, 2011-05-10 22:44:08, 2016-02-25 04:28:44, 1986-08-26 20:49:27, 2015-12-14 13:02:11.",
             "The response received dates for the documents described as 'Regular' or granted with more than 100 are 1977-12-01 02:18:53, 1995-09-12 13:13:48, 1986-05-23 07:17:59, 1976-10-04 22:13:27, 1986-05-18 01:54:56, 1987-10-29 15:35:50, 1994-03-13 01:52:45, 1977-01-27 07:14:11, 1971-08-28 11:20:56, and 1999-06-01 18:41:00.",
             "The start dates for grants with both documents described as 'Initial Application' and documents described as 'Regular' are 1979-10-29 07:44:22, 2004-11-10 02:26:01, 1986-10-31 17:11:29, 1982-04-07 00:07:43, 2011-05-10 22:44:08, 2016-02-25 04:28:44, 1986-08-26 20:49:27, 2015-12-14 13:02:11.",
+            "The response received dates for the documents described as 'Regular' or granted with more than 100 are 1977-12-01 02:18:53, 1986-05-23 07:17:59, 1986-05-18 01:54:56, 1971-08-28 11:20:56, 1999-06-01 18:41:00, 1995-09-12 13:13:48, 1976-10-04 22:13:27, 1987-10-29 15:35:50, 1994-03-13 01:52:45, 1977-01-27 07:14:11.",
             "The start dates for grants with both documents described as 'Regular' and documents described as 'Initial Application' are 1979-10-29 07:44:22, 1982-04-07 00:07:43, and 2004-11-10 02:26:01.",
-            "The response received dates for the documents described as 'Regular' or granted with more than 100 are 1977-12-01 02:18:53, 1986-05-23 07:17:59, 1986-05-18 01:54:56, 1971-08-28 11:20:56, 1999-06-01 18:41:00, 1995-09-12 13:13:48, 1976-10-04 22:13:27, 1987-10-29 15:35:50, 1994-03-13 01:52:45, 1977-01-27 07:14:11."
+            "The start dates for grants with both documents described as 'Regular' and documents described as 'Initial Application' are 1979-10-29 07:44:22, 2004-11-10 02:26:01, 1986-10-31 17:11:29, 1982-04-07 00:07:43, 2011-05-10 22:44:08, 2016-02-25 04:28:44, 1986-08-26 20:49:27, 2015-12-14 13:02:11."
         ]
     },
     {
@@ -215,8 +232,8 @@
             "Workshop groups with bookings having status code {status_code} are {store_names}."
         ],
         "nl_document_list": [
-            "Workshop groups with bookings having status code \"stop\" are Bednar Film, Kling Workshop, Warino Photo, and Queen Art.",
-            "Workshop groups with bookings having status code stop are Bednar Film, Kling Workshop, Warino Photo, Queen Art."
+            "Workshop groups with bookings having status code stop are Bednar Film, Kling Workshop, Warino Photo, Queen Art.",
+            "Workshop groups with bookings having status code \"stop\" are Bednar Film, Kling Workshop, Warino Photo, and Queen Art."
         ]
     }
 ]

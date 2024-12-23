@@ -1,12 +1,10 @@
-Please generate answer to the following question using the provided document set.
-
-- **Table Document**:
-{joined_table}
-{nl_document}
+Please generate a question-driven insight based on the following question and relevant knowledge.
 
 - **Question**:
 {question}
 
-Let's think step by step.
+- **Question-Relevant Knowledge**:
+{joined_table}
+{nl_document}
 
 - **Answer**:

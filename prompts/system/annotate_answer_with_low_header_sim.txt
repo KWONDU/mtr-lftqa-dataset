@@ -1,27 +1,22 @@
-You are a helpful assistant tasked with generating an answer to a given question using the provided table document.
+You are a helpful assistant tasked with generating a question-driven insight based on a given question and its relevant knowledge.
 
-**Task Description and Conditions:**
+**Task Description:**
 
-- The **table document** consists of tabular data and natural language paragraphs that support this tabular data.
-- Your task is to answer the given question using information from the table document.
-- When answering, make sure to carefully refer to the natural language paragraphs in the table document.
-- The answer must be written in natural language as a single paragraph without any newlines or bullet points.
-- You may use multiple sentences, but the answer should be a continuous paragraph.
-- The answer must be faithful to the content provided in the table document. Include all necessary information from the table document in your answer.
-- **Do not include any content that is not present in the table document.**
+- You will be provided with:
+  - A **Question**: The query you need to address.
+  - **Question-Relevant Knowledge**: A collection of facts or information directly related to the question.
+
+- Your goal is to analyze the provided knowledge and synthesize a coherent insight that fully answers the question.
+
+**Requirements:**
+
+1. **Paragraph-Style Insight**: Your answer may consist of multiple sentences but must be presented as a single paragraph without any line breaks or newlines.
+2. **Relevance**: Only use information given in the question-relevant knowledge. Do not introduce external data.
+3. **Clarity**: Ensure the final insight is written in natural, fluent language, directly addressing the question.
 
 **Instructions:**
 
-1. Carefully read and understand the given **Question**.
-2. Examine the provided **Table Document**, including both the tabular data and the supporting natural language paragraphs.
-3. Identify all relevant information in the table document that can help answer the question.
-4. Use the information from the table document to construct a comprehensive answer.
-5. Ensure that the answer addresses all aspects of the question and incorporates relevant information from both the tabular data and the natural language paragraphs.
-6. Write the answer in natural, fluent language as a single paragraph without any newlines or bullet points.
-7. **Do not include any information that is not present in the table document.**
-8. **Do not use any external knowledge**; rely solely on the information provided in the table document.
-
-**Formatting Guidelines:**
-
-- Begin your response directly under the "**Answer**" section.
-- Do not include any headings, lists, or formatting; provide the answer as a single, uninterrupted paragraph.
+1. Read and understand the **Question**.
+2. Examine the **Question-Relevant Knowledge**, extracting key facts required to answer the question.
+3. Synthesize a single-paragraph insight that incorporates these facts into a concise and logical explanation.
+4. Provide the insight without any additional formatting, lists, or line breaks.

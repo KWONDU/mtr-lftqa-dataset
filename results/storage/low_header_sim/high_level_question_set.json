@@ -6,16 +6,16 @@
             "f06da14e8a44b078739c187abcdfc5cbb4602e109ad9c6cad6c02ee681a22de8"
         ],
         "question_list": [
-            "What are the different product categories associated with products that have the same color code as the product with the highest metadata value, and how do these categories compare in terms of the number of products they contain?",
-            "How does the distribution of color codes among products relate to the various product categories, particularly focusing on the category with the most products?",
-            "What is the relationship between the color codes of products and their respective categories, and how does this relationship affect the overall product characteristics?",
-            "Which product category contains the most products that share the same color code as the product with the lowest metadata value, and what are the characteristics of these products?",
-            "How do the characteristics of products in the category with the highest number of entries compare to those in the category with the lowest number of entries, particularly in terms of color codes?",
-            "What are the implications of having multiple products with the same color code within different product categories, and how does this affect consumer choice?",
-            "How does the metadata information of products correlate with their color codes and product categories, particularly for products that are most frequently purchased?",
-            "What trends can be observed in the color codes of products across different categories, and how do these trends influence product marketing strategies?",
-            "How do the characteristics of products in the same category differ based on their color codes, and what might this indicate about consumer preferences?",
-            "What is the significance of color codes in distinguishing products within the same category, and how does this affect the overall product classification system?"
+            "What are the different product categories associated with products that have the same color code as the product with the highest sales, and how do these categories compare in terms of their characteristics?",
+            "How do the characteristics of products in the same category as the product with the most popular color differ from those in other categories, and what color codes are associated with these products?",
+            "What is the relationship between the color codes of products and their respective categories, particularly for products that have unique characteristics?",
+            "How do the characteristics of products with the same color code influence their categorization, and what are the implications for marketing strategies?",
+            "Which product categories contain products that share the same color code as the product with the lowest sales, and what are the characteristics of these products?",
+            "How does the distribution of color codes among different product categories reflect trends in consumer preferences, based on the characteristics of the products?",
+            "What are the common characteristics of products that belong to the same category and share a specific color code, and how do these characteristics affect their market performance?",
+            "How do the characteristics of products in the most common color category compare to those in less common categories, and what role does color play in product differentiation?",
+            "What is the significance of color codes in determining the characteristics of products within the same category, and how does this affect inventory management?",
+            "How do the characteristics of products with unique color codes relate to their categorization, and what insights can be drawn about consumer behavior from this relationship?"
         ]
     },
     {
@@ -25,16 +25,16 @@
             "d066861c87b9a19cd92c0c52c384180408c29b73a149019d2632dc1bf202043c"
         ],
         "question_list": [
-            "What are the different types of enzymes involved in interactions with medicines, and how do these interactions vary based on the specific enzymes identified?",
-            "How do the interactions between specific medicines and enzymes influence the effectiveness of those medicines, and what are the implications for treatment?",
-            "What is the relationship between the types of enzymes and the medicines they interact with, and how does this relationship affect patient outcomes?",
-            "How many unique enzymes are involved in the interactions with medicines, and what are the corresponding medicines associated with each enzyme?",
-            "What are the key characteristics of the medicines that interact with the most common enzymes, and how do these characteristics impact their therapeutic use?",
-            "How do the interactions between enzymes and medicines differ across various medical conditions, and what enzymes are most frequently involved in these interactions?",
-            "What patterns can be observed in the enzyme-medicine interactions, particularly regarding the types of enzymes that are most commonly associated with specific classes of medicines?",
-            "How does the presence of certain enzymes in the body affect the metabolism of specific medicines, and what are the potential consequences for drug efficacy?",
-            "What are the implications of enzyme-medicine interactions for drug development, particularly in terms of identifying which enzymes should be targeted for enhancing medicine effectiveness?",
-            "How do the interactions between enzymes and medicines inform clinical decisions, particularly in the context of personalized medicine and patient-specific treatment plans?"
+            "What are the specific enzymes involved in the interactions with each medicine listed, and how do these interactions vary across different medicines?",
+            "How does the metadata associated with each enzyme inform our understanding of its role in medicine, particularly in relation to the interactions documented?",
+            "What is the relationship between the id of each enzyme and the corresponding medicine it interacts with, and how does this relationship impact the effectiveness of the medicine?",
+            "How do the metadata details of the enzyme interactions enhance our knowledge of the mechanisms by which medicines exert their effects?",
+            "What patterns can be observed in the interactions between enzymes and medicines based on the metadata provided, and what implications do these patterns have for drug development?",
+            "How does the id of a specific medicine correlate with the number of enzyme interactions it has, and what does this indicate about its pharmacological profile?",
+            "In what ways does the metadata info for each enzyme contribute to the understanding of its significance in the context of medicine and enzyme interactions?",
+            "How do the interactions between enzymes and medicines differ based on the specific metadata associated with each enzyme, and what factors might influence these differences?",
+            "What insights can be gained from analyzing the header information of the enzyme interactions in relation to the effectiveness of the medicines involved?",
+            "How do the relationships between enzyme ids and medicine ids in the interaction table inform our understanding of potential side effects or interactions in pharmacotherapy?"
         ]
     },
     {
@@ -43,16 +43,16 @@
             "c6f40e9322b594e79c8743f517c3764f25117771e5bf5174b5e3059ee9a91b39"
         ],
         "question_list": [
-            "What is the relationship between the metadata information in the cmi cross references and the council tax data, and how does this affect the understanding of local government funding?",
-            "How do the IDs in the cmi cross references correlate with the council tax entries, and what implications does this have for tracking local government financial data?",
-            "What are the specific metadata details associated with each ID in the cmi cross references, and how do these details enhance the interpretation of council tax information?",
-            "How does the cell data in the cmi cross references relate to the council tax entries, and what insights can be drawn regarding local government revenue sources?",
-            "What patterns can be observed in the metadata across both the cmi cross references and council tax tables, and how do these patterns inform local government policy decisions?",
-            "How do the headers in the cmi cross references and council tax tables align, and what does this alignment reveal about the structure of local government data management?",
-            "What is the significance of the cmi_cross_ref_id in linking the cmi cross references to council tax data, and how does this linkage facilitate data analysis for local governments?",
-            "How can the information in the cell column of the cmi cross references be utilized to better understand variations in council tax rates across different local governments?",
-            "What role does the metadata play in interpreting the relationships between the cmi cross references and council tax data, particularly in the context of local government accountability?",
-            "How do the IDs from the cmi cross references enhance the ability to cross-reference council tax data, and what are the potential benefits for local government transparency?"
+            "What are the different council tax rates associated with each unique cmi cross reference ID, and how do these rates vary across different local government areas?",
+            "How does the metadata information for each cmi cross reference ID relate to the council tax data, and what insights can be drawn from this relationship?",
+            "What is the significance of the cell values in the cmi cross references table when compared to the corresponding council tax entries, and how do they inform local government decisions?",
+            "How do the headers in the cmi cross references table correlate with the metadata in the council tax table, and what implications does this have for understanding local government funding?",
+            "What patterns can be observed in the metadata info of cmi cross references when analyzed alongside the council tax data, particularly in terms of local government revenue?",
+            "How do the unique IDs in the cmi cross references table facilitate the tracking of council tax changes over time, and what does this reveal about local government financial management?",
+            "In what ways do the cell values in the council tax table reflect the broader trends indicated by the metadata in the cmi cross references, especially regarding local taxation policies?",
+            "What relationships exist between the headers in the cmi cross references and the council tax data, and how do these relationships impact local government accountability?",
+            "How can the metadata info from the cmi cross references enhance the understanding of council tax implications for residents in different local government jurisdictions?",
+            "What insights can be gained from comparing the cell values in the cmi cross references with the council tax data, particularly in identifying discrepancies or trends in local government taxation?"
         ]
     },
     {
@@ -63,14 +63,14 @@
         "question_list": [
             "What is the total number of bookings associated with each payment, and how does this relate to the overall revenue generated from those bookings?",
             "How do the payment amounts for bookings compare across different booking IDs, and what patterns can be observed in the payment data?",
-            "What is the relationship between the booking IDs and the corresponding payment amounts, and how does this impact the overall financial performance of the products for hire?",
-            "How many unique booking IDs are there, and what is the average payment amount associated with these bookings?",
-            "What trends can be identified in the payment data for bookings made during peak seasons compared to off-peak seasons?",
-            "How does the frequency of bookings correlate with the total payment amounts received, and what implications does this have for inventory management?",
-            "What is the distribution of payment amounts across different booking IDs, and how does this reflect customer behavior in the products for hire market?",
-            "How do the total payments for bookings compare between different time periods, and what factors might influence these changes?",
-            "What insights can be drawn from the relationship between booking IDs and payment amounts regarding customer preferences for products for hire?",
-            "How does the data on bookings and payments inform strategies for pricing and promotions in the products for hire sector?"
+            "What is the relationship between the booking IDs and the corresponding payment details, and how does this impact the tracking of financial transactions?",
+            "How many unique booking IDs are associated with each payment, and what does this indicate about the frequency of bookings?",
+            "What are the payment trends observed for bookings with the highest and lowest booking IDs, and how do these trends reflect customer behavior?",
+            "How does the metadata associated with each booking ID enhance the understanding of payment processing for those bookings?",
+            "What insights can be drawn from the metadata info related to bookings and payments, particularly in terms of identifying potential discrepancies?",
+            "How do the payment records correlate with the booking details, and what implications does this have for managing financial records?",
+            "What patterns emerge when analyzing the relationship between booking IDs and their corresponding payment amounts, particularly in terms of seasonality or demand?",
+            "How does the information in the metadata for bookings and payments assist in improving the efficiency of the booking and payment processes?"
         ]
     },
     {
@@ -79,16 +79,16 @@
             "94a05d0d2e99c973f02d1bc2281d986687aaa7eafc79be6626c83e9f45e3126c"
         ],
         "question_list": [
-            "What is the relationship between the metadata information of exhibitions and their corresponding records, and how does this affect the overall understanding of the exhibition themes?",
-            "How do the exhibition IDs correlate with the number of records available for each exhibition, and what does this indicate about the popularity of different themes?",
-            "What are the unique metadata attributes associated with each exhibition, and how do these attributes enhance the documentation of the exhibition records?",
-            "How does the cell information in the exhibition records reflect the themes presented in the exhibitions, and what patterns can be observed?",
-            "What is the significance of the exhibition ID in linking the exhibition details to their respective records, and how does this facilitate data retrieval?",
-            "How do the headers in the exhibition records provide context for understanding the metadata associated with each exhibition?",
-            "What trends can be identified in the metadata information across different exhibitions, and how do these trends relate to the records of those exhibitions?",
-            "How does the structure of the exhibition records, including the use of IDs and metadata, contribute to the organization of information within the theme gallery?",
-            "In what ways do the exhibition records enhance the narrative of the exhibitions, particularly through the use of specific metadata and cell details?",
-            "How can the relationship between exhibition IDs and their records be utilized to analyze the effectiveness of different themes in attracting visitors?"
+            "What are the details of the exhibitions that have the highest number of records, and how do these records reflect the themes presented in those exhibitions?",
+            "How does the metadata associated with each exhibition enhance the understanding of the exhibition records, particularly in terms of visitor engagement?",
+            "What is the relationship between the exhibition IDs and the number of records associated with each exhibition, and how does this impact the overall success of the exhibitions?",
+            "How do the themes of the exhibitions correlate with the types of records maintained, and what insights can be drawn from this relationship?",
+            "What metadata information is most commonly associated with the exhibitions that have the most extensive records, and how does this influence the curation of future exhibitions?",
+            "How do the exhibition records vary across different exhibitions, and what does this variation indicate about the popularity of certain themes?",
+            "What patterns can be observed in the metadata of exhibitions that have a high number of records, and how might these patterns inform future exhibition planning?",
+            "How does the exhibition ID serve as a key in linking the exhibition details with their respective records, and what implications does this have for data management?",
+            "What are the common themes found in the metadata of exhibitions that have been particularly successful in attracting visitors, and how do these themes compare to less successful exhibitions?",
+            "How do the exhibition records contribute to the overall narrative of each exhibition, and what role does the metadata play in shaping this narrative?"
         ]
     },
     {
@@ -99,15 +99,15 @@
         ],
         "question_list": [
             "What is the relationship between car makers and the countries they are based in, and how does this influence the variety of car models produced in those countries?",
-            "How do the different car models listed relate to their respective makers, and what patterns can be observed in the types of models produced by makers from various countries?",
-            "Which countries have the highest number of car makers, and how does this correlate with the diversity of car models available from those makers?",
-            "What are the most common countries associated with car makers, and how does the model list reflect the automotive trends in those countries?",
-            "How does the identification of car makers by their country impact the model list, and what does this reveal about global automotive manufacturing?",
-            "What is the significance of the metadata associated with car makers in understanding the geographical distribution of car models across different countries?",
-            "How do the characteristics of car makers influence the types of models they produce, and what role does the country of origin play in this relationship?",
-            "What trends can be identified in the model list based on the countries of the car makers, and how do these trends reflect consumer preferences in those regions?",
-            "How does the data on car makers and their countries help in analyzing the global automotive market, particularly in terms of model diversity?",
-            "What insights can be drawn from the relationship between car makers, their countries, and the model list regarding the evolution of automotive design and technology?"
+            "How do the different car makers compare in terms of the number of models they produce, and what countries are these makers associated with?",
+            "Which countries have the highest number of car makers, and how does this correlate with the diversity of car models available in those countries?",
+            "What is the distribution of car makers across different countries, and how does this affect the overall model list available in the global market?",
+            "How do the car models produced by makers from a specific country compare in terms of features and specifications, and what role does the country play in this?",
+            "What trends can be observed in the types of car models produced by makers from countries with a high concentration of car manufacturers?",
+            "How does the presence of multiple car makers in a single country impact the competition and innovation in the car model list available?",
+            "What is the significance of the country of origin for car makers in determining the market success of their models?",
+            "How do the characteristics of car models differ between makers from countries with varying levels of automotive industry development?",
+            "What factors influence the relationship between car makers and the countries they operate in, particularly in terms of model diversity and market reach?"
         ]
     },
     {
@@ -117,16 +117,16 @@
             "3a92e49624e82144c8636927f79c3f91235b1a1d08e45b5de271a84a6d4193a9"
         ],
         "question_list": [
-            "What is the relationship between the districts and the stores located within them, and how does this affect the distribution of products across different districts?",
-            "How many products are available in stores located in the district with the highest number of stores, and what are the respective product IDs?",
-            "What are the product offerings in the store located in the district with the lowest number of stores, and how do these products compare to those in other districts?",
-            "How does the number of products available in stores correlate with the number of stores in each district, particularly in the district with the highest product variety?",
-            "What is the distribution of product IDs across stores in the district that has the most diverse range of products, and how does this compare to other districts?",
-            "How do the product offerings in stores relate to the overall number of stores in the district with the largest area, and what implications does this have for product availability?",
-            "What patterns can be observed in the product distribution among stores in districts with similar store counts, and how do these patterns affect consumer choice?",
-            "How does the presence of multiple stores in a district influence the variety of products available, particularly in districts with a high density of stores?",
-            "What is the significance of the store district relationships in determining the product availability in stores, and how does this impact sales?",
-            "How do the product offerings in stores across different districts reflect the demographic and economic characteristics of those districts?"
+            "How many products are available in stores located in each district, and what is the distribution of these products across different districts?",
+            "What is the relationship between the number of stores in a district and the variety of products they offer, and how does this vary across different districts?",
+            "Which districts have the highest and lowest number of stores, and how does this correlate with the total number of products available in those districts?",
+            "How do the product offerings in stores compare between districts with a high concentration of stores versus those with fewer stores?",
+            "What is the average number of products per store in each district, and how does this average differ among districts with varying store counts?",
+            "How does the product availability in stores relate to the overall number of stores in a district, and what trends can be observed from this data?",
+            "Which products are most commonly found in stores across different districts, and how does this reflect the demographics of those districts?",
+            "How do the characteristics of districts with a high number of stores influence the types of products available in those stores?",
+            "What patterns emerge when comparing the product diversity in stores located in districts with similar store counts?",
+            "How does the distribution of products in stores relate to the geographic layout of districts, and what implications does this have for consumer access?"
         ]
     },
     {
@@ -135,16 +135,16 @@
             "6bc4e83f039aa281e23d3cde4556cdd32d9166593dc382cdcf0d50898a5c5fa4"
         ],
         "question_list": [
-            "What are the names of the TV series that are broadcasted on the channel with the highest number of shows, and how do their viewer ratings compare?",
-            "Which TV channel has the most diverse range of TV series genres, and what are the titles of those series?",
-            "How does the average viewer rating of TV series on the channel with the most shows compare to that of the channel with the least shows?",
+            "What are the different TV series that air on the channel with the highest number of shows, and how do their viewer ratings compare?",
+            "Which TV channel features the most popular TV series, and what are the respective viewer ratings for these series?",
+            "How many TV series are associated with the channel that has the lowest viewer ratings, and what are the titles of those series?",
             "What is the relationship between the number of TV series aired on a channel and the average viewer ratings of those series?",
-            "Which TV series on the channel with the highest viewer ratings has the longest runtime, and how does its popularity compare to other series on the same channel?",
-            "How do the viewer ratings of TV series on the channel with the most popular show compare to those on other channels?",
-            "What are the titles of the TV series that have been canceled on the channel with the highest number of series, and what were their average viewer ratings before cancellation?",
-            "How does the genre distribution of TV series on the channel with the most series differ from that of the channel with the least series?",
-            "What is the impact of the channel's branding on the viewer ratings of its TV series, particularly for the top-rated series?",
-            "How do the viewer ratings of TV series on the channel with the most critically acclaimed shows compare to those on channels with more mainstream programming?"
+            "Which TV series are broadcast on the channel that has the highest viewer ratings, and how do these series rank in terms of popularity?",
+            "How does the viewer rating of the most popular TV series compare to the average viewer rating of all series aired on the same channel?",
+            "What are the titles of the TV series that are aired on the channel with the most diverse programming, and how do their ratings reflect this diversity?",
+            "How many TV series are linked to the channel with the highest number of unique shows, and what are their respective viewer ratings?",
+            "What is the impact of channel popularity on the viewer ratings of the TV series it broadcasts, particularly for the top-rated series?",
+            "How do the viewer ratings of TV series on the channel with the most shows compare to those on the channel with the least shows?"
         ]
     },
     {
@@ -154,16 +154,16 @@
             "15f57d670e01cf1ad3d4c7d1e191a36fa5277e1e1651e825219e363099f39aeb"
         ],
         "question_list": [
-            "What are the different document types associated with grants that have the highest number of documents, and how do these document types vary in terms of their metadata information?",
-            "How many documents are linked to each grant, and what document types are most commonly associated with grants that have the largest metadata entries?",
-            "What is the relationship between the types of documents and the number of grants they are associated with, particularly focusing on the document types that have the most entries?",
-            "How do the metadata details of documents compare across different document types for grants that have been awarded in the last year?",
-            "Which grant has the highest number of associated documents, and what are the document types of these documents?",
-            "How does the distribution of document types vary among grants that have received funding, and what does this indicate about the types of research being conducted?",
-            "What are the common metadata characteristics of documents associated with grants that have the most diverse document types?",
-            "How do the document types correlate with the number of documents for grants that have been awarded in specific research fields?",
-            "What is the significance of the document type codes in understanding the types of documents associated with various grants, and how does this affect grant tracking?",
-            "How do the metadata attributes of documents differ between grants that have received funding and those that have not, particularly in terms of document types?"
+            "What are the different document types associated with grants that have the highest funding amounts, and how do these document types vary across different grants?",
+            "How many documents are linked to each grant type, and what is the relationship between the number of documents and the total funding received by those grants?",
+            "What is the distribution of document types for grants that have been awarded in the last five years, and how does this compare to older grants?",
+            "How do the document types associated with grants impact the approval process, and what trends can be observed in the types of documents submitted?",
+            "What is the average number of documents per grant for each document type, and how does this average differ among grants of varying sizes?",
+            "How does the type of document submitted correlate with the success rate of grants, and what insights can be drawn from this relationship?",
+            "What are the most common document types for grants that have received the least funding, and how do these document types compare to those of higher-funded grants?",
+            "How do the metadata details of documents relate to the types of grants they are associated with, and what patterns emerge from this analysis?",
+            "What is the relationship between the number of document types and the complexity of the grants, and how does this affect the overall grant management process?",
+            "How do the document types required for grants differ based on the funding agency, and what implications does this have for grant applicants?"
         ]
     },
     {
@@ -172,16 +172,16 @@
             "32fddcacdb65c3460e8d4d9736ed78e5e955c2bada9590bb9151ce8699c45c74"
         ],
         "question_list": [
-            "What is the total number of bookings for each drama workshop group, and how does this number compare across different groups?",
-            "How do the metadata details of the bookings relate to the specific drama workshop groups, and what insights can be drawn from this relationship?",
-            "Which drama workshop group has the highest number of bookings, and what are the characteristics of that group based on the metadata information?",
-            "How does the id of each booking correspond to the drama workshop group it is associated with, and what patterns can be observed in this correlation?",
-            "What are the differences in the cell details of bookings across various drama workshop groups, and how do these differences reflect the popularity of each group?",
-            "How do the metadata attributes of the bookings enhance the understanding of the drama workshop groups they are linked to?",
-            "What trends can be identified in the booking patterns for different drama workshop groups based on their respective ids?",
-            "How does the relationship between booking ids and workshop group ids inform the overall management of drama workshop groups?",
-            "What insights can be gained from analyzing the header information of bookings in relation to the drama workshop groups they belong to?",
-            "How do the characteristics of the drama workshop groups influence the number and type of bookings they receive, as indicated by the metadata?"
+            "What is the relationship between the number of bookings and the different drama workshop groups, and how does this reflect the popularity of each group?",
+            "How do the metadata details of the bookings correlate with the specific drama workshop groups, particularly in terms of participant demographics?",
+            "What insights can be drawn from the metadata info regarding the types of drama workshop groups that receive the most bookings?",
+            "How does the id of each booking relate to the corresponding drama workshop group, and what patterns can be observed in the booking trends?",
+            "What are the common characteristics of the drama workshop groups that have the highest number of bookings, based on the metadata provided?",
+            "How do the headers in the bookings table compare to those in the drama workshop groups table, and what implications does this have for data consistency?",
+            "What trends can be identified in the bookings data when analyzed alongside the metadata info of the drama workshop groups?",
+            "How does the cell data in the bookings table reflect the engagement levels of different drama workshop groups?",
+            "What factors might influence the number of bookings for each drama workshop group, as indicated by the metadata and id relationships?",
+            "How do the workshop group ids in the bookings table help in understanding the overall performance of the drama workshop groups?"
         ]
     }
 ]

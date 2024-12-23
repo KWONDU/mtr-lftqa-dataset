@@ -1,20 +1,190 @@
 [
     {
         "gold_table_id_set": [
-            "99065fce0a33f31d4cceb1adb7b5be5104dd5a66d72a60e197b5a2c6e0ef9149",
-            "2713c4aaa12814b39b60308f4ac80e8b8d240060a543d2f848e1afeacd9b2efa"
+            "19fcecd14600def76b321995a04f9c6ed423a5cf1fc33f42b8e4de6ddfde842b",
+            "74a6694153b419d7612c6fb2aa609cf470b7e6fac81b8084c7669e2e287133cc"
         ],
         "question_list": [
-            "How do the average scores of the top three couples in Dancing with the Stars (U.S. season 7) compare to those in season 8, and what factors might have contributed to any differences observed in their performances?",
-            "Analyze the relationship between the number of dances performed and the average scores achieved by couples in Dancing with the Stars (U.S. season 7 and season 8). What trends can be identified regarding consistency and performance?",
-            "What patterns can be observed in the placement of couples across both seasons of Dancing with the Stars (U.S. season 7 and season 8), and how might these placements reflect the competitive dynamics of the show?",
-            "Compare the total points earned by the top-ranked couples in Dancing with the Stars (U.S. season 7) and season 8. What insights can be drawn about the scoring system and its impact on the overall competition?",
-            "How does the average score of the couples who finished in the bottom three positions in Dancing with the Stars (U.S. season 7) compare to those in season 8, and what might this suggest about the level of competition in each season?",
-            "Summarize the performance trends of couples who participated in both seasons of Dancing with the Stars (U.S. season 7 and season 8). How did their average scores and placements change between the two seasons?",
-            "What can be inferred about the impact of the number of dances on the average scores of couples in Dancing with the Stars (U.S. season 7 and season 8), and how might this influence the strategies of future contestants?",
-            "Analyze the distribution of average scores among couples in Dancing with the Stars (U.S. season 7 and season 8). What does this distribution reveal about the overall competitiveness of each season?",
-            "How do the rankings by average score in Dancing with the Stars (U.S. season 7) compare to those in season 8, and what might this indicate about the evolution of the competition over the two seasons?",
-            "Discuss the significance of the average scores achieved by couples in Dancing with the Stars (U.S. season 7 and season 8) in relation to their overall placements. How do these scores reflect the judges' scoring tendencies and audience reception?"
+            "How did the attendance figures for the 1985 New England Patriots season compare to those of the 2002 New England Patriots season, and what might these differences indicate about fan engagement during those years?",
+            "Analyze the results of the games played against the Green Bay Packers and Miami Dolphins in both the 1985 and 2002 New England Patriots seasons. What trends can be observed in the outcomes of these matchups?",
+            "Summarize the weekly performance of the 1985 New England Patriots season and the 2002 New England Patriots season, focusing on how their records evolved week by week throughout the regular season.",
+            "Compare the game sites used by the 1985 New England Patriots and the 2002 New England Patriots during their regular seasons. How did the choice of home and away games impact their overall performance?",
+            "What patterns can be observed in the scheduling of opponents for the 1985 and 2002 New England Patriots seasons, and how might these patterns have influenced the teams' records?",
+            "How did the attendance at home games for the 1985 New England Patriots season compare to that of the 2002 New England Patriots season, and what factors might have contributed to any significant differences?",
+            "Examine the results of the games played against the Buffalo Bills and New York Jets in both the 1985 and 2002 New England Patriots seasons. What insights can be drawn from the performance against these division rivals?",
+            "How did the overall win-loss records of the 1985 New England Patriots season and the 2002 New England Patriots season reflect their performance trends throughout the regular season, and what implications might this have for their playoff prospects?",
+            "What were the key differences in the game results for the 1985 New England Patriots season compared to the 2002 New England Patriots season, particularly in terms of close games and blowouts?",
+            "Analyze the significance of the week-by-week results for both the 1985 and 2002 New England Patriots seasons. How did the outcomes of early games influence the teams' momentum as the seasons progressed?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "9e9b6136e655c8e10ff6f800a9b762c81eeba8de2ab2d0f065c03bdcc7644599",
+            "6a31edf8163ca17079740c1cb32e8523b1a90c16620307d3cbecda227ab013a5",
+            "304b0feb8d9e527d23df2f63f81297549411a9eef33a4c2257d76da417c966f1"
+        ],
+        "question_list": [
+            "How many spaceflight launches were conducted by each country listed in the 2010 in spaceflight tables, and what were the success rates for these launches across Europe, India, Japan, China, and the United States?",
+            "Analyze the performance of spaceflight launches in 2010 by comparing the number of successes and failures for each country in the 2010 in spaceflight tables. What insights can be drawn from these comparisons?",
+            "What trends can be observed in the number of launches and successes for the countries involved in spaceflight in 2010, specifically focusing on Europe, India, Japan, China, and the United States, as presented in the 2010 in spaceflight tables?",
+            "How do the failure rates of spaceflight launches in 2010 differ among the countries listed in the 2010 in spaceflight tables, and what might these differences indicate about the reliability of their space programs?",
+            "Summarize the overall success and failure statistics for spaceflight launches in 2010 by country, as detailed in the 2010 in spaceflight tables. Which country had the highest success rate, and what factors might contribute to this?",
+            "Compare the number of partial failures reported in the 2010 in spaceflight tables for each country. How do these partial failures impact the overall assessment of each country's spaceflight capabilities?",
+            "What can be inferred about the relationship between the number of launches and the success rates for the countries involved in spaceflight in 2010, particularly focusing on the data from the 2010 in spaceflight tables?",
+            "How does the distribution of launches, successes, and failures among the countries in the 2010 in spaceflight tables reflect the advancements in space technology and exploration efforts during that year?",
+            "Analyze the implications of the launch statistics for each country in the 2010 in spaceflight tables. How might these statistics influence future space exploration policies and international collaborations?",
+            "What patterns emerge when examining the overall performance of spaceflight by type and family in the 2010 in spaceflight tables, and how do these patterns correlate with the performance of individual countries?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "d5caca62544b753fc0b0283aaade5b1695007a5a5cb04adf222885fdcf98bd66",
+            "4ba5bdb63a0b3b3a8900ec740de0d9c2ae21199aece099ae7f577e0272fba5f5",
+            "b9aecb26de06b9ce7db2e3ddbd584ab79aaab33f98b94d1593b8379ca12d80a7",
+            "4b6ef8caaed51833e747be37d0dd8105e284f96baa8bf30eb935544db303e4c4"
+        ],
+        "question_list": [
+            "How many championships did Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia win across the Big 12 Conference in baseball, men's basketball, women's tennis, and wrestling, and what does this reveal about their overall performance in these sports?",
+            "Analyze the distribution of tournament appearances for Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in the Big 12 Conference across baseball, men's basketball, women's tennis, and wrestling. How does this distribution reflect the competitive landscape of these sports within the conference?",
+            "Compare the total number of championships won by each team (Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia) in the Big 12 Conference across baseball, men's basketball, women's tennis, and wrestling. What trends can be observed in their championship success?",
+            "What insights can be drawn from the number of tournament appearances (0 or 1) for Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in the Big 12 Conference across baseball, men's basketball, women's tennis, and wrestling, and how might this impact their recruitment and development strategies?",
+            "Summarize the historical performance of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in the Big 12 Conference by examining their total championship titles in baseball, men's basketball, women's tennis, and wrestling. How does this historical context inform their current standing in collegiate athletics?",
+            "How do the championship titles in baseball, men's basketball, women's tennis, and wrestling for Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia compare in terms of frequency and significance within the Big 12 Conference, and what implications does this have for their athletic programs?",
+            "What patterns can be observed in the success rates of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in the Big 12 Conference across the different sports of baseball, men's basketball, women's tennis, and wrestling, and how might these patterns influence future competition?",
+            "Discuss the implications of having a total of 0 or 1 tournament appearances for teams like Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in the Big 12 Conference. How might this affect their visibility and funding in collegiate athletics?",
+            "How does the performance of Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in the Big 12 Conference across baseball, men's basketball, women's tennis, and wrestling reflect broader trends in collegiate sports, particularly in terms of regional competitiveness and institutional support?",
+            "Evaluate the significance of the total championship titles won by Iowa State, Missouri, Nebraska, Oklahoma, Oklahoma State, and West Virginia in the Big 12 Conference across baseball, men's basketball, women's tennis, and wrestling. How do these titles contribute to the identity and legacy of each institution within the conference?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "9e591a6432e78b40396c2983900f838140cf28aebb73fa37039664fcf9ec9998",
+            "cb2b2ce6eec77de763261741cdc22c99d9c995b49d96a62e34640c661ebc620b",
+            "e2fd75458ec1df63cdf0e6c0d0d85e884531c3827da3f3e351f2031228fe5b20"
+        ],
+        "question_list": [
+            "Analyze the election results for the incumbents in the United States House of Representatives elections in Mississippi across 1948, 1952, and 1958. How did the incumbents' party affiliations influence their re-election outcomes during these years?",
+            "Compare the candidates who ran against Jamie L. Whitten in the United States House of Representatives elections in Mississippi from 1948 to 1958. What trends can be observed regarding the competitiveness of these elections?",
+            "Summarize the historical context of the United States House of Representatives elections in Mississippi during the years 1948, 1952, and 1958. How did the political landscape in Mississippi evolve during this period, particularly concerning party dominance?",
+            "How did the results of the United States House of Representatives elections in Mississippi reflect the broader national political trends of the late 1940s and 1950s? Discuss the implications of these results on the Democratic Party's strength in the region.",
+            "Examine the significance of the incumbency of Jamie L. Whitten in the United States House of Representatives elections in Mississippi. What factors contributed to his unopposed status in the elections, and how does this reflect on voter sentiment during that era?",
+            "What patterns can be identified in the party affiliations of candidates in the United States House of Representatives elections in Mississippi from 1948 to 1958? How did these patterns correlate with the election results and the political climate of the time?",
+            "Discuss the impact of the First_elected year of incumbents on their electoral success in the United States House of Representatives elections in Mississippi. How did the experience of incumbents like Jamie L. Whitten influence their re-election campaigns?",
+            "Analyze the distribution of election results across the different districts in Mississippi during the United States House of Representatives elections in 1948, 1952, and 1958. What insights can be drawn about voter preferences and district dynamics during this period?",
+            "How did the candidates' backgrounds and political experience influence their chances of success in the United States House of Representatives elections in Mississippi from 1948 to 1958? Provide examples from the election data.",
+            "Evaluate the role of voter turnout and engagement in the United States House of Representatives elections in Mississippi during the years 1948, 1952, and 1958. What factors may have influenced voter participation, and how did this impact the election outcomes?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "9413db585db2b1856c8a0e9aea8fab828ae64a1880a5352a5cbb8e01c293ca7c",
+            "4229659cda9d4355c078f427668ba3c2146fdb0c8e241ed2bde2a7932608010b"
+        ],
+        "question_list": [
+            "How do the age distributions of contestants from Miss International 2009 and Reinado Internacional del Caf\u00e9 2008 compare, and what might this suggest about the age preferences in beauty pageants?",
+            "Analyze the height variations among contestants from Argentina, Brazil, and Colombia in both Miss International 2009 and Reinado Internacional del Caf\u00e9 2008. What trends can be observed regarding the average height of contestants from these countries?",
+            "What are the common hometowns of contestants in Miss International 2009 and Reinado Internacional del Caf\u00e9 2008, and how might these locations influence the cultural representation in each pageant?",
+            "Compare the representation of contestants from Central America in Miss International 2009 and Reinado Internacional del Caf\u00e9 2008. Which countries are represented, and what might this indicate about the popularity of beauty pageants in that region?",
+            "How do the contestant ages in Miss International 2009 and Reinado Internacional del Caf\u00e9 2008 reflect the typical age range for participants in international beauty pageants, and what implications does this have for the perception of youth in these competitions?",
+            "Summarize the contestants from Canada and Germany in both Miss International 2009 and Reinado Internacional del Caf\u00e9 2008. What similarities and differences can be identified in their profiles, including age, height, and hometown?",
+            "What patterns can be observed in the height of contestants from the Dominican Republic and El Salvador in Miss International 2009 and Reinado Internacional del Caf\u00e9 2008, and how might these patterns reflect cultural beauty standards in these countries?",
+            "How does the representation of contestants from South American countries in Miss International 2009 and Reinado Internacional del Caf\u00e9 2008 compare, and what might this suggest about the regional focus of these pageants?",
+            "Analyze the significance of contestant backgrounds, such as age and height, in shaping the overall image and branding of Miss International 2009 and Reinado Internacional del Caf\u00e9 2008. How do these factors contribute to the perception of each pageant?",
+            "What insights can be drawn from the contestant demographics, including country representation and age, in Miss International 2009 and Reinado Internacional del Caf\u00e9 2008, regarding the evolving trends in international beauty pageants?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "ae28425575d3552debb739ea1868bd0270a65545260a85908e22df53a8dd9934",
+            "83b5f0e88e9fad0fd3734aa4eab771af15eaa134bef42bfa8ad4e0c9f1671c59",
+            "4fd4549ee11ed84c3f4702ed552f1ce24edcaafcf9321d0e1640f7932b362cfa",
+            "f517ce4c58ad889e86c64fc94d8ec700d550b54af509dfbf87c675baad95fa17"
+        ],
+        "question_list": [
+            "Analyze the performance of Chanelle Scheepers, Galina Voskoboeva, Rui Machado, and Yuliya Beygelzimer in the Grand Slam tournaments (Australian Open, French Open, Wimbledon, US Open) from 2004 to 2012. What trends can be observed in their singles performance timelines across these tournaments?",
+            "Compare the singles performance of Chanelle Scheepers and Galina Voskoboeva at the Australian Open from 2004 to 2012. What factors might have contributed to their respective performances in this tournament over the years?",
+            "Summarize the key achievements of Rui Machado and Yuliya Beygelzimer in the French Open from 2004 to 2012. How do their performances in this tournament reflect their overall career trajectories in singles tennis?",
+            "What patterns can be identified in the Wimbledon performances of Chanelle Scheepers, Galina Voskoboeva, Rui Machado, and Yuliya Beygelzimer from 2004 to 2012? How do these patterns compare to their performances in other Grand Slam tournaments?",
+            "Explain the significance of the US Open in the singles performance timelines of Chanelle Scheepers, Galina Voskoboeva, Rui Machado, and Yuliya Beygelzimer. How did their results in this tournament impact their rankings and careers?",
+            "How did the singles performance of each player in the year 2008 (notably marked by the letter \"A\") differ from their performances in previous years? What might this indicate about their development as players during that time?",
+            "Compare the overall singles performance trends of Chanelle Scheepers and Yuliya Beygelzimer across all tournaments from 2004 to 2012. What insights can be drawn about their playing styles and adaptability in different tournament conditions?",
+            "Analyze the impact of tournament conditions (e.g., surface type, location) on the singles performance of Rui Machado and Galina Voskoboeva in the Grand Slam tournaments from 2004 to 2012. How did these factors influence their results?",
+            "What can be inferred about the competitive landscape of women's and men's singles tennis based on the performance timelines of Chanelle Scheepers, Galina Voskoboeva, Rui Machado, and Yuliya Beygelzimer from 2004 to 2012? How do their results reflect broader trends in the sport?",
+            "Discuss the evolution of singles performance for each player across the years 2004 to 2012. How did their experiences in major tournaments like the Australian Open, French Open, Wimbledon, and US Open shape their careers and future performances?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "bbfdebb9362c0b4527d89994b308792e803dab4773b53549e8f26c38aa08f057",
+            "d3c254d4a97010e9ea8f93e0b35c9b550d9062b82f88fe25bea6da00ae536406"
+        ],
+        "question_list": [
+            "How do the rankings of the top players in the 1993 and 1994 FIFA World Player of the Year awards compare, and what factors might have influenced their respective rankings in these two years?",
+            "Analyze the performance of Roberto Baggio in the 1993 and 1994 FIFA World Player of the Year awards. What were his rankings and points in each year, and how did his performance with Juventus FC and the Italian national team contribute to his recognition?",
+            "Compare the national representation of players in the 1993 and 1994 FIFA World Player of the Year awards. How many players from Brazil, Italy, the Netherlands, and Bulgaria were recognized, and what does this suggest about the footballing prowess of these countries during that period?",
+            "What trends can be observed in the teams represented by the top-ranked players in the 1993 and 1994 FIFA World Player of the Year awards? Specifically, how did clubs like Juventus FC and FC Barcelona influence the rankings of their players?",
+            "Summarize the key differences in the scoring points of the top players in the 1993 and 1994 FIFA World Player of the Year awards. What might these differences indicate about the competitive landscape of international football during those years?",
+            "How did the presence of players like Romario and Bebeto in the 1994 FIFA World Player of the Year awards reflect the impact of Brazilian football on the global stage, and what were their respective contributions to their teams?",
+            "What can be inferred about the evolution of player recognition in the FIFA World Player of the Year awards from 1993 to 1994, particularly in terms of the diversity of teams and countries represented among the top-ranked players?",
+            "Analyze the significance of the rankings of players from different countries in the 1993 and 1994 FIFA World Player of the Year awards. How did the performance of these players in international competitions influence their rankings?",
+            "How do the rankings and points of the top players in the 1993 FIFA World Player of the Year awards compare to those in 1994, and what might this suggest about the changing dynamics of player performance and recognition in international football?",
+            "Discuss the implications of the overlapping rankings in the 1993 and 1994 FIFA World Player of the Year awards. How do these rankings reflect the consistency or fluctuation in player performance over the two years?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "0a65dcf37c914890796c2f8ad418e93445803cb905a1616cb3b23d72e98d8750",
+            "156b5d761282ff56060b08afedb3500c780ba01044cc01249cfb632cb5d80350"
+        ],
+        "question_list": [
+            "How many players were drafted from Florida in the 2002 and 2004 NFL Drafts by the Jacksonville Jaguars, and what positions did they play? Summarize the basic information of these players.",
+            "Compare the overall draft positions of the Jacksonville Jaguars' picks in the 2002 and 2004 NFL Drafts. What trends can be observed in their drafting strategy over these two years?",
+            "Analyze the distribution of positions selected by the Jacksonville Jaguars in the 2002 and 2004 NFL Drafts. Which positions were prioritized, and how does this reflect the team's needs during those seasons?",
+            "What were the highest and lowest overall draft picks for the Jacksonville Jaguars in the 2002 and 2004 NFL Drafts, and what impact did these players have on their respective seasons?",
+            "How did the number of draft picks in each round for the Jacksonville Jaguars differ between the 2002 and 2004 NFL Drafts, and what might this suggest about their overall strategy in building the team?",
+            "Summarize the key differences in the Jacksonville Jaguars' draft selections between the 2002 and 2004 NFL Drafts, focusing on the colleges attended by the drafted players and how this might reflect recruitment strategies.",
+            "What patterns can be observed in the round distribution of the Jacksonville Jaguars' draft picks in the 2002 and 2004 NFL Drafts, and how might these patterns indicate the team's approach to talent acquisition?",
+            "How do the positions of players drafted by the Jacksonville Jaguars in the 2002 NFL Draft compare to those drafted in the 2004 NFL Draft, and what implications might this have for the team's performance in those seasons?",
+            "Analyze the significance of the overall draft picks for the Jacksonville Jaguars in the 2002 and 2004 NFL Drafts. How did these selections contribute to the team's roster and performance in the respective seasons?",
+            "What can be inferred about the Jacksonville Jaguars' focus on specific player positions in the 2002 and 2004 NFL Drafts, and how does this reflect the evolving needs of the team during those years?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "1e25af6214457020165e19fd8903f204b3b7dfec11b0b1624659ba7b497c8cf4",
+            "1319dfc27714da70a07702c50de643065fce61c2f1b9c58462c048679d34293d",
+            "711ac43ef1cd78ba353bfddba37986ed8a15b6dc8fe17fae0e1d9a3dbe49f711"
+        ],
+        "question_list": [
+            "Analyze the incumbents for the United States House of Representatives elections in Georgia during 1936, 1942, and 1944. How did their party affiliations and election results reflect the political landscape of Georgia during this period?",
+            "Compare the election results for the Georgia districts in the United States House of Representatives elections of 1936, 1942, and 1944. What trends can be observed in terms of party dominance and candidate competitiveness across these elections?",
+            "Summarize the candidates who ran in the United States House of Representatives elections for Georgia's districts in 1936, 1942, and 1944. How did the presence of unopposed candidates, such as Stephen Pace and Carl Vinson, influence the electoral outcomes in their respective districts?",
+            "What can be inferred about the historical significance of the incumbents who were first elected in 1914, 1924, and 1934 in the context of the United States House of Representatives elections in Georgia? How did their tenures impact subsequent elections in 1936, 1942, and 1944?",
+            "Examine the distribution of party affiliations among the incumbents in the United States House of Representatives elections in Georgia from 1936 to 1944. How did the Democratic Party's dominance shape the political dynamics within the state during this time?",
+            "How did the results of the United States House of Representatives elections in Georgia reflect broader national trends in voter behavior and party alignment during the 1930s and early 1940s?",
+            "Investigate the significance of the Georgia 1, Georgia 2, Georgia 3, Georgia 6, and Georgia 8 districts in the context of the United States House of Representatives elections from 1936 to 1944. What unique characteristics or electoral patterns can be identified in these districts?",
+            "Discuss the implications of incumbents being re-elected in the United States House of Representatives elections in Georgia during 1936, 1942, and 1944. What factors contributed to their electoral success, and how did this affect the political stability in their districts?",
+            "Analyze the impact of the candidates' backgrounds and political experience on the outcomes of the United States House of Representatives elections in Georgia from 1936 to 1944. How did their previous electoral history influence voter perceptions and election results?",
+            "What role did the timing of the elections in Georgia (1936, 1942, and 1944) play in shaping the political narratives and campaign strategies of the candidates? How did external factors, such as the Great Depression and World War II, influence voter sentiment and election outcomes?"
+        ]
+    },
+    {
+        "gold_table_id_set": [
+            "b48cb52d19dd734885bad7e3d038560fcac1f84d66d778bf3f2723e9e021520c",
+            "0f0da97e21cd812c44ab4fd0a841f84642128eb69ca19dc198a08e7710d3385b",
+            "0ffcf268ffa58e424b61af336091f8ef4eae9482dc270af9c701f946ef835f24"
+        ],
+        "question_list": [
+            "How do the performance metrics, including Rank and Points, compare among Andrea Montermini, Roberto Guerrero, and Tony Kanaan in CART, and what might these differences indicate about their respective racing strategies?",
+            "Summarize the team affiliations and chassis used by Andrea Montermini, Roberto Guerrero, and Tony Kanaan in CART, and analyze how these factors may have influenced their performance during the racing seasons.",
+            "What trends can be observed in the engine types utilized by Andrea Montermini, Roberto Guerrero, and Tony Kanaan in CART, and how might these engine choices have impacted their overall rankings and points accumulation?",
+            "How does the year-by-year performance of Andrea Montermini, Roberto Guerrero, and Tony Kanaan in CART reflect changes in team dynamics and technological advancements in chassis and engine design?",
+            "Compare the points distribution for Andrea Montermini, Roberto Guerrero, and Tony Kanaan in CART, and discuss how their rankings correlate with their respective racing teams' strategies and resources.",
+            "What can be inferred about the competitive landscape of CART based on the performance of Andrea Montermini, Roberto Guerrero, and Tony Kanaan, particularly in terms of their rankings and points over the seasons?",
+            "Analyze the relationship between the chassis and engine specifications of Andrea Montermini, Roberto Guerrero, and Tony Kanaan in CART, and how these technical choices may have influenced their racing outcomes.",
+            "How do the racing records of Andrea Montermini, Roberto Guerrero, and Tony Kanaan in CART illustrate the evolution of driver performance in relation to team support and engineering advancements?",
+            "What insights can be drawn from the comparison of Rank and Points among Andrea Montermini, Roberto Guerrero, and Tony Kanaan in CART, particularly regarding the consistency of their performances across different seasons?",
+            "Discuss the implications of the year-by-year performance data for Andrea Montermini, Roberto Guerrero, and Tony Kanaan in CART, focusing on how their individual achievements contribute to the overall narrative of CART racing history."
         ]
     }
 ]
