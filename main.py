@@ -241,7 +241,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-d', type=str, required=True, choices=['SourceOpenWikiTable', 'SourceSpiderTableQA'], help='dataset name')
     parser.add_argument('-n', type=int, required=True, help='number of sampled data')
-    parser.add_argument('-ex', type=str, required=True, choices=['T', 'F'], help='example data')
 
     args, _ = parser.parse_known_args()
     logger.info(args)
@@ -265,29 +264,22 @@ if __name__ == '__main__':
     source_dataset = load_source_dataset(dataset_name=args.d)
 
     table_lake = {tb['id']: tb for tb in source_dataset.tables}
-
-    if args.ex == 'T':
-        instance_set = [
-            instance for instance in source_dataset
-            if instance['gold_table_id_set'] == [
-                '99065fce0a33f31d4cceb1adb7b5be5104dd5a66d72a60e197b5a2c6e0ef9149',
-                '2713c4aaa12814b39b60308f4ac80e8b8d240060a543d2f848e1afeacd9b2efa'
-            ]
-        ]
-    else:
+    if args.n > 0:
         random.seed(42)
         instance_set = random.sample(source_dataset[:], args.n)
+    else:
+        instance_set = source_dataset[:]
     
     MODEL_NAME = 'gpt-4o-mini'
-    BATCH_SIZE = 50
+    BATCH_SIZE = 250
 
     CLASS = {
         'SourceOpenWikiTable': 'high_header_sim',
         'SourceSpiderTableQA': 'low_header_sim'
     }
     
-    FLAG = [None, None, True, True, True, True, True, True]
-    # FLAG = [None, None, False, False, False, True, True, True]
+    # FLAG = [None, None, True, True, True, True, True, True]
+    FLAG = [None, None, False, False, False, False, False, False]
 
     main(
         table_lake=table_lake,

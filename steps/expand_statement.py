@@ -157,7 +157,7 @@ def expand_statement(
                 model_input.append({
                     'df_caption': joined_table_metadata,
                     'df_columns': joined_table['header'],
-                    'df_first_row': joined_table['cell'][0],
+                    'df_first_row': joined_table['cell'][0] if joined_table['cell'] != [] else [],
                     'sql_query': data['sql_query'],
                     'statement': data['statement'],
                     'key': (idx, jdx),
