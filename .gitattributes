@@ -1,0 +1,10 @@
+results/storage/low_header_sim/table_document_set.json filter=lfs diff=lfs merge=lfs -text
+results/storage/high_header_sim/high_level_qa_pair_set.json filter=lfs diff=lfs merge=lfs -text
+results/storage/high_header_sim/high_level_qa_pair_set_with_validation.json filter=lfs diff=lfs merge=lfs -text
+results/storage/high_header_sim/high_level_question_set.json filter=lfs diff=lfs merge=lfs -text
+results/storage/low_header_sim/high_level_qa_pair_set_with_validation.json filter=lfs diff=lfs merge=lfs -text
+results/storage/low_header_sim/high_level_question_set.json filter=lfs diff=lfs merge=lfs -text
+results/storage/low_header_sim/relevant_data_set.json filter=lfs diff=lfs merge=lfs -text
+results/storage/high_header_sim/relevant_data_set.json filter=lfs diff=lfs merge=lfs -text
+results/storage/high_header_sim/table_document_set.json filter=lfs diff=lfs merge=lfs -text
+results/storage/low_header_sim/high_level_qa_pair_set.json filter=lfs diff=lfs merge=lfs -text
