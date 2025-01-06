@@ -133,4 +133,4 @@
 
 ## 4. Visualize dataset
 
-    https://kwondu.github.io/mtr-lftqa-dataset-viewer/
+    https://kwondu.github.io/mt-raig/view/
