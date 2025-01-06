@@ -1,7 +1,5 @@
 # README
 
-![Main](results/main.png)
-
 ## Package 'utils'
 
     utils
@@ -90,8 +88,6 @@
     print(len(source_dataset)) # return total instance set size
 
 ### 2.3 Original dataset configuration (Don't need to use)
-
-![Stats](results/original_dataset_statistics.png)
 
     original_dataset
         .download_type # [str] huggingface or local
